@@ -6,7 +6,7 @@ plano y ordenadas con nombres claros, para leerlas, buscarlas y analizarlas con 
 | | |
 |---|---|
 | Decisiones | 1.130 (1991–2026), todas con su texto completo en español |
-| Archivos de texto | 1322 (textos, fe de erratas, anexos y planillas) |
+| Archivos de texto | 1.322 (textos, fe de erratas, anexos y planillas) |
 | Notas y decretos de incorporación de Paraguay | 24 |
 | Índice | [`indice_decisiones.csv`](indice_decisiones.csv) y [`indice_decisiones.xlsx`](indice_decisiones.xlsx) |
 
