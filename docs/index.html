@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Consultas sobre normas del MERCOSUR</title>
+<meta name="description" content="Preguntale a un asistente sobre las decisiones del Consejo del Mercado Común del MERCOSUR (1991–2026). Responde solo con el texto de las normas y cita la fuente.">
+<link rel="icon" href="logo.svg" type="image/svg+xml">
+<link rel="canonical" href="https://silvia-mov.github.io/normativa-mercosur/">
+<meta property="og:title" content="Consultas sobre normas del MERCOSUR">
+<meta property="og:description" content="Asistente que responde solo con el texto de las decisiones del CMC y cita la fuente.">
+<style>
+:root { --bg:#fffafb; --panel:#ffffff; --text:#1d1a1c; --text2:#5c5459; --line:#f3dde4; --accent:#1f7f68;
+  --btn:#39b89a; --btntext:#08261f; --yo:#fec9d7; --yotext:#4a1626; --bot:#eefaf6; --pink:#ff5883; --hero1:#b9eee1; --hero2:#fec9d7; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg:#161314; --panel:#201b1d; --text:#f5eef1; --text2:#bfb3b8; --line:#3a2f33; --accent:#79d3be;
+  --yo:#4a2632; --yotext:#ffd9e3; --bot:#17302a; --hero1:#123a31; --hero2:#3d1a26; } }
+:root[data-theme="dark"] { --bg:#161314; --panel:#201b1d; --text:#f5eef1; --text2:#bfb3b8; --line:#3a2f33; --accent:#79d3be;
+  --yo:#4a2632; --yotext:#ffd9e3; --bot:#17302a; --hero1:#123a31; --hero2:#3d1a26; }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--text); font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; }
+.wrap { max-width:820px; margin:0 auto; padding:0 16px; }
+header { background:linear-gradient(120deg,var(--hero1),var(--hero2)); padding:28px 0 22px; }
+.marca { display:flex; gap:14px; align-items:center; }
+.marca img { width:64px; height:64px; flex:none; }
+h1 { font-size:clamp(24px,4.5vw,34px); line-height:1.15; margin:0 0 4px; }
+.lead { margin:0; color:var(--text2); }
+.aviso { background:var(--panel); border:1px solid var(--line); border-left:4px solid var(--pink); border-radius:10px; padding:10px 14px; font-size:14px; color:var(--text2); margin:18px 0; }
+#chat { display:flex; flex-direction:column; gap:12px; min-height:120px; }
+.msg { padding:12px 14px; border-radius:14px; max-width:92%; white-space:normal; word-wrap:break-word; }
+.yo { align-self:flex-end; background:var(--yo); color:var(--yotext); border-bottom-right-radius:4px; }
+.bot { align-self:flex-start; background:var(--bot); border:1px solid var(--line); border-bottom-left-radius:4px; }
+.bot p { margin:0 0 8px; } .bot p:last-child { margin:0; }
+.fuentes { margin-top:10px; font-size:14px; color:var(--text2); }
+.fuentes ol { margin:6px 0 0; padding-left:20px; }
+.fuentes a { color:var(--accent); }
+details.frag { margin-top:6px; font-size:14px; }
+details.frag pre { white-space:pre-wrap; font:13px/1.5 inherit; background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:8px; max-height:220px; overflow:auto; }
+form { position:sticky; bottom:0; background:var(--bg); padding:12px 0 18px; display:flex; gap:8px; }
+textarea { flex:1; resize:none; font:inherit; padding:10px 12px; border-radius:10px; border:1px solid var(--line); background:var(--panel); color:var(--text); min-height:48px; }
+button { font:inherit; font-weight:600; padding:0 18px; border-radius:10px; border:0; background:var(--btn); color:var(--btntext); cursor:pointer; }
+button:disabled { opacity:.6; cursor:wait; }
+.ejemplos { display:flex; flex-wrap:wrap; gap:8px; margin:4px 0 14px; }
+.ejemplos button { background:var(--panel); color:var(--text); border:1px solid var(--line); font-weight:500; font-size:14px; padding:6px 12px; }
+.estado { font-size:14px; color:var(--text2); }
+footer { border-top:1px solid var(--line); margin-top:24px; padding:18px 0 32px; font-size:14px; color:var(--text2); }
+a { color:var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap marca">
+    <img src="logo.svg" alt="">
+    <div>
+      <h1>Consultas sobre normas del MERCOSUR</h1>
+      <p class="lead">Preguntá sobre las decisiones del Consejo del Mercado Común (1991–2026). El asistente responde solo con el texto de las normas y te dice de cuál lo sacó.</p>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="aviso">Orientativo y <b>no oficial</b>: puede equivocarse al interpretar. Revisá siempre el texto de la norma (enlace en cada respuesta). No escribas datos personales: las preguntas se procesan con un servicio de IA de Google (Gemini) y pueden usarse para mejorarlo.</div>
+  <p class="estado" id="estado">Cargando las 1.130 decisiones…</p>
+  <div class="ejemplos" id="ejemplos" hidden>
+    <button type="button">¿Qué dice el Régimen de Origen del MERCOSUR?</button>
+    <button type="button">¿Qué es el FOCEM y cómo se financia?</button>
+    <button type="button">¿Qué decisiones tratan sobre el arancel externo común?</button>
+  </div>
+  <div id="chat" aria-live="polite"></div>
+  <form id="form">
+    <textarea id="pregunta" rows="2" maxlength="500" placeholder="Escribí tu pregunta…" aria-label="Tu pregunta" disabled></textarea>
+    <button id="enviar" disabled>Preguntar</button>
+  </form>
+</main>
+
+<footer>
+  <div class="wrap">Fuente: Secretaría del MERCOSUR, <a href="https://www.mercosur.int/documentos/normativa/">normativa</a>. Textos y código en <a href="https://github.com/silvia-mov/normativa-mercosur">GitHub</a>. Proyecto independiente: no representa a la Secretaría del MERCOSUR ni a ningún gobierno. Más proyectos en <a href="https://silvia-mov.github.io/">silvia-mov.github.io</a>.</div>
+</footer>
+
+<script src="minisearch.min.js"></script>
+<script>
+// Dirección del intermediario de Cloudflare (Worker). Vacía = solo buscador, sin IA.
+const ASISTENTE_URL = "";
+const N_FRAGMENTOS = 6;
+
+const $ = (id) => document.getElementById(id);
+const sinTildes = (t) => t.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const VACIAS = new Set("el la los las un una unos unas de del al a en y o u que se por para con sin sobre su sus es son lo le les como mas pero este esta estos estas ese esa cual cuales quien donde cuando qué cuál dice dicen hay ser fue sido mercosur decision decisiones".split(" ").map(sinTildes));
+const escapar = (t) => t.replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let DATOS, buscador;
+
+fetch("datos/fragmentos.json").then((r) => r.json()).then((d) => {
+  DATOS = d;
+  buscador = new MiniSearch({
+    fields: ["texto", "titulo"], storeFields: [],
+    processTerm: (t) => { const s = sinTildes(t); return s.length < 2 || VACIAS.has(s) ? null : s; },
+    searchOptions: { boost: { titulo: 3 }, fuzzy: 0.15, prefix: true, combineWith: "OR" },
+  });
+  buscador.addAll(d.fragmentos.map(([dec, texto], id) => ({ id, texto, titulo: d.decisiones[dec][1] + " " + d.decisiones[dec][0] })));
+  $("estado").textContent = ASISTENTE_URL ? "Listo. Escribí tu pregunta." : "Listo. Por ahora funciona como buscador: muestra los fragmentos de las normas que responden a tu pregunta.";
+  $("pregunta").disabled = $("enviar").disabled = false;
+  $("ejemplos").hidden = false;
+}).catch(() => { $("estado").textContent = "No se pudieron cargar las normas. Probá recargar la página."; });
+
+document.querySelectorAll("#ejemplos button").forEach((b) => b.addEventListener("click", () => { $("pregunta").value = b.textContent; $("form").requestSubmit(); }));
+$("pregunta").addEventListener("keydown", (e) => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); $("form").requestSubmit(); } });
+
+function agregar(clase, html) { const d = document.createElement("div"); d.className = "msg " + clase; d.innerHTML = html; $("chat").appendChild(d); d.scrollIntoView({ block: "end", behavior: "smooth" }); return d; }
+
+function fuentesHTML(frags) {
+  const items = frags.map((f, i) => `<li><a href="${f.url}" target="_blank" rel="noopener">${escapar(f.codigo)}</a>: ${escapar(f.titulo)}
+    <details class="frag"><summary>Ver fragmento</summary><pre>${escapar(f.texto)}</pre></details></li>`).join("");
+  return `<div class="fuentes"><b>Fuentes</b><ol>${items}</ol></div>`;
+}
+
+function formatear(t) {
+  return escapar(t).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").split(/\n{2,}/).map((p) => `<p>${p.replace(/\n/g, "<br>")}</p>`).join("");
+}
+
+$("form").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const pregunta = $("pregunta").value.trim();
+  if (!pregunta || !buscador) return;
+  agregar("yo", escapar(pregunta));
+  $("pregunta").value = "";
+  const porDec = {}, res = [];
+  for (const r of buscador.search(pregunta)) {   // como mucho 2 fragmentos por decisión, para variar las fuentes
+    const dec = DATOS.fragmentos[r.id][0];
+    if ((porDec[dec] = (porDec[dec] || 0) + 1) <= 2) res.push(r);
+    if (res.length >= N_FRAGMENTOS) break;
+  }
+  if (!res.length) { agregar("bot", "<p>No encontré normas que hablen de eso. Probá con otras palabras.</p>"); return; }
+  const frags = res.map((r) => { const [dec, texto] = DATOS.fragmentos[r.id]; const [codigo, titulo, anio, url] = DATOS.decisiones[dec]; return { codigo, titulo, anio, url, texto }; });
+  if (!ASISTENTE_URL) { agregar("bot", "<p>Estas son las normas que mejor coinciden con tu pregunta:</p>" + fuentesHTML(frags)); return; }
+  const caja = agregar("bot", "<p>Leyendo las normas…</p>");
+  $("enviar").disabled = true;
+  try {
+    const r = await fetch(ASISTENTE_URL, { method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ pregunta, fragmentos: frags.map((f, i) => ({ n: i + 1, codigo: f.codigo, titulo: f.titulo, texto: f.texto })) }) });
+    const j = await r.json();
+    caja.innerHTML = (r.ok ? formatear(j.respuesta || "") : `<p>${escapar(j.error || "El asistente no pudo responder.")}</p>`) + fuentesHTML(frags);
+  } catch {
+    caja.innerHTML = "<p>El asistente no respondió. Mientras tanto, estas son las normas que coinciden:</p>" + fuentesHTML(frags);
+  } finally { $("enviar").disabled = false; }
+});
+</script>
+</body>
+</html>

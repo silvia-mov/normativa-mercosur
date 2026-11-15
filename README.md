@@ -16,6 +16,10 @@ plano y ordenadas con nombres claros, para leerlas, buscarlas y analizarlas con 
 > Para cualquier uso formal, consulte siempre el texto oficial en la
 > [normativa del MERCOSUR](https://www.mercosur.int/documentos/normativa/).
 
+## Página de consultas
+
+[silvia-mov.github.io/normativa-mercosur](https://silvia-mov.github.io/normativa-mercosur/): buscador y asistente que responde solo con el texto de las decisiones y cita la fuente. Usa `docs/` (página), `worker/` (intermediario de Cloudflare) y `scripts/e_datos_web.py` (datos de la página). Buscador: [MiniSearch](https://github.com/lucaong/minisearch) (MIT).
+
 ## Cómo están organizados
 
 ```
