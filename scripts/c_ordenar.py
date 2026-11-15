@@ -135,12 +135,17 @@ def main():
         n = i["num_texto"] or i["num_nombre"]
         if n and i["id"] and not INCORPORACION.search(i["nombre"]):
             por_id[(i["anio"], i["id"])].add(n)
-    titulos = {}
+    titulos, titulos_pt = {}, set()
     for i in info:
         if i["num_texto"] and i["texto"]:
             t = titulo_de(i["texto"])
-            if t and (i["anio"], i["num_texto"]) not in titulos:
-                titulos[(i["anio"], i["num_texto"])] = t
+            clave = (i["anio"], i["num_texto"])
+            # se prefiere el título en español
+            if t and (clave not in titulos or (idioma_de(i["nombre"], i["texto"]) == "ES" and clave in titulos_pt)):
+                titulos[clave] = t
+                titulos_pt.discard(clave)
+                if idioma_de(i["nombre"], i["texto"]) == "PT":
+                    titulos_pt.add(clave)
     # Si el texto no trae título (p. ej. 1992), se usa el del nombre del archivo
     for i in info:
         n = i["num_texto"] or i["num_nombre"]

@@ -5,8 +5,8 @@ plano y ordenadas con nombres claros, para leerlas, buscarlas y analizarlas con 
 
 | | |
 |---|---|
-| Decisiones | 1.130 (1991–2026), 1.129 con su texto completo |
-| Archivos de texto | 1.303 (textos, fe de erratas, anexos y planillas) |
+| Decisiones | 1.130 (1991–2026), todas con su texto completo en español |
+| Archivos de texto | 1322 (textos, fe de erratas, anexos y planillas) |
 | Notas y decretos de incorporación de Paraguay | 24 |
 | Índice | [`indice_decisiones.csv`](indice_decisiones.csv) y [`indice_decisiones.xlsx`](indice_decisiones.xlsx) |
 
@@ -75,10 +75,13 @@ leyeron en sus primeras 5 páginas; su texto lo indica al final.
 
 ## Limitaciones conocidas
 
-- **Decisión 22/03** (IV ronda de servicios): solo están sus anexos; falta el texto de la decisión.
-- **18 decisiones** solo están en portugués: 02/91, 06/99, 44/10, 45/10, 24/12, 30/12, 51/12, 60/12, 47/14, 30/15, 22/17, 04/18, 14/18, 22/18, 08/19, 09/19, 14/19 y 04/21.
+- **Decisión 06/99** (coordinación de políticas macroeconómicas): el sitio la marca como derogada por la
+  Decisión CMC 30/00, y su versión vigente figura "en revisión"; el texto es el de la versión del 15/06/1999.
 - **Decisión 10/02**: en el sitio, el enlace de la versión original descarga por error el archivo de la
   11/02; aquí se usa la fe de erratas, que es la versión vigente.
+- 19 decisiones estaban solo en portugués en la primera descarga; su versión en español se bajó después
+  (archivos originales `ES_secretaria_...`). Se conservan las dos versiones.
+- El sitio etiqueta mal el idioma de algunos archivos; aquí el idioma se decide por el contenido.
 - Los textos convertidos por OCR pueden tener letras mal leídas.
 
 ## Próximamente
