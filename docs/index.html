@@ -26,7 +26,7 @@ header { background:linear-gradient(120deg,var(--hero1),var(--hero2)); padding:2
 h1 { font-size:clamp(24px,4.5vw,34px); line-height:1.15; margin:0 0 4px; }
 .lead { margin:0; color:var(--text2); }
 .aviso { background:var(--panel); border:1px solid var(--line); border-left:4px solid var(--pink); border-radius:10px; padding:10px 14px; font-size:14px; color:var(--text2); margin:18px 0; }
-#chat { display:flex; flex-direction:column; gap:12px; min-height:120px; }
+#chat { display:flex; flex-direction:column; gap:12px; }
 .msg { padding:12px 14px; border-radius:14px; max-width:92%; white-space:normal; word-wrap:break-word; }
 .yo { align-self:flex-end; background:var(--yo); color:var(--yotext); border-bottom-right-radius:4px; }
 .bot { align-self:flex-start; background:var(--bot); border:1px solid var(--line); border-bottom-left-radius:4px; }
@@ -45,16 +45,29 @@ button:disabled { opacity:.6; cursor:wait; }
 .estado { font-size:14px; color:var(--text2); }
 footer { border-top:1px solid var(--line); margin-top:24px; padding:18px 0 32px; font-size:14px; color:var(--text2); }
 a { color:var(--accent); }
+.hero { padding:36px 0 30px; }
+.hero .marca { margin-bottom:18px; } .hero .marca img { width:48px; height:48px; } .hero small { color:var(--text2); }
+.hero h1 { font-size:clamp(30px,6vw,52px); line-height:1.1; margin:0 0 12px; letter-spacing:-.01em; }
+.hero h1 em { font-style:normal; color:var(--pink); }
+.hero .lead { font-size:18px; max-width:640px; }
+form { position:static; padding:6px 0 14px; }
+form textarea { border:2px solid var(--pink); border-radius:16px; padding:14px 16px; font-size:17px; }
+form button { border-radius:16px; background:var(--pink); color:#fff; }
+h2.sec { text-align:center; font-size:22px; margin:36px 0 14px; }
+.dl { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; }
+.dlc { border-radius:16px; padding:18px; color:#fff; }
+.dlc h3 { margin:0 0 6px; } .dlc p { margin:0 0 14px; font-size:15px; opacity:.95; }
+.dlc a, .dlc span { display:inline-block; background:#fff; color:#1d1a1c; font-weight:600; padding:7px 16px; border-radius:99px; text-decoration:none; font-size:14px; }
+.dlc span { opacity:.7; }
+.c1 { background:#e5466f; } .c2 { background:#d9688a; } .c3 { background:#1f9c80; }
 </style>
 </head>
 <body>
-<header>
-  <div class="wrap marca">
-    <img src="logo.svg" alt="">
-    <div>
-      <h1>Consultas sobre normas del MERCOSUR</h1>
-      <p class="lead">Preguntá sobre las decisiones del Consejo del Mercado Común (1991–2026). El asistente responde solo con el texto de las normas y te dice de cuál lo sacó.</p>
-    </div>
+<header class="hero">
+  <div class="wrap">
+    <div class="marca"><img src="logo.svg" alt=""><span><b>Normas MERCOSUR</b><br><small>Asistente de consultas · proyecto independiente</small></span></div>
+    <h1>Tu asistente para la normativa <em>MERCOSUR</em></h1>
+    <p class="lead">Preguntá y obtené respuestas basadas solo en el texto de las 1.130 decisiones del Consejo del Mercado Común (1991–2026), con la norma citada.</p>
   </div>
 </header>
 
@@ -66,11 +79,18 @@ a { color:var(--accent); }
     <button type="button">¿Qué es el FOCEM y cómo se financia?</button>
     <button type="button">¿Qué decisiones tratan sobre el arancel externo común?</button>
   </div>
-  <div id="chat" aria-live="polite"></div>
   <form id="form">
     <textarea id="pregunta" rows="2" maxlength="500" placeholder="Escribí tu pregunta…" aria-label="Tu pregunta" disabled></textarea>
     <button id="enviar" disabled>Preguntar</button>
   </form>
+  <div id="chat" aria-live="polite"></div>
+
+  <h2 class="sec">Descargá las normas completas</h2>
+  <div class="dl">
+    <div class="dlc c1"><h3>Decisiones</h3><p>Las 1.130 decisiones del CMC en texto, con índice en Excel.</p><a href="https://github.com/silvia-mov/normativa-mercosur/archive/refs/heads/main.zip">Descargar</a></div>
+    <div class="dlc c2"><h3>Resoluciones</h3><p>Resoluciones del Grupo Mercado Común.</p><span>Próximamente</span></div>
+    <div class="dlc c3"><h3>Directivas</h3><p>Directivas de la Comisión de Comercio.</p><span>Próximamente</span></div>
+  </div>
 </main>
 
 <footer>
