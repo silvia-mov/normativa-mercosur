@@ -76,7 +76,7 @@ leyeron en sus primeras 5 páginas; su texto lo indica al final.
 ## Limitaciones conocidas
 
 - **Decisión 22/03** (IV ronda de servicios): solo están sus anexos; falta el texto de la decisión.
-- **19 decisiones** solo están en portugués (ver el índice, columna `IDIOMA`).
+- **18 decisiones** solo están en portugués: 02/91, 06/99, 44/10, 45/10, 24/12, 30/12, 51/12, 60/12, 47/14, 30/15, 22/17, 04/18, 14/18, 22/18, 08/19, 09/19, 14/19 y 04/21.
 - **Decisión 10/02**: en el sitio, el enlace de la versión original descarga por error el archivo de la
   11/02; aquí se usa la fe de erratas, que es la versión vigente.
 - Los textos convertidos por OCR pueden tener letras mal leídas.
