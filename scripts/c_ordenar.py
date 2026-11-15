@@ -69,7 +69,7 @@ def titulo_de(texto):
         if CABECERA.search(l):
             partes = []
             for l2 in lineas[i + 1:i + 15]:
-                if re.match(r"VISTOS?\b|VISTO:", l2, re.I):
+                if re.match(r"VISTOS?\b|VISTO:|TENDO EM VISTA|CONSIDERANDO", l2, re.I):
                     break
                 if l2 and not l2.startswith("[página"):
                     partes.append(l2)
@@ -83,6 +83,23 @@ def idioma_de(nombre, texto):
         return "EN"
     if re.search(r"hebreo", nombre, re.I):
         return "HE"
+    if texto and len(texto) > 300:   # el contenido manda: algunos nombres dicen PT y el texto está en español
+        inicio = texto[:2500].upper()
+        # el que aparece primero (hay documentos con la versión en español y después en portugués)
+        m_pt = inicio.find("TENDO EM VISTA")
+        m_es = re.search(r"\bVISTOS?\s*:", inicio)
+        m_es = m_es.start() if m_es else -1
+        if m_pt >= 0 or m_es >= 0:
+            if m_pt < 0:
+                return "ES"
+            if m_es < 0:
+                return "PT"
+            return "ES" if m_es < m_pt else "PT"
+        t = texto[:5000].lower()
+        pt = t.count("ção") + t.count("tendo em vista") * 5 + t.count(" não ") + t.count(" do ")
+        es = t.count("ción") + t.count("visto:") * 5 + t.count(" del ") + t.count(" el ")
+        if pt or es:
+            return "PT" if pt > es else "ES"
     if re.search(r"[_ -]PT[_ .-]|_PT$|-PT\b|\bPT\b", nombre):
         return "PT"
     if re.search(r"[_ -]ES[_ .-]|-ESP|\bES\b", nombre):
