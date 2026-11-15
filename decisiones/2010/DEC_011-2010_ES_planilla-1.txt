@@ -1,0 +1,537 @@
+Decisión CMC N° 11/10
+Título: FONDO PARA LA CONVERGENCIA ESTRUCTURAL DEL MERCOSUR PROYECTO “CALIFICACIÓN DE PROVEEDORES DE LA CADENA PRODUCTIVA DE PETRÓLEO Y GAS”
+Tipo de documento: planilla-1
+Archivo original: 28478_DEC_011-2010_ES_FOCEM-Petro-Gas > DEC_011-2010_ES_Proyecto Cadena Productiva Petroleo y Gas_Anexo_planilhas.xls
+Conversión a texto: planilla
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+[hoja: Planilha I]
+PLANILHA I - ORÇAMENTO CONSOLIDADO							
+Consolidado Petróleo e Gás - R$							
+DESCRIÇÃO	TOTAL	Inelegíveis	Elegiveis	FOCEM	CONTRAPARTIDA	PERCENTUAL	USD
+Gestão da Informação	1044000	33896	1010104	838386.3200000001	171717.68000000002	0.1570693034450308	576795.5801104972
+Competitividade	2126000	69592	2056408	1706818.6400000001	349589.36000000004	0.3198556888162218	1174585.635359116
+Acesso a Mercados	773000	30360	742640	616391.2	126248.80000000002	0.11629748234004676	427071.82320441987
+Gestão e Governança	2403747.5	332840.538	2070906.962	1740208.60346	330698.35854000004	0.3616426680869102	1328037.2928176795
+TOTAL	6346747.5	466688.538	5880058.962	4901804.76346	978254.1985400001	0.9548651426882095	3506490.3314917125
+Imprevistos	300000	0	300000	255000	45000	0.04513485731179047	165745.85635359117
+VALOR DO PROJETO	6646747.5	466688.538	6180058.962	5156804.76346	1023254.1985400001	1	3672236.1878453037
+1.81	3672236.1878453037	257838.97127071823	3414397.2165745855	2849063.4052265193	565333.8113480663		
+
+[hoja: Planilha II]
+PLANILHA II - ORÇAMENTO POR RUBRICA E  CÁLCULO DOS IMPOSTOS															
+Consolidado Petróleo e Gás por Rúbrica - R$										IRRF	CSLL/PIS/CFS	ISS	TRIBUTAÇÃO		
+DESCRIÇÃO				TOTAL	Inelegíveis	Elegiveis	FOCEM	CONTRAPARTIDA	ABDI	0.015	0.0465	0.05			
+Gestão da Informação	Código BR	Cód. FOCEM	Descrição FOCEM	1044000	33896	1010104	838386.3200000001	171717.68000000002	205613.68000000002	4560	14136	15200	33896		
+Serviços de terceiros - Pessoa Jurídica	3.3.00.35	345	De capacitación 	264000	29436	234564	194688.12	39875.880000000005	69311.88	3960	12276	13200	29436		
+Materiais de consumo	3.3.00.30	239	Otros n.e.p. 	40000	0	40000	33200	6800.000000000001	6800.000000000001	0	0	0	0		
+Publicações	3.3.00.39	353	Imprenta, publicaciones y reproducciones 	40000	4460	35540	29498.199999999997	6041.8	10501.8	600	1860	2000	4460		
+Diárias nacionais	4.4.00.14	372	Viáticos 	300000	0	300000	249000	51000.00000000001	51000.00000000001	0	0	0	0		
+Passagens	4.4.00.33	371	Pasajes 	400000	0	400000	332000	68000	68000	0	0	0	0		
+Competitividade				2126000	69592	2056408	1706818.6400000001	349589.36000000004	419181.36000000004	10470	28272	30850	69592		
+Serviços de terceiros - Pessoa Jurídica	3.3.00.35	345	De capacitación 	528000	58872	469128	389376.24	79751.76000000001	138623.76	7920	24552	26400	58872		
+Serviços de terceiros - Pessoa Física	3.3.00.35	345	De capacitación 	9000	1800	7200	5976	1224	3024	1350	0	450	1800	0.15	
+Materiais de consumo	3.3.00.30	239	Otros n.e.p. 	80000	0	80000	66400	13600.000000000002	13600.000000000002	0	0	0	0		
+Publicações	3.3.00.39	353	Imprenta, publicaciones y reproducciones 	80000	8920	71080	58996.399999999994	12083.6	21003.6	1200	3720	4000	8920		
+Diárias nacionais	4.4.00.14	372	Viáticos 	480000	0	480000	398400	81600	81600	0	0	0	0		
+Diárias internacionais	4.4.00.14	372	Viáticos 	189000	0	189000	156870	32130.000000000004	32130.000000000004	0	0	0	0		
+Passagens	4.4.00.33	371	Pasajes 	760000	0	760000	630800	129200.00000000001	129200.00000000001	0	0	0	0		
+Acesso a Mercados				773000	30360	742640	616391.2	126248.80000000002	156608.80000000002	6300	11160	12900	30360		
+Serviços de terceiros - Pessoa Jurídica	3.3.00.35	345	De capacitación 	240000	26760	213240	176989.19999999998	36250.8	63010.8	3600	11160	12000	26760		
+Serviços de terceiros - Pessoa Física	3.3.00.35	345	De capacitación 	18000	3600	14400	11952	2448	6048	2700	0	900	3600	0.15	
+Diárias internacionais	4.4.00.14	372	Viáticos 	315000	0	315000	261450	53550.00000000001	53550.00000000001	0	0	0	0		
+Passagens	4.4.00.33	371	Pasajes 	200000	0	200000	166000	34000	34000	0	0	0	0		
+Gestão e Governança				2403747.5	332840.538	2070906.962	1740208.60346	330698.35854000004	663538.89654	286056.18	22543.758	24240.600000000002	332840.538		1013760
+Equipe de gestão (BR/AR/PI/UR)	3.1.00.04	121	Remuneración	1483488	239976.00000000003	1243512	1032114.96	211397.04	451373.04000000004	239976.00000000003	0	0	239976.00000000003	0.275	872640
+Auditoria interna	3.1.00.04	121	Remuneración	240000	38808	201192	166989.36	34202.64	73010.64	38808	0	0	38808	0.275	141120
+Auditoria externa	3.3.00.39	329	Otros n.e.p. 	60000	6690	53310	44247.299999999996	9062.7	15752.7	900	2790	3000	6690		
+Auditoria FOCEM	3.3.00.39	329	Otros n.e.p. 	125622.5	0	125622.5	125622.5	0	0						
+Serviços de terceiros - Pessoa Jur	3.3.00.35	345	De capacitación 	421812	47032.038	374779.962	311067.36845999997	63712.59354	110744.63154	6327.179999999999	19614.258	21090.600000000002	47032.038		
+Publicações	3.3.00.39	353	Imprenta, publicaciones y reproducciones 	3000	334.5	2665.5	2212.365	453.13500000000005	787.635	45	139.5	150	334.5		239976.00000000003
+Diárias nacionais	4.4.00.14	372	Viáticos 	6750	0	6750	5602.5	1147.5	1147.5	0	0	0	0		0.16176470588235295
+Diárias internacionais	4.4.00.14	372	Viáticos 	33075	0	33075	27452.25	5622.75	5622.75	0	0	0	0		
+Passagens	4.4.00.33	371	Pasajes 	30000	0	30000	24900	5100	5100	0	0	0	0		
+Resumo por Rúbrica				6161125	459998.53800000006	5701126.462	4731934.96346	969191.49854	1429190.03654	306486.18000000005	73321.758	80190.6	459998.53800000006		
+Serviços de terceiros - Pessoa Jurídica	3.3.00.35	345	De capacitación 	1453812	162100.038	1291711.962	1072120.9284599999	219591.03354	381691.07154000003	21807.18	67602.258	72690.6	162100.038		
+Serviços de terceiros - PF e Equipe	3.3.00.35	345	De capacitación 	1510488	245376.00000000003	1265112	1050042.96	215069.04	460445.04000000004	244026.00000000003	0	1350	245376.00000000003		
+Materiais de consumo	3.3.00.30	239	Otros n.e.p. 	120000	0	120000	99600	20400.000000000004	20400.000000000004	0	0	0	0		
+Publicações	3.3.00.39	353	Imprenta, publicaciones y reproducciones 	123000	13714.5	109285.5	90706.965	18578.535	32293.035	1845	5719.5	6150	13714.5		
+Diárias nacionais	4.4.00.14	372	Viáticos 	786750	0	786750	653002.5	133747.5	133747.5	0	0	0	0		
+Diárias internacionais	4.4.00.14	372	Viáticos 	537075	0	537075	445772.25	91302.75000000001	91302.75000000001	0	0	0	0		
+Passagens	4.4.00.33	371	Pasajes 	1390000	0	1390000	1153700	236300	236300	0	0	0	0		
+Auditoria	3.3.00.39	329	Otros n.e.p. 	240000	38808	201192	166989.36	34202.64	73010.64	38808	0	0	38808		
+TOTAL GERAL				6346747.5	466688.538	5880058.962	4901804.76346	978254.1985400001	1444942.7365400002	306486.18000000005	73321.758	80190.6	459998.53800000006		
+Imprevistos				300000	0	300000	255000	45000	45000						
+TOTAL DO PROJETO				6646747.5	466688.538	6180058.962	5156804.76346	1023254.1985400001	1489942.7365400002						
+1.81				3672236.1878453037	257838.97127071823	3414397.2165745855	2849063.4052265193	565333.8113480663	823172.7826187846						
+
+[hoja: Planilha III]
+		PLANILHA III - DISTRIBUIÇÃO DOS RECURSOS		
+INSTITUIÇÃO	PERCENTUAL		INSTITUIÇÃO	PERCENTUAL
+FOCEM	0.8344264666677463		FOCEM	0.8344264666677463
+ABDI	0.16557353333225366		ABDI	0.16557353333225366
+TOTAL	1		TOTAL	1
+			*Considerando apenas despesas elegíveis.	
+
+[hoja: Planilha IV]
+PLANILHA IV - GESTÃO DA INFORMAÇÃO				
+Ação		Descrição		
+Gestão da Informação	Mapear a cadeia produtiva de petróleo e gás do MERCOSUL	Após definição, pelo Grupo Institucional, das empresas-âncora participantes, será realizado trabalho junto aos setores de compras dessas empresas, por quatro consultores, um por Estado Parte, de entrevista, coleta dos dados necessários e posterior tratamento dos mesmos.		
+	Sistematizar as políticas de compras das grandes empresas (empresas-âncora) da cadeia de P&G dos EP. 	Os quatro consultores realizarão entrevistas, consulta documental e análise comparativa, junto às empresas-âncora.		
+	Definir um grupo de itens por EP para compor o escopo do projeto de integração e complementação de fornecedores do MERCOSUL. 	A partir dos resultados das atividades anteriores, os consultores realizarão análise documental e mapearão os grupos de itens.		
+	Difundir informações às empresas fornecedoras - quem compra, que tipo de item compra, quais as políticas de compra das empresas-âncora e identificar potenciais empresas fornecedoras participantes do projeto.	Realizar 8 workshops, 2 em cada Estado Parte, para apresentar informações sobre o que é o projeto e quais serão seus benefícios para as empresas participantes. Difundir, ainda, as informações levantadas nas atividades anteriores. Fazer identificação preliminar das empresas que poderiam se beneficiar do projeto		
+	Realização de Workshops - 50 Pessoas	quantidade	Custo por evento - R$	Custo total
+	Brasil	2	130500	261000
+	Argentina	2	130500	261000
+	Uruguai	2	130500	261000
+	Paraguai	2	130500	261000
+	Custo total com Workshops			1044000
+	Definição e diagnóstico das 100 empresas fornecedoras (efetivas e potenciais) dos itens que compõem o escopo do projeto, que assinarão termo de adesão ao projeto.	Dentre as potenciais empresas participantes do projeto, identificadas na atividade anterior, o Grupo Institucional definirá as 100 empresas dos Estados Partes, que assinarão termo de adesão ao projeto. Os consultores realização diagnóstico de sua atuação, por meio de entrevistas e análise documental.		
+	Custo com Gestão da Informação			1044000
+
+[hoja: Planilha V]
+PLANILHA V - COMPETITIVIDADE				
+Ação		Descrição		
+Competitividade	Promover atividades e eventos para melhorar as competências gerenciais das empresas fornecedoras.	Realizar-se-ão 8 oficinas para difusão de competências gerenciais às empresas fornecedoras participantes do Projeto, sendo 4 no Brasil, 2 na Argentina, 1 no Uruguai  e 1 no Paraguai. 		
+	Fomentar a inovação tecnológica nas empresas fornecedoras.	Esta ação possui duas frentes de atuação, que visam capacitação das empresas do Projeto: 2 missões de intercâmbio tecnológico entre empresas fornecedoras e empresas compradoras da cadeia, 1 no Brasil e 1 na Argentina; e a realização de 4 workshops tecnológicos, 1 por Estado Parte, entre empresas fornecedoras e atores que se relacionam com o componente tecnológico da cadeia de Petróleo e Gás (universidades, institutos tecnológicos, parques, incubadoras, etc.).		
+	Difundir para os EP boas práticas de iniciativas que promovam a melhoria da competitividade das empresas do setor de P&G. (ex: Prominp e Convênio Sebrae/Petrobras)	Trata-se de realizar 4 seminários, 1 por Estado Parte, para apresentação de casos de sucesso e experiências de boas práticas implementadas em cada país.		
+	Realização de oficinas - 30 Pessoas	quantidade	Custo por evento - R$	Custo total
+	Brasil	4	95500	382000
+	Argentina	2	95500	191000
+	Uruguai	1	95500	95500
+	Paraguai	1	95500	95500
+	Custo total com oficinas			764000
+	Realização de Missões de Intercâmbio Tecnológico - 30 pessoas	quantidade	Custo por evento - R$	Custo total
+	Brasil	1	79500	79500
+	Argentina	1	79500	79500
+	Uruguai	1	79500	79500
+	Paraguai	1	79500	79500
+	Custo total com Missões de Intercâmbio Tecnológico			318000
+	Realização de Workshops Tecnológico - 50 Pessoas	quantidade	Custo por evento - R$	Custo total
+	Brasil	1	130500	130500
+	Argentina	1	130500	130500
+	Uruguai	1	130500	130500
+	Paraguai	1	130500	130500
+	Custo total com Workshops Tecnológicos			522000
+	Realização de Seminário - 50 pessoas	quantidade	Custo por evento - R$	Custo total
+	Brasil	1	130500	130500
+	Argentina	1	130500	130500
+	Uruguai	1	130500	130500
+	Paraguai	1	130500	130500
+	Custo total com Seminários			522000
+	Custo com competitividade			2126000
+
+[hoja: Planilha VI]
+PLANILHA VI - ACESSO A MERCADOS 				
+Ação		Descrição		
+Acesso a Mercados	Difundir oportunidades de negócios no setor de P&G nos países membros do MERCOSUL.	Realização de 4 missões comerciais, 1 por Estado Parte, com vistas a identificar oportunidades concretas de negócios entre empresas fornecedoras e âncoras da cadeia produtiva de Petróleo e Gás do MERCOSUL.		
+	Promover interação entre empresas compradoras e fornecedoras da cadeia P&G no MERCOSUL.	Esta ação será realizada em duas etapas: 4 rodadas de negócios, com vistas a promover ambiente favorável ao fechamento de negócios entre empresas fornecedoras e âncoras da cadeia; e encontros de trabalho entre dirigentes de associações e de redes, bem como de representantes de empresas fornecedoras, para criação de sinergias e aproximação. 4 encontros de negócios, 1 em cada EP.		
+	Realizar Missões Comerciais - 30 pessoas	quantidade	Custo por evento - R$	Custo total
+	Brasil	1	79500	79500
+	Argentina	1	79500	79500
+	Uruguai	1	79500	79500
+	Paraguai	1	79500	79500
+	Custo total com Missões Comerciais			318000
+	Realizar Rodadas de Negócios - 50 pessoas	quantidade	Custo por evento - R$	Custo total
+	Brasil	1	60000	60000
+	Argentina	1	60000	60000
+	Uruguai	1	60000	60000
+	Paraguai	1	60000	60000
+	Custo total com Rodadas de Negócios			240000
+	Realizar Intercâmbio Comercial - 20 pessoas	quantidade	Custo por evento - R$	Custo total
+	Brasil	1	53750	53750
+	Argentina	1	53750	53750
+	Uruguai	1	53750	53750
+	Paraguai	1	53750	53750
+	Custo total com Missões de Intercâmbio Comerciais			215000
+	Custo com Acesso a Mercados			773000
+
+[hoja: Planilha VII]
+PLANILHA VII - GESTÃO E GOVERNANÇA 				
+Ação		Descrição		
+Gestão e Governança	1. Estruturar a governança do projeto	Formalizar grupo de trabalho institucional, com representantes empresariais e governamentais dos Estados Partes. Será responsável pela definição de diretrizes do projeto, pela articulação e mobilização de pessoas e empresas participantes. Responsável pelos termos de adesão das empresas âncoras e fornecedoras. Serão realizadas 5 reuniões com a participação da Presidência da ABDI, 1 em cada Estado Parte para apresentação do projeto e 1 final, no Brasil, com representantes de instituições de todos os Estados Partes que aderiram ao projeto.		
+	2. Realizar a gestão do projeto	O projeto terá um gestor institucional na ABDI, 1 coordenador no Brasil e 3 consultores nos demais Estados Partes, com a função de operacionalizar as atividades do projeto, bem como de implementar as diretrizes de sua governança.		
+	3. Realizar Pesquisa de avaliação e monitoramento	Serão aplicados dois questionários em momentos distintos, no início e no fim do projeto, com objetivo de definir as linhas de base e de verificar os indicadores a serem avaliados durante a vigência do projeto.		
+	4. Realizar Auditorias Externas 	Submissão do projeto a três auditorias e externas contábeis, de gestão e de execução, a primeira imediatamente após sua implantação, e as demais anualmente.		
+	Realizar Reuniões	quantidade	Custo por evento - R$	Custo total
+	Brasil	2	12975	25950
+	Argentina	1	14625	14625
+	Uruguai	1	14625	14625
+	Paraguai	1	14625	14625
+	Custo total com Reuniões			69825
+	Custo com Consultores - 4 consultores	quantidade	Custo por evento - R$	Custo total
+	Brasil	1	708288	708288
+	Argentina	1	326400	326400
+	Uruguai	1	224400	224400
+	Paraguai	1	224400	224400
+	Custo total com consultores			1483488
+	Contratação de Consultores - 4 consultores	quantidade	Custo por evento - R$	Custo total
+	Brasil	1	29512	29512
+	Argentina	1	13600	13600
+	Uruguai	1	9350	9350
+	Paraguai	1	9350	9350
+	Custo total contratação de consultores			61812
+	Aplicar Questionários	quantidade	Custo por evento - R$	Custo total
+	Brasil	2	60000	120000
+	Argentina	2	40000	80000
+	Uruguai	2	40000	80000
+	Paraguai	2	40000	80000
+	Custo total Pesquisas			360000
+	Realizar Auditoria	quantidade	Custo por evento - R$	Custo total
+	Auditoria Interna	24	10000	240000
+	Auditoria Externa	2	30000	60000
+	Auditoria FOCEM	2	62811.25	125622.5
+	Custo total para realizar auditorias			425622.5
+	Relatório Final	quantidade	Custo por evento - R$	Custo total
+	Relatório	1	3000	3000
+	Custo total com Relatório Final			3000
+	Custo com Gestão e Governança			2403747.5
+	Resumo			
+	Custo total do Projeto			6346747.5
+	Recursos FOCEM			5394735.375
+	Contra-partida			952012.125
+	Observações:			
+	1. Os valores registrados no componente de Gestão e Governança incluem, além da equipe de pessoal do projeto, outras ações correlatas, necessárias à gestão do projeto, mas que não constituem gastos com pessoal. 
+			
+	2. O valor total das despesas com pessoal será de R$ 1.483.488,00.			
+
+[hoja: Planilha VIII]
+PLANILHA VIII - IMPREVISTOS				
+	Ação	Descrição		
+	1. Imprevistos 	Assegurar a execução de despesas imprescindíveis ao cumpromento das metas, que venham a surgir ao longo da execução do projeto.		
+	Valor total do projeto:	6346747.5		
+	Impresvistos	quantidade	Custo por evento - R$	Custo total
+	Imprevistos	1	5% do total do projeto	317337.375
+	Custo total com Imprevistos			317337.375
+			Valor arredondado	300000
+
+[hoja: Planilha IX]
+PLANILHA IX - MEMÓRIA DE CÁLCULO								
+Memória de Cálculo Consolidada- R$								
+Realização de Workshops - 50 Pessoas - 2 dias	quantidade de eventos	Custo por evento - R$	Custo total	Detalhamento do Cálculo para Workshop				
+Brasil	2	130500	261000		Unitário	Pessoas	Dias	Total
+Logística para o evento (Aluguel de espaço)	2	20000	40000	Diárias internacionais	525	50	3	78750
+Serviços de terceiros (mediadores e assistentes)	2	13000	26000	Diárias nacionais	250	50	3	37500
+Materiais de consumo para o evento	2	5000	10000	Passagens	1000	50	1	50000
+Publicações	2	5000	10000	Aluguel de espaço	10000	50	2	20000
+Diárias nacionais	2	37500	75000	Consultor mediador	5000	1	2	10000
+Diárias internacionais				Assistente	1500	2	2	3000
+Passagens	2	50000	100000	Materiais de consumo (Apoio para o evento)				5000
+				Publicações				5000
+Argentina	2	130500	261000					
+Logística para o evento (Aluguel de espaço)	2	20000	40000					
+Serviços de terceiros (mediadores e assistentes)	2	13000	26000					
+Materiais de consumo para o evento	2	5000	10000					
+Publicações	2	5000	10000					
+Diárias nacionais	2	37500	75000					
+Diárias internacionais								
+Passagens	2	50000	100000					
+Uruguai	2	130500	261000					
+Logística para o evento (Aluguel de espaço)	2	20000	40000					
+Serviços de terceiros (mediadores e assistentes)	2	13000	26000					
+Materiais de consumo para o evento	2	5000	10000					
+Publicações	2	5000	10000					
+Diárias nacionais	2	37500	75000					
+Diárias internacionais								
+Passagens	2	50000	100000					
+Paraguai	2	130500	261000					
+Logística para o evento (Aluguel de espaço)	2	20000	40000					
+Serviços de terceiros (mediadores e assistentes)	2	13000	26000					
+Materiais de consumo para o evento	2	5000	10000					
+Publicações	2	5000	10000					
+Diárias nacionais	2	37500	75000					
+Diárias internacionais								
+Passagens	2	50000	100000					
+Custo total com Workshops			1044000					
+Realização de oficinas - 30 Pessoas - 2 dias	quantidade de eventos	Custo por evento - R$	Custo total	Detalhamento do Cálculo para Oficinas				
+Brasil	4	95500	382000		Unitário	Pessoas	Dias	Total
+Logística para o evento (Aluguel de espaço)	4	20000	80000	Diárias internacionais	525	30	3	47250
+Serviços de terceiros (mediadores e assistentes)	4	13000	52000	Diárias nacionais	250	30	3	22500
+Materiais de consumo para o evento	4	5000	20000	Passagens	1000	30	1	30000
+Publicações	4	5000	20000	Aluguel de espaço	10000	30	2	20000
+Diárias nacionais	4	22500	90000	Consultor mediador	5000	1	2	10000
+Diárias internacionais	4		0	Assistente	1500	2	2	3000
+Passagens	4	30000	120000	Materiais de consumo (Apoio para o evento)				5000
+				Publicações				5000
+Argentina	2	95500	191000					
+Logística para o evento (Aluguel de espaço)	2	20000	40000					
+Serviços de terceiros (mediadores e assistentes)	2	13000	26000					
+Materiais de consumo para o evento	2	5000	10000					
+Publicações	2	5000	10000					
+Diárias nacionais	2	22500	45000					
+Diárias internacionais	2		0					
+Passagens	2	30000	60000					
+Uruguai	1	95500	95500					
+Logística para o evento (Aluguel de espaço)	1	20000	20000					
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000					
+Materiais de consumo para o evento	1	5000	5000					
+Publicações	1	5000	5000					
+Diárias nacionais	1	22500	22500					
+Diárias internacionais	1		0					
+Passagens	1	30000	30000					
+Paraguai	1	95500	95500					
+Logística para o evento (Aluguel de espaço)	1	20000	20000					
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000					
+Materiais de consumo para o evento	1	5000	5000					
+Publicações	1	5000	5000					
+Diárias nacionais	1	22500	22500					
+Diárias internacionais	1		0					
+Passagens	1	30000	30000					
+Custo total com oficinas			764000					
+Realização de Missões de Intercâmbio Tecnológico - 30 pessoas	quantidade de eventos	Custo por evento - R$	Custo total	Detalhamento do Cálculo para Intercâmbio Tecnológico				
+Brasil	1	79500	79500		Unitário	Pessoas	Dias	Total
+Diárias internacionais	1	47250	47250	Diárias internacionais	525	30	3	47250
+Passagens	1	30000	30000	Diárias nacionais	250	30	3	22500
+Consultor (guia)	1	2250	2250	Passagens	1000	30	1	30000
+				Consultor (guia)	750	1	3	2250
+Argentina	1	79500	79500					
+Diárias internacionais	1	47250	47250					
+Passagens	1	30000	30000					
+Consultor (guia)	1	2250	2250					
+Uruguai	1	79500	79500					
+Diárias internacionais	1	47250	47250					
+Passagens	1	30000	30000					
+Consultor (guia)	1	2250	2250					
+Paraguai	1	79500	79500					
+Diárias internacionais	1	47250	47250					
+Passagens	1	30000	30000					
+Consultor (guia)	1	2250	2250					
+Custo total com Missões de Intercâmbio Tecnológico			318000					
+Realização de Workshops Tecnológico - 50 Pessoas - 2 dias	quantidade de eventos	Custo por evento - R$	Custo total	Detalhamento do Cálculo para Workshop Tecnológico				
+Brasil	1	130500	130500		Unitário	Pessoas	Dias	Total
+Logística para o evento (Aluguel de espaço)	1	20000	20000	Diárias internacionais	525	50	3	78750
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000	Diárias nacionais	250	50	3	37500
+Materiais de consumo para o evento	1	5000	5000	Passagens	1000	50	1	50000
+Publicações	1	5000	5000	Aluguel de espaço	10000	50	2	20000
+Diárias nacionais	1	37500	37500	Consultor mediador	5000	1	2	10000
+Diárias internacionais				Assistente	1500	2	2	3000
+Passagens	1	50000	50000	Materiais de consumo (Apoio para o evento)				5000
+				Publicações				5000
+Argentina	1	130500	130500					
+Logística para o evento (Aluguel de espaço)	1	20000	20000					
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000					
+Materiais de consumo para o evento	1	5000	5000					
+Publicações	1	5000	5000					
+Diárias nacionais	1	37500	37500					
+Diárias internacionais								
+Passagens	1	50000	50000					
+Uruguai	1	130500	130500					
+Logística para o evento (Aluguel de espaço)	1	20000	20000					
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000					
+Materiais de consumo para o evento	1	5000	5000					
+Publicações	1	5000	5000					
+Diárias nacionais	1	37500	37500					
+Diárias internacionais								
+Passagens	1	50000	50000					
+Paraguai	1	130500	130500					
+Logística para o evento (Aluguel de espaço)	1	20000	20000					
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000					
+Materiais de consumo para o evento	1	5000	5000					
+Publicações	1	5000	5000					
+Diárias nacionais	1	37500	37500					
+Diárias internacionais								
+Passagens	1	50000	50000					
+Custo total com Workshops			522000					
+Realização de Seminário - 50 pessoas - 2 dias	quantidade de eventos	Custo por evento - R$	Custo total	Detalhamento do Cálculo para Seminário				
+Brasil	1	130500	130500		Unitário	Pessoas	Dias	Total
+Logística para o evento (Aluguel de espaço)	1	20000	20000	Diárias internacionais	525	50	3	78750
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000	Diárias nacionais	250	50	3	37500
+Materiais de consumo para o evento	1	5000	5000	Passagens	1000	50	1	50000
+Publicações	1	5000	5000	Aluguel de espaço	10000	50	2	20000
+Diárias nacionais	1	37500	37500	Consultor mediador	5000	1	2	10000
+Diárias internacionais				Assistente	1500	2	2	3000
+Passagens	1	50000	50000	Materiais de consumo (Apoio para o evento)				5000
+				Publicações				5000
+Argentina	1	130500	130500					
+Logística para o evento (Aluguel de espaço)	1	20000	20000					
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000					
+Materiais de consumo para o evento	1	5000	5000					
+Publicações	1	5000	5000					
+Diárias nacionais	1	37500	37500					
+Diárias internacionais								
+Passagens	1	50000	50000					
+Uruguai	1	130500	130500					
+Logística para o evento (Aluguel de espaço)	1	20000	20000					
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000					
+Materiais de consumo para o evento	1	5000	5000					
+Publicações	1	5000	5000					
+Diárias nacionais	1	37500	37500					
+Diárias internacionais								
+Passagens	1	50000	50000					
+Paraguai	1	130500	130500					
+Logística para o evento (Aluguel de espaço)	1	20000	20000					
+Serviços de terceiros (mediadores e assistentes)	1	13000	13000					
+Materiais de consumo para o evento	1	5000	5000					
+Publicações	1	5000	5000					
+Diárias nacionais	1	37500	37500					
+Diárias internacionais								
+Passagens	1	50000	50000					
+Custo total com Workshops			522000					
+Realizar Missões Comerciais - 30 pessoas	quantidade de eventos	Custo por evento - R$	Custo total	Detalhamento do Cálculo para Missões Comerciais				
+Brasil	1	79500	79500		Unitário	Pessoas	Dias	Total
+Diárias internacionais	1	47250	47250	Diárias internacionais	525	30	3	47250
+Passagens	1	30000	30000	Diárias nacionais	250		3	0
+Consultor (guia)	1	2250	2250	Passagens	1000	30	1	30000
+				Consultor (guia)	750	1	3	2250
+Argentina	1	79500	79500					
+Diárias internacionais	1	47250	47250					
+Passagens	1	30000	30000					
+Consultor (guia)	1	2250	2250					
+Uruguai	1	79500	79500					
+Diárias internacionais	1	47250	47250					
+Passagens	1	30000	30000					
+Consultor (guia)	1	2250	2250					
+Paraguai	1	79500	79500					
+Diárias internacionais	1	47250	47250					
+Passagens	1	30000	30000					
+Consultor (guia)	1	2250	2250					
+Custo total com Missões Comerciais			318000					
+Realizar Rodadas de Negócios - 50 pessoas	quantidade de eventos	Custo por evento - R$	Custo total					
+Brasil	1	60000	60000					
+Argentina	1	60000	60000					
+Uruguai	1	60000	60000					
+Paraguai	1	60000	60000					
+Custo total com Rodadas de Negócios			240000					
+Realizar Intercâmbio Comercial - 20 pessoas	quantidade de eventos	Custo por evento - R$	Custo total	Detalhamento do Cálculo para Intercâmbio Comercial				
+Brasil	1	53750	53750		Unitário	Pessoas	Dias	Total
+Diárias internacionais	1	31500	31500	Diárias internacionais	525	20	3	31500
+Passagens	1	20000	20000	Diárias nacionais	250		3	0
+Consultor (guia)	1	2250	2250	Passagens	1000	20	1	20000
+				Consultor (guia)	750	1	3	2250
+Argentina	1	53750	53750					
+Diárias internacionais	1	31500	31500					
+Passagens	1	20000	20000					
+Consultor (guia)	1	2250	2250					
+Uruguai	1	53750	53750					
+Diárias internacionais	1	31500	31500					
+Passagens	1	20000	20000					
+Consultor (guia)	1	2250	2250					
+Paraguai	1	53750	53750					
+Diárias internacionais	1	31500	31500					
+Passagens	1	20000	20000					
+Consultor (guia)	1	2250	2250					
+Custo total com Intercâmbio Comercial			215000					
+Realizar Reuniões	quantidade de eventos	Custo por evento - R$	Custo total	Detalhamento do Cálculo para realizar reuniões - Brasil				
+Brasil	2	12975	25950		Unitário	Pessoas	Dias	Total
+Diárias nacionais	2	2250	4500	Diárias internacionais	525	3	3	4725
+Diárias internacionais	2	4725	9450	Diárias nacionais	250	3	3	2250
+Passagens	2	6000	12000	Passagens	1000	6	1	6000
+Argentina	1	14625	14625	total				12975
+Diárias nacionais	1	750	750					
+Diárias internacionais	1	7875	7875	Detalhamento do Cálculo para realizar reuniões - Outros Países				
+Passagens	1	6000	6000		Unitário	Pessoas	Dias	Total
+				Diárias internacionais	525	5	3	7875
+Uruguai	1	14625	14625	Diárias nacionais	250	1	3	750
+Diárias nacionais	1	750	750	Passagens	1000	6	1	6000
+Diárias internacionais	1	7875	7875					
+Passagens	1	6000	6000	Total				14625
+Paraguai	1	14625	14625					
+Diárias nacionais	1	750	750					
+Diárias internacionais	1	7875	7875					
+Passagens	1	6000	6000					
+Custo total com Reuniões			69825					
+Contratação de Consultores - 4 consultores e 1 Administrativo	quantidade de eventos	Custo por evento - R$	Custo total					
+Brasil - Total	1	29512	29512					
+Consultor	1	18700	18700					
+Administrativo	1	10812	10812					
+Argentina	1	13600	13600					
+Uruguai	1	9350	9350					
+Paraguai	1	9350	9350					
+Custo total contratação de consultores			61812	607434.5				
+Aplicar Questionários	quantidade de eventos	Custo por evento - R$	Custo total					
+Brasil	2	60000	120000					
+Argentina	2	40000	80000					
+Uruguai	2	40000	80000					
+Paraguai	2	40000	80000					
+Custo total Pesquisas			360000					
+Relatório Final	Unitário	quantidade	Total					
+Relatório	60	50	3000					
+Total			3000					
+Realizar Auditoria	quantidade de eventos	Custo por evento - R$	Custo total					
+Auditoria externa	2	30000	60000					
+Auditoria interna	24	10000	240000	Base de cálculo para IRPF	141120			
+Auditoria BRASIL			300000					
+Auditoria FOCEM	2	62811.25	125622.5					
+Custo total para realizar auditorias			425622.5					
+Custos com consultores para execução do projeto	quantidade	Custo unitário mês- R$	Custo total					
+Brasil	1	29512	708288					
+Salários	1	17360	416640	No Brasil foi adotado o padrão salarial da ABDI.				
+Encargos	1	12152	291648					
+				Nos demais países foi adotada a tabela de consultores por produto PNUD				
+Argentina	1	13600	326400					
+Salários	1	8000	192000					
+Encargos	1	5600	134400					
+Uruguai	1	9350	224400	Base de cálculo para IRPF				
+Salários	1	5500	132000	36360				
+Encargos	1	3849.9999999999995	92399.99999999999	24 meses				
+				872640				
+Paraguai	1	9350	224400					
+Salários	1	5500	132000		1013760			
+Encargos	1	3849.9999999999995	92399.99999999999					
+Custo total com Consultores			1483488					
+Total do Projeto			6346747.5					
+Imprevistos			300000					
+
+[hoja: Planilha X]
+PLANILHA X - CRONOGRAMA FÍSICO
+
+[hoja: Planilha XI]
+PLANILHA XI - CRONOGRAMA FINANCEIRO															
+Consolidado Petróleo e Gás por Rúbrica - R$										IRRF	CSLL/PIS/CFS	ISS	TRIBUTAÇÃO		
+	GASTOS DO PROJETO POR ANO				INELEGÍVEIS	ELEGÍVEIS	FOCEM	CONTRAPARTIDA	ABDI						
+DESCRIÇÃO	2010	2011	2012	TOTAL	TOTAL	TOTAL	TOTAL	TOTAL	TOTAL	0.015	0.0465	0.05			
+	0.125	0.5	0.375	1	1	1	1	1	1						
+Gestão da Informação	1044000	0	0	1044000	33896	1010104	838386.3200000001	171717.68000000002	205613.68000000002	4560	14136	15200	33896		
+Serviços de terceiros - Pessoa Jurídica	264000	0	0	264000	29436	234564	194688.12	39875.880000000005	69311.88	3960	12276	13200	29436		
+Materiais de consumo	40000	0	0	40000	0	40000	33200	6800.000000000001	6800.000000000001	0	0	0	0		
+Publicações	40000	0	0	40000	4460	35540	29498.199999999997	6041.8	10501.8	600	1860	2000	4460		
+Diárias nacionais	300000	0	0	300000	0	300000	249000	51000.00000000001	51000.00000000001	0	0	0	0		
+Passagens	400000	0	0	400000	0	400000	332000	68000	68000	0	0	0	0		
+	0	0	0												
+Competitividade	0	1913400	212600	2126000	69592	2056408	1706818.6400000001	349589.36000000004	419181.36000000004	10470	28272	30850	69592		
+Serviços de terceiros - Pessoa Jurídica	0	475200	52800	528000	58872	469128	389376.24	79751.76000000001	138623.76	7920	24552	26400	58872		
+Serviços de terceiros - Pessoa Física	0	8100	900	9000	1800	7200	5976	1224	3024	1350	0	450	1800	0.15	
+Materiais de consumo	0	72000	8000	80000	0	80000	66400	13600.000000000002	13600.000000000002	0	0	0	0		
+Publicações	0	72000	8000	80000	8920	71080	58996.399999999994	12083.6	21003.6	1200	3720	4000	8920		
+Diárias nacionais	0	432000	48000	480000	0	480000	398400	81600	81600	0	0	0	0		
+Diárias internacionais	0	170100	18900	189000	0	189000	156870	32130.000000000004	32130.000000000004	0	0	0	0		
+Passagens	0	684000	76000	760000	0	760000	630800	129200.00000000001	129200.00000000001	0	0	0	0		
+Acesso a Mercados	0	0	773000	773000	30360	742640	616391.2	126248.80000000002	156608.80000000002	6300	11160	12900	30360		
+Serviços de terceiros - Pessoa Jurídica	0	0	240000	240000	26760	213240	176989.19999999998	36250.8	63010.8	3600	11160	12000	26760		
+Serviços de terceiros - Pessoa Física	0	0	18000	18000	3600	14400	11952	2448	6048	2700	0	900	3600	0.15	
+Diárias internacionais	0	0	315000	315000	0	315000	261450	53550.00000000001	53550.00000000001	0	0	0	0		
+Passagens	0	0	200000	200000	0	200000	166000	34000	34000	0	0	0	0		
+Gestão e Governança	300468.4375	1201873.75	901405.3125	2403747.5	332840.538	2070906.962	1740208.61044496	330698.35155504	663538.88955504	286056.18	22543.758	24240.600000000002	332840.53799999994		
+Serviços de terceiros - Pessoa Física	215436	861744	646308	1723488	278784	1444704	1209385.90274496	235318.09725504	514102.09725503996	278784	0	0	278784	0.275	1013760
+Serviços de terceiros - Pessoa Jurídica	75929.3125	303717.25	227787.9375	607434.5	53722.038	553712.462	470655.59270000004	83056.8693	136778.90730000002	7227.179999999999	22404.258	24090.600000000002	53722.038		481812
+Publicações	375	1500	1125	3000	334.5	2665.5	2212.365	453.13500000000005	787.635	45	139.5	150	334.5		
+Diárias nacionais	843.75	3375	2531.25	6750	0	6750	5602.5	1147.5	1147.5	0	0	0	0	0	
+Diárias internacionais	4134.375	16537.5	12403.125	33075	0	33075	27452.25	5622.75	5622.75	0	0	0	0	0	
+Passagens	3750	15000	11250	30000	0	30000	24900	5100	5100	0	0	0	0		
+Resumo por Rúbrica	1344468.4375	3115273.75	1887005.3125	6346747.5	480695.44675	5872858.962	4895828.770444959	978254.19155504	1458949.63830504	309270.5175	81953.20425	89471.725	480695.44675		
+Serviços de terceiros - Pessoa Jurídica	339929.3125	778917.25	520587.9375	1639434.5	182796.94675	1470644.462	1231709.1527	238935.30930000002	421732.25605	24591.517499999998	76233.70425	81971.725	182796.94675		
+Serviços de terceiros - Pessoa Física	215436	869844	665208	1750488	284184	1459104	1221337.90274496	238990.09725504	523174.09725503996	282834	0	1350	284184		
+Materiais de consumo	40000	72000	8000	120000	0	120000	99600	20400.000000000004	20400.000000000004	0	0	0	0		
+Publicações	40375	73500	9125	123000	13714.5	109285.5	90706.965	18578.535	32293.035	1845	5719.5	6150	13714.5		
+Diárias nacionais	300843.75	435375	50531.25	786750	0	786750	653002.5	133747.5	133747.5	0	0	0	0		
+Diárias internacionais	4134.375	186637.5	346303.125	537075	0	537075	445772.25	91302.75000000001	91302.75000000001	0	0	0	0		
+Passagens	403750	699000	287250	1390000	0	1390000	1153700	236300	236300	0	0	0	0		
+TOTAL GERAL	1344468.4375	3115273.75	1887005.3125	6346747.5	466688.538	5880058.962	4901804.77044496	978254.1915550401	1444942.7295550401	309270.5175	81953.20425	89471.725	480695.44675		
+Imprevistos	37500	150000	112500	300000	0	300000	255000	45000	45000						
+TOTAL DO PROJETO	1381968.4375	3265273.75	1999505.3125	6646747.5	466688.538	6180058.962	5156804.77044496	1023254.1915550401	1489942.7295550401						
+1.81	763518.4737569061	1804018.6464088396	1104699.067679558	3672236.1878453037	257838.97127071823	3414397.2165745855	2849063.409085613	565333.8074889724	823172.7787596907						
+				1			0.7758388249959789		0.22416117500402116						
+1	0.2079164941198684	0.4912588826339499	0.3008246232461817												
+
+[hoja: Planilha XII]
+	PLANILHA XII - CRONOGRAMA DE DESEMBOLSO				
+CRONOGRAMA DE DESEMBOLSO					
+DESEMBOLSO	MÊS/ANO	FOCEM	ABDI	TOTAL	PERCENTUAL
+1º	OUTUBRO/2010	592367.2755422812	171151.19821462498	763518.4737569061	0.20791649411986843
+2º	JANEIRO/2011	1399627.7069006704	404390.93950816925	1804018.6464088396	0.4912588826339499
+3º	JANEIRO/2012	857068.4266426616	247630.6410368964	1104699.067679558	0.3008246232461817
+	TOTAL	2849063.409085613	823172.7787596906	3672236.1878453037	1
+	INSTITUIÇÃO	PERCENTUAL			
+	FOCEM	0.7758388249959789			
+	ABDI	0.22416117500402116			
+	TOTAL	1

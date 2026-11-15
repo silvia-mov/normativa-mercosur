@@ -1,0 +1,421 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-21
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO II-Acdo Mercancias Peligrosas-ES/ANEXO II-Acdo Mercancias Peligrosas-ES-PARTE I_CAPITULO 1.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+ANEXO II
+
+NORMAS TÉCNICAS PARA EL TRANSPORTE TERRESTRE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PARTE 1
+
+
+
+
+
+DISPOSICIONES GENERALES Y DEFINICIONES
+CAPÍTULO  1.1
+
+
+DISPOSICIONES GENERALES
+
+
+Notas de Introducción
+
+Nota 1: Las Recomendaciones sobre pruebas y criterios incorporadas, por referencia, en ciertas disposiciones del presente Anexo en un manual separado – Recomendaciones al Transporte de Mercancías Peligrosas, Manual de Pruebas y Criterios, (ST/SG/AC.10/11 Rev. 3), con el siguiente contenido:
+Parte I:	Procedimientos de clasificación, métodos de prueba y criterios relativos a los explosivos de la Clase 1.
+Parte II:   Procedimientos de clasificación, métodos de prueba y criterios relativos a las  sustancias de reacción espontánea de la división  4.1 y el  peróxido orgánicos  de la división 5.2.
+Parte III:	Procedimientos de clasificación, métodos de prueba y criterios relativos a sustancias u objetos de la Clase 3, la Clase 4, la división 5.1 y la Clase 9.
+Apéndices: Información común a algunos tipos diferentes de pruebas y contactos nacionales para obtener detalles sobre las pruebas.
+Nota 2: En la Parte III del Manual de Pruebas y Criterios figuran algunos procedimientos de clasificación, métodos y criterios de pruebas que también se exponen en el presente Anexo.
+
+1.1.1	Alcance y aplicación
+1.1.1.1	En este Anexo se establecen requisitos detallados aplicables al Transporte de Mercancías Peligrosas. Salvo que en el Anexo se disponga otra cosa, nadie podrá presentar ni aceptar para transporte mercancías peligrosas que no estén correctamente clasificadas, embaladas, marcadas, etiquetadas, rotuladas, descritas y certificadas en un documento de transporte, y que no se hallen, por lo demás, en las condiciones de transporte prescritas por el presente Anexo.
+1.1.1.2	Las disposiciones del presente Anexo no se aplican al transporte de:
+    a) las mercancías peligrosas necesarias para la propulsión del medio de transporte o la operación de sus equipamientos especializados durante el transporte(por ejemplo, unidades de refrigeración), o que se precisan de conformidad con los reglamentos de explotación(por ejemplo, extintores); y
+    b) las mercancías peligrosas, embaladas para la venta al por menor, que sean transportadas por personas para su propio uso.
+Nota 1: En ciertas disposiciones especiales de la sección 3.3.1 del capítulo 3.3 también se indican las sustancias y objetos a los que no se aplica en el presente Anexo.
+1.1.1.3	Las expediciones con orígenes o destinos a los puertos o aeropuertos serán aceptadas para el transporte terrestre efectuadas conforme  a las exigencias  establecidas por la Organización Marítima Internacional (OMI) o la Organización para la Aviación Civil Internacional (OACI).
+1.1.1.4	Excepciones relativas a mercaderías peligrosas embaladas en cantidades limitadas.
+1.1.1.4.1	Algunas mercancías peligrosas embaladas en cantidades limitadas están exentas de determinados requisitos del presente Anexo, en las condiciones  que se fijan en el capítulo 3.4.
+1.1.1.5	De acuerdo con el Convenio de la Unión Postal Universal, no se admite el envío por correo de las mercancías peligrosas que se definen en este Anexo, con la excepción de las que a continuación se indican. Las autoridades postales nacionales competentes deberán asegurar el cumplimiento de las disposiciones relativas al transporte de mercancías peligrosas. Siempre que esté admitido por las autoridades postales nacionales competentes de cada Estado Parte, podrá aceptarse el envío por correo de las siguientes mercancías peligrosas:
+    a) sustancias infecciosas y dióxido de carbono sólido (hielo seco), utilizada como refrigerante de las sustancias infecciosas; y
+    b) materiales radiactivos en embalaje exceptuado que cumpla los requisitos de 2.7.9.1, y cuya actividad no exceda  de un  décimo de las enumeradas en el cuadro 2.7.7.1.2.1
+En cuanto a los envíos internacionales  por correo, deberán respetarse las normas complementarias establecidas  en los documentos (Acts) de la Unión Postal Universal.
+
+1.1.2	Transporte de material radiactivo
+1.1.2.1	 Disposiciones generales
+1.1.2.1.1	En este Anexo se establecen normas de seguridad que permitan someter a un grado razonable de control los riesgos inherentes a la radiación y la criticidad, así como los riesgos térmicos que puedan correr las personas, los bienes y el medio ambiente en relación con el transporte de materiales radiactivos. Dichas normas se basan en el “Reglamento para el transporte seguro de materiales radiactivos”, del Organismo Internacional de Energía Atómica (OIEA), Colección de Normas de Seguridad Nº TS-R-1, Edición de 1996 (Revisada) (publicada en 2002) y  “Advisory material for the IAEA for  safe transport of radioactive material”, IAEA Safety Standard Series Nº TS-G-1.1(publicado en 2002).  
+1.1.2.1.2	El objetivo del presente Anexo es proteger a las personas, los bienes y el medio ambiente de los efectos de las radiaciones durante el transporte de materiales radiactivos. Esta protección se logra aplicando los siguientes requisitos:
+    a) contención del contenido radiactivo;
+    b) control de los niveles externos de radiación;
+    c) prevención de la criticidad; y
+    d) prevención de los daños  ocasionados por el calor.
+Estos requisitos se satisfacen en primer lugar, aplicando un enfoque graduado a los límites del contenido de los bultos y medios de transporte y a las normas relativas a las características funcionales que se aplican a los diseños de bultos, dependiendo del riesgo del contenido radiactivo. En segundo lugar, se satisfacen imponiendo requisitos relativos al diseño y utilización de los bultos y el mantenimiento de los embalajes, incluida la consideración de la índole del contenido radiactivo. Por último, se satisfacen aplicando controles administrativos incluida, cuando proceda, la aprobación de las autoridades competentes de los Estados Partes.
+1.1.2.1.3	El presente Anexo se aplica al transporte terrestre de materiales radiactivos, incluyendo el considerado necesario y accesorio para la utilización de los mismos. El Transporte abarca todas las operaciones y condiciones relacionadas con el traslado de materiales radiactivos e inherentes al mismo, comprenden  el diseño, la fabricación, el mantenimiento y la reparación de embalajes, y la preparación, expedición, carga, transporte, incluido almacenamiento en tránsito, descarga y recepción en el destino final de cargas de materiales radiactivos y bultos. En este Anexo se aplica un enfoque gradual a las normas relativas a las características funcionales  caracterizadas por tres niveles generales de gravedad: 
+    a) condiciones de transporte rutinarias (sin incidentes);
+    b) condiciones de transporte normales (pequeños percances); y
+    c) condiciones de accidente durante el transporte.
+1.1.2.2	Programa de protección radiológica
+1.1.2.2.1	El transporte de materiales radiactivos se someterá a las disposiciones de un  programa de protección  radiológica, que ha de consistir en una serie de planes sistemáticos destinados a garantizar que las medidas de protección radiológica sean tomadas en cuenta de forma adecuada.
+1.1.2.2.2	La naturaleza y el alcance de las medidas que se apliquen en el programa han de guardar relación con la magnitud y la probabilidad de que ocurra exposición a las radiaciones. El programa incorporará  los requisitos  que se señalan en 1.1.2.2.3 a 1.1.2.2.5, 7.1.12.1.1, 7.1.12.1.3 y los  procedimientos de respuesta aplicables a las emergencias. Los documentos del programa deberán ponerse a disposición de la autoridad competente pertinente, cuando así se solicite, con fines de inspección.
+1.1.2.2.3	Se optimizarán la protección y la seguridad de modo que la magnitud de las dosis individuales, el número de personas expuestas y la probabilidad de que ocurran exposiciones se mantengan en el valor más bajo que pueda razonablemente  alcanzarse, teniendo en cuenta los factores económicos  y sociales, y que las dosis que reciban las personas estén por debajo de los límites de dosis  correspondientes. Se adoptará un enfoque estructurado y sistemático que tendrá en cuenta las interrelaciones entre el transporte y otras actividades.
+1.1.2.2.4	Los trabajadores deberán recibir capacitación apropiada en relación con los riesgos radiológicos involucrados y las precauciones a adoptar para asegurar la limitación de su exposición y la de otras personas que pudieran resultar afectadas por las actividades  que ellos realicen.
+1.1.2.2.5	En caso de exposición ocupacional ocasionada en actividades de transporte, cuando se determine que la dosis efectiva tiene probabilidad:
+    a) reducida de exceder a 1 mSv por año, no serán necesarias pautas especiales de trabajo, ni vigilancia radiológica detallada, ni programas de evaluación de dosis o mantenimiento de registro individuales;
+    b) de situarse entre 1 y 6 mSv por año, será necesario un programa de evaluación de dosis mediante la vigilancia radiológica en el lugar de trabajo o la vigilancia de la exposición individual;
+    c) de exceder a 6mSv por año, deberá procederse a la vigilancia de la exposición individual.
+Cuando se lleva a cabo la vigilancia individual o de los lugares de trabajo, se deberán llevar los registros apropiados.
+1.1.2.3	Garantía de calidad
+1.1.2.3.1	Con el fin de asegurar el cumplimiento  de las disposiciones pertinentes del presente Anexo se establecerán y aplicarán programas de garantía  de calidad basadas en las normas internacionales, nacionales o de otra índole aceptables para la autoridad competente de cada Estado Parte, para el diseño, fabricación, ensayo, documentación, utilización, mantenimiento e inspección de todos los materiales radiactivos, en forma especial materiales radiactivos  de baja dispersión y bultos, así como para las operaciones de transporte y de almacenamiento en tránsito. Se mantendrá a disposición de la autoridad competente la certificación de que se han cumplido plenamente las especificaciones relativas al diseño. El fabricante, el expedidor o el usuario deberán estar preparados para facilitar la inspección por la autoridad competente durante la fabricación y utilización y para que:
+    a) los métodos y materiales utilizados para la fabricación se ajustan a las especificaciones aprobadas relativas al diseño;  y
+    b) todos los embalajes se inspeccionan periódicamente y, en caso necesario, se reparan y mantienen en buenas condiciones, de modo que sigan ajustándose a todos los requisitos y especificaciones pertinentes, incluso después de un uso repetido.
+Cuando sea necesaria la aprobación de la autoridad competente de cada Estado Parte, dicha aprobación deberá tener en cuenta y depender de la idoneidad del programa de garantía de calidad.
+1.1.2.4	Arreglos especiales
+1.1.2.4.1	Por arreglos especiales se entenderá aquellas disposiciones, aprobadas por la autoridad competente de cada Estado Parte, en virtud de las cuales podrá ser transportada una expedición que no satisfaga todos los requisitos del presente Anexo aplicables a los materiales radiactivos.
+1.1.2.4.2	Las expediciones para las que no sea posible satisfacer los requisitos aplicables a la Clase 7  se transportarán exclusivamente en virtud de arreglos especiales. Siempre que la autoridad competente de cada Estado Parte haya comprobado  que no es posible satisfacer  las disposiciones de la Clase 7 del presente  Anexo y se haya demostrado el cumplimiento de las normas obligatorias de seguridad establecidas por medios distintos a las demás disposiciones, dicha autoridad podrá aprobar arreglos especiales para una única expedición o para una serie de expediciones programadas. El nivel global de seguridad durante el transporte deberá equivaler, al menos, al que se alcanzaría de cumplirse todos los requisitos reglamentarios aplicables. Las expediciones internacionales de este tipo requerirán aprobación multilateral.
+                1.1.2.5 Material radiactivo que posea otras propiedades peligrosas
+                    1.1.2.5.1 Además de las propiedades radiactivas y fisionables, en la documentación, embalaje, rotulado, marcado, señalización, almacenado, segregado y transporte, será preciso tener en cuenta cualquier otro riesgo que pueda ofrecer el contenido de un embalaje, como su explosividad, inflamabilidad, piroforicidad, toxicidad química y corrosividad, de manera que se puedan cumplir todas las disposiciones  aplicables a las mercancías peligrosas de este Anexo.
+
+CAPÍTULO 1.2
+
+DEFINICIONES Y UNIDADES DE MEDIDA
+
+Nota de Introducción
+Nota: Alcance de las definiciones
+En este Capítulo se establecen definiciones de términos, de aplicación general que se utilizan a lo largo del presente Anexo. En los capítulos pertinentes figuran más definiciones de carácter muy específicos (por ejemplo, de términos relativos a la construcción  de recipientes intermedios para graneles o de cisternas portátiles).
+1.2.1	Definiciones
+	A los efectos del presente Anexo se entenderá por:
+Autoridad competente, cualquier órgano regulador o autoridad nacional o internacional designada o de otra forma reconocida como tal para que entienda en cualquier cuestión relacionada con el presente Anexo.
+Barril de madera, un embalaje construido de madera natural con sección circular, paredes convexas, construido por duelas y tapas y equipados con aros. 
+Bidón o jerrican, un embalaje de metal o de plástico de sección transversal rectangular o poligonal;
+Bulto, el producto final de la operación de embalaje, constituido por el embalaje y su contenido preparados para el transporte;
+Nota:   Para materiales radiactivos, véase 2.7.2
+Caja, un embalaje de caras rectangulares o poligonales llenas, hecho de metal, madera, madera contrachapada, madera reconstituida, cartón, plástico u otro material apropiado. Pueden abrirse pequeños orificios para facilitar la manipulación o la apertura o para satisfacer los criterios de clasificación, a condición de que no comprometan la integridad del embalaje durante el transporte;
+Capacidad máxima, a los efectos de la sección 6.1.4, el volumen interior máximo de los recipientes o de los embalajes, expresado en litros:
+Cierre, un dispositivo que sirve para cerrar la abertura de un recipiente;
+Cisterna, significa una cisterna portátil (véase 6.7.2.1), incluidos un contenedor cisterna, un camión o vagón cisterna o un recipiente con una capacidad no inferior a 450 litros para contener líquidos, sólidos o gases;
+
+Cisterna portátil:
+    a) a los efectos del transporte de sustancias de las clases 3 a 9, es una cisterna portátil multimodal con una capacidad superior a 450 litros. Comprende un depósito provisto de los elementos de servicio y estructurales necesarios para el transporte de sustancias peligrosas;
+    b) a los efectos del transporte de gases licuados no refrigerados de la clase 2, es una cisterna multimodal con una capacidad superior a 450 litros. Comprende un depósito con los elementos de servicio y estructurales necesarios para el transporte de gases;
+    c) a los efectos del transporte de gases licuados refrigerados, es una cisterna  con aislamiento térmico y una capacidad superior a 450 litros, con los elementos de servicio y estructurales necesarios para el transporte de gases licuados refrigerados; 
+La cisterna portátil deberá llenarse y vaciarse sin necesidad de desmontar sus elementos estructurales. Tendrá elementos estabilizadores exteriores al depósito y deberá  izarse cuando esté llena. Estará diseñada  principalmente para ser cargada en un vehículo de transporte o en un buque y equipada con patines, soportes o accesorios que faciliten su manipulación mecánica. Los vehículos cisterna de transporte por carretera, los vagones cisterna ferroviarios, las cisternas no metálicas, los cilindros de gas, los grandes recipientes y los recipientes intermedios para graneles (RIGs) no se consideran  cisternas portátiles según esta definición;
+Destinatario, toda persona, organización u organismo oficial que reciba una expedición;
+Embalaje, un recipiente y todos los demás elementos o materiales necesarios para que el mismo pueda desempeñar su función de contención;
+Nota: Para materiales radiactivos véase 2.7.2
+Embalaje combinado, una combinación de embalajes para el transporte, constituida por uno o varios embalajes interiores sujetos dentro de un embalaje exterior conforme al párrafo 4.1.1.5;
+Embalaje compuesto, un embalaje constituido por un embalaje exterior y un recipiente interior construidos de tal manera, que juntos constituyan un embalaje integrado; una vez montado, tal embalaje es un todo indivisible que se llena, se almacena, se transporta y se vacía como tal;
+Embalaje de socorro, un embalaje especial conforme a las disposiciones aplicables del presente Anexo en el que se ponen bultos de mercancías peligrosas que han quedado dañados, presentan defectos o derrames, o mercancías peligrosas que se han vertido o derramado, a fin de transportarlas para su recuperación o eliminación;
+Embalaje exterior, la protección exterior de un embalaje compuesto o combinado, junto con los materiales absorbentes, los materiales amortiguadores y todos los demás elementos necesarios para contener y proteger los recipientes interiores o los embalajes interiores;
+Embalaje interior, un embalaje que ha de estar provisto de un embalaje exterior para el transporte;
+Embalaje intermedio, un embalaje situado entre el embalaje interior, o los objetos, y un embalaje exterior;
+Embalaje estanco a los pulverulentos, un embalaje que no deja pasar contenidos secos, incluidas las materias sólidas finas producidas durante el transporte;
+Embalaje reacondicionado, incluyen:
+    a) Todo tambor de metal
+    i) que se haya limpiado hasta poner al descubierto el material de que esté construido originalmente de manera que se hayan eliminado los restos de cualquier contenido anterior, cualquier residuo de corrosión interna y externa y los revestimientos y etiquetas exteriores
+    ii) cuya forma y contorno originales se hayan restablecido, cuyos bordes (si hubiere) se hayan enderezado y sellado y cuyas juntas removibles  se hayan reemplazado; y
+    iii) que se haya inspeccionado tras su limpieza, pero antes de ser pintado, y no presente defectos visibles como picaduras, reducción importante del espesor, fatiga del metal, roscas o cierres deteriorados u otros defectos de importancia; 
+    b) Todo tambor y bidón de plástico:
+    i) que se haya limpiado hasta poner al descubierto el material de que esté construido originalmente, de manera que se hayan eliminado los restos de cualquier contenido anterior y los revestimientos y etiquetas exteriores;
+    ii) cuyas empaquetaduras separables se hayan sustituido por otras nuevas; y
+    iii) que se haya inspeccionado tras su limpieza y que no presente defectos visibles como desgarres, dobleces o fisuras, o roscas o cierres deteriorados u otros defectos de importancia;
+Embalaje reconstruido:
+a)	Todo tambor de metal:
+(i)	fabricado como tambor de tipo ONU a partir de un tambor que no sea de tipo ONU;
+(ii)	obtenido de la transformación de un tambor de tipo ONU en un tambor de otro tipo ONU; 
+    (iii) cuyas estructuras integrales (por ejemplo, las tapas no desmontables) hayan sido cambiadas; o
+
+b)	Todo tambor de plástico:
+(i)	obtenido de la transformación de un tambor de tipo ONU en un tambor de otro tipo ONU (por ejemplo 1H1 en 1H2); o
+(ii)	cuyos elementos estructurales integrales hayan sido cambiados.
+Se aplicarán a los bidones reconstruidos las disposiciones del presente Anexo que se aplican a los bidones nuevos de su mismo tipo;
+Embalaje reutilizado, todo embalaje que haya de ser nuevamente llenado y que tras haber sido examinado haya resultado exento de defectos que afecten su capacidad de superar las pruebas de resistencia; queda incluido todo tipo de embalaje que se llene de nuevo con el mismo producto, o con otro similar que sea compatible, y cuyo transporte se efectúe dentro de los límites de una cadena de distribución controlada por el expedidor del producto;
+Embalaje único, un embalaje constituido por un único recipiente, que no necesita de un embalaje exterior para ser transportado. 
+Expedición, cualquier mercancía peligrosa entregada para su transporte por un expedidor;
+Forro, un tubo o saco separados insertados en un embalaje, gran embalaje o RIG, pero que no forma parte integrante de él, incluidos los cierres de sus aberturas; 
+Garantía de calidad, un programa sistemático de controles e inspecciones aplicado por cualquier organización o entidad con el que se trate de proporcionar  el nivel suficiente de confianza en que se alcanza en la práctica el grado de seguridad prescrito en el presente Anexo;
+Garantía de conformidad, un programa sistemático de control aplicado por la autoridad competente de cada uno de los Estados Parte destinado a garantizar, en la práctica, el cumplimiento de las disposiciones de este Anexo;
+Grandes embalajes, están constituidos por un embalaje exterior que contiene diversas mercancías o embalajes interiores y que;
+        a) se destinan a manipulaciones mecánicas;
+         b)	tienen una masa neta de más de 400 kg o una capacidad de   más de 450 litros, pero un volumen que no pasa de 3 m3;
+
+Jaula, un embalaje exterior  en forma de armazón, con espacios abiertos entre sus elementos constructivos;
+
+Jerrican, un sinónimo de bidón;
+Líquido, salvo que exista una indicación explícita o implícita en sentido contrario en el presente Anexo, toda mercancía peligrosa con un punto de fusión o un punto inicial de fusión de 20°C a una presión de 101.3 kPa. La sustancia viscosa cuyo punto específico de fusión no se pueda determinar se someterá a la prueba ASTM D 4359-90 o a la prueba de determinación de fluidez (prueba de penetrómetro) prescrita en ítem 2.3.4 del Anexo A del Acuerdo Europeo relativo al Transporte Internacional de Mercancías Peligrosas por Carretera (ADR) 1/ con las siguientes modificaciones: el penetrómetro debe ajustarse a la norma ISO 2137:1985 y la prueba se utilice para las sustancias viscosas de cualquier tipo;
+Masa neta máxima, la masa neta máxima del contenido de un embalaje único o la masa combinada de los embalajes interiores y de su contenido, expresada en kilogramos;
+Material plástico reciclado, el material recuperado de embalajes industriales que han sido limpiados y preparados para la fabricación de nuevos embalajes. Las propiedades específicas de los materiales reciclados que se utilicen para la producción de nuevos embalajes se garantizarán y documentarán periódicamente como parte de un programa de garantía de la calidad reconocido por la autoridad competente del Estado Parte. El programa de garantía de la calidad incluirá la constancia de separación previa adecuada y la verificación de que cada partida de materiales plásticos reciclados tiene el índice de fluidez (“melt flow”), la densidad y resistencia a la tracción y correspondientes al tipo de diseño de embalaje fabricado a partir de esos materiales reciclados. Para ello se precisan datos sobre el material de embalaje del que provienen los plásticos reciclados, así como sobre el contenido anterior de esos embalajes, si ese contenido anterior puede reducir la capacidad técnica de los nuevos embalajes, fabricados a partir de ese material. Además, el programa de garantía de la calidad del fabricante  de embalajes conforme al párrafo 6.1.1.4 deberá incluir la prueba del diseño mecánico de la sección 6.1.5 sobre los embalajes fabricados con cada partida de materiales de plásticos reciclados. En esas pruebas, la capacidad de apilamiento podrá verificarse mediante una prueba de compresión dinámica apropiada, en lugar de pruebas de carga estática.
+Recipiente, un receptáculo destinado a contener sustancias u objetos, incluido cualquier dispositivo de cierre;
+Recipiente interior, un recipiente que ha de estar provisto de un embalaje exterior para desempeñar su función de contención;
+Recipiente Intermedio para Graneles (RIG), un embalaje portátil, semirrígido o flexible, distinto a los que se especifican en el capítulo 6.1 y que;
+    a) Tiene una capacidad:
+    i) no superior a 3,0 m3 (3.000 litros) para sólidos y líquidos de los grupos de embalaje II y III;
+        ii) no superior a 1,5 m3 para sólidos del grupo de embalaje I que se transporten en RIG flexibles, de plásticos rígido, de materiales compuestos, de cartón o de madera;
+        iii) no superior a 3.0 m3 para sólidos del grupo de embalaje I que se transporten en RIG de metal;
+        iv) no superior a 3.0 m3 para el transporte de materiales radiactivos de clase 7;
+    b) Están destinados a manipulación mecánica;
+    c) Han superado las pruebas  de resistencia a las previsiones que se producen durante las operaciones de manipulación y transporte;
+Remitente, cualquier persona, organización u organismo oficial que presente una mercancía para ser transportada;
+Saco, un embalaje flexible hecho de papel, de película de plástico, de tela, de materiales tejidos o de otros materiales apropiados;
+Sobreembalaje/Sobreenvase: es el medio empleado por un solo expedidor que contenga uno o más embalajes y forme una unidad para mayor comodidad de manipulación y almacenamiento durante el transporte. Entre los ejemplos de sobreembalajes figuran los diversos embalajes que estén;
+    a) colocados o apilados en una plataforma de carga como un pallet y sujetos con flejes, películas termocontraibles, películas estirables u otros medios adecuados; o
+    b) colocados en un embalaje exterior, como una caja o una jaula.
+Nota: Sobreenvase, término no utilizado en este Anexo. Es aplicado para materiales radiactivos (Clase 7) por la autoridad competente.
+Sólido, la mercancía peligrosa, distinta de un gas, que no cumple la definición de líquido de este párrafo;
+Tambor, un embalaje cilíndrico con fondo y tapa en forma plana o convexa, hecho de metal, cartón, plástico, madera enchapada u otro material apropiado. Esta definición incluye también los embalajes que tengan otras formas hechos de metal o plástico, por ejemplo embalajes con los extremos redondeados o envases con forma de balde; en cambio, no incluye los toneles de maderas ni los jerricanes;
+Tonel, un sinónimo de barril;
+Transportista, cualquier persona, organización, u organismo oficial que se encargue del transporte terrestre de mercancías peligrosas; 
+Vehículo, todo vehículo de carretera (incluidos los vehículos articulados, por ejemplo, los formados por un vehículo tractor y un semirremolque), o todo vagón de ferrocarril. Cada remolque será considerado como un vehículo distinto;
+Aclaración de ejemplos de algunos de los términos definidos
+		Las siguientes explicaciones y ejemplos tienen por objeto ayudar a aclarar la utilización de algunos de los términos de embalaje definidos en esta sección.
+		Las definiciones de la presente sección se ajustan al empleo de los términos definidos en todo el Anexo. Sin embargo, algunos de los términos definidos suelen utilizarse de otro modo. Así ocurre en particular con el término “recipiente interior” que a menudo se ha utilizado para describir los “interiores” de un embalaje combinado.
+		Los “interiores” de “embalajes combinados” se califican siempre de “embalajes interiores” y no de “recipientes interiores”. Una botella de vidrio constituye un ejemplo de uno de esos “embalajes interiores”
+		Los “interiores”  de los “embalajes compuestos” se califican normalmente de “recipientes interiores”. Por ejemplo, el “interior” de un embalaje compuesto 6HA1 (material plástico) es uno de esos “recipientes interiores”, dado que normalmente no está ideado para desempeñar una función de contención sin su “embalaje exterior” y en consecuencia no es un  “embalaje interior”.   
+
+1.2.2	Unidades de medida
+1.2.2.1	En el presente Anexo se utilizan las siguientes unidades de medidas a/:
+Medida de
+Unidad SÍ (b)
+Otra unidad aceptable
+Relación entre unidades
+Longitud
+m (metro)
+-
+-
+Superficie
+m2  (metro cuadrado) 
+-
+-
+Volumen
+m3  (metro cúbico)
+l (c)   (litro)
+1 l = 10-3 m3 
+Tiempo
+s (segundo)
+in (minuto)
+1 in = 60 s
+
+
+h (hora)
+1 h = 3.600 s
+
+
+d (ida)
+1 d = 86.400 s
+Masa
+kg (kilogramo)
+g (gramo)
+1 g = 10 -3 kg
+
+
+t (tonelada)
+1 t = 103 kg
+Densidad de masa
+kg/m3  
+kg/l
+1 kg/l = 103 kg/m3 
+Temperatura
+K (Kelvin)
+ºC (grados Celsius)
+0 ºC = 273,15K 
+Diferencia de temperatura 
+K (Kelvin)
+ºC (grados Celsius)
+1 ºC =1 K 
+Fuerza
+N (Newton)
+-
+1 N = 1 kgf.m/s2 
+Presión 
+Pa (Pascal)
+Bar
+1 bar = 105 Pa
+
+
+
+1 Pa = 1 N/m2 
+Tensión
+N/m2 
+N/mm2 
+1 N/mm2  = 1 MPa
+Trabajo
+
+
+kW.h (kilowatio.hora) 
+1 kW.h = 3,6 MJ
+Energia
+J (Joule)
+
+
+1 J = 1 N.m = 1 W.s
+Cantidad de calor
+
+
+eV (electrónvoltio)
+1 eV = 0,1602 x 10-18 J
+Potencia
+W (Watt)
+
+1 W = 1 J/s = 1 N.m/s
+
+Viscosidad cinemática
+m2 /s
+mm2 /s
+1 mm2 /s = 10-6 m2 /s 
+Viscosidad dinámica
+Pa.s
+mPa.s
+1 mPa.s = 10-3 Pa.s
+Actividad
+Bq (Becquerel)
+-
+-
+Equivalente de dosis
+Sv (Sievert)
+-
+-
+Notas referentes a 1.2.2.1:
+
+(a)	Para la conversión de las unidades utilizadas hasta ahora en unidades del SI se pueden  redondear las cifras como sigue:
+
+Fuerza 	Tensión
+
+1 kgf = 9,807 N	1 kgf/mm2  = 9,807 N/mm2
+1 N = 0,102 kgf	1 N/mm2   = 0,102 kgf/mm2  
+
+Presión 
+
+1 Pa	= 1 N/m2 = 10-5 bar		= 1,02 x 10-5 kgf/cm2   	= 0,75 x 10-2 torr
+1 bar	= 105 Pa			          = 1,02 kgf/cm2 		= 750 torr
+1 kgf/cm2 	= 9,807 x 104 Pa		          = 0,9807 bar		           = 736 torr
+1 torr	= 1,33 x 102 Pa		          = 1,33 x 10-3 bar	           = 1,36 x 10-3 kgf/cm2 
+
+Energía, Trabajo, Cantidad de calor
+
+1 J = 1 N.m  	= 0,278 x 10-6 kW.h 		 = 0,102 kgf.m          = 0,239 x 10-3 kcal
+1 kW.h	= 3,6 x 106 J	= 367 x 103 kgf.m              	 = 860 kcal
+1 kgf.m	= 9,807 J	= 2,72 x 10-6 kW.h	           = 2,34 x 10-3 kcal 
+1 kcal	= 4,19 x 103 J	= 1,16 x 10-3 kW.h	                 = 427 kgf.m
+
+Potencia		Viscosidad cinemática
+
+1 W	= 0,102 kgf.m/s	= 0,86 kcal/h	1 m2/s    = 104 St (Stokes)
+1 kgf.m/s	= 9,807 W	= 8,43 kcal/h	1 St        = 10-4 m2/s
+1 kcal/h	= 1,16 W	= 0,119 kgf.m/s
+
+Viscosidad dinámica 
+
+1 Pa.s	= 1 N.s/m2 	= 10 P (Poise)	= 0,102 kgf.s/m2 
+1 P	= 0,1 Pa.s	= 0,1 N.s/m2 	= 1,02 x 10-2 kgf.s/m2  
+1 kgf.s/m2 	= 9,807 Pa.s	= 9,807 N.s/m2 	= 98,07 P
+
+(b)	El Sistema Internacional de Unidades (SI) es el resultado de las decisiones en la Conferencia General de Pesos y Medidas (Dirección: Pavillon de Breteuil, Parc de St-Cloud, F-92 310 Sèvres).
+(c)	También se puede abreviar la palabra litro con la letra “L” en lugar de “l”, cuando la máquina de escribir no distingue entre la cifra  “1” la letra “l”.
+Los múltiplos y submúltiplos decimales de una unidad se pueden formar mediante prefijos o símbolos colocados antes del nombre o símbolo de la unidad y con los siguientes significados:
+Factor
+
+Prefijo
+Símbolo 
+1 000 000 000 000 000 000
+= 1018
+Trillón
+Exa
+E
+1 000 000 000 000 000
+= 1015
+Mil billónes
+Peta
+P
+1 000 000 000 000
+= 1012
+Billón
+tera
+T
+1 000 000 000
+= 109
+Mil billónes
+giga
+G
+1 000 000
+= 106
+Millón
+mega
+M
+1 000
+= 103
+Mil
+quilo
+K
+100
+= 102
+Cien
+hecto
+h
+10
+= 101
+Diez
+deca
+da
+0,1
+= 10-1
+Décimo
+deci
+d
+0,01
+= 10-2
+Centésimo
+centi
+c
+0,001
+= 10-3
+Milésimo
+mili
+m
+0,000 001
+= 10-6
+Un millonésimo
+micro
+µ
+0,000 000 001
+= 10-9
+Un mil millonésimo
+nano
+n
+0,000 000 000 001
+= 10-12
+Un billonésimo
+pico
+p
+0,000 000 000 000 001
+= 10-15
+Un mil billonésimo
+femto
+f
+0,000 000 000 000 000 001
+= 10-18
+Un trillonésimo
+atto
+a
+1.2.2.2	Cuando se utiliza la palabra “peso”,  significa “masa”.
+1.2.2.3	Siempre que se mencione el peso de un embalaje, se tratará  de la masa bruta, salvo que se indique otra cosa. La masa de los recipientes o cisternas utilizados para el transporte de mercancías no incluye en la masa bruta.
+1.2.2.4	Salvo que se indique expresamente otra cosa, el signo “%” representa:
+a)	En el caso de las mezclas de sólidos o de líquidos, y también en el caso de soluciones y de sólidos humedecidos con un líquido: un porcentaje de masa basado en la masa total de la mezcla, la solución o el líquido humedecido;
+    c)  En el caso de mezclas de gases comprimidos: cuando el llenado  sea por presión, la proporción  del volumen indicada como porcentaje del volumen total de la mezcla gaseosa o, cuando el llenado sea por masa, la proporción de la masa indicada como porcentaje de la masa total de la mezcla.
+En el caso de las mezclas de gases licuados y gases disueltos a presión; la proporción de la masa indicada como porcentaje de la masa total de la mezcla.
+                1.2.2.5 Las presiones de todos los tipos relativas a recipientes (como la presión de prueba, la presión interna, la presión de apertura de la válvula de seguridad)  se indican siempre en presión manométrica (presión en exceso con respecto a la presión atmosférica); sin embargo, la presión del vapor de las sustancia se expresa siempre en presión absoluta.

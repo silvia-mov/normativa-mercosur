@@ -1,0 +1,1416 @@
+Decisión CMC N° 15/19
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-11
+Archivo original: 80969_11.A.MERCOSUR-PARTE-5-ESP.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+PARTE 5
+
+
+
+
+
+PROCEDIMIENTOS DE EXPEDICIÓN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAPÍTULO 5.1
+
+
+DISPOSICIONES GENERALES
+
+
+
+5.1.1	Aplicación y disposiciones generales
+
+5.1.1.1	En esta Parte se establecen las exigencias para la expedición de mercancías peligrosas a lo que refiere a información de los riesgos, documentación y disposiciones generales.
+	
+5.1.1.2	La información de riesgos, a los efectos del transporte de mercancías peligrosas, está constituida por la identificación de los bultos y los embalajes y por la señalización de la unidad y de los equipos de transporte.
+
+5.1.1.2.1	La identificación de los bultos, objetos y embalajes se efectuará por medio del marcado, etiquetado (fijación de las etiquetas de riesgo) y demás símbolos aplicables. Tal marcado consiste, en general, en la ubicación del número ONU y la denominación apropiada para el transporte.
+
+NOTA: Los bultos pueden exhibir marcados o símbolos adicionales para indicar por ejemplo, las precauciones que deben ser tomadas durante su manipulación o estiba.    
+
+5.1.1.2.2	La señalización de las unidades y de los equipamientos de transporte se efectuará por medio de rótulos de riesgo, paneles de seguridad, y demás símbolos aplicables.
+
+
+5.1.2	Uso de sobreembalajes
+
+5.1.2.1	Todo sobreembalaje llevará una marca con la palabra "SOBREEMBALAJE", y para cada mercancía peligrosa que contenga, la denominación apropiada para el transporte y el número de las Naciones Unidas, así como la etiqueta prevista para los bultos en el capítulo 5.2, salvo que estén visibles las marcas y etiquetas representativas de todas las mercancías peligrosas contenidas en el sobreembalaje embalaje, excepto las requeridas en 5.2.2.1.12. 
+
+5.1.2.2	Cada bulto de mercancías peligrosas contenido en el sobre embalaje cumplirá todas las disposiciones aplicables en el presente Anexo. La marca de "sobreembalaje embalaje" es una indicación de que se cumple esta disposición. El sobreembalaje embalaje no comprometerá la función prevista de cada embalaje.
+
+
+5.1.2.3	Todo bulto que lleve las marcas de orientación prescritas en 5.2.3.2. del presente Anexo y que esté sobreembalaje embalado o colocado en un gran embalaje deberá estar orientado de acuerdo con esos símbolos.
+
+5.1.3	Embalajes vacíos y no descontaminados 
+
+5.1.3.1	Embalajes (incluyendo RIGS y grandes embalajes) vacíos y no descontaminados que hayan contenido mercancías peligrosas deben ser transportados cerrados, de modo de evitar perdida de contenido provocado por vibración u otros eventos relacionados con las etapas de operación de transporte, y no deben presentar ninguna señal de residuo peligroso adherido a la parte externa de ese embalaje, observando, cuando sea aplicable, los dispuesto en el ítem 4.1.1.18.1.
+
+5.1.3.2	Excepto en lo que respecta a la clase 7, todo embalaje que haya contenido previamente mercancías peligrosas, será identificado, en la forma prescrita para esas mercancías peligrosas, a menos que se hayan tomado medidas como la limpieza, la eliminación de vapores o el nuevo llenado con una sustancia no peligrosa, para contrarrestar todo peligro, bajo responsabilidad del expedidor.
+
+
+
+Los embalajes, incluidos los RIG, y las cisternas utilizados para el transporte de materiales radiactivos no se utilizarán para almacenamiento o transporte de otras mercancías, a menos que se hayan descontaminado hasta un nivel inferior a 0,4 Bq/cm2 para emisores beta y gamma y emisores alfa de baja toxicidad, y de 0,04 Bq/cm2 para todos los demás emisores alfa.
+
+5.1.4	Embalaje en común 
+
+Cuando se embalen dos o más mercancías peligrosas en el mismo embalaje exterior, el bulto será identificado en la forma prescrita para cada sustancia. No se precisarán etiquetas de riesgo secundario cuando éste quede ya representado por una etiqueta de riesgo principal.
+
+5.1.5	Disposiciones generales aplicables a la Clase 7
+
+5.1.5.1	Las disposiciones generales relativas a los procedimientos de expedición, tales como certificados, notificaciones, aprobaciones, determinación de los índices de transporte y de seguridad de la criticidad, y demás controles relativos al transporte terrestre de materiales radiactivos, están establecidos en las normas de la Autoridad Competente.
+
+5.1.5.1	Aprobación de expediciones y notificación
+
+5.1.5.1.1	Generalidades
+
+Además de la aprobación del diseño de bulto que se describe en el capítulo 6.4, en ciertas circunstancias (5.1.5.1.2 y 5.1.5.1.3) se requerirá una aprobación multilateral de la expedición. En ciertas circunstancias puede asimismo ser necesario que se notifique la expedición (5.1.5.1.4) a las autoridades competentes.
+
+5.1.5.1.2	Aprobación de expediciones
+
+Se precisará la aprobación multilateral para:
+
+a)	La expedición de bultos del Tipo B(M) que no se ajusten a los requisitos establecidos en 6.4.7.5 o que estén diseñados para permitir el venteo intermitente controlado;
+
+b)	La expedición de bultos del Tipo B(M) que contengan materiales radiactivos cuya actividad sea superior a 3000 A1    o 3000 A2, según corresponda, o a 1000 TBq, rigiendo entre estos valores el que sea menor;
+
+c)	La expedición de bultos que contengan sustancias fisionables si la suma de los índices de seguridad con respecto a la criticidad de los bultos en un solo contenedor o en un único medio de transporte excede de 50.
+
+Sin embargo, la Autoridad Competente podrá permitir que se efectúe un transporte a su país o a través del mismo, sin que se haya aprobado la expedición, mediante una disposición al efecto en el documento en el que se apruebe el diseño (véase 5.1.5.2.1).
+
+5.1.5.1.3	Aprobación de expediciones mediante un acuerdo especial
+
+Una autoridad competente puede aprobar ciertas disposiciones mediante las cuales se autoriza una expedición que no satisfaga todos los requisitos aplicables de esta Reglamentación a condición de que se concluya un acuerdo especial (véase 1.1.2.4).
+
+5.1.5.1.4	Notificaciones
+
+Será preciso enviar notificación a las autoridades competentes de la siguiente manera:
+
+a)	Antes de proceder a la primera expedición de cualquier bulto que requiera la aprobación de la autoridad competente, el expedidor se encargará de que la autoridad competente del país de origen de la expedición y la de cada país a través del o dentro del cual se vaya a transportar la remesa reciban copias de cada certificado extendido por la autoridad competente relativo al diseño del bulto de que se trate. El expedidor no tendrá que esperar acuse de recibo de la autoridad competente, ni ésta tendrá que acusar recibo del certificado;
+
+
+b)	Para cada uno de los siguientes tipos de expedición:
+
+i)	los bultos del Tipo C que contengan materiales radiactivos cuya actividad sea superior a 3000 A1 o a 3000 A2, según proceda, o a 1000 TBq, rigiendo entre estos valores el que sea menor;
+
+ii)	los bultos del Tipo B(U) que contengan materiales radiactivos cuya actividad sea superior a 3000 A1   o a 3000 A2, según proceda, o a 1000 TBq, rigiendo entre estos valores el que sea menor;
+
+iii)	los bultos del Tipo B(M);
+
+iv)	las expediciones que se efectúen en virtud de arreglos especiales,
+
+el expedidor enviará la notificación a la autoridad competente del país de origen de la expedición y a la autoridad competente de cada uno de los países a través de los cuales o al cual se va a transportar la remesa. Esta notificación deberá obrar en poder de cada una de las autoridades competentes antes de que se inicie la expedición y, de preferencia, con una antelación mínima de 7 días;
+
+c)	No será necesario que el expedidor envíe una notificación por separado, si los datos requeridos se han incluido ya en la solicitud de aprobación de la expedición;
+
+d)	La notificación de la remesa incluirá:
+
+i)	datos suficientes para poder identificar el bulto o bultos, comprendidos todos los números de los certificados y las marcas de identificación correspondientes;
+
+ii)	datos relativos a la fecha de expedición, la fecha prevista de llegada y el itinerario propuesto;
+
+iii)	los nombres de los materiales radiactivos o nucleidos;
+
+iv)	una descripción de la forma física y química de los materiales radiactivos, o una indicación de que se trata de materiales radiactivos en forma especial o de materiales radiactivos de baja dispersión; y
+
+v)	la actividad máxima del contenido radiactivo durante el transporte expresada en becquerelios (Bq) con el prefijo y símbolo apropiado del SI (véase 1.2.2.1). Si se trata de sustancias fisionables puede utilizarse la masa de las sustancias fisionables (o, si se trata de mezclas, la masa de cada nucleido fisionable, según proceda) en lugar de la actividad, en gramos (g) o sus múltiplos,
+
+
+5.1.5.2	Certificados expedidos por la autoridad competente
+
+5.1.5.2.1	Se requerirán certificados emitidos por la autoridad competente en los siguientes casos:
+
+a)	Los diseños de:
+
+i)	materiales radiactivos en forma especial;
+
+ii)	materiales radiactivos de baja dispersión;
+
+iii)	bultos que contengan 0,1 kg de hexafluoruro de uranio o una cantidad superior;
+
+iv)	todos los bultos que contengan sustancias fisionables salvo en los casos previstos en 6.4.11.2;
+
+v)	los bultos del Tipo B(U) y los bultos del Tipo B(M);
+
+vi)	los bultos del Tipo C;
+
+b)	Arreglos especiales;
+
+c)	Ciertas expediciones (véase 5.1.5.1.2).
+
+Los certificados confirmarán que se satisfacen los requisitos correspondientes y para las aprobaciones del diseño se atribuirá una marca de identificación al diseño.
+
+Los certificados de aprobación del diseño del bulto y de aprobación de la expedición se podrán combinar en un solo documento.
+
+Los certificados y sus correspondientes solicitudes deberán satisfacer los requisitos establecidos en 6.4.23.
+
+5.1.5.2.2	El expedidor estará en posesión de una copia de cada uno de los certificados exigidos.
+
+5.1.5.2.3	En el caso de los diseños de bultos en que no se requiera la expedición por una autoridad competente de un certificado de aprobación, el expedidor, previa petición, facilitará a la autoridad competente pertinente para su inspección pruebas documentales que evidencien que el diseño del bulto se ajusta a todos los requisitos aplicables.
+
+5.1.5.3	Determinación del índice de transporte (IT) y del índice de seguridad con respecto a la criticidad (ISC)
+
+5.1.5.3.1	El índice de transporte (IT) de un bulto, sobreembalaje embalaje, contenedor o BAE-I u OCS-I sin embalar será la cifra deducida aplicando el siguiente procedimiento:
+
+
+a)	Se determinará el nivel de radiación máximo en unidades milisievert por hora (mSv/h) a una distancia de 1 m de las superficies externas del bulto, sobreembalaje, contenedor o BAE-I y OCS-I sin embalar. El valor determinado se multiplicará por 100 y la cifra obtenida será el índice de transporte. Para minerales y concentrados de uranio y de torio, pueden tomarse como niveles de radiación máximos en cualquier punto situado a una distancia de 1 m de la superficie externa de la carga los valores siguientes:
+
+0,4 mSv/h   para minerales y concentrados físicos de uranio y torio;
+0,3 mSv/h   para concentrados químicos de torio;
+0,02 mSv/h para concentrados químicos de uranio que no sean hexafluoruro de uranio;
+
+b)	Para cisternas, contenedores y BAE-I y OCS-I sin embalar, el valor determinado en el apartado a) anterior se multiplicará por el factor apropiado del cuadro 5.1.5.3.1;
+
+c)	La cifra obtenida según los apartados a) y b) anteriores se redondeará a la primera cifra decimal superior (por ejemplo, 1,13 será 1,2), excepto los valores de 0,05 o menos, que se podrán considerar como cero.
+
+
+Cuadro 5.1.5.3.1: Factores de multiplicación para cisternas, contenedores y BAE-I y OCS-I sin embalar
+
+Dimensión de la carga a
+Factor de multiplicación
+dimensión de la carga ≤ 1 m2
+1
+1 m2 < dimensión de la carga ≤ 5 m2
+2
+5 m2 < dimensión de la carga ≤ 20 m2
+3
+20 m2 < dimensión de la carga
+10
+a	Se mide el área de la mayor sección transversal de la carga.
+
+5.1.5.3.2	El índice de transporte de un sobreembalaje, contenedor o medio de transporte se obtendrá ya sea sumando los IT de todos los bultos que contiene o midiendo directamente el nivel de radiación, salvo en el caso de sobreembalajes no rígidos, para los cuales el índice de transporte se obtendrá únicamente sumando los IT de todos los bultos.
+
+5.1.5.3.3	El índice de seguridad con respecto a la criticidad para cada sobreembalaje o contenedor se obtendrá sumando los ISC de todos los bultos que contiene. El mismo procedimiento se seguirá para determinar la suma total de los ISC de una remesa o a bordo de un medio de transporte.
+
+5.1.5.3.4	Los bultos y sobreembalajes se clasificarán en la categoría I-BLANCA, II- AMARILLA o III-AMARILLA de conformidad con las condiciones especificadas en el cuadro 5.1.5.3.4, y con los siguientes requisitos:
+
+a)	En el caso de un bulto o sobreembalaje, se tendrán en cuenta tanto el índice de transporte como el nivel de radiación en la superficie para determinar la categoría apropiada. Cuando el índice de transporte satisfaga la condición correspondiente a una categoría, pero el nivel de radiación en la superficie satisfaga la condición correspondiente a una categoría diferente, el bulto o sobreembalaje se asignará a la categoría superior de las dos. A este efecto, la categoría I-BLANCA se considerará la categoría más baja;
+
+b)	El índice de transporte se determinará de acuerdo con los procedimientos especificados en 5.1.5.3.1 y 5.1.5.3.2;
+
+c)	Si el nivel de radiación en la superficie es superior a 2 mSv/h, el bulto o sobreembalaje se transportará según la modalidad de uso exclusivo y ajustándose a las disposiciones de 7.2.3.1.3, 7.2.3.2.1 o 7.2.3.3.3, según proceda;
+
+
+d)	A un bulto que se transporte en virtud de arreglos especiales se le asignará la categoría III-AMARILLA, salvo en los casos previstos en 5.1.5.3.5;
+
+e)	A un sobreembalaje que contenga bultos, que se transporte en virtud de arreglos especiales se le asignará la categoría III-AMARILLA, salvo en los casos previstos en 5.1.5.3.5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cuadro 5.1.5.3.4: Categorías de los bultos y sobreembalajes
+
+Condiciones
+Índice de transporte
+Nivel de radiación máximo
+en cualquier punto de la superficie externa
+Categoría
+0 a
+Hasta 0,005 mSv/h
+I-BLANCA
+Mayor que 0 pero no mayor que 1 a
+Mayor que 0,005 mSv/h pero no mayor que 0,5 mSv/h
+II-AMARILLA
+Mayor que 1 pero no mayor que 10
+Mayor que 0,5 mSv/h pero no mayor que 2 mSv/h
+III-AMARILLA
+Mayor que 10
+Mayor que 2 mSv/h pero no mayor que 10 mSv/h
+III-AMARILLA b
+a      Si el IT medido no es mayor que 0,05, el valor citado puede ser cero en conformidad con 5.1.5.3.1 c).
+b     Deberá transportarse también bajo uso exclusivo.
+
+
+5.1.5.3.5	En todos los casos de transporte internacional de bultos que requieran la aprobación del diseño o la expedición por parte de la autoridad competente, y para los que sean aplicables distintos tipos de aprobación en los diversos países interesados en la expedición, la categorización estará en conformidad con el certificado del país de origen del diseño.
+
+5.1.5.4	Disposiciones específicas para los bultos exceptuados
+
+5.1.5.4.1	Los bultos exceptuados deberán llevar marcada de manera legible y duradera en el exterior del embalaje la siguiente información:
+
+a)	El número de las Naciones Unidas precedido de las letras "UN"; 
+b)	La identificación del expedidor o del destinatario, o de ambos; y 
+c)	Su masa bruta permitida si excede de 50 kg.
+5.1.5.4.2	Los requisitos de documentación establecidos en el capítulo 5.4 no se aplican a los bultos exceptuados de materiales radiactivos, pero el número de las Naciones Unidas precedido de las letras "UN" deberá figurar en un documento de transporte.
+CAPÍTULO 5.2
+
+
+IDENTIFICACION DE BULTOS, ARTICULOS Y EMBALAJES
+
+5.2.1	Marcado 
+
+5.2.1.1	Salvo que se disponga otra cosa en el presente Anexo, en cada bulto figurarán la denominación apropiada para el transporte de la mercancía peligrosa, determinada de conformidad con lo indicado en 3.1.2, y el correspondiente número de las Naciones Unidas precedido de las letras "UN"u “ONU”. 
+
+El número ONU y las letras “UN” u “ONU” deben medir por lo menos 12 mm de altura, excepto para embalajes con capacidad de hasta 30 l o 30 Kg, las cuales deben medir por lo menos 6mm de altura; para embalajes con capacidad de hasta 5 l o 5 kg, deben tener un tamaño apropiado. En el caso de un objeto no embalado, las marcas figurarán en su soporte o en su dispositivo de manipulación, almacenamiento o puesta en servicio. Con respecto a las mercancías de la división 1.4, grupo de compatibilidad S, también se marcarán la división y la letra del grupo de compatibilidad, a menos que las mercancías lleven la etiqueta "1.4S". Ejemplo de marcado:
+
+UN 3265 LÍQUIDO CORROSIVO, ÁCIDO, ORGÁNICO, N.E.P. (cloruro de caprililo).
+
+5.2.1.2	Todas las marcas que se prescriben en 5.2.1.1:
+
+a)	serán fácilmente visibles y legibles;
+
+b)	habrán de poder permanecer a la intemperie sin merma notable de su eficacia;
+
+c)	se colocarán en la superficie externa del bulto, en un fondo de color que haga contraste con el suyo; y
+
+d)	no se colocarán cerca de otras marcas que puedan reducir notablemente su eficacia.
+
+5.2.1.3	Los embalajes de socorro llevarán, además, la mención "SOCORRO".
+
+5.2.1.4	Los recipientes intermedios para graneles de una capacidad superior a 450 litros y los grandes embalajes se marcarán en dos lados opuestos.
+
+5.2.1.5	Disposiciones especiales para la Clase 7
+
+5.2.1.5.1	Todo bulto deberá llevar marcada de manera legible y duradera en el exterior del embalaje, la identificación del expedidor o del destinatario, o de ambos.
+
+5.2.1.5.2	El marcado de los bultos exceptuados se hará conforme a lo dispuesto en 5.1.5.4.1.
+
+5.2.1.5.3	Todo bulto cuya masa bruta exceda de 50 kg llevará marcada su masa bruta permitida de manera legible y duradera en el exterior del embalaje.
+
+5.2.1.5.4	Todo bulto que se ajuste al diseño de:
+
+a)	Un bulto del Tipo BI-1, un bulto del Tipo BI-2 o un bulto del Tipo BI-3 llevará marcada de manera legible y duradera en el exterior del embalaje la inscripción "TIPO BI-1", "TIPO BI-2" o "TIPO BI-3", según proceda;
+
+b)	Un bulto del Tipo A llevará marcada de manera legible y duradera en el exterior del embalaje la inscripción "TIPO A";
+
+c)	Un bulto del Tipo BI-2, un bulto del Tipo BI-3 o un bulto del Tipo A llevará marcado de manera legible y duradera en el exterior del embalaje el código internacional de matrículas de vehículos (Código VRI) del país de origen del diseño y el nombre del fabricante u otra identificación del embalaje especificada por la Autoridad Competente del país de origen del diseño.
+
+5.2.1.5.5	Todo bulto que se ajuste a un diseño aprobado por la Autoridad Competente llevará marcadas en el exterior del embalaje de manera legible y duradera:
+
+a)	La marca de identificación asignada a ese diseño por la autoridad competente;
+
+b)	Un número de serie para identificar inequívocamente cada embalaje que se ajuste a ese diseño;
+
+c)	Cuando se trate de diseños de bultos del Tipo B(U) o del Tipo B(M), la inscripción
+"TIPO B(U)" o "TIPO B(M)"; y
+
+d)	Cuando se trate de diseños de bultos del Tipo C, la inscripción "TIPO C".
+
+5.2.1.5.6	Todo bulto que se ajuste a un diseño del Tipo B(U), del Tipo B(M) o del Tipo C llevará, en la superficie externa del recipiente más exterior resistente al fuego y al agua, el símbolo del trébol que se indica en la figura 5.1, estampado, grabado o marcado de cualquier otra manera que lo haga bien visible y resistente a los efectos del fuego y del agua: 
+
+Figura 5.1
+Símbolo fundamental: un trébol cuyas proporciones están basadas en un círculo central de radio X.
+La dimensión mínima admisible de X será de 4 mm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.2.1.5.7	En el caso de materiales BAE-I u OCS-I contenidos en recipientes o materiales de embalaje y transportados conforme al uso exclusivo permitido por 4.1.9.2.3, la superficie exterior de estos recipientes o materiales de embalaje podrá llevar la inscripción "BAE-I RADIACTIVOS" u "OCS-I RADIACTIVOS", según proceda.
+
+5.2.1.5.8	En todos los casos de transporte internacional de bultos que requieran la aprobación del diseño o la expedición por parte de la autoridad competente, y para los que sean aplicables distintos tipos de aprobación en los diversos países interesados en la expedición, el marcado deberá hacerse de conformidad con el certificado del país de origen del diseño.
+
+5.2.2 Etiquetado
+
+5.2.2.1	 Disposiciones generales, fijación y disposiciones especiales
+
+
+5.2.2.1.1	Las etiquetas de riesgo son elementos utilizados para informar que la expedición está compuesta de mercancías peligrosas y presenta riesgos. Objetos o sustancias y bultos conteniendo mercancías peligrosas que figuran por su nombre en el Listado de Mercancías Peligrosas, se les fijarán una etiqueta indicativa del riesgo que se indica en la columna 3 del mismo y, cuando fuere aplicable  una etiqueta de riesgo secundario que indique el riesgo al que se hace referencia en la Columna 4 del Listado, salvo que exista alguna disposición especial que exima de tal obligación. En ciertos casos, la obligación de utilizar una etiqueta de riesgo secundario puede figurar también como disposición especial en la columna 7 del Listado.
+
+5.2.2.1.2	Las etiquetas indicativas de riesgos principales y secundarios se ajustarán a los modelos N° 1 a 9 que se reproducen en 5.2.2.2.2. La etiqueta de riesgo secundario de "EXPLOSIVO" se ajustará al modelo N° 1.
+
+
+5.2.2.1.3	Sin perjuicio de lo dispuesto en 5.2.2.1.3.1, si una sustancia que responde a la definición de más de una clase no está mencionada expresamente en el Listado de Mercancías Peligrosas del Capítulo 3.2 de este Anexo, la clase del riesgo principal de las mercancías se determinará con arreglo a lo prescrito en el Capítulo 2.0, ítem 2.0.3. Además de la etiqueta requerida para esa clase de riesgo principal, el bulto llevará las etiquetas de riesgo secundario correspondientes.
+
+5.2.2.1.3.1	Para los bultos que contengan sustancias de la clase 8 no se exige etiqueta de riesgo secundario del modelo N° 6.1 si su toxicidad tiene su origen únicamente en su efecto destructivo sobre los tejidos vivos. Para los bultos que contengan sustancias de la División 4.2 no se exige etiqueta de riesgo secundario del modelo N° 4.1.
+
+5.2.2.1.4	Etiquetas para los gases de la Clase 2 con riesgo(s) secundario(s)
+
+
+División
+Riesgo(s) secundario(s)
+indicado(s) en el capítulo 2.2
+
+Etiqueta de riesgo principal
+Etiqueta(s) de riesgo secundario
+2.1
+Ninguno
+2.1
+Ninguna
+
+2.2
+Ninguno
+2.2
+Ninguna
+
+5.1
+2.2
+5.1
+
+
+
+2.3
+Ninguno
+2.3
+Ninguna
+
+2.1
+2.3
+2.1
+
+5.1
+2.3
+5.1
+
+5.1, 8
+2.3
+5.1, 8
+
+8
+2.3
+8
+
+2.1, 8
+2.3
+2.1, 8
+
+5.2.2.1.5	Para la clase 2 se han previsto tres etiquetas distintas:  una para los gases inflamables de la división 2.1 (roja), otra para los gases no inflamables, no tóxicos de la división 2.2 (verde) y otra para los gases tóxicos de la división 2.3 (blanca). Cuando en la lista de mercancías peligrosas se señale que un gas de la clase 2 presenta uno o varios riesgos secundarios, se utilizarán las etiquetas que se indican en el cuadro del 5.2.2.1.4.
+
+5.2.2.1.6	Salvo lo dispuesto en 5.2.2.2.1.2, cada etiqueta:
+
+a)	estará colocada en la misma superficie del bulto que la denominación apropiada para el transporte y cerca de ella, si las dimensiones del bulto lo permiten;
+
+b)	estará colocada en el bulto de manera que no quede encubierta o tapada por ninguna parte o accesorio del bulto ni por ninguna otra etiqueta o marca.
+
+5.2.2.1.6.1 Cuando se exijan etiquetas de riesgo principal y de riesgo secundario, estas se colocaran uno al lado del otro.
+
+5.2.2.1.6.2 Cuando un bulto sea de forma tan irregular o de tamaño tan exiguo que la etiqueta no pueda colocarse bien, ésta podrá fijarse mediante un marbete sujetado firmemente al bulto o por cualquier otro medio conveniente.
+
+5.2.2.1.7	Los recipientes intermedios para graneles de una capacidad superior a 450 litros y los grandes embalajes llevarán etiquetas en dos lados opuestos.
+
+5.2.2.1.8	Las etiquetas se colocarán sobre una superficie cuyo color contraste con el suyo.
+
+5.2.2.1.9	Disposiciones especiales para el etiquetado de sustancias que reaccionan espontáneamente
+
+Deberá aplicarse una etiqueta de riesgo secundario "EXPLOSIVO" (modelo Nº 1) para las sustancias de reacción espontánea de tipo B, a menos que la autoridad competente haya permitido prescindir de ella respecto de un determinado embalaje fundándose en que, según los resultados de los ensayos, la sustancia que reacciona espontáneamente no experimenta en aquél reacciones propias de los explosivos.
+
+5.2.2.1.10	Disposiciones especiales para el etiquetado de los peróxidos orgánicos
+
+Los bultos que contengan peróxidos orgánicos pertenecientes a los tipos B, C, D, E o F llevarán la etiqueta correspondiente a la división 5.2 (modelo N° 5.2). Dicha etiqueta significa también que el producto puede ser inflamable, razón por la que no se prescribe la etiqueta de riesgo secundario de "LIQUIDO INFLAMABLE" (modelo N° 3). Se utilizarán, además, las siguientes etiquetas indicativas de riesgos secundarios:
+
+a)	Una etiqueta de riesgo secundario de "EXPLOSIVO" (modelo N° 1) para  los peróxidos orgánicos de tipo B, a menos que la autoridad competente haya permitido prescindir de ella respecto de un determinado embalaje fundándose en que, según los resultados de los ensayos, el peróxido no experimenta en aquél reacciones propias de los explosivos;
+
+b)	Una etiqueta de riesgo secundario de "CORROSIVO" (modelo N° 8), en los casos en que se cumplan los criterios relativos al grupo de embalaje I o II de la clase 8.
+
+5.2.2.1.11	Disposiciones especiales para el etiquetado de los bultos de sustancias infecciosas
+
+Además de la etiqueta de riesgo principal (modelo N° 6.2), los bultos de sustancias infecciosas llevarán cualesquiera otras etiquetas que requiera la naturaleza de su contenido.
+
+
+5.2.2.1.12	Disposiciones especiales para el etiquetado de materiales radiactivos
+
+5.2.2.1.12.1	 Excepto cuando se utilicen etiquetas ampliadas de acuerdo con el ítem 5.3.1.1.5.1, todo bulto, sobreembalaje y contenedor que transporte materiales radiactivos deberán llevar, por lo menos, dos etiquetas que correspondan a los modelos N° 7A, 7B y 7C según corresponda a la categoría de ese bulto, sobreembalaje o contenedor. Las etiquetas deberán fijarse en dos lados opuestos de la parte exterior del bulto o en el exterior de los cuatro lados del contenedor. Todos los sobreembalajes que contengan materiales radiactivos deberán llevar como mínimo dos etiquetas en los lados opuestos del sobreembalaje.
+
+Además, cada	bulto, sobreembalaje y contenedor que contenga sustancias fisionables distintas de las sustancias fisionables exceptuadas de conformidad con las normas de la Autoridad Competente llevarán etiquetas que se ajusten al modelo N° 7E; cuando deban emplearse esas etiquetas, se fijarán junto a las correspondientes a la sustancia radiactiva. Las etiquetas no deberán cubrir las inscripciones especificadas en el ítem 5.2.1. Cualquier etiqueta que no esté relacionada con el contenido debe ser retirada o cubierta.  
+
+5.2.2.1.12.2	En cada etiqueta que se ajuste a los modelos números 7A, 7B y 7C se consignará la información siguiente:
+
+a)	Contenido:
+
+i)	Salvo en el caso de material BAE-I, el (los) nombre(s) del (de los) radionucleido(s), según se indica en el cuadro 2.7.2.2.1, utilizando los símbolos prescritos en el mismo. Tratándose de mezclas de radionucleidos, se enumerarán los nucleidos más restrictivos en la medida en que lo permita el espacio disponible. Se indicará el grupo de BAE u OCS a continuación del (de
+
+
+los) nombre(s) del (de los) radionucleido(s). Con este fin se utilizarán los términos "BAE-II", "BAE-III", "OCS-I" y "OCS-II";
+
+ii)	En el caso de material BAE-I, basta con la inscripción "BAE-I"; no es necesario indicar el nombre del radionucleido;
+
+b)	Actividad: La actividad máxima del contenido radiactivo durante el transporte expresada en la unidad becquerelios (Bq) con el prefijo y símbolo apropiado del SI (véase 1.2.2.1). Tratándose de sustancias fisionables puede emplearse la masa (o, si se trata de mezclas, la masa de cada nucleido fisionable, según proceda), en lugar de la actividad, utilizando como unidad el gramo (g), o sus múltiplos;
+
+c)	En el caso de sobreembalajes y contenedores, en las inscripciones contenido" y "actividad" de la etiqueta constará la información estipulada en 5.2.2.1.12.2 a) y b), respectivamente, totalizada para el contenido completo del sobreembalaje o contenedor, salvo que en el caso de las etiquetas para sobreembalajes o contenedores que contengan cargas mixtas de bultos con diferentes radionucleidos las inscripciones podrán ser: "Véanse los documentos de transporte";
+
+d)	Índice de transporte: El número determinado con arreglo a lo dispuesto en los ítems 5.1.5.3.1 y 5.1.5.3.2. (No se requiere la inscripción del índice de transporte en el caso de la categoría I-BLANCA).
+
+
+5.2.2.1.12.3	En cada etiqueta que se ajuste al modelo N° 7E se consignará el índice de seguridad con respecto a la criticidad (ISC) declarado en el certificado de aprobación de arreglos especiales o en el certificado de aprobación del diseño del bulto emitido por la autoridad competente.
+
+
+5.2.2.1.12.4	Tratándose de sobreembalajes y contenedores, el índice de seguridad con respecto a la criticidad (ISC) llevará en la etiqueta la información estipulada en el ítem 5.2.2.1.12.3 respecto de todo el contenido de sustancias fisionables del sobreembalaje o contenedor.
+
+5.2.2.1.12.5	En todos los casos de transporte internacional de bultos que requieran la aprobación del diseño o la expedición por parte de la autoridad competente, y para los que sean aplicables distintos tipos de aprobación en los diversos países interesados en la expedición, el etiquetado deberá hacerse de conformidad con el certificado del país de origen del diseño. 
+
+5.2.2.2	Especificaciones para las etiquetas de riesgo
+
+5.2.2.2.1	Las etiquetas cumplirán las disposiciones de esta sección y se ajustarán, por lo que respecta al color, los símbolos y el formato general, a los modelos reproducidos en el ítem 5.2.2.2.2.
+
+NOTA:	En algunos casos, las etiquetas de 5.2.2.2.2 se muestran con un borde exterior de trazo discontinuo, tal como se indica en 5.2.2.2.1.1 Ese borde no es necesario cuando la etiqueta se coloca sobre un fondo de color que ofrece un contraste adecuado.
+
+5.2.2.2.1.1	Las etiquetas tendrán la forma de un cuadrado, colocado con un vértice hacia arriba, de unas dimensiones mínimas de 100 mm × 100 mm, salvo en el caso de los bultos que por sus dimensiones sólo puedan llevar etiquetas más pequeñas según lo dispuesto en el ítem 5.2.2.2.1.2. En todo su perímetro llevarán una línea interna trazada a 5 mm del borde y paralela al perímetro. En la mitad superior de la etiqueta la línea será del mismo color que el símbolo y en la mitad interior será del mismo color del número que indica la clase o división. Las etiquetas deberán colocarse sobre un fondo de color que ofrezca un buen contraste o deben estar rodeadas externamente en todo su perímetro por un borde de trazo continuo o discontinuo.
+
+5.2.2.2.1.2	Los cilindros para gases de la clase 2 podrán llevar, si fuera necesario por causa de su forma, de su posición y de su sistema de fijación para el transporte, etiquetas similares a las dispuestas en esta sección, pero de dimensión reducida de conformidad con la norma ISO 7225:2005 “Cilindros para Gases/ Etiquetas de Riesgo” con el fin de que puedan fijarse en la parte no cilíndrica (hombrera) de dichos cilindros. Las etiquetas pueden quedar sobrepuestas en la medida prevista en la norma ISO 7225:2005. Sin embargo, en cualquier caso, las etiquetas para el riesgo principal y las cifras que figuran en todas las etiquetas de peligro deben ser completamente visibles y los signos convencionales deben permanecer visibles y reconocibles.
+
+5.2.2.2.1.3	Salvo en el caso de las divisiones 1.4, 1.5 y 1.6 de la clase 1, la mitad superior de la etiqueta deberá llevar el símbolo y la mitad inferior deberá llevar el número de la clase o división 1, 2, 3, 4, 5.1, 5.2, 6, 7, 8 o 9 según proceda. La etiqueta podrá incluir texto, como el N° ONU o palabras que describan la clase o división de riesgo (por ejemplo "LIQUIDO INFLAMABLE") de conformidad con lo dispuesto en el ítem 5.2.2.2.1.5, siempre que el texto no vaya en detrimento de los demás elementos que han de figurar en la etiqueta.
+
+5.2.2.2.1.4	Excepto en el caso de las divisiones 1.4, 1.5 y 1.6, las etiquetas de la clase 1 deberán llevar en su mitad inferior y por encima del número de la clase, el número de la división y la letra del grupo de compatibilidad de la sustancia u objeto. Las etiquetas de las divisiones 1.4, 1.5 y 1.6 deberán llevar en su mitad superior el número de la división y en su mitad inferior el número de la división y la letra del grupo de compatibilidad.  Para la división 1.4, Grupo de Compatibilidad S, no se suele prescribir ninguna etiqueta, pero si en algún caso se considera necesaria, la etiqueta se ajustará al modelo N° 1.4.
+
+5.2.2.2.1.5	En las etiquetas que no correspondan a materiales de la clase 7, el espacio situado debajo del símbolo no llevará, aparte del número de la clase o de la división, otro texto que no sean las indicaciones relativas a la naturaleza del riesgo y a las precauciones que hayan de tomarse para la manipulación.
+
+5.2.2.2.1.6	Los símbolos, el texto y los números se imprimirán en negro en todas las etiquetas, excepto:
+a)	en la etiqueta de la clase 8, en la que el texto (si es que lleva alguno) y el número de la clase figurarán en blanco; y
+
+b)	en las etiquetas con fondo enteramente verde, rojo o azul, en las que podrán figurar en blanco;
+
+c)	en la etiqueta de la división 5.2, en la que el símbolo podrá figurar en blanco; y
+
+d)	en la etiqueta de la división 2.1 que figure sobre los cilindros y los cartuchos de gas para gases licuados de petróleo (GLP), sobre la que podrán imprimirse en el color del recipiente siempre que el contraste sea adecuado.
+
+
+
+
+
+5.2.2.2.1.7	Todas las etiquetas independientemente del material de fabricación utilizado deben ser capaces de soportar la exposición a la intemperie sin que se produzca una disminución sustancial de su eficacia.
+
+
+5.2.2.2.2	Modelos de etiquetas 
+
+CLASE 1
+Sustancias y objetos explosivos
+
+(No 1) Divisiones 1.1, 1.2 y 1.3
+Símbolo (bomba explotando): negro; Fondo: anaranjado; cifra “1” en el ángulo inferior
+
+
+(No 1.4) División 1.4
+(No 1.5) División 1.5
+(No 1.6) División 1.6
+Fondo: anaranjado; Cifras: negro; Los números tendrán aproximadamente 30 mm de altura por 5 mm de anchura
+(en las etiquetas de 100 mm x 100 mm); cifra “1” en el ángulo inferior
+** División - déjese en blanco si las propiedades explosivas constituyen el riesgo secundario
+*    Grupo de compatibilidad - déjese en blanco si las propiedades explosivas constituyen el riesgo secundario
+
+
+
+
+
+
+CLASE 2
+Gases
+
+
+
+
+
+
+
+(No  2.1) División 2.1
+Gases inflamables
+Símbolo (llama): negro o blanco; (excepto en los casos previstos en 5.2.2.2.1.6 (d))
+Fondo: rojo; Figura “2” en el ángulo inferior
+
+
+
+(No 2.2)
+División 2.2
+Gases no inflamables, no tóxicos
+Símbolo (bombona): negro o blanco; 
+Fondo: verde; Figura “2” en el ángulo inferior
+
+
+
+
+
+
+
+
+
+
+
+
+(No 2.3) División 2.3
+Gases tóxicos
+Símbolo (calavera y tibias cruzadas): negro; Fondo: blanco; Figura “2” en el ángulo inferior
+
+
+
+CLASE 3
+Líquidos inflamables
+
+   
+
+
+(No 3)
+Símbolo (llama): negro o blanco; Fondo: rojo; Figura “3” en el ángulo inferior
+
+
+
+CLASE 4
+
+(No 4.1) División 4.1
+Sólidos inflamables
+Símbolo (llama): negro; Fondo: blanco con siete franjas verticales rojas;
+Cifra “4” en el ángulo inferior
+(No 4.2) División 4.2
+Sustancias que presentan riesgo de combustión espontánea
+Símbolo (llama): negro;
+Fondo: blanco en la mitad superior, rojo en la mitad inferior;
+Cifra “4” en el ángulo inferior
+(No 4.3) División 4.3
+Sustancias que, en contacto con el agua, desprenden gases inflamables
+Símbolo (llama): negro o blanco;
+Fondo: azul;
+Cifra “4” en el ángulo inferior
+
+CLASE 5
+
+(No 5.1) División 5.1
+Sustancias comburentes
+Símbolo (llama sobre un círculo): negro; Fondo: amarillo;
+Cifra “5.1” en el ángulo inferior
+(No 5.2) División 5.2
+Peróxidos orgánicos
+Símbolo (llama): negro o blanco;
+Fondo: rojo en la mitad superior, amarillo en la mitad inferior; Cifra “5.2” en el ángulo inferior
+
+CLASE 6
+
+
+
+(No 6.1) División 6.1
+Sustancias tóxicas
+Símbolo (calavera y tibias cruzadas): negro; Fondo: blanco; Cifra “6” en el ángulo inferior
+
+(No 6.2) División 6.2
+Sustancias infecciosas
+La mitad inferior de la etiqueta podrá llevar las leyendas: “SUSTANCIA INFECCIOSA” y “En caso de daño, derrame o fuga, avísese inmediatamente a las autoridades sanitarias”; Símbolo (tres medias lunas superpuestas en un círculo) y leyendas: negro;
+Fondo: blanco; Cifra “6” en el ángulo inferior
+
+
+
+CLASE 7
+Material radiactivo
+
+
+(No 7A) Categoría I – BLANCA
+(No 7B)
+Categoría II – AMARILLA
+(No 7C)
+Categoría III – AMARILLA
+Símbolo (trébol): negro; Fondo: blanco;
+Texto (obligatorio) en negro,
+en la mitad inferior de la etiqueta: “RADIACTIVO” “CONTENIDO ……” “ACTIVIDAD ……”
+La palabra “RADIACTIVO” irá seguida de una barra vertical roja;
+Cifra “7” en el ángulo inferior
+Símbolo (trébol): negro;
+Fondo: Amarillo en la mitad superior con borde blanco;
+blanco en la mitad inferior;
+Texto (obligatorio) en negro, en la mitad inferior de la etiqueta: “RADIACTIVO”
+“CONTENIDO ……” “ACTIVIDAD ……”
+En un recuadro de líneas negras: “INDICE DE TRANSPORTE”;
+La palabra “RADIACTIVO” irá seguida de:
+Dos barras verticales rojas	Tres barras verticales rojas
+Cifra “7” en el ángulo inferior
+
+
+
+
+(No 7E)
+Material fisionable de la clase 7
+Fondo: blanco;
+Texto (obligatorio) en negro, en la mitad superior de la etiqueta: “SUSTANCIAS FISIONABLES”; En un recuadro de líneas negras, en la mitad inferior de la etiqueta:
+“INDICE DE SEGURIDAD CON RESPECTO A LA CRITICIDAD” Cifra “7” en el ángulo inferior
+
+CLASE 8
+Sustancias corrosivas
+
+
+
+
+(No 8)
+Símbolo (líquidos goteando de dos tubos de ensayo sobre una mano y un metal): negro;
+Fondo: blanco en la mitad superior y negro con borde
+blanco en la mitad inferior;
+Cifra “8”, en blanco, en el ángulo inferior
+CLASE 9
+Sustancias y objetos peligrosos varios, incluidas las sustancias peligrosas para el medio ambiente
+
+
+
+(No 9)
+Símbolo (7 franjas verticales en la mitad superior): negro; Fondo: blanco;
+Cifra “9” subrayada en el ángulo inferior
+
+
+
+
+
+5.2.3	Otros símbolos aplicables
+5.2.3.1 Símbolos para las sustancias que presentan riesgo para el medio ambiente
+
+5.2.3.1.1	Los bultos conteniendo sustancias que presentan riesgo para el medio ambiente, que se encuentren comprendidas en los criterios del ítem 2.9.3 (número ONU 3077 y 3082) deben ser marcados con la simbología que se muestra en la Figura 5.2, a excepción de embalajes simples y embalajes combinados, siempre que tales embalajes simples o los embalajes internos de los embalajes combinados cumplan con las siguientes medidas de capacidad neta:
+    • menor o igual a 5 l, para líquidos; o
+    • menor o igual a 5kg. para sólidos.
+
+Figura 5.2
+Símbolo para el transporte de sustancias peligrosas para el medio ambiente
+
+
+
+
+Símbolo (pez y árbol): Negro sobre un fondo blanco o contrastante
+NOTA: El símbolo dispuesto en la figura 5.2 se aplica complementariamente a cualquier otra exigencia para bultos.
+
+5.2.3.1.2	Este símbolo debe estar ubicado próximo a las marcas indicadas en el ítem 5.2.1.1. Los requisitos del los ítems 5.2.1.2 y 5.2.1.4 deben ser contemplados.
+5.2.3.1.3	Las dimensiones del símbolo presentado en la Figura 5.2 deben ser, por lo menos:
+    • 	100mm por 100mm para bultos, excepto en caso de bultos de dimensiones tales que solamente permitan medidas menores. 
+
+5.2.3.1.4	Independientemente del material utilizado para su fabricación, la etiqueta tendrá que ser capaz de soportar la intemperie, sin que ocurra una reducción sustancial de su eficacia.
+
+5.2.3.2 Flechas de Orientación
+
+5.2.3.2.1	Los embalajes combinados con embalajes interiores que contengan mercancías peligrosas líquidas. Los embalajes simples con orificios de ventilación, y los recipientes criogénicos diseñados para el transporte de gas licuado refrigerado, deberán estar claramente marcados con flechas de orientación similares a las que figuran a continuación o que se ajusten a las prescripciones de la norma ISO 780:1997. 
+
+                             
+
+5.2.3.2.1.1	Las flechas de orientación deberán colocarse en las dos caras verticales opuestas del bulto y señalar correctamente hacia arriba. Deberán figurar dentro de un marco rectangular y ser de dimensiones que las hagan claramente visibles. Deben ser de color negro o rojo sobre un fondo de color blanco o de un color contrastante. Opcionalmente, puede ser exhibido con un borde rectangular de línea continua.
+
+5.2.3.2.1.1.1	Tales etiquetas, independientemente del material utilizado para su fabricación, deben ser capaces de soportar la intemperie, sin que ocurra una reducción sustancial de su eficacia.
+
+5.2.3.2.2	Las flechas de orientación no se requerirán en los bultos que contengan:
+
+a)	Recipientes a presión excepto los recipientes criogénicos;
+
+b)	Mercancías peligrosas colocadas en embalajes interiores de una capacidad máxima de 120 ml, con suficiente material absorbente entre el embalaje interior y el exterior para absorber totalmente el contenido líquido;
+
+c)	Las sustancias infecciosas de la división 6.2 en recipientes primarios con una capacidad máxima de 50 ml;
+
+d)	Embalajes externos conteniendo objetos separados, independientemente de su orientación (por ejemplo: termómetros conteniendo alcohol o mercurio, aerosoles, etc); o
+
+e)	Embalajes externos conteniendo productos peligrosos acondicionados en embalajes externos herméticamente cerrados con capacidad máxima de 500 ml.
+
+NOTA: Materiales radiactivos (de la clase 7) deben contemplar los requisitos establecidos en las normas de la Autoridad Competente.
+
+5.2.3.2.3	Flechas con una finalidad distinta a la de indicar la orientación del volumen no pueden ser exhibidas en embalajes identificados de acuerdo con el ítem 5.2.3.2.
+
+5.2.3.3	Símbolo para el transporte de mercancías peligrosas en cantidades limitadas
+
+5.2.3.3.1	Los bultos conteniendo mercancías peligrosas en cantidades limitadas en embalajes internos deben tener el siguiente símbolo: 
+
+
+
+
+
+
+
+
+
+
+
+5.2.3.3.2	El símbolo debe ser legible, fácilmente visible y capaz de soportar la exposición al tiempo sin que ocurra una significativa reducción de su eficacia, independientemente del material de fabricación utilizado.
+
+5.2.3.3.3	Las partes superiores e inferiores, así como las líneas, deben ser de color negro. El área central debe ser de color blanco o de un color contrastante. Las dimensiones mínimas deben ser de:
+    • 100mm por 100mm, con un largo mínimo de la línea externa de 2mm; o
+    • 50mm por 50mm para los casos en que el embalaje no sea de la medida anterior y siempre que el símbolo permanezca claramente visible.
+
+5.2.3.4	Símbolo para el transporte de mercancías peligrosas en cantidades exceptuadas
+ 
+Los bultos que contengan mercancías peligrosas transportadas en cantidades exceptuadas deberán identificarse de acuerdo con lo dispuesto en 3.5.4.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAPÍTULO 5.3
+
+
+IDENTIFICACION DE LOS VEHICULOS Y EQUIPAMIENTOS DE TRANSPORTE
+
+
+NOTA introductoria: A los efectos de este Capítulo, las unidades de transporte por carretera, comprenden vehículos de transporte de mercancías, vehículos cisterna, además de automóviles para la clase 7; en el caso del transporte ferroviario, vagones y vagones cisterna. El equipamiento de transporte comprende contenedores de carga contenedores-cisterna, cisternas portátiles y CGEM.
+
+5.3.1	Rotulado
+
+5.3.1.1	Disposiciones generales y ubicación
+
+5.3.1.1.1.	Los rótulos de riesgo son elementos utilizados para informar que la expedición contiene mercancías peligrosas y presenta riesgos, y deben ser colocados en la superficie exterior de las unidades de transporte y de los equipamientos de transporte, sobre un fondo que ofrezca un buen contraste o estar rodeados de un borde de trazo continuo o discontinuo.
+
+5.3.1.1.1.1 Los rótulos de riesgo deben corresponder a la clase de riesgo indicada en la columna 3 del listado de productos peligrosos, contemplando el ítem 5.3.1.7 
+
+
+5.3.1.1.2 	Los rótulos de riesgo secundario, correspondientes a los riesgos indicados en la columna 4 del Listado de Mercancías Peligrosas, deben ser fijados, para las correspondientes sustancias u objetos, adyacentes a los rótulos de riesgo principal.
+
+5.3.1.1.2.1	Vehículos y equipamientos de transporte conteniendo mercancías peligrosas de más de una Clase o División de riesgo no necesitan portar rótulos de riesgo secundario si tales riesgos ya estuvieran indicados en los rótulos de riesgo ya utilizadas para indicar los riesgos principales.
+
+5.3.1.1.3	Los rótulos de riesgo no relacionadas con los productos peligrosos no transportados deben ser removidas o cubiertas completamente.
+	
+5.3.1.1.4	Colocación de los rótulos de riesgo en los equipos de transporte
+
+5.3.1.1.4.1 	Los rótulos de riesgo deben ser fijados en los laterales y en la parte trasera de las unidades de transporte.
+
+5.3.1.1.4.2	En el caso de un contenedor cisterna, o una cisterna portátil con múltiples compartimentos, en los cuales son transportados dos o más mercancías peligrosas o residuos de mercancías peligrosas, los rótulos de riesgo correspondientes deben ser fijados a cada lado de los respectivos compartimentos y en la parte trasera de la unidad de transporte.
+
+
+5.3.1.1.5 	Ubicación de los rótulos de riesgo en los vehículos de transporte portando equipos de transporte
+
+
+5.3.1.1.5.1 Para el caso en que los rótulos de riesgo fijados a las unidades de transporte no sean visibles desde el exterior de ésta última, y sólo en ese caso, tales rótulos deben también estar fijados a ambos lados y en la parte trasera de la unidad de transporte.
+
+
+5.3.1.1.6 	Fijación de rótulos de riesgo en cisternas y vagones cisterna.
+
+5.3.1.1.6.1	Los Rótulos de riesgo se deben fijar en los laterales y en la parte trasera de estas unidades de transporte.	
+
+5.3.1.1.6.2	Para el caso de vehículos cisterna o vagones cisterna con múltiples compartimentos, en los cuales sean transportados dos o más productos peligrosos o residuos de productos peligrosos, los rótulos de riesgo correspondientes deben estar fijados a cada lado de los respectivos compartimentos y en la parte trasera de las unidades de transporte. Sin embargo, en caso de que sean transportados productos de la misma clase de riesgo en los distintos compartimentos se debe fijar solo una etiqueta de riesgo indicativo de la clase en cada lateral y en la parte trasera de la unidad de transporte.
+
+5.3.1.1.7	Fijación de rótulos de riesgo en las demás unidades de transporte
+
+5.3.1.1.7.1	Los rótulos de riesgo deben ser fijados en los laterales y en la parte trasera de las unidades de transporte.
+
+5.3.1.2	Disposiciones especiales para productos de la Clase 1- Explosivos.
+
+
+5.3.1.2.1	Para la Clase de riesgo 1, los grupos de compatibilidad no pueden ser indicados en los rótulos de riesgo si la unidad o equipo de transporte estuviere transportando mercancías que pertenezcan a más de un grupo de compatibilidad.
+
+Las unidades o equipos de transporte transportando sustancias u objetos de diferentes divisiones de la Clase 1 deben portar solamente la etiqueta de riesgo correspondiente a la división de mayor riesgo, conforme al siguiente orden:
+
+		1.1 (mayor riesgo), 1.5, 1.2, 1.3, 1.6, 1.4, (menor riesgo)
+
+5.3.1.2.2	Cuando fueren transportadas mercancías de la división 1.5 D conjuntamente con sustancias u objetos de la división 1.2, las unidades o equipos e transporte deben portar rótulos de riesgo correspondientes a la división 1.1.
+
+5.3.1.2.3	No son exigibles rótulos de riesgo para el transporte de explosivos de la división 1.4, grupo de compatibilidad S.
+
+
+5.3.1.3	Disposiciones especiales para productos de la Clase 7 – Materiales Radiactivos
+
+5.3.1.3.1	Grandes Contenedores, cargados con bultos que no sea bultos exceptuados, así como cisternas deben exhibir cuatro rótulos de riesgo que se adecuen al modelo número 7D de la Figura 5.3. Tales rótulos deben ser fijados en posición vertical, en cada lateral y en cada una de las extremidades del gran contenedor o cisterna. Cualquier otra señalización no relacionada al contenido debe ser removida. Se admite el uso, como alternativa, de etiquetas ampliadas, de los modelos números 7A, 7B, y 7C, y cuando corresponda 7E, con las dimensiones descriptas en el ítem 5.3.1.4.2
+
+5.3.1.3.2	Vehículos ferroviarios y de transporte por carretera que transporten bultos sobreembalajes o contenedores, rotulados con cualquiera de los rótulos de riesgo indicados en el ítem 5.2.2.2.2, modelos números 7A, 7B, 7C o 7E, o que transporten remesas en régimen de uso exclusivo, deben exhibir de modo visible el rótulo de riesgo indicado en la Figura 5.3 (Modelo número 7D) fijados:
+		
+    a) en las dos superficies laterales externas, en el caso de vehículos ferroviarios; o
+    b) en las dos superficies laterales externas, y en la parte externa trasera en el caso de vehículos de transporte por carretera.
+
+Para vehículos sin laterales, los rótulos de riesgo pueden ser fijados directamente sobre la estructura que soporta la carga, siempre que queden bien visibles. En el caso de cisternas o contenedores de grandes dimensiones, los rótulos fijados a las cisternas o contenedores son suficientes. Cuando se trate de vehículos con superficie insuficiente para la fijación de rótulos mayores, las dimensiones descritas en el ítem 5.3.1.4.2 pueden ser reducidas a 100mm. Toda señalización no relacionada con el contenido debe ser removida.
+
+
+
+
+
+
+
+
+
+5.3.1.4 	Características de los rótulos
+
+5.3.1.4.1 	Los rótulos de riesgo, independientemente del material de fabricación utilizado, reflectivo o no, deben ser resistentes a la intemperie, de modo que permanezcan intactos durante el transporte, preservando la función a que se destinan.
+
+5.3.1.4.1.1	Pueden utilizarse rótulos de riesgos intercambiables o plegables, toda vez que hayan sido proyectados y fijados de forma que no haya movimiento de sus partes durante el transporte.
+
+5.3.1.4.2	Salvo lo dispuesto para el rótulo de la clase 7 en 5.3.1.4.3, los rótulos deberán:
+
+a)	tener unas dimensiones mínimas de 250 mm por 250 mm, con una línea trazada a 12,5 mm del borde en todo el perímetro y paralela a él. En la mitad superior, la línea deberá ser del mismo color que el símbolo mientras que en la mitad superior, deberá ser del mismo color que la cifra que figura en el ángulo inferior;
+
+b)	corresponder a la etiqueta de la clase de las mercancías peligrosas de que se trate en lo que se refiere al color y al símbolo; y
+
+c)	llevar el número de la clase o de la división (y, en el caso de las mercancías de la clase 1, la letra del grupo de compatibilidad) de las mercancías peligrosas de que se trate, tal como se prescribe en 5.2.2.2 para la etiqueta correspondiente, en cifras de una altura mínima de 25 mm.
+
+5.3.1.4.3		Para la Clase 7, el rótulo tendrá unas dimensiones exteriores mínimas de 250 mm por 250 mm (con las excepciones autorizadas en 5.3.1.3.2), con una línea negra trazada a 5 mm en el interior de todo el borde y paralela a él y que en todos los demás aspectos presente las características de la figura 5.3 que se muestra a continuación. Cuando se utilicen distintas dimensiones, se mantendrán las proporciones relativas. 
+
+El número "7" tendrá una altura mínima de 25 mm. El color de fondo de la mitad superior del rótulo será amarillo y el de la mitad inferior blanco, con el trébol y los caracteres y líneas impresos en negro. El empleo del término "RADIACTIVO" o del número de ONU en la mitad inferior es facultativo.
+
+Figura 5.3
+Rótulo para materiales radiactivos de la clase 7
+
+
+
+(N° 7D)
+Símbolo (trébol esquematizado): negro; fondo: mitad superior amarilla con borde blanco, mitad inferior blanca. En la mitad inferior figurarán la palabra "RADIOACTIVO" o, en otro caso (véase el ítem 5.3.1.4.3), el N° ONU correspondiente, y la cifra "7"
+en el ángulo inferior.
+
+5.3.2	Paneles de Seguridad
+
+5.3.2.1	Disposiciones generales y colocación 
+
+
+5.3.2.1.1 	Los paneles de seguridad son elementos utilizados para informar que la expedición está compuesta por productos peligrosos y presenta riesgos y deben ser fijados a la superficie externa de las unidades o de los equipos de transporte.
+
+
+5.3.2.1.2	Los paneles de seguridad deben tener el número de riesgo (columna 5) y el número ONU (columna 1) del Listado Numérico de Mercancías Peligrosas, correspondiente al producto transportado en expediciones de:
+    a) Sólidos, líquidos o gases transportados en unidades de tipo cisterna. 
+    b) Productos peligrosos fraccionados, constituyendo un cargamento completo de unidades de transporte, con un único producto.
+    c) Material a granel BAE-I o OCS-I de la Clase 7, en el interior, o encima de un vehículo, o en un contenedor, o en una cisterna, que no contenga el numero ONU en la mitad inferior de la etiqueta de riesgo.
+    d) Material radiactivo embalado con un único número ONU, para uso exclusivo, en el interior o encima de un vehículo, o en un contenedor, que no contenga el numero ONU en la mitad inferior de la etiqueta de riesgo
+
+
+5.3.2.1.3	No se aplica lo dispuesto en el ítem 5.3.2.1.2 en los siguientes casos:
+
+    a) Las unidades de transporte cargadas con dos o más mercancías peligrosas fraccionadas, deben ser identificados por medio de paneles de seguridad sin ninguna inscripción.
+ 
+    b) Las unidades de transporte cargadas con un único producto peligroso (última entrega), resultante de un cargamento inicial de dos o más mercancías peligrosas fraccionadas, deben mantener el panel de seguridad sin ninguna inscripción.
+
+    c) Las unidades de transporte cargadas con productos de la Clase 1 que deben ser identificados por medio de paneles de seguridad conteniendo solo el numero ONU.
+
+
+5.3.2.1.4	Están exceptuadas de fijar el panel de seguridad las expediciones conteniendo:
+
+    a) Material radiactivo a granel BAE-I y OCS-I de la Clase 7, en el interior o encima de un vehículo, en un contenedor o en una cisterna con un único numero ONU, siempre que se exhiban en la mitad inferior de la etiqueta de riesgo, y siempre que el material no presente riesgo(s) secundario(s).
+
+    b) Productos peligrosos en cantidades iguales o inferiores a la cantidad limitada por unidad de transporte, indicada en la columna 8, o por embalaje interno, indicada en la columna 9 del Listado de Mercancías Peligrosas, siempre que el peso bruto total de mercancías peligrosas de la expedición sea inferior a 1000 kg.
+
+    c) Bultos exceptuados de material radiactivo (Clase 7).
+
+    d) Material radiactivo embalado con un único número ONU, de uso exclusivo siempre que se exhiba en la mitad inferior de la etiqueta de riesgo y siempre que el material no presente riesgo(s) secundario(s).
+
+    e) Cualquier cantidad de explosivos de la división 1.4 Grupo de Compatibilidad S 
+
+5. 3.2.1.5	Los paneles de seguridad deben ser fijados en posición adyacente a los rótulos de riesgo exigidos en los ítems 5.3.1.1.4 a 5.3.1.1.7.2, en el frente de las unidades de transporte y remolques o semi-remolques que compongan la unidad de transporte.
+
+
+5.3.2.1.6	Disposiciones especiales para unidades de transporte constituidas por cisternas de múltiples compartimentos 
+
+5.3.2.1.6.1	Unidades de transporte constituidas por cisternas con múltiples compartimentos, transportando conjuntamente más de uno de las siguientes mercancías con número ONU 1202, 1203, 1223, y combustible de aviación asignados a los números ONU 1268, y 1863; además del rótulo de riesgo referente a la Clase, pueden portar solamente el panel de seguridad correspondiente al producto de mayor riesgo, o sea el de menor punto de inflamación.
+
+5.3.2.1.6.2.	Unidades de transporte constituidas por cisternas de múltiples compartimentos, en las cuales son transportadas dos o más productos peligrosos y/o residuos de productos peligrosos, con excepción de lo establecido en el ítem 5.3.2.1.5, los paneles de seguridad fijados en el frente y en la parte trasera de las unidades de transporte no deben tener inscripciones.
+
+
+5.3.2.2	Características de los paneles de seguridad
+
+5.3.2.2.1	Los paneles de seguridad, independientemente del material de fabricación utilizado, reflectivos o no, deben ser resistentes a la intemperie, de modo que permanezcan intactos durante el transporte, preservando la función a la que se destinan. Se prohíbe la utilización de paneles de seguridad pleglables o intercambiables.
+
+5.3.2.2.2	Los paneles de seguridad deben tener el número de ONU y el número de riesgo del producto transportado exhibido en caracteres negros, con una altura mínima de 65mm, en un panel rectangular de color naranja, con una altura mínima de 150mm y un largo mínimo de 350mm, debiendo tener u borde negro de 10mm (ver Figura 5.4).
+
+NOTA: En el caso de que el panel de seguridad presente sólo el número ONU, su altura mínima puede ser de 120mm, y su largo mínimo puede ser de 300mm.
+
+5.3.2.2.3	La Figura 5.4, abajo muestra las informaciones contenidas en el panel de seguridad de las unidades de transporte de carga.
+
+Figura 5.4
+INFORMACIONES CONTENIDAS EN EL PANEL DE SEGURIDAD DE LAS UNIDADES DE TRANSPORTE DE CARGA
+
+ ***     Número de riesgo
+
+****    Número ONU
+
+5.3.3	Otros símbolos aplicables
+
+5.3.3.1	Símbolo para transporte de sustancias a temperatura elevada
+
+Las unidades de transporte que contengan una sustancia en estado líquido que se transporte o se  presente para el transporte a una temperatura igual o superior a 100 °C, o una sustancia sólida que se transporte o se presente para el transporte a una temperatura igual o superior a 240 °C, llevarán en cada lado y  en  cada extremo la  marca indicada en  la  figura 5.5 Esta marca de  forma triangular tendrá lados de 250 mm como mínimo y será de color rojo.
+
+
+
+
+
+Figura 5.5
+Marca para el transporte de sustancias a temperatura elevada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.3.3.2	Símbolo para las sustancias peligrosas que presentan riesgo para el medio ambiente
+
+5.3.3.2.1	Las unidades de transporte que transporten sustancias peligrosas para el medio ambiente de acuerdo con los criterios de 2.9.3 (Nos. ONU 3077 y 3082) deberán exhibir el símbolo indicado en la figura 5.2, en por lo menos dos lados opuestos, permitiendo la visualización por todas las personas involucradas en las operaciones de carga o descarga.
+
+ Tal símbolo debe tener como mínimo, 250mm de lado.
+
+
+
+
+
+CAPÍTULO 5.4
+
+
+DOCUMENTACIÓN
+
+
+
+NOTA introductoria:	Las referencias a documentos en este Anexo, no impiden el uso de técnicas de transmisión basadas en el Tratamiento Electrónico de Datos (TED) y en el intercambio electrónico de datos (IED) como medios alternativos a la documentación escrita.  
+
+
+5.4.1	Información para el transporte de mercancías peligrosas
+
+5.4.1.1	Disposiciones Generales
+
+5.4.1.1.1	Si no se dispone otra cosa en el presente Anexo, el expedidor deberá proporcionar al transportista la información relativa a la mercancía peligrosa transportada, además de toda la información y documentación adicionales que se especifican en el presente Anexo. Esta información podrá facilitarse por medio de un documento para el transporte de mercancías peligrosas o, con el acuerdo del transportista, por medio de técnicas de transmisión electrónica de datos.
+
+5.4.1.1.2	Si se utiliza un documento en papel, el expedidor entregará al transportista una copia de la documentación exigida, completa y firmada, de acuerdo a las exigencias del presente Capítulo.
+
+5.4.1.1.3	Cuando la información relativa al transporte de las mercancías peligrosas se entregue al transportista por medio de técnicas de transmisión electrónica de datos, el expedidor deberá poder presentar la información en forma de documento en papel sin demoras y con la información en el orden exigido en este Capítulo.
+
+5.4.1.2	Documento de transporte
+
+5.4.1.2.1	A los fines de este Anexo, el documento para el transporte de mercancías peligrosas es cualquier documento (declaración de carga, nota fiscal, conocimiento de transporte, manifiesto de carga, documentos auxiliares de documentos electrónicos, u otro documento que acompañe la expedición),  que contengan todas las informaciones exigidas en el ítem 5.4.1.3 al 5.4.1.6 y las declaraciones exigidas en el ítem 5.4.1.7.
+
+5.4.1.2.2 	Las informaciones referentes a las mercancías peligrosas que figuren en el documento para el transporte deberán ser de fácil identificación, visibles y duraderas.
+
+5.4.1.2.3 	No se exige documento de transporte por separado para mercancías peligrosas cuando una expedición contuviera tanto mercancías peligrosas como no peligrosas, ni haya restricción en cuanto al número de descripciones de mercancías peligrosas individuales que pueden aparecer en un mismo documento.
+
+5.4.1.2.4 	Si en el documento de transporte se mencionan tanto mercancías peligrosas como no peligrosas, aquellas deberán figurar en primer lugar o destacadas de cualquier otra manera.
+
+5.4.1.2.5	El nombre y dirección del expedidor y del destinatario de las mercancías peligrosas deben constar en el documento para el transporte, así como la fecha en que el documento fue emitido o entregado al transportador.
+
+
+
+
+
+
+
+
+5.4.1.3	 Información exigida en el documento para el transporte de mercancías peligrosas
+
+	5.4.1.3.1	Descripción de las mercancías peligrosas
+
+En el documento de transporte de mercancías peligrosas constará la siguiente información acerca de toda sustancia, material u objeto peligrosos que se presentan para su transporte:
+
+    a) el número ONU precedido de las letras "UN" u “ONU”.
+Nota: Se exime de la utilización de las letras “UN” u “ONU” en el caso de utilización de documento electrónico con campos ya especificados.
+
+b)	la designación apropiada para el transporte, determinada de acuerdo con 3.1.2.;
+
+c)	el número de la Clase de riesgo primario o, cuando proceda, la división de las mercancías y, para la clase 1, la letra del grupo de compatibilidad. Las palabras "Clase" o "División" se pueden incluir antes de la Clase o de la División de riesgo primario;
+
+d)	El o los números de Clase o de División de riesgo secundario correspondientes a la o las etiquetas de riesgo secundario, cuando se requieran, deberán figurar entre paréntesis, tras el número de la Clase o de la División de riesgo primario. Las palabras "Clase" o "División" se pueden incluir antes de la Clase o de la División de riesgo secundario;
+
+e)	cuando se haya asignado, el grupo de embalaje correspondiente a la sustancia o artículo, que puede ir precedido de las letras "GE" (por ejemplo, "GE II").
+
+	f)	La cantidad total por producto peligroso abarcado por la descripción (en volumen, masa, o contenido líquido de explosivos, conforme sea lo apropiado). Cuando se trate de embarque con cantidad limitada por unidad de transporte, el documento de transporte debe informar el peso bruto del producto expresado en kg. 
+
+
+5.4.1.4	Orden en el que deben figurar los elementos de la descripción de las mercancías peligrosas
+
+Los elementos de la descripción de mercancías peligrosas expuestos en el ítem 5.4.1.3.1 se presentarán en el orden arriba indicado (es decir: a), b), c), d), e), f)) sin ninguna información interpuesta, excepto la prevista en el presente Anexo. A continuación se dan ejemplos de descripciones de mercancías peligrosas:
+
+ONU 1098, ALCOHOL ALÍLICO 6.1 (3) I 1000kg
+ONU 1098, ALCOHOL ALÍLICO, División 6.1, (Clase 3), GE I 1000Kg
+
+
+5.4.1.5	Información complementaria a la denominación apropiada para el  transporte en la descripción de mercancías peligrosas
+
+En la descripción de mercancías peligrosas la denominación apropiada para el transporte deberá ser completada por las siguientes informaciones:
+
+a)	Nombres técnicos para las designaciones "NEP." y otras descripciones genéricas para las cuales se han asignado las disposiciones especiales N°274 y N°318, en la columna 7 de la Lista de Mercancías Peligrosas como se describe en el ítem 3.1.2.8;
+
+
+
+
+
+    b) Palabra “Desechos”: En cuanto a los desechos de mercancías peligrosas (que no sean desechos radiactivos) que se transportan para su eliminación o para ser procesados con miras a su eliminación, la denominación apropiada para el transporte deberá ir precedida de la palabra "DESECHOS", a no ser que ésta ya forme parte de la denominación apropiada para el transporte;
+
+    c) Palabra “CALIENTE”: si en la denominación apropiada para el transporte de una sustancia que se transporte o que se presente para el transporte en estado líquido a una temperatura igual o superior a 100 ºC, o en estado sólido a una temperatura igual o superior a 240 ºC, salvo si ya estuviera indicado no se  indica que se trata de una sustancia que se transporta a temperatura elevada (por ejemplo, utilizando los términos "FUNDIDO(A)" o "TEMPERATURA ELEVADA" como parte de la denominación apropiada para el transporte), el término "CALIENTE" figurará inmediatamente antes de la denominación apropiada para el transporte.
+
+    d) Embalajes, contenedores para graneles y cisternas, vacíos, sin limpiar: Todos los medios de contención vacíos (en particular, los embalajes, los RIG, los  contenedores para graneles, las cisternas portátiles, los vehículos cisterna y los vagones cisterna) que contengan residuos de mercancías peligrosas distintas de las de la clase 7 se  describirán como tales, por ejemplo, colocando las palabras "VACÍO, SIN LIMPIAR" o "CONTIENE RESIDUOS" antes de la descripción de las  mercancías peligrosas que se especifica en el ítem 5.4.1.4.1 a) a e) o después de ella.
+
+
+5.4.1.6	Informaciones adicionales necesarias además de la descripción de mercancías peligrosas
+
+Además de la descripción de las mercancías peligrosas en el documento de transporte se incluirá la siguiente información.
+
+5.4.1.6.1	Cantidad total de mercancías peligrosas
+
+Salvo en el caso de embalajes vacíos, sin limpiar, deberá señalarse la cantidad total de mercancías peligrosas a que se refiere la descripción (en volumen o en masa, según corresponda) de cada mercancía peligrosa que lleve un número ONU, un grupo de embalaje o una denominación apropiada para el transporte distintos. Para las mercancías peligrosas de la clase 1, la cantidad hará referencia a la masa neta de materia explosiva. Cuando se trate de embarques con cantidades limitadas por unidades de transporte, el documento de transporte debe informar también, para las excepciones previstas en el Capítulo 3.4, el peso bruto del producto en kg. En cuanto a las mercancías peligrosas transportadas en embalajes de socorro, se dará una estimación de la cantidad de mercancía peligrosa. Se indicará asimismo el número y tipo (por ejemplo, bidón, caja, etc.) de cada uno de los bultos. Los códigos de designación de tipos de embalajes ONU sólo podrán utilizarse para completar la descripción de la naturaleza del bulto (por ejemplo, una caja (4G)). Se pueden utilizar abreviaturas para  señalar la unidad de medida de la cantidad total.
+
+5.4.1.6.2	Cantidades limitadas
+
+Cuando se efectúe un transporte al amparo de las excepciones previstas en el Capítulo 3.4, se incluirá en el documento de transporte, junto a la denominación apropiada para el transporte las palabras "cantidad limitada" o "CANT. LTDA."
+
+5.4.1.6.3	Embalajes de socorro y embalajes de socorro bajo presión
+
+Cuando se transporten mercancías peligrosas en embalaje de socorro o en un embalaje de socorro bajo presión, una de las expresiones “BULTO DE SOCORRO” o “EMBALAJE DE SOCORRO A PRESION” debe ser agregada a la descripción del producto en el documento de transporte, según corresponda.
+
+5.4.1.6.4	Sustancias estabilizadas mediante regulación de la temperatura
+
+Si la palabra "ESTABILIZADA" formara parte de la denominación apropiada para el transporte (véase también el ítem 3.1.2.6), cuando la estabilización se haya hecho mediante regulación de temperatura, en el documento de transporte se indicarán las temperaturas de regulación y de emergencia (véase el ítem 7.1.5.3.1), de la siguiente manera:
+
+"Temperatura de regulación:  . ºC	Temperatura de emergencia: ... ºC"
+
+
+5.4.1.6.5	Sustancias que reaccionan espontáneamente y peróxidos orgánicos
+
+Para las sustancias que reaccionan espontáneamente de la División 4.1 y los peróxidos orgánicos de la División 5.2 que requieran regulación de temperatura durante el transporte, en el documento de transporte de mercancías peligrosas se indicarán las temperaturas de regulación y de emergencia (véase el ítem 7.1.5.3.1) de la siguiente manera:
+
+"Temperatura de regulación: ... ºC	Temperatura de emergencia: ... ºC"
+
+5.4.1.6.5.1	Cuando la autoridad competente haya permitido la ausencia de la etiqueta de riesgo secundario "EXPLOSIVO" (modelo Nº 1) para un embalaje específico para ciertas sustancias de reacción espontánea de la división 4.1 y ciertos peróxidos orgánicos de la división 5.2, se hará constar tal circunstancia en el documento de transporte. El documento debe contener una declaración en los siguientes términos: “Se exceptúa el uso de la etiqueta de riesgo explosivo” 
+	
+
+Cuando se transporten peróxidos orgánicos y sustancias que reaccionan espontáneamente en condiciones en las que se requiera aprobación (para los peróxidos orgánicos, véase 2.5.3.2.5, 4.1.7.2.2, 4.2.1.13.1 y 4.2.1.13.3; para las sustancias que reaccionan espontáneamente, véase 2.4.2.3.2.4 y 4.1.7.2.2), se hará constar tal circunstancia en el documento de transporte. Se anexará al documento de transporte de mercancías peligrosas una copia de la aprobación de la clasificación y de las condiciones de transporte de los peróxidos orgánicos y las sustancias que reaccionan espontáneamente no incluidos en la Lista.
+ 
+5.4.1.6.5.2	Cuando se transporte una muestra de sustancia de reacción espontánea (ver el ítem 2.4.2.3.2.4 (b)), o de un peróxido orgánico (véase ítem 2.5.3.2.5.1), la denominación apropiada para el transporte en el documento de transporte debe ir acompañado de la palabra “MUESTRA”.
+
+5.4.1.6.6	Sustancias infecciosas
+
+En el documento de transporte figurará la dirección completa del destinatario, junto con el nombre y el número de teléfono de una persona responsable.
+
+5.4.1.6.7	Material radiactivo
+
+5.4.1.6.7.1 En cada remesa de material de la clase 7 deberá figurar la siguiente información, según proceda, en el orden indicado:
+
+    a) El nombre o símbolo de cada radionucleido o, para las mezclas de radionucleidos, una descripción general apropiada o una lista de los nucleidos más restrictivos;
+
+b)	Una descripción de la forma física y química de los materiales, o una indicación de que los materiales son materiales radiactivos en forma especial o materiales radiactivos de baja dispersión. Para la forma química es aceptable una descripción química genérica;
+
+c)	La actividad máxima del contenido radiactivo durante el transporte expresada en becquerelios (Bq) con el prefijo y símbolo apropiado del SI (véase 1.2.2.1). Si se trata de sustancias fisionables, puede utilizarse en lugar de la actividad la masa de las sustancias fisionables (o, si se trata de mezclas, la masa de cada nucleido fisionable, según proceda), en gramos (g) o los múltiplos adecuados;
+
+d)	La categoría del bulto, es decir, I-BLANCA, II-AMARILLA, III-AMARILLA;
+
+e)	El índice de transporte (sólo en el caso de las categorías II-AMARILLA y III-AMARILLA);
+
+f)	Si se trata de remesas que incluyan sustancias fisionables distintas de las remesas exceptuadas en virtud de 6.4.11.2, el índice de seguridad con respecto a la criticidad;
+
+g)	La marca de identificación correspondiente a cada certificado de aprobación de la autoridad competente (materiales radiactivos en forma especial, materiales radiactivos de baja dispersión, arreglos especiales, diseño del bulto, o expedición) aplicable a la remesa;
+
+h)	Si se trata de remesas que incluyan más de un bulto, la información que se prescribe en 5.4.1.4.1 a) a c) y en 5.4.1.5.7.1 a) a g) con respecto a cada bulto. Si se trata de bultos en un sobreembalaje/sobreembalaje, en un contenedor o en un medio de transporte, una declaración detallada del contenido de cada bulto incluido en el interior del sobreembalaje/sobreembalaje, contenedor o medio de transporte. Si los bultos se van a extraer del sobreembalaje/sobreembalaje, contenedor o medio de transporte en un punto de descarga intermedio, deberá disponerse de la documentación de transporte adecuada;
+
+i)	Cuando sea necesario expedir una remesa según la modalidad de uso exclusivo, la indicación "EXPEDICIÓN EN LA MODALIDAD DE USO EXCLUSIVO"; y
+
+j)	Si se trata de BAE-II, BAE-III, OCS-I y OCS-II, la actividad total de la remesa como múltiplo de A2. Si se trata de materiales radiactivos para los que el valor de A2 no tenga límite, el múltiplo de A2 será cero.
+
+5.4.1.6.7.2	En los documentos de transporte se incluirá una declaración relativa a las medidas que, si hubiere lugar, debe adoptar el transportista. Esta declaración irá redactada en los idiomas castellano y portugués y deberá comprender, como mínimo, los siguientes puntos:
+
+a)	Los requisitos suplementarios relativos a la carga, estiba, transporte, manipulación y descarga del bulto, sobreembalaje o contenedor, incluidas cualesquiera disposiciones especiales relativas a la estiba con miras a la disipación del calor en condiciones de seguridad (véase 7.1.8.3.2), o bien, una declaración de que no es necesario ninguno de estos requisitos;
+
+b)	Cualquier restricción que afecte a las modalidades de transporte o a los medios de transporte y, si fueran necesarias, instrucciones sobre seguir un itinerario;
+
+c)	Medidas, adecuadas para la remesa, que haya que adoptar en caso de emergencia.
+
+5.4.1.6.7.3	En todos los casos de transporte internacional de bultos que requieran la aprobación del diseño o la expedición por parte de la autoridad competente, y para los que sean aplicables distintos tipos de aprobación en los diversos países interesados en la expedición, el número ONU y la designación oficial de transporte requeridos en 5.4.1.4.1 deberán ser conformes con el certificado del país de origen del diseño.
+
+5.4.1.6.7.4	No es necesario que los certificados pertinentes de las autoridades competentes acompañen a la remesa a que se refieren. El expedidor los pondrá a disposición de los transportistas antes de la carga o de la descarga.
+
+5.4.1.6.8	Transporte de sólidos en contenedores para graneles
+
+En los contenedores para graneles distintos de aquellos para cargas en general, deberá figurar la indicación siguiente en el documento de transporte (véase ítem 6.8.4.6):
+
+"Contenedor para graneles BK(x) aprobado por la autoridad competente de …"."
+
+5.4.1.6.9	Transporte de RIG o cisternas portátiles después de la fecha de vencimiento del último ensayo o inspección periódica
+
+Para el transporte según lo dispuesto en los ítems 4.1.2.2 b), 6.7.2.19.6 b), 6.7.3.15.6 b) o 6.7.4.14.6 b), en el  documento de transporte se hará constar tal circunstancia de la siguiente forma: “Transporte de acuerdo con lo dispuesto en ítems 4.1.2.2 b)”, “Transporte de acuerdo con lo dispuesto en los ítem 6.7.2.19.6 b)”, “Transporte de acuerdo con lo dispuesto en ítem 6.7.3.15.6 b)” o “Transporte de acuerdo con lo dispuesto en ítem 6.7.4.14.6 b)” según proceda.
+
+5.4.1.6.10	Referencia de clasificación de fuegos artificiales
+
+	Cuando fueran transportados fuegos de artificio asignados a los números ONU 0333, 0334, 0335, 0336 y 0337, el documento de transporte de mercancías peligrosas debe contener una referencia de clasificación, emitida por la Autoridad Competente.
+
+5.4.1.7     Declaración de expedidor
+
+NOTA: Para determinados productos, además de la declaración del expedidor, pueden ser exigibles en este Anexo otras declaraciones.
+
+5.4.1.7.1	El documento para el transporte de mercancías peligrosas, emitido por el expedidor, debe contener también, o ser acompañado de la declaración de que el producto está adecuadamente acondicionado y estibado para soportar los riesgos normales de una expedición y que cumple con la normativa vigente. 
+
+El texto para esa declaración debe ser el siguiente: “Declaro que las mercancías peligrosas contenidas en esta expedición están adecuadamente clasificadas, identificadas, acondicionadas y estibadas, para soportar los riesgos normales de cualquier operación necesaria a la expedición y cumplen con todas las disposiciones de la normativa vigente”.
+
+5.4.1.7.1.1 Para las expediciones de mercancías peligrosas que cumplan con lo dispuesto en el apartado 3.4.4, la declaración exigida en el párrafo 5.4.1.7.1 debe ser complementada con una indicación adicional acerca de que no hay riesgo de contaminación entre las mercancías peligrosas y no peligrosas.
+
+5.4.1.7.2	La declaración debe ser firmada y fechada por el expedidor. Quedan exceptuados de presentar la firma en la declaración los expedidores que la presentan impresa en el documento de transporte.
+
+5.4.1.7.3	En el caso de exportación o importación, cuando la declaración del expedidor fuere presentada en idioma distinto al español, la misma debe ir acompañada de la traducción al español.
+
+5.4.1.7.4	Si el documento de transporte de mercancías peligrosas fuere presentado al transportista usando técnicas de procesamiento de datos electrónicos (PED) o intercambio electrónico de datos (IED), las firmas pueden ser sustituidas por los nombres (en mayúscula) de las personas autorizadas a firmar.
+
+5.4.1.8 	Documentación complementaria
+
+5.4.1.8.1	Además del documento para el transporte de mercancías peligrosas, conteniendo las informaciones exigidas en el ítem 5.4.1.2, y de la declaración exigida en el ítem 5.4.1.7, vehículos y equipamientos de transporte de carga que estén transportando mercancías peligrosas, solamente pueden transitar por las vías públicas acompañados de los siguientes documentos:
+
+
+    a) Certificado de inspección del vehículo y de los equipos destinados al transporte de mercancías peligrosas a granel, expedido por la Autoridad Competente de cada Estado Parte o por una entidad acreditada por ella.
+
+    b) Documento vigente que acredite la aprobación del curso establecido en el Apéndice II del Anexo I, del conductor y de los eventuales acompañantes que realicen actividades vinculadas con el servicio.
+
+    c) Ficha de Emergencia conteniendo información del producto, de manera tal que ayude en las acciones de atención en caso de que ocurra cualquier accidente u incidente, conteniendo instrucciones suministradas por el expedidor, conforme a información recibida del fabricante o importador de la mercancía transportada, expliciten de forma clara y concisa.
+
+    I. La naturaleza del riesgo presentado por las mercancías peligrosas transportadas, así como las medidas de emergencia.
+    II. Las disposiciones aplicables en caso de que una persona entre en contacto con el producto transportado o con sustancias que pueden desprenderse del mismo.
+    III. Las medidas que se deben tomar en el caso de ruptura o deterioro de embalajes o cisternas o en caso de escape (fuga) o derrame de las mercancías peligrosas transportadas.
+    IV. En caso de escape y de verse el vehículo impedido de proseguir el viaje, medidas necesarias para la realización del trasbordo de la carga, o cuando fuere el caso, restricciones en el manipuleo del producto.
+    V. Números de teléfono de emergencia y del cuerpo de bomberos, policía, defensa civil, organismos del medio ambiente y, cuando fuere el caso, Autoridades Competentes para las Clases 1 y 7 a lo largo del itinerario.
+    VI. Los productos considerados incompatibles para los fines de transporte.
+
+NOTA1: En el transporte por carretera de mercancías peligrosas las instrucciones escritas deben ser mantenidas a bordo junto al conductor del vehículo en un lugar visible.
+
+NOTA2: Las instrucciones escritas deben ser ubicadas lejos de los bultos conteniendo mercancías peligrosas de manera tal que se permita el acceso inmediato a las mismas, en el caso de accidente o incidente.
+
+NOTA3: En los casos de exportación o importación, las instrucciones escritas para el procedimiento de emergencia deben estar redactadas en los idiomas oficiales de los países de origen, tránsito y destino. 
+
+    d) Declaración del expedidor, para el caso de mercancías peligrosas sujetas a la Disposición Especial N° 223 (ver Capítulo 3.3), y clasificadas por el expedidor como no peligrosas para el transporte, después del ensayo de la mercancía, conforme a los criterios de la Clase o División dispuestos en este Anexo. 
+
+5.4.1.8.2 En el caso de transporte ferroviario de productos peligrosos, se debe además incluir:
+
+    a) Documento probatorio de la empresa ferroviaria o entidad por ella reconocida de que los vagones y equipamientos destinados al transporte a granel son los adecuados para el transporte a que se destinan;
+
+    b) Instrucciones detalladas o guía de procedimientos en caso de emergencia, conteniendo informaciones específicas para cada mercancía y para cada ruta ferroviaria, incluyendo procedimientos para la ejecución segura de las operaciones implicadas en el manipuleo, transporte y atención en casos de emergencia, teniendo como base las informaciones recibidas por el expedidor, según las especificaciones del fabricante del producto.
+
+En esas instrucciones deben estar definidas las responsabilidades, actividades y atribuciones de todos aquellos que deben actuar en las operaciones de manipuleo, transporte y atención a emergencias, destacando el orden de mando en cada caso.
+
+
+
+NOTA: en caso de transporte eventual de mercancías peligrosas, a criterio de la empresa ferroviaria y sin perjuicio de la seguridad, las instrucciones relativas al transporte, manipuleo y atención de las emergencias pueden ser simplificadas.
+
+5.4.1.9 Conservación de la información relativa al transporte de mercancías peligrosas
+
+5.4.1.9.1 El expedidor conservará una copia del documento de transporte de mercancías peligrosas y de la información y documentación que se especifiquen en esta Reglamentación durante un período mínimo de tres meses.
+
+5.4.1.9.2 Cuando los documentos se conserven en formato electrónico o en un sistema informático, el expedidor deberá poder reproducirlos en forma impresa.
+
+
+CAPÍTULO 5.5
+
+
+DISPOSICIONES ESPECIALES
+
+
+
+5.5.1	Disposiciones especiales aplicables a la expedición de sustancias infecciosas
+
+5.5.1.1	Animales vivos, vertebrados o invertebrados, no deben ser utilizados para transportar una sustancia infecciosa, excepto que la misma no pueda ser transportada por otro medio. Los animales infectados deben ser transportados en las condiciones que especifique la Autoridad Competente en materia de salud pública.
+
+
+5.5.2	Disposiciones especiales aplicables a las unidades de transporte sometidas a fumigación
+(ONU 3359)
+
+5.5.2.1	 Información general
+
+5.5.2.1.1	Las unidades de transporte sometidas a fumigación (ONU 3359) que no contengan otras mercancías peligrosas estarán sujetas a las disposiciones de este Capítulo.
+
+5.5.2.1.2	Cuando en una unidad de transporte fumigada se cargan mercancías peligrosas además del producto fumigante, serán de aplicación, junto con las disposiciones del presente Capítulo, todas las disposiciones de este Anexo que se refieran a esas mercancías (incluidas las relativas a la rotulación, la señalización y la documentación).
+
+5.5.2.1.3	Sólo podrán utilizarse para transportar carga con fumigación unidades de transporte que puedan cerrarse de modo que la fuga de gases quede reducida al mínimo posible.
+
+5.5.2.2	Formación
+
+Las personas que intervengan en el manejo de unidades de transporte sometidas a fumigación recibirán una formación en función de sus responsabilidades.
+
+5.5.2.3	Símbolo para unidades de transporte sometidas a fumigación.
+
+5.5.2.3.1	Las unidades de transporte sometidas a fumigación llevarán el símbolo de advertencia indicado en la Figura 5.6, que se fijará en cada punto de acceso, en un lugar donde sea fácilmente visible para las personas que abran la unidad de transporte o entren en ella. Este símbolo permanecerá en la unidad de transporte hasta que se cumplan las siguientes condiciones:
+
+a)	La unidad de transporte sometida a fumigación haya sido ventilada con el fin de evitar concentraciones peligrosas del gas fumigante; y
+
+b)	las mercancías o materiales fumigados hayan sido descargados.
+
+5.5.2.3.2	El símbolo de advertencia para las unidades de transporte sometidas a fumigación tendrá forma rectangular y un tamaño mínimo de 400 mm de anchura y 300 mm de altura. Estará impreso en negro sobre fondo blanco con letras de una altura mínima de 25 mm. En la figura 5.6 se reproduce un modelo de este símbolo.
+
+
+
+
+
+
+
+
+
+
+Figura 5.6 Símbolo de advertencia para las unidades de transporte sometidas a fumigación
+
+PELIGRO
+
+
+
+
+UNIDAD SOMETIDA A FUMIGACIÓN CON (nombre del fumigante*) APLICADO EL (fecha*) 
+(hora*)
+VENTILADO EL (fecha*)
+
+PROHIBIDA LA ENTRADA
+
+
+* Indicar los detalles pertinentes
+
+400 mm como mínimo
+
+
+5.5.2.3.3	Si la unidad de transporte sometida a fumigación ha sido ventilada completamente tras la fumigación, bien mediante la apertura de las puertas, bien por ventilación mecánica, la fecha de la ventilación deberá figurar en la marca de advertencia.
+
+5.5.2.3.4	Cuando la unidad de transporte sometida a fumigación haya sido ventilada y descargada, se retirará la marca de advertencia.
+
+5.5.2.3.5	Está prohibida la fijación de rótulos de riesgo para la Clase 9 (modelo N° 9, véase el ítem 5.2.2.2.2) a las unidades de transporte sometidas a fumigación, a menos que contengan otras sustancias o artículos de la Clase 9 que lo requieran.
+
+5.5.2.4	Documentación
+
+5.5.2.4.1	Los documentos relacionados con el transporte de unidades de transporte que hayan sido sometidas   a fumigación pero que no hayan sido ventiladas completamente contendrán la siguiente información:
+
+-	UN u ONU 3359, unidad de transporte sometida a fumigación, 9, o; 
+	UN u ONU 3359, unidad de transporte sometida a fumigación, Clase 9;
+-	la fecha y hora de la fumigación; y
+-	el tipo y cantidad de fumigante utilizado.
+
+5.5.2.4.2	El documento de transporte podrá adoptar cualquier forma, siempre que contenga la información exigida en ítem 5.5.2.4.1. Esta información deberá ser fácilmente identificable, legible y duradera.
+
+5.5.2.4.3	Se facilitarán instrucciones para la eliminación de los residuos de fumigante, incluidos los aparatos de fumigación (si los hubiere).
+
+5.5.2.4.4	No será necesario ningún documento de transporte previsto en el ítem 5.5.2.4.1 cuando la unidad de transporte haya sido ventilada completamente y la fecha de ventilación se haya consignado en el símbolo de advertencia (véanse los ítems 5.5.2.3.3 y 5.5.2.3.4).
+
+
+
+
+
+5.5.3 Disposiciones especiales aplicables a bultos y unidades de transporte conteniendo sustancias que presenten riesgo de asfixia cuando se utilizan para fines de refrigeración o acondicionamiento (por ejemplo: hielo seco, ONU 1845, o nitrógeno líquido refrigerado, ONU 1977, o argón, liquido refrigerado, ONU 1951)
+
+5.5.3.1 Ámbito de aplicación.
+
+5.5.3.1.1 Las disposiciones siguientes no se aplican a sustancias que pueden ser utilizadas para fines de refrigeración o acondicionamiento cuando estuvieren siendo transportadas como una expedición de mercancías peligrosas.
+
+5.5.3.1.2 Las disposiciones siguientes no se aplican a los gases utilizados en los ciclos de refrigeración.
+
+5.5.3.1.3 Tampoco de aplican las disposiciones siguientes a las mercancías peligrosas utilizadas para fines de refrigeración u acondicionamiento de cisternas portátiles durante el transporte.
+
+5.5.3.2 Información General
+
+5.5.3.2.1 Las unidades de transporte cargadas con sustancias destinadas a la refrigeración o acondicionamiento (a excepción de producto fumigante) no están sujetas durante el transporte a otras disposiciones de este Anexo, salvo las disposiciones siguientes. 
+
+5.5.3.2.2 Además de las disposiciones contenidas en este Capítulo, cuando los productos peligrosos, fueran cargados en unidades de transporte refrigeradas o acondicionadas, todas las disposiciones aplicables a tales productos también deben ser tenidas en cuenta.
+
+5.5.3.2.3 El personal implicado en el manipuleo y en las operaciones de transporte de unidades de transporte refrigeradas o acondicionadas deben recibir entrenamiento adecuado, de acurdo a sus respectivas responsabilidades.
+
+5.5.3.3 Bultos conteniendo un refrigerante o acondicionante
+
+5.5.3.3.1 Las mercancías peligrosas embaladas que necesiten de refrigeración o acondicionamiento y a las cuales se les aplican las Instrucciones para embalajes P203, P620, P650, P800, P901, o P904, establecidas en el ítem 4.1.4.1 deben atenerse a las disposiciones apropiadas contenidas en las referidas Instrucciones para Embalajes.
+
+5.5.3.3.2 Para las demás mercancías peligrosas, que necesiten de refrigeración o acondicionamiento y a las cuales no se le aplican las instrucciones para embalaje referidas en el ítem 5.5.3.3.1, los bultos deben ser capaces de soportar temperaturas muy bajas y no deberán afectarlos ni debilitarlos de manera significativa el producto refrigerante o de acondicionamiento. Los bultos deben ser diseñados y construidos de modo que permita la liberación de gas para prevenir un aumento de presión que pueda provocar la ruptura del embalaje.
+
+Además, las mercancías peligrosas deben ser embaladas de forma que se prevenga cualquier movimiento después de la disipación del producto refrigerante o de acondicionamiento.
+
+5.5.3.3.3 Los bultos que contengan un producto refrigerante o de acondicionamiento se transportarán en vehículos y contenedores adecuadamente ventilados.
+
+
+
+5.5.3.4 Marcado de los bultos que contengan un agente refrigerante o de acondicionamiento
+
+5.5.3.4.1 Los bultos que contengan mercancías peligrosas utilizadas como refrigerante o de acondicionamiento deben portar una marca consistente en la denominación apropiada para el transporte de esos productos seguida de la expresión “COMO REFRIGERANTE” o “COMO ACONDICIONANTE” de acuerdo a lo que sea apropiado.
+
+5.5.3.4.2 El marcado debe ser durable, legible, adecuadamente dimensionado, en relación al tamaño del bulto y localizado de forma que sea claramente visible.
+
+5.5.3.5 Unidades de transporte conteniendo hielo seco no embalado 
+
+5.5.3.5.1 cuando se utilice hielo seco sin embalaje, no deberá estar en contacto directo con la estructura metálica de la unidad de transporte de manera de evitar debilitar el metal. 
+
+Es conveniente crear un aislamiento adecuado entre el hielo seco y la estructura metálica de la unidad de transporte, estableciéndose una separación de un mínimo, de 30mm (por ejemplo: utilizando materiales de baja conductividad de calor).
+
+5.5.3.5.2 cuando el hielo seco se coloque alrededor de los embalajes transportados, se adoptarán para asegurarse que los bultos permanezcan en la posición original durante todo el transporte, aunque se halla disipado el hielo seco.
+
+5.5.3.6 Símbolo para la unidad de transporte conteniendo productos peligrosos utilizados como refrigerantes o acondicionantes
+
+5.5.3.6.1 Las unidades de transporte conteniendo mercancías peligrosas utilizadas como refrigerantes o acondicionantes deben portar el símbolo indicado en la Figura 5.7 fijado en cada punto de acceso al compartimento de carga, de modo que sea fácilmente visible por las personas que necesiten entrar en la unidad de transporte. El símbolo debe permanecer en la unidad de transporte hasta que se cumplan las siguientes disposiciones:
+
+    a) Las unidades de transporte de carga hayan sido adecuadamente ventiladas para eliminar las concentraciones nocivas del refrigerante o acondiciónate; y
+    b) Las mercancías o productos refrigerantes o acondicionantes hayan sido descargados de la unidad.
+
+5.5.3.6.2 El símbolo debe ser de forma rectangular y debe tener las dimensiones de, como mínimo, 150mm de ancho y 250mm de altura. Deben contener los siguientes datos:
+
+    a) La palabra “ATENCIÓN”, en color rojo o blanco, con letras de una altura de no menos de 25mm; y
+    b) la denominación apropiada para el transporte del producto seguida de la expresión “COMO REFRIGERANTE” o “COMO ACONDICIONANTE”, según sea el caso, ubicada abajo del pictograma con letras de color negro en fondo de color blanco y con una altura mínima de 25 mm.
+Por ejemplo: DIOXIDO DE CARBONO, SOLIDO, COMO REFRIGERANTE.
+Una ilustración del símbolo está representada en la figura 5.7 siguiente:
+
+
+
+
+
+
+Figura 5.7-Marca de Advertencia 
+
+
+
+5.5.3.7 Documentación
+
+5.5.3.7.1 El documento para el transporte de mercancías peligrosas relativo a las unidades de transporte que hayan utilizado productos refrigerantes o acondicionantes y que no hayan sido completamente ventiladas antes de un cargamento deben incluir la siguiente información:
+
+    a)  El numero ONU del refrigerante o acondicionante, precedido de las letras “ONU” o “UN”; y
+    b)  La denominación apropiada para el transporte seguida de la expresión “COMO REFRIGERANTE” o “COMO ACONDICIONANTE” según corresponda.
+
+Por ejemplo: ONU1845, DIOXIDO DE CARBONO, SOLIDO, COMO REFRIGERANTE
+
+5.5.3.7.2 La información exigida en el ítem 5.5.3.7.1 debe ser legible durable y fácilmente identificable.

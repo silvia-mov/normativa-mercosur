@@ -1,0 +1,152 @@
+Decisión CMC N° 36/04
+Título: SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE SEGURIDAD DEL MERCOSUR (SISME)
+Tipo de documento: texto
+Archivo original: 67868_DEC_036-2004_ES_sistema-seguridad-MCS_Actualizada.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+TEXTO ACTUALIZADO CONFORME DEC. CMC Nº 17/17 
+
+TEXTO ORIGINAL
+
+MERCOSUR/CMC/DEC. Nº 36/04
+
+SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE SEGURIDAD DEL MERCOSUR (SISME)
+
+
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión N° 7/96 y los Acuerdos N° (s) 1/97, 1/98, 8/98, 16/03 y 04/04 de la Reunión de Ministros de Interior del MERCOSUR.
+
+CONSIDERANDO:
+
+Que para hacer frente a las actividades del crimen transnacional organizado es esencial contar con un ágil y oportuno intercambio de información.
+
+Que el actual Sistema de Intercambio de Información de Seguridad del MERCOSUR (SISME) requiere perfeccionamiento.
+
+Que es necesario adoptar un mecanismo flexible de gestión.
+
+EL CONSEJO DEL MERCADO COMÚN
+DECIDE:
+
+Art. 1 - Aprobar el nuevo diseño operacional del "Sistema de Intercambio de Información de Seguridad del MERCOSUR (SISME)”, elaborado por la Reunión de Ministros del Interior, que consta como Anexo y forma parte de la presente Decisión.
+
+Art. 2 - El SISME estará abierto a la participación de los Estados Asociados y otros organismos que oportunamente firmen convenio de intercambio de información con el MERCOSUR.
+Texto actualizado por art. 2 de la Dec. CMC Nº 17/17
+
+Art. 3 - La presente Decisión no necesita ser incorporada al ordenamiento jurídico de los Estados Partes del MERCOSUR, por reglamentar aspectos de la organización y del funcionamiento del MERCOSUR.
+
+XXVII CMC – Belo Horizonte, 16/XII/04
+ANEXO
+
+SISTEMA DE INTERCAMBIO DE INFORMACION DE SEGURIDAD
+DEL MERCOSUR
+
+Teniendo en cuenta el fenómeno de la delincuencia y del crimen organizado en el contexto del proceso de integración regional, resulta necesario destacar que:
+
+• El acceso efectivo y oportuno a la información es vital en la estrategia de prevención e investigación de los ilícitos en general;
+• La delincuencia organizada dispone y utiliza medios y tecnología de avanzada, al contar con amplios recursos financieros;
+• La eficaz y eficiente lucha contra dichas organizaciones requiere de medios y tecnología innovadores;
+• La nueva plataforma del SISME exige actualizar sus objetivos, alcances, estructura, administración y tipo de información que se procesará.
+
+OBJETIVO:
+
+Optimizar y actualizar el funcionamiento del “SISME”. Para ello se desarrollarán   procedimientos administrativos y de seguridad, apoyados en medios informáticos y de comunicaciones de última tecnología, que permitan organizar, controlar y dinamizar sus actividades operativas.
+
+ALCANCE:
+
+Procesar información relacionada con personas, vehículos, armas y otros requerimientos que oportunamente se determinen.
+
+Para ello resulta necesario actualizar y optimizar los procedimientos que aseguren los intercambios de información oportuna, relevante, válida y confiable a través de medios informáticos y de comunicación ágiles, seguros y modernos.
+
+ESTRUCTURA:
+
+    a) Nodo Central SISME: Centraliza las comunicaciones desde y hacia los Nodos Enlace y los servicios de intercambio de información. Se encuentra alojado en la Secretaría del MERCOSUR. 
+
+    b) Nodos Enlace: Son las estructuras encargadas de concentrar la comunicación desde y hacia el Nodo Central SISME e internamente con las bases de datos propias y/o descentralizadas de los Nodos Gestor. Son Nodos Enlace todos los organismos de seguridad del MERCOSUR y otros que se incorporen a la plataforma.
+
+    c) Nodos Gestor: Representan a cada institución u organismo que proporciona y/o accede a información en el SISME. 
+
+    d) Usuario: Es quien accede a la información y es el destinatario final del servicio.
+
+La nueva estructura del SISME consta como Apéndice.
+
+ADMINISTRACION DEL SISTEMA:
+
+Del Nodo Central SISME:
+
+El Grupo de Trabajo Especializado Informática y Comunicaciones (GTEIC) será el encargado de administrar y coordinar el adecuado funcionamiento del Nodo Central SISME, sus actualizaciones tecnológicas, su auditoría general y aplicar los estándares adecuados de seguridad de la información. Asimismo, establecerá mecanismos orientados a garantizar el flujo expedito, seguro y estandarizado de la información en toda la extensión del Sistema. 
+
+Del Nodo Enlace:
+
+Será administrado por integrantes de las distintas Instituciones Policiales, Fuerzas de Seguridad u organismos cuya participación resulte conveniente incorporar de acuerdo a la naturaleza de la información a intercambiar. Tendrá como responsabilidad la consistencia y congruencia de los datos que son aportados al Nodo Enlace.
+
+Del Nodo Gestor:
+
+Los Nodos Gestor serán administrados por cada organismo integrante del SISME.
+
+REGLAMENTACIÓN DEL SISTEMA:
+
+El SISME se regirá por el Reglamento de Organización y Funcionamiento vigente y sus correspondientes modificaciones y complementaciones. 
+
+PRINCIPIOS BÁSICOS:
+
+Los organismos integrantes del SISME arbitrarán los medios necesarios para asegurar que la información sea oportuna, relevante, válida y confiable y garantizarán también la seguridad y disponibilidad de los datos que se definan.
+
+La plataforma deberá asegurar:
+
+a) Integridad, coherencia y consistencia de la información;
+b) Accesibilidad a la plataforma en forma permanente;
+c) Administración y auditoría de la plataforma de manera descentralizada;
+d) Equipamiento de última generación con capacidad de redundancia ante posibles fallas o contingencias;
+e) Conexiones disponibles y adecuadas entre los Nodos.
+
+
+SERVICIOS EN LA PLATAFORMA SISME:
+
+Cada Nodo Enlace deberá proveer una arquitectura informática que permita sistematizar los siguientes tipos de información a intercambiar de acuerdo a la legislación interna de cada país:
+
+    1) Sobre Personas:
+
+    • Pedidos de capturas, paraderos y comparendos nacionales e internacionales como así también prohibiciones y autorizaciones de ingreso y egreso al país de personas nacionales y extranjeras.
+ 
+    2) Sobre Bienes:
+
+    • Secuestro de automotores.
+    • Secuestro de armas.
+
+    3) La factibilidad de incorporación de algún otro servicio que en el futuro se decida sistematizar, será analizada por el GTEIC para su inclusión en la plataforma y correspondiente adaptación de la arquitectura y procedimientos, entre ellos:
+
+    • Visas otorgadas y denegadas; 
+    • Interdicciones y rechazos producidos en los Pasos de Fronteras y solicitudes de residencia denegadas;
+    • Datos vinculados al crimen organizado transnacional en todas sus modalidades; 
+    • Habilitación de licencias para conducir transportes de cargas de Sustancias Peligrosas;
+    • Registro de menores con paradero desconocido; 
+    • Información sobre embarcaciones, aeronaves, entre otros. 
+
+
+Texto actualizado por art. 1 de la Dec. CMC Nº 17/17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APÉNDICE 
+
+ESTRUCTURA DEL SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE
+SEGURIDAD DEL MERCOSUR (SISME)
+
+
+
+
+Fig. 1 – Plataforma de interoperabilidad
+ 
+
+Texto actualizado por art. 1 de la Dec. CMC Nº 17/17

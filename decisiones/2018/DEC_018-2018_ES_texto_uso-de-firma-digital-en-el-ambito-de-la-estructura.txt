@@ -1,0 +1,66 @@
+Decisión CMC N° 18/18
+Título: USO DE FIRMA DIGITAL EN EL ÁMBITO DE LA ESTRUCTURA INSTITUCIONAL DEL MERCOSUR
+Tipo de documento: texto
+Archivo original: 71411_DEC_018-2018_ES_Uso firma digital.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC. N° 18/18
+
+
+USO DE FIRMA DIGITAL EN EL ÁMBITO DE LA ESTRUCTURA INSTITUCIONAL DEL MERCOSUR
+
+	
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 19/02, 18/04, 13/15 y 44/15 del Consejo del Mercado Común y las Resoluciones N° 26/01, 22/04, 37/06 y 19/12 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario incorporar las nuevas tecnologías de la información a la gestión documental del MERCOSUR promoviendo el uso de la firma digital para facilitar y agilizar la suscripción de los documentos del MERCOSUR.
+
+Que la utilización de firmas digitales y servicios conexos basados en certificados reconocidos permiten lograr un mayor nivel de seguridad, garantizando la autoría e integridad de dichos documentos. 
+
+
+EL CONSEJO MERCADO COMÚN
+DECIDE:
+
+Art. 1 - Aprobar el uso de la firma digital para la suscripción de actas, normas, declaraciones, recomendaciones, comunicados conjuntos y demás documentos no incluidos en los numerales I y II del artículo 41 del Protocolo de Ouro Preto. 
+
+Art.  2 - Reconocer a la firma digital, realizada de conformidad con los artículos 3 y 4 de esta Decisión, el mismo valor jurídico y probatorio que el otorgado a las firmas manuscritas.
+
+Art. 3 - La firma digital se realizará con certificados emitidos por entidades certificadoras licenciadas y/o acreditadas por las autoridades reguladoras de firmas digitales competentes de cada Estado Parte del MERCOSUR, cuya nómina figura en Anexo a la presente Decisión. Cualquier modificación de dicha nómina deberá ser notificada a los Estados Partes y a la Secretaría del MERCOSUR (SM).
+
+Art. 4 - Los Estados Partes comunicarán a la SM las autoridades y los funcionarios habilitados para el uso de firma digital, así como las entidades certificadoras licenciadas y/o acreditadas que éstos utilicen y sus cadenas de confianza. La SM mantendrá un registro actualizado con esta información.
+
+
+
+
+
+
+La SM verificará los documentos electrónicos firmados digitalmente y garantizará la integridad y disponibilidad de los mismos.  
+
+Art. 5 - El Grupo Mercado Común (GMC) establecerá el procedimiento operativo para la firma digital de los instrumentos a que refiere el artículo 1 de la presente Decisión.
+
+Art. 6 - Los Estados Partes podrán utilizar firma digital en actas y documentos emanados de las reuniones en las que, conforme a las normas del MERCOSUR, participen los Estados Asociados. 
+
+En ese caso, los Estados Asociados deberán utilizar certificados de firma digital emitidos por entidades certificadoras licenciadas y/o acreditadas en dichos países habilitadas por las autoridades reguladoras de firmas digitales competentes de cada uno de ellos, comunicando la nómina a los Estados Partes y a la SM. Asimismo, los Estados Asociados deberán dar cumplimiento a lo establecido en los artículos 4 y 5 de la presente Decisión.
+
+Art. 7 - Esta Decisión necesita ser incorporada sólo al ordenamiento jurídico de la República Oriental del Uruguay. Esta incorporación deberá ser realizada antes del 28/02/2019.
+
+
+LIII CMC - Montevideo, 17/XII/18.
+
+ANEXO 
+
+NOMINA DE AUTORIDADES REGULADORAS DE FIRMAS DIGITALES
+
+1. A efectos de lo previsto en la presente Decisión, los Estados Partes del MERCOSUR reconocen recíprocamente las siguientes autoridades reguladoras de firmas digitales:
+
+República Argentina: Secretaría de Gobierno de Modernización de la Jefatura de Gabinete de Ministros de la Nación.
+
+República Federativa de Brasil: Instituto Nacional de Tecnologia da Informação (ITI).
+
+República del Paraguay: Dirección General de Firma Digital y Comercio Electrónico del Ministerio de Industria y Comercio.
+
+República Oriental del Uruguay:  Agencia para el Desarrollo del Gobierno de Gestión Electrónica y la Sociedad de la Información y del Conocimiento- Unidad de Certificación Electrónica (AGESIC-UCE).
+
+2. De acuerdo a lo previsto en el artículo 6 de la presente Decisión, los Estados Asociados informarán a los Estados Partes y a la Secretaría del MERCOSUR (SM) su respectiva autoridad reguladora de firma digital, a los efectos de reconocimiento recíproco.

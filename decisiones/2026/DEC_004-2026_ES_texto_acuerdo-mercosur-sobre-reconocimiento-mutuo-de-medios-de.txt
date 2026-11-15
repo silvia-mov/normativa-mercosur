@@ -1,0 +1,207 @@
+Decisión CMC N° 04/26
+Título: ACUERDO MERCOSUR SOBRE RECONOCIMIENTO MUTUO DE MEDIOS DE IDENTIFICACIÓN Y AUTENTICACIÓN ELECTRÓNICA
+Tipo de documento: texto
+Archivo original: 113259_DEC_004-2026_ES_Acuerdo MERCOSUR Autentic Electronica (1).docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC. N° 04/26
+
+ACUERDO MERCOSUR SOBRE RECONOCIMIENTO MUTUO DE MEDIOS DE IDENTIFICACIÓN Y AUTENTICACIÓN ELECTRÓNICA
+
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, el Acuerdo de Reconocimiento Mutuo de Certificados de Firma Digital del MERCOSUR, la Decisión Nº 27/17 del Consejo del Mercado Común y la Resolución Nº 37/06 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es importante facilitar el intercambio de servicios y promover la integración regional.
+
+Que los Estados Partes reconocen la necesidad de garantizar la seguridad y la confianza en los procesos de identificación y autenticación electrónica de las personas naturales/físicas.
+
+Que es necesario armonizar la normativa y estándares en materia de identificación y autenticación electrónica entre los Estados Partes.
+
+EL CONSEJO DEL MERCADO COMÚN 
+DECIDE:
+
+Art. 1 - Aprobar el texto del proyecto de “Acuerdo MERCOSUR sobre Reconocimiento Mutuo de Medios de Identificación y Autenticación Electrónica”, que se adjunta a la presente Decisión.
+
+Art. 2 - La vigencia del Acuerdo a que hace referencia el Artículo 1 se regirá por lo dispuesto en su Artículo 13.
+
+Art. 3 - Esta Decisión no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+
+LXVIII CMC - Asunción, 29/VI/26
+ANEXO 
+
+ACUERDO MERCOSUR SOBRE RECONOCIMIENTO MUTUO DE MEDIOS DE IDENTIFICACIÓN Y AUTENTICACIÓN ELECTRÓNICA 
+
+La República Argentina, la República Federativa de Brasil, la República del Paraguay y la República Oriental del Uruguay, como Estados Partes del MERCOSUR, en adelante denominados Partes;
+
+TENIENDO EN VISTA que en el “Acuerdo de Reconocimiento Mutuo de Certificados de Firma Digital del MERCOSUR” se establece que el desarrollo de las relaciones sociales y el estrechamiento de los lazos entre los ciudadanos y las administraciones de los Estados y de estos entre sí dependen de medidas que garanticen la seguridad y la confianza en los documentos digitales;
+
+CONSCIENTES de la utilidad de las nuevas tecnologías de identificación electrónica y de los sistemas de autenticación electrónica para garantizar la identidad y acreditación por medios seguros de una persona natural/física;
+
+CONSIDERANDO que la equivalencia entre la identificación presencial y la realizada por medios electrónicos seguros permite una autenticación fehaciente de la persona natural/física, mediante sistemas de identificación digital con un alto nivel de seguridad, de conformidad con los criterios que establezca cada una de las Partes en su respectivo ordenamiento jurídico;
+
+RECONOCIENDO que, debido a la asimetría de los marcos jurídicos nacionales en esta materia, es necesario celebrar acuerdos con estándares internacionales a fin de promover una armonización de las estructuras jurídicas y técnicas de las Partes en esta materia, ya que con ello se logrará seguridad jurídica en el contexto del uso más amplio posible del tratamiento automático de datos; y
+
+DESTACANDO que la armonización normativa en materia de identificación y autenticación electrónica entre las Partes favorecerá el comercio y el intercambio transfronterizo, lo que contribuirá a la profundización del proceso de integración.
+
+ACUERDAN:
+
+ARTÍCULO 1
+OBJETO
+
+1. El presente Acuerdo tiene por objeto el reconocimiento mutuo de medios de identificación y autenticación electrónica de alta seguridad de personas naturales/físicas, con el fin de otorgar validez jurídica a la identificación y autenticación electrónica de los nacionales de las Partes, de conformidad con el respectivo ordenamiento jurídico interno.
+
+
+
+2. Los medios de identificación y autenticación electrónica emitidos por prestadores de servicios debidamente cualificados, domiciliados en terceros países, válidos en el territorio de cualquiera de las Partes mediante instrumentos similares, quedarán excluidos del reconocimiento a que se refiere el párrafo anterior.
+
+3. Los prestadores de servicios de identificación y autenticación electrónica autorizados solo podrán expedir certificados previa solicitud en el territorio de la Parte en que obtuvieron su autorización.
+
+ARTÍCULO 2
+DEFINICIONES
+
+Para los efectos del presente Acuerdo se entenderá por:
+
+    • Datos de Identificación Individual: conjunto de datos, que debe contener al menos el código del país (según la Organización de Aviación Civil Internacional - OACI), código de documento y número de documento que permite establecer la identificación de una persona natural/física.
+
+    • Identificación Electrónica: proceso mediante el cual se utilizan datos de identificación de una persona natural/física en formato electrónico o digital, que lo representan de manera única.
+
+    • Medio de Identificación Electrónica: unidad material y/o inmaterial que contiene los datos de identificación de una persona natural/física y que se utiliza para la autenticación en servicios de red.
+
+    • Nivel Alto de Seguridad: nivel por el que, de acuerdo con las normas y reglas establecidas por la Parte emisora, se establece un alto grado de confianza en la identificación y autenticación declarada y se acredita la equivalencia a la presencia física.
+
+    • Prestador de Servicios: persona natural/física o jurídica habilitada o acreditada por el órgano competente de cada Parte para la emisión de medios de identificación o autenticación electrónica.
+
+    • Sistema de Identificación Electrónica: sistema por el que se emiten medios de identificación electrónica a personas naturales/físicas.
+
+    • Sistema de Autenticación Electrónica: sistema por el que se emiten medios de autenticación de personas naturales/físicas.
+
+
+ARTÍCULO 3
+VALIDEZ
+
+1. Las Partes se comprometen a reconocer mutuamente la identificación y autenticación de las personas naturales/físicas derivada de medios de identificación y autenticación electrónica reconocidos por la autoridad de aplicación de cada una de las Partes, siempre que dichos medios de identificación electrónica cumplan con las normas y regulaciones internacionalmente reconocidas establecidas por la Parte emisora y sean verificables de conformidad con las disposiciones del presente Acuerdo.
+
+2. Los medios de identificación y autenticación electrónica emitidos en una Parte tendrán la misma validez legal y probatoria en otra Parte, siempre que sean emitidos por un prestador de servicios debidamente autorizado por la autoridad de aplicación, de conformidad con la legislación nacional vigente de la Parte.
+
+3. Las Partes deben garantizar que los medios de identificación y autenticación electrónica cumplan con los siguientes requisitos de alto nivel de seguridad:
+
+    a) presencia de la persona natural/física durante la etapa de registro de identificación electrónica o un método alternativo equivalente para garantizar su fiabilidad, según la legislación de cada Parte; 
+
+    b) disponibilidad de un proceso de autenticación y de un método de identificación electrónica asociado a la persona natural/física robusto durante el registro;
+
+    c) captura y validación de los datos biométricos de la persona natural/física que debe ser registrada durante la etapa de registro de identificación electrónica;
+
+    d) autenticación electrónica mediante un medio digital de identificación o certificado electrónico reconocido de una persona natural/física emitido de conformidad con la legislación de identificación digital de la respectiva Parte.
+
+ARTÍCULO 4
+ASPECTOS OPERATIVOS
+
+Las Partes evaluarán y armonizarán las prácticas sobre medios de identificación y autenticación relacionados con el entorno operativo de los proveedores de servicios autorizados, de conformidad con la legislación de identificación electrónica de cada Parte, en particular:
+
+    a) el control de acceso a los servicios y perfiles;
+
+    b) la separación de tareas y asignaciones relativas a cada perfil; 
+
+    c) los mecanismos de seguridad aplicados a los datos e información sensibles; 
+
+
+    d) los mecanismos de seguridad internos diseñados para garantizar la integridad de los datos y procesos críticos;
+
+    e) los aspectos relativos a la seguridad física y lógica de las instalaciones; 
+
+    f) los mecanismos diseñados para asegurar el funcionamiento continuo de los sistemas críticos; y
+
+    g) otros aspectos relacionados con la eficiencia y seguridad de la utilización de los sistemas de identificación electrónica.
+
+ARTÍCULO 5
+PRESTADORES DE SERVICIOS
+
+Las Partes se comprometen a garantizar la existencia de un sistema de calificación y control de los prestadores de servicios que incluya:
+
+    a) realizar auditorías a los prestadores de servicios para verificar todos los aspectos legales y técnicos relacionados con la materia; y
+
+    b) mecanismos de sanción para los prestadores de servicios que no cumplan con los criterios acordados en los ordenamientos jurídicos internos de cada Parte.
+
+ARTÍCULO 6
+COOPERACIÓN Y COORDINACIÓN
+
+Las Partes se comprometen a cooperar y coordinar esfuerzos para el desarrollo e implementación de estándares comunes en materia de identificación electrónica, con el objetivo de promover la interoperabilidad y la confianza en estos sistemas en el MERCOSUR.
+
+ARTÍCULO 7
+PROTECCIÓN DE DATOS PERSONALES
+
+Las Partes garantizarán la protección y privacidad de los datos personales, de conformidad con las leyes y reglamentos nacionales y los principios internacionales de protección de datos.
+ARTÍCULO 8
+AUTORIDADES DE APLICACIÓN
+
+1. Las Partes designan a las siguientes autoridades para actuar como enlaces institucionales y coordinadores operativos del presente Acuerdo:
+
+    a) República Argentina: Secretaría de Innovación, Ciencia y Tecnología (SICyT) de la Jefatura de Gabinete de Ministros; 
+
+
+    b)   República Federativa de Brasil: Ministerio de Gestión e Innovación en los Servicios Públicos (MGI);
+
+    c) República del Paraguay: Ministerio de Industria y Comercio (MIC);
+
+    d) República Oriental del Uruguay: Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento (AGESIC).
+
+2. En caso de modificación de las autoridades del inciso precedente, cada Parte la comunicará a las demás Partes y al depositario del presente Acuerdo.
+
+ARTÍCULO 9
+IMPLEMENTACIÓN Y ASISTENCIA
+
+1. Las autoridades designadas en el Artículo 8, actuando en el ámbito de sus competencias, de conformidad con la legislación nacional vigente de cada una de las Partes, podrán celebrar instrumentos específicos que coadyuven al cumplimiento del objeto del presente Acuerdo, debiendo ponerlos en conocimiento del Grupo Mercado Común.
+
+2. Las Partes, a efectos de implementar y cumplir con el objeto del presente Acuerdo, y de conformidad con sus respectivas legislaciones internas, procurarán brindarse asistencia mutua en materia institucional, de infraestructura, recursos técnicos, recursos humanos e información, en un marco de cooperación, a fin de evitar la duplicación de esfuerzos. Esta asistencia mutua podrá reflejarse en los instrumentos específicos mencionados en el párrafo anterior.
+
+3. En caso de producirse alguna modificación en la legislación de identificación electrónica de alguna Parte, esta deberá comunicarla a las demás Partes.
+
+ARTÍCULO 10
+CONFIDENCIALIDAD
+
+Las Partes mantendrán reserva sobre los aspectos confidenciales o críticos que surjan de la aplicación del presente Acuerdo, obligación que subsistirá aún después de su terminación.
+ARTÍCULO 11
+DIFUSIÓN
+
+1. Las Partes se comprometen a difundir los términos del Acuerdo y sus efectos. 
+
+
+
+ARTÍCULO 12
+SOLUCIÓN DE CONTROVERSIAS
+
+1. Las controversias que surjan de la interpretación, aplicación o incumplimiento de las disposiciones contenidas en este Acuerdo entre los Estados Partes serán resueltas mediante el sistema de solución de controversias vigente en el MERCOSUR.
+
+2. Las controversias que surjan sobre la interpretación, aplicación o incumplimiento de las disposiciones contenidas en el presente Acuerdo entre los Estados Partes del MERCOSUR y entre los Estados Asociados, y entre uno o más Estados Partes del MERCOSUR y uno o más Estados Asociados, se resolverán de conformidad con el mecanismo de solución de controversias vigente entre las partes involucradas en el conflicto o, en su defecto, se resolverán por mutuo acuerdo de las partes, bajo el principio de buena fe y consentimiento mutuo.
+
+ARTÍCULO 13
+ENTRADA EN VIGOR
+
+1. El presente Acuerdo entrará en vigor sesenta (60) días después del depósito del instrumento de ratificación por el segundo Estado Parte del MERCOSUR. Para los Estados Partes que lo ratifiquen posteriormente, el presente Acuerdo entrará en vigor sesenta (60) días después de la fecha en que cada uno de ellos deposite su respectivo instrumento de ratificación.
+
+2. Los derechos y obligaciones derivados del Acuerdo se aplicarán solamente a los Estados Partes que lo hayan ratificado.
+
+3. Los Estados Asociados podrán adherirse al Acuerdo después de su entrada en vigor para todos los Estados Partes. El Acuerdo entrará en vigor para los Estados Asociados que se adhieran sesenta (60) días después del depósito del respectivo instrumento de adhesión.
+
+4. La República del Paraguay será depositaria del presente Acuerdo y de los respectivos instrumentos de ratificación y adhesión, debiendo notificar a las Partes la fecha de los depósitos de esos instrumentos y de la entrada en vigor del Acuerdo, así como enviarles copia debidamente autenticada del Acuerdo.
+
+ARTÍCULO 14
+ENMIENDAS
+
+Las Partes podrán enmendar el presente Acuerdo. La entrada en vigor de las enmiendas al presente Acuerdo se regirá por lo dispuesto en el artículo anterior.
+
+
+
+ARTÍCULO 15
+DURACIÓN Y DENUNCIA 
+
+1. El presente Acuerdo tiene una duración indefinida.
+
+2. Cualquier Parte puede denunciar este Acuerdo en cualquier momento, mediante notificación escrita dirigida al depositario, con copia a las demás Partes. La denuncia surtirá efecto transcurridos treinta (30) días corridos desde la recepción de la notificación por parte del depositario.
+
+3. La terminación del presente Acuerdo no eximirá a la Parte que lo haya denunciado de su obligación de mantener la confidencialidad de aquellos aspectos confidenciales o críticos de los que llegue a tener conocimiento en la aplicación del Acuerdo, de conformidad con el artículo 10.
+
+Hecho en Asunción, el xx de xxx de xxxx, en un original en los idiomas español y portugués, siendo ambos textos igualmente auténticos.

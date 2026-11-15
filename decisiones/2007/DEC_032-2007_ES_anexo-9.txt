@@ -1,0 +1,436 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-9
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO II-Acdo Mercancias Peligrosas-ES/ANEXO II-Acdo Mercancias Peligrosas-ES-CAPITULO 3.1 a 3.2.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+PARTE 3
+
+
+LISTADO DE MERCANCÍAS PELIGROSAS
+Y
+EXCEPCIONES RELATIVAS A LAS CANTIDADES
+LIMITADAS
+
+CAPÍTULO 3.1
+
+DISPOSICIONES GENERALES
+
+
+3.1.1	Alcance y disposiciones generales
+
+3.1.1.1	El Listado de Mercancías Peligrosas del capítulo 3.2 contiene los materiales peligrosos más comúnmente transportados, pero no es exhaustiva. Se pretende que el listado abarque tanto como sea posible todas las sustancias peligrosas de importancia comercial.
+
+3.1.1.2	El objeto o sustancia que figure expresamente por su nombre en el Listado de Mercancías Peligrosas se transportará de conformidad con las disposiciones del Listado aplicables a tal objeto o sustancia. 
+
+Para autorizar el transporte de sustancias u objetos que no están expresamente mencionados en el Listado de Mercancías Peligrosas puede utilizarse una denominación “genérica” o indicación de "no especificados(as) en otra parte". La sustancia u objeto de que se trate sólo podrá transportarse cuando se hayan determinado sus propiedades peligrosas, después de lo cual se clasificará conforme a las definiciones de las clases y a los criterios de ensayo, utilizando, entre los nombres que figuran en el Listado, el que más adecuadamente la describa. La clasificación de la mercancía debe ser efectuada por la autoridad competente del Estado Parte cuando eso fuera exigido o, en caso contrario puede ser realizada por el fabricante o el expedidor.
+
+Una vez determinada la clase a la que pertenece la sustancia u objeto, todas las condiciones para la expedición y el transporte previstas en esta reglamentación deben ser cumplidas.
+
+Se considerará primeramente la inclusión en la clase 1 de toda sustancia u objeto que tengan características propias de los explosivos o respecto de los cuales se sospeche que tienen tales características. Algunas denominaciones colectivas pueden ser del tipo “genérico” o “no especificados en otra parte”, siempre que en este Anexo aparezcan disposiciones que garanticen la seguridad, tanto excluyendo del transporte en condiciones normales las mercancías sumamente peligrosas como teniendo en cuenta todos los riesgos secundarios que pueden presentar ciertos productos.
+
+3.1.1.3	El Listado de Mercancías Peligrosas no incluye las mercancías que son tan peligrosas que su transporte está prohibido, salvo que medie una autorización especial. No se mencionan esas mercancías, porque el transporte de algunos productos puede estar prohibido en ciertos modos de transporte y autorizado en otros, también, porque sería imposible preparar un listado exhaustivo. Además, cualquier listado de este género dejaría muy pronto de ser completa a causa de la frecuente introducción de sustancias nuevas, y el hecho de que una sustancia no figurase en el listado causaría la impresión errónea de que se puede transportar sin restricciones especiales. La inestabilidad propia de ciertas mercancías puede entrañar diversos riesgos, por ejemplo, de explosión, de polimerización con fuerte desprendimiento de calor o liberación de gases tóxicos. En la mayoría de los casos se pueden evitar estos riesgos mediante un embalaje apropiado o mediante la dilución, la estabilización, la adición de un inhibidor, la refrigeración u otras medidas de precaución.
+
+3.1.1.4	Cuando en el Listado de Mercancías Peligrosas se prescriben medidas de precaución para una sustancia o un objeto determinados (por ejemplo, que estén “estabilizados” o “contengan un x % de agua o de flemador”), esa sustancia o ese objeto normalmente no podrán transportarse si no se han tomado tales medidas, a menos que la mercancía figure en otra parte (por ejemplo, en la clase 1) sin ninguna indicación relativa a medidas de precaución o con la indicación de medidas diferentes.
+
+
+3.1.2	Denominación apropiada para el transporte
+
+3.1.2.1	La denominación apropiada para el transporte es la parte de la denominación que describe más exactamente las mercancías y que aparece en letras mayúsculas en el Listado de Mercancías Peligrosas (en algunos casos con cifras, letras griegas o los prefijos “sec-“, “terc-“, “m-“, “n-“, “o-“, “p-“, que forman parte integrante del nombre). A veces aparece entre paréntesis otra denominación apropiada para el transporte a continuación de la denominación principal, por ejemplo: ETANOL (ALCOHOL ETÍLICO). Las partes de una denominación que aparecen en letras minúsculas no han de considerarse elementos de la denominación apropiada para el transporte, salvo las indicaciones "sec-", "terc-", "m-", "n-", o-" y "p-", pero pueden utilizarse.
+
+3.1.2.2	Si hay conjunciones como "y" u "o" en minúsculas o si algunos elementos del nombre están separados por comas, no es necesario indicar ese nombre íntegramente en el documento de transporte o en las marcas de los bultos. Este es el caso, particularmente, cuando una combinación de varias denominaciones diferentes figura con un solo número ONU. Los ejemplos siguientes muestran cómo debe elegirse la denominación apropiada para el transporte en tales casos:
+
+a)	N.° ONU 1057 ENCENDEDORES o RECARGAS DE ENCENDEDOR ‑ Se considerará denominación apropiada para el transporte la más apropiada de las dos denominaciones siguientes:
+
+ENCENDEDORES
+RECARGAS DE ENCENDEDORES
+
+b)	N.° ONU 3207 COMPUESTO o SOLUCIÓN o DISPERSIÓN ORGANOMETÁLICO QUE REACCIONA CON EL AGUA, INFLAMABLE, N.E.P. Como denominación apropiada para el transporte puede utilizarse la mejor de las combinaciones siguientes:
+
+COMPUESTO ORGANOMETÁLICO QUE REACCIONA CON EL AGUA,
+	INFLAMABLE, N.E.P.
+SOLUCIÓN ORGANOMETÁLICA QUE REACCIONA CON EL AGUA,
+	INFLAMABLE, N.E.P.
+DISPERSIÓN ORGANOMETÁLICA QUE REACCIONA CON EL AGUA,
+	INFLAMABLE, N.E.P.
+
+completando cada una con el nombre técnico (véase 3.1.2.6.1).
+
+3.1.2.3	La denominación apropiada para el transporte puede utilizarse en singular o en plural, según el caso. Por otra parte, si forman parte de ella términos que delimitan su sentido, el orden de éstos en la documentación o en las marcas de los bultos es facultativo. Por ejemplo: "DIMETILAMINA EN SOLUCIÓN ACUOSA" puede figurar también como "DISOLUCIÓN ACUOSA DE DIMETILAMINA". Para las mercancías de la clase 1 se pueden utilizar los nombres comerciales o militares que contengan la denominación apropiada para el transporte completada con un texto descriptivo.
+
+3.1.2.4	Cuando una sustancia contenida en el Listado de Mercancías Peligrosas pueda ser sólida o líquida en función de los diferentes estados físicos de sus isómeros, y ese hecho no estuviera indicado en el referido listado, la denominación apropiada para el transporte debe ser acompañada de uno de los calificativos siguientes: "LÍQUIDO" o "SÓLIDO", conforme el caso, por ejemplo: DINITROTOLUENOS LÍQUIDOS; DINITROTOLUENOS SÓLIDOS.
+
+3.1.2.5	A menos que ya figure en mayúsculas en el nombre indicado en el Listado de Mercancías Peligrosas, se agregará la palabra "FUNDIDO" a la denominación apropiada para el transporte cuando una sustancia que es sólida según la definición de la sección 1.2.1 se presenta para el transporte en estado fundido (por ejemplo, ALQUILFENOL SÓLIDO, N.E.P., FUNDIDO).
+
+3.1.2.6	Nombres genéricos o nombres con la indicación de "no especificados en otra parte" (N.E.P.)
+
+3.1.2.6.1	Las denominaciones apropiadas para el transporte genéricas y "no especificadas en otra parte" a las que se les ha asignado la disposición especial 274 en la columna 7 del Listado de Mercancías Peligrosas deberán completarse con el nombre técnico o químico de la sustancia, a no ser que una ley nacional o un convenio internacional prohíba su identificación por tratarse de una sustancia controlada. 
+
+3.1.2.6.1.1	Para los explosivos de la Clase 1, la descripción de la mercancía peligrosa se completará con un texto descriptivo adicional en el que se indiquen los nombres comerciales o militares. Los nombres técnicos y del grupo químico figurarán entre paréntesis inmediatamente después de la denominación apropiada para el transporte. También pueden utilizarse expresiones adecuadas como "contiene" o "conteniendo" u otros calificativos como "mezcla", "solución", etc., así como el porcentaje del componente técnico. Por ejemplo: "Nº ONU 1993 LÍQUIDO INFLAMABLE, N.E.P. (contiene xileno y benceno), 3, GE II".
+
+3.1.2.6.1.2	El nombre técnico debe figurar entre paréntesis, inmediatamente después de la denominación apropiada para el transporte, y debe ser un nombre químico reconocido u otro nombre corrientemente utilizado en manuales, publicaciones periódicas y textos científicos y técnicos. No se utilizarán con este fin nombres comerciales. En el caso de los plaguicidas, sólo podrán utilizarse los nombres comunes de la ISO, otro(s) nombre(s) enumerado(s) en la Recommended Classification of Pesticides by Hazard and Guidelines to Classification de la Organización Mundial de la Salud (OMS), o el (los) nombre(s) de la(s) sustancia(s) activa(s).
+
+3.1.2.6.1.3	En el caso que una mezcla de mercancías peligrosas esté descrita en el listado, por una de las "denominaciones genéricas" o "n.e.p.", a las que se ha asignado la disposición especial 274 en la columna 7 del mismo, sólo será necesario indicar los dos componentes que más contribuyan a crear el riesgo o los riesgos de la mezcla, disposición que no se aplica a las sustancias controladas siempre y cuando su identificación esté prohibida por una ley nacional o un convenio internacional. Si un embalaje que contiene una mezcla lleva una etiqueta de riesgo secundario, uno de los dos nombres técnicos que figura entre paréntesis será el del componente que obliga a utilizar la etiqueta de riesgo secundario.
+
+3.1.2.6.1.3	Los ejemplos siguientes muestran cómo se debe elegir la denominación apropiada para el transporte, junto con el nombre técnico, en el caso de las mercancías que lleven la indicación "N.E.P.":
+
+ONU 2003 ALQUILOS DE METALES QUE REACCIONAN CON EL AGUA, N.E.P. (trimetilgalio)
+ONU 2902  PLAGUICIDA LÍQUIDO, TÓXICO, N.E.P. (drazoxolón).
+
+3.1.2.7	En el caso de transporte de  muestras de peróxidos orgánicos o sustancias autorreactivas, la denominación apropiada para el transporte deberá ser precedida de la palabra “MUESTRA”.
+
+3.1.2.8	Cuando se trata de transporte de residuos, excepto en el caso de los de la clase 7, la denominación apropiada para el transporte debe ser precedida por la palabra “RESIDUO”. 
+
+3.1.3	Mezclas y soluciones que contienen una sustancia peligrosa
+
+3.1.3.1	Toda mezcla o solución que contenga una sustancia peligrosa expresamente mencionada por su nombre en el Listado de Mercancías Peligrosas y una o varias sustancias no sujetas a este Anexo se clasificará con arreglo a las disposiciones formuladas respecto de la sustancia peligrosa de que se trate, a condición de que el embalaje sea apropiado al estado físico de la mezcla o de la solución, salvo en los casos siguientes:
+
+a)	la mezcla o solución aparece expresamente mencionada por su nombre en este Anexo;
+
+b)	la denominación apropiada para el transporte contenida en este Anexo señala de manera explícita que la denominación se refiere únicamente a la sustancia pura;
+
+c)	la clase de riesgo, el estado físico o el grupo de embalaje de la solución o de la mezcla son distintos de los de la sustancia peligrosa; o 
+
+d)	las medidas que hayan de adoptarse en caso de emergencia son considerablemente diferentes.
+
+3.1.3.2	Para las soluciones y mezclas que se clasifiquen con arreglo a las disposiciones relativas a la sustancia peligrosa, se añadirá a la denominación apropiada para el transporte, según sea el caso, la palabra "SOLUCIÓN" o la palabra "MEZCLA", por ejemplo: "ACETONA EN SOLUCIÓN". Además, puede indicarse la concentración de la solución o mezcla, por ejemplo, "ACETONA, SOLUCIÓN AL 75%"
+
+3.1.3.3	La mezcla o solución que contenga una o varias sustancias expresamente mencionadas en el presente Anexo o clasificada en una denominación n.e.p. y una o varias sustancias no sujetas a este Anexo, estará exenta de la aplicación de este último si las características del riesgo de la mezcla o solución son tales que no satisfacen los criterios de ninguna clase (incluidos los criterios de experiencia humana).
+
+CAPÍTULO 3.2
+
+LISTADO DE MERCANCÍAS PELIGROSAS
+
+
+Nota: 	Este Anexo está elaborado sobre la base de la 11ª edición de las Recomendaciones para el Transporte de Mercancías Peligrosas de las Naciones Unidas y en la edición de 2001 del Acuerdo Europeo para el Transporte por Carretera de Mercancías Peligrosas. Sin embargo, en el listado contenido en este Capítulo y en las demás disposiciones técnicas, donde correspondiere, se incluyeron las mercancías peligrosas contenidas en la 12ª edición de las referidas Recomendaciones de la ONU.
+   
+3.2.1	Estructura del Listado de Mercancías Peligrosas
+
+	El Listado Numérico de Mercancías Peligrosas en 3.2.4 se divide en trece columnas, a saber:
+
+
+Columna 1:	“Número ONU”: contiene el número de serie asignado al objeto o sustancia en el sistema de las Naciones Unidas.
+
+Columna 2:	“Nombre y descripción”: contiene la denominación apropiada para el transporte, en letras mayúsculas, seguida, en ocasiones, de un texto descriptivo que figura en minúsculas (véase 3.1.2). En el apéndice B se explican algunos de los términos empleados. Las denominaciones apropiadas para el transporte pueden darse en plural cuando existen isómeros de la misma clasificación. Los hidratos pueden estar incluidos, según sea el caso, bajo la denominación apropiada para el transporte de la sustancia anhidra, según el caso.
+
+Columna 3:	“Clase o División”: contiene la clase o división y, en el caso de la clase 1, el grupo de compatibilidad asignado al objeto o sustancia, conforme al sistema de clasificación descrito en el Capítulo 2.1.
+
+Columna 4:	“Riesgo secundario”: contiene el número de clase o de división de los riesgos secundarios significativos que se hayan determinado aplicando el sistema de clasificación descrito en la parte 2.
+
+Columna 5:	“Número de riesgo”: contiene un código numérico (el cual puede ser precedido por la letra X) que indica la naturaleza e intensidad  del(los) riesgo(s) (ver 3.2.3). El fabricante de la mercancía es responsable por la indicación del número de riesgo cuando este no apareciese en el Listado.
+
+Columna 6:	“Grupo de embalaje”: contiene el número del grupo de embalaje de las Naciones Unidas (es decir, I, II o III), asignado al objeto o sustancia. Si se indica más de un grupo de embalaje para la denominación, el grupo de embalaje de la sustancia o del preparado que haya de transportarse se determinará en función de sus propiedades, aplicando los criterios de clasificación de los riesgos que figuran en la parte 2.
+
+Columna 7:	“Disposiciones especiales”: contiene un número que remite a las disposiciones especiales indicadas en 3.3.1, aplicables al objeto o la sustancia. Las disposiciones especiales se aplican a todos los grupos de embalaje admitidos para una sustancia o un objeto determinado, salvo que el texto indique claramente otra cosa.
+
+Columna 8:	“Cantidad limitada por vehículo”: contiene la cantidad máxima (peso bruto) por vehículo, autorizada para el transporte de acuerdo con las disposiciones de 3.4.1 y 3.4.3 relativas a las cantidades limitadas. La palabra “cero”, en esta columna, significa que no se autoriza el transporte del objeto o sustancia de conformidad con las disposiciones del capítulo 3.4.3.1.
+
+Columna 9:	“Cantidad limitada por embalaje interno”: contiene la cantidad máxima por embalaje interno que se autoriza para el transporte de la sustancia en cuestión, de acuerdo con las disposiciones de 3.4.1 y 3.4.2 relativas a cantidades limitadas. La palabra “cero”, en esta columna, significa que no se autoriza el transporte del objeto o sustancia de conformidad con las disposiciones del capítulo 3.4.2.6.
+
+
+Columna 10:	“Instrucciones relativas a embalaje”: contiene códigos alfanuméricos que hacen referencia a las correspondientes instrucciones de embalaje que se especifican en la sección 4.1.4. Las instrucciones en cuestión indican el embalaje requerido (incluyendo RIGs y los grandes embalajes), que puede utilizarse para el transporte de sustancias y artículos.
+
+		Un código que incluya la letra “P” se refiere a las instrucciones de embalaje aplicables a los embalajes descritos en los capítulos 6.1, 6.2 ó 6.3.
+
+		Un código que incluya las letras “RIG” se refiere a las instrucciones de embalaje aplicables a la utilización de los RIGs, descritos en el capítulo 6.5.
+
+		Un código que incluya las letras "LP" se refiere a las instrucciones de embalaje aplicables para el uso de los grandes embalajes descritos en el capítulo 6.6.
+
+		Cuando no se incluya un código particular, se considerará que la sustancia no está autorizada para ser colocada en el tipo de embalaje comprendido por la instrucción de embalaje relativa a tal código.
+
+		Si en la columna se incluyen las letras “N/A”, significa que no es necesario embalar la sustancia o artículo en cuestión.
+
+		En la sección 4.1.4 se exponen las instrucciones para el embalaje por orden numérico de la siguiente manera:
+
+		Subsección 4.1.4.1:	Instrucciones de embalaje relativas al uso de embalajes (exceptuados los RIGs y los grandes embalajes) (P).
+
+		Subsección 4.1.4.2:	Instrucciones de embalaje relativas al uso de RIGs (RIG).
+
+		Subsección 4.1.4.3:	Instrucciones de embalaje relativas al uso de grandes embalajes (LP).
+
+Columna 11:	“Disposiciones especiales relativas a embalaje”: contiene códigos alfanuméricos que se refieren a las correspondientes disposiciones especiales de embalaje de la sección 4.1.4. En las instrucciones especiales de embalaje se indican las disposiciones especiales de embalaje (incluyendo RIGs y los grandes embalajes).
+
+	Una disposición especial de embalaje que incluya las letras “PP” indicará que hay una disposición especial de embalaje aplicable al uso de las instrucciones de embalaje que llevan el código “P”, del Capítulo 4.1.
+
+	Una disposición especial de embalaje que incluya la letra “B” indicará que hay una disposición especial de embalaje aplicable al uso de las instrucciones de embalaje que llevan el código “RIG”, del Capítulo 4.1.
+
+	Una disposición especial de embalaje que incluya la letra "L" indicará que hay una disposición especial de embalaje aplicable al uso de las instrucciones de embalaje que llevan el código “LP”, del Capítulo 4.1.
+
+Columna 12:	“Instrucciones relativas a cisternas portátiles”: contiene un número precedido de la letra "T”, referente a las instrucciones contenidas en  4.2.4, y que especifican el(los) tipo(s) de cisterna(s) exigido(s) para el transporte de la sustancia en cisternas portátiles.
+
+Columna 13:	“Disposiciones especiales relativas a cisternas portátiles": contiene un número precedido de las letras “TP”, referente a cualquier disposición especial contenida en  4.2.4.3 que se aplican al transporte de la sustancia en cisternas portátiles.
+
+Luego del Listado Número de Mercancías Peligrosas, se presenta el mismo listado en orden alfabético en 3.2.5. Se hace notar que en las denominaciones secundarias en contrario a lo adoptado para las denominaciones principales, sólo las iniciales aparecen en letras mayúsculas.
+
+
+3.2.2	Abreviaturas y símbolos
+
+	En el Listado de Mercancías Peligrosas se utilizan las siguientes abreviaturas o símbolos con los significados que a continuación se indican:
+
+Abreviatura
+Columna
+Significado
+N.E.P.
+1/2
+No Especificado(a) en otra parte
+†
+1/2
+Denominación respecto de la cual hay una explicación en el apéndice B.
+PI
+1
+Punto de Inflamación
+PE
+1
+Punto de Ebullición
+N/A
+10
+No Aplicable
+*
+1/2
+Mercancía clasificada en la 12ª edición de las Recomendaciones para el Transporte de Mercancías Peligrosas de las Naciones Unidas, pero no especificada en la 11ª edición.
+
+
+
+3.2.3	Número de Riesgo
+
+                3.2.3.1 Los números de riesgo para sustancias y artículos de las Clases 2 a 9 consisten de dos o tres números arábigos (los cuales pueden ir precedidos de la letra X) que indican la naturaleza e intensidad del riesgo. El significado de los números de riesgo presentes en la columna 5 del Listado de Mercancías Peligrosas es indicado en 3.2.3.2 y, de modo general, los números y letras que lo componen indican los siguientes riesgos:
+
+    2 Emisión de gas debido a una presión o reacción química;
+    3 Inflamabilidad de líquidos (vapores) y gases o líquidos que experimentan calentamiento espontáneo;
+    4 Inflamabilidad de sólidos o sólidos que experimentan calentamiento espontáneo;
+    5 Efecto oxidante o comburente;
+    6 Toxicidad o riesgo de infección;
+    7 Radiactividad;
+    8 Corrosividad;
+    9 Riesgo de reacción violenta espontánea; y
+X	La sustancia reacciona peligrosamente con el agua (se coloca como prefijo del código numérico).
+
+
+Nota: 	El riesgo de reacción violenta espontánea, representado por el dígito 9, incluye la posibilidad, derivado de la naturaleza de la sustancia, de un riesgo de explosión, desintegración o reacción de polimerización, seguido del desprendimiento de una cantidad considerable de calor u otros gases inflamables y/o tóxicos.
+
+3.2.3.1.1	La repetición de un número indica, en general, un aumento de la intensidad de aquel riesgo específico.
+
+3.2.3.1.2	Cuando el riesgo asociado a una sustancia puede ser adecuadamente indicado por un único dígito, éste será seguido de un cero.
+
+3.2.3.1.3	Las combinaciones de los dígitos que siguen, tienen un significado especial: 22, 323, 333, 362, 382, 423, 44, 446, 462, 482, 539, 606, 623, 642, 823, 842 y 90, ver 3.2.3.2.
+
+3.2.3.2	Listado de códigos numéricos y sus respectivos significados
+
+
+20
+Gas inerte o gas sin riesgo secundario
+22
+Gas licuado refrigerado, inerte
+223
+Gas licuado refrigerado, inflamable
+225
+Gas licuado refrigerado, oxidante (comburente)
+23
+Gas inflamable
+236
+Gas inflamable, tóxico
+239
+Gas inflamable, que puede espontáneamente provocar una reacción violenta
+25
+Gas oxidante (comburente)
+26
+Gas tóxico
+263
+Gas tóxico, inflamable
+265
+Gas tóxico, oxidante (comburente)
+266
+Gas muy tóxico
+268
+Gas tóxico, corrosivo
+30
+Líquido inflamable (23°C ≤ PI ≤ 60,5°C), o líquido o sólido en estado fundido con 
+PI ≥ 60,5°C, calentados a una temperatura mayor o igual a su PI, o líquido sujeto a autocalentamiento 
+323
+Líquido inflamable, que reacciona con el agua emitiendo gases inflamables
+X323
+Líquido inflamable, que reacciona peligrosamente con el agua  emitiendo gases inflamables (*)
+33
+Líquido muy inflamable (PI < 23°C) 
+333
+Líquido pirofórico
+X333
+Líquido pirofórico, que reacciona peligrosamente con el agua (*)
+336
+Líquido muy inflamable, tóxico
+338
+Líquido muy inflamable, corrosivo
+X338
+Líquido muy inflamable, corrosivo, que reacciona peligrosamente con el agua (*)
+339
+Líquido muy inflamable, que puede provocar espontáneamente una reacción violenta
+36
+Líquido inflamable (23°C ≤ PI ≤ 60,5°C), levemente tóxico, o líquido que experimenta  autocalentamiento, tóxico
+362
+Líquido inflamable, tóxico, que reacciona con el agua emitiendo gases inflamables
+X362
+Líquido inflamable, tóxico, que reacciona peligrosamente con el agua emitiendo gases inflamables (*)
+368
+Líquido inflamable, tóxico, corrosivo
+38
+Líquido inflamable (23°C ≤ PI ≤ 60,5°C), levemente corrosivo, o líquido que experimenta autocalentamiento, corrosivo
+382
+Líquido inflamable, corrosivo, que reacciona con el agua emitiendo gases inflamables
+X382
+Líquido inflamable, corrosivo, que reacciona peligrosamente con el agua emitiendo gases inflamables (*)
+39
+Líquido inflamable que puede provocar espontáneamente una reacción violenta
+
+
+40
+Sólido inflamable, o sustancia de reacción espontánea, o sustancia que experimenta calentamiento espontáneo
+423
+Sólido inflamable que reacciona con el agua emitiendo gases  inflamables
+X423
+Sólido inflamable que reacciona peligrosamente con el agua emitiendo gases  inflamables (*)
+43
+Sólido espontáneamente inflamable (pirofórico)
+44
+Sólido inflamable que a temperatura  elevada se encuentra en estado fundido
+446
+Sólido inflamable, tóxico, que a una temperatura elevada se encuentra en estado fundido
+46
+Sólido inflamable o sólido que experimenta calentamiento espontáneo, tóxico
+462
+Sólido tóxico, que reacciona con el agua emitiendo gases inflamables
+X462
+Sólido tóxico, que reacciona peligrosamente con el agua emitiendo gases tóxicos (*)
+48
+Sólido inflamable o sólido que experimenta calentamiento espontáneo, corrosivo
+482
+Sólido corrosivo, que reacciona con el agua emitiendo gases inflamables
+X482
+Sólido corrosivo que reacciona peligrosamente con el agua emitiendo gases corrosivos (*)
+
+
+50
+Sustancia oxidante (comburente)
+539
+Peróxido orgánico inflamable
+55
+Sustancia muy oxidante (comburente)
+556
+Sustancia muy oxidante (comburente), tóxica
+558
+Sustancia muy oxidante (comburente), corrosiva
+559
+Sustancia muy oxidante (comburente), que puede provocar espontáneamente una reacción violenta
+56
+Sustancia oxidante (comburente), tóxica
+568
+Sustancia oxidante (comburente), tóxica, corrosiva
+58
+Sustancia oxidante (comburente), corrosiva
+59
+Sustancia oxidante (comburente), que puede provocar espontáneamente una reacción violenta
+
+
+60
+Sustancia tóxica o levemente tóxica
+606
+Sustancia infecciosa
+623
+Líquido tóxico, que reacciona con el agua emitiendo gases inflamables
+63
+Sustancia tóxica, inflamable (23°C ≤ PI ≤ 60,5°C)
+638
+Sustancia tóxica, inflamable(23°C ≤ PI ≤ 60,5°C), corrosivo
+639
+Sustancia tóxica, inflamable(PI ≤ 60,5°C), que puede provocar espontáneamente una reacción violenta
+64
+Sólido tóxico, inflamable o que experimenta calentamiento espontáneo
+642
+Sólido tóxico que reacciona con el agua emitiendo gases inflamables
+65
+Sustancia tóxica, oxidante (comburente)
+66
+Sustancia muy tóxica
+663
+Sustancia muy tóxica, inflamable (PI ≤ 60,5°C)
+664
+Sólido muy tóxico, inflamable o que experimenta calentamiento espontáneo
+665
+Sustancia muy tóxica, oxidante (comburente)
+668
+Sustancia muy tóxica, corrosiva
+669
+Sustancia muy tóxica, que puede provocar espontáneamente una reacción violenta
+68
+Sustancia tóxica, corrosiva
+69
+Sustancia tóxica, que puede provocar espontáneamente una reacción violenta
+
+
+70
+Material radiactivo
+72
+Gas radiactivo
+723
+Gas radiactivo, inflamable
+73
+Líquido radiactivo, inflamable (PI ≤ 60,5°C)
+74
+Sólido radiactivo, inflamable 
+75
+Material radiactivo, oxidante (comburente)
+76
+Material radiactivo, tóxico
+78
+Material radiactivo, corrosivo
+
+
+80
+Sustancia corrosiva o levemente corrosiva
+X80
+Sustancia corrosiva o levemente corrosiva, que reacciona peligrosamente con el agua (*)
+823
+Líquido corrosivo, que reacciona con el agua emitiendo gases inflamables
+83
+Sustancia corrosiva o levemente corrosiva, inflamable (23°C ≤ PI ≤ 60,5°C)
+X83
+Sustancia corrosiva o levemente corrosiva, inflamable (23°C ≤ PI ≤ 60,5°C), que reacciona peligrosamente con el agua (*)
+839
+Sustancia corrosiva o levemente corrosiva, inflamable (23°C ≤ PI ≤ 60,5°C), que puede provocar espontáneamente una reacción violenta
+X839
+Sustancia corrosiva o levemente corrosiva, inflamable (23°C ≤ PI ≤ 60,5°C), que puede provocar espontáneamente una reacción violenta y que reacciona peligrosamente con el agua (*)
+84
+Sólido corrosivo, inflamable, que experimenta calentamiento espontáneo
+842
+Sólido corrosivo, que reacciona con el agua emitiendo gases inflamables
+85
+Sustancia corrosiva o levemente corrosiva, oxidante (comburente)
+856
+Sustancia corrosiva o levemente corrosiva, oxidante (comburente), tóxica
+86
+Sustancia corrosiva o levemente corrosiva, tóxica
+88
+Sustancia muy corrosiva
+X88
+Sustancia muy corrosiva, que reacciona peligrosamente con el agua (*)
+883
+Sustancia muy corrosiva, inflamable (23°C ≤ PI ≤ 60,5°C)
+884
+Sólido muy corrosivo, inflamable o que experimenta calentamiento espontáneo
+885
+Sustancia muy corrosiva, oxidante (comburente)
+886
+Sustancia muy corrosiva, tóxica
+X886
+Sustancia muy corrosiva, tóxica, que reacciona peligrosamente con el agua (*)
+89
+Sustancia corrosiva o levemente corrosiva, que puede provocar espontáneamente una reacción violenta
+
+
+90
+Sustancias que presentan riesgo para el medio ambiente; sustancias peligrosas diversas
+99
+Sustancias peligrosas diversas transportadas a temperatura elevada
+
+
+(*) No usar agua, excepto con la aprobación de un especialista

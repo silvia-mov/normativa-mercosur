@@ -1,0 +1,1503 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-18
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO II-Acdo Mercancias Peligrosas-ES/ANEXO II-Acdo Mercancias Peligrosas-ES-CAPITULO 6.7.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+CAPÍTULO 6.7
+
+DISPOSICIONES RELATIVAS AL PROYECTO, LA CONSTRUCCIÓN, LA INSPECCIÓN Y EL ENSAYO DE CISTERNAS PORTÁTILES
+
+	
+            6.7.1 Aplicación y disposiciones generales
+
+                6.7.1.1 Las disposiciones del presente Capítulo se aplican a las cisternas portátiles que se destinan al transporte de mercancías peligrosas de las Clases 2, 3, 4, 5, 6, 7, 8 y 9. Además de las disposiciones del presente Capítulo, y a menos que se indique otra cosa, toda cisterna portátil multimodal que responda a la definición de “contenedor” que se formula en la Convención Internacional sobre la Seguridad de los Contenedores (CSC), de 1972, en su forma enmendada, debe cumplir los requisitos establecidos en esa Convención que le sean aplicables. Debe ser también atendida las disposiciones del programa de evaluación de la conformidad de la autoridad competente.  En el caso de las cisternas portátiles que vayan a ser manipuladas en mar abierto la autoridad competente podrá exigir otros requisitos adicionales.
+
+                6.7.1.2 Para tener en cuenta el progreso de la ciencia y la técnica, los requisitos técnicos del presente Capítulo podrán modificarse mediante otras disposiciones, que deberán ofrecer al menos el mismo nivel de seguridad que garantizan las que se indican en los apartados siguientes en cuanto a la compatibilidad con las sustancias transportadas y la capacidad de la cisternas para resistir a los choques, a las cargas y al fuego. En el caso del transporte internacional, las cisternas portátiles que se rijan por disposiciones diferentes deberán ser aprobadas por las autoridades competentes.
+
+                6.7.1.3 Cuando no se asigne a determinada sustancia ninguna de las instrucciones sobre cisternas portátiles (T1 a T23, T50 o T75) de la columna 12 del Listado de Mercancías Peligrosas del capítulo 3.2, la autoridad competente del país de origen podrá extender una autorización provisional de transporte. La aprobación se incluirá en la documentación del envío y contendrá como mínimo la información que se proporciona normalmente en las instrucciones sobre cisternas portátiles y las condiciones de transporte de la sustancia. La autoridad competente adoptará las medidas adecuadas para incluir la asignación en el Listado de Mercancías Peligrosas.
+
+            6.7.2 Disposiciones relativas al proyecto, la construcción, la inspección y la prueba de cisternas portátiles destinadas al transporte de las sustancias de las Clases 3 a 9
+
+                6.7.2.1 Definiciones
+
+Para los efectos de la presente sección:
+
+Por cisterna portátil se entiende una cisterna multimodal de capacidad superior a 450 litros utilizada para el transporte de sustancias de las Clases 3 a 9. La cisterna portátil comprende un cuerpo provisto de los equipos de servicio y los elementos estructurales que sean necesarios para el transporte de sustancias peligrosas. La cisterna portátil debe poder ser llenada y vaciada sin necesidad de desmontar sus elementos estructurales. Debe tener elementos estabilizadores exteriores al depósito y poder ser elevada cuando esté llena. Está diseñada principalmente para ser cargada en un vehículo de transporte o en un buque y está equipada con patines, soportes o accesorios que faciliten su manipulación mecánica. Los vehículos cisterna de carretera, los vagones cisterna ferroviarios, las cisternas no metálicas y los recipientes intermedios para graneles (RIG) no se consideran cisternas portátiles.
+
+Por depósito se entiende la parte de la cisterna portátil que contiene la sustancia transportada, es decir, la cisterna propiamente dicha, con inclusión de las aberturas y sus cierres, pero con  exclusión de los equipos de servicio o los elementos estructurales externos.
+
+Por  equipos de servicio se entienden los instrumentos de medida y los dispositivos de llenado, vaciado, aireación, seguridad, calefacción, refrigeración y aislamiento térmico.
+
+Por elementos estructurales se entiende los elementos de refuerzo, sujeción protección o estabilización exteriores al depósito.
+
+Por presión máxima de trabajo admisible se entiende una presión no inferior a la  mayor de las dos presiones siguientes, medidas en la parte superior del depósito cuando éste se encuentra en su posición normal:
+
+    a) la presión manométrica efectiva máxima autorizada en el depósito durante el llenado o el vaciado; o
+
+    b) la presión manométrica efectiva máxima para la que esté diseñada el depósito y que no deberá ser inferior a la suma de:
+
+        i) la presión de vapor absoluta (en bar) de la sustancia a 65°C, menos un bar; y
+        ii) la presión parcial (en bar) del aire o de otros gases que haya en el espacio vacío, determinada por una temperatura en ese espacio de no más de 65°C y una dilatación del líquido debida al aumento de la temperatura media de la carga de Tr - Tf (Tf = temperatura de llenado, generalmente 15°C; Tr = 50°C, temperatura medida máxima de la carga).
+
+Por presión de diseño se entiende la presión que se utilice en los cálculos con arreglo a un código convenido relativo a los recipientes a presión. La presión de diseño  no debe ser inferior a la mayor de las presiones siguientes:
+
+    a) la presión manométrica efectiva máxima autorizada en el depósito durante el llenado o el vaciado; o
+
+    b) la suma de:
+
+        i) la presión de vapor absoluta (en bar) de la sustancias a 65°C, menos 1 bar,
+        ii) la presión parcial (en bar) del aire o de otros gases que haya en el espacio vacío, determinada por una temperatura máxima en ese espacio de 65° C y que haya una dilatación del líquido debida al aumento de la temperatura media de la carga de Tr - Tf (Tf = temperatura de llenado, generalmente 15°C; tr = 50°C, temperatura media máxima de la carga); y
+        iii) la presión dinámica determinada sobre la base de las fuerzas dinámicas especificadas en el párrafo 6.7.2.2.12, pero nunca inferior a 0,35 bar;
+
+    c) Las dos terceras partes de la presión mínima de prueba indicada en la instrucción pertinente sobre cisternas portátiles del párrafo 4.2.4.2.6
+
+Por presión de prueba se entiende la presión manométrica máxima en la parte superior del depósito, medida durante la prueba de presión hidráulica, al menos igual a la presión de diseño multiplicada por 1,5.  La presión mínima de prueba para las cisternas portátiles destinadas a determinadas sustancias se indica en la instrucción pertinente sobre cisternas portátiles del párrafo 4.2.4.2.6.
+
+Por prueba de estanqueidad se entiende una prueba en la que se utiliza gas para someter el depósito y sus equipos de servicio a una presión interna efectiva no inferior al 25% de la presión de servicio máxima admisible.
+
+Por masa bruta máxima permisible se entiende la suma de la tara de la cisterna portátil y la carga máxima cuyo transporte esté autorizado.
+
+Por acero de referencia se entiende un acero que tiene una resistencia a la tracción de 370 N/mm2 y un  alargamiento de rotura del 27 %.
+
+Por acero dulce se entiende un acero que tiene una resistencia a la tracción mínima garantizada de 360 N/mm2 a 440 N/mm2 y un alargamiento mínimo garantizado de rotura conforme a lo establecido en el párrafo 6.7.2.3.3.3.
+
+La gama de temperaturas  de diseño para el depósito es de – 40 °C a 50 °C en el caso de las sustancias transportadas en las condiciones ambientes.  En el caso de las sustancias manipuladas a temperaturas elevadas, la temperatura de diseño no debe ser inferior a la temperatura máxima de la sustancia durante el llenado, el vaciado o el transporte.  Deben preverse temperaturas de diseño más rigurosas para las cisternas portátiles sometidas a condiciones climáticas adversas.
+
+                6.7.2.2 Disposiciones generales relativas al diseño y la construcción
+
+6.7.2.2.1	Los depósitos deben diseñarse y construirse de conformidad con las disposiciones de un código sobre recipientes a presión aceptado por la autoridad competente.  Deben ser de materiales metálicos capaces de recibir la forma deseada.  En principio, los materiales deben ajustarse a las normas nacionales o internacionales sobre materiales.  Para los depósitos soldados sólo debe utilizarse un material cuya soldabilidad esté plenamente demostrada.  Las soldaduras deben estar bien hechas y ofrecer total seguridad. Cuando el proceso de fabricación o el material lo exija, el depósito debe ser sometido a un tratamiento térmico adecuado que garantice la resistencia necesaria de las soldaduras y de las zonas afectadas por el calor.  Al elegir el material debe tenerse en cuenta la gama de temperaturas de diseño con respecto al riesgo de fractura frágil bajo tensión, la aparición de fisuras por corrosión y la resistencia a los choques.  Cuando se utilice acero de grano fino, el valor garantizado del límite elástico no superará los 460 N/mm2 y el valor garantizado del límite superior de la resistencia a la tracción no será superior a 725 N/mm2 según la especificación del material.  El aluminio no debe utilizarse  como material de construcción más que en los casos indicados en una disposición especial para cisternas portátiles asignada a una sustancia determinada en la columna 13 del Listado de Mercancías Peligrosas, o cuando lo apruebe la autoridad competente.  Si está autorizada su utilización, el aluminio debe tener aislamiento que impida una pérdida considerable de sus propiedades físicas cuando esté sometido a una carga térmica de 110 kW/m2 durante un período no inferior a 30 minutos.  El aislamiento debe ser eficaz a todas las temperaturas inferiores a 649°C  y debe estar protegido por un revestimiento de un material cuyo punto de fusión no sea inferior a 700°C.  Los materiales de las cisternas portátiles deben estar adaptados al medio ambiente exterior en el que vayan a ser transportados.
+
+6.7.2.2.2		Los depósitos de las cisternas portátiles, sus accesorios y sus tuberías deben estar fabricados con un material que:
+
+    a) sea prácticamente inatacable a la acción de las sustancias transportada;
+    b) sea eficazmente pasivado o neutralizado por reacción química; o
+    c) esté revestido de otro material resistente a la corrosión directamente adherido al depósito o fijado por otro método equivalente.
+
+6.7.2.2.3		Las juntas deben estar hechas de un material que no pueda ser atacado por las sustancias transportadas.
+
+6.7.2.2.4		Cuando los depósitos estén revestidos, el revestimiento debe ser prácticamente inalterable por la(s) sustancia(s) transportada(s), homogéneo, no poroso, exento de perforaciones, suficientemente elástico y  compatible con las características de dilatación térmica del depósito.  El revestimiento del depósito y de sus accesorios y tuberías debe ser continuo y cubrir completamente la superficie de cualquier brida.  Cuando los accesorios externos estén soldados a la cisterna, el revestimiento debe ser continuo y cubrir completamente los accesorios y la superficie de las bridas externas. 
+   
+6.7.2.2.5		Las juntas y costuras del revestimiento deben efectuarse por fusión mutua de los materiales o por cualquier otro medio igualmente eficaz.
+
+                    6.7.2.2.6       Debe evitarse el contacto entre metales diferentes que pueda causar daños por corrosión galvánica.
+
+6.7.2.2.7	Los materiales de que esté hecha la cisterna portátil, incluidos los de cualesquiera dispositivos, juntas, revestimientos y accesorios, no deben afectar negativamente a las sustancias que han de trasportarse.
+
+6.7.2.2.8	Las cisternas portátiles deben ser diseñadas y construidas con soportes que les sirvan de base estable durante el transporte y con piezas de sujeción adecuadas para levantarlas y anclarlas.
+
+6.7.2.2.9	Las cisternas portátiles deben ser diseñadas de forma que resistan, sin pérdida de su contenido, al menos la presión interna ejercida por éste, y las cargas estáticas, dinámicas y térmicas en las condiciones normales de manipulación y transporte. El diseño debe mostrar claramente que se han tenido en cuenta los efectos de la fatiga, resultantes de la aplicación reiterada de esas cargas durante la vida prevista de la cisterna portátil.
+
+6.7.2.2.10	Los depósitos provistos de dispositivos reductores  de vació deben ser diseñados de forma que resistan, sin deformación permanente, una presión externa de al menos 0,21 bar por encima de la presión interna. Los dispositivos reductores de vació deben estar regulados para que entren en funcionamiento a un grado de vacío no superior a - 0,21 bar, a no ser que el depósito esté diseñado para soportar una sobre presión externa superior, en cuyo caso la capacidad de reducción de vacío del dispositivo que vaya a instalarse no debe ser superior a la reducción de vació de diseño de la cisterna. Los depósitos que no estén provistos de dispositivos de reducción de vacío deben ser diseñados de forma que resistan, sin deformación permanente, una presión externa de al menos 0,4 bar por encima de la presión interna.
+
+6.7.2.2.11	Los dispositivos de reducción de vacío utilizados en las cisternas portátiles destinadas al transporte de sustancias que cumplan los criterios relativos al punto de inflamación de la Clase 3, inclusive sustancias transportadas a temperaturas elevadas iguales o superiores a su punto de inflamación, deben impedir la entrada directa de llamas al interior del depósito, o bien la cisterna portátil debe tener un depósito capaz de resistir, sin escapes, una explosión interna resultante de la entrada de llamas en el mismo.
+
+6.7.2.2.12	Las cisternas portátiles y sus elementos de sujeción deben poder soportar, cuando lleven la carga máxima autorizada, las siguientes fuerzas estáticas aplicadas separadamente:
+
+    a) en la dirección del transporte, el doble de la masa bruta máxima   autorizada multiplicado por la aceleración de la gravedad (g) */;
+
+    b) horizontalmente, en ángulo recto a la dirección del transporte: la masa bruta máxima autorizada (cuando la dirección del transporte no éste   claramente determinada, las fuerzas deben ser iguales al doble de la masa bruta máxima autorizada) multiplicada por la aceleración de la  gravedad (g) */;
+
+    c) verticalmente hacia arriba, la masa bruta máxima autorizada multiplicada por la aceleración de la gravedad (g) */; y
+
+    d) verticalmente hacia abajo; el doble de la masa bruta máxima autorizada (carga total incluido el efecto de la gravedad) multiplicado por la aceleración de la gravedad (g) 
+
+6.7.2.2.13	Para cada una de las fuerzas mencionadas en el párrafo 6.7.2.2.12, los coeficientes de seguridad que habrán de aplicarse deben ser los siguientes:
+
+    a) en el caso de los metales que tengan un límite de elasticidad claramente definido, un coeficiente de seguridad de 1,5 en relación con el límite de fluencia garantizado; o
+
+
+*/.: Para el calculo, g=9,81 m/s2
+    b) en el caso de los metales que no tengan un límite de elasticidad claramente definido, un coeficiente de seguridad de 1,5 en relación
+
+    c)  con el límite elástico convencional de 0,2% y, en el caso de los aceros austeníticos, de 1%.
+
+6.7.2.2.14	El valor del límite de fluencia o del límite elástico debe ser el establecido en las normas nacionales o internacionales sobre materiales. Cuando se utilicen aceros austeníticos, los valores mínimos especificados para esas propiedades en función de las normas sobre materiales podrán aumentarse hasta en un 15% cuando esos valores superiores consten en el certificado de inspección de materiales. Cuando no exista ninguna norma para el material en cuestión, los valores utilizados deben ser aprobados por la autoridad competente.
+
+6.7.2.2.15	Las cisternas portátiles destinadas al transporte de sustancias que cumplan los criterios relativos al punto de inflamación de la Clase 3, inclusive sustancias transportadas a temperaturas elevadas superiores a su punto de inflamación deben poder ser conectadas eléctricamente a tierra. Se deben adoptar medidas para impedir descargas electrostáticas peligrosas.
+
+6.7.2.2.16	Cuando lo exija para determinadas sustancias la instrucción pertinente sobre cisternas portátiles del párrafo 4.2.4.2.6 o alguna disposición especial para cisternas portátiles de la columna 13 del Listado de Mercancías Peligrosas, las cisternas portátiles deben tener una protección adicional, que pueda consistir, bien en un aumento del espesor de la chapa del depósito o en una elevación de la presión de prueba, aumento o elevación que se determinarán teniendo en cuenta los riesgos inherentes al transporte de las sustancias de que se trate.
+
+                6.7.2.3 Criterios de diseño
+
+6.7.2.3.1	Los dispositivos de las cisternas portátiles deben tener un diseño tal que se puedan analizar los esfuerzos bien matemáticamente o bien experimentalmente por medio de extensímetros de resistencia o por algún otro método aprobado por la autoridad competente.
+
+6.7.2.3.2	Los depósitos deben ser diseñados y construidos de forma que resistan una presión de prueba hidráulica de al menos 1,5 veces la presión de diseño. En las instrucciones pertinentes que figuran en la columna 12 del Listado de Mercancías Peligrosas y se describen en la sección 4.2.4.2.6 o en las disposiciones especiales para cisternas portátiles de la columna 13 de dicho listado se indican algunos requisitos específicos para determinadas sustancias. Hay que tener en cuenta los requisitos relativos al espesor mínimo de la chapa del depósito de esas cisternas que figuran en los párrafos 6.7.2.4.1 a 6.7.2.4.10.
+
+6.7.2.3.3	Para los metales que tengan un límite de elasticidad claramente definido o se caractericen  por tener un límite de fluencia normal garantizado (generalmente un límite clásico convencional de 0,2%; 1% en el caso de los aceros austeníticos) el esfuerzo primario de la membrana σ (sigma) en el depósito, a la presión de prueba, no deberá exceder del menor de los valores siguientes: 0,75 Re o 0,50 Rm siendo:
+
+	Re     =	límite de elasticidad aparente en N/mm2, o límite elástico convencional de 0,2% y en el caso de los aceros austeníticos, de 1%
+
+	Rm    =	resistencia mínima a la tracción en N/mm2.
+
+6.7.2.3.3.1	Los valores de Re y Rm que han de utilizarse deben ser los mínimos especificados en las normas nacionales o internacionales para materiales. Cuando se utilicen aceros austeníticos, los valores mínimos de Re y Rm especificados según las normas para materiales pueden aumentarse hasta en un 15% cuando estos valores más altos consten en el certificado de inspección de materiales. Cuando no exista ninguna norma para el metal en cuestión, los valores de Re y Rm que se utilicen deben ser aprobados por la autoridad competente o por la entidad por ella autorizada.
+
+6.7.2.3.3.2	No se permitirá la construcción de depósitos soldados con aceros que tengan una relación Re/Rm de más de 0,85. Los valores Re y Rm que han de utilizarse para determinar esa relación son los especificados en el certificado de inspección de materiales.
+
+6.7.2.3.3.3	Los aceros utilizados en la construcción de depósitos deben tener un alargamiento porcentual en la rotura de por lo menos 10.000/Rm, con un mínimo absoluto de 16% en el caso de los aceros de grano fino y del 20% en el de los demás aceros. El aluminio y las aleaciones de éste que se utilicen en la construcción de depósitos de cisternas deben tener un alargamiento porcentual en la rotura no inferior a 10.000/6Rm, con un mínimo absoluto del 12%.
+
+6.7.2.3.3.4	Para determinar los valores reales de los materiales, se debe observar que, en el caso del metal en láminas, el eje de las muestras para pruebas de tracción debe ser perpendicular (transversal) a la dirección del laminado. El alargamiento permanente en la rotura debe medirse en muestra de sección transversal rectangular de conformidad con la norma ISO 6892, utilizando una distancia entre señales en la probeta de 50mm.
+
+                6.7.2.4 Espesor mínimo de la chapa del depósito 
+
+                    6.7.2.4.1 El espesor mínimo de la chapa del depósito debe ser el mayor de los siguientes:
+
+    a) el espesor mínimo determinado de conformidad con las disposiciones de los párrafos 6.7.2.4.2. a 6.7.2.4.10;
+    b) el espesor mínimo determinado conforme al código convenido para recipientes a presión, habida cuenta de las disposiciones de la parte 6.7.2.3; y
+    c) el espesor mínimo especificado en la instrucción pertinente sobre          cisternas portátiles del párrafo 4.2.4.2.6 o en una disposición especial para cisternas portátiles indicada en la columna 13 del Listado de Mercancías Peligrosas.
+
+6.7.2.4.2		En los depósitos cuyo diámetro no sea superiores a 1,80 m, las partes cilíndricas, las extremidades y las tapas de los agujeros de hombre deben tener al menos 5mm de espesor si son de acero de referencia o el espesor equivalente del metal que se utilice. En los depósitos cuyos diámetros excedan de 1,80 m, deben tener al menos 6mm de espesor si son de acero de referencia o el espesor equivalente del metal que se utilice, aunque cuando se trate de sustancias sólidas en polvo o granulares pertenecientes a los Grupos de Embalaje II o III, este espesor mínimo puede reducirse a un valor no inferior a 5 mm de acero de referencia o al espesor equivalente del metal que se utilice.
+
+6.7.2.4.3	Cuando el depósito tenga una protección adicional, en las cisternas portátiles que tengan una presión de prueba de menos de 2,65 bar, la autoridad competente puede autorizar una reducción del espesor mínimo del depósito proporcional a la protección adicional.  Sin embargo, los depósitos cuyo diámetro no sea superior a 1,80 m deben tener no menos de 3 mm de espesor de acero de referencia o el espesor equivalente del metal que se utilice.  Los depósitos cuyo diámetro exceda de 1,80 m deben tener al menos 4mm de espesor de acero de referencia o el espesor equivalente del metal que se utilice.
+
+6.7.2.4.4	Las partes cilíndricas, las extremidades y las tapas de los agujero de hombre de todos los depósitos deben tener al menos 3mm de espesor, sea cual fuere el material empleado en su construcción.
+
+6.7.2.4.5	La protección adicional mencionada en el párrafo 6.7.2.4.3 puede conseguirse con una protección estructural externa completa, tal como una construcción adecuada de tipo “emparedado” cuya cubierta exterior esté sujeta al depósito, o con una construcción de paredes dobles, o rodeando el depósito con un bastidor completo formado por elementos estructurales longitudinales y transversales.
+
+6.7.2.4.6	En el caso de un metal distinto del acero de referencia el espesor equivalente al prescrito para éste en  párrafo 6.7.2.4.3 se determina mediante la siguiente ecuación:	  
+                
+                  21,4 x eo  
+    e1 =
+             3 Rm1 x A1
+
+donde:
+
+e1 	=	espesor equivalente requerido (en mm) del metal que se utilice;
+
+e0             =	espesor mínimo (en mm) de acero de referencia especificado en la instrucción pertinente sobre cisternas portátiles que se indica en la columna 12 del Listado de Mercancías Peligrosas y se describe en el párrafo 4.2.4.2.6 o en una disposición especial para cisternas portátiles indicada en la columna 13 de dicho listado;
+
+Rm1         =	resistencia a la tracción mínima garantizada (en N/mm2)  del metal que se utilice (véase el párrafo 6.7.2.3.3);
+
+A1         = 	alargamiento porcentual mínimo garantizado en la rotura del metal que se utilice, conforme a las normas nacionales o internacionales. 
+
+6.7.2.4.7	En los casos en que la instrucción pertinente del párrafo 4.2.4.2.6 especifique un espesor mínimo de 8 mm, 10 mm o12 mm, hay que señalar que esos espesores se basan en las propiedades del acero de referencia y en un depósito de 1,80 m de diámetro.  Cuando se utilice un metal distinto del acero dulce (véase la parte 6.7.2.1) o el depósito tenga un diámetro de más de 1,80 m, el espesor se determinará mediante la siguiente ecuación:
+
+                                        21,4 x eo x d1
+		e1 = 
+                                  1,8  3  Rm1 x A1
+
+		
+		dónde:
+
+		e1       =   espesor equivalente requerido (en mm) del metal que se utilice;
+                        eo         =	espesor mínimo (en mm) del acero de referencia especificado en la instrucción pertinente sobre cisternas portátiles que se indica en la columna 12 del Listado de Mercancías Peligrosas y se describe en el párrafo 4.2.4.2.6, o en una disposición especial para cisternas portátiles indicada en la columna 13 de dicho listado;
+	d1        =	   diámetro del depósito (en m), que no debe ser inferior a 1,80m;
+                    Rm1        =   resistencia a la atracción mínima garantizada (en N/mm2) del metal que se utilice (véase el párrafo 6.7.2.3.3);
+	A1     =	alargamiento porcentual mínimo garantizado en la rotura del metal que se utilice, conforme a las normas nacionales o internacionales.
+
+                    6.7.2.4.8 El espesor de la chapa no debe, en ningún caso, ser inferior al indicado en los párrafos 6.7.2.4.2, 6.7.2.4.3 y 6.7.2.4.4.  Todas las partes del depósito deben tener el espesor mínimo determinado en los párrafos 6.7.2.4.2. a 6.7.2.4.4.  En este espesor no se incluye una tolerancia por corrosión. 
+ 
+6.7.2.4.9	Cuando se utilice acero dulce (véase la parte 6.7.2.1), no es preciso utilizar la ecuación del párrafo 6.7.2.4.6.
+
+6.7.2.4.10	El espesor de la chapa no debe cambiar bruscamente en la unión de las extremidades con la parte cilíndrica del depósito. 
+
+                6.7.2.5 Equipos de servicio 
+
+6.7.2.5.1	Los equipos de servicio deben estar dispuestos de forma que no corran el riesgo de ser arrancados o dañados durante el transporte y la manipulación. Si la unión entre el bastidor y el depósito permite un movimiento relativo de esos subconjuntos, los equipos de servicio deben estar sujetos de forma que ese movimiento no produzca ningún daño a los órganos activos.  Los accesorios exteriores de vaciado (encastres de los tubos, dispositivos de cierre), la válvula interna de cierre y su asiento deben estar protegidos contra el riesgo de ser arrancados por fuerzas exteriores (por ejemplo mediante el uso de dispositivos de cizallamiento). Los dispositivos de llenado y vaciado (incluidos las bridas y los tapones roscados) y las tapas protectoras, si las hubiere, deben poder fijarse para evitar su apertura fortuita. 
+
+6.7.2.5.2	 Todas las aberturas del depósito destinadas al llenado o vaciado de la cisterna portátil deben estar provistas de válvulas de cierre manuales situadas lo más cerca posible del depósito. Las otras aberturas excepción de las que conducen a dispositivos de aireación o reductores de presión, deben estar provistas de una válvula de cierre o de cualquier otro medio de cierre adecuado situado lo más cerca posible del  depósito.
+
+6.7.2.5.3	Toda cisterna portátil debe ir provista de un agujero de hombre o boca de inspección de tamaño adecuado para permitir la inspección interior y un acceso adecuado para los trabajos de mantenimiento y reparación del interior. Las cisternas portátiles con compartimientos deben estar provistas de un agujero de hombre o boca de inspección para cada compartimiento.
+ 
+6.7.2.5.4	Siempre que sea posible, los accesorios exteriores deben estar agrupados. En las cisternas portátiles con aislamiento, los accesorios superiores deben ir rodeados de una cubeta colectora de derrame con sumideros apropiados.
+
+6.7.2.5.5	Todas las conexiones de la cisterna portátil deben llevar inscripciones que indiquen claramente su función. 
+
+6.7.2.5.6	Las válvulas de cierre y demás medios de cierre deben ser diseñados y construidos para que resistan una presión nominal que no debe ser inferior a la presión de servicio máxima autorizada del depósito, teniendo en cuenta las temperaturas previstas durante el transporte.  Las válvulas de cierre con vástago roscado deben cerrarse por rotación en el sentido de las agujas del reloj.  Para las demás válvulas de cierre debe indicarse claramente la posición (abierta y cerrada) y la dirección de cierre. Todas las válvulas de cierre deben diseñarse de manera que no pueda producirse una apertura fortuita.
+
+
+6.7.2.5.7	Ninguna pieza móvil, tal como las tapas, los componentes de los sistemas de cierre, etc., debe ser de acero corroíble no protegido si puede entrar en contacto, por fricción o por percusión, con cisternas portátiles de aluminio destinadas al transporte de sustancias que cumplen los criterios relativos al punto de  inflamación de la Clase 3, incluidas las sustancias transportadas a temperaturas elevadas, por encima de su punto de inflamación.
+
+6.7.2.5.8	Las tuberías se deben diseñar, construir e instalar de manera que no corran el riesgo de ser dañadas por la dilatación y la contracción térmicas, los choques y las vibraciones.  Todas las tuberías deben ser de un metal apropiado.  Siempre que sea posible, las uniones de las tuberías deben estar soldadas.
+
+6.7.2.5.9	Las juntas de las tuberías de cobre deben hacerse con soldadura fuerte o tener una unión metálica de igual resistencia.  El punto de fusión de los materiales utilizados para la soladura fuerte no debe ser inferior a 525° C.  Las juntas no deben reducir la resistencia de las tuberías, como puede ocurrir con las uniones roscadas.
+
+6.7.2.5.10	La presión de rotura de todas las tuberías y de todos sus accesorios no debe ser inferior al mayor de dos valores siguientes: el cuádruple de la presión de servicio máxima autorizada del depósito o el cuádruple de la presión a la que puede estar sometido el depósito en servicio por la acción de una bomba u otro dispositivo (excepto los de reducción de la presión).
+
+6.7.2.5.11	Se deben utilizar metales dúctiles para la fabricación de las válvulas y de los accesorios.
+
+                6.7.2.6 Aberturas del fondo
+
+6.7.2.6.1	Ciertas sustancias no deben ser transportadas en cisternas portátiles con aberturas en el fondo.  Cuando la instrucción pertinente sobre cisternas portátiles indicada en la columna 12 del Listado de Mercancías Peligrosas y descrita en párrafo 4.2.4.2.6 prohíba las aberturas del fondo, no podrá haber aberturas por debajo del nivel del líquido en el depósito llenado hasta el límite máximo autorizado.  Cuando se obturen las aberturas existentes, la operación debe efectuarse soldando una placa interior y exteriormente al depósito.
+
+6.7.2.6.2	Las aberturas de vaciado por el fondo de las cisternas portátiles utilizadas para el transporte de ciertas sustancias sólidas, cristalizables o muy viscosas deben estar provistas, como mínimo, de dos dispositivos de cierre, montados en serie e independientes entre sí.  El diseño del equipo debe ser aprobado por la autoridad competente o la entidad por ella autorizada, y debe comprender:
+
+    a) una válvula externa de cierre instalada lo más cerca posible del  depósito; y
+    b) un cierre estanco en la extremidad de la tubería de vaciado, que puede ser una brida ciega empernada o un tapón roscado.
+
+6.7.2.6.3	Toda abertura de vaciado por el fondo, con la salvedad de lo dispuesto en el párrafo 6.7.2.6.2, debe estar provista de tres dispositivos de cierre, montados en serie e independientes entre sí.  El diseño del equipo debe ser aprobado por la autoridad competente o la entidad por ella autorizada, y debe comprender:
+
+    a) una válvula interna de cierre automático, es decir, una válvula de cierre montada dentro del depósito, o dentro de una brida soldada o su brida de acoplamiento, de modo que:
+
+        i) los dispositivos de mandos de la válvula estén diseñados para impedir cualquier apertura fortuita por choque o por inadvertencia;
+        ii) la válvula puede ser accionada desde arriba o desde abajo;
+        iii) se puede verificar desde el suelo, en la medida de lo posible, la posición de la válvula (abierta o cerrada);
+        iv) salvo en el caso de la cisternas portátiles con una capacidad no superior a los 1.000 litros, se pueda cerrar la válvula desde una posición accesible de la cisterna portátil, alejada de la válvula misma; y
+        v)  la válvula pueda funcionar en caso de avería de su dispositivo de mando externo;
+
+    b) una válvula externa de cierre instalada lo más cerca posible del depósito; y
+    c) un cierre estanco en la extremidad de la tubería de vaciado, que puede ser una brida ciega empernada o un tapón roscado.
+
+6.7.2.6.4	En el caso de los depósitos con revestimiento, la válvula interna de cierre que se prescribe en el párrafo 6.7.2.6.3.a) puede ser reemplazada por una válvula externa de cierre adicional.  El fabricante se atendrá a las disposiciones al respecto de la autoridad competente o de la entidad por ella autorizada. 
+
+                6.7.2.7 Dispositivos de seguridad de alivio 
+
+6.7.2.7.1	Todas las cisternas portátiles deben estar provistas, como mínimo, de un dispositivo de reducción de la presión. El diseño, la construcción y la identificación de los dispositivos de reducción de la presión deben ser aprobados por la autoridad competente o la entidad por ella autorizada.
+
+                6.7.2.8 Dispositivos de reducción de la presión
+
+6.7.2.8	.1	Toda cisterna portátil con una capacidad no inferior a 1.900 litros y todo compartimiento independiente de una cisterna portátil de capacidad similar deben estar provistos de uno o varios dispositivos de reducción de la presión accionados por muelle y pueden, además, tener un disco frangible o un elemento fusible montado en paralelo con los dispositivos de muelle, excepto cuando en la instrucción pertinente sobre cisternas portátiles del párrafo 4.2.4.2.6 se haga referencia al párrafo 6.7.2.8.3 que lo prohíbe.  Los dispositivos de reducción de la presión deben tener capacidad suficiente para impedir la rotura del depósito como consecuencia de un exceso de presión o de un vació resultantes del llenado, el vaciado o el recalentamiento del contenido.
+
+6.7.2.8.2	Los dispositivos de reducción de la presión deben estar diseñados de manera que impidan la entrada de objetos extraños, los escapes de líquido y todo aumento peligroso de la presión.
+
+6.7.2.8.3	Cuando así lo disponga para determinadas sustancias la instrucción pertinente sobre cisternas portátiles indicada en la columna 12 del Listado de Mercancías Peligrosas y descrita en el párrafo 4.2.4.2.6, las cisternas portátiles estarán provistas de un dispositivo de reducción de la presión aprobado por la autoridad competente.  Excepto en el caso de las cisternas portátiles destinadas especialmente al transporte de una sustancia y provistas de una válvula de reducción de la presión aprobada que esté construida con materiales compatibles con la carga, tal dispositivo debe consistir en una válvula de muelle precedida de un disco frangible. Si un disco frangible se inserta en serie con el dispositivo de reducción de la presión prescripto, en el espacio comprendido entre el disco frangible y dicho dispositivo se debe montar  un manómetro u otro indicador adecuado para detectar la rotura, la perforación o la falta de estanqueidad del disco, que puedan perturbar el funcionamiento del sistema de reducción de la presión.  El disco frangible debe romperse a una presión nominal superior en un 10% a aquella a la que empieza a funcionar el dispositivo de reducción de la presión.
+
+6.7.2.8.4	Toda cisterna portátil de una capacidad inferior a 1.900 litros debe estar provista de un dispositivo de reducción de la presión que puede consistir en un disco frangible si éste reúne los requisitos que se establecen en el párrafo 6.7.2.11.1.  Si no se utiliza un dispositivo accionado por muelle, el disco frangible debe romperse a una presión nominal igual  a la presión de prueba.
+
+6.7.2.8.5	Cuando el depósito está preparado para el vaciado a presión, la línea de llenado debe estar provista de un dispositivo de reducción de la presión adecuado, que se debe ajustar para que funcione a una  presión no superior a la presión de servicio máxima autorizada del depósito, y se debe instalar una válvula de cierre lo más cerca posible del depósito.
+
+                6.7.2.9 Ajuste de los dispositivos de reducción de la presión
+
+6.7.2.9.1	Se debe observar que el dispositivo de seguridad sólo debe funcionar si se produce una elevación excesiva de la temperatura, ya que el depósito no se verá sometido a variaciones excesivas de la presión en condiciones de transporte normales (véase el párrafo 6.7.2.12.2).
+
+6.7.2.9.2	El dispositivo de reducción de la presión exigido deberá ser ajustado de modo que empiece a abrirse a una presión nominal igual a cinco sextos de la presión de prueba en el caso de los depósitos cuya presión de prueba no sea superior a 4,5 bar y al 110% de dos tercios de la presión de prueba en el caso de los depósito con una presión de prueba superior a 4,5 bar. Después de la descarga, el dispositivo debe cerrarse a una presión que no sea inferior en más del 10% a la presión a la que empiece a abrirse. El dispositivo debe permanecer cerrado a todas las presiones más bajas. Esta disposición no impide el uso de dispositivos de reducción de vació o de dispositivos mixtos de reducción de la presión y de reducción de vació.
+
+                6.7.2.10 Elementos fusibles
+
+6.7.2.10.1	Los elementos fusibles deben fundirse a una temperatura comprendida entre 110°C y 149°C, a condición de que la presión en el depósito a la temperatura de fusión no sea superior a la presión de prueba. Se deben instalar en la parte superior del depósito con las entradas en el espacio de vapor y en ningún caso deben estar protegidos del calor exterior. No se debe utilizar elementos fusibles  en cisternas portátiles cuya presión de prueba sea superior a 2,65 bar. Los elementos fusibles que se utilicen en  cisternas portátiles destinadas al transporte de sustancias a temperaturas elevadas deben diseñarse de manera que funcionen a una temperatura superior a la temperatura máxima prevista durante el transporte y deben ser aprobados por la autoridad competente o la entidad por ella autorizada.
+
+                6.7.2.11 Discos frangibles
+
+6.7.2.11.1	Sin perjuicio de lo dispuesto en el párrafo 6.7.2.8.3, los discos frangibles se deben ajustar para que se rompan a una presión nominal igual a la presión de prueba en toda la gama de temperaturas de diseño. Si se utilizan discos frangibles se debe prestar especial atención a las disposiciones de los párrafos 6.7.2.5.1 y 6.7.2.8.3.
+
+6.7.2.11.2	Los discos frangibles deberán ser utilizables con las presiones de vacío que pueden producirse en la cisterna portátil.
+
+                6.7.2.12 Capacidad de los dispositivos de reducción de la presión
+
+6.7.2.12.1	El dispositivo de reducción de la presión del tipo de muelle al que se refiere el párrafo 6.7.2.8.1 debe tener una sección de paso mínima equivalente a un orificio de 31,75 mm de diámetro. Los dispositivos de reducción de vacío, si se utilizan, deben tener una sección de paso mínimo de 284 mm2.
+
+6.7.2.12.2	La capacidad total de salida de los dispositivos de reducción de la presión en condiciones en que la cisterna portátil este completamente envuelta en llamas debe ser suficiente para que la presión en el depósito no sea superior en más de un 20 % a la presión a la que empiece a abrirse el dispositivo de limitación de la presión. Para alcanzar la capacidad total prescrita de reducción de la presión, se puede utilizar dispositivos de emergencia. Estos dispositivos pueden ser fusibles, de muelle o con elementos de disco frangible, o consistir en una combinación de dispositivo de muelle y de disco frangible. Puede determinarse la capacidad total requerida de los dispositivos de reducción de la presión  utilizando la formula del párrafo 6.7.2.12.2.1 o el cuadro del párrafo 6.7.2.12.2.3.
+
+6.7.2.12.2.1	Para determinar la capacidad total requerida de los dispositivos de reducción de la presión, que se debe considerar igual a la suma de las capacidades de cada uno de ellos, se debe utilizar la siguiente fórmula:
+
+				
+		                                                  FA0,82       ZT		
+			                    Q = 12,4
+                                                                          LC       M
+
+
+		Donde:
+
+		Q	=	tasa mínima requerida de salida en metros cúbicos de aire por 
+segundo (m3/s) en condiciones normales: 1 bar y 0°C (273K);
+		 F	=	coeficiente cuyo valor es el siguiente:
+				En los depósitos sin aislamiento  F =1 
+                                               En los depósitos con aislamiento F = U(649 – t)/13,6, pero en ningún caso inferior a 0,25, siendo:
+		U = conductancia térmica de aislamiento en kW. m.-2 . K-1, a 38°C
+		t = temperatura real de la sustancia durante el llenado (en °C); cuando se desconoce esta temperatura, t  = 15°C:
+		Puede tomarse el valor de F dado anteriormente para los depósitos con aislamiento a condición de que éste se ajuste a las disposiciones del párrafo 6.7.2.12.2.4;
+	A         =	superficie externa total del depósito en metros cuadrados;
+	Z   	=	factor de compresibilidad del gas en la condición de acumulación (cuando no se conoce este factor, debe utilizarse Z = 1,0);
+	T	=	temperatura absoluta en grados Kelvin (°C + 273) por encima de los dispositivos de reducción de la presión en la condición de acumulación;
+	L	=	calor latente de vaporización del líquido, en kJ/kg, en la condición de acumulación;
+	M	=	masa molecular del gas que se descarga;
+	C	=	constante derivada de una de las fórmulas siguientes en función del cociente k de los calores específicos:
+	
+	
+	Siendo:	k = CP / CV
+  	
+	Donde: 
+			CP es el calor específico a presión constante; y
+
+			CV es el calor específico a volumen constante. 
+
+	
+Cuando k > 1:
+
+                                                                                                                                k +1
+                                                                                                                                 k - 1    
+				  		C  =      k .    _ _2___    
+                                                                                                                  k + 1
+	
+	Cuando k = 1 o se desconoce su valor:
+
+					C =    1     =  0,607
+					        e												
+	siendo e la constante matemática 2,7183
+
+	C   puede tomarse también del cuadro siguiente:
+
+	
+       
+          K                 C
+       
+        K                  C 
+  
+       K               C
+     
+       1,00             0,607
+       1,02             0,611
+       1,04             0,615
+       1,06             0,620
+       1,08             0,624
+       1,10             0,628
+       1,12             0,633
+       1,14             0,637
+       1,16             0,641
+       1,18             0,645
+       1,20             0,649
+       1,22             0,652
+       1,24             0,656                                  
+
+     1,26             0,660
+     1,28             0,664
+     1,30             0,667
+     1,32             0,671
+     1,34             0,674
+     1,36             0,678
+     1,38             0,681
+     1,40             0,685
+     1,42             0,688
+     1,44             0,691
+     1,46             0,695
+     1,48             0,698
+     1,50             0,701
+
+
+   1,52          0,704
+   1,54          0,707
+   1,56          0,710
+   1,58          0,713
+   1,60          0,716
+   1,62          0,719
+   1,64          0,722
+   1,66          0,725
+   1,68          0,728
+   1,70          0,731
+   2,00          0,770
+   2,20          0,793  
+																		
+            
+6.7.2.12.2.2	En vez de aplicar las formulas que anteceden, se puede utilizar el cuadro del párrafo 6.7.2.12.2.3para determinar las dimensiones de los dispositivos de reducción de la presión de los depósitos destinados al transporte de líquidos.  En este cuadro se supone que el coeficiente de aislamiento es F= 1,  por lo que si el depósito tiene aislamiento se deben modificar los valores en consecuencias. Otros valores utilizados para calcular este cuadro son los siguientes: 
+
+		M = 86,7 		T =394 K
+		L  = 334,94 kJ/kg. 	C = 0,607
+		Z  = 1	
+
+                        6.7.2.12.2.3 Capacidad mínima de salida de aire, Q , en metros cúbicos de aire por segundo a 100 kPa (1 bar) y 0°C (237 K )
+
+              
+A
+Superficie expuesta
+(metros cuadrados)
+                    
+                 Q
+(metros cúbicos de aire por segundo)
+
+A
+Superficie expuesta
+(metros cuadrados)
+
+Q
+(metros cúbicos de
+aire por segundo)
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12
+14
+16
+18
+20
+22,5
+25
+27,5
+30
+32,5
+35
+
+
+
+0,230
+0,320
+0,405
+0,487
+0,565
+0,641 
+0,715
+0,788
+0,859
+0,998
+1,132
+1,263
+1,391
+1,517
+1,670
+1,821
+1,969
+2,115
+2,258
+2,400
+
+
+
+37,5
+40
+42,5
+45
+47,5
+50
+52,5
+55
+57,5
+60
+62,5
+65
+67,5
+70
+75
+80
+85
+90
+95
+100
+
+
+
+2,539
+2,677
+2,814
+2,949
+3,082
+3,215
+3,346
+3,476
+3,605
+3,733
+3,860
+3,987
+4,112
+4,236
+4,483
+4,726
+4,967
+5,206
+5,442
+5,676
+
+
+
+6.7.2.12.2.4	Los sistemas de aislamiento térmico,  utilizados para reducir la capacidad de salida, deben ser aprobados por la autoridad competente o la entidad por ella autorizada.  En todos los casos, los sistemas de aislamientos aprobados con tal fin deben reunir las siguientes condiciones:
+
+    a) mantener su eficacia a todas las temperatura hasta 649 °C; y
+
+    b) estar envueltos en un material cuyo punto de fusión sea igual o superior a 700 °C
+
+                6.7.2.13 Marcado de los dispositivos de reducción de la presión  
+
+6.7.2.13.1	Todo dispositivo de reducción de la presión debe tener marcado, con caracteres claramente legibles e indelebles, los siguientes datos:
+
+    a) la presión (en bar o kPa) o la temperatura (en °C) a la que esté previsto que funcione;
+    b) la tolerancia autorizada a la presión de descarga para los dispositivos de muelle;
+    c) la temperatura de referencia correspondiente a la presión de régimen para los discos frangibles;
+    d) la tolerancia de temperatura autorizada para los elementos fusibles; y
+    e) la capacidad nominal de conducción del dispositivos en metros cúbicos de aire por segundo (m3/s) en condiciones normales. Cuando sea posible, también debe figurar la siguiente información: 
+    f) El nombre del fabricante y el número de catálogo  correspondiente. 
+
+6.7.2.13.2.	La capacidad nominal de flujo indicada en los dispositivos de reducción de la presión se determina según la norma ISO 4126–1. 
+
+                6.7.2.14 Tubos de conexión con los dispositivos de reducción de la presión 
+
+6.7.2.14 1	Los tubos de conexión con los dispositivos de reducción de la presión deben ser de tamaño suficiente para que el volumen de aire requerido pueda llegar sin dificultad al dispositivo de seguridad. No se debe instalar ninguna válvula de cierre entre el depósito y los dispositivos de reducción de la presión, a no ser que haya instalado dispositivos duplicados para el mantenimiento o por otras razones y que las válvulas de cierre conectadas a los dispositivos efectivamente en funcionamiento estén inmovilizadas en posición abierta o acopladas entre si de forma que por lo menos uno de esos dispositivos duplicados esté siempre en estado de funcionar. Ninguna abertura que conduzca a un orificio de escape o dispositivo de reducción de la presión debe estar obstruida de manera  que se obstaculice o se cierre el paso del depósito al dispositivo. Cuando los dispositivos de reducción de la presión tengan orificios o tubos de escape, éstos deben dar salida a la atmósfera al vapor o al líquido de forma que sea mínima la contrapresión ejercida sobre los dispositivos de seguridad. 
+
+                6.7.2.15 Emplazamiento de los dispositivos de reducción de la presión.    
+
+6.7.2.15.1	Cada orificio de admisión de los dispositivos de reducción de la presión debe estar situado en la parte superior del depósito, lo más cerca posible del centro longitudinal y transversal del mismo.  Todos los orificios de admisión de los dispositivos de reducción de la presión, en las condiciones de tasa máxima de llenado, deben estar situados en el espacio de vapor del depósito y los dispositivos deben estar dispuestos de forma que el vapor salga libremente.  En el caso de sustancias inflamables,  la salida de vapor debe estar dirigida de manera que éste no pueda tropezar con el depósito. Se permite el uso de dispositivos de protección para desviar el chorro de vapor, a condición de que no disminuya la capacidad requerida del dispositivo de reducción de la presión.
+
+6.7.2.15.2	Se deben tomar medidas para impedir que las personas no autorizadas tengan acceso a los dispositivos de reducción de la presión y para evitar que estos sufran daños en caso de vuelco de la cisterna portátil.
+
+                6.7.2.16 Dispositivos indicadores
+
+                    6.7.2.16.1. No se deben utilizar indicadores de nivel hechos de cristal ni indicadores hechos de otros materiales frágiles que estén en comunicación directa con el contenido de la cisterna. 
+
+                6.7.2.17 Soportes, bastidores y elementos de elevación y de sujeción de las cisternas portátiles	
+
+6.7.2.17.1	Las cisternas portátiles deben ser diseñadas y fabricadas con un soporte que asegure su estabilidad durante el transporte.  En relación con este aspecto del diseño, se deben tener en cuenta las fuerzas que se indiquen en el párrafo 6.7.2.2.12 y el factor de seguridad indicado en el párrafo 6.7.2.2.13 se consideran aceptables los patines, los bastidores, las cunas y otras estructuras similares. 
+
+6.7.2.17.2	La acción combinada de los soportes (cunas, bastidores, etc.) y de los elementos de elevación y de sujeción de las cisternas portátiles no debe someter a un esfuerzo excesivo ningún punto del depósito.  Todas las cisternas portátiles deben estar provistas de elementos permanentes de elevación y de sujeción. Es preferible que éstos estén montados en los soportes de la cisterna portátil, pero pueden estar montados sobre placas de refuerzo fijadas en el depósito en los puntos de apoyo. 
+
+6.7.2.17.3	En el diseño de soportes y bastidores se deben tener en cuenta los efectos de corrosión debidos al medio ambiente.
+
+6.7.2.17.4	Se deben poder obturar los huecos de entrada de las horquillas elevadoras.   Los medios de obturación deben ser un elemento permanente del bastidor o estar permanentemente fijados a éste. No es necesario que las cisternas portátiles de compartimiento único con una longitud inferior a 3,65 m estén provistas de huecos obturados, a condición de que:
+		
+    a) el depósito y todos sus accesorios estén bien protegidos de los choques de las horquillas elevadoras; y
+    b) la distancia entre los centros de los huecos para las horquillas elevadoras sea por lo menos igual a la mitad de la longitud máxima de la cisterna portátil.
+
+6.7.2.17.5	Cuando las cisternas portátiles no estén protegidas durante el transporte, conforme a lo estipulado en el párrafo 4.2.1.2, los depósitos y los equipos de servicio deben estar protegidos contra los daños resultantes de choques laterales longitudinales y de vuelcos. Los accesorios externos deben estar protegidos de modo que se impida el escape del contenido del depósito en caso de choque o de vuelco de la cisterna portátil sobre sus accesorios. Constituyen ejemplos de protección:
+
+    a) la protección contra los choques laterales, que puede consistir en barras longitudinales que protejan el depósito por ambos lados a la altura de la línea media;
+    b) la protección de la cisterna portátil contra los vuelcos, que puede consistir en aros de refuerzo o barras fijadas transversalmente sobre el bastidor; 
+    c) la protección contra los choques por la parte posterior, que puede consistir en un parachoques o un bastidor;
+    d) la protección del depósito contra los daños resultantes de choques o vuelcos utilizando un bastidor ISO conforme a la norma ISO 1496–3.
+
+                6.7.2.18 Aprobación del diseño 
+
+
+ 6.7.2.18.1 	Para cada nuevo diseño de cisterna portátil, las autoridades competentes o la entidad por ellas autorizada deben expedir un certificado de aprobación del diseño. En ese certificado debe constar que la cisterna portátil ha sido examinada por esa autoridad, que es adecuada para el fin al que se le destina y que responde a las normas que se establecen en este capítulo y, cuando proceda, a las disposiciones relativas a las sustancias enunciadas en el Capítulo 4.2 y en el Listado de Mercancías Peligrosas del capitulo 3.2. Si se fabrica una serie de cisternas portátiles sin modificaciones del diseño, el certificado debe ser valido para toda la serie. El certificado debe hacer referencia al informe de prueba del prototipo, a las sustancias o grupos de sustancias que se permite transportar, a los materiales de construcción del depósito y del revestimiento (cuando lo haya) y al número de aprobación. El número de aprobación debe componerse del signo o marca distintivos del Estado en cuyo territorio se haya concedido la aprobación, es decir, del signo distintivo que, conforme a la Convención de Viena sobre la Circulación, de 1968, se utiliza en el tráfico internacional, y de un número de registro. En el certificado debe indicarse, si la hubiera, cualquier otra disposición con arreglo a lo indicado en el párrafo 6.7.1.2.  La aprobación de un diseño puede aplicarse a cisternas portátiles más pequeñas hechas de material de la misma clase y del mismo espesor, con las mismas técnicas de fabricación, con soportes idénticos y sistemas de cierre y otros accesorios equivalentes.
+
+6.7.2.18.2	El informe de prueba del prototipo para la aprobación del diseño debe incluir, por lo menos, los siguientes datos:	 
+
+    a) los resultados de la prueba del bastidor aplicable, especificada en la norma ISO 1496-3; 
+    b) los resultados de la inspección y pruebas iniciales previstas en el párrafo 6.7.2.19.3; y		
+    c) los resultados de la prueba de choque previsto en el párrafo 6.7.2.19.1, cuando proceda.
+
+                6.7.2.19 Inspección y pruebas 
+
+ 
+6.7.2.19.1	En el caso del las cisternas portátiles que responden a la definición de contenedor dada en el Convenio internacional sobre la seguridad de los contenedores (CSC), se debe someter a pruebas de choque un prototipo representativo de cada diseño.  El prototipo de cisterna portátil debe resultar capaz de absorber las fuerzas resultantes de un choque no inferior a 4 veces (4 g ) la masa bruta máxima autorizada de la cisterna portátil a carga completa, con una duración característica de los choques mecánicos experimentados en el transporte ferroviario. A continuación figura una lista de la normativa sobre los métodos aceptables para la realización de la prueba de choque:  
+
+Association of American Railroads,       
+Manual of Standards and Recommended Practices,
+Specifications for Acceptability of Tank Containers (AAR.600),
+
+Canadian Standards Association (CSA),
+Highway Tanks and Portable Tanks for the transportation of Dangerous Goods (B620)
+
+Deutsche Bahn AG						
+Zentralbereich Technik, Minden 
+Cisternas portátiles, prueba dinámica de choque longitudinal 
+
+Société Nationale des Chemins de Fer Français
+C.N.E.S.T.  002 
+Contenedores cisternas, esfuerzos externos longitudinales y pruebas dinámicas de choque 
+		
+		Spoornet, Sudáfrica
+		Engineering Development Centre (EDC)  
+		Testing of ISO Tank Containers 
+		Method EDC/TES/023/000/
+
+6.7.2.19.2	El depósito y los distintos componentes del equipo de cada cisterna portátil deben ser inspeccionados y probados, primero antes de ser puestos en servicio (inspección y pruebas iniciales) y después a intervalos de cinco años como máximo (inspección y pruebas periódicas quinquenales) con una inspección y prueba periódica intermedia (inspección y pruebas después de dos años y medio), que se efectuará a mitad del período de cinco años. Esta inspección y prueba periódicas después de dos años y medios  puede efectuarse dentro de los tres meses anteriores o posteriores a la fecha especificada.  Cuando sea necesario en virtud del párrafo 6.7.2.19.7, se efectuará una inspección y prueba excepcionales, independientemente de la fecha de la última inspección y prueba periódica.
+
+6.7.2.19.3	 Como parte de la inspección y pruebas iniciales de una cisterna portátil se debe proceder a una comprobación de las características del diseño,  a un examen interno y externo de la cisterna portátil y de sus accesorios teniendo en cuenta las sustancias que se han de transportar en ella, y a una prueba de presión. Antes de que la cisterna portátil sea puesta en servicio, también debe efectuarse una prueba de estanqueidad y una prueba del funcionamiento satisfactorio de todos los equipos de servicio.  Si el depósito y los accesorios han sido sometidos por separado a una prueba de presión, deben someterse juntos, una vez montados, a una prueba de estanqueidad.
+
+6.7.2.19.4 	La inspección y pruebas periódicas quinquenales deben comprender un examen interno y externo y también, por lo general, una prueba de presión hidráulica. Los revestimientos, termo aislamientos etc., de que esté dotada la cisterna portátil no se retirarán sino en la medida necesaria para apreciar bien el estado en que ésta se encuentra.  Si el depósito y los equipos de servicio han sido sometidos por separado a una prueba de presión, deben someterse juntos, una vez montados, a una prueba de estanqueidad.
+
+6.7.2.19.5	La inspección y pruebas periódicas intermedias (a los dos años y medio) deben comprender, por lo menos, un examen interno y externo de la cisterna portátil y  de sus accesorios, teniendo en cuenta las sustancias que se han de transportar, una prueba de estanqueidad y una prueba de  funcionamiento satisfactorio de todos los equipos de servicio.  Los revestimientos termo aislamientos, etc., de que esté provista la cisterna portátil no se retirarán sino en la medida necesaria para apreciar bien el estado en que ésta se encuentra.  En el caso de cisternas portátiles destinadas al transporte de una sola sustancia, las autoridades competentes o la entidad por ellas autorizada pueden renunciar al examen interno a los dos años y medio o sustituirlos por otros métodos de prueba o procedimientos de inspección.
+
+6.7.2.19.6	No se puede llenar ni presentar para el transporte, una cisterna portátil después de la fecha de expiración de la última inspección y prueba periódica quinquenal o a los dos años y medio previstas en el párrafo 6.7.2.19.2.  Sin embargo, una cisterna portátil que se haya llenado antes de la fecha de expiración de la última inspección y prueba periódica puede ser transportada durante un período que no exceda de tres meses de dicha fecha. Además, las cisternas portátiles pueden transportarse después de la fecha de expiración de la última prueba e inspección periódica:
+
+    a) vacías y sin limpiar, con objeto de someterlas a la siguiente prueba o inspección requerida antes de volver a llenarlas; y 
+    b) salvo disposición en contrario de las autoridades competentes, durante un período máximo de seis meses después de la fecha de expiración de la última prueba o inspección periódica, con objeto de posibilitar el regreso de mercancías peligrosas para su eliminación o reciclado. En el documento de transporte debe constar esta exención. 
+
+6.7.2.19.7	La inspección y pruebas excepcionales son necesarias cuando hay indicios de que la cisterna portátil tiene zonas dañadas o corroídas, o tiene escapes u otros indicios de diferencias que puedan afectar a su integridad.  El nivel de la inspección y pruebas excepcionales dependerá de la importancia de los daños o deterioros sufridos por la cisterna portátil.  Deben incluir por lo menos las inspecciones y pruebas efectuadas a los dos años y medio con arreglo al párrafo 6.7.2.19.5.
+
+6.7.2.19.8	En los exámenes interno y externo se debe comprobar que:
+
+    a) se inspecciona el depósito para comprobar si tiene picaduras, corrosiones, abrasiones, abolladuras, deformaciones, defectos de soldadura o cualquier otra anomalía, incluidos los escapes, que puedan hacer al depósito inseguro para el transporte;
+    b) se inspeccionan las tuberías, las válvulas, el sistema de calefacción / refrigeración y las juntas para comprobar si existen zonas de corrosión, defectos y otras anomalías, incluido los escapes que puedan hacer que la cisterna portátil no sea segura durante el llenado, el vaciado o el transporte;
+    c) los dispositivos de cierre de las tapas de los agujeros de hombre funcionan correctamente y no hay escapes en las tapas o las juntas;
+    d) se reponen los pernos o tuercas que falten o se aprietan los pernos o tuercas sueltos en la junturas con brida o en las bridas ciegas;
+    e) todos los dispositivos y válvulas de emergencia están exentos de corrosión, deformación o cualquier daño o defecto que pueda impedir su funcionamiento normal. Deben hacerse funcionar los dispositivos de cierre a distancia y las válvulas de cierre automático para comprobar que funcionan correctamente;
+    f) los revestimientos que haya, se inspeccionan conforme  a los criterios indicados por su fabricante;
+    g) las marcas prescritas sobre la cisterna portátil son legibles y cumplen las disposiciones aplicables; y 
+    h) el bastidor, los soportes y los elementos de elevación de la cisterna portátil se encuentran  en buen estado.
+
+6.7.2.19.9.	Un técnico aprobado por las autoridades competentes o la entidad por ellas autorizada debe realizar o presenciar las inspecciones y pruebas indicadas en los párrafos 6.7.2.19.1, 6.7.2.19.3, 6.7.2.19.4, 6.7.2.19.5 y 6.7.2.19.7.  Si la prueba de presión forma parte de la inspección y las pruebas, la presión de prueba debe ser la que se indique en la placa de inspección de la cisterna portátil.  La cisterna debe ser inspeccionada a presión para determinar si existen escapes en el depósito, las tuberías o los equipos de servicio.                 
+			
+6.7.2.19.10	Todos los trabajos de corte, quemado o soldadura que se realicen en el depósito deben ser aprobados por las autoridades competentes o la entidad por ellas autorizada teniendo en cuenta el código para recipientes a presión utilizado en la construcción del depósito.  Una vez terminados los trabajos, se debe efectuar una prueba de presión a la presión de prueba inicial.
+
+6.7.2.19.11	Si se comprueba que la cisterna portátil tiene un defecto que la hace insegura, la cisterna no debe ponerse de nuevo en servicio mientras no haya sido reparada y haya superado una nueva prueba.
+
+6.7.2.20	Marcado
+
+6.7.2.20.1	Toda cisterna portátil debe tener una placa de metal resistente a la corrosión, fijada de modo permanente en un lugar bien visible y de fácil acceso para la inspección.  Si por la configuración de la cisterna portátil la placa no puede fijarse de modo permanente sobre el depósito se deberá indicar sobre éste al menos la información prescrita por el código para recipientes a presión.  En la placa se grabará, por estampado o por otro método similar, como mínimo la siguiente información: 
+País de fabricación
+
+U		País de		Número de			Otras disposiciones
+N		aprobación		aprobación			             “AA”
+
+Nombre o marca del fabricante
+
+Número de serie del fabricante
+
+Entidad autorizada para la aprobación del diseño
+
+Número de matrícula del propietario
+
+Año de fabricación
+
+Código para recipientes a presión al que se ajusta el diseño del depósito
+
+Presión de prueba____bar/kPa */ (presión manométrica)
+
+Presión de servicio máxima autorizada_____bar/kPa */ (presión manométrica)
+
+Presión de diseño externa **/_____bar/kPa */ (presión manométrica)
+
+Gama de temperaturas de cálculo_____°C a____°C
+
+Capacidad de agua a 20°C______litros
+
+Capacidad de agua para cada compartimiento a 20°C____litros
+
+Fecha de la prueba de presión inicial e identidad del testigo
+
+Presión   de  servicio  máxima   autorizada  para   el   sistema  de   calefacción/refrigeración ___bar/kPa */ efectivos
+
+Material(es) del depósito y referencia (s) estándar
+
+Espesor equivalente en acero de referencia_____mm
+
+Material de revestimiento (si lo hubiere)
+
+Fecha y tipo de la(s) prueba(s) periódica(s) más reciente(s)
+
+Mes____Año____Prueba de presión____bar/kPa */ efectivos
+
+Sello del técnico que realizó o presenció la prueba más reciente
+
+6.7.2.20.2	En la cisterna portátil misma o en una placa de metal sólidamente fijada a la cisterna se deben marcar, además, los siguientes datos:
+
+Nombre de la empresa explotadora
+
+Nombre de la(s) sustancia(s) transportada(s) y temperatura media máxima de la carga, si es superior a 50° C
+
+Masa bruta máxima autorizada _____kg
+
+Tara_____kg
+
+Nota: Para la identificación de las sustancias transportadas véase también la parte 5.
+
+6.7.2.20.3	Si una cisterna portátil esta diseñada y aprobada para su manipulación en mares abiertos, en la placa de identificación aparece las siguientes palabras: “CISTERNA PORTÁTIL PARA TRANSPORTE MARÍTIMO”
+
+            6.7.3 Disposiciones relativas al diseño, la construcción, la inspección y la prueba de cisternas portátiles destinadas al transporte de gases licuados no refrigerados
+
+                6.7.3.1 Definiciones
+
+Para los efectos de la presente sección:
+
+Por cisterna portátil se entiende una cisterna multimodal con capacidad superior a 450 litros utilizada para el transporte de gases licuados no refrigerados de la Clase 2.  La cisterna portátil comprende un depósito provisto de los equipos de servicio y los elementos estructurales que sean necesarios para el transporte de gases. La cisterna portátil debe poder ser llenada y vaciada sin necesidad de desmontar sus elementos estructurales. Debe tener elementos estabilizadores exteriores al depósito y poder ser elevada cuando esté llena.  Está diseñada principalmente para ser cargada en un vehículo de transporte o en un buque y está equipada con patines, soportes o accesorios que faciliten su manipulación mecánica. Los vehículos cisterna de carretera, los vagones cisterna ferroviarios, las cisternas no metálicas, los recipientes intermedios para graneles (RIG), los cilindros de gas a presión y los recipientes EGTs no se consideran cisternas portátiles.
+
+Por depósito se entiende la parte de la cisterna portátil que contiene el gas licuado no refrigerado transportado, es decir, la cisterna propiamente dicha, con inclusión de las aberturas y sus cierres, pero con exclusión de los equipos de servicio o los elementos estructurales.
+
+Por equipos de servicio se entienden los instrumentos de medida y los dispositivos de llenado, vaciado, aireación, seguridad y aislamiento térmico.
+
+Por elementos estructurales se entienden los elementos de refuerzo, sujeción, protección o estabilización exteriores al depósito.
+
+Por presión máxima de trabajo admisible se entiende una presión no inferior a la mayor de las dos presiones siguientes, medidas en la parte superior del depósito cuando éste se encuentra en su posición normal, pero nunca inferior a 7 bar:
+
+    a) la presión manométrica efectiva máxima autorizada en el depósito durante el llenado o el vaciado; o
+    b) la presión manométrica efectiva máxima para la que esté diseñado el depósito, que debe ser:
+
+    i) en el caso de los gases licuados no refrigerados que figuran en la instrucción T50 sobre cisternas portátiles del párrafo 4.2.5.2.6, la presión de servicio máxima autorizada (en bar) que se especifiquen en la instrucción T50 para el gas de que se trate;
+ii) 	en el caso de otros gases licuados no refrigerados,  igual o mayor  que  la suma de:
+
+        ◦ la presión de vapor absoluta (en bar) del gas licuado no refrigerado a la temperatura de referencia para el cálculo menos 1 bar; y
+        ◦ la presión parcial (en bar) del aire o de otros gases que haya en el espacio vacío, determinada por la temperatura de referencia para el cálculo y la dilatación de la fase líquida debida al aumento de la temperatura media de la carga de tr – tf (tf = temperatura de llenado, generalmente 15° C; tt = 50°C, temperatura media máxima de la carga).
+
+Por presión de diseño se entiende la presión que se utilice en los cálculos con arreglo a un código convenido relativo a los recipientes a presión.  La presión de cálculo no debe ser inferior a la mayor de las presiones siguientes:
+
+    a) la presión manométrica efectiva máxima autorizada en el depósito durante el llenado o el vaciado; o
+    b) la suma de:
+
+
+
+        i) la presión manométrica efectiva máxima para la que esté diseñado el depósito, según se especifica en el apartado b) de la definición de presión de servicio máxima autorizada dada anteriormente; y
+        ii) una presión determinada sobre la base de las fuerzas dinámicas especificadas en el párrafo 6.7.2.3.2.9, que no debe ser nunca inferior a 0,35 bar.
+
+Por presión de prueba se entiende la presión manométrica máxima en la parte superior del depósito, medida durante la prueba de presión.
+
+Por prueba de estanqueidad se entiende una prueba en la que se utiliza gas para someter el depósito y sus equipos de servicio a una presión interna efectiva no inferior al 25% de la presión de servicio máxima autorizada.
+
+Por masa bruta máxima permisible se entiende la suma de la tara de la cisterna portátil y la carga máxima cuyo transporte esté autorizado.
+
+Por acero de referencia se entiende un acero que tiene una resistencia a la tracción de 370 N/mm2 y un alargamiento de rotura del 27 %.
+
+Por  acero dulce se entiende un acero que tiene una resistencia a la tracción mínima garantizada de 360 N/mm2 a 440 N/mm2 y un alargamiento mínimo garantizado de rotura conforme a lo establecido en el párrafo 6.7.3.3.3.3.
+
+La gama de temperaturas de diseño para el depósito es de – 40 °C a 50 °C en el caso de los gases licuados no refrigerados transportados en las condiciones ambiente.  Deben preverse temperaturas de cálculo más rigurosas para las cisternas portátiles sometidas a condiciones climáticas adversas.
+
+Por temperatura de referencia para el diseño se entiende la temperatura a la que se determina la presión de vapor del contenido de la cisterna para calcular la presión de servicio máxima autorizada.  La temperatura de referencia para el diseño debe ser inferior a la temperatura crítica del gas licuado no refrigerado que se vaya a transportar, a fin de garantizar que dicho gas se encuentre licuado en todo momento.  Los valores correspondientes a cada tipo de cisterna portátil son:
+
+    a) depósitos con diámetro no superior a 1,5 metros: 65 °C; 
+    b) depósitos con diámetro  superior a 1,5 metros:
+
+        i) sin aislamiento ni cubierta contra el sol: 60 °C
+        ii) con cubierta contra el sol (véase el párrafo 6.7.3.2.12): 55°C; y
+        iii) con aislamiento (véase el párrafo 6.7.3.2.12): 50°C.
+
+Por densidad de llenado se entiende la masa media de gas licuado no refrigerado por litro de capacidad del depósito (kg/litro).  La densidad de llenado se indica en la instrucción T50 sobre cisternas portátiles del la tabla 4.2.4.2.6.
+ 
+                6.7.3.2 Disposiciones generales relativas al diseño y la construcción
+
+6.7.3.2.1	Los depósitos deben diseñarse y construirse de conformidad con las disposiciones de un código sobre recipientes a presión aceptado por la autoridad competente.  Deben ser de acero capaz de recibir la forma  deseada.  En principio, los materiales deben ajustarse a las normas nacionales o internacionales sobre materiales.  Para los depósitos soldados sólo debe utilizarse un material cuya soldabilidad esté plenamente demostrada.  Las soldaduras deben estar bien hechas y ofrecer total seguridad.  Cuando el proceso de fabricación o el material lo exija, el depósito debe ser sometido a un tratamiento térmico adecuado que garantice la resistencia necesaria de las soldaduras y de las zonas afectadas por el calor.  Al elegir el material debe tenerse en cuenta la gama de temperaturas de diseño con respeto al riesgo de fractura frágil bajo tensión, la aparición de fisuras por corrosión y la resistencia a los choques.  Cuando se utilice acero de grano fino, el valor garantizado del límite de fluencia no superará los 460 N/mm2 y el valor garantizado del límite superior de la resistencia a la tracción no será superior a 725 N/mm2 según la especificación del material. Los materiales de las cisternas portátiles deben estar adaptados al medio ambiente exterior en el que vayan a ser transportadas.
+
+6.7.3.2. 2	Los depósitos de las cisternas portátiles, sus accesorios y sus tuberías deben estar fabricados con materiales que:
+
+    a) sean prácticamente inalterables por los gases licuados no refrigerados transportados; o
+    b) sean eficazmente pasivados o neutralizados por la reacción química.
+
+                    6.7.3.2.3 Las juntas deben estar hechas de un material compatible con los gases licuados no refrigerados transportados.
+
+                    6.7.3.2.4 Debe evitarse el contacto entre metales diferentes que puedan causar daños por corrosión galvánica.
+
+                    6.7.3.2.5 Los materiales de que esté hecha la cisterna portátil, incluidos los de cualesquiera dispositivo, juntas y accesorios, no deben afectar negativamente a los gases licuados refrigerados que han de transportarse.
+
+                    6.7.3.2.6 Las cisternas portátiles deben ser diseñadas y construidas con soportes que les sirvan de base estable durante el transporte y con piezas de sujeción adecuadas para levantarlas y anclarlas.
+
+                    6.7.3.2.7 Las cisternas portátiles deben ser diseñadas de forma que resistan, sin pérdida de su contenido, al menos la presión interna ejercida por éste, y las cargas estáticas, dinámicas y térmicas en las condiciones normales de manipulación y transporte. El diseño debe mostrar claramente que se han tenido en cuenta los efectos de la fatiga, resultantes de la aplicación reiterada de esas cargas durante la vida prevista de la cisterna portátil.
+
+
+                    6.7.3.2.8 Los depósitos deben ser proyectados de forma que resistan, sin deformación permanente, una presión externa efectiva de al menos 0,4 bar por encima de la presión interna. Los depósitos que vayan a ser sometidos a un vacío considerable antes del llenado o durante el vaciado deben proyectarse de forma que resistan una presión externa de al menos 0,9 bar y deben ser probados a esa presión.
+
+6.7.3.2.9	Las cisternas portátiles y sus elementos de sujeción deben poder soportar, cuando lleven la carga máxima autorizada, las siguientes fuerzas estáticas aplicadas separadamente:
+
+    a) en la dirección del transporte, el doble de la masa bruta máxima autorizada multiplicado por la aceleración de la gravedad (g) */;
+    b) horizontalmente en ángulo recto a la dirección del transporte: la masa bruta máxima autorizada (cuando la dirección del transporte no esté claramente determinada, las fuerzas deben ser iguales al doble de la masa bruta máxima autorizada) multiplicada por la aceleración de la gravedad (g) */;
+    c) verticalmente hacia arriba, la masa bruta máxima autorizada multiplicada por la aceleración de la gravedad (g) */; y
+    d) verticalmente hacia abajo, el doble de la masa bruta máxima autorizada (carga total incluido el efecto de la gravedad) multiplicado por la aceleración de la gravedad (g) */.
+
+6.7.3.2.10	Para cada una de las fuerzas mencionadas en el párrafo 6.7.3.2.9, los coeficientes de seguridad que habrán de aplicarse deben ser los siguientes:
+
+    a) en el caso de los aceros que tengan un límite de elasticidad claramente definido, un coeficiente de seguridad de 1,5 en relación con el límite de fluencia garantizado; o
+    b) en el caso de los aceros que no tengan un límite de elasticidad claramente definido, un coeficiente de seguridad de 1,5 en relación con el límite elástico convencional de 0,2 % y , en el caso de los aceros austeníticos, de 1 %.
+
+6.7.3.2.11	El valor del límite de fluencia o del límite elástico debe ser el establecido en las normas nacionales o internacionales sobre materiales.  Cuando se utilicen aceros austeníticos, los valores mínimos especificados para esas propiedades en función de las normas sobre materiales podrán aumentarse hasta en un 15 % cuando esos valores superiores consten en el certificado de inspección de materiales.  Cuando no exista ninguna norma para el material en cuestión, los valores utilizados deben ser aprobados por la autoridad, competente. 
+
+6.7.3.2.12	Si el depósito destinado al transporte de gases licuados no refrigerados tiene un sistema   de aislamiento térmico, éste debe cumplir los requisitos siguientes:   
+    a) Debe consistir en una cubierta que proteja como mínimo el tercio superior y como máximo la mitad superior de la superficie del depósito y que esté separada de éste por una capa de aire de alrededor de 40mm de espesor, o bien;
+    b) Debe consistir en un revestimiento completo, de espesor suficiente, hecho de materiales aislantes protegidos de manera que el  revestimiento no pueda humedecerse ni deteriorarse en las condiciones normales de transporte y que proporcionen una conductancia térmica no superior a 0,67 W. m-2.  K –1 ; 
+    c) La cobertura protectora,  si está cerrada de forma que sea estanca a los gases, debe estar provista de un dispositivo que impida que en la capa aislante se acumule una presión peligrosa si se produce un escape en el depósito o en sus elementos o accesorios; 
+    d) El aislamiento térmico no debe impedir el acceso a los accesorios ni a los dispositivos de vaciado   
+
+6.7.3.2.13	Las cisternas portátiles destinadas al transporte de gases licuados no refrigerados inflamables deben poder conectarse eléctricamente a tierra. 
+
+                6.7.3.3 Criterios de diseño 
+
+                    6.7.3.3.1 Los depósitos deben tener una sección transversal circular. 
+
+6.7.3.3.2	Los depósitos deben ser proyectados y construidos de forma que resistan una presión de prueba de al menos 1,3 veces la presión de diseño. Al proyectar el depósito deben tenerse en cuenta los valores mínimos de la presión de servicio máxima autorizada que se dan en la instrucción T50 sobre cisternas portátiles, de la tabla 4.2.4.2.6, para el transporte de los diversos gases licuados no refrigerados. También hay que tener en  cuenta los requisitos relativos al espesor mínimo de la chapa del depósito indicados en el párrafo 6.7.3.4.
+
+6.7.3.3.3	Para los aceros que tengan un límite de elasticidad claramente definido o se caractericen por tener un límite de fluencia normal garantizado (generalmente un límite elástico convencional de 0,2 %; 1 % en el caso de los aceros austeníticos) el esfuerzo primario de la membrana σ (sigma) en el depósito, a la presión de prueba, no deberá exceder del menor de los valores siguientes: 0,75 Re o 0,50 Rm siendo:
+
+Re        =	límite de elasticidad aparente en N/mm2, o límite elástico convencional de 0,2% y en el caso de los aceros austeníticos, de 1%;
+		Rm      =	resistencia mínima a la tracción en N/mm2.
+
+6.7.3.3.3.1	Los valores de Re y Rm que han de utilizarse deben ser los mínimos especificados en las normas nacionales o internacionales para materiales. Cuando se utilicen aceros austeníticos, los valores mínimos de Re y Rm especificados según las normas para materiales pueden aumentarse hasta en un 15 % cuando estos valores más altos consten en el certificado de inspección de materiales. Cuando no exista ninguna norma para el acero en cuestión, los valores de Re y Rm que se utilicen deben ser aprobados por la autoridad competente o la entidad por ella autorizada.
+
+6.7.3.3.3.2	No se permitirá la construcción de depósitos soldados con acero que tenga una relación Re/Rm de más de 0,85. Los valores de Re y Rm que han de utilizarse para determinar esa relación son los especificados en el certificado de inspección de materiales.
+
+6.7.3.3.3.3	Los aceros utilizados en la construcción de depósitos deben tener un alargamiento porcentual en la rotura de por lo menos 10.000/Rm, con un mínimo absoluto del 16 % en el caso de los aceros de grano fino y del 20 %  en el de los demás aceros.
+
+6.7.3.3.3.4	Para determinar los valores reales de los materiales, se debe observar que, en el caso del metal en láminas, el eje de las muestras para pruebas de tracción debe ser perpendicular (transversal) a la dirección del  laminado. El alargamiento permanente en la rotura debe medirse en muestras de sección transversal rectangular de conformidad con la norma ISO 6892, utilizando una distancia entre señales en la probeta de 50 mm.
+
+6.7.3.4		Espesor mínimo de la chapa del depósito
+
+                    6.7.3.4.1 El espesor mínimo de la chapa del depósito deberá ser el mayor de los siguientes:
+
+    a) el espesor mínimo determinado de conformidad con las disposiciones del párrafo 6.7.3.4; o
+    b) el espesor mínimo determinado conforme al código convenido para recipientes a presión, habida cuenta de las disposiciones del párrafo 6.7.3.3.
+
+6.7.3.4.2	En los depósitos cuyo diámetro no sea superior a 1,80 m, las partes cilíndricas, las extremidades y las tapas de los agujeros de hombre deben tener al menos 5mm de espesor si son de acero de referencia o el espesor equivalente del acero metal que se utilice.  En los depósitos cuyo diámetro exceda de 1,80m, deben tener al menos 6 mm de espesor si son de acero de referencia o el espesor equivalente del acero metal que se utilice.
+
+6.7.3.4.3	Las partes cilíndricas, las extremidades y las tapas de los agujeros de hombre de todos los depósitos deben tener al menos 4 mm de espesor, sea cual fuere el material empleado en su construcción.
+
+6.7.3.4.4	En el caso de un acero distinto del acero de referencia, el espesor equivalente al prescrito para éste en el párrafo 6.7.3.4.2 se determina mediante la siguiente ecuación:
+  
+                                                                               21,4 x e0
+				 	e1  =
+					          3 Rm1 x  A1
+
+		donde:
+
+	e1	=	espesor equivalente requerido (en mm) del acero que se utilice
+	e0	=	espesor mínimo (en mm) de acero de referencia especificado en el párrafo 6.7.3.4.2;
+	Rm1	=	resistencia a la tracción mínima garantizada (en N/mm2) del acero que se utilice (véase el párrafo 6.7.3.3.3);
+	A1    	=	alargamiento porcentual mínimo garantizado en la rotura del acero que se utilice, conforme a las normas nacionales o internacionales. 
+
+6.7.3.4.5	El espesor de la chapa no debe, en ningún caso, ser inferior al indicado en los párrafos  6.7.3.4.1 a  6.7.3.4.3.  Todas las partes del depósito deben tener el espesor mínimo determinado en los párrafos  6.7.3.4.1 a 6.7.3.4.3.  En este espesor no se incluye una tolerancia por corrosión. 
+
+6.7.3.4.6	Cuando se utilice acero dulce (véase la parte 6.7.3.1), no es preciso  utilizar la ecuación del párrafo 6.7.3.4.4.
+
+6.7.3.4.7	El espesor de la chapa no debe cambiar bruscamente en la unión de las extremidades con   la parte  cilíndrica del depósito. 
+
+6.7.3.5	Equipos de servicio   
+
+6.7.3.5.1	Los equipos de servicio deben estar dispuestos de forma que no corran el riesgo de ser arrancados o dañados durante el transporte y la manipulación.  Si la unión entre el  bastidor y el depósito permite un movimiento relativo de esos subconjuntos, los equipos de servicio deben estar sujetos de forma que ese movimiento no produzca ningún daño a los órganos activos.  Los accesorios exteriores de vaciado (encastres de los tubos, dispositivos de cierre), la válvula interna de cierre y su asiento deben estar protegidos contra el riesgo de ser arrancados por fuerzas exteriores (por ejemplo mediante el uso de dispositivos de cizallamiento).  Los dispositivos de llenado y vaciado (incluidos las bridas y los tapones roscados) y las tapas protectoras, si las hubiere, deben poder fijarse para evitar su apertura fortuita.
+
+6.7.3.5.2	Todas las aberturas de los depósitos de cisternas portátiles que tengan un diámetro superior a 1,5 mm, excepto las destinadas a recibir dispositivos de reducción de la presión, aberturas de inspección u orificios de purga cerrados, deben estar provistos de un mínimo de tres dispositivos de cierre independientes entre sí colocados en serie, de los cuales el primero será una válvula interna de cierre, una válvula limitadora del flujo o un   dispositivo equivalente, el segundo una válvula externa de cierre y el tercero una brida ciega o un dispositivo equivalente. 
+
+6.7.3.5.2.1	Cuando una cisterna portátil esté provista de válvulas limitadoras del flujo, éstas deben montarse de manera que su asiento esté situado dentro del depósito o dentro de una brida soldada; si están montadas en el exterior, sus sistemas de montaje deben estar diseñados de manera que en caso de choque conserven su eficacia.  Las válvulas limitadoras del flujo se deben seleccionar y montar de manera que se cierren automáticamente cuando se alcance el régimen de descarga especificado por el fabricante. Las conexiones y los accesorios situados en la entrada o en la salida de tales válvulas deben tener capacidad para un flujo mayor que el de la válvula limitadora. 
+
+6.7.3.5.3	En el caso de las aberturas de llenado y de vaciado, el primer dispositivo de cierre debe ser una válvula interna de cierre y el segundo una válvula de cierre colocada en una posición accesible en cada tubería de llenado o de vaciado. 
+
+6.7.3.5.4	En el caso de las aberturas  de llenado y de vaciado, situadas en el fondo del deposito, de las cisternas portátiles destinadas al transporte de gases licuados no refrigerados inflamables y/o tóxico, la válvula interna de cierre  debe ser un dispositivo de seguridad de cierre instantáneo que se cierre automáticamente si la cisterna portátil experimenta un movimiento anormal durante el llenado o el vaciado o está envuelta en llamas. Este dispositivo también debe poder accionarse mediante un mando a distancia, salvo en el caso de las cisternas portátiles cuya capacidad no exceda de los 1.000 litros.
+
+6.7.3.5.5	Además de las aberturas de llenado, de vaciado y de igualación de la presión de los gases, los depósitos pueden estar provistos de aberturas en las que se puedan  montar indicadores, termómetros y manómetros. Las conexiones de esos instrumentos deben hacerse mediante boquillas o cámaras soldadas adecuadamente y no roscadas a través del cuerpo. 
+
+6.7.3.5.6	Toda cisterna portátil debe ir provista de un agujero de hombre o boca de inspección de tamaño adecuado para permitir la inspección  interior y un acceso adecuado para los trabajos de mantenimiento y reparación del interior. 
+
+                    6.7.3.5.7 Los accesorios exteriores deben estar agrupados en la mayor medida posible. 
+
+6.7.3.5.8	Todas las conexiones de las cisternas portátiles deben llevar inscripciones que indiquen claramente su función.
+
+6.7.3.5.9	Las válvulas de cierre y demás medios de cierre deben ser diseñados y construidos para que resistan una presión nominal que no debe ser inferior a la presión de servicio máxima autorizada del depósito, teniendo en cuenta las temperaturas previstas durante el transporte.  Las válvulas de sierre con vástago roscado deben cerrarse por rotación en el sentido de las agujas de reloj.  Para las demás válvulas de cierre debe indicarse claramente la posición  (abierta y cerrada) y la dirección de cierre. Todas las válvulas de cierre deben diseñarse de manera que no pueda producirse una apertura fortuita.
+
+6.7.3.5.10 	Las tuberías se deben diseñar, construir e instalar de manera que no corran el riesgo de ser dañadas por la dilatación y la contracción térmicas, los choques y las vibraciones.  Todas las tuberías deben ser de metal apropiado. Siempre que sea posible, las uniones de las tuberías, deben estar soldadas.
+ 
+6.7.3.5.11	Las juntas de las tuberías de cobre deben hacerse con soldadura fuerte o tener una unión metálica de igual resistencia.  El punto de fusión de los materiales utilizados para la soldadura fuerte no debe ser inferior a 525 °C.  Las juntas no deben reducir la resistencia de las tuberías, como puede ocurrir con las uniones roscadas.
+
+6.7.3.5.12	La presión de ruptura de todas las tuberías y de todos sus accesorios no debe ser inferior al mayor de los dos valores siguientes: el cuádruple de la presión de servicio máxima autorizada del depósito o el cuádruple de la presión a la que pueda estar sometido el depósito en servicio por la acción de una bomba u otro dispositivo  (excepto los de reducción de la presión).
+
+6.7.3.5.13	 Se deben utilizar metales dúctiles para la fabricación de las válvulas y los accesorios. 
+
+                6.7.3.6 Aberturas del fondo 	
+
+6.7.3.6.1	Ciertos gases licuados no refrigerados no deben ser transportados en cisternas portátiles con aberturas en el fondo cuando en la instrucción T50 sobre cisternas portátiles de la tabla 4.2.4.2.6 se prohíban dichas aberturas. No debe haber aberturas por debajo del nivel del líquido en el depósito llenado hasta el límite máximo autorizado 
+
+                6.7.3.7 Dispositivos de reducción de la presión  	
+
+6.7.3.7.1	Las cisternas portátiles deben estar provistas de uno o varios dispositivos de reducción de la presión del tipo de muelle, que deben abrirse automáticamente a una presión no inferior a la presión de servicio máxima autorizada y estar completamente abiertos a una presión igual al 110 % de la presión de servicio máxima autorizada. Después de la descarga, los dispositivos deben cerrarse, a una presión no inferior al 90% de aquella a la cual se inicio la descarga y permanecer cerrados a cualquier presión más baja. Los dispositivos de reducción de la presión deben ser de un tipo que resista los esfuerzos dinámicos,  incluidos los debidos al movimiento del líquido.  No están permitidos los discos frangibles que no estén montados en serie con un dispositivo de reducción de la presión del tipo de muelle.
+
+6.7.3.7.2	Los dispositivos de reducción de la presión deben estar diseñados de manera que impidan la entrada de objetos extraños, los escapes de gas y todo aumento peligroso de la presión 
+
+6.7.3.7.3	Las cisternas portátiles destinadas al transporte de ciertos gases licuados no refrigerados que se indiquen en la instrucción T50 sobre cisternas portátiles de la tabla 4.2.4.2.6  deben tener un dispositivo de reducción de la presión aprobado por las autoridades competentes. Excepto en el caso de las cisternas portátiles destinadas especialmente al transporte de una sustancia y provista de una válvula de reducción aprobada que esté construida con materiales compatibles con la carga, tal dispositivo debe consistir en una válvula de muelle precedida de un disco frangible. En el espacio comprendido entre el disco frangible y la válvula se debe montar un manómetro u otro indicador adecuado.  Este sistema permite detectar la rotura, la perforación o la falta de estanqueidad del disco, que pueden perturbar el funcionamiento del dispositivo de reducción de la presión. El disco frangible debe romperse a una presión nominal superior en un 10 % a la presión a la que empieza a abrirse el dispositivo de reducción de la presión. 
+
+6.7.3.7.4	En el caso de las cisternas portátiles de usos múltiples, los dispositivos de reducción de la presión se deben abrir a la presión indicada en el párrafo 6.7.3.7.1 para el gas que tenga la presión permisible máxima más elevada de todos los gases que pueden transportarse en la cisterna portátil.
+
+                6.7.3.8 Capacidad de los dispositivos de reducción de la presión
+
+6.7.3.8.1.	La capacidad total de salida de los dispositivos de reducción de la presión en condiciones en que la cisterna está completamente envuelta en llamas debe ser suficiente para que la presión (incluida la presión acumulada) en el depósito no sea superior al 120 % de la presión de servicio máxima autorizada. Para alcanzar la capacidad total de salida prescrita, se deben utilizar dispositivos de reducción de la presión del tipo de muelle. En el caso de las cisternas de usos múltiples, para la capacidad total de salida se tomará el valor correspondiente al gas que requiera la capacidad de salida más alta de todos los gases que puedan transportarse en la cisterna portátil en cuestión.
+
+6.7.3.8.1.1	Para determinar la capacidad total requerida de los dispositivos de reducción de la  presión, que se debe considerar igual a la suma de las capacidades de cada uno de ellos, se debe utilizar la siguiente fórmula */:
+
+	
+                                                                   FA 0,82                        ZT             
+			Q =  12,4    	                										LC	             M                                    					
+
+	dónde:
+
+
+	Q	=	tasa mínima requerida de salida en metros cúbicos por segundo (m3/s) de aire en condiciones normales: 1 bar y 0°C (273 K); 
+
+
+	F	=	coeficiente cuyo valor es el siguiente:
+			En los depósitos sin aislamiento    F = 1;
+			En los depósitos con aislamiento F = U(649 – t)/13,6, pero en
+			Ningún caso inferior a 0,25 siendo:
+			U = conductancia térmica de aislamiento en kW . m-2 . K-1, a 38°C, 
+			 t = temperatura real del gas licuado no refrigerado durante el llenado (en  °C); cuando se desconoce esta temperatura, t = 
+			15 °C;
+			Puede tomarse el valor de F dado anteriormente para los depósitos con aislamiento a condición de que éste se ajuste a las disposiciones del párrafo 6.7.3.8.1.2;
+	A	=	superficie externa total del depósito en metros cuadrados;
+	Z	=	factor de compresibilidad del gas en la condición de acumulación (cuando no se conoce este factor, debe utilizarse Z = 1,0);
+	T	=	temperatura absoluta en grados Kelvin (°C + 273) por encima de los dispositivos de reducción de la presión en la condición de acumulación;
+	L	=	calor latente de vaporización del líquido, en kJ/kg, en la condición de acumulación;
+	M	=	masa molecular del gas que se descarga;
+	C	=	constante que puede tomarse del cuadro siguiente, derivado de la siguiente ecuación en función de cociente k de los calores específicos;
+	
+				k = CP / CV
+		donde:
+			CP = calor especifico a presión constante; y
+			CV = calor especifico a volumen constante.
+		
+		cuando k > 1 :
+
+
+                                                                                                                          k+1
+                                                                                                    2                   k -1
+		C    =            k           
+                                                               k + 1
+
+
+		cuando k = 1 o es desconocido:
+
+	                                                           1
+					C   =          =  0,607
+                                                                                     e
+
+	dónde e es la constante matemática 2,7183.
+
+C puede también tomarse de la siguiente tabla:
+
+
+        k                 C
+
+         k               C
+
+         k              C
+
+     1,00             0,607
+     1,02             0,611
+     1,04             0,615
+     1,06             0,620
+     1,08             0,624
+     1,10             0,628
+     1,12             0,633
+     1,14             0,637
+     1,16             0,641
+     1,18             0,645
+     1,20             0,649
+     1,22             0,652
+     1,24             0,656
+    
+    1,26             0,660
+    1,28             0,664
+    1,30             0,667
+    1,32             0,671
+    1,34             0,674
+    1,36             0,678
+    1,38             0,681
+    1,40             0,685
+    1,42             0,688
+    1,44             0,691
+    1,46             0,695
+    1,48             0,698
+    1,50             0,701
+
+     1,52          0,704
+     1,54          0,707
+     1,56          0,710
+     1,58          0,713
+     1,60          0,716
+     1,62          0,719
+     1,64          0,722
+     1,66          0,725
+     1,68          0,728
+     1,70          0,731
+     2,00          0,770
+     2,20          0,793
+
+
+6.7.3.8.1.2	Los sistemas de aislamiento, utilizados para reducir la capacidad de salida, deben ser aprobados por la autoridad competente o la entidad por ella autorizada.  En todos los casos, los sistemas de aislamientos aprobados con tal fin deben reunir las siguientes condiciones:
+
+    a) mantener su eficacia a todas las temperaturas hasta 649 °C; y
+    b) estar envueltos en material cuyo punto de fusión sea igual o superior a 700 °C
+
+                6.7.3.9 Marcado de los dispositivos de reducción de la presión
+ 
+6.7.3.9.1	Todo dispositivo de reducción de la presión debe tener marcados, con caracteres, claramente legibles e indelebles, los siguientes datos:
+
+    a) la presión (en bar o kPa) a la que esté previsto para descargar;
+    b) la tolerancia autorizada a la presión de descarga para los dispositivos de muelle;
+    c) la temperatura de referencia correspondiente a la presión de régimen para los discos frangibles;  y
+    d) la capacidad nominal de conducción del dispositivo en metros cúbicos de aire por segundo (m3/s) en condiciones normales. 
+
+Cuando sea posible, también debe figurar la siguiente información:
+    e) el nombre del fabricante y el número de catálogo correspondiente.
+
+6.7.3.9.2	La capacidad nominal de conducción indicada en los dispositivos de reducción de la presión se determina según la norma ISO 4126–1.
+
+                6.7.3.10 Tubos de conexión con los dispositivos de reducción de la presión
+
+6.7.3.10.1	Los tubos de conexión con los dispositivos de reducción de la presión deben ser de tamaño suficiente para que el volumen de gas requerido pueda llegar sin dificultad al dispositivo de seguridad. No se debe instalar ninguna válvula de cierre entre el depósito y los dispositivos de reducción de la presión a no ser que haya instalados dispositivos duplicados para el mantenimiento o por otras razones y que las válvulas de cierre conectadas a los dispositivos efectivamente en funcionamiento estén inmovilizadas en posición abierta o acopladas entre sí de forma que por lo menos uno de esos dispositivos duplicados esté siempre en estado de funcionar y cumpla los requisitos enunciados en la sección 6.7.3.8.  Ninguna abertura que conduzca a un orificio de escape o dispositivo de reducción de la presión debe estar obstruida de manera que se obstaculice o se cierre el paso del depósito al  dispositivo.  Cuando los dispositivos de reducción de la presión tengan orificios de escape, éstos deben dar salida a la atmósfera al vapor o al líquido de forma que sea mínima la contrapresión ejercida sobre los dispositivos de seguridad.
+
+                6.7.3.11 Emplazamiento de los dispositivos de reducción de la presión
+
+6.7.3.11.1	Cada orificio de admisión de los dispositivos de reducción de la presión debe estar situado en la parte superior del depósito, lo más cerca posible del centro longitudinal y transversal del mismo. Todos los orificios de admisión de los dispositivos de reducción de la presión, en las condiciones de tasa máxima de llenado, deben estar situados en el espacio de vapor del depósito y los dispositivos deben estar dispuestos de forma que el vapor salga libremente.  En el caso de gases licuados no refrigerados inflamables, la salida de vapor debe estar dirigida de manera que éste no pueda tropezar con el depósito.  Se permite el uso de dispositivos de protección para desviar el chorro de vapor, a condición de que no disminuya la capacidad requerida del dispositivo de reducción de la presión.
+
+6.7.3.11.2	Se deben tomar medidas para impedir que las personas no autorizadas tengan acceso a los dispositivos de reducción de la presión y para evitar que éstos sufran daños en caso de vuelco de la cisterna portátil.
+
+                6.7.3.12 Dispositivos indicadores
+
+6.7.3.12.1	Las cisternas portátiles, salvo las que se llenen por peso, deben ir provistas de uno o varios dispositivos indicadores. No se deben utilizar indicadores de nivel hechos de cristal ni indicadores hechos de otros materiales frágiles que estén en comunicación directa con el contenido del deposito.
+
+                6.7.3.13 Soportes, bastidores y elementos de elevación y sujeción de las cisternas portátiles
+
+6.7.3.13.1	Las cisternas portátiles deben ser diseñadas y fabricadas con un soporte que asegure su estabilidad durante el transporte.  En relación con este aspecto del diseño, se deben tener en cuenta las fuerzas que se indican en el párrafo 6.7.3.2.9 y el factor de seguridad indicado en el párrafo 6.7.3.2.10. Se consideran aceptables los patines, los bastidores, las cunas y otras estructuras similares.
+
+6.7.3.13.2	La acción combinada de los soportes (cunas, bastidores, etc.) y de los elementos de elevación y de sujeción de las cisternas portátiles no debe someter a un esfuerzo excesivo ningún punto del deposito. Todas las cisternas portátiles deben estar provistas de elementos permanentes de elevación y de sujeción. Es preferible que éstos estén montados en los soportes de la cisterna portátil, pero pueden estar montados sobre placas de refuerzo fijadas en el depósito en los puntos de apoyo.
+
+6.7.3.13.3	En el diseño de soportes y bastidores se deben tener en cuenta los efectos de corrosión debidos al medio ambiente.
+
+6.7.3.13.4	Se deben poder obturar los huecos de entrada de las horquillas elevadoras.  Los medios de obturación deben ser un elemento permanente del bastidor o estar permanentemente fijados a éste.  No es necesario que las cisternas portátiles de comportamiento único con una longitud inferior a 3,65 m estén provistas de huecos obturados, a condición de que:
+
+    a) el depósito y todos sus accesorios estén bien protegidos de los choques de las horquillas elevadoras; y
+    b) la distancia entre los centros de los huecos para las horquillas elevadoras sea por lo menos igual a la mitad de la longitud máxima de la cisterna portátil.
+
+6.7.3.13.5	Cuando las cisternas portátiles no estén protegidas durante el transporte, conforme a lo estipulado en el párrafo 4.2.2.3, los depósitos y los equipos de servicio deben estar protegidos contra los daños resultantes de choques laterales y longitudinales y de vuelcos.  Los accesorios externos deben estar protegidos de modo que se impida el escape del contenido del depósito en caso de choque o de vuelco de la cisterna portátil sobre sus accesorios.  Constituyen ejemplos de protección:
+
+    a) la protección contra los choques laterales, que puede consistir en barras longitudinales que protejan el depósito por ambos lados a la altura de la línea media;
+    b) la protección de la cisterna portátil contra los vuelcos, que puede consistir en aros de refuerzo o barras fijadas transversalmente sobre el bastidor;
+    c) la protección contra los choques por la parte posterior, que puede consistir en un parachoques o un bastidor;
+    d) la protección del depósito contra los daños resultantes de choques o vuelcos utilizando un bastidor ISO conforme a la norma ISO 1496–3.
+
+                6.7.3.14 Aprobación del diseño
+
+6.7.3.14.1	Para cada nuevo diseño de cisterna portátil, las autoridades competentes de los Estados Parte o la entidad por ellos autorizada deben expedir una certificado de aprobación del diseño. En  ese certificado debe constar que la cisterna portátil ha sido examinada por esa autoridad, que es adecuada para el fin al que se la destina y que responde a las normas que se establecen en este capítulo y, cuando proceda, a las disposiciones relativas a gases enunciadas en la instrucción T50 sobre cisternas portátiles de la tabla 4.2.4.2.6. Si se fabrica una serie de cisternas portátiles sin modificación del diseño, el certificado debe ser válido para toda la serie. El certificado debe hacer referencia al informe de prueba del prototipo, a los gases que se permite transportar, a los materiales de construcción del depósito y al número de aprobación. El número de aprobación debe componerse del signo o marca distintivos del Estado en cuyo territorio se haya concedido la aprobación, es decir, del signo distintivo que, conforme a la Convención de Viena sobre la Circulación, de 1968, se utiliza en le tráfico internacional, y de un número de registro. En el certificado debe indicarse, si la hubiere, cualquier otra disposición con arreglo a lo indicado en el párrafo 6.7.1.2. La aprobación de un diseño puede aplicarse a cisternas portátiles más pequeñas hechas de materiales de la misma clase y del mismo espesor, con las mismas técnicas de fabricación, con soportes idénticos y sistemas de cierre y otros accesorios equivalente.
+
+6.7.3.14.2	El informe de prueba de prototipo para la aprobación del diseño debe incluir, por lo menos, los siguientes datos:
+
+    a) los resultados de la prueba del bastidor aplicable, especificada en la norma ISO 1496-3;
+    b) los resultados de la inspección y pruebas iniciales previstos en el párrafo 6.7.3.15.3; y
+    c) los resultados de la prueba de choque prevista en el párrafo 6.7.3.15.1, cuando proceda. 
+
+6.7.3.15	Inspección y pruebas  
+
+6.7.3.15.1 	En el caso de las cisternas portátiles que responden a la definición de contenedor dada en el Convenio internacional sobre la seguridad de los contenedores (CSC), se debe someter a pruebas de choque un prototipo representativo de cada diseño. El prototipo de cisterna portátil debe resultar capaz de absorber las fuerzas resultantes de un choque no inferior a 4 veces (4g) la masa bruta máxima autorizada de la cisterna portátil a carga completa, con una duración característica de los choques mecánicos experimentados en el transporte ferroviario. A continuación figura una lista de la normativa sobre métodos aceptables para la realización de la prueba de choque:
+	
+	Association of American Railroads,
+	Manual of Standards and Recommended Practices,
+	Specifications for Acceptability of Tank Containers (AAR.600), 
+
+	Canadian Standards Association (CSA),
+	Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (B620)
+
+	Deutsche Bahn AG
+	Zentralbereich Technik, Minden
+	Cisternas portátiles, prueba dinámica de choque longitudinal
+
+	Sociéte Nationale des Chemins de Fer Français
+	C.N.E.S.T.  002
+	Contenedores cisternas, esfuerzos externos longitudinales y pruebas dinámicas de choque
+
+	Spoornet, South Africa
+	Engineering Development Centre (EDC)
+	Testing of ISO Tank Containers
+	Method EDC/TES/023/000/1991-06
+
+6.7.3.15.2	El depósito y los distintos componentes del equipo de cada cisterna portátil deben ser inspeccionados y probados, primeros antes de ser puestos en servicios (inspección y pruebas iniciales) y después a intervalos de cinco años como máximo (inspección y pruebas periódicas quinquenales) con una inspección y prueba periódica intermedia (inspección y pruebas después de dos años y medio), que se efectuará a mitad del período de cinco años. Esta inspección y pruebas pueden efectuarse dentro de los tres meses anteriores o posteriores a la fecha especificada. Cuando sea necesario en virtud del párrafo 6.7.3.15.7, se efectuará una inspección y pruebas excepcionales, independientemente de la fecha de la última inspección y prueba periódica.
+
+6.7.3.15.3	Como parte de la inspección y pruebas iniciales de una cisterna portátil se debe proceder a una comprobación de las características del diseño, a un examen interno y externo de la cisterna portátil y de sus accesorios teniendo en cuenta los gases licuados no refrigerados que se han de transportar en ella, y a una prueba de presión, teniendo en cuenta las presiones de prueba estipuladas en el párrafo 6.7.3.3.2. La prueba  de presión puede ser hidráulica o puede utilizarse otro líquido o gas si lo aprueba la autoridad competente o la entidad por ella autorizada. Antes de que la cisterna portátil sea puesta en servicio, también debe efectuarse una prueba de estanqueidad y una prueba de funcionamiento satisfactorio de todos los equipos de servicio. Si el depósito y los accesorios han sido sometidos por separado a una prueba de presión, deben someterse juntos, una vez montados, a una prueba de estanqueidad. Todas las soldaduras del depósito sometidas al nivel máximo de esfuerzo deben ser supervisadas en la prueba inicial por radiografía, por ultrasonido o por otro método apropiado no destructivo. Esta disposición no se aplica a la camisa.
+
+6.7.3.15.4	La inspección y pruebas periódicas que se realizan cada  cinco años deben comprender un examen interno y externo y también, por lo general, una prueba de presión hidráulica.  Los revestimientos, termoaislamientos, etc., de que esté provista la cisterna portátil no se retirarán sino en la medida necesaria para apreciar bien el estado en que ésta se encuentra. Si el depósito y los equipos de servicio han sido sometidos por separado a una prueba de presión, deben someterse juntos, una vez montados, a una prueba de estanqueidad.
+
+6.7.3.15.5	La inspección y pruebas periódicas intermedias, que se efectuarán en un plazo de dos años y medio, deben comprender, por lo menos, un examen interno y externo de la cisterna portátil y de sus accesorios, teniendo en cuenta los gases licuados no refrigerados que se han de transportar, una prueba de estanqueidad y una prueba de funcionamiento satisfactorio de todos los equipos de servicio. Los revestimientos, termoaislamientos, etc, de que esté provista de cisterna portátil no se retirarán sino en la medida necesaria para apreciar bien el estado en la que ésta se encuentra. En el caso de cisternas portátiles destinadas al transporte de un solo gas licuado no refrigerado, las autoridades competentes o la entidad por ellas autorizada pueden renunciar al examen interno a los dos años y medio o sustituirlo por otros métodos de prueba o procedimiento de inspección.
+
+6.7.3.15.6	No se puede llenar ni presentar para su transporte una cisterna portátil después de la fecha de expiración de la última inspección y prueba periódica de los cinco años o de los dos y medio previstas en el párrafo 6.7.3.15.2. Sin embargo, una cisterna portátil que se haya llenado antes de la fecha de expiración de la última inspección y prueba periódica puede ser transportada durante un período que no exceda de tres meses de dicha fecha. Además, las cisternas portátiles pueden transportarse después de la fecha de expiración de la última prueba e inspección periódica:
+
+    a) vacías y sin limpiar con objeto de someterlas a la siguiente prueba o inspección requerida antes de volver a llenarlas; y
+    b) salvo disposición en contrario de las autoridades competente, durante un periodo máximo de seis meses después de la fecha de expiración de la última prueba o inspección periódica, con objeto de posibilitar el regreso de mercancías peligrosas para su eliminación o reciclado. En el documento de transporte debe constar esta exención.
+
+6.7.3.15.7	La inspección y pruebas excepcionales son necesarias cuando hay indicios de que la cisterna portátil  tiene zona dañadas o corroídas, o tiene escapes u otros indicios de deficiencias que puedan afectar a su integridad. El nivel de la inspección y pruebas excepcionales dependerá de la importancia de los daños o deterioros sufridos por la cisterna portátil. Deben incluir por lo menos la inspección y pruebas efectuadas a los dos años y medio con arreglo al párrafo 6.7.3.15.5. 
+
+                    6.7.3.15.8 En los exámenes interno y externo se debe comprobar que:
+
+    a) se inspecciona el depósito para comprobar si tiene picaduras, corrosiones, abrasiones, abolladuras, deformaciones, defectos de soldadura o cualquier otra anomalía, incluido los escapes, que puedan hacer que la cisterna portátil no sea segura para el transporte;
+    b) se inspeccionan las tuberías las válvulas y las juntas para comprobar si existen zonas de corrosión, defectos y otras anomalías, incluidos los escapes, que puedan hacer que la cisterna portátil no sea segura durante el llenado, el vaciado o el transporte;
+    c) los dispositivos de cierre de las tapas de las bocas de hombre funcionan correctamente y no hay escapes  en las tapas o en las juntas;
+    d) se reponen los pernos o tuercas que falten o se aprietan los pernos o tuercas sueltos en las junturas con brida o en las bridas ciegas.
+    e) todos los dispositivos y válvulas de emergencias están exentos de corrosión, deformación o cualquier daño o defecto que pueda impedir su funcionamiento normal. Deben hacerse funcionar los dispositivos de cierre a distancia y las válvulas de cierre automático para comprobar que funcionan correctamente;
+    f) las marcas prescritas sobre la cisterna portátil son legibles y cumplen las disposiciones aplicables; y
+    g) el bastidor, los soportes y los elementos de elevación de la cisterna portátil se encuentran en buen estado.
+
+6.7.3.15.9	Un técnico aprobado por las autoridades competentes o la entidad por ellas autorizada debe realizar o presenciar las inspecciones y pruebas indicadas en los párrafos 6.7.3.15.1, 6.7.3.15.3, 6.7.3.15.4, 6.7.3.15.5 y 6.7.3.15.7. Si la prueba de presión forma parte de la inspección y las pruebas, la presión de prueba debe ser la que se indique en la placa de inspección de la cisterna portátil. La cisterna debe ser inspeccionada a presión para determinar si existen escapes en el depósito, las tuberías o los equipos de servicio.
+
+6.7.3.15.10	Todos los trabajos de corte, quemado o soldadura que se realicen en el depósito deben ser aprobados por las autoridades competentes o la entidad por ellas autorizadas teniendo en cuenta el código para recipientes a presión utilizado en la construcción del depósito. Una vez terminados esos trabajos, se debe efectuar una prueba de presión a la presión de prueba inicial.
+
+6.7.3.15.11	Si se comprueba que la cisterna portátil tiene un defecto que la hace insegura, la cisterna no debe ponerse de nuevo en servicio mientras no haya sido reparada y haya superado una nueva prueba.
+
+
+
+                6.7.3.16 Marcado 
+
+6.7.3.16.1	Toda cisterna portátil debe tener una placa de metal resistente a la corrosión, fijada de modo permanente en un lugar bien visible y de fácil acceso para la inspección. Si por la configuración de la cisterna portátil la placa no puede fijarse de modo permanente sobre el depósito, se deberá indicar sobre éste al menos la información prescrita por el código para recipiente a presión. En la placa se grabará, por estampado o por otro método similar, como mínimo la siguiente información.
+
+País de fabricación
+
+U	País de 		Número de 		Otras disposiciones
+N	aprobación 	            aprobación 		         “AA”
+
+Nombre o marca del fabricante 
+Número de serie del fabricante 
+Entidad autorizada para la aprobación del diseño 
+Número de matrícula del propietario 
+Año de fabricación 
+Código para recipientes a presión a la que se ajusta el diseño del deposito
+Presión de prueba 	 bar/kPa */ de presión manométrica
+Presión de servicio máxima autorizada          bar/kPa*/ de presión manométrica
+Presión de diseño externa **/ 	 bar/kPa*/ de presión manométrica 
+Gama de temperaturas de cálculo 	°C a 	°C 
+Temperatura de referencia para el cálculo	°C
+Capacidad de agua a 20° C	litros
+Fecha de la prueba de presión inicial e identidad del testigo 
+Material(es) del deposito referencia(s) estándar 
+Espesor equivalente en acero de referencia         mm 
+Fecha y tipo de la(s) prueba(s) periódica(s)  más reciente(s)
+Mes      Año      Prueba de prisión       bar/kPa */ efectivos 
+Sello del técnico que realizó o presenció la prueba más reciente 
+
+
+6.7.3.16.2	En la cisterna portátil misma o en una placa de metal sólidamente fijada a la cisterna se deben marcar, además, los siguientes datos:
+
+Nombre de la empresa explotadora 
+
+Nombre de (los) gas(es) licuado(s) no refrigerado(s) cuyo transporte se ha autorizado 
+
+Carga máxima autorizada de cada gas licuado no refrigerado autorizado         Kg.
+
+Masa bruta máxima autorizada          Kg.  
+
+Tara        Kg.
+
+Nota: Para la identificación de los gases licuados no refrigerados transportados véase también la parte  5. 
+
+6.7.3.16.3 	Si una cisterna portátil esta diseñada y aprobada para su manipulación en mares abiertos, en la placa de identificación aparece las siguientes palabras: “CISTERNA PORTÁTIL PARA TRANSPORTE MARÍTIMO”
+
+            6.7.4 Disposiciones relativas al proyecto, la construcción, la inspección y la prueba de cisternas portátiles destinadas al transporte de gases licuados refrigerados
+
+                6.7.4.1 Definiciones
+
+Para los efectos de la presente sección:
+
+Por cisterna portátil se entiende una cisterna multimodal termo aislada de capacidad superior a 450 litros que esté provista de todos los equipos de servicio y los elementos estructurales que sean necesarios para el transporte de gases licuados refrigerados.  La cisterna portátil debe poder ser llenada y vaciada sin necesidad de desmontar sus elementos estructurales.  Debe tener elementos estabilizadores exteriores a la cisterna y poder ser elevada cuando esté llena.  Está diseñada principalmente para ser cargada en un vehículo de transporte o en un buque y está equipada con patines, soportes o accesorios que faciliten su manipulación mecánica.  Los vehículos cisterna de carretera, los vagones cisterna  ferroviarios, las cisternas no metálicas, los recipientes intermedios para graneles (RIG) los cilindro de gas a presión y los EGTs  no se consideran cisternas portátiles.
+
+Por cisterna se entiende una construcción que normalmente consta de: 
+
+    a) una camisa exterior y uno o varios depósitos interiores, existiendo entre aquélla y éstos un espacio intermedio del que se ha extraído el aire (aislamiento por vacío) y que puede tener un sistema de aislamiento térmico; o
+
+
+    b) Una camisa exterior y un depósito interior con una capa intermedia de material termo aislante compacto (por ejemplo, espuma compacta)   
+
+Por depósito se entiende la parte de la cisterna portátil que contiene el gas licuado refrigerado transportado, con inclusión de las aberturas y sus cierres, pero con exclusión de los equipos de servicio o los elementos estructurales exteriores.
+
+Por camisa se entiende la cubierta o el revestimiento aislante exterior, que puede formar parte del sistema termoaislante.
+
+Por equipos de servicio se entienden los instrumentos de medida y los dispositivos de llenado, vaciado, aireación, seguridad, presurización, refrigeración y termoaislación.
+
+Por elementos estructurales se entienden los elementos de refuerzo, sujeción, protección o estabilización exteriores al depósito.
+
+Por presión máxima de trabajo admisible se entiende la presión manométrica efectiva máxima permisible en la parte superior del depósito de una cisterna portátil cargada, estando ésta en su posición normal, con inclusión de la presión efectiva máxima durante el llenado o el vaciado.
+
+Por presión de prueba se entiende la presión manométrica máxima en la parte superior del depósito, medida durante la prueba de presión.
+
+Por prueba de estanqueidad se entiende una prueba en la que se utiliza gas para someter el depósito y sus equipos de servicio a una presión interna efectiva no inferior al 90% de la presión de servicio máxima autorizada.
+
+Por masa bruta máxima permisible se entiende la suma de la tara de la cisterna portátil y la carga máxima cuyo transporte esté autorizado.
+
+Por tiempo de retención se entiende el tiempo que transcurra desde que se establece la condición inicial de llenado hasta que la presión – por efecto del calentamiento - llega al valor mínimo a que se han ajustado los dispositivos de reducción de la presión para que empiecen a funcionar.
+
+Por acero de referencia se entiende un acero que tiene una resistencia a la tracción de 370 N/mm2  y un alargamiento de rotura del 27%.
+
+Por temperatura mínima de diseño se entiende la temperatura utilizada en el proyecto y la construcción del depósito, que no debe ser superior a la temperatura (temperatura de servicio) más baja del contenido en condiciones normales de llenado, vaciado y transporte.
+
+                6.7.4.2 Disposiciones generales relativas al proyecto y la construcción
+
+6.7.4.2.1	Los  depósitos deben diseñarse y construirse de conformidad con las disposiciones de un código sobre recipientes a presión aceptado por la autoridad competente. Los depósitos y las camisas deben ser de materiales metálicos capaces de recibir la forma deseada. Las camisas deben ser de acero. Para los elementos de apoyo y sujeción entre el depósito y la camisa pueden utilizarse materiales no metálicos, siempre que sus propiedades a la temperatura mínima de proyecto resulten adecuadas. En principio, los materiales deben ajustarse a las normas nacionales o internacionales sobre materiales. Para los depósitos y camisas soldados  sólo deben utilizarse materiales cuya soldabilidad esté plenamente demostrada. Las soldaduras deben estar bien hechas y ofrecer total seguridad. Cuando el proceso de fabricación o el material lo exija, el depósito debe ser sometido a un tratamiento térmico adecuado que garantice la resistencia necesaria de las soldaduras y de  las zonas afectadas por el calor. Al elegir el material debe tenerse en cuenta la temperatura mínima de proyecto con respecto al riesgo de fractura frágil, la fragilización por absorción de hidrógeno, la aparición  de fisuras por corrosión y la resistencia a los choques. Cuando se utilice acero de grano fino, el valor garantizado del límite de fluencia no superará los 460 N/mm2 y el valor garantizado del limite superior de la resistencia a la tracción no será superior a 725 N/mm2 según las especificaciones del material. Los materiales de las cisternas portátiles deben estar adaptados al medio ambiente exterior en el que vayan a ser transportados.
+
+6.7.4.2.2	 Todas las partes de un contenedor cisterna  - accesorios, juntas y tuberías inclusive - que normalmente puedan entrar en contracto con el gas licuado refrigerado que se transporta deben ser compatibles con éste.
+
+6.7.4.2.3	Deben evitarse el contacto entre metales diferentes que pueda causar daños por corrosión galvánica.
+
+6.7.4.2.4	El aislamiento térmico consistirá en un revestimiento completo del depósito o depósito de la cisterna, constituido por materiales aislantes eficaces. El aislamiento exterior debe ir protegido por una camisa a fin de que, en las condiciones normales de transporte, no penetre la humedad ni se produzcan otros daños.
+
+6.7.4.2.5	Si la camisa va cerrada de tal forma que sea estanca a los gases, se incorporará un dispositivo que evite los aumentos peligrosos de presión en el espacio aislante.
+
+6.7.4.2.6	Las cisternas portátiles destinadas al transporte de gases licuados refrigerados cuyo punto de ebullición sea inferior a – 182°C a la presión atmosférica, no deben contener ningún material que pueda reaccionar peligrosamente con el oxígeno o con atmósferas ricas en oxígeno cuando se encuentre en alguna parte del aislamiento térmico que pueda entrar en contacto con oxígeno o con fluidos ricos en oxígeno.
+
+6.7.4.2.7	Los materiales de aislamiento deben ser tales que no se deterioren excesivamente en condiciones de servicio.
+
+6.7.4.2.8	Para cada gas licuado refrigerado que se transporte en cisterna portátil se debe determinar un tiempo de retención de referencia.
+
+6.7.4.2.8.1	El tiempo de retención de referencia se debe determinar siguiendo un método aceptado por la autoridad competente sobre la base de lo siguiente:
+
+    a) la eficacia del sistema de aislamiento, determinada según se indica en el párrafo 6.7.4.2.8.2;
+    b) la presión mínima de funcionamiento a que se hayan ajustado los dispositivos de reducción de la presión;
+    c) las condiciones iniciales de llenado;
+    d) una temperatura ambiente teórica de 30°C;
+    e) las propiedades físicas del gas licuado refrigerado que se vaya a transportar.
+
+6.7.4.2.8.2	La eficacia del sistema de aislamiento (absorción de calor en vatios) se debe determinar mediante pruebas en cada tipo de cisterna portátil conforme a un procedimiento aceptado por la autoridad competente. Las pruebas deben consistir en:
+
+    a) Una prueba a presión constate (por ejemplo, a presión atmosférica) si se mide la pérdida de gas licuado refrigerado durante un período de tiempo determinado; o
+    b) Una prueba en sistema cerrado midiéndose el aumento de presión en el depósito durante un período de tiempo determinado.
+
+	Al efectuar la prueba a presión constante deben tenerse en cuenta las variaciones de la presión atmosférica.  En ambos tipos de prueba deben aplicarse correcciones que tengan en cuenta las posibles variaciones de la temperatura ambiente respecto del valor de referencia teórico de 30°C.
+
+Nota: Para la determinación del tiempo de retención real de cada viaje, véase el párrafo 4.2.3.7.  
+
+6.7.4.2.9	La camisa de la cisterna de pared doble con aislamiento por vacío debe proyectarse de modo que resista una presión manométrica exterior de por lo menos 100 kPa (1 bar), calculada según normas reconocidas, o una presión de colapso crítica equivalente a por lo menos 200 kPa (2 bar) de presión manométrica. Para calcular la resistencia de la camisa a la presión exterior podrán tenerse en cuenta los dispositivos de refuerzo interiores y exteriores. 
+
+6.7.4.2.10	Las cisternas portátiles deben ser proyectadas y construidas con soportes que le sirvan de base estable durante el transporte y con elementos de sujeción adecuados para levantarlas y anclarlas. 
+
+6.7.4.2.11	Las cisternas portátiles deben ser diseñadas de forma que resistan sin pérdida de su contenido, al menos la presión interna ejercida por éste, y las cargas estáticas, dinámicas y térmicas en las condiciones normales de manipulación y transporte.  El diseño debe mostrar claramente que se han tenido en cuenta los efectos de la fatiga, resultantes de la aplicación reiterada de esas cargas durante la vida previstas de la cisterna portátil.
+
+6.7.4.2.12	Las cisternas portátiles y sus elementos de sujeción deben poder soportar, cuando lleven la carga máxima autorizada, las siguientes fuerzas estáticas aplicadas separadamente:
+
+    a) en la dirección del transporte, el doble de la masa bruta máxima autorizada multiplicado por la aceleración de la gravedad (g) */;
+    b) horizontalmente, en ángulo recto a la dirección del transporte: la masa bruta máxima autorizada (cuando la dirección del transporte no esté claramente determinada, las fuerzas deben ser iguales al doble de la masa bruta máxima autorizada) multiplicada por la aceleración de la gravedad (g) */;
+    c) verticalmente hacia arriba, la masa bruta máxima autorizada multiplicada por la aceleración de la gravedad (g) */; y
+    d) verticalmente hacia abajo, el doble de la masa bruta máxima autorizada (carga total, incluido el efecto de la gravedad) multiplicado por la aceleración de la gravedad (g) */.
+
+6.7.4.2.13	Para cada una de las fuerzas mencionadas en el párrafo 6.7.4.2.12, los coeficientes de seguridad que han de aplicarse deben ser los siguientes:
+
+    a) en el caso de los materiales que tengan un límite de elasticidad claramente definido, un coeficiente de seguridad de 1,5 en relación con el límite de fluencia garantizado; o
+    b) en el caso de los materiales que no tengan un límite de elasticidad claramente definido, un coeficiente de seguridad de 1,5 en relación con el límite elástico convencional garantizado de 0,2% y, en el caso de los aceros austeníticos, de 1%.
+
+6.7.4.2.14	El valor del límite de fluencia o del límite de elasticidad debe ser el establecido en las normas nacionales o internacionales sobre materiales.  Cuando se utilicen aceros austeníticos, los valores mínimos especificados para esas propiedades en función de las normas sobre materiales podrán aumentar hasta un 15% cuando esos valores superiores consten en el certificado de inspección de materiales.  Cuando no exista ninguna norma para el metal en cuestión, o se utilicen materiales no metálicos, los valores que utilicen deben ser aprobados por la autoridad competente.
+
+6.7.4.2.15	Las cisternas portátiles destinadas al transporte de gases licuados refrigerados inflamables deben poder conectarse eléctricamente a tierra.
+
+                6.7.4.3 Criterios de diseño
+
+6.7.4.3.1	Los depósitos deben tener una sección transversal circular.
+
+6.7.4.3.2	Los depósitos deben estar proyectados y fabricados de modo que resistan una presión de prueba equivalente a, por lo menos, 1,3 veces la presión de servicio máxima autorizada.  En el caso de un depósito aislado por vacío, la presión de prueba no debe ser inferior a 1,3 veces la suma de presión de servicio máxima autorizada y 100 kPa (1 bar). En todo caso, la presión de prueba no debe ser inferior a una presión manométrica de 300 kPa (3 bar).  Véase asimismo las prescripciones relativas al espesor mínimo de las paredes del depósito que figuran en los párrafos 6.7.4.4.2 a 6.7.4.4.7.
+
+6.7.4.3.3	Para los metales que tengan un límite de elasticidad claramente definido o se caractericen por tener un límite de fluencia normal garantizado (generalmente un límite elástico convencional de 0,2%; 1% en el caso de los aceros austeníticos)  el esfuerzo primario de la membrana σ (sigma) en el depósito, a la presión de prueba, no deberá exceder del menor de los valores siguientes: 0,75 Re o 0,50 Rm siendo  
+
+		Re	=	límite de elasticidad aparente en N/mm2, o límite elástico convencional de 0,2% y en el caso de los aceros austeníticos, de 1 %;
+
+		Rm	=	resistencia mínima a la tracción en N/mm2.
+
+6.7.4.3.3.1	Los valores de Re y Rm que han de utilizarse deben ser los mínimos especificados en las normas nacionales o internacionales para materiales.  Cuando se utilicen aceros austeníticos, los valores mínimos de Re y Rm especificados según las normas para materiales pueden aumentarse hasta en un 15% cuando estos valores más altos consten en el certificado de inspección de materiales.  Cuando no exista ninguna norma para el metal en cuestión, los valores de Re y Rm que se utilicen deben ser aprobados por la autoridad competente o la entidad por ella autorizada.
+
+6.7.4.3.3.2	No se permitirá la construcción de depósitos soldados con aceros que tengan una relación Re/Rm de más de 0,85. Los valores de Re y Rm que han de utilizarse para determinar esa relación son los especificados en el certificado de inspección de materiales.
+
+6.7.4.3.3.3	Los aceros utilizados en la construcción de depósito debe tener un alargamiento porcentual en la rotura de por lo menos 10.000/Rm, con un mínimo absoluto de 16% en el caso de los aceros de grano fino y del 20% en el de los demás aceros. El aluminio y las aleaciones de éste que se utilicen en la construcción de depósito de cisternas deben tener un alargamiento porcentual en la rotura no inferior a 10.000/6 Rm, con un mínimo absoluto del 12%.
+
+6.7.4.3.3.4	Para determinar los valores reales de los materiales, se debe observar que, en el caso del metal en láminas, el eje de las muestras para prueba de tracción debe ser perpendicular (transversal) a la dirección del laminado. El alargamiento permanente en la rotura debe medirse en muestras de sección transversal rectangular de conformidad con la norma ISO 6892, utilizando una distancia entre señales en la probeta de 50mm.
+
+                6.7.4.4 Espesor mínimo de la chapa del depósito
+
+6.7.4.4.1	El espesor mínimo de la chapa del depósito deberá ser el mayor de los siguientes:
+ 
+    a) el espesor mínimo determinado de conformidad con las disposiciones de los párrafos 6.7.4.4.2 a 6.7.4.4.7;
+    b) el espesor mínimo determinado conforme al código convenido para recipientes a presión, habida cuenta de las disposiciones del párrafo 6.7.4.3.
+
+6.7.4.4.2	Los depósitos cuyo diámetro no sea superior a 1,80m deben tener paredes de al menos 5mm de espesor si son de acero de referencia o del espesor equivalente del metal que se utilice. Los depósitos cuyo diámetro exceda de 1,80m, deben tener paredes de al menos 6mm de espesor si son de acero de referencia o del espesor equivalente del metal que se utilice.
+
+6.7.4.4.3	Los depósitos de cisternas aisladas por vacío cuyo diámetro sea igual o inferior a 1,80m deben tener paredes de al menos 3mm de espesor si son de acero de referencia, o de un espesor equivalente del metal que se utilice. En el caso de que su diámetro exceda de 1,80m deben tener paredes de al menos 4mm de espesor si son de acero de referencia, o de un espesor equivalente del metal que se utilice. 
+
+6.7.4.4.4	En  las cisternas  aisladas por vacío, el espesor combinado de la camisa y el depósito debe corresponder al espesor mínimo  prescrito en el párrafo 6.7.4.4.2, no debiendo ser el espesor del depósito propiamente dicho inferior al espesor mínimo prescrito en el párrafo 6.7.4.4.3.
+
+6.7.4.4.5	Todos los depósitos deben tener por lo menos 3mm de espesor, sea cual fuere el material empleado en su fabricación.
+
+6.7.4.4.6	En el caso de un metal distinto del acero de referencia el espesor equivalente al prescrito para éste en los párrafos 6.7.4.4.2 y 6.7.4.4.3. se determina mediante la siguiente ecuación:
+
+                                                                             21,4  x  e0                         
+					e1  = 
+		      			           3  Rm1 x  A1
+ 
+
+
+	donde:
+
+	e1        =	espesor equivalente requerido (en mm) del metal que se utilice;
+	e0        =	espesor mínimo (en mm) del acero de referencia especificado en los párrafos 6.7.4.4.2 y 6.7.4.4.3;
+	Rm1    =	resistencia a la tracción mínima garantizada (en N/mm2) del metal que se utilice (véase el párrafo 6.7.4.3.3);
+	A1       =	alargamiento porcentual mínimo garantizado en la rotura del metal que se utilice conforme a las normas nacionales o internacionales.
+
+6.7.4.4.7	El espesor de la pared no debe, en ningún caso, ser inferior al indicado en los párrafos 6.7.4.4.1 a 6.7.4.4.6. Todas las partes del depósito deben tener el espesor mínimo determinado en los párrafos 6.7.4.4.1 a 6.7.4.4.6. En este espesor no se incluye una tolerancia por corrosión.
+
+6.7.4.4.8	El espesor de la chapa no debe cambiar bruscamente en la unión de las extremidades con la parte cilíndrica del depósito.
+
+                6.7.4.5 Equipos de servicio
+
+6.7.4.5.1	Los equipos de servicio deben estar dispuestos de forma que no corran el riesgo de ser arrancados o dañados durante el transporte y la manipulación. Si el acoplamiento del bastidor con la cisterna, o de la camisa con el depósito permite un movimiento relativo entre ellos, han de sujetarse los equipos de servicios de forma de que ese movimiento no ocasione ningún daño a los órganos activos. Los accesorios exteriores de vaciado (encastre de los tubos, dispositivos de cierre), la válvula interna de cierre y su asiento deben estar protegidos contra el riesgo  de ser arrancados por fuerzas exteriores (por ejemplo mediante el uso de dispositivos de cizallamiento). Los dispositivos de llenado y vaciado (incluidos las bridas y los tapones roscados) y las tapas protectoras, si las hubiere, deben poder fijarse para evitar su apertura fortuita.
+
+6.7.4.5.2	Todas las aberturas de llenado y de descarga de una cisterna portátil que se utilice para el transporte de gases licuados refrigerados inflamables deben estar provistas como mínimo de tres dispositivos de cierre independientes entre sí, dispuestos en serie: el primero será una válvula de cierre, situada lo más cerca posible de la camisa; el segundo, una válvula de cierre, y el tercero, una brida ciega o un dispositivo equivalente.  El dispositivo de cierre más próximo a la camisa debe ser un dispositivo de obturación instantánea que se cierre automáticamente si la cisterna portátil experimenta un movimiento anormal durante el llenado o el vaciado, o si queda envuelta en llamas.  Este dispositivo debe también poder accionarse con mando a distancia.
+
+6.7.4.5.3	Todas las aberturas de llenado y de descarga de una cisterna portátil que se utilice para el transporte de gases licuados refrigerados no inflamables deben estar provistas de al menos dos dispositivos  de cierre independientes, dispuestos en serie: el primero será una válvula de cierre, situada lo más cerca posible de la camisa exterior, y el segundo, una brida ciega o un dispositivo equivalente.
+
+6.7.4.5.4	Los tramos de tubería que puedan cerrarse por ambos extremos, y en los cuales pueda quedar aprisionado un producto líquido, deben estar provisto de un dispositivo automático de reducción de la presión que impida un aumento excesivo de ésta dentro de la tubería.
+
+6.7.4.5.5	Las aberturas de inspección no son necesarias en el caso de las cisternas aisladas por vacío. 
+
+                    6.7.4.5.6 Siempre que sea posible, los accesorios exteriores deben ir agrupados.
+
+6.7.4.5.7	Todas las conexiones de la cisterna portátil debe llevar marcas que indiquen claramente sus respectivas funciones.
+
+6.7.4.5.8	Las válvulas de cierre y demás medios de cierre deben ser diseñados y construidos para que resistan una presión nominal que no debe ser inferior  a la presión de servicio máxima autorizada del depósito, teniendo en cuenta las temperaturas previstas durante el transporte.  Las válvulas de cierre con vástago roscado deben cerrarse por rotación en el sentido de las agujas del reloj. Para las demás válvulas de cierre debe indicarse claramente la posición (abierta y cerrada) y la dirección de cierre.  Todas las válvulas de cierre deben diseñarse de manera que no pueda producirse una apertura fortuita. 
+
+6.7.4.5.9.	Cuando se utilicen compresores, las conducciones de líquido y vapor conectadas a los mismos deben estar provistas de válvulas lo más cerca posible de la camisa,  a fin de que no se pierda el contenido si el compresor sufre algún daño. 
+
+6.7.4.5.10	Las tuberías se deben diseñar, construir e instalar de manera que no corran el riesgo de ser dañadas por la dilatación y la contracción térmicas, los choque y las vibraciones.  Todas las tuberías deben ser de un material apropiado.  A fin de evitar fugas en caso de incendio, entre la camisa y el acoplamiento con el primer cierre de cualquier orificio de salida deben utilizarse únicamente tuberías de acero y juntas soldadas.  La técnica que se emplee para unir el cierre con ese acoplamiento debe ser satisfactoria a juicio de las autoridades competentes o de la entidad por ellas autorizada.  En otros lugares, las juntas de las tuberías se soldarán cuando sea necesario. 
+
+6.7.4.5.11	Las juntas de las tuberías de cobre deben hacerse con soldaduras fuertes o tener una unión metálica de igual resistencia. El punto de fusión de los materiales utilizados para la soldadura fuerte no debe ser inferior a 525°C.  Las juntas no deben reducir la resistencia de las tuberías, como puede ocurrir con las uniones roscadas.
+
+6.7.4.5.12	Los materiales de construcción de las válvulas y los accesorios deben tener propiedades satisfactorias a la temperatura mínima de utilización de la cisterna portátil. 
+
+6.7.4.5.13	La presión de rotura de todas las tuberías y de todos sus accesorios no debe ser inferior al mayor de los dos valores siguientes: el cuádruple de la presión de servicio máxima autorizada del depósito o el cuádruple de la presión a la que pueda estar sometido el depósito en servicio por la acción de una bomba u otro dispositivo (excepto los de reducción de la presión).
+
+                6.7.4.6 Dispositivos de reducción de la presión
+
+6.7.4.6.1	Todo depósito debe ir provisto de al menos dos dispositivos de reducción de la presión independientes, accionados por resorte, que deben abrirse automáticamente a una presión no inferior a la presión de servicio máxima autorizada y estar completamente abiertos a una presión igual al 110% de la presión de servicio máxima autorizada. Los dispositivos deben cerrarse, después de la descarga, a una presión no inferior en más de un 10% a la presión a la que empieza la descarga y permanecer cerrados a todas las presiones más bajas. Los dispositivos de reducción de la presión deben ser de un tipo que resista los esfuerzos dinámicos, incluidos los debidos al movimiento del líquido.
+
+6.7.4.6.2	Los depósitos destinados al transporte de gases licuados refrigerados no inflamables y de hidrógeno podrán ir provistos, además, de discos frangibles montados en paralelo con los dispositivos accionados por resorte, tal como se dispone en los párrafos 6.7.4.7.2 y 6.7.4.7.3.
+
+6.7.4.6.3	Los dispositivos de reducción de la presión deben estar proyectados de manera que impidan la entrada de objetos extraños, los escapes de gas y todo aumento peligroso de la presión.
+
+6.7.4.6.4	Los dispositivos de reducción de la presión deben ser aprobados por las autoridades competentes o la entidad por ellas autorizada.
+
+                6.7.4.7 Capacidad y ajuste de los dispositivos de reducción de la presión
+
+6.7.4.7.1	En el caso de que se produzca una pérdida de vacío en una cisterna aislada por este medio, o una pérdida del 20% del aislamiento en una cisterna aislada con materiales sólidos, la capacidad conjunta de todos los dispositivos de reducción de la presión instalados debe ser suficiente como para impedir que la presión (incluida la presión acumulada) dentro del depósito sobrepase el 120% de la presión de servicio máxima autorizada.
+
+6.7.4.7.2	En el caso de los gases licuados refrigerados no inflamables  (excepto el oxígeno) y del hidrógeno, esta capacidad se podrá lograr utilizando disco frangibles en paralelo con los dispositivos de seguridad prescritos. Estos discos deben romperse a una presión nominal igual a la presión de prueba del depósito.
+
+6.7.4.7.3	En las condiciones indicadas en los párrafos 6.7.4.7.1 y 6.7.4.7.2 y con la cisterna completamente envuelta en llamas, la capacidad conjunta de todos los dispositivos de reducción de la presión instalado debe ser suficiente como para impedir que la presión en el depósito sobrepase la presión de prueba.
+
+6.7.4.7.4	La capacidad exigida de los dispositivos de reducción de la presión se calculará con arreglo a una reglamentación técnica reconocida aceptada por la autoridad competente */.
+
+
+                6.7.4.8 Marcado de los dispositivos de reducción de la presión
+
+6.7.4.8.1	Todo dispositivo de reducción de la presión debe tener marcados, con caracteres claramente legibles e indelebles, los siguientes datos:
+
+    a) la presión (en bar o kPa) a la que se esté previsto para descargar;
+    b) la tolerancia autorizada a la presión de descarga para los dispositivos de muelle;
+    c) la temperatura de referencia correspondiente a la presión de régimen para los discos frangibles; y
+    d) la capacidad nominal de conducción del dispositivo en metros cúbicos de aire por segundo (m3/s) en condiciones normales.
+
+Cuando sea posible, también debe figurar la siguiente información:
+
+    e) el nombre del fabricante y el número del catálogo correspondiente 
+
+6.7.4.8.2	La capacidad nominal de conducción indicada en los dispositivos de reducción de la presión se determina según la norma  ISO 4126-1. 
+
+                6.7.4.9 Tubos de conexión con los dispositivos de reducción de la presión 
+
+6.7.4.9.1	Los tubos de conexión con los dispositivos de reducción de la presión deben ser de tamaño suficiente para que el volumen de gas requerido pueda llegar sin dificultad al dispositivo de seguridad. No se debe instalar ninguna válvula de cierre entre el depósito y los dispositivos de reducción de la presión, a no ser que haya instalados dispositivos duplicados para el mantenimiento o por otras razones y que las válvulas de cierre conectadas a los dispositivos efectivamente en funcionamiento estén inmovilizadas en posición abierta o acopladas entre sí de forma que siempre se cumplan los requisitos enunciados en la parte 6.7.4.7. Ninguna abertura que conduzca a un orificio de escape o dispositivo de reducción de la presión debe estar obstruida de manera que se obstaculice o se cierre el paso del depósito a los dispositivos. Cuando los dispositivos de reducción de la presión tengan tuberías de escape de vapores o líquidos, éstas deben dar salida a la atmósfera al vapor o al líquido de forma que sea mínima la contrapresión ejercida sobre los dispositivos de seguridad. 
+
+6.7.4.10	Emplazamiento de los dispositivos de reducción de la presión 
+
+6.7.4.10.1	Todos los orificios de admisión de los dispositivos de reducción de la presión deben estar situados en la parte superior del depósito, lo más cerca posible del centro longitudinal y transversal del mismo. Todos los orificios de admisión de los dispositivos de reducción de la presión, en las condiciones de tasa máxima de llenado, deben estar situados en el espacio de vapor del depósito y los dispositivos deben estar dispuestos de forma que el vapor salga libremente. En el caso de gases licuados refrigerados, la salida de vapor debe estar dirigida de manera que éste no pueda tropezar con la cisterna. Se permite el uso de dispositivos de protección para desviar el chorro de vapor, a condición de que no disminuya la capacidad requerida del dispositivo de reducción de la presión.
+
+6.7.4.10.2	Se deben  tomar medidas para impedir que las personas no autorizadas tengan acceso a los dispositivos de reducción de la presión y para evitar que éstos sufran daños en caso de vuelco de la cisterna.
+
+6.7.4.11	Dispositivos indicadores
+
+6.7.4.11.1	Las cisternas portátiles, salvo las que se llenen por peso, deben ir provistas de uno o varios dispositivos indicadores. No se deben utilizar indicadores de nivel hechos de cristal ni indicadores hechos de otros materiales frágiles que estén en comunicación directa con el contenido del depósito.
+
+6.7.4.11.2	En las cisternas portátiles aisladas por vacío, la camisa debe ir provista de un dispositivo de conexión para un indicador de vacío.
+
+6.7.4.12	Soportes, bastidores y elementos de elevación y de sujeción de las cisternas portátiles 
+
+6.7.4.12.1	Las cisternas portátiles deben ser diseñadas y fabricadas con un soporte que asegure su estabilidad durante el transporte.  En relación con este aspecto del diseño, se deben tener en cuenta las fuerzas que se indican en el párrafo 6.7.3.2.9 y el factor de seguridad indicado en el párrafo 6.7.3.2.10. Se consideran aceptables los patines, los bastidores, las cunas y otras estructuras similares.
+
+6.7.4.12.2	La acción combinada de los soportes (cunas, bastidores, etc.) y de los elementos de elevación y de sujeción de las cisternas portátiles no debe someter a un esfuerzo excesivo ningún punto de la cisterna.  Todas las cisternas portátiles deben estar provistas de elementos permanentes de elevación y sujeción.  Es preferible que éstos estén montados en los soportes de la cisterna portátil, pero pueden estar montados sobre placas de refuerzos fijadas en la cisterna en los puntos de apoyo.
+
+6.7.4.12.3	 En el diseño de soportes y bastidores se deben tener en cuenta los efectos de corrosión debidos al medio ambiente. 
+
+6.7.4.12.4 	Se deben poder obturar los huecos de entrada de las horquillas elevadoras.  Los medios de obturación deben ser un elemento permanente del bastidor o estar permanentemente fijados a éste. No es necesario que las cisternas portátiles de compartimiento único con una longitud inferior a 3,65 m estén provistas de huecos obturados, a condición de que: 
+
+    a) la cisterna y todos sus accesorios estén bien protegidos de los choques de las horquillas elevadoras; y
+    b) la distancia entre los centros de los huecos para las horquillas elevadoras sea por lo menos igual a la mitad de la longitud máxima de la cisterna portátil.
+
+6.7.4.12.5	Cuando las cisternas portátiles no estén protegidas durante el transporte, conforme a lo estipulado en el párrafo 4.2.3.3., los depósitos y los equipos de servicio deben estar protegidos contra los daños resultantes de choques laterales y longitudinales y de vuelcos.  Los accesorios externos deben estar protegidos de modo que se impida el escape del contenido del depósito en caso de choque o de vuelco de la cisterna portátil sobre  sus accesorios. Constituyen ejemplos de protección:
+
+    a) la protección contra los choques laterales, que puede consistir en barras longitudinales que protejan el depósito por ambos lados a la altura de la línea media 
+    b) la protección de la cisterna portátil contra los vuelcos, que puede consistir en aros de refuerzo o barras fijadas transversalmente sobre el bastidor 
+    c) la protección contra los choques por la parte posterior, que puede consistir en un parachoques o un bastidor; 
+    d) la protección del depósito contra los daños resultantes de choques o vuelcos utilizando un bastidor ISO conforme a la norma ISO 1496 3;
+    e) la protección de la cisterna portátil contra choques o vuelco mediante una camisa con aislamiento por vacío. 
+  
+6.7.4.13          Aprobación del diseño
+
+6.7.4.13.1	Para cada nuevo diseño de cisterna portátil, las autoridades competentes de los Estados Parte o la entidad por ellas autorizada deben expedir un certificado de aprobación del diseño.  En ese certificado debe constar que la cisterna portátil ha sido examinada por esa autoridad, que es adecuada para el fin al que se la destina y que  responde a las normas que se establecen en este capítulo.  Si se fabrica una serie de cisternas portátiles sin modificación del diseño, el certificado debe ser válido para toda la serie.  El  certificado debe hacer referencia al informe de prueba del prototipo, a los gases licuados refrigerados que se permite transportar, a los materiales de construcción de la cisterna y la camisa, y al número de aprobación.  El número de aprobación debe componerse del signo o marca distintivos del Estado en cuyo territorio se haya concedido la aprobación, es decir, del signo distintivo que, conforme a la Convención de Viena sobre la Circulación, de 1968, se utiliza en el tráfico internacional, y de un número de registro.  En el certificado debe indicarse, si la hubiere cualquier otra disposición con arreglo a lo indicado en el párrafo 6.7.1.2.  La aprobación de un diseño puede aplicarse a cisternas portátiles más pequeñas hechas de materiales de la misma clase y del mismo espesor, con las mismas técnicas de fabricación, con soportes y de cierre y otros accesorios equivalentes.
+
+6.7.4.13.2	El informe sobre las pruebas de prototipo para la aprobación del diseño debe incluir por lo menos, los siguientes datos:
+
+	a) los resultados de la prueba del bastidor aplicable, especificada en la norma ISO 1496-3; 
+   b) los resultados de la inspección y pruebas iniciales previstos en el párrafo    
+       6.7.4.14.3; y 
+	c) los resultados de la prueba de choque prevista en el párrafo 6.7.4.14.1, cuando proceda. 
+
+6.7.4.14 	Inspección y Pruebas
+
+6.7.4.14.1	En el caso de las cisternas portátiles que responden a la definición de contendor dada en el Convenio Internacional sobre la Seguridad de los Contenedores (CSC), se debe someter a pruebas de choque un prototipo representativo de cada diseño. El prototipo de cisterna portátil debe demostrar ser capaz de absorber la fuerza resultante de un choque no inferior a cuatro veces (4g) la masa bruta máxima autorizada de la cisterna portátil a carga completa, con una duración característica de los choques mecánicos experimentados en el transporte ferroviario. A continuación figura una lista de la normativa sobre métodos aceptables de la realización de la prueba de choque:
+
+	Association of American Railroads,
+	Manual of  Standards and Recommended Practices,
+	Specifications for Acceptability of Tank Containers (AAR.600), 
+
+	Canadian Standards Association (CSA),
+ 	Highway  Tanks and Portable Tanks for the Transportation of
+	Dangerous Goods (B620)
+
+	Deutsche Bahn AG
+	Zentralbereich Technik, Minden
+	Cisternas portátiles, prueba dinámica de choque longitudinal
+
+	Société Nationale des Chemins de Fer Français
+	C.N.E.S.T.  002
+	Contenedores cisterna, esfuerzos externos longitudinales y pruebas 
+	dinámicas de choque
+
+	Spoornet, South Africa
+	Engineering Development Centre (EDC)
+	Testing of ISO Tank Containers
+	Method EDC/TES/023/000/
+
+6.7.4.14.2	La cisterna y los distintos componentes del equipo de cada cisterna portátil deben ser inspeccionados y probados, primero antes de ser puestos en servicio (inspección y pruebas iniciales) y después a intervalos de cinco años como máximo (inspección y prueba periódicas quinquenales) con una inspección periódica intermedia (inspección y prueba periódicas a intervalos de dos años y medio).  Esta inspección y pruebas pueden efectuarse dentro de los tres meses anteriores o posteriores a la fecha especificada.  Cuando sea necesario, en virtud del párrafo 6.7.4.14.7, se efectuará una inspección y prueba excepcionales, independiente de la fecha de la última inspección y prueba periódica.
+
+6.7.4.14.3	 Como parte de la inspección y pruebas iniciales de una cisterna portátil se debe proceder a una comprobación de las características del diseño, a un examen interno y externo del depósito de la cisterna portátil y de sus accesorios teniendo en cuenta los gases licuados refrigerados que se han de transportar en ella, y a una prueba de presión, teniendo en cuenta las presiones de prueba estipuladas en el párrafo 6.7.4.3.2.  La prueba de presión puede ser hidráulica o puede utilizarse otro líquido o gas si lo aprueban la autoridad competente o la entidad por ella autorizada.  Antes de que la cisterna portátil sea puesta en servicio, también debe efectuarse una prueba de estanqueidad y una prueba de funcionamiento satisfactorio de todos los equipos de servicio.  Si el depósito y los accesorios han sido sometidos por separado a una prueba de presión, deben someterse juntos, una vez montados, a una prueba de estanqueidad.  Todas las soldaduras sometidas al nivel máximo de esfuerzo deben ser supervisadas en la prueba inicial por radiografía, por ultrasonido o por otro método apropiado no destructivo.  Esta disposición no se aplica a la camisa.
+
+6.7.4.14.4	La inspección y pruebas a intervalos de cinco años y de dos años y medio, deben comprender un examen externo de la cisterna portátil y de sus accesorios, teniendo debidamente en cuenta los gases licuados refrigerados que se transportan, una prueba de estanqueidad, una prueba de funcionamiento satisfactorio de todos los equipos de servicio y una comprobación del vacío, cuando proceda.  En el caso de las cisternas no aisladas por vacío la camisa y el aislamiento se retirarán durante las inspecciones periódicas a intervalos de cinco años y de dos años y medio pero solamente en la medida necesaria para apreciar bien el estado en que se encuentra la cisterna.
+
+6.7.4.14.5	Además, en la inspección  y pruebas periódicas quinquenales de las cisternas no aisladas por vacío se deben retirar la camisa y el aislamiento, pero solamente en la medida necesaria para apreciar bien el estado en que se encuentra la cisterna.
+
+6.7.4.14.6	No se puede llenar ni presentar para su transporte una cisterna portátil después de la fecha de expiración de la última inspección y prueba periódica quinquenal o de los dos años y medio previstas en el párrafo 6.7.4.14.2.  Sin embargo, una cisterna portátil que se haya llenado antes de la fecha de expiración  de la última inspección y prueba periódica puede ser transportada durante un período que no exceda de tres meses de dicha fecha.  Además, las cisternas portátiles pueden transportarse después de la fecha de expiración de la última prueba e inspección periódica:
+
+    a) vacías y sin limpiar con objeto de someterlas a la siguiente prueba o inspección requerida antes de volver a llenarlas; y
+    b) salvo disposición en contrario de las autoridades competentes, durante un período máximo de seis meses después de la fecha de expiración de la última prueba o inspección periódica, con objeto de posibilitar el regreso de mercancías peligrosas para su eliminación o reciclado.  En el documento de transporte debe constar esta exención.
+
+6.7.4.14.7	La inspección y pruebas excepcionales son necesarias cuando hay indicios de que la cisterna portátil tienen zonas dañadas o corroídas, o tiene escapes u otros indicios de deficiencias que puedan afectar a su integridad.  El nivel de la inspección y pruebas excepcionales dependerá de la importancia de los daños o deterioros sufridos por la cisterna portátil.  Deben incluir por lo menos la inspección y pruebas efectuadas a los dos años y medio con arreglo al párrafo 6.7.4.14.4.
+
+6.7.4.14.8	En el examen interno durante la inspección y prueba inicial debe comprobarse que se inspecciona el depósito para comprobar si tiene picaduras, corrosión, abrasiones, abolladuras, deformaciones, defectos de soldadura o cualquier otra anomalía que pueden hacer que la cisterna portátil no sea segura para el transporte.
+
+                    6.7.4.14.9 En el examen externo de la cisterna portátil se debe comprobar que:
+
+    a) se inspecciona las tuberías externas, las válvulas, los sistemas de presurización/refrigeración cuando proceda, y las juntas para comprobar si existen zonas de corrosión, defectos y otras anomalía, incluidos los escapes, que puedan hacer que la cisterna portátil no sea segura durante el llenado, el vaciado o el transporte;
+    b) no hay escapes en los agujeros de hombre o las juntas;
+    c) se reponen los pernos o tuercas que falten o se aprieten los pernos o tuercas sueltos en las junturas con brida o en las bridas ciegas;
+    d) todos los dispositivos y válvulas de emergencia están exentos de corrosión, deformación o cualquier daño o defecto que pueda impedir su funcionamiento normal. Deben hacerse funcionar los dispositivos de cierre a distancia y las válvulas de cierre automático para comprobar que funcionan correctamente. 
+    e) las marcas prescritas sobre la cisterna portátil son legibles y cumplen las disposiciones aplicables; y
+    f) el bastidor, los soportes y los elementos de elevación de la cisterna portátil se encuentran en buen estado.
+
+6.7.4.14.10	Un técnico aprobado por la autoridad competente o la entidad por ella autorizada debe realizar o presenciar las inspecciones y pruebas indicadas en los párrafos 6.7.4.14.1, 6.7.4.14.3, 6.7.4.14.4, 6.7.4.14.5 y 6.7.4.14.7.  Si la prueba de presión forma parte de la inspección y las pruebas, la presión de prueba debe ser la que se indique en la placa de inspección de la cisterna portátil. La cisterna debe ser inspeccionada a presión para determinar si existen escapes en el depósito, las tuberías o los equipos de servicio. 
+
+6.7.4.14.11	Todos los trabajos de corte, quemado o soldadura que se realicen en los depósitos de una cisterna portátil deben ser aprobados por la autoridad competente o la entidad por ella autorizada teniendo en cuenta el código para recipientes a presión utilizando en la construcción del depósito.  Una vez terminados esos trabajos, se debe efectuar una prueba de presión a la presión de prueba inicial. 
+
+6.7.4.14.12	Si se comprueba que la cisterna portátil tiene un defecto que la hace insegura, la cisterna no debe ponerse de nuevo en servicio mientras no haya sido reparada y haya superado una nueva prueba
+ 
+6.7.4.15	Marcado                                                                                     
+
+6.7.4.15.1	Toda cisterna portátil debe tener una placa de metal resistente a lo corrosión, fijada de modo permanente en un lugar bien visible y de facial acceso para la inspección. Si por la configuración de la cisterna portátil la placa no puede fijarse de modo permanente sobre el depósito, se deberá indicar sobre éste al menos la información prescrita por el código para recipientes a presión. En la placa se grabará, por estampado o por otro método similar, como mínimo la siguiente información:
+
+País de fabricación
+
+U	País de		Número de			Otras disposiciones
+N	aprobación      	aprobación			            “AA” 
+
+Nombre o marca del fabricante
+Número de serie del fabricante
+Entidad autorizada para la aprobación del diseño
+Número de matrícula del propietario
+Año de fabricación
+Código para recipientes a presión al que se ajusta el diseño del depósito 	 
+Presión de prueba____bar/kPa */ de presión manométrica
+Presión de servicio máxima autorizada _____bar/kPa de presión manométrica
+Temperatura mínima de diseño_____°C
+Capacidad de agua a 20°C_____litros
+Fecha de la prueba de presión inicial e identidad del testigo
+Material(es) del depósito y referencia(s) estándar
+Espesor equivalente en acero de referencia______mm
+Fecha y tipo de la (s) prueba (s) periódica (s) más reciente (s)
+Mes____Año_____Prueba de presión_____bar/kPa */ efectivos
+Sello del técnico que realizó o presenció la prueba más reciente
+Denominación completa de los gases para cuyo transporte se aprueba la cisterna portátil
+Aislamiento (indíquese “térmico” o “por vacío”)____
+Eficacia del sistema de aislamiento (absorción de calor)____ vatios (W)
+Tiempo de retención de referencia_____días u horas y valor inicial de la presión____bar/kPa efectivos */ y del grado de llenado___en kg para cada gas licuado refrigerado cuyo transporte se autoriza.
+
+6.7.4.15.2	En la cisterna portátil misma o en una placa de metal sólidamente fijada a la cisterna se deben marcar, además, los siguientes datos:
+
+Nombre del propietario y de la empresa explotadora
+Nombre del gas licuado refrigerado que se transporta (y temperatura media mínima de la carga)
+Masa bruta máxima autorizada_____Kg
+Tara_____kg
+Tiempo de retención real del gas que se transporta____días (u horas)
+
+Nota:  Para la identificación de los gases licuados refrigerados transportados véase también la parte 5.
+
+6.7.4.15.3	Si una cisterna portátil esta diseñada y aprobada para su manipulación en mares abiertos, en la placa de identificación aparecen las siguientes palabras: “CISTERNA PORTÁTIL PARA TRANSPORTE MARÍTIMO”.
