@@ -1,0 +1,66 @@
+Decisión CMC N° 55/04
+Título: REGLAMENTACIÓN DEL PROTOCOLO DE CONTRATACIONES PÚBLICAS DEL MERCOSUR
+Tipo de documento: planilla-16
+Archivo original: 11816_ANEXO DEC 55-04 > ANEXO DEC 55-04/Anexo V-Formato Informe Estat�stico-PT.xls
+Conversión a texto: planilla
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+[hoja: tabela final v.esp ]
+ANEXO V  DO  REGULAMENTO DO PROTOCOLO DE CONTRATAÇÕES PÚBLICAS DO MERCOSUL																					
+FORMATO DO INFORME ESTATÍSTICO ART. 21																					
+QUADRO CONSOLIDADO																					
+País:__________ Exercício:________ Unidade de Referência: US$ miles (en 30/12)																					
+ENTIDADES(1)	BENS							SERVIÇOS							OBRAS						
+	(A)	(B)	(C)					(A)	(B)	(C)					(A)	(B)	(C)				
+	LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICAÇÃO AOS SÓCIOS DO MERCOSUL COMO % DE (B)				LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICAÇÃO AOS SÓCIOS DO MERCOSUL EN (B) EN %				LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICAÇÃO AOS SÓCIOS DO MERCOSUL EN (B) EN %			
+				ARG	BRA	PAR	URU				ARG	BRA	PAR	URU				ARG	BRA	PAR	URU
+............																					
+.............																					
+TOTAL	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+[CLASIFICADOR NACIONAL DE GASTOS PÚBLICOS]	BENS																				
+	(A)	(B)	(C)																		
+	LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICADAS AO  MERCOSUL  (EM US$ MIL)				ADJUDICAÇÃO AOS SÓCIOS DO MERCOSUL EN (B) EN %													
+				ARG	BRA	PAR	URU	ARG	BRA	PAR	URU										
+TOTAL	0	0	0	0	0	0	0	0	0	0	0										
+[CLASIFICADOR NACIONAL DE GASTOS PÚBLICOS]	SERVIÇOS																				
+	(A)	(B)	(C)																		
+	LICITAÇÕES TOTAIS	LICITAÇÕES DO  PCPM (2)	COMPRA DIRETA	  ADJUDICADAS AO  MERCOSUL  (EM US$ MIL)				ADJUDICAÇÃO AOS SÓCIOS DO MERCOSUL EN (B) EN %													
+				ARG	BRA	PAR	URU	ARG	Bra	PAR	URU										
+TOTAL	0	0	0	0	0	0	0	0	0	0	0										
+[CLASIFICADOR NACIONAL DE GASTOS PÚBLICOS]	OBRAS																				
+	(A)	(B)	(C)																		
+	LICITAÇÕES TOTAIS	LICITAÇÕES DO  PCPM (2)	COMPRA DIRETA	  ADJUDICADAS AO  MERCOSUL  (EM US$ MIL)				ADJUDICAÇÃO AOS SÓCIOS DO MERCOSUL EM (B) EN %													
+				ARG	BRA	PAR	URU	ARGENTINA	BRASIL	PARAGUAY 	URUGUAY										
+TOTAL	0	0	0	0	0	0	0	0	0	0	0										
+(1) Por “Entidades”, entendem-se aquelas que estão incluídas no Anexo I del Protocolo de Contratações Públicas do MERCOSUL																					
+(2) Por “Licitações do PCPM”,  entendem-se as licitações abertas aos países do MERCOSUL, ao amparo do Protocolo de Contratações Públicas do MERCOSUL, não necessariamente adjudicadas aos Estados Partes.																					
+
+[hoja: tabela final v.port]
+ANEXO V  DO PROJETO DE REGULAMENTAÇÃO DO PROTOCOLO DE CONTRATAÇÕES PÚBLICAS DO MERCOSUL																					
+FORMATO DO INFORME ESTATÍSTICO ART. 21																					
+QUADRO CONSOLIDADO																					
+País:__________ Exercício:________ Unidade de Referência: US$ miles (en 30/12)																					
+ENTIDADES(1)	BENS							SERVIÇOS							OBRAS						
+	(A)	(B)	(C)					(A)	(B)	(C)					(A)	(B)	(C)				
+	LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICACIÓN AOS SOCIOS DO MERCOSUL COMO % DE (B)				LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICACIÓN AOS SÓCIOS DO MERCOSUL EM (B) EM %				LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICACIÓN AOS SÓCIOS DO MERCOSUL EM (B) EM %			
+				ARG	BRA	PAR	URU				ARG	BRA	PAR	URU				ARG	BRA	PAR	URU
+............																					
+.............																					
+TOTAL	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CLASSIFICADOR NACIONAL DE GASTOS PÚBLICOS	BENS																				
+	(A)	(B)	(C)																		
+	LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICADAS AO MERCOSUL  (EM US$ MILES)				ADJUDICACIÓN AOS SÓCIOS DO MERCOSUL EM (B) EM %													
+				ARG	BRA	PAR	URU	ARG	BRA	PAR	URU										
+TOTAL	0	0	0	0	0	0	0	0	0	0	0										
+CLASSIFICADOR NACIONAL DE GASTOS PÚBLICOS	SERVIÇOS																				
+	(A)	(B)	(C)																		
+	LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICADAS AO MERCOSUL  (EM US$ MILES)				ADJUDICACIÓN AOS SÓCIOS DO MERCOSUL EM (B) EM %													
+				ARG	BRA	PAR	URU	ARG	Bra	PAR	URU										
+TOTAL	0	0	0	0	0	0	0	0	0	0	0										
+CLASSIFICADOR NACIONAL DE GASTOS PÚBLICOS	OBRAS																				
+	(A)	(B)	(C)																		
+	LICITAÇÕES TOTAIS	LICITAÇÕES DO PCPM (2)	COMPRA DIRETA	ADJUDICADAS AO MERCOSUL  (EM US$ MILES)				ADJUDICACIÓN AOS SÓCIOS DO MERCOSUL EM (B) EM %													
+				ARG	BRA	PAR	URU	ARGENTINA	BRASIL	PARAGUAY 	URUGUAY										
+TOTAL	0	0	0	0	0	0	0	0	0	0	0										
+(1) Por “Entidades”, se entienden aquellas que están incluidas en el Anexo I del Protocolo de Contrataciones Públicas del MERCOSUR																					
+(2) Por “Licitaciones del PCPM”, se entienden las licitaciones abiertas a los países del MERCOSUR, al amparo del Protocolo de Contrataciones Públicas del MERCOSUR, no necesariamiente adjudicadas a los Estados Partes.

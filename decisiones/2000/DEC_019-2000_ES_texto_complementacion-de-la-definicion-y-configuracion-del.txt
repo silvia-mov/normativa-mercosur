@@ -1,0 +1,118 @@
+Decisión CMC N° 19/00
+Título: COMPLEMENTACIÓN DE LA DEFINICIÓN Y CONFIGURACIÓN DEL SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE SEGURIDAD ENTRE LOS ESTADOS PARTES DEL MERCOSUR, LA REPÚBLICA DE BOLIVIA Y LA REPÚBLICA DE CHILE
+Tipo de documento: texto
+Archivo original: 16478_DEC_019-2000_ES_Conf-Sist-Inf_Seguridad MCS_BOLCHI_Acta 1_00.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC. Nº 19/00
+
+
+
+COMPLEMENTACIÓN DE LA DEFINICIÓN Y CONFIGURACIÓN DEL SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE SEGURIDAD ENTRE LOS ESTADOS PARTES DEL MERCOSUR, LA REPÚBLICA DE BOLIVIA Y LA REPÚBLICA DE CHILE
+
+
+
+VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión CMC N° 13/99 y el Acuerdo N° 14/00 de la Reunión de Ministros del Interior del MERCOSUR, Bolivia y Chile.
+
+CONSIDERANDO: 
+
+Que mediante Acuerdo 1/98 (RMI - Buenos Aires 27/III/98) se aprobaron las Normas Generales para la Implementación del Sistema de intercambio de Información de Seguridad del MERCOSUR, Bolivia y Chile (SISME).
+
+Que se aprobó el documento denominado Definición y Configuración del SISME por Acuerdo N° 9/98 (IV RMI - Brasilia, 20/XI/98).
+
+Que es necesario avanzar en la ejecución de las acciones y etapas previstas para la puesta en servicio a pleno del SISME y en la incorporación de procesos automáticos de certificación de usuarios mediante la incorporación de tecnología de "firma digital".
+
+EL CONSEJO DEL MERCADO COMÚN
+DECIDE:
+
+Art. 1 - Aprobar la suscripción de la Complementación de la Definición y Configuración del Sistema de intercambio de Información de Seguridad entre los Estados Partes del MERCOSUR, la República de Bolivia y la República de Chile, elevada por la Reunión de Ministros del Interior del MERCOSUR,  Bolivia y Chile, por el Acuerdo Nº 14/00., que consta como Anexo y forma parte de la presente Decisión.
+
+
+
+
+
+
+
+
+XVIII CMC - Buenos Aires, 29/VI/00
+ANEXO
+
+
+COMPLEMENTACIÓN DE LA DEFINICIÓN Y CONFIGURACIÓN DEL SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE SEGURIDAD ENTRE EL  MERCOSUR, LA REPÚBLICA DE BOLIVIA Y LA REPÚBLICA DE CHILE
+
+
+1. Agregar en “2. Premisas y Requisitos” el punto “2.2.3 Tipos de Interacción”, en los términos que se consignan a continuación:
+
+2.2.3 Tipos de interacción:
+
+Las interacciones que deberán ocurrir entre los usuarios del SISME ultra fronteras nacionales pueden ser subdivididas en 3 (tres) modalidades:
+
+I. Usuario SISME con usuario SISME, para cambio de mensajes no-estructurados por medio de correo electrónico a través de los Nodos Nacionales.
+
+II. Usuario SISME con usuario SISME, para cambio de mensajes estructurados en formularios por medio de correos electrónico (scripts predefinidos), a través de los Nodos Nacionales.
+
+III. Módulo Gerenciador SISME con módulo Nacional SISME, para consultas estructuradas a las bases de datos del sistema.
+
+En interacciones entre usuarios del SISME que utilizan la estructura de correo electrónico (caso I y II) a través del Nodo Nacional respectivo, es utilizado un proceso obligatorio de firma digital u otro sistema de seguridad equivalente o superior, basado en tecnología de clave pública y privada. Los usuarios del servicio de correo electrónico reciben un certificado digital generado por un proceso de certificación, según lo descripto en el ítem 6.1.6.
+
+El certificado emitido se utiliza en los procesos de firma digital y criptografía de mensajes. Todos los mensajes intercambiados por la infraestructura de correo electrónico del SISME, deben sufrir de manera obligatoria un proceso de encriptado y certificación mediante firma digital.
+
+Para el caso III, el propio Módulo Gerenciador del SISME, definido conceptualmente en el ítem 3.2.2 del documento “Definición y Configuración del Sistema de Intercambio de Información de Seguridad del MERCOSUR, Bolivia y Chile”, deberá poner en marcha, de forma trasparente para los usuarios  (con excepción del password para login), todos los recursos de seguridad previstos en el ítem 2.2.2.
+
+
+2. Reemplazar en el literal “2. Premisas y Requisitos” el punto “2.2.2 Seguridad” por el “2.2.2 Arquitectura de Seguridad”, en los términos que se consignan a continuación.
+
+2.2.2 Arquitectura de Seguridad
+
+La arquitectura de seguridad de informaciones del SISME será proyectada y puesta en marcha  con la utilización de recursos que puedan garantizar el control de acceso a las bases de datos, el no rechazo a los legítimos usuarios, el secreto y la integridad de las informaciones en los Sistemas y en las comunicaciones entre los sistemas, utilizándose implementaciones de password, perfiles de usuarios, autenticación con firma digital, criptografía, y control de acceso físico.
+
+3. Reemplazar el literal “6. Procedimientos de Auditoría” por el punto “6. Procedimientos de Seguridad y Auditoría”, en los términos que se consignan a continuación:
+
+6. Procedimientos de Seguridad y Auditoría 
+
+6.1 Procedimientos de Seguridad
+
+6.1.1 Control de acceso lógico o Autenticación del Usuario 
+
+Cada usuario solamente podrá tener acceso lógico al sistema después de someter su password individual de login a la  verificación automática para poner en marcha el nivel de seguridad que cada Nodo Nacional determine. La autorización de acceso (login) en cada estación de trabajo conectada al sistema deberá, por medida de seguridad, ser cancelada después de algunos minutos de inactividad del usuario. Si acaso él resuelve re-comenzar su interacción con el sistema, el usuario tendrá, entonces, que someterse a nuevo procedimiento de identificación poniendo nuevamente su password para la verificación de su perfil. Todas las interacciones deberán ser registradas para auditoría.
+
+Los usuarios del servicio deben recibir una certificación digital generada por  un proceso de certificación conforme lo previsto en el ítem 6.1.6. 
+
+El SISME deberá presentar, en el Módulo Gerenciador de cada país, los siguientes dispositivos de seguridad automáticos y trasparentes para el usuario-operador:
+
+    • autenticación mutua de los usuarios y de los ordenadores servidores involucrados en los cambios de informaciones (tanto con relación a las solicitudes domésticas cuanto a las originarias de los Nodos Nacionales de otros países).
+    • criptografía, con algoritmo estandarizado de llave pública y privada definido previamente de común acuerdo entre los signatarios;
+    • La utilización de funciones y algoritmos estandarizados y conocidos, para garantizar la integridad de las informaciones.
+
+6.1.2 Autenticación de los equipamientos servidores
+ 
+En el proceso de consultas estructuradas del SISME hay interacciones, con intercambio de  solicitudes y respuestas, entre los módulos gerenciador y los módulos nacionales, procesados en los nodos nacionales de los países participantes.
+
+Cada equipamiento servidor que pertenece a un nodo nacional, donde se procesa el módulo nacional y el módulo gerenciador del país, mantiene un certificado digital generado por un proceso de certificación, según lo descripto en el ítem 6.1.6
+
+Todos las solicitudes generadas por los módulos gerenciadores y las respuestas generadas por los módulos nacionales, deben, necesariamente sufrir un proceso de certificación mediante firma digital y criptografía con el certificado digital del servidor correspondiente, de acuerdo con la estructura de datos descrita según el ítem 8.5.1 - Parámetros Comunes para todas las Rutinas 
+
+6.1.3 Perfiles de Usuarios
+
+Se deben definir distintos niveles de acceso al sistema, de acuerdo con los perfiles funcionales de los usuarios (individualmente o por grupo), de la clasificación de las informaciones de las bases de datos y de la regla básica de seguridad de las informaciones conocidas por  “necesidad de saber”. Cada usuario o grupo de usuarios (diferenciados por nivel jerárquico o tipo de actividad funcional) deberá tener su nivel de acceso asociado a las informaciones que tiene que conocer para el desempeño de sus actividades en la organización. 
+
+6.1.4 Defensa contra Ataque a las Redes 
+
+Las redes locales donde serán localizados los Nodos Nacionales y Nodos de los Usuarios del SISME, conforme definidos conceptualmente en el ítem 3.1.2 deberán ser dotadas de dispositivos de seguridad contra accesos no autorizados, con tecnología de firewall. Los órganos gestores de cada red interconectada a los Nodos Nacionales deberán elaborar y ejecutar arquitecturas de sistemas de seguridad contra ataques internos y externos (de hackers y crackers) que puedan comprometer a la seguridad de las informaciones y de los aplicativos del SISME.
+
+6.1.5 Control de Acceso Físico
+
+Los ambientes computacionales de las redes locales donde se encontrarán los puntos de acceso al SISME deberán tener protección contra el acceso de personas no autorizadas, accidentes y ataques que puedan comprometer a la seguridad de las informaciones y de los equipamientos.
+
+6.1.6 Proceso de Certificación de los Usuarios y de los Equipos Servidores
+
+El organismo responsable del Nodo Nacional de cada país utilizará los mecanismos que estime conveniente, generará y remitirá los certificados de claves públicas a los demás Nodos Nacionales para el efecto de firma digital.
+
+Cada Nodo Nacional será responsable de crear una infraestructura de firma digital u otros sistemas de seguridad equivalentes o superiores que garanticen la autenticación de los Nodos Usuarios.
+
+6.2 Procedimientos de Auditoría
+
+Los procedimientos de auditoría deberán permitir la correcta identificación del usuario del SISME que realice una determinada transacción (operación) en el sistema, como también la ubicación, tiempo (con precisión de segundos) en el que ocurrió, transacción realizada y contenido de la misma. Este procedimiento deberá ser automático, continuo y trasparente para el usuario y las informaciones de esta forma generadas deberán ser almacenadas en ficheros específicos (log de usuarios) para consultar después online, por un período de tiempo mínimo de 3 (tres) meses, y en otra modalidad de consulta, por un período de tiempo indeterminado, a efectos de su disponibilidad para auditoría por la Comisión Administradora del SISME. 
+
+Las rutinas de auditoría deberán prever consulta estructurada y aplicativos para consulta no-estructurada a los datos del SISME en el Nodo Nacional y en el Módulo Gerenciador, teniendo como parámetro mínimo de ejecución el acceso a las informaciones previstas en el ANEXO D, ítem 8.3.2. Esas consultas deberán ser especificadas por los gestores de cada Nodo Nacional y aplicadas solamente en el ámbito computacional de las redes de cada país signatario.

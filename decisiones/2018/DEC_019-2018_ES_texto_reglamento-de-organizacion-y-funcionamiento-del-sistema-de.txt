@@ -1,0 +1,193 @@
+Decisión CMC N° 19/18
+Título: REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE SEGURIDAD DEL MERCOSUR (SISME)
+Tipo de documento: texto
+Archivo original: 71413_DEC_019- 2018_ES_Reglamento SISME.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC. Nº 19/18
+
+REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE SEGURIDAD DEL
+MERCOSUR (SISME)
+
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Decisiones N°36/04 y 17/17 del Consejo del Mercado Común.
+
+CONSIDERANDO:
+
+Que el Sistema de Intercambio de Información de Seguridad del MERCOSUR fue creado como herramienta de cooperación y asistencia recíproca entre los Estados Partes, por medio de las fuerzas de seguridad, policiales y demás organismos comprometidos con la seguridad de la región, con vistas a combatir todas las formas de crimen organizado.
+
+Que es necesario actualizar el Reglamento de Organización y Funcionamiento del SISME en razón de los nuevos desarrollos tecnológicos. 
+
+
+EL CONSEJO DEL MERCADO COMÚN
+DECIDE:
+
+Art. 1 - Aprobar el “Reglamento de organización y funcionamiento del Sistema de intercambio de Información de Seguridad del MERCOSUR (SISME)”, que consta como Anexo y forma parte de la presente Decisión.
+
+Art. 2 - Esta Decisión no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+LIII CMC - Montevideo, 17/XII/18.
+
+
+ANEXO
+REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL SISTEMA DE INTERCAMBIO DE INFORMACIÓN DE SEGURIDAD DEL MERCOSUR
+
+CAPÍTULO I
+DE LAS  CONSIDERACIONES  GENERALES
+
+       Artículo 1 
+
+La organización y funcionamiento del Sistema de Intercambio de Información de Seguridad del MERCOSUR (SISME) se regirá por las previsiones del presente reglamento.
+
+       CAPíTULO II
+DE LA  ESTRUCTURA
+
+               Artículo 2
+
+El SISME está compuesto de conformidad con lo establecido en el Anexo de la Decisión CMC N° 36/04 sus modificatorias y/o complementarias.
+
+CAPÍTULO III
+DE LA GERENCIA Y AUDITORÍA DEL SISTEMA
+
+       Artículo 3
+
+Las funciones del Grupo de Trabajo Especializado Informática y Comunicaciones (GTEIC) establecidas en el Anexo de la Decisión CMC N° 36/04 deberán adecuarse a lo previsto en el presente Reglamento.  
+
+Dicho Grupo es el responsable de que la información estructurada en toda la extensión del Sistema se encuentre disponible en tiempo real.
+
+El monitoreo del Nodo Central SISME podrá ser llevada a cabo por el Nodo Enlace del Estado Parte en ejercicio de la Presidencia Pro Tempore o por quien designe el GMC, a propuesta de la Reunión de Ministros del Interior y de Seguridad (RMIS).
+
+                   Artículo 4
+
+Desde el inicio de la conexión al SISME, el usuario deberá someterse a los procedimientos de validación del enlace, consultas y respuestas a que dé lugar el SISME, a fin de garantizar tanto la autenticidad del Nodo Enlace como del Nodo Gestor requirente y la confidencialidad e integridad de la información.
+
+               Artículo 5
+
+El GTEIC podrá modificar la arquitectura, el sistema de intercambio de datos y los procedimientos en sus sesiones ordinarias o extraordinarias, debiendo informar en forma previa a su implementación a la Comisión Técnica de la RMIS, de acuerdo al cronograma de prioridades definido por la misma. 
+
+               Artículo 6
+
+De suscitarse inconvenientes de índole técnico relativos al funcionamiento del SISME, el Nodo Enlace afectado deberá poner en conocimiento de tal circunstancia al GTEIC, en su carácter de administrador del Nodo Central SISME, a fin de que éste adopte las medidas necesarias para su solución. Si no se resolviese tal inconveniente, se requerirá la intervención de la Comisión Técnica de la RMIS quien recomendará los pasos a seguir. 
+
+               Artículo 7
+
+Cada Nodo Enlace será administrado por el/los organismo/os que a tales efectos designe cada Parte.
+
+Dicho organismo será responsable del correcto funcionamiento del Nodo Enlace y adoptará las medidas adecuadas para garantizar el cumplimiento del presente Reglamento.
+
+El Nodo Enlace será responsable ante sus pares de la consistencia, congruencia y accesibilidad de los datos suministrados por los respectivos Nodos Gestor.
+
+               Artículo 8
+
+El Nodo Enlace designará un funcionario titular y un alterno especialistas en materia tecnológica como responsables, priorizando siempre la continuidad del normal funcionamiento del servicio. Cada Parte notificará al Estado Parte en ejercicio de la Presidencia Pro Tempore y a la gerencia del Nodo Central SISME la designación de los funcionarios titular y alterno a cargo del Nodo Enlace en cada uno de los Estados Partes.
+
+Los responsables deberán mantener informada a la gerencia del Nodo Central SISME sobre todos los aspectos relativos al funcionamiento y difusión del Nodo Enlace.
+
+Los cambios en los funcionarios designados que afecten el desarrollo y mantenimiento de la plataforma deberán ser informados a la gerencia del Nodo Central SISME.
+
+               Artículo 9
+
+Los Nodos Gestores serán administrados por cada organismo integrante del Sistema, siendo responsables ante el Nodo Enlace de la consistencia y congruencia de la información proporcionada. 
+
+Cada Parte definirá la forma de comunicación entre el Nodo Enlace y sus Nodos Gestores ajustándose a las medidas de seguridad definidas por la gerencia del Nodo Central SISME.
+           
+           Artículo 10
+
+El Nodo Central SISME será el encargado de mantener la auditoría de las transacciones desde y hacia los Nodos Enlace.
+
+El Nodo Enlace será el encargado de la Auditoría de las transacciones desde y hacia sus Nodos Gestor. 
+ 
+Se entenderá por transacciones las consultas realizadas y respuestas brindadas a través de la plataforma.
+
+Los Nodos Gestor asimismo, podrán realizar las auditorías de las transacciones iniciadas por usuarios de su red como de su Nodo Enlace.
+
+           Artículo 11
+
+Los procedimientos de auditoría deberán permitir la correcta identificación del usuario del SISME que realice determinada transacción en la plataforma, como también organismo consultante y consultado, tiempo en el que ocurrió (fecha y hora), y su contenido. Este procedimiento deberá ser automático, continuo y transparente para el usuario y las informaciones de esta forma generadas deberán ser conservadas y encontrarse disponibles en ficheros específicos, por un período de tiempo no menor a cinco (5) años. 
+
+       CAPÍTULO IV
+DEL USO DE LA INFORMACIÓN
+       
+       Artículo 12
+
+La información intercambiada a través del SISME, por estar vinculadas a la seguridad pública, son de uso restringido de los organismos competentes. 
+
+               Artículo 13
+
+Los integrantes del Sistema deberán prever medidas que garanticen que el tratamiento y el destino de la información no deriven a fines distintos de la seguridad pública o afecten las garantías y derechos de las personas.
+
+               Artículo 14
+
+El intercambio de información se hará de acuerdo a la legislación vigente de cada Parte y sobre la base de los principios de reciprocidad y celeridad, de forma que permita el logro de los objetivos del Sistema.
+
+               Artículo 15
+
+Para el caso de intercambio de información no estructurada, es decir, la que no se encuentre en formato de base de datos o no contenga otro tipo de estructura de datos, las Partes deberán adecuar sus servicios para que el intercambio de información se realice mediante la plataforma del SISME.
+
+       Artículo 16
+
+Para interpretar las respuestas obtenidas del SISME respecto de la calificación jurídica de hechos punibles y de las medidas administrativas y/o judiciales que surjan de las mismas, deberá recurrirse a los documentos sobre homologación de delitos del MERCOSUR y glosarios de términos asociados de seguridad del MERCOSUR. 
+
+                   Artículo 17
+
+Los integrantes del Sistema tomarán todos los resguardos que impidan el conocimiento y el uso de la información por parte de personas que no sean los destinatarios, o de terceros no autorizados expresamente para acceder a dicha información.
+
+Se entiende por resguardos las medidas referentes a la protección y a la auditoría del sistema y de la información, como asimismo, sobre el procedimiento para su envío y recepción.
+
+                   Artículo 18
+
+Los integrantes del Sistema adoptarán las medidas pertinentes de acuerdo a su legislación interna vigente para sancionar a las personas que permitan que terceros no autorizados tengan conocimiento de datos intercambiados a través del SISME.
+
+       CAPÍTULO V
+DEL INTERCAMBIO DE INFORMACIÓN
+
+Artículo 19
+
+Podrán ser objeto de intercambio los datos relativos a personas, bienes y sucesos operacionales policiales y todo otro que, propuesto por la RMIS y aprobado por el CMC, se estime pertinente incorporar a futuro.
+
+
+Artículo 20
+
+Los datos personales a ser intercambiados deben ser ciertos, adecuados, pertinentes y no excesivos en relación al ámbito y finalidad para los que se hubieren obtenido. Dicha finalidad será la cooperación internacional entre organismos de seguridad para la lucha contra el terrorismo, el narcotráfico, crimen organizado y delitos contra las personas y sus bienes.
+
+Artículo 21
+
+De conformidad con lo dispuesto en el ordenamiento jurídico de cada Estado Parte, podrá no ser necesario el consentimiento del titular de los datos personales a que acceda el Sistema para su tratamiento cuando los mismos se obtengan de fuentes de acceso público irrestricto, para el ejercicio de funciones propias de los poderes del Estado, o cuando su obtención se realice entre dependencias de los órganos del Estado en forma directa, en la medida del cumplimiento de sus respectivas competencias.
+
+Artículo 22
+
+En el caso que el resultado de una consulta al SISME, de cuenta de una restricción o impedimento no internacional, el consultante comunicará inmediatamente al consultado dicha circunstancia. En caso contario el consultado podrá requerir un informe respecto de los motivos de la consulta y de las acciones tomadas basándose en las informaciones obtenidas.  
+
+Cuando el resultado de la consulta no indique la existencia de un impedimento o restricción, el consultado - cuando existan razones que lo justifiquen - podrá solicitar al consultante un informe sobre los motivos de la consulta. 
+
+Artículo 23
+
+Cada organismo participante establecerá sus procedimientos internos para la consulta al Sistema.
+
+Artículo 24
+
+La Comisión Técnica de la RMIS analizará las diferencias sobre interpretación, aplicación o incumplimiento de las disposiciones contenidas en el presente Reglamento a fin de acordar soluciones y, de ser necesario, proponer modificaciones al mismo. 
+Artículo 25
+
+En el caso que surjan divergencias con relación al acceso al Sistema y/o la utilización de la información, el Nodo Enlace afectado podrá suspender preventivamente el perfil de consulta del usuario involucrado hasta tanto las divergencias sean resueltas, poniendo tal circunstancia en conocimiento de la contraparte interesada para que se adopten las medidas correctivas pertinentes. De persistir las divergencias, la cuestión será tratada en la Comisión Técnica de la RMIS a efectos de acercar las posiciones y lograr una solución. 
+
+       CAPÍTULO VI
+DE LA GERENCIA DEL NODO CENTRAL SISME
+
+Artículo 26
+
+La gerencia del Nodo Central SISME será responsable de: 
+
+a) Desarrollar las acciones que permitan establecer los procedimientos administrativos, operativos y gerenciar los recursos a los efectos de asegurar la disponibilidad en tiempo y forma de la información de seguridad en el ámbito del SISME.
+
+b) analizar, implementar y diseñar la estructura tecnológica del SISME, entendiendo por ésta el hardware, software y los recursos que permitan satisfacer las necesidades operacionales del Sistema. 
+
+
+Artículo 27
+
+La gerencia del Nodo Central SISME deberá mantener debidamente informada a la Comisión Técnica de la RMIS de las necesidades de recursos que permitan el normal funcionamiento del Nodo Central SISME. La Comisión Técnica de la RMIS, luego de su adecuado análisis, informará tales necesidades a la RMIS para su tratamiento y a fin de ser elevadas a los órganos decisorios del MERCOSUR.
+
+DISPOSICIÓN FINAL
+Artículo 28
+
+Todo aspecto no previsto en presente Reglamento será remitido por la gerencia del Nodo Central SISME a la Comisión Técnica de la RMIS para análisis y consideración.

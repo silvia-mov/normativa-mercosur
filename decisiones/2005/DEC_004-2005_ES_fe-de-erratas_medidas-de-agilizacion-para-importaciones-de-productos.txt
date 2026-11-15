@@ -1,0 +1,110 @@
+Decisión CMC N° 04/05
+Título: MEDIDAS DE AGILIZACIÓN PARA IMPORTACIONES DE PRODUCTOS ORIGINARIOS DEL PARAGUAY
+Tipo de documento: fe-de-erratas
+Archivo original: 12492_DEC_004-2005_ES_FE_MedidasAgilzImportProdOrigPy.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC Nº 04/05
+
+
+MEDIDAS DE AGILIZACIÓN PARA IMPORTACIONES DE PRODUCTOS ORIGINARIOS  DEL PARAGUAY 
+
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº  26/03 y 13/04 del Consejo del Mercado Común y la Resolución Nº 17/04 del Grupo Mercado Común.
+
+CONSIDERANDO: 
+
+Que conforme a la Decisión CMC Nº 26/03 “Programa de Trabajo del MERCOSUR 2004 – 2006”, los Estados Partes se han comprometido a “identificar medidas de cooperación e información con respecto a medidas técnico-administrativas con miras a facilitar las exportaciones Paraguayas hacia los mercados de la Región”.
+
+Que, en la búsqueda de la transparencia del comercio exterior y en la optimización de los recursos con que cuenta, la República del Paraguay se encuentra abocada al desarrollo del Programa de Simplificación de Trámites de Exportación, con el objetivo de concretar el Sistema de Ventanilla Única del Exportador, que permitirá el registro de datos relacionados al proceso de producción y exportación; así como la generación de autorizaciones electrónicas de los organismos intervinientes en dichos procesos.
+
+Que en ocasión de las reuniones realizadas en el marco de la Comisión de Comercio del MERCOSUR, el Comité Técnico Nº 2 “Asuntos Aduaneros”, Sub Comité de Informática Aduanera, se han establecido protocolos de interconexión informática entre los servicios aduaneros de los Estados Partes, que permiten generar procesos de simplificación del comercio intrazona.
+
+Que la disponibilidad de información obtenida permitirá a las Administraciones Aduaneras de los Estados Partes, disponer de la información oficial necesaria para la agilización de los procesos de importación al momento del desaduanamiento.
+
+
+EL CONSEJO DEL MERCADO COMÚN
+DECIDE:
+
+Art. 1 – A partir del 1 de enero de 2006, la República del Paraguay pondrá a disposición de las Administraciones de Aduanas de los demás Estados Partes, los datos referentes a exportadores, productores, productos y establecimientos, contenidos en el Sistema de Ventanilla Única del Exportador.
+
+Art. 2 – La información que refiere el artículo 1, estará disponible mediante procedimientos de consultas conforme a los protocolos de interconexión establecidos entre los Sistemas Informáticos de las Aduanas, de los Estados Partes. 
+
+Art. 3 – Los Estados Partes instruirán a sus Administraciones Aduaneras a implementar las medidas técnico-administrativas que sean necesarias para efectuar la consulta de los datos referidos en el artículo 2, a partir de la disponibilidad de los mismos, con miras a facilitar el comercio de productos originarios del Paraguay hacia los mercados de la región.
+
+Art. 4 – Los datos que podrán ser objeto de consultas conforme al artículo 3, se encuentran detallados en el Anexo a la presente Decisión. 
+
+Art. 5 – Los Estados Partes deberán incorporar la presente Decisión a sus ordenamientos jurídicos nacionales antes del 1/I/2006.
+
+
+
+XXVIII CMC – Asunción, 19/VI/05 
+ANEXO
+
+REGISTRO DE EMPRESAS, PRODUCTOS Y ESTABLECIMIENTOS
+1 DATOS A NIVEL DE EMPRESAS (PRODUCTORAS Y EXPORTADORAS)
+    • TIPO DE DOCUMENTO (RUC, CEDULA DE IDENTIDAD, OTROS)
+    • NUMERO DEL DOCUMENTO
+    • NOMBRE O RAZÓN SOCIAL DE LA EMPRESA
+    • TIPO DE EMPRESA (FÍSICA, JURÍDICA)
+    • NOMBRE COMERCIAL O NOMBRE FANTASÍA
+    • SITIO WEB 
+    • TELÉFONOS
+    • NUMERO DE FAX
+    • CORREO ELECTRÓNICO
+    • DIRECCIÓN 
+    • TIPO DE EXPORTADOR (CASUAL Y PERMANENTE )
+1.1 DOCUMENTOS DIGITALIZADOS POR EMPRESAS 
+    • ESCRITURA DE CONSTITUCIÓN DE SOCIEDAD
+    • PATENTE MUNICIPAL
+    • REGISTRO ÚNICO DEL CONTRIBUYENTE
+1.2 PERSONAS AUTORIZADAS POR EMPRESAS
+    • TIPO Y NUMERO DE DOCUMENTO DE IDENTIDAD
+    • FECHA DE INICIO COMO CONTACTO DE LA EMPRESA 
+    • CARGO
+    • CEDULA DE IDENTIDAD DIGITALIZADA
+2 ESTABLECIMIENTOS Y PRODUCTOS
+2.1 DATOS GENÉRICOS DEL PRODUCTO
+    • CÓDIGO (El Clasificador que manejamos, es el emitido por UNSPSC (United Nations Standard Products and Services Code).
+    • NOMBRE TÉCNICO DEL PRODUCTO
+    • NOMBRE EN INGLES
+    • PERECEDERO SI O NO 
+    • PARTIDA ARANCELARIA
+2.2 DATOS DEL ESTABLECIMIENTO
+    • NOMBRE
+    • PAÍS
+    • DEPARTAMENTO
+    • CIUDAD
+    • DIRECCIÓN
+    • TELÉFONOS
+    • EMAIL
+2.2.1 ACTIVIDADES POR ESTABLECIMIENTOS
+    • CÓDIGO Y NOMBRE DE ACTIVIDAD
+2.2.1.1 HABILITACIÓN POR ACTIVIDAD
+        ◦ INSTITUCIÓN QUE HABILITA
+        ◦ FECHA DE REGISTRO 
+2.2.2. PRODUCTOS Y MARCAS, POR ESTABLECIMIENTOS 
+    • CÓDIGO DE PRODUCTO 
+    • NUMERO DE REGISTRO DE LA MARCA
+    • FECHA DE REGISTRO
+2.2.2.1 COMPOSICIÓN DEL PRODUCTO
+        ◦ DESCRIPCIÓN DEL COMPONENTE
+        ◦ CANTIDAD 
+        ◦ UNIDAD DE MEDIDA
+2.2.2.2 PRESENTACIÓN DEL PRODUCTO
+        ◦ DESCRIPCIÓN DE PRESENTACIÓN
+        ◦ CANTIDAD 
+        ◦ UNIDAD DE MEDIDA
+        ◦ PESO UNITARIO, PESO BRUTO, PESO NETO
+        ◦ ALTO, ANCHO, LARGO
+        ◦ TIPO DEL MATERIAL
+2.2.2.3 DATOS ADICIONALES DEL PRODUCTO
+3 PERSONAS
+    • TIPDOC: Tipo de Documento
+    • NRODOCID: Número de Documento
+    • NOMBRES: Nombres de la persona
+    • APELLIDOS: Apellidos de la persona
+    • DIRECCIÓN: Dirección
+    • TELÉFONOS: Teléfonos
+    • MÓVIL: Teléfono móvil
+    • EMAIL: Dirección de correo electrónico

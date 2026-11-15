@@ -1,0 +1,2446 @@
+Decisión CMC N° 03/23
+Título: FONDO PARA LA CONVERGENCIA ESTRUCTURAL DEL MERCOSUR PROYECTO “Modernización de la infraestructura informática de la Secretaría del MERCOSUR y del Portal Web del MERCOSUR”
+Tipo de documento: anexo-1
+Archivo original: 95565_DEC_003-2023_ES_Proyecto FOCEM Modernizacion ANEXO.pdf
+Conversión a texto: texto del PDF
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+Proyecto de Modernización
+de la Infraestructura
+Informática de la Secretaría
+del MERCOSUR y del Portal
+Web del MERCOSUR
+Programa IV FOCEM
+Contenido
+1.    Resumen Ejecutivo ............................................................................................................................................... 2
+2.    Datos Institucionales y Marco Normativo ........................................................................................................... 3
+       a. Marco normativo e institucional del Organismo Ejecutor ............................................................................. 3
+       b. Marco normativo para la compra de bienes y contratación de servicios...................................................... 4
+3.    Glosario de Términos Técnicos ............................................................................................................................ 4
+4.    Análisis de involucrados....................................................................................................................................... 8
+5.    Árbol de Problemas ............................................................................................................................................ 10
+6.    Situación sin proyecto ........................................................................................................................................ 11
+7.    Análisis de Alternativas ...................................................................................................................................... 11
+       a. Identificación de alternativas......................................................................................................................11
+       b. Criterios para análisis de alternativas..........................................................................................................18
+8.    Árbol de Objetivos ............................................................................................................................................. 19
+9.    Descripción Técnica del Proyecto ...................................................................................................................... 21
+      a.     Equipo Técnico/ Unidad de Gestión del Proyecto......................................................................................21
+      b.     Descripción de Fin y Propósito...................................................................................................................21
+      c.     Descripción de Componentes y Actividades .............................................................................................21
+10. Matriz de Marco Lógico ..................................................................................................................................... 29
+11. Relación con otros proyectos o iniciativas MERCOSUR .................................................................................... 32
+12. Sostenibilidad del Proyecto ............................................................................................................................... 32
+13. Resumen de Inversiones .................................................................................................................................... 33
+14. Cronograma de Actividades y Cronograma Financiero..................................................................................... 36
+15. Cronograma de Desembolsos del Proyecto ...................................................................................................... 37
+ANEXO I – Normativa de Referencia ......................................................................................................................... 38
+ANEXO II – Inventario de Equipamiento Informático ............................................................................................... 46
+ANEXO III - Estándar Tecnológico Equipos de Trabajo. Versión 1.1. STIC/SM ......................................................... 50
+ANEXO IV – Esquema de Distribución de Puestos de Red Actual ............................................................................ 56
+
+
+
+
+                                                                                                                                                                       1
+    1. Resumen Ejecutivo
+NOMBRE DEL PROYECTO: Modernización de la Infraestructura Informática de la Secretaría del MERCOSUR y del
+Portal Web del MERCOSUR.
+
+PROGRAMA Y C OMPONENTE FOCEM: IV - Programa de Fortalecimiento de la Estructura Institucional y del
+Proceso de Integración
+
+ORGANISMO EJECUTOR : Secretaría del MERCOSUR
+ALCANCE Y LOCALIZACIÓN GEOGRÁFICA : EDIFICIO MERCOSUR – MONTEVIDEO – URUGUAY 1
+BENEFICIARIO PRINCIPAL: Proceso de Integración MERCOSUR - Ciudadanía
+MONTO: US$ 840.988
+CRONOGRAMA DE EJECUCIÓN: 24 Meses
+DESCRIPCIÓN DEL PROYECTO:
+La Secretaría del MERCOSUR (SM) por medio del Sector de Tecnologías de la Información y la Comunicación (STIC)
+considera que la infraestructura tecnológica con la que cuenta no es adecuada para soportar las operaciones y
+procesos requeridos por el bloque, en la persecución de sus objetivos. Por tal motivo presenta un proyecto de
+adecuación de dicha infraestructura, en el marco del Programa IV del FOCEM para fortalecimiento institucional.
+Pretende específicamente lograr la mejora planteada en el Edificio MERCOSUR, sede de la Secretaría del
+MERCOSUR, y se encuentra enmarcado en el concepto de inversión, no pretendiendo sostener gastos corrientes
+de funcionamiento de los órganos.
+
+La SM sirve de sustento para diversos procesos del MERCOSUR, y también cuenta con la obligación de mantener
+acceso público a información, a través del Portal Web del MERCOSUR, y oficiar correctamente su rol de archivo
+documental. En la actualidad además de lo mencionado, se observa un marcado crecimiento en la demanda de
+software y plataformas que sirven centralizadamente a todo el bloque. En este sentido su infraestructura
+tecnológica adquiere un carácter crítico, dado que las condiciones presentes no son las adecuadas para acompañar
+todo este crecimiento.
+
+Mediante este proyecto se busca cambiar esta situación para estar alineada a los objetivos del MERCOSUR, y ser
+capaz de soportar los procesos actuales, lo que permitirá lograr un incremento en la disponibilidad de los servicios,
+resguardo de la información confiable y acceso oportuno, como así también acompañar el proceso de
+modernización que afecta al bloque.
+
+Cabe destacar que este proyecto busca lograr un impulso suficiente para acomodar las situaciones críticas actuales,
+logrando una estabilidad que permita luego, gracias a los presupuestos que sean aprobados anualmente por las
+instancias superiores competentes para gastos de funcionamiento de la SM, mantener el nivel alcanzado de
+adecuación a través del mantenimiento y la realización de inversiones menores y segmentadas.
+
+Es de vital importancia que la SM cuente con las condiciones necesarias para acompañar adecuadamente el proceso
+de integración, aportando valor agregado desde sus capacidades técnicas. La transformación digital es un
+fenómeno que atraviesa a todos los procesos, no importa el tipo de organización del cual se trate. La modernización
+de estos procesos, en su mayoría informatizados y/o automatizados, genera gran dependencia de las Tecnologías
+de la Información y las Comunicaciones (TICs) y, por ende, de su adecuado funcionamiento.
+
+
+
+1
+ Algún equipamiento puede instalarse en otro de los Organismos MERCOSUR, ya que un componente implica tener un sitio
+de recuperación de desastres.
+                                                                                                                       2
+Por otro lado, el acceso a la información -casi inmediato- al cual estamos acostumbrados en la actualidad y la
+protección de esta información se ha convertido en el mayor activo existente, como lo marca la economía del
+conocimiento, lo cual indica que se debe prestar especial atención a las TICs y sistemas web consideradas como
+aliadas estratégicas para el logro de objetivos.
+
+En conclusión, la oportunidad que presenta el Programa IV del FOCEM para adecuar la infraestructura Tecnológica
+de la SM y el rediseño del Portal Web del MERCOSUR, que sirve de apoyo estratégico al Proceso de Integración, se
+constituye en una inversión clave para que la Secretaría del MERCOSUR pueda aportar a los objetivos del proceso
+de integración del bloque.
+
+
+    2. Datos Institucionales y Marco Normativo
+    a. Marco normativo e institucional del Organismo Ejecutor
+La instancia responsable por la ejecución del proyecto es la Secretaría del MERCOSUR (SM), la que se constituirá
+como Organismo Ejecutor.
+La SM fue creada por el Tratado de Asunción (1991), que en su Art. 15 establece que el Grupo Mercado Común
+(GMC) contará con una Secretaría Administrativa con sede en la ciudad de Montevideo. Luego, el Protocolo de Ouro
+Preto (1994), en sus Arts. 31 al 33, indica que la SM será un órgano de apoyo operativo del MERCOSUR y que será
+responsable de la prestación de servicios a los demás órganos del MERCOSUR. Asimismo, enumera las actividades
+a su cargo, indicando que desempeñará, adicionalmente, las tareas que le sean solicitadas por el Consejo del
+Mercado Común (CMC), el GMC y la Comisión de Comercio del MERCOSUR (CCM).
+
+En el año 2002, en virtud de la aprobación de la Decisión CMC N° 30/02, dicha Secretaría Administrativa adquirió la
+condición de Secretaría Técnica, mediante la inclusión de un sector técnico específico en su estructura organizativa,
+autorizando asimismo a utilizar la denominación de “Secretaría del MERCOSUR” sin el agregado de
+“administrativa”.
+
+Actualmente, luego de una evolución normativa, la Decisión CMC N° 15/15 “Normas Generales para Funcionarios
+MERCOSUR”, en su Apéndice I (texto actualizado), dispone la estructura organizativa y funcionamiento de la SM.
+Sin perjuicio de las funciones y competencias asignadas específicamente al Director - como máximo responsable de
+dicho órgano- y a cada uno de los sectores, se señala que el Sector de Tecnologías de la Información y Comunicación
+(STIC) tendrá un rol preponderante en la ejecución del presente proyecto, por cuanto es el área encargada de
+gestionar los procesos de renovación tecnológica, así como de diseñar, crear, implementar y dar seguimiento a un
+Plan General de Informática en función de las necesidades de la SM y de los requerimientos de los Estados Partes,
+entre otras funciones.
+
+A partir de la Decisión CMC N° 47/14 “Lineamientos de la Política Comunicacional del MERCOSUR”, el desarrollo de
+la política comunicacional del MERCOSUR es de importancia central para alcanzar un mayor conocimiento del
+proceso de integración regional y fortalecer la imagen del bloque como un organismo internacional, a través del
+intercambio de contenidos, experiencias y tecnologías, teniendo en cuenta las asimetrías entre los medios públicos
+de los Estados Partes.
+
+En ese sentido, en 2017, mediante la Resolución GMC Nº 16/17, se crea la Unidad de Comunicación e Información
+del MERCOSUR (UCIM), en el ámbito de la SM, como una instancia especializada para desarrollar y ejecutar los
+objetivos generales y específicos de la Política Comunicacional definida por el CMC, siendo la Comisión de
+Representantes Permanentes del MERCOSUR (CRPM) el órgano responsable por la supervisión del desempeño de
+las funciones de la Unidad, y reporta a los Coordinadores Nacionales del GMC las cuestiones sustantivas que
+requieran definición.
+
+Al respecto, la Decisión CMC N° 15/15, en su literal “a”, artículo 20 del Apéndice I, refuerza que una de las funciones
+de la UCIM es la de administrar, en el ámbito de sus competencias específicas, los medios e instrumentos de
+
+                                                                                                                     3
+comunicación del MERCOSUR y producir los contenidos del sitio web del MERCOSUR, redes sociales, medios
+gráficos, audiovisuales, sonoros u otros recursos.
+En el Anexo I se presenta un resumen de los textos normativos mencionados en esta sección, a saber: Tratado de
+Asunción; Protocolo de Ouro Preto; Decisiones CMC Nº 30/02, 47/14, y 15/15; y Resolución GMC Nº 16/17.
+
+b.      Marco normativo para la compra de bienes y contratación de servicios
+En aquellos casos en que la normativa FOCEM no establezca requisitos especiales a atender, la SM aplicará la
+normativa vigente en materia de contrataciones, topes de compras, presupuestos, procedimientos internos de
+autorización, emisión de expedientes, formas de pago, control de inventario, gestión, etc., dispuesta en la
+Resolución GMC N°60/18 “Reglas básicas de ejecución presupuestal, contabilidad patrimonial y financiera de los
+órganos de la estructura institucional del MERCOSUR con presupuesto propio (Derogación de las Resoluciones GMC
+Nº 50/03, 15/12 y 34/15)”, sus modificatorias, así como en Instrucciones de Servicio emanadas de la Dirección de
+la SM y todas otras disposiciones que corresponda aplicar.
+Asimismo, cuando sea aplicable, se gestionará la exoneración y/o devolución de los impuestos que corresponda, al
+amparo de la normativa vigente en el País Sede.
+
+
+     3. Glosario de Términos Técnicos
+Alta Disponibilidad
+Disponer de un servicio, aplicación, sistema o conjunto de componentes, funcionando durante la gran mayoría del
+tiempo, con interrupciones despreciables o dentro de un rango aceptable de tiempo.
+
+Back-end
+Es la parte del desarrollo web que se encarga de que toda la lógica de una página web funcione. Se trata del
+conjunto de acciones que pasan en una web que no se visualiza. Ejemplo: la comunicación con el servidor.
+
+BCP
+La planificación de la continuidad del negocio (Business Continuity Plan o BCP) establece procesos y procedimientos
+de gestión de riesgos que tienen como objetivo evitar interrupciones en los servicios de misión crítica y restablecer
+la función completa de la organización de la forma más rápida y sencilla posible.
+
+Cliente Liviano
+Dispositivo utilizado como interfaz para acceder a una computadora virtualizada en un servidor.
+
+Clúster
+Conjunto de dos o más componentes configurados de forma tal que puedan ofrecer alta disponibilidad del servicio
+que se obtiene de ellos. Estos componentes suelen ser de idénticas características.
+
+CMS
+Sistema de Gestión de Contenidos que permite crear, organizar, publicar y eliminar contenidos de tu sitio web.
+
+Costo Total de Propiedad
+El costo total de propiedad comprende el costo de poseer algo, e incluye costo de adquisición más costos de
+mantenimiento y uso. Aplica a cualquier objeto de valor.
+
+CPD
+Siglas de Centro de Procesamiento de Datos, en inglés Datacenter.
+
+
+
+                                                                                                                   4
+DRP
+El Plan de recuperación de desastres (Disaster Recovery Plan o DRP) describe cómo es que una organización puede
+restablecer el flujo de trabajo rápidamente después de un incidente. Un DRP tiene el objetivo de apoyar a una
+organización a resolver la pérdida de datos y recuperar la operatividad de un sistema luego de un incidente no
+planeado.
+
+DRS
+Disaster Recovery Site o DRS es un sitio, físico o virtual, fuera de la ubicación física del CPD, que sirve para continuar
+operando los sistemas de información de forma parcial o total en caso de ocurrencia de un evento fortuito que
+destruya el CPD principal.
+
+Equipamiento informático
+Para este proyecto se define equipamiento informático a todo dispositivo que sirven o son utilizados por los
+usuarios. Por ejemplo, computadoras utilizadas como estación de trabajo (sea de escritorio o móvil), escáneres,
+cámaras para videoconferencia, parlantes, micrófonos, proyectores, pantallas y todo otro dispositivo necesario
+para su funcionamiento. Además, se contempla dentro de estos los accesorios necesarios para su funcionamiento
+y servidores de almacenamiento en red.
+
+Hiperconvergencia
+Tecnología que se caracteriza por concentrar diferentes componentes o funciones, que por lo general operan por
+separado, en un mismo dispositivo.
+
+Infraestructura Tecnológica
+La infraestructura tecnológica es toda tecnología, dispositivos, medios de transmisión de datos, medios de
+almacenamiento de datos y cualquier otro elemento que contribuya al funcionamiento de los sistemas informáticos
+utilizados, adquiridos o desarrollados, y mantenidos para este fin. Ejemplos: servidores, computadoras, cableado
+de red, conmutadores, ruteadores, fibra óptica, plataformas de virtualización, sistemas operativos, entre otros.
+
+Máquina Virtual
+Una máquina virtual es una computadora, ya sea servidor o estación de trabajo, generada virtualmente. Es
+controlada y administrada por otra computadora física o real. La computadora real puede generar más de una
+máquina virtual a la vez.
+
+Marca
+Es el identificador comercial de los bienes y servicios que ofrece una empresa y los diferencia de los de la
+competencia.
+
+Plan de Continuidad de Negocio
+Plan que prevé la continuidad de las operaciones de una organización en caso de ocurrencia de un incidente
+(inundación, incendio, terremoto, etc.) que impida acceder físicamente a las instalaciones y/o a sus equipos de
+trabajos principales.
+
+Plan de Recuperación de Desastres
+Plan con el mismo fin que el plan de continuidad de negocios, pero más específico para la continuidad de los
+servicios informáticos. En este caso los incidentes pueden haberse producido a nivel lógico y no tener afectación
+física, y prevé la restauración de servicios críticos, el resguardo de la información, y los procedimientos para
+recuperación en caso de pérdida de información.
+
+
+
+
+                                                                                                                        5
+Plugins
+Son pequeños programas complementarios que amplían las funciones de aplicaciones web y programas de
+escritorio.
+
+Responsive
+El diseño web responsive o adaptativo es una técnica de diseño web que busca la correcta visualización de una
+misma página en distintos dispositivos.
+
+Seguridad de la Información
+Es el conjunto de políticas, procedimientos, acciones y otras medidas que se aplican a organizaciones y sistemas
+informáticos, para resguardar la Confidencialidad, Integridad y Disponibilidad de la información propia de dichas
+organizaciones.
+
+SEO
+SEO es la abreviación de Search Engine Optimization (optimización en motores de búsqueda). Es el conjunto de
+técnicas y estrategias centradas en optimizar el posicionamiento orgánico en buscadores de Internet.
+
+Servicios
+Conjunto de sistemas funcionando sincronizadamente para brindar servicios a los usuarios, por ejemplo, una
+aplicación web y su correspondiente base de datos.
+     • Críticos: Los críticos son aquellos relacionados con la misión de la organización (core de negocio). Son
+         indispensables para las operaciones.
+     • Estándar: Servicio necesario para la organización cuya no disponibilidad afecta de forma parcial pero no
+         interrumpe las operaciones.
+     • De Apoyo: Servicios que facilitan algunas tareas de la organización o solo de sectores específicos. Por lo
+         general afectan a la eficiencia o a las estadísticas de operaciones internas y puede subsanarse su no
+         disponibilidad temporal o total.
+
+Servicios y Aplicaciones
+Programas informáticos que se ejecutan en un servidor, que poseen o no una interfaz de usuario, que procesan
+datos de entrada y devuelven o no una salida, que contribuye mediante su ejecución, a transformar, almacenar,
+mover, generar, eliminar total o parcialmente, datos e información.
+
+Sistemas Resilientes
+Sistema capaz de soportar perturbaciones y continuar funcionando, y/o recuperar su estado previo a la
+perturbación.
+
+Software
+Es un conjunto de componentes lógicos de un computador o sistema de procesamiento de datos; programa, rutina
+o conjunto de instrucciones que controlan el funcionamiento del computador.
+
+TI
+Siglas de Tecnologías de la Información.
+
+Virtualización
+Tecnología que permite generar “servidores virtuales” sobre los servidores reales o físicos. Esta tecnología permite
+hacer un mejor aprovechamiento del hardware subyacente y generar entornos aislados entre un servidor y otro
+que permiten la concurrencia de procesos y aplicaciones de una forma más segura y evitando ciertas
+incompatibilidades.
+
+                                                                                                                    6
+Virtualización de Escritorios
+Tecnología donde las computadoras de los usuarios tienen su procesamiento y almacenamiento principal en
+servidores. En este caso el usuario cuenta con una computadora de capacidades reducidas y limitadas que sirve de
+interfaz para acceder a la computadora virtual ejecutándose en el servidor. Esta computadora de capacidades
+reducidas se denomina cliente liviano.
+
+Wordpress
+Es un sistema de gestión de contenidos (CMS) gratuito y de código abierto que permite crear webs.
+
+
+
+
+                                                                                                              7
+  4. Análisis de involucrados
+           •     Ciudadanos del MERCOSUR
+           •     Delegados de los países del MERCOSUR
+           •     Organizaciones/Organismos Internacionales
+           •     Administraciones de los Estados Partes y Asociados
+           •     Órganos y Foros del MERCOSUR
+           •     Secretaría del MERCOSUR
+
+Grupos              Intereses                        Problemas Percibidos              Mandatos y Recursos
+Ciudadanos del          •   Acceder a servicios         •   Alto riesgo de             Mandato implícito por
+MERCOSUR                    del MERCOSUR a                  interrupción del           una administración
+                            través de aplicaciones          servicio                   eficiente de los recursos
+                            alojadas en la SM           •   Alto riesgo de pérdida     públicos en pos de
+                        •   Acceso a información            de información             mejoras en su bienestar
+                            pública de Interés          •   Posibilidad de
+                                                            exposición de datos
+                                                            personales
+                                                        •   Información inaccesible
+Delegados de            •   Acceder a los               •   Alto riesgo de             Normativa vigente que
+los Países del              sistemas e                      interrupción de servicio   instruye a utilizar los
+MERCOSUR                    información alojados        •   Alto riesgo de pérdida     sistemas alojados en la
+                            en la SM                        de información             SM
+Organizaciones          •   Acceso a información,       •   Alto riesgo de
+/Organismos                 estadística, acuerdos,          interrupción de servicio
+Internacionales             comercio regional.          •   Alto riesgo de pérdida
+                                                            de información
+                                                        •   Indisponibilidad de
+                                                            acceso a información
+                                                            en tiempo y forma.
+Administracion          •   Interacción de              •   Alto riesgo de             Normativa vigente
+es de los                   sistemas nacionales             interrupción de servicio   adoptada por los Estados
+Estados Partes              con sistemas alojados       •   Alto riesgo de             Partes que instruye a la
+y Asociados                 en la SM                        interrupción de            interacción con sistemas
+                                                            operaciones debido a       alojados en la SM
+                                                            fallas en la
+                                                            infraestructura de la
+                                                            SM
+Órganos y               •   Resguardo de la             •   Riesgo de pérdida de
+Foros del                   información                     información
+MERCOSUR                    recolectada por la SM       •   Afectar la reputación
+                                                            marca MERCOSUR, por
+                                                            perdida o filtración de
+                                                            información
+                                                            confidencial.
+                                                        •   Riesgo de afectar
+                                                            operaciones y/o
+                                                            acuerdos comerciales,
+                                                            por pérdida de
+                                                            información
+
+
+
+                                                                                                                   8
+Secretaría del   •   Mantener disponibles       •   Infraestructura            Normativa que la
+MERCOSUR             sus servicios internos         tecnológica sin            establece como órgano
+                     y externos                     capacidades de             de apoyo y resguardo de
+                 •   Resguardar                     soportar la demanda        documentación.
+                     correctamente la           •   Infraestructura
+                     información                    tecnológica sin alta
+                     generada por el                disponibilidad.
+                     proceso                    •   Servidores sin soporte
+                 •   Utilización de TICs            ni reemplazo de partes.
+                     para mejorar la            •   Inexistencia de un sitio
+                     eficiencia en sus              para recuperación de
+                     tareas                         desastres
+                 •   Mantener la                •   Portal Web del
+                     actualización del              MERCOSUR
+                     Portal Web del                 desactualizado
+                     MERCOSUR                   •   Equipamiento
+                 •   Mantener el                    informático obsoleto
+                     funcionamiento de          •   Red de datos con baja
+                     los sistemas                   performance
+                     específicos de la UTF      •   Salas con preparación
+                     (SRC, SGC)                     precaria para reuniones
+                 •   Mantener el                    virtuales.
+                     funcionamiento de          •   Riesgo de pérdida de
+                     los servicios                  información de
+                     específicos de la UTF          proyectos
+                     (reloj, intranet, otros)
+
+
+
+
+                                                                                                         9
+5. Árbol de Problemas
+
+
+
+
+                        10
+    6. Situación sin proyecto
+Actualmente la SM se encuentra en las condiciones descriptas en el árbol de problemas. Estas situaciones indican
+un alto riesgo de pérdida de información y de interrupciones de servicios, lo que causaría un gran impacto en
+distintos niveles.
+Asimismo, considerando que el Portal Web del MERCOSUR actúa como centralizador de información y contenidos
+oficiales del MERCOSUR, su debilitamiento perjudica la visibilidad de las actividades e iniciativas que llevan adelante
+los órganos y foros de la estructura institucional del MERCOSUR (Decisión CMC Nº 06/21 “Difusión en Internet de
+contenidos producidos por los órganos y foros del MERCOSUR”).
+Todo el acervo normativo del MERCOSUR es resguardado por la Secretaría, que desde sus fundamentos oficia de
+archivo oficial. En tiempos pasados, la SM ya fue afectada por cuestiones fortuitas, sufriendo una inundación y
+perdiendo parte de los documentos en papel, por lo que reactivamente se adecuó un lugar con protecciones,
+previendo una nueva ocurrencia.
+
+Hoy la SM brinda muchos servicios más allá del resguardo de la documentación oficial, con lo cual, el impacto de
+un hecho fortuito sería significativamente mayor, además de considerar que las amenazas en estos tiempos son
+mayores pues existen amenazas de personas y/o entidades malintencionadas capaces de afectar gravemente a la
+información almacenada. Por lo cual es imperiosa la proactividad en busca de disminuir los riesgos de ocurrencia
+de una incidencia que destruya información o interrumpa servicios.
+
+Si analizamos los impactos que podrían producirse tenemos como impactos directos:
+
+    •   Pérdida de Información
+    •   Exposición de información confidencial
+    •   Exposición de datos personales
+    •   Interrupciones de servicios brindados a los ciudadanos
+    •   Interrupciones en servicios brindados a delegados de los países
+    •   Interrupción de interacciones con sistemas externos
+    •   Interrupción de operaciones internas de la SM
+
+Y, por otro lado, impactos indirectos a consecuencia de los directos:
+
+    •   Interrupción de negociaciones
+    •   Pérdida de credibilidad
+    •   Pérdida de imagen y/o reputación institucional
+    •   Pérdidas económicas por acuerdos no logrados
+    •   Pérdidas económicas de privados por interrupciones de servicios críticos para importaciones
+
+
+    7. Análisis de Alternativas
+    a. Identificación de alternativas
+En la siguiente tabla se listan las alternativas identificadas que se consideran impactan mejor sobre lo identificado
+en el árbol de problemas, con los pros y contras que conlleva cada una.
+
+
+
+
+                                                                                                                    11
+Objetivo                  Alternativa           Pros                               Contras
+O1. Implementar           A1. Implementar           •   Funcionarios de STIC          • Exige una inversión
+    servidores y              clúster de                tienen competencias                previa por adquisición
+    licencias adecuados       virtualización            para su administración             del equipamiento
+                              local                •    Información                   • Obsolescencia del
+                                                        almacenada por la SM               hardware
+                                                   •    No depende de Internet             aproximadamente a los
+                                                        para el funcionamiento             6 años
+                                                        Interno                       • Requiere soporte de
+                                                   •    Alternativas libres                especialistas, si se opta
+                                                        existentes pueden                  por tecnologías libres
+                                                        lograr un buen servicio       • Dependencia del
+                                                   •    Capacidad de                       servicio de soporte
+                                                        personalización y             • Menor escalabilidad en
+                                                        configuración según las            comparación con
+                                                        necesidades específicas            infraestructura como
+                                                                                           servicio
+
+                          A2. Contratar            •    No exige una inversión         •   Se deben adquirir
+                              infraestructura           previa por adquisición             competencias en la
+                              como servicio             del equipamiento                   tecnología que se elija
+                              en un                •    No hay obsolescencia               por parte de STIC
+                              proveedor                 de hardware                    •   Disponibilidad sujeta a
+                                                   •    Menor carga de trabajo             servicio de Internet
+                                                        en términos de                 •   No se posee control de
+                                                        mantenimiento y                    donde se almacena la
+                                                        administración de la               información, ni si es
+                                                        infraestructura física             accedida por terceros
+                                                   •    Flexibilidad y                     no autorizados
+                                                        escalabilidad para             •   Costos variables que
+                                                        ajustar los recursos               requieren de control
+                                                        según las necesidades              frecuente
+                                                        cambiantes
+
+O2. Implementar Sitio     A1. Implementar          •    Mantiene la                    •   Suma algunos costos
+    de Recuperación de        DRS Físico                información del                    menores en el órgano
+    Desastres                 MERCOSUR                  MERCOSUR dentro de la              determinado para el fin
+                              (Sitio Remoto)            organización y/o control       •   Dependencia de la
+                                                        de los Estados Partes              disponibilidad del
+                                                   •    Control y seguridad                centro de cómputos del
+                                                        sobre la infraestructura           órgano seleccionado
+                                                        de recuperación de             •   Se debe adquirir
+                                                        desastres                          hardware para su
+                                                   •    No existen costos de               implementación
+                                                        alquiler o alojamiento
+                                                        de equipos
+
+
+
+
+                                                                                                                 12
+                         A2. Sitio en nube    •   No se requiere adquirir      •   No se posee control
+                             pública              hardware                         total de donde se
+                                              •   Nivel de disponibilidad          almacena la
+                                                  asegurado por contrato           información
+                                              •   La carga de trabajo es       •   Dificultad para asegurar
+                                                  menor en términos de             la confidencialidad
+                                                  mantenimiento y              •   Consume ancho de
+                                                  administración de la             banda de Internet
+                                                  infraestructura física del   •   Costo variable depende
+                                                  sitio                            del volumen de
+                                                                                   información
+
+O3. Adecuar Sistema de   A1. Implementar      •   Optimización del             •   Exige una inversión
+    respaldo                 sistema de           espacio utilizado para           previa por adquisición
+                             respaldo local       los respaldos                    del equipamiento (pero
+                                              •   Capacidades de                   requiere de menos
+                                                  restauración de alta             espacio lo cual resulta
+                                                  velocidad                        conveniente en
+                                              •   Fácil implementación de          comparación)
+                                                  respaldos remotos            •   Riesgo de pérdida de
+                                              •   No consume ancho de              datos en caso de
+                                                  banda de Internet                desastres o fallas en el
+                                                                                   sitio principal
+                                                                               •   Mayor carga de trabajo
+                                                                                   en términos de
+                                                                                   administración y
+                                                                                   mantenimiento
+
+
+                         A2. Contratar        •   No exige una inversión       •   Dependencia del
+                             sistema de           previa por adquisición           servicio
+                             respaldo como        del equipamiento             •   Tiempos de
+                             servicio         •   Mayor flexibilidad del           recuperación superiores
+                                                  servicio para ajustar los    •   Consumo de ancho de
+                                                  recursos según las               banda de Internet
+                                                  necesidades                  •   Información
+                                              •   Menor carga de trabajo           confidencial en
+                                                  en términos de                   infraestructura de
+                                                  administración y                 terceros
+                                                  mantenimiento
+
+
+
+
+                                                                                                        13
+O4. Establecer planes   A1. Establecer DRP     •   No tiene costos              •   Exige tiempo de
+    de continuidad          y BCP con              económicos                       funcionarios de la SM
+                            funcionarios       •   Se internaliza el            •   No hay experiencia
+                            SM                     conocimiento del plan            previa en la SM
+                                                   rápidamente                  •   Se debe asignar la
+                                               •   Posibilidad de                   responsabilidad
+                                                   personalizar y adaptar           términos de mantener y
+                                                   los planes según las             probar regularmente los
+                                                   necesidades específicas          planes
+                                                   de la organización
+
+                        A2. Contratar          •   Experiencia de los           •   Tiene costos en el
+                            Consultoría            consultores para lograr          servicio
+                            para el                un buen plan                 •   Se genera una
+                            establecimien-     •   No exige tiempo de               dependencia de
+                            to de planes           funcionarios                     terceros para la
+                            DRP y BCP                                               actualización de los
+                                                                                    planes
+
+
+O5. Actualizar          A1. Renovar            •   No exige una inversión       •   Administración y
+    Dispositivos de         estaciones de          previa por adquisición           mantenimiento
+    microinformática        trabajo                del equipamiento para            individual de los
+    conforme estándar                              la cantidad de usuarios          equipos
+                                                   actuales                     •   Requiere una inversión
+                                               •   Los usuarios ya están            en tiempo de
+                                                   acostumbrados y                  implementación/
+                                                   capacitados para el uso          reemplazo
+                                                   de estas terminales          •   Tiempo y esfuerzo
+                                               •   Mayor rendimiento y              requerido para migrar
+                                                   capacidad de                     datos y configuraciones
+                                                   procesamiento al                 de los dispositivos
+                                                   utilizar dispositivos            antiguos a los nuevos
+                                                   actualizados
+
+                        A2. Implementar        •   Implementación masiva        •   Se debe capacitar al
+                            virtualización         y mantenimiento                  usuario en el uso de
+                            de escritorios y       centralizado                     este tipo de dispositivos
+                            clientes           •   Reemplazo casi               •   Requiere una inversión
+                            livianos               inmediato ante avería            previa por adquisición
+                                                   del cliente liviano              del equipamiento para
+                                               •   Centralización y control         la cantidad de usuarios
+                                                   de los escritorios y             actuales
+                                                   aplicaciones, lo que         •   Requiere de servidores
+                                                   facilita la administración       dedicados y mayor
+                                                   y el mantenimiento               cantidad de licencias
+
+
+
+
+                                                                                                           14
+O6. Adecuar               A1. Implementar       •   Mejora en la calidad de     •   Costo de equipos
+    tecnologías para          tecnología para       video y audio.              •   Posible afectación de
+    videoconferencias         video-            •   Comodidad de uso                estética antigua
+                              conferencias      •   Mejora visual y             •   Necesidad de capacitar
+                                                    ordenamiento de cables          al personal interno para
+                                                •   Menor tiempo de                 utilizar y administrar la
+                                                    preparación de salas            tecnología de
+                                                    para reuniones                  videoconferencia
+
+                          A2. Contratar         •   No se altera la estética    •   Exige una inversión
+                              servicios de          de salones antiguos             previa por adquisición
+                              video-            •   Menor carga de trabajo          del equipamiento
+                              conferencias          en términos de              •   Dependencia del
+                                                    configuración y                 proveedor de servicios
+                                                    mantenimiento, ya que
+                                                    el proveedor se encarga
+                                                    de ello
+
+O7. Implementar           A1. Contratar una     •   No se requiere de           •   Almacenamiento puede
+    dispositivos de           empresa que           hardware de                     estar condicionado por
+    digitalización de         digitalice todo       digitalización                  parámetros del
+    documentos                el archivo        •   Rapidez en la ejecución         software del proveedor
+                                                    del proceso de              •   Puede cubrir los
+                                                    digitalización, ya que la       documentos actuales,
+                                                    empresa se dedica               pero no los futuros
+                                                    exclusivamente a la         •   Se genera la
+                                                    digitalización de               dependencia de una
+                                                    documentos                      empresa externa y sus
+                                                •   No se requiere la               políticas de servicio
+                                                    adquisición y
+                                                    mantenimiento de
+                                                    dispositivos de
+                                                    digitalización
+
+                          A2. Implementar       •   Proceso interno a           •   Carga de trabajo inicial
+                              dispositivos          medida                          para funcionarios
+                              para              •   Proceso puede ser           •   Suma costos en
+                              digitalización        continuado en el                dispositivos para
+                                                    tiempo                          digitalizar
+
+
+O8. Actualizar            A1. Implementar       •   Red con alta                •   Exige una inversión
+    dispositivos de red       redes definidas       disponibilidad                  previa por adquisición
+                              por software      •   Fácil administración            del equipamiento
+                                                •   Mejora notable en           •   Exige una inversión
+                                                    aspectos inalámbricos           previa por adquisición
+                                                                                    de cableado
+
+
+
+
+                                                                                                         15
+                       A2. Implementar       •   Red con alta               •   Tecnología que tiende a
+                           red redundada         disponibilidad                 disminuir y ser
+                           con tecnología    •   Administración                 reemplazada
+                           tradicional           tradicional
+                                             •   Mejora notable en
+                                                 aspectos inalámbricos
+                                             •   Dispositivos con costo
+                                                 estándar
+                                             •   Cableado relativamente
+                                                 más sencillo
+
+O9. Adecuar cableado   A1. Reemplazar el     •   Baja latencia de acceso    •   Exige una inversión
+    de la red              cableado              a información por los          previa por adquisición
+                           existente para        usuarios                       del cableado
+                           conseguir una     •   Disponibilidad para
+                           red adecuada          implementación de
+                           para anchos de        VoIP futura
+                           banda gigabit     •   Mejora en la
+                                                 identificación de
+                                                 puertos
+                                             •   Mejora en la
+                                                 organización del
+                                                 cableado en el centro
+                                                 de distribución de
+                                                 cableado
+                                             •   Agregar redundancias
+                                                 necesarias
+
+                       A2. Mantener          •   Sin costo                  •   Puertos defectuosos
+                           cableado actual                                  •   Latencias altas
+                                                                            •   Imposible lograr alta
+                                                                                disponibilidad por falta
+                                                                                de cableado.
+                                                                            •   Cableado desordenado
+                                                                            •   Imposibilidad de
+                                                                                soporte para VoIP
+
+O10. Actualizar        A1. Implementar       •   Segmentación y manejo      •   Costo de dispositivos
+   dispositivos de         Firewalls de          del tráfico eficiente          inicial
+   seguridad               Nueva             •   Competencias de STIC
+   perimetral              generación con        en su administración
+                           capacidades de    •   Relación costo beneficio
+                           administración
+                           unificada de
+                           amenazas
+
+
+
+
+                                                                                                     16
+                     A2. Otra fabricante     •   Facilidad de              •   Desconocimiento de la
+                         de firewalls de         implementación, si es         administración por
+                         nueva                   por software                  parte de STIC
+                         generación, y/o     •   Posible menor costo, si   •   Rendimiento varía de
+                         firewalls por           es por software               acuerdo con el
+                         software                                              proveedor
+                                                                           •   Puede ser hardware no
+                                                                               especifico
+                                                                           •   Dependencia de servicio
+                                                                               de Internet si el
+                                                                               software no se ejecuta
+                                                                               localmente
+
+O11. Desarrollar     A1. Establecer          •   Experiencia en la         •   Algunas tareas más
+   políticas de          política de SI          implantación de               lentas debido a los
+   seguridad de la       que contemple           políticas SI                  controles
+   información           mejora              •   Ayuda en la               •   Exponer procesos a
+                         continua y              concientización de            terceros durante la
+                         realizar análisis       usuarios                      implementación
+                         de
+                         vulnerabilida-
+                         des periódicos,
+                         guiados por
+                         una empresa
+                         especializada
+                         en SI
+
+                     A2. Establecer          •   Sin costo económico en    •   Mayor resistencia al
+                         política de SI          el proyecto                   cambio de usuarios
+                         que contemple                                         cuando la iniciativa es
+                         mejora                                                interna.
+                         continua y                                        •   Poca experiencia previa
+                         realizar análisis                                     en comparación con
+                         de                                                    empresa especializada
+                         vulnerabilida-                                    •   Exige una inversión de
+                         des periódicos                                        tiempo por parte de
+                         por cuenta                                            funcionarios de la SM
+                         propia del STIC
+
+O12. Rediseñar el    A1. Contratar una       •   Garantía de entrega del   •   Costo del servicio
+   Portal Web del        empresa                 producto final
+   MERCOSUR              especializada       •   Aplicación de
+                         en diseño web           estándares de
+                                                 usabilidad y
+                                                 accesibilidad
+
+
+
+
+                                                                                                     17
+                     A2. Realizar el           •    Sin costo adicionales          •   Retraso en la entrega
+                         rediseño                   para la institución                del producto
+                         internamente                                              •   Mayor carga de trabajo
+                         en la SM                                                      a los funcionarios de la
+                                                                                       SM
+                                                                                   •   Plazos dependen de las
+                                                                                       prioridades en tareas de
+                                                                                       los sectores
+                                                                                       involucrados
+
+
+
+
+b. Criterios para análisis de alternativas
+   Los criterios que se utilizarán para definir una estrategia a partir de las alternativas listadas/comparadas
+   son:
+            1. Costo de implementar estrategia vs Beneficio obtenido
+            2. Facilidad de implementación (tiempo y esfuerzo)
+            3. Conocimiento de la estrategia
+
+   Con dichos criterios configuramos una matriz de priorización con valores que van del 1 al 5, siendo 5 la
+   mejor ponderación y 1 la peor. Para cada alternativa se hace una valoración en base a la experiencia y
+   conocimientos del formulador del proyecto, en las 3 dimensiones planteadas.
+
+   Se resaltaron las opciones más convenientes en cada caso:
+
+                                                            Criterio   Criterio   Criterio
+                       Objetivo           Alternativa                                      Total
+                                                                1          2          3
+                                               A1               4          5          5     14
+                          O1
+                                               A2               3          2          1      6
+                                               A1               5          3          5     13
+                          O2
+                                               A2               2          4          3      9
+                                               A1               5          3          5     13
+                          O3
+                                               A2               2          5          3     10
+                                               A1               4          3          5     12
+                          O4
+                                               A2               2          3          4      9
+                                               A1               5          3          4     12
+                          O5
+                                               A2               1          5          1      7
+                                               A1               3          3          4     10
+                          O6
+                                               A2               5          3          5     13
+                                               A1               3          4          3     10
+                          O7
+                                               A2               5          5          5     15
+                                               A1               5          2          5     12
+                          O8
+                                               A2               1          5          1      7
+                                               A1               5          4          5     14
+                          O9
+                                               A2               1          1          1      3
+                                               A1               4          5          5     14
+                          O10
+                                               A2               3          4          2      9
+                                               A1               3          5          5     13
+                          O11
+                                               A2               5          2          2      9
+
+                                                                                                            18
+                                                   A1              5          5         5        15
+                              O12
+                                                   A2              3          1         3        7
+
+
+
+    8. Árbol de Objetivos
+Antes de pasar a describir la matriz de marco lógico para el proyecto se define el correspondiente Árbol de
+Objetivos, donde se establecen el Fin, el Propósito, que es el objetivo principal del proyecto, y los Componentes,
+que surgen de aplicar las estrategias seleccionadas. Además, se subdividen los componentes en las principales
+actividades del Proyecto. Con esto se obtiene la siguiente estructura:
+
+
+
+
+                                                                                                               19
+20
+    9. Descripción Técnica del Proyecto
+    a. Equipo Técnico/ Unidad de Gestión del Proyecto
+Para llevar adelante el proyecto la SM designó un equipo de trabajo o unidad de gestión del proyecto, en el cual
+participan el Sector de Tecnologías de la Información y la Comunicación (STIC), la Unidad Técnica de Cooperación
+Internacional (UTCI), el Sector de Administración -Área de Contabilidad y Administración (SA) y la Unidad de
+Comunicación e Información del MERCOSUR (UCIM), comunicado al GMC y la CRPM mediante la Notas SM/654/22
+de fecha 21/11/2022 y SM/241/23 de fecha 27/04/2023, y tomado conocimiento por la CRPM en su Acta N°04/23
+de fecha 27/04/2023.
+El STIC es el sector que, por su naturaleza y tipo de proyecto, lo lidera, cumpliendo el rol de dirección del proyecto.
+La UTCI, brinda apoyo al director del proyecto en la formulación y presentación de este, así como en la elaboración
+de la documentación de seguimiento exigida por la normativa FOCEM y/u otras disposiciones en la materia, y la
+UCIM supervisará la ejecución del componente “Portal Web del MERCOSUR Actualizado”. Por último, el SA- Área
+de Contabilidad y Administración, por medio de un funcionario designado como responsable contable, se encargará
+de la ejecución presupuestaria, de los procesos de compra de bienes, contratación de servicios y auditorias
+contables, y prepara la rendición de cuentas sobre la utilización de los recursos recibidos, entre otras tareas que
+sean solicitadas por el director del proyecto
+
+Este equipo puede variar en número, sector y nombres de los funcionarios asignados, en función de las necesidades
+propias de la SM y es el Director de la Secretaría quien dispone la organización de este, previendo una notificación
+al GMC en caso de considerarse necesaria. No obstante, esa posibilidad de rotación de funcionarios y tal como
+indica la normativa FOCEM aplicable, se arbitrarán los medios necesarios para asegurar el cumplimiento de la
+obligación de designación de manera permanente de un Director del Proyecto y de un Responsable contable.
+
+    b. Descripción de Fin y Propósito
+El proyecto tiene como fin que la información del MERCOSUR se encuentre accesible y asegurada. Para dar cuenta
+de la disminución a riesgo bajo de interrupción de servicios o de pérdida de información de los sistemas, se tomará
+como línea base los informes elaborados por el STIC en forma previa al proyecto. La contribución del proyecto se
+verá reflejado en un informe técnico elaborado por expertos externos o funcionarios del STIC, dicho informe se
+espera sea elaborado al menos un año después de la finalización del proyecto.
+Para ello el propósito del proyecto es adecuar la Infraestructura Tecnológica y Portal Web del MERCOSUR para los
+Objetivos del Bloque, asegurando su disponibilidad y continuidad del funcionamiento.
+
+Al finalizar el proyecto, el STIC realizará un registro de tiempo de interrupción de servicio, planificado y no
+planificados, mediante monitoreo anual. También elaborará un documento del resultado de simulacros de caída
+de la infraestructura principal. En la misma línea, al finalizar el proyecto la UCIM elaborará un informe técnico de
+accesibilidad y usabilidad del Portal Web del MERCOSUR.
+
+El propósito del proyecto será logrado como consecuencia de la implementación de los seis componentes con sus
+respectivas actividades que se presentan a continuación.
+
+    c. Descripción de Componentes y Actividades
+1. Alta disponibilidad de servicios Implementada
+Para lograr la alta disponibilidad será necesario un conjunto de servidores funcionando de forma sincronizada para
+brindar redundancia a la ejecución de procesos, lo que se conoce como clúster. Su implementación consiste en
+disponer varios servidores de procesamiento y almacenamiento interconectados funcionando en modo clúster con
+todas sus partes redundadas, logrando que si ocurre una falla en algún componente del sistema este pueda
+soportarse y continuar su funcionamiento gracias a los demás componentes. Esta implementación consta de la
+implementación de servidores y licencias, y la migración de los sistemas y procesos desde su plataforma actual a la
+
+                                                                                                                    21
+nueva ubicación. Se intentará disminuir al máximo los tiempos de interrupción durante la migración. Toda la
+implementación es llevada adelante por el equipo del STIC por lo cual no implica una contratación de servicios de
+terceros, salvo que a la hora de la contratación algún proveedor incluya los servicios dentro de los costos con el fin
+de presentar la mejor oferta.
+
+    1.1. Implementar servidores y licencias adecuados
+
+En esta actividad se prevé la adquisición de los servidores necesarios para la conformación del clúster de
+virtualización. El mismo se conforma de tres servidores de procesamiento, un servidor de almacenamiento, los
+elementos necesarios para su interconexión (Switchs, PatchCords, Tranceivers, etc.) y licencia de software
+necesarias.
+
+Luego de las adquisiciones necesarias, prosigue la instalación y configuración del hardware y software, para la
+conformación del clúster. Finalmente se realizan algunas pruebas de validación de la configuración. Esta actividad
+constará de las siguientes subactividades:
+
+    •   Elaboración de los Términos de Referencia (TDR) para la compra
+    •   Presupuestación
+    •   Selección de oferta más conveniente
+    •   Envío de la Orden de Compra
+    •   Recepción del/los Materiales y/o dispositivos
+    •   Liberación del Pago física de los dispositivos
+    •   Implementación de configuraciones
+
+Seguidamente, se deben migrar los Servicios/Aplicaciones y toda su información evaluando el mejor momento para
+interrumpir lo menos posible el funcionamiento. Además, dependiendo de la aplicación, la migración puede
+implicar varias horas de traspaso de información de un dispositivo a otro, por lo cual su calendarización es clave y
+prever tiempos muertos donde no sea posible interrumpir el servicio. Luego de cada migración será necesario
+validar el funcionamiento de la aplicación mediante pruebas de usuario.
+
+El STIC redactará un informe técnico para dar cierre a la tarea, en el informe se comunica el estado del
+funcionamiento de los servidores. Esta verificación se realiza observando el funcionamiento de los mismos.
+
+2. Respaldo de la información corregido
+
+Este componente refleja la necesidad de contar con un buen respaldo de datos y un plan de contingencias para
+actuar en caso de infortunios. Por su parte contribuye además a la disponibilidad de los sistemas ya que prevé una
+infraestructura remota capaz de soportar las operaciones críticas para el funcionamiento de la SM. Consta de tres
+grandes actividades que son, la implementación del sitio remoto, la adecuación del sistema de resguardos y la
+elaboración de los planes de continuidad.
+
+        2.1. Implementar Sitio de Recuperación de Desastres
+
+El sitio de recuperación de desastres está conformado por una ubicación, para este caso física, donde la SM pueda
+montar una infraestructura de TI capaz de soportar los servicios críticos. Este sitio debe estar geográficamente
+alejado del CPD principal para no verse afectado por el hecho catastrófico o fortuito que impide el funcionamiento
+normal. Por tal motivo, en esta actividad se plantea que la SM implemente servidores de procesamiento y
+almacenamiento (datos estructurados y no estructurados), con el software necesario y su configuración.
+
+Se priorizará que el sitio esté ubicado dentro de Uruguay por cercanía y facilidad para realizar mantenimientos en
+caso de ser necesario, aunque esta condición no resulta excluyente. Existen otras alternativas que las autoridades
+del MERCOSUR deberán evaluar y definir previo al comienzo de esta actividad, ya que es mandatorio para su
+ejecución. De todas formas, esta es una actividad que planea ejecutarse al llegar el último desembolso con lo cual
+no es necesario que la ubicación se encuentre definida hasta llegar a esa etapa.
+
+                                                                                                                   22
+Esta actividad comprende las siguientes subactividades:
+
+    •   Adquisición de hardware de contingencia
+    •   Implementación física de los dispositivos en sitio
+    •   Implementación de configuraciones
+    •   Pruebas de funcionamiento del sitio
+
+Al finalizar la actividad el STIC completará el “Registro de sitio remoto activo” comprobando el funcionamiento del
+Sitio remoto.
+
+        2.2. Adecuar Sistema de Respaldo
+
+Se deben adquirir dispositivos de hardware y software para realizar respaldos de la información, esto corresponde
+a un servidor específico para almacenar resguardos de información y además las licencias de una herramienta de
+software que sirve para realizar resguardos y replicaciones, indispensable para la realización y gestión de los
+resguardos. Esta actividad implica:
+
+    •   Adquisición del servidor para respaldos
+    •   Adquisición de licencias de software para respaldos
+    •   Implementación de plan de resguardos
+    •   Implementación de servidor y software
+
+El STIC redactará un informe técnico para dar cierre a la tarea, en el informe se comunica el estado del
+funcionamiento del sistema de respaldo. Esta verificación se realiza observando que el sistema de respaldo se
+ejecute y genere respaldo de la información.
+
+        2.3. Establecer planes de continuidad
+
+En esta actividad se debe desarrollar y establecer un plan de continuidad de negocio, por sus siglas en inglés BCP.
+Dicho plan debe prever de qué forma la SM mantiene su operatividad en caso de alguna cuestión fortuita,
+catastrófica o de otra índole, no se lo permita en su forma habitual. Puede ser que sus funcionarios no puedan
+acceder a sus lugares de trabajo y/o se interrumpan los servicios tecnológicos que la SM brinda. Este plan se
+establece a nivel organizacional, por lo cual el Director de la SM deberá aprobarlo para su validez.
+
+Además, el plan de recuperación de desastres, de sus siglas en inglés DRP, es el plan específico para la continuidad
+de los servicios tecnológicos y está contenido dentro del BCP, y deberá contemplar el establecimiento de un Sitio
+de Recuperación de Desastres por sus siglas en inglés DRS. En estos planes se establecen tiempos aceptables para
+la continuidad y para la recuperación de datos, como así también el proceder ante la imposibilidad de recuperar
+parte o el total de la información afectada. El DRP es inherente a las Tecnologías de la Información por lo tanto STIC
+es el sector que lo elabora.
+
+La elaboración del BCP es una actividad interna de la SM y requiere de la coordinación de los funcionarios y la
+Dirección para establecerlo y documentarlo, por lo cual no se prevé la contratación de servicios en esta actividad.
+
+Esta actividad constará de las siguientes subactividades:
+
+    •   Desarrollo del DRP
+    •   Desarrollo del BCP
+
+3. Equipamiento informático adecuado para el cumplimiento de tareas
+
+Este componente cubre las necesidades de actualización de dispositivos que infieren directamente en las
+actividades de los funcionarios, como así también elementos faltantes necesarios para el cumplimiento efectivo de
+la misión de la SM. Son tres actividades principales, reemplazar las computadoras, mejorar salas de reuniones para
+videoconferencias, y permitir la digitalización y resguardo adecuado de documentos.
+
+                                                                                                                   23
+        3.1. Actualizar Dispositivos de microinformática conforme estándar
+
+Se reemplazarán las computadoras del parque informático de la SM que no se ajusten al estándar tecnológico que
+la SM tiene establecido vía Instrucción de Servicio 12/21 en su última versión al momento N°1.1 de fecha
+17/10/2022 (ver Anexo III). Se partirá del análisis de la cantidad de equipos que no lo cumplen, según Inventario
+Informático del STIC (ver Anexo II) y se buscará reemplazar la totalidad de estos a fin de lograr un parque
+informático acorde al estándar y al uso que requieren los funcionarios en el desempeño de sus funciones.
+
+El reemplazo será realizado por personal del STIC, por lo cual no hay contrataciones de servicios externos.
+
+        3.2. Adecuar tecnologías para videoconferencias
+
+Esta actividad prevé la adquisición e instalación de dispositivos específicos de videoconferencia para las salas de
+reuniones. Se planea actualizar proyectores en Salas A y B e implementar cámaras, micrófonos y parlantes para
+videoconferencias, todo esto organizando su conexionado para minimizar el cableado necesario, facilitar la
+operación y mejorar la calidad de imagen y sonido. En la Sala Olarreaga se actualizará el sistema de cámara, sonido
+y se mejorará el sistema de conexionado que posee la mesa de reuniones. Por su parte en las salas de la planta baja
+(CCM y Conferencias) que no son de uso exclusivo de la SM, se implementará un sistema de videoconferencias
+móvil que pueda retirarse o dejar protegido cuando las salas sean utilizadas para fines que no involucren al
+MERCOSUR. También se actualizará el sistema de audio para mejorar su calidad de sonido.
+
+Puede haber contrataciones en esta actividad para realizar cableados complejos, en las salas de la planta baja, el
+proveedor indicó que se debe analizar específicamente al momento del reemplazo, ya que no se pueden
+desconectar los dispositivos actuales mientras no se tenga el reemplazo.
+
+Esta actividad, como todas las que involucran adquisiciones, conlleva un proceso de concurso de precios y selección
+de oferta más conveniente. En la presupuestación de esta actividad una empresa local realizó un relevamiento in
+situ consultando las necesidades de la SM en cada sala. Existe un inventario de equipos actuales que se encuentra
+en el Anexo II, en el cual se indican los reemplazos de los dispositivos que sean defectuosos, se encuentren
+obsoletos por limitaciones de funcionalidades, no obstante, podrían surgir otros criterios que se identifiquen
+durante la ejecución del proyecto.
+
+        3.3. Implementar dispositivos de digitalización de documentos
+
+En esta actividad se contempla implementar los dispositivos necesarios para que la SM pueda digitalizar
+documentos y almacenarlos. Se comprarán dispositivos de digitalización y un servidor de almacenamiento de datos
+no estructurados que servirá para alojar los documentos digitalizados, así como imágenes, video y otros contenidos
+multimedia, requeridos por la SM. Como se mencionó en la actividad de 2.1 este último servidor debe contar con
+su debido respaldo en el sitio de contingencia.
+
+Se planea adquirir dos escáneres de alta velocidad de 45 PPM, y un servidor de almacenamiento tipo NAS
+(Almacenamiento conectado a la red) con 20TB de espacio utilizable. Con esto se prevé poder digitalizar toda la
+base documental existente en papel y se proyecta que el espacio libre sirva para crecer un 50% más de la cantidad
+actual de documentos a digitalizar.
+
+Esta actividad consta de las siguientes subactividades:
+
+    •   Realizar la adquisición de los dispositivos
+    •   Establecer un lugar para la instalación de los dispositivos de digitalización
+    •   Implementar el servidor de almacenamiento
+
+El STIC redactará un documento de pruebas de digitalización para dar cierre a la tarea. El documento describe las
+pruebas de los dispositivos si estos funcionaron correctamente o incorrectamente, realizando pruebas de
+calibración, inspección visual de los documentos escaneados, pruebas de almacenamiento del documento
+
+                                                                                                                24
+digitalizado en el dispositivo de almacenamiento indicado. Además, se obtiene información directamente del
+dispositivo para verificar y validar su configuración.
+
+4.   Red de datos eficiente
+
+Tan importante como la ejecución de procesos y sistemas en servidores, y como la optimización de las estaciones
+de trabajo, es la interconexión de todos los elementos que hacen posible que el conjunto logre sinergia. Por esto,
+se prevé la mejora de la red de datos. Esta mejora se da tanto dentro del CPD como fuera, y considera los medios
+cableados e inalámbricos. Las dos actividades a realizar son la actualización del cableado y la implementación de
+nuevos dispositivos; configurando una red con redundancias, con anchos de banda adecuados y de buena cobertura
+inalámbrica.
+
+         4.1. Actualizar dispositivos de red
+
+Los dispositivos de red de la SM se reemplazarán por nuevos dispositivos que permitan realizar configuraciones
+avanzadas de segmentación de tráfico, detección de errores, seguridad de puertos, agregación de enlaces,
+seguridad de acceso, tolerancia a fallos, manejar eficientemente el tráfico, entre otras. También se reemplazarán y
+adicionarán dispositivos de acceso inalámbrico para ofrecer mayor cobertura y velocidad de transmisión. La
+actividad abarca el diseño de la red, la configuración de dispositivos, instalación y puesta en producción.
+
+Con esto se pretende cumplir con el diseño de dos capas, estandarizado por empresas líderes en la industria,
+eliminando la existencia de cascadas en la red.
+
+En cuanto a la red inalámbrica se pretende contar con mayor control de quienes acceden, limitar conflictos con
+equipos mal configurados que se conecten y bloquear posibles equipos infectados con malware que intenten
+conectarse.
+
+En esta actividad se contemplan:
+
+     •   Diseño de la red
+     •   Adquisición de los dispositivos (TDR, Presupuestación, Selección de oferta, Recepción de los dispositivos)
+     •   Configuración
+     •   Reemplazo de dispositivos existentes
+     •   Implementación de nuevos dispositivos
+
+Se implementarán un total de 18 dispositivos:
+
+     •   2 switches de núcleo de la red
+     •   6 switches de distribución en la sala de distribución
+     •   10 access point cubriendo principalmente salas de reuniones en primer piso y salas principales de la planta
+         baja, además del espacio de oficinas del primer piso.
+
+         4.2. Adecuar cableado de la red
+
+Se actualizará el cableado de red utilizado por la SM en el edificio, para mejorar la conectividad entre los puestos
+de trabajo y los servidores. Además, se planea agregar caminos redundantes entre los puntos de consolidación para
+tolerar fallos, si uno de los caminos se interrumpa por algún motivo. La obra de cableado contempla además retirar
+el cableado actual, identificar correctamente los puestos, prever puestos extras para dispositivos inalámbricos y
+alguna eventual migración de la telefonía sobre IP.
+El cableado de red es una contratación de servicio que incluye todos los trabajos necesarios para realizarlo y los
+materiales. Se calculó 100 puestos dobles en total, más la redundancia entre puntos de consolidación que son 3.
+
+Se adjunta en Anexo IV un plano estimado del primer piso de la SM donde se encuentran aproximadamente el 95%
+de los puestos a actualizar. El cableado será de Categoría 6, con cable UTP para los puestos y fibra óptica OM3 o
+                                                                                                                 25
+similar entre los puntos de consolidación existentes (2 en primer piso y 1 en tercero), para lograr un anillo entre
+estos. Se prevé un crecimiento en la cantidad de puestos actuales dejando un margen para conectar
+aproximadamente un 30% más de puestos de trabajo que la cantidad actual.
+
+5. Seguridad de la Información eficiente
+
+Más allá de tener los sistemas funcionando y los datos respaldados, es necesaria la gestión de la seguridad de esa
+información. Por esto es que se plantean dos actividades relacionadas al respecto, la primera es la implementación
+de una política de Seguridad de la Información que rija las decisiones y acciones a tomar, y que establezca un
+sistema de gestión de la SI, basada en estándares internacionales. Por otra parte, se requiere la implementación de
+seguridad en los bordes de la red de datos, donde se proporciona acceso a los sistemas desde Internet y se regula
+el tráfico entrante y saliente, este punto crítico es cubierto en la segunda actividad.
+
+        5.1. Actualizar dispositivos de seguridad perimetral
+
+Se adquirirán dispositivos de borde de nueva generación (Next Generation Firewall) con características de
+protección unificada contra amenazas (filtros web, anti-spam, antivirus de borde, bloqueo de aplicaciones,
+administración de tráfico de red). En este caso como en los anteriores los dispositivos deben ser redundantes y
+configurados en modo de alta disponibilidad, ya que de estos depende la disponibilidad de todos los servicios
+alojados en la SM que se acceden desde Internet. Los actuales dispositivos ya cuentan con algunas de estas
+características, pero los modelos han quedado fuera de soporte y ya no se fabrican, por lo cual es necesaria su
+actualización.
+
+La actividad comprende el proceso de compra, configuración, instalación y puesta en producción. En cuanto a la
+configuración y posterior puesta en producción, se prevé que la consultoría de la actividad 5.2 se extienda a esta
+actividad para cubrir dicha necesidad. Las siguientes subactividades comprenden su implementación:
+
+    •   Elaboración de los Términos de Referencia (TDR) para la compra
+    •   Presupuestación
+    •   Selección de oferta más conveniente
+    •   Envío de la Orden de Compra
+    •   Recepción del/los Materiales y/o dispositivos
+    •   Liberación del Pago
+    •   Implementación física de los dispositivos
+    •   Implementación de configuraciones
+
+El STIC redactará un informe técnico para dar cierre a la tarea. El informe técnico describe las conexiones
+filtradas/bloqueadas, esto se obtiene directamente del dispositivo, o haciendo una prueba con una conexión que
+el firewall debe dejar pasar y una que debe filtrar.
+
+        5.2. Desarrollar políticas de seguridad de la información
+
+Se implementará una política de seguridad de la información, que se alinee con la familia de normas ISO 27000
+relativas a la gestión de la Seguridad de la Información, teniendo siempre en cuenta las necesidades y la realidad
+de la SM, y por tanto adecuando la política a la SM. Durante esta actividad se analizará el estado actual de la
+Seguridad de la Información en la SM y se determinarán las diferencias contra el estadio óptimo. Luego se
+confeccionará un “Plan Director de Seguridad de la Información” que guie las acciones necesarias para cubrir las
+falencias detectadas y siente las bases para que todo proyecto futuro contemple los lineamientos que establezca
+las políticas de seguridad de la información en la SM.
+
+Esta actividad prevé la contratación de un servicio de consultoría que guie y acompañe al STIC en el establecimiento
+del estado actual, la determinación de la diferencia contra el estadio óptimo, el armado de la política y/o planes, y
+
+
+                                                                                                                  26
+los procesos para cubrir dicha diferencia, el desarrollo e implementación de procedimientos derivados y las
+capacitaciones/concientización a usuarios.
+
+Esta actividad constará de las siguientes subactividades:
+
+    •   Análisis del estado actual
+    •   Planificación de ajustes
+    •   Elaboración y puesta en vigencia de la política
+    •   Implementación de procedimientos
+    •   Capacitación – concientización
+
+6. Portal Web del MERCOSUR Actualizado
+
+El Portal Web del MERCOSUR está diseñado para centralizar la información oficial emanada de los órganos y foros
+del bloque, según la Política Comunicacional del MERCOSUR, que contiene información sobre áreas, temas,
+repositorio de documentación oficial, de interés para la ciudadanía y demás actores de los países del MERCOSUR.
+Además, el Portal Web del MERCOSUR (PWM) ayuda en la búsqueda de navegación, personalización, notificación
+e integración de información, y a menudo proporciona características como gestión de tareas, colaboración e
+inteligencia organizacional e integración de aplicaciones.
+
+Se rediseñará el Portal Web con el objetivo de mejorar la experiencia del usuario, haciéndolo más simple y
+minimalista. Se buscará fusionar diferentes tecnologías y aplicaciones ya existentes para optimizar la versión
+responsive del sitio. Además, se aplicarán estándares de usabilidad y accesibilidad. El PWM se ofrecerá en los
+idiomas español, portugués e inglés. Una vez validada, se reorganizará la estructura de la información y se
+modernizará el layout aplicando los estándares de la guía de identidad visual del MERCOSUR. Los contenidos de
+páginas se migrarán siguiendo los lineamientos de la Decisión CMC Nº 06/21 y Anexo III de la Resolución GMC Nº
+32/221.
+
+El Portal Web se dejará testeado y operativo, Se mejorará la interfaz visual del back-end para facilitar la
+modificación, creación y gestión de contenidos, así como para adaptar el SEO según surjan nuevas necesidades y
+datos de audiencia. Como resultado, el Portal Web cumplirá con estándares de confiabilidad, estabilidad y facilidad
+de mantenimiento.
+
+Este componente se ejecutará con la contratación de una empresa especializada.
+
+        6.1. Rediseñar el nuevo Portal Web del MERCOSUR
+
+Las métricas de uso del uso del portal serán realizadas por la UCIM, a través de reporte analítico de datos de uso del
+portal, para que la empresa seleccionada pueda contar con insumos suficientes para la definición en conjunto de
+la arquitectura de la información del sitio. La empresa seleccionada planificará, juntamente con la UCIM, el diseño
+de los componentes técnicos, funcionales y visuales de un sitio web, antes de que sea diseñado, desarrollado e
+implementado, avanzando sobre las siguientes subactividades:
+
+-   Se rediseñará el portal continuando el gestor de contenidos web (CMS o content management system) de
+    código abierto WordPress, que es un sistema para publicar contenido en la web de forma sencilla, actualizando
+    plugins y builder, para que el diseño sea versátil, sencillo y con tecnología responsive. Se utilizará un
+    cronograma de trabajo para la verificación del proceso.
+-
+    Se migrarán los contenidos de páginas, conforme los lineamientos de la Decisión CMC Nº 06/21 y Anexo III de
+    la Resolución GMC Nº 32/22.
+-   Se realizarán pruebas de usabilidad, para evaluar la capacidad para utilizar el sitio. Esto le permite identificar
+    suposiciones incorrectas y resolver problemas. Las pruebas de usabilidad y las pruebas generales de usuarios
+
+1
+ Res. GMC Nº 32/22 “Difusión en Internet de Contenidos Producidos por los Órganos y Foros del MERCOSUR
+(Reglamentación de la Dec. CMC Nº 06/21).
+                                                                                                                   27
+    se realizarán después de la creación de las páginas para validar las decisiones de diseño. La tarea se realizará
+    en coordinación con la UCIM y el STIC.
+-   Una vez finalizado el desarrollo y el testeo, aprobado por la UCIM y el STIC, se migrará la nueva web al servidor
+    y dominio definitivo.
+-   Se capacitará y transferirán todos los conocimientos necesarios, desde el proveedor contratado al equipo del
+    MERCOSUR (UCIM y STIC), para que, de manera autónoma, se pueda enfocar esfuerzos en mejora continua.
+
+Al finalizar el proceso la UCIM redactará un informe técnico, comunicando el estado del Portal Web del MERCOSUR.
+Esta verificación se realiza observando el funcionamiento de las secciones internas del PWM.
+
+
+
+
+                                                                                                                  28
+          10.           Matriz de Marco Lógico
+                 Resumen              Indicadores Objetivamente
+                                                                                           Medios de verificación                                           Supuestos
+                 Narrativo                   Verificables
+              Información del     Disminución a riesgo bajo de
+                                                                                                                                   Se realizan todas las adquisiciones, configuraciones
+              MERCOSUR            interrupción de servicios o de pérdida
+Fin
+
+
+
+
+                                                                              Informe Técnico de expertos                          necesarias del proyecto y se establecen las políticas y
+              Accesible y         de información de los sistemas de la
+                                                                                                                                   procedimientos que surjan de este
+              Asegurada           SM al año de finalizado el proyecto
+
+                                  Asegurar disponibilidad anual de
+                                                                              Registro de tiempo de interrupción de servicio del
+                                  99,99% de la infraestructura                                                                     Se reportan y monitorean las Interrupciones
+              Infraestructura                                                 servidor, planificados y no planificados, mediante
+                                  tecnológica luego de finalizado el                                                               adecuadamente
+              Tecnológica y                                                   monitoreo anual elaborado por STIC
+                                  proyecto
+Propósito
+
+
+
+
+              Portal Web del
+              MERCOSUR
+              adecuados para      Continuidad del funcionamiento de la        Resultado documentado de Simulacros de caída de
+              los Objetivos del   infraestructura tecnológica y del Portal    la infraestructura principal elaborado por STIC      Sitio remoto implementado
+              Bloque              Web del MERCOSUR probada luego de           Informe Técnico de Accesibilidad y Usabilidad        Portal Web del MERCOSUR actualizado
+                                  terminado el proyecto                       elaborado por la UCIM
+
+
+                                                                                                                                   Fabricación de componentes y entrega de proveedores
+              1. Alta
+                                  Avances en la actividad involucrada                                                              oportuna
+                 Disponibilidad                                               Registro de servidores activos en el nuevo clúster
+                                  (1.1)                                                                                            Compatibilidad para migración de servidores entre
+                 de Servicios
+                                                                                                                                   versiones de tecnología virtual
+                 Implementada
+Componentes
+
+
+
+
+                                                                              Registro de sitio remoto activo                      Decisión oportuna de Órganos Decisorios respecto a la
+                                                                              Informe sobre Funcionamiento del Sistema de          ubicación del DRS. Fabricación de componentes y entrega
+              2. Respaldo de la   Promedio de avances en las
+                                                                              Respaldo                                             de proveedores oportuna.
+                 información      actividades involucradas (2.1, 2.2 y 2.3)
+                                                                              Documentación de los planes de continuidad           Disponibilidad de involucrados para su elaboración y
+                 corregido
+                                                                              firmada                                              aprobación
+
+
+
+              3. Equipamiento
+                                  Promedio de avances en las                                                                       Fabricación de componentes y entrega de proveedores
+                 informático                                                  Inventario del equipamiento informático
+                                  actividades involucradas (3.1, 3.2 y 3.3)                                                        oportuna
+                 adecuado
+                 para el
+
+                                                                                                                                                                                             29
+                cumplimiento
+                de tareas
+                                                                                                                                Permisos para ejecutar las obras necesarias en el Edificio
+                                                                            Documento comparativo de especificaciones
+              4. Red de Datos     Promedio de avances en las                                                                    MERCOSUR y Fabricación de componentes y entrega de
+                                                                            técnicas de la red.
+                 eficiente        actividades involucradas (4.1 y 4.2)                                                          proveedores oportuna
+
+              5. Seguridad de     Promedio de avances en las                Documentos aprobados y reporte de firewall          Aprobación de la PSI. Fabricación de componentes y
+                 la Información   actividades involucradas (5.1 y 5.2)      funcionando                                         entrega de proveedores oportuna
+                 eficiente
+
+              6. Portal Web del   Avances en la actividad involucrada       Comunicación oficial a los Órganos MERCOSUR         Conformidad del órgano supervisor de la comunicación del
+                 MERCOSUR         (6.1)                                     correspondientes                                    MERCOSUR
+                 Actualizado
+                                                                                                                  Informe Técnico sobre el Estado de          Proveedor entrega el
+              1.1. Implementar servidores y licencias         Servidores virtuales funcionando en nuevo clúster   Funcionamiento de los Servidores            hardware de acuerdo a
+                   adecuados                                                                                      elaborado por STIC                          tiempos regulares
+                                                                                                                                                              Decisión oportuna de Órganos
+                                                                                                                  Registro de sitio remoto activo midiendo    Decisorios respecto a la
+              2.1. Implementar Sitio de Recuperación de       Sitio remoto funcionando en espera para entrar
+                                                                                                                  su funcionamiento mediante simulacros       ubicación del DRS Fabricación
+              Desastres                                       cuando sea necesario.
+                                                                                                                  de caída del servicio elaborado por STIC    de componentes y entrega de
+                                                                                                                                                              proveedores oportuna
+                                                                                                                  Informe Técnico sobre Estado de             Proveedor entrega el
+              2.2. Adecuar Sistema de respaldo                Sistema de respaldo funcionando                     Funcionamiento del Sistema de Respaldo      hardware y software de
+Actividades
+
+
+
+
+                                                                                                                  elaborado por STIC                          acuerdo a tiempos regulares
+
+                                                                                                                                                              Disponibilidad de
+                                                              100% de los Documentos de Planes (BCP y DRP)        Documentos de planes firmados por la
+                                                                                                                                                              involucrados para su
+              2.3. Establecer planes de continuidad           aprobados                                           Dirección de la SM
+                                                                                                                                                              elaboración
+
+                                                              Cantidad de equipamientos reemplazados /
+                                                                                                                                                              Disponibilidad de usuarios
+              3.1 Actualizar Dispositivos de                  cantidad de equipamientos fuera del estándar,       Inventario de computadoras actualizado
+                                                                                                                                                              para el reemplazo
+                  microinformática conforme estándar          según inventario
+
+
+              3.2 Adecuar tecnologías para                    Cantidad de equipamientos reemplazados /
+                                                                                                                  Inventario de dispositivos de               Permisos para trabajos en
+                  videoconferencias                           cantidad de equipamientos a ser reemplazados,
+                                                                                                                  videoconferencia actualizado                salas obtenidos
+                                                              según inventario
+
+
+                                                                                                                                                                                             30
+                                                                                                                                              Fabricación de componentes
+                                               Dispositivos de digitalización y almacenamiento de   Documento de pruebas de digitalización
+3.3 Implementar dispositivos de                                                                                                               y entrega de proveedores
+                                               imágenes funcionado                                  elaborado por STIC
+    digitalización de documentos                                                                                                              oportuna
+
+                                                                                                                                              Fabricación de componentes
+                                               Cantidad de dispositivos de red reemplazados /       Inventario de dispositivos de red
+                                                                                                                                              y entrega de proveedores
+4.1 Actualizar dispositivos de red             cantidad de dispositivos a ser remplazados, según    actualizado
+                                                                                                                                              oportuna
+                                               inventario
+                                                                                                                                              Disponibilidad de acceso a
+                                                                                                    Documento de certificación del cableado
+                                               Cantidad de puestos recableados / cantidad de                                                  puestos de trabajo, ductos y
+4.2 Adecuar cableado de red                                                                         emitido por el proveedor
+                                               puestos a ser intervenidos, según inventario                                                   entretechos
+                                                                                                    Reporte de conexiones filtradas y/o       Fabricación de componentes
+5.1 Actualizar dispositivos de seguridad       Firewalls Funcionado                                 bloqueadas por los Firewalls elaborado    y entrega de proveedores
+    perimetral                                                                                      por STIC                                  oportuna
+                                                                                                                                              Lograr política de seguridad
+                                                                                                                                              de la información alineada a
+                                               Política de seguridad aprobada por la Dirección de   Documento de la política firmado por el
+5.2 Desarrollar políticas de seguridad de la                                                                                                  normas ISO 27000 y adecuada
+                                               la SM                                                Director de la SM
+    información                                                                                                                               a la SM para la firma por
+                                                                                                                                              parte de la Dirección
+                                                                                                    Informe sobre el proceso de               Conformidad del órgano
+                                               Portal Web del MERCOSUR funcionando
+6.1. Rediseñar el Portal Web del MERCOSUR                                                           implementación elaborado por UCIM que     supervisor de la comunicación
+                                               correctamente
+                                                                                                    medirá el avance en el rediseño           del MERCOSUR
+
+
+
+
+                                                                                                                                                                             31
+    11.        Relación con otros proyectos o iniciativas MERCOSUR
+El MERCOSUR como proceso de integración está en constante evolución y muchos de los objetivos que persigue desde
+su creación fueron logrados. No obstante, restan y surgen nuevos objetivos con el tiempo, que desafían, mantienen
+y/o aceleran las acciones y respuestas del bloque.
+
+Esta evolución se evidencia en que los pedidos que recibe la SM como órgano de apoyo involucran cada vez más,
+directa o indirectamente, a las tecnologías de la información. Es ahí donde este proyecto demuestra no ser una
+iniciativa aislada, sino que surge de una necesidad para dar respuesta a los planteos recibidos.
+
+A modo de ejemplo, los órganos decisorios del MERCOSUR han impartido instrucciones a la SM para:
+
+    •   Unificar bibliotecas virtuales,
+    •   Generar una plataforma de formación,
+    •   Modernizar el Sistema de Administración y Distribución de Cupos Otorgados al MERCOSUR por Terceros Países
+        o Grupos de Países (SACME)
+    •   Desarrollar el Sistema de Administración y Control de Cupos de Importación Otorgados por el MERCOSUR a
+        Terceros Países o Grupos de Países (SACIM),
+    •   Hospedar la Plataforma de la Reunión de Altas Autoridades Sobre Derechos Humanos (RAADDHH),
+    •   Hospedar la Biblioteca Virtual “Clásicos del MERCOSUR”,
+    •   Actualizar la versión del Sistema de Estadísticas de Comercio Exterior del MERCOSUR (SECEM),
+    •   Utilizar el Sistema de Información MERCOSUR (SIM) como plataforma para la elaboración de Programas de
+        Trabajo de sus órganos y foros,
+    •   Desarrollar sistemas para los pedidos de rebajas arancelarias por medidas de abastecimiento,
+    •   Administrar los medios e instrumentos de comunicación del MERCOSUR y producir los contenidos del Portal
+        Web del MERCOSUR, redes sociales, medios gráficos, audiovisuales, sonoros u otros recursos.
+
+
+Entre otras numerosas informatizaciones de procesos, que basan su funcionamiento en la infraestructura tecnológica
+de la SM.
+
+    12.        Sostenibilidad del Proyecto
+El proyecto de Modernización de la Infraestructura Informática de la Secretaría del MERCOSUR y del Portal Web del
+MERCOSUR contempla la sostenibilidad de los objetivos que se planean alcanzar. Todo el hardware y software
+informático tiene un ciclo de vida y dependiendo del tipo de producto y del fabricante tienen prestablecidos un tiempo
+de garantía, un tiempo de venta, un tiempo de soporte y un tiempo de vida.
+
+El tiempo de garantía es el período posterior a la compra durante el cual el fabricante asume los costos de reparación
+o reemplazo de un dispositivo en caso de presentar una falla de fábrica. Dependiendo del dispositivo y marca suelen
+variar entre uno a tres años.
+
+El tiempo de venta es el período durante el cual se encuentra disponible un producto a la venta, expirado este, no
+puede adquirirse oficialmente, ya que el fabricante comienza a enfocarse en un nuevo modelo (pueden llegar a
+encontrarse en el mercado revendedores que cuenten con stock, pero no es aconsejable adquirir estos productos ya
+que su tiempo de vida será muy corto).
+
+El tiempo de soporte, es el período durante el cual el fabricante brinda un servicio de soporte y de posibilidad de
+reemplazo de partes en caso de que se requiera. Este soporte puede estar incluido o no durante un determinado
+tiempo al adquirir el producto, y luego puede tener costos extras, pero siempre que este período no haya expirado
+hay posibilidades de reparar un equipo dañado.
+
+
+
+                                                                                                                   32
+Finalmente, el tiempo de vida del producto es el total de tiempo desde que comenzó su venta hasta que se agota el
+período de soporte. Expirado el tiempo de vida el fabricante no brinda soporte y no fabrica repuestos, por lo cual el
+reemplazo de partes oficial no es posible.
+
+Por otra parte, una realidad en la industria tecnológica es que existe una obsolescencia programada y el hardware
+suele tener un tiempo de aprovechamiento o amortización de seis años como máximo.
+
+En este sentido la SM prevé solicitar mediante su presupuesto de funcionamiento los recursos necesarios para
+contratar los soportes requeridos una vez expirados los incluidos en las adquisiciones en el marco del presente
+proyecto. Dependiendo de cómo se logren estas, se configurará un plan de reemplazos de partes y componentes en
+el tiempo, a fines de lograr mantener la operativa optimizada. Esto supone inversiones a realizarse de una forma
+significativamente menos abrupta que la que se prevé dentro de este proyecto.
+
+    13.         Resumen de Inversiones
+Las inversiones suman un monto de 740.988 dólares estadounidenses, a ser financiados con recursos provenientes
+del FOCEM. Estos montos pueden sufrir variaciones en el contexto actual del mercado, donde principalmente las
+demoras en las entregas pueden hacer cambiar completamente los dispositivos disponibles desde su presupuestación
+hasta la entrega. Cabe destacar que muchos de los dispositivos y/o componentes implicados siempre se configuran a
+medida, con lo cual no es nada habitual que los distribuidores posean stock, y deben importarse una vez que el
+fabricante informa que el producto está configurado.
+
+Los imprevistos pueden resultar, principalmente de faltantes de equipos o componentes en el mercado, y de
+accesorios no previstos o invisibilizados durante la planificación que durante la ejecución son indispensables. La
+inclusión de este ítem pretende anticipar inconvenientes y brindar flexibilidad, a fines de agilizar luego las
+adquisiciones en un mercado altamente dinámico como lo es el tecnológico.
+
+Por otra parte, los valores correspondientes a impuestos, que constituyen gastos no elegibles, dependen de variables
+y condiciones de la contratación específica a llevarse a cabo en cada actividad. Si se trata de un servicio debe tributar
+impuestos al contrario de si se trata de bienes. En este proyecto la mayor parte de las inversiones corresponden a
+bienes, pero existen riesgos que podrían implicar la adición o remplazo de determinado bien por un servicio. Por lo
+cual, una proyección de máxima mostraría que dichos gastos no elegibles podrían ascender a 30 mil dólares.
+
+Para dar cobertura a eventuales fluctuaciones de precios que pueden ocurrir a lo largo de la ejecución de las
+actividades se adicionó un 8% al monto de las cotizaciones enviadas por proveedores locales para la compra de bienes
+y contratación de servicios previstas en el proyecto.
+
+El resultado se muestra en la tabla a continuación:
+
+Presupuesto del Proyecto:
+                                                                                     Gastos
+                                      Nomenclador de                                                      TOTAL
+           Componente                                         FOCEM - US$          No Elegibles
+                                         gastos                                                            US$
+                                                                                       US$
+1. Alta Disponibilidad de
+                                    335, 346, 436, 441            $ 220.320,00                    -
+Servicios implementada                                                                                    $ 220.320,00
+2. Respaldo de la información
+                                    346, 436, 441                 $ 119.880,00                    -
+corregido                                                                                                 $ 119.880,00
+3. Equipamiento informático
+adecuado para el cumplimiento       346, 436, 441                 $ 139.320,00                    -
+                                                                                                          $ 139.320,00
+de tareas
+
+
+
+                                                                                                                      33
+4. Red de Datos eficiente          346, 436                     $ 175.068,00                   -
+                                                                                                       $ 175.068,00
+
+5. Seguridad de la Información
+                                   346, 436, 441                 $ 54.000,00                   -         $ 54.000,00
+eficiente
+
+6. Portal Web del MERCOSUR
+                                   345, 346, 36                  $ 32.400,00                             $ 32.400,00
+Actualizado
+
+Impuestos                          381, 382                                         $ 30.000,00          $ 30.000,00
+
+
+Total Componentes                                               $ 740.988,00                   -       $ 770.988,00
+
+                                                                 $ 50.000,00
+7. Imprevistos                     335, 346, 436, 441                                                $ 50.000,00
+
+8. Auditoria                       344, 346                      $ 20.000,00                         $ 20.000,00
+
+               TOTAL                                            $ 810.988,00        $ 30.000,00        $ 840.988,00
+
+
+
+(*) Todos los valores fueron expresados en dólares estadounidenses.
+
+
+
+Esta estimación se basa en cotizaciones solicitadas a proveedores locales (se consultó un proveedor para cada una de
+las adquisiciones a realizar), con los cuales la Secretaría interactuó en diversas oportunidades, existiendo además
+relevamientos in situ para algunos componentes. El STIC cuenta en sus archivos con las cotizaciones pertinentes en las
+que se basó la conformación de este presupuesto, a excepción del Componente VI cuya presupuestación estuvo a
+cargo exclusivo de la UCIM. A continuación, se detalla la cotización remitida por el proveedor para cada Componente
+del proyecto:
+
+
+
+
+                                                                                                                   34
+Valores presupuestados por Componente/Actividad:
+
+
+
+
+(*) Cantidad de bienes a ser adquiridos según inventario que consta en Anexo II.
+
+
+
+
+                                                                                   35
+    14.        Cronograma de Actividades y Cronograma Financiero
+En la siguiente tabla se muestra la planificación de actividades en el tiempo y los montos implicados en cada
+actividad. Cada recuadro coloreado corresponde a tres meses de proyecto.
+
+Cronograma de Actividades y Cronograma Financiero:
+
+
+
+
+Nota: En el flujo de inversiones se contabilizaron montos por su costo estimativo sin impuestos
+
+
+
+                                                                                                                36
+    15.          Cronograma de Desembolsos del Proyecto
+Para cubrir la ejecución presupuestaria se prevén tres desembolsos a lo largo del proyecto de la siguiente manera:
+
+Cronograma de Desembolsos del Proyecto
+        CRONOGRAMA DE                                    Gastos             TOTAL
+                                  FOCEM - US$
+         DESEMBOLSOS                                No Elegibles US$         US$
+
+
+ Desembolso I                            $ 70.200
+                                                                               $ 70.200
+
+
+ Desembolso II                         $ 236.520
+                                                                             $ 236.520
+
+
+ Desembolso III                        $ 434.268
+                                                                             $ 434.268
+
+Impuestos                                                   $ 30.000           $30.000
+
+Auditoria                                $ 20.000                              $ 20.000
+
+Imprevistos                              $ 50.000                              $ 50.000
+
+Total                                  $ 810.988            $ 30.000         $ 840.988
+
+
+
+Los Desembolsos I y II se planifican para el Primer Semestre y el Desembolso III se planifica para el Segundo Semestre.
+
+
+
+
+                                                                                                                     37
+ANEXO I – Normativa de Referencia
+
+Tratado de Asunción, Art. 15 – “El Grupo Mercado Común contará con una Secretaría Administrativa, cuyas principales
+funciones consistirán en la guarda de documentos y comunicación de actividades del mismo. Tendrá su sede en la
+ciudad de Montevideo.”
+
+Protocolo Adicional al Tratado de Asunción sobre la Estructura Institucional del MERCOSUR – Protocolo de Ouro
+Preto –
+
+Art. 31- El Mercosur contará con una Secretaría Administrativa como órgano de apoyo operativo. La Secretaría
+Administrativa del Mercosur será responsable de la prestación de servicios a los demás órganos del Mercosur y tendrá
+sede permanente en la ciudad de Montevideo.
+
+Art. 32 –La Secretaría Administrativa del Mercosur desempeñará las siguientes actividades:
+
+I- Servir como archivo oficial de la documentación del Mercosur;
+
+II- Realizar la publicación y la difusión de las normas adoptadas en el marco del Mercosur. En este contexto, le
+corresponderá:
+
+1) Realizar, en coordinación con los Estados Partes, las traducciones auténticas en los idiomas español y portugués de
+todas las decisiones adoptadas por los órganos de la estructura institucional del Mercosur, conforme lo previsto en el
+artículo 39;
+
+2) Editar el Boletín Oficial del Mercosur.
+
+III- Organizar los aspectos logísticos de las reuniones del Consejo del Mercado Común, del Grupo Mercado Común y
+de la Comisión de Comercio del Mercosur y, dentro de sus posibilidades de los demás órganos del Mercosur, cuando
+las mismas se celebren en su sede permanente. En lo que se refiere a las reuniones realizadas fuera de su sede
+permanente, la Secretaría Administrativa del Mercosur proporcionará apoyo al Estado en el que se realice la reunión;
+
+IV- Informar regularmente a los Estados Partes sobre las medidas implementadas por cada país para incorporar en su
+ordenamiento jurídico las normas emanadas de los órganos del Mercosur previstos en el Artículo 2 de este Protocolo;
+
+V- Registrar las listas nacionales de los árbitros y expertos así como desempeñar otras tareas determinadas por el
+Protocolo de Brasilia, del 17 de diciembre de 1991;
+
+VI- Desempeñar las tareas que le sean solicitadas por el Consejo del Mercado Común el Grupo Mercado Común Y la
+Comisión de Comercio del Mercosur;
+
+VII- Elaborar su proyecto de presupuesto y una vez que éste sea aprobado por el Grupo Mercado Común practicar
+todos los actos necesarios para su correcta ejecución:
+
+VIII-Presentar anualmente su rendición de cuentas al Grupo Mercado Común así como un informe sobre sus
+actividades.
+
+Art. 33 -La Secretaría Administrativa del Mercosur estará a cargo de un Director, quien tendrá la nacionalidad de uno
+de los Estados Partes. Será electo por el Grupo Mercado Común en forma rotativa previa consulta a los Estados Partes
+y será designado por el Consejo del Mercado Común. Tendrá mandato de dos años estando prohibida la reelección.
+
+(3) Sector de Administración (SA), Sector de Tecnologías de la Información y Comunicación (STIC), Sector de Apoyo
+(SAP), Sector de Asesoría Técnica (SAT) Sector de Normativa y Documentación (SND), Unidad Técnica de Estadísticas
+del Comercio Exterior (UTECEM), Unidad Técnica de Cooperación Internacional (UTCI) y Unidad de Comunicación e
+Información del MERCOSUR (UCIM). Asimismo, también funciona en el ámbito de la SM la Unidad Técnica FOCEM,
+cuya infraestructura informática y los servicios de apoyo a dicho sistema son proporcionados por el STIC.
+
+                                                                                                                   38
+Dec. CMC N° 15/15 – Apéndice 1 - Art. 13 - Del Sector de Tecnologías de la Información y la Comunicación (STIC)
+
+“El Sector de Tecnologías de la Información y la Comunicación es responsable del cumplimiento de las siguientes
+funciones:
+
+a) En materia de Gestión:
+   • Diseñar, crear e implementar un Plan General de Informática y realizar su seguimiento, en función de las
+      necesidades de la SM y de los requerimientos de los Estados Partes.
+   • Gestionar los proyectos relacionados a las Tecnologías de la Información y la Comunicación (TIC).
+   • Analizar, diseñar e implementar los procesos de renovación tecnológica.
+b) En materia de Soporte:
+   • Realizar la instalación y mantenimiento de software y hardware.
+   • Prestar apoyo a los órganos y foros del MERCOSUR, cuando le sea solicitado.
+   • Prestar soporte de red en las instalaciones de la SM.
+   • Administrar y dar soporte a los servicios de correo electrónico.
+   • Realizar la instalación de equipos informáticos para reuniones y videoconferencias.
+   • Analizar el estado del equipamiento para eventuales reemplazos o nuevas adquisiciones.
+c) En materia de Sistemas:
+   • Analizar, diseñar e implementar soluciones tecnológicas en el Centro de Procesamiento de Datos (CPD) de la
+      SM y realizar su mantenimiento.
+   • Analizar, diseñar e implementar políticas de seguridad informática y procesos para la protección de la
+      información.
+   • Administrar y configurar la plataforma de virtualización del CPD y la infraestructura de red.
+   • Realizar el monitoreo de la infraestructura informática.
+d) En materia de Desarrollo de Software:
+   • Analizar, diseñar, desarrollar e implementar soluciones de software con base en los requerimientos de los
+      usuarios.
+   • Actuar como contraparte en el desarrollo de sistemas realizados por terceros.
+   • Elaborar manuales de usuario y de procedimiento.
+   • Realizar el mantenimiento de las aplicaciones de software desarrolladas por o para la SM.
+   • Analizar oportunidades de mejoras y resolución de problemas de software.
+
+Realizar otras tareas encomendadas por el Director de la SM o por los órganos decisorios del MERCOSUR.”
+
+Dec. CMC N° 15/15 – Apéndice 1 - Art. 13 - Art. 20 - De la Unidad de Comunicación e Información del MERCOSUR
+(UCIM)
+
+La Unidad de Comunicación e Información del MERCOSUR tiene las siguientes funciones:
+
+a. Administrar, en el ámbito de sus competencias específicas, los medios e instrumentos de comunicación del
+MERCOSUR y producir los contenidos del sitio web del MERCOSUR, redes sociales, medios gráficos, audiovisuales,
+sonoros u otros recursos.
+
+b. Proponer planes de comunicación, anuales y bienales a la Reunión Especializada de Comunicación Social (RECS) y
+ejecutarlos una vez aprobados por el GMC.
+
+c. Elaborar, conjuntamente con la RECS, protocolos de comunicación, que incluyan la comunicación de crisis y, una
+vez aprobados por el GMC, cumplirlos y aplicarlos.
+
+d. Organizar, conjuntamente con la RECS, un sistema de distribución de noticias sobre el MERCOSUR para medios de
+comunicación del bloque, con la participación de agencias de noticias y emisoras públicas de los Estados Partes del
+MERCOSUR.
+
+                                                                                                                  39
+e. Mantener un sistema de registro de noticias sobre el MERCOSUR y elaborar un resumen electrónico semanal de
+noticias el cual deberá estar disponible en el sitio web del MERCOSUR (www.mercosur.int).
+
+f. Generar y mantener una base de datos del MERCOSUR que contendrá medios y herramientas comunicacionales.
+
+g. Identificar oportunidades para la difusión de los acuerdos alcanzados en el MERCOSUR que impliquen un avance y
+profundización de la integración.
+
+h. Dar apoyo en materia comunicacional a la Presidencia Pro Tempore (PPT) cuando le fuera solicitado.
+
+i. Gestionar, a solicitud de la PPT, la relación con los medios de comunicación (agencias, medios gráficos,
+audiovisuales y digitales) por medio, entre otros, de entrevistas, ruedas de prensa, servicios informativos a los
+trabajadores de medios, resúmenes de prensa, reuniones específicas y relaciones públicas.
+
+j. Articular con los órganos y foros de la estructura institucional del MERCOSUR la divulgación e información pública
+de sus principales actividades.
+
+k. Velar por la preservación de la identidad visual del MERCOSUR.
+
+l. Elevar a la CRPM, un informe anual de la gestión de la UCIM incluyendo el estado de situación de la comunicación
+en el MERCOSUR, sus resultados e impactos.
+
+m. Editar y divulgar el Boletín Oficial del MERCOSUR.
+
+
+La UCIM cumplirá sus funciones teniendo en cuenta las modalidades, pautas, acciones e instrumentos
+comunicacionales previstos en la Decisión CMC N° 47/14, sus modificatorias y/o complementarias.
+
+Dec. CMC N° 47/14 – Lineamientos de la Política Comunicacional del MERCOSUR (Anexo)
+
+Preámbulo
+
+La definición de una política comunicacional para el MERCOSUR resulta de vital importancia en el particular momento
+político e histórico que vive América Latina. Constituye un instrumento fundamental para posicionar al bloque como
+actor global, destacando sus características y potencialidades particulares y valorando la diversidad cultural y la
+pluralidad linguística de nuestros pueblos.
+
+La Política Comunicacional del MERCOSUR debe contribuir al fortalecimiento de su identidad, en línea con las
+prioridades definidas por los Jefes de Estado, con miras a la plena integración regional.
+
+La meta institucional debe estar dirigida a informar, sensibilizar y generar adhesión y pertenencia de la ciudadanía a
+los principios fundamentales de paz, desarrollo y defensa de la democracia.
+
+La Política Comunicacional del MERCOSUR debe reconocer la comunicación y la libertad de expresión como un derecho
+humano, tanto individual como colectivo. Además de garantizar el derecho al acceso a la información libre y plural
+sobre el bloque a la ciudadanía del MERCOSUR.
+
+La comunicación pública y otros medios de comunicación social son de una importancia sustantiva para el desarrollo
+de nuestros pueblos y parte de la dinámica de intercambio cultural del MERCOSUR.
+
+La Política Comunicacional del MERCOSUR reconoce la importancia de promover el intercambio de contenidos,
+experiencias y tecnologías, teniendo en cuenta las asimetrías entre los medios públicos de los Estados Partes.
+
+1- Objetivos Generales
+
+                                                                                                                   40
+1.       Establecer los lineamientos generales y específicos para la implementación de una política de comunicación e
+información integral del MERCOSUR, para informar y sensibilizar a la ciudadanía de los Estados Partes sobre las
+acciones y beneficios de la integración, reflejando la diversidad y riqueza de cada una de nuestras sociedades y
+territorios, proyectándose como región hacia el mundo.
+
+2.       Articular con los órganos y foros de la Estructura Institucional del MERCOSUR para la divulgación e información
+al público de sus actividades, facilitando el abordaje y la construcción de agendas.
+
+2- Objetivos Específicos:
+
+1.      Organizar, procesar y circular la información sobre el MERCOSUR entre las autoridades y la ciudadanía, relativa
+a sus acciones, funcionamiento, composición, actividades, valor estratégico y resultados permanentes del proceso de
+integración de nuestros países.
+
+ 2.    Responder a las necesidades de los pueblos con acciones comunicacionales que reflejen el acceso a la
+información como un derecho humano.
+
+3.      Promover la divulgación periodística y constituirse en referente informativo para los medios de comunicación.
+
+4.      Coordinar los instrumentos y herramientas de comunicación y divulgación existentes en la institucionalidad
+del proceso de integración regional, a través de un plan de comunicación del MERCOSUR.
+
+5.      Abordar al público regional y global utilizando diferentes plataformas gráficas, audiovisuales y digitales, redes
+y tecnologías, articuladas entre sí.
+
+6.    Generar mecanismos ágiles de circulación de la información entre los actores institucionales a los efectos de
+promover su difusión.
+
+7.      Mantener un equipo estable y dinámico que garantice un flujo constante de información de primera mano y
+la creación y mantenimiento de una base de datos de medios, líderes de opinión, organismos, instituciones y actores
+sociales.
+
+8.      Articular con los órganos de la estructura institucional del MERCOSUR vinculados a la dimensión social a los
+efectos de producir y difundir contenidos.
+
+9.      Concebir mecanismos de evaluación, medición y sistematización de la comunicación y de la información
+pública del MERCOSUR.
+
+10.      Estimular la producción audiovisual, sonora y gráfica conjunta al interior del MERCOSUR sobre la cultura y la
+historia de nuestros países.
+
+3- Modalidades
+
+La Política Comunicacional estará dirigida a un público dividido en cuatro categorías de acuerdo con un criterio
+territorial y según se trate de un mensaje masivo o focalizado:
+
+•       Intra MERCOSUR masivo: ciudadanía de los Estados Partes del MERCOSUR y medios masivos.
+
+•     Intra MERCOSUR focalizado: sectores nacionales formadores de opinión (academias, organizaciones sociales,
+empresas, prensa temática, agencias de noticias).
+
+•       Extra MERCOSUR masivo: ciudadanía extranjera, organismos internacionales, medios internacionales masivos,
+etc.
+
+•       Extra MERCOSUR focalizado: sectores externos formadores de opinión (agencias técnicas gubernamentales de
+terceros países, academias, organizaciones sociales, prensa temática)
+
+
+
+                                                                                                                      41
+4- Pautas para que los órganos y foros de la estructura institucional del MERCOSUR elaboren sus propuestas de
+comunicación.
+
+•      La política de comunicación del MERCOSUR se centrará en los acuerdos que impliquen un avance y
+profundización de la integración en la región.
+
+•      Los temas que involucren a los Estados Partes serán comunicados con el previo consentimiento de los mismos.
+
+•      Los temas objeto de negociación serán comunicados una vez concluidos.
+
+5- Las acciones de comunicación del MERCOSUR versarán, entre otros, sobre los siguientes temas:
+
+•      Actividades MERCOSUR
+
+•      Noticias de los países vinculadas a MERCOSUR
+
+•      Informes sobre temas específicos
+
+•      Normativa
+
+•      FOCEM
+
+•      Proyectos de Cooperación Internacional
+
+•      La dimensión cultural y social
+
+•      Agenda de la PPT
+
+•    Declaraciones y Comunicados del MERCOSUR y de los Estados Partes sobre el bloque u otro país del
+MERCOSUR.
+
+•      Logros y avances en temas relevantes.
+
+6- Instrumentos de Comunicación: Medios de la Política Comunicacional del MERCOSUR
+
+La Política Comunicacional del MERCOSUR deberá tener en cuenta todos los medios, instrumentos y recursos de
+comunicación disponibles, contemplando las siguientes funciones básicas: información, producción de contenidos e
+intercambio entre los países con miras, entre otros objetivos, al desarrollo y capacitación de los recursos técnicos y
+humanos.
+
+•      Medios masivos (radio, TV, gráfica)
+
+•      Radios y emisoras de TV públicas
+
+•      Publicaciones periódicas
+
+•      Folletos
+
+•      Premios y concursos
+
+•      Boletines electrónicos
+
+•      Redes sociales (nivel institucional)
+
+•      Canal institucional web
+
+•      Blog / revista digital
+
+•      Talleres y encuentros con periodistas
+
+•      Informes, dossiers, alertas
+
+                                                                                                                   42
+•       Campañas de publicidad o sensibilización
+
+•       Portal Web
+
+•       Producción y coproducción de contenidos
+
+•       Intercambio de experiencias y capacitación
+
+•       Radio digital
+
+•       Experiencias de otros medios de comunicación social.
+
+Res. GMC N° 16/17 – “Creación de la Unidad de Comunicación e Información del MERCOSUR
+
+Art. 1 - Crear la “Unidad de Comunicación e Información del MERCOSUR” (UCIM) en el ámbito de la Secretaría del
+MERCOSUR (SM), para desarrollar y ejecutar los objetivos generales y específicos de la Política Comunicacional del
+MERCOSUR, cuya dirección compete al Grupo Mercado Común (GMC).
+
+Art. 2 - La Comisión de Representantes Permanentes del MERCOSUR (CRPM) supervisará a la UCIM en el desempeño
+de sus funciones y reportará a los Coordinadores Nacionales del GMC las cuestiones sustantivas que requieran
+definición.
+
+Art. 3 - La UCIM tiene las siguientes funciones:
+
+a)     Administrar, en el ámbito de sus competencias específicas, los medios e instrumentos de comunicación del
+MERCOSUR y producir los contenidos del Portal Web del MERCOSUR, redes sociales, medios gráficos, audiovisuales,
+sonoros u otros recursos;
+
+b)   Proponer planes de comunicación anuales y bienales a la Comisión de Representantes Permanentes del
+MERCOSUR y ejecutarlos una vez aprobados por el GMC;
+
+c)     Elaborar, conjuntamente con la RECS, protocolos de comunicación, que incluyan la comunicación de crisis y,
+una vez aprobados por el GMC, cumplirlos y aplicarlos;
+
+d)    Organizar, conjuntamente con la RECS, un sistema de distribución de noticias sobre el MERCOSUR para medios
+de comunicación del bloque, con la participación de agencias de noticias y emisoras públicas de los Estados Partes del
+MERCOSUR;
+
+e)      Mantener un sistema de registro de noticias sobre el MERCOSUR y elaborar un resumen electrónico semanal
+de noticias el cual deberá estar disponible en el Portal Web del MERCOSUR (www.mercosur.int);
+
+f)    Generar y mantener una base de datos del MERCOSUR que contendrá medios y herramientas
+comunicacionales;
+
+g)     Identificar oportunidades para la difusión de los acuerdos alcanzados en el MERCOSUR que impliquen un
+avance y profundización de la integración;
+
+h)      Dar apoyo en materia comunicacional a la Presidencia Pro Tempore (PPT) cuando le fuera solicitado;
+
+i)      Gestionar, a solicitud de la PPT, la relación con los medios de comunicación (agencias, medios gráficos,
+audiovisuales y digitales) por medio, entre otros, de entrevistas, ruedas de prensa, servicios informativos a los
+trabajadores de medios, resúmenes de prensa, reuniones específicas y relaciones públicas;
+
+j)      Articular con los órganos y foros de la estructura institucional del MERCOSUR la divulgación e información
+pública de sus principales actividades;
+
+k)      Velar por la preservación de la identidad visual del MERCOSUR;
+
+
+
+                                                                                                                   43
+l)    Elevar a la CRPM, un informe anual de la gestión de la UCIM incluyendo el estado de situación de la
+comunicación en el MERCOSUR, sus resultados e impactos.
+
+La UCIM cumplirá sus funciones teniendo en cuenta las modalidades, pautas acciones e instrumentos
+comunicacionales previstos en la Decisión CMC N° 47/14, sus modificatorias y/o complementarias.
+
+Dec. CMC N° 06/21 – Difusión en Internet de Contenidos Producidos por los Órganos y foros del MERCOSUR
+
+Art. 1 - Establecer que la difusión en internet realizada por los órganos y foros de la estructura institucional del
+MERCOSUR acerca de sus actividades, publicaciones y cualquier otro tipo de información debe canalizarse
+exclusivamente a través de Portal Web del MERCOSUR (https://www.mercosur.int/).
+
+Art. 2 - Instruir al Grupo Mercado Común (GMC) a tomar contacto con los órganos y foros que administran o cuentan
+con sitios web propios a fin de evaluar de manera conjunta los procedimientos y plazos más adecuados para migrar
+los contenidos pertinentes al Portal Web del MERCOSUR y dar de baja dichos sitios web. La SM, a través de la Unidad
+de Comunicación e Información del MERCOSUR (UCIM) y del Sector de Tecnologías de la Información y la
+Comunicación (STIC) brindará el apoyo técnico que resulte necesario a tal fin.
+
+Res. CMC N° 32/22 – Difusión en Internet de Contenidos Producidos por los Órganos y foros del MERCOSUR
+(Reglamentación de la Decisión CMC N° 06/21
+
+Art. 1 - Los órganos y foros de la estructura institucional del MERCOSUR que deseen publicar contenidos en el Portal
+Web del MERCOSUR (PWM) deben seguir los siguientes procedimientos, en función del tipo de contenido:
+
+a) Noticias y novedades sobre las actividades de órganos y foros, eventos y campañas: el Coordinador Nacional en
+ejercicio de la Presidencia Pro Tempore (PPT) del órgano o foro solicitante debe remitir, con la antelación suficiente,
+la solicitud respectiva a la CRPM con copia a la SM/UCIM a través del formulario que consta como Anexo I y forma
+parte de la presente Resolución.
+
+En lo que refiere a los contenidos vinculados a eventos y campañas, se deberá enviar la solicitud con una antelación
+mínima de quince (15) días, a fin de una ágil transmisión de la información.
+
+b) Textos sustantivos (desarrollo de la temática abordada por el órgano o foro) y publicaciones digitales (folletos,
+artículos, revistas, libros, etc.): el Coordinador Nacional en ejercicio de la PPT del órgano o foro solicitante debe remitir
+la solicitud respectiva a la CRPM, con copia a la SM/UCIM a través del formulario que consta como Anexo II y forma
+parte de la presente Resolución. La CRPM evaluará la solicitud y, a menos que los contenidos propuestos contravengan
+lo dispuesto en el Art. 2 o se estime conveniente realizar consultas adicionales, comunicará su conformidad a la
+SM/UCIM para la edición y publicación del contenido solicitado.
+
+Las solicitudes de publicación de contenidos no contemplados en los incisos precedentes deben seguir el
+procedimiento previsto en el inciso b).
+
+Art. 5 - La SM/UCIM debe normalizar los formatos y armonizar la presentación de las publicaciones y contenidos a ser
+publicados. Asimismo, puede editar el lenguaje de los contenidos, sin alterar su esencia, a fin de mantener la
+coherencia estilística del PWM.
+
+La versión final del contenido mencionado en el párrafo anterior debe ser comunicada por la SM/UCIM al Coordinador
+Nacional en ejercicio de la PPT del órgano o foro solicitante, con copia a la CRPM, previo a su publicación, para su
+conocimiento.
+
+La CRPM podrá proponer a los órganos y foros solicitantes modificaciones en los contenidos a ser publicados en
+función de su pertinencia para la difusión en el PWM.
+
+En el caso de contenidos referidos a cuestiones institucionales se deben hacer las consultas pertinentes al Grupo de
+Asuntos Institucionales del MERCOSUR (GAIM), a través de la Coordinación Nacional en ejercicio de la PPT.
+                                                                                                                          44
+En caso de duda o discrepancia acerca de la pertinencia de la publicación de un contenido en el PWM la CRPM elevará
+el asunto al GMC para su definición.
+
+Para emitir su opinión la CRPM puede, de considerarlo necesario, solicitar un dictamen técnico a la SM.
+
+Art. 8 - Los órganos exceptuados por el artículo 3 de la Decisión CMC N° 06/21, deben cumplir con las siguientes
+condiciones:
+a)       designar y comunicar a la SM un responsable del sitio web y su contenido;
+b)       contar con un subdominio del dominio “mercosur.int”; y
+c)       cumplir con las “Lineamientos para el diseño de sitios web de los órganos y foros del MERCOSUR” que constan
+en el Anexo III y forman parte de la presente Resolución.
+
+Art. 9 - La SM es la encargada de proveer el correspondiente subdominio del dominio “mercosur.int” a los órganos y
+foros mencionados en el artículo 8.
+
+
+
+
+                                                                                                                 45
+ANEXO II – Inventario de Equipamiento Informático
+                                            Computadoras de Escritorio
+      Sector        Equipo       Modelo            S.O.         Procesador     Memoria   Conforme Estándar
+COORDINACIÓN       LENOVO AIO                 Windows 10 i5 6400 2.20 Ghz            8          NO
+SA                 LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SA                 LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SA                 LENOVO AIO                 Windows 10 i5 6400 2.20 Ghz            4          NO
+SA                 LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SA                 LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SA                 LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SA                 LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SAP                LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SAP                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SAP                LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SAP                LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SAT                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SAT                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SAT                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SAT                DELL     Optiplex 381      Windows 7     i5 6400 2.20 Ghz         4          NO
+SAT                DELL     Optiplex 7000     Windows 11 i7 12700 4.9 Ghz           16          SI
+SAT                LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i3 2200 3.00 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         8          NO
+SND                LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+STIC               LENOVO E570                Linux Mint    i5 7200                  8          NO
+STIC               DELL     Optiplex 7000     Windows 11 i7 12700 4.9 Ghz           16          SI
+STIC               DELL     Optiplex 7000     Windows 11 i7 12700 4.9 Ghz           16          SI
+STIC               DELL     Optiplex 970      Windows 10 i7 4790 3.60 Ghz           16          SI
+UCIM               LENOVO Thincentre M7       Windows 10 i7 7700 3.60 Ghz           16          SI
+UCIM               LENOVO Thincentre M7       Windows 10 i7 7700 3.60 Ghz            8          NO
+UCIM               LENOVO AIO                 Windows 10 i5 6400 2.20 Ghz            4          NO
+UCIM               LENOVO AIO                 Windows 10 i5 6400 2.20 Ghz            4          NO
+UTCI               LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+UTCI               LENOVO AIO                 Windows 7     i5 6400 2.20 Ghz         4          NO
+UTECEM             DELL     Optiplex 740      Windows 10 i5 6400 2.20 Ghz            4          NO
+UTECEM             DELL     Optiplex 9020     Debian 9      i7 4790 3.60 Ghz        32          NO
+UTECEM             DELL     Optiplex 7000     Windows 11 i7 12700 4.9 Ghz           16          SI
+Total de Computadoras de Escritorio                                                 43
+Total a Reemplazar                                                                  36
+
+
+
+
+                                                                                                             46
+                                           Computadoras Portátiles
+  Sector    Equipo        Modelo                 SO             Procesador   Memoria   Conforme Estándar
+Dirección HP        14-bs018la         Windows 10 64 bits   I5-7200 2.50           8          SI
+SA         LENOVO G470                 Windows 10 64 bits   I5-2450 2.50           4          NO
+SA         LENOVO G470                 Windows 10 64 bits   I5-2450 2.50           4          NO
+SAP        HP       Probook 450 G3     Windows 10 64 bits   I7-8650 1.80           8          SI
+SAT        LENOVO G470                 Windows 10 64 bits   I5-2450 2.50           4          NO
+SND        Toshiba Satellite U925T     Windows 8 64 bits    I5 - 3337 1.80         4          NO
+SND        LENOVO Thinkpad             Windows 10 64 bits   I3-4005U 1.70          4          NO
+SND        LENOVO G470                 Windows 10 64 bits   I5-2450M 2.50          4          NO
+SND        LENOVO G470                 Windows 10 64 bits   I5-2450M 2.50          4          NO
+SND        LENOVO Thinkpad             Windows 10 64 bits   I3-4005U 1.70          4          NO
+SND        LENOVO Thinkpad             Windows 10 64 bits   I3-4005U 1.70          4          NO
+SND        Toshiba Satellite L645      Windows 7 64 bits    I3 M 350 2.27          3          NO
+SND        HP       14-bs018la         Windows 10 64 bits   I5-7200 2.50           8          SI
+SND        LENOVO Thinkpad             Windows 10 64 bits   I3-4005U 1.70          4          NO
+SND        LENOVO G470                 Windows 10 64 bits   I5-2450M 2.50          4          NO
+SND        DELL     Inspiron 14-3467   Windows 10 64 bits   I5-7200 2.50           8          SI
+STIC       LENOVO E570                 Linux Mint           i5-7200u 2.50         16          SI
+STIC       HP       14-CK00131A        Windows 10 64 bits   I5-8250u 1.60          8          SI
+STIC       HP       14-CK00131A        Windows 10 64 bits   I5-8250u 1.60          8          SI
+STIC       HP       14-CK00131A        Windows 10 64 bits   I5-8250u 1.60          8          SI
+STIC       DELL     Latitude 7400      Windows 10 64 bits   i7-8665U 1.9          16          SI
+STIC       DELL     Inspiron 14-3467   Windows 10 64 bits   I5-7200 2.50           8          SI
+STIC       HP       14-CK00131A        Windows 10 64 bits   I5-8250u 1.60          8          SI
+STIC       Toshiba Satellite U925T     Windows 8 64 bits    I5 - 3337 1.80         4          NO
+UTCI       LENOVO Thinkpad L440        Windows 10 64 bits   I5-4200 2.50           4          NO
+UTECEM HP           Probook 450 G3     Windows 10 64 bits   i7-6500 2.50           8          SI
+Total de Computadoras portátiles                                                  26
+Total a Reemplazar                                                                14
+
+
+
+
+                                                                                                           47
+                                      Equipamiento de Salas de Reuniones
+
+Cant Dispositivo                                Marca      Modelo            Funciona            Reemplazar
+                                                  SALA CCM
+   1 Consola de Audio                           Bosch      CCS 800 Ultra     OK                  NO
+   1 Amplificador de Audio                                                   OK                  NO
+   4 Parlantes satélites con pie                                             Con Fallas          SI
+  16 Micrófonos                                 Bosch        CCS 800 Ultra   OK                  NO
+
+   1 Computadora de Conexión                    LENOVO       AIO             Fuera de Estándar   SI
+   1 Access Point                               Fortinet                     Sin Soporte         SI
+   1 Switch                                     TP-LINK      Genérico                            SI
+   1 Pantalla de Proyección con Pie                                          OK                  NO
+   1 Proyector                                  Viewsonic TJD7828            Regular             SI
+                                             SALA CONFERENCIAS
+   1 Equipo Audio                               Bosch     CCS 800 ultro      OK                  NO
+   1 Pantalla de Proyección con Pie                                          OK                  NO
+   1 Amplificador de Audio                                                   OK                  NO
+   4 Parlantes satélites con pie                                             Con Fallas          SI
+   1 Proyector                                 Viewsonic  TJD7828            Regular             SI
+   4 Micrófonos                                Bosch      CCS 800 Ultra                          NO
+                                          SALA MANUEL OLARREAGA
+   1 Computadora de Conexión                   DELL                          OK                  SI
+                                                                             Se recomiendan
+   1 Televisor                                  Samsung      65"             10" más grande      NO
+                                                                             OK, Cable de mic
+   1 Cámara Web + Microfono Cableado            Logitech     MeetUp          corto               SI
+   1 Switch                                     TP-LINK                      Genérico            SI
+   1 Access Point                               Fortinet                     Sin Soporte         SI
+   1 Teclado y Mouse Wireless                   Logitech                     OK                  NO
+                                                    SALA A
+
+   1 Computadora de Conexión                    DELL         Presario        Fuera de Estándar   SI
+   1 Teclado y Mouse Wireless                   Logi                         OK                  NO
+                                                                             Audio y mic
+   1 Cámara Web                                 Logitech     BCC 950         insuficientes       SI
+   1 Access Point                               Fortinet                     Sin Soporte         SI
+   1 Switch                                     TP-LINK                      Genérico            SI
+   1 Proyector                                  DELL                         Lampara Agotada     SI
+   1 Pantalla de Proyección                                  75"             OK                  NO
+                                                   SALA B
+   1 Televisor                                  Normende     42"             OK                  NO
+
+   1 Computadora de Conexión                    DELL         Presario        Fuera de Estandar   SI
+   1 Teclado y Mouse Wireless                   Logi                         OK                  NO
+
+
+                                                                                                              48
+                                                  Audio y mic
+1 Cámara Web               Logitech     BCC 950   insuficientes     SI
+1 Access Point             Fortinet               Sin Soporte       SI
+1 Switch                   TP-LINK                Genérico          SI
+1 Proyector                Viewsonic              Lampara Agotada   SI
+1 Pantalla de Proyección                 75"      OK                NO
+                           SALA J.D. PERÓN
+1 Proyector                 Viewsonic             Lampara Agotada   SI
+1 Pantalla de Proyección                          OK                NO
+
+
+
+
+                                                                         49
+ANEXO III - Estándar Tecnológico Equipos de Trabajo. Versión 1.1.
+STIC/SM
+ESTÁNDAR TECNOLÓGICO
+            Equipos de Trabajo
+                <VERSION 1.1>
+
+
+
+
+Sector de Tecnologías de la Información y
+            Comunicaciones
+                 (STIC)
+
+
+
+  Secretaría del MERCOSUR
+Contenido
+
+Control del documento ..................................................................................................................................................... 3
+Objetivos ................................................................................................................................................................................. 3
+Responsables ........................................................................................................................................................................ 3
+Resumen Ejecutivo............................................................................................................................................................. 3
+Contenido ............................................................................................................................................................................... 4
+    Metodología de Renovación y actualización ...................................................................................................... 4
+    Normalización de Equipos Informáticos ............................................................................................................. 4
+         Desktop o Equipos de escritorio. ....................................................................................................................... 4
+         Notebooks o Laptops ............................................................................................................................................... 5
+
+
+
+
+    Confidencial                                                            STIC                                                               Página 2 de 5
+Control del documento
+
+Acerca del Documento
+Tipo de Documento                                Documento Regulatorio
+
+Nombre de Archivo                                Estandar_Tecnologico_de_Equipos_de_Trabajo_2
+                                                 0210915
+Versión                                          1.1
+
+Fecha                                            17/10/2022
+
+Autor                                            Sebastian Arias
+
+
+
+Cambios de la Versión
+Versión 1.0                    Versión inicial                     15/09/2021 – Sebastian Arias
+                               Actualizaciones mínimas de          11/10/2022 – Sebastian Arias
+Versión 1.1
+                               hardware
+
+
+
+
+Objetivos
+
+Establecer un estándar que permita regular la pertinencia en actualizaciones de equipos de
+trabajo informáticos, con fines de contar con herramientas acordes a las tareas desempeñadas
+por los funcionarios de la Secretaría del MERCOSUR.
+
+
+Responsables
+
+Funcionarios del Sector de Tecnologías de la Información y la Comunicación de la Secretaría del
+MERCOSUR (SM/STIC)
+
+
+Resumen Ejecutivo
+
+Se establece un estándar con fines de tener una referencia válida a la hora de evaluar los
+equipos del parque informático de la SM. Esto permitirá fácilmente distinguir si un equipo de
+trabajo(computadora), ya sea de escritorio o móvil cumple con las características mínimas
+recomendadas para un puesto de trabajo. Será de gran utilidad no solo a los técnicos del sector
+sino también al Sector Administración SM/SA a la hora de justificar la adquisición, reemplazo o
+actualización de los equipos informáticos, además de facilitar la elaboración de los proyectos de
+
+
+
+
+  Confidencial                          STIC                                  Página 3 de 5
+presupuestos anuales. La frecuencia de actualización de este documento deberá establecerse
+idealmente en anual, ya sea que amerite o no cambios en la descripción de equipos.
+
+
+Contenido
+
+Metodología de Renovación y actualización
+La metodología de renovación que se llevará adelante en la Secretaría es realizar una revisión de
+manera anual del parque informático, y los equipos que posean una antigüedad mayor a 5 años,
+serán los candidatos a renovación. Los equipos con una antigüedad inferior, de ser posible
+deberán acondicionarse para cumplir con los requisitos.
+
+Normalización de Equipos Informáticos
+Se recomienda siempre la adquisición de equipos de marca reconocidas, y evitar la adquisición
+de genéricos. Los equipos de marcas reconocidas cuentan habitualmente con cobertura de
+garantía y servicio posventa. Los genéricos por lo general carecen de una o ambas de las
+características mencionadas.
+
+Se consideraros 4 tipos de equipos.
+
+Computadoras Estándar:
+
+   •   De Escritorio: uso de oficina típico, edición de documentos, planillas, navegación en
+       Internet y uso de aplicaciones internas
+   •   Móvil: Ídem a la anterior, brindando movilidad y facilitando el teletrabajo
+
+Computadora Avanzada:
+
+   •   De Escritorio: Usos específicos que requieren de mayores capacidades como
+       programación, diseño gráfico, planillas complejas con cálculos y manejo de gran cantidad
+       de datos
+   •   Móvil: Ídem a la anterior, brindando movilidad y facilitando el teletrabajo
+
+
+
+Desktop o Equipos de escritorio.
+   Especificaciones / Puesto               Estándar                         Avanzada
+
+                                 Intel i3 de las dos últimas
+                                 generaciones,                    Intel i7, de las 2 últimas
+ Procesador                      O i5 de más de 2                 generaciones. O procesador
+                                 generaciones anteriores. O       equivalente.
+                                 procesadores equivalentes.
+
+ Memoria RAM                      8/12GB ddr4                     16 GB ddr4 o más
+
+ Disco Rígido                    250 SSD                          250 SSD
+
+
+
+
+  Confidencial                         STIC                              Página 4 de 5
+                                                      Integrada para
+                                                      programación. Dedicada
+Placa de video                Integrada               para diseño gráficos y
+                                                      renderizaciones, o cálculos
+                                                      vectoriales.
+
+                              Windows 10/11 PRO-OEM   Windows 10/11 PRO-OEM
+SO
+                              Español                 Español
+
+Teclado                       Español Latinoamérica   Español Latinoamérica
+
+Monitor                       20” HDMI                24” HDMI
+
+
+
+Notebooks o Laptops
+  Especificaciones / Puesto               Estándar              Avanzada
+
+                              Intel i5 o procesador   Intel i7 o procesador
+Procesador
+                              equivalente             equivalente.
+
+Memoria RAM                   8 GB ddr4               16 GB ddr4 o más
+
+Disco Rígido                  250 SSD                 250 SSD
+
+                                                      Integrada para
+                                                      programación. Dedicada para
+Placa de video                Integrada               diseño gráficos y
+                                                      renderizaciones, o cálculos
+                                                      vectoriales.
+
+                              Windows 10/11 PRO-OEM   Windows 10/11 PRO-OEM
+SO
+                              Español                 Español
+
+Teclado                       Español Latinoamérica   Español Latinoamérica
+
+                                                      13”, 14”, 15.6” según se
+Monitor                       14”
+                                                      requiera.
+
+                              Webcam y micrófono      Webcam y micrófono
+Accesorios
+                              integrados              integrados
+
+
+
+
+ Confidencial                       STIC                     Página 5 de 5
+ANEXO IV – Esquema de Distribución de Puestos de Red Actual
+                                                                                                                                                     Documentación
+                                                                                                SAT            SAT                       SAP           Asistente
+                  Documentación                 Normativa                     UTCI            Asesores       Asesores    UTECEM       Traducción        Técnico                                                             SA -Admin
+
+
+
+
+                                                                                                                                                                                               Libre
+                                                                                                                                                         Scanner     DATACENTER              SALA
+                                                                                                                                                       FOCEM                                           CPC       FCES
+                                                                                                                                                                                          VENEZUELA
+SALA B
+                  Ricoh C307
+                                             Ricoh C307
+
+
+                                                                                                                                                             RECEPCION      FOTOCOPIAS
+
+
+
+                                                                                                  ESCALERA
+                                                                  TELECOM
+
+
+
+                                                                                                                                                                                                                            SA - RRHH
+                                                                                                                        ASCENSORES
+
+
+                                                                             BAÑOS
+SALA A                                                                       DAMAS
+                          Oki B431    STIC
+                                             Scanner
+                                                                                                                                                                                                                  SALA
+             Biblioteca                                                                                                                                                                     SALA        SALA
+                                                       COMEDOR                                                                                                       SALA URUGUAY                               ARGENTINA
+                                                                                                                                                                                          PARAGUAY     BRASIL
+
+
+                                                                             COCINA
+                                                                                                                                                                                                                              RICOH
+
+
+                                                                             SAT
+                                                                                                                                                                             BAÑOS
+                                                                            SAT
+                                                                           Técnicos                                                  Sala servidor                         CABALLEROS
+                                                                                                                                        SISME
+
+
+
+
+                                                                                                                                                                              Archivo
+
+    AP
+                                                                 RICOH C307
+                                                                                                             ESCALERA                                                           SAT
+                           Red                                      Secretaría de Dirección                                                                                   Asistente
+ Puntos de red       MontevideoComm
+                                                                                                                                                                              Técnico
+
+
+
+                                                                  Oki M562
+
+
+
+
+                                                                                                                                                                              UCIM
+                                                                                                                                                                             Técnicos
+
+
+
+
+                                                                                                                                                                           Ricoh IM430
+                                                                          Dirección
+
+
+                                                                                                                                  SALON OLARREAGA                          UCIM
+                                                                                                                                                                         Coordinador

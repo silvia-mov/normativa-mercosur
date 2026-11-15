@@ -1,0 +1,1291 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-16
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO II-Acdo Mercancias Peligrosas-ES/ANEXO II-Acdo Mercancias Peligrosas-ES-CAPITULO 6.5.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+CAPÍTULO 6.5
+
+REQUERIMIENTOS  RELATIVOS A LA CONSTRUCCIÓN Y EL ENSAYO DE RECIPIENTES INTERMEDIOS PARA GRANELES (RIGs)
+	
+6.5.1		Disposiciones generales aplicables a todos los tipos de RIGs
+
+6.5.1.1	Ámbito de aplicación
+
+6.5.1.1.1	Las prescripciones de este capítulo se aplican a los RIG destinados al transporte de ciertas mercancías peligrosas. En ellas se establecen normas generales relativas al transporte multimodal y no se formulan los requerimientos especiales que pueda requerir cada modo de transporte en particular.
+
+6.5.1.1.2	Excepcionalmente, la autoridad competente del Estado Parte podrá proceder a la aprobación de RIGs y equipos de servicio que no se ajusten estrictamente a los requerimientos aquí formulados, pero que constituyan opciones aceptables. Asimismo, para tener en cuenta los progresos de la ciencia y de la técnica, podrán ser considerados la utilización de otros tipos de recipiente que, por lo menos, ofrezcan las mismas condiciones de seguridad en cuanto a compatibilidad con las propiedades de las mercancías que hayan de transportarse, e igual o superior resistencia a los choques, las cargas y el fuego.
+
+6.5.1.1.2.1	Cuando fueran utilizadas dos o más modalidades transporte, los padrones de desempeño de los embalajes  a cumplirse serán los correspondientes a la modalidad más restrictiva.
+
+6.5.1.1.3	La construcción, los elementos, los ensayos, el marcado y la utilización de los RIGs estarán sujetos a la aceptación de la autoridad competente del país en que los RIGs sean ensayados.
+
+6.5.1.2	Definiciones
+
+Por carga máxima admisible se entiende (para los RIGs flexibles) la masa neta máxima para la que se proyecta utilizar el RIG y para cuyo transporte está autorizado;
+
+Por cuerpo se entiende (para todas las categorías de RIGs excepto los compuestos) el recipiente propiamente dicho, con inclusión de las aberturas y sus cierres, pero no de los equipos de servicio;
+
+Por dispositivo de manipulación se entiende (para los RIGs flexibles) cualquier eslinga, lazo, argolla o bastidor acoplados  al cuerpo del RIG, o constituidos por una prolongación del propio material de éste;
+
+Por elementos estructurales (para todos los tipos de RIGs excepto los flexibles) se entienden los elementos de refuerzo, sujeción, manipulación, protección o estabilización del cuerpo del recipiente, así como el pallet de base en el caso de los RIGs compuestos con recipiente interior de plástico, cartón y los RIGs de madera;
+
+Por equipos de servicio se entienden los dispositivos de llenado y descarga y, según la categoría de RIG, de reducción de la presión o de ventilación, seguridad, calefacción y termoaislamiento, así como los instrumentos de medida;
+
+Por masa bruta máxima admisible (para todas las categorías de RIGs excepto los flexibles) la masa del RIG, sus equipos de servicio y estructurales, y la carga máxima admisible; 
+
+Se entiende que el plástico, en relación con los recipientes interiores de los RIG compuesto, incluye otros polímeros, como el caucho, etc.;
+
+Por protegido se entiende (para los RIGs metálicos) un RIG dotado de algún medio de protección adicional contra los choques, por ejemplo, construcción en varias capas (tipo “emparedado”) o construcción en doble pared, o un bastidor cerrado con caja metálica en forma de celosía;
+
+Por tejido de plástico (para RIGs flexibles) se entiende un material hecho de tiras o monofilamentos, estirados, de materia plástica apropiada.
+
+6.5.1.3	Categorías de RIG
+
+6.5.1.3.1	Por RIG metálico se entiende un cuerpo de metal, junto con los equipos de servicio y estructurales apropiados.
+
+6.5.1.3.2	Por RIG flexible se entiende un cuerpo constituido por una película, por un tejido o por algún otro material flexible, o por una combinación de materiales de ese tipo, y, de ser necesario, un revestimiento interior o forro, junto con los equipos de servicio y los dispositivos de manipulación apropiados.
+
+6.5.1.3.3	Por RIG de plástico rígido se entiende un cuerpo de plástico rígido, que puede estar provisto de elementos estructurales, a la vez que de equipos de servicios apropiados.
+
+6.5.1.3.4	Por RIG compuesto se entiende un conjunto estructural constituido por un receptáculo exterior rígido en el que va alojado un recipiente interior de plástico, comprendido cualesquiera equipos de servicio o estructurales, y construido de manera que, una vez montados, el recipiente interior y el receptáculo exterior constituyen –y como tal se utilizan- un todo integrado, que se llena, almacena, transporta y vacía como tal.
+
+6.5.1.3.5	Por RIG de cartón se entiende un cuerpo construido con ese material, provisto o no de tapas separables en la parte superior y en la base y, si es necesario, de un forro interior (pero no de embalajes interiores), así como de equipos de servicio y estructurales apropiados.
+
+6.5.1.3.6	Por RIG de madera se entiende un cuerpo rígido o desarmable construido con ese material, y provisto de un forro interior (pero no de embalajes interiores) y de equipos de servicio y estructurales apropiados.
+
+6.5.1.4	Código para designar los distintos tipos de RIG
+
+6.5.1.4.1	El código  estará constituida por dos cifras arábigas, tal como se indica en a), seguidas de una o varias letras mayúsculas, como se indica en b); seguidas éstas, cuando se especifique el recipiente en un determinado párrafo, de otra cifra arábiga representativa de la categoría de RIG.
+
+a)  Los números aplicables a los diversos tipo de RIGs son: 
+
+TIPO
+PARA SÓLIDOS CARGADOS O DESCARGADOS
+PARA
+LÍQUIDOS
+
+POR GRAVIDAD
+BAJO PRESIÓN SUPERIOR A 10kPa (0,1bar)
+
+Rígido
+Flexible
+11
+13
+21
+–
+31
+–
+		
+
+b) Para identificar el material son empleadas las siguientes letras:
+	A.		Acero (de todos los tipos y tratamientos superficiales)  
+		      B.		Aluminio
+		      C.		Madera natural
+		      D.		Madera compensada
+		      F. 		Madera reconstituida
+		      G.		Cartón
+		      H. 		Plástico
+		      L.		Textil
+		      M. 		Papel, multipliegos
+		      N.		Metal (excepto el acero y el aluminio)
+
+6.5.1.4.2	Para los RIG compuestos se utilizarán dos letras mayúsculas en caracteres latinos, que se colocarán consecutivamente en el segundo lugar del código. La primera indicará el material de que esté construido el recipiente interior del RIG, y la segunda, el del embalaje exterior de éste.
+
+6.5.1.4.3	A continuación se describen los diversos tipos de RIG, con los códigos que se les han asignados.
+
+
+Material
+
+Categoría
+
+Código
+
+Párrafo
+Metálicos
+
+A.  De acero
+
+
+para  sólidos, cargados o descargados por gravedad
+para sólidos, cargados o descargados a presión
+para líquidos
+
+
+11A
+21A
+31A
+
+
+6.5.3.1
+
+
+
+
+B. De aluminio
+para sólidos, cargados o descargados por gravedad
+para sólidos, cargados o descargados a  presión
+para líquidos
+
+11B
+21B
+31B
+
+N. De otros
+metales
+para sólidos, cargados o descargados por gravedad
+para sólidos, cargados o descargados a presión
+para líquidos
+
+11N
+21N
+31N
+
+
+Material
+Categoría
+Código
+Párrafo
+Flexibles
+
+H. De plástico
+
+
+de tejido de plástico, sin revestimiento ni forro
+de tejido de plástico, con revestimiento
+de tejido de plástico, forrados
+de tejido de plástico, con revestimiento y forro
+de película de plástico
+
+
+
+13H1
+13H2
+13H3
+13H4
+13H5
+
+
+6.5.3.2
+L. De materias
+textiles
+
+
+sin revestimiento ni forro
+con revestimiento
+forrados
+con revestimiento y forro
+
+13L1
+13L2
+13L3
+13L4
+
+M. De papel
+de varios pliegos
+de  varios pliegos, resistentes al agua
+13M1
+13M2
+
+
+H. De plástico
+rígido
+para sólidos, cargados o descargados por gravedad,
+provistos de elementos estructurales 
+para sólidos, cargados o descargados por gravedad,
+autoportantes
+para sólidos, cargados o descargados a presión
+provistos de elementos estructurales
+para sólidos, cargados o descargados a presión,
+autoportantes
+para líquidos, provistos de elementos estructurales
+para líquidos, autoportantes
+
+
+11H1
+
+11H2
+
+21H1
+
+21H2
+31H1
+31H2
+6.5.3.3
+HZ. Compuestos
+con recipiente
+interior de plástico (*)
+para sólidos, cargados o descargados por gravedad,
+con recipiente de plástico rígido
+para sólidos, cargados o descargados por gravedad,
+con recipiente de plástico flexible
+para sólidos, cargados o descargados a presión,
+con recipiente de plástico rígido
+para sólidos, cargados o descargados a presión
+con recipiente de plástico flexible
+para líquidos, con recipiente de plástico rígido
+para líquidos, con recipiente de plástico flexible
+
+
+11HZ1
+
+11HZ2
+
+21HZ1
+
+21HZ2
+31HZ1
+31HZ2
+6.5.3.4
+G. De cartón
+para sólidos, cargados o descargados por gravedad
+11G
+6.5.3.5
+
+
+
+Material
+Categoría
+Código
+Párrafo
+De madera
+
+C. De madera
+natural
+
+
+para sólidos, cargados o descargados por gravedad,
+con forro interior
+
+
+
+11C
+
+
+6.5.3.6
+D. De madera
+contrachapada
+para sólidos, cargados o descargados por gravedad,
+con forro interior
+
+11D
+
+F. De madera
+reconstituida
+para sólidos, cargados o descargados por gravedad, 
+con forro interior
+
+11F
+
+*/ La letra Z debe ser sustituida por otra letra mayúscula de acuerdo a la naturaleza del material empleado en la fabricación del armazón externo, de acuerdo con 6.5.1.4.1 b).
+
+6.5.1.4.4	Al código  del RIG puede seguir la letra “W”. La letra “W” significa que el RIG, aun siendo del mismo tipo que indica el código, está fabricado de acuerdo con especificaciones distintas de las que se establecen en la sección 6.5.3 y se considera como equivalente de acuerdo con los requisitos de 6.5.1.1.2
+
+6.5.1.5	Requerimientos relativos  a la construcción
+
+6.5.1.5.1       Los RIGs serán resistentes al deterioro que pueda causar el entorno, o estar adecuadamente protegidos de éste.
+
+6.5.1.5.2         La construcción y los cierres de los RIG serán tales que no se produzca ninguna fuga o pérdida del contenido en las condiciones normales de transporte, especialmente por efecto de vibraciones o cambios de temperatura, humedad o presión.
+
+6.5.1.5.3         Los RIGs y sus cierres se fabricarán con materiales que sean compatibles con el contenido, o estarán protegidos interiormente, de modo que  no puedan:
+
+                  a)	Ser atacados por el contenido hasta el punto de que su utilización resulte peligrosa;
+
+                  b)	Provocar una reacción o descomposición del contenido o, por contacto del contenido con el recipiente, formar compuestos perjudiciales o peligrosos.
+
+6.5.1.5.4             En  el supuesto de que se utilicen juntas obturadoras, éstas se fabricarán con materiales que no puedan ser atacados por las sustancias que se transporten en el RIG.
+
+6.5.1.5.5               Todos los equipos de servicio estarán colocados o protegidos de manera que se reduzca al mínimo el riesgo de escape del contenido en el caso de que se produzca algún deterioro durante la manipulación y el transporte.
+
+6.5.1.5.6       Los RIGs, sus dispositivos de sujeción y sus equipos de servicio y estructurales se diseñarán de manera que resistan, sin pérdida de contenido, la presión interna de éste y los esfuerzos resultantes de las operaciones normales de manipulación y transporte. Los RIGs que hayan de apilarse estarán diseñados para ese fin. Todos los elementos de los dispositivos de izada y de sujeción tendrán resistencia suficiente para que no sufran grave deformación ni desperfecto en las condiciones normales de manipulación y transporte y se colocarán de manera que no se produzcan esfuerzos excesivos en ninguna de sus partes.
+
+6.5.1.5.7        Cuando el RIG consista en un cuerpo alojado en un bastidor, deberá estar construido de manera que:
+
+	a)	 El cuerpo no sufra aplastamiento ni roces contra el bastidor hasta el punto de quedar deteriorado;
+
+	b)	 El cuerpo permanezca dentro del bastidor en todo momento;
+
+	c)	 Los elementos del equipo vayan sujetos de modo que no sufran deterioro en el caso de que los acoplamientos entre el cuerpo y el bastidor permitan expansión o desplazamiento relativos.
+
+6.5.1.5.8       Si el recipiente está provisto de una válvula de descarga por la parte inferior,  esa válvula habrá de poder mantenerse en la posición de cierre en condiciones de seguridad, y todo el dispositivo de descarga estará debidamente protegido, para que no resulte dañado. Las válvulas con cierre de palanca irán provistas de mecanismos de seguridad que impidan toda apertura accidental, y las posiciones de apertura y de cierre serán fáciles de distinguir. En los RIGs destinados al transporte de líquidos, el orificio de salida también tendrá un segundo mecanismo de cierre, por ejemplo una brida ciega o un dispositivo equivalente. 
+
+6.5.1.5.9	 Cada RIG deberá ser capaz de superar los ensayos.
+
+6.5.1.6	Ensayos, certificación e inspección
+
+6.5.1.6.1	Control de calidad: Los RIGs se fabricarán y someterán a ensayo con arreglo a un programa de control de calidad que satisfaga los requisitos de la autoridad competente, a fin de garantizar que todos y cada uno de ellos cumplan las prescripciones de este capítulo.
+
+6.5.1.6.2	Disposiciones relativas a los ensayos: los RIGs serán objeto de ensayos de modelo y, en su caso, de ensayos iniciales y de ensayos periódicos, de conformidad con el párrafo 6.5.4.14.
+
+6.5.1.6.3	Certificación: con respecto a cada modelo de RIG se extenderá un certificado y se establecerá una marca (en la forma prevista en la sección 6.5.2) con los que se ponga de manifiesto que el modelo, incluidos sus elementos, satisface las prescripciones relativas a los ensayos.
+
+
+6.5.1.6.4	Inspección: cada RIG metálico, cada RIG de plástico rígido y cada RIG compuesto será inspeccionado, en las condiciones que dicte la autoridad competente:
+
+	a)	Antes de ser puesto en servicio y, en lo sucesivo, a intervalos de no más de cinco años, a fin de verificar:
+
+		i) su conformidad con el modelo, incluso por lo que se refiere al marcado;
+		ii)	 su estado interno y externo;
+		iii)	 el correcto funcionamiento de los equipos de servicio;
+
+	No será necesario retirar el aislamiento térmico, cuando lo haya, sino en la medida precisa para inspeccionar debidamente el cuerpo del RIG.
+
+	b)	A intervalos de no más de dos años y medio, para verificar:
+
+		i)   su estado externo;
+		ii)  el correcto funcionamiento de los equipos de servicio;
+
+	No será necesario retirar el aislamiento térmico, cuando lo haya, sino en la medida precisa para inspeccionar debidamente el cuerpo del RIG
+
+	Se conservará un uniforme de cada inspección, por lo menos hasta la fecha de la inspección siguiente.
+
+6.5.1.6.5	Si un RIG resulta dañado en su estructura a consecuencia de un choque (por ejemplo, en un accidente) o por cualquier otra causa, se procederá a repararlo, tras lo cual se someterá a ensayo e inspección exhaustivas según lo prescrito en el párrafo 6.5.4.14.3 y en el apartado  a) del párrafo 6.5.1.6.4, respectivamente.
+
+6.5.1.6.6	La autoridad competente del Estado Parte puede exigir en cualquier momento que se demuestre, procediendo a los ensayos indicadas en este capítulo, que los RIGs satisfacen los requisitos de los ensayos del modelo.
+
+
+6.5.2	Marcado 
+
+6.5.2.1	Marcado principal
+		
+6.5.2.1.1	Todo RIG que se fabrique y haya de ser utilizado de conformidad con el presente Reglamento llevará marcados indelebles, legibles y situados en un lugar fácilmente visible. Letras, números y símbolos tendrán un mínimo de 12 mm de alto y deberán indicar:
+
+	a)	El símbolo de embalaje              	           
+		de las Naciones unidas			
+
+
+
+		En el caso de los RIG metálicos con marcados de relieve o embutidos, podrán utilizarse las letras mayúsculas “UN” en vez del símbolo;
+
+	b)	El código  que designa el tipo de RIG con arreglo a 6.5.1.4;
+
+	c)	Una letra mayúscula que representa el grupo o grupos de embalaje para los que ha si ensayado el tipo de modelo:
+		i)		X para los grupos de embalaje I, II y III (RIG para sólidos únicamente):
+		ii)	Y para los grupos de embalaje II y III;
+		iii)	Z para el grupo de embalaje  III únicamente
+
+	d)	El mes y año (las dos últimas cifras) de fabricación,
+
+	e)	El País que autoriza la asignación del marcado, indicado mediante la señal distintiva de los vehículos de motor en el tráfico internacional;
+
+	f)	El nombre o símbolo del fabricante y otra identificación del RIG que especifique la autoridad competente;
+
+	g)	La carga del ensayo de apilamiento, en kg. En el caso de los RIG que no deben apilarse, figurará la cifra “O”;
+
+	h)	La masa bruta máxima admisible o, en el caso de los RIG flexibles, la carga máxima admisible, en kg
+
+	Ese marcado principal se aplicará en el mismo orden en que figuran los apartados precedentes. El marcado que se prescribe en el párrafo 6.5.2.2 y cualquier otro marcado que autorice una autoridad competente habrán de permitir, en todos los casos, la correcta identificación de los elementos del marcado.
+
+Ejemplo de marcados en distintos tipos de RIGs, conforme a los apartados a)  a  h):
+	
+  			En un RIG metálico para sólidos descargados, por ejemplo, por gravedad, y construido en acero /para los grupos de embalaje II y III/ fabricado en febrero de 1989/ autorizado por Brasil/ fabricado por Mulder y de un modelo al que la autoridad competente ha asignado el número de serie 007/carga del ensayo de apilamiento, en kg/ masa bruta máxima admisible, en kg
+
+			En un RIG flexible para sólidos descargados, por ejemplo, por gravedad, y hecho de tejido de plástico, con forro/ no proyectado para el apilamiento.
+
+
+
+			En un RIG de plástico rígido para líquidos, con elementos estructurales que resisten la carga resultante del apilamiento.
+
+
+
+
+			En un RIG compuesto para líquidos, con un recipiente interior de plástico rígido y un receptáculo exterior de acero.
+
+
+
+
+			En un RIG de madera para sólidos, con forro interior, autorizado para sólidos del grupo de embalaje  I
+
+			
+
+
+6.5.2.2	Marcado adicional
+
+
+6.5.2.2.1	Todos los RIG llevarán los marcados prescritos en el párrafo 6.5.2.1, así como los datos siguientes, que podrán figurar en una placa resistente a la corrosión, fijada permanentemente en el RIG, en lugar de fácil acceso para la inspección:
+
+MARCADO ADICIONAL
+CATEGORIA DE RIG
+
+METÁLICO
+PLÁSTICO
+RÍGIDO
+COMPUESTO
+CARTÓN
+MADERA
+Capacidad en litros (*), a 20ºC
+x
+x
+x
+
+
+Tara, en kg (*)
+x
+x
+x
+X
+x
+Presión (manométrica) de ensayo, en kPa o en bar (*), si procede
+
+x
+x
+
+
+Presión máxima de carga/ descarga, en kPa o en bar (*), si procede
+x
+ x
+x
+
+
+Material del cuerpo y espesor mínimo, en mm
+x
+
+
+
+
+Fecha del último ensayo de estanqueidad, si procede (mes y año)
+x
+x
+x
+
+
+Fecha de la última inspección (mes y año)
+x
+x
+x
+
+
+Número de serie del fabricante
+x
+
+
+
+
+(*)     Se indicará la unidad empleada.
+
+6.5.2.2.2	Además de los marcados prescritos en el párrafo 6.5.2.1, los RIG flexibles podrán llevar un pictograma que indique los métodos de elevación recomendados.
+
+6.5.2.2.3	El recipiente interior de los RIGs compuestos llevará, por lo menos, las indicaciones siguientes:
+
+a)	Nombre o símbolo del fabricante o cualquier identificación del RIG prescrita por la autoridad competente, con  arreglo al apartado f) del párrafo 6.5.2.1.1;
+
+b)	Fecha de fabricación, como se indica en el apartado d) del párrafo 6.5.2.1.1;
+
+c)	Señal distintiva del País que autoriza la asignación de la marca, como se indica en el apartado e) del párrafo 6.5.2.1.1.
+
+6.5.2.2.4	Cuando un RIG compuesto esté diseñado de forma que el receptáculo exterior sea desmontable para su transporte cuando esté vacío (por ejemplo, para el retorno del RIG a su expedidor original o para su reutilización por éste), cada uno de los elementos desmontables llevará un marcado que señale el mes y el año de fabricación y el número o símbolo del fabricante, o cualquier otra identificación del RIG prescrita por la autoridad competente (6.5.2.1.1 f).
+
+6.5.2.3  	Conformidad con el modelo: El marcado indica que los RIG corresponden a un modelo que ha superado los ensayos, y que se han cumplido las prescripciones a que se hace referencia en el certificado.
+
+6.5.3			Requisitos específicos relativos a los RIGs
+
+6.5.3.1	Requisitos específicos relativos a los RIG metálicos
+
+6.5.3.1.1	Estas disposiciones son aplicables a los RIG metálicos destinados al transporte de líquidos y de sólidos. Los RIG metálicos son  de tres tipos:
+
+a)	RIG para sólidos cargados y descargados por gravedad (11A, 11B, 11N);
+
+b)	RIG para sólidos cargados y descargados a una presión manométrica superior a 10 kPa (0,1bar) (21A, 21B,21N); y
+
+c)	RIG para líquidos (31A, 31B, 31N).
+
+6.5.3.1.2	El cuerpo se construirá con materiales metálicos dúctiles adecuados cuya soldabilidad esté plenamente demostrada. Las soldaduras estarán bien hechas y ofrecerán total seguridad. De ser necesario, se tendrá en cuenta la resistencia a bajas temperaturas.
+
+6.5.3.1.3	Se tomarán precauciones para evitar deterioros por  efecto de la corrosión galvánica resultante de la yuxtaposición de metales diferentes.
+
+6.5.3.1.4	Los RIGs de aluminio destinados al transporte de líquidos inflamables no tendrán componentes móviles (como tapas, cierres, etc.) fabricados de acero oxidable no protegido, que puedan provocar reacciones peligrosas al entrar en contacto, por rozamiento o golpe, con el aluminio.
+
+6.5.3.1.5	Los RIG metálicos se fabricarán con metales que reúnan las condiciones siguientes:
+
+a) 	En el caso del acero, el porcentaje de alargamiento de rotura no será inferior a 10000 con un mínimo absoluto del 20%
+                 Rm
+
+	dónde Rm = resistencia mínima garantizada a la tracción, en N/mm2, del acero que vaya a utilizarse;
+
+b)	En el caso del aluminio, el porcentaje de alargamiento de rotura no será inferior a 10000 con un mínimo absoluto del 8%.
+                6 Rm
+
+		Las muestras de ensayo que se utilicen para determinar el alargamiento de rotura se tomarán en sentido perpendicular a la dirección del laminado y de manera que:
+
+
+		Lo = 5d
+
+o    
+		
+Lo = 5,65 √A
+
+		donde Lo = longitud de  referencia de la probeta antes del ensayo,
+			d   = diámetro,
+			A   = superficie de la sección transversal de la probeta.
+
+
+6.5.3.1.6	Espesor mínimo de la pared
+
+a)	En el caso de un acero de referencia en que el producto Rm x Ao = 10 000, el espesor de la pared no deberá ser inferior a: 
+
+
+Capacidad (C) en
+litros
+Espesor de la pared (T) en mm
+
+Tipos 11A, 11B y 11N
+Tipos 21A, 21B, 21N, 31A, 31B y 31N
+
+Sin protección
+Protegido
+Sin protección
+Protegido
+              C < 1000
+1000 <   C < 2000
+2000 <   C < 3000
+2,0
+T= C/2000+1,5
+T= C/2000+1,5
+
+1,5
+T=C/2000+1,0
+T=C/2000+1,0
+2,5
+T=C/2000+2,0
+T=C/1000+1,0
+2,0
+T=C/2000+1,5
+T=C/2000+1,5
+
+donde		Ao  = porcentaje mínimo de alargamiento de rotura a la tracción (véase el párrafo 6.5.3.1.5);     
+
+
+b)	En el caso de los metales distintos del acero de referencia definido en a), el espesor mínimo de la pared se determinará con arreglo a la siguiente fórmula de equivalencia:
+
+
+			       e1  =       21.4 x e0
+                	                             
+                                     3√ Rm1 x A1
+
+		
+donde e1	= espesor equivalente, en las paredes, que tendrá el metal que vaya utilizarse (en mm);
+	eo	= espesor mínimo, en las paredes, que tendrá el acero de referencia (en mm);
+	Rm1	= resistencia mínima garantizada a la tracción del metal que vaya a utilizarse (en N/mm2) (véase c);
+	A1	= porcentaje mínimo de alargamiento de rotura a la tracción del metal que vaya a utilizarse (véase el párrafo 6.5.3.1.5);
+
+	en todo caso, el espesor de las paredes no será nunca inferior a 1,5 mm.
+
+       c)	A los fines del cálculo que se describe en b), la resistencia mínima garantizada a la tracción del metal que vaya a utilizarse (Rm1) habrá de equivaler al valor mínimo que determinen las normas nacionales o internacionales. Sin embargo, para los aceros austeníticos, el valor mínimo especificado para la Rm de acuerdo con las normas para materiales se puede incrementar hasta en un 15% siempre que en el certificado de inspección del material se conceda un valor más elevado. Cuando no exista una norma para materiales correspondiente al material en cuestión, el valor de Rm será el mínimo determinado en el certificado de inspección del material.
+
+6.5.3.1.7	Disposiciones relativas a la reducción de la presión: los RIG para líquidos estarán provistos de los medios necesarios para dar salida a una cantidad suficiente de vapor en el caso de quedar envueltos en llamas, a fin de evitar que se produzcan roturas en el cuerpo. Esto puede conseguirse mediante dispositivos de descompresión corrientes o por medios estructurales. La presión de comienzo de descarga no será de más de 65 kPa (0,65 bar) ni inferior a la presión manométrica total que se produzca en el RIG (es decir, la presión de vapor de la sustancia de llenado más la presión parcial del aire u otros gases inertes, menos 100 kPa (1 bar)) a 55°C, determinada en función del grado máximo de llenado a que se refiere el párrafo 4.1.1.4. Los dispositivos de reducción de la presión se instalarán en los espacios de vapores.
+
+
+6.5.3.2	Disposiciones especiales relativas a los RIGs flexibles
+
+6.5.3.2.1	Estas disposiciones son aplicables a los RIGs flexibles de los tipos siguientes:
+
+	13H1	tejido de plástico, sin revestimiento ni forro
+	13H2 	tejido de plástico, revestido
+	13H3	tejido de plástico forrado
+	13H4	tejido de plástico, revestido y forrado 
+	13H5	película de plástico
+	13L1 	textil sin revestimiento ni forro
+	13L2	            textil revestido
+	13L3 	textil forrado
+	13L4		textil revestido y forrado
+	13M1	papel multipliego
+	13M2 	papel multipliego, resistente al agua.
+
+	Los RIGs flexibles se destinan únicamente al transporte de sólidos.
+
+6.5.3.2.2	El cuerpo se construirá con materiales apropiados. La resistencia del material y la construcción del RIG flexible serán adecuadas a la capacidad de éste y al uso a que se destine.
+
+6.5.3.2.3	Todos los materiales que se utilicen en la construcción de RIG flexibles de los tipos 13M1 y 13M2 conservarán, tras haber estado totalmente sumergidos en agua durante un período mínimo de 24 horas, al menos el 85% de la resistencia a la tracción determinada inicialmente con el material previamente acondicionado para su estabilización a una humedad relativa de un 67% o menos.
+
+6.5.3.2.4	Las costuras se harán por engrapado, termosellado, encolado o cualquier otro procedimiento análogo. Los extremos de las costuras engrapadas quedarán debidamente cerrados.
+
+6.5.3.2.5	Los RIGs flexibles tendrán la suficiente resistencia al envejecimiento y la descomposición que puedan derivarse de los rayos ultravioleta, las condiciones climáticas o las propias sustancias que contengan, a fin de que sean adecuados al uso a que se destinen.
+
+6.5.3.2.6	De ser necesario, los RIGs flexibles de plástico se protegerán de los rayos ultravioleta agregando al material negro de humo u otros pigmentos o inhibidores adecuados. Estos aditivos serán compatibles con el contenido y conservarán su eficacia durante la vida útil del cuerpo. Cuando el negro de humo, los pigmentos o los inhibidores no sean los mismos que se utilizaron en la fabricación del modelo ensayado, se podrá obviar la necesidad de repetir los ensayos si la proporción de estos aditivos no altera las propiedades físicas del material de construcción.
+
+6.5.3.2.7	Podrán incorporarse aditivos al material del cuerpo para aumentar su resistencia al envejecimiento o con otros fines, siempre y cuando no alteren sus propiedades físicas o químicas.
+
+6.5.3.2.8	En la fabricación de cuerpos de RIGs no se utilizará ningún material procedente de recipientes usados. Sin embargo, se podrán aprovechar restos y recortes de un mismo proceso de fabricación en serie. Esto no impide que puedan reutilizarse componentes tales como accesorios y pallet, a condición de que no hayan sufrido deterioro alguno.
+
+6.5.3.2.9	Una vez lleno el RIG, la relación altura-anchura no será de más de 2:1.
+
+6.5.3.2.10	El forro será confeccionado con un material adecuado. La resistencia del material y la confección del forro serán las adecuadas para la capacidad del RIG y para el uso a que esté destinado. Las juntas y los cierres serán a prueba de polvo y capaces de resistir las presiones e impactos que puedan experimentarse en las condiciones normales de manipulación y de transporte.
+
+6.5.3.3	Disposiciones especiales relativas a los RIGs de plástico rígido
+
+6.5.3.3.1	Estas disposiciones se aplican a los RIGs de plástico rígido destinados al transporte de sólidos o de líquidos. Esos RIGs son de los tipos siguientes:
+
+
+	11H1	provisto de elementos estructurales destinados a resistir las cargas resultantes  del apilamiento de los RIGs; para sólidos cargados o descargados por gravedad.
+	11H2	resistente de por sí; para sólidos cargados o descargados por gravedad
+	21H1	provisto de elementos estructurales destinados a resistir las cargas resultantes del apilamiento de los RIGs; para sólidos cargados o descargados a presión.
+	21H2	resistente de por sí; para sólidos cargados o descargados a presión
+	31H1	provisto de elementos estructurales destinados a resistir las cargas resultantes del apilamiento de los RIGs; para líquidos
+	31H2	resistente de por sí; para líquidos.
+
+6.5.3.3.2	El cuerpo del RIG estará construido con un plástico adecuado, de características conocidas, y tendrá una resistencia acorde con su capacidad y con el uso a que se destina. Dicho plástico tendrá la suficiente resistencia al envejecimiento y la descomposición que pueden derivarse de la sustancia contenida en el RIG o, en su caso, de los rayos ultravioleta. Si procede, se tendrá en cuenta asimismo su resistencia a temperaturas bajas. En las condiciones normales de transporte, las infiltraciones de la sustancia que puedan producirse, no deberán entrañar peligro.
+
+6.5.3.3.3	De ser necesario,  se protegerá el cuerpo del RIG contra los rayos ultravioleta impregnando el material con negro de humo u otros pigmentos o inhibidores adecuados. Estos aditivos serán compatibles con el contenido y conservarán su eficacia durante la vida útil del cuerpo. Cuando el negro de humo, u otros pigmentos o inhibidores no sean los mismos que se utilizaron en la fabricación del modelo ensayado, se podrá obviar la necesidad de repetir los ensayos si la proporción de dichos aditivos no altera las propiedades físicas del material de construcción.
+
+6.5.3.3.4	Podrán incorporarse aditivos al material del cuerpo para aumentar su resistencia al envejecimiento o con otros fines, a condiciones de que no alteren sus propiedades físicas o químicas.
+
+6.5.3.3.5	En la fabricación de RIG de plástico rígido no podrá emplearse ningún material usado, salvo por lo que se refiere a los restos o al material triturado procedentes de un mismo proceso de fabricación en serie.
+
+6.5.3.3.6	Los RIG destinados al transporte de líquidos irán provistos de un dispositivo de reducción de la presión, con la que sea posible dar salida a los vapores en cantidad suficiente para impedir la rotura del cuerpo en caso de que en su interior se acumule una presión mayor que  aquella a la que fue sometido en el ensayo de presión hidráulica.  Para ello pueden emplearse dispositivos de descompresión corrientes u otros medios estructurales.
+
+
+6.5.3.4	Disposiciones especiales relativas a los RIGs compuestos, con  recipiente interior de plástico
+
+6.5.3.4.1	Estas disposiciones se aplican a los tipos siguientes de RIGs compuestos destinados al transporte de sólidos y de líquidos:
+
+	11HZ1	RIGs compuestos, con recipiente interior de plástico rígido, para sólidos cargados o descargos por gravedad
+	11HZ2	RIGs compuestos, con recipiente interior de plástico flexible, para sólidos cargados o descargados por gravedad
+	21HZ1	RIGs compuestos, con recipiente interior de plástico rígido, para sólidos cargados o descargados a presión
+	21HZ2	RIGs compuestos,  con recipiente interior de plástico flexible, para sólidos cargados o descargados a presión 
+	31HZ1	RIGs compuestos, con recipiente interior de plástico rígido, para líquidos
+	31HZ2	RIGs compuestos, con recipiente interior de plástico flexible, para líquidos.
+
+	El código  correspondiente a cada uno de los tipos de RIG se completará sustituyendo, de conformidad con el apartado b) del  párrafo 6.5.1.4.1, la letra Z por una letra mayúscula que indicará la naturaleza del material utilizado para el receptáculo exterior.
+
+6.5.3.4.2	El recipiente interior no esta pensado para cumplir su función de contención sin su recipiente exterior. Un recipiente interior “rígido” es un recipiente que conserva su forma original cuando está vacío sin que se le hayan aplicado los cierres ni esté sostenido por el receptáculo exterior. Todo recipiente interior que no es “rígido” se considera “flexible”.
+
+6.5.3.4.3	Normalmente, el receptáculo exterior consiste en un material rígido, configurado de manera que proteja el recipiente interior de posibles daños durante las operaciones de manipulación y transporte, pero no está previsto que cumpla una función de retención. Comprende, según los casos, el pallet de base.
+
+6.5.3.4.4	Los RIGs compuestos en cuyo receptáculo exterior vaya totalmente encerrado el recipiente interior estarán diseñados de manera que la integridad de este último pueda verificarse fácilmente cuando se  trate de comprobar los resultados del ensayo de estanqueidad y de la presión hidráulica.
+
+6.5.3.4.5	La capacidad de los RIGs del tipo 31HZ2 estará limitada a 1250 litros.
+
+6.5.3.4.6	El recipiente interior del RIG estará construido con un plástico adecuado, de características conocidas, y tendrá una resistencia acorde con su capacidad y con el uso a que se destina. Dicho plástico tendrá la suficiente resistencia al envejecimiento y la descomposición que puedan derivarse de la sustancia contenida en el RIG o, en su caso, de los rayos ultravioleta. Si procede, se tendrá en cuenta su resistencia a temperaturas bajas. En las condiciones normales de transporte, las infiltraciones de las sustancias que puedan producirse no entrañarán peligro.
+
+6.5.3.4.7	De ser necesario, se protegerá el recipiente interior contra los rayos ultravioletas impregnando el material con negro de carbón u otros pigmentos o inhibidores adecuados. Estos aditivos serán compatibles con el contenido y conservarán su eficacia durante la vida útil  del recipiente interior. Cuando el negro de humo, los pigmentos o los inhibidores no sean los mismos que se utilizaron en la fabricación del modelo ensayado, se podrá, obviar la necesidad de repetir los ensayos si la proporción de dichos aditivos no altera las propiedades físicas del material de construcción.
+
+6.5.3.4.8	Podrán incorporarse aditivos al material del recipiente interior para aumentar su resistencia al envejecimiento o con otros fines, a condición de que no alteren sus propiedades físicas o químicas.
+
+6.5.3.4.9	En la fabricación de recipientes interiores no podrá emplearse ningún material usado, salvo que se trate de restos o de retriturado procedentes de un mismo proceso de fabricación en serie.
+
+6.5.3.4.10	Los RIG destinado al transporte de líquidos irán provistos de un dispositivo de reducción de la presión, con el que sea posible dar salida a los vapores en cantidad suficiente para impedir la rotura del recipiente interior en caso de que éste se acumule una presión mayor que aquella a la que fue sometido en el ensayo de presión hidráulica. Para ello pueden emplearse dispositivos de descompresión corrientes u otros medios estructurales.
+
+6.5.3.4.11	El recipiente interior de los RIG del tipo 31HZ2 estará formado, cuando menos, por una película de triple hoja.
+
+6.5.3.4.12	La resistencia del material y la construcción del receptáculo exterior serán adecuadas a la capacidad del RIG compuesto y al uso a que se destina.
+
+6.5.3.4.13	El receptáculo exterior no tendrá ningún resalte que pueda dañar el recipiente interior.
+
+6.5.3.4.14	El acero o aluminio que se empleen en la construcción de receptáculos exteriores serán de un tipo adecuado y de espesor suficiente.
+
+6.5.3.4.15	La madera natural que se emplee en la construcción de receptáculos exteriores estará estacionada, comercialmente seca y libre de defectos que puedan reducir en grado apreciable la resistencia del receptáculo en cualquier de sus partes. La parte superior y el fondo podrán ser de madera reconstituida resistente al agua, como, por ejemplo, los tableros de madera prensada o de partículas, u otros tipos apropiados.
+
+6.5.3.4.16	La madera contrachapada que se emplee en la construcción de receptáculos exteriores estará hecha de láminas bien curadas obtenidas mediante corte por movimiento circular, por cuchilla fija o por aserrado, y habrá de estar comercialmente seca y carecer de defectos que puedan reducir en grado apreciable la resistencia del receptáculo. Todas las chapas contiguas estarán unidas con un adhesivo resistente al agua. Para la fabricación de los receptáculos podrán utilizarse, junto con la madera compensada, otros materiales apropiados. Las paredes estarán firmemente clavadas o afianzadas a los montantes de esquina o a las cantoneras, o unidas por algún otro medio de igual eficacia.
+
+6.5.3.4.17	La madera reconstituida con que se construyan las paredes de los receptáculos exteriores será resistente al agua, como pueden ser tableros de madera prensada o de partículas, u otros tipos apropiados. Los demás elementos del receptáculo podrán ser de otro material adecuado.
+
+6.5.3.4.18	El cartón que se emplee en la construcción de receptáculos exteriores debe ser fuerte y de buena calidad, sólido o corrugado tipo doble faz, de una o más paredes, y adecuado a la capacidad del receptáculo y al uso a que se destine. La resistencia de la superficie exterior al agua será tal que el aumento de la masa, medido por una ensayo de verificación de la absorción de agua según el método de Cobb durante 30 minutos, no sea superior a 155 g/m2 (véase ISO 535). El cartón ha de tener características de flexibilidad adecuadas, y debe ser cortado y doblado sin que se forme rajaduras y ranurados, de manera que pueda ensamblarse sin que se produzcan fisuras, roturas en la superficie o flexiones excesivas. Las ondas del cartón corrugado estarán sólidamente encoladas  a los pliegos de revestimiento.
+
+6.5.3.4.19	Los extremos de los receptáculos exteriores de cartón podrán tener un marco de madera o ser totalmente de este material. Como refuerzos, podrán utilizarse listones de madera.
+
+6.5.3.4.20	En los receptáculos exteriores de cartón las juntas de fabricación deben unirse con cinta adhesiva, o superponiendo los bordes y encolándolos o cosiéndolos con grapas metálicas. Los bordes superpuestos u orejas deben ir convenientemente solapados. Cuando las junturas se afiancen mediante encolado o cinta adhesiva, el adhesivo debe ser resistente al agua.
+
+6.5.3.4.21	Si  el receptáculo exterior es de plástico, se aplicarán las disposiciones pertinentes de los párrafos 6.5.3.4.6 a 6.5.3.4.9.
+
+6.5.3.4.22	El receptáculo exterior de un RIG del tipo 31HZ2 envolverá completamente el recipiente interior por todos los lados.
+
+6.5.3.4.23	El pallet de base que forme cuerpo con un RIG y los pallets separables serán susceptibles de manipulación por medio mecánicos con el RIG cargado hasta su masa bruta máxima admisible.
+
+6.5.3.4.24	El pallet de base o el pallet separable estarán diseñados para impedir que se formen en la parte inferior del RIG resaltes que puedan sufrir daños durante las operaciones de manipulación.
+
+6.5.3.4.25	En el caso de que se utilice un pallet separable, el receptáculo exterior irá sujeto a éste, a fin de mantener su estabilidad durante la manipulación y el transporte, y en la parte superior del ballet no habrá ningún resalte puntiagudo que pueda ocasionar daños en el RIG.
+
+6.5.3.4.26	Para aumentar la resistencia en condiciones de apilamiento, podrán utilizarse elementos de refuerzo como, por ejemplo, soportes de madera, pero esos elementos se colocarán exteriormente al recipiente interior.
+
+6.5.3.4.27	En los RIG destinados a apilarse, la superficie sustentadora reunirá condiciones apropiadas para que la carga ejercida sobre ella se reparta en forma conveniente a la seguridad del apilamiento. Tales RIGs se diseñarán de manera que la carga no quede sustentada por el recipiente interior.
+
+6.5.3.5	Disposiciones especiales relativas a los RIG de cartón
+
+6.5.3.5.1	Estas disposiciones se aplican a los RIGs de cartón destinados al transporte de sólidos que se cargan o descargan por gravedad. Los RIGs de cartón son del tipo 11G.
+
+6.5.3.5.2	Los RIGs de cartón no deben ir provistos de dispositivos de elevación en la parte superior.
+
+6.5.3.5.3	El cuerpo estará construido con un cartón que debe ser fuerte y de buena calidad, sólido o corrugado tipo doble faz, de una o más paredes, y adecuado a la capacidad del RIG y al uso a que se destine. La resistencia de la superficie exterior al agua será tal que el aumento de la masa, medido por un ensayo de verificación de la absorción de agua según el método de Cobb durante 30 minutos, no sea superior a 155 g/m2 (véase ISO 535). El cartón ha de tener características de flexibilidad adecuadas, y debe ser cortado y doblado sin que se forme rajaduras y ranurados, de manera que pueda ensamblarse sin que se produzcan fisuras, roturas en la superficie o flexiones excesivas. Las acanaladuras del cartón corrugado estarán sólidamente encoladas a los pliegos de revestimiento.
+
+6.5.3.5.4	Las paredes, la parte superior y el fondo tendrán una resistencia al punzonado de al menos 15 J, verificada según la norma ISO 3036.
+
+6.5.3.5.5	En el cuerpo del RIG las junturas estarán convenientemente traslapadas y se afianzarán con cinta adhesiva, cola o grapas metálicas, o por cualquier otro medio que sea al menos de igual eficacia. Cuando las junturas se afiancen mediante encolado o cinta adhesiva, el producto conglutinante será resistente al agua. Si se emplean grapas metálicas, éstas traspasarán totalmente los elementos a que se apliquen, y tendrán tal forma o se aislarán de tal manera que no rasguen ni perforen el forro interior.
+
+6.5.3.5.6	El forro será de un material adecuado. La resistencia de éste y la construcción del forro serán apropiadas a la capacidad del RIG y al uso a que se destine. Las junturas y los cierres serán a prueba de polvo y resistentes a las presiones y golpes que puedan producirse en las condiciones normales de manipulación y transporte.
+
+6.5.3.5.7	El pallet de base que forme cuerpo con un RIG y los pallets separables serán susceptibles de manipulación por medios mecánicos con el RIG cargado hasta su masa bruta máxima admisible.
+
+6.5.3.5.8	El pallet de base o el pallet separable estarán diseñados para impedir que se formen en la parte inferior del RIG resaltes que puedan sufrir daños durante las operaciones de manipulación.
+
+6.5.3.5.9	En el caso de que se utilice un pallet separable, el cuerpo irá sujeto a éste, a fin de mantener su estabilidad durante la manipulación y el transporte, y en la parte superior del pallet no habrá ningún resalte puntiagudo que pueda ocasionar daños en el RIG.
+
+6.5.3.5.10	Para aumentar la resistencia en condiciones de apilamiento, podrá utilizarse elementos de refuerzo como, por ejemplo, soportes de madera, pero éstos se colocarán exteriormente al forro.
+
+6.5.3.5.11	En los RIGs destinados a apilarse, la superficie sustentadora reunirá condiciones apropiadas para que la carga ejercida sobre ella se reparta en forma conveniente a la seguridad del apilamiento.
+
+6.5.3.6	Disposiciones especiales relativas a los RIGs de madera
+
+6.5.3.6.1	Estas disposiciones se aplican a los RIGs de madera destinados al transporte de sólidos cargados o descargados por gravedad. Los RIGs de madera son de los tipos siguientes:
+
+	11C de madera natural, con forro interior
+	11D de madera compensada, con forro interior
+	11F de madera reconstituida, con forro interior.
+
+6.5.3.6.2	Los RIGs de madera no irán provistos de dispositivos de elevación en la parte superior.
+
+6.5.3.6.3	La resistencia de los materiales y el método que se emplee en la construcción del cuerpo serán adecuados a la capacidad del RIG y al uso a que se destine.
+
+6.5.3.6.4	La madera natural estará estacionada, comerciante seca y libre de defectos que puedan reducir en grado  apreciable la resistencia del RIG en cualquiera de sus partes. Cada una de éstas será de una sola pieza, efectivamente o por equivalencia. Se considera que equivalen a un sola pieza las partes ensambladas por encolado mediante un procedimiento al menos de igual eficacia que alguno de los siguientes, por ejemplo: ensambladura de cola de milano (Lindermann), ensambladura de ranura y lengüeta, junta de rebajo, junta de rebajo a media madera, o junta a tope con al menos dos grapas de metal ondulado.
+
+6.5.3.6.5	La madera compensada que se emplee en la construcción del cuerpo del RIG será de tres chapas como mínimo. Estará hecha de láminas estacionadas, obtenidas mediante corte por movimiento circular, por cuchilla fija o por aserrado, estará comercialmente seca y carecerá de defectos que puedan reducir en grado apreciable la resistencia del cuerpo. Todas las chapas contiguas estarán unidas con un adhesivo resistente al agua. Para la construcción del cuerpo se pueden utilizar, junto con la madera compensada, otros materiales apropiados.
+
+6.5.3.6.6	La madera reconstituida que se emplee en la construcción del cuerpo del RIG será resistente al agua, como pueden ser los tableros de madera prensada o de partículas, u otros tipos apropiados.
+
+6.5.3.6.7	Las paredes de los RIG estarán firmemente clavadas o afianzadas a los montantes de esquina o a las cantoneras,  o unidas por algún otro medio de igual eficacia.
+
+6.5.3.6.8	El forro será de un material adecuado. La resistencia de éste y la construcción de forro serán apropiadas a la capacidad del RIG y al uso a que se destine. Las junturas y los cierres serán a prueba de polvo y resistentes a las presiones y golpes que puedan producirse en las condiciones normales de manipulación y transporte.
+
+6.5.3.6.9	El pallet de base que forme cuerpo con un RIG y los pallets separables serán susceptibles de manipulación por medio mecánicos con el RIG cargado hasta su masa bruta máxima admisible.
+
+6.5.3.6.10	El pallet de base o el pallet separable estarán diseñadas para impedir que se formen en la parte inferior del RIG resaltes que puedan sufrir daños durante las operaciones de manipulación.
+
+6.5.3.6.11	En el caso de que se utilice un pallet separable, el cuerpo irá sujeto a éste, a fin de mantener su estabilidad durante la manipulación y el transporte, y en la parte superior del pallet no habrá ningún resalte puntiagudo que pueda ocasionar daños en el RIG.
+ 
+6.5.3.6.12	Para aumentar la resistencia en condiciones de apilamiento, podrán utilizarse elementos de refuerzo como, por ejemplo, soportes de madera, pero éstos se colocarán exteriormente al forro.
+
+6.5.3.6.13	En los RIGs destinados a apilarse, la superficie sustentadora reunirá condiciones apropiadas para que la carga ejercida sobre ella se reparta en forma conveniente a la seguridad del apilamiento.
+
+6.5.4	Requerimientos relativos a los ensayos de los RIGs
+
+6.5.4.1	Desempeño y frecuencia de los ensayos
+
+6.5.4.1.1	Antes de que vaya a utilizarse un RIG, el modelo correspondiente tendrá que superar diversos ensayos. Un modelo de RIG queda definido por su diseño, dimensiones, material y espesor, forma de construcción y medios de llenado y descarga, pero podrá presentar variantes en cuanto al tratamiento de superficie. A ese modelo corresponderán igualmente los RIG que sólo difieran de él por ser de dimensiones exteriores más reducidas.
+
+6.5.4.1.2	Los ensayos se llevarán  a cabo con RIG ya reparados para el transporte. Los RIG se llenarán en la forma indicada en los párrafos pertinentes. Las sustancias que hayan de transportarse en ellos podrán sustituirse por otras, salvo que tal sustitución desvirtúe los resultados de los ensayos. En el caso de los sólidos, si se emplea una sustancia de sustitución, ésta tendrá las mismas características físicas (masa, tamaño de grano, etc.) que la que haya de transportarse. Podrán utilizarse cargas adicionales, tales como sacos de granalla de plomo, para obtener la masa total exigida para el bulto, a condiciones de que tales cargas se coloquen de modo que no influyan en el resultado del ensayo.
+
+6.5.4.1.3	En  los ensayos de caída para líquidos, la sustancia sustitutiva será de densidad relativa y viscosidad similares a las de la que haya de transportarse. En tales ensayos podrá emplearse también el agua, con las condiciones siguientes:
+
+a)	Cuando la densidad relativa de las sustancias que hayan de transportarse no sea superior a 1,2 la altura de caída será la indicada en el cuadro del párrafo 6.5.4.9.4;
+
+b)	Cuando la densidad relativa de las sustancias que hayan de transportarse sea superior a 1,2 las alturas de caída se calcularán sobre la base de la densidad relativa (d) de la  sustancia que haya de transportarse, redondeando la cifra al primer decimal superior, es decir:
+
+Grupo de
+embalaje I
+Grupo de
+embalaje II
+Grupo de
+embalaje III
+
+d x 1,5 m
+
+d x 1,0 m
+
+d x 0,67 m
+
+6.5.4.2	Ensayos de modelos
+
+6.5.4.2.1	Se someterán a estos ensayos, en el orden en que figuran en el párrafo 6.5.4.3.5 y en la forma descrita en los párrafos 6.5.4.5 a 6.5.4.12, los distintos modelos de RIG, según sus dimensiones, espesor de paredes y modo de construcción. Se efectuarán estos ensayos de modelo en las condiciones que dicte la autoridad competente del Estado Parte.
+
+6.5.4.2.2	La autoridad competente podrá permitir la realización de ensayos selectivos con los RIG que no presenten sino diferencias de menor importancia respecto de un tipo ya ensayado, por ejemplo, de dimensiones exteriores algo más reducidas.
+
+6.5.4.2.3	Si en los ensayos se emplean pallets separables, en el informe correspondiente (véase el párrafo 6.5.4.13) se hará una descripción técnica de éstos.
+
+
+6.5.4.3	Preparación de los RIGs para los ensayos
+
+6.5.4.3.1	Los RIG de papel y de cartón y los RIGs compuestos con recipiente exterior de cartón deberán ser acondicionados durante al menos 24 horas, en una atmósfera de temperatura y humedad relativa (h.r.) reguladas. Existen tres opciones, de las que ha de elegirse una. La atmósfera de preferencia es la de 23°C + 2°C y 50 + 2% de h.r. Las otras dos opciones son: 20°C + 2°C y 65% + 2% de h.r., y 27°C + 2°C y 65% + 2% de h.r.
+
+Nota: Los valores medios no rebasarán los límites indicados. Las fluctuaciones de corta duración y las limitaciones a que está sujeta la medición pueden hacer que ésta registre variaciones de la humedad relativa de hasta + un 5%, sin menoscabo apreciable de la fidelidad de los resultados de los ensayos.
+
+                    6.5.4.3.2 Se adoptarán las medidas complementarias necesarias para comprobar que el material utilizado en la fabricación de los RIGs de plástico rígido de los tipos 31H1 y 31H2 y de los RIG compuestos de los tipos 31HZ1 y 31HZ2 se ajusta a las disposiciones de los párrafos 6.5.3.3.2 a 6.5.3.3.4 y 6.5.3.4.6 a 6.5.3.4.9.
+
+                    6.5.4.3.3 Tal comprobación puede hacerse, por ejemplo, sometiendo distintos RIG, en calidad de muestras, a una ensayo preliminar de larga duración- por ejemplo, seis meses-, en el transcurso de la cual se mantendrán lleno de las mercancías a cuyo transporte se destinen, o de otras de las que se sepa que ejercen sobre los plásticos de que se trate un efecto al menos de igual intensidad en lo que hace a la formación de fisuras por esfuerzo, a la disminución de la resistencia o a la descomposición molecular, al cabo de la cual las muestras se someterán a los ensayos pertinentes enumerados en el cuadro del párrafo 6.5.4.3.5.
+
+6.5.4.3.4	Si se han verificado de alguna  otra manera las características funcionales del plástico, podrá prescindirse del ensayo de compatibilidad descrito en el párrafo anterior.
+
+6.5.4.3.5	Ensayos de modelo prescritos y orden en que han de efectuarse
+
+
+
+Tipo de RIG
+
+Elevación
+por parte
+inferior
+Elevación
+por parte
+superior a/
+
+Apila -   miento
+b/
+
+Estan-
+quei-dad
+
+Presión
+hidráu-
+lica
+
+Caída
+
+Desgarro
+
+Derribo
+
+Endereza-
+miento c/
+
+Metálico:11A, 11B, 11N
+21A,21B,21N,31A,31B,31N
+
+
+1ª a/
+1ª a/
+
+
+2ª
+2ª
+
+3ª
+3ª
+
+-
+4ª
+
+-
+5ª
+
+4ª e/
+6ª e/
+
+-
+-
+
+-
+-
+
+-
+-
+
+Flexible d/
+
+-
+
+x c/
+
+x
+
+-
+
+-
+
+x
+
+x
+
+x
+
+x
+
+De plástico rígido: 
+11H1, 11H2, 
+21H1, 21H2, 31H1, 31H2
+
+1ª a/
+1ª a/
+
+2ª
+2ª
+
+3ª
+3ª
+
+-
+4ª
+
+-
+5ª
+
+4ª
+6ª
+
+-
+-
+
+-
+-
+
+-
+-
+
+Compuesto: 
+11HZ1, 11HZ2, 
+21HZ1, 21HZ2, 31HZ1, 31HZ2
+
+1ª a/
+1ª a/
+
+2ª
+2ª
+
+3ª
+3ª
+
+-
+4ª
+
+-
+5ª
+
+4ª e/
+6ª e/
+
+
+-
+-
+
+-
+-
+
+-
+-
+
+De cartón
+
+1ª
+
+
+-
+
+
+2ª
+
+
+-
+
+
+-
+
+
+3ª
+
+
+-
+
+
+-
+
+
+-
+
+De madera
+1ª
+-
+2ª
+-
+-
+3ª
+-
+-
+-
+a/	En  el caso de los RIG diseñados para esta forma de manipulación
+b/	En el caso de los RIG diseñados para ser apilados.
+c/	En el caso de los RIG destinados a ser elevados por la parte superior o por un costado.
+d/	La x indica un ensayo exigido: un RIG que ha superado un ensayo puede utilizarse para otros ensayos, en cualquier orden
+e/	Para el ensayo de caída puede utilizarse otro RIG del mismo diseño.
+
+
+6.5.4.4	Ensayo de elevación por la parte inferior
+
+6.5.4.4.1	Aplicabilidad
+
+	Para los RIG de cartón y de madera y para todos los tipos de RIG que estén proyectados para elevarse por la base, como ensayo de modelo.
+
+6.5.4.4.2	Preparación de los RIG para el ensayo
+
+	Se llenará el RIG hasta el 125% de su masa bruta máxima admisible, distribuyendo la carga de manera uniforme.
+
+6.5.4.4.3	Método de ensayo
+
+	Se elevará y bajará el RIG dos veces, mediante un monta cargas, centrado las uñas de manera que la separación entre ambos sea equivalente al 75% de la dimensión de la cara del RIG a la que se aplique la horquilla (a menos que aquél tenga puntos de entrada fijos).La penetración de los brazos de la horquilla debe ser del 75% de la longitud de dichas entradas. Se repetirá el ensayo en todas las direcciones en que sea posible aplicar la horquilla.
+
+6.5.4.4.4	Criterios de superación del ensayo
+
+	No se producirá ninguna deformación permanente que haga que el RIG, incluida, en su caso, la plataforma de base, sea inseguro para el transporte, ni pérdida alguna de contenido.
+
+6.5.4.5	Ensayos de elevación por la parte superior
+
+6.5.4.5.1	Aplicabilidad
+
+	Para todos los tipos de RIG destinados a ser izados por la parte superior y para los RIG flexibles destinados a ser izados por la parte superior o por un costado, como ensayo de modelo. 
+
+6.5.4.5.2	Preparación de los RIG para el ensayo
+
+	Los RIG metálicos, de plástico rígido y compuestos se cargarán al doble de su masa bruta máxima admisible. Los RIG flexibles se llenarán hasta seis veces de su carga máxima admisible, distribuyendo uniformemente el contenido.
+
+6.5.4.5.3	Métodos de ensayo
+
+	Los RIG metálicos y los flexibles se elevarán en la forma para la que estén previstos hasta que dejen de tocar el suelo, y se mantendrán en esta posición por espacio de cinco minutos.
+
+	Los RIG de plástico rígido y los compuestos se elevarán:
+
+a)        sujetándolos por cada par de accesorios de izada opuestos en diagonal, de manera que las fuerzas de tracción se apliquen verticalmente, y se mantendrán suspendidos durante cinco minutos; y
+
+b)	sujetándolos por cada par de accesorios de izada opuestos en diagonal, de manera que las fuerzas de tracción se apliquen hacia el centro en un ángulo de 45° con la vertical, y se mantendrán suspendidos durante cinco minutos.
+
+6.5.4.5.4	Podrán utilizarse otros métodos de ensayo de elevación de los RIG flexibles por la parte superior y otros métodos de preparación para este ensayo que sean al menos de la misma eficacia.
+
+6.5.4.5.5	Criterios de superación del ensayo
+
+	a)	RIG metálicos, de plástico rígido y compuestos: no se producirá ninguna deformación permanente que haga que el RIG, incluida, en su caso, el pallet de base, sea inseguro para el transporte, ni presente pérdida alguna  de contenido;
+
+	b)	RIG flexibles: no se producirán en el RIG ni en sus dispositivos de izada deterioros que lo hagan inseguro para el transporte o la manipulación.
+
+6.5.4.6	Ensayos de apilamiento
+
+6.5.4.6.1	Aplicabilidad
+
+	Para todos los tipos de RIGs destinados a ser apilados unos sobre otros, como ensayos de modelos.
+
+6.5.4.6.2	Preparación de los RIGs para el ensayo  
+
+	Los RIGs, excepto los RIGs flexibles deberán ser llenados hasta alcanzar la masa bruta máxima admisible.  El RIG flexible se llenará hasta  por lo menos el 95% de su capacidad y hasta la carga máxima admisible, distribuyendo uniformemente el contenido.     
+
+6.5.4.6.3 	Métodos de ensayo  
+
+	a)	El RIG se colocará sobre su base en un suelo duro y horizontal y se someterá a una carga superpuesta de ensayo (véase el párrafo 6.5.4.6.4.), uniformemente distribuida durante, como mínimo:
+
+	      i)      	cinco minutos para los RIGs metálicos; 
+                                ii)	durante 28 días a 40°C para los RIGs de plástico rígido de los tipos 11H2, 21H2, y 31H2 y para los RIGs compuestos provistos de receptáculos exteriores de plástico que soportan la carga de apilamiento (es decir, de los tipos 11HH1, 11HH2, 21HH1, 21HH2, 31HH1 y 31HH2); 
+	     iii)	            durante 24 horas para todos los demás tipos de RIG;
+
+	b)     La carga se aplicará mediante uno de los procedimientos siguientes:
+
+		i)	apilando sobre el RIG sometido a ensayo uno o más RIGs del mismo tipo llenados hasta alcanzar la masa máxima admisible y, en el  caso de los RIGs flexibles, que contengan la carga máxima admisible;
+		ii)	colocando pesos apropiados bien sobre una placa lisa, bien sobre una reproducción de la base del RIG, que descanse sobre el RIG sometido a ensayo.
+
+6.5.4.6.4	Cálculo del peso que se ha de superponer
+
+	La carga  que se coloque sobre el RIG será equivalente al 180% de la masa bruta máxima admisible conjunta de los RIG semejantes que puedan apilarse encima de aquél durante el transporte.
+
+6.5.4.6.5	Criterios de superación del ensayo
+
+	a)	Todos los tipos de RIG, excepto los flexibles: no se producirá ninguna deformación permanente que haga que el RIG, incluida, en su caso, el pallet de base, sea inseguro para el transporte, ni presente pérdida alguna de contenido;
+
+	b)	RIGs flexibles: no se producirán en el cuerpo del RIG deterioros que lo hagan inseguro para el transporte, ni presente pérdida alguna de contenido.
+
+6.5.4.7	Ensayo de estanqueidad
+
+6.5.4.7.1	Aplicabilidad
+
+	Para los tipos de RIG destinados a transporte de líquidos o de sólidos cargados o descargados a presión, como ensayo de modelo y como ensayo periódico.
+
+6.5.4.7.2	Preparación de los RIG para el ensayo
+
+	El ensayo se efectuará antes de que se instalen componentes termoaislantes. Los cierres con orificio de venteo se sustituirán por otros similares sin tal orificio, o se obturará este último.
+
+6.5.4.7.3	Método de ensayo y presión que ha de aplicarse
+
+	El ensayo tendrá una duración de 10 minutos como mínimo; se utilizará aire a una presión manométrica de no menos de 20 kPa  (0,2 bar). La hermeticidad del RIG se verificará mediante algún procedimiento adecuado, como, por ejemplo, el ensayo de presión diferencial o bien sumergiendo el RIG en agua o, en el caso de los RIG metálicos, cubriendo las costuras y uniones con una solución jabonosa. En  este último caso se aplicará un factor de corrección en razón de la presión hidrostática. Podrán emplearse otros procedimientos que sean, por lo menos, de igual eficacia.
+
+
+6.5.4.7.4	Criterio de superación del ensayo
+
+
+	No habrá ninguna fuga de aire.
+
+
+
+6.5.4.8	Ensayo de presión hidráulica
+
+6.5.4.8.1	Aplicabilidad
+
+	Se aplica a los tipos de RIG utilizados para líquidos o para sólidos cargados o descargados a presión, como ensayo de modelo.
+
+6.5.4.8.2	Preparación de los RIG para el ensayo
+
+	El ensayo se efectuará antes de que se instalen componentes termoaislantes. Se desmontarán los dispositivos de reducción de la presión y se obturarán sus orificios, o los dispositivos se inutilizarán.
+
+6.5.4.8.3	Método de ensayo
+
+	El ensayo tendrá una duración de 10 minutos, por lo menos; se aplicará una presión hidráulica no inferior a la indicada en el párrafo 6.5.4.8.4. El RIG no se sujetará por medios mecánicos durante el ensayo.
+
+6.5.4.8.4	Presiones que han de aplicarse
+
+6.5.4.8.4.1	RIG metálicos:
+
+a)	           para los RIG de los tipos 21 A; 21B y 21N, destinados al transporte de sólidos del grupo de embalaje I, una presión manométrica de 250 kPa (2,5 bar);
+
+b)		para los RIG de los tipos 21 A, 21B, 21N, 31 A, 31B y 31N, destinados al transporte de sustancias de los grupos de embalaje II o III, una presión manométrica de 200 kPa (2bar);
+
+c)		además, para los RIG de los tipos 31 A, 31B y 31N, una presión manométrica de 65 kPa (0,65bar). Este ensayo se efectuará antes que la de 200 kPa (2bar).
+
+6.5.4.8.4.2	RIG de plástico rígido y RIG compuestos:
+
+a)	para los RIG de los tipos 21H1, 21H2, 21HZ1 y 21HZ2: 75kPa (0,75bar) (presión manométrica);
+
+b)	para los RIG de los tipos 31H1, 31H2, 31HZ1 y 31HZ2: la que resulte mayor de dos magnitudes, determinada la primera de ellas por una de los métodos siguientes:
+
+
+	i)	la presión manométrica total medida en el RIG (es decir, la presión del vapor de la sustancia con que se haya llenado éste, más la presión parcial del aire o de otros gases inertes, menos100 kPa) a 55°C, multiplicada por un coeficiente de seguridad de 1,5; esta presión manométrica total se determinará en función  del grado máximo de llenado que se indica en el párrafo 4.1.1.4 y de una temperatura de llenado de 15°C;
+	ii)	1,75 veces la presión de vapor, a 50°C, de la sustancia que se haya de transportar, menos 100 kPa, la presión debe ser siempre de 100 kPa como mínimo;
+	iii)	1,5 veces la presión de vapor, a 55°C, de la sustancia que se haya de transportar, menos 100 kPa, la presión debe ser siempre de 100 kPa como mínimo;
+
+	y hallada la otra por el siguiente método:
+
+	iv)	el doble de la presión estática de la sustancia que se haya de transportar, a condición de que el valor resultante no sea inferior al doble de la presión estática del agua.
+
+6.5.4.8.5	Criterios de superación de los ensayos
+
+a)	en el caso de los RIGs metálicos de los tipos 21A, 21B, 21N, 31A, 31B y 31N, sometidos a la presión de ensayo especificada en los apartados a) o b) del párrafo 6.5.4.8.4.1: no se producirá ninguna fuga;
+
+b) 	en el caso de los RIG de los tipos 31A, 31B y 31N, sometidos a la presión de ensayo indicada en el apartado c) del párrafo 6.5.4.8.4.1: no se producirá ninguna deformación permanente que haga que el RIG sea inseguro para el transporte, ni fuga alguna;
+
+c)             en el caso de los RIG de plástico rígido y de los compuestos, no se producirá ninguna deformación permanente que pueda hacer que el RIG sea inseguro para el transporte, ni fuga alguna.
+
+6.5.4.9	Ensayo de caída
+
+6.5.4.9.1	Aplicabilidad
+
+	Para todos los tipos de RIG, como ensayo de modelo.
+
+6.5.4.9.2	Preparación de los RIG para el ensayo
+
+	a)	RIG metálicos: el RIG se cargará hasta por lo menos el 95% de su capacidad en el caso de los sólidos, o el 98% en el caso de los líquidos, según el modelo. Se desmontarán los dispositivos de reducción de la presión y se obturarán sus orificios, o los dispositivos se inutilizarán;
+
+	b)	RIG flexibles: se llenará el RIG por lo menos hasta el 95% de su capacidad y hasta la carga máxima admisible, distribuyendo uniformemente el contenido.
+
+	c)	RIG de plástico rígido y RIG compuestos: se cargará el RIG por lo menos hasta el 95% de su capacidad en el caso de los sólidos, o el 98% en el caso de los líquidos, según el modelo. Podrán desmontarse los dispositivos de reducción de la presión y obturarse sus aberturas, o esos dispositivos deberán inutilizarse. El ensayo se realizará una vez que se haya hecho descender a –18°C o menos la temperatura del RIG y de su contenido. Cuando se prepare el RIG de esa manera no será necesario someterlo al acondicionamiento previsto en el párrafo 6.5.4.3.1. Los líquidos que se utilicen en el ensayo se mantendrán en ese mismo estado, si es necesario añadiéndoles un anticongelante. Podrá prescindirse de este acondicionamiento si los materiales tienen la suficiente ductilidad y resistencia a la tracción a bajas temperaturas;
+
+	d)	RIG de cartón y RIG de madera: el RIG se cargará por lo menos hasta el 95% de su capacidad, conforme al modelo.
+
+6.5.4.9.3	Método de ensayo
+
+	Se dejará caer el RIG sobre una superficie horizontal rígida, no elástica, lisa y horizontal, de modo que el punto de impacto sea la parte de la base del RIG que se considere más vulnerable. Los RIG de capacidad igual o inferior a 0,45 m3 también se someterán a este ensayo de caída de la manera siguiente:
+
+a)	RIG metálicos: sobre la parte más vulnerable que no sea la parte de la base probada en la primera caída;
+
+b)	RIG flexibles: sobre el lado más vulnerable;
+
+c)	RIG de plástico rígido, RIG compuestos, RIG de cartón y RIG de madera: de plano sobre un lado, de plano sobre la parte superior y sobre una esquina.
+
+Para cada caída pueden utilizarse un mismo RIG o varios RIG diferentes.
+
+6.5.4.9.4	Altura de caída
+
+	
+Grupo de
+embalaje I
+Grupo de
+embalaje II
+Grupo de
+embalaje III
+
+1,8 m
+
+1,2 m
+
+0,8 m
+
+6.5.4.9.5	Criterios  de superación del ensayo	
+
+a)	RIG metálicos: ninguna pérdida de contenido;
+
+b)	RIG flexibles: ninguna pérdida de contenido: un pequeño derrame a través, por ejemplo, de los cierres o los orificios de las grapas, ocasionado por el golpe, no se atribuirá a defectos del RIG, siempre que no se produzca ninguna otra pérdida una vez levantado el RIG del suelo;
+
+c)	RIG de plástico rígido, RIG compuestos, RIG de cartón y RIG de madera: ninguna perdida de contenido. Un pequeño derrame a través de los cierres, ocasionado por el golpe, no se atribuirá a defecto del RIG, siempre que no se produzca ninguna otra pérdida.
+
+
+
+6.5.4.10	Ensayo de desgarro
+
+6.5.4.10.1	Aplicabilidad
+
+	Para todos los tipos de RIG flexibles, como ensayo de modelo.
+
+6.5.4.10.2	Preparación de los RIG para el ensayo
+
+	Se llenará el RIG por lo menos hasta el 95% de su capacidad y hasta la carga máxima admisible, distribuyendo uniformemente el contenido.
+
+6.5.4.10.3	Método de ensayo
+
+	Una vez colocado el RIG en el suelo, se perfora con un cuchillo la pared de una de sus caras anchas haciendo un corte de 100 mm de longitud que forme un ángulo de 45° con el eje principal del RIG, a una altura media entre la superficie del fondo y el nivel superior del contenido. Seguidamente, se someterá el RIG a una carga superpuesta, uniformemente distribuida, equivalente al doble de la carga máxima admisible. Se aplicará dicha carga durante al menos cinco minutos. A continuación si se trata de un RIG destinado a ser izado por la parte superior o por uno de los costados, y una vez que se haya retirado la carga superpuesta, el RIG se levantará del suelo y permanecerá en tal posición por espacio de cinco minutos.
+
+6.5.4.10.4	Criterios de superación del ensayo
+
+		El corte no aumentará en más del 25% de su longitud original.
+
+6.5.4.11	Ensayo de derribo
+
+6.5.4.11.1	Aplicabilidad
+
+	Para todos los tipos de RIG flexibles, como ensayo de modelo.
+
+6.5.4.11.2	Preparación de los RIG para el ensayo
+
+	Se llenará el RIG por lo menos al 95% de su capacidad y hasta la carga máxima admisible, distribuyendo uniformemente el contenido.
+
+6.5.4.11.3	Método de ensayo
+
+	Se derribará el RIG de manera que choque con cualquier parte de su extremo superior contra una superficie horizontal rígida, no elástica, lisa y plana. 
+
+6.5.4.11.4	Altura de derribo 
+
+	
+Grupo de
+embalaje I
+Grupo de
+embalaje II
+Grupo de
+embalaje III
+1,8 m
+1,2 m
+0,8 m
+
+6.5.4.11.5         Criterios de superación del ensayo
+
+                         Ninguna pérdida de contenido. Un pequeño derrame a través, por ejemplo, de los cierres o los orificios de las grapas, ocasionado por el golpe, no se atribuirá a defecto del RIG, siempre que no se produzca ninguna otra pérdida de contenido. 
+
+6.5.4.12	    Ensayo de enderezamiento																				             6.5.4.12.1	   Aplicabilidad 
+            														   Para todos los RIG flexibles destinados a ser izados por la parte superior o por un costado, como ensayo de modelo. 
+
+6.5.4.12.2	   Preparación  de los RIG para el ensayo
+
+		   Se llenará el RIG por lo menos hasta el 95% de su capacidad y hasta la carga máxima admisible, distribuyendo uniformemente el contenido. 
+
+6.5.4.12.3	    Método de ensayo 
+
+		    EL RIG, una vez colocado sobre uno de sus costados, se izará a una velocidad de al menos 0,1 m/s por uno de sus dispositivos de izada, o por dos de ellos si tiene cuatro, hasta dejarlo en posición vertical sin que toque el suelo.
+
+6.5.4.12.4          Criterios de superación del ensayo 
+
+		     No se producirán en el RIG ni en sus dispositivos de izadas deterioros que lo hagan inseguro para el transporte o la manipulación. 
+
+6.5.4.13 	      Informe de ensayo   
+
+6.5.4.13.1	      Se deberá redactar un informe de ensayo que contenga al menos la siguiente información, el cual deberá estar disponible para los usuarios del RIG: 
+
+		      1.	Nombre y dirección del establecimiento en que se efectuó el ensayo, 
+		      2.   Nombre y dirección del solicitante (cuando proceda),
+		      3.	Identificación única del informe de ensayo,
+		      4.	Fecha del informe de ensayo,
+		      5.	Fabricante del RIG,
+		      6.	Descripción del modelo de RIG (por ejemplo, dimensiones, materiales,                                         cierres, espesor, etc.), incluido el método de fabricación (por ejemplo, moldeo, por soplado), en la que podrían incluirse uno o más dibujos y/o fotografías,
+     		      7.   Capacidad máxima,
+		      8.	Características del contenido del RIG ensayado (por ejemplo, viscosidad y densidad relativa para los líquidos y tamaño de las partículas para los sólidos),
+	                 9.	Descripción y resultados del ensayo,
+		     10.  Firma, nombre del firmante y cargo que desempeña. 
+
+6.5.4.13.2		En el informe de ensayo de declarará que el RIG preparado como para el transporte fue sometido a ensayo con arreglo a las disposiciones pertinentes de este Capítulo, indicando además que la utilización de otros métodos o elementos de embalaje puede invalidarlo. Se facilitará copia del informe de ensayo a la autoridad competente.
+
+
+6.5.4.14		Ensayo inicial y periódico de RIG individual, de metal, de plástico rígido y compuestos.   	
+
+6.5.4.14.1		Estos ensayos se efectuarán en las condiciones que establezca la autoridad competente. 
+
+6.5.4.14.2		Los RIG corresponderán en todos los aspectos a sus respectivos modelos. 
+
+6.5.4.14.3.		Cada RIG metálico, de plástico rígido  o compuesto utilizado para líquidos o para sólidos cargados o descargados a presión se someterá al ensayo de estanqueidad antes de que se utilice por primera vez para el transporte (es decir, con carácter de ensayo inicial) y a intervalos de no más de dos años y medio .
+
+6.5.4.14.4		Los resultados de los ensayos se anotarán en un informe al efecto, que quedará en poder del propietario del RIG.

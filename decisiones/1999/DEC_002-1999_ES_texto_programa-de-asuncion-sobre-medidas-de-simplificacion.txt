@@ -1,0 +1,312 @@
+Decisión CMC N° 02/99
+Título: PROGRAMA DE ASUNCIÓN SOBRE MEDIDAS DE SIMPLIFICACIÓN OPERACIONAL DE TRÁMITES DE COMERCIO EXTERIOR Y DE FRONTERA
+Tipo de documento: texto
+Archivo original: 17334_DEC_002-1999_ES_Programa_Asunción_Trámites_Comer-Ext_Frontera_Acta 1_99.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC. N° 2/99
+
+
+PROGRAMA DE ASUNCIÓN SOBRE MEDIDAS DE SIMPLIFICACIÓN OPERACIONAL DE TRÁMITES DE COMERCIO EXTERIOR Y DE FRONTERA
+
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 5/93, N° 12/93 y 20/98 del Consejo del Mercado Común, la Resolución N° 43/99 del Grupo Mercado Común, y el Anexo IX del Acta Nº 3/99 de la Comisión de Comercio del MERCOSUR.
+
+CONSIDERANDO:
+
+Que la Comisión de Comercio del MERCOSUR, en cumplimiento de la Dec. 20/98, elevó al GMC un programa de trabajo para la simplificación y facilitación de los procedimientos administrativos y operacionales de comercio exterior.
+
+EL CONSEJO DEL MERCADO COMÚN
+DECIDE:
+
+Art. 1 - Aprobar el “Programa de Asunción sobre Medidas de Simplificación Operacional de Trámites de Comercio Exterior y de Frontera”, en sus versiones en español y portugués, que consta como Anexo y forma parte de la presente Decisión.
+
+Art. 2 - Instruir a la Comisión de Comercio del MERCOSUR para que informe en las Reuniones Ordinarias del Grupo Mercado Común, el estado de avance de dicho programa, hasta su finalización total.
+
+
+
+
+
+
+
+
+XVI CMC- Asunción, 15/VI/99
+
+
+ANEXO
+
+
+PROGRAMA DE ASUNCIÓN
+ SOBRE MEDIDAS DE SIMPLIFICACIÓN OPERACIONAL DE
+TRÁMITES DE COMERCIO EXTERIOR Y DE FRONTERA
+
+    1. Antes de la Llegada de la Mercadería a Zona Primaria
+
+    • Procedimientos Administrativos
+
+    (a) Concepto
+
+Los procedimientos administrativos de comercio exterior a ser tratados incluirán licencias, certificaciones y autorizaciones de las diversas autoridades intervinientes, así como la inspección preembarque. Estarán exceptuados aquellos relativos a la operatoria aduanera, tratados en la sección relativa a los procedimientos previos al ingreso de la mercadería al país importador.
+
+    (b) Objetivos
+
+Reglamentar, por medio de normas de aplicación general, los procedimientos administrativos de comercio exterior así como los procedimientos de inspección preembarque existentes en cada uno de los Estados Partes, de modo de asegurar la transparencia y celeridad, tender a la simplificación de los mismos y evitar la utilización proteccionista de las distintas licencias, certificaciones y autorizaciones, así como de los procedimientos de inspección preembarque.
+
+    (c) Elementos
+
+    • Considerar todos los procedimientos administrativos de comercio exterior, incluyendo los procedimientos de licenciamiento, certificación, autorización e inspección preembarque exigidos por los cuatro países.
+
+    • Establecer reglas de procedimiento que no comprenderán el contenido de las exigencias en sí mismas, sino los procedimientos para su aplicación o control en el comercio entre los Estados Partes.
+
+    • Reglas sobre transparencia de los procedimientos, entre otros aspectos de:
+    a) publicidad de las reglas vigentes;
+    b) requisitos;
+    c) autoridades competentes para autorización, y
+    d) costos involucrados.
+
+    • Reglas sobre las condiciones para concesión de las licencias, certificaciones y autorizaciones.
+
+    • Plazos para concesión de las licencias, certificaciones y autorizaciones.
+
+    (d) Plazo: 150 días.
+
+    (e) Ámbito
+
+Las actividades deberán ser realizadas por un grupo de trabajo vinculado a la CCM.
+
+
+    2. Antes del Ingreso de la Mercadería al País Importador
+
+2.1. Conjunto de datos comunes
+
+Aduaneros
+
+    (a) Concepto
+
+Conjunto de datos que constan en los documentos que integran el despacho aduanero, comunes a los cuatro Estados Partes, que puedan ser objeto de intercambio a través de sistemas informatizados, conforme lo permitan las legislaciones nacionales vigentes.
+
+    (b) Objetivo
+
+Identificar e intercambiar los datos del despacho de exportación del Estado Parte exportador para el Estado Parte importador, con acceso directo a los datos, en tiempo real.
+
+    (c) Elementos
+
+Tomar como referencia los trabajos desarrollados por el Grupo Ad Hoc DUAM del Comité Técnico N° 2.
+
+    (d) Plazo:  120 días.
+
+    (e) Ámbito
+
+Comité Técnico N° 2 “Asuntos Aduaneros”, con participación del Subcomité de Control y Operatoria en Frontera.
+
+
+Certificados Sanitarios
+
+    (a) Concepto
+
+Conjunto de datos comunes que constan en los Certificados Sanitarios emitidos por los organismos de control de los Estados Partes exportador e importador, que puedan ser objeto de intercambio a través de sistemas informatizados, conforme lo permitan las legislaciones nacionales vigentes.
+
+    (b) Objetivo
+
+Identificar e intercambiar los datos del despacho de exportación del Estado Parte exportador para el Estado Parte importador, con acceso directo a los datos, en tiempo real.
+
+    (c) Plazo:  120 días.
+
+    (d) Ámbito
+
+Subgrupos de Trabajo N° 8 y N° 11, en sus respectivas áreas de competencia.
+
+
+2.2. Sistemas de Información
+
+Transmisión del conjunto de datos comunes, del Estado Parte de Salida al Estado Parte de Entrada
+
+    (a) Concepto
+
+Acceso directo en tiempo real a los datos que constan en el Despacho Aduanero y en los Certificados Sanitarios, comunes a los Estados Partes exportador e importador, conforme a lo definido en el ítem 2.1. – Conjunto de Datos Comunes, así como en el MIC/DTA y en los Certificados de Origen.
+
+    (b) Objetivo
+
+Intercambiar los datos definidos en el párrafo anterior entre el Estado Parte exportador y el Estado Parte importador, con acceso directo a los datos, en tiempo real, con el propósito de agilizar los procedimientos y evitar el fraude.
+
+    (c) Elementos
+
+Proyecto para la implementación de un sistema que permita que el conjunto de datos comunes sea transmitido en tiempo real, por cualquier medio de acceso disponible (“on line”, EDI o Internet).
+
+    (d) Plazo:  210 días.
+
+    (e) Ámbito
+
+Grupo de Trabajo vinculado a la CCM
+2.3. Procedimientos Operacionales
+     
+     (a) Concepto
+
+Conjunto de procedimientos efectuados por los diversos organismos intervinientes en oportunidad del despacho aduanero de la mercadería.
+
+    (b) Objetivo
+
+Reformular la Decisión CMC N° 16/94, con la finalidad de reglamentar la intervención de los distintos organismos intervinientes, de modo de asegurar la agilización de los trámites de control de los diferentes organismos, en la exportación y en la importación entre los Estados Partes.
+
+    (c) Elementos
+
+El proyecto de norma deberá contemplar, entre otros aspectos, los siguientes:
+    • momento de intervención;
+    • modo de intervención;
+    • consecuencia del accionar de los organismos intervinientes;
+    • ausencia de organismo.
+
+    (d) Plazo:  210 días.
+
+    (e) Ámbito
+
+Grupo de Trabajo vinculado a la CCM.
+
+
+2.4. Horarios
+
+    (a) Concepto
+
+Se entiende por horario hábil el período comprendido entre el inicio y fin de las actividades diarias de atención de los organismos intervinientes en las operaciones de comercio exterior en zonas de frontera.
+
+    (b) Objetivo
+
+Asegurar el funcionamiento fluido de las operaciones de comercio exterior en todos los horarios hábiles en los puntos de frontera entre los Estados Partes.
+
+    (c) Elementos
+
+Reformulación de la Resolución GMC N° 127/94 de forma tal que contemple, entre otros, los siguientes aspectos:
+    • simultaneidad de los horarios de atención de todos los organismos intervinientes;
+    • flexibilización de los horarios de atención en función de los flujos comerciales en los puntos de frontera;
+    • prohibición del cobro de tasas adicionales durante el horario hábil de atención.
+
+    (d) Plazo:  60 días.
+
+    (e) Ámbito
+
+Comité Técnico N° 2, con participación del Subcomité de Control y Operatoria en Frontera.
+
+
+    3. Áreas de Control Integrado
+
+    • Reglamentos Operacionales
+
+    (a) Concepto
+
+Conjunto de normas básicas padronizadas relativas al funcionamiento de las Areas de Control Integrado.
+
+    (b) Objetivo
+
+Asegurar el buen funcionamiento de las Areas de Control Integrado.
+
+    (c) Elementos
+
+Elaboración de normas básicas padronizadas relativas al funcionamiento de las Areas de Control Integrado, las cuales deberán ser observadas por los reglamentos operativos.
+
+    (d) Plazo:  120 días.
+
+    (e) Ámbito
+
+Comité Técnico N° 2, con participación del Subcomité de Control y Operatoria en Frontera.
+
+
+    • Revisión de definiciones de aspectos de las Áreas de Control Integrado
+
+    (a) Concepto
+
+Revisión de dispositivos que constan en normas ya aprobadas, con vistas a su actualización y corrección, relativas a situaciones no claramente definidas o que sean consideradas, actualmente, obstáculos al proceso de integración.
+
+    (b) Objetivo
+
+Corregir eventuales distorsiones que dificulten la efectiva implantación de las Areas de Control Integrado.
+
+    (c) Elementos
+
+Entre otros, el proyecto podrá contener, si fuera el caso, la revisión de los criterios de implementación de las Areas de Control Integrado que requieran tal revisión, de manera tal de agilizar los flujos comerciales y economizar recursos para la implementación de la infraestructura necesaria.
+
+    (d) Plazo:  180 días.
+
+    (e) Ámbito
+
+Grupo de trabajo vinculado a la CCM.
+
+
+    • Comunicaciones
+
+    (a) Concepto
+
+Utilización de los sistemas de comunicación telefónica y de datos en las Areas de Control Integrado.
+
+    (b) Objetivo
+
+Proceder a una reglamentación general de la materia de manera de asegurar el funcionamiento adecuado de las comunicaciones telefónicas y de datos en las Areas de Control Integrado.
+
+    (c) Elementos
+
+A partir de un examen de las distintas alternativas existentes, proponer un proyecto de Resolución al respecto.
+
+    (d) Plazo:  180 días.
+
+    (e) Ámbito
+
+Subgrupo de Trabajo N° 1
+
+
+    • Instalaciones físicas y equipamientos
+
+Proponer al Grupo Mercado Común que reitere los términos de la Resolución GMC N° 111/94.
+
+    • Recursos humanos y financieros
+
+Proponer al Grupo Mercado Común que reitere los términos de la Resolución GMC N° 111/94.
+
+
+4. Tasas
+
+    (a) Concepto
+
+Conjunto de tasas cobradas en cada uno de los Estados Partes para la realización de servicios de procesamiento y control de operaciones de comercio exterior.
+
+    (b) Objetivos
+
+
+Efectuar un relevamiento completo de los procedimientos administrativos y operacionales que deben ser realizados para el pago de las tasas que inciden sobre las operaciones de comercio exterior en cada Estado Parte, para que la CCM determine posibles cursos de acción para la facilitación del comercio.
+ 
+    (c) Elementos
+
+    • Identificación y descripción de los procedimientos para el pago de las tasas y su influencia en el flujo normal de las operaciones.
+
+    (d) Plazo:  90 días.
+
+    (e) Ámbito
+
+Grupo de Trabajo vinculado a la CCM.
+
+
+    5. Capacitación de los agentes del sector privado que intervienen en las operaciones de comercio exterior
+
+    (a) Concepto
+
+Información y actualización para el sector privado de las normas y procedimientos relativos a las operaciones de comercio exterior.
+
+    (b) Objetivos
+
+Buscar mayor capacitación de los usuarios para aumentar la eficiencia de la utilización de los diversos procedimientos relacionados al comercio exterior y de la estructura en los puntos de frontera.
+
+    (c) Elementos
+
+Realización de actividades de entrenamiento y difusión sobre aspectos diversos de las normas y de los procedimientos de comercio exterior y de operatoria en frontera.
+
+    (d) Plazo:  Actividad permanente.
+
+    (e) Ámbito
+
+Comité Técnico N° 2.
+
+    6. Seguimiento de las tareas
+
+En cada uno de los puntos anteriores, los Subgrupos de Trabajo y Comités Técnicos iniciarán sus labores procediendo a relevar los trabajos ya realizados en sus respectivos ámbitos técnicos.
+
+Los ámbitos definidos para la realización de las tareas (incluidos los Subgrupos de Trabajo) informarán periódicamente a la CCM el estado de avance y las dificultades encontradas al efectuar las mismas.
+
+En su próxima reunión la CCM definirá, cuando fuera el caso, el órgano que ejercerá la coordinación de los trabajos en cada tema.

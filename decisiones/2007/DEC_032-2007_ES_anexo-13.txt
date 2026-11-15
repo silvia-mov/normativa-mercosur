@@ -1,0 +1,329 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-13
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO II-Acdo Mercancias Peligrosas-ES/ANEXO II-Acdo Mercancias Peligrosas-ES-CAPITULO 5.1 y 5.2.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+PARTE 5
+
+
+
+PROCEDIMIENTOS DE  EXPEDICIÓN
+
+CAPÍTULO 5.1
+
+DISPOSICIONES GENERALES
+
+5.1.1	Aplicación y disposiciones generales
+
+5.1.1.1	En esta parte se exponen las disposiciones referentes a la expedición de mercancías peligrosas en lo que respecta a la autorización de las mismas y las notificaciones previas, al marcado, el etiquetado, la documentación (mediante técnicas manuales, de procesamiento electrónico de datos (PED) o de intercambio electrónico de datos (IED)) y la rotulación.
+
+                5.1.1.2 Salvo que se disponga lo contrario en este Anexo, nadie podrá ofrecer o aceptar mercancías peligrosas para transporte que no estén debidamente clasificadas, embaladas, marcadas, etiquetadas, y rotuladas, conforme declaración emitida por el expedidor, orientado por el fabricante, contenida en la documentación de transporte, y además no satisfagan las condiciones exigidas en esta Parte.
+
+                5.1.1.3 La señalización de riesgos para expedición de mercancías peligrosas para transporte, está constituída por la señalización de la unidad de transporte y de la carga, por medio de rotulos de riesgo y paneles de seguridad (ver Capítulo 5.3), por el etiquetado de los bultos, por medio de etiquetas de riesgo,  especiales, y de simbolos de manipuleo (ver Capítulo 5.2)  cuando fuere aplicable. 
+
+5.1.2	Uso de sobreembalajes
+
+5.1.2.1		Todo sobreembalaje llevará, por cada mercancía peligrosa que contenga, una marca que indique la denominación apropiada para el transporte y el número de las Naciones Unidas, así como la etiqueta prevista para los bultos en el Capítulo 5.2, salvo que estén visibles las marcas y etiquetas representativas de todas las mercancías peligrosas contenidas en el sobreembalaje.
+
+5.1.2.2		Cada bulto de mercancía peligrosa contenido en el sobreembalaje cumplirá todas las disposiciones aplicables en el presente Anexo.  El sobreembalaje no comprometerá la función prevista de cada bulto.
+
+5.1.3	Embalajes vacíos
+
+5.1.3.1		Excepto en el caso de la clase 7, todo embalaje que haya contenido mercancías peligrosas deberá permanecer  identificado, marcado, etiquetado y rotulado en la forma prescrita para esas mercancías peligrosas, a menos que se hayan tomado medidas, como la  limpieza, eliminación de vapores o nuevo llenado con una sustancia inerte que neutralice el efecto del producto anterior.
+
+                5.1.3.2 Las cisternas y recipientes intermedios para graneles utilizados para el transporte de materiales radiactivos no se utilizarán para almacenamiento o transporte de otras mercancías, a menos que sean descontaminados por debajo del nivel de 0,4 Bq/cm2 para emisores beta y gamma y emisores alfa de baja toxicidad, y de 0,04 Bq/cm2 para todos los demás emisores alfa.
+
+5.1.4	Embalajes con varias mercancías 
+
+	Cuando se embalen dos o más mercancías peligrosas en el mismo embalaje exterior, el bulto será etiquetado y marcado en la forma prescrita para cada sustancia. No se precisarán etiquetas de riesgo secundario cuando éste quede ya representado por una etiqueta de riesgo principal.
+
+
+CAPÍTULO 5.2
+
+MARCADO Y ETIQUETADO
+
+5.2.1	Marcado
+
+5.2.1.1		Salvo que se disponga otra cosa en este Anexo, en cada bulto figurarán la denominación apropiada para el transporte de la mercancía peligrosa, determinada de conformidad con lo indicado en 3.1.2, y el correspondiente número de las Naciones Unidas precedido de las letras "UN" u “ONU”. En el caso de un objeto no embalado, las marcas figurarán en el objeto, en su soporte o en su dispositivo de manipulación, almacenamiento o puesta en servicio. Con respecto a las mercancías de la división 1.4, grupo de compatibilidad S, también se marcarán la división y la letra del grupo de compatibilidad, a menos que las mercancías lleven la etiqueta "1.4S". Ejemplo de marcado:
+
+	LÍQUIDO CORROSIVO, ÁCIDO, ORGÁNICO, N.E.P. (cloruro de caprililo), UN 3265.
+
+5.2.1.2	Todas las marcas que se prescriben en 5.2.1.1 para los bultos:
+
+a)	serán fácilmente visibles y legibles;
+
+b)	debebrán de poder permanecer a la intemperie sin merma notable de su eficacia;
+
+c)	se colocarán en la superficie externa del bulto, en un fondo de color que haga contraste con el suyo; y
+
+d)	no se colocarán cerca de otras marcas que puedan reducir notablemente su eficacia.
+
+5.2.1.3	Los embalajes de socorro llevarán, además, la mención "SOCORRO".
+
+5.2.1.4		Los recipientes intermedios para graneles de una capacidad superior a 450 litros se marcarán en  por lo menos dos lados opuestos.
+
+5.2.1.5	Disposiciones especiales para el marcado de los materiales de la clase 7
+
+5.2.1.5.1	Todo bulto deberá llevar marcada de manera legible y duradera en el exterior del embalaje la identificación del expedidor o del destinatario, o de ambos.
+
+5.2.1.5.2	Todo bulto que no sea un bulto exceptuado deberá llevar marcado de manera legible y duradera en el exterior del embalaje el número de las Naciones Unidas precedido de las letras "UN" u “ONU”, y la denominación apropiada para el transporte que corresponda. En el caso de los bultos exceptuados sólo se requerirá el número de las Naciones Unidas, precedido de las letras "UN" u “ONU”.
+
+5.2.1.5.3	Todo bulto cuya masa bruta exceda de 50 kg llevará marcada su masa bruta permitida de manera legible y duradera en el exterior del embalaje.
+
+5.2.1.5.4	Todo bulto que se ajuste al diseño de:
+
+a)	Un bulto industrial del Tipo 1, un bulto industrial del Tipo 2 o un bulto industrial del Tipo 3 llevará marcada de manera legible y duradera en el exterior del embalaje, conforme lo especificado por una de las autoridades competentes de los Estados Partes, indicadas en el Apéndice I.1 del Anexo I-Organismos Competentes para Establecer Normas Complementarias al Acuerdo para la Facilitación del Transporte de Mercancías Peligrosas en el MERCOSUR.
+
+b)	Un bulto del Tipo A llevará marcada de manera legible y duradera en el exterior del embalaje la inscripción "TIPO A".
+
+c)	Un bulto industrial del Tipo 2, un bulto industrial del Tipo 3 o un bulto del Tipo A llevará marcado de manera legible y duradera en el exterior del embalaje el código internacional de identificación de vehículos del país de origen del diseño y el nombre del fabricante, u otra identificación del embalaje especificada por la autoridad competente.
+
+5.2.1.5.5	Todo bulto que se ajuste a un diseño aprobado por una de las autoridades competentes de los Estados Partes, indicadas en el Apéndice I.1del Anexo I de este Acuerdo,  llevará marcadas en el exterior del embalaje de manera legible y duradera:
+
+a)	la marca de identificación asignada a ese diseño por la autoridad competente;
+
+b)	un número de serie para identificar inequívocamente cada embalaje que se ajuste a ese diseño;
+
+c)	cuando se trate de diseños de bultos del Tipo B(U) o del Tipo B(M), la inscripción "TIPO B(U)" o "TIPO B(M)"; y
+
+d)	cuando se trate de diseños de bultos del Tipo C, la inscripción "TIPO C".
+
+5.2.1.5.6	Todo bulto que se ajuste a un diseño del Tipo B(U), del Tipo B(M) o del Tipo C llevará, en la superficie externa del recipiente más exterior resistente al fuego y al agua, el símbolo del trébol que se indica en la figura 5.2.1, estampado, grabado o marcado de cualquier otra manera que lo haga bien visible y resistente a los efectos del fuego y del agua:
+
+Figura 5.1
+Símbolo fundamental: un trébol cuyas proporciones están basadas en un círculo central de radio X.
+La dimensión mínima admisible de X será de 4 mm.
+
+
+
+
+5.2.1.5.7	En el caso de materiales BAE-I u OCS-I contenidos en recipientes o materiales de embalaje y transportados conforme al uso exclusivo permitido por 4.1.9.2.3, la superficie exterior de estos recipientes o materiales de embalaje podrá llevar la inscripción "BAE-I RADIACTIVOS" u "OCS-I RADIACTIVOS", según proceda.
+
+5.2.2	Etiquetado
+
+5.2.2.1	Disposiciones sobre etiquetado
+
+NOTA:		Estas disposiciones se refieren fundamentalmente a las etiquetas indicativas de los riesgos. Sin embargo, los bultos deben llevar, si procede, otras marcas o símbolos que indiquen las precauciones que han de tomarse al manipular o almacenar los bultos.
+
+5.2.2.1.1	Las etiquetas indicativas de riesgos principales y secundarios se ajustarán a los modelos N° 1 a 9 que se reproducen en 5.2.2.2.2.1. La etiqueta de riesgo secundario de "EXPLOSIVO" se ajustará al modelo N° 1.
+
+5.2.2.1.2	Cuando se trate de objetos o sustancias que figuran por su nombre en el Listado de Mercancías Peligrosas, se les fijarán una etiqueta indicativa del riesgo que se indica en la columna 3 del mismo  y una etiqueta de riesgo secundario que indique el riesgo al que se hace referencia en la columna 4 del Listado, salvo que exista alguna disposición especial. En ciertos casos, la obligación de utilizar una etiqueta de riesgo secundario puede figurar también como disposición especial en la columna 7 del Listado.
+
+5.2.2.1.3	Sin perjuicio de lo dispuesto en 5.2.2.1.3.1, si una sustancia que responde a la definición de más de una clase no está mencionada expresamente en el Listado de Mercancías Peligrosas del capítulo 3.2, la clase del riesgo principal de las mercancías se determinará con arreglo a lo prescrito en el capítulo 2.0, ítem 2.0.3, Prescedencia de las Carcterísticas de Riesgo. Además de la etiqueta requerida para esa clase de riesgo principal, el bulto llevará las etiquetas de riesgo secundario correspondientes, según surge del Listado de Mercancías Peligrosas.
+
+5.2.2.1.3.1	Para los bultos que contengan sustancias de la clase 8 no se exige etiqueta de riesgo secundario del modelo N° 6.1 si su toxicidad tiene su origen únicamente en su efecto destructivo sobre los tejidos vivos. Para los bultos que contengan sustancias de la división 4.2 no se exige etiqueta de riesgo secundario del modelo N° 4.1.
+
+5.2.2.1.4	Etiquetas para los gases de la clase 2 con riesgo(s) secundario(s)
+
+División
+Riesgo(s) secundario(s) indicado(s) en el Capítulo 2.2
+(1)
+Etiqueta de riesgo principal
+(2)
+Etiqueta(s) de riesgo secundario
+(3)
+2.1
+Ninguno
+2.1
+Ninguna
+2.2
+Ninguno
+2.2
+Ninguna
+
+5.1
+2.2
+5.1
+2.3
+Ninguno
+2.3
+Ninguna
+
+2.1
+2.3
+2.1
+
+5.1
+2.3
+5.1
+
+5.1, 8
+2.3
+5.1, 8
+
+8
+2.3
+8
+
+2.1, 8
+2.3
+2.1, 8
+
+
+                    5.2.2.1.5 Para la clase 2 se han previsto tres etiquetas distintas:  una para los gases inflamables de la división 2.1 (roja), otra para los gases no inflamables, no tóxicos de la división 2.2 (verde), y otra para los gases tóxicos de la división 2.3 (blanca). Cuando en el Listado de Mercancías Peligrosas se señale que un gas de la clase 2 presenta uno o varios riesgos secundarios, se utilizarán las etiquetas que se indican en el cuadro del 5.2.2.1.4. 
+En cada caso la etiqueta de riesgo principal indicada en la columna (3) del cuadro anterior, debe confirmarse de acuerdo a las disposiciones de 5.2.2.2.2.1.
+
+5.2.2.1.6	Cada etiqueta:
+
+a)	estará colocada en la misma superficie del bulto que la denominación apropiada para el transporte  y cerca de ella, si las dimensiones del bulto lo permiten;
+
+b)	estará colocada en el bulto de manera que no quede encubierta o tapada por ninguna parte o accesorio del bulto ni por ninguna otra etiqueta o marca; y
+
+c)	cuando se prescriban etiquetas de riesgo principal y de riesgo secundario estas, se colocarán junto a aquellas.
+
+	Cuando un bulto sea de forma tan irregular o de tamaño tan exiguo que la etiqueta no pueda colocarse bien, ésta podrá fijarse mediante un marbete sujetado firmemente al bulto o por cualquier otro medio conveniente.
+
+5.2.2.1.7	Los recipientes intermedios para graneles de una capacidad superior a 450 litros llevarán etiquetas en por lo menos dos lados opuestos.
+
+5.2.2.1.8	Las etiquetas se colocarán sobre una superficie de color contrastante con el suyo.
+
+5.2.2.1.9	Disposiciones especiales para el etiquetado de los peróxidos orgánicos
+
+	Los bultos que contengan peróxidos orgánicos pertenecientes a los tipos B, C, D, E o F llevarán la etiqueta correspondiente a la división 5.2 (modelo N° 5.2). Dicha etiqueta significa también que el producto puede ser inflamable, razón por la que no se prescribe la etiqueta de riesgo secundario de "LIQUIDO INFLAMABLE" (modelo N° 3). Se utilizarán, además, las siguientes etiquetas indicativas de riesgos secundarios:
+
+a)	una etiqueta de riesgo secundario de "EXPLOSIVO" (modelo N° 1) para los peróxidos orgánicos de tipo B, a menos que la autoridad competente haya permitido prescindir de ella respecto de un determinado embalaje fundándose en que, según los resultados de los ensayos, el peróxido no experimenta en aquél reacciones propias de los explosivos;
+
+b)	una etiqueta de riesgo secundario de "CORROSIVO" (modelo N° 8), en los casos en que se cumplan los criterios relativos al grupo de embalaje I o II de la clase 8.
+
+5.2.2.1.10	Disposiciones especiales para el etiquetado de los bultos de sustancias infecciosas
+
+	Además de la etiqueta de riesgo principal (modelo N° 6.2), los bultos de sustancias infecciosas llevarán cualesquiera otras etiquetas que requiera la naturaleza de su contenido.
+
+5.2.2.1.11	Disposiciones especiales para el etiquetado de materiales radiactivos 
+
+5.2.2.1.11.1	Salvo en los casos permitidos para los grandes contenedores y las cisternas, según lo dispuesto  en 5.3.1.1.5.1, todo bulto, sobreembalaje y contenedor que transporte materiales radiactivos deberán llevar, por lo menos, dos etiquetas que correspondan a los modelos N° 7A, 7B y 7C según corresponda a la categoría (véase 2.7.8.4) de ese bulto, sobreembalaje  o contenedor. Las etiquetas deberán fijarse en dos lados opuestos de la parte exterior del bulto o en el exterior de los cuatro lados del contenedor. Todos los sobreembalajes que contengan materiales radiactivos deberán llevar como mínimo dos etiquetas en los lados opuestos del sobreembalaje. Además, cada bulto, sobreembalaje y contenedor que contenga sustancias fisionables distintas de las sustancias fisionables exceptuadas de conformidad con la autoridad competente, llevarán etiquetas que se ajusten al modelo N° 7E; cuando deban emplearse esas etiquetas, se fijarán junto a las correspondientes a la sustancia radiactiva. Las etiquetas no deberán cubrir las inscripciones especificadas en 5.2. Deberán retirarse o recubrirse todas las etiquetas que no estén relacionadas con el contenido.
+
+5.2.2.1.11.2 	En cada etiqueta que se ajuste a los modelos números 7A, 7B y 7C se consignará la información siguiente:
+
+a)	Contenido:
+
+i)	salvo en el caso de material BAE-I, el (los) nombre(s) del (de los) radionucleido(s), según se indica en el cuadro 2.7.7.2.1, utilizando los símbolos prescritos en el mismo. Tratándose de mezclas de radionucleidos, se enumerarán los nucleidos más restrictivos en la medida en que lo permita el espacio disponible. Se indicará el grupo de BAE u OCS a continuación del (de los) nombre(s) del (de los) radionucleido(s). Con este fin se utilizarán los  términos "BAE-II", "BAE-III", "OCS-I" y "OCS-II";
+
+ii)	en el caso de material BAE-I, basta con la inscripción "BAE-I"; no es  necesario indicar el nombre del radionucleido;
+
+b)	Actividad:  La actividad máxima del contenido radiactivo durante el transporte expresada en la unidad bequerelios (Bq) con los prefijos apropiados del SI (véase 1.2.2.1). Tratándose de sustancias fisionables puede emplearse la masa, en lugar de la actividad, utilizando como unidad el gramo (g), o sus múltiplos;
+
+c)	en el caso de sobreembalajes y contenedores, en las inscripciones "contenido" y "actividad" de la etiqueta constará la información estipulada en 5.2.2.1.11.2  literales a) y b), respectivamente, totalizada para el contenido completo del sobreembalaje o contenedor, salvo que en el caso de las etiquetas para sobreembalajes o contenedores que contengan cargas mixtas de bultos con diferentes radionucleidos las  inscripciones podrán ser: "Véanse los documentos de transporte";
+
+d)	Indice de Transporte: Véanse 2.7.6.1.1 y 2.7.6.1.2. (No se requiere la inscripción del Indice de Transporte en el caso de la categoría I-BLANCA.)
+
+5.2.2.1.11.3	En cada etiqueta que se ajuste al modelo N° 7E se consignará el Indice de Seguridad con respecto a la Criticidad (ISC) declarado en el certificado de aprobación de arreglos especiales o en el certificado de aprobación del diseño del bulto emitido por la autoridad competente.
+
+5.2.2.1.11.4	Tratándose de sobreembalajes y contenedores, el Indice de Seguridad con respecto a la Criticidad (ISC) llevará en la etiqueta la información estipulada en 5.2.2.1.11.3 respecto de todo el contenido de sustancias fisionables del sobreembalaje o contenedor.
+
+5.2.2.2	Disposiciones aplicables a las etiquetas
+
+5.2.2.2.1	Las etiquetas cumplirán las disposiciones de esta sección y se ajustarán, en  lo que respecta al color, los símbolos y el formato general, a los modelos reproducidos en 5.2.2.2.2.
+
+5.2.2.2.1.1	Las etiquetas tendrán la forma de un cuadrado, colocado con un vértice hacia arriba, de unas dimensiones mínimas de 100 mm x 100 m, salvo en el caso de los bultos que por sus dimensiones sólo puedan llevar etiquetas más pequeñas, conforme a lo dispuesto en 5.2.2.2.1.2. En todo su perímetro, llevarán una línea del mismo color que el símbolo, trazada a 5 mm del borde y paralela a él.
+
+5.2.2.2.1.2	Los cilindros para gases de la clase 2, pueden, en función de su forma, posición y sus elementos de sujeción durante el transporte, portar las etiquetas que respondan a los modelos que se prescriben en esta sección, pero de tamaño reducido y se fijarán en la parte no cilíndrica (en la hombrera) de dichos recipientes .
+
+5.2.2.2.1.3	Las etiquetas están divididas en dos mitades. Salvo en el caso de las divisiones 1.4, 1.5 y 1.6, la mitad superior de la etiqueta se reserva para el símbolo y la inferior, para el número de la clase o de la división y, si procede, para la letra del grupo de compatibilidad y, cuando fuere aplicable, el texto indicativo de la naturaleza del riesgo.
+
+5.2.2.2.1.4	Excepto en el caso de las divisiones 1.4, 1.5 y 1.6, las etiquetas de la clase 1 llevan en su mitad inferior el número de la división y la letra del grupo de compatibilidad de la sustancia u objeto. Las etiquetas de las divisiones 1.4, 1.5 y 1.6 llevan en su mitad superior el número de la división y en su mitad inferior la letra del grupo de compatibilidad. Para la división 1.4, grupo de compatibilidad S, en general no se prescribe ninguna etiqueta, pero si en algún caso se considera necesaria, la etiqueta se ajustará al modelo N° 1.4.
+
+5.2.2.2.1.5	En las etiquetas que no correspondan a materiales de la clase 7,  el espacio situado debajo del símbolo podrá llevará el texto con las indicaciones relativas a la naturaleza del riesgo y a las precauciones que hayan de tomarse para la manipulación.
+
+5.2.2.2.1.6	Los símbolos, el texto (cuando exigible u optativo)­ y los números se imprimirán en negro en todas las etiquetas, excepto:
+
+a)	en la etiqueta de la clase 8, en la que el texto (si es que lleva alguno) y el número de la clase figurarán en blanco; y
+
+b)	en las etiquetas con fondo enteramente verde, rojo o azul, en las que podrán figurar en blanco.
+
+5.2.2.2.1.7	Todas las etiquetas habrán de poder permanecer a la intemperie sin merma notable de su eficacia.
+
+                    5.2.2.2.2 Modelos de etiquetas 
+
+                        5.2.2.2.2.1 Modelos de etiquetas de riesgo principal y riesgo secundario
+
+
+
+
+                        5.2.2.2.2.2 Modelos de símbolos especiales y de manipuleo
+    a) Rótulos especiales
+    • Mercadería perecedera
+
+
+    • Animales Vivos
+
+	
+    (A) El espacio punteado se destina a las expresiones: “ANIMALES VIVOS”; en inglés: “LIVE ANIMALS”.
+    (B) Indicación del contenido cuando se trata de etiquetas impresas o cuando fuera necesario, indica la denominación de la naturaleza de la mercadería.
+    (C) Lugar destinado al nombre de la Compañía, si se trata de transporte aéreo.
+    • Animales para laboratorio
+
+
+ANIMALES PARA  LABORATORIO
+
+      
+
+ESTOS ANIMALES ESTÁN EN UN
+
+RECIPIENTE CON FILTRO
+
+PARA AISLAR LOS GÉRMENES
+
+SI FUERA NECESARIO INSPECCIONARLOS
+PARA CUALQUIER FINALIDAD,  ESO
+DEBE SER HECHO CON LA ORIENTACIÓN
+DEL EXPEDIDOR. SI EL RECIPIENTE
+FUERA ABIERTO, SU CONTENIDO SERÁ
+TOTALMENTE DESTRUÍDO.
+
+NO ABRA
+
+NO DE ALIMENTOS O AGUA
+
+
+        
+
+
+
+
+Prohibido embarque de sustancia peligrosa en aeronaves de pasajeros
+
+Nota: el fondo del símbolo es de color anaranjado
+
+
+Poluente marino, dimensiones em mm
+
+
+Nota:  1- Rótulo en colores negro y blanco. 
+          2 - padrón para embalajes, podrá ser ampliado
+              o reducido, si se mantienen las proporciones.
+
+
+    b) Símbolos de manipuleo
+
+
+
+
+ Símbolo de “Frágil”
+ Símbolo de “No agitar - frágil”
+	Símbolo de “Prohibido usar gancho o perforar”
+
+
+
+
+
+
+	Símbolo de “Cara superior en esta dirección”
+ Símbolo de “Izamiento”
+	Símbolo de “Proteger contra humedad”
+
+
+
+
+
+
+	Símbolo de “Centro de gravedad”
+ Símbolo de “Proteger del calor”
+ Símbolo de “Proteger de la luz”
+
+
+
+
+ Símbolo de “Substancia o material magnetizante”

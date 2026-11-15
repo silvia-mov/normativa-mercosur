@@ -1,0 +1,259 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-6
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO I-Acdo Mercancias Peligrosas-ES/ANEXO I-Acdo Mercancias Peligrosas-ES_INDICE.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+ÍNDICE
+
+PRESENTACIÓN………………………………………………………………………………..13
+
+ANEXO I –Normas Funcionales para Transporte Terrestre..........................................16
+
+CAPITULO I – De las disposiciones preliminares………………………………………...17
+
+CAPITULOII– De las Condiciones de Transporte………………….................................17
+                           Sección I-  Del Transporte por  Carretera…………………………………17
+                                                Subsección I – De los Vehículos y Equipamientos………..17
+                                                Subsección II – Del Acondicionamiento, Carga, 
+                                                                           Descarga, Almacenaje y 
+                                                                           Opercaciones de Transporte…………….	19
+                                                Subsección III- Del itinerario y del Estacionamiento………21
+                                                Subsección IV- Del Personal Involucrado en la 
+                                                                        Operación de Transporte	…………………..	22
+                         Sección II- Del Transporte Ferroviario………………………………………	24
+                                             Subsección I- De los Vehículos y Equipamientos…………..	24
+                                             Subsección II- De la Formación y Circulación del Tren…….	26
+                                             Subsección III- Del Despacho, Acondicionamiento, Carga
+                                                                        Descarga, Operaciones de Transporte y
+                                                                        Almacenamiento…………………………….	28
+                                             Subsección IV- Del Personal…………………………………..30
+
+CAPÍTULO III- De la Documentación del Transporte…………………………………….	31
+
+CAPÍTULO IV- De los Procedimientos en Caso de Emergencia……………………….	33                               Sección I- Transporte por Carretera………………………………………..	33
+                          Sección II- Transporte Ferroviario…………………………………………..34
+
+CAPITULO V- De los Deberes, Obligaciones y Responsabilidades	…………………..	37
+                          Sección I- De los Fabricantes de Vehículos, Equipamientos 
+                                             Y Productos……………………………………………………..	37
+                          Sección II- Del Contratante del Transporte, del Expedidor y del 
+                                              Destinatario37
+                          Sección III- Del Transportista……………………………………………….	39
+                                               Subsección I- Del Transportista de Carga por 
+                                                                         Carretera……………………………………	39
+                                               Subsección II- Del Transportista Ferroviario……………….	41
+                         Sección IV- De la Fiscalización………………………………………………43
+
+CAPÍTULO VI- De las Infracciones y Penalidades……………………………………….	44
+
+CAPITULO VII- Disposiciones Generales y Transitorias………………………………..	45
+Apéndice- Programa de Capacitación para conductores de Vehículos Empleados
+                   en el Transporte por Carretera  de Mercancías Peligrosas……………………47  
+  
+ANEXO II - 	NORMAS TÉCNICAS ……………………………………………………   	51
+
+PARTE 1 - 	DISPOSICIONES GENERALES Y DEFINICIONES …………………	52
+	Capítulo 1.1 - ……………………………………………………………… …….	53		
+Disposiciones generales ………………………………………………….. ……………	53
+		Notas de Introducción …………………………………………………...	53	
+		1.1.1 - 	Alcance y aplicación ………………………………………… ..	53	
+		1.1.2 - 	Transporte de material radiactivo ……………………………. 	54	
+	Capítulo 1.2 - 	Definiciones y unidades de medida ………………………….	58	
+		Nota de introducción …………………………………………………….	58	
+		1.2.1 -	Definiciones ……………………………………………………..	58	
+		1.2.2 -	Unidades de medida ……………………………………………	65
+	
+PARTE 2 - 	CLASIFICACIÓN …………………………………………………………	68
+
+	Capítulo 2.0 - 	Introducción ……………………………………………………..	69	
+		2.0.0 -	Responsabilidades ……………………………………………..	69	
+		2.0.1 - 	Clases, divisiones, grupos de embalaje ……………………...	69	
+		2.0.2 - 	Números ONU y denominaciones apropiadas para el transporte 71	
+		2.0.3 - 	Orden de preponderancia de las características de riesgo  …	73	
+		2.0.4 - 	Transporte de muestras ……………………………………….	75
+	Capítulo 2.1 - 	Clase 1 – Explosivos …………………………………………..	75		
+		Notas de Introducción …………………………………………………..	75	
+		2.1.1 -	Definiciones y disposiciones generales ……………………...	76	
+		2.1.2 - 	Grupos de compatibilidad	…………………………………….	78	
+		2.1.3 - 	Procedimiento de clasificación ……………………………….	80	
+	Capítulo 2.2 - 	Clase 2 – Gases ……………………………………………….	86			
+		2.2.1 -	Definiciones y disposiciones generales ……………………..	86	
+		2.2.2 - 	Divisiones ………………………………………………………	86				
+		2.2.3 - 	Mezclas de gases ……………………………………………..	87		
+	Capítulo 2.3 - 	Clase 3 – Líquidos Inflamables ………………………………	89	
+		Nota Introductoria ………………………………………………………	89	
+		2.3.1 - 	Definición y disposiciones generales ……………………….	89	
+		2.3.2 - 	Asignación de grupos de embalaje  ………………………...	90	
+		2.3.3 - 	Determinación del Punto de inflamación …………………..	91	
+	Capítulo 2.4 - 	Clase 4 – Sólidos Inflamables; Sustancias Propensas a Combustión Espontánea; Sustancias que en Contacto con el Agua Desprenden Gases Inflamables ……………………..	93	
+		Notas de Introducción …………………………………………………	93	
+		2.4.1 - 	Definición y disposiciones generales ……………………….	93	
+		2.4.2 - 	División 4.1 Sólidos inflamables, sustancias de reacción  espontánea y explosivos insensibilizados …………………	94
+		2.4.3 - 	División 4.2 Sustancias que pueden experimentar combustión espontánea …………………………………….	107
+		2.4.4 - 	División 4.3 Sustancias que en contacto con el agua desprenden gases inflamables …………………………….	109		
+	Capítulo 2.5 - 	Clase 5 – Sustancias Oxidantes y Peróxidos Orgánicos ..	111	
+		Nota de Introducción ………………………………………………….	111		
+		2.5.1 - 	Definiciones y disposiciones generales ……………………	111	
+		2.5.2 - 	División 5.1 Sustancias oxidantes ………………………….	111	
+		2.5.3 - 	División 5.2 Peróxidos orgánicos …………………………..	114	
+	Capítulo 2.6 - 	Clase 6 – Sustancias Tóxicas y Sustancias Infecciosas ..	140	
+		Notas de Introducción ………………………………………………..	140	
+		2.6.1 - 	Definiciones	………………………………………………….	140			
+		2.6.2 - 	División 6.1 Sustancias tóxicas ……………………………	140	
+		2.6.3 - 	División 6.2 Sustancias infecciosas ……………………….	148	
+	Capítulo 2.7 - 	Clase 7 – Materiales Radiactivos ………………………….	152	
+		Nota Introductoria …………………………………………………….	152	
+		2.7.1 - 	Definición de la Clase 7 …………………………………….	152		
+		2.7.2 - 	Definiciones	………………………………………………….	152			
+		2.7.3 - 	Materiales de baja actividad específica (BAE), 
+			determinación de grupos …………………………………...	155	
+		2.7.4 - 	Requisitos relativos a los materiales radiactivos en forma especial . 157	
+		2.7.5 - 	Objeto contaminado en la superficie (OCS), 
+			determinación de grupos ……………………………………	160
+		2.7.6 - 	Determinación del índice de transporte y del índice de 
+			seguridad con respecto a la criticidad (ISC) ….…………..	161
+		2.7.7 - 	Límites de actividad y restricciones en cuanto  a los
+			 materiales …………………………………………………...      	162	
+		2.7.8 - 	Límites del índice de transporte (IT), el índice de seguridad con respecto a la criticidad (ISC) y nivel de radiación correspondiente a bultos y sobreenvases …………………………………..	182	
+		2.7.9 - 	Requisitos y controles para el transporte de bultos exceptuados ………………………………………………..	183	
+		2.7.10 -	Requisitos aplicables a los materiales radiactivos
+			 de baja dispersión …………………………………………	185	
+	Capítulo 2.8 - 	Clase 8 – Sustancias Corrosivas …………………………	186	
+		2.8.1 - 	Definición ……………………………………………………	186				
+		2.8.2 - 	Asignación de grupos de embalaje ………………………	186	
+	Capítulo 2.9 - 	Clase 9 – Sustancias y Objetos Peligrosos Varios ……..	188	
+		2.9.1 - 	Definición ……………………………………………………	188				
+		2.9.2 - 	Asignación a la Clase 9 ……………………………………	188	
+		
+PARTE 3 -	LISTADO DE MERCANCÍAS PELIGROSAS Y EXCEPCIONES RELATIVAS A LAS CANTIDADES LIMITADAS ……. 	189
+
+	Capítulo 3.1 - 	Disposiciones Generales …………………………………	190		
+		3.1.1 -	Alcance y disposiciones generales ……………………...	190	
+		3.1.2 - 	Denominación apropiada para el transporte ……………	191	
+		3.1.3 - 	Mezclas y soluciones que contienen una sustancia peligrosa 193	
+	Capítulo 3.2 - 	Listado de Mercancías Peligrosas ……………………….	194	
+		Notas de Introducción ………………………………………………	194	
+		3.2.1 - 	Estructura del Listado de Mercancías Peligrosas ………	194	
+		3.2.2 - 	Abreviaturas y símbolos …………………………………...	196		
+		3.2.3 - 	Número de Riesgo …………………………………………	197		
+		3.2.4 - 	Listado Numérico de Mercancías Peligrosas…………….	201	
+		3.2.5 - 	Listado Alfabético de Mercancías Peligrosas ……………	366	
+		Capítulo 3.3 - 	Disposiciones Especiales Relativas a Sustancias u Objetos Determinados ……………………………………………….	563	 	
+	Capítulo 3.4 - 	Mercancías Peligrosas en Cantidades Limitadas	 ……….	583
+		3.4.1 - 	Disposiciones generales ……………………………………	583		
+		3.4.2 - 	Cantidades limitadas para embalajes interiores …………	583	
+		3.4.3 - 	Cantidad limitada por unidad de transporte ……………..	584	
+		3.4.4 - 	Disposiciones particulares	………………………………...	585
+		
+PARTE 4 -	DISPOSICIONES RELATIVAS AL EMBALAJE Y A LAS CISTERNAS 
+
+		Capítulo 4.1 - 	Uso de Embalajes, Incluidos los Recipientes Intermedios 
+				para Granel (RIGs) y Embalajes de Gran Tamaño (EGTs) 	587	
+		Notas de Introducción ………………………………………………	587	
+		4.1.1 -	Disposiciones generales para el embalado de mercancías peligrosas, exceptuando las mercancías de la Clase 2, 7 y División 6.2, en embalajes, incluidos los RIGs y los EGTs	587	
+		4.1.2 - 	Disposiciones generales adicionales para el uso de RIGs	590		
+		4.1.3 - 	Disposiciones generales concernientes a las 
+			instrucciones de embalaje	…………………………………	591
+		4.1.4 - 	Listado de instrucciones de embalaje ……………………	593	
+		4.1.5 - 	Disposiciones especiales de embalaje de materiales
+			de la Clase 1 ………………………………………………..	656
+		4.1.6 - 	Disposiciones especiales de embalaje para la Clase 2 ..	658	
+		4.1.7 -	Disposiciones especiales de embalaje de peróxidos orgánicos (División 5.2) y sustancias de reacción espontánea de la (División 4.1) ………………………….	658	
+		4.1.8 -	Disposiciones especiales de embalaje de mercancías infecciosas (División 6.2) ………………………………….	660	
+		4.1.9 - 	Disposiciones especiales de embalaje para la Clase 7 ..	660	
+	Capítulo 4.2 - 	Uso de Cisternas Portátiles ……………………………….	663		
+		4.2.1 - 	Disposiciones generales para el uso de cisternas portátiles
+			para el transporte de mercancías de las Clases 3 a 9 …	663	
+		4.2.2 - 	Disposiciones generales para el uso de cisternas portátiles 
+			para el transporte de gases licuados no refrigerados ….	668	
+		4.2.3 - 	Disposiciones generales para el uso de cisternas portátiles
+			para el transporte de gases licuados refrigerados ……..	669
+		4.2.4 - 	Instrucciones para cisternas portátiles y disposiciones especiales 671
+				
+PARTE 5 -	PROCEDIMIENTOS DE EXPEDICIÓN ………………………….. 	685
+
+		Capítulo 5.1 - 	Disposiciones Generales ………………………………….	686		
+		5.1.1 -	Aplicación y disposiciones generales …………………….	686	
+		5.1.2 - 	Uso de sobreembalajes ……………………………………	686		
+		5.1.3 - 	Embalajes vacíos …………………………………………..	686		
+		5.1.4 - 	Embalajes con varias mercancías ……………………….. 	686	
+	Capítulo 5.2 - 	Marcado y Etiquetado ……………………………………..	687		
+		5.2.1 - 	Marcado …………………………………………………….	687				
+		5.2.2 - 	Etiquetado …………………………………………………..	689				
+	Capítulo 5.3 - 	Identificación de Unidades de Transporte de Carga……	701	
+		5.3.1 - 	Colocación de rótulos de riesgo y de paneles de seguridad en unidades de transporte de carga …………………………	701	
+		5.3.2 - 	Informaciones contenidas en la señalización del vehículo	705		
+		Capítulo 5.4 - 	Documentación …………………………………………….	706			
+		Nota de Introducción ………………………………………………..	706	
+		5.4.1 -	Documento para el transporte terrestre de mercancías peligrosas …………………………………………………...		706	
+		5.4.2 - 	Otras informaciones y documentos …………………….	710	
+		Capítulo 5.5 - 	Disposiciones Especiales	……………………………….	712	
+		5.5.1 -	Disposiciones especiales aplicables a la expedición de sustancias infecciosas …………………………………...	712	
+		5.5.2 - 	Documentación e identificación de las unidades de transporte sometidas a fumigación ………………………………….	712
+					
+
+PARTE 6 -	PRESCRIPCIONES RELATIVAS A LA CONSTRUCCIÓN Y EL ENSAYO DE EMBALAJES, RECIPIENTES INTERMEDIOS PARA GRANELES (RIGs), EMBALAJES DE GRAN TAMAÑO (EGTs) Y CISTERNAS PORTÁTILES ………………………………	714
+
+		Capítulo 6.1 - 	Disposiciones Relativas a la Construcción y el Ensayo de los Embalajes (Distintos de los Utilizados para las Sustancias de la División 6.2) ……………………………………………….	715			
+		6.1.1 -	Disposiciones generales …………………………………	715	
+		6.1.2 - 	Código de designación de los tipos de embalajes …….	716	
+		6.1.3 - 	Marcado ……………………………………………………	720				
+		6.1.4 - 	Requerimientos relativos a los embalajes ………………	723	
+		6.1.5 - 	Requerimientos relacionados a los ensayos de los embalajes 736	
+		Capítulo 6.2 - 	Requerimientos Relativos a la Construcción y el Ensayo de Recipientes para Gases ………………………………….	745	
+		6.2.1 - 	Requerimientos relativos a los cilindros para gases …...	745	
+		6.2.2 - 	Ensayo de estanqueidad para los aerosoles y pequeños recipientes para gases ……………………………………	745		
+		Capítulo 6.3 - 	Requerimientos Relativos a la Construcción y al Ensayo de Embalajes para las Sustancias de la División 6.2 ……...	746	
+		6.3.1 - 	Disposiciones generales …………………………………..	746	
+		6.3.2 - 	Requerimientos relativos a los ensayos de los embalajes	746		
+		Capítulo 6.4 - 	Requerimientos Relativos a la Construcción y Ensayo 
+				de Embalajes para los Materiales de la Clase 7 …………	750	
+		Nota ……………………………………………………………………	750			
+		Capítulo 6.5 - 	Requerimientos Relativos a la Construcción y el Ensayo de Recipientes Intermedios para Graneles (RIGs) ………….	751	
+		6.5.1 -	Disposiciones generales aplicables a todos los tipos de RIGs 751 	
+		6.5.2 - 	Marcado ………………………………………………………	757				
+		6.5.3 - 	Requisitos específicos relativos a los RIGs ……………….	759	
+		6.5.4 - 	Requerimientos relativos a los ensayos de los RIGs …….	769	
+		Capítulo 6.6 - 	Prescripciones Relativas a la Construcción y el 
+				Ensayo de Embalajes de Gran Tamaño (EGTs) …...........	780
+		6.6.1 -	Generalidades ……………………………………………….	780	
+		6.6.2 - 	Código para designar los distintos tipos de EGTs ……….	780	
+		6.6.3 - 	Marcado ………………………………………………………	780				
+		6.6.4 - 	Disposiciones especiales para los EGTs ………………….	781	
+		6.6.5 - 	Prescripciones relativas a las pruebas de los EGTs ……..	785	
+		Capítulo 6.7 - 	Disposiciones Relativas al Proyecto, la Construcción, 
+				la Inspección y el Ensayo de Cisternas Portátiles …………..	791		
+		6.7.1 -	Aplicación y disposiciones generales …………………………	791	
+		6.7.2 - 	Disposiciones relativas al proyecto, la construcción, la inspección y la prueba de cisternas portátiles destinadas al transporte de las sustancias de las Clases 3 a 9 ……….. …………………….	791	
+		6.7.3 - 	Disposiciones relativas al diseño, la construcción, la inspección y la prueba de cisternas portátiles destinadas al transporte de gases licuados no refrigerados  .………………………........	814
+		6.7.4 - 	Disposiciones relativas al proyecto, la construcción, la inspección y la prueba de cisternas portátiles destinadas al transporte de gases licuados refrigerados …………………………………………	832
+		
+PARTE 7 -	DISPOSICIONES RELATIVAS A LAS OPERACIONES DE TRANSPORTE 
+	
+		Capítulo 7.1 - 	Disposiciones Generales para el Transporte de Mercancías
+				 Peligrosas ……………………………………………………..	849			
+		7.1.1 -	Aplicaciones y disposiciones generales …………………….	849	
+		7.1.2 - 	Disposiciones aplicables al transporte en cisternas portátiles transportadas en vehículos ……………………………….. …	849	
+		7.1.3 - 	Disposiciones aplicables a vehículos y equipos de transporte terrestre …………………………………………………………	850				
+		7.1.4 - 	Disposiciones aplicables a vehículos y equipos de transporte 
+			por carretera ……………………………………………………. 	850			
+		7.1.5 -	Disposiciones aplicables a vehículos y equipos de transporte ferroviario ………………………………………………………..	851	
+		7.1.6 - 	Disposiciones de servicio aplicables al transporte terrestre ..	852	
+		7.1.7 - 	Disposiciones de servicio aplicables al transporte 
+				por carretera …………………………………………………… 	852	
+		7.1.8 - 	Disposiciones de servicio aplicables al transporte ferroviario  853	
+		7.1.9 -	Transporte de equipajes y de pequeñas expediciones …….	853	
+		7.1.10 -	Segregación de mercancías peligrosas ……………………...	853	
+			7.1.11 -	Disposiciones especiales aplicables al cargamento de 
+				explosivos ……………………………………………………….  	854	
+		7.1.12 -	Disposiciones especiales aplicables al transporte de
+			 materiales radiactivos ………………………………………….. 	855
+	Capítulo 7.2 - 	Disposiciones Particulares para cada Clase de 
+			Mercancías Peligrosas …………………………………………	860	
+		7.2.1 - 	Aplicaciones y disposiciones generales ……………………...	860	
+		7.2.2 - 	Disposiciones especiales para el transporte terrestre de cada clase de mercancía peligrosa ………………………………………..	860	
+APÉNDICES ……………………………………………………………………………...	871
+Apéndice A – Lista de Denominaciones Apropiadas para el Transporte Genéricas y N.E.P. ……………………………………………………………………..	872		
+Apéndice B – Glosario de Términos ……………………………………………………	898

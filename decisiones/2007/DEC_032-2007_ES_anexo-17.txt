@@ -1,0 +1,327 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-17
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO II-Acdo Mercancias Peligrosas-ES/ANEXO II-Acdo Mercancias Peligrosas-ES-CAPITULO 6.6.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+CAPÍTULO 6.6
+
+
+PRESCRIPCIONES RELATIVAS A LA CONSTRUCCIÓN
+Y EL ENSAYO DE EMBALAJES DE GRAN TAMANO (EGTs)
+
+
+            6.6.1 Generalidades
+
+                6.6.1.1 Los requisitos de este capítulo no son aplicables a:
+
+    • La clase 2, excepto artículos entre los que se incluyen los aerosoles;
+    • La clase 6.2, excepto los desechos clínicos del N° ONU 3291;
+    • Los embalajes de la clase 7 que contengan materiales radiactivos. 
+
+6.6.1.2		Los EGTs deberán ser fabricados y ensayados de conformidad con un programa de garantía de la calidad que satisfaga a las autoridades competentes de los Estados Parte, de manera que sea seguro que cada EGT fabricado cumple los requisitos  de este Capítulo. 
+
+            6.6.2 Código para designar los distintos tipos de EGTs    
+
+El código utilizado para los EGTs consta de: 
+
+    a) Dos cifras arábigas: 
+
+50 para los EGTs rígidos; o
+51 para los grandes EGTs flexibles; y
+
+    b) letras mayúsculas en caracteres latinos indicativas de la naturaleza del material, por ejemplo, madera, acero etc. Se utilizarán las mismas mayúsculas que figuran en la sección 6.1.2.6. 
+
+
+            6.6.3 Marcado 
+
+6.6.3.1		Marcado principal.  Cada uno de los EGTs que se fabrique y haya de ser utilizado de conformidad con el presente Anexo llevará un marcado indeleble y fácilmente legible que muestre:
+               
+    a) el símbolo de embalaje de las Naciones Unidas :              
+
+En el caso de los EGTs metálicos con marcado en relieve o embutido, podrán utilizarse las mayúsculas “UN” en vez del símbolo;
+
+    b) el código “50”que designa el EGT rígido o “51” en el caso de los EGTs flexibles, seguidos del código correspondiente al tipo de material, de acuerdo con el párrafo 6.5.1.4.1 b);  
+
+    c) una letra mayúscula que representa el grupo de embalaje para los que ha sido aprobado el tipo de modelo: 
+
+X para los grupos de embalaje I, II y III 
+Y para los grupos de embalaje  II y III 
+Z para el grupo de embalaje III únicamente;
+	
+    d) el mes y año (las dos últimas cifras) de fabricación;
+
+    e) el Estado Parte que autoriza la asignación de la marca, indicado mediante la señal distintiva de los automóviles de su nacionalidad en el tráfico internacional;
+
+    f) el nombre o símbolo del fabricante y otra identificación de los EGTs conforme lo especificado por la autoridad competente;
+
+    g) la carga en la prueba de apilamiento en  kg.  En el caso de los EGTs que no están diseñados para apilarse, figurará la cifra “0”;
+
+    h) la masa bruta máxima admisible en kilogramos.
+
+Este marcado principal se aplicará en el mismo orden en que figuran en los apartados precedentes, es decir primero va lo dicho en a) luego lo dicho en b) y así sucesivamente. 
+
+                6.6.3.2 Ejemplos de marcas:
+
+
+      	Para un EGT de acero que se puede apilar; carga de apilamiento: 2500 kg; masa bruta máxima: 1000 kg.
+
+	Para un EGT que no se pueda apilar; masa bruta máxima: 800 kg.
+
+	Para un EGT flexible que no se puede apilar; masa bruta máxima; 500 kg. 
+
+
+
+6.6.4	Disposiciones especiales para los EGTs 
+ 
+                6.6.4.1 Disposiciones especiales para los EGTs, metálicos 
+
+50A 	EGTs de acero  
+50B	EGTs de aluminio 
+50N	EGTs metálicos (que no sean de acero o de aluminio)
+
+6.6.4.1.1 	Los EGTs se construirán con materiales metálicos dúctiles adecuados cuya soldabilidad esté plenamente demostrada.  Las soldaduras estarán bien echas y ofrecerán total seguridad.  De ser necesario, se tendrá en cuenta la resistencia a bajas temperaturas.
+
+6.6.4.1.2	Se tomarán precauciones para evitar deterioro por efecto de la corrosión galvánica resultante de la yuxtaposición de metales diferentes.
+
+                6.6.4.2 Disposiciones especiales relativas a los EGTs  de materiales flexibles
+
+51H	EGTs flexibles de plástico
+51M	EGTs flexibles de papel
+
+6.6.4.2.1	Los EGTs se construirán con materiales apropiados.  La resistencia del material y la construcción de los EGTs flexibles serán adecuadas a la capacidad de éstos y al uso a que se destinen.
+
+6.6.4.2.2	Todos los materiales que se utilicen en la construcción de EGTs  flexibles de los tipos 51M conservarán, tras haber estado totalmente sumergidos en agua durante un período mínimo de 24 horas, al menos el 85% de la resistencia a la tracción determinada inicialmente con el material previamente acondicionado para su estabilización a una humedad relativa de un 67% o menos.
+
+6.6.4.2.3	Las costuras se harán por engrapado, termosellado, encolado o cualquier otro procedimiento análogo. Los extremos de las costuras engrapadas quedarán debidamente cerrados.
+
+6.6.4.2.4	Los EGTs flexibles tendrán la suficiente resistencia al envejecimiento y la descomposición que puedan derivarse de los rayos ultravioleta, las condiciones climáticas o las propias sustancias que contengan, a fin de que sean adecuadas al uso a que se destinan.
+
+6.6.4.2.5	De ser necesario, los EGTs flexibles de plástico se protegerán de los rayos ultravioleta impregnando el material con negro de humo u otros pigmentos o inhibidores adecuados.  Estos aditivos serán compatibles con el contenido y conservarán su eficacia durante la vida útil del EGT.  Cuando el negro de humo, los pigmentos o los inhibidores no sean los mismos que se utilizaron en la fabricación del modelo probado, se podrá obviar la necesidad de repetir las pruebas si la proporción de esos aditivos no altera las propiedades físicas del material de construcción.
+
+6.6.4.2.6	Podrán incorporarse aditivos al material del EGT para aumentar su resistencia al envejecimiento o con otros fines, siempre y cuando no alteren sus propiedades físicas o químicas.
+
+6.6.4.2.7	Una vez lleno el EGT, la relación altura-anchura no será de más de 2:1.
+
+                6.6.4.3 Disposiciones especiales relativas a los EGTs de plástico
+
+50H	EGTs rígidos de plástico
+
+6.6.4.3.1	Los EGTs estarán construidos con un plástico adecuado, de características conocidas, y tendrán una resistencia acorde con su capacidad y con el uso a que se destinen. Dicho plástico tendrá la suficiente resistencia al envejecimiento y la descomposición que puedan derivarse de la sustancia contenida o, en su caso, de los rayos ultravioleta. Si procede, se tendrá en cuenta asimismo su resistencia a temperaturas bajas.  En las condiciones normales de transporte, las infiltraciones de la sustancia que puedan producirse no entrañarán peligro. 
+
+6.6.4.3.2	De ser necesario, se protegerá al EGT contra los rayos ultravioleta  impregnando el material con negro de humo u otros pigmentos o inhibidores adecuados. Estos aditivos serán compatibles con el contenido y conservarán su eficacia durante la vida útil del embalaje exterior.  Cuando el negro de humo, los pigmentos o los inhibidores no sean los mismos que se utilizaron en la fabricación del modelo probado, se podrá obviar la necesidad de repetir las pruebas si la proporción de dichos aditivos no altera las propiedades físicas del material de construcción.
+
+6.6.4.3.3	Podrán incorporarse aditivos al material de los EGTs para aumentar su resistencia al envejecimiento o con otros fines, a condición de que no alteren sus propiedades físicas o químicas.
+
+                6.6.4.4 Disposiciones especiales relativas a los EGTs de cartón
+
+50G EGTs  rígidos de cartón
+
+6.6.4.4.1	El cuerpo estará construido con un cartón fuerte y de buena calidad, sólido o corrugado (de una o de varias paredes) con “liner” en ambas caras, y adecuado a la capacidad del EGT y al uso a que se destine.  La resistencia de la superficie exterior al agua será tal que el aumento de la masa, medido por una prueba de verificación de la absorción de agua según el método de Cobb durante 30 minutos, no sea superior a 155g/m2 – véase ISO 535.  El cartón tendrá características de flexibilidad adecuadas.  
+Estará recortado, doblado sin que se formen hendiduras, y ranurado, de manera que puedan unirse los elementos sin que se produzcan fisuras, roturas en la superficie o flexiones excesivas.  Las canaletas del cartón ondulado estarán sólidamente encoladas a los “liners”.
+
+6.6.4.4.2	Las paredes, la parte superior y el fondo tendrán una resistencia a la perforación de al menos 15 J, verificadas según la norma ISO 3036.
+
+6.6.4.4.3	La parte exterior de los EGTs se fabricará de tal manera que las juntas de fabricación estén convenientemente solapadas, y se afianzarán con cinta adhesiva, cola o grapas metálicas, o por cualquier medio que sea al menos de igual eficacia.  Cuando las juntas de fabricación se afiancen mediante encolado o cinta adhesiva, el pegamento será resistente al agua.  Si se emplean grapas metálicas, éstas traspasarán totalmente los elementos a que se apliquen, y tendrán tal forma o se cubrirán de tal manera  que no produzcan abrasión ni perforen el “liner”.
+
+6.6.4.4.4	El pallet que forme parte integrante del EGT o los pallet separables serán susceptibles de manipulación por medios mecánicos con el EGT cargado hasta su masa bruta máxima admisible.
+
+6.6.4.4.5.	El pallet integrado o el pallet separable estarán diseñados para impedir que se formen en la parte inferior del EGT partes que sobre salgan que puedan sufrir daños durante las operaciones de manipulación.
+
+6.6.4.4.6	En el caso de que se utilice un pallet separable, el cuerpo irá sujeto a éste, a fin de mantener su estabilidad durante la manipulación y el transporte.  Cuando se utilice un pallet separable, en su parte superior no habrá ningún resalte puntiagudo que pueda ocasionar daños en el EGT.
+
+6.6.4.4.7	Para aumentar la resistencia en condiciones de apilamiento, podrán utilizarse elementos de refuerzo como, por ejemplo, soportes de madera, pero éstos se colocarán exteriormente al “liner”.
+
+6.6.4.4.8	En los EGTs destinados a apilarse, la superficie sustentadora reunirá condiciones apropiadas para que la carga ejercida sobre ella se reparta en forma conveniente a la seguridad del apilamiento.
+
+                6.6.4.5 Disposiciones relativas a los EGTs de madera
+
+50C	EGTs de madera natural 
+50D	EGTs de madera compensada
+50F	madera reconstituida
+
+6.6.4.5.1	La resistencia de los materiales y el método que se emplee en la construcción del cuerpo serán adecuados a la capacidad del EGT y al uso a que se destine.
+
+6.6.4.5.2	La madera natural estará bien estacionada, comercialmente seca y libre de defectos que pudieran reducir en grado apreciable la resistencia de cualquiera de las partes de los EGTs. Todas las partes de los EGTs consistirán en una sola pieza, efectivamente o por equivalencia.  Se considera que equivalen a una sola pieza las partes ensambladas por encolado mediante un procedimiento al menos de igual eficacia que alguno de los siguientes, por ejemplo: ensambladura en cola de milano, ensambladura de ranura y lengüeta, junta de rebajo a media madera, o junta a tope con al menos dos grapas de metal ondulado.
+
+6.6.4.5.3	La madera compensada que se emplee en la construcción del EGT será de tres chapas como mínimo.  Estará hecha de hojas bien estacionadas, obtenidas mediante corte o por debobinado, por cuchilla fija o por aserrado, estará comercialmente seca y carecerá de defectos que puedan reducir en grado apreciable la resistencia del EGT.  Todas las chapas contiguas estarán unidas con un adhesivo resistente al agua.  Para la construcción del cuerpo se puede utilizar, junto con la madera compensada, otros materiales apropiados.
+
+6.6.4.5.4.	La madera reconstituida que se emplee en  la construcción de un EGT será resistente al agua, como pueden ser tableros de madera prensada o de partículas, u otros tipos apropiados.
+
+6.6.4.5.5	Los EGTs deberán estar firmemente clavados o afianzados a los montantes de esquina o a las cantoneras, o unidos por algún otro medio de igual eficacia.
+
+6.6.4.5.6	El pallet que forme cuerpo con un EGT y el pallet separable serán susceptibles de manipulación por medios mecánicos con el EGTs cargado hasta su masa bruta máxima admisible.
+
+6.6.4.5.7	El pallet o pallet separable estarán diseñado para impedir que se formen en la parte inferior del EGT parte que sobresalga que puedan sufrir daños durante las operaciones de manipulación.
+
+6.6.4.5.8	En el caso de que se utilice un pallet separable, el cuerpo irá sujeto a éste, a fin de mantener su estabilidad durante la manipulación y el transporte.  Cuando se utilice un pallet separable, en su parte superior no habrá ningún resalte puntiagudo que pueda ocasionar daños en el EGT.
+
+6.6.4.5.9	Para aumentar la resistencia en condiciones de apilamiento, podrán utilizarse elementos de refuerzo como, por ejemplo, soportes de madera, pero éstos se colocarán exteriormente al recubrimiento.
+
+6.6.4.5.10	En los EGTs  destinados a apilarse, la superficie sustentadora reunirá condiciones apropiadas para que la carga ejercida sobre ella se reparta en forma conveniente a la seguridad del apilamiento.
+
+            6.6.5 Prescripciones relativas a las pruebas de los EGTs
+
+                6.6.5.1 Desempeño y frecuencia de las pruebas
+
+6.6.5.1.1	El prototipo de cada EGT se someterá a las pruebas prescritas en 6.6.5.3, de acuerdo con los procedimientos establecidos por la autoridad competente.
+
+6.6.5.1.2	Antes de que vaya a utilizarse un EGT, el prototipo correspondiente tendrá que superar diversas pruebas.  Un prototipo de EGT queda definido por su diseño, dimensiones, materiales y espesor, forma de construcción y forma de embalaje, pero podrá presentar variantes en cuanto al tratamiento de superficie.  A este modelo corresponderán igualmente los EGTs que sólo difieran de él por ser de un modelo de menor altura.
+
+6.6.5.1.3	Las pruebas deberán repetirse sobre muestras de producción a los intervalos fijados por la autoridad competente.  Cuando dichas pruebas se hagan con EGT de cartón, se considerará que la preparación en las condiciones del medio ambiente equivalen a las disposiciones de 6.6.5.2.3
+
+6.6.5.1.4	Las pruebas deberán asimismo repetirse después de cada modificación que altere el diseño, el material o la forma de construcción de los EGTs.
+
+6.6.5.1.5	La autoridad competente podrá permitir la realización de pruebas selectivas con los EGTs que no presenten sino diferencias de menor importancia respecto del tipo ya probado; por ejemplo, unas dimensiones menores de los embalajes interiores o unos embalajes interiores de menor masa neta; y EGTs de dimensiones exteriores algo más reducidas.
+
+6.6.5.1.6	Cuando un EGT haya pasado con éxito las pruebas aplicadas a los distintos tipos de embalajes interiores, podrán asimismo montarse en este EGT distintos embalajes interiores.  Además, siempre que se mantenga un nivel  equivalente de seguridad, se autorizarán sin nuevas pruebas las siguientes variaciones de los embalajes interiores:
+
+    a) Podrán utilizarse embalajes interiores de un tamaño equivalente o inferior siempre que:
+
+i) 	los embalajes interiores tengan un diseño similar a los ya probados (por ejemplo, una forma redonda, rectangular, etc);
+ii)	el material de construcción de los embalajes interiores (vidrio, plástico, metal, etc.) ofrezca una resistencia a los impactos o al apilamiento igual o superior a la de los embalajes interiores originalmente probados;
+            iii) los embalajes interiores tengan aperturas iguales o más pequeñas y el cierre sea de diseño semejante (por ejemplo, cápsula roscada, tapa de fricción, etc.);
+            iv)  para compensar espacios vacíos y evitar movimientos importantes en los embalajes interiores se utilice un material amortiguador adicional suficiente; y
+            v) los embalajes interiores estén orientados dentro de los EGTs en la misma forma que lo estaban en el embalaje probado;
+
+    b) Puede utilizarse un menor número de los embalajes interiores probados o de los distintos tipos de embalajes identificados en a) siempre que se agregue un material amortiguador suficiente para rellenar los espacios vacíos evitándose todo movimiento importante de los embalajes interiores.
+
+6.6.5.1.7	En cualquier momento la autoridad competente podrá pedir que, mediante pruebas realizadas de acuerdo con esta sección, se le demuestre que los EGTs  producidos en serie satisfacen las condiciones del modelo ya ensayado.
+
+6.6.5.1.8	Sobre una misma muestra podrán realizarse varias pruebas siempre que la validez de los resultados no se vea afectada por ello y se cuente con la aprobación de la autoridad competente.
+
+                6.6.5.2 Preparación para las pruebas
+
+6.6.5.2.1	Las pruebas se realizarán con los EGTs preparados para el transporte, incluidos los embalajes interiores o las mercancías utilizadas. Los embalajes interiores se llenarán como mínimo al 98% de su capacidad máxima si se trata de líquidos o al 95%, si se trata de sólidos. Para los EGTs cuyos embalajes interiores estén diseñados para el transporte de líquidos y de sólidos, será preciso realizar pruebas independientes con contenido líquido y sólido. Las sustancias en los embalajes interiores o las mercancías que hayan de transportarse en los EGTs se pueden reemplazar por otros materiales o mercancías, salvo si el hacerlo invalidaría los resultados de las pruebas. Cuando se utilicen otros embalajes interiores o mercancías, éstos habrán de reunir las mismas características físicas (masa, etc.) que los embalajes  interiores o las mercancías que se han de transportar. Para alcanzar la masa total requerida pueden utilizarse ciertos aditivos, como bolsas de perdigones, en la medida en que se coloquen de tal forma que no se afecten los resultados de la prueba.
+
+6.6.5.2.2	Los EGTs de plástico y los EGTs que contengan embalajes interiores de plástico (exceptuadas las bolsas destinadas a contener sólidos o mercancías) deberán  someterse a la prueba de caída con una temperatura de la muestra y su contenido reducida a –18°C o inferior. Esta condición puede obviarse si los materiales en cuestión tienen a bajas temperaturas ductilidad y resistencia a la tracción suficientes. Cuando la muestra de prueba se haya preparado de esta manera, puede suprimirse la condición establecida en 6.6.5.2.3. Los líquidos de prueba se mantendrán en estado líquido, si es necesario agregando anticongelante.
+
+6.6.5.2.3	Los EGTs de cartón serán acondicionados durante al menos 24 horas, en una atmósfera de temperatura y humedad relativas (h.r.) reguladas. Existen tres opciones, de las que ha de elegirse una.
+
+	La atmósfera de preferencia es la de 23°C + 2° C y 50% + 2% de h.r. Las otras dos opciones son: 20°C + 2° C y 65% + 2% h.r. o 27°C + 2°C y 65% + 2% de h.r.
+
+Nota: Los valores medios no rebasarán los límites indicados. Las fluctuaciones de corta duración y las limitaciones a que está sujeta la medición pueden hacer que ésta registre variaciones de humedad relativas de hasta + 5%, sin menoscabo apreciable de la fidelidad de los resultados de las pruebas.
+
+                6.6.5.3 Condiciones de la prueba
+
+6.6.5.3.1	Pruebas de elevación por la parte inferior
+
+                        6.6.5.3.1.1 Aplicabilidad
+
+	A todos los tipos de EGTs  provistos de elementos a propósito para ser elevados por la base, como prueba de prototipo.
+
+6.6.5.3.1.2	Preparación de EGTs para la prueba
+
+		Los EGTs se llenarán hasta 1,25 veces su masa bruta máxima admisible, distribuyendo la carga de manera uniforme.
+
+                        6.6.5.3.1.3       Métodos de prueba
+
+	Se elevarán y bajarán los EGTs  dos veces, mediante un montacargas, centrando las horquillas y colocándolas de manera que la separación entre ambas sea equivalente a las tres cuartas partes de la dimensión de la cara a la que se aplique las horquillas (a menos que disponga de puntos de entrada fijos). La penetración de las horquillas debe ser de las tres cuartas partes de la longitud de dichas entradas. Se repetirá la prueba en todas las direcciones en que sea posible aplicar las horquillas.
+
+6.6.5.3.1.4 	Criterios de superación de prueba.
+
+	No  se producirá ninguna deformación permanente que haga que el EGT sea inseguro para el transporte, ni habrá perdida alguna de contenido.
+
+                    6.6.5.3.2 Prueba de elevación por parte superior
+
+                        6.6.5.3.2.1 Aplicabilidad
+
+	A todos los tipos de EGTs destinados a ser elevados por la parte superior y provistos de medios para la elevación, como prueba de prototipo.
+
+                        6.6.5.3.2.2 Preparación de lo EGTs para la prueba
+
+	Los EGTs deberán cargarse hasta el doble de su masa bruta máxima admisible. 
+
+                        6.6.5.3.2.3 Método de prueba
+
+	Los EGTs  se elevarán en la forma para la que estén diseñados hasta que dejen de tocar el suelo y se mantendrán en esa posición por espacio de cinco minutos.
+
+                        6.6.5.3.2.4 Criterios de superación de la prueba
+
+	No se producirá ninguna deformación permanente que haga que el EGT sea inseguro para el transporte, ni habrá pérdida alguna de contenido.
+
+                        6.6.5.5.3.3 Pruebas de apilamiento
+
+                        6.6.5.3.3.1 Aplicabilidad
+
+A todos los tipos de EGTs destinados a ser apilados unos sobre otros, como prueba de prototipo.
+
+                        6.6.5.3.3.2 Preparación de los EGTs para la prueba
+
+Los EGTs deberán cargarse hasta alcanzar la masa bruta admisible.
+
+                        6.6.5.3.3.3 Método de prueba
+
+	Los EGTs se colocarán sobre su base en un suelo duro y horizontal y se someterán a una carga superpuesta de prueba (véase 6.6.5.3.3.4) uniformemente distribuida y durante cinco minutos como mínimo; los EGTs de madera, cartón y  plástico se mantendrán así durante un período de 24 horas.
+
+                        6.6.5.3.3.4 Cálculo del peso que se ha de superponer
+
+La carga que se coloque sobre el EGT será equivalente a 1,8 veces la masa bruta máxima admisible conjunta de todos los EGTs similares que puedan apilarse por encima de él durante el transporte.
+
+                        6.6.5.3.3.5 Criterios de superación de prueba
+
+No se producirá ninguna deformación permanente que haga que el EGT sea inseguro para el transporte, ni habrá pérdida alguna de su contenido.
+
+                    6.6.5.3.4 Prueba de caída
+
+                        6.6.5.3.4.1 Aplicabilidad
+
+A todos los tipos de EGTs, como prueba de prototipo.
+
+                        6.6.5.3.4.2 Preparación de los EGTs para la prueba
+
+El EGT se llenará según se dispone en 6.6.5.2.1.
+
+                        6.6.5.3.4.3 Método de prueba
+
+Se dejará caer el EGT sobre una superficie horizontal rígida, no elástica, lisa y plana, de modo que el punto de impacto sea la parte de la base del EGT que se considere más vulnerable.
+
+                        6.6.5.3.4.4 Altura de caída
+
+Grupo de
+Embalaje I
+Grupo de
+Embalaje II
+Grupo de
+Embalaje III
+
+1,8 m
+
+1,2 m
+
+0,8 m
+
+	                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+Nota: Los embalajes destinados a sustancias y mercancías de la clase 1, sustancias de reacción espontánea de la división 4.1 y peróxidos orgánicos de la división 5.2 deberán probarse en el nivel de resistencia del grupo de embalaje II.
+
+                        6.6.5.3.4.5 Criterios de superación de la prueba
+
+
+6.6.5.3.4.5.1	Los EGTs no presentarán ningún daño que pueda afectar a la seguridad durante el transporte. No se producirá ninguna perdida de la sustancia de llenado desde el embalaje interior ni tampoco de mercancías.
+
+
+6.6.5.3.4.5.2	En el caso de los EGTs destinados a mercancías de la clase 1 no se permitirá ninguna rotura que pueda facilitar la pérdida de sustancias o mercanías explosivas.
+
+
+6.6.5.3.4.5.3	Se considerará que un EGT ha superado con éxito la prueba de caída siempre que conserve la totalidad de su contenido incluso si su cierre ya no es hermético al polvo.
+
+
+                6.6.5.4 Certificación e informe de prueba
+
+6.6.5.4.1	Para cada prototipo de EGT se emitirá un certificado y una marca (como en 6.6.3) que atestigüen que el prototipo, incluido su equipo, satisface las condiciones de la prueba.
+
+6.6.5.4.2	Se preparará un informe de prueba en el que consten por lo menos los  datos  que a continuación se citan, informe que se pondrá a disposición de los usuarios de los EGTs.
+
+                1 Nombre y dirección del establecimiento que efectuó la prueba,
+                2 Nombre y dirección del solicitante (cuando proceda),
+                3 Identificación única del prototipo de prueba,
+                4 Fecha del informe de prueba,
+                5 Fabricante del EGTs,
+                6 Descripción del prototipo EGTs (por ejemplo, dimensiones, materiales, cierres, espesor, etc.) y/o fotografías,
+                7 Capacidad máxima/masa bruta máxima admisible,
+                8 Características de la carga durante la prueba, por ejemplo, tipos y descripciones de embalajes interiores o mercancías utilizados,
+                9 Descripción y resultados de la prueba,
+                10 Firma, nombre del firmante y cargo que desempeña.
+
+6.6.5.4.3	En el informe de prueba se declarará que el EGT preparado como para el transporte fue sometido a pruebas con arreglo a las disposiciones pertinentes de este Capítulo, indicando además que la utilización de otros métodos o elementos de embalaje puede invalidarlo. Se facilitará copia del informe de prueba a la autoridad competente.

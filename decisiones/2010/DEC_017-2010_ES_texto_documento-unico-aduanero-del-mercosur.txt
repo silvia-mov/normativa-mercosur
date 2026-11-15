@@ -1,0 +1,56 @@
+Decisión CMC N° 17/10
+Título: DOCUMENTO ÚNICO ADUANERO DEL MERCOSUR
+Tipo de documento: texto
+Archivo original: 28502_DEC_017-2010_ES_DUAM.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC Nº 17/10
+
+
+DOCUMENTO ÚNICO ADUANERO DEL MERCOSUR
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Decisiones Nº 50/04 y 54/04 del Consejo del Mercado Común.
+
+CONSIDERANDO:
+
+Que, con miras a profundizar el proceso de integración de la Unión Aduanera entre los Estados Partes, resulta necesario crear el Documento Único Aduanero del MERCOSUR (DUAM), para el registro de las declaraciones de destinaciones y operaciones aduaneras.
+
+Que la Decisión CMC N° 50/04 dispone que la declaración aduanera deberá obedecer a un modelo oficial único aprobado por los Estados Partes.
+
+Que el Documento Único Aduanero del MERCOSUR constituye un modelo de datos comunes a integrar para formalizar, en el ámbito del MERCOSUR, las declaraciones de las destinaciones y operaciones aduaneras, como paso indispensable para la armonización de los procedimientos de gestión de la Unión  Aduanera.
+
+Que la uniformidad de información debe considerarse como una herramienta que facilitará el cálculo para la distribución de la renta aduanera.
+
+Que se entiende pertinente adoptar los trabajos realizados en el Comité Técnico Nº 2 “Asuntos Aduaneros” de la Comisión de Comercio del MERCOSUR, orientados a obtener resultados en este sentido y establecer las actividades tendientes a la plena implementación del DUAM, con las adecuaciones necesarias.
+
+
+EL CONSEJO DEL MERCADO COMÚN
+DECIDE:
+
+Art. 1 - Establecer el “Documento Único Aduanero del MERCOSUR” (DUAM) como el modelo de datos comunes para integrar las declaraciones de las destinaciones y operaciones aduaneras en el MERCOSUR. El DUAM será adicionalmente un instrumento de generación de información para la gestión de control y el análisis de riesgo, facilitando el intercambio de información entre las Aduanas y la libre circulación de los bienes entre los Estados Partes.
+
+Art. 2 - El DUAM requerirá para su plena implementación el cumplimiento de las actividades que se enumeran a continuación, las que no son taxativas y podrán ser modificadas con el avance de los trabajos:
+
+    1. Definición de las operaciones a ser registradas 
+    2. Análisis y definición de los datos a ser incorporados en el DUAM 
+    3. Determinación de los datos relativos a la identificación, codificación y descripción de la calidad de las mercaderías
+    4. Determinación de los modos de identificación de las situaciones de excepción a la aplicación de la Política Arancelaria Común 
+    5. Análisis de los segmentos e interrelaciones de los datos 
+    6. Identificación y normalización de tablas comunes
+    7. Definición de los actores intervinientes en la Declaración del DUAM, su identificación, método de autenticación, firma digital y otras cuestiones
+    8. Diseño y estructura del DUAM electrónico
+    9. Gestión de la Declaración Aduanera (secuencia de estados, flujo de proceso, etc.)
+    10. Identificación y elaboración de la estructura y contenido de la norma del DUAM 
+    11. Compatibilidad del contenido de la norma del DUAM con las normas MERCOSUR que refieren a operaciones aduaneras contempladas en el DUAM 
+    12. Análisis del contenido de la norma del DUAM con las demás normas MERCOSUR y otras normativas de carácter internacional 
+    13.  Redacción final y elevación de la norma
+Art. 3 - Los Estados Partes, además de los datos y tablas comunes, podrán mantener o incluir en sus declaraciones de destinaciones u operaciones aduaneras, otros datos de su interés.
+
+Art. 4 - El Grupo Mercado Común instruirá a la Comisión de Comercio del MERCOSUR  a realizar las tareas que permitan cumplir con lo previsto en esta Decisión y elevar a la última Reunión Ordinaria del Consejo del Mercado Común del 2011 el proyecto de norma para la efectiva implementación del DUAM.
+
+Art. 5 - Esta Decisión no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+
+
+XXXIX CMC - San Juan, 02/VIII/2010.

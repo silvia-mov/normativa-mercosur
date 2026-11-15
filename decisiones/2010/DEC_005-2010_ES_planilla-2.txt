@@ -1,0 +1,1898 @@
+Decisión CMC N° 05/10
+Título: FONDO PARA LA CONVERGENCIA ESTRUCTURAL DEL MERCOSUR PROYECTO “AMPLIACIÓN DEL SISTEMA DE SANEAMIENTO DE PONTA PORÃ - MS”
+Tipo de documento: planilla-2
+Archivo original: 28448_DEC_005-2010_ANEXOS > DEC_005-2010_ES_Proyecto Ponta Pora_Anexo_Or�amento Focem Ponta Por�.xls
+Conversión a texto: planilla
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+[hoja: ORÇAMENTO]
+EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A. 					
+DIRETORIA TÉCNICA  E COMERCIAL					
+GERÊNCIA DE PROJETOS					
+	       PLANILHA   DE   ORÇAMENTO				
+OBRA:	2009_331 - S.E.S. DE PONTA PORÃ			DATA:	2009-11-12 00:00:00
+LOCAL:	PONTA PORÃ - MS			PREÇOS:	JUN/2009
+REF:	ORÇAMENTO - FOCEM				
+				CUSTO UNIT	CUSTO TOTAL
+SANESUL	NOME DO ITEM	UNID	QUANT	R$	R$ 
+OBRA	SISTEMA DE ESGOTAMENTO SANITÁRIO DE PONTA PORÃ				
+1	CANTEIRO DE OBRAS				
+1.1	SERVIÇOS				
+01.01.0001	Barracão de obra	m2   	120	202.46	24295.2
+01.01.0020	Cerca de arame farpado c/ 4 fios com poste de eucalipto espaçados a cada 2,00m	m 	150	11.91	1786.5
+01.01.0100	Instalação provisória de água e esgoto	un	1	896.57	896.57
+01.01.0110	Instalação provisória de luz e força	un	1	1009.36	1009.36
+01.02.0003	Fornecimento e colocação de placa de obra padrão Sanesul	m2   	24	180.84	4340.16
+	TOTAL DOS SERVIÇOS				32327.79
+	TOTAL DO ITEM 1				32327.79
+2	MICRO SISTEMA				
+2.1	REDE COLETORA				
+2.1.1	SERVIÇOS				
+2.1.1.1	SERVIÇOS TÉCNICOS				
+02.04.0032	Locaçäo e nivelamento de rede de esgoto c/ utilização de equipamento topográfico e elaboração de notas de serviço	m 	79725	0.52	41457
+02.05.0010	Cadastro de rede de esgoto	m 	79725	0.55	43848.75
+	SUBTOTAL				85305.75
+2.1.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	12000	0.31	3720
+03.02.0025	Passadiço com chapas de aço 1,00x1,50m esp=5/8''	m2   	120	6.19	742.8
+03.02.0057	Fornecimento e colocação de cavalete de sinalização (metálico) padrão Sanesul	un   	16	107.51	1720.16
+03.02.0065	Fornecimento  e colocação de tela de proteção, altura de 1,20 m	m    	6000	4.55	27300
+	SUBTOTAL				33482.96
+2.1.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	2460.46	14.03	34520.25
+04.02.0100	Escavaçäo mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	77112.16	6.07	468070.81
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	2377.3	7.17	17045.24
+04.02.0111	Escavaçäo mecânica de valas, prof. de  4,01 a 6,00m,em solo de qualquer natureza,  exceto rocha	m3   	65.45	10.76	704.24
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	24116.51	9.57	230795
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3	56271.86	5.88	330878.54
+04.05.0011	Carga e descarga de solo	m3	1626.99	1.27	2066.28
+04.05.0061	Transporte de material escavado-solos	m3xkm	8134.95	0.86	6996.06
+	SUBTOTAL				1091076.4200000002
+2.1.1.4	ESCORAMENTO				
+05.01.0015	Escoramento de madeira em valas e cavas - pontaleteamento com reaproveitamento de 5 vezes da madeira	m2   	23059.78	3.08	71024.12
+05.01.0025	Escoramento de madeira em valas e cavas - escoramento descontínuo, com reaproveitamento de 5 vezes da madeira	m2   	4384.48	23.73	104043.71
+05.01.0035	Escoramento de madeira em valas e cavas - escoramento contínuo, com reaproveitamento de 5 vezes da madeira	m2   	185.4	38.32	7104.53
+05.01.0040	Escoramento de madeira em valas e cavas - escoramento contínuo especial, com reaproveitamento de 5 vezes da madeira	m2   	114.24	46.39	5299.59
+	SUBTOTAL				187471.95
+2.1.1.5	ESGOTAMENTO E DRENAGEM				
+06.01.0001	Esgotamento de água c/ conjunto moto-bomba até 5 cv	h    	1200	1.96	2352
+06.02.0140	Fornecimento e assentamento de tubo concreto simples C1, DN 400	m    	300	38.42	11526
+06.02.0160	Fornecimento e assentamento de tubo concreto armado CA-1, DN 600	m    	120	102.94	12352.8
+	SUBTOTAL				26230.8
+2.1.1.6	FUNDAÇÕES E ESTRUTURAS				
+08.03.0010	Lastro de areia	m3   	120	54.25	6510
+08.03.0020	Lastro de brita	m3   	80	79.09	6327.2
+08.03.0040	Lastro de concreto não estrutural	m3   	6	254.09	1524.54
+08.08.0055	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=0,60m, profundidade até 1,00m com tampão de ferro fundido T-137, articulado e com trava	un   	4	602.24	2408.96
+08.08.0060	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=0,60m, profundidade de 1,01 m à 1,50 m com tampão de ferro fundido T-137	un   	970	704.62	683481.4
+08.08.0080	Poço de visita com aduela de concreto armado ponta e bolsa Ø=1,00m, profundidade de 1,51 m à 2,00m, com tampão de ferro fundido.	un   	98	905.92	88780.16
+08.08.0085	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 2,01 m à 2,50m, com tampão de ferro fundido T-137	un   	26	1048.7	27266.2
+08.08.0090	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 2,51 m à 3,00m, com tampão de ferro fundido T-137	un   	11	1155.85	12714.35
+08.08.0095	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 3,01 m à 3,50m, com tampão de ferro fundido T-137	un   	9	1245.19	11206.71
+08.08.0100	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 3,51 m à 4,00m, com tampão de ferro fundido T-137, articulado e com trava	un   	1	1340.47	1340.47
+	SUBTOTAL				841559.9899999999
+2.1.1.7	ASSENTAMENTO				
+09.05.0015	Assentamento de tubos e conexöes PVC/JEI esgoto DN 150	m    	72716	2.07	150522.12
+09.05.0020	Assentamento de tubos e conexões PVC/JEI esgoto DN 200	m    	2192	2.38	5216.96
+09.05.0025	Assentamento de tubos e conexões PVC/JEI esgoto DN 250	m    	3383	2.76	9337.08
+09.05.0030	Assentamento de tubos e conexões PVC/JEI esgoto DN 300	m    	1434	3.13	4488.42
+	SUBTOTAL				169564.58
+2.1.1.8	PAVIMENTAÇÃO				
+10.01.0010	Retirada mecânica de pavimentação asfáltica.	m2   	1964.44	4.13	8113.14
+10.01.0080	Retirada manual de pavimentação  em passeio cimentado	m2   	41102.56	9.84	404449.19
+10.01.0090	Retirada manual de guias ou meio fio	m    	180	6.05	1089
+10.02.0010	Recomposição de pavimentação em passeio cimentado	m2   	41102.56	18.47	759164.28
+10.02.0050	Recomposição de guias ou meio fio	m    	180	8.81	1585.8
+10.03.0010	Pavimentaçäo asfáltica CBUQ, base=15cm e=4cm	m2   	1964.44	47.31	92937.66
+	SUBTOTAL				1267339.07
+2.1.1.9	SERVIÇOS DIVERSOS				
+	Caixa de drenagem em alvenaria (1,50x1,50x4,00) m, inclusive grelha em aço	un   	12	8204.38	98452.56
+	SUBTOTAL				98452.56
+	TOTAL DOS SERVIÇOS				3800484.0800000005
+2.1.2	MATERIAIS				
+32.02.0005	Tubo PVC/JEI p/ rede esgoto DN 150 (NBR-7362),  L=6,00m	pç	12431	110.11	1368777.41
+32.02.0006	Tubo PVC/JEI p/ rede esgoto DN 200 (NBR-7362), L=6,00m	pç	375	171.49	64308.75
+32.02.0007	Tubo PVC/JEI p/ rede esgoto DN 250 (NBR-7362), L=6,00m	pç	579	293.13	169722.27
+32.02.0008	Tubo PVC/JEI p/ rede esgoto DN300 (NBR-7362),  L=6,00m	pç	246	459.25	112975.5
+	TOTAL DOS MATERIAIS				1715783.93
+	TOTAL DO ITEM 2.1				5516268.010000001
+2.2	LIGAÇÕES DOMICILIARES	LIG=	5695		
+2.2.1	SERVIÇOS				
+2.2.1.1	SERVIÇOS TÉCNICOS				
+02.04.0032	Locaçäo e nivelamento de rede de esgoto c/ utilização de equipamento topográfico e elaboração de notas de serviço	m    	17085	0.52	8884.2
+02.05.0050	Cadastro de ligaçöes	un	5695	1.11	6321.45
+	SUBTOTAL				15205.650000000001
+2.2.1.2	MOVIMENTO DE TERRA				
+04.02.0001	Escavaçäo manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3	10251	14.03	143821.53
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3	9738.45	9.57	93196.97
+04.05.0011	Carga e descarga de solo	m3   	512.55	1.27	650.94
+04.05.0061	Transporte de material escavado-solos	m3xkm	2562.75	0.86	2203.97
+	SUBTOTAL				239873.41
+2.2.1.3	FUNDAÇÕES E ESTRUTURAS				
+08.08.0220	Caixa de inspeção Ø=0,40x0,80m com anel ponta e bolsa, fundo em concreto pré-moldado  e tampa de ferro fundido T-16, articulada e c/ trava	un   	5695	191.27	1089282.65
+	SUBTOTAL				1089282.65
+2.2.1.4	ASSENTAMENTO				
+09.05.0010	Assentamento de tubos e conexöes PVC/JE esgoto DN 100	m	17085	1.9	32461.5
+	SUBTOTAL				32461.5
+2.2.1.5	PAVIMENTAÇÃO				
+10.01.0010	Retirada mecânica de pavimentação asfáltica.	m2   	80	4.13	330.4
+10.01.0080	Retirada manual de pavimentação  em passeio cimentado	m2   	320	9.84	3148.8
+10.01.0090	Retirada manual de guias ou meio fio	m    	40	6.05	242
+10.02.0010	Recomposição de pavimentação em passeio cimentado	m2   	320	18.47	5910.4
+10.02.0050	Recomposição de guias ou meio fio	m    	40	8.81	352.4
+10.03.0010	Pavimentaçäo asfáltica CBUQ, base=15cm e=4cm	m2   	80	47.31	3784.8
+	SUBTOTAL				13768.8
+	TOTAL DOS SERVIÇOS				1390592.01
+2.2.2	MATERIAIS				
+32.02.0003	Tubo PVC/JEI p/ rede esgoto DN 100 (NBR-7362), L=6,00m	pç	2921	54.89	160333.69
+32.02.0015	Anel de borracha p/ tubo PVC rede esgoto DN 100	un   	9188	1.73	15895.24
+32.02.0030	Curva 45º PB/JE p/ rede esgoto DN 100	un   	3500	18.68	65380
+32.02.0082	Selim 90º elástico p/ rede esgoto DN 150x100	un   	5285	15.39	81336.15
+32.02.0083	Selim compacto p/ rede esgoto DN 200x100 	un   	161	30.09	4844.49
+32.02.0084	Selim compacto p/ rede esgoto DN 250x100 	un   	242	38.65	9353.3
+	TOTAL DOS MATERIAIS				337142.86999999994
+	TOTAL DO ÌTEM 2.2				1727734.88
+	TOTAL DO ITEM 2				7244002.890000001
+3	ESTAÇÃO ELEVATÓRIA ESGOTO - MARAMBAIA				
+3.1	SERVIÇOS				
+3.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	16.02	2.97	47.58
+02.05.0100	Cadastro de geral da obra	m2   	16.02	1.29	20.67
+	SUBTOTAL				68.25
+3.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	1000	0.31	310
+	SUBTOTAL				310
+3.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	8.6	14.03	120.66
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	62.8	6.07	381.2
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	53.89	7.17	386.39
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	42	9.57	401.94
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	64.9	5.88	381.61
+04.04.0100	Fornecimento de aterro	m3   	16	25.93	414.88
+04.05.0011	Carga e descarga de solo	m3   	82.4	1.27	104.65
+04.05.0061	Transporte de material escavado-solos	m3xkm	412	0.86	354.32
+	SUBTOTAL				2545.6500000000005
+3.1.4	ESCORAMENTOS				
+05.01.0035	Escoramento de madeira em valas e cavas - escoramento contínuo, com reaproveitamento de 5 vezes da madeira	m2   	120	38.32	4598.4
+	SUBTOTAL				4598.4
+3.1.5	ESGOTAMENTO				
+06.01.0001	Esgotamento de água c/ conjunto moto-bomba até 5 cv	h    	220	1.96	431.2
+	SUBTOTAL				431.2
+3.1.6	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	111	79.09	8778.99
+08.03.0030	Lastro de pedra de mão	m3   	14	71.08	995.12
+08.03.0040	Lastro de concreto não estrutural	m3   	1.8	254.09	457.36
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	4.84	30.13	145.83
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	105.5	59.72	6300.46
+08.04.0600	Cimbramento de madeira	m3   	18	25.24	454.32
+08.05.0010	Armadura CA-60	kg   	10.8	8.94	96.55
+08.05.0020	Armadura CA-50 (A ou B)	kg   	943.2	8.31	7837.99
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.3	244.47	73.34
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	11.79	415.78	4902.05
+08.08.0075	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 1,21 m à 1,50m, com tampão de ferro fundido T-137	un   	1	834.4	834.4
+	SUBTOTAL				30876.410000000003
+3.1.7	ASSENTAMENTOS				
+09.05.0025	Assentamento de tubos e conexões PVC/JEI esgoto DN 250	m    	20.38	2.76	56.25
+	SUBTOTAL				56.25
+3.1.8	PAVIMENTAÇÃO				
+10.04.0050	Execução de guias ou meio fio de concreto	m    	31	26.07	808.17
+	SUBTOTAL				808.17
+3.1.9	LIGAÇÕES PREDIAIS				
+11.01.0200	Ramal predial água em tubo PEAD Ø=20mm, inclusive escavação e reaterro	m    	18	1.39	25.02
+	SUBTOTAL				25.02
+3.1.10	FECHAMENTO				
+12.04.0460	Fornecimento e instalação de tampa metálica em alumínio com guarnição, dobradiça e fechadura	m2   	5.73	1071.45	6139.41
+	SUBTOTAL				6139.41
+3.1.11	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	33.5	17.52	586.92
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	33.5	4.47	149.75
+13.03.0210	Pintura látex em duas demãos c/ selador acrílico	m2   	30	9.11	273.3
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	84.9	39.08	3317.89
+13.03.0700	Pintura em tubulações e conexões de ferro fundido com tinta esmalte em duas demãos	m2   	8	18.9	151.2
+	SUBTOTAL				4479.0599999999995
+3.1.12	INSTALAÇÕES ELÉTRICAS				
+14.01.0200	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=1/2''	m    	30	2.73	81.9
+14.01.0210	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=3/4''	m    	30	3.08	92.4
+14.01.0220	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=1''	m    	50	3.69	184.5
+14.02.0035	Fornecimento e colocação de cabo de cobre 25mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	90	9.41	846.9
+14.02.1215	Fornecimento e colocação de cabo de cobre 3x6,00 mm2, ST1-1000V, têmpera mole, recoberto por composto termoplástico PVC 70°C + capa interna + cobertura termoplástica	m   	30	13.05	391.5
+14.06.0015	Fornecimento e colocação de haste copperweld 5/8'' x 3000mm com conector	un   	3	34.75	104.25
+14.06.0210	Fornecimento, transporte e montagem de subestação de transformação e medição em BT-30 KVA (AT para BT) padrão Enersul - completa	un   	1	13550.14	13550.14
+14.06.0720	Execução mureta e acessórios p/ padrão energia trifásico 16 a 30 KVA completo, com poste de ferro galvanizado, padrão enersul	un   	1	2782.24	2782.24
+14.07.0200	Extensão de rede de energia elétrica em alta tensão com poste de concreto e cabo de alumínio, 13,8 KV trifásica, padrão Enersul - completa	m    	440	93.76	41254.4
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	4	152.32	609.28
+14.29.0302	Fornecimento e colocação de poste de ferro galvanizado, altura 7 mts, com duas luminária lâmpadas vapor metálico 400 W, reator e relê fotoelétrico	un   	1	2947.38	2947.38
+	Fornecimento e instalação de barramento de derivação de 8 circuitos	un   	1	4084.08	4084.08
+	SUBTOTAL				66928.97
+3.1.13	INSTALAÇÕES HIDRÁULICAS				
+14.62.0010	Fornecimento e colocação de bucha de redução PVC rígido roscável Ø=3/4'' x 1/2''	un   	2	2.76	5.52
+14.64.0020	Fornecimento e colocação de curva 90º PVC rígido roscável Ø=3/4''	un   	1	5.12	5.12
+14.66.0100	Fornecimento e colocação de luva redução PVC rígido roscável Ø=1'' x 3/4''	un   	1	3.38	3.38
+14.96.0130	Fornecimento e colocação de torneira de jardim Ø=1/2''	un   	1	22.38	22.38
+	SUBTOTAL				36.4
+3.1.14	INSTALAÇÃO DE PRODUÇÃO				
+15.02.0003	Montagem e instalação de conjunto motor-bomba 22 a 30 cv	un   	2	209.93	419.86
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	1520	0.68	1033.6
+	SUBTOTAL				1453.46
+3.1.15	URBANIZAÇÃO				
+16.01.0002	Fornecimento e assentamento de portão (4,00x1,80m) em tubo FºGº Ø=2'' c/ tela aço galvanizado fio 14 # 2'', padrão Sanesul	un   	1	3008.01	3008.01
+16.01.0004	Construção de cercas de arame liso com 8 fios, mourão de concreto, altura de 2,00, espaçados a cada 2,50m	m    	180.48	17.05	3077.18
+16.01.0007	Fornecimento e colocação do conjunto:  alambrado em tela de aço galvanizado, (fio 14 malha 2'' com altura 1,80m) fixado com  mourões de concreto	m    	68	101.52	6903.36
+16.02.0004	Fornecimento e plantio de grama esmeralda em placa	m2   	129	5.75	741.75
+16.02.0007	Fornecimento e plantio de muda espécie Sansão do Campo	un   	57	1.2	68.4
+16.02.0019	Fornecimento e espalhamento de brita ''1''	m2   	70	3.78	264.6
+	SUBTOTAL				14063.3
+3.1.16	SERVIÇOS DIVERSOS				
+	Fornecimento e colocação de grade em alumínio com os componentes em aço inox, nas dimensões (2,02x0,70) m,  espaçamento das barras a cada 2,00 cm, conforme projeto	un   	1	2926.98	2926.98
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (0,70x0,70) m	un   	1	8104.96	8104.96
+	SUBTOTAL				11031.94
+	TOTAL DOS SERVIÇOS				143851.88999999998
+3.2	MATERIAIS				
+32.02.0007	Tubo PVC/JEI p/ rede esgoto DN 250 (NBR-7362), L=6,00m	pç	4	293.13	1172.52
+33.00.3315	Curva 90º ferro fundido com bolsas, DN 150 - C90 JE  BB	un   	1	347.34	347.34
+33.00.3610	Curva 45º ferro fundido com flanges PN10, DN 100 -  C45 FF10	un   	2	207.43	414.86
+33.00.3708	Curva 90º ferro fundido com flanges PN10, DN 80 - C90 FF10	un   	2	166.19	332.38
+33.00.3710	Curva 90º ferro fundido com flanges PN10, DN 100 -  C90 FF10	un   	5	204.38	1021.9
+33.00.4710	Flange cego ferro fundido PN10, DN 100 - FC10	un   	1	82.04	82.04
+33.00.5020	Junção 45º ferro fundido com flanges PN10, DN 100x100  - YFF10	un   	2	352.41	704.82
+33.00.6715	Redução excêntrica ferro fundido com flanges PN10, DN 100x80 - REFF10	un   	4	404.33	1617.32
+33.00.6725	Redução excêntrica ferro fundido com flanges PN10, DN 150x100 - REFF10	un   	1	273.34	273.34
+33.00.7120	Tê ferro fundido com bolsas DN 150x80 - T JE BBB	un   	1	387.95	387.95
+33.01.0308	Registro com bolsas/volante, com cunha de borracha para tubos de ferro fundido, tipo EURO 25,  DN 80 - REUROBV	un   	1	499.3	499.3
+33.01.1615	Registro com flanges/cabeçote em ferro fundido, cunha de borracha, corpo curto tipo EURO 23, PN10 , DN 100 - REUROCC10	un   	2	483.9	967.8
+33.01.3210	Válvula de retenção portinhola única c/ flanges VRPUS 10, DN 100	un   	2	1500	3000
+33.02.0608	Acessórios p/ flanges PN10, DN 80	Cj   	10	42.68	426.8
+33.02.0610	Acessórios p/ flanges PN10, DN 100	Cj   	16	42.68	682.88
+33.02.0615	Acessórios p/ flanges PN10, DN 150	Cj   	1	67.2	67.2
+	Tubo F.º F.º, FP, PN10, DN 150, L=1,85 m	un   	1	1001.58	1001.58
+	Tubo F.º F.º, PP, DN 150, L=0,30 m	un   	1	226.54	226.54
+	Tubo F.º F.º, FF, PN10, DN 100, L=0,60 m	un   	1	869.26	869.26
+	Tubo F.º F.º, FF, PN10, DN 100, L=0,46 m	un   	1	869.26	869.26
+	Tubo F.º F.º, FP, PN10, DN 100, L=0,35 m	un   	1	607.15	607.15
+	Tubo F.º F.º, FF, PN10, DN 80, L=2,90 m	un   	2	1116.83	2233.66
+	Tubo F.º F.º, FF, PN10, DN 80, L=0,25 m	un   	2	780.15	1560.3
+	Tubo F.º F.º, PP, DN 80, L=0,55 m	un   	1	293.39	293.39
+	Tubo F.º F.º, PP, DN 80, L=0,45 m	un   	1	292.39	292.39
+	Tubo F.º F.º, PP, DN 80, L=0,35 m	un   	1	291.6	291.6
+	TOTAL DOS MATERIAIS				20243.579999999998
+3.3	EQUIPAMENTOS				
+35.06.0141	Fornecimento, transporte e instalação do quadro de comando duplo, partida compensada, para bomba de eixo horizontal até 40,00 cv	un   	1	14568.83	14568.83
+	Regulador de nível com micro-interruptor, com invólucro de polipropileno (não aderente) resistente a líquidos agressivos, funcionamento submersível e auto-limpante para evitar interrupção durante a operação do sistema em decorrência de gordura e sólidos existentes na superfície do NA	un   	4	446.12	1784.48
+	Fornecimento e instalação de grupo gerador de energia elétrica de 75 KVA, 60Hz,1.800 rpm, 4 tempos, 4 cilindros dispostos em linha, partida elétrica, 12 Vcc, turbo alimentado, refrigerado a água através de radiador soprante, incluindo quadro de comando, bateria e reservatório de combustível e base	un   	1	66925	66925
+	Fornecimento e colocação de conjunto moto bomba centrífuga re-auto-escorvante de eixo horizontal para esgoto, Q=76,68 m3/h,m HMT=58 mca, 40,00 cv, rotação de 1.14rpm, sucção e recalque, 4", rotor em ferro fundido nodular, vedação do eixo através de selo mecânico	Cj   	2	52415.41	104830.82
+	TOTAL DOS EQUIPAMENTOS				188109.13
+3.4	ABRIGO DE GRUPO GERADOR				
+3.4.1	SERVIÇOS				
+3.4.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	12.35	2.97	36.68
+	SUBTOTAL				36.68
+3.4.1.2	SERVIÇOS PRELIMINARES				
+03.01.0001	Limpeza manual de terreno c/ retirada da vegetação	m2   	100	1.66	166
+	SUBTOTAL				166
+3.4.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	1.69	14.03	23.71
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	1.03	9.57	9.86
+	SUBTOTAL				33.57
+3.4.1.4	FUNDAÇÕES ESTRUTURAS				
+08.02.0010	Broca diâmetro 25cm, de concreto armado Fck=13,5 MPa com 20 kg de ferro/m3	m    	12	36.84	442.08
+08.02.0050	Preparo de cabeça de broca, moldada ''in-loco''	un   	4	11.28	45.12
+08.03.0020	Lastro de brita	m3   	0.3	79.09	23.73
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	9.6	30.13	289.25
+08.04.0020	Forma plana em madeira comum para estrutura, com reutilização duas vezes.	m2   	14.65	60.58	887.5
+08.05.0010	Armadura CA-60	kg   	18.56	8.94	165.93
+08.05.0020	Armadura CA-50 (A ou B)	kg   	167.04	8.31	1388.1
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	2.32	415.78	964.61
+	SUBTOTAL				4206.32
+3.4.1.5	FECHAMENTO				
+12.01.0130	Alvenaria de tijolo 8 furos assentado c/ argamassa de cimento, cal e areia, traço 1:2:8, e=10cm	m2   	33.14	27.78	920.63
+12.01.0300	Fornecimento e assentamento de elemento vazado cerâmico (20x20cm) c/ argamassa de cimento e areia, traço 1:3	m2   	5.2	79.86	415.27
+12.02.0010	Estrutura de madeira, vão 3 a 7m, telhas cerâmicas	m2   	19.5	57.95	1130.03
+12.02.0340	Cobertura com telha cerâmica tipo Romana	m2   	19.5	39.21	764.6
+12.02.0623	Fornecimento e coloc.de rufo metálico desenv.20cm	m    	9.8	15.17	148.67
+12.02.0624	Fornecimento e coloc.de rufo metálico desenv.40cm	m    	3.8	23.4	88.92
+12.04.0100	Fornecimento e colocação de porta ferro com uma ou duas folhas	m2   	2.52	290.42	731.86
+	Beiral em madeira aparelhada 15 cm	m    	9.8	15.82	155.04
+	SUBTOTAL				4355.02
+3.4.1.6	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0130	Execução de piso  de concreto, Fck=13,5 MPa e=8 cm	m2   	25	28	700
+13.01.1000	Chapisco superfície c/ argamassa de cimento e areia, traço 1:3, e=5mm	m2   	66.28	3.35	222.04
+13.01.1040	Emboço p/ parede c/ argamassa de cimento, cal e areia, traço 1:2:6, e=2cm	m2   	66.28	17.2	1140.02
+13.03.0100	Pintura c/ selador acrílico, uma demão para telha	m2   	15.6	3.47	54.13
+13.03.0210	Pintura látex em duas demãos c/ selador acrílico	m2   	66.28	9.11	603.81
+13.03.0340	Pintura esmalte em esquadrias de ferro em duas demãos e uma demão de zarcão	m2   	7.56	18.98	143.49
+	SUBTOTAL				2863.49
+3.4.1.7	INSTALAÇÕES ELÉTRICAS				
+14.01.0020	Fornecimento e assentamento de eletroduto PVC roscável Ø=3/4''	m    	10	4.7	47
+14.01.0060	Fornecimento e assentamento de eletroduto PVC roscável Ø=2''	m    	10	12.7	127
+14.01.1110	Fornecimento e colocação de curva 90º PVC roscável Ø=3/4''	un   	2	3.63	7.26
+14.01.1150	Fornecimento e colocação de curva 90º PVC roscável Ø=2''	un   	2	9.56	19.12
+14.02.1105	Fornecimento e colocação de cabo de cobre 2,5mm2, ST1-1000V, têmpera mole, recoberto por composto termoplástico PVC 70ºC + capa interna + cobertura termoplástica	m    	40	3.86	154.4
+14.03.0015	Fornecimento e colocação de disjuntor ''Quick-Lag'' 20A monopolar	un   	3	10.11	30.33
+14.03.0300	Fornecimento e colocação de tomada 15A/250V 2P universal	un   	1	12.44	12.44
+14.03.0350	Fornecimento e colocação de interruptor 1 tecla simples 10A/250V	un   	2	9.13	18.26
+14.04.0020	Fornecimento e colocação de calha aberta 2 lâmpadas 40W fluorescente, inclusive reator duplo Alto Fator de Potência,e soquete	un   	1	60.77	60.77
+14.04.0070	Fornecimento e colocação de lâmpada fluorescente 40W	un   	2	5.69	11.38
+14.04.0210	Fornecimento e colocação de luminária a prova de tempo c/ lâmpada incandescente de 100W	un   	1	89.4	89.4
+14.05.0010	Fornecimento e colocação de caixa de ferro esmaltado 4'' x 2'' retangular	un   	3	1.9	5.7
+14.05.0100	Fornecimento e colocação de quadro de distribuição 6 divisões p/ embutir em alvenaria	un   	1	51.85	51.85
+14.06.0010	Fornecimento e colocação de haste copperweld 5/8'' x 2400mm com conector	un   	1	28.26	28.26
+14.11.0010	Caixa de inspeção em alvenaria p/ elétrica (30x30x30cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	1	69.46	69.46
+14.11.0030	Caixa de inspeção em alvenaria p/ elétrica (40x40x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	2	122.58	245.16
+	SUBTOTAL				977.79
+	TOTAL DOS SERVIÇOS				12638.869999999999
+	TOTAL DO ITEM 3				364843.47
+4	LINHA DE RECALQUE DA EEEB - MARAMBAIA				
+4.1	SERVIÇOS				
+4.1.1	SERVIÇOS TÉCNICOS				
+02.04.0032	Locação e nivelamento de rede de esgoto c/ utilização de equipamento topográfico e elaboração de notas de serviço	m    	2040	0.52	1060.8
+02.05.0010	Cadastro de rede de esgoto	m    	2040	0.55	1122
+	SUBTOTAL				2182.8
+4.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	1836	0.31	569.16
+03.02.0055	Fornecimento e colocação de cavalete de sinalização (madeira) padrão Sanesul	un   	2	76.4	152.8
+	SUBTOTAL				721.96
+4.1.3	MOVIMENTO DE TERRA				
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	1530	6.07	9287.1
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	459	9.57	4392.63
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	1040.4	5.88	6117.55
+04.05.0011	Carga e descarga de solo	m3   	30.6	1.27	38.86
+04.05.0061	Transporte de material escavado-solos	m3xkm	153	0.86	131.58
+	SUBTOTAL				19967.72
+4.1.4	ESGOTAMENTO				
+06.01.0001	Esgotamento de água c/ conjunto moto-bomba até 5 cv	h    	20	1.96	39.2
+	SUBTOTAL				39.2
+4.1.5	FUNDAÇÕES E ESTRUTURAS				
+08.03.0010	Lastro de areia	m3   	11.02	54.25	597.84
+08.03.0020	Lastro de brita	m3   	5.51	79.09	435.79
+08.03.0030	Lastro de pedra de mão	m3   	2	71.08	142.16
+08.03.0040	Lastro de concreto não estrutural	m3   	0.6	254.09	152.45
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	4.8	30.13	144.62
+08.05.0010	Armadura CA-60	kg   	6.1	8.94	54.53
+08.05.0020	Armadura CA-50 (A ou B)	kg   	80	8.31	664.8
+08.06.0070	Concreto estrutural convencional Fck=20,0 MPa, tipo B, inclusive aplicação.	m3   	0.9	381.14	343.03
+	SUBTOTAL				2535.2200000000003
+4.1.6	ASSENTAMENTO				
+09.02.0020	Assentamento de tubos e conexöes PVC JEI 1MPa DN 200	m    	2040	1.9	3876
+	SUBTOTAL				3876
+4.1.7	PAVIMENTAÇÃO				
+10.01.0010	Retirada mecânica de pavimentação asfáltica.	m2   	268	4.13	1106.84
+10.01.0080	Retirada manual de pavimentação  em passeio cimentado	m2   	30	9.84	295.2
+10.01.0090	Retirada manual de guias ou meio fio	m    	2	6.05	12.1
+10.02.0010	Recomposição de pavimentação em passeio cimentado	m2   	30	18.47	554.1
+10.02.0050	Recomposição de guias ou meio fio	m    	2	8.81	17.62
+10.03.0010	Pavimentaçäo asfáltica CBUQ, base=15cm e=4cm	m2   	268	47.31	12679.08
+	SUBTOTAL				14664.939999999999
+	TOTAL DOS SERVIÇOS				43987.840000000004
+4.2	MATERIAIS				
+31.01.0006	Tubo PVC 1MPa DN 200 - JEI - junta elástica integrada,  L=6,00m  (NBR-7665/99)	pç	340	416.13	141484.2
+33.00.3220	Curva 45º ferro fundido com bolsas, DN 200 - C45 JE  BB	un   	1	448.56	448.56
+33.00.3320	Curva 90º ferro fundido com bolsas, DN 200 - C90 JE  BB	un   	3	512.41	1537.23
+33.02.0020	Anel de borracha p/ ferro fundido DN 200 - A JE2GS	un   	8	85.28	682.24
+	TOTAL DOS MATERIAIS				144152.23
+	TOTAL DO ITEM 4				188140.07
+5	ESTAÇÃO ELEVATÓRIA ESGOTO SÃO THOMAZ				
+5.1	SERVIÇOS				
+5.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	30.85	2.97	91.62
+02.05.0100	Cadastro de geral da obra	m2   	30.85	1.29	39.8
+	SUBTOTAL				131.42000000000002
+5.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	2091	0.31	648.21
+	SUBTOTAL				648.21
+5.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	8	14.03	112.24
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	98.4	6.07	597.29
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	53.8	7.17	385.75
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	42	9.57	401.94
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	127.65	5.88	750.58
+04.04.0100	Fornecimento de aterro	m3   	24	25.93	622.32
+04.05.0011	Carga e descarga de solo	m3   	46.7	1.27	59.31
+04.05.0061	Transporte de material escavado-solos	m3xkm	233.5	0.86	200.81
+	SUBTOTAL				3130.2400000000002
+5.1.4	ESCORAMENTOS				
+05.01.0035	Escoramento de madeira em valas e cavas - escoramento contínuo, com reaproveitamento de 5 vezes da madeira	m2   	120	38.32	4598.4
+	SUBTOTAL				4598.4
+5.1.5	ESGOTAMENTO				
+06.01.0001	Esgotamento de água c/ conjunto moto-bomba até 5 cv	h    	60	1.96	117.6
+	SUBTOTAL				117.6
+5.1.6	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	252.15	79.09	19942.54
+08.03.0030	Lastro de pedra de mão	m3   	18	71.08	1279.44
+08.03.0040	Lastro de concreto não estrutural	m3   	1.8	254.09	457.36
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	4.84	30.13	145.83
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	145.37	59.72	8681.5
+08.04.0600	Cimbramento de madeira	m3   	18	25.24	454.32
+08.05.0010	Armadura CA-60	kg   	9.2	8.94	82.25
+08.05.0020	Armadura CA-50 (A ou B)	kg   	1480	8.31	12298.8
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.3	244.47	73.34
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	18.5	415.78	7691.93
+08.08.0075	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 1,21 m à 1,50m, com tampão de ferro fundido T-137	un   	1	834.4	834.4
+	SUBTOTAL				51941.71
+5.1.7	ASSENTAMENTOS				
+09.05.0035	Assentamento de tubos e conexöes PVC/JEI esgoto DN 350	m    	58	3.31	191.98
+	SUBTOTAL				191.98
+5.1.8	PAVIMENTAÇÃO				
+10.04.0050	Execução de guias ou meio fio de concreto	m    	32	26.07	834.24
+	SUBTOTAL				834.24
+5.1.9	LIGAÇÕES PREDIAIS				
+11.01.0200	Ramal predial água em tubo PEAD Ø=20mm, inclusive escavação e reaterro	m    	18	1.39	25.02
+	SUBTOTAL				25.02
+5.1.10	FECHAMENTO				
+12.04.0460	Fornecimento e instalação de tampa metálica em alumínio com guarnição, dobradiça e fechadura	m2   	2.32	1071.45	2485.76
+	SUBTOTAL				2485.76
+5.1.11	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	37	17.52	648.24
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	37	4.47	165.39
+13.03.0210	Pintura látex em duas demãos c/ selador acrílico	m2   	27.8	9.11	253.26
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	67.55	39.08	2639.85
+13.03.0700	Pintura em tubulações e conexões de ferro fundido com tinta esmalte em duas demãos	m2   	12	18.9	226.8
+	SUBTOTAL				3933.54
+5.1.12	INSTALAÇÕES ELÉTRICAS				
+14.01.0200	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=1/2''	m    	30	2.73	81.9
+14.01.0210	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=3/4''	m    	30	3.08	92.4
+14.01.0220	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=1''	m    	50	3.69	184.5
+14.02.0035	Fornecimento e colocação de cabo de cobre 25mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	90	9.41	846.9
+14.02.1215	Fornecimento e colocação de cabo de cobre 3x6,00 mm2, ST1-1000V, têmpera mole, recoberto por composto termoplástico PVC 70°C + capa interna + cobertura termoplástica	m   	30	13.05	391.5
+14.06.0015	Fornecimento e colocação de haste copperweld 5/8'' x 3000mm com conector	un   	3	34.75	104.25
+14.06.0210	Fornecimento, transporte e montagem de subestação de transformação e medição em BT-30 KVA (AT para BT) padrão Enersul - completa	un   	1	13550.14	13550.14
+14.06.0720	Execução mureta e acessórios p/ padrão energia trifásico 16 a 30 KVA completo, com poste de ferro galvanizado, padrão enersul	un   	1	2782.24	2782.24
+14.07.0200	Extensão de rede de energia elétrica em alta tensão com poste de concreto e cabo de alumínio, 13,8 KV trifásica, padrão Enersul - completa	m    	510	93.76	47817.6
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	5	152.32	761.6
+14.29.0302	Fornecimento e colocação de poste de ferro galvanizado, altura 7 mts, com duas luminária lâmpadas vapor metálico 400 W, reator e relê fotoelétrico	un   	1	2947.38	2947.38
+	Fornecimento e instalação de barramento de derivação de 8 circuitos	un   	1	4084.08	4084.08
+	SUBTOTAL				73644.49
+5.1.13	INSTALAÇÕES HIDRÁULICAS				
+14.62.0010	Fornecimento e colocação de bucha de redução PVC rígido roscável Ø=3/4'' x 1/2''	un   	2	2.76	5.52
+14.64.0020	Fornecimento e colocação de curva 90º PVC rígido roscável Ø=3/4''	un   	1	5.12	5.12
+14.66.0100	Fornecimento e colocação de luva redução PVC rígido roscável Ø=1'' x 3/4''	un   	1	3.38	3.38
+14.96.0130	Fornecimento e colocação de torneira de jardim Ø=1/2''	un   	1	22.38	22.38
+	SUBTOTAL				36.4
+5.1.14	INSTALAÇÃO DE PRODUÇÃO				
+15.02.0002	Montagem e instalação de conjunto motor-bomba 12 a 20 cv	un   	2	141.35	282.7
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	1380	0.68	938.4
+	SUBTOTAL				1221.1
+5.1.15	URBANIZAÇÃO				
+16.01.0002	Fornecimento e assentamento de portão (4,00x1,80m) em tubo FºGº Ø=2'' c/ tela aço galvanizado fio 14 # 2'', padrão Sanesul	un   	1	3008.01	3008.01
+16.01.0004	Construção de cercas de arame liso com 8 fios, mourão de concreto, altura de 2,00, espaçados a cada 2,50m	m    	300	17.05	5115
+16.01.0007	Fornecimento e colocação do conjunto:  alambrado em tela de aço galvanizado, (fio 14 malha 2'' com altura 1,80m) fixado com  mourões de concreto	m    	73	101.52	7410.96
+16.02.0004	Fornecimento e plantio de grama esmeralda em placa	m2   	244	5.75	1403
+16.02.0007	Fornecimento e plantio de muda espécie Sansão do Campo	un   	130	1.2	156
+16.02.0019	Fornecimento e espalhamento de brita ''1''	m2   	74	3.78	279.72
+	SUBTOTAL				17372.690000000002
+5.1.16	SERVIÇOS DIVERSOS				
+	Fornecimento e colocação de grade em alumínio com os componentes em aço inox, nas dimensões (2,02x0,70) m,  espaçamento das barras a cada 2,00 cm, conforme projeto	un   	1	2926.98	2926.98
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (0,70x0,70) m	un   	1	8104.96	8104.96
+	SUBTOTAL				11031.94
+	TOTAL DOS SERVIÇOS				171344.74
+5.2	MATERIAIS				
+32.02.0009	Tubo PVC/JEI p/ rede esgoto DN 350 (NBR-7362),  L=6,00m	pç	10	611.5	6115
+33.00.3309	Curva 90º ferro fundido com bolsas, DN 80 - C90 JE  BB	un   	1	164.78	164.78
+33.00.3325	Curva 90º ferro fundido com bolsas, DN 250 - C90 JE  BB	un   	2	768.74	1537.48
+33.00.3615	Curva 45º ferro fundido com flanges PN10, DN 150 -  C45 FF10	un   	2	289.88	579.76
+33.00.3710	Curva 90º ferro fundido com flanges PN10, DN 100 -  C90 FF10	un   	2	204.38	408.76
+33.00.3715	Curva 90º ferro fundido com flanges PN10, DN 150 -  C90 FF10	un   	3	365.01	1095.03
+33.00.3725	Curva 90º ferro fundido com flanges PN10, DN 250 -  C90 FF10	un   	2	874.61	1749.22
+33.00.4715	Flange cego ferro fundido PN10, DN 150 - FC10	un   	1	125.04	125.04
+33.00.5030	Junção 45º ferro fundido com flanges PN10, DN 150x150  - YFF10	un   	2	611.75	1223.5
+33.00.6540	Reduçäo concêntrica ferro fundido com flanges PN10,  DN 250x150 - RFF10	un   	3	840.76	2522.28
+33.00.7155	Tê ferro fundido com bolsas DN 250x80 - T JE BBB	un   	1	740.22	740.22
+33.01.0308	Registro com bolsas/volante, com cunha de borracha para tubos de ferro fundido, tipo EURO 25,  DN 80 - REUROBV	un   	1	499.3	499.3
+33.01.1620	Registro com flanges/cabeçote em ferro fundido, cunha de borracha, corpo curto tipo EURO 23, PN10, DN 150 - REUROCC10	un   	2	740.85	1481.7
+33.01.3215	Válvula de retençäo portinhola única c/ flanges VRPUS 10,  DN 150	un   	2	2255	4510
+33.02.0608	Acessórios p/ flanges PN10, DN 80	Cj   	10	42.68	426.8
+33.02.0610	Acessórios p/ flanges PN10, DN 100	Cj   	1	42.68	42.68
+33.02.0615	Acessórios p/ flanges PN10, DN 150	Cj   	1	67.2	67.2
+33.02.0625	Acessórios p/ flanges PN10, DN 250	Cj   	1	103.53	103.53
+	Tubo F.º F.º, FP, PN10, DN 250, L=1,59 m	un   	2	991.46	1982.92
+	Tubo F.º F.º, FP, PN10, DN 250, L=0,35 m	un   	2	1095.85	2191.7
+	Tubo F.º F.º, PP, DN 250, L=0,30 m	un   	2	406.16	812.32
+	Tubo F.º F.º, FF, PN10, DN 150, L=3,14 m	un   	2	1720.26	3440.52
+	Tubo F.º F.º, FF, PN10, DN 150, L=0,87 m	un   	1	1093.28	1093.28
+	Tubo F.º F.º, FF, PN10, DN 150, L=0,75 m	un   	1	1093.28	1093.28
+	Tubo F.º F.º, FF, PN10, DN 150, L=0,35 m	un   	2	1093.28	2186.56
+	Tubo F.º F.º, PP, DN 80, L=0,55 m	un   	1	293.39	293.39
+	Tubo F.º F.º, PP, DN 80, L=0,45 m	un   	1	292.39	292.39
+	Tubo F.º F.º, PP, DN 80, L=0,35 m	un   	1	291.6	291.6
+	TOTAL DOS MATERIAIS				37070.24
+5.3	EQUIPAMENTOS				
+35.06.0130	Fornecimento, transporte e instalação do quadro de comando duplo, partida compensada, para bomba de eixo horizontal até 30,00 cv	un   	1	11736.22	11736.22
+	Regulador de nível com micro-interruptor, com invólucro de polipropileno (não aderente) resistente a líquidos agressivos, funcionamento submersível e auto-limpante para evitar interrupção durante a operação do sistema em decorrência de gordura e sólidos existentes na superfície do NA	un   	4	446.12	1784.48
+	Fornecimento e instalação de grupo gerador de energia elétrica de 75 KVA, 60Hz,1.800 rpm, 4 tempos, 4 cilindros dispostos em linha, partida elétrica, 12 Vcc, turbo alimentado, refrigerado a água através de radiador soprante, incluindo quadro de comando, bateria e reservatório de combustível e base	un   	1	66925	66925
+	Fornecimento e colocação de conjunto moto bomba centrífuga re-auto-escorvante de eixo horizontal para esgoto, Q=144,18 m3/h,m HMT=23,41 mca, 30 cv, rotação de 1.381 rpm, sucção e recalque, 6", rotor em ferro fundido nodular, vedação do eixo através de selo mecânico	Cj   	2	46665.44	93330.88
+	TOTAL DOS EQUIPAMENTOS				173776.58000000002
+5.4	ABRIGO DE GRUPO GERADOR				
+5.4.1	SERVIÇOS				
+5.4.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	12.35	2.97	36.68
+	SUBTOTAL				36.68
+5.4.1.2	SERVIÇOS PRELIMINARES				
+03.01.0001	Limpeza manual de terreno c/ retirada da vegetação	m2   	100	1.66	166
+	SUBTOTAL				166
+5.4.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	1.69	14.03	23.71
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	1.03	9.57	9.86
+	SUBTOTAL				33.57
+5.4.1.4	FUNDAÇÕES ESTRUTURAS				
+08.02.0010	Broca diâmetro 25cm, de concreto armado Fck=13,5 MPa com 20 kg de ferro/m3	m    	12	36.84	442.08
+08.02.0050	Preparo de cabeça de broca, moldada ''in-loco''	un   	4	11.28	45.12
+08.03.0020	Lastro de brita	m3   	0.3	79.09	23.73
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	9.6	30.13	289.25
+08.04.0020	Forma plana em madeira comum para estrutura, com reutilização duas vezes.	m2   	14.65	60.58	887.5
+08.05.0010	Armadura CA-60	kg   	18.56	8.94	165.93
+08.05.0020	Armadura CA-50 (A ou B)	kg   	167.04	8.31	1388.1
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	2.32	415.78	964.61
+	SUBTOTAL				4206.32
+5.4.1.5	FECHAMENTO				
+12.01.0130	Alvenaria de tijolo 8 furos assentado c/ argamassa de cimento, cal e areia, traço 1:2:8, e=10cm	m2   	33.14	27.78	920.63
+12.01.0300	Fornecimento e assentamento de elemento vazado cerâmico (20x20cm) c/ argamassa de cimento e areia, traço 1:3	m2   	5.2	79.86	415.27
+12.02.0010	Estrutura de madeira, vão 3 a 7m, telhas cerâmicas	m2   	19.5	57.95	1130.03
+12.02.0340	Cobertura com telha cerâmica tipo Romana	m2   	19.5	39.21	764.6
+12.02.0623	Fornecimento e coloc.de rufo metálico desenv.20cm	m    	9.8	15.17	148.67
+12.02.0624	Fornecimento e coloc.de rufo metálico desenv.40cm	m    	3.8	23.4	88.92
+12.04.0100	Fornecimento e colocação de porta ferro com uma ou duas folhas	m2   	2.52	290.42	731.86
+	Beiral em madeira aparelhada 15 cm	m    	9.8	15.82	155.04
+	SUBTOTAL				4355.02
+5.4.1.6	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0130	Execução de piso  de concreto, Fck=13,5 MPa e=8 cm	m2   	25	28	700
+13.01.1000	Chapisco superfície c/ argamassa de cimento e areia, traço 1:3, e=5mm	m2   	66.28	3.35	222.04
+13.01.1040	Emboço p/ parede c/ argamassa de cimento, cal e areia, traço 1:2:6, e=2cm	m2   	66.28	17.2	1140.02
+13.03.0100	Pintura c/ selador acrílico, uma demão para telha	m2   	15.6	3.47	54.13
+13.03.0210	Pintura látex em duas demãos c/ selador acrílico	m2   	66.28	9.11	603.81
+13.03.0340	Pintura esmalte em esquadrias de ferro em duas demãos e uma demão de zarcão	m2   	7.56	18.98	143.49
+	SUBTOTAL				2863.49
+5.4.1.7	INSTALAÇÕES ELÉTRICAS				
+14.01.0020	Fornecimento e assentamento de eletroduto PVC roscável Ø=3/4''	m    	10	4.7	47
+14.01.0060	Fornecimento e assentamento de eletroduto PVC roscável Ø=2''	m    	10	12.7	127
+14.01.1110	Fornecimento e colocação de curva 90º PVC roscável Ø=3/4''	un   	2	3.63	7.26
+14.01.1150	Fornecimento e colocação de curva 90º PVC roscável Ø=2''	un   	2	9.56	19.12
+14.02.1105	Fornecimento e colocação de cabo de cobre 2,5mm2, ST1-1000V, têmpera mole, recoberto por composto termoplástico PVC 70ºC + capa interna + cobertura termoplástica	m    	40	3.86	154.4
+14.03.0015	Fornecimento e colocação de disjuntor ''Quick-Lag'' 20A monopolar	un   	3	10.11	30.33
+14.03.0300	Fornecimento e colocação de tomada 15A/250V 2P universal	un   	1	12.44	12.44
+14.03.0350	Fornecimento e colocação de interruptor 1 tecla simples 10A/250V	un   	2	9.13	18.26
+14.04.0020	Fornecimento e colocação de calha aberta 2 lâmpadas 40W fluorescente, inclusive reator duplo Alto Fator de Potência,e soquete	un   	1	60.77	60.77
+14.04.0070	Fornecimento e colocação de lâmpada fluorescente 40W	un   	2	5.69	11.38
+14.04.0210	Fornecimento e colocação de luminária a prova de tempo c/ lâmpada incandescente de 100W	un   	1	89.4	89.4
+14.05.0010	Fornecimento e colocação de caixa de ferro esmaltado 4'' x 2'' retangular	un   	3	1.9	5.7
+14.05.0100	Fornecimento e colocação de quadro de distribuição 6 divisões p/ embutir em alvenaria	un   	1	51.85	51.85
+14.06.0010	Fornecimento e colocação de haste copperweld 5/8'' x 2400mm com conector	un   	1	28.26	28.26
+14.11.0010	Caixa de inspeção em alvenaria p/ elétrica (30x30x30cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	1	69.46	69.46
+14.11.0030	Caixa de inspeção em alvenaria p/ elétrica (40x40x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	2	122.58	245.16
+	SUBTOTAL				977.79
+	TOTAL DOS SERVIÇOS				12638.869999999999
+	TOTAL DO ITEM 5				394830.43
+6	LINHA DE RECALQUE - SÃO THOMAZ				
+6.1	SERVIÇOS				
+6.1.1	SERVIÇOS TÉCNICOS				
+02.04.0032	Locação e nivelamento de rede de esgoto c/ utilização de equipamento topográfico e elaboração de notas de serviço	m    	240	0.52	124.8
+02.05.0010	Cadastro de rede de esgoto	m    	240	0.55	132
+	SUBTOTAL				256.8
+6.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	720	0.31	223.2
+	SUBTOTAL				223.2
+6.1.3	MOVIMENTO DE TERRA				
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	210	6.07	1274.7
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	63	9.57	602.91
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	147	5.88	864.36
+	SUBTOTAL				2741.9700000000003
+6.1.4	ESGOTAMENTO				
+06.01.0001	Esgotamento de água c/ conjunto moto-bomba até 5 cv	h    	4	1.96	7.84
+	SUBTOTAL				7.84
+6.1.5	FUNDAÇÕES E ESTRUTURAS				
+08.03.0010	Lastro de areia	m3   	2	54.25	108.5
+08.03.0020	Lastro de brita	m3   	1	79.09	79.09
+08.03.0040	Lastro de concreto não estrutural	m3   	0.8	254.09	203.27
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	4.8	30.13	144.62
+08.05.0010	Armadura CA-60	kg   	6.1	8.94	54.53
+08.05.0020	Armadura CA-50 (A ou B)	kg   	80	8.31	664.8
+08.06.0070	Concreto estrutural convencional Fck=20,0 MPa, tipo B, inclusive aplicação.	m3   	0.9	381.14	343.03
+	SUBTOTAL				1597.84
+6.1.6	ASSENTAMENTO				
+09.02.0025	Assentamento de tubos e conexöes PVC JEI 1MPa DN 250	m    	240	2.26	542.4
+	SUBTOTAL				542.4
+	TOTAL DOS SERVIÇOS				5370.05
+6.2	MATERIAIS				
+31.01.0007	Tubo PVC 1MPa DN 250 - JEI - junta elástica integrada,  L=6,00m  (NBR-7665/99)	pç	40	630.73	25229.2
+33.00.3225	Curva 45º ferro fundido com bolsas, DN 250 - C45 JE  BB	un   	4	688.35	2753.4
+33.02.0025	Anel de borracha p/ ferro fundido DN 250 - A JE2GS	un   	8	105.88	847.04
+	TOTAL DOS MATERIAIS				28829.640000000003
+	TOTAL DO ITEM 6				34199.69
+7	TRATAMENTO				
+7.1	CANTEIRO DE OBRAS				
+7.1.1	SERVIÇOS				
+01.01.0001	Barracão de obra	m2   	60	202.46	12147.6
+01.01.0100	Instalação provisória de água e esgoto	un   	1	896.57	896.57
+01.01.0110	Instalação provisória de luz e força	un   	1	1009.36	1009.36
+01.02.0003	Fornecimento e colocação de placa de obra	m2   	24	180.84	4340.16
+	TOTAL DOS SERVIÇOS				18393.690000000002
+	TOTAL DO ÌTEM 7.1				18393.690000000002
+7.2	DESARENADOR				
+7.2.1	SERVIÇOS				
+7.2.1.1	SERVIÇOS TÉCNICOS				
+02.02.0010	Ensaio de concreto a compressão	un   	14	9.07	126.98
+02.02.0015	Ensaio de concreto a consistência (slump test)	un   	8	41.6	332.8
+02.04.0050	Locação de obras civis	m2   	28	2.97	83.16
+02.05.0100	Cadastro de geral da obra	m2   	28	1.29	36.12
+	SUBTOTAL				579.0600000000001
+7.2.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	60	0.31	18.6
+	SUBTOTAL				18.6
+7.2.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	5.2	14.03	72.96
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	57.79	6.07	350.79
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	29.01	9.57	277.63
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	12.4	5.88	72.91
+04.05.0011	Carga e descarga de solo	m3   	5.6	1.27	7.11
+04.05.0061	Transporte de material escavado-solos	m3xkm	16.8	0.86	14.45
+	SUBTOTAL				795.85
+7.2.1.4	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	4.2	79.09	332.18
+08.03.0030	Lastro de pedra de mão	m3   	4	71.08	284.32
+08.03.0040	Lastro de concreto não estrutural	m3   	1.5	254.09	381.14
+08.02.0010	Broca diâmetro 25cm, de concreto armado Fck=13,5 MPa com 20 kg de ferro/m3	m    	192	36.84	7073.28
+08.02.0050	Preparo de cabeça de broca, moldada ''in-loco''	un   	18	11.28	203.04
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	18.4	30.13	554.39
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	280.9	59.72	16775.35
+08.04.0600	Cimbramento de madeira	m3   	192	25.24	4846.08
+08.05.0010	Armadura CA-60	kg   	210	8.94	1877.4
+08.05.0020	Armadura CA-50 (A ou B)	kg   	1102.5	8.31	9161.78
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.5	244.47	122.24
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	14.5	415.78	6028.81
+08.08.0075	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 1,21 m à 1,50m, com tampão de ferro fundido T-137	un   	2	834.4	1668.8
+	SUBTOTAL				49308.81
+7.2.1.5	FECHAMENTO				
+12.04.0460	Fornecimento e instalação de tampa metálica em alumínio com guarnição, dobradiça e fechadura	m2   	0.8	1071.45	857.16
+	Fornecimento e colocação de placas de concreto armado e= 5 cm	m2   	23.6	58.26	1374.94
+	Fornecimento e colocação de grelha de piso, malha 25 mm, espessura 2 mm, conforme projeto	m2   	2.05	1634.42	3350.56
+	SUBTOTAL				5582.66
+7.2.1.6	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	40	17.52	700.8
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	112.5	39.08	4396.5
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	40	4.47	178.8
+13.03.0200	Pintura látex duas demãos	m2   	80	7.09	567.2
+13.03.0700	Pintura em tubulações e conexões de ferro fundido com tinta esmalte em duas demãos	m2   	2	18.9	37.8
+	SUBTOTAL				5881.1
+7.2.1.7	INSTALAÇÕES ELÉTRICAS				
+14.01.0010	Fornecimento e assentamento de eletroduto PVC roscável Ø=1/2''	m    	30	4.09	122.7
+14.02.0010	Fornecimento e colocação de cabo de cobre 2,5mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	60	2.38	142.8
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	2	152.32	304.64
+	SUBTOTAL				570.14
+7.2.1.8	INSTALAÇÃO DE PRODUÇÃO				
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	190	0.68	129.2
+15.03.0002	Montagem tubulações e conexões FºFº DN 200 a 350	kg   	500	1.07	535
+	SUBTOTAL				664.2
+7.2.1.9	SERVIÇOS DIVERSOS				
+	Fornecimento e colocação de grade com barras de de alumínio 3/4", com parafusos e conctores em aço inxidável, espaçadores em PVC, nas dimensões (1,20x0,70) m	un   	1	1738.8	1738.8
+	Fornecimento e colocação de comportas em fibra de vidro, tipo stop-log manual, guias vedadas com borracha neoprene, nas dimensões (0,70x0,55) m	un   	4	1219.32	4877.28
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (0,80x0,60) m	un   	2	7939.56	15879.12
+	SUBTOTAL				22495.2
+	TOTAL DOS SERVIÇOS				85895.62
+7.2.2	MATERIAIS				
+32.02.0006	Tubo PVC/JEI p/ rede esgoto DN 200 (NBR-7362), L=6,00m	pç	1	171.49	171.49
+33.00.4015	Extremidade ferro fundido ponta/flange PN10, DN 150  EFP10	un   	2	242.94	485.88
+33.00.4130	Extremidade ferro fundido ponta/flange c/ aba de vedação PN10, DN 300 - EPFAV10	un   	1	1025.14	1025.14
+33.01.1620	Registro com flanges/cabeçote em ferro fundido, cunha de borracha, corpo curto tipo EURO 23, PN10, DN 150 - REUROCC10	un   	2	740.93	1481.86
+33.02.0615	Acessórios p/ flanges PN10, DN 150	Cj   	2	67.2	134.4
+	TOTAL DOS MATERIAIS				3298.77
+7.2.3	EQUIPAMENTOS				
+	Fornecimento e instalação de calha Parshall em fibra de vidro com garganta W=9", conforme projeto	un   	1	6132.36	6132.36
+	Fornecimento e instalação de sensor ultrasônico, para canal aberto, adequado para calha, fórmula de Manning, com leitura dígital de nível, taxa de vazão e totalização mecânica do volume, totalizador de vazão. Saída de 4 a 20 mA, saída RS-232 e saída remota. Energia 110ou 220 Vac, 50/60 Hz, inclusive cabo de conexão para automação	un   	1	5339.26	5339.26
+	TOTAL DOS EQUIPAMENTOS				11471.619999999999
+	TOTAL DO ÌTEM 7.2				100666.01
+7.3	RALF				
+7.3.1	SERVIÇOS				
+7.3.1.1	SERVIÇOS TÉCNICOS				
+02.02.0010	Ensaio de concreto a compressão	un   	28	9.07	253.96
+02.02.0015	Ensaio de concreto a consistência (slump test)	un   	12	41.6	499.2
+02.04.0050	Locação de obras civis	m2   	450	2.97	1336.5
+02.05.0100	Cadastro de geral da obra	m2   	450	1.29	580.5
+	SUBTOTAL				2670.16
+7.3.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	975.35	0.31	302.36
+	SUBTOTAL				302.36
+7.3.1.3	MOVIMENTO DE TERRA				
+04.01.0011	Escavação manual de área em solo de qualquer natureza, exceto rocha, com prof. até 1,50m	m3   	34	13.34	453.56
+04.01.0030	Escavação mecanizada de área em solo de qualquer natureza, exceto rocha	m3   	1282.45	2.2	2821.39
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	22.4	6.07	135.97
+04.03.0004	Compactação mecanizada em áreas sem controle do GC	m3   	132.45	1.48	196.03
+04.05.0011	Carga e descarga de solo	m3   	1150	1.27	1460.5
+04.05.0061	Transporte de material escavado-solos	m3xkm	3450	0.86	2967
+	SUBTOTAL				8034.45
+7.3.1.4	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	14.25	79.09	1127.03
+08.03.0030	Lastro de pedra de mão	m3   	47.5	71.08	3376.3
+08.03.0040	Lastro de concreto não estrutural	m3   	47.5	254.09	12069.28
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	16.8	30.13	506.18
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	426.4	59.72	25464.61
+08.04.0400	Forma curva compensada resinada 12mm, com reutilização duas vezes	m2   	75.2	75.15	5651.28
+08.04.0600	Cimbramento de madeira	m3   	1205.28	25.24	30421.27
+08.05.0010	Armadura CA-60	kg   	702.5	8.94	6280.35
+08.05.0020	Armadura CA-50 (A ou B)	kg   	26307.2	8.31	218612.83
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	2.1	244.47	513.39
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	256.8	415.78	106772.3
+08.08.0100	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 3,51 m à 4,00m, com tampão de ferro fundido T-137	un   	1	1340.47	1340.47
+08.08.0140	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,20m, profundidade de 3,51 m à 4,00 m, inclusive tampão de ferro fundido T-137	un   	1	1734.34	1734.34
+	SUBTOTAL				413869.63
+7.3.1.5	FECHAMENTO				
+12.04.0460	Fornecimento e instalação de tampa metálica em alumínio com guarnição, dobradiça e fechadura	m2   	3.84	1071.45	4114.37
+	Fornecimento e colocação de placas de concreto armado e= 5 cm	m2   	26.97	58.26	1571.27
+	SUBTOTAL				5685.639999999999
+7.3.1.6	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	61.9	17.52	1084.49
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	1776.2	39.08	69413.9
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	511.9	4.47	2288.19
+13.03.0200	Pintura látex duas demãos	m2   	130	7.09	921.7
+13.03.0700	Pintura em tubulações e conexões de ferro fundido com tinta esmalte em duas demãos	m2   	2	18.9	37.8
+	SUBTOTAL				73746.08
+7.3.1.7	INSTALAÇÕES ELÉTRICAS				
+14.01.0010	Fornecimento e assentamento de eletroduto PVC roscável Ø=1/2''	m    	40	4.09	163.6
+14.02.0010	Fornecimento e colocação de cabo de cobre 2,5mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	80	2.38	190.4
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	3	152.32	456.96
+	SUBTOTAL				810.96
+7.3.1.8	INSTALAÇÕES HIDRÁULICAS				
+14.71.0075	Fornecimento e assentamento de tubo de PVC rígido soldável (NBR-5648) Ø=75mm	m    	366	28.38	10387.08
+14.75.0075	Fornecimento e colocação de curva 45º PVC soldável Ø=75mm	un   	24	29.21	701.04
+14.76.0075	Fornecimento e colocação de curva 90º PVC soldável Ø=75mm	un   	24	36.73	881.52
+	SUBTOTAL				11969.64
+7.3.1.9	INSTALAÇÃO DE PRODUÇÃO				
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	55	0.68	37.4
+15.03.0002	Montagem tubulações e conexões FºFº DN 200 a 350	kg   	580	1.07	620.6
+15.03.0003	Montagem tubulações e conexões FºFº DN 400 a 600	kg   	1410	1.67	2354.7
+	SUBTOTAL				3012.7
+7.3.1.10	SERVIÇOS DIVERSOS				
+	Fornecimento e colocação de chapas divisórias de vazão	un   	60	11.83	709.8
+	Fornecimento e instalação de vertedouro central em alumínio, e=2,5 mm, h=150 mm e L=2.922 mm	m	11.69	127.4	1489.31
+	Fornecimento e instalação de vertedouro periférico em alumínio, e=2,5 mm, h=150 mm e L=2.990 mm	m	68.77	156.18	10740.5
+	Fornecimento e instalação de defletor de escuma em alumínio, e=2,5 mm, h=250 mm 	m	68.54	213.05	14602.45
+	Fornecimento e colocação de fixadores no fundo do reator, com tubos em PVC, e peças de alimínio	un   	60	23.54	1412.4
+	Fornecimento e colocação de placas de concreto armado (60x60x6) cm	m2   	3.6	69.91	251.68
+	Fornecimento e instalação de lonil, inclusive dispositivos de sustentação	m2   	175.47	128.61	22567.2
+	Fornecimento e instalação de faíscador para queimador de gás, intermitência da faísca de 3 em 3 segundos, tipo bobina para cerca elétrica	un   	1	673.75	673.75
+	Fornecimento e instalação de queimador de gás	un   	1	937.5	937.5
+	Fornecimento e instalação de válvula corta-chama de 3"	un   	1	5005.37	5005.37
+	SUBTOTAL				58389.96000000001
+	TOTAL DOS SERVIÇOS				578491.5800000001
+7.3.2	MATERIAIS				
+33.00.0020	Tubo de ferro fundido K7 JE DN 200, L=6,00m	pç	1	1544.32	1544.32
+33.00.0040	Tubo de ferro fundido K7 JE DN 400, L=6,00m	pç	6	3271.73	19630.38
+33.00.2020	Cap ferro fundido com junta elástica DN 200 - K JE	un   	2	242.85	485.7
+33.00.3140	Curva 22º30' ferro fundido com bolsas, DN 400 - C22 JE  BB	un   	2	1278.73	2557.46
+33.00.3220	Curva 45º ferro fundido com bolsas, DN 200 - C45 JE  BB	un   	4	448.56	1794.24
+33.00.3240	Curva 45º ferro fundido com flanges PN10, DN 400 -  C45 FF10	un   	1	1500.83	1500.83
+33.00.3340	Curva 90º ferro fundido com bolsas, DN 400 - C90 JE  BB	un   	2	3121.84	6243.68
+33.00.4008	Extremidade ferro fundido ponta/flange PN10, DN 80 - EFP10	un   	1	154.85	154.85
+33.00.4508	Flange avulso ferro fundido PN10, DN 80 - FA10	un   	1	57.79	57.79
+33.00.5520	Luva ferro fundido com bolsas, DN 200 - LJE	un   	1	459.74	459.74
+33.00.7150	Tê ferro fundido com bolsas DN 200x200 - T JE BBB	un   	2	658.94	1317.88
+33.01.1670	Registro com flanges/volante, cunha de borracha,corpo curto, PN-10, tipo EURO 23- REUROCV10 - DN 200	un   	2	1418.64	2837.28
+33.02.0620	Acessórios p/ flanges PN10, DN 200	Cj   	1	69.93	69.93
+	Tubo F.º F.º, FP, PN10, DN 400, L=1,00 m	un   	1	1848.46	1848.46
+	Tubo F.º F.º, FP, PN10, DN 400, L=0,70 m	un   	1	1848.46	1848.46
+	Tubo F.º F.º, PP, DN 400, L=4,45 m	un   	1	3033.69	3033.69
+	Tubo F.º F.º, PP, DN 400, L=4,15 m	un   	1	3005.95	3005.95
+	Tubo F.º F.º, PP, DN 400, L=1,60 m	un   	1	1280.78	1280.78
+	Tubo F.º F.º, PP, DN 400, L=0,70 m	un   	1	702.03	702.03
+	Tubo F.º F.º, PP, DN 400, L=0,40 m	un   	1	684.29	684.29
+	Tubo F.º F.º, FP, PN10, DN 200, L=0,70 m	un   	1	918.14	918.14
+	Tubo F.º F.º, FP, PN10, DN 200, L=0,50 m	un   	1	918.14	918.14
+	Tubo F.º F.º, PP, DN 200, L=4,40 m	un   	1	1579.89	1579.89
+	Tubo F.º F.º, PB, DN 200, L=3,35 m	un   	1	1930.4	1930.4
+	Tubo F.º F.º, PP, DN 200, L=2,70 m	un   	1	1009.15	1009.15
+	Tubo F.º F.º, PB, DN 200, L=2,50 m	un   	1	1749.35	1749.35
+	Tubo F.º F.º, PP, DN 200, L=2,00 m	un   	1	730.01	730.01
+	Tubo F.º F.º, PP, DN 200, L=1,90 m	un   	1	725.91	725.91
+	Tubo F.º F.º, FP, PN10, DN 80, L=3,00 m	un   	1	893.49	893.49
+	TOTAL DOS MATERIAIS				61512.219999999994
+	TOTAL DO ÌTEM 7.3				640003.8
+7.4	CDFL - 1				
+7.4.1	SERVIÇOS				
+7.4.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	14.25	2.97	42.32
+02.05.0100	Cadastro de geral da obra	m2   	14.25	1.29	18.38
+	SUBTOTAL				60.7
+7.4.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	30	0.31	9.3
+	SUBTOTAL				9.3
+7.4.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	4.2	14.03	58.93
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	88.56	6.07	537.56
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	14.81	7.17	106.19
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	4.2	9.57	40.19
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	68.57	5.88	403.19
+04.05.0011	Carga e descarga de solo	m3   	34.8	1.27	44.2
+04.05.0061	Transporte de material escavado-solos	m3xkm	104.4	0.86	89.78
+	SUBTOTAL				1280.04
+7.4.1.4	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	2.15	79.09	170.04
+08.03.0040	Lastro de concreto não estrutural	m3   	1	254.09	254.09
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	2.6	30.13	78.34
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	77.14	59.72	4606.8
+08.05.0010	Armadura CA-60	kg   	21.7	8.94	194
+08.05.0020	Armadura CA-50 (A ou B)	kg   	601.1	8.31	4995.14
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.1	244.47	24.45
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	8.19	415.78	3405.24
+	SUBTOTAL				13728.1
+7.4.1.5	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	15.8	17.52	276.82
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	54.7	39.08	2137.68
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	15.8	4.47	70.63
+13.03.0200	Pintura látex duas demãos	m2   	4	7.09	28.36
+	SUBTOTAL				2513.4900000000002
+7.4.1.6	SERVIÇOS DIVERSOS				
+	Fornecimento e colocação de grelha de piso, malha 25 mm, espessura 2 mm, conforme projeto	m2   	3.75	1634.42	6129.08
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (1,00x0,40) m	un   	2	6616.3	13232.6
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (1,00x0,70) m	un   	1	11578.52	11578.52
+	SUBTOTAL				30940.2
+	TOTAL DOS SERVIÇOS				48531.83
+7.4.2	MATERIAIS				
+33.00.2030	Cap ferro fundido com junta elástica DN 300 - K JE	un   	1	552.73	552.73
+33.00.3715	Curva 90º ferro fundido com flanges PN10, DN 150 -  C90 FF10	un   	1	365.01	365.01
+33.00.4110	Extremidade ferro fundido ponta/flange c/ aba de vedação PN10, DN 100 - EPFAV10	un   	1	279.93	279.93
+33.00.6525	Redução concêntrica ferro fundido com flanges PN10,  DN 150x100 - RFF10	un   	1	245.6	245.6
+33.00.8030	Tê ferro fundido com flanges PN10, DN 150x50 - TFF10	un   	1	667.28	667.28
+33.01.1660	Registro com flanges/volante, cunha de borracha,corpo curto, PN-10, tipo EURO 23 REUROCV10 - DN 100	un   	1	545.84	545.84
+33.01.1665	Registro com flanges/volante, com cunha de borracha,corpo curto, PN-10, tipo EURO 23- REUROCV10 - DN 150	un   	1	802.79	802.79
+	Tubo F.º F.º, FF, PN10, DN 150, L=0,25 m	un   	1	1093.28	1093.28
+	Tubo F.º F.º, PP, DN 300, L=1,00 m	un   	4	519.36	2077.44
+	TOTAL DOS MATERIAIS				6629.9
+	TOTAL DO ÌTEM 7.4				55161.73
+7.5	FILTRO BIOLÓGICO				
+7.5.1	SERVIÇOS				
+7.5.1.1	SERVIÇOS TÉCNICOS				
+02.02.0010	Ensaio de concreto a compressão	un   	18	9.07	163.26
+02.02.0015	Ensaio de concreto a consistência (slump test)	un   	8	41.6	332.8
+02.04.0050	Locação de obras civis	m2   	237	2.97	703.89
+02.05.0100	Cadastro de geral da obra	m2   	237	1.29	305.73
+	SUBTOTAL				1505.68
+7.5.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	350	0.31	108.5
+	SUBTOTAL				108.5
+7.5.1.3	MOVIMENTO DE TERRA				
+04.01.0011	Escavação manual de área em solo de qualquer natureza, exceto rocha, com prof. até 1,50m	m3   	25.4	13.34	338.84
+04.01.0030	Escavação mecanizada de área em solo de qualquer natureza, exceto rocha	m3   	1224.9	2.2	2694.78
+04.03.0004	Compactação mecanizada em áreas sem controle do GC	m3   	405.63	1.48	600.33
+04.05.0011	Carga e descarga de solo	m3   	975.3	1.27	1238.63
+04.05.0061	Transporte de material escavado-solos	m3xkm	2925.9	0.86	2516.27
+	SUBTOTAL				7388.85
+7.5.1.4	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	35.67	79.09	2821.14
+08.03.0030	Lastro de pedra de mão	m3   	71.34	71.08	5070.85
+08.03.0040	Lastro de concreto não estrutural	m3   	16.65	254.09	4230.6
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	22.5	30.13	677.93
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	32.6	59.72	1946.87
+08.04.0400	Forma curva compensada resinada 12mm, com reutilização duas vezes	m2   	842	75.15	63276.3
+08.04.0600	Cimbramento de madeira	m3   	415.6	25.24	10489.74
+08.05.0010	Armadura CA-60	kg   	218.7	8.94	1955.18
+08.05.0020	Armadura CA-50 (A ou B)	kg   	13047.3	8.31	108423.06
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.8	244.47	195.58
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	136	415.78	56546.08
+08.08.2340	Fornecimento e colocação de placa pré-moldada "in loco", em concreto armado, com furos Ø=40 mm, apoiada em pilaretes	un   	79	921.94	72833.26
+	SUBTOTAL				328466.58999999997
+7.5.1.5	FECHAMENTO				
+12.10.0003	Argamassa de cimento e areia traço 1:3	m3   	24	352.86	8468.64
+	SUBTOTAL				8468.64
+7.5.1.6	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	45.75	17.52	801.54
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	1143.54	39.08	44689.54
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	45.75	4.47	204.5
+13.03.0200	Pintura látex duas demãos	m2   	80.9	7.09	573.58
+13.03.0700	Pintura em tubulações e conexões de ferro fundido com tinta esmalte em duas demãos	m2   	4	18.9	75.6
+	SUBTOTAL				46344.76
+7.5.1.7	INSTALAÇÕES ELÉTRICAS				
+14.01.0010	Fornecimento e assentamento de eletroduto PVC roscável Ø=1/2''	m    	40	4.09	163.6
+14.02.0010	Fornecimento e colocação de cabo de cobre 2,5mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	80	2.38	190.4
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	3	152.32	456.96
+	SUBTOTAL				810.96
+7.5.1.8	INSTALAÇÃO DE PRODUÇÃO				
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	55	0.68	37.4
+15.03.0002	Montagem tubulações e conexões FºFº DN 200 a 350	kg   	580	1.07	620.6
+15.03.0003	Montagem tubulações e conexões FºFº DN 400 a 600	kg   	1410	1.67	2354.7
+	SUBTOTAL				3012.7
+7.5.1.9	SERVIÇOS DIVERSOS				
+99.00.1877	Fornecimento e instalação de materiais filtrantes - brita 4	m3   	473	44.15	20882.95
+	Fornecimento e colocação de grelha metálica, incluindo quadro para suporte e encaixe da tampa com cantoneira	m2  	2.1	1634.42	3432.28
+	Fornecimento e colocação de comporta de fibra de vidro, conforme detalhes, (300x600) mm	un   	1	739.29	739.29
+	SUBTOTAL				25054.52
+	TOTAL DOS SERVIÇOS				421161.20000000007
+7.5.2	MATERIAIS				
+33.00.0030	Tubo de ferro fundido K7 JE DN 300, L=6,00m	pç	2	2307.53	4615.06
+33.00.3730	Curva 90º ferro fundido com flanges PN10, DN 300 -  C90 FF10	un   	1	1017.26	1017.26
+33.00.7195	Tê ferro fundido com bolsas DN 250x250 - T JE BBB	un   	1	988.89	988.89
+33.02.0630	Acessórios p/ flanges PN10, DN 300	Cj   	5	108.35	541.75
+	Tubo F.º F.º, FP, PN10, DN 300, L=2,80 m	un   	1	2305.29	2305.29
+	Tubo F.º F.º, FP, PN10, DN 300, L=2,50 m	un   	1	1483.95	1483.95
+	Tubo F.º F.º, FP, PN10, DN 300, L=1,75 m	un   	1	1252.56	1252.56
+	Tubo F.º F.º, FP, PN10, DN 300, L=0,50 m	un   	1	797.44	797.44
+	Tubo F.º F.º, PP, DN 300, L=1,00 m	un   	1	797.44	797.44
+	TOTAL DOS MATERIAIS				13799.640000000001
+7.5.3	EQUIPAMENTOS				
+	Fornecimento e instalação de conjunto distribuidor rotativo para o filtro biológico aerado com diâmetro do tanque Ø=15 m, conforme projeto e especificação técnica	Cj   	1	161764.07	161764.07
+	TOTAL DOS EQUIPAMENTOS				161764.07
+	TOTAL DO ÌTEM 7.5				596724.9100000001
+7.6	CDFL - 2				
+7.6.1	SERVIÇOS				
+7.6.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	11.1	2.97	32.97
+02.05.0100	Cadastro de geral da obra	m2   	11.1	1.29	14.32
+	SUBTOTAL				47.29
+7.6.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	25	0.31	7.75
+	SUBTOTAL				7.75
+7.6.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	2.8	14.03	39.28
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	60.5	6.07	367.24
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	8.9	7.17	63.81
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	2.8	9.57	26.8
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	40.8	5.88	239.9
+04.05.0011	Carga e descarga de solo	m3   	28.6	1.27	36.32
+04.05.0061	Transporte de material escavado-solos	m3xkm	85.8	0.86	73.79
+	SUBTOTAL				847.14
+7.6.1.4	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	1.7	79.09	134.45
+08.03.0040	Lastro de concreto não estrutural	m3   	0.8	254.09	203.27
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	2.1	30.13	63.27
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	21.88	59.72	1306.67
+08.05.0010	Armadura CA-60	kg   	19.5	8.94	174.33
+08.05.0020	Armadura CA-50 (A ou B)	kg   	363.8	8.31	3023.18
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.1	244.47	24.45
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	5.95	415.78	2473.89
+	SUBTOTAL				7403.51
+7.6.1.5	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	13.28	17.52	232.67
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	48.9	39.08	1911.01
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	13.28	4.47	59.36
+13.03.0200	Pintura látex duas demãos	m2   	4	7.09	28.36
+	SUBTOTAL				2231.4
+7.6.1.6	SERVIÇOS DIVERSOS				
+	Fornecimento e colocação de grelha de piso, malha 25 mm, espessura 2 mm, conforme projeto	m2   	2.7	1634.42	4412.93
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (0,80x0,65) m	un   	2	8601.19	17202.38
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (0,80x0,60) m	un   	1	7939.56	7939.56
+	SUBTOTAL				29554.870000000003
+	TOTAL DOS SERVIÇOS				40091.96000000001
+7.6.2	MATERIAIS				
+33.00.2030	Cap ferro fundido com junta elástica DN 300 - K JE	un   	2	574.83	1149.66
+	Tubo F.º F.º, PP, DN 300, L=1,00 m	un   	5	519.36	2596.8
+	TOTAL DOS MATERIAIS				3746.46
+	TOTAL DO ÌTEM 7.6				43838.420000000006
+7.7	DECANTADOR SECUNDÁRIO				
+7.7.1	SERVIÇOS				
+7.7.1.1	SERVIÇOS TÉCNICOS				
+02.02.0010	Ensaio de concreto a compressão	un   	20	9.07	181.4
+02.02.0015	Ensaio de concreto a consistência (slump test)	un   	8	41.6	332.8
+02.04.0050	Locação de obras civis	m2   	195.1	2.97	579.45
+02.05.0100	Cadastro de geral da obra	m2   	195.1	1.29	251.68
+	SUBTOTAL				1345.3300000000002
+7.7.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	250	0.31	77.5
+	SUBTOTAL				77.5
+7.7.1.3	MOVIMENTO DE TERRA				
+04.01.0011	Escavação manual de área em solo de qualquer natureza, exceto rocha, com prof. até 1,50m	m3   	25.4	13.34	338.84
+04.01.0030	Escavação mecanizada de área em solo de qualquer natureza, exceto rocha	m3   	2229.8	2.2	4905.56
+04.03.0004	Compactação mecanizada em áreas sem controle do GC	m3   	285.85	1.48	423.06
+04.05.0011	Carga e descarga de solo	m3   	1699.65	1.27	2158.56
+04.05.0061	Transporte de material escavado-solos	m3xkm	5098.95	0.86	4385.1
+	SUBTOTAL				12211.12
+7.7.1.4	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	29.3	79.09	2317.34
+08.03.0030	Lastro de pedra de mão	m3   	58.53	71.08	4160.31
+08.03.0040	Lastro de concreto não estrutural	m3   	13.7	254.09	3481.03
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	18.6	30.13	560.42
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	48.3	59.72	2884.48
+08.04.0400	Forma curva compensada resinada 12mm, com reutilização duas vezes	m2   	428.6	75.15	32209.29
+08.04.0600	Cimbramento de madeira	m3   	390.5	25.24	9856.22
+08.05.0010	Armadura CA-60	kg   	218.7	8.94	1955.18
+08.05.0020	Armadura CA-50 (A ou B)	kg   	6435.8	8.31	53481.5
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	1.2	244.47	293.36
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	95	415.78	39499.1
+	SUBTOTAL				150698.23
+7.7.1.5	FECHAMENTO				
+12.10.0003	Argamassa de cimento e areia traço 1:3	m3   	2	352.86	705.72
+	SUBTOTAL				705.72
+7.7.1.6	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	42.7	17.52	748.1
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	412.6	39.08	16124.41
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	42.7	4.47	190.87
+13.03.0200	Pintura látex duas demãos	m2   	80.9	7.09	573.58
+13.03.0700	Pintura em tubulações e conexões de ferro fundido com tinta esmalte em duas demãos	m2   	4	18.9	75.6
+	SUBTOTAL				17712.559999999998
+7.7.1.7	INSTALAÇÕES ELÉTRICAS				
+14.01.0010	Fornecimento e assentamento de eletroduto PVC roscável Ø=1/2''	m    	40	4.09	163.6
+14.02.0010	Fornecimento e colocação de cabo de cobre 2,5mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	80	2.38	190.4
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	3	152.32	456.96
+	SUBTOTAL				810.96
+7.7.1.8	INSTALAÇÃO DE PRODUÇÃO				
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	55	0.68	37.4
+15.03.0002	Montagem tubulações e conexões FºFº DN 200 a 350	kg   	580	1.07	620.6
+15.03.0003	Montagem tubulações e conexões FºFº DN 400 a 600	kg   	1410	1.67	2354.7
+	SUBTOTAL				3012.7
+7.7.1.9	SERVIÇOS DIVERSOS				
+	Fornecimento e instalação de vertedouro periférico em alumínio, e=2,5 mm, h=200 mm e L=2922 mm	m    	43.83	156.18	6845.37
+	Fornecimento e instalação de cortina defletora em alumínio, e=2,5 mm e h=250 mm, inclusive fixadores e acessórios	m    	42.73	213.05	9103.63
+	SUBTOTAL				15949
+	TOTAL DOS SERVIÇOS				202523.12000000002
+7.7.2	MATERIAIS				
+33.00.0015	Tubo de ferro fundido K7 JE DN 150, L=6,00m	pç	2	1205.55	2411.1
+33.00.3130	Curva 22º 30' ferro fundido com bolsas, DN 300 - C45 JE  BB	un   	1	671.3	671.3
+33.00.3215	Curva 45º ferro fundido com bolsas, DN 150 - C45 JE  BB	un   	2	295.86	591.72
+33.00.3230	Curva 45º ferro fundido com bolsas, DN 300 - C45 JE  BB	un   	1	1546.28	1546.28
+33.00.3315	Curva 90º ferro fundido com bolsas, DN 150 - C90 JE  BB	un   	1	347.34	347.34
+33.00.3930	Extremidade ferro fundido bolsa/flange PN10, DN 300  - EBF10	un   	1	603.73	603.73
+33.00.4530	Flange avulso ferro fundido PN10, DN 300 - FA10	un   	1	265.88	265.88
+33.00.5515	Luva ferro fundido com bolsas, DN 150 - LJE	un   	1	307.84	307.84
+33.00.5520	Luva ferro fundido com bolsas, DN 200 - LJE	un   	1	459.74	459.74
+33.01.1620	Registro com flanges/cabeçote em ferro fundido, cunha de borracha, corpo curto tipo EURO 23, PN10, DN 150 - REUROCC10	un   	2	740.85	1481.7
+	Válvula de guilhotina série 1800 STANDARD, com atuador elétrico, PN 10, DN 150 mm	un   	1	18640	18640
+33.02.0615	Acessórios p/ flanges PN10, DN 150	Cj   	1	67.2	67.2
+33.02.0630	Acessórios p/ flanges PN10, DN 300	Cj   	1	108.35	108.35
+	Tubo F.º F.º, PP, DN 300, L=1,00 m	un   	1	519.36	519.36
+	Tubo F.º F.º, PP, DN 200, L=1,00 m	un   	2	439.88	879.76
+	Tubo F.º F.º, FP, PN10, DN 150, L=1,20 m	un   	1	875.49	875.49
+	Tubo F.º F.º, FP, PN10, DN 150, L=0,60 m	un   	1	750.68	750.68
+	Tubo F.º F.º, FP, PN10, DN 150, L=0,25 m	un   	1	750.68	750.68
+	Tubo F.º F.º, PP, DN 150, L=2,15 m	un   	1	786.93	786.93
+	Tubo F.º F.º, PP, DN 150, L=1,00 m	un   	1	298.05	298.05
+	Tubo F.º F.º, PP, DN 150, L=0,60 m	un   	1	287.59	287.59
+	Tubo F.º F.º, PP, DN 150, L=0,50 m	un   	1	285.8	285.8
+	TOTAL DOS MATERIAIS				32936.52
+7.7.3	EQUIPAMENTOS				
+	Fornecimento e instalação de conjunto removedor de lodo para tanques tipo RTP com diâmetro do tanque Ø=14 m, conforme projeto e especificação técnica	Cj   	1	192326.75	192326.75
+	TOTAL DOS EQUIPAMENTOS				192326.75
+	TOTAL DO ITEM 7.7				427786.39
+7.8	ESTAÇÃO ELEVATÓRIA LODO EXCEDENTE RECIRCULAÇÃO				
+7.8.1	SERVIÇOS				
+7.8.1.1	SERVIÇOS TÉCNICOS				
+02.02.0010	Ensaio de concreto a compressão	un   	8	9.07	72.56
+02.02.0015	Ensaio de concreto a consistência (slump test)	un   	4	41.6	166.4
+02.04.0050	Locação de obras civis	m2   	12	2.97	35.64
+02.05.0100	Cadastro de geral da obra	m2   	12	1.29	15.48
+	SUBTOTAL				290.08000000000004
+7.8.1.2	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	2.2	14.03	30.87
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	67.68	6.07	410.82
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	9.8	7.17	70.27
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	6.2	9.57	59.33
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	12.4	5.88	72.91
+04.05.0011	Carga e descarga de solo	m3   	61.08	1.27	77.57
+04.05.0061	Transporte de material escavado-solos	m3xkm	183.24	0.86	157.59
+	SUBTOTAL				879.36
+7.8.1.3	FUNDAÇÕES ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	1.55	79.09	122.59
+08.03.0030	Lastro de pedra de mão	m3   	3	71.08	213.24
+08.03.0040	Lastro de concreto não estrutural	m3   	0.8	254.09	203.27
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	2.1	30.13	63.27
+08.04.0400	Forma curva compensada resinada 12mm, com reutilização duas vezes	m2   	59.3	75.15	4456.4
+08.04.0600	Cimbramento de madeira	m3   	3.5	25.24	88.34
+08.05.0010	Armadura CA-60	kg   	100	8.94	894
+08.05.0020	Armadura CA-50 (A ou B)	kg   	780	8.31	6481.8
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.08	244.47	19.56
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	11.9	415.78	4947.78
+	SUBTOTAL				17490.25
+7.8.1.4	FECHAMENTO				
+12.04.0460	Fornecimento e instalação de tampa metálica em alumínio com guarnição, dobradiça e fechadura	m2   	2.52	1017.45	2563.97
+	SUBTOTAL				2563.97
+7.8.1.5	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	9.9	17.52	173.45
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	32.6	39.08	1274.01
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	9.9	4.47	44.25
+	SUBTOTAL				1491.71
+7.8.1.6	INSTALAÇÕES ELÉTRICAS				
+14.01.0010	Fornecimento e assentamento de eletroduto PVC roscável Ø=1/2''	m    	30	4.09	122.7
+14.02.1215	Fornecimento e colocação de cabo de cobre 3x6,00 mm2, ST1-1000V, têmpera mole, recoberto por composto termoplástico PVC 70°C + capa interna + cobertura termoplástica	m   	60	13.05	783
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	2	152.32	304.64
+	SUBTOTAL				1210.3400000000001
+7.8.1.7	INSTALAÇÕES HIDRÁULICAS				
+14.82.0090	Fornecimento e colocação de tubo ferro galvanizado Ø=4''	m    	0.4	168.21	67.28
+14.84.0047	Fornecimento e colocação de bucha de redução ferro galvanizado Ø=4''x3"	un   	1	65.17	65.17
+14.87.0090	Fornecimento e colocação de flange sextavada em ferro galvanizado Ø=4''	un   	1	92.25	92.25
+14.89.0090	Fornecimento e colocação de niple duplo ferro galvanizado Ø=4''	un   	1	80.37	80.37
+	SUBTOTAL				305.07
+7.8.1.8	INSTALAÇÃO DE PRODUÇÃO				
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	420	0.68	285.6
+	SUBTOTAL				285.6
+7.8.1.9	SERVIÇOS DIVERSOS				
+17.01.0150	Fornec.  e colocação  de braço giratório com base fixa até 750 Kgf com h=3,00 m e braço de 3,00 m, sendo a lança giratória de 360º	un   	1	19342.86	19342.86
+17.01.0200	Fornecimento e instalação de talha manual com capacidade de 500 kg, com troley manual	un   	1	1402.95	1402.95
+	Fornecimento e instalação de mangote flexível, DN 100 mm	m	1.35	54	72.9
+	SUBTOTAL				20818.710000000003
+	TOTAL DOS SERVIÇOS				45335.09
+7.8.2	MATERIAIS				
+33.00.3210	Curva 45º ferro fundido com bolsas, DN 100 - C45 JE  BB	un   	2	195.3	390.6
+33.00.3310	Curva 90º ferro fundido com bolsas, DN 100 - C90 JE  BB	un   	3	193.15	579.45
+33.00.3715	Curva 90º ferro fundido com flanges PN10, DN 150 -  C90 FF10	un   	1	365.01	365.01
+33.00.4515	Flange avulso ferro fundido PN10, DN 150 - FA10	un   	2	105.46	210.92
+33.00.6525	Redução concêntrica ferro fundido com flanges PN10,  DN 150x100 - RFF10	un   	2	245.6	491.2
+33.00.8025	Tê ferro fundido com flanges PN10, DN 100x100 - TFF10	un   	1	276.03	276.03
+33.00.8040	Tê ferro fundido com flanges PN10, DN 150x100 - TFF10	un   	1	383.49	383.49
+33.01.1620	Registro com flanges/cabeçote em ferro fundido, cunha de borracha, corpo curto tipo EURO 23, PN10, DN 150 - REUROCC10	un   	1	740.85	740.85
+33.01.1660	Registro com flanges/volante, cunha de borracha,corpo curto, PN-10, tipo EURO 23 REUROCV10 - DN 100	un   	2	545.84	1091.68
+33.01.3210	Válvula de retenção portinhola única c/ flanges VRPUS 10, DN 100	un   	1	1500	1500
+33.01.3215	Válvula de retenção portinhola única c/ flanges VRPUS 10,  DN 150	un   	1	2255	2255
+33.02.0610	Acessórios p/ flanges PN10, DN 100	Cj   	10	42.68	426.8
+33.02.0615	Acessórios p/ flanges PN10, DN 150	Cj   	8	67.2	537.6
+	Tubo F.º F.º, PP, DN 200, L=1,00 m	un   	4	439.88	1759.52
+	Tubo F.º F.º, FF, PN10, DN 150, L=1,00 m	un   	1	1093.28	1093.28
+	Tubo F.º F.º, FF, PN10, DN 150, L=0,55 m	un   	1	1093.28	1093.28
+	Tubo F.º F.º, FF, PN10, DN 100, L=0,15 m	un   	1	283.5	283.5
+	Tubo F.º F.º, FP, PN10, DN 100, L=1,10 m	un   	1	703.3	703.3
+	Tubo F.º F.º, FP, PN10, DN 100, L=0,20 m	un   	2	607.15	1214.3
+	Tubo FF, PP, DN 100, L=0,50 m	un   	1	293.05	293.05
+	Tubo FF, PP, DN 100, L=0,25 m	un   	1	291.03	291.03
+	TOTAL DOS MATERIAIS				15979.89
+7.8.3	EQUIPAMENTOS				
+35.06.0106	Fornecimento, transporte e instalação do quadro de comando duplo, partida direta, para bomba de eixo horizontal até 5,00 cv	un   	1	2168.56	2168.56
+35.06.0110	Fornecimento, transporte e instalação do quadro de comando duplo, partida compensada, para bomba de eixo horizontal até 10,00 cv	un   	1	6094.29	6094.29
+	Fornecimento, transporte e instalação de conjunto moto-bomba submersível para esgoto, Q=20,00 L/s, HMT=10 mca, P=10,00 cv	cj	2	10395.84	20791.68
+	Fornecimento, transporte e instalação de conjunto moto-bomba submersível para esgoto, Q=6,00 L/s, HMT=10 mca, P=3,70 cv	cj	2	5453.18	10906.36
+	Regulador de nível com micro-interruptor, com invólucro de polipropileno (não aderente) resistente a líquidos agressivos, funcionamento submersível e auto-limpante para evitar interrupção durante a operação do sistema em decorrência de gordura e sólidos existentes na superfície do NA	un   	3	446.12	1338.36
+	TOTAL DOS EQUIPAMENTOS				41299.25
+	TOTAL DO ÌTEM 7.8				102614.23
+7.9	CDFL - 3				
+7.9.1	SERVIÇOS				
+7.9.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	9	2.97	26.73
+02.05.0100	Cadastro de geral da obra	m2   	9	1.29	11.61
+	SUBTOTAL				38.34
+7.9.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	20	0.31	6.2
+	SUBTOTAL				6.2
+7.9.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	1.2	14.03	16.84
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	38.4	6.07	233.09
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	8.9	7.17	63.81
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	1.2	9.57	11.48
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	18.7	5.88	109.96
+04.05.0011	Carga e descarga de solo	m3   	28.6	1.27	36.32
+04.05.0061	Transporte de material escavado-solos	m3xkm	85.8	0.86	73.79
+	SUBTOTAL				545.29
+7.9.1.4	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	1.4	79.09	110.73
+08.03.0040	Lastro de concreto não estrutural	m3   	0.7	254.09	177.86
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	1.8	30.13	54.23
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	46.23	59.72	2760.86
+08.05.0010	Armadura CA-60	kg   	26.4	8.94	236.02
+08.05.0020	Armadura CA-50 (A ou B)	kg   	295.6	8.31	2456.44
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.05	244.47	12.22
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	5.14	415.78	2137.11
+	SUBTOTAL				7945.470000000001
+7.9.1.5	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	8.3	17.52	145.42
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	42.1	39.08	1645.27
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	8.3	4.47	37.1
+13.03.0200	Pintura látex duas demãos	m2   	4	7.09	28.36
+	SUBTOTAL				1856.1499999999999
+7.9.1.6	SERVIÇOS DIVERSOS				
+	Fornecimento e colocação de grelha de piso, malha 25 mm, espessura 2 mm, conforme projeto	m2   	3.3	1634.42	5393.59
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (1,00x0,40) m	un   	2	6616.3	13232.6
+	Fornecimento e instalação de comporta tipo nota musical em fibra de vidro, com haste e volante em aço inoxidável, guias em alumínio, parafusos e componentes em inox, vedação com borracha neoprene, nas dimensões (1,00x0,60) m	un   	1	9924.45	9924.45
+	SUBTOTAL				28550.640000000003
+	TOTAL DOS SERVIÇOS				38942.090000000004
+7.9.2	MATERIAIS				
+	Tubo F.º F.º, PP, DN 300, L=1,00 m	un   	2	519.36	1038.72
+	TOTAL DOS MATERIAIS				1038.72
+	TOTAL DO ÌTEM 7.9				39980.810000000005
+7.10	LEITO DE SECAGEM - 6 CÉLULAS				
+7.10.1	SERVIÇOS				
+7.10.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	191.58	2.97	568.99
+02.05.0100	Cadastro de geral da obra	m2   	191.58	1.29	247.14
+	SUBTOTAL				816.13
+7.10.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	250	0.31	77.5
+	SUBTOTAL				77.5
+7.10.1.3	MOVIMENTO DE TERRA				
+04.01.0011	Escavação manual de área em solo de qualquer natureza, exceto rocha, com prof. até 1,50m	m3   	106.8	13.34	1424.71
+04.01.0030	Escavação mecanizada de área em solo de qualquer natureza, exceto rocha	m3   	304.3	2.2	669.46
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	32.54	14.03	456.54
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	32.54	9.57	311.41
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	40.8	5.88	239.9
+04.05.0011	Carga e descarga de solo	m3   	370.3	1.27	470.28
+04.05.0061	Transporte de material escavado-solos	m3xkm	1110.9	0.86	955.37
+	SUBTOTAL				4527.67
+7.10.1.4	DRENAGEM				
+06.02.0060	Fornecimento e assentamento de tubo PVC corrugado DN 150	m    	132	35.72	4715.04
+	SUBTOTAL				4715.04
+7.10.1.5	FUNDAÇÕES E ESTRUTURAS				
+08.03.0040	Lastro de concreto não estrutural	m3   	28.14	254.09	7150.09
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	38.32	30.13	1154.58
+08.04.0020	Forma plana em madeira comum para estrutura, com reutilização duas vezes.	m2   	30.26	60.58	1833.15
+08.05.0010	Armadura CA-60	kg   	40.5	8.94	362.07
+08.05.0020	Armadura CA-50 (A ou B)	kg   	380.25	8.31	3159.88
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	5.15	415.78	2141.27
+08.08.0230	Caixa de inspeção Ø=0,60x0,90m com anel ponta e bolsa, fundo em concreto pré-moldado  e tampa de ferro fundido T-16, articulada e c/ trava	un   	12	308.83	3705.96
+	SUBTOTAL				19507
+7.10.1.6	ASSENTAMENTO				
+09.05.0015	Assentamento de tubos e conexões PVC/JEI esgoto DN 150	m    	33.2	2.07	68.72
+	SUBTOTAL				68.72
+7.10.1.7	FECHAMENTO				
+12.01.0130	Alvenaria de tijolo 8 furos assentado c/ argamassa de cimento, cal e areia, traço 1:2:8, e=10cm	m2   	54.15	27.78	1504.29
+	SUBTOTAL				1504.29
+7.10.1.8	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	48.9	17.52	856.73
+13.01.1000	Chapisco superfície c/ argamassa de cimento e areia, traço 1:3, e=5mm	m2   	114.96	3.35	385.12
+13.01.1010	Emboço paulista c/ argamassa de cimento, cal e areia, traço 1:4:12, e=2,5cm	m2   	114.96	18.33	2107.22
+13.02.0020	Impermeabilização empregando duas demãos de tinta asfáltica	m2   	52.7	5.4	284.58
+13.02.0110	Impermeabilização com Igol-Flex branco com uma demão (pode ficar esposto ao tempo)	m2   	76.64	39.79	3049.51
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	48.9	4.47	218.58
+13.03.0200	Pintura látex duas demãos	m2   	54.15	7.09	383.92
+13.03.0700	Pintura em tubulações e conexões de ferro fundido com tinta esmalte em duas demãos	m2   	48	18.9	907.2
+	Placa de concreto nas dimensões (80x80x5) cm	un   	6	58.26	349.56
+	SUBTOTAL				8542.42
+7.10.1.9	INSTALAÇÃO DE PRODUÇÃO				
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	890	0.68	605.2
+	SUBTOTAL				605.2
+7.10.1.10	SERVIÇOS DIVERSOS				
+99.00.1874	Fornecimento e instalação de materiais filtrantes - tijolo maciço comum	m3   	36	438.17	15774.12
+99.00.1875	Fornecimento e instalação de materiais filtrantes - areia média, diâmetro 0,43 a 2,00 mm	m3   	37.8	44.74	1691.17
+99.00.1876	Fornecimento e instalação de materiais filtrantes - brita 1	m3   	36	52.6	1893.6
+99.00.1877	Fornecimento e instalação de materiais filtrantes - brita 3	m3   	100	44.15	4415
+	SUBTOTAL				23773.89
+	TOTAL DOS SERVIÇOS				64137.86
+7.10.2	MATERIAIS				
+33.00.3315	Curva 90º ferro fundido com bolsas, DN 150 - C90 JE  BB	un   	1	254.51	254.51
+33.00.3715	Curva 90º ferro fundido com flanges PN10, DN 150 -  C90 FF10	un   	7	307.68	2153.76
+33.00.8045	Tê ferro fundido com flanges PN10, DN 150x150 - TFF10	un   	3	349.98	1049.94
+33.01.1665	Registro com flanges/volante, com cunha de borracha,corpo curto, PN-10, tipo EURO 23- REUROCV10 - DN 150	un   	6	802.79	4816.74
+33.02.0615	Acessórios p/ flanges PN10, DN 150	Cj   	26	67.2	1747.2
+	Tubo F.º F.º, FF, PN10, DN 150, L=5,65 m	un   	2	2295.6	4591.2
+	Tubo F.º F.º, FF, PN10, DN 150, L=3,95 m	un   	1	1846.61	1846.61
+	Tubo F.º F.º, FP, PN10, DN 150, L=1,30 m	un   	1	875.49	875.49
+	TOTAL DOS MATERIAIS				17335.450000000004
+	TOTAL DO ÌTEM 7.10				81473.31
+7.11	CAIXA DE AREIA				
+7.11.1	SERVIÇOS				
+7.11.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locação de obras civis	m2   	9.9	2.97	29.4
+02.05.0100	Cadastro de geral da obra	m2   	9.9	1.29	12.77
+	SUBTOTAL				42.17
+7.11.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	12	0.31	3.72
+	SUBTOTAL				3.72
+7.11.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	2	14.03	28.06
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	2	9.57	19.14
+	SUBTOTAL				47.2
+7.11.1.4	DRENAGEM				
+06.02.0060	Fornecimento e assentamento de tubo PVC corrugado DN 150	m    	3	35.72	107.16
+	SUBTOTAL				107.16
+7.11.1.5	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	1.5	79.09	118.64
+08.03.0040	Lastro de concreto não estrutural	m3   	0.7	254.09	177.86
+08.04.0010	Forma plana em madeira comum para fundação, com reutilização cinco vezes.	m2   	1.9	30.13	57.25
+08.04.0102	Forma plana em chapa resinada 12mm para estrutura, com reutilização três vezes	m2   	22.68	59.72	1354.45
+08.05.0010	Armadura CA-60	kg   	42	8.94	375.48
+08.05.0020	Armadura CA-50 (A ou B)	kg   	240	8.31	1994.4
+08.06.0020	Concreto não estrutural, mínimo 210 kg cimento/m3, inclusive aplicação.	m3   	0.1	244.47	24.45
+08.06.0090	Concreto estrutural convencional Fck=30,0 MPa, tipo A, inclusive aplicação.	m3   	3.2	415.78	1330.5
+	SUBTOTAL				5433.030000000001
+7.11.1.6	ASSENTAMENTOS				
+09.05.0015	Assentamento de tubos e conexões PVC/JEI esgoto DN 150	m    	4.7	2.07	9.73
+	SUBTOTAL				9.73
+7.11.1.7	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	6.06	17.52	106.17
+13.02.0110	Impermeabilização com Igol-Flex branco com uma demão (pode ficar esposto ao tempo)	m2   	11.34	39.79	451.22
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	6.06	4.47	27.09
+13.03.0200	Pintura látex duas demãos	m2   	10	7.09	70.9
+13.03.0700	Pintura em tubulações e conexões de ferro fundido com tinta esmalte em duas demãos	m2   	0.8	18.9	15.12
+	SUBTOTAL				670.5
+7.11.1.8	INSTALAÇÃO DE PRODUÇÃO				
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	2	0.68	1.36
+	SUBTOTAL				1.36
+7.11.1.9	SERVIÇOS DIVERSOS				
+99.00.1874	Fornecimento e instalação de materiais filtrantes - tijolo maciço comum	m3   	0.4	438.17	175.27
+99.00.1875	Fornecimento e instalação de materiais filtrantes - areia média, diâmetro 0,43 a 2,00 mm	m3   	1.5	44.74	67.11
+99.00.1876	Fornecimento e instalação de materiais filtrantes - brita 1	m3   	1.5	52.6	78.9
+	SUBTOTAL				321.28
+	TOTAL DOS SERVIÇOS				6636.15
+7.11.2	MATERIAIS				
+33.00.0015	Tubo de ferro fundido K7 JE DN 150, L=6,00m	pç	1	1196.18	1196.18
+33.00.3315	Curva 90º ferro fundido com bolsas, DN 150 - C90 JE  BB	un   	1	254.51	254.51
+	TOTAL DOS MATERIAIS				1450.69
+	TOTAL DO ÌTEM 7.11				8086.84
+7.12	EEE DO EFLUENTE DA CAIXA  AREIA E DO LEITO SECAGEM				
+7.12.1	SERVIÇOS				
+7.12.1.1	SERVIÇOS TÉCNICOS				
+02.04.0032	Locação e nivelamento de rede de esgoto c/ utilização de equipamento topográfico e elaboração de notas de serviço	m    	1	0.52	0.52
+02.04.0050	Locação de obras civis	m2   	0.81	2.97	2.41
+02.05.0010	Cadastro de rede de esgoto	m    	1	0.55	0.55
+02.05.0100	Cadastro de geral da obra	m2   	0.81	1.29	1.04
+	SUBTOTAL				4.5200000000000005
+7.12.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	6.24	0.31	1.93
+	SUBTOTAL				1.93
+7.12.1.3	FUNDAÇÕES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	0.1	79.09	7.91
+08.03.0040	Lastro de concreto não estrutural	m3   	0.1	254.09	25.41
+08.08.0085	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 2,01 m à 2,50m, com tampão de ferro fundido T-137	un   	1	1048.7	1048.7
+	SUBTOTAL				1082.02
+7.12.1.4	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0090	Execução de piso de concreto, Fck=13,5 MPa e=5 cm	m2   	2	17.52	35.04
+13.02.0235	Impermeabilização empregando três demãos de impermeabilizante à base de resina epóxi e alcatrão de hulha azul	m2   	8.15	39.08	318.5
+13.03.0160	Pintura com tinta acrílica para pisos com uma demão	m2   	2	4.47	8.94
+	SUBTOTAL				362.48
+7.12.1.5	INSTALAÇÕES ELÉTRICAS				
+14.01.0220	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=1''	m    	60	3.69	221.4
+14.02.0020	Fornecimento e colocação de cabo de cobre 6,0mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	150	3.61	541.5
+14.06.0015	Fornecimento e colocação de haste copperweld 5/8'' x 3000mm com conector	un   	3	34.75	104.25
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	3	152.32	456.96
+	SUBTOTAL				1324.11
+7.12.1.6	SERVIÇOS DIVERSOS				
+17.01.0001	Construção de abrigo para quadro de comando padrão Sanesul, medindo (1,00x1,80x2,20m)	un   	1	1891.32	1891.32
+	Fornecimento colocação de braçadeira de Ø= 3" para mangote, inclusive porca e parafuso, em aço inoxidável	un   	4	47.5	190
+	Fornecimento colocação de mangote rígido Ø= 3"	m	3.6	31.25	112.5
+	SUBTOTAL				2193.8199999999997
+	TOTAL DOS SERVIÇOS				4968.879999999999
+7.12.2	EQUIPAMENTOS				
+35.06.0003	Fornecimento, transporte e instalação de quadro de comando simples partida direta p/ bomba de eixo vertical/horizontal de 2,50 cv	un   	1	927.53	927.53
+	Fornecimento, transporte e instalação de conjunto moto-bomba submersível para esgoto, Q=4,00 m3/h, HMT=10,50 mca	cj	1	5667.48	5667.48
+	Regulador de nível com micro-interruptor, com invólucro de polipropileno (não aderente) resistente a líquidos agressivos, funcionamento submersível e auto-limpante para evitar interrupção durante a operação do sistema em decorrência de gordura e sólidos existentes na superfície do NA	un   	2	446.12	892.24
+	TOTAL DOS EQUIPAMENTOS				7487.249999999999
+	TOTAL DO ÌTEM 7.12				12456.129999999997
+7.13	LABORATÓRIO				
+7.13.1	SERVIÇOS				
+7.13.1.1	SERVIÇOS TÉCNICOS				
+02.04.0050	Locaçäo de obras civis	m2   	72.97	2.97	216.72
+02.05.0100	Cadastro de geral da obra	m2   	72.97	1.29	94.13
+	SUBTOTAL				310.85
+7.13.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	110	0.31	34.1
+	SUBTOTAL				34.1
+7.13.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavaçäo manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	28.4	14.03	398.45
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	12	9.57	114.84
+	SUBTOTAL				513.29
+7.13.1.4	FUNDAÇÕES ESTRUTURAS				
+08.02.0010	Broca diâmetro 25cm, de concreto armado Fck=13,5 MPa com 20 kg de ferro/m3	m    	75	36.84	2763
+08.02.0050	Preparo de cabeça de broca, moldada ''in-loco''	un   	15	11.28	169.2
+08.04.0020	Forma plana em madeira comum para estrutura, com reutilização duas vezes.	m2   	49.03	60.58	2970.24
+08.05.0010	Armadura CA-60	kg   	174.15	8.94	1556.9
+08.05.0020	Armadura CA-50 (A ou B)	kg   	411.6	8.31	3420.4
+08.06.0070	Concreto estrutural convencional Fck=20,0 MPa, tipo B, inclusive aplicação.	m3   	0.77	381.14	293.48
+08.07.0010	Laje pré-fabricada p/ forro e=8 cm e capa de 4cm, inclusive concretagem e escoramentos	m2   	68.7	86.62	5950.79
+08.07.0354	Fornecimento e colocação de caixa para ar condicionado de 30.000 BTUs, em concreto pré-moldado	un   	2	103.44	206.88
+08.08.1090	Caixa de inspeção (60x60x60) cm, em alvenaria de tijolo comum de 1/2 vez, revestida internamente e com tampa de concreto armado	un   	5	165.89	829.45
+	SUBTOTAL				18160.34
+7.13.1.5	FECHAMENTO				
+12.01.0130	Alvenaria de tijolo 8 furos assentado c/ argamassa de cimento, cal e areia, traço 1:2:8, e=10cm	m2   	178.86	27.78	4968.73
+12.02.0020	Estrutura de madeira vão 7 a 10m, telhas cerâmicas	m2   	110.58	67.41	7454.2
+12.02.0330	Emboçamento de cumeeira para telha cerâmica tipo Romana	m    	12.4	16.98	210.55
+12.02.0340	Cobertura com telha cerâmica tipo Romana	m2   	110.58	39.21	4335.84
+12.04.0010	Fornecimento e colocação de porta lisa de madeira 60x210cm, inclusive batente, guarnições, fechadura e dobradiças	un   	2	318.18	636.36
+12.04.0030	Fornecimento e colocação de porta lisa de madeira 80x210cm, inclusive batente, guarnições, fechadura e dobradiças	un   	3	360.32	1080.96
+12.04.0100	Fornecimento e colocação de porta ferro com uma ou duas folhas	m2   	5.04	290.42	1463.72
+12.04.0200	Fornecimento e colocação de caixilho de ferro basculante	m2   	9.2	202.1	1859.32
+12.06.0020	Fornecimento e colocação de vidro liso, e=4mm	m2   	9.2	74.44	684.85
+	Fornecimento e colocação de beiral de madeira 15 cm	m    	45.76	15.82	723.92
+	SUBTOTAL				23418.449999999997
+7.13.1.6	REVESTIMENTO E TRATAMENTO DE SUPERFÍCIE				
+13.01.0080	Execução de base regularizada para piso cerâmico traço 1:5, e=3cm	m2   	68.7	11.86	814.78
+13.01.0317	Fornecimento e assentamento de piso cerâmico esmaltado extra, grau de dureza PI-5 (30x30 cm) cecrisa cor hércules tom GR ou similar, com cimento colante	m2   	68.7	41.68	2863.42
+13.01.0630	Rodapé de ladrilho cerâmico cecrisa ou similar	m    	72.93	6.09	444.14
+13.01.1000	Chapisco superfície c/ argamassa de cimento e areia, traço 1:3, e=5mm	m2   	377.3	3.35	1263.96
+13.01.1010	Emboço paulista c/ argamassa de cimento, cal e areia, traço 1:4:12, e=2,5cm	m2   	377.3	18.33	6915.91
+13.01.1050	Emboço para revestimento c/ azulejo traço 1:4 de cal e areia + 130kg de cimento	m2   	122.16	15.72	1920.36
+13.01.1211	Fornecimento e assentamento de azulejo branco fosco 20x20cm 1ª linha c/ cimento colante, inclusive rejunte	m2   	122.16	38.54	4708.05
+13.02.0020	Impermeabilização empregando duas demãos de tinta asfáltica	m2   	49.68	5.4	268.27
+13.03.0200	Pintura látex duas demãos	m2   	360.38	7.09	2555.09
+13.03.0230	Pintura com selador acrílico	m2   	360.38	2.81	1012.67
+13.03.0310	Pintura c/ esmalte sintético em três demãos em paredes internas	m2   	25.68	11.78	302.51
+13.03.0500	Pintura grafite em esquadrias de ferro em duas demãos e uma demão de zarcão	m2   	36.8	16.28	599.1
+	SUBTOTAL				23668.259999999995
+7.13.1.7	INSTALAÇÕES ELÉTRICAS				
+14.01.0200	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=1/2''	m    	27	2.73	73.71
+14.01.0210	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=3/4''	m    	39	3.08	120.12
+14.02.0010	Fornecimento e colocação de cabo de cobre 2,5mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	260	2.38	618.8
+14.02.1120	Fornecimento e colocação de cabo de cobre 10mm2, ST1-1000V, têmpera mole, recoberto por composto termoplástico PVC 70ºC + capa interna + cobertura termoplástica	m    	140	5.09	712.6
+14.03.0005	Fornecimento e colocação de disjuntor ''Quick-Lag'' 10A monopolar termomagnético	un   	3	10.11	30.33
+14.03.0100	Fornecimento e colocação de disjuntor ''Quick-Lag'' 10A bipolar	un   	1	55.78	55.78
+14.03.0115	Fornecimento e colocação de disjuntor ''Quick-Lag'' 25A bipolar	un   	1,00	55.78	55.78
+14.03.0300	Fornecimento e colocação de tomada 15A/250V 2P universal	un   	18	12.44	223.92
+14.03.0320	Fornecimento e colocação de tomada 20A/250V 2P+T p/ computador	un   	2	15.56	31.12
+14.03.0350	Fornecimento e colocação de interruptor 1 tecla simples 10A/250V	un   	4	9.13	36.52
+14.03.0390	Fornecimento e colocação de interruptor 2 teclas simples 10A/250V	un   	2	17.23	34.46
+14.04.0020	Fornecimento e colocação de calha aberta 2 lâmpadas 40W fluorescente, inclusive reator duplo Alto Fator de Potência,e soquete	un   	7	60.77	425.39
+14.04.0070	Fornecimento e colocação de lâmpada fluorescente 40W	un   	14	5.69	79.66
+14.04.0200	Fornecimento e colocação de luminária plafonier tipo drops leitoso, inclusive lâmpada compacta eltrônica 23 W	un   	1	47.78	47.78
+14.04.0210	Fornecimento e colocação de luminária a prova de tempo c/ lâmpada incandescente de 100W	un   	1	89.4	89.4
+14.05.0010	Fornecimento e colocação de caixa de ferro esmaltado 4'' x 2'' retangular	un   	26	1.9	49.4
+14.05.0030	Fornecimento e colocação de caixa de ferro esmaltado 4'' x 4'' x 4'' octogonal	un   	5	3.8	19
+14.05.0062	Fornecimento e colocação de tomada 3 pinos p/ ar condicionado 30A/250V	un   	2	35.62	71.24
+14.05.0140	Fornecimento e colocação de quadro de distribuição 20 divisões e barramento	un   	1	251.33	251.33
+14.06.0015	Fornecimento e colocação de haste copperweld 5/8'' x 3000mm com conector	un   	6	34.75	208.5
+14.11.0030	Caixa de inspeção em alvenaria p/ elétrica (40x40x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	2	122.58	245.16
+	SUBTOTAL				3479.9999999999995
+7.13.1.8	INSTALAÇÕES SANITÁRIAS				
+14.30.0105	Fornecimento e colocação de tubo PVC rígido cor branca p/ esgoto secundário com junta soldável (NBR - 5688)  DN 40	m    	15	6.63	99.45
+14.30.0120	Fornecimento e colocação de tubo PVC rígido cor branca p/ esgoto primário com anel de borracha (NBR - 5688)  DN 100	m    	15	14.09	211.35
+14.32.0020	Fornecimento e colocação de caixa sifonada de PVC rígido com grelha cromada 150x185x75mm	un   	3	35.59	106.77
+14.32.0060	Fornecimento e colocação de ralo sifonado de PVC rígido de altura regulável 100x100x40mm	un   	1	27.39	27.39
+14.39.0040	Fossa séptica em anel de concreto Ø=1,20m e prof. 2,00m com tampa de concreto armado	un   	1	914.4	914.4
+14.50.0015	Fornecimento e colocação de lavatório de louça c/ coluna, inclusive torneira metálica, válvula, sifão, canopla e parafusos cromados	un   	2	375.82	751.64
+14.50.0200	Fornecimento e colocação de bacia sanitária sifonada c/ parafusos de fixação	un   	2	153.32	306.64
+14.50.0503	Fornecimento e colocação de bancada em granito cinza corumbá	m2	3.4	225.75	767.55
+14.50.0564	Fornecimento e colocação de cuba em aço inox (47x30x17)cm para pia de cozinha	un   	1	360.99	360.99
+14.50.0580	Fornecimento e colocação de  frontão em granito cinza corumbá e=2,0cm e h=0,15m	m	6.6	65.98	435.47
+14.50.0826	Fornecimento e colocação de kit. p/ banheiro em aço inox	un   	2	137.48	274.96
+14.50.2010	Fornecimento e colocação de torneira de pressão cromado p/ pia Ø=3/4''	un   	3	47.27	141.81
+14.71.0025	Fornecimento e assentamento de tubo de PVC rígido soldável (NBR-5648) Ø=25mm	m    	60	4.16	249.6
+14.71.0050	Fornecimento e assentamento de tubo de PVC rígido soldável (NBR-5648) Ø=50mm	m    	30	12.27	368.1
+14.72.0020	Fornecimento e colocação de adaptador PVC soldável curto Ø=25x3/4'' p/ registro	un   	3	2.15	6.45
+14.72.0140	Fornecimento e colocação de adaptador PVC soldável c/ flanges livres p/ caixa d'água Ø=50x1 1/2''	un   	1	19.03	19.03
+14.76.0025	Fornecimento e colocação de curva 90º PVC soldável Ø=25mm	un   	6	4.49	26.94
+14.76.0050	Fornecimento e colocação de curva 90º PVC soldável Ø=50mm	un   	5	12.27	61.35
+14.79.0025	Fornecimento e colocação de luva PVC soldável Ø=25mm	un   	4	2.28	9.12
+14.79.0050	Fornecimento e colocação de luva PVC soldável Ø=50mm	un   	4	6.06	24.24
+14.80.0025	Fornecimento e colocação de tê PVC soldável Ø=25mm	un   	4	3.9	15.6
+14.80.0050	Fornecimento e colocação de tê PVC soldável Ø=50mm	un   	4	11.03	44.12
+14.96.0020	Fornecimento e colocação de registro de pressão cromado e com canopla Ø=3/4''	un   	3	27.44	82.32
+14.96.0030	Fornecimento e colocação de válvula de descarga cromado Ø=1 1/2''	un   	2	218.78	437.56
+14.96.0070	Fornecimento e colocação de torneira de bóia plástica Ø=3/4''	un   	1	18.02	18.02
+14.96.0210	Fornecimento e colocação de caixa de polipropileno de alta resistência com tampa cor cinza cap=1000 L	un   	2	573.05	1146.1
+14.99.0020	Abertura de rasgos em alvenaria para passagem de canalização de até Ø=2''	m    	20	2.7	54
+	SUBTOTAL				6960.970000000001
+	TOTAL DOS SERVIÇOS				76546.26
+7.13.2	EQUIPAMENTOS				
+	Fornecimento e instalação de misturador rápido de eixo vertical para preparo de solução de cal hidratada, P=0,75Kw, 220 V, 1.750 rpm, proteção IP(w) 55, inclusive mancal em aço carbono ASTM-283A Gr C, hélice Ø=140 mm, em aço inox	cj	1	3512.3	3512.3
+	TOTAL DOS EQUIPAMENTOS				3512.3
+	TOTAL DO ÌTEM 7.13				80058.56
+7.14	TUBULAÇÕES DO PROCESSO				
+7.14.1	SERVIÇOS				
+7.14.1.1	SERVIÇOS TÉCNICOS				
+02.04.0032	Locação e nivelamento de rede de esgoto c/ utilização de equipamento topográfico e elaboração de notas de serviço	m    	781	0.52	406.12
+02.04.0010	Locação de rede de água	m    	900	0.33	297
+02.05.0005	Cadastro de rede de água	m    	900	0.26	234
+02.05.0010	Cadastro de rede de esgoto	m    	781	0.55	429.55
+	SUBTOTAL				1366.67
+7.14.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	2642.4	0.31	819.14
+	SUBTOTAL				819.14
+7.14.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	89.4	14.03	1254.28
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	1214.35	6.07	7371.1
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	68.4	7.17	490.43
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	210.87	9.57	2018.03
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	1290.04	5.88	7585.44
+04.05.0011	Carga e descarga de solo	m3   	31.24	1.27	39.67
+04.05.0061	Transporte de material escavado-solos	m3xkm	93.72	0.86	80.6
+	SUBTOTAL				18839.55
+7.14.1.4	ESCORAMENTOS				
+05.01.0025	Escoramento de madeira em valas e cavas - escoramento descontínuo, com reaproveitamento de 5 vezes da madeira	m2   	320	23.73	7593.6
+05.01.0035	Escoramento de madeira em valas e cavas - escoramento contínuo, com reaproveitamento de 5 vezes da madeira	m2   	40	38.32	1532.8
+	SUBTOTAL				9126.4
+7.14.1.5	ESGOTAMENTO				
+06.01.0001	Esgotamento de água c/ conjunto moto-bomba até 5 cv	h    	360	1.96	705.6
+	SUBTOTAL				705.6
+7.14.1.6	FUNDAÇÕES E ESTRUTURAS				
+08.03.0010	Lastro de areia	m3   	2	54.25	108.5
+08.03.0020	Lastro de brita	m3   	2	79.09	158.18
+08.03.0040	Lastro de concreto não estrutural	m3   	1.8	254.09	457.36
+08.04.0020	Forma plana em madeira comum para estrutura, com reutilização duas vezes.	m2   	22.4	60.58	1356.99
+08.06.0070	Concreto estrutural convencional Fck=20,0 MPa, tipo B, inclusive aplicação.	m3   	0.8	381.14	304.91
+08.05.0010	Armadura CA-60	kg   	11.7	8.94	104.6
+08.05.0020	Armadura CA-50 (A ou B)	kg   	75	8.31	623.25
+08.08.0080	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 1,51 m à 2,00m, com tampão de ferro fundido T-137	un   	4	905.92	3623.68
+08.08.0085	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,00m, profundidade de 2,01 m à 2,50m, com tampão de ferro fundido T-137	un   	3	1048.7	3146.1
+	SUBTOTAL				9883.57
+7.14.1.7	ASSENTAMENTOS				
+09.01.0015	Assentamento de tubos e conexões de ferro dúctil/JE DN 150	m    	43.1	3.71	159.9
+09.01.0030	Assentamento de tubos e conexões de ferro dúctil/JE DN 300	m    	84.4	6.49	547.76
+09.01.0040	Assentamento de tubos e conexões de ferro dúctil/JE DN 400	m    	12	8.81	105.72
+09.02.0010	Assentamento de tubos e conexões PVC JEI 1MPa DN 100	m    	63.9	1.42	90.74
+09.02.0015	Assentamento de tubos e conexões PVC JEI 1MPa DN 150	m    	84	1.57	131.88
+09.03.0005	Assentamento de tubos e conexões em PVC JEI PBA DN 50	m    	1127	0.82	924.14
+09.05.0015	Assentamento de tubos e conexões PVC/JEI esgoto DN 150	m    	84.1	2.07	174.09
+09.05.0020	Assentamento de tubos e conexões PVC/JEI esgoto DN 200	m    	5.8	2.38	13.8
+09.05.0040	Assentamento de tubos e conexões PVC/JEI esgoto DN 400	m    	201	3.58	719.58
+	SUBTOTAL				2867.61
+7.14.1.8	INSTALAÇÕES HIDRÁULICAS				
+14.60.0020	Fornecimento e assentamento de tubo de PVC roscável  Ø=3/4''	m    	175	6.88	1204
+14.60.0050	Fornecimento e assentamento de tubo de PVC roscável  Ø=1 1/2''	m    	56	17.15	960.4
+14.62.0010	Fornecimento e colocação de bucha de redução PVC rígido roscável Ø=3/4'' x 1/2''	un   	5	2.76	13.8
+14.64.0020	Fornecimento e colocação de curva 90º PVC rígido roscável Ø=3/4''	un   	5	5.12	25.6
+14.66.0100	Fornecimento e colocação de luva redução PVC rígido roscável Ø=1'' x 3/4''	un   	5	3.38	16.9
+14.96.0130	Fornecimento e colocação de torneira de jardim Ø=1/2''	un   	5	22.38	111.9
+	SUBTOTAL				2332.6000000000004
+7.14.1.9	INSTALAÇÃO DE PRODUÇÃO				
+15.03.0001	Montagem tubulações e conexões FºFº DN 50 a 150	kg   	60	0.68	40.8
+15.03.0002	Montagem tubulações e conexões FºFº DN 200 a 350	kg   	420	1.07	449.4
+15.03.0003	Montagem tubulações e conexões FºFº DN 400 a 600	kg   	610	1.67	1018.7
+	SUBTOTAL				1508.9
+	TOTAL DOS SERVIÇOS				47450.04
+7.14.2	MATERIAIS				
+31.00.0002	Tubo PVC PBA JEI classe 12, DN=50 DE=60mm, L=6,00m (NBR-5647)	pç	188	33.16	6234.08
+31.00.0046	Anel de borracha DN=50 DE=60mm - A JE	un   	8	1.03	8.24
+31.00.0100	Curva PBA JE ponta/bolsa 22º30' DN=50 DE=60mm - C PVC 22 JE PB	un   	4	11.24	44.96
+31.00.0161	Curva PBA JE ponta/bolsa 45º DN=50 DE=60mm - C PVC  45 JE PB	un   	3	11.69	35.07
+31.01.0004	Tubo PVC 1MPa DN 100 - JEI - junta elástica integrada,  L=6,00m (NBR-7665/99)	pç	11	125.55	1381.05
+31.01.0005	Tubo PVC 1MPa DN 150 - JEI - junta elástica integrada,  L=6,00m  (NBR-7665/99)	pç	15	245.53	3682.95
+32.02.0005	Tubo PVC/JEI p/ rede esgoto DN 150 (NBR-7362),  L=6,00m	pç	15	110.11	1651.65
+32.02.0006	Tubo PVC/JEI p/ rede esgoto DN 200 (NBR-7362), L=6,00m	pç	1	171.49	171.49
+32.02.0010	Tubo PVC/JEI p/ rede esgoto DN 400 (NBR-7362), L=6,00m	pç	34	746.71	25388.14
+33.00.0015	Tubo de ferro fundido K7 JE DN 150, L=6,00m	pç	8	1205.55	9644.4
+33.00.0020	Tubo de ferro fundido K7 JE DN 200, L=6,00m	pç	1	1544.33	1544.33
+33.00.0030	Tubo de ferro fundido K7 JE DN 300, L=6,00m	pç	15	2307.53	34612.95
+33.00.3110	Curva 22º30' ferro fundido com bolsas, DN 100 - C22 JE  BB	un   	4	155.09	620.36
+33.00.3115	Curva 22º30' ferro fundido com bolsas, DN 150 - C22 JE  BB	un   	3	270.55	811.65
+33.00.3210	Curva 45º ferro fundido com bolsas, DN 100 - C45 JE  BB	un   	2	195.3	390.6
+33.00.3215	Curva 45º ferro fundido com bolsas, DN 150 - C45 JE  BB	un   	1	295.86	295.86
+33.00.3230	Curva 45º ferro fundido com bolsas, DN 300 - C45 JE  BB	un   	4	1546.28	6185.12
+33.02.0010	Anel de borracha p/ ferro fundido DN 100 - A JE	un   	12	23.16	277.92
+33.02.0015	Anel de borracha p/ ferro fundido DN 150 - A JE	un   	8	19.25	154
+33.02.0030	Anel de borracha p/ ferro fundido DN 300 - A JE	un   	8	65.63	525.04
+	Tubo F.º F.º, FF, PN10, DN 400, L=5,80 m	un   	2	6171.93	12343.86
+	TOTAL DOS MATERIAIS				106003.71999999999
+	TOTAL DO ITEM 7.14				153453.75999999998
+7.15	DRENAGEM DE ÁGUAS PLUVIAIS				
+7.15.1	SERVIÇOS				
+7.15.1.1	SERVIÇOS TÉCNICOS				
+02.04.0032	Locação e nivelamento de rede de drenagem c/ utilização de equipamento topográfico e elaboração de notas de serviço	m    	398.25	0.52	207.09
+02.05.0010	Cadastro de rede de drenagem	m    	398.25	0.55	219.04
+	SUBTOTAL				426.13
+7.15.1.2	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	3431.75	0.31	1063.84
+	SUBTOTAL				1063.84
+7.15.1.3	MOVIMENTO DE TERRA				
+04.02.0001	Escavação manual de valas prof. até 1,50m em solo de qualquer natureza, exceto rocha	m3   	24	14.03	336.72
+04.02.0100	Escavação mecânica de valas prof. até 2,00m em solo de qualquer natureza, exceto rocha	m3   	2.8	6.07	17
+04.02.0105	Escavação mecânica de valas prof. de 2,01 a 4,00m em solo de qualquer natureza, exceto rocha	m3   	189	7.17	1355.13
+04.04.0003	Aterro/reaterro de valas compactado manualmente	m3   	24	9.57	229.68
+04.04.0008	Aterro/reaterro de valas compactado mecanicamente sem controle do GC	m3   	191.8	5.88	1127.78
+	SUBTOTAL				3066.3100000000004
+7.15.1.4	ESCORAMENTOS				
+05.01.0035	Escoramento de madeira em valas e cavas - escoramento contínuo, com reaproveitamento de 5 vezes da madeira	m2   	22	38.32	843.04
+	SUBTOTAL				843.04
+7.15.1.5	ESGOTAMENTO E DRENAGEM				
+06.01.0001	Esgotamento de água c/ conjunto moto-bomba até 5 cv	h    	36	1.96	70.56
+06.02.0140	Fornecimento e assentamento de tubo concreto simples C1, DN 400	m    	202.25	38.42	7770.45
+06.02.0160	Fornecimento e assentamento de tubo concreto armado CA-1, DN 600	m    	160	102.94	16470.4
+06.02.0350	Execução de canaleta de concreto tipo ''V''	m    	48	35.51	1704.48
+	Caixa de drenagem em alvenaria (1,50x1,50x4,00) m, inclusive grelha em aço	un   	2	8204.38	16408.76
+	Dissipador de energia para tubo de drenagem CA-1, DN 600 mm, em concreto armado,inclusive lastro de pedra-de-mão arrumada, para quebra da velocidade da água, conforme projeto	un   	1	2367.77	2367.77
+	Caixa de ralo "boca de lobo", nas dimensões (90x120x150) cm, em alvenaria de tijolo maciço, em 1 vez, revestido com argamassa 1:4	un   	9	1654.58	14891.22
+	SUBTOTAL				59683.64
+7.15.1.6	FUNDAÇÕES E ESTRUTURAS				
+08.03.0010	Lastro de areia	m3   	15	54.25	813.75
+08.03.0020	Lastro de brita	m3   	30	79.09	2372.7
+08.03.0040	Lastro de concreto não estrutural	m3   	3	254.09	762.27
+08.08.0115	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,20m, profundidade de 1,21m à 1,50 m, inclusive tampão de ferro fundido T-137	un   	7	1080.75	7565.25
+08.08.0120	Poço de inspeção e visita com anel de concreto armado ponta e bolsa Ø=1,20m, profundidade de 1,51 m à 2,00 m, inclusive tampão de ferro fundido T-137	un   	2	1197.22	2394.44
+	SUBTOTAL				13908.41
+	TOTAL DOS SERVIÇOS				78991.37
+	TOTAL DO ÌTEM 7.15				78991.37
+7.16	URBANIZAÇÃO DA ÁREA				
+7.16.1	SERVIÇOS				
+7.16.1.1	SERVIÇOS PRELIMINARES				
+03.01.0003	Limpeza mecanizada com raspagem superficial	m2   	1500	0.31	465
+	SUBTOTAL				465
+7.16.1.2	FUNDAÇÖES E ESTRUTURAS				
+08.03.0020	Lastro de brita	m3   	180	79.09	14236.2
+	SUBTOTAL				14236.2
+7.16.1.3	LIGAÇÕES PREDIAIS DE ÁGUA				
+11.01.0200	Ramal predial água em tubo PEAD Ø=20mm, inclusive escavação e reaterro	m    	110	1.39	152.9
+	SUBTOTAL				152.9
+7.16.1.4	INSTALAÇÕES ELÉTRICAS				
+14.01.0210	Fornecimento e assentamento de eletroduto de polietileno marrom p/ elétrica Ø=3/4''	m    	600	3.08	1848
+14.02.0010	Fornecimento e colocação de cabo de cobre 2,5mm2, têmpera mole, recoberto por duas camadas composto termoplástico de PVC 70ºC tipo BWF 750V antiflam	m    	1200	2.38	2856
+14.05.0140	Fornecimento e colocação de quadro de distribuição 20 divisões e barramento	un   	1	251.33	251.33
+14.06.0730	Execução de mureta e acessórios p/ padrão energia  trifásico 31 a 40 KVA completo, padrão enersul	un   	1	5418.16	5418.16
+14.11.0040	Caixa de inspeção em alvenaria p/ elétrica (50x50x50cm) em tijolo comum de 1/2 vez, revestida internamente e c/ tampa de concreto armado	un   	15	152.32	2284.8
+14.29.0302	Fornecimento e colocação de poste de ferro galvanizado, altura 7 mts, com duas luminária lâmpadas vapor metálico 400 W, reator e relê fotoelétrico	un   	8	2947.38	23579.04
+	SUBTOTAL				36237.33
+7.16.1.5	INSTALAÇÕES HIDRÁULICAS				
+14.62.0010	Fornecimento e colocação de bucha de redução PVC rígido roscável Ø=3/4'' x 1/2''	un   	2	2.76	5.52
+14.64.0020	Fornecimento e colocação de curva 90º PVC rígido roscável Ø=3/4''	un   	2	5.12	10.24
+14.66.0100	Fornecimento e colocação de luva redução PVC rígido roscável Ø=1'' x 3/4''	un   	1	3.38	3.38
+14.96.0130	Fornecimento e colocação de torneira de jardim Ø=1/2''	un   	1	22.38	22.38
+	SUBTOTAL				41.519999999999996
+7.16.1.6	URBANIZAÇÃO				
+10.04.0050	Execução de guias ou meio fio de concreto	m    	642	26.07	16736.94
+13.01.0140	Execução de piso de concreto, Fck=13,5 MPa e=10 cm	m2   	80	35	2800
+16.01.0002	Fornecimento e assentamento de portão (4,00x1,80m) em tubo FºGº Ø=2'' c/ tela aço galvanizado fio 14 # 2'', padrão Sanesul	un   	2	3008.01	6016.02
+16.01.0004	Construção de cercas de arame liso com 8 fios, mourão de concreto, altura de 2,00, espaçados a cada 2,50m	m    	1098	17.05	18720.9
+16.02.0004	Fornecimento e plantio de grama esmeralda em placa	m2   	2000	5.75	11500
+16.02.0007	Fornecimento e plantio de muda espécie Sansão do Campo	un   	996	1.2	1195.2
+16.02.0010	Fornecimento e plantio de árvore espécie Oiti	un   	10	30.53	305.3
+16.02.0013	Fornecimento e plantio muda espécie Eucalipto,  h=0,20 m	un   	1400	5.11	7154
+16.02.0019	Fornecimento e espalhamento de brita ''1''	m2   	1428	3.78	5397.84
+	SUBTOTAL				69826.2
+7.16.1.7	SERVIÇOS DIVERSOS				
+17.01.0001	Construção de abrigo para quadro de comando padrão Sanesul, medindo (1,00x1,80x2,20m)	un   	1	1891.32	1891.32
+	SUBTOTAL				1891.32
+	TOTAL DOS SERVIÇOS				122850.47
+	TOTAL DO ÌTEM 7.16				122850.47
+	TOTAL DO ITEM 7				2562540.43
+8	AUDITORIA EXTERNA				
+8.1	SERVIÇOS				162313.27
+	TOTAL DO ITEM 8				162313.27
+	TOTAL GERAL DA OBRA				10983198.040000001
+
+[hoja: RESUMO]
+EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A. 			
+DIRETORIA TÉCNICA E COMERCIAL			
+GERÊNCIA DE PROJETOS			
+RESUMO DO ORÇAMENTO			
+OBRA:	2009_331 - S.E.S. DE PONTA PORÃ	DATA:	2009-11-12 00:00:00
+LOCAL:	PONTA PORÃ - MS	PREÇOS:	JUN_09
+REF:	ORÇAMENTO - FOCEM		
+			CUSTO TOTAL
+REF.	DESCRIÇÃO COMPLETA		R$ 
+OBRA	SISTEMA DE ESGOTAMENTO SANITÁRIO DE PONTA PORÃ		
+1	CANTEIRO DE OBRAS		
+1.1	SERVIÇOS		32327.79
+	TOTAL DO ITEM 1		32327.79
+2	MICRO SISTEMA:		
+2.1	REDE COLETORA		
+2.1.1	SERVIÇOS		3800484.0800000005
+2.1.2	MATERIAIS		1715783.93
+	TOTAL DO ITEM 2.1		5516268.010000001
+2.2	LIGAÇÕES DOMICILIARES		
+2.2.1	SERVIÇOS		1390592.01
+2.2.2	MATERIAIS		337142.86999999994
+	TOTAL DO ITEM 2.2		1727734.88
+	TOTAL DO ITEM 2		7244002.890000001
+3	ESTAÇÃO ELEVATÓRIA ESGOTO - MARAMBAIA		
+3.1	SERVIÇOS		143851.88999999998
+3.2	MATERIAIS		20243.579999999998
+3.3	EQUIPAMENTOS		188109.13
+3.4	ABRIGO DE GRUPO GERADOR		12638.869999999999
+	TOTAL DO ITEM 3		364843.47
+4	LINHA DE RECALQUE DA EEEB - MARAMBAIA		
+4.1	SERVIÇOS		43987.840000000004
+4.2	MATERIAIS		144152.23
+	TOTAL DO ITEM 4		188140.07
+5	ESTAÇÃO ELEVATÓRIA ESGOTO SÃO THOMAZ		
+5.1	SERVIÇOS		171344.74
+5.2	MATERIAIS		37070.24
+5.3	EQUIPAMENTOS		173776.58000000002
+5.4	ABRIGO DE GRUPO GERADOR		12638.869999999999
+	TOTAL DO ITEM 5		394830.43
+6	LINHA DE RECALQUE - SÃO THOMAZ		
+6.1	SERVIÇOS		5370.05
+6.2	MATERIAIS		28829.640000000003
+	TOTAL DO ITEM 6		34199.69
+7	TRATAMENTO		
+7.1	CANTEIRO DE OBRAS		
+7.1.1	SERVIÇOS		18393.690000000002
+	TOTAL DO ITEM 7.1		18393.690000000002
+7.2	DESARENADOR		
+7.2.1	SERVIÇOS		85895.62
+7.2.2	MATERIAIS		3298.77
+7.2.3	EQUIPAMENTOS		11471.619999999999
+	TOTAL DO ITEM 7.2		100666.01
+7.3	RALF		
+7.3.1	SERVIÇOS		578491.5800000001
+7.3.2	MATERIAIS		61512.219999999994
+	TOTAL DO ITEM 7.3		640003.8
+7.4	CDFL - 1		
+7.4.1	SERVIÇOS		48531.83
+7.4.2	MATERIAIS		6629.9
+	TOTAL DO ITEM 7.4		55161.73
+7.5	FILTRO BIOLÓGICO		
+7.5.1	SERVIÇOS		421161.20000000007
+7.5.2	MATERIAIS		13799.640000000001
+7.5.3	EQUIPAMENTOS		161764.07
+	TOTAL DO ITEM 7.5		596724.9100000001
+7.6	CDFL - 2		
+7.6.1	SERVIÇOS		40091.96000000001
+7.6.2	MATERIAIS		3746.46
+	TOTAL DO ITEM 7.6		43838.420000000006
+7.7	DECANTADOR SECUNDÁRIO		
+7.7.1	SERVIÇOS		202523.12000000002
+7.7.2	MATERIAIS		32936.52
+7.7.3	EQUIPAMENTOS		192326.75
+	TOTAL DO ITEM 7.7		427786.39
+7.8	ESTAÇÃO ELEVATÓRIA LODO EXCEDENTE RECIRCULAÇÃO		
+7.8.1	SERVIÇOS		45335.09
+7.8.2	MATERIAIS		15979.89
+7.8.3	EQUIPAMENTOS		41299.25
+	TOTAL DO ITEM 7.8		102614.23
+7.9	CDFL - 3		
+11.9.1	SERVIÇOS		38942.090000000004
+11.9.2	MATERIAIS		1038.72
+	TOTAL DO ITEM 7.9		39980.810000000005
+7.10	LEITO DE SECAGEM - 6 CÉLULAS		
+7.10.1	SERVIÇOS		64137.86
+7.10.2	MATERIAIS		17335.450000000004
+	TOTAL DO ITEM 7.10		81473.31
+7.11	CAIXA DE AREIA		
+7.11.1	SERVIÇOS		6636.15
+7.11.2	MATERIAIS		1450.69
+	TOTAL DO ITEM 7.11		8086.84
+7.12	EEE DO EFLUENTE DA CAIXA DE AREIA E DO LEITO DE SECAGEM		
+7.12.1	SERVIÇOS		4968.879999999999
+7.12.2	EQUIPAMENTOS		7487.249999999999
+	TOTAL DO ITEM 7.12		12456.129999999997
+7.13	LABORATÓRIO		
+7.13.1	SERVIÇOS		76546.26
+7.13.2	EQUIPAMENTOS		3512.3
+	TOTAL DO ITEM 7.13		80058.56
+7.14	TUBULAÇÕES DO PROCESSO		
+7.14.1	SERVIÇOS		47450.04
+7.14.2	MATERIAIS		106003.71999999999
+	TOTAL DO ITEM 7.14		153453.75999999998
+7.15	DRENAGEM DE ÁGUAS PLUVIAIS		
+7.15.1	SERVIÇOS		78991.37
+	TOTAL DO ITEM 7.15		78991.37
+7.16	URBANIZAÇÃO DA ÁREA		
+7.16.1	SERVIÇOS		122850.47
+	TOTAL DO ITEM 17.16		122850.47
+	TOTAL DO ITEM 7		2562540.43
+8	AUDITORIA EXTERNA		
+8.1	SERVIÇOS		162313.27
+	TOTAL DO ITEM 8		162313.27
+	TOTAL GERAL DA OBRA		10983198.040000001
+
+[hoja: RESUMO SEM IMPOSTOS]
+EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A. 				EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A. 		
+DIRETORIA TÉCNICA E COMERCIAL				DIRETORIA TÉCNICA E COMERCIAL		
+GERÊNCIA DE PROJETOS				GERÊNCIA DE PROJETOS		
+RESUMO DO ORÇAMENTO						
+OBRA:	2008_262 - S.E.S. DE PONTA PORÃ	DATA:	2008-07-22 00:00:00			
+LOCAL:	PONTA PORÃ - MS	PREÇOS:	JAN/08			
+REF:	ORÇAMENTO - FOCEM					
+			CUSTO TOTAL			
+REF.	DESCRIÇÃO COMPLETA		R$ 			
+OBRA	SISTEMA DE ESGOTAMENTO SANITÁRIO DE PONTA PORÃ					
+1	TOTAL GERAL DA OBRA					
+			10983198.040000001			
+				 IMPOSTOS	%	
+2	GASTOS INELEGÍVEIS		1515392.8473610005	Cofins	3	
+				PIS	0.65	
+	TOTAL GASTOS ELEGÍVEIS		9467805.192639	I.Renda	1.2	
+				CSLL	1.08	
+3	CONTRAPARTIDA(15%)		1420170.77889585	ISS	5	0.1093
+				ICMS	10	0.20929999999999999
+				IPI	0	
+				OBRA		
+				SERVIÇOS 	7494183.3500000015	
+				MATERIAIS	2546954.470000001	
+				EQUIPAMENTOS	779746.9500000001	
+					10820884.770000001	
+				AUDITORIA EXTERNA	162313.26999999955	
+	TOTAL RECURSO FOCEM		8047634.41374315			
+
+[hoja: RESUMO U$]
+EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A. 				
+DIRETORIA TÉCNICA E COMERCIAL				
+GERÊNCIA DE PROJETOS				
+RESUMO DO ORÇAMENTO				
+OBRA:	2008_262 - S.E.S. DE PONTA PORÃ	DATA:	2008-07-22 00:00:00	
+LOCAL:	PONTA PORÃ - MS	PREÇOS:	JAN/08	
+REF:	ORÇAMENTO - FOCEM			
+			CUSTO TOTAL	
+REF.	DESCRIÇÃO COMPLETA		R$ 	U$ 
+				1.7899
+OBRA	SISTEMA DE ESGOTAMENTO SANITÁRIO DE PONTA PORÃ			
+1	CANTEIRO DE OBRAS			
+1.1	SERVIÇOS		32327.79	18061.226884183474
+	TOTAL DO ITEM 1		32327.79	18061.226884183474
+2	MICRO SISTEMA:			
+2.1	REDE COLETORA			
+2.1.1	SERVIÇOS		3800484.0800000005	2123294.0834683506
+2.1.2	MATERIAIS		1715783.93	958592.0610089948
+	TOTAL DO ITEM 2.1		5516268.010000001	3081886.1444773455
+2.2	LIGAÇÕES DOMICILIARES			
+2.2.1	SERVIÇOS		1390592.01	776910.4475110341
+2.2.2	MATERIAIS		337142.86999999994	188358.49488798252
+	TOTAL DO ITEM 2.2		1727734.88	965268.9423990166
+	TOTAL DO ITEM 2		7244002.890000001	4047155.086876362
+3	ESTAÇÃO ELEVATÓRIA ESGOTO - MARAMBAIA			
+3.1	SERVIÇOS		143851.88999999998	80368.67422761046
+3.2	MATERIAIS		20243.579999999998	11309.894407508798
+3.3	EQUIPAMENTOS		188109.13	105094.77065757863
+3.4	ABRIGO DE GRUPO GERADOR		12638.869999999999	7061.2157103748805
+	TOTAL DO ITEM 3		364843.47	203834.55500307278
+4	LINHA DE RECALQUE DA EEEB - MARAMBAIA			
+4.1	SERVIÇOS		43987.840000000004	24575.58522822504
+4.2	MATERIAIS		144152.23	80536.47131124644
+	TOTAL DO ITEM 4		188140.07	105112.05653947148
+5	ESTAÇÃO ELEVATÓRIA ESGOTO SÃO THOMAZ			
+5.1	SERVIÇOS		171344.74	95728.66640594446
+5.2	MATERIAIS		37070.24	20710.78831219621
+5.3	EQUIPAMENTOS		173776.58000000002	97087.31214034304
+5.4	ABRIGO DE GRUPO GERADOR		12638.869999999999	7061.2157103748805
+	TOTAL DO ITEM 5		394830.43	220587.9825688586
+6	LINHA DE RECALQUE - SÃO THOMAZ			
+6.1	SERVIÇOS		5370.05	3000.1955416503715
+6.2	MATERIAIS		28829.640000000003	16106.843957763005
+	TOTAL DO ITEM 6		34199.69	19107.039499413375
+7	TRATAMENTO			
+7.1	CANTEIRO DE OBRAS			
+7.1.1	SERVIÇOS		18393.690000000002	10276.37856863512
+	TOTAL DO ITEM 7.1		18393.690000000002	10276.37856863512
+7.2	DESARENADOR			
+7.2.1	SERVIÇOS		85895.62	47989.060841387785
+7.2.2	MATERIAIS		3298.77	1842.9912285602547
+7.2.3	EQUIPAMENTOS		11471.619999999999	6409.084306385831
+	TOTAL DO ITEM 7.2		100666.01	56241.136376333874
+7.3	RALF			
+7.3.1	SERVIÇOS		578491.5800000001	323197.7093692385
+7.3.2	MATERIAIS		61512.219999999994	34366.28861947594
+	TOTAL DO ITEM 7.3		640003.8	357564
+7.4	CDFL - 1			
+7.4.1	SERVIÇOS		48531.83	27114.268953572824
+7.4.2	MATERIAIS		6629.9	3704.061679423431
+	TOTAL DO ITEM 7.4		55161.73	30818.330632996254
+7.5	FILTRO BIOLÓGICO			
+7.5.1	SERVIÇOS		421161.20000000007	235298.73177272477
+7.5.2	MATERIAIS		13799.640000000001	7709.72680037991
+7.5.3	EQUIPAMENTOS		161764.07	90376.03776747304
+	TOTAL DO ITEM 7.5		596724.9100000001	333384.4963405777
+7.6	CDFL - 2			
+7.6.1	SERVIÇOS		40091.96000000001	22398.994357226664
+7.6.2	MATERIAIS		3746.46	2093.1113470026257
+	TOTAL DO ITEM 7.6		43838.420000000006	24492.10570422929
+7.7	DECANTADOR SECUNDÁRIO			
+7.7.1	SERVIÇOS		202523.12000000002	113147.72892340356
+7.7.2	MATERIAIS		32936.52	18401.31850941393
+7.7.3	EQUIPAMENTOS		192326.75	107451.11458740711
+	TOTAL DO ITEM 7.7		427786.39	239000.1620202246
+7.8	ESTAÇÃO ELEVATÓRIA LODO EXCEDENTE RECIRCULAÇÃO			
+7.8.1	SERVIÇOS		45335.09	25328.280909548015
+7.8.2	MATERIAIS		15979.89	8927.811609587126
+7.8.3	EQUIPAMENTOS		41299.25	23073.495726018213
+	TOTAL DO ITEM 7.8		102614.23	57329.588245153354
+7.9	CDFL - 3			
+11.9.1	SERVIÇOS		38942.090000000004	21756.572992904632
+11.9.2	MATERIAIS		1038.72	580.3229230683279
+	TOTAL DO ITEM 7.9		39980.810000000005	22336.89591597296
+7.10	LEITO DE SECAGEM - 6 CÉLULAS			
+7.10.1	SERVIÇOS		64137.86	35833.20855913738
+7.10.2	MATERIAIS		17335.450000000004	9685.150008380358
+	TOTAL DO ITEM 7.10		81473.31	45518.358567517746
+7.11	CAIXA DE AREIA			
+7.11.1	SERVIÇOS		6636.15	3707.5534946086373
+7.11.2	MATERIAIS		1450.69	810.4866193642104
+	TOTAL DO ITEM 7.11		8086.84	4518.040113972847
+7.12	EEE DO EFLUENTE DA CAIXA DE AREIA E DO LEITO DE SECAGEM			
+7.12.1	SERVIÇOS		4968.879999999999	2776.0657019945243
+7.12.2	EQUIPAMENTOS		7487.249999999999	4183.054919269232
+	TOTAL DO ITEM 7.12		12456.129999999997	6959.120621263757
+7.13	LABORATÓRIO			
+7.13.1	SERVIÇOS		76546.26	42765.662886194754
+7.13.2	EQUIPAMENTOS		3512.3	1962.2883959997766
+	TOTAL DO ITEM 7.13		80058.56	44727.95128219453
+7.14	TUBULAÇÕES DO PROCESSO			
+7.14.1	SERVIÇOS		47450.04	26509.883233700206
+7.14.2	MATERIAIS		106003.71999999999	59223.26386948991
+	TOTAL DO ITEM 7.14		153453.75999999998	85733.14710319012
+7.15	DRENAGEM DE ÁGUAS PLUVIAIS			
+7.15.1	SERVIÇOS		78991.37	44131.72244259455
+	TOTAL DO ITEM 7.15		78991.37	44131.72244259455
+7.16	URBANIZAÇÃO DA ÁREA			
+7.16.1	SERVIÇOS		122850.47	68635.38186490865
+	TOTAL DO ITEM 17.16		122850.47	68635.38186490865
+	TOTAL DO ITEM 7		2562540.43	1431666.8157997655
+8	AUDITORIA EXTERNA			
+8.1	SERVIÇOS		162313.27	90682.87055142745
+	TOTAL DO ITEM 8		162313.27	90682.87055142745
+	TOTAL GERAL DA OBRA		10983198.040000001	6136207.633722554
+
+[hoja: RESUMO U$ SEM IMPOSTOS]
+EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A. 				EMPRESA DE SANEAMENTO DE MATO GROSSO DO SUL S.A. 					
+DIRETORIA TÉCNICA E COMERCIAL				DIRETORIA TÉCNICA E COMERCIAL					
+GERÊNCIA DE PROJETOS				GERÊNCIA DE PROJETOS					
+RESUMO DO ORÇAMENTO									
+OBRA:	2008_262 - S.E.S. DE PONTA PORÃ	DATA:	2008-07-22 00:00:00						
+LOCAL:	PONTA PORÃ - MS	PREÇOS:	JAN/08						
+REF:	ORÇAMENTO - FOCEM								
+	RE		CUSTO TOTAL						
+REF.	DESCRIÇÃO COMPLETA		U$ 						
+			1.7899	0.001477736164815724					
+OBRA	SISTEMA DE ESGOTAMENTO SANITÁRIO DE PONTA PORÃ								
+1	TOTAL GERAL DA OBRA								
+			6136207.633722554						
+				 IMPOSTOS	%		OBRA CUSTO(R$)		
+2	GASTOS INELEGÍVEIS		846635.4785222638	Cofins	3		SERVIÇOS 	7494183.3500000015	7494183.3500000015
+				PIS	0.65		MATERIAIS	2546954.47	2546954.470000001
+	TOTAL GASTOS ELEGÍVEIS		5289572.1552002905	I.Renda	1.2		EQUIPAMENTOS	779474.04	779746.9500000001
+				CSLL	1.08			10820611.860000003	10820884.770000001
+3	CONTRAPARTIDA(15%)		793435.8232800436	ISS	5	0.1093			
+				ICMS	10	0.20929999999999999	AUDITORIA EXTERNA	162313.27	
+				IPI	0			10982925.130000003	
+				OBRA - CUSTO (U$)					
+				SERVIÇOS 	4186928.5155595294				
+				MATERIAIS	1422959.087099838				
+				EQUIPAMENTOS	435484.6862953238				
+					6045372.288954691				
+				AUDITORIA EXTERNA	90682.87055142745				
+					6136055.159506119				
+	TOTAL RECURSO FOCEM		4496136.331920247

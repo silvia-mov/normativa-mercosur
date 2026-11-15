@@ -1,0 +1,4129 @@
+Decisión CMC N° 02/11
+Título: FONDO PARA LA CONVERGENCIA ESTRUCTURAL DEL MERCOSUR PROYECTO “CONSTRUCCIÓN DE LA AUTOPISTA ÑU GUAZÚ: ASUNCIÓN - LUQUE (6,3 KM)”
+Tipo de documento: texto
+Archivo original: 39020_DEC_002-2011_ES_Proyecto Autopista Ñu Guazú--FOCEM.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC. N° 02/11
+
+
+FONDO PARA LA CONVERGENCIA ESTRUCTURAL DEL MERCOSUR
+PROYECTO “CONSTRUCCIÓN DE LA AUTOPISTA ÑU GUAZÚ: ASUNCIÓN - LUQUE (6,3 KM)”
+
+
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Decisiones N° 45/04, 18/05, 01/10 y 50/10 del Consejo del Mercado Común.
+
+CONSIDERANDO:
+
+Que las Decisiones CMC N° 45/04, 18/05 y 01/10 aprobaron la creación, integración y reglamentación del Fondo para la Convergencia Estructural del MERCOSUR (FOCEM).
+
+Que la Decisión CMC N° 50/10 aprobó el presupuesto del FOCEM para el año 2011.
+
+Que, conforme lo establece el Reglamento del FOCEM, la Unidad Técnica FOCEM (UTF), conjuntamente con el personal técnico puesto a disposición por los Estados Partes, evaluó el proyecto “Construcción de la Autopista Ñu Guazú: Asunción – Luque (6,3 Km)”, presentado por la República del Paraguay.
+
+Que la UTF emitió un dictamen técnico en el que se determina la viabilidad técnica y financiera del proyecto y en el que se incluyen conclusiones y recomendaciones que deberán ser incorporadas en el instrumento jurídico a suscribirse oportunamente para su financiamiento y ejecución.
+
+Que la Comisión de Representantes Permanentes del MERCOSUR y el Grupo Mercado Común evaluaron el dictamen técnico presentado y elevaron el mencionado proyecto, considerado técnica y financieramente viable, para su aprobación.
+
+
+EL CONSEJO DEL MERCADO COMÚN
+DECIDE:
+
+Art. 1 - Aprobar el Proyecto “Construcción de la Autopista Ñu Guazú: Asunción – Luque (6,3 Km.)”, presentado por la República del Paraguay, por un monto total de US$ 27.576.524,00 (veintisiete millones quinientos setenta y seis mil quinientos veinticuatro dólares estadounidenses), de los cuales US$ 20.719.573,00 (veinte millones setecientos diecinueve mil quinientos setenta y tres dólares estadounidenses) son aportados por el FOCEM y US$ 6.856.951,00 (seis millones ochocientos cincuenta y seis mil novecientos cincuenta y un dólares estadounidenses) son aportados por la República del Paraguay en carácter de contrapartida nacional. Dicho proyecto, en idioma español, consta como Anexo y forma parte de la presente Decisión.
+
+Art. 2 - Instruir a la Secretaría del MERCOSUR a concluir, por intermedio de la UTF, la elaboración del instrumento jurídico relativo a la ejecución y al cronograma de financiamiento del proyecto mencionado en el Artículo 1 de la presente Decisión y a suscribirlo con la República del Paraguay.
+
+En el citado instrumento jurídico se incluirán las conclusiones y recomendaciones formuladas por la UTF en su Dictamen Técnico Nº 21.
+
+Art. 3 - Esta Decisión no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+
+CMC (Dec. CMC N° 20/02, Art. 6°) - Montevideo, 13/IV/11.
+
+
+
+
+
+
+
+
+República del Paraguay
+
+Ministerio de Obras Públicas y Comunicaciones
+
+
+Fondo para la Convergencia Estructural del  Mercosur
+
+
+
+
+
+
+PROYECTO
+
+“CONSTRUCCIÓN DE LA AUTOPISTA ÑUGUAZÚ: 
+ASUNCIÓN – LUQUE”
+6,30 KM
+
+
+
+
+
+
+
+
+
+
+Marzo, 2011
+
+
+Índice del contenido
+ 
+SÍNTESIS DEL PROYECTO – FICHA ELECTRÓNICA	4
+ANEXO 1 – ANÁLISIS TÉCNICO	18
+I	Informaciones Generales	18
+I.1	Código SIP	18
+I.2	Título	18
+I.3	Sector	18
+I.4	Marco Estratégico del Proyecto, relación con otros planes	18
+I.5	Componente FOCEM	20
+II	Identificación	21
+II.1	Descripción del Problema - Identificación de la situación actual y su posible evolución	21
+II.2	Definición de competencia institucional	23
+II.3	Alcance y Población beneficiaria:	25
+II.4	Localización geográfica (justificación, relación con población)	26
+II.5	Beneficios Estimados	27
+III	Alternativas de Solución	27
+III.1	Situación sin Proyecto	27
+III.2	Alternativas posibles	27
+III.3	Justificación de la alternativa seleccionada	28
+III.4	Justificación del proyecto FOCEM	28
+III.5	Estudio de la demanda	29
+IV	Preparación del Proyecto	29
+IV.1	Sistema de Marco Lógico	29
+IV.2	Descripción del proyecto	32
+IV.3	Costos del proyecto y financiamiento	34
+IV.4	Plazos estimativos (ejecución – operación)	34
+IV.5	Fecha prevista de puesta en marcha	35
+IV.6	Cronograma físico-financiero (semestral para el primer año)	35
+IV.7	Sostenibilidad del proyecto	35
+IV.8	Relación con otros proyectos	37
+IV.9	Diseño e Ingeniería	38
+IV.10	Análisis Legal	43
+IV.11	Riesgos y Externalidades	43
+ANEXO 2 – ANÁLISIS FINANCIERO	45
+ANEXO 3 – ANÁLISIS SOCIOECONÓMICO	48
+V	Metodología general de la Evaluación Económica	48
+V.1	Modelación de la Red Vial	48
+V.2	Metodología para la determinación de los precios económicos	51
+V.3	Análisis Beneficio Costo – Indicadores de Rentabilidad Económica	51
+VI	Análisis del Tránsito y Demanda Futura	52
+VII	Estrategias de conservación	59
+VIII	Costos de Inversión y Conservación	59
+IX	Beneficios del Proyecto	61
+IX.1	Ahorro en Costos de los Usuarios	61
+IX.2	Costos de Operación Vehicular (COV)	61
+IX.3	Costos del tiempo de pasajero	63
+X	Análisis Beneficio Costo - Indicadores de Rentabilidad Económica	64
+X.1	Alternativa 1: Pavimento flexible	64
+X.2	Alternativa 2: Pavimento rígido	65
+X.3	Resumen	65
+X.4	Análisis de Sensibilidad	66
+X.5	Alternativa 1: Pavimento flexible	66
+X.6	Alternativa 2: Pavimento rígido	66
+X.7	Conclusión	66
+ANEXO 4 – ANÁLISIS AMBIENTAL	68
+XI	INTRODUCCIÓN	68
+XII	CARACTERIZACIÓN DEL PROYECTO	70
+XII.1	ANTECEDENTES	70
+XII.2	OBJETIVOS DEL PROYECTO	70
+XII.3	LOCALIZACION	71
+XII.4	INVERSIÓN PREVISTA	71
+XII.5	INFRAESTRUCTURA PREVISTA	71
+XII.6	ETAPAS DEL PROYECTO	72
+XII.7	MARCO POLÍTICO, LEGAL Y ADMINISTRATIVO	74
+XII.8	DEFINICIÓN DEL AREA DE INFLUENCIA DEL PROYECTO	76
+XII.9	DIAGNÓSTICO SOCIOAMBIENTAL DEL ÁREA DE INFLUENCIA	76
+XIII	SITUACIÓN AMBIENTAL ACTUAL IDENTIFICADA (PASIVOS AMBIENTALES)	78
+XIV	IDENTIFICACIÓN DE IMPACTOS AMBIENTALES	79
+XIV.1	Metodología	79
+XIV.2	Descripción de los impactos potenciales	80
+XV	PLAN DE GESTIÓN AMBIENTAL	82
+XV.1	PLAN DE MITIGACIÓN DE IMPACTOS AMBIENTALES	84
+XV.2	PLAN DE FORTALECIMIENTO DE LA GESTIÓN INSTITUCIONAL	88
+XV.3	PLAN DE MONITOREO AMBIENTAL	88
+XV.4	RESUMEN GENERAL	93
+ANEXO 5 – DOCUMENTOS OFICIALES	95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SÍNTESIS DEL PROYECTO
+FICHA  ELECTRÓNICA
+
+SÍNTESIS DEL PROYECTO – FICHA ELECTRÓNICA
+
+“CONSTRUCCIÓN DE LA AUTOPISTA ÑUGUAZÚ: ASUNCIÓN – LUQUE (6,3 Km)”
+
+    a) No. de Solicitud
+N°
+
+    b) Título
+“CONSTRUCCIÓN DE LA AUTOPISTA ÑUGUAZÚ: ASUNCIÓN – LUQUE (6,3 Km)”
+    c) Programa y Componente FOCEM
+El presente proyecto se encuentra vinculado al PROGRAMA 1, Programa de Convergencia Estructural – contribución al desarrollo y ajuste estructural de las economías menores y regiones menos desarrolladas, incluyendo el mejoramiento de los sistemas de integración fronteriza y de los sistemas de comunicación en general. Y encuadrado a su vez en el componente i) de construcción, modernización y recuperación de vías de transportes modal y multimodal que optimicen el movimiento de la producción y promuevan la integración física entre los Estados Partes y entre sus sub-regiones.
+    d) Datos Institucionales 
+Organismo Ejecutor:
+Ministerio de Obras Públicas y Comunicaciones (MOPC)
+Vice Ministerio de Obras Públicas y Comunicaciones
+Unidad Ejecutora de Proyectos FOCEM
+Dirección:
+Oliva esquina Alberdi, Asunción
+Responsable:
+Abog. Efraín Alegre, Ministro de Obras Públicas y Comunicaciones
+Teléfono / FAX:
+Teléfono / fax: 414 9000
+e-mail:
+focem@mopc.gov.py
+Coordinador UNE:
+Ing. René Peralbo. Designado por Resolución N° 1430 del 5 de Diciembre de 2008, como Jefe de la Unidad Ejecutora de los Proyectos FOCEM
+    e) Alcance y Localización Geográfica:
+El Proyecto se ubica en el Departamento Central de la Región Oriental. La traza se desarrolla en los municipios de Asunción y Luque y se implanta, en toda su extensión, sobre la franja de dominio del Ferrocarril. Se inicia en la intersección de la calle Itapúa con la Ruta Nacional Nº 9 “Transchaco” (en el lugar conocido como “Estación Botánico”), dirigiéndose hacia el este y sureste interceptando a lo largo de su trazado a la circunvalatoria Avda. Dr. Semidei (continuación de la Avda. Madame Lynch)  y a la Avda. Silvio Pettirossi, hasta empalmarse con la Ruta Gral. Elizardo Aquino, considerada como fin del tramo, con una extensión aproximada de 6,3 Km.
+El extremo Oeste, en la ciudad de Asunción, se halla próximo a la Avda. Primer Presidente, que a modo de continuación de la Ruta Nacional Nº 9 “Transchaco” se adentra en la Capital conectando con la Avda. Sacramento y la Avda. General Artigas. Esta vía, Primer Presidente, está destinada a conectarse en el futuro con la Avenida Costanera cuyo primer tramo de 4,8Km se halla en construcción.
+
+Fig.1 - Ubicación en el Departamento Central
+
+Fig. 2 - Área de Influencia Directa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 3 - El Proyecto y su conexión con la Avenida Costanera y con el Aeropuerto Internacional
+
+Fig. 4 - Planta del Proyecto
+
+    f) Matriz de Marco Lógico
+Resumen Narrativo de Objetivos
+Fin:     Mejorar la eficiencia del sistema de transporte interurbano Luque-Asunción y acceso al Aeropuerto Internacional, con reducción de costos de transporte. 
+Propósito: Tiempos de viaje y costos de operación vehicular reducidos.
+Componentes
+Indicadores intermedios y finales
+Medios de Verificación
+Supuestos
+
+    1. Construcción.
+    2. Fiscalización  de Obras.
+    3. Plan de Gestión Socio Ambiental.
+    4. Auditoría Externa.
+
+1. Construcción de la Autopista Ñuguazú (6,3Km), de acuerdo al siguiente cronograma:
+Año
+Ejecución
+2010
+Línea de Base
+2011
+Licitaciones
+Obras 20%
+2012
+Obras 60%
+2013
+Obras 20%
+Operación
+2. Contratación previa al inicio de obras, ejecución según avance de la obra.
+3. Contratación previa al inicio de obras,  ejecución según avance de la obra.
+4. Contratación por FOCEM.
+
+1. Informes periódicos de la Unidad Nacional Ejecutora (UNE), en base a:
+    • Informes de fiscalización.
+    • Certificados de obras y actas de recepción correspondientes.
+2. Informes periódicos  de la UNE.
+3. Informes periódicos  de la UNE.
+4. Informe de auditoría externa.
+
+Los precios de los combustibles y lubricantes derivados del petróleo no sufren variaciones importantes.
+
+    g) Beneficios Estimados
+Este proyecto, Autopista Ñuguazú, al ser construido como un acceso de vía rápida a la Ciudad de Asunción, permitirá, a los municipios que se encuentren dentro del área de influencia, tanto directa como indirecta, acceder a la Capital con un tráfico seguro y en un tiempo mucho menor al que se requiere actualmente, lo que redundará en mayores beneficios a los usuarios, provenientes principalmente de los ahorros en costos de operación de los vehículos y reducción del tiempo de viaje. 
+
+La ejecución del proyecto generará beneficios directos a los usuarios del camino, entre los cuales se pueden mencionar: 
+    (i) reducción de los costos operativos de vehículos livianos; 
+    (ii) reducción de los tiempos de viajes de conductores y acompañantes en los vehículos livianos; y
+    (iii) posibilitará un mejor y más rápido acceso de la Capital del País al Aeropuerto Internacional Silvio Pettirossi, potenciando  la valoración del transporte aéreo.
+Además de estos beneficios, se deben considerar otros beneficios directos, los cuales resultan difíciles de medir, tales como el aumento del confort y seguridad, que producirá el proyecto.
+El mejoramiento del Acceso Norte a la Ciudad de Asunción a través de la Avda. Ñuguazú, proporcionará una nueva infraestructura vial que generará un efecto de inducción de nuevas inversiones, lo que permitirá consolidar el proceso de desarrollo de la zona de influencia.
+Una vez concluida la obra, la misma permitirá que las localidades ubicadas dentro del área de influencia obtengan una conexión permanente ahorrando tiempo de viaje y reduciendo costos de transporte, lo que propiciará la activa participación de la región en el desarrollo tanto nacional como internacional, en los aspectos económico, social, y cultural. Los beneficios que habrá de generar la obra, compensarán los costos de la inversión, tornándola altamente rentable y factible desde el punto de vista técnico económico.
+    h) Estimación de potenciales beneficiarios
+Si bien el proyecto Autopista Ñuguazú, se extiende desde Asunción, Capital de la República del Paraguay, hasta la ciudad de Luque, el mismo constituye un corredor de acceso de otras ciudades cercanas, tanto del Departamento Central como del Departamento de la Cordillera. Por ello que se considera como área de influencia directa a los municipios de Areguá, Ypacarai, San Bernardino, Caacupé, Altos y Tobatí.
+Según el censo de población y vivienda del año 2002, en el área de influencia directa del proyecto, la población total afectada al tramo en estudio es la siguiente:
+
+Distritos
+Hombres
+Mujeres
+Total
+Asunción
+240.922
+274.941
+515.863
+Luque
+114.604
+117.455
+232.060
+Areguá
+  27.184
+  26.883
+54.067
+Ypacaraí
+  11.920
+  12.106
+24.026
+Caacupé
+  21.765
+  21.835
+43.600
+San Bernardino
+    5.260
+    4.900
+10.160
+Altos
+    6.330
+    5.771
+12.101
+Tobatí
+  12.866
+  11.701
+24.567
+TOTAL
+440.851
+475.592
+916.444
+Fuente: Censo Nacional de Población y Vivienda, 2002.  DGEEC.
+Tomando en consideración la tasa de crecimiento anual nacional1 (2,6% anual acumulativo), se estima que la población afectada al proyecto, en el año 2010, sería de aproximadamente 1.125.000 habitantes.
+Los beneficiarios que se hallan afectados indirectamente al proyecto son pobladores de los departamentos: Central, Cordillera, Guairá, Caaguazú, Caazapá y Alto Paraná. Se estima que la población afincada en estos departamentos podrán utilizar el tramo en estudio para su desplazamiento hacia Asunción, capital de la República. El total de población estimada a ser afectada indirectamente al proyecto, según datos censales, es de 1.895.000 habitantes.
+
+    i) Situación sin proyecto
+El acceso a la Ciudad de Asunción desde el Aeropuerto principal del país así como desde los Municipios ubicados en la zona norte y noreste de la Capital, que comprenden parte de los Municipios de Mariano Roque Alonso, Limpio, Luque, Areguá, Ypacarí y otros, se realiza a través de una red de avenidas y rutas pavimentadas que actualmente presenta una acentuada congestión, particulamente en las horas denomindas “pico”. La vía principal, la denominada Avda. Silvio Petirossi, si bien cuenta con doble calzada de dos carriles cada una, resulta insuficiente por la poca eficiencia de sus interconexiones, todas a nivel. 
+El tránsito de cargas, desde los puntos mencionados, así como otras líneas de transporte interurbano, utiliza, como un segundo acceso, la Ruta Gral. Elizardo Aquino, vía que cuenta con una sola calzada y dos carriles de circulación,  la cual también se encuentra superada en su capacidad en el punto de intersección de la misma con la Avda. Silvio Petirossi y la Avda. Madame Lynch, punto en que converge el tránsito proveniente de los dos accesos mencionados.
+De manera que la red, conformada por estas vías, resulta insuficiente para permitir el tránsito rápido a una población urbana en constante crecimiento.
+Las condiciones actuales de transitabilidad provocan un alto costo de operación de los vehículos que utilizan estos accesos así como una pérdida de tiempo importante de los usuarios de las vías, debido fundamentalmente a la muy baja velocidad de circulación que ofrecen estos accesos. 
+De no ejecutarse el Proyecto, esta situación, atendiendo al crecimiento de la población del área metropolitana especialmente en los municipios mencionados, se irá agravando a medida que transcurran los años. Uno de los ejes sobre el cual se desarrolla el crecimiento poblacional es el de Asunción-Luque, sobre el que actualmente, se tienen numerosos proyectos de barrios privados en construcción o a construirse.  El incremento del tránsito producirá cada vez mayor congestión en los accesos, obstaculizando el desarrollo normal del transporte de cargas y pasajeros y afectando el acceso al Aeropuerto Internacional.
+    j) Alternativas posibles
+La construcción de pasos a desnivel en las intersecciones incrementará sustancialmente la velocidad del tránsito. Pero el flujo de vehículos, proveniente de las Avenidas Silvio Pettirossi y Ruta Gral. Aquino, converge finalmente en la intersección de Silvio Pettirossi con la Avda. Madame Lynch. Transladándose la congestión a este punto de entrada a la ciudad de Asunción. Y la continuación de la Avda. Silvio Pettirossi ya dentro del municipio de Asunción, la Avda. Aviadores del Chaco, presenta pocas posibilidades de ampliación sin la realización de costosas expropiaciones de terrenos privados.
+Sin embargo, existe una faja de terreno no utilizada hasta el momento, comprendida dentro de la franja de dominio de la vía férrea. Este espacio une en línea recta prácticamente el centro de la ciudad de Luque con el inicio de la Ruta Transchaco, con una longitud aproximada de 7 Km pasando frente a grandes extensiones de tierra no ocupadas con asentamientos urbanos como el Parque Ñuguazú, la sede de la Secretaría de Deportes y un cuartel del Ejército. La utilización de parte de esta faja de terreno para la construcción de una autopista, con soluciones a desnivel en las intersecciones, permitirá disponer de una vía rápida para el translado de un flujo importante del tránsito hacia la zona centro y norte de Asunción, reduciendo la actual congestión de vehículos en la intersección de Silvio Pettirossi con Madame Lynch y proveyendo un acceso rápido al Aeropuerto Internacional ubicado en Luque.  Contribuyendo de esta manera al incremento sustancial de la eficiencia del sistema de transporte interurbano del Gran Asunción, reduciendo los costos de translado de personas y cargas mediante la reducción notable de los tiempos de viaje y de los costos de operación de vehículos.
+La ejecución del Proyecto propuesto, la Autopista Ñuguazú, como vía rápida, constituirá una alternativa de solución a la situación actual. Ya que permitirá que un gran volumen del tránsito liviano pueda utilizar esta vía, lo que redundará en importantes beneficios a los usuarios, provenientes principalmente de los ahorros en costos de operación de los vehículos y reducción del tiempo de viaje, beneficiando, por los mismos motivos, a aquellos usuarios que, considerando el destino de los mismos, continuarán utilizando como accesos la Avda. Silvio Petirossi y la Ruta Gral. Elizardo Aquino.
+Así mismo, como parte del estudio, se han evaluado dos alternativas tecnológicas para este proyecto, la de analizar la carpeta de rodadura con pavimento flexible (concreto asfáltico) y con pavimento rígido de hormigón hidráulico.
+    k) Indicadores Económicos
+Indicadores de Rentabilidad Económica
+Del análisis de rentabilidad del proyecto se calcularon los siguientes indicadores para las dos alternativas tecnológicas evaluadas:
+
+	Indicadores
+Pavimento
+Flexible
+Pavimento Rígido
+    • Valor Actual Neto (VAN) (USD millones)
+34,19
+32,27
+    • Tasa Interna de Retorno (TIR)
+22,2%
+20,6%
+Los valores presente neto fueron descontados a una tasa del 7%.
+Como resultado de los análisis económicos realizados, se determinó la conveniencia de seleccionar como alternativa elegida la construcción del proyecto con Pavimento Flexible.
+Sensibilidad
+En el siguiente cuadro se presenta el comportamiento de los indicadores de rentabilidad económica (VAN, TIR) ante escenarios pesimistas con respecto a la variación de costos e ingresos del proyecto:
+
+Escenarios
+Indicadores
+Pavimento flexible
+Pavimento rígido
+Incremento de Costos 20%
+VAN (Millones de US$)
+30,74
+28,39
+
+TIR
+  18,4%
+17,5%
+Disminución de Beneficios 20%
+VAN (Millones de US$)
+23,90
+21,93
+
+TIR
+18,2%
+16,8%
+Incremento de Costos 10% y disminución de Beneficios 10%
+VAN (Millones de US$)
+27,32
+25,16
+
+TIR
+18,3%
+17,2%
+
+Como se observa, la implementación del presente proyecto se justifica ampliamente en base a los indicadores de rentabilidad arrojados, los cuales soportan considerablemente los escenarios de sensibilidad planteados ya que en todos los casos la TIR es bien mayor a la tasa mínima de rentabilidad social del 7%, indicada para los proyectos a ser financiados por FOCEM.
+    l) Justificación de la alternativa seleccionada
+En el diseño de Ingeniería están definidos los costos  estimados y los indicadores económicos considerando las dos opciones (pavimento flexible y rígido). Se aclara que un componente importante de la inversión lo constituyen los puentes y pasos a desnivel, por tanto la incidencia de la opción entre pavimento flexible y rígido se ve claramente reducida.
+Sin embargo, se considera conveniente decidir entre los dos tipos de pavimentos. En este sentido, dos aspectos principales influyen en la ventaja o desventaja comparativa entre una u otra alternativa tecnológica: i) la inversión inicial; y ii) la vida útil. Que como síntesis se expresa:
+a) Pavimento Flexible con carpeta de concreto asfáltico:
+    i) La inversión inicial es menor, dado que por la característica flexible del paquete estructural puede hacerse en capas de capacidad portante variable hasta la requerida por el tráfico a corto y mediano plazo, pudiendo hacerse refuerzos futuros adaptándose a la viabilidad económica de largo plazo;
+    ii) La vida útil de la estructura superior es menor y requiere un programa de mantenimiento más riguroso;
+    iii) El confort del desplazamiento es superior y asegura la conservación de la velocidad de diseño.
+b) Pavimento Rígido de Hormigón Simple:
+    i) La inversión inicial es superior, dado que por la característica rígida de la placa del pavimento exige un espesor mínimo que no puede ser reducido por razones técnicas;
+    ii) La vida útil es más prolongada y el costo del mantenimiento requerido es menor;
+    iii) La presencia de las juntas transversales ofrece menor confort a los usuarios.
+Hechas las evaluaciones económicas de las alternativas, para el horizonte del proyecto establecido en 20 años, se observa que la solución con pavimento flexible es más conveniente. Por lo tanto la mejor opción consiste en pavimento flexible con carpeta de concreto asfáltico.
+    m) Relación con otros proyectos
+El proyecto de construcción de la Autopista Ñuguazú se vincula con proyectos en ejecución y con otros en fase de diseño. Todos ellos destinados al mejoramiento de la competitividad productiva a través de la reducción del tiempo de translado de los usuarios y del costo de operación de vehículos de carga en el área metropolitana de Asunción. A continuación se mencionan estos proyectos:
+                                a. Proyecto de “Rehabilitación y Mejoramiento del Acceso y Circunvalación del Gran Asunción”, que está siendo ejecutado con financiamiento del FOCEM y comprende los siguientes tramos que convergen en la ciudad de Luque:
+Obra 1: Areguá – Patiño – Ypacaraí. 
+Esta Obra es continuidad del tramo Luque – Areguá (Obra 2).
+Obra 2: Luque – Areguá – Ruta 2.
+Obra 3: Ñemby – San Lorenzo – Luque.
+Obra 4: Luque – Limpio – Piquete Cué.
+                                b. Mejoramiento del Acceso Norte a la Ciudad de Asunción, cuyos estudios de ingeniería están concluidos. Como parte de estos estudios se ha desarrollado precisamente la Autopista Ñuguazú. Los demás proyectos son:
+                                    i. La Ampliación y Mejoramiento de la Ruta 3, tramo comprendido entre la Ruta Transchaco y la Ciudad de Limpio. Este proyecto comprende la duplicación de la ruta y el By-pass a la ciudad de Limpio;
+                                    ii. La Rehabilitación y Mejoramiento de la Avda. Paseo Fátima o Constanera de Mariano Roque Alonso, entre Puente Remanso y la entrada al Jardín Botánico. Esta vía es paralela al río Paraguay y conecta una serie de puertos privados localizados en el municipio de Mariano Roque Alonso. 
+                                c. Mejoramiento del Acceso Este a la Ciudad de Asunción, cuyos estudios de ingeniería están concluidos. Este proyecto se localiza paralelamente a la Avda. Mcal. López y constituirá una alternativa de unión entre la ciudad de San Lorenzo y la Avda. Santa Teresa de acceso a Asunción. También tendrá vías de conexión con la ciudad de Luque.
+                                d. Pasos a desnivel en intersecciones de la Avda. Madame Lynch, cuyos estudios de ingeniería se hallan en ejecución. Estos proyectos permitirán agilizar el tránsito en los nudos críticos concediendo a Madame Lynch un desempeño de vía rápida para circunvalar Asunción. Entre éstos podemos señalar al viaducto en la intersección de la Avda. Dr. Semidei (continuación de Madame Lynch) con la Ruta Transchaco, el viaducto en Silvio Pettirossi y Madame Lynch y el viaducto en Santa teresa y Madame Lynch.
+                                e. El Proyecto de la Franja Costera, actualmente en ejecución en su primera etapa de 4,8 Km desde el puerto de Asunción hasta la Avda. Gral. Santos. Posteriormente la continuación se extenderá hasta el acceso al Jardín Botánico uniéndose con la Ruta Transchaco y la Autopista Ñuguazú.
+Considerando la cartera de proyectos definida por la Iniciativa para la Integración de la Infraestructura Regional Suramericana (IIRSA) – foro de diálogo entre las autoridades responsables de la infraestructura de transporte, energía y comunicaciones en los doce países suramericanos – este proyecto se vincula al que se indica:
+Eje		Grupo	Proyecto
+MERCOSUR-Chile	G01	MODERNIZACIÓN DEL AEROPUERTO DE ASUNCIÓN
+En virtud de que la Autopista Ñuguazú proveerá un acceso rápido desde el microcentro de Asunción, incrementando la eficiencia operativa del aeropuerto internacional Silvio Pettirossi.
+    n) Descripción técnica del proyecto 
+El proyecto consiste en la construcción de una vía rápida de acceso, de doble calzada y tres carriles por calzada, a la Ciudad de Asunción desde la zona Norte y Nor-este de la capital. La traza del proyecto posee dirección norte y nor-este y la misma se desarrolla sobre la franja de dominio del Ferrocarril, con una extensión aproximada de 6,3 Km. A lo largo de su desarrollo ha sido reservada, como separación de las calzadas,  una trocha para una futura vía férrea, ya que la actual se encuentra totalmente obsoleta.
+A lo largo de su trazado, se pueden aobservar condiciones particulares relativas al área de implantación del proyecto:
+    • Un primer tramo, desde el inicio en la intersección con la Ruta Transchaco, Prog. 0+ 000, y hasta la intersección con la Avda. Dr. Semidei (continuación de la Avda. Madame Lynch), en la Prog. 1+ 520, la traza se desarrolla en una zona urbana perteneciente al municipio de Asunción. A lo largo de este tramo han sido previstas calles colectoras laterales, a fin de que el tránsito local no afecte al que se desarrolla sobre el proyecto.
+    • Un segundo tramo, desde la intersección del proyecto con la Avda. Dr. Semidei, Prog. 1+ 520, hasta el enlace a ser construido en la intersección del proyecto con la Avda. Silvio Petirossi, en la Prog. 4+ 840, la traza se desarrolla sobre una zona despoblada, si bién en la Prog. 3+ 320, se encuentra la sede del Comité Olimpico Paraguayo (COP), no existe ninguna construcción cercana a los lindes de la franja de dominio.
+    • Un tercer tramo, desde el enlace ubicado en la Prog. 4+ 840, hasta el final del proyecto en la Prog. 6+ 289,  sobre la actual Ruta Gral. Elizardo Aquino. En este tramo se realiza una adecuación y mejoramiento de la ruta existente, ya mencionada, así como también una adecuación y  mejoramiento de la denominada Avda. De la Sudamericana, también actualmente existente. Además han sido consideradas calles colectoras laterales a fin de solucionar el tránsito local.
+A lo largo de la traza, tal como ya fue mencionado, existen intersecciones con otras vías de circulación. Para estos nudos han sido diseñadas las siguientes soluciones:
+    • Para la Intersección del proyecto con la Ruta Transchaco, al inicio del mismo, Prog. 0+ 000, se han diseñado una combinación de soluciones consistentes en una intersección a nivel y dos pasos a desnivel (sobre elevado y túnel) a fin de no entorpecer la circulación de vehículos y permitir la travesía, sin barreras, de una futura vía ferrea.
+    • Para la intersección del proyecto con la Avda. Dr. Semidei Prog. 1+ 520, se ha diseñado un enlace con paso a desnivel (Tunel) para la Avda. Dr. Semidei, considerando la importancia de ambas vías.
+    • Para la intersección del proyecto con la Avda. Silvio Petirossi, en la Prog. 4+480, y atendiendo que esta intersección representa el nudo más importante y conflictivo de la vía, ha sido diseñado un enlace de libre circulación, solución denominada técnicamente trébol. En estos enlaces todos los giros se resuelven sin intersecciones, ya que los giros a la izquierda se resuelven mediante lazos a la derecha.
+    • Y por último, prácticamente al final del tramo, en la Prog. 6+ 064, ya sobre el tramo de la Ruta Gral. Elizardo Aquino, a fin de solucionar problemas de retorno, también ha sido diseñado un paso a desnivel (Túnel), que permita retornar y acceder al proyecto.
+A lo largo de la traza, con el objeto de resolver los pasos de peatones, han sido diseñados seis (6) pasos a desnivel a ser construidos con estructuras metálicas.
+El ancho de cada una de las calzadas es de 9,60 metros (ancho de 3,20 m. para cada carril) y una reserva para la vía ferrea de 6,00 m como separador de ambas calzadas.
+
+
+
+Fig. 5 – Sección transversal tipo
+Atendiendo a la situación descrita, el MOPC ha elaborado los diseños finales de ingeniería de las obras que comprenden:
+    • Liberación de las franjas de dominio en algunos puntos aislados.
+    • Ejecución de los terraplenes y desmontes.
+    • Ejecución de pasos a desnivel.
+    • Ejecución de puentes y alcantarillas.
+    • Solución de paquete estructural con carpeta de Concreto Asfáltico, Base granular, Sub base granular estabilizada y suelo seleccionado en la subrasante, con banquina de Concreto Asfáltico.
+    • Ejecución del sistema de señalización horizontal y vertical de todo el tramo.
+En el tiempo de vida útil del Proyecto (20 años) el camino seguirá produciendo los beneficios previstos (disminución de tiempo y costo de transporte), en la medida que se realice el mantenimiento adecuadamente. 
+El mantenimiento es realizado por el Departamento de Conservación de Rutas de la Dirección de Vialidad del Ministerio de Obras Públicas y Comunicaciones, con recursos previstos en el Presupuesto de Gastos de la Nación, con fondos propios del Estado. Además el MOPC ha implementado un programa de Gestión de Mantenimiento por Niveles de Servicio (GMANS), el cual se ha iniciado en el año 2009 y tiene como objetivo final implementar planes sostenibles de mantenimiento de caminos. Esta modalidad, GMANS, será en adelante el sistema que se irá aplicando a todos las vías pavimentadas importantes del País.
+
+
+
+Costos y cronograma financiero
+
+Solución con Pavimento Flexible
+
+Objeto del gasto según Nomenclador
+Naturaleza
+Cronograma de inversiones (U$S)
+TOTAL
+
+
+Año 0
+Año 1
+Año 2
+Año 3
+ 
+4-42-422
+Construcción
+Línea Base
+4.519.457
+13.558.371
+4.519.457
+22.597.286
+
+Local
+
+677.919
+2.033.756
+677.919
+3.389.593
+
+FOCEM
+
+3.841.539
+11.524.616
+3.841.539
+19.207.693
+
+ 
+
+ 
+ 
+ 
+ 
+3-34-349
+Fiscalización
+Línea Base
+316.400
+949.200
+316.400
+1.582.000
+
+Local
+
+47.460
+142.380
+47.460
+237.300
+
+FOCEM
+
+268.940
+806.820
+268.940
+1.344.700
+
+ 
+
+ 
+ 
+ 
+ 
+3-34-349
+Plan Gest. Amb.
+Línea Base
+53.180
+159.540
+53.180
+265.900
+
+Local
+
+42.544
+127.632
+42.544
+212.720
+
+FOCEM
+
+10.636
+31.908
+10.636
+53.180
+
+ 
+
+ 
+ 
+ 
+ 
+3-34-344
+Auditoría externa
+Línea Base
+0
+45.600
+68.400
+114.000
+
+Local
+
+0
+0
+0
+0
+
+FOCEM
+
+0
+45.600
+68.400
+114.000
+
+ 
+
+ 
+ 
+ 
+ 
+
+TOTAL elegible
+ 
+4.889.037
+14.712.711
+4.957.437
+24.559.186
+
+Local
+
+767.923
+2.303.768
+767.923
+3.839.613
+
+FOCEM
+
+4.121.115
+12.408.944
+4.189.515
+20.719.573
+
+TOTAL no elegible
+
+600.686
+1.807.622
+609.031
+3.017.339
+
+No elegible
+
+600.686
+1.807.622
+609.031
+3.017.339
+
+TOTAL GENERAL
+
+5.489.723
+16.520.333
+5.566.468
+27.576.524
+Notas:
+Auditoría: 0,5% de (Construcción + Plan de Gestión Ambiental + Unidad Nacional Ejecutora).
+Gastos no elegibles: conprenden el Impuesto al Valor Agregado (10%) de { Total Elegible + Retención de Impuesto a la Renta (2% de Total Elegible) + Contribución Contrataciones (0,5% de  Total Fondo Local) } más Retención de Impuesto a la Renta (2% de Total Elegible) más Contribución Contrataciones (0,5% de Total Fondo Local).   
+
+Pari passu:  FOCEM = 84,4 % ; Paraguay = 15,6 % 
+
+Los costos incluyen obras a ser ejecutadas por empresas constructoras, servicios de fiscalización y de monitoreo ambiental por empresas consultoras y servicios de auditoría externa a ser realizados por empresas especializadas. Todas las obras y servicios serán contratadas por licitación pública internacional en un todo de acuerdo a los reglamentos de FOCEM.
+
+
+
+
+
+
+    o) Duración del proyecto (desde el inicio de su preparación hasta la puesta en operación) 
+Diseño de Ingeniería: El MOPC ya cuenta con el diseño final de ingeniería del proyecto. Además se están realizando las gestiones correspondientes a fin de disponer del Estudio de Impacto Ambiental aprobado por la Secretaría del Ambiente (SEAM)2.
+Ejecución: La preparación de los proyectos se ha iniciado en el primer semestre del año 2010. La ejecución de la obra en sí se dará a partir de la firma del COF, con la adquisición de servicios de la Contratista y la Consultora de Fiscalización, cuyo proceso tendría una duración máxima estimada de 6 meses, y la ejecución de la obra propiamente dicha de 18 meses, con lo que se estima que la obra concluirá totalmente en el segundo semestre del año 2013.
+Operación: La vida útil prevista de la obra es de 20 años, luego de los cuales deberá realizarse una evaluación estructural.
+    p) Fecha prevista de puesta en marcha
+Se prevé que a fines del año 2013 se habilitarán en su totalidad las obras terminadas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO 1
+ANÁLISIS TÉCNICO
+
+ANEXO 1 – ANÁLISIS TÉCNICO
+        II Informaciones Generales
+
+I.1 Código SIP
+Código asignado por el Sistema de Inversión Pública: ________________
+Datos Institucionales
+Organismo Ejecutor
+Ministerio de Obras Públicas y Comunicaciones (MOPC)
+Vice Ministerio de Obras Públicas y Comunicaciones
+Unidad Ejecutora de Proyectos FOCEM
+Dirección
+Oliva esquina Alberdi. Asunción
+Responsable
+Abog. Efraín Alegre, Ministro de Obras Públicas y Comunicaciones
+Teléfono / FAX
+Teléfono / fax: 414 9000
+e-mail
+focem@mopc.gov.py
+Coordinador UNE
+Ing. René Peralbo. Designado por Resolución N° 1430 del 5 de Diciembre de 2008 como Jefe de la Unidad Ejecutora de los Proyectos FOCEM
+I.2 Título
+“CONSTRUCCIÓN DE LA AUTOPISTA ÑUGUAZÚ: ASUNCIÓN – LUQUE”
+I.3 Sector
+Infraestructura
+I.4 Marco Estratégico del Proyecto, relación con otros planes 
+
+MARCO Y ORIENTACIÓN DE LA POLÍTICA VIAL DEL PARAGUAY
+En la República del Paraguay la infraestructura de transporte aún se encuentra en etapa de desarrollo, hecho muy tangible en la zona occidental del país, también llamada “Chaco”.
+En particular, la accesibilidad y movilidad en las zonas rurales tiene una alta dependencia de la infraestructura vial, lo que genera una alta presión social con relación a su conservación, especialmente en caminos no pavimentados, que representan la mayor extensión dentro del total de la red. Además, la condición mediterránea del país impone su coordinación y complemento con otros modos, principalmente el fluvial, para así atender de mejor manera los flujos comerciales de exportación e importación.
+Ante este breve diagnóstico de infraestructura y servicios de transporte insuficientes para un país en franco crecimiento, sería ideal que el sector se desenvolviese siguiendo un Plan Nacional de Transporte que fuera consistente con un bien ponderado Plan Nacional de Desarrollo y Ordenamiento Territorial.
+Mientras se concreta la formulación de este Plan Nacional de Transporte, la política vial del Paraguay busca alinearse con los objetivos de crecimiento económico y promoción de la equidad social, en un marco fiscal y ambiental sustentable, todo ello en un contexto de transparencia administrativa que promueve el Gobierno Nacional.
+
+
+PLAN ESTRATÉGICO
+El marco rector planificador actual de la República del Paraguay es el Plan Estratégico Económico y Social (PEES) 2008–2013. De él se deriva el Plan Estratégico 2008–2013, del MOPC que prevé como misión institucional  “Promover el desarrollo económico y social del Paraguay a través de la provisión de servicios de infraestructura básica de calidad”. 
+El rol estratégico dela infraestructura se basa en:
+    1. El  país necesita crecer, generar empleos y reducir los niveles de pobreza.
+    2. La infraestructura es un factor fundamental para la competitividad de la economía y el estímulo a la inversión privada.
+    3. La necesidad de superar la mediterraneidad optimizando nuestra conectividad y nuestras conexiones fluviales, aéreas y terrestres hacia el Atlántico (Europa / USA) y el Pacífico (Asia / Oceanía) minimizando tiempos y costos de transporte.
+    4. Una mayor inversión en infraestructura, además, es un factor dinamizador de la economía y generador de empleos. 
+Los objetivos estratégicos propuestos para 2008 – 2013 son:
+    1. Incrementar la inversión en infraestructura a por lo menos un 5% del Producto Interno Bruto.
+    2. Mejorar la calidad y mantener apropiadamente la infraestructura actual
+    3. Desarrollar el Plan Nacional de Infraestructura con horizonte al año 2030.
+    4. Implementar un nuevo modelo de gestión que incorpore la participación del sector privado y los gobiernos subnacionales en el financiamiento, la inversión, la operación y el mantenimiento de la infraestructura. 
+En este contexto, uno de los principales programas que se encuentra desarrollando el Ministerio de Obras Públicas y  Comunicaciones, a través de la Unidad de Proyectos Especiales, se refiere al mejoramiento y rehabilitación de un red vial que, en su conjunto, conforman las distintas vías de acceso a la Capital, dotándolas de condiciones que permitan a los usuarios la circulación con confort y seguridad así como así como una considerable disminución del tiempo de viaje
+Entre lo proyectos que se encuentran se desarrollo, podemos mencionar:
+                            1. Avenida Costanera (Asunción)
+                            2. Duplicación (doble calzada) a la ciudad de Limpio
+                            3. Avda. Laguna Grande, alternativa a Avda. Mcal. López
+                            4. Avda. Ñuguazú: acceso Asunción  - Luque 
+                            5. Avenida.Costanera de Mariano Roque Alonso
+                            6. Paso a desnivel Avda. Madame Lynch y Aviadores del Chaco
+                            7. Paso a desnivel Avda. Madame Lynch y Avda. Santa Teresa
+                            8. Paso a desnivel Avda. Madame Lynch y Ruta Transchaco
+El presente proyecto, incorporado a los planes y proyectos que están siendo implementados por el MOPC, ha sido identificado en su momento como una de las alternativas para el acceso norte a la Ciudad de Asunción a través de un “Plan Maestro de las Vías de Acceso a la Ciudad de Asunción” conocido como Plan MAVA, desarrollada durante el año 1997 por el Consorcio LATINOCONSULT S.A. – COMYCSA S.A., en cuyo Informe Final se incluye la recomendación de la construcción de este tramo entre los proyectos de mediano y largo plazo, bajo la denominación de “Mejora Vial de la Avenida del Estadio de Desfiles” (hoy denominada Autopista Ñuguazú).
+Así mismo, la red vial que conforma el denominado Acceso Norte a la Ciudad de Asunción comprende las siguientes Obras y Proyectos: 
+    • Proyecto de Rehabilitación y Mejoramiento de Acceso y Circunvalación del Gran Asunción, que está siendo ejecutado con financiamiento del FOCEM, incluye los siguientes tramos:
+Obra 1: Areguá – Patiño – Ypacarai (esta obra es continuidad de la Obra 2)
+Obra 2: Luque – Areguá – Ruta 2
+Obra 3: Ñemby – San Lorenzo – Luque
+Obra 4: Luque – Limpio – Piquete Cué
+    • Avenida Costanera de Asunción: Actualmente se encuentra en su primera etapa de ejecución el Proyecto de construcción de la Avenida Costanera de la Ciudad de Asunción, y que posteriormente se extenderá hasta las cercanías de la Ruta Transchaco, lugar en que se inicia el proyecto de la Autopista Ñuguazú;
+    • Acceso Norte: Como parte de los estudios, también se están elaborando los Diseños Finales de Ingeniería para el Mejoramiento y Ampliación de la Ruta Nº 3, entre M.R. Alonso y Limpio y el Mejoramiento y Rehabilitación de la denominada Avda. Pseo de Fátima, entre el Puente Remanso y la Ruta Transchaco;
+    • Acceso Este: Actualmente se están elaborando los proyectos de Mejoramiento y Rehabilitación de la denominada Avda. Laguna Grande, entre San Lorenzo y Asunción con accesos a la Ruta Gral. Aquino, directamente relacionada con el proyecto en estudio;
+    • Pasos a Desnivel: Actualmente se están elaborando los Diseños Finales de Ingeniería de los Viaductos previstos en las intersecciones de las Avdas. Madame Lynch y Aviadores del Chaco y entre las Avda. Dr. Semidei y la Ruta Tranchaco, que directamente se relacionan con el proyecto.
+
+EL APORTE DEL PROYECTO 
+La zona de implantación del Proyecto corresponde a la Capital del país, Asunción, y al Municipio de Luque del Departamento Central. No obstante, el Proyecto beneficia también a otros Municipios como los de  Mariano Roque Alonso, Limpio, Areguá, Ypacarí y otros conectados a la ciudad de Luque por diversas vías pavimentadas. Municipios éstos, con una alta tasa de crecimiento poblacional, lo que genera un incremento del tansporte, principalmente en lo que se refiere al tránsito de vehículos livianos. 
+El Proyecto tiene por objetivo principal, a través de la construcción de la denominada Autopista Ñuguazú, mejorar las condiciones de transitabilidad de uno de los accesos a la Ciudad de Asunción, lo que además de producir una importante reducción de los costos de operación de los vehículos, así como del tiempo de viaje de los usuarios, permitirá el acceso a la Ciudad de Asunción con mayor seguridad y comodidad desde el Aeropuerto Internacional y la ciudad de Luque.
+La construcción del Proyecto permitirá además, descongestionar otras vías utilizadas actualmente como acceso a la Ciudad de Asunción, permitiendo una mejor distribución del tránsito, sobre todo el de pasajeros y de cargas, que utiliza como único acceso la Ruta Gral. Elizardo Aquino.
+
+I.5 Componente FOCEM        
+El presente proyecto se encuentra vinculado al PROGRAMA 1, Programa de Convergencia Estructural, y encuadrado a su vez en el componente i) de construcción, modernización y recuperación de vías de transportes modal y multimodal que optimicen el movimiento de la producción y promuevan la integración física entre los Estados Partes y entre sus sub-regiones. 
+En efecto, la utilización de la faja de terreno no utilizada hasta el momento, comprendida dentro de la franja de dominio de la vía férrea, permitirá no solo la implantación de una vía rápida sino que conserva el espacio para la ubicación de una futura línea de tren suburbano, apuntando al sistema de transporte multimodal. Y además, este acceso conecta directamente al Aeropuerto Internacional ubicado en Luque, contribuyendo al desarrollo de otra modalidad de transporte.
+Y particularmente, la utilización de parte de esta faja de terreno para la construcción de una autopista, con soluciones a desnivel en las intersecciones, permitirá disponer de una vía rápida para el translado de un flujo importante del tránsito hacia la zona centro y norte de Asunción, reduciendo la actual congestión de vehículos en la intersección de Silvio Pettirossi con Madame Lynch y proveyendo un acceso rápido al Aeropuerto Internacional.  Aportando de esta manera al incremento sustancial de la eficiencia del sistema de transporte interurbano del Gran Asunción, reduciendo los costos de translado de personas y cargas mediante la reducción notable de los tiempos de viaje y de los costos de operación de vehículos.
+
+
+II Identificación 
+II.1 Descripción del Problema - Identificación de la situación actual y su posible evolución
+Uno de los accesos a la Ciudad de Asunción, desde el Aeropuerto principal del país, así como desde los Municipios ubicados en la zona norte y noreste de la Capital, que comprenden parte de los Municipios de Mariano Roque Alonso, Limpio, Luque, Areguá, Ypacarí y otros, lo constituye la denominada Avda. Silvio Petirossi. Esta avenida, si bien cuenta con doble calzada de dos carriles cada una,  y el tránsito sobre la misma está limitado a vehículos livianos y a una sola línea de ómnibus interurbano, se encuentra hoy con grandes dificultades de circulación  debido a que el tránsito existente sobre la misma, proveniente de los municipios mencionados, ha sobrepasado largamente la capacidad de la vía, sobre todo en las denominadas “horas pico” y principalmente en dos nudos críticos: la denominada “Rotonda del Aeropuerto” y la intersección de la Avda. Sudamericana con la Gral Aquino, tal como se puede observar en la siguiente figura donde se indican los nudos críticos y el sentido de circulación en la red vial existente.
+
+
+
+Fig. 6 – Nudo interconexión acceso a Luque
+
+Considerando que los vehículos que ingresan y/o salen de la ciudad de Luque utilizando estas vías deben necesariamente transitar por estos puntos críticos, se produce en ellos un congestionamiento tal que provoca un alto costo de operación de los vehículos así como una pérdida de tiempo importante de los usuarios de las vías, debido fundamentalmente a la muy baja velocidad de circulación que ofrecen estos accesos. 
+Por otro lado, si bien el tránsito de cargas, desde los puntos mencionados, así como otras líneas de transporte interurbano utilizan como un segundo acceso la ruta Gral. Elizardo Aquino, vía que cuenta con una sola calzada y dos carriles de circulación, dicho tránsito influye sobre los puntos críticos señalados agravando la situación de congestión en los mismos.
+Otro punto de congestión es la intersección de la Avda. Silvio Petirossi con la Avda. Madame Lynch, ya en la ciudad de Asunción. En las proximidades de esta intersección, la Avda. Silvio Petirossi recibe el tráfico de la ruta Gral. Aquino, de manera que todos estos vehículos, livianos y pesados, confluyen en este punto y en su mayoría3 se adentran en Asunción por la continuación de la Avda. Silvio Petirossi que pasa a denominarse Avda. Aviadores del Chaco.
+La Avda. Aviadores del Chaco, via importante de ingreso a la ciudad de Asunción, se halla implantada en una zona de auge inmobiliario y los precios de las propiedades se han elevado considerablemente. Esta situación hace muy onerosa la ampliación de la avenida mencionada mediante la expropiación de los terrenos adyacentes, motivando la búsqueda de espacios aún disponibles para la construcción de nuevas vías o la rehabilitación de calles con faja de dominio de ancho suficiente. 
+Seguidamente se resume e ilustra el esquema vial afectado por la congestión.
+Tramo (A-B): Tramo con congestión sobre la Ruta Gral. Aquino, acceso a Luque (A), hasta su intersección con la Avda. Sudamericana. Se extiende 1,1 Km y está compuesta de dos calzadas con dos carriles cada una.
+Tramo (B-C): Tramo con congestión sobre la Avda. Sudamericana desde su intersección con la Ruta Gral. Aquino hasta su intersección con la Avda. Silvio Petirossi. Consta de dos calzadas con dos carriles para cada sentido de circulación y se extiende 0,5 Km. En la intersección con la Avda. Silvio Petirossi existe una rotonda abierta.
+Tramo 3 (C-D): Tramo central de la Avda. Silvio Petirossi compuesta de dos calzadas con dos carriles cada una. En este tramo de 3,9 Km el tráfico se desplaza normalmente; y
+Tramo 4 (D-E): Tramo sobre la Avda. Silvio Petirossi que va desde su intersección con la Ruta Gral. Aquino hasta su intersección con la Avda. Madame Lynch, en el cual se vuelve a congestionar el tráfico en una longitud de 0,5 Km. La continuación de la Avda. Silvio Petirossi en Asunción se denomina Avda. Aviadores del Chaco.
+
+
+
+Las condiciones actuales de transitabilidad provocan un alto costo de operación de los vehículos que utilizan estos accesos así como una pérdida de tiempo importante de los usuarios de las vías, debido fundamentalmente a la muy baja velocidad de circulación que ofrecen estos accesos. 
+De no ejecutarse el Proyecto, esta situación, atendiendo al crecimiento de la población del área metropolitana especialmente en los municipios mencionados, se irá agravando a medida que transcurran los años. Uno de los ejes sobre el cual se desarrolla el crecimiento poblacional es el de Asunción-Luque, sobre el que, actualmente, se tienen numerosos proyectos de barrios privados en construcción o a construirse.
+La ejecución del Proyecto propuesto, la Autopista Ñuguazú, como vía rápida, constituirá una alternativa de solución a la situación actual, ya que permitirá que un gran volumen del tránsito liviano pueda utilizar esta vía, lo que redundará en importantes beneficios a los usuarios, provenientes principalmente de los ahorros en costos de operación de los vehículos y reducción del tiempo de viaje, beneficiando, por los mismos motivos, a aquellos usuarios que, considerando el destino de los mismos, continuarán utilizando como accesos la Avda. Silvio Petirossi y la Ruta Gral. Elizardo Aquino para el acceso a la ciudad de Luque y municipios lindantes al Este.
+
+II.2 Definición de competencia institucional 
+La Ley Orgánica del MOPC Nº 167/93 establece en el Art 2º.- “El Ministerio de Obras Públicas y Comunicaciones es el organismo encargado de elaborar, proponer y ejecutar las políticas y disposiciones del Poder Ejecutivo referente a las infraestructuras y servicios básicos para la integración y desarrollo económico del país. El Ministerio tiene como objetivo principal facilitar las infraestructuras públicas de su competencia y establecer normas al respecto, que sean de utilidad a la producción, comercialización y consumo del país. Corresponde a esta Cartera Ministerial las responsabilidades de bienes y servicios públicos siguientes: Obras Públicas, Transporte, Comunicaciones, Energía, Minas, Turismo y Parques Nacionales, y Monumentos Nacionales”.  
+En consecuencia, el MOPC es responsable por el desarrollo y ejecución de la política de infraestructura vial dispuesta por el Poder Ejecutivo. Su estructura orgánica comprende operativamente tres viceministerios: Obras Públicas y Comunicaciones (VMOPC), de Transporte (VMT), de Minas y Energía (VMME) y de Administración y Finanzas (VMAF).
+El MOPC será responsable de la implementación del programa, a través del VMOPC para la ejecución de las obras y a través del VMAF en lo relacionado a la administración financiera y contable de los recursos.  
+La administración de los fondos del Proyecto se realizará a través del VMAF, principalmente mediante la Dirección de Crédito Público, cuyos procesos operativos se hallan claramente definidos y toda la Institución cuenta con sobrada experiencia en la administración de fondos del FOCEM. 
+Unidad Nacional Ejecutora (UNE)
+Al VMOPC, a través de la Unidad Nacional Ejecutora de Proyecto del Fondo para la Convergencia Estructural del Mercosur – UNE FOCEM-MOPC, le corresponde planificar, presupuestar y fijar bases y condiciones para licitar y contratar la construcción, rehabilitación, conservación y mantenimiento de los proyectos viales de carácter nacional y departamental y por medio de la Unidad Ambiental (UA) realizar estudios de impacto ambiental de los proyectos de obras públicas y ejecutar los Planes de Gestión Ambiental de los mismos.
+Dependiente del VMOPC, fue creada la Unidad Nacional Ejecutora de Proyecto FOCEM-MOPC (UNE FOCEM-MOPC) a fin de dar cumplimiento a los compromisos con los diversos convenios suscriptos. Su responsabilidad es coordinar la implementación de los proyectos, incluyendo la elaboración de agendas de licitación y la supervisión de consultores, constructores e instituciones involucradas en el proyecto.
+Dentro del esquema de la UNE se propone que la responsabilidad sea asignada a un funcionario del MOPC, con demostrada capacidad y experiencia en el gerenciamiento y ejecución de obras de similar envergadura. Así mismo, el equipo técnico que conforma la estructura orgánica de la UNE está integrado por funcionarios y personal contratado, asegurando la capacidad instalada del MOPC. De hecho, esta UNE se halla instalada y ejecutando todos los proyectos viales del MOPC financiados por FOCEM.
+Para la ejecución de este Proyecto la Unidad Nacional Ejecutora está organizada según la siguiente estructura:
+    • Coordinación General.
+    • Coordinación de Planificación y Programación.
+    • Coordinación de Obras.
+    • Coordinación Ambiental.
+
+Franja de dominio      
+El proyecto se desarrollará en la Franja de Dominio del Ferrocarril, que es propiedad del Estado. No obstante, los procedimientos legales, administrativos y operativos complementarios que sean necesarios respecto a la adquisición de derecho de vía en el marco de este proyecto serán incluidos y aprobados mediante una Ley de Expropiación. En dicha Ley se declarará de utilidad pública e interés social la expropiación de los inmuebles y mejoras comprendidas en las áreas afectadas a la ejecución del proyecto. 
+El procedimiento de expropiación se sustenta en el Artículo 109 de la Constitución Nacional, respetando además los derechos consagrados en los Artículos 39 y 128, y conforme a las disposiciones técnicas, administrativas y legales que se establecerán oportunamente en la Ley del Convenio.
+Para la ejecución del proceso de liberación de la franja de dominio, el MOPC cuenta con la Unidad de Bienes Inmobiliarios (UBI) y el Departamento de Avalúo Oficial, dependientes del VMOPC, especializados en todos los procedimientos técnicos y administrativos para tal fin.
+
+II.3 Alcance y Población beneficiaria:
+Si bien el proyecto Autopista Ñuguazú, se extiende desde Asunción, Capital de la República del Paraguay, hasta la ciudad de Luque, el mismo constituye un corredor de acceso de otras ciudades cercanas, tanto del Departamento Central como del Departamento de la Cordillera, es por ello que se considera como área de influencia directa a los municipios de Areguá, Ypacarai, San Bernardino, Caacupé, Altos y Tobatí, según se puede observar en la siguiente imagen:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 7 – Area de Influencia del Proyecto
+Según el censo de población y vivienda del año 2002, en el área de influencia directa del proyecto, la población total afectada al tramo en estudio es la siguiente
+
+
+Distritos
+Hombres
+Mujeres
+Total
+Asunción
+240.922
+274.941
+515.863
+Luque
+114.604
+117.455
+232.060
+Areguá
+  27.184
+  26.883
+54.067
+Ypacaraí
+  11.920
+  12.106
+24.026
+Caacupé
+  21.765
+  21.835
+43.600
+San Bernardino
+    5.260
+    4.900
+10.160
+Altos
+    6.330
+    5.771
+12.101
+Tobatí
+  12.866
+  11.701
+24.567
+TOTAL
+440.851
+475.592
+916.444
+Fuente: Censo Nacional de Población y Vivienda, 2002.  DGEEC.
+
+Tomando en consideración la tasa de crecimiento anual nacional (2,6% anual acumulativo), se estima que la población afectada al proyecto, en el año 2010, sería de aproximadamente 1.125.000 habitantes
+Los beneficiarios que se hallan afectados indirectamente al proyecto son pobladores de los departamentos: Central, Cordillera, Guairá, Caaguazú, Caazapá y Alto Paraná. Se estima que la población afincada en estos departamentos podrán utilizar el tramo en estudio para su desplazamiento hacia Asunción, capital de la República. El total de población estimada a ser afectada indirectamente al proyecto, según datos censales, es de 1.895.000 habitantes.
+
+II.4 Localización geográfica (justificación, relación con población)   
+Tal como fuera señalado más arriba,  los accesos a la Ciudad de Asunción, desde el Aeropuerto principal del país, así como desde los Municipios ubicados en la zona norte y noreste de la Capital, lo constituyen la denominada Avda. Silvio Petirossi, con un tránsito limitado a vehículos livianos y a una sola línea de ómnibus interurbano y para el transito de cargas y otras líneas de transporte interurbanos,  se utiliza, como un segundo acceso, la Ruta Gral. Elizardo Aquino. Ambas actualmente, con grandes dificultades de circulación  debido a que el tránsito existente sobre las mismas ha sobrepasado largamente la capacidad de estas vías, sobre todo en las denominadas “horas pico”.
+Así mismo estas vías de acceso se encuentran hoy con varias limitaciones con relación a la disponibilidad de franja de dominio, lo que no permite ampliar, de manera contínua, la cpacidad de las mismas.
+Atendiendo a ello y a la existencia de la franja de dominio del Ferrocarril aún disponible en su mayor longitud y propiedad del Estado, el proyecto ha sido implantado sobre dicha traza.
+La ejecución del Proyecto propuesto, la Autopista Ñuguazú, como vía rápida, constituirá una alternativa de solución a la situación actual, ya que permitirá que un gran volumen del tránsito liviano pueda utilizar esta vía, lo que redundará en importantes beneficios a los usuarios, provenientes principalmente de los ahorros en costos de operación de los vehículos y reducción del tiempo de viaje, beneficiando, por los mismos motivos, a aquellos usuarios que, considerando el destino de los mismos, continuarán utilizando como accesos la Avda. Silvio Petirossi y la Ruta Gral. Elizardo Aquino.
+
+El Proyecto abarca una longitud de 6,3 Km, con origen en la Ruta Transchaco (Asunción, Capital) hasta su intersección con la Ruta Gral. Elizardo Aquino, que constituye el acceso principal a la ciudad de Luque,  coincidiendo  con el trazado actual de la vía existente.
+
+La zona de implantación del Proyecto corresponde a la Capital del país, Asunción, y al Municipio de Luque del Departamento Central.
+
+II.5 Beneficios Estimados   
+Este proyecto, al ser construido como un acceso de vía rápida a la Ciudad de Asunción, permitirá, a los municipios que se encuentren dentro del área de influencia, tanto directa como indirecta, acceder a la Capital con un tráfico seguro y en un tiempo mucho menor al que se requiere actualmente, lo que redundará en mayores beneficios a los usuarios, provenientes principalmente de los ahorros en costos de operación de los vehículos y reducción del tiempo de viaje. 
+La ejecución del proyecto generará beneficios directos a los usuarios del camino, entre los cuales se pueden mencionar: 
+    (iv) reducción de los costos costos operativos de vehículos livianos; 
+    (v) reducción de los tiempos de viajes de conductores y acompañantes en los vehículos livianos; y
+    (vi) posibilitará un mejor y más rápido acceso entre la Capital del País y el Aeropuerto Internacional Silvio Petirossi.
+Además de estos beneficios, se deben considerar otros beneficios directos, los cuales resultan difíciles de medir, tales como el aumento del confort y seguridad, que producirá el proyecto.
+
+
+III Alternativas de Solución
+III.1 Situación sin Proyecto 
+Tal como ya fuera señalado en el punto II.1 Descripción del Problema, los accesos a la Ciudad de Asunción, desde el Aeropuerto principal del país, así como desde los Municipios ubicados en la zona norte y noreste de la Capital, se encuentran sobrepasados en la capacidad de los mismos ocasionando graves dificultades a la circulación, ocasionando un alto costo de operación de los vehículos que utilizan estos accesos así como una pérdida de tiempo importante de los usuarios, debido fundamentalmente a la muy baja velocidad de circulación que ofrecen actualmente estos accesos. 
+ 
+III.2 Alternativas posibles 
+Como alternativa posible a fin de disponer de un acceso a la Ciudad de Asunción con condiciones de seguridad y comodidad, disminuyendo los costos operativos de los vehículos así como el tiempo de viaje de los usuarios, fue diseñada la Autopista Ñuguazú. Autopista que permitirá el tránsito de vehículos livianos.
+Esta alternativa se encuentra implantada, en toda su extensión, sobre la franja de dominio del Ferrocarril, y se inicia en la intersección de la calle Itapua con la Ruta Transchaco (Lugar conocido como “Estación Botánico”), dirigiéndose hacia el este y sureste interceptando a lo largo de su trazado a la Avda. Dr. Semidei (Continuación de la Avda. Madame Lynch)  y  a la Avda. Silvio Petirossi, hasta interceptar con la Ruta Gral. Elizardo Aquino, considerada como fin del tramo, con una extensión aproximada de 6,3 Km.
+Así mismo, como parte del estudio, se han evaluado dos alternativas tecnológicas para este proyecto, la de analizar la carpeta de rodadura con pavimento flexible (Concreto Asfáltico) y con pavimento rígido de hormigón hidráulico.
+
+III.3 Justificación de la alternativa seleccionada
+En el diseño de Ingeniería están definidos los costos  estimados y los indicadores económicos considerando las dos opciones (pavimento flexible y rígido). 
+Dos aspectos principales influyen en la ventaja o desventaja comparativa entre una u otra alternativa tecnológica: i) la inversión inicial; y ii) la vida útil. Que como síntesis se expresa:
+a) Pavimento Flexible. Carpeta de Concreto asfáltico:
+    i) La inversión inicial es mucho menor, dado que por la característica flexible del paquete estructural puede hacerse en capas de capacidad portante variable hasta la requerida por el tráfico a corto y mediano plazo, pudiendo hacerse refuerzos futuros adaptándose a la viabilidad económica de largo plazo;
+    ii) La vida útil de la estructura superior es menor y requiere un programa de mantenimiento más riguroso.
+b) Pavimento Rígido de Hormigón Simple:
+    i) La inversión inicial es muy superior, dado que por la característica rígida de la placa del pavimento exige un espesor mínimo que no puede ser reducido por razones técnicas;
+    ii) La vida útil es más prolongada y el costo del mantenimiento requerido es mucho menor.
+Hechas las evaluaciones económicas de las alternativas, para el horizonte del proyecto establecido en 20 años, se observa que la solución con pavimento flexible es más conveniente.
+Por lo tanto, bajo las condiciones establecidas en la “Guía para la presentación de proyectos FOCEM”, la mejor opción consiste en pavimento flexible con concreto asfáltico.
+
+III.4 Justificación del proyecto FOCEM  
+El presente proyecto se justifica, como se explica seguidamente, como beneficiario elegible del PROGRAMA 1, Programa de Convergencia Estructural, y encuadrado a su vez en el componente i) de construcción, modernización y recuperación de vías de transportes modal y multimodal que optimicen el movimiento de la producción y promuevan la integración física entre los Estados Partes y entre sus sub-regiones. 
+En efecto, la utilización de la faja de terreno no utilizada hasta el momento, comprendida dentro de la franja de dominio de la vía férrea, permitirá no solo la implantación de una vía rápida sino que conserva el espacio para la ubicación de una futura línea de tren suburbano, apuntando al sistema de transporte multimodal. Y además, este acceso conecta directamente al Aeropuerto Internacional ubicado en Luque, contribuyendo al desarrollo de otra modalidad de transporte.
+Y particularmente, la utilización de parte de esta faja de terreno para la construcción de una autopista, con soluciones a desnivel en las intersecciones, permitirá disponer de una vía rápida para el translado de un flujo importante del tránsito hacia la zona centro y norte de Asunción, reduciendo la actual congestión de vehículos en la intersección de Silvio Pettirossi con Madame Lynch y proveyendo un acceso rápido al Aeropuerto Internacional.  Aportando de esta manera al incremento sustancial de la eficiencia del sistema de transporte interurbano del Gran Asunción, reduciendo los costos de translado de personas y cargas mediante la reducción notable de los tiempos de viaje y de los costos de operación de vehículos.
+
+III.5 Estudio de la demanda
+El estudio del tránsito actual y proyectado del tramo en estudio se describe detalladamente en el Anexo 3 – Análisis Socioeconómico, específicamente en el apartado VI “Análisis del Tránsito y Demanda Futura”. Los datos se basan en el Estudio de Factibilidad realizado en el año 2010.
+Para el análisis de rentabilidad económica de este proyecto se utilizó el modelo HDM-4.
+
+IV Preparación del Proyecto 
+IV.1 Sistema de Marco Lógico
+Construcción del Árbol de Problemas y Objetivos
+En base al diagnóstico de la situación, detallado en el apartado II.1 “Descripción del Problema – Identificación de la situación actual y su posible evolución”, se construyó el árbol de problemas, teniendo en cuenta las causalidades existentes entre los problemas identificados en los documentos anteriormente citados.
+Seguidamente se describen ambos diagramas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Matriz de Marco Lógico
+
+Resumen Narrativo de Objetivos
+Fin:      Mejorar la eficiencia del sistema de transporte interurbano Luque-Asunción y acceso al Aeropuerto Internacional, con reducción de costos de transporte.
+Propósito: Tiempos de viaje y costos de operación vehicular reducidos.
+Componentes
+Indicadores intermedios y finales
+Medios de Verificación
+Supuestos
+
+    1. Construcción.
+    2. Fiscalización  de Obras.
+    3. Plan de Gestión Socio Ambiental.
+    4. Auditoría Externa.
+
+1. Construcción de la Autopista Ñuguazú (6,3Km), de acuerdo al siguiente cronograma:
+Año
+Ejecución
+2010
+Línea de Base
+2011
+Licitaciones
+Obras 20%
+2012
+Obras 60%
+2013
+Obras 20%
+Operación
+2. Contratación previa al inicio de obras, ejecución según avance de la obra.
+3. Contratación previa al inicio de obras,  ejecución según avance de la obra.
+4. Contratación por FOCEM.
+
+
+1. Informes periódicos de la Unidad Nacional Ejecutora (UNE), en base a:
+    • Informes de fiscalización.
+    • Certificados de obras y actas de recepción correspondientes.
+2. Informes periódicos  de la UNE.
+3. Informes periódicos  de la UNE.
+4. Informe de auditoría externa.
+
+Los precios de los combustibles y lubricantes derivados del petróleo no sufren variaciones importantes.
+
+Obs.: Los indicadores son los porcentajes de avance de las Obras o componente 1. El detalle del componente 1 (pavimentos, puentes, pasos a desnivel, etc.) se indica en la planilla de cantidades y el cronograma correspondiente.
+
+IV.2 Descripción del proyecto
+El proyecto consiste en la construcción de una vía rápida de acceso, de doble calzada y tres carriles por calzada, a la Ciudad de Asunción desde la zona Norte y Nor-este de la capital. La traza del proyecto posee dirección norte y nor-este y la misma se desarrolla sobre la franja de dominio del Ferrocarril, con una extensión aproximada de 6,3 Km. A lo largo de su desarrollo ha sido reservada, como separación de las calzadas,  una trocha para una futura vía férrea, ya que la actual se encuentra totalmente obsoleta.
+A lo largo de su trazado, se pueden aobservar condiciones particulares relativas al área de implantación del proyecto:
+    • Un primer tramo, desde el inicio en la intersección con la Ruta Transchaco, Prog. 0+ 000, y hasta la intersección con la Avda. Dr. Semidei (continuación de la Avda. Madame Lynch), en la Prog. 1+ 520, la traza se desarrolla en una zona urbana perteneciente al municipio de Asunción. A lo largo de este tramo han sido previstas calles colectoras laterales, a fin de que el tránsito local no afecte al que se desarrolla sobre el proyecto.
+    • Un segundo tramo, desde la intersección del proyecto con la Avda. Dr. Semidei, Prog. 1+ 520, hasta el enlace a ser construido en la intersección del proyecto con la Avda. Silvio Petirossi, en la Prog. 4+ 840, la traza se desarrolla sobre una zona despoblada, si bién en la Prog. 3+ 320, se encuentra la sede del Comité Olimpico Paraguayo (COP), no existe ninguna construcción cercana a los lindes de la franja de dominio.
+    • Un tercer tramo, desde el enlace ubicado en la Prog. 4+ 840, hasta el final del proyecto en la Prog. 6+ 289,  sobre la actual Ruta Gral. Elizardo Aquino. En este tramo se realiza una adecuación y mejoramiento de la ruta existente, ya mencionada, así como también una adecuación y  mejoramiento de la denominada Avda. De la Sudamericana, también actualmente existente. Además han sido consideradas calles colectoras laterales a fin de solucionar el tránsito local.
+A lo largo de la traza, tal como ya fue mencionado, existen intersecciones con otras vías de circulación. Para estos nudos han sido diseñadas las siguientes soluciones:
+    • Para la Intersección del proyecto con la Ruta Transchaco, al inicio del mismo, Prog. 0+ 000, se han diseñado una combinación de soluciones consistentes en una intersección a nivel y dos pasos a desnivel (sobre elevado y túnel) a fin de no entorpecer la circulación de vehículos y permitir la travesía, sin barreras, de la vía ferrea.
+    • Para la intersección del proyecto con la Avda. Dr. Semidei Prog. 1+ 520, se ha diseñado un enlace con paso a desnivel (túnel) para la Avda. Dr. Semidei, considerando la importancia de ambas vías.
+    • Para la intersección del proyecto con la Avda. Silvio Petirossi, en la Prog. 4+ 480, y atendiendo que esta intersección representa el nudo más importante y conflictivo de la vía, ha sido diseñado un enlace de libre circulación, solución denominada técnicamente “trébol”. En estos enlaces todos los giros se resuelven sin intersecciones, ya que los giros a la izquierda se resuelven mediante lazos a la derecha.
+    • Y por último, prácticamente al final del tramo, en la Prog. 6+ 064, ya sobre el tramo de la Ruta Gral. Elizardo Aquino, a fin de solucionar problemas de retorno, también ha sido diseñado un paso a desnivel (túnel), que permita retornar y acceder al proyecto, siempre sin interrumpir la vía férrea ubicada en el centro.
+A lo largo de la traza, con el objeto de resolver los pasos de peatones, han sido diseñados seis (6) pasos a desnivel a ser construidos con estructuras metálicas.
+El ancho de cada una de las calzadas es de 9,60 metros (ancho de 3,20 m. para cada carril) y una reserva para la vía ferrea de 6,00 m como separador de ambas calzadas.
+Atendiendo a la situación descrita, el MOPC ha elaborado los diseños finales de ingeniería de las obras que comprenden:
+    • Liberación de las franjas de dominio.
+    • Ejecución de los terraplenes y desmontes.
+    • Ejecución de pasos a desnivel.
+    • Ejecución de puentes y alcantarillas.
+    • Solución de paquete estructural con carpeta de Concreto Asfáltico, Base granular, Sub base granular estabilizada y suelo selccionado en la subrasante, con banquina de Concreto Asfáltico.
+    • Ejecución del sistema de señalización horizontal y vertical de todo el tramo.
+Cabe mencionar que todos los procesos de contratación de obras y de servicios de consultoría para la fiscalización de las mismas se realizaran en el marco del Reglamento del FOCEM, la  Decisión CMC N° 01/10, puesta en vigencia en la República del Paraguay a través del Decreto N° 5.004 del 1º de setiembre de 2010, así como la Ley 2.870/06 que aprueba la Decisión CMC N° 18/05, y la Ley 2.051 de Contrataciones Públicas. Estando todo el proceso contratación bajo la supervisión de la Dirección Nacional de Contrataciones y todo el proceso de contratación y ejecución de las obras y servicios sujetos a auditoria por parte de la Contraloría General de la República.
+
+IV.3 Costos del proyecto y financiamiento  
+
+Solución con Pavimento Flexible
+
+Objeto del gasto según Nomenclador
+Naturaleza
+Cronograma de inversiones (U$S)
+TOTAL
+
+
+Año 0
+Año 1
+Año 2
+Año 3
+ 
+4-42-422
+Construcción
+Línea Base
+4.519.457
+13.558.371
+4.519.457
+22.597.286
+
+Local
+
+677.919
+2.033.756
+677.919
+3.389.593
+
+FOCEM
+
+3.841.539
+11.524.616
+3.841.539
+19.207.693
+
+ 
+
+ 
+ 
+ 
+ 
+3-34-349
+Fiscalización
+Línea Base
+316.400
+949.200
+316.400
+1.582.000
+
+Local
+
+47.460
+142.380
+47.460
+237.300
+
+FOCEM
+
+268.940
+806.820
+268.940
+1.344.700
+
+ 
+
+ 
+ 
+ 
+ 
+3-34-349
+Plan Gest. Amb.
+Línea Base
+53.180
+159.540
+53.180
+265.900
+
+Local
+
+42.544
+127.632
+42.544
+212.720
+
+FOCEM
+
+10.636
+31.908
+10.636
+53.180
+
+ 
+
+ 
+ 
+ 
+ 
+3-34-344
+Auditoría externa
+Línea Base
+0
+45.600
+68.400
+114.000
+ 
+Local
+
+0
+0
+0
+0
+ 
+FOCEM
+
+0
+45.600
+68.400
+114.000
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+TOTAL elegible
+ 
+4.889.037
+14.712.711
+4.957.437
+24.559.186
+ 
+Local
+
+767.923
+2.303.768
+767.923
+3.839.613
+ 
+FOCEM
+
+4.121.115
+12.408.944
+4.189.515
+20.719.573
+ 
+TOTAL no elegible
+
+600.686
+1.807.622
+609.031
+3.017.339
+ 
+No elegible
+
+600.686
+1.807.622
+609.031
+3.017.339
+ 
+TOTAL GENERAL
+
+5.489.723
+16.520.333
+5.566.468
+27.576.524
+Notas:
+Auditoría: 0,5% de (Construcción + Plan de Gestión Ambiental + Unidad Nacional Ejecutora).
+Gastos no elegibles: conprenden el Impuesto al Valor Agregado (10%) de { Total Elegible + Retención de Impuesto a la Renta (2% de Total Elegible) + Contribución Contrataciones (0,5% de  Total Fondo Local) } más Retención de Impuesto a la Renta (2% de Total Elegible) más Contribución Contrataciones (0,5% de Total Fondo Local).   
+
+Pari passu:  FOCEM = 84,4 % ; Paraguay = 15,6 % 
+
+IV.4 Plazos estimativos (ejecución – operación) 
+Diseño de Ingeniería: El MOPC ya cuenta con el diseño final de ingeniería del proyecto. Además se están realizando las gestiones correspondientes a fin de disponer del Estudio de Impacto Ambiental aprobado por la Secretaría del Ambiente (SEAM).
+Ejecución: La preparación de los proyectos se ha iniciado en el primer semestre del año 2010. La ejecución de la obra en sí se dará a partir de la firma del COF, con la adquisición de servicios de la Contratista y la Consultora de Fiscalización, cuyo proceso tendría una duración máxima estimada de 6 meses, y la ejecución de la obra propiamente dicha de 18 meses, con lo que se estima que la obra concluirá totalmente en el segundo semestre del año 2013.
+Operación: La vida útil prevista de la obra es de 20 años, luego de los cuales deberá realizarse una evaluación estructural.
+IV.5 Fecha prevista de puesta en marcha 
+Se prevé que a fines del año 2013 se habilitarán en su totalidad las obras terminadas.
+
+IV.6 Cronograma físico-financiero (semestral para el primer año) 
+
+Componentes
+Semestre 1
+Semestre 2
+
+FOCEM (FF30)
+F. Local (FF10)
+FOCEM (FF30)
+F. Local (FF10)
+Construcción
+0
+0
+3.841.539
+677.919
+Fiscalización
+0
+0
+268.940
+47.460
+Plan Gest. Amb.
+0
+0
+10.636
+42.544
+Auditoría externa
+0
+0
+0
+0
+No elegible
+ 
+0
+________
+600.686
+Totales
+0
+0
+4.121.115
+1.368.609
+F. Local: fondo local
+
+IV.7 Sostenibilidad del proyecto
+En lo que se refiere al aspecto institucional, en abril de 2006 el MOPC designó unidades para cada operación con los organismos multilaterales y bilaterales, para que sean responsables de la coordinación y supervisión de cada programa. Las unidades están insertas dentro de la estructura funcional del MOPC, reportan directamente al titular del Viceministerio de Obras Públicas y Comunicaciones a través de la UEP-FOCEM-MOPC, están conformadas por funcionarios de carrera y pueden ser fortalecidas en ciertas labores con personal incremental. Las unidades son de carácter transitorio, siendo responsables por la coordinación de cada una de las actividades de la implementación de las operaciones con las otras dependencias del MOPC. La labor de coordinación para la implementación de los programas viales implica la introducción de un modelo de gestión por resultados, facilitando la identificación de los problemas y el planteo de soluciones apropiadas en forma anticipada. La estrategia del MOPC busca fortalecer la capacidad de sus cuadros técnicos y gerenciales, con lo que una vez finalizada la ejecución los funcionarios regresarán a sus unidades de origen.
+En el aspecto técnico, las obras de pavimentación son estándares, no requieren procesos de construcción sofisticados. Los trazados no atraviesan humedales, zonas geológicamente inestables ni están ubicados en regiones sísmicas. Considerando el nivel de precipitaciones pluviales de la región, en las áreas con riesgos de inundaciones fueron estudiados los suelos y las condiciones hidrológicas de la cuenca para el diseño de los terraplenes, prestándose particular atención a los drenajes. Los plazos de ejecución previstos son razonables y consistentes con los tiempos que se observan en obras comparables en la región.
+Respecto a la viabilidad socioeconómica, la estimación de los beneficios del proyecto se apoyó en una metodología de análisis generalmente utilizada para evaluación económica de carreteras de este tipo. Se cuantificaron tanto los ahorros en los costos generalizados de transporte y costos de mantenimiento del camino una vez que éste sea mejorado (excedentes del consumidor).
+Se utilizó el Módulo HDM-4 para el análisis costo – beneficio del proyecto. Para estimar los costos económicos de las obras se consideraron las estimaciones de las inversiones, incluyendo la mitigación de impactos ambientales directos, y los costos anuales de mantenimiento, excluyendo impuestos y otras transferencias. Siguiendo un enfoque conservador en la evaluación, no se incluyeron otros beneficios tales como los efectos del confort y la seguridad vial. Los resultados muestran una TIRE del 22,2% para la alternativa de pavimento flexible y 20,6%  para la alternativa con pavimento rígido. Adicionalmente, en los escenarios de sensibilidad realizados (aumento de costo de obras en un 20%, reducción de beneficios en 20%, y combinación de ambos en 10%), este tramo mantiene una tasa de retorno económico superior al 7%. 
+En lo que respecta al área financiera, el presupuesto anual del MOPC es gestionado por el Ministerio de Hacienda ante el Congreso para su aprobación. El presupuesto de la Dirección de Vialidad representa el 90% del presupuesto del MOPC. 
+Los montos ejecutados históricamente por el MOPC son cercanos al 60% de lo presupuestado. No obstante, se observa un incremento notable de la eficiencia de la Institución, dado que en el 2009 la ejecución presupuestaria llegó al 100%. El siguiente Cuadro incluye los niveles de ejecución presupuestaria del período 2005-2009, identificando sus fuentes de financiamiento y el destino de los recursos. En el período analizado los recursos del Tesoro se han ido incrementando acompañando los préstamos en ejecución otorgados por los organismos multilaterales y bilaterales. Los créditos externos representaron un 50% de los gastos totales ejecutados. Por el lado de las aplicaciones se observa un aumento en los gastos de pavimentación y conservación vial, en tanto que los gastos de funcionamiento se han mantenido estables en alrededor del 7% del presupuesto ejecutado. Se realizó un ejercicio de proyección financiera con base en los montos de los presupuestos ejecutados y niveles de endeudamiento aprobados en los últimos años, y las inversiones proyectadas a ser realizadas en los próximos años con los préstamos en ejecución y las operaciones crediticias en preparación. El resultado muestra que el MOPC tendría recursos presupuestarios suficientes para atender los gastos corrientes y los de contrapartida para el Proyecto.
+
+CUADRO A - MOPC – FUENTES Y USOS DE RECURSOS 2005 – 2009 (en millones de US$)
+RUBROS
+2005
+ 
+2006*
+ 
+2007*
+ 
+2008*
+ 
+2009*
+
+Total             2005-2009
+
+US$
+%
+US$
+%
+US$
+%
+US$
+%
+US$
+%
+US$
+%
+Ingresos
+128,4
+100
+142,4
+100
+161,0
+100
+222,9
+100
+328,3
+100
+983,0
+80
+Recursos del Tesoro
+55,5
+43,2
+64,6
+45,4
+65,7
+40,8
+79,9
+35,8
+106,3
+32,4
+372,0
+30,3
+Recursos Institucionales
+9,7
+7,6
+10,6
+7,4
+13,5
+8,4
+26,8
+12,0
+29,7
+9,0
+90,3
+7,3
+Crédito Externo
+63,2
+49,2
+67,2
+47,2
+59,9
+37,2
+108,1
+48,5
+180,9
+55,1
+479,3
+39,0
+FOCEM
+0
+49,2
+0,0
+0,0
+21,9
+13,6
+8,1
+3,6
+11,4
+3,5
+41,4
+3,4
+Egresos
+128,4
+100
+142,4
+100
+139,1
+100
+109,8
+100
+199,1
+100
+718,9
+75
+Gastos de funcionamiento
+8,9
+6,9
+31,4
+22,1
+39,6
+28,5
+30,2
+27,5
+45,8
+23,0
+155,9
+16,2
+Gastos de conservación vial
+31,9
+24,8
+12,2
+8,6
+11,5
+8,3
+10,1
+9,2
+18,1
+9,1
+83,8
+8,7
+Pavimentación vial
+82,9
+64,6
+86,5
+60,7
+77,8
+55,9
+64,7
+59,0
+133,6
+67,1
+445,5
+46,2
+Otros gastos
+4,8
+3,7
+12,3
+8,6
+10,1
+7,3
+4,8
+4,4
+1,6
+0,8
+33,6
+3,5
+Fuente: MOPC – Dirección de Planificación Económica
+
+* El tipo de cambio de los años 2006 (5.170 Gs.), 2007 (4.850), 2008 (4.930) y 2009 (4.600) corresponde al tipo de cambio del 31 de diciembre de dichos años. 
+
+CUADRO B - MOPC – PROYECCIONES 2010 – 2013 (en millones de US$)
+RECURSOS
+DESEMBOLSOS ANUALES ESTIMADOS
+
+2010
+2011
+2012
+2013
+Resto     de años
+Crédito Externo
+117,8
+111,5
+109,0
+106,5
+142,0
+Contrapartida Local
+16,7
+14,7
+11,9
+9,1
+16,4
+TOTAL
+134,5
+126,2
+120,9
+115,6
+158,4
+Fuente: MOPC – Dirección de Planificación Económica
+
+
+La estimación de la proyección anual en “resto de años” se obtiene de la capacidad de endeudamiento del País para el rubro infraestructura.
+En el tiempo de vida útil del Proyecto (20 años) el camino seguirá produciendo los beneficios previstos (disminución de tiempo y costo de transporte), en la medida que se realice el mantenimiento adecuadamente. 
+El mantenimiento es realizado por el Departamento de Conservación de Rutas de la Dirección de Vialidad del Ministerio de Obras Públicas y Comunicaciones, con recursos previstos en el Presupuesto de Gastos de la Nación, con fondos propios del Estado. Además el MOPC ha implementado un programa de Gestión de Mantenimiento por Niveles de Servicio (GMANS), el cual se ha iniciado en el año 2009 y tiene como objetivo final implementar planes sostenibles de mantenimiento de caminos. Esta modalidad, GMANS, será en adelante el sistema que se irá aplicando a todos las vías pavimentadas importantes del País.
+
+IV.8 Relación con otros proyectos  
+El proyecto de construcción de la Autopista Ñuguazú se vincula con proyectos en ejecución y con otros en fase de diseño. Todos ellos destinados al mejoramiento de la competitividad productiva a través de la reducción del tiempo de translado de los usuarios y del costo de operación de vehículos de carga en el área metropolitana de Asunción. A continuación se mencionan estos proyectos:
+                                a. Los proyectos de “Rehabilitación y Mejoramiento del Acceso y Circunvalación del Gran Asunción” que están siendo ejecutados con financiamiento del FOCEM. Todos estos tramos convergen en la ciudad de Luque e incluyen:
+Obra 1: Areguá – Patiño – Ypacaraí.
+Obra 2: Luque – Areguá – Ruta 2.
+Obra 3: Ñemby – San Lorenzo – Luque.
+Obra 4: Luque – Limpio – Piquete Cué.
+                                b. Mejoramiento del Acceso Norte a la Ciudad de Asunción, cuyos estudios de ingeniería se hallan en ejecución. Como parte de estos estudios se ha desarrollado precisamente la Autopista Ñuguazú. Los demás proyectos son:
+                                    i. La Ampliación y Mejoramiento de la Ruta 3, tramo comprendido entre la Ruta Transchaco y la Ciudad de Limpio. Este proyecto comprende la duplicación de la ruta y el By-pass a la ciudad de Limpio;
+                                    ii. La Rehabilitación y Mejoramiento de la Avda. Paseo Fátima, entre Puente Remanso y la entrada al Jardín Botánico. Esta vía es paralela al río Paraguay y conecta una serie de puertos privados localizados en el municipio de Mariano Roque Alonso.
+                                c. Mejoramiento del Acceso Este a la Ciudad de Asunción, cuyos estudios de ingeniería se hallan en ejecución. Este proyecto se localiza paralelamente a la Avda. Mcal. López y constituirá una alternativa de unión entre la ciudad de San Lorenzo y la Avda. Santa Teresa de acceso a Asunción. También tendrá vías de conexión con la ciudad de Luque.
+                                d. Pasos a desnivel en intersecciones de la Avda. Madame Lynch, cuyos estudios de ingeniería se hallan en ejecución. Estos proyectos permitirán agilizar el tránsito en los nudos críticos concediendo a Madame Lynch un desempeño de vía rápida para circunvalar Asunción. Entre éstos podemos señalar al viaducto en la intersección de la Avda. Dr. Semidei (continuación de Madame Lynch) con la Ruta Transchaco, el viaducto en Silvio Pettirossi y Madame Lynch y el viaducto en Santa teresa y Madame Lynch.
+                                e. El Proyecto de la Franja Costera, actualmente en ejecución en su primera etapa de 4,8 Km desde el puerto de Asunción hasta la Avda. Gral. Santos. Posteriormente la continuación se extenderá hasta el acceso al Jardín Botánico uniéndose con la Ruta Transchaco y la Autopista Ñuguazú.
+Considerando la cartera de proyectos definida por la Iniciativa para la Integración de la Infraestructura Regional Suramericana (IIRSA) – foro de diálogo entre las autoridades responsables de la infraestructura de transporte, energía y comunicaciones en los doce países suramericanos – este proyecto se vincula al que se indica:
+Eje		Grupo	Proyecto
+MERCOSUR-Chile	G01	MODERNIZACIÓN DEL AEROPUERTO DE ASUNCIÓN
+En virtud de que la Autopista Ñuguazú proveerá un acceso rápido desde el microcentro de Asunción, incrementando la eficiencia operativa del aeropuerto internacional Silvio Pettirossi.
+
+IV.9 Diseño e Ingeniería 
+En este apartado se describen sucintamente las características técnicas de las obras comprendidas en el Proyecto y los planos y especificaciones técnicas  detalladas se adjuntan en el Anexo 7 – “Documentos Técnicos del Proyecto”.
+Diseño de la sección transversal tipo utilizada
+
+
+
+Fig. 8 – Sección transversal tipo
+Planillas de Cómputo Métrico y Presupuestos Estimados
+
+
+
+
+Tipo de Pavimento
+Progresiva inicial
+Progresiva final
+Km
+Inversión
+Precio
+
+
+
+
+por tramo
+por tramo
+
+
+
+
+U$S
+U$S/Km
+Pavimento Flexible
+0+000
+6+289
+6,3
+22.597.286
+3.586.871
+Pavimento Rígido
+0+000
+6+289
+6,3
+24.676.681
+3.916.934
+
+
+
+
+
+
+
+
+
+
+
+Pavimento Flexible
+
+L= 6,3 Km.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pavimento Rígido
+
+L= 6,3 Km
+
+
+IV.10 Análisis Legal  
+Con respecto al análisis legal el presente proyecto no presenta inconvenientes de consideración que pudieran afectar la viabilidad del mismo, sin embargo es importante tener presente algunas disposiciones normativas durante la etapa de pre-ejecución y ejecución, como ser la Ley  N° 294/93, de Evaluación de Impacto Ambiental, por la cual se declara obligatoria la Evaluación de Impacto Ambiental. Se entenderá por Impacto Ambiental, a los efectos legales, toda modificación del medio ambiente provocada por obras o actividades humanas que tengan como consecuencia positiva o negativa, directa o indirecta, afectar la vida en general, la biodiversidad, la calidad o una cantidad significativa de los recursos naturales o ambientales y su aprovechamiento, el bienestar, la salud, la seguridad personal, los hábitos y costumbres, el patrimonio cultural o los medios de vida legítimos.
+
+IV.11 Riesgos y Externalidades
+Un riesgo constituye el aumento de los costos de las inversiones viales, especialmente por el posible impacto del incremento del precio del petróleo y sus derivados. Este impacto se ve mitigado por la incorporación de un coeficiente de imprevistos sobre las estimaciones de los costos de pavimentación (del orden del 5%).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO 2
+ANÁLISIS FINANCIERO
+
+ANEXO 2 – ANÁLISIS FINANCIERO  
+En lo que respecta al área financiera, el presupuesto anual del MOPC es gestionado por el Ministerio de Hacienda ante el Congreso para su aprobación. El presupuesto de la Dirección de Vialidad representa el 90% del presupuesto del MOPC.
+Los montos ejecutados históricamente por el MOPC son cercanos al 60% de lo presupuestado. No obstante, mediante un incremento de la eficiencia de la institución, en el año 2009 se ejecutó el 100% del presupuesto. El siguiente Cuadro incluye los niveles de ejecución presupuestaria del período 2005-2009, identificando sus fuentes de financiamiento y el destino de los recursos. En el período analizado los recursos del Tesoro se han ido incrementando. Los créditos externos representaron un 50% de los gastos totales ejecutados. Por el lado de las aplicaciones se observa un aumento en los gastos de pavimentación y conservación vial, en tanto que los gastos de funcionamiento se han mantenido estables en alrededor del 7% del presupuesto ejecutado. Se realizó un ejercicio de proyección financiera con base en los montos de los presupuestos ejecutados y niveles de endeudamiento aprobados en los últimos años, y las inversiones proyectadas a ser realizadas en los próximos años con los préstamos en ejecución y las operaciones crediticias en preparación. El resultado muestra que el MOPC tendría recursos presupuestarios suficientes para atender los gastos corrientes y los de contrapartida para el Proyecto.
+
+CUADRO A - MOPC – FUENTES Y USOS DE RECURSOS 2005 – 2009 (en millones de US$)
+RUBROS
+2005
+ 
+2006*
+ 
+2007*
+ 
+2008*
+ 
+2009*
+
+Total             2005-2009
+
+US$
+%
+US$
+%
+US$
+%
+US$
+%
+US$
+%
+US$
+%
+Ingresos
+128,4
+100
+142,4
+100
+161,0
+100
+222,9
+100
+328,3
+100
+983,0
+80
+Recursos del Tesoro
+55,5
+43,2
+64,6
+45,4
+65,7
+40,8
+79,9
+35,8
+106,3
+32,4
+372,0
+30,3
+Recursos Institucionales
+9,7
+7,6
+10,6
+7,4
+13,5
+8,4
+26,8
+12,0
+29,7
+9,0
+90,3
+7,3
+Crédito Externo
+63,2
+49,2
+67,2
+47,2
+59,9
+37,2
+108,1
+48,5
+180,9
+55,1
+479,3
+39,0
+FOCEM
+0
+49,2
+0,0
+0,0
+21,9
+13,6
+8,1
+3,6
+11,4
+3,5
+41,4
+3,4
+Egresos
+128,4
+100
+142,4
+100
+139,1
+100
+109,8
+100
+199,1
+100
+718,9
+75
+Gastos de funcionamiento
+8,9
+6,9
+31,4
+22,1
+39,6
+28,5
+30,2
+27,5
+45,8
+23,0
+155,9
+16,2
+Gastos de conservación vial
+31,9
+24,8
+12,2
+8,6
+11,5
+8,3
+10,1
+9,2
+18,1
+9,1
+83,8
+8,7
+Pavimentación vial
+82,9
+64,6
+86,5
+60,7
+77,8
+55,9
+64,7
+59,0
+133,6
+67,1
+445,5
+46,2
+Otros gastos
+4,8
+3,7
+12,3
+8,6
+10,1
+7,3
+4,8
+4,4
+1,6
+0,8
+33,6
+3,5
+Fuente: MOPC – Dirección de Planificación Económica
+
+* El tipo de cambio de los años 2006 (5.170 Gs.), 2007 (4.850), 2008 (4.930) y 2009 (4.600) corresponde al tipo de cambio del 31 de diciembre de dichos años. 
+
+CUADRO B - MOPC – PROYECCIONES 2010 – 2013 (en millones de US$)
+RECURSOS
+DESEMBOLSOS ANUALES ESTIMADOS
+
+2010
+2011
+2012
+2013
+Resto años
+Crédito Externo
+117,8
+111,5
+109,0
+106,5
+142,0
+Contrapartida Local
+16,7
+14,7
+11,9
+9,1
+16,4
+TOTAL
+134,5
+126,2
+120,9
+115,6
+158,4
+Fuente: MOPC – Dirección de Planificación Económica
+
+
+La estimación de la proyección anual en “resto de años” se obtiene de la capacidad de endeudamiento del País para el rubro infraestructura.
+En el tiempo de vida útil del Proyecto (20 años) la vía seguirá produciendo los beneficios previstos (disminución de tiempo y costo de transporte), en la medida que se realice el mantenimiento adecuadamente. 
+El mantenimiento es realizado por el Departamento de Conservación de Rutas de la Dirección de Vialidad del Ministerio de Obras Públicas y Comunicaciones, con recursos previstos en el Presupuesto de Gastos de la Nación, con fondos propios del Estado. Además el MOPC ha implementado un programa de Gestión de Mantenimiento por Niveles de Servicio (GMANS), el cual se ha iniciado en el año 2009 y tiene como objetivo final implementar planes sostenibles de mantenimiento de caminos. Esta modalidad, GMANS, será en adelante el sistema que se irá aplicando a todos las vías pavimentadas importantes del País.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO 3
+ANÁLISIS SOCIOECONÓMICO
+
+ANEXO 3 – ANÁLISIS SOCIOECONÓMICO 
+
+V Metodología general de la Evaluación Económica4  
+
+La evaluación económica de las mejoras en la ruta estudiada se basará en la comparación de los beneficios con los costos de las mismas. Tanto beneficios como costos serán comparados a una alternativa de referencia que corresponde a la situación sin variación.
+La teoría del excedente del consumidor o beneficios directos de una mejora de la ruta, están medidos por los ahorros de los usuarios debidos a dicha mejora. Los ahorros de los usuarios pueden ser:
+    • Disminución de los costos operativos de vehículos; 
+    • Disminución del tiempo de viaje
+También pueden ser considerados como beneficio directo, aunque resulta difícil su medición, la disminución de accidentes, la comodidad en la conducción y el placer de viajar.
+Los beneficios y costos del proyecto, fueron calculados a precios económicos, para lo cual les fueron deducidos los impuestos y transferencias.
+En relación a los beneficios, estos fueron determinados por los ahorros producidos por la mejora del proyecto en costos de operación de vehículos, considerando a los usuarios derivados e inducidos; igualmente, han sido calculados los beneficios relacionados al ahorro del tiempo de viaje.
+El modelo aplicado para la obtención de dichos beneficios es el HDM-4, con la variante de la formulación del Brasil.5
+En la relación a los costos, la metodología de cálculo consistió en aplicar la deducción de los impuestos y transferencias a cada uno de los precios de bienes y servicios incluidos en el cálculo de precios unitarios, para de esa manera obtener el presupuesto final a precios económicos en la inversión y el mantenimiento.
+Al los fines de la evaluación económica, fueron considerados los siguientes:
+    • Año 2010: Año base del proyecto, tomándose como periodo de actualización del estudio.
+    • Año 2011: Período de licitación y adjudicación de obras.
+    • Año 2012: Período de ejecución de obras.
+    • Año 2013: Primer año de operación de la ruta mejorada.
+    • Vida útil de la inversión: 20 años.
+    • Tasa de descuento: 7 %.
+
+V.1 Modelación de la Red Vial
+A los efectos de determinar la Tasa Interna de Retorno del Proyecto, fue considerada la Condición Base o sin Proyecto, como compuesta de los siguientes tramos:
+Tramo 1 (A-B): Tramo con congestión sobre la Ruta Gral. Aquino (acceso a Luque) hasta su intersección con la Avda. Sudamericana. Se extiende 1,1 Km y está compuesta de dos calzadas con dos carriles cada una.
+Tramo 2 (B-C): Tramo con congestión sobre la Avda. Sudamericana desde su intersección con la Ruta Gral. Aquino hasta su intersección con la Avda. Silvio Petirossi. Consta de dos calzadas con dos carriles para cada sentido de circulación y se extiende 0,5 Km. En la intersección con la Avda. Silvio Petirossi existe una rotonda abierta.
+Tramo 3 (C-D): Tramo central de la Avda. Silvio Petirossi compuesta de dos calzadas con dos carriles cada una. En este tramo de 3,9 Km el tráfico se desplaza normalmente; y
+Tramo 4 (D-E): Tramo sobre la Avda. Silvio Petirossi que va desde su intersección con la Ruta Gral. Aquino hasta su intersección con la Avda. Madame Lynch, en el cual se vuelve a congestionar el tráfico en una longitud de 0,5 Km. La continuación de la Avda. Silvio Petirossi en Asunción se denomina Avda. Aviadores del Chaco.
+
+
+
+Para la condición con Proyecto  se considera:
+Tramo 1 (A-B): Comprende i) el tramo original de la ruta Gral. Aquino, sin intervenciones, con tráfico de vehículos pesados; y ii) el desvío a la denominada Autopista Ñuguazú – primer tramo – con tráfico de vehículos livianos exclusivamente. La Autopista consiste en la construcción de un tramo nuevo que comprende  dos calzadas con dos carriles cada una, además de túneles para acceso a la misma;
+Tramo 2 (B-C): Segundo tramo de la Autopista Ñuguazú con supresión de la intersección con la Avda. Sudamericana y solución de la intersección con la Avda. Silvio Petirossi mediante la construcción de un paso a desnivel tipo “trébol” que permite todos los giros sin interrupciones;
+
+
+Fig. 9 – Solución de nudo en acceso a Luque
+
+Tramo 3 (C-D): Comprende i) el tramo original de la Avda. Silvio Petirossi, sin intervenciones, desde la nueva interconexión a desnivel con la Autopista Ñuguazú hasta su intersección con la Ruta Gral. Aquino; y ii) el desvío a la Autopista Ñuguazú – tercer tramo o C-F – con tráfico de vehículos livianos exclusivamente. La Autopista consiste en la construcción de un tramo nuevo que comprende dos calzadas con tres carriles cada una, además de puentes sobre los arroyos Abay e Itay y paso a desnivel en la intersección con la Avda. Semidei (continuación de la Avda. Madame Lynch) hasta su intersección con la Ruta Transchaco mediante túneles de interconexión; y
+Tramo 4 (D-E): Tramo original sobre la Avda. Silvio Petirossi, sin intervenciones, que va desde su intersección con la Ruta Gral. Aquino hasta su intersección con la Avda. Madame Lynch, en el cual se vuelve a congestionar el tráfico en una longitud de 0,5 Km pero sin la afluencia del tráfico derivado a la Autopista Ñuguazú.
+Así, la red “con proyecto” comprende 6 tramos en total, como se indica en el esquema siguiente. Manteniéndose el tramo B-D de la Ruta Gral. Aquino sin variación alguna. Los TMDA indicados corresponden al año 2010.
+
+
+
+V.2 Metodología para la determinación de los precios económicos
+Con relación a los precios económicos utilizados para el cálculo del Costo Económico de Inversión, han sido calculados tomando como base:
+Para los equipos, maquinarias e insumos utilizados en la composición de los precios unitarios de los ítems de obra previstos, han sido considerados los precios de mercado, descontando de los mismos los impuestos, tasas y subsidios aplicados por  el Estado.
+Para la Mano de Obra han sido considerados los precios de mercado.
+
+V.3 Análisis Beneficio Costo – Indicadores de Rentabilidad Económica
+El estudio de ingeniería realizado arrojó los costos estimados para el proyecto en los diferentes tramos conforme a lo siguiente: 
+
+ALTERNATIVA
+km
+COSTO TOTAL(U$S)
+
+
+FINANCIERO
+ECONÓMICO
+Pavimento flexible
+CºAº
+6,3
+22.597.286
+19.433.665
+Pavimento rígido
+Hº
+6,3
+24.676.681
+21.221.946
+Para el Análisis de Beneficio Costo – Indicadores de Rentabilidad Económica, se han realizado los estudios considerando las dos alternativas tecnológicas que implican los dos tipos de pavimentos estudiados, Flexible y Rígido. El detalle del análisis se indica en el Capítulo X.
+
+
+VI Análisis del Tránsito y Demanda Futura 
+Los Estudios de Tránsito realizados comprende una red de trazados que conforman el denominado Acceso Norte a la Ciudad de Asunción, en las que han sido determinados varios puntos para la realización de los estudios de conteo volumétrico de vehículos y de los censos de Origen - Destino de los mismos. Es por ello que  la Zonifación para el análisis del censo O/D y la base de datos utilizada es única para toda la red objeto del estudio. En el caso particular de la Autopista Nú Guazú, solo es afectada por el Puesto Nº 3.  
+El análisis del tránsito correspondiente al futuro acceso vial de la Autopista Ñuguazú ha sido elaborado a partir de la realización de conteos volumétricos clasificados y encuestas de origen/destino (O/D) en un punto considerado importantes para el estudio  (ver esquema presentado más abajo).
+El punto escogido se encuentra ubicado sobre la Ruta General Elizardo Aquino, acceso a la Ciudad de Luque y antigua acceso al Aeropuerto Internacional, entre la Avenida Sudamericana y el centro de la ciudad de Luque, en el cual ha sido posible interceptar todos los flujos derivables a la vía en estudio y conocer las zonas de origen de cada vehículo que circula sobre la misma o sobre las avenidas y calles adyacentes de mayor relevancia de la red vial del área de influencia, para poder proyectar el tránsito existente con las tasas correspondientes. La ubicación del punto de conteo y encuesta fue determinada en base a las observaciones preliminares realizadas por la Consultora y aprobada por el MOPC.
+La información de campo, volcada en la base de datos general ha permitido conocer el volumen diario, su composición y sentido de circulación. Con estos datos ha sido posible calcular la cantidad de ejes que circularon, por sentido, en la sección especificada.
+Adicionalmente a los datos proporcionados por los conteos y encuestas, se han tenido en cuenta en los mismos, las informaciones requeridas para la determinación del ahorro en tiempo de viaje con la utilización futura de la Autopista Ñúguazú.
+Además de los datos de tránsito relevados mediante trabajos de campo, se ha realizado un inventario de la red vial de interés para el estudio, teniendo en cuenta los proyectos a ser encarados a corto y mediano plazo, lo que ha permitido estimar las derivaciones de tráfico para los tramos en estudio. Considerando la infraestructura existente, fue posible, no solo obtener una visión general de la situación actual de los tramos, sino también determinar los costos operacionales de los vehículos que utilizan la red vial de interés para el estudio.
+Los datos de tráfico resultantes de las encuestas fueron sometidos a los análisis y tabulaciones adecuadas, contemplando la expansión de los conteos volumétricos clasificados y el montaje de las matrices actuales de origen/destino. Para ello, se han considerado, entre otros, los aspectos vinculados al posicionamiento de los puestos de conteo, período de conteo, estaciones de los flujos y condiciones del tráfico en el tramo a la época de la ejecución de las encuestas.
+Los volúmenes diarios actuales del tráfico, determinados por tramo, considerando las diversas categorías de vehículos, fueron corregidos con los factores de ajustes (horaria, semanal, estacional, otros) para la determinación del Tránsito Medio Diario Anual, TMDA, conforme puede apreciarse en el siguiente cuadro (PUESTO Nº3).
+
+LIVIANOS
+OMNIBUS
+CAMIONES
+26.796
+1.949
+2.638
+
+La encuesta de origen y destino (O/D), ha suministrado datos relativos a los orígenes y destinos de todos los viajes, los motivos, distancias de los desplazamientos, las que al relacionarlas constituye la información base a partir de la cual se han realizado predicciones de niveles de demanda y la distribución de los flujos de los viajes futuros al tramo del proyecto.
+Considerando que en la traza del proyecto actualmente no existe un camino que reuna las mínimas condiciones de transitabilidad, el tránsito “existente” es nulo, es por ello que la proyección del tránsito que circulará por el proyecto ha tenido por base la consideración de solamente dos tipos de usuarios: los usuarios “derivados” y los “inducidos”.
+Entre los usuarios derivados, se ha identificado a los que circulan por la Avda. Silvio Petirossi, conocida como Autopista Aeropuerto, y por la Ruta General Aquino (antigua ruta al Aeropuerto), con origen y destino en las ciudades de Asunción y Luque y sus respectivos barrios. Estas vías, que se conectan con las Avenidas Aviadores del Chaco y Madame Lynch, son las únicas vías actuales de acceso o salida de Asunción.
+Para la derivación del tránsito a la Autopista Ñúguazú, se han tenido en cuenta los resultados de la encuesta de origen y destino obtenidos en el Puesto Nº 3, indicado en la zonificación esquemática presentada mas abajo; y la atracción de los usuarios hacia la nueva vía proyectada sobre la base de la consideración del tiempo de viaje y ubicación geográfica de los pares de origen y destino.
+Para determinados puntos del área de influencia del proyecto resulta de mayor atracción la utilización de las vías actuales, teniendo en cuenta las mejoras previstas que apuntan a otorgar una mayor fluidez de circulación, en especial la construcción de un paso a desnivel en la intersección de Aviadores del Chaco y Madame Lynch. Para la Ruta Gral. Aquino ha sido considerada además como la vía de tránsito de vehículos pesados y ómnibus interurbanos por lo cual deben mejorarse las condiciones físicas de la misma a través de una rehabilitación del tramo. 
+Es así que para la derivación han sido considerados:
+    • Zonas 8 y 6:
+Los viajes correspondientes al centro de Luque y demás Barrios adyacentes, los Barrios de Aeropuerto, Loma Merlo y Zárate Isla, además de aquellos que correspondan a  las ciudades de Areguá, Ypacaraí y otras ciudades ubicadas sobre la Ruta Nº 2.
+    • Zonas 9, 10, 11 y 12
+Respecto a Asunción han sido considerados los viajes correspondientes a los Barrios de San Blas, Loma Pytá, Mburucuyá, Trinidad, Mbocayaty, Tablada Nueva, Bañado, Botánico, Zeballos Cué, De las Residentas, Salvador del Mundo, San Jorge, Ytay, Ykuá Saty, Santo Domingo y los viajes correspondientes al Centro.
+
+Zonificación General  para la Matriz de Origen/Destino
+
+
+Código
+Grupos
+
+
+1
+Limpio - Emboscada - Piquete Cué - Ruta a Luque - Ruta Nº 3-Región Orintal Norte y Noreste
+2
+Puente Remanso, Falcón, Puerto Elsa, Villa Hayes, Benjamín Aceval y resto del Chaco
+3
+M.R.Alonso - Barrios Surubi-y, Corumba-cué, Arecayá, Universo
+4
+M.R.Alonso - Barrios Remanso, Bañado, Rosa Mística, San Jorge y otros que limitan con el río
+5
+M.R.Alonso - Centro y Barrios Villa Margarita, San Blás, Concordia, San Luis y demás Barrios
+6
+Luque - Barrios Aeropuerto, Loma Merlo y Zárate Isla
+7
+Luque - Zona de Ñuguazú, Barrios Campo Grande, Palma Loma y Laurelty
+8
+Luque - Centro y demás Barrios - Areguá - Ypacarai - Caacupé 
+9
+Asunción - Barrios San Blás, Loma Pytá, Mburucuyá, Trinidad y Mbocayaty
+10
+Asunción - Barrios Tablada Nueva, Bañado, Botánico, Zeballos Cué y De las Residentas
+11
+Asunción - Barrios Salvador del Mundo, San Jorge, Ytay, Ykuá Saty, Sto.Domingo y Villa Morra
+12
+Asunción - Centro y demás Barrios
+
+
+Matriz General del Censo O / D del Puesto Nº 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 10 – Esquema de zonificación Origen / Destino.
+
+
+Determinación del tránsito derivado al proyecto
+En la siguiente Matriz O / D, se observan solamente los pares considerados para determinar el transito en la Autopista Ñuguazú.
+
+Como resultado de dichas consideraciones el valor  obtenido fue de  8.400  vehículos livianos por día derivados a la Avenida Ñuguazú. Este valor será el TMDA a ser proyectado para la evaluación del proyecto que en términos de rentabilidad considerará la conveniencia de la solucición de mejora y derivación del tráfico.
+Determinación del tránsito inducido
+A los efectos de considerar el tráfico “inducido” para la determinación de la capacidad máxima de la autopista, se estima que será aquel generado por efecto de la habilitación del nuevo acceso vial, teniendo en cuenta que el camino actualmente no existe ni existiría de no ejecutarse el proyecto, se ha obtenido mediante la aplicación de la fórmula correspondiente que considera los costos operativos antes de las mejoras y después de las mejoras, es decir, sin y con proyecto respectivamente y considerando el TMDAd Tránsito Medio Diario Anual derivado.
+La fórmula utilizada es:
+TMDAi = TMDAd ((Co/Cm) E  – 1)
+Donde: 
+TMDAd, es el transito medio diario Anual derivado
+Co  es el costo operativo antes de las mejoras (S/P)
+Cm es el costo operativo después de las mejoras (C/P)
+E    es el Coeficiente de elasticidad6 , siendo el valor adoptado:
+    • Livianos: 	E = 1,5
+Los costos a incluir en la fórmula corresponden a costos financieros (G/Km) con la inclusión del valor del tiempo de pasajeros, (prorrateados con los porcentajes de participación de automóviles y camionetas, obtenidos de los conteos, automóvil 56.79 % y camioneta 43.21 %) y  que son los costos que influyen en las decisiones de los usuarios, resultando los siguientes valores de la relación de costos antes y después de las mejoras7: 
+Co/Cm  livianos = 1,508 
+Como resultado de dicha aplicación se ha obtenido un valor de  7.160 vehículos livianos  por día.
+Tal como ya lo señaláramos más arriba, la vía en estudio en la actualidad prácticamente no cuenta con usuarios, por lo que no se han considerado en la composición del tráfico futuro. 
+Como resultado de la composición del tránsito derivado e inducido se ha obtenido:
+TMDA = 15.560 livianos por día
+Determinación de la tasa de crecicimiento del tránsito
+Sobre la base de los datos suministrados por el Estudio Socio-económico, tales como tasa de crecimiento del P.I.B. y la tasa de crecimiento de la población, se determinaron las tasas de crecimiento del ingreso por habitante y la tasa de crecimiento para el tránsito futuro.
+Es necesario conocer la demanda futura para la evaluación de los  proyectos viales a ser ejecutados a mediano y largo plazo. A los efectos contar con datos sobre los distintos componentes del tránsito futuro, fundamentales para la evaluación técnico-económica del proyecto en estudio, es preciso calcular coeficientes de proyección para los distintos tipos de tránsito de pasajeros en vehículos particulares.
+Debido a la insuficiencia de datos históricos de tránsito que nos permitirían hacer un análisis de proyecciones por transpolación de datos, es usual en estudios de transporte realizados en el Paraguay y en países de la región, relacionar los coeficientes de crecimiento del tránsito con la evolución de indicadores socio-económicos.
+Tasa de crecimiento del ingreso por habitante      
+ry  =  ((1+r pib)/(1+rh)-1)*100   en porcentaje
+ Tasas de crecimiento para el tránsito liviano 
+r  =   ((1+E*ry) * (1+rh) -1 ) * 100  en porcentaje
+Los indicadores utilizados para el cálculo son los siguientes 
+r pib   =  3,00   % tasa de crecimiento del Producto Interno Bruto
+r h      =   2,50 % tasa de crecimiento de la población 
+ry       =   0,50   %  tasa de crecimiento del ingreso por habitante      
+Las tasas de crecimiento halladas para la proyección del tránsito para vehículos livianos es de:
+r livianos = 3,27 %           
+
+TMDA Futuro
+Para obtener el TMDA futuro por tramo de estudio fue aplicada la formula siguiente.
+TMDA final = TMDA inicial (1 + r i) n
+Donde:
+TMDA f = es el tráfico del año al cuál se quiere proyectar; 
+TMDA i = es el tráfico del año base;
+ri = tasa de crecimiento del tráfico correspondiente al vehículo tipo;
+n = es el número de años comprendidos entre el año base y el año al cual se proyecta.
+Al aplicar la formula de proyección, se han obtenido los valores presentados en los cuadros de las páginas siguientes.
+
+ 
+                  PROYECCIÓN DEL TRANSITO
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Proyecto: Mejoramiento del tramo de la Avda. Ñuguazú - 
+
+AÑO
+EXISTENTE
+ 
+DERIVADOS
+ 
+INDUCIDOS
+ 
+TOTAL
+ 
+LIVIANOS
+BUSES
+CAMIONES
+LIVIANOS
+BUSES
+CAMIONES
+LIVIANOS
+BUSES
+CAMIONES
+ 
+2010
+ 
+ 
+ 
+8400
+0
+0
+
+
+
+
+2011
+ 
+ 
+ 
+8675
+0
+0
+
+
+
+
+2012
+ 
+ 
+ 
+8958
+0
+0
+
+
+
+
+2013
+ 
+ 
+ 
+9251
+0
+0
+7886
+0
+0
+17137
+2014
+ 
+ 
+ 
+9554
+0
+0
+8143
+0
+0
+17697
+2015
+ 
+ 
+ 
+9866
+0
+0
+8410
+0
+0
+18276
+2016
+ 
+ 
+ 
+10189
+0
+0
+8685
+0
+0
+18874
+2017
+ 
+ 
+ 
+10522
+0
+0
+8969
+0
+0
+19491
+2018
+ 
+ 
+ 
+10866
+0
+0
+9262
+0
+0
+20128
+2019
+ 
+ 
+ 
+11221
+0
+0
+9565
+0
+0
+20786
+2020
+ 
+ 
+ 
+11588
+0
+0
+9878
+0
+0
+21466
+2021
+ 
+ 
+ 
+11967
+0
+0
+10201
+0
+0
+22168
+2022
+ 
+ 
+ 
+12359
+0
+0
+10534
+0
+0
+22893
+2023
+ 
+ 
+ 
+12763
+0
+0
+10879
+0
+0
+23641
+2024
+ 
+ 
+ 
+13180
+0
+0
+11234
+0
+0
+24415
+2025
+ 
+ 
+ 
+13611
+0
+0
+11602
+0
+0
+25213
+2026
+ 
+ 
+ 
+14056
+0
+0
+11981
+0
+0
+26037
+2027
+ 
+ 
+ 
+14516
+0
+0
+12373
+0
+0
+26889
+2028
+ 
+ 
+ 
+14990
+0
+0
+12778
+0
+0
+27768
+2029
+ 
+ 
+ 
+15481
+0
+0
+13195
+0
+0
+28676
+2030
+ 
+ 
+ 
+15987
+0
+0
+13627
+0
+0
+29614
+2031
+ 
+ 
+ 
+16510
+0
+0
+14072
+0
+0
+30582
+2032
+ 
+ 
+ 
+17049
+0
+0
+14533
+0
+0
+31582
+2033
+ 
+ 
+ 
+17607
+0
+0
+15008
+0
+0
+32615
+2034
+ 
+ 
+ 
+18183
+0
+0
+15499
+0
+0
+33681
+2035
+ 
+ 
+ 
+18777
+0
+0
+16005
+0
+0
+34783
+
+Se aclara que para la evaluación económica del proyecto, bajo el criterio de prudencia, se utiliza solo el tránsito derivado. El tránsito total, que incluye al derivado más el probable inducido, se considera para el dimensionamiento de la capacidad máxima de la vía, en el horizonte del proyecto. 
+
+VII Estrategias de conservación  
+Los estándares de conservación logran el efecto de una mejora superficial traducido en una mejor circulación y confort al usuario, logrando disminuir la rugosidad del camino, la profundidad de la rodera, rotura de borde y el porcentaje de área dañada, así como también mejorar la textura y adherencia y por lo tanto reduciendo los costos de operación.
+Así mismo, se conformaron estrategias de conservación tanto para la situación “sin proyecto” como para las dos alternativas de la situación “con proyecto”.
+Para la situación “con proyecto”, se analizó con el HDM-4 el deterioro de la carretera en estudio después de los trabajos de pavimentación, en un horizonte de 20 años, bajo el transito total asignado y proyectado, y sin la implementación de ningún trabajo de conservación.
+Por tanto, en base a los indicadores de deterioro reportados por el Modelo, se determinaron las actividades de mantenimiento, tanto rutinario como periódico, después de los trabajos de pavimentación a fin de prolongar la vida útil del tramo carretero en estudio, las cuales se citan a continuación:
+
+Tipo de mantenimiento
+Sin Proyecto
+Pavimento Flexible
+Pavimento Rígido
+Rutinario
+Limpieza de franja de dominio, alcantarillas, cunetas, reposición de carteles, control de erosión, etc. (programada: todos los años).
+
+Limpieza de franja de dominio, alcantarillas, cunetas, reposición de carteles, control de erosión, etc. (programada: todos los años).
+
+Limpieza de franja de dominio, alcantarillas, cunetas, reposición de carteles, control de erosión, etc. (programada: todos los años).
+
+Periódico
+Reposición de señalización horizontal (programada: cada 4 años).
+Bacheo (en respuesta: área muy dañada ≥ 25%).
+Recapado con CºAº de 6 cm. (programado  a los 10 años).
+Reposición de señalización horizontal (programada: cada 4 años).
+Bacheo (en respuesta: área muy dañada ≥ 25%).
+Recapado con CºAº de 6 cm. (programado  a los 10 años).
+Resellado de Juntas (programada: cada 10 años)
+Reposición de losas (10%) (programada: a los 15 años)
+
+VIII Costos de Inversión y Conservación 
+En el siguiente cuadro se detalla la inversión inicial, a precios de mercado (financieros) y económicos, prevista en este proyecto vial para cada alternativa evaluada.
+
+ALTERNATIVA
+km
+COSTO TOTAL(U$S)
+
+
+FINANCIERO
+ECONÓMICO
+Pavimento flexible de concreto asfáltico
+6,3
+22.597.286
+19.433.665
+Pavimento rígido hormigón hidráulico
+6,3
+24.676.681
+21.221.946
+
+Para la alternativa de pavimento flexible con carpeta de concreto asfáltico, se prevé en el año 10 una inversión en el refuerzo de 6 cm de concreto asfáltico a fin de completar su vida útil de 20 años.
+El proceso para la determinación representativa de los costos unitarios de cada estándar de conservación consistió en tomar la media más la desviación estándar de los mismos, de las distintas licitaciones, descartando los que estaban fuera de un rango razonable para finalmente, mediante un coeficiente de actualización por medio de la variación del índice de costo de vida, obtener el costo unitario adoptado.
+No se realizaron estudios prescindiendo del mantenimiento necesario. Esta situación, de hecho, haría injustificable o por lo menos insostenible casi cualquier proyecto de inversión. De hacerse la simulación, solo serviría para demostrar que la reducción del valor patrimonial de la carretera, explotada sin mantenimiento, se reducirá alarmantemente. En nuestro país se tienen suficientes ejemplos de ello, razón por la cual el MOPC se halla revirtiendo esta situación mediante una nueva política de mantenimiento de rutas y caminos rurales, con el apoyo del BID, BIRF y FOCEM mismo, además de los fondos locales aplicados a este rubro. 
+Los resultados de los costos financieros y económicos para cada estándar de conservación y mantenimiento recurrente se presentan en la siguiente tabla:
+	
+
+Alternativas
+Tipo
+Actividad
+Frecuencia
+Costos
+
+
+
+
+Unidad
+Financiero
+Económico
+Pavimento Flexible
+Rutinario
+Limpieza de franja de dominio, alcantarillas, cunetas, reposición de carteles, control de erosión, etc.
+Todos los años
+US$/Km
+900,00
+774,00
+
+Periódico
+Reposición de señalización horizontal
+Cada 4 años
+US$/Km
+
+3.000
+2.580
+
+Programado
+Bacheo
+Areas muy dañadas > 25%
+US$/m2
+187,6
+157,58
+
+Periódico
+Refuerzo con carpeta de 0,06 cm.
+A los 10 años
+US$/m3
+
+7.064
+6.075
+Pavimento Rígido
+Rutinario
+Limpieza de franja de dominio, alcantarillas, cunetas, reposición de carteles, control de erosión, etc.
+Todos los años
+US$/Km
+900,00
+774,00
+
+Periodico
+Reposición de señalización horizontal
+Cada 4 años
+US$/Km
+
+3.000
+2.580
+
+Periódico
+
+Resellado de Juntas
+
+A los 10 años
+US$/m
+0,80
+0,69
+
+Periódico
+Reposición de losas (1%)
+A los 15 años
+US$/m2
+114,9
+98,81
+
+
+
+
+IX Beneficios del Proyecto   
+A los fines del cálculo de los beneficios directos por la disminución de los costos operativos de los vehículos livianos y el ahorro del tiempo de viaje de los usuarios, se cuantifican los costos operativos de los vehículos y el ahorro del tiempo de viaje, tanto en las condiciones actuales como en las condiciones de la construcción del proyecto en estudio.
+IX.1 Ahorro en Costos de los Usuarios
+Los costos por vehículo – Km incluyen dos tipos distintos de rubros componentes: a) Rubros que dependen del recorrido del vehículo, por ejemplo, combustibles, lubricantes, cubiertas, mantenimiento, depreciación; b) rubros que dependen del tiempo de viaje transcurrido, por ejemplo, intereses de capital, seguros, gastos generales, salarios del chofer, etc. Los costos por vehículo – Km así calculados, incluyen por lo tanto a aquellos que se producen por el movimiento del vehículo sobre el camino, y a los que resultan del tiempo en que se incurre para recorrer la longitud del tramo. La diferencia en costos de operación de vehículos en el camino, antes y después de la mejora, representa entonces tanto los ahorros en costos de recorrido como también los ahorros en costos de tiempo debido al aumento de la velocidad.
+El total de beneficios de la mejora vial durante el período de análisis o vida útil del proyecto, se obtiene multiplicando los beneficios unitarios recibidos por cada vehículo usuario, por el número total de usuarios durante cada año. No todos los usuarios de un mismo tipo de vehículo reciben beneficios unitarios de similar magnitud. Los usuarios derivados que actualmente transitan por otras vías y que en el futuro se volcarán a la ruta a ser mejorada, obtienen como beneficios la diferencia de costos operativos entre la ruta que actualmente usan y la que usarán en su condición mejorada. Los usuarios inducidos reciben la mitad de los beneficios unitarios que recibe el usuario derivado.
+
+IX.2 Costos de Operación Vehicular (COV)
+Como se ha mencionado, estos costos operacionales de vehículos motorizados fueron calculados utilizándose el modelo VOC HDM-4 y se determinaron en función de las características de cada tipo de vehículo y de la geometría, tipo de capa de rodadura y condición actual de la carretera. Los costos de circulación se obtuvieron multiplicando las cantidades de los diferentes componentes por sus costos unitarios que se especifican, por el usuario, en términos financieros y económicos.
+Se consideraron los siguientes componentes de los costos de operación de los vehículos:
+    • Consumo de combustible.
+    • Consumo de lubricantes.
+    • Neumáticos.
+    • Consumo de accesorios.
+    • Horas de trabajo de mantenimiento.
+    • Depreciación.
+    • Interés.
+    • Horas de conductor/chofer.
+    • Gastos generales.
+Así mismo, los datos principales de entrada que requieren el HDM-4 junto a las características claves de los vehículos en la modelización de RUE (Efectos sobre los usuarios de la carretera), se agrupan de la siguiente forma:
+    • Geometría de la carretera: Incluye los datos del trazado de la carretera, de los límites de la velocidad, del factor de coeficiente de rozamiento, de la longitud del tramo, de su anchura y del número de carriles.
+    • Tránsito: Incluye la intensidad del tránsito, la distribución por tipos de vehículos y la tasa de crecimiento.
+    • Condición de la carretera.
+    • Caracterización de los vehículos tipo.
+    • Costes unitarios: Incluye los costos de los componentes de los vehículos, por ejemplo costo de combustible por litro, salario de los conductores/chóferes, precio de los vehículos nuevos, coste de los neumáticos, etc., y el valor del tiempo del trayecto. Los datos de los componentes de los vehículos fueron definidos en términos económicos y financieros, mientras que el valor del tiempo del viaje se especificó, solamente, en términos económicos. Estos datos se obtuvieron básicamente de la información existente en la Dirección Nacional de Transporte8 (DINATRAN).
+El procedimiento general del cálculo para la modelización de las velocidades de los vehículos motorizados y de los costos de la circulación y del tiempo de trayecto, para cada alternativa de tramo, por tipo de vehículo en un año analizado, se puede resumir en los siguientes pasos:
+1. Cálculo de las velocidades de los vehículos.
+Para cada tramo de la carretera, se calculan los siguientes componentes:
+    • Velocidad libre de cada tipo de vehículo.
+    • Velocidades de congestión del tráfico por tipo de vehículo, que son las velocidades de circulación a diferentes intensidades del tráfico
+    • Promedio anual de la velocidad de la circulación de cada tipo de vehículo
+    • Promedio anual de velocidad del tráfico, que es el promedio ponderado de velocidad para todos los vehículos en el flujo del tráfico
+2. Cálculo de las cantidades de los componentes de la circulación de los vehículos en el siguiente orden:
+    • Combustible.
+    • Lubricante.
+    • Neumáticos.
+    • Repuestos.
+    • Horas de trabajo de conservación.
+    • Costes de financiación (depreciación e intereses).
+    • Horas de conductor/chofer.
+    • Gastos generales.
+3. Cálculo del tiempo del trayecto en términos de pasajero/hora en actividad de trabajo o no y horas de tránsito de carga.
+4. Cálculo de los costos del tiempo del trayecto y de los componentes de los vehículos aplicando costos unitarios a las cantidades proyectadas de consumo de componentes.
+5. Cálculo del aumento de los costes de la circulación debido a la intransitabilidad de las carreteras sin sellar seriamente deterioradas.
+6. Resumen y archivo de los datos para su uso en próximos análisis y para los informes.
+
+IX.3 Costos del tiempo de pasajero
+Para el caso de los vehículos livianos los costos de operación que dependen del tiempo incluyen el valor de tiempo del conductor y los pasajeros o acompañantes. La cantidad media de pasajeros de vehículos livianos se obtienen a partir de los resultados de los censos o encuestas de origen y destino. A fin de obtener la valoración de una hora de tiempo de pasajero se tiene en cuenta si el viaje es por motivo de trabajo o negocios, o por otros motivos. En los costos de tiempo de pasajero no existen diferencias entre costos financieros y económicos.
+El cuadro siguiente muestra los beneficios totales y también calculados para cada uno de los tramos en estudio, en Dólares Americanos:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Los valores que se presentan en el cuadro anterior son el resultado de la actualización al año 2010 de los factores que hacen a los costos de operación de vehículos livianos más el tiempo de viaje de los usuarios.
+
+
+X Análisis Beneficio Costo - Indicadores de Rentabilidad Económica9 
+						
+Este informe, obtenido de la aplicación del HDM-4, muestra una comparación de coste económico sin descuento usando el Coste de la Condición Base, Sin Proyecto, frente al Coste de la Condición Con Proyecto. El flujo de fondos es la diferencia entre el resultado anual Con Proyecto menos Sin Proyecto. Y es también la suma algebraica de los resultados obtenidos en cada tramo para un mismo año, de la misma forma como se obtiene en los reportes del HDM-4.
+La tasa de descuento aplicada fue del 7% (siete por ciento).
+
+X.1 Alternativa 1: Pavimento flexible
+En el siguiente cuadro se presenta el flujo de los costos y beneficios del proyecto para una vida útil de 20 años en millones de Dólares Americanos, para la alternativa de solución con pavimento flexible de concreto asfáltico. La tasa interna de retorno y el Valor Actual Neto se indican al pie.
+
+FLUJO DE FONDOS (millones USD)
+ 
+
+
+ 
+
+
+
+
+
+
+Año
+ 
+Incremento Costes Administración
+ 
+Disminución Costes Usuario
+ 
+Beneficio  
+
+
+Capital 
+Recurrente
+Especial 
+
+TM VOC
+Tiempo TM
+
+neto 
+
+
+
+
+
+
+
+
+
+
+2011
+ 
+9,72
+0,00
+0,00
+ 
+0,00
+0,00
+ 
+-9,72
+2012
+ 
+9,72
+0,00
+0,00
+ 
+0,10
+0,01
+ 
+-9,61
+2013
+ 
+0,00
+0,00
+0,00
+ 
+1,52
+2,57
+ 
+4,09
+2014
+ 
+0,00
+0,00
+0,00
+ 
+1,62
+2,66
+ 
+4,27
+2015
+ 
+0,00
+0,00
+0,02
+ 
+1,71
+2,75
+ 
+4,44
+2016
+ 
+0,00
+0,00
+0,00
+ 
+1,81
+2,84
+ 
+4,64
+2017
+ 
+0,00
+0,00
+0,00
+ 
+1,92
+2,93
+ 
+4,85
+2018
+ 
+0,00
+0,00
+0,00
+ 
+2,03
+3,03
+ 
+5,06
+2019
+ 
+0,00
+0,00
+0,00
+ 
+2,16
+3,14
+ 
+5,29
+2020
+ 
+0,00
+0,00
+0,02
+ 
+2,28
+3,24
+ 
+5,50
+2021
+ 
+0,00
+0,00
+0,00
+ 
+2,37
+3,35
+ 
+5,72
+2022
+ 
+0,96
+0,00
+0,00
+ 
+2,45
+3,47
+ 
+4,96
+2023
+ 
+0,00
+0,00
+0,00
+ 
+2,55
+3,59
+ 
+6,13
+2024
+ 
+0,00
+0,00
+0,00
+ 
+2,63
+3,71
+ 
+6,34
+2025
+ 
+0,00
+0,00
+0,02
+ 
+2,72
+3,83
+ 
+6,54
+2026
+ 
+0,00
+0,00
+0,00
+ 
+2,81
+3,96
+ 
+6,77
+2027
+ 
+0,00
+0,00
+0,00
+ 
+2,91
+4,10
+ 
+7,00
+2028
+ 
+0,00
+0,00
+0,00
+ 
+3,01
+4,24
+ 
+7,24
+2029
+ 
+0,00
+0,00
+0,00
+ 
+3,11
+4,38
+ 
+7,49
+2030
+ 
+-7,45
+0,00
+0,02
+ 
+3,22
+4,53
+ 
+15,18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAN
+ 
+34,19
+
+
+
+
+
+
+
+TIRE
+ 
+22,2%
+
+
+
+
+
+X.2 Alternativa 2: Pavimento rígido
+En el siguiente cuadro se presenta el flujo de los costos y beneficios del proyecto para una vida útil de 20 años en millones de Dólares Americanos, para la alternativa de solución con pavimento rígido de hormigón hidráulico. La tasa interna de retorno y el Valor Actual Neto se indican al pie.
+
+FLUJO DE FONDOS (millones USD)
+ 
+
+
+ 
+
+
+
+
+
+
+Año
+ 
+Incremento Costes Administración
+ 
+Disminución Costes Usuario
+ 
+Beneficio  
+
+
+Capital 
+Recurrente
+Especial 
+
+TM VOC
+Tiempo TM
+
+neto 
+
+
+
+
+
+
+
+
+
+
+2011
+ 
+10,61
+0,00
+0,00
+ 
+0,00
+0,00
+ 
+-10,61
+2012
+ 
+10,61
+0,00
+0,00
+ 
+0,10
+0,01
+ 
+-10,50
+2013
+ 
+0,00
+0,00
+0,00
+ 
+1,64
+2,47
+ 
+4,10
+2014
+ 
+0,00
+0,00
+0,02
+ 
+1,73
+2,55
+ 
+4,26
+2015
+ 
+0,00
+0,00
+0,00
+ 
+1,85
+2,63
+ 
+4,48
+2016
+ 
+0,00
+0,00
+0,00
+ 
+1,95
+2,72
+ 
+4,67
+2017
+ 
+0,00
+0,00
+0,00
+ 
+2,07
+2,81
+ 
+4,88
+2018
+ 
+0,00
+0,00
+0,02
+ 
+2,19
+2,91
+ 
+5,08
+2019
+ 
+0,00
+0,00
+0,00
+ 
+2,31
+3,01
+ 
+5,32
+2020
+ 
+0,00
+0,00
+0,00
+ 
+2,44
+3,12
+ 
+5,55
+2021
+ 
+0,00
+0,00
+0,00
+ 
+2,54
+3,22
+ 
+5,76
+2022
+ 
+0,00
+0,00
+0,02
+ 
+2,63
+3,33
+ 
+5,94
+2023
+ 
+0,00
+0,00
+0,00
+ 
+2,71
+3,44
+ 
+6,15
+2024
+ 
+0,00
+0,00
+0,00
+ 
+2,81
+3,56
+ 
+6,36
+2025
+ 
+0,00
+0,00
+0,00
+ 
+2,90
+3,68
+ 
+6,58
+2026
+ 
+0,00
+0,00
+0,02
+ 
+3,00
+3,81
+ 
+6,79
+2027
+ 
+0,00
+0,00
+0,00
+ 
+3,10
+3,93
+ 
+7,03
+2028
+ 
+0,00
+0,00
+0,00
+ 
+3,21
+4,07
+ 
+7,27
+2029
+ 
+0,00
+0,00
+0,00
+ 
+3,32
+4,21
+ 
+7,52
+2030
+ 
+-4,25
+0,00
+0,02
+ 
+3,43
+4,35
+ 
+12,02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAN
+ 
+32,27
+
+
+
+
+
+
+
+TIRE
+ 
+20,63%
+
+X.3 Resumen
+Del análisis de rentabilidad del proyecto se calcularon los siguientes indicadores para las dos alternativas tecnológicas evaluadas:
+	
+Indicadores
+Pavimento
+Flexible
+Pavimento Rígido
+    • Valor Actual Neto (VAN) (USD millones)
+34,19
+32,27
+    • Tasa Interna de Retorno (TIR)
+22,2 %
+20,6%
+Como resultado de los análisis económicos realizados se determinó la conveniencia de seleccionar como alternativa más conveniente la solución con Pavimento Flexible.
+
+X.4 Análisis de Sensibilidad  
+El análisis de sensibilidad se realizó según tres escenarios posilbles: a) el incremento de los costos; b) la disminución de los beneficios; y c) la ocurrencia simultánea del incremento de los costos y la disminución de los beneficios. Para los casos de variaciones aisladas se consideró 20% como máximo y para el caso de la ocurrencia simultánea se consideró variaciones del 10%. Los resultados de estos análisis se indican a continuación para las dos alternativas tecnológicas estudiadas.
+
+X.5 Alternativa 1: Pavimento flexible
+
+Escenarios
+Indicadores
+Incremento en los Costos del 20 %
+VAN (Millones de USD)
+30,74
+
+TIRE
+  18,4%
+Disminución de los Beneficios en 20 %
+VAN (Millones de USD)
+23,90
+
+TIRE
+18,2%
+Incremento en los Costos del 10 % y disminución de los Beneficios en 10 %
+VAN (Millones de USD)
+27,32
+
+TIRE
+18,3%
+
+X.6 Alternativa 2: Pavimento rígido
+	
+Escenarios
+Indicadores
+Incremento en los Costos del 20 %
+VAN (Millones de US$)
+28,39
+
+TIR
+17,5%
+Disminución de los Beneficios en 20 %
+VAN (Millones de US$)
+21,93
+
+TIR
+16,8%
+Incremento en los Costos del 10 % y disminución de los Beneficios en 10 %
+VAN (Millones de US$)
+25,16
+
+TIR
+17,2%
+
+X.7 Conclusión
+
+Como se observa, la implementación del presente proyecto se justifica ampliamente en base a los indicadores de rentabilidad arrojados, los cuales soportan considerablemente los escenarios de sensibilidad planteados ya que en todos los casos la TIRE es bien mayor a la tasa mínima de rentabilidad social del 7%, indicada para los proyectos a ser financiados por FOCEM.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO 4
+ANÁLISIS AMBIENTAL
+
+ANEXO 4 – ANÁLISIS AMBIENTAL   
+
+XI INTRODUCCIÓN
+El presente documento constituye el informe de los Estudios Ambientales para la ejecución del proyecto de Construcción de la Autopista Ñuguazú, de 6,3 Km de longitud, que se extiende desde la RUTA Nº 9 TRANSCHACO, hasta su intersección con la Ruta Gral. Elizardo Aquino. A lo largo de su trazado intercepta a la Avda. Dr. Semidei (Continuación de la Avda. Madame Lynch) y a la Avda. Silvio Petirossi. 
+Ha sido presentado a la Secretaría del medio Ambiente (SEAM) el CUESTIONARIO AMBIENTAL BÁSICO (CAB), documento que constituye el inicio del proceso para la obtención de la licencia ambiental del proyecto. Al respecto, la SEAM emitió los Términos de Referencia solicitando la realización de un Estudio de Impacto Ambiental (EIA). Dicho estudio actualmente se encuentra en la etapa de desarrollo siguiendo lo indicado en los términos de referencia y con una supervisión de la SEAM atendiendo el cumplimiento de los puntos incluidos en los mismos. 
+En el CAB se presentó: una descripción del proyecto, sus objetivos, la situación actual de la vía,  principales características (tecnologías y procesos que se aplicarán), mencionando la etapa de estudio de Factibilidad Técnica, Económica y Socio-Ambiental, así como la elaboración del Diseño Final de Ingeniería.. Además, se presentan en dicho Estudio Ambiental (CAB) el enfoque participativo, durante el proceso de Estudio de Factibilidad, de la población beneficiaria informando a la misma de los estudios a ser realizados en el área de influencia  del proyecto y de esa forma contribuir con la información referida a los temas socio-ambientales, de acceso y de economía local en el contexto de producción y mercados. Se presenta además, la descripción socioambiental del área de influencia del proyecto, donde se presenta un diagnóstico ambiental de las características del área de influencia del trazado propuesto en el Estudio de Factibilidad Técnica-Económica realizado por la Empresa Consultora OTING. 
+También se presentan: la sensibilidad ambiental del área de influencia,nivel de riesgo ambiental del proyecto, evaluación preliminar de pasivos y potenciales impactos socioambientales, estudio socioambiental propuesto, para lo cual se deberán considerar las Medidas de Mitigación para aquellos impactos negativos y el Plan de Gestión Ambiental con sus respectivos Programas y Subprogramas. 
+Este estudio se realiza a través del CONSORCIO OTING, como ya se indicó más arriba, y para el efecto se conformó un equipo técnico multidisciplinario para que analice los diferentes aspectos socioambientales de afectación directa e indirecta sobre el medio ambiente. Los componentes que integran el presente estudio son Medio Físico, Medio Biológico y Medio Socioeconómico.
+El Proyecto se encuentra localizado: un sector en el Municipio de Asunción y otro sector en el Municipio de Luque, del Departamento Central, con origen en el Municipio de Asunción. (Ver Mapa 1, “Localización del Proyecto en el Asunción y el Departamento Central”). 
+
+Las principales obras previstas corresponderían a las ya realizadas para proyectos similares, como: i). Limpieza; ii). Movimiento de suelo; iii).Construcción o Rehabilitación de Obras de Arte (alcantarillas, puentes); iv). Obras Complementarias; v). Colocación de capa de rodadura, y las necesarias para cumplir con los objetivos. En la etapa de construcción se prevé la aplicación de técnicas normalmente utilizadas para obras viales, como ser: i).Relevamientos topográficos previos al inicio de la obras; ii). Estaqueos del eje; iii). Instalación de campamentos y movilización; y iv). La ejecución de los rubros de obras, siguiendo los criterios técnicos definidos en las especificaciones de obra.
+
+
+
+
+
+Mapa 1. Localización del Proyecto en Asunción y Departamento Central
+
+Para la ejecución de las obras se requerirá de las siguientes instalaciones de apoyo: i). Campamento obrero y oficina de campo; ii). Canteras de piedra; y iii). Áreas de préstamos de suelo seleccionado, y otras que sean necesarias para la buena ejecución del proyecto. En este caso, probablemente algunos de estos rubros serán conseguidos fuera del área de influencia directa por la ubicación de los tramos en estudio.
+El Estudio de Impacto Ambiental será realizado en base a los Términos de Referencia (TOR) emanados de la Secretaría del Ambiente a través de la Nota DGCCARN Nº 1997/10 de fecha 27 de agosto del año 2010 y de esta manera cumplir con las exigencias establecidas por la Ley Nº 294/93 de Evaluación de Impacto Ambiental y su Decreto Reglamentario Nº 14.281/96. 
+Los impactos identificados serán objeto de una valoración y evaluación, de manera a establecer una escala de calificación de los mismos y así poder discriminar aquellos más significativos y de mayor relevancia. Para aquellos impactos negativos identificados se establecerán medidas correctivas y compensatorias a través de Programas y Subprogramas comprendidos dentro de un Plan de Gestión Ambiental.
+A los efectos de realizar el Estudio de Impacto Ambiental, se utilizará la siguiente metodología que será desarrollada en Etapas: 
+Etapa 1: 	Diagnóstico ambiental del área de influencia, que consistirá en la revisión bibliográfica y de antecedentes del área, consulta con autoridades locales y pobladores.
+Etapa 2: 	Levantamiento de datos in situ de los diferentes componentes.
+Etapa 3: 	Identificación y valoración de impactos, que comprenderá la identificación de impactos ocasionados por la ejecución del proyecto: directos, indirectos, positivos y negativos, permanentes y temporales, para lo cual se utilizará una lista de chequeo simple y posteriormente una matriz interactiva Ad hoc. 
+Etapa 4: 	Medidas de Mitigación y Plan de Gestión Ambiental. Las medidas y el plan de gestión se elaboraran en base a la identificación y valoración de los impactos.
+
+De acuerdo a los Términos de Referencia, ya mencionados, el Informe de la Evaluación Ambiental debe seguir el siguiente esquema:
+- Descripción del Proyecto propuesto
+- Descripción del medio Ambbiente
+- Consideraciones legislativas y Normativas
+- Impactos Ambientales Significativos
+- Análisis de las Alternativas
+- Plan de Mitigación
+- Plan de Monitoreo
+
+XII CARACTERIZACIÓN DEL PROYECTO 
+XII.1 ANTECEDENTES 
+El Proyecto de la denominada Autopista Ñuguazú, surge de la necesidad mejorar las condiciones actuales de los Accesos a la Ciudad de Asunción, en particular desde los Municipios de Mariano Roque alonso, Limpio, Luque, Areguá, Ypacaraí y otros, y comprende la construcción de una vía rápida de doble calzada y tres carriles por calzada con una franja central destinada a una futura vía férrea. Para el efecto, se deberán identificar los impactos negativos y positivos que la ejecución del proyecto vial puede generar en las condiciones ambientales actuales, proponer las alternativas de mitigación y plantear las conclusiones y recomendaciones pertinentes.
+El proyecto se desarrollará, una parte en el Municipio de Asunción y otra en el Municipio de Luque (Departamento Central).
+
+XII.2 OBJETIVOS DEL PROYECTO  
+El objetivo del proyecto es lograr un tráfico seguro y en un tiempo mucho menor al que se requiere actualmente, en el tramo de Asunción - Luque, lo que redundará en mayores beneficios a los usuarios provenientes de la misma ciudad de Luque así de otras localidades vecinas, principalmente de los ahorros en costos de operación de los vehículos y reducción del tiempo de viaje. Además, contribuirá a descongestionar el tráfico entre ambas ciudades y también de los provenientes de otros lugares.
+
+XII.3 LOCALIZACION
+El Proyecto abarca una longitud de 6,289 Km, con origen en la Ruta Transchaco (Asunción, Capital) hasta su intersección con la Ruta Gral. Elizardo Aquino, que constituye el acceso principal a la ciudad de Luque,  coincidiendo  con el trazado actual de la vía existente.
+
+XII.4 INVERSIÓN PREVISTA 
+El estudio de ingeniería realizado arrojó los costos estimados para el proyecto en los diferentes tramos conforme a lo siguiente: 
+
+
+
+
+Tipo de Pavimento
+Progresiva inicial
+Progresiva final
+Km
+Inversión
+Precio
+
+
+
+
+por tramo
+por tramo
+
+
+
+
+U$S
+U$S/Km
+Pavimento Flexible
+0+000
+6+289
+6,3
+22.597.286
+3.586.871
+Pavimento Rígido
+0+000
+6+289
+6,3
+24.676.681
+3.916.934
+
+
+
+
+
+
+A estos costos se agregan los previstos para la Fiscalización de Obras, el Plan de Gestión Ambiental y Auditoría Externa, indicados en el Apartado IV-3 “Costos del proyecto y financiamiento”.
+
+XII.5 INFRAESTRUCTURA PREVISTA 
+El proyecto consiste en la construcción de una vía rápida de acceso, de doble calzada y tres carriles por calzada, con pavimento flexible conformado con una carpeta de rodadura de concreto asfáltico, la construcción de pasos a desnivel y enlaces sobreelevados a fin de solucionar las intersecciones con otras vías de circulación, así como la realización de obras complementarias (construcción de puentes, señalización vertical y horizontal, viaductos peatonales, obras de drenaje pluvial, entre otros). En general el proyecto presenta laas siguientes características técnicas: 
+Sección transversal
+- Número de calzadas	2
+- Número de carriles	3 por calzada
+- Ancho de cada calzada	9,60 m
+- Banquina:		2,50 m a cada lado, pendiente 4%
+- Franja de reserva para ferrocarril	6,00 m.
+- Ancho total de plataforma: 		31,20 m.
+- Pendientes transversales 	3%
+- Paquete estructural 		Carpeta de concreto asfáltico;
+	Base granular; y
+	Sub base granular estabilizada
+- Fraja de dominio: 		50 m.
+- Vida de diseño:	20 años.
+La descripción de las obras y los costos estimados se indican con detalle en el Apartado IV.9 “Diseño e Ingeniería”.
+Se han realizado los estudios de suelos que han permitido determinar la calidad de los suelos existentes en la traza y en los yacimientos o préstamos a ser utilizados. 
+Con respecto a las obras de arte se han realizado los estudios hidrológicos correspondientes a fin de dar una solución a las condiciones existentes y las que serán ocasionadas por la construcción de las obras.
+El escurrimiento de la calzada está asegurado por las pendientes transversales proyectadas. Para los taludes del terraplén se prevé una cantidad para revestir mediante tepes que estará condicionado a las características de los suelos que se utilicen en su construcción.
+En los documentos del Diseño de Ingeniería se prevén los diseños de las obras de drenaje, los pasos a desnivel, las señalizaciones, barandas, puentes, cunetas revestidas y otras necesarias para el buen funcionamiento del proyecto. 
+
+XII.6 ETAPAS DEL PROYECTO
+Teniendo en cuenta los Términos de Referencia, se ha definido para este proyecto 5 etapas que a continuación se presentan:
+
+6.1. ETAPA I: ESTUDIOS PARA EL DISEÑO DE INGENIERÍA
+Estudios del trazado: Las actividades que se realizan en esta etapa, sirven para definir la directriz del trazado, se toma como base el eje del camino actual, se realizan algunas rectificaciones y pequeños desplazamiento del eje en algunos tramos. Las actividades que se realizan en este estudio son: reconocimiento cartográfico, exploración en el terreno para verificar las diferentes alternativas, evaluación y selección. Para la selección de la alternativa se sigue el propuesto en el estudio de Factibilidad Técnica. 
+Estudios topográficos: Se desarrollan los trabajos de campo y gabinete para la localización sobre el terreno de la traza directriz, las actividades son: replanteo plani-altimétrico, relevamiento altimétrico, relevamientos de cauces de agua para el emplazamiento de los puentes y relevamientos especiales.
+Estudios geológicos y geotécnicos: Las actividades involucradas en este estudio son recopilación y análisis de datos, visitas de reconocimiento, interpretación del terreno a través de sensores remotos, elaboración de mapas geológicos y geotécnicos, reconocimiento de la subrasante, estudios para fundaciones de terraplenes y obras de arte, investigación de yacimientos de materiales de construcción.
+Estudios hidrológicos e hidráulicos: se realizan con el fin de determinar los caudales de llegada a las estructuras de descarga de los cursos de agua, valores de velocidad  y escurrimientos superficiales que son interceptados por el trazado del camino, para definir las obras de drenaje correspondientes (puentes, alcantarillas, otros). Las actividades relacionadas con este estudio implican la interpretación cartográfica de cuencas y sub-cuencas hidrográficas, la utilización de eventos pluviométricos máximos anuales registrados en las estaciones de la zona, el estudio de datos de precipitaciones de la estación meteorológica de los sectores afectados..
+Diseño geométrico: Se determina la alineación horizontal y vertical del trazado con todos sus elementos, tales como: progresivas, curvas horizontales, curvas de nivel, ubicación de obras de arte, ubicación de accesos e intersecciones, obras complementarias.
+Movimiento de suelo: La presentación del movimiento de suelo consta de la elaboración de secciones transversales cada cierta distancia sobre la planimetría del proyecto geométrico, cálculo de los volúmenes de terraplen basados en secciones transversales levantadas.
+Obras de arte y drenaje: Se realiza el dimensionamiento hidráulico necesario para la construcción de la carretera. Se realizan actividades para construcción de alcantarillas tubulares y celulares, construcción de puentes, obras de arte subterráneas como aliviaderos, disipadores de energía y sumideros. Para el diseño de puentes se utiliza las normas AASHTO (Standards Specifications for Highway Bridges) y de la Dirección de Vialidad del MOPC. 
+Seguridad vial y señalización: Consiste en la definición de los dispositivos de señalización horizontal y vertical. Se definirá la ubicación y tipo de acuerdo con el diseño geométrico. En este punto también se definen las fajas a ser pintadas, defensas y balizas para seguridad de los usuarios y de acuerdo a las normas establecidas por el MOPC.
+Diseño del pavimento: De acuerdo a los términos de referencia, el pavimento deberá estar dimensionado para una velocidad directriz de 100 Km/h y una vida útil de 20 años. 
+Obras complementarias: Se implementaran medidas de protección contra la erosión y deslizamientos en taludes,  recomposición de paisajes, en casos necesarios.
+Catastro de propiedades afectadas: Consiste en un levantamiento físico de las propiedades afectadas por la traza de la carretera y que deberán ser expropiadas, en casos necesarios.
+
+6.2 ETAPA II: DE CONSTRUCCIÓN
+En esta etapa se implementarán todas las características previstas en la etapa de Diseño (Etapa I). Estarán sujetos a modificaciones y ampliaciones que se consideren necesarios. Además de la instalación de campamento obrero ocupacional. 
+Para las actividades desarrolladas en esta etapa se tiene en cuenta las Especificaciones Técnicas Ambientales Generales (ETAGs) para obras viales del Ministerio de Obras Públicas y Comunicaciones (Versión Oficial aprobada por Resolución de SEAM Nº 367/04). 
+
+6.3 ETAPA III: DE OPERACIÓN 
+Esta etapa corresponde a la operación o utilización por los usuarios del tramo vial construido. Para el EIA se identificarán los impactos generados principalmente por la acción antrópica.
+
+6.4 ETAPA IV: DE ABANDONO O CIERRE DE ACTIVIDADES
+Corresponde al cierre de actividades por parte de las empresas encargadas de la construcción (campamentos, patio de maquinarias), recomposición de las áreas de préstamo y disposición adecuada de materiales de construcción sobrantes.
+
+6.5 ETAPA V: ETAPA DE MANTENIMIENTO
+En esta etapa se incluyen las actividades relacionadas con el mantenimiento del tramo vial y las actividades relacionadas con los programas de monitoreo.
+
+XII.7 MARCO POLÍTICO, LEGAL Y ADMINISTRATIVO
+El Gobierno de la República del Paraguay establece su Política Ambiental a través de leyes, reglamentos y normas en el sector, además de convenios, acuerdos y declaraciones internacionales firmadas por el Poder Ejecutivo y Ratificadas por el Congreso. Los Gobiernos locales (municipal y departamental) también tienen la autoridad para la preparación de ordenanzas en el aspecto ambiental, las cuales deben estar acordes con la legislación ambiental.
+Los instrumentos legales más importantes con relación al medio ambiente y que guardan relación con el estudio que nos ocupa, son los siguientes:
+    • La Constitución del Paraguay, sancionada en 1992, se refiere al medio ambiente en los sgtes. artículos:
+- De la Calidad de Vida. Artículo 6.
+- Del Ambiente. Artículo 7.
+- De la protección Ambiental. Artículo 8.
+- Del derecho a la defensa de los intereses difusos. Artículo 38.
+- De los Pueblos Indígenas (Artículos 62 al 67).
+- De la política económica y de la promoción del desarrollo. Artículo 176.
+“El estado promoverá el desarrollo económico mediante la utilización racional de los recursos disponibles, con el objeto de impulsar un crecimiento ordenado y sostenido de la economía, de crear nuevas fuentes de trabajo y de riqueza, de acrecentar el patrimonio nacional y de asegurar el bienestar de la población. El desarrollo se fomentará con programas globales que coordinen y orienten la actividad económica nacional”.
+    • El Código Sanitario, aprobado por Ley Nº 836 del año 1980, en su Título II de la Salud y el Medio, tiene 14 capítulos donde se cubren los tópicos relacionados, algunos de los cuales son:
+Capítulo I – Del Saneamiento Ambiental – De la Contaminación y población.
+Capítulo II – Del Agua para consumo humano y recreo.
+Capítulo III – De los Alcantarillados y los Desechos Industriales.
+Capítulo IV – De la Salud Ocupacional y del medio Laboral.
+Capítulo V – De la Higiene en la vía Pública.
+Capítulo IX – De los Asentamientos Humanos.
+Capítulo XIII – De los residuos, sonidos y vibraciones que pueden dañar la salud.
+    • La Ley 904/81 Estatutos de las Comunidades Indígenas y creación del Instituto Nacional del Indígena (INDI).   
+    • La Ley 294 /93 de Evaluación de Impacto ambiental es aplicada a los proyectos de obras o actividades públicas o privadas; Art. 7 (k), que refiere a las obras viales en general y en cuyo Decreto Reglamentario N° 14281 en su Art. 5° (11) menciona que los EIAs estarán sujetos a los procedimientos y normas de la Construcción de Obras Viales.
+    • El Decreto reglamentario Nº 14281/96 de la Ley Nº 294/93.
+    • La Ley 352/94 de Areas Silvestres Protegidas  fija normas generales de manejo de las ASP y en su artículo 12 especifica que todo proyecto de obra pública o privada que afecte a un ASP o a su zona de amortiguamiento, deberá contar con un Estudio de EIA, previo a la ejecución del Proyecto y deberá acatar las recomendaciones emanadas del mismo.
+    • La Ley 352/94 de Areas Silvestres Protegidas en su Art. 7° define la zona de amortiguamiento y menciona que en esa zona es donde se expresa la solidaridad, el beneficio mutuo y la responsabilidad compartida necesaria, entre la administración del ASP y las comunidades, los individuos, las organizaciones privadas y gubernamentales para el manejo y consolidación del ASP involucrada y el desarrollo socioeconómico sustentable.
+    • Resolución Nº 585/95 de Control de la calidad de los recursos Hídricos, se establece que los recursos hídricos serían clasificados según los usos preponderantes, se establecen los parámetros de calidad de las aguas, las sustancias potencialmente peligrosas y las normas de descargas de efluentes de los recursos hídricos. La SEAM es la institución encargada de establecer los límites que servirán de parámetros de descarga de contaminantes al agua.
+    • Resolución Nº 548/96 “Manejo de residuos sólidos”. Se establecen normas técnicas que reglamentan el manejo de desechos sólidos.
+    • Ley Nº 716/96 que sanciona delitos contra el medio Ambiente: la misma establece en su Art. 1º. “Esta Ley protege el medio ambiente y la calidad de vida humana contra quienes ordenan, ejecuten o, en razón de sus atribuciones, permitan o autoricen actividades atentatorias contra el equilibrio del ecosistema, la sustentabilidad de los recursos naturales y la calidad de vida humana”.
+    • Ley Nº 1160/97 – Nuevo Código penal. Título III, Capítulo I, Hechos punibles contra las bases naturales de la vida humana,  Presenta artículos referentes a:
+- Ensuciamiento y alteración de las aguas.
+- Contaminación del aire.
+- Polución sonora.
+- Maltrato de suelos.
+- Procesamiento ilícito de desechos.
+    • Ley Nº 1561/00 Que crea el Sistema Nacional del Ambiente, el Consejo nacional del Ambiente y la Secretaría del Ambiente. La SEAM tiene por objetivos la formulación, coordinación, ejecución y fiscalización de la política ambiental nacional. En su Artículo 15 menciona que la SEAM ejercerá autoridad en los asuntos que conciernan a su ámbito de competencia y en coordinación con las demás autoridades competentes en las siguientes leyes:
+    • Ley Nº 369/72 “Que crea el Servicio Nacional de Saneamiento Ambiental (SENASA) y su modificación Nº 908/96.
+    • Resolución SEAM Nº 367/04, por la cual se aprueba las Especificaciones Técnicas Ambientales generales para Obras Viales (ETAGs).
+
+XII.8 DEFINICIÓN DEL AREA DE INFLUENCIA DEL PROYECTO
+A los efectos del EIA se ha delimitado dos áreas de influencia del proyecto:
+Un Area de Influencia Indirecta o macro (AII): definida como el área regional circundante al área directa del tramo, que de alguna manera ejercen alguna influencia sobre la misma o es afectada por la existencia del proyecto, considerando las variables biofísicas y socioeconómicas intervinientes, se ha tomado como AII una franja  de 5Km a ambos lados del eje del tramo vial en estudio, y abarca principalmente zonas de Asunción, Luque, Mariano Roque Alonso.
+Es importante destacar que esta área se superpone con otras áreas de influencia indirecta de tramos viales ya construídos, como la Ruta Nº 9 Transchaco, la Ruta Luque – Aregua – Patiño - Ypacarai, entre otros.
+Un Area de Influencia Directa o micro (AID): que corresponde a aquella Franja de Dominio Carretero, donde se realizarán todas las obras de ingeniería vial.
+
+XII.9 DIAGNÓSTICO SOCIOAMBIENTAL DEL ÁREA DE INFLUENCIA 
+El territorio paraguayo se  ubica en el centro de Sudamérica, extendiéndose entre 54º 19’ y 62º 38’ de longitud Oeste y 19º 18’ y 27º 30’ de latitud Sur. Su superficie total es de 406.752 Km2
+Desde el punto de vista geográfico el país está dividido por el río Paraguay en dos regiones, la región Oriental y la región Occidental.
+La región Oriental, zona de ubicación del área en estudio, abarca una superficie de 160.027 Km2, representando el 40% de la superficie total del país. Es de una mayor diversidad geográfica caracterizada por valles y serranías. La altura promedio es de 250 msnm10 y las mayores elevaciones alcanzan aproximadamente los 850 m.
+La zona de implantación del Proyecto corresponde a la Capital del país, Asunción, desde la Prog. 0+000 hasta la Progr. 3+120 (Aº Itay, límite distrital) y desde este punto has su fin, en la Prog. 6+289, al Municipio de Luque del Departamento Central.
+
+9.1 Caracterización del medio físico
+9.1.1 Clima
+La temperatura media anual es de 22ºC, con promedio màximo de 39 ºC en enero, febrero y diciembre, y una mìnima.de 1º a 6º C de junio a agosto.
+
+El règimen de lluvia es de 1.433 mm. anuales, siendo más frecuente las precipitaciones de enero y abril, y menos frecuente en junio, julio y agosto.
+9.1.2 Geología
+El Paraguay geológicamente se halla localizado en la porción suroeste de la Plataforma Sudamericana y del Escudo Central Brasileño. La Faja Plegada Paraguay-Araguaia y el Cratón del Guaporé tienen su continuidad desde el Brasil hacia el territorio Paraguayo. 
+El Paraguay constituye una extensa región de cuencas sedimentaria (94,8%) reflejando cada una de ella sus   propias particularidades y características comunes.
+.Las formaciones geológicas más importantes desde el punto de vista económico son las del grupo Itapucumí por la calidad de los calcáreos que presenta. Màs del 75% de los suelos derivan de arenisca.
+9.1.3 Geomorfología, relieve y drenaje.
+La superficie del Departamento Central es de 2.465 Km2. Su Capital es Areguà. Los Distritos de Limpio, Mariano Roque Alonso y Luque, lugares de ubicación del Proyecto, son componentes del mismo.  
+El Departamento Central cuenta con numerosos lugares de atracción turística, sobre el Lago Ypacaraì.
+
+El Departamento Central se halla situado entre los paralelos 25º00` y 26º00` de  Latitud Sur y los Meridianos 57º11` y 57º50` de L ongitud Occidental.
+
+Sus lìmites son: al Norte y Noreste, los Departamentos de Presidente Hayes y de la Cordillera, respectivamente.; al Este el de Paraguari; al Sur, el de Ñeembucù, y al Oeste el Rìo Paraguay, que lo separa de la Repùblica Argentina. 
+
+La topografìa DEPARTAMENTAL presenta terrenos ondulados, relativamente altos, en la mayor parte del territorio. Un tramo de la Cordillera  de los Altos forma el principal accidente orogràfico del Departamento, cuyas elevaciones mas importantes son los Cerros Lambarè, Ñanduà y Arrua-ì. El Sur-este es mas bajo, con esteros en las proximidades del Lago Ypoà.
+            
+En particular el proyecto se esarrolla sobre una superficie de terreno con topografía plana que no posee ondulaciones importantes.
+9.1.4 Recursos hídricos
+El Río Paraguay es el principal, con su afluente màs importante el Rìo Salado, desague del Lago Ypacarai. Numerosos otros cursos de agua desembocan en el Rìo Paraguay, como los arroyos Itay, Ytororò, Avay y Paray.
+
+Vierten sus aguas en el Lago Ypacarai, el arroyo Yuquyry; al este y sur-este corren el Caañabè y sus afluentes. Los arroyos Yuquyry y el Ñanduà pierden sus aguas en los esteros del Ypubican en este Departamento, los Lagos Ypoà y la Laguna Cabral.
+9.2. Características del Medio Biológico
+9.2.1. Ecorregiones 
+La Ecorregión Litoral Central posee el mayor número de centros poblados, abarca una superficie de 26.310 Km2.. Comprende porciones de los Departamentos de San Pedro, Cordillera y Central. 
+Relieves y suelo: en su mayoría es plano, con alturas que varían desde los 63 metros. (en las cercanías de San Pedro) y los 319 m. cerca de San Estanislao.
+Los suelos del N son de planicies con poco declive y áreas inundadas; los del S son similares a los de Selva Central.
+Ecosistemas: presnta bosque medios y bajos que alternan con campos, además de lagunas, bañados, esteros, ríos, arroyos, nacientes de agua y sabanas.
+Flora: sus especies arbóreas típicas son kurupica`y, tataré, timbó, espina de corona, ceibo, sauce, yvyrá itá y algunas especies chaqueñas como el quebracho colorad, el karandaý entre otras.
+Funa: tiene fuerte influencia chaqueña. Sus grandes bañados y esteros son el hábitat de varias especies acuáticas y numerosas aves.
+Impacto humano:  es notable especialmente en el S, que presenta el mayor número de centros poblados del país.. Las actividades están basadas en producción agrícola ganadera, comercio, industria y turismo.
+Áreas protegidas: parque Nacional de Ypacaraí (16.000 Has. Cradeo en 1,990); monumento Nacional Cerro Koi y Chororí (de 12 y 5 Has. Respectivamente, creado en 1.993), bajo administración del Estado; y Reserva Privada Sombrero (9.957 Has.) 
+
+
+9.2.2.4. Flora
+En el área de ubicación de los tramos en estudio, se observa vegetación en estado de sucesión secundaria, ya que ha sido objeto de modificación a lo largo de los mismos, y a ambos lados.
+Existen pocos árboles, tanto en número como en especie, los vegetales arbustivos son escasos.
+A juzgar por las observaciones realizadas, se concluye que la implementación del proyecto, no afectará negativamente a las condiciones florísticas ni paisajísticas imperantes en el medio, debido a que se observan en el lugar praderas con vegetales arbustivos escasos.
+
+9.3. Características del medio socioeconómico
+
+9.3.1. Aspectos demográficos
+En los últimos años, ha aumentado notablemente la cantidad de pobladores, de los municipios afectados por el proyecto, es así que se observan viviendas a lo largo del tramo afectado. 
+En cuanto a los servicios públicos, como ya se mencionó anteriormente, se cuenta con provisión de Servicios de Energía Eléctrica de la ANDE
+La zona se provee de agua potable, a través de ESSAP.
+.
+El lugar cuenta con servicio de recolección de residuos, a través de los municipios en gran parte de la zona y siendo una prioridad entre sus objetivos, la implementación del mismo. Las Municipalidades tienen contrato con los recolectores de residuos para la realización de los trabajos. 
+
+Con referencia a los desagües cloacales, se cuenta con el servicio de alcantarillado sanitario en forma parcial, en las áreas afectadas, así como sistemas sanitarios individuales (pozo ciego  y cámara séptica).
+
+9.3.2. Uso del suelo
+En el Departamento Central más del 75 %  de los suelosa derivan de arenisca y son aprovechables para las siembras tradicionales de subsistencia y de renta, especialmente hortalizas y frutas. La continuada explotación de la tierra desde el inicio d ela conquista hispanoamericana, las ha llevado a ser de baja condición de fertilidad.. el margen de crecimiento de la superficie cultivable ha llegado a su límite. La productividad en comparación con la de los demás Departamentos de la Región oriental es bastante baja.
+
+XIII SITUACIÓN AMBIENTAL ACTUAL IDENTIFICADA (PASIVOS AMBIENTALES)
+Durante el recorrido se han identificado algunos impactos generados por las actividades humanas y que podríamos denominarlos como pasivos ambientales. Esta situación existente servirá como línea base para algunos de los impactos positivos y negativos que serán generados por la ejecución del Proyecto. A continuación se describen algunos de ellos:
+La zona ya se encuentra intervenida  con camino existente a lo largo de la traza en estudio y también de viviendas a exepción del sector que pqasa detrás del Parque Ñuguazú.
+Las precipitaciones acarrean serias consecuencias en cuanto a la alteración del suelo y el relieve por medio de las inundaciones y los procesos erosivos, los lugares más susceptibles a la acción de las aguas son aquellos ocupados por los cursos de aguas permanentes y temporales.
+El tramo en las condiciones actuales, no es una ruta de todo tiempo (en el sector detrás del parque Ñuguazú, que es camino de tierra), cuando hay lluvia se tiene un fuerte impacto negativo ya que dificulta el tránsito de personas y productos en general. 
+
+XIV IDENTIFICACIÓN DE IMPACTOS AMBIENTALES
+XIV.1 Metodología
+A los efectos de la evaluación de los impactos ambientales inicialmente se ha elaborado una lista de control simple (Lista de Chequeo o Checklist) de los posibles impactos negativos que se presentarán como consecuencia de la construcción del camino.
+El análisis y predicción de los impactos se vuelca en una matriz donde se listan en el eje del “y” los pasivos ambientales y las actividades del Proyecto en sus diferentes etapas, y en el eje de las “x” los factores ambientales del medio físico, medio biológico y medio socioeconómico, luego se calificaron los efectos en las columnas, en base a los siguientes criterios.
+Tipo de efecto
+- Impacto Positivo (+)
+- Impacto Negativo (-)
+Duración y Magnitud
+    • Impacto permanente fuerte (1)
+    • Impacto permanente medio (2)
+    • Impacto permanente bajo (3)
+    • Impacto temporal fuerte (4)
+    • Impacto temporal medio (5)
+    • Impacto temporal bajo (6)
+Relación causa-efecto
+    • Impactos directos directos (d)
+    • Impactos indirectos (i)
+• Los Impactos considerados para el análisis fueron: 
+Sobre el Medio Físico
+    • Afectación al suelo
+    • Calidad del aire (olor y polvo)
+    • Hidrología superficial (calidad de agua)
+    • Hidrología superficial (escurrimiento y drenaje)
+    • Erosión.
+    • Deposición, sedimentación.
+Medio Biológico
+    • Cobertura vegetal natural.
+    • Flora local.
+    • Fauna local.
+    • Zonas húmedas
+    • Paisaje (calidad, visibilidad, fragilidad)
+    • Áreas Protegidas
+    • Especies raras y en peligro.
+    • Estructura trófica.
+Medio sociocultural
+    • Productividad agrícola, ganadera, forestal y pesquera
+    • Valores históricos y recreativos.
+    • Valor de inmuebles
+    • Salud y  Servicios básicos
+    • Tráfico
+    • Empleo
+    • Molestias y conflictos
+    • Turismo
+    • Economía, Industria y comercio
+    • Seguridad y Accidentes
+    • Vistas escénicas
+
+XIV.2  Descripción de los impactos potenciales
+
+2.1. Impactos sobre el Medio Físico
+Las actividades a ser realizadas en las diferentes etapas del proyecto, construcción y operación, estarán sujetas a las normas y recomendaciones establecidas en las Especificaciones Técnicas Ambientales Generales (ETAGs).
+Los impactos sobre el Medio Físico en su mayoría se darán en el área de influencia directa del tramo vial, si no se implementan los cuidados necesarios durante la construcción y si no se toman en cuenta las medidas recomendadas, los principales impactos negativos podrían ser: 
+Durante la Etapa de Construcción
+    • Modificación del régimen de escurrimiento superficial de las aguas de los ecosistemas palustres por el efecto dique.
+    • Modificación del paisaje
+    • Erosión, arrastre y colmatación de sedimentos en los cursos hídricos.
+    • Contaminación del suelo y el agua por vertido de aceites, lubricantes y basuras, provenientes de los talleres, patio de máquinas y Campamentos.
+    • Compactación del suelo en la franja de dominio de la ruta por el tráfico de camiones pesados
+    • Aumento de ruidos y emanaciones de vehículos a motor
+    • Movimiento y tráfico de maquinaria pesada (emisiones energéticas).
+    • Movimiento de tierra y suelo por el destape vegetal
+Durante la Etapa de Operación y Mantenimiento
+    • Aumento de la polución sonora y ambiental debido al continuo flujo vehicular
+    • Modificación del paisaje.
+    • Cambio gradual del uso del suelo, de un sistema agropecuario al inmobiliario comercial.
+La mayor parte de estos impactos se darán en la etapa de construcción del tramo vial, es decir serán temporales. 
+El mayor riesgo se dará por el cambio de uso de la tierra en la zona debido a la mayor accesibilidad y que tendrá un fuerte impacto no solamente sobre el suelo sino sobre el medio biológico.
+
+2.2 Impactos sobre el Medio Biológico
+Durante la Etapa de Construcción
+    • Disminución de la biodiversidad 
+    • Desmontes y modificación de la vegetación local (explotación de canteras y formación de cajas de préstamo)
+    • Obstrucción de rutas migratorias de la fauna silvestre terrestre (efecto barrera).
+    • Alteración de los hábitats acuáticos al modificar el régimen de escorrentía por el efecto dique. 
+Durante la Etapa de Operación y Mantenimiento
+    • Aumento de la presión sobre la biodiversidad de la región debido a la facilidad de acceso 
+Estos impactos podrían darse en la etapa de operación del tramo vial, y en menor grado en la etapa de construcción, si no se toman las medidas correspondientes en cuanto a comportamiento de los trabajadores de la construcción.
+2.3 Impactos sobre el Medio Socioeconómico.
+Durante la Etapa de Construcción
+    • Instalación de campamentos obrero/ocupacionales.
+    • Incremento y ocupación de la mano de obra local no calificada en la construcción de la ruta.
+    • Movimiento de la economía local.
+    • Deterioro de la salud obrero-ocupacional, incidencia de enfermedades transmisibles.
+    • Aumento de riesgos de accidentes durante el proceso constructico.
+Durante la Etapa de Operación y Mantenimiento
+    • Aumento de la accesibilidad a los centros de desarrollo urbano y comercial
+    • Aumento de oportunidad para el desarrollo de la actividad industrial y comercial de la región
+    • Incremento del tráfico vehicular
+    • Aumento de riesgos de accidentes por arrollamiento en zonas próximas a los cascos urbanos
+    • Incremento de la actividad comercial local y regional
+    • Incremento poblacional debido a la instalación y consolidación de nuevos asentamientos humanos
+    • Mejor acceso a los servicios básicos
+    • Incremento del valor de la tierra (plusvalía)
+    • Deterioro del valor histórico-cultural de los asentamientos humanos tradicionales debido a la incorporación de corrientes migratorias exógenas (cambio de hábitos culturales)
+    • Disponibilidad de medios de transporte motor
+Es evidente que los impactos positivos se darán sobre el medio socioeconómico.
+
+XV PLAN DE GESTIÓN AMBIENTAL
+El Plan de Gestión Ambiental debe incorporar los resultados del análisis acabado de la evaluación de los impactos ambientales correspondientes para el diseño y construcción del tramo vial. La propuesta planteada considera la estrecha interrelación de las acciones del programa con los componentes del medio físico, biológico, socioeconómico del área de influencia directa e indirecta del estudio.
+El Plan de Gestión Ambiental presenta tres ejes principales:
+    • Plan de Mitigación de Impactos Ambientales: Engloba los siguientes componentes:
+a) Programa de Fiscalización de Impactos Directos: ejecutada por empresa fiscalizadora de obras.
+b) Programa de Gestión Ambiental en Campamentos y Ejecución de Obras: ejecutada por constructora. 
+    • Subprogramas de Restauración de Áreas de préstamo, y recomposición paisajística de sitios de campamentos.
+    • Subprograma de Educación Ambiental e Higiene laboral.
+    • Subprograma de Señalización Ambiental.
+    • Plan de Fortalecimiento de la Gestión Ambiental: Incorpora los componentes de fortalecimiento de las instituciones involucradas en la gestión ambiental del área de influencia del Proyecto (Municipalidades y Gobernación), además de los componentes de educación ambiental a las comunidades. Programa de Fortalecimiento Institucional.
+    • Plan de Monitoreo Ambiental: Involucra los programas de seguimiento y control de aspectos ambientales del área de influencia de las obras, que servirán para detectar cambios producidos sobre el medio como consecuencia de la implementación de la obra por empresa consultora especializada y compuesta de: Programa de Monitoreo de los recursos Hídricos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cuadro de resumen de los principales impactos ambientales y las medidas de mitigación
+
+Etapa de Construcción
+
+IMPACTOS
+Medidas de Mitigación
+Medio Físico
+Modificación del régimen de escurrimiento superficial de las aguas de los ecosistemas palustres por el efecto dique
+Instalación de alcantarillas celulares suficientes para evitar este impacto.
+Aplicación de las ETAGs para obras de drenaje, ítem 2.2.16.
+Modificación del paisaje
+
+Subprograma de Restauración de Areas de préstamo y Recomposición paisajística.
+Erosión, arrastre y colmatación de sedimentos en los cursos hídricos.
+En lo posible ir protegiendo con tepes los taludes y contrataludes a medida que avance la obra y no esperar que la ruta esté totalmente asfaltada para efectuar esta protección. 
+Aplicación de normas ETAGs, ítem 2.2.17.
+Contaminación del suelo y el agua por vertido de aceites, lubricantes y basuras, provenientes de los talleres, patio de máquinas y Campamentos.
+Aplicación de las normas ETAGs, ítem 2.2.5. 
+Implementación del Subprograma de Educación Ambiental e Higiene Laboral.
+Compactación del suelo en la franja de dominio de la ruta por el tráfico de camiones pesados
+Peso de la carga de camiones que no exceda lo establecido por normas del MOPC
+Aumento de ruidos y emanaciones de vehículos a motor
+Aplicación de normas establecidas de las ETAGs, ítem 2.2.22 y 2.2.23.
+Movimiento y tráfico de maquinaria pesada (emisiones energéticas)
+Utilización de disipadores según normas establecidas ETAGs, ítem 2.2.7., 2.2.22 y 2.2.23.
+Movimiento de tierra y suelo por el destape vegetal
+
+Según normas establecidas en las ETAGs y cobertura del suelo con gramíneas, ítem 2.2.6.
+
+Medio Biológico
+Disminución de la biodiversidad de parte de los obreros
+Subprograma de Educación Ambiental e Higiene Laboral al personal.
+Eliminación y alteración de la flora y fauna en la franja de dominio de la ruta
+Aplicación de las normas según ETAGs, ítem 2.2.6. y 2.2.24.
+Desmontes y modificación de la vegetación local (explotación de canteras y formación de cajas de préstamo)
+Subprograma de Restauración de Areas de préstamo y Recomposición paisajística.
+Aplicación de normas ETAGs, ítem 2.2.8.
+Obstrucción de rutas migratorias de la fauna silvestre terrestre (efecto barrera).
+Construcción e instalación de alcantarillas tubulares y celulares y puentes
+Alteración de los hábitats acuáticos al modificar el régimen de escorrentía por el efecto dique. 
+Construcción e instalación de alcantarillas tubulares y celulares
+Medio Socioeconómico y cultural
+Incremento y ocupación de la mano de obra local no calificada en la construcción de la ruta
+
+Instalación de campamentos obrero/ocupacionales
+Aplicación de las normas establecidas en las ETAGs, ítem 2.2.3. 
+Movimiento de la economía local
+
+Deterioro de la salud obrero-ocupacional, incidencia de enfermedades transmisibles
+Subprograma de Educación Ambiental e Higiene Laboral al personal. 
+Aplicación de normas establecidas en las ETAGs, ítem 4.2.
+Aumento de riesgos de accidentes durante el proceso constructivo.
+Uso de equipos y materiales de protección personal según normas ETAGs, ítem 4.1.
+
+Etapa de Operación y Mantenimiento
+
+IMPACTOS
+Medidas de Mitigación
+Medio Físico
+Aumento de la polución sonora y ambiental debido al continuo flujo vehicular.
+Utilización de disipadores y catalizadores en los automotores.
+Modificación del paisaje.
+Subprograma de Restauración de Areas de préstamo y Recomposición paisajística.
+Medio Biológico
+Aumento de la presión sobre la biodiversidad de la región debido a la facilidad de acceso.
+Programa de Señalización Ambiental.
+Medio socioeconómico y cultural
+Aumento de la accesibilidad a los centros de desarrollo urbano y comercial 
+
+Aumento de oportunidad para el desarrollo de la actividad industrial y comercial de la región.
+
+Incremento del tráfico vehicular.
+Encauzamiento y control de tráfico, buena señalización.
+Aumento de riesgos de accidentes por arrollamiento en zonas próximas a los cascos urbanos.
+Regulación urbana a través de los municipios.
+Incremento de la actividad comercial local y regional.
+
+Incremento poblacional debido a la instalación y consolidación de nuevos asentamientos humanos.
+Regulación del uso de la tierra a través de una política de ordenamiento físico territorial, municipal y departamental.
+Plan de Fortalecimiento de la Gestión Ambiental – Programa de Fortalecimiento Municipal.
+Mejor acceso a los servicios básicos.
+
+Incremento del valor de la tierra (plusvalía).
+
+Disponibilidad de medios de transporte motor.
+
+
+XV.1 PLAN DE MITIGACIÓN DE IMPACTOS AMBIENTALES
+
+1.1. Programa de Fiscalización de Impactos directos
+
+OBJETIVOS
+    • Realizar un seguimiento de la aplicación de las medidas de mitigación en la franja de dominio, durante la fase de construcción.
+    • Fiscalizar el cumplimiento de las Especificaciones Técnicas Ambientales Generales (ETAGs).
+    • Efectuar la verificación de las Obras de  drenaje y que las alcantarillas sean suficientes para evitar el efecto barrera e inundación en áreas críticas.
+
+ACTIVIDADES
+    • Realizar un monitoreo sistemático de las acciones realizadas por las contratistas de obras, en el aspecto ambiental, durante el período que dure la construcción.
+    • Elaborar informes periódicos (mensuales) sobre la aplicación de las medidas de mitigación, correctivas y/o compensatorias por parte de las contratistas.
+    • Exigir el cumplimiento de medidas efectivas y oportunas a las contratistas en caso de que sucedan situaciones no previstas, en cuanto a los aspectos ambientales y comunicar a la Unidad Ambiental sobre lo actuado.
+    • Identificar tramos críticos que deban ser reforzados con suficientes alcantarillas.
+
+COSTOS
+A continuación se presentan los costos estimados por servicios de Fiscalización de Impactos Directos.
+
+Cuadro Nº 1
+Componente
+Descripción
+Total (US$)
+Fiscalización
+1 Consultor Senior, especialista ambiental, para fiscalización ambiental de obra (18 meses x 2.000 U$S/mes)
+36.000
+
+1 Profesional Especialista en hidraulica como fiscalizador de obras de drenaje (12 meses x 1000 U$S/mes)
+12.000
+Gastos Operativos
+Movilidad y combustible
+(1000 U$S/mes x 18 meses)
+18.000
+Gastos varios
+Global
+10.000
+TOTAL
+ 
+76.000
+
+
+1.2. Programa de Gestión Ambiental en Campamentos
+1.2.1 SubPrograma de restauración de zonas de préstamo y recomposición paisajística en sitios de campamentos.
+OBJETIVOS
+    • Realizar la recomposición paisajística de las zonas de préstamos.
+    • Efectuar la readecuación de los lugares asiento de los campamentos.
+ACTIVIDADES
+Elaborar un plan de acción para la recomposición paisajística de las áreas de préstamo de acuerdo a las indicaciones de la fiscalización ambiental y de las ETAGs.
+Elaborar un Plan de Gestión de residuos en campamentos y Plan de adecuación luego del abandono de los campamentos.
+REQUISITOS
+El programa deberá ser ejecutado por la contratista de obras y de acuerdo a las especificaciones técnicas ambientales y de ingeniería (Diseño) y controlado por el Fiscal Ambiental del proyecto.
+EQUIPO TECNICO: a cargo de la Contratista de Obras.
+CRONOGRAMA DE EJECUCION: fase de construcción y abandono11 del sitio de obras.
+COSTOS ESTIMADOS: 
+De acuerdo al Estudio de factibilidad existen en todo el trazado lugares aptos para la extracción de material de préstamo, en los cómputos métricos del proyecto se definen las cantidades por tramo, durante la etapa previa a la construcción serán definidos estos lugares. A continuación se presenta de manera global los costos estimados por servicios de implementación de Protección Forestal para cada Área de préstamo. Se estiman 3 lugares.
+Cuadro Nº 2
+Descripción
+Costo US$
+·         Plantines (500 x 3)
+1.500
+·         Alambrada de protección (instalada)
+4.500
+·         Marcación y plantación
+600
+·         Supervisión (30 días x 3)
+2.700
+TOTAL
+9.300
+1.2.2. SubPrograma de Educación Ambiental e Higiene Laboral
+OBJETIVOS
+Concientizar al personal de obras, ingenieros y obreros en general, sobre la importancia de proteger los recursos naturales y el medio ambiente, la vigencia de las leyes ambientales y sus penalizaciones por incumplimiento.
+Capacitar a los trabajadores en general en el manejo y control de la contaminación en los campamentos durante la construcción de la obra.
+Capacitar y concienciar en el correcto uso de las ETAGs y Normas de Higiene y Seguridad Laboral en Obras Viales.
+ACTIVIDADES
+Se realizarán charlas, antes del inicio de la obra en los campamentos y obradores, y durante la fase de construcción.
+Se elaborará un Manual de Educación Ambiental y trípticos alusivos a las medidas correctoras que deben implementarse durante la construcción y en la etapa de cierre de las actividades, que serán entregados durante las charlas.
+Se realizaran seminarios de capacitación en el manejo de residuos, higiene y seguridad, durante la fase de construcción, en campamentos y obradores.
+Las charlas estarán dirigidas a Ingenieros, operarios y obreros en general.
+REQUISITOS
+El programa deberá ser ejecutado por un especialista en Educación Ambiental y un Especialista en Higiene y Seguridad laboral, ambos especialistas tendrán a su cargo la elaboración de materiales educativos y la ejecución de las charlas.
+Este programa podrá ser ejecutado por el mismo personal afectado al Programa de Educación Ambiental/Plan de Fortalecimiento Institucional. 
+Las charlas deberán impartirse individualmente para cada frente de trabajo, una charla al inicio y 2 charlas durante la construcción. Se estima en 90 días el tiempo de prestación de servicio.
+EQUIPO TECNICO
+
+Cuadro Nº 3
+Componente
+Perfil profesional
+Cargo
+Tiempo de prestación de servicio
+Educación Ambiental
+1 especialista en Educación Ambiental  con experiencia de al menos 5 años.
+Especialista, capacitador
+90 días
+
+1 especialista en Higiene y seguridad laboral de al menos 5 años de experiencia
+Especialista capacitador
+90 días
+
+COSTOS
+Cuadro Nº 4
+	Componente
+Descripción
+Total (US$)
+Capacitación
+1 especialista en Educación Ambiental (3 x 1500 U$S/mes)
+4.500
+
+1 especialista en Higiene y Seguridad Laboral (3 x 1500 U$S/mes)
+4.500
+TOTAL
+ 
+9.000
+
+1.2.3 Subprograma de señalización ambiental.
+OBJETIVOS
+Establecer un sistema de señalización en los sitios y en los sitios indicados según la metodología y directrices de la Fiscalización Ambiental del MOPC a través de la Unidad Ambiental.
+ACTIVIDADES
+Se establecerán carteles alusivos a la protección ambiental.
+REQUISITOS
+Los carteles en el área de influencia carretero pueden ser figuras o textos alusivos a la conservación del medio ambiente.
+
+COSTOS
+Cuadro Nº 5
+Componente
+Descripción
+Total (US$)
+Señalización 
+10 carteles distribuidos a lo largo de la vía.
+3.000
+
+
+
+Gastos Operativos 
+Colocación, movilidad.
+1.000
+
+
+
+TOTAL
+
+4.000
+
+
+XV.2 PLAN DE FORTALECIMIENTO DE LA GESTIÓN INSTITUCIONAL
+La metodología incluye la realización de talleres bajo el concepto de participación ciudadana. Desarrollar una propuesta de proyecto debidamente priorizado y en función a la demanda comunitaria y su viabilidad. 
+Las principales actividades a ser desarrolladas en el marco de este plan son las siguientes:
+Fortalecimiento Municipal de Luque
+Apoyar al municipio en la elaboración de un plan de control ambiental y seguridad vial, y proveer material para las campañas de concienciación. Además proveer equipos para del desarrollo de programas de seguridad vial (equipo informático y software).
+
+COSTOS
+Cuadro Nº 6
+Componente
+Descripción
+Total (US$)
+Capacitación
+1 especialista en Educación Ambiental (3 x 1.167 U$S/mes)
+  3.500
+
+1 especialista en Seguridad Vial (3 x 1.167 U$S/mes)
+  3.500
+Difusión 
+Materiales para difusión de Seguridad Vial (.5000 un x 2 U$S)
+10.000
+Equipos
+Computador personal y software (3.000 U$S)
+  3.000
+TOTAL
+
+20.000
+
+XV.3 PLAN DE MONITOREO AMBIENTAL
+
+3.1. Programa de Monitoreo de Recursos Hídricos
+OBJETIVOS
+    • Identificar los cambios en la composición físico - química e hidrológica de los cauces hídricos que atraviesan la ruta proyectada.
+    • Identificar el aumento en la concentración de nutrientes contenidos en las aguas y orientar las acciones correctivas.
+ACTIVIDADES
+    • Realizar un monitoreo sistemático en las cuencas de los ríos, mediante el muestreo de aguas. 
+    • El período de monitoreo de calidad de aguas deberá ser ejecutado en un plazo de dos años, el primer año durante la ejecución de los trabajos de pavimentación (fase de construcción) y 1 año luego de su conclusión (fase operativa de la ruta). 
+    • Instalar reglas limnimétricas en los puntos de muestreo de calidad de aguas de manera a obtener los caudales de los cursos hídricos de interés.
+REQUISITOS
+El programa deberá ser ejecutado en función a un diseño de la red de monitoreo que requiere un análisis previo de toda la extensión de las cuencas involucradas en el programa. En anexo se presenta un plano que muestra la disposición geográfica de la cuenca y se localizan una serie de estaciones de muestreo, las cuales podrán ser reubicadas de acuerdo al diseño final de la red de monitoreo que deberá ser ejecutada por la consultora que sea contratada para el servicio.
+Todas las actividades en el campo deberán tener registros fotográficos fechados, indicando según sea el caso, el sitio exacto, la fecha, dirección de toma y todo dato que permita una identificación adecuada.
+A continuación se presentan los componentes que deberán incluir el monitoreo:
+
+Hidrología
+        1. Realizar mediciones trimestrales (4 campañas x año) de caudal líquido acompañado con mediciones de caudal sólido con la finalidad de establecer una relación entre ambos. De esta manera se podrá monitorear con cierta aproximación los posibles cambios en el acarreo de sólidos en suspensión.
+        2. Instalar estaciones fijas en los cauces de mayor importancia para mediciones de nivel o altura de agua, acompañada de las mediciones de caudal sobre todo en ocasión de estados de escurrimiento diferente como bajante, medio y crecida. Trabajos de batimetría conforme a la topografía y al estado de los ríos y arroyos en el momento de la campaña.
+Definición de criterios de trabajo para la medición de las velocidades.
+    • Elección de las transversales.
+    • Número de verticales que se medirán.
+    • Número de mediciones de la velocidad que se realizarán sobre cada vertical.
+Medición con Speedometer de la velocidad y cálculo posterior del caudal del gabinete. Lecturas diarias de los niveles de agua y su registro en formularios específicos. Determinación conjunta de caudal líquido y sólido.
+Inicialmente serán procesados los valores obtenidos de las lecturas diarias de las diferentes escalas, de manera a obtener valores notables (Máximo, Promedio y Mínimo) para cada Estación.
+Los Datos de niveles registrados serán utilizados para la elaboración de las curvas clave (Nivel - Caudal) correspondientes a cada una de las Estaciones de Aforos para periodos de un año de monitoreo de los diferentes cursos de agua.
+        3. Realizar procesamientos de las mediciones efectuadas (gráfico de caudal líquido y altura de agua, y gráfico de caudal sólido y caudal líquido). También valores notables hidrométricos de las lecturas diarias en promedios mensuales. Gráfico de caudales medios y niveles medios y gráficos de nivel del caudal.
+Calidad de agua
+        a. Realizar mediciones trimestrales (4 campañas x año) in situ y análisis laboratoriales de tipo estacional para los parámetros físicoquímicos, recuento del fito y zooplancton, coliformes y Escherichia coli.
+        b.  La representatividad de las muestras estarán en función de las técnicas de muestreo, preservación de las mismas y de las técnicas analíticas utilizadas.
+        c.  Los procedimientos analíticos deberán considerar el análisis in situ, análisis laboratorial físico - químico, análisis laboratorial de contaminantes (metales tóxicos y pesticidas órgano clorados) y análisis laboratoriales hidrobiológicos (recuento del fitoplancton, zooplancton y estudios de macroinvertebrados bentónicos). Los análisis bacteriológicos tienen carácter eminentemente sanitario y se investigarán coliformes y coliformes fecales por el método de tubos múltiples.
+        d. Las muestras de agua deben ser apropiadamente preservadas en los casos que se requiera tratamiento químico (ej. HNO3 en las muestras para el análisis de metales tóxicos), refrigeradas, etc., de acuerdo a los Standard Methods.
+        e. Se tomarán muestras discretas, es decir, es un punto determinado - sección media del curso - y a cierta profundidad - nivel superficial (10 a 50 cm de profundidad). 
+        f. El volumen y tipo de envase para las muestras estará de acuerdo a la cantidad de parámetros a ser analizados, como también al método analítico y a la concentración esperada en el medio acuático. Siempre se considerará la realización de dos o tres réplicas por cada parámetro.
+        g. Para los parámetros que necesiten ser medidos en el campo, inmediatamente después de tomada la muestra, se utilizarán sensores de medidas directas en el agua, como son: pH, turbidez, conductividad y oxígeno disuelto, los demás parámetros serán determinados en el laboratorio propuesto, sobre muestras debidamente preservadas y refrigeradas.
+        h. Las técnicas analíticas a utilizar son las recomendadas por el STANDARD METHODS - for the examination of water and wastewater - APHA - AWWA - WPCF - Edición española 1992.
+        i. Realizar semestralmente la toma de muestra y el análisis de metales tóxicos y de macroorganismos bentónicos.
+        j. Elaborar y presentar informes con los resultados de análisis físicoquímicos e hidrobiológicos, así como las recomendaciones pertinentes.
+Diseño de la Red de Monitoreo
+En criterio básico para el Diseño de la Red de Monitoreo de Calidad de Agua será la de contribuir al estudio, mediante tareas de muestreo, los efectos producidos por la implantación del proyecto vial. Para ello será necesario conocer el estado de situación actual del recurso y poder también cuantificar a través del monitoreo periódico, la magnitud del impacto ocasionado. Adicionalmente, a través de este monitoreo, se podrá evaluar los impactos ocasionados por otras acciones ya presentes en la región de origen antropogénico, como el actual uso urbano e industrial. Para este último aspecto, deben conocerse las características de la calidad del agua en condiciones actuales, o sea de acuerdo a la definición del Programa Mundial “GEMS/AGUA” del PNUMA, las líneas de referencia o de base en la región.
+Calificación
+La Empresa consultora para la realización de este tipo de trabajos, deberá tener al menos 10 años de experiencia en este tipo de estudios y contar con el equipamiento necesario para la ejecución de los análisis así como especialistas y profesionales de trayectoria y experiencia suficientemente comprobada. 
+El Plantel de Profesionales estará Compuesto de:
+    • 1 Hidrólogo/a.
+    • 1 Especialista en batimetría y mediciones de caudal.
+    • 1 Especialista en calidad de agua. 
+    • 1 Hidrobiólogo.
+    • 2 Técnicos de campo.
+La Empresa deberá contar con todo el equipamiento para este tipo de estudios.
+Estaciones de muestreo. La red de muestreo abarcará  la cuenca del Arroyo Ytay.
+Las mismas deberán ser identificadas mediante sus coordenadas geográficas; espaciadas y distribuidas adecuadamente, conforme a las características ideales de los cursos de agua.
+Análisis in situ. Serán analizados durante las campañas los siguientes parámetros:
+    • Turbidez: Turbidímetro.
+    • Temperatura del aire y del agua: Termómetro electrónico.
+    • pH: pH metro con sensibilidad 0.1 de pH.
+    • Oxígeno disuelto: OD meter con calibraciones por el método de Winkler modificado.
+    • Transparencia: Disco de Secchi para agua dulce.
+    • Conductividad: Conductímetro.
+La frecuencia será trimestral.
+Análisis laboratoriales físicoquímicos
+Cuadro Nº 7
+Descripción
+Parámetros
+Frecuencia de muestreo
+a) Generales
+    • Sólidos totales
+    • Sólidos disueltos
+    • Sólidos sedimentarios (24 hs)
+    • Alcalinidad total
+
+Trimestral
+b) Iones principales y oxidabilidad
+
+    • Cloruros
+    • Sulfatos
+    • Dureza
+    • P – Redox
+    • D B O 5
+    • D Q O
+    • Sulfuros (semi cuantitativos)
+
+
+Trimestral
+
+    • Magnesio
+    • Sodio
+    • Potasio
+    • Sulfatos
+
+
+Cuatrimestral
+c) Microbiológicos
+    • Coliformes totales
+    • Coliformes fecales
+    • Vibrion Colerae
+
+Trimestral
+d) Nutrientes
+    • N- amoniacal
+    • N- (N03)
+    • N- (N02)
+    • Fósforo total
+    • Fósforo ortofosfato
+    • N total Kjeldhal
+
+
+Trimestral
+e) Metales pesados
+
+    • Cadmio
+    • Cobre
+    • Cromo total
+    • Magnesio total
+    • Hierro total
+    • Mercurio
+
+
+Semestral
+f) Biocidas orgánicos
+
+    • Organoclorados
+    • Organofosforados
+
+Semestral
+g) Biológicos
+
+    • Clorofila A
+    • Fitoplancton
+    • Bentos (en fondo)
+    • Zooplancton
+
+Trimestral
+h) Hidrobiológicos
+    • Recuento de fitoplancton
+    • Recuento de zooplancton
+
+
+
+EQUIPO TECNICO
+Cuadro Nº 8
+Componente
+Perfil profesional
+Cargo
+Tiempo de prestación de servicio
+Coordinación general
+Consultor senior, especialista en manejo de cuencas, con 10 años de experiencia.
+Coordinador
+
+  2 años
+(9 meses x año)
+A. HIDROLOGÍA
+Profesional, Especialista en batimetría y medición de caudal, con experiencia mínima de 5 años. 
+Especialista
+ 2 años
+(6 meses x año)
+
+Técnico con experiencia de 3 años en trabajos de hidrología.
+Técnico especialista
+ 2 años
+(6 meses x año)
+B. CALIDAD DE AGUAS
+Profesional, Especialista en Hidrobiología con experiencia de 5 años. 
+Especialista
+2 años
+(6 meses x año)
+
+Técnico especialista con experiencia de 3 años en trabajo de campo
+Técnico especialista
+2 años
+(4 meses x año)
+
+
+COSTOS
+Cuadro Nº 9
+Componente
+Descripción
+Total (US$)
+Coordinación General, especialista en manejo de cuencas e hidrología
+18 meses x 2.000 US$
+36.000
+Profesional  especialistas en hidrología 
+12 meses x 1.000 US$
+12.000
+Profesional  especialistas en calidad de agua
+12 meses x 1.000 US$
+12.000
+Auxiliar en hidrología
+8 meses x 500 US$
+4.000
+Auxiliar químico, microbiólogo
+8 meses x 400 US$
+3.200
+Gastos operativos (movilidad y combustibles)
+Para 12 campañas a 1000 US$/ campaña
+12.000
+Viáticos 
+Viáticos para 5 personas, 20 US$/Día 
+x 10 días/mes x 12 meses
+12.000
+Análisis químicos de metales pesados y organoclorados
+Para 12 muestras x 4 campañas a 200
+US$/muestra
+9.600
+Análisis químico y microbiológico
+Para 22 muestras x 12 campañas a 200
+US$/muestra 
+28.800
+Gastos operativos 
+12 campañas x 1000 US$
+12.000
+Gastos de Informes
+ 
+6.000
+TOTAL
+ 
+147.600
+
+
+XV.4 RESUMEN GENERAL
+
+COSTO TOTAL DEL PLAN DE GESTIÓN AMBIENTAL
+
+Cuadro Nº 10
+COMPONENTE
+US$
+1 Plan de Mitigación de Impactos Ambientales
+98.300
+1.1  Fiscalización de Impactos Directos
+76.000
+1.2  Gestión Ambiental en Campamentos
+22.300
+A. Protección Forestal para tres áreas de préstamo
+9.300
+B. Educación Ambiental e Higiene Laboral
+9.000
+C. Señalización Ambiental
+4.000
+ 
+ 
+ 
+2 Plan de Fortalecimiento de la Gestión Institucional
+20.000
+ 
+ 
+ 
+3 Plan de Monitoreo Ambiental
+147.600
+3.1  Programa de Monitoreo de Recursos Hídricos
+147.600
+
+
+
+
+Total Global Estimado U$S =o  ᨀ·         Plantines (500 x 3) 5
+ ᬀ##·         Supervisión (30 días x 3) 5
+ ᰀ
+265.900
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO 5
+DOCUMENTOS OFICIALES
+ANEXO 5 – DOCUMENTOS OFICIALES

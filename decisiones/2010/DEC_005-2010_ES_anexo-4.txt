@@ -1,0 +1,372 @@
+Decisión CMC N° 05/10
+Título: FONDO PARA LA CONVERGENCIA ESTRUCTURAL DEL MERCOSUR PROYECTO “AMPLIACIÓN DEL SISTEMA DE SANEAMIENTO DE PONTA PORÃ - MS”
+Tipo de documento: anexo-4
+Archivo original: 28448_DEC_005-2010_ANEXOS > DEC_005-2010_ES_Proyecto Ponta Pora_Anexo_volume VII An�lise Viabilid Financ Socioeco.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+APRESENTAÇÃO
+
+Apresentamos a Análise de Viabilidade Financeira e Socioeconômica do projeto de Esgotamento Sanitário da cidade de Ponta Porã, Mato Grosso do Sul, tendo como balizamento as melhores soluções de engenharia encontradas. Os dados projetados levam em consideração o sistema atual de abastecimento de água e de esgoto na localidade, utilizando-se para isso do estudo de demanda estimada.
+As premissas financeiras e econômicas, como taxas de juros de desconto e horizonte do projeto, foram adotadas seguindo o Manual do Focem e as regras estabelecidas no Decreto nº 5.985, de 13 de dezembro de 2006. Sendo assim, a taxa de desconto utilizada foi de 6,25% a.a. para a Análise de Viabilidade Financeira e de 7% para a Análise de Viabilidade Socioeconômica. 
+O horizonte temporal ou a vida útil é de 18 anos considerado como o tempo estimado para a operação do sistema, sem necessidade de nova intervenção de engenharia para ampliação de capacidade instalada. O período de execução das obras é de 18 meses, abrangendo os anos de 2010 a 2027. O câmbio do dólar americano utilizado foi de R$ 1,7899 segundo o Banco Central em 09/03/2010. Os valores apresentados em reais estão a preço de mercado.
+ANÁLISE DE VIABILIDADE FINANCEIRA
+ESTUDO DE DEMANDA
+A projeção dos volumes faturados e receitas considerou a categoria particular, que engloba os clientes residenciais, comerciais e industriais, excluindo-se, por conseguinte o poder público. O perfil do mercado consumidor é altamente concentrado na categoria particular com 99% dos usuários, conforme demonstrado no perfil abaixo.
+PERFIL DO MERCADO CONSUMIDOR
+CATEGORIA DE CONSUMO
+ECONOMIAS REAIS A+E
+
+2009
+% TOTAL
+RESIDENCIAL
+18.237
+90%
+COMERCIAL
+1.776
+9%
+INDUSTRIAL
+48
+0,02%
+TOTAL PARTICULARES
+20.061
+99%
+PODER PÚBLICO
+203
+1%
+TOTAL 
+20.264
+100%
+
+A determinação dos volumes, economias de esgoto e população a ser atendida tem como parâmetros os dados de 2009. O objetivo da análise é determinar de forma realista a viabilidade técnica e financeira do empreendimento, sendo assim foram desconsiderados ganhos comerciais ou operacionais advindos da gestão dos negócios ou novas tecnologias e metodologias de trabalho. Os dados incrementais são decorrentes diretamente do projeto em resposta à demanda detectada, sem outras externalidades que afetem o consumo de água e os serviços de esgoto.
+No Estudo de Demanda (Quadro 1 - ANEXO) apresentamos a projeção de população, assim como de economias incrementais do projeto e os volumes faturados resultantes. A taxa de crescimento populacional foi estimada tendo como base a Contagem Populacional realizada pelo IBGE em 2007, assim como a taxa de ocupação domiciliar. Os volumes são estimados em função das ligações de esgoto projetadas. O grau de adesão dos domicílios ao sistema foi aumentado gradativamente nos três primeiros anos, partindo do patamar de 30% em 2011, 40% em 2012 e 30% em 2013. Desta forma, a receita faturada está projetada sem forçar resultados financeiros nos primeiros anos de operação. Para os demais anos, o acréscimo das economias de esgoto refletem o crescimento vegetativo e a capacidade de atendimento do sistema.
+Os Investimentos (Quadro 2 - ANEXO) estão de acordo com os itens Custos e Cronograma Financeiro e refletem a necessidade de financiamento para a realização das obras planejadas e são suficientes para atender à demanda até o ano de 2027.  Para a execução de rede coletora, estações elevatórias, linhas de recalque e estação de tratamento de esgoto planeja-se a aplicação de R$ 7,2 milhões em 2010 e R$ 3,8 milhões em 2011, totalizando aproximadamente R$ 11 milhões (US$ 6,14 milhões).
+DESPESAS DE OPERAÇÃO E MANUTENÇÃO DO SISTEMA
+A estimativa de Despesas de Pessoal (Quadro 3) tem como base o dimensionamento do quadro atual da Sanesul, acrescido apenas dos empregados diretamente envolvidos na operação do sistema projetado, tendo em vista a operação da ETE e da manutenção da rede e das ligações adicionais. Esta equipe será composta por 4 técnicos de campo de nível médio e 1 operador de ETE, também de nível médio. No primeiro ano de operação está previsto o incremento de 3 destes empregados e no segundo ano a adição de mais dois. 
+O suporte de engenharia será dado tanto pela estrutura da Gerência Regional quanto pela Sede Administrativa em Campo Grande, que comportam o acréscimo de demanda de serviço. Os salários utilizados para os cálculos estão compatíveis com a realidade local. As provisões e os encargos sociais obedecem à legislação em vigor, sendo 29% correspondentes ao INSS e 8% ao FGTS, incidentes sobre a folha de pagamento. 
+
+A Despesa com Energia Elétrica (Quadro 4) decorre da demanda e consumo das estações elevatórias e da ETE, de acordo com os custos das tarifas praticadas e demais parâmetros, conforme abaixo:
+    • Vazão máxima: 40 l/s
+    • Potência instalada: 55 cv
+    • Tarifa de demanda: R$ 46,59/kW mês
+    • Tarifa de consumo do Grupo A (Estações Elevatórias): R$ 0,16876
+    • Tarifa de consumo do Grupo B (ETE): R$ 0,42709
+    • ICMS = 12%
+    • Horas médias de funcionamento: 15/dia
+    • Consumo médio (Kwh/mês): 
+EE São Tomaz = 8.280
+EE Marambaia = 9.936
+ETE São Tomaz = 1.300
+
+
+
+
+
+As Despesas com Produtos Químicos (Quadro 5) seguem os parâmetros de consumo anual previsto conforme crescimento da vazão de entrada na ETE, que inicia em 2011 com 14,57 l/s até alcançar sua capacidade plena ao final da vida útil do projeto. Os itens considerados para a estimativa são:  Cloreto Férrico (consumo de  10 mg/l),  Hiplocorito de cálcio (consumo de  2,9 mg/l) e Cal (em toneladas, conforme a produção de lodo). Os custos relativos ao transporte e destinação final do lodo serão arcados pela estrutura de apoio da Regional e Sede Administrativa que comporta tal acréscimo.
+
+
+
+
+
+
+      Quadro 5 – Despesas com Produtos Químicos
+Período
+Cloreto Férrico
+Hipoclorito de Cálcio
+Cal
+Total
+Anual
+(R$/ano)
+
+Consumo
+(ton./ano)
+Custo Unitário
+(R$/ton.)
+= 792,00
+Consumo 
+(kg/ano)
+Custo Unitário
+(R$/kg.)
+= 5,79
+Consumo
+(ton./ano)
+Custo Unitário
+(R$/ton.)
+= 518
+
+
+
+Valor Anual
+(R$/ano)
+
+Valor Anual
+(R$/ano)
+
+Valor Anual
+(R$/ano)
+
+2011
+16,7
+13.216
+1.314
+7.610
+14
+7.395
+28.221
+2012
+33,8
+26.756
+2.661
+15.406
+29
+14.971
+57.132
+2013
+40,6
+32.171
+3.199
+18.524
+35
+18.001
+68.696
+2014
+41,9
+33.148
+3.297
+19.087
+36
+18.548
+70.783
+2015
+43,1
+34.126
+3.394
+19.649
+37
+19.095
+72.869
+2016
+44,3
+35.103
+3.491
+20.212
+38
+19.641
+74.956
+2017
+45,6
+36.080
+3.588
+20.775
+39
+20.188
+77.042
+2018
+46,8
+37.057
+3.685
+21.337
+40
+20.735
+79.129
+2019
+48,0
+38.034
+3.782
+21.900
+41
+21.282
+81.215
+2020
+49,6
+39.291
+3.907
+22.623
+42
+21.985
+83.898
+2021
+51,5
+40.827
+4.060
+23.508
+44
+22.844
+87.179
+2022
+53,5
+42.363
+4.213
+24.392
+46
+23.704
+90.459
+2023
+55,4
+43.899
+4.366
+25.277
+47
+24.563
+93.739
+2024
+57,4
+45.435
+4.518
+26.161
+49
+25.423
+97.019
+2025
+59,3
+46.971
+4.671
+27.046
+51
+26.282
+100.300
+2026
+61,2
+48.508
+4.824
+27.930
+52
+27.142
+103.580
+2027
+63,2
+50.044
+4.977
+28.815
+54
+28.002
+106.860
+
+As Despesas de Manutenção (Quadro 6) são projetadas de acordo com o valor contabilizado da estrutura de apoio dado pela Sede Administrativa em Campo Grande e da Regional de Ponta Porã para essa finalidade. Este valor concentra os custos relativos à manutenção de instalações e de equipamentos, variando conforme o crescimento da demanda atendida no período estudado. 
+
+
+A Depreciação (Quadro 7 - ANEXO) está projetada conforme as adições ao Ativo Imobilizado decorrentes dos investimentos previstos. 
+RECEITAS
+A estimativa de Receitas (Quadro 8) tem como base a tarifa média praticada em Ponta Porã em 2008, conforme levantamento explicitado abaixo:
+
+ANO
+TARIFA (R$/m³)
+
+ÁGUA
+ESGOTO
+TOTAL (PONDERADA)
+2005
+2,17
+1,67
+2,14
+2006
+2,29
+1,79
+2,25
+2007
+2,41
+1,92
+2,38
+2008
+2,54
+2,08
+2,50
+2009
+2,67
+2,18
+2,60
+
+Os volumes faturados incrementais são calculados de acordo com o consumo unitário das economias particulares de esgoto em 2009 na cidade de Ponta Porã e são crescentes na medida em que aumenta a adesão da população à rede coletora. Para 2011, foi estimada a adesão de 30% de economias residenciais, 40% em 2012 e 30% em 2013, conforme o número de ligações do projeto. Para os anos seguintes, o incremento decorre do crescimento vegetativo populacional passível de ser atendida pelas obras previstas.
+FLUXO DE CAIXA
+Para o cálculo do VPL – Valor Presente Líquido e da TIR – Taxa de Interna de Retorno, dentre outros indicadores financeiros, elaborou-se o Fluxo de Caixa Operacional (Quadro 9 - ANEXO) e o Fluxo de Caixa de Investimentos (Quadro 10 - ANEXO) para determinar a rentabilidade do empreendimento e sua viabilidade financeira, considerando a Taxa de Desconto definida em 6,25% a.a.. As alíquotas dos tributos obedecem à legislação pertinente, considerando-se: COFINS (7,60%), PIS (1,65%), Imposto de Renda (15%), Adicional de Imposto de Renda sobre o Lucro acima de R$ 240 mil (10%) e Contribuição Social (9,0%).
+A partir do Fluxo de Caixa de Investimentos foram calculados o VPL, a TIR, o Playback descontado e a relação Benefício e Custo (B/C) que demonstram a viabilidade do empreendimento considerando as premissas adotadas, conforme quadro a seguir:
+
+
+Descrição
+Resultados
+TIR (%a.a.)
+10,71%
+VPL (R$)
+3.966.096
+VPL DOS BENEFÍCIOS FINANCEIROS (R$)
+25.126.763
+VPL DOS CUSTOS FINANCEIROS (R$)
+21.160.667
+RELAÇÃO BENEFÍCIO/CUSTO 
+1,19
+PAY BACK DESCONTADO
+13º ANO
+
+ANÁLISE DE SENSIBILIDADE
+A Análise de Sensibilidade (Quadro 11 - ANEXO) foi realizada variando positivamente as despesas de operação e manutenção e os investimentos em 10% e 20% sobre o valor base anual, objetivando analisar o impacto de situações exógenas e de difícil previsibilidade. A variação de 10% sobre investimentos e despesas operacionais ainda mantém a viabilidade financeira do projeto, mesmo com a redução da margem de rentabilidade, conforme a seguir:
+Sensibilidade: + 10%
+Resultados
+TIR (%a.a.)
+9,00%
+VPL (R$)
+2.596.759
+VPL DOS BENEFÍCIOS FINANCEIROS (R$)
+25.126.763
+VPL DOS CUSTOS FINANCEIROS (R$)
+22.530.004
+RELAÇÃO BENEFÍCIO/CUSTO
+1,12
+Ainda que por margem menor, a variação de 20% sobre investimentos e despesas de operação e manutenção ainda viabiliza o empreendimento, demonstrando o rígido controle que se deve adotar sobre os custos e a necessidade de se promover a adesão da população local ao sistema de forma intensiva para que as ligações do projeto se convertam em receitas faturadas. 
+Sensibilidade: + 20%
+Resultados
+TIR (%a.a.)
+7,48%
+VPL (R$)
+1.227.421
+VPL DOS BENEFÍCIOS FINANCEIROS (R$)
+25.126.763
+VPL DOS CUSTOS FINANCEIROS (R$)
+23.899.342
+RELAÇÃO BENEFÍCIO/CUSTO 
+1,05
+ANÁLISE DE VIABILIDADE SOCIOECONÔMICA
+Adotou-se a Metodologia de Avaliação Contingente conforme pesquisa realizada pela PBLM Consultoria para o Projeto de Melhoria e Ampliação dos Serviços de Saneamento Básico na Região da Bacia do Rio Paraná (Água Limpa, Natureza Viva/Fonplata - 2002). 
+No cálculo da DAP utilizou-se o modelo paramétrico Bounded Logit. Verificou-se que das três localidades estudadas (Ponta Porã, Três Lagoas e Dourados), a Disposição a Pagar (DAP) de Ponta Porã é praticamente o dobro do valor pesquisado nas outras duas cidades. 
+Projeto
+Variáveis
+Número Casos
+Ajuste
+DAP (US$/mês)
+Sistema de Esgotamento Sanitário
+Constante
+P20_6
+YBID3
+362
+82%
+Dourados
+Ponta Porã
+Três Lagoas
+
+-1,6853
+-1,9428
+22,256
+
+
+6,65
+11,61
+7,61
+
+(0,3475)
+(0,36565)
+(3,0656)
+
+Valores em parênteses correspondem aos erros padrões dos coeficientes
+Em que:
+P20_6 = Padrão do imóvel 
+YBID3 = Log (((3%*Renda Familiar) – Valor Ofertado)/Valor Ofertado)
+Questionários aplicados em Ponta Porã: 247 unidades
+Análises de Regressão: Método Stepwise
+DAP = R$ 20,78 por domicílio ao mês (a valores de março de 2010)
+A pesquisa foi atualizada pelo câmbio adotado no Projeto Focem (R$ 1,7899).
+Observa-se que o padrão de consumo de água sofreu pouca alteração entre os anos de 2002 e 2008, havendo grande concentração nas primeiras faixas, conforme o quadro abaixo, indicando mesmo perfil socioeconômico de usuários:
+
+Em novembro de 2008, a Sanesul realizou Pesquisa de Imagem nas 10 maiores cidades operadas incluindo Ponta Porã.  Uma das questões levantadas versava sobre o grau de interesse da população em efetuar a ligação domiciliar à rede coletora de esgoto. Do total de 566 pessoas pesquisadas, 479 (84,3%) mostraram interesse em fazer a ligação, demonstrando a ótima receptividade que este empreendimento possui.
+A Conversão dos Preços de Mercado a Preços Econômicos está apresentada no Quadro 12 (ANEXO), tendo como base os valores calculados na Análise Financeira.
+A taxa de desconto adotada é de 7% a.a. e o horizonte do projeto na Analise Socioeconômica é de 20 anos, sendo dois relativos ao período de investimentos e 18 anos de operação. O Fator de Conversão Padrão foi estabelecido em 0,90. Para o cálculo dos benefícios optou-se por uma avaliação mais conservadora, no sentido em que foi quantificada a população diretamente atendida pelo projeto (ligações efetivas) somada a 20% da população não atendida diretamente e considerados como ligações potenciais, apesar de os benefícios serem mais abrangentes em seu impacto sobre o sistema local.
+O Valor Presente dos Custos de Investimentos e Operação e Manutenção do Sistema (Quadro 13 - ANEXO) e a Análise das Premissas Estudadas e de Sensibilidade (Quadro 14 e 15 - ANEXOS) demonstram a viabilidade socioeconômica do projeto. O VPL calculado é de           R$ 22,73 milhões e a TIRE é de 16,86%, muito superior aos 7% adotados como taxa de desconto e de atratividade mínima. A Relação entre Benefício e Custo (B/C) atingiu 2,50 a valor presente. 
+Na Análise de Sensibilidade admitiram-se as hipóteses de elevação em 10% e de 20% nos custos com investimentos e operação e manutenção do sistema. No primeiro caso, a TIRE é de 13,34% e 10,14% no segundo. A relação B/C de 2,27 e 2,08, respectivamente. Estes resultados apontam a manutenção da viabilidade socioeconômica do empreendimento.

@@ -1,0 +1,118 @@
+Decisión CMC N° 19/05
+Título: NORMA RELATIVA A LOS PROCEDIMIENTOS Y SEGURIDAD EN EL INTERCAMBIO Y CONSULTA DE DATOS OBRANTES EN LOS SISTEMAS INFORMATICOS ADUANEROS
+Tipo de documento: texto
+Archivo original: 10526_DEC_019-2005_ES_SistemasInformAduaneros.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+MERCOSUR/CMC/DEC. Nº 19/05
+
+
+NORMA RELATIVA A LOS PROCEDIMIENTOS Y SEGURIDAD EN EL INTERCAMBIO Y CONSULTA DE DATOS OBRANTES EN LOS SISTEMAS INFORMATICOS ADUANEROS 
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Decisión No 01/97 del Consejo del Mercado Común.
+	
+CONSIDERANDO:
+
+Que el Anexo que integra la presente Decisión tiene como objetivo completar los aspectos no regulados en la Decisión CMC No 01/97 sobre asistencia recíproca entre las Administraciones Aduaneras del MERCOSUR relacionados con el intercambio o consulta de los sistemas informáticos aduaneros;
+
+Que el enlace informático constituirá una herramienta indispensable para prevenir, investigar y combatir los ilícitos aduaneros, agilizar las prácticas comerciales y el  intercambio eficaz de información;
+
+Que para ello resulta necesario que el acceso a los datos se ajuste a las normas de seguridad, procedimientos, confidencialidad y responsabilidad de los usuarios en los Estados Partes;
+
+Que se analizó para ello la normativa internacional y las normas internas de cada Estado Parte relativas a la protección de datos personales;
+
+Que de acuerdo a lo expuesto se hace necesario reglamentar los procedimientos de intercambio y consulta de datos de los sistemas informáticos de los Estados Partes.
+
+EL CONSEJO DEL MERCADO COMÚN
+ DECIDE:
+
+Art. 1 - Aprobar la “Norma Relativa a los Procedimientos y Seguridad en el Intercambio y Consulta de Datos Obrantes en los Sistemas Informáticos Aduaneros”, que consta como Anexo y forma parte de la presente Decisión.
+
+Art. 2 - Los Estados Partes deberán incorporar la presente Decisión a sus ordenamientos jurídicos nacionales antes del 01/V/2006.
+
+
+XXIX CMC – Montevideo, 08/XII/05
+ANEXO
+
+NORMA RELATIVA A LOS PROCEDIMIENTOS Y SEGURIDAD EN EL INTERCAMBIO Y CONSULTA DE DATOS OBRANTES EN  LOS SISTEMAS INFORMATICOS ADUANEROS 
+
+
+ARTICULO 1
+
+Los Estados Partes implementarán un enlace informático, a través del cual podrán intercambiar informaciones o efectuar consultas, previamente consensuadas, de las bases de datos obrantes en las respectivas Administraciones Aduaneras, a los fines de prevenir, investigar y combatir presuntas violaciones a las normas aduaneras y optimizar los procedimientos de cooperación y control del comercio internacional. 
+
+ARTICULO 2
+
+Las Administraciones Aduaneras deberán ajustarse a las especificaciones contenidas en  esta norma cuando procedan al intercambio o consulta de datos en los sistemas informáticos aduaneros de los Estados Partes.
+
+ARTICULO 3
+
+1. La utilización del enlace informático se limitará a los fines determinados en el artículo 1.
+
+2. No obstante, previa autorización del Estado Parte que haya introducido la información en el sistema, podrá aprovecharse también para fines administrativos y operacionales aduaneros o de otra índole, tales como investigaciones, procedimientos y diligencias judiciales.
+
+ARTICULO 4
+
+1. Se consideran datos de carácter personal todos los relativos a las personas físicas y a las personas jurídicas. 
+
+2. En ningún caso se proporcionarán datos de carácter personal relativos al origen racial, opiniones políticas, convicciones religiosas,  salud o vida sexual.
+
+ARTICULO 5
+
+1. Los datos personales deberán gozar de un grado de protección y confidencialidad equivalente al previsto por la legislación interna del Estado Parte que utilice la información. 
+
+2. En ausencia de normas internas o de menor nivel de protección se deberán respetar las previsiones de la presente normativa. 
+
+ARTICULO 6
+
+Los datos de carácter personal serán utilizados únicamente por las Administraciones Aduaneras de conformidad a lo preceptuado por el artículo 3, encontrándose prohibida su divulgación a otras autoridades, salvo autorización expresa de la Administración Aduanera que suministra la información.  
+
+ARTICULO 7
+
+La Administración Aduanera que utilice datos personales, informará por escrito, a pedido de la administración que los proporcionó, a qué efectos solicitó los mismos, el uso que le ha dado y el resultado obtenido.
+
+ARTICULO 8
+
+El funcionario que obtuvo datos de otra Administración Aduanera, solamente podrá  conservarlos hasta que se cumpla la finalidad que motivó la consulta.  
+
+ARTICULO 9
+
+Cuando se intercambien o consulten datos quedarán registrados los nombres y códigos de identificación de los funcionarios autorizados para ingresar al sistema, del operador que permite su utilización, fecha, hora  y  argumentos de consulta.
+
+ARTICULO 10
+
+La Administración Aduanera de cada Estado Parte será responsable de que el enlace informático sea utilizado correctamente, y a tal fin, designará el área o funcionario responsable a nivel nacional, y adoptará las medidas necesarias para garantizar el cumplimiento de lo dispuesto en la presente norma.
+
+ARTICULO 11
+
+La Administración Aduanera de cada Estado Parte será responsable conforme a sus leyes internas del perjuicio causado por la utilización de los datos intercambiados o consultados. Ocurrirá lo mismo cuando el perjuicio lo causare el que proporcionó informaciones inexactas o contrarias a las disposiciones contenidas en esta norma.
+
+ARTICULO 12
+
+Las Administraciones Aduaneras de cada Estado Parte designarán los funcionarios de dichas administraciones que estarán facultados al acceso directo de los datos incluidos en los sistemas informáticos aduaneros.
+
+
+
+ARTICULO 13
+
+La introducción de datos en los sistemas informáticos se regirá por las disposiciones legales, reglamentarias y procedimientos de cada Estado Parte.
+
+ARTICULO 14
+
+Cada Estado Parte podrá modificar, completar, corregir o suprimir los datos que él mismo ha incorporado en sus sistemas.
+
+ARTICULO 15
+
+Los Estados Partes serán responsables de adoptar medidas de seguridad en los  sistemas informáticos, a efectos de:
+
+    1) Impedir el acceso no autorizado al sistema, como asimismo a los datos  obrantes en él;
+    2) Impedir cualquier alteración, lectura, copia o supresión de los datos obrantes en los sistemas,  por quien no se encuentre autorizado;
+    3) Determinar cuáles informaciones han sido introducidas, consultadas, modificadas o suprimidas en el sistema, en qué fecha y por quién;
+    4) Impedir cualquier lectura, copia, modificación o supresión no autorizada de la información, estableciendo que la transmisión de datos sea encriptada; y
+    5) Verificar especialmente que los usuarios se encuentren debidamente facultados cuando la consulta se refiera a datos personales, conservando la nómina de los funcionarios actuantes por un término no inferior a cinco años. 
+
+ARTICULO 16
+
+La responsabilidad de la exactitud, actualidad y legalidad de los datos en los sistemas informáticos será de la Administración Aduanera del Estado Parte que los proporcione.

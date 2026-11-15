@@ -1,0 +1,1422 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-15
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO II-Acdo Mercancias Peligrosas-ES/ANEXO II-Acdo Mercancias Peligrosas-ES-CAPITULO 6.1 a 6.4.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+PARTE 6
+
+ 
+
+PRESCRIPCIONES RELATIVAS A LA CONSTRUCCIÓN Y EL ENSAYO DE EMBALAJES, RECIPIENTES INTERMEDIOS PARA GRANELES (RIGs), EMBALAJES DE GRAN TAMAÑO (EGTs) Y CISTERNAS PORTÁTILES
+CAPÍTULO 6.1
+
+DISPOSICIONES RELATIVAS A LA CONSTRUCCIÓN Y EL ENSAYO
+DE LOS EMBALAJES (DISTINTOS DE LOS UTILIZADOS PARA LAS SUSTANCIAS DE LA DIVISIÓN 6.2)
+	
+
+6.1.1              Disposiciones generales
+
+6.1.1.1           Los requerimientos de este capítulo no se aplican a:
+
+a)	embalajes que contienen materiales radioactivos, que se regirán  por el Reglamento del Organismo Internacional  de Energía Atómica (OIEA), salvo que:
+                      
+ i)	materiales radiactivos que tengan otras propiedades peligrosas (riesgos secundarios) habrán de satisfacer también la disposición especial 172;
+
+    ii) materiales de baja actividad específica (BAE) y los objetos contaminados en la superficie (OCS) podrán transportarse en ciertos embalajes definidos en el presente Anexo siempre que se satisfagan también los requerimientos complementarios del Reglamento del  OIEA;
+
+b)	cilindros para gas;
+                   
+c)	los bultos cuya masa neta exceda de 400 kg;
+
+d)	los embalajes cuya capacidad exceda de 450 litros.
+
+6.1.1.2	Los requerimientos de la sección 6.1.4 se basan en los embalajes  utilizados actualmente. Para tener en cuenta  el progreso de la ciencia y de la técnica, se admite la utilización de embalajes cuyas especificaciones difieren de las indicadas, siempre que sean igualmente eficaces, que sean aceptables para la autoridad competente de cada Estado Parte y que superan las pruebas descritas en 6.1.1.3 y en  6.1.5. Los métodos de pruebas distintos de los descritos en el presente Anexo son admisibles, siempre que sean equivalentes.
+
+6.1.1.2.1	Cuando fueran utilizados dos o más modos de transporte, los padrones de desempeño de los embalajes corresponderán al modo más restrictivo.
+
+6.1.1.3	Todo embalaje destinado a contener líquido habrá de superar exitosamente una prueba de estanqueidad y ser capaz de superar el nivel apropiado de ensayo indicado en 6.1.5.4.3:
+
+a)	antes de ser utilizado por primera vez para el transporte;
+                
+b)	tras haber sido reconstruido o reacondicionado, antes de ser reutilizado para el transporte.
+
+6.1.1.4 	Para esta prueba no es preciso que los embalajes tengan instalados sus propios dispositivos de cierre.
+
+6.1.1.5     El recipiente interior de los embalajes compuestos podrá someterse a la prueba sin el embalaje exterior, a condición de que no se alteren los resultados. No es necesario someter a esta prueba los envases interiores de embalaje combinados.
+
+6.1.1.6	Los embalajes deberán ser  fabricados y ensayados de conformidad con un programa de aseguramiento de la calidad que satisfaga a las autoridades competentes, de manera que sea seguro que cada embalaje fabricado cumpla los requisitos de este capítulo.
+
+
+6.1.2          Código de designación de los tipos de embalajes
+
+6.1.2.1       El código consistirá en:
+
+                  a)            Una cifra arábiga que indica el tipo de embalaje (por ejemplo, tambor, bidón,  etc.), seguida de;
+
+                  b)            Una  o dos letras mayúscula(s) en caracteres latinos que indica la naturaleza del material (por ejemplo, acero, madera, etc.), seguida, cuando sea necesario, por;
+
+                  c)            Una cifra arábiga que indica la categoría del embalaje dentro del tipo a que pertenece éste.
+
+6.1.2.2       En el caso de los embalajes compuestos, en el segundo lugar del código figuran  una o dos letras mayúscula(s) en caracteres latinos. La primera indica el material del recipiente interior, y la segunda el del embalaje exterior.
+
+6.1.2.3       En el caso de los embalajes combinados y de los de sustancias infecciosas rotuladas de conformidad con el párrafo 6.3.1.1, sólo se utiliza el código correspondiente al embalaje exterior.
+
+6.1.2.4	        Los códigos del tipo de embalaje pueden ir seguida de letra “T”, “V”  o “W”. La letra “T” indica un embalaje de socorro que cumple lo dispuesto en el párrafo 6.1.5.1.11 La letra  “V” indica un embalaje especial que cumple las disposiciones del párrafo 6.1.5.1.7. La letra “W” indica  que el embalaje, aunque es del tipo designado por el código, ha sido fabricado con arreglo a especificaciones diferentes de las indicadas en la sección 6.1.4, y se considera equivalente de acuerdo con lo prescrito en el párrafo 6.1.1.2.
+
+6.1.2.5        Se utilizarán las cifras siguientes para indicar el tipo de embalaje:
+       
+                   1.         Tambor
+                   2.         Barril de madera
+                   3.         Bidón o Jerricán
+                   4.         Caja
+                   5.         Bolsa
+                   6.         Embalaje compuesto
+                   7.         Recipiente a presión
+
+6.1.2.6        Se  utilizarán las letras mayúsculas siguientes para indicar el material:
+
+                  A.          Acero (de todos los tipos y con todos los tratamientos de superficie)
+                  B.          Aluminio
+                  C.          Madera natural
+                  D.          Madera compensada
+                  F.          Madera reconstituida
+                  G.          Cartón
+                  H.          Plástico
+                  L.          Textil
+                  M.         Papel multipliego
+                  N.         Metal (excepto el acero y el aluminio)
+                  P.         Vidrio, porcelana o gres
+
+6.1.2.7         En el cuadro siguiente se dan los códigos que habrán de asignarse a los diferentes tipos de embalaje según la especie de embalaje, el material utilizado para la construcción y su categoría. El cuadro remite también a los párrafos en que se hallarán los requerimientos aplicables.
+
+Tabla 6.1.2.7   Códigos de designación de tipos de embalajes
+
+Tipo                   	Material                         	Categoría                             	Clave   	Párrafo
+
+1. Tambores     	A. Acero    	          Cabezal fijo     	1A1	
+                                                        ---------------------------------------------------------	6.1.4.1
+			Cabezal removible	1A2
+                       	-------------------------------------------------------------------------------------------
+                         	B. Aluminio             	Cabezal fijo	1B1
+		-----------------------------------------------------	6.1.4.2
+                                                        	           Cabezal removible 	1B2
+	-------------------------------------------------------------------------------------------
+                   	D. Madera compensada                                      	1D	6.1.4.5
+	-------------------------------------------------------------------------------------------
+ 	G. Cartón  			1G	6.1.4.7
+                         	-------------------------------------------------------------------------------------------
+	H. Plástico		Cabezal fijo	1H1        	
+          	----------------------------------------------------------------------------	-              6.1.4.8			          Cabezal removible	1H2              
+	-------------------------------------------------------------------------------------------
+	N. Metal, que no sea 	Cabezal fijo	N1
+		acero ni aluminio -------------------------------------------------	6.1.4.3
+			Cabezal removible	N2
+
+2. Barriles      	C. Madera		Con tapón	2C1	
+		-----------------------------------------------------	6.1.4.6
+			Cabezal removible	2C2
+
+
+3.  Jerricanes	A. Acero		Cabezal fijo	3A1
+		-----------------------------------------------------	6.1.4.4
+			Cabezal removible	3A2
+	-------------------------------------------------------------------------------------------
+	B. Aluminio		Cabezal fijo	3B1
+		------------------------------------------------------	6.1.4.4
+			Cabezal removible	3B2
+	-------------------------------------------------------------------------------------------
+	H. Plástico 		Cabezal fijo 	3H1
+		-----------------------------------------------------	6.1.4.8
+			Cabezal removible	3H2
+
+
+Tipo                   	Material                         	Categoría                             	Clave   	Párrafo
+
+4. Cajas 	A. Acero			4A	6.1.4.14    
+	---------------------------------------------------------------------------------------------           	B. Aluminio		                                                  4B          6.1.4.14
+	---------------------------------------------------------------------------------------------          	C. Madera natural		Común	4C1 
+		-------------------------------------------------------	6.1.4.9
+			Con paredes herméticas	4C2	
+                                                                	al polvo 
+	---------------------------------------------------------------------------------------------          	D. Madera compensada                                                     4D	6.1.4.10
+	---------------------------------------------------------------------------------------------
+	F. Madera reconstituida                      	4F	6.1.4.11
+	---------------------------------------------------------------------------------------------           	G. Cartón			4G	6.1.4.12
+	---------------------------------------------------------------------------------------------
+	H. Plástico		Expandido	4H1	
+		--------------------------------------------------------	6.1.4.13
+			Sólido	4H2	
+
+
+5.  Bolsas         	H. Tejido de plástico        	Sin forro ni revestimiento	5H1  	6.1.4.16
+                                                                  	interior                           
+                                                      	---------------------------------------------------------------------
+                                                                 	Herméticos al polvo   	5H2      	6.1.4.16
+		---------------------------------------------------------------------
+                                                                 	Resistentes al agua                 	5H3	6.1.4.16
+	---------------------------------------------------------------------------------------------
+                         	H. Película de plástico		5H4	6.1.4.17 
+                       	---------------------------------------------------------------------------------------------
+	L. Textil		Sin forro ni revestimiento	5L1	6.1.4.15
+                                                                	interior                                     
+		---------------------------------------------------------------------
+			Hermético al polvo	5L2	6.1.4.15
+		---------------------------------------------------------------------
+			Resistentes al agua	5L3	6.1.4.15
+	---------------------------------------------------------------------------------------------
+	M. Papel		Multipliego	5M1 
+		----------------------------------------------------	6.1.4.18
+			Multipliego, resistentes al	5M2
+                                                                	agua  
+
+Tipo                   	Material                         	Categoría                             	Clave   	Párrafo
+
+6. Embalajes     	H. Recipiente   		Con tambor exterior de acero	6HA1	6.1.4.19
+    compuestos      	de plástico	--------------------------------------------------------------------
+			Con jaula o caja exterior 	6HA2	6.1.4.19
+			de acero
+		--------------------------------------------------------------------
+			Con tambor exterior	6HB1	6.1.4.19
+			de aluminio
+		--------------------------------------------------------------------
+                                                   		Con jaula o caja exterior	6HB2	6.1.4.19
+			de aluminio
+		--------------------------------------------------------------------
+			Con caja exterior de madera 	6HC	6.1.4.19
+		--------------------------------------------------------------------
+			Con tambor exterior	6HD1	6.1.4.19
+			de madera compensada
+		--------------------------------------------------------------------
+			Con caja exterior de madera	6HD2	6.1.4.19
+			compensada
+		--------------------------------------------------------------------
+			Con tambor exterior de cartón	6HG1	6.1.4.19
+		--------------------------------------------------------------------
+			Con caja exterior de cartón	6HG2	6.1.4.19
+		--------------------------------------------------------------------
+			Con tambor exterior	6HH1	6.1.4.19
+			de plástico
+		--------------------------------------------------------------------
+			Con caja exterior	6HH2	6.1.4.19
+			de plástico sólido
+-------------------------------------------------------------------------------------------                           P. Recipiente de		Con tambor exterior de acero	6PA1	6.1.4.20
+                           	vidrio, porcelana	-------------------------------------------------------------------  
+                            	o gres		Con jaula o caja exterior	6PA2	6.1.4.20
+			de acero
+		-------------------------------------------------------------------				Con tambor exterior	6PB1	6.1.4.20
+			de aluminio
+		-------------------------------------------------------------------
+			Con jaula o caja exterior	6PB2	6.1.4.20
+			de aluminio 
+	-------------------------------------------------------------------
+		Con caja exterior de madera	6PC6	6.1.4.20
+		-------------------------------------------------------------------
+                      			Con tambor exterior	6PD1	6.1.4.20
+			de madera compensada
+		-------------------------------------------------------------------
+			Con canasta exterior 	6PD2	6.1.4.20
+			de mimbre
+		
+
+Tipo                   	Material                         	Categoría                             	Clave   	Párrafo           
+
+6. Embalajes     	P. Recipiente de		Con tambor exterior de cartón	6PG1	6.1.4.20
+  	compuestos	vidrio, porcelana	-------------------------------------------------------------------             (cont.)	o gres (cont.)		Con caja exterior de cartón	6PG2	6.1.4.20
+		-------------------------------------------------------------------
+			Con embalaje exterior	6PH1	6.1.4.20
+			de plástico expandido
+		-------------------------------------------------------------------
+			Con embalaje exterior de	6PH2	6.1.4.20
+			plástico sólido
+  
+                                                          
+
+6.1.3       Marcado
+
+Nota 1: El marcado indica que el embalaje  que lo lleva es de un prototipo que ha superado las pruebas y cumple con los requerimientos de este capítulo, los cuales se refieren a la fabricación, pero no a la utilización, del embalaje. Por consiguiente el marcado, en sí mismo, no confirma necesariamente que en el embalaje pueda utilizarse cualquier sustancia; generalmente, en la Parte 3, Capítulo 3.2, del presente Anexo se indica, para cada sustancia, el tipo de embalaje (por ejemplo, tambores de acero), su capacidad y/o masa máxima y cualquier disposición especial.
+ 
+Nota 2: El marcado tiene por finalidad facilitar el trabajo de los fabricantes de embalaje, de los reacondicionadores, de los usuarios, de los transportistas y de las autoridades que se ocupan de la reglamentación. En el caso de los embalajes nuevos, el marcado original sirve para que el fabricante identifique el tipo e indique las pruebas superadas. 
+  
+Nota 3: El marcado no siempre da detalles completos sobre las pruebas, y puede ser necesario obtener estos detalles consultando los certificados o informes relativos a las pruebas o un registro de los embalajes que hayan superados las pruebas. Por ejemplo, un embalaje que lleve las marcas X o Y puede utilizarse para sustancias asignadas a un grupo de embalaje correspondiente a un grado de riesgo inferior; para ello, el valor máximo permisible de la densidad relativa (1) se determina multiplicando por los factores 1,5 ó 2,25, según proceda, indicados en los requerimientos de la sección 6.1.5 relativas a las pruebas de los embalajes. En otras palabras, los embalajes del grupo I sometidos a prueba para productos de densidad relativa 1,2 podrán utilizarse como embalaje del grupo II para productos de densidad relativa 1.8 o como embalajes del grupo III para productos de densidad relativa 2.7, siempre que, desde luego, cumplan todos los criterios funcionales con el producto de densidad relativa superior.
+
+6.1.3.1       Todo embalaje que vaya a utilizarse con arreglo al presente Anexo llevará marcas duraderas, legibles y, por el lugar en que se coloquen y su tamaño en proporción con el embalaje respectivo, bien visibles. En los bultos con una masa bruta de más de 30 kg, esas marcas o reproducciones de ellas aparecerán en la parte superior o en uno de los lados. Las letras, las cifras y los símbolos serán de 12 mm de alto, por lo menos, aunque, si se trata de embalajes de hasta 30 litros o 30 kg de capacidad, serán de 6 mm de altura mínima, y si se trata de embalajes de hasta 5 litros o 5 kg de capacidad, serán de un tamaño adecuado.
+
+(1) La densidad relativa se considera sinónimo del peso específico y es la expresión que se utilizará en todo este texto.
+
+               El marcado deberá indicar:
+
+             a)      el símbolo de las Naciones Unidas                  	u 
+                      para los embalajes	n
+
+             
+ Este símbolo no se utilizará  más que para certificar que un embalaje fue fabricado conforme a la normativa pertinente de este capítulo. En  el caso de los embalajes de metal con marcas estampadas en relieve, se pueden utilizar como símbolo  las  letras mayúscula “UN”;
+    
+        
+             b)     el código que designa el tipo de embalaje de conformidad con la sección 6.1.2; 
+
+             c)     el código compuesto de dos partes:
+
+                      i)      una letra que indica el grupo o los grupos de embalaje  para 
+                              los que el modelo ha superado las pruebas:
+
+                                  X, para los grupos de embalaje I, II y III;
+                                  Y, para los grupos de embalaje II y III; y
+                                  Z, para los grupos de embalaje III solamente;
+ 
+
+          ii) la densidad relativa, redondeada al primer decimal, para la que se ha probado el prototipo para los embalajes únicos destinados a contener líquidos, (esto puede omitirse cuando la densidad relativa no excede de 1,2). Para embalajes destinados a contener sólidos o en los embalajes interiores, la masa bruta máxima en kilogramos;
+
+
+           d)    una de las dos siguientes informaciones: la letra “S”, que indica que el embalaje está destinado al transporte de sólido o de envases interiores, o bien, en los embalajes (distintos de los combinados) destinados a contener líquidos, la presión de prueba hidráulica que el embalaje ha demostrado resistir, en kPa, redondeada a la decena más próxima;
+
+ e)  	los dos últimos dígitos del año de fabricación del embalaje. Los embalajes de los tipos 1H y 3H deberán también estar marcados con una indicación del mes de fabricación; esta indicación puede figurar en un lugar diferente del resto del marcado. Con tal fin, un método adecuado para esta última indicación es:
+
+
+
+	f)	El  Estado Parte que autorice la asignación del marcado indicada por la señal distintiva para vehículos de motor en tráfico internacional;
+
+	g)	El nombre del fabricante u otra marca de identificación del embalaje prescrita por la autoridad componente.
+
+6.1.3.2		Todo embalaje reutilizable y susceptible de un proceso de reacondicionamiento que pudiera borrar el marcado del embalaje llevará el marcado indicado en los apartados a) a e) del párrafo 6.1.3.1 en forma permanente. Se considera marcado permanente el que pueda resistir el proceso de reacondicionamiento (por ejemplo, el marcado en relieve). Tratándose de embalajes que no sean tambores de metal de capacidad superior a 100 litros, ese marcado permanente puede sustituir a los correspondientes marcados indelebles prescrito en el párrafo 6.1.3.1.
+
+6.1.3.2.1	Además del marcado indeleble prescrito en el párrafo 6.1.3.1, todo tambor de metal nuevo cuya capacidad sea superior a 100 litros deberá llevar el marcado descrito en  6.1.3.1 a) a e) en el cabezal inferior, con indicación del espesor nominal, por lo menos, del metal utilizado para el cuerpo (en mm, hasta 0,1 mm) en forma permanente (por ejemplo, en relieve). Cuando el espesor nominal de los extremos superior e inferior de un tambor de metal sea inferior al del cuerpo, se marcará el espesor nominal del extremo superior, del cuerpo y del extremo inferior en forma permanente (por ejemplo, en relieve), en su parte inferior, por ejemplo “1,0-1,2-1,0” o “0,9-1,0-1,0”. Los espesores nominales del metal se determinarán de conformidad con la norma ISO apropiada, por ejemplo, la norma ISO 3574 para el acero. El marcado indicado en el apartado f) y g) del párrafo 6.1.3.1 no se aplicará en forma permanente (por ejemplo, en relieve) excepto en los casos previstos en el párrafo 6.1.3.2.3.
+
+6.1.3.2.2	Para los tambores de metal recompuestos, si no cambia el tipo de embalaje y no hay  sustitución o supresión de elementos estructurales integrales, no es necesario que el marcado requerido sea permanente (por ejemplo, en relieve). Los demás tambores de metal recompuestos llevarán el marcado indicado en los apartados a) a e) del párrafo 6.1.3.1 en forma permanente (por ejemplo, en relieve) en su extremo superior o en el cuerpo.
+
+6.1.3.2.3	Los tambores de metal fabricados con materiales destinados a ser reutilizados varias veces (por ejemplo, acero inoxidable) pueden llevar el marcado indicado en los apartados f) y g) del párrafo 6.1.3.1 en forma permanente (por ejemplo, en relieve).
+
+6.1.3.3	El marcado deberá ser aplicado en el orden de los apartados del párrafo 6.1.3.1; véanse algunos ejemplos en el párrafo 6.1.3.6. El marcado adicional admitido por la autoridad competente de cada Estado Parte no habrá de impedir que se identifiquen correctamente las partes de la marca con referencia a lo prescrito en el párrafo 6.1.3.1.
+
+6.1.3.4	Después de reacondicionar un embalaje el reacondicionador pondrá en él, en orden secuencial, una marca indeleble que indique:
+
+                       h)	El estado en que se haya hecho el reacondicionamiento, para lo cual se utilizará el signo distintivo de los automóviles en el tráfico internacional
+
+		i)	El nombre o el símbolo autorizado del reacondicionador;
+
+                       j)	El año del reacondicionamiento, la letra “R” y, en los embalajes que hayan superado la prueba de estanquidad prescrita en el párrafo 6.1.1.3, la letra adicional “L”.
+
+6.1.3.5	Cuando después del reacondicionamiento el marcado requeridos en los apartados a) a d) del párrafo 6.1.3.1 ya no aparezcan en el extremo superior o el cuerpo de un tambor de metal, el reacondicionador los aplicará también en forma indeleble, seguidos por los indicados en los apartados h), i) y j) del párrafo 6.1.3.4. Esas marcas no señalarán una capacidad de resistencia superior a aquella para la que el modelo original haya sido probado y marcado. 
+
+
+6.1.3.6	Ejemplos de marcas de embalajes NUEVOS:
+
+
+  	4G/Y145/S/00 	Según 6.1.3.1 a), b), c), d) y e)	  Para una caja nueva
+  	BR/VL823		Según 6.1.3.1 f) y g)		              de cartón
+
+
+         	1A1/Y1.4/150/00 	Según 6.1.3.1 a), b), c), d) y e)	 Para un tambor nuevo 
+ 	AR/VL824		Según 6.1.3.1 f) y g)	                        de acero destinado al 
+								             transporte de líquido  
+
+    	1A2/Y150/S/00           Según 6.1.3.1 a), b), c), d) y e) 	Para un tambor nuevo  
+ 	UY/VL825		Según 6.1.3.1 f) y g)		            de acero destinado
+							            	al transporte de
+								            sustancias sólidas o de
+							                        embalajes interiores
+									
+  	4HW/Y136/S/00	Según 6.1.3.1 a), b), c), d) y e)	Para una caja nueva
+    	PY/VL826		Según 6.1.3.1 f) y g)		            de plástico o de
+								            especificaciones
+									                  equivalentes
+
+6.1.3.7	Ejemplos de marcas para embalajes REACONDICIONADOS:
+
+ 	1A1/Y1.4/150/83	Según 6.1.3.1 a), b), c), d), y e)	
+ 	 BR/RB/85 RL		Según 6.1.3.4 h), i) y j)		
+									
+
+ 	1A2/Y150/S/83	Según 6.1.3.1 a), b), c), d) y e)
+ 	UY/RB/85 R		Según 6.1.3.4 h), i) y j)
+
+
+6.1.3.8	Ejemplo de marca para embalajes de SOCORRO:
+
+   	1A2T/Y300/S/94	Según 6.1.3.1 a),b),c),d) y e)
+ 	PY/abc		Según 6.1.3.1 f) y g)
+
+Nota: El marcado ejemplificado en los párrafos 6.1.3.6, 6.1.3.7 y 6.1.3.8 podrán figurar en una sola línea o en varias, siempre que se respete el orden correcto.
+
+6.1.4		Requerimientos relativos a los embalajes
+
+6.1.4.1	Tambores de acero
+
+		Las siguientes disposiciones se aplican a los tambores con capacidad máxima de 450 litros y masa neta máxima de 400 kg, de los tipos:
+
+		1A1	Cabezal fijo
+		1A2      Cabezal  removible
+
+6.1.4.1.1	El cuerpo, la tapa y el fondo serán de chapa de acero de un tipo y de un espesor adecuados a la capacidad del tambor y al uso a que esté destinado.
+
+6.1.4.1.2	Las costuras del cuerpo de los tambores destinados al transporte de más 40 litros de líquido estarán soldadas. Las costuras del cuerpo de los tambores destinados al transporte de sustancias sólidas o de 40 litros o menos de líquidos estarán cerradas mecánicamente o soldadas.
+
+6.1.4.1.3	Los rebordes estarán cerrados mecánicamente o soldados. Se pueden utilizar aros de refuerzo separados.
+
+6.1.4.1.4	En general, el cuerpo de los tambores de una capacidad superior a 60 litros estará provisto por lo menos de dos aros de rodadura formados por expansión o, en su defecto, de al menos dos aros de rodadura separados. Si se han previsto aros de rodadura separados, éstos se ajustarán perfectamente al cuerpo del tambor  y estarán sujetos de forma que no pueden desplazarse. Los aros de rodadura no estarán soldados por puntos.
+
+6.1.4.1.5	Las aberturas de llenado, de vaciado y de ventilación existentes en el cuerpo, en  la tapa o en el fondo de los tambores de cabezal fijo (1A1) no tendrán más de 7 cm de diámetro. Los tambores provistos de aberturas mayores se consideran del tipo de cabezal  removible (1A2). Los cierres de las aberturas existentes en el cuerpo, en la tapa o en el fondo de los tambores estarán diseñados e instalados de manera que permanezcan fijos y estancos en las condiciones normales de transporte. Las pestañas de los cierres pueden estar sujetas mecánicamente o soldadas. Los cierres estarán provisto de juntas o de otros elementos de sellados, a menos que sean sellado de por sí.
+
+6.1.4.1.6	Los dispositivos de cierre de los tambores de cabezal  removible estarán diseñados e instalados de manera que permanezcan fijos y que los tambores permanezcan sellados en las condiciones normales de transporte. Todos los cabezales removibles estarán provistas de juntas o de otros elementos de sellado.
+
+6.1.4.1.7	Si los materiales utilizados para el cuerpo, la tapa, el fondo, los cierres y los accesorios no son compatibles con las mercancías que se han de transportar, se aplicarán revestimientos o tratamiento interiores apropiados de protección. Esos revestimientos habrán de conservar sus propiedades de protección en las condiciones normales de transporte.
+
+                6.1.4.2 Tambores de aluminio
+
+Las siguientes disposiciones se aplican a los tambores con capacidad máxima de 450 litros y masa neta máxima de 400 kg, de los tipos:
+		
+		1B1		Cabezal fijo
+		1B2		Cabezal  removible
+
+6.1.4.2.1	El cuerpo, la tapa y el fondo estarán hechos de aluminio puro al 99%, por lo menos, o de una aleación a base de aluminio. El material será de un tipo y de un espesor adecuado a la capacidad del tambor y al uso a que esté destinado.
+
+6.1.4.2.2	Todas las costuras estarán soldadas. Las costuras de los rebordes, si las hay, se reforzarán mediante aros de refuerzo separados.
+
+6.1.4.2.3	En general, el cuerpo de los tambores de una capacidad superior a 60 litros estará provisto por lo menos de dos aros de rodadura formado por expansión o, en su defecto, de al menos dos aros de rodaduras separados. Si se han previsto aros de rodadura separados, éstos se ajustarán perfectamente al cuerpo del tambor y estarán sujetos de forma que no puedan desplazarse. Los aros de rodadura no estarán soldados por puntos.
+
+6.1.4.2.4	Las aberturas de llenado, de vaciado y de ventilación existentes en el cuerpo, en la tapa o en el fondo de los tambores de cabezal fijo (1B1) no tendrán más de 7cm de diámetro. Los tambores provistos de abertura mayores se consideran del tipo de cabezal  removible (1B2). Los cierres de las aberturas en los cuerpos y cabezales de los tambores deberán estar diseñados y colocados de forma de permanecer seguros y estancos bajo las condiciones normales de transporte. Las pestañas o rebordes de los cierres deberán estar mecánicamente fijados o soldados. Las juntas u otros elementos de sellado deberán utilizarse con los cierres, a menos que el sistema de cierre sea específicamente estanco.
+
+6.1.4.2.5	Los dispositivos de cierre de los tambores de cabezal  removible estarán diseñados e instalados de manera que permanezcan fijos y que los tambores permanezcan  estancos en las condiciones normales de transporte. Todos los cabezales removibles estarán provistos de juntas o de otros elementos de estanqueidad.
+
+                6.1.4.3 Tambores de metales distintos del aluminio o el acero
+
+Las siguientes disposiciones se aplican a los tambores con capacidad máxima de 450 litros y masa neta máxima de 400 kg, de los tipos:
+
+		1N1	Cabezal fijo
+		1N2	Cabezal removible
+
+
+6.1.4.3.1	El cuerpo y el cabezal serán de un metal o aleación metálica distintos del acero o el aluminio. Los materiales serán de un tipo y un espesor adecuado a la capacidad del tambor y al uso a que esté destinado.
+
+6.1.4.3.2	Las costuras de los bordes, si existen, deberán estar reforzadas mediante la aplicación de aros de refuerzo independiente. Todas las costuras que puedan existir se unirán (por soldadura, etc.) de acuerdo con las más modernas técnicas utilizadas con el metal o la aleación de que se trate.
+
+6.1.4.3.3	En general, el cuerpo de los tambores de una capacidad superior a 60 litros estará provisto por lo menos de dos aros de rodadura formados por expansión o, en su defecto, de al menos dos aros de rodadura separados. Si se han previsto aros de rodadura separados, éstos se ajustarán perfectamente al cuerpo del tambor y estarán sujetos de forma que no puedan desplazarse. Los aros de rodadura no estarán soldados por soldaduras de puntos.
+
+6.1.4.3.4	Las aberturas de llenado, de vaciado y de ventilación existentes en el cuerpo o en  los cabezales de los tambores de cabezal fijo (1N1) no tendrán más de 7 cm de diámetro. Los tambores provistos de aberturas mayores se considerarán del tipo cabezal  removible (1N2). Los cierres de las aberturas existentes en el cuerpo o en los cabezales de los tambores estarán diseñados e instalados de manera que permanezcan fijos y estancos en las condiciones normales de transporte. Las pestañas se unirán en su lugar (por soldadura, etc.) de conformidad con las más modernas técnicas aplicables al metal o la aleación que se use de manera que la junta sea estanca. Los cierres estarán provistos de juntas o de otros elementos de estanqueidad, a menos que sean estancos de por sí.
+
+6.1.4.3.5	Los dispositivos de cierre de los tambores de cabezal  removible estarán diseñados e instalados de manera que permanezcan fijos y que los tambores permanezcan estancos en las condiciones normales de transporte. Todos los cabezales removibles estarán provistos de juntas o de otros elementos de estanqueidad.
+
+6.1.4.4	Jerricanes de acero o de aluminio
+
+		Las siguientes disposiciones se aplican a los jerricanes con capacidad máxima de 60 litros y masa neta máxima de 120 kg, de los tipos:
+
+
+		3A1		de acero, cabezal fijo
+		3A2 		de acero, cabezal  removible
+		3B1		de aluminio, cabezal fijo
+		3B2		de aluminio, cabezal  removible
+
+6.1.4.4.1	El cuerpo, el cabezal y el fondo de los jerricanes serán de chapa de acero, de aluminio puro al 99%, por lo menos, o de una aleación a base de aluminio. El material será de un tipo y de un espesor adecuado a la capacidad del jerricán y al uso a que esté destinado.
+
+6.1.4.4.2	Los rebordes de los jerricanes de acero estarán cerrados mecánicamente o soldados. Las  costuras del cuerpo de los jerricanes de acero destinados al transporte de más de 40 litros de líquidos estarán soldadas. Las costuras del cuerpo de los jerricanes de acero destinado al transporte de 40 litros de líquido o menos estarán  cerradas mecánicamente o soldadas. Todas las costuras de los jerrricanes de aluminio estarán soldadas. Las uniones de los bordes, si las hubiere, deberán estar reforzadas, mediante la colocación de un aro de refuerzo separado. 
+
+6.1.4.4.3	Las aberturas de los jerricanes 3A1 y 3B1 no tendrán más de 7 cm de diámetro. Los jerricanes que tengan aberturas mayores se consideran del tipo de cabezal  removible (3A2 y 3B2). Los cierres estarán diseñados de forma que permanezcan fijos y estancos en las condiciones normales de transporte. Los cierres estarán provistos de juntas o de otros elementos de estanqueidad, a menos que sea estancos de por sí.
+
+6.1.4.4.4	Si los materiales utilizados para el cuerpo, los cabezales, los cierres y los accesorios no son compatibles con las sustancias que hayan de transportarse, se aplicarán revestimientos o tratamientos interiores apropiados de protección. Esos revestimientos o tratamientos habrán de conservar sus propiedades de protección en las condiciones normales de transporte.
+
+                6.1.4.5 Tambores de madera compensada 
+
+Las siguientes disposiciones se aplican a los tambores con capacidad máxima de 250 litros y masa neta máxima de 400 kg, del tipo:
+
+		1D
+
+6.1.4.5.1	La madera utilizada estará bien estacionada, comercialmente seca y libre de todo defecto que pueda reducir la eficacia del tambor para el uso a que esté destinado. Si para la fabricación de los cabezales se utiliza un material distinto de la madera compensada, tal material será de una calidad equivalente a la de la madera compensada.
+
+6.1.4..5.2 	La madera compensada que se utilice será de dos chapas como mínimo para el cuerpo y de tres, como mínimo, para los cabezales; las chapas estarán sólidamente unidas con un adhesivo resistente al agua y estarán colocadas de forma que las vetas de cada una sean perpendiculares a las de la anterior.
+
+6.1.4.5.3	El cuerpo, los cabezales del tambor y sus uniones serán de un diseño adecuado a la capacidad del tambor y al uso a que esté destinado.
+
+6.1.4.5.4	Para evitar las pérdidas de contenido por los intersticios, las tapas estarán forradas con papel kraft o con otro material equivalente que estará sólidamente fijado a la tapa y se extenderá al exterior en toda su periferia.
+
+                6.1.4.6 Barriles de madera
+
+Las siguientes disposiciones se aplican a los barriles con capacidad máxima de 250 litros y masa neta máxima de 400 kg, de los tipos:
+
+		2C1	Con tapón 
+		2C2	Cabezal  removible
+
+6.1.4.6.1	La madera utilizada será de buena calidad y fibras rectas, estará bien estacionada y no tendrá nudos, corteza, partes podridas, albura u otros defectos que puedan reducir la eficacia del barril para el uso a que esté destinado.
+
+6.1.4.6.2	El cuerpo y los cabezales serán de un diseño adecuado a la capacidad del barril  y el uso a que esté destinado
+
+6.1.4.6.3	Las duelas y los cabezales se serrarán o hendirán en el sentido de la fibra de manera que ningún anillo anual cubra más de la mitad del espesor de esas partes del barril.
+
+6.1.4.6.4	Los aros del barril serán de acero o hierro de buena calidad. Los aros de barriles  2C2 pueden ser de una madera dura apropiada.
+
+6.1.4.6.5	Barriles de madera 2C1: el diámetro de la perforación no deberá exceder a la mitad de anchura de la duela en que se encuentre.
+
+6.1.4.6.6	Barriles de madera 2C2: Los cabezales estarán bien ajustados en los jables.
+
+                6.1.4.7 Tambores de cartón
+
+Las siguientes disposiciones se aplican a los tambores con capacidad máxima de 450 litros y masa neta máxima de 400 kg, del tipo:
+
+			1G
+
+6.1.4.7.1	El cuerpo del tambor estará hecho de capas múltiples de papel de alto gramaje o de cartón (no ondulado) sólidamente encoladas o laminas juntas, y podrá tener una o varias capas protectoras de bitumen, papel kraft encerado, hoja metálica, plástico, etc.
+
+6.1.4.7.2	Los cabezales serán de madera natural, cartón, metal, madera compensada, plástico u otro material adecuado, y podrán tener una o varias capas protectoras de bitumen, papel  kraft encerado, hoja metálica, plástico, etc.
+
+6.1.4.7.3	El cuerpo, los cabezales del tambor y sus uniones serán de un diseño adecuado a la capacidad del tambor y al uso a que esté destinado.
+
+6.1.4.7.4     	El embalaje montado será suficientemente resistente al agua para que no se despeguen las capas en las condiciones normales de transporte.
+
+
+                6.1.4.8 Tambores y jerricanes de plástico
+
+Estas condiciones se aplican a:
+-	tambores de plástico con capacidad máxima de 450 litros y masa neta máxima de 450 kg, de los tipos:
+			1H1	tambores cabezal fijo
+		1H2	tambores cabezal  removible	
+				
+	-	jerricanes de plástico con capacidad máxima de 60 litros y masa máxima neta de 120 kg, de los tipos:
+			3H1	jerricanes cabezal fijo
+			3H2	jerricanes cabezal  removible
+
+6.1.4.8.1	El embalaje será de un plástico apropiado y tendrá una resistencia adecuada a su capacidad y al uso a que esté destinado. Salvo en el caso del material plástico reciclado tal como se define en la sección 1.2.1, no se podrá emplear ningún material ya utilizado, excepto los residuos de la producción o los materiales triturados de nuevo procedentes del mismo proceso de fabricación. El embalaje será suficientemente resistente al envejecimiento y al deterioro causado por la sustancia contenida o por la radiación ultravioleta.
+
+6.1.4.8.2	A menos que la autoridad  competente disponga otra cosa al respecto, el plazo de utilización para el transporte de mercancías peligrosas será de cinco años a contar de la fecha de fabricación del embalaje, a menos que se prescriba un plazo más breve a causa  de la naturaleza de las mercancías que haya de transportarse. Los embalajes fabricados con esos plásticos reciclados llevarán la indicación “REC” cerca del marcado prescrito en el párrafo 6.1.3.1.
+
+6.1.4.8.3	Para proteger, cuando sea necesario, los tambores o los jerricanes contra la radiación ultravioleta, se utilizarán  el negro de humo u otros pigmentos o inhibidores apropiados. Estos aditivos habrán de ser compatibles con el contenido y conservar su eficacia durante toda la vida útil del embalaje. Cuando se utilicen negro de humo, pigmentos o inhibidores distintos de los empleados para la fabricación del modelo probado, se podrá prescindir de la exigencia de nuevas pruebas si el contenido de negro de humo no excede del 2% de la masa o si el contenido de pigmento no excede del 3% de la masa; el contenido de inhibidores de la radiación ultravioleta no está limitado.
+
+6.1.4.8.4	Pueden entrar en la composición del plástico aditivos utilizados para fines distintos de la protección contra la radiación ultravioleta, siempre que no alteren las propiedades químicas y físicas del material del embalaje. En tal caso, se puede prescindir de la exigencia de nuevas pruebas.
+
+6.1.4.8.5	El espesor de la pared en cada uno de los puntos del embalaje será apropiado a su capacidad y al uso a que esté destinado, habida cuenta de los esfuerzos a que pueda estar expuesto cada punto.
+
+6.1.4.8.6	Las aberturas de llenado, de vaciado y de ventilación existentes en el cuerpo, en los cabezales de los tambores de cabezal fijo (1H1) y de los jerricanes de cabezal fijo (3H1) no tendrán más de 7 cm de diámetro. Los tambores y jerricanes provistos de aberturas mayores se consideran del tipo de cabezal  removible (1H2 y 3H2). Los cierres de las aberturas existentes en el cuerpo, en los cabezales de los tambores y de los jerricanes estarán diseñados e instalados de manera que permanezcan fijos y estancos en las condiciones normales de transporte. Los cierres estarán provistos de juntas o de otros elementos de estanquidad, a menos que sean estancos de por sí.
+
+6.1.4.8.7	Los dispositivos de cierre de los tambores de cabezal  removible y jerricanes de cabezal removible estarán diseñados e instalados de manera que permanezcan fijos y estancos en las condiciones normales de transporte. Todos los cabezales removibles estarán provistos de juntas, a menos que el diseño del tambor o del jerricán sea tal que cuando el cabezal removible  esté debidamente fijo al tambor o al jerricán sean inherentemente estancos.
+
+
+
+                6.1.4.9 Cajas de madera natural
+
+Estas condiciones se aplican a las siguientes cajas de madera natural, con masa neta máxima de 400 kg:
+
+		4C1	comunes
+		4C2	de paredes estancas a prueba de polvo
+
+6.1.4.9.1	La madera utilizada estará bien estacionada, comercialmente seca y libre de defectos que pueden reducir sensiblemente la resistencia de cada parte de la caja. La resistencia del material utilizado y el método de construcción serán adecuados a la capacidad de la caja y al uso a que esté destinada. La parte superior y el fondo pueden ser de madera reconstituida resistente al agua, por ejemplo de tableros de madera prensada o de partículas, u otros tipos apropiados.
+
+6.1.4.9.2	Las fijaciones resistirán las vibraciones que experimenta en las condiciones normales de transporte. Se evitará en lo posible clavar los extremos de las cajas en el sentido de la fibra. Las uniones que puedan estar sometidas a tensiones elevadas se harán con clavos remachados, clavos de vástago anular o medios de fijación equivalentes.
+
+6.1.4.9.3	Cajas 4C2: Cada parte será de una sola pieza o equivalente a una sola pieza. Se considera que las partes son equivalentes a una sola pieza cuando se ensamblan por encolado según los métodos siguientes: ensamble (Lindermann), unión machihembrada, unión de solapa y unión de encastre o unión a tope, con por lo menos, dos broches de metal ondulados en cada junta.
+ 
+	
+                6.1.4.10 Cajas de madera compensada
+
+Estas condiciones se aplican a las siguientes cajas de madera compensada, con masa neta máxima de 400 kg:
+
+		4D
+
+6.1.4.10.1	La madera compensada que se utilice será de tres chapas como mínimo. Deberán ser cortadas o aserradas o debobinadas de rollos bien estacionados, comercialmente secas,  carecerá de defectos que pueden reducir sensiblemente la resistencia de la caja. La resistencia del material utilizado y el método de construcción serán adecuados a la capacidad de la caja y al uso a que esté destinada. Todas las chapas adyacentes estarán unidas con un adhesivo resistente al agua. Para la fabricación de las cajas se pueden utilizar, junto con madera compensada, otros materiales apropiados. Las cajas estarán firmemente clavados o se fijarán de otro modo a los montantes de esquina o a los extremos o estarán ensamblados mediante otros dispositivos igualmente apropiados.
+
+                6.1.4.11 Caja de madera reconstituida
+
+Estas condiciones se aplican a las siguientes cajas de madera reconstituida, con masa neta máxima de 400 kg:
+
+		4F
+
+6.1.4.11.1	Las paredes de las cajas serán de madera reconstituida resistente al agua, por ejemplo hardboard  (paneles de fibra de madera), madera aglomerada o de otros tipos apropiados. La resistencia del material utilizado y el método de construcción habrán de ser adecuados a la capacidad de la caja y al uso a que esté destinada.
+
+6.1.4.11.2	Las demás partes de las cajas pueden estar hechas de otros materiales apropiados.
+
+6.1.4.11.3	Las cajas estarán sólidamente ensambladas mediante dispositivos apropiados
+
+
+                6.1.4.12 Cajas de cartón
+
+Estas condiciones se aplican a las siguientes cajas de cartón, con masa neta máxima de 400 kg:
+
+		4G
+
+6.1.4.12.1	Se utilizará un cartón fuerte y de buena calidad, compacto o cartón corrugado de pared simple o múltiple, adecuado a la capacidad de la caja y al uso a que esté destinada. La resistencia de la superficie exterior al agua será tal que el aumento de la masa, medido en una prueba de determinación de la absorción de agua de una duración de 30 minutos por el método de Cobb, no sea de más de 155 g/m2 (véase ISO 535). El cartón tendrá la aptitud apropiada para doblarse sin romperse. El cartón estará recortado, doblado sin desgarramientos y ranurado de forma que pueda ensamblarse sin fisuras, roturas en la superficie o flexiones excesivas. El papel onda del cartón corrugado deberá estar firmemente encolado a los liners (papel capa).
+
+6.1.4.12.2	Los extremos de las cajas pueden tener un marco de madera o ser totalmente de madera u otro material adecuado. Se puede utilizar como refuerzo listones de madera o de otro material adecuado.
+
+6.1.4.12.3	Las juntas de fabricación en los cuerpos de las cajas se harán mediante cinta adhesiva o superponiendo los bordes y encolándolos, o superponiendo los bordes y cosiéndolos con grapas metálicas. Las partes superpuestas de las uniones serán suficientemente anchas.
+
+6.1.4.12.4	Cuando el cierre se haga por encolado o con cinta adhesiva, se deberá usar un adhesivo resistente al agua.
+
+6.1.4.12.5	Las cajas estarán diseñadas de modo que el contenido quede bien ajustado en su interior.
+
+
+                6.1.4.13 Caja de plástico
+
+Estas disposiciones se aplican a las cajas de plástico siguientes:
+
+		4H1	caja de plástico expandido con masa neta máxima de 60 kg;
+		4H2	caja de plástico sólido con masa neta máxima de 400 kg.
+
+6.1.4.13.1	Las cajas serán de un plástico apropiado y tendrán una resistencia adecuada a su capacidad y al uso a que estén destinadas. Serán suficientemente resistentes al envejecimiento y al deterioro causado por la mercancía  contenida o por la radiación ultravioleta.
+
+6.1.4.13.2	Las cajas de plástico expandido tendrán dos partes de plástico expandido moldeado: una parte inferior que tenga cavidades para los embalajes interiores, y una parte superior que cubra la parte inferior y encaje en ella. Las partes superior e inferior estarán diseñadas de forma que los embalajes interiores queden sujetos entre ellas sin juego. Los tapones de los embalajes interiores no estarán en contacto con la superficie interna de la parte  superior de la caja.
+
+6.1.4.13.3	Para su expedición, las cajas de plástico expandido se cerrarán con una cinta autoadhesiva que tenga suficiente resistencia a la tracción para impedir que la caja se abra. La cinta autoadhesiva será resistente a la intemperie, y sus productos adhesivos serán compatibles con el plástico expandido de la caja. Podrán utilizarse otros sistemas de cierre que tengan una eficacia al menos igual.
+
+6.1.4.13.4	Para proteger, cuando sea necesario, las cajas de plástico sólido contra la radiación ultravioleta se utilizarán el negro de humo u otros pigmentos o inhibidores apropiados. Estos aditivos habrán de ser compatibles con el contenido y conservar su eficacia durante toda la vida útil de la caja. Cuando se utilice negro de humo, pigmentos o inhibidores distintos de los empleados para la fabricación del modelo probado, se podrá prescindir de la exigencia de nuevas pruebas si el contenido de negro de humo no excede del 2% de la masa o si el contenido de pigmentos no excede del 3% de la masa; el contenido de inhibidores de la radiación ultravioleta no está limitado.
+
+6.1.4.13.5	Pueden entrar en la composición del plástico aditivos utilizados para fines distintos de la protección contra la radiación ultravioleta, siempre que no alteren las propiedades químicas y físicas del material de la caja. En tal caso, se puede prescindir de la exigencia de nuevas pruebas.
+
+6.1.4.13.6	Las cajas de plástico sólido tendrán dispositivos de cierre hechos de un material apropiado, suficientemente resistente y diseñado de manera que se impida toda apertura no intencionada.
+
+
+	
+6.1.4.14	Cajas de acero o de aluminio
+
+Estas disposiciones se aplican a las siguientes cajas de acero o de aluminio con masa neta máxima de 400 kg:
+
+		4A	de acero
+		4 B	de aluminio
+
+6.1.4.14.1 	La resistencia del metal y la construcción de la caja habrán de ser adecuados a la capacidad de éste y al uso a que esté destinada.
+
+6.1.4.14.2	Las cajas estarán recubiertas interiormente de cartón o fieltro amortiguadores o estarán provistas de un forro o revestimiento interior de un material apropiado, según se requiera. Si se utiliza un forro metálico de doble costura, se tomarán medidas para impedir la penetración de sustancias, en particular de explosivos, en los intersticios de las costuras.
+
+6.1.4.14.3	Los cierres pueden ser de cualquier tipo apropiado; deberán permanecer asegurados bajo las condiciones normales de transporte.
+
+
+                6.1.4.15 Bolsas textiles
+
+Estas disposiciones se aplican a las siguientes bolsas textiles con masa neta máxima de 50 kg:
+
+		5L1	sin forro ni revestimiento interiores
+		5L2	estancos a prueba de polvo
+		5L3 	resistentes al agua
+
+6.1.4.15.1	Las materias textiles que se utilicen serán de buena calidad. La resistencia de la tela y la confección de la bolsa serán adecuadas a la capacidad de éste y al uso a que esté destinado.
+
+6.1.4.15.2	Bolsas herméticas al polvo 5L2: la bolsa debe ser hermética al polvo,  por ejemplo, con la utilización de:
+
+	a)	Papel pegado a la superficie interna de la bolsa con un adhesivo resistente al agua tal como el bitumen, o
+
+	b)	Una película de plástico pegada a la superficie interna de la bolsa, o
+
+	c)	Uno o varios forros interiores de papel o de plástico.
+
+
+6.1.4.15.3	Bolsas resistentes al agua 5L3: para impedir la entrada de humedad se impermeabilizará la bolsa utilizando, por ejemplo:
+
+		a)	Forros interiores separados de papel resistente al agua (por ejemplo, de papel kraft encerado, de papel bituminado o de papel kraft revestido de plástico), o
+
+		b)	Una película de plástico pegada a la superficie interna de la bolsa, o
+
+		c)	Uno o varios forros interiores de plástico.
+
+
+
+
+                6.1.4.16 Bolsas de tejidos de plástico
+
+Estas disposiciones se aplican a las siguientes bolsas de tejidos de plástico con masa neta máxima de 50 kg:
+
+		5H1	sin forro ni revestimiento interiores
+		5H2	estancos a  prueba de polvos (herméticas al polvo)
+		5H3	resistentes al agua
+
+6.1.4.16.1	Las bolsas se confeccionarán con cintas o monofilamentos estirados de un plástico apropiado. La resistencia del material que se utilice y la confección de la bolsa habrán de  ser adecuadas a la capacidad de éste y al uso a que esté destinado.
+
+6.1.4.16.2	Si el tejido es plano, las bolsas se confeccionarán cosiendo o cerrando por otro método el fondo y uno de los lados. Si el tejido es tubular, se cerrará el fondo de las bolsas cosiéndolo, tejiéndolo o por otro método de cierre que permita obtener una resistencia equivalente.
+
+6.1.4.16.3	Bolsas estancas a prueba de polvos (herméticas al polvo) 5H2: para que la bolsa sea hermética al polvo se utilizará, por ejemplo:
+
+		a)	Papel o una película de plástico pegado a la superficie interna de la
+bolsa, o
+
+		b)	uno o varios forros interiores separados, de papel o de plástico.
+
+6.1.4.16.4	Bolsas resistentes al agua 5H3: para impedir la entrada de humedad se impermeabilizará la bolsa utilizando, por ejemplo:
+
+                       a)	Forros interiores separados de papel resistentes al agua (por ejemplo, de papel kraft encerado, de papel kraft de doble bituminado o de papel kraft revestido de plástico), o
+
+		b)	Una película de plástico pegada a la superficie interna o externa de
+la bolsa, o
+
+		c)	Uno o varios forros interiores de plástico.
+
+
+
+6.1.4.17	Bolsas de película de plástico
+
+Estas disposiciones se aplican a las siguientes bolsas de película de plástico con masa neta máxima de 50 kg:
+
+		5H4
+
+6.1.4.17.1	Las bolsas serán de un plástico apropiado. La resistencia del material utilizado y la confección de la bolsa serán adecuadas a la capacidad de ésta y al uso a que esté destinado. Las uniones y los cierres deberán de resistir las presiones y los choques que la bolsa pueda sufrir en las condiciones normales de transporte.
+
+                6.1.4.18 Bolsas de papel
+
+Estas disposiciones se aplican a las siguientes bolsas de papel con masa neta máxima de 50 kg:
+
+		5M1    multipliego
+		5M2    multipliego, resistentes al agua
+
+6.1.4.18.1	Las bolsas serán de papel kraft apropiado o de un papel equivalente con al menos tres pliegos. La resistencia del papel y la confección de la bolsa serán adecuadas a la capacidad de éste y al uso a que esté destinado. Las uniones y los cierres deberán de ser estancos a prueba de polvos (herméticas al polvo).
+
+6.1.4.18.2	Bolsas 5M2: para impedir la entrada de humedad, las bolsas de cuatro pliegos o más se impermeabilizan utilizando un pliego resistente al agua como uno de los dos pliegos exteriores, o una capa resistente al agua, hecha de un material de protección apropiado, entre los dos pliegos exteriores; las bolsas de tres pliegos se impermeabilizarán utilizando un pliego resistente al agua como pliego exterior. Si hay peligro de que la mercancía contenida reaccione con la humedad o si dicha mercancía se embala en estado húmedo, se colocarán también en contacto con la mercancía un pliego o una capa impermeable, por ejemplo de papel kraft de doble bituminado o de papel kraft revestido de plástico, o una película de plástico  pegada a la superficie interior de la bolsa o uno o varios forros interiores de plástico. Las uniones y los cierres serán impermeables al agua.
+
+
+6.1.4.19	Embalajes compuestos (recipientes interiores de plástico)
+
+Estas condiciones se aplican a los siguientes embalajes compuestos con recipiente interior de material plástico:
+
+
+CÓDIGO
+
+EMBALAJE
+EXTERIOR
+
+CAPACIDAD  MÁXIMA DEL RECIPIENTE INTERIOR (litro)
+
+MASA NETA
+MÁXIMA DEL RECI-PIENTE INTERIOR (kg)
+6HA1
+6HA2
+6HB1
+6HB2
+6HC
+6HD1
+6HD2
+6HG1
+6HG2
+6HH1
+6HH2
+
+tambor de acero
+jaula o caja de acero
+tambor de aluminio
+jaula o caja de aluminio
+caja de madera
+tambor de madera compensada
+caja de madera compensada
+tambor de cartón
+caja de cartón
+tambor de plástico
+caja de plástico sólido (incluye corrugado plástico)
+250
+60
+250
+60
+60
+250
+60
+250
+60
+250
+60
+
+400
+75
+400
+75
+75
+400
+75
+400
+75
+400
+75
+
+
+6.1.4.19.1.	Recipiente interior
+
+6.1.4.19.1.1	Los requerimientos de los párrafos 6.1.4.8.1 y 6.1.4.8.4 a 6.1.4.8.7 se aplican a los recipientes interiores de plástico.
+
+6.1.4.19.1.2	El recipiente interior de plástico se ajustará perfectamente en el embalaje exterior, el cual no deberá tener ninguna aspereza que pueda provocar una abrasión del plástico.
+
+                    6.1.4.19.2 Embalaje exterior
+
+Para la construcción del embalaje exterior se aplicarán las disposiciones enunciadas en la tabla siguiente:
+
+
+CÓDIGO
+
+
+NÚMERO DE LA DISPOSICIÓN APLICABLE
+
+6HA1
+6HA2
+6HB1
+6HB2
+6HC
+6HD1
+6HD2
+6HG1
+6HG2
+6HH1
+6HH2
+6.1.4.1
+6.1.4.14
+6.1.4.2
+6.1.4.14
+6.1.4.9
+6.1.4.5
+6.1.4.10
+6.1.4.7.1 a 6.1.4.7.4
+6.1.4.12
+6.1.4.8.1 y 6.1.4.8.3 a 6.1.4.8.7
+6.1.4.13.1 y 6.1.4.13.4 a 6.1.4.13.6
+
+
+                6.1.4.20 Embalajes compuestos (recipientes interiores de vidrio, porcelana o gres)
+
+Estas condiciones son aplicables a los siguientes embalajes compuestos, con recipientes interiores de vidrio, porcelana o gres, con capacidad máxima de 60 litros y masa neta máxima de 75 kg:
+
+CÓDIGO
+
+
+EMBALAJE EXTERIOR
+6PA1
+6PA2
+6PB1
+6PB2
+6PC
+6PD1
+6PD2
+6PG1
+6PG2
+6PH1
+6PH2
+tambor de acero
+jaula o caja de acero
+tambor de aluminio
+jaula o caja de aluminio
+caja de madera
+tambor de madera compensada
+jaula o canasto de mimbre
+tambor de cartón
+caja de cartón
+de plástico expandido
+de plástico sólido
+
+6.1.4.20.1	Recipiente interior
+
+6.1.4.20.1.1	Los recipientes serán de forma apropiada (cilíndrica o periforme) y de material de buena calidad, libre de todo defecto que pueda reducir su resistencia. Las paredes tendrán un grosor suficiente en todos los puntos.
+
+6.1.4.20.1.2	Como cierres de los recipientes se utilizarán cierres de plástico roscados, tapones de vidrio esmerilado u otros cierres que sean al menos igualmente eficaces. Todas las partes de los cierres que puedan entrar en contacto con el contenido del recipiente serán resistentes a ese contenido. Se cuidará de que los cierres estén montados de manera que sean estancos y de que estén bien sujetos para que no se aflojen durante el transporte. Si es necesario utilizar cierres provistos de un orificio de ventilación, tales cierres habrán de ser conformes a lo prescrito en el párrafo 4.1.1.8.
+
+6.1.4.20.1.3	El recipiente estará bien sujeto en el embalaje exterior mediante materiales amortiguadores y/o absorbentes.
+
+6.1.4.20.2     Embalaje exterior
+
+		Para los embalajes exteriores se aplicarán las siguientes disposiciones:
+
+
+CÓDIGO
+
+
+DISPOSICIÓN APLICABLE
+
+OBSERVACIONES
+6PA1
+6PA2
+6PB1
+6PB2
+6PC
+6PD1
+6PD2
+6PG1
+6PG2
+6PH1 y 6PH2
+6.1.4.1
+6.1.4.14
+6.1.4.2
+6.1.4.14
+6.1.4.9
+6.1.4.5
+–
+6.1.4.7.1 a 6.1.4.7.4
+6.1.4.12
+6.1.4.13
+(1)
+(2)
+
+
+
+
+(3)
+
+
+(4)
+    (1) La tapa removible puede ser del tipo de encaje a presión.
+    (2) Para los recipientes cilíndricos, cuando se colocan verticales, el embalaje exterior deberá terminar por arriba del recipiente y sus cierres. Si la jaula circunda un recipiente periforme y tiene un formato compatible el embalaje exterior deberá estar equipado con una cubierta protectora tipo de encaje a presión.
+    (3) Las jaulas o canastos de mimbre deberán estar adecuadamente confeccionadas con material de buena calidad y equipado con una cobertura protectora que prevenga daños al recipiente.
+    (4) Los embalajes de plástico deberán fabricarse con polietileno de alta densidad u otro material plástico equivalente. La tapa removible para este tipo de embalaje puede ser del tipo de encaje a presión.
+
+
+
+6.1.5	Requerimientos relacionados a los ensayos  de los embalajes
+
+
+6.1.5.1	Realización y frecuencia de los ensayos
+
+6.1.5.1.1	Cada modelo de embalaje será sometido a los ensayos de la sección 6.1.5, siguiendo los procedimientos establecidos  por la autoridad competente.
+
+6.1.5.1.2	Cada  modelo de embalaje,  antes de ser utilizado, habrá superado los ensayos. Cada modelo de embalaje se define por su diseño, su tamaño, los materiales utilizados y su espesor, su modelo de construcción  y su sujeción, pero puede también incluir diversos tratamientos de superficie. Asimismo incluye los embalajes que no difieran del modelo más que por su menor altura de diseño.
+
+6.1.5.1.3	Los ensayos se repetirán  con muestras fabricadas en serie, con la periodicidad que determine la autoridad competente. Cuando se someten a ensayos de embalajes de papel o de cartón, la preparación en las condiciones ambientales se considera equivalente  a la que se prescribe en el párrafo 6.1.5.2.3.
+
+6.1.5.1.4	Los ensayos se repetirán también después de cada modificación que altere el diseño, el material o el modo de construcción de un embalaje.
+   
+6.1.5.1.5	La autoridad competente puede permitir que se sometan a ensayos selectivos los embalajes que no difieren más que en puntos menores con respecto a un modelo ya probado; por ejemplo; los embalajes que contengan embalajes  interiores más pequeños o envases interiores de menor masa neta, así como los embalajes tales como tambores, bolsas y cajas que tengan una o varias dimensiones exteriores ligeramente menores.
+
+6.1.5.1.6	Si el embalaje exterior de un embalaje combinado ha superado las pruebas con diferentes tipos de embalajes interiores, pueden ser colocados dentro de ese embalaje exterior diversas combinaciones de tales embalajes interiores. Además, por lo que se refiere a éstos, y a condición de que se mantenga un grado de resistencia equivalente, se admiten las siguientes variaciones de embalajes interiores, sin necesidad de someter el bulto a nuevos ensayos:
+
+a)	Podrán utilizarse embalajes interiores de tamaño equivalente o menor si:
+
+i)	Son de características similares a las de los embalajes interiores sometidos a los ensayos (por ejemplo, en la forma: redonda, rectangular, etc.);
+
+ii)	el material de que están construidos (vidrio, plástico, metal, etc.) ofrece igual o superior resistencias a los choques y las cargas de apilamiento que los envases interiores sometidos a las pruebas originalmente;
+
+iii)	tienen aberturas de igual dimensiones o menores, y el cierre es de características similares (por ejemplo, tapa roscada, de ajuste forzado, etc.)
+
+iv)	se añade material amortiguador en cantidad suficiente para ocupar los espacios vacíos e impedir que se muevan apreciablemente los embalajes interiores;
+			
+v)	su posición en el interior del embalaje exterior es la misma que en el bulto sometido a las pruebas.
+
+b)	Podrá utilizarse un número menor de los embalajes interiores sometidos a los ensayos, o un menor número de los tipos opcionales definidos en el apartado a) de este párrafo, a condición de que se añada material amortiguador en cantidad suficiente para llenar el espacio o los espacios vacíos e impedir que los embalajes interiores se muevan apreciablemente.
+
+6.1.5.1.7	Podrán agruparse y transportarse en un embalaje exterior objetos o embalaje interiores de cualquier tipo, para sustancias sólidas o líquidas, sin haberlos sometido previamente a los ensayos, si satisfacen las condiciones siguientes:
+
+		a)	El embalaje exterior ha superado el ensayo de la subsección 6.1.5.3 con embalajes interiores frágiles (por ejemplo, de vidrio) que contienen líquidos, y con la altura de caída correspondiente al grupo de embalaje  I;
+
+		b)	La masa bruta conjunta de los embalajes interiores no excede de la mitad de la masa bruta de los embalajes interiores utilizados en el ensayo de caída mencionada en el apartado a);
+
+		c)	El material amortiguador colocado entre los embalajes interiores y entre éstos y el exterior del embalaje no debe tener menos espesor que el utilizado en el embalaje sometido al ensayo superado; y, en el supuesto de que en ésta se haya utilizado un solo embalaje interior, el material amortiguador colocado entre los envases interiores no tienen menos espesor que el  que se colocó entre el exterior del embalaje y el embalaje interior en dicho ensayo. Si es menor el número de embalajes  interiores, o si éstos son más pequeños (en comparación con los utilizados en el ensayo de caída), se añadirá material amortiguador en cantidad suficiente para llenar los espacios vacíos;
+
+		d)	El embalaje exterior, vacío, ha superado, el ensayo de apilamiento de la subsección 6.1.5.6. La masa total de bultos idénticos estarán en función de la masa conjunta de los embalajes interiores utilizados en el ensayo de caída mencionada en el apartado a);
+
+		e)	Los embalajes interiores que contienen líquidos van completamente rodeados de un material absorbente en cantidad suficiente para retener la totalidad del contenido líquido;
+
+		f)	Si el embalaje exterior está destinado a contener embalajes interiores para líquidos y no es estanco, o si  está destinado a contener envases interiores para sólidos y no es hermético al polvo, se utiliza, en previsión de derrames, algún medio de contención  de la sustancia líquida o sólida, como un forro interior estanco, un saco de plástico o cualquier otro medio de igual eficacia. Si se trata de embalajes que contienen líquidos, el material absorbente requerido en el apartado e) se colocará en el interior del recipiente que contenga el líquido;
+
+		g)	Los embalajes llevan el marcado prescritos en la sección 6.1.3  para indicar que han superado el ensayo de idoneidad del grupo de embalaje I correspondientes a los envases combinados. La masa bruta marcada, en kilogramos, será equivalente a la suma de la masa del embalaje exterior y la mitad de la masa del embalaje o los embalajes interiores utilizados en el ensayo de caída  al que se refiere al apartado a). Esa marca de embalaje contendrá también la letra “V” , según se indica en la subsección 6.1.2.4
+
+6.1.5.1.8	La autoridad competente puede en todo momento pedir que se demuestre, mediante la ejecución de los ensayos indicados en esta sección, que los embalajes producidos en serie satisfacen los mismos requisitos que el modelo sometido a ensayo.
+
+6.1.5.1.9	Si por razones de seguridad se necesita un tratamiento o un revestimiento interiores, éste habrá de conservar sus propiedades de protección incluso después de los ensayos.
+
+6.1.5.1.10	Pueden efectuarse varios ensayos con una misma muestra, siempre y cuando la validez de los resultados de los ensayos no quede afectada por ello y se cuente con la aprobación de la autoridad competente.
+
+6.1.5.1.11	Embalajes de socorro
+
+	Los embalajes de socorro (véase la sección 1.2.1) se someterán a los ensayos y llevarán el marcado prescritos en las disposiciones aplicables a los embalajes del grupo de embalaje II destinados al transporte de sólidos o de embalajes  interiores, salvo que:
+
+	a)	La sustancia utilizada para ejecutar los ensayos será el agua y los embalajes se llenarán por lo menos hasta el 98% de su capacidad. Pueden añadirse, por ejemplo, bolsas de granalla de plomo a fin de obtener la masa total del bulto precisada, a condición  de que esas bolsas se coloquen de modo que los resultados de los ensayos  no varíen. En la ejecución del ensayo de caída también puede variarse la altura de caída con arreglo a las disposiciones del apartado b) del párrafo 6.1.5.3.4;
+
+	b)	Los embalajes habrán superado, además, el ensayo de estanqueidad a 30 kPa y los resultados de esa prueba figurarán en el informe que exige el párrafo 6.1.5.8;	
+	
+	c)	Los embalajes llevarán la marca “T”, como se especifica en el párrafo 6.1.2.4.
+
+6.1.5.2	Preparación de los embalajes para los ensayos.
+
+6.1.5.2.1	Los ensayos se realizarán con embalajes preparados para el transporte, incluidos, por lo que se refiere a los combinados, los embalajes interiores que vayan a utilizarse efectivamente. Los recipientes o embalajes interiores o únicos se llenarán, por lo menos, hasta el 98% de su capacidad en el caso de los líquidos y hasta el 95% en el caso de los sólidos. Con respecto a los embalajes combinados en los que el embalaje interior esté destinado a llevar líquido y sólido, se efectuarán pruebas por separado con ambos tipos de contenidos. Las sustancias u objetos que vayan a transportarse en los embalajes podrán sustituirse por otras sustancias u objetos, salvo que ello suponga desvirtuar los resultados de los ensayos. En el caso de los sólidos, la sustancia sustitutiva que se utilice habrá de tener las mismas características físicas (masa, granulometría, etc.) que la sustancia que se vaya a transportar. Se pueden utilizar cargas adicionales, como bolsas de granalla de plomo, para que el bulto alcance la masa total requerida, a condición de que se coloquen de manera que no se falseen los resultados de la prueba.
+
+6.1.5.2.2		En las pruebas de caída relativas a líquidos, cuando se utilice otra sustancia, éste tendrá una densidad relativa y una viscosidad similares a las de las sustancias que hayan de transportarse. En los ensayos de caídas relativas a líquidos también se puede utilizar agua, en las condiciones indicadas en el párrafo 6.1.5.3.4
+
+6.1.5.2.3		Los embalajes de papel o de cartón serán acondicionados durante al menos 24 horas en una atmósfera que tenga temperatura y humedad relativa controladas. Habrá que optar por una de tres posibilidades. La atmósfera que se considera preferible para ese acondicionamiento es de una temperatura de 23° C + 2 °C y una humedad relativa del 50% + 2%. Las otras dos posibilidades son de una temperatura de 20 ° C + 2° C y una humedad relativa del 65% + 2% o de una temperatura de 27° C + 2° C y una humedad relativa del 65% + 2%.
+
+Nota:	Los valores medios no rebasarán los límites indicados. Las fluctuaciones de corta duración y las limitaciones a que está sujeta la medición pueden  hacer que ésta registre en algunos casos variaciones de la humedad relativa de hasta + 5% sin menoscabo apreciable de la reproducibilidad de los resultados de los ensayos.
+		
+6.1.5.2.4		Los barriles de madera natural del tipo de bitoque habrán permanecido llenos de agua durante al menos 24 horas antes de los ensayos.
+
+6.1.5.2.5		Se deberán tomar medidas para cerciorarse de que el plástico utilizado para la fabricación de los tambores y jerricanes de plástico y de los embalajes compuestos (plásticos)  cumplen los requisitos establecidos en los párrafos 6.1.1.2, 6.1.4.8.1 y 6.1.4.8.4. Al tal efecto se pueden someter unas muestras de recipientes o de embalajes a un ensayo  preliminar de larga duración, por ejemplo de seis meses durante los cuales esas muestras permanecen llenas de las sustancias que vayan a contener, después de la cual se realizarán los ensayos descritos en las subsecciones 6.1.5.3 a 6.1.5.6. En el caso de las sustancias que pueden dar lugar a fisuras por tensión o a un debilitamiento de los tambores o jerricanes de plástico, la muestra, llena de tal sustancia o de otra sustancia de la que se sepa que tiene un efecto de fisuración por tensión al menos igual sobre el plástico de que se trate, se someterá a una carga superpuesta equivalente a la masa total de los bultos idénticos que podrían apilarse sobre ella durante el transporte. La altura mínimo de la pila, incluida la muestra sometida a la prueba, será de 3 metros.
+
+6.1.5.3 	Ensayo de caída
+
+6.1.5.3.1		Número de muestras para el ensayo (por tipo de construcción y por fabricante) y orientación de la muestra para la caída.
+
+		En los ensayos distintos de las caídas de plano, el centro de gravedad habrá de encontrarse en la vertical del punto de impacto.
+
+		Si para determinado ensayo de caída son posibles diversas orientaciones, se elegirá la orientación en la que más probable sea que el embalaje no supere el ensayo.
+
+
+Embalaje
+Número de muestras
+para el ensayo
+Orientación de la muestra
+para la caída
+Tambores de acero
+Tambores de aluminio
+Tambores de metal distinto del acero o de aluminio
+Jerricanes de acero
+Jerricanes de aluminio
+Tambores  de madera
+compensada
+Barriles de madera
+Tambores de cartón
+Tambores y jerricanes de plástico
+Embalajes compuesto en forma de tambor 
+
+
+
+
+
+Seis
+(tres para cada caída)
+Primera caída (con tres muestras): el embalaje golpeará la superficie de caída diagonalmente con el reborde o, si no tiene reborde, con una costura de la periferia o con un borde.
+Segunda caída (con las otras tres muestras): el embalaje golpeará la superficie de caída con la parte más débil no probada en la primera caída, por ejemplo un cierre o, en el caso de algunos tambores cilíndricos, la costura longitudinal soldada del cuerpo.
+Cajas de madera  natural
+Cajas de madera compensada
+Cajas de madera reconstituida
+Cajas de cartón         
+Cajas de plástico
+Cajas de acero o de aluminio
+Embalajes compuestos en forma de caja        
+
+
+
+
+
+Cinco
+(una para cada caída)
+
+Primera caída: de plano sobre el fondo
+Segunda caída: de plano sobre la parte superior
+Tercera caída: de plano sobre una de las paredes laterales más largas
+Cuarta caída: de plano sobre una de las paredes laterales más cortas
+Quinta caída: sobre una esquina
+Bolsas de un solo pliego, con costura lateral
+
+
+Tres
+(tres caídas por bolsa)
+
+
+
+
+
+Primera caída: de plano sobre una cara ancha
+Segunda caída: de plano sobre una cara estrecha
+Tercera caída: sobre un extremo de la bolsa.
+Bolsas de un solo pliego, sin costura lateral, o multipliego
+Dos
+(dos caídas por bolsa)
+Primera caída: de plano sobre una cara ancha
+Segunda caída: sobre un extremo de la bolsa
+
+6.1.5.3.2		Preparación especial de las muestras para la prueba de caída
+
+		La temperatura de las muestras y de sus contenidos se reducirá a –18°C, o menos para el ensayo de los siguientes embalajes:
+
+		a)	Tambores de plástico (véase la subsección 6.1.4.8);
+
+		b)	Jerricanes de plástico (véase la subsección 6.1.4.8);
+
+	c)	Cajas de plástico que no sean de plástico expandido (véase la subsección 6.1.4.13
+
+		d)	Embalajes compuestos (de plástico) (véase la subsección 6.1.4.19);
+
+		e)	Embalaje combinado con embalaje interiores de plástico que no sean bolsas de plástico destinados a contener sólidos u objetos.
+
+		Si las muestras de pruebas se han preparado de esta manera se puede prescindir del acondicionamiento previsto en el párrafo 6.1.5.2.3. De ser necesario, los líquidos que se utilicen para la prueba se mantendrán en estado líquido añadiendo anticongelante.
+
+6.1.5.3.3		Superficie de caída.
+
+		La caída se hará sobre una superficie rígida, no elástica, plana y horizontal.
+
+6.1.5.3.4		Altura de caída
+
+		En el caso de los sólidos y de los líquidos, si el ensayo se hace con el sólido o el líquido que haya de transportarse o con otra sustancia que tenga esencialmente las mismas características físicas:
+
+		
+Grupo de
+embalaje I
+
+Grupo de
+embalaje II
+Grupo de
+embalaje III
+1,8 m
+
+1,2 m
+0,8 m
+
+
+En el caso de los líquidos, si el ensayo se hace con agua:
+
+a)	Si la sustancia que haya de transportarse tiene una densidad relativa no superior 
+	a 1,2:
+
+
+Grupo de
+embalaje I
+
+Grupo de
+embalaje II
+Grupo de
+embalaje III
+1,8 m
+
+1,2 m
+0,8 m
+
+
+b)	Si la sustancia que haya de transportarse tiene una densidad relativa superior a 1,2, la altura de caída se calculará en función de la densidad relativa (d) de la sustancia que haya de transportarse, redondeada al primer decimal, de la siguiente forma:
+
+Grupo de
+embalaje I
+Grupo de
+embalaje II
+Grupo de
+embalaje III
+d x 1,5 (m)
+d x 1,0 (m)
+
+d x 0,67 (m)
+
+
+6.1.5.3.5		Criterios de superación del ensayo
+
+6.1.5.3.5.1	Cada embalaje que contenga líquido habrá de ser estanco una vez que se hayan equilibrado la presión interna y la presión externa, excepto en el caso de los embalajes interiores de los embalajes combinados, en el que no es necesario que las presiones estén igualadas.
+
+6.1.5.3.5.2	En el caso de un embalaje para sólidos que ha sido sometido a un ensayo de caída y ha chocado contra la superficie de caída con  su cara superior, se considera que la muestra ha superado la prueba si la totalidad del contenido queda retenida por un embalaje interior o por un recipiente interior (por ejemplo, una bolsa de plástico), incluso si el cierre ha dejado de ser hermético al polvo.
+
+6.1.5.3.5.3	El embalaje o el embalaje exterior de un embalaje compuesto o combinado no presentará ningún deterioro que pueda afectar a la seguridad durante el transporte. No habrá ningún escape de la sustancia contenida en el recipiente interior o en los embalajes interiores.
+
+6.1.5.3.5.4	Ni el pliego exterior de una bolsa ni un embalaje exterior presentará ningún deterioro que pueda afectar a la seguridad durante el transporte.
+
+6.1.5.3.5.5	Un ligero escape por el cierre o los cierres en el momento del impacto, no se atribuirá a deficiencia del embalaje, siempre que no hayan otros escapes.
+
+6.1.5.3.5.6	En el caso de los embalajes de las mercancías de la clase 1 no habrá de producirse ninguna rotura que ocasione el derrame de sustancias u objetos explosivos sueltos a través del embalaje exterior.
+
+6.1.5.4	Ensayo de estanqueidad
+
+	Se someterán al ensayo de estanqueidad todos los modelos tipo de embalajes destinados al transporte de líquidos; sin embargo; no es necesario este ensayo para los embalajes interiores de embalajes  combinados.
+
+6.1.5.4.1		Número de muestra: tres muestras por modelo y por fabricante.
+
+6.1.5.4.2		Preparación especial de las muestras para el ensayo: si los cierres están provistos de orificios de ventilación, es necesario, o bien  sustituirlos por cierres similares sin orificios de aireación, o bien  cerrar  herméticamente  los orificios.
+
+6.1.5.4.3		Método de ensayo y presión que ha de aplicarse: los embalajes, incluidos  sus cierres, se mantendrán sujetos bajo el agua durante 5 minutos mientras se aplica una presión de aire interna; el método que se utilice para mantenerlos sujetos no deberán  afectar los resultados de la prueba.
+
+La presión de aire (manométrica) aplicada será la siguiente:	
+
+	
+Grupo de
+embalaje I
+
+Grupo de
+embalaje II
+Grupo de
+embalaje III
+Al menos 30 kPa (0,3 bar)
+
+Al menos 20 kPa (0,2 bar)
+Al menos 20 kPa (0,2 bar)
+
+Pueden utilizarse otros métodos que sean por los menos igualmente efectivos.
+
+6.1.5.4.4		Criterios de superación de ensayo: no habrá de producirse ningún escape.
+
+6.1.5.5		Ensayos de presión interna (hidráulica)
+
+6.1.5.5.1		Embalajes que habrán de someterse a ensayo: se someterán al ensayo de presión interna (hidráulica) todos los modelos de embalajes, de plástico y compuesto destinados a contener líquidos. No se requiere este ensayo para los embalajes interiores de los embalajes combinados.
+
+6.1.5.5.2		Número de muestras: tres muestras por modelo y por fabricante.
+
+6.1.5.5.3		Preparación especial de los embalajes para el ensayo: si los cierres están provistos de orificios de ventilación, es necesario sustituirlos por cierres similares sin orificios de ventilación o cerrar herméticamente los orificios.
+
+6.1.5.5.4		Método de ensayo y presión que han de aplicarse: los embalajes de metal y los compuestos (de vidrio, porcelana o gres), incluidos sus cierres, se someterán a la presión de ensayo durante cinco minutos. Los embalajes de plástico y los compuestos (de plástico), incluidos sus cierres, se someterán a la presión de ensayo durante 30 minutos. Esta presión es la que se hará constar en el marcado prescrito en el apartado d) del párrafo 6.1.3.1. La manera en que se sujeten los embalajes  para el ensayo no habrá de invalidar los resultados. La presión de ensayo se aplicará de manera continua y regular, y se mantendrá constante durante toda el ensayo. La presión hidráulica (manométrica) que ha de aplicarse, determinada por cualquiera de los métodos que se indican a continuación, será:
+
+		a)	Al menos la presión manométrica total medida en el embalaje (es decir, la presión de vapor de la sustancia con que se haya llenado la muestra, más la presión parcial del aire o de otros gases inertes, menos 100 kPa) a 55°C, multiplicada por un coeficiente de seguridad de 1,5; para determinar esta presión manométrica total, no se llenará el embalaje más de lo  dispuesto en el párrafo 4.1.1.4, y la temperatura de llenado será de 15°C;
+
+		b)	Al menos 1,75 veces la presión de vapor a 50° C de la sustancia que haya de transportarse, menos 100 kPa; en todo caso, la presión será de 100 kPa como mínimo;
+
+		c)	Al menos 1,5 veces la presión de vapor a 55°C de la sustancia que haya de transportarse, menos 100 kPa; en todo caso, la presión será de 100 kPa como mínimo.
+
+6.1.5.5.5		Además, los embalajes destinados a contener sustancias del grupo de embalaje I se someterán a una presión mínima manométrica de ensayo de 250 kPa durante 5 ó 30 minutos, según el material de construcción del embalaje.
+
+6.1.5.5.6	Las exigencias especiales para el transporte aéreo, inclusive las presiones mínimas de ensayo, pueden no estar cubiertas por las disposiciones de 6.1.5.5.4.
+
+
+6.1.5.5.7		Criterios de superación del ensayo: ningún embalaje deberá presentar fugas.
+
+6.1.5.6	Ensayo de apilamiento
+
+	Todos los modelos tipo de embalaje que no sean bolsas se someterán a un ensayo de  apilamiento.
+
+6.1.5.6.1	Número de muestras: tres muestras por modelo y por fabricante.
+
+6.1.5.6.2		Método de ensayo:	la muestra se someterá a una fuerza, aplicada en su superficie  superior, equivalente al peso total de los bultos idénticos que podrán apilarse sobre ella durante el transporte; si el contenido de la muestra de ensayo es un líquido no peligroso cuya densidad relativa es diferente de la del líquido que haya de transportarse, la fuerza se calculará en función de esta última. La altura mínima de la pila, incluida la muestra, será de 3 metros. La duración del ensayo será de 24 horas, excepto en el caso de los tambores y jerricanes de plástico y del los embalajes compuestos de plástico 6HH1 y 6HH2, destinados al transporte de líquidos, que se someterán al ensayo de apilamiento durante 28 días a una temperatura de al menos 40 °C.
+
+
+6.1.5.6.3	Criterios de superación del ensayo: ninguna de las muestras habrá de presentar fugas. En el caso de los embalajes compuestos o de los combinados, no habrá de producirse ninguna fuga de la sustancia contenida en el recipiente interior o en el embalaje interior. Ninguna muestra habrá de presentar deterioro alguno que pueda comprometer la seguridad durante el transporte, ni deformación alguna que pueda reducir su resistencia o provocar una inestabilidad de la pila de bultos. Los embalajes de plástico serán enfriados a la temperatura  ambiente antes de esta evaluación.
+
+6.1.5.7	Ensayo de tonelería para los barriles de madera con tapón 
+
+6.1.5.7.1	Número de muestras: un barril.
+
+6.1.5.7.2	Método de ensayo: quitar todos los aros situados por encima de la panza de un barril vacío que tenga al menos dos días de haber sido fabricado.
+
+6.1.5.7.3	Criterio de superación del ensayo: el diámetro de la parte superior del barril no habrá de aumentar en más de un 10%.
+
+6.1.5.8	Informe de ensayo
+
+6.1.5.8.1	Se preparará un informe de ensayo que estará a la disposición de los usuarios de los embalajes y en el que constarán, por lo menos, los datos siguientes:
+
+    1. Nombre y dirección del establecimiento en que se efectuó el ensayo;
+    2. Nombre y dirección del solicitante (cuando proceda);
+    3. Identificación única del informe de ensayo;
+    4. Fecha del informe del ensayo;
+    5. Fabricante del embalaje;
+    6. Descripción del modelo tipo de embalaje (por ejemplo, dimensiones, materiales, cierres, espesor, etc.), incluido el método de fabricación (por ejemplo, moldeo por soplado), en la que podrían incluirse uno o más dibujos y /o fotografías;
+    7. Capacidad máxima;
+    8. Características del contenido del embalaje ensayado (por ejemplo viscosidad y densidad relativa para los líquidos y tamaño de las partículas para los sólidos);
+    9. Descripción y resultados del ensayo;
+    10. Firma, nombre del firmante y cargo que desempeña.
+
+6.1.5.8.2	En el informe del ensayo se declarará que el embalaje preparado como para el transporte fue sometido a ensayo con arreglo a los requerimientos pertinentes de este capítulo, indicando además que la utilización de otros métodos o elementos de embalaje  pueden invalidarlo. Se facilitará un ejemplar del informe de ensayo a la autoridad competente.
+
+
+
+
+
+
+
+
+
+
+
+
+CAPÍTULO 6.2
+
+REQUERIMIENTOS RELATIVOS A LA CONSTRUCCIÓN Y EL ENSAYO DE RECIPIENTES PARA GASES
+
+
+6.2.1		Requerimientos relativos a los cilindros para gases
+
+Nota: Se están realizando estudios por las autoridades competentes para definir las disposiciones referentes a las exigencias relativas a los cilindros para gases.
+
+6.2.2		Ensayo de estanqueidad para los aerosoles y pequeños recipientes para gases
+
+
+6.2.2.1	Cada recipiente se someterá a ensayo introduciéndolo en un baño de agua caliente. La temperatura de ésta y la duración del ensayo serán tales que el contenido ejerza una presión igual a la que se alcanzaría a 55°C (50°C si la fase líquida no excede del 95% de la capacidad del recipiente a 50°C). Si el contenido es sensible al calor, o si el recipiente es de un plástico que se ablanda a la temperatura de ensayo, se pondrá el agua a una temperatura de entre 20°C y 30°C, pero, además, uno de cada 2000 recipientes se ensayará a la mayor de esas dos temperaturas.
+
+6.2.2.2	No habrá de producirse ninguna fuga de contenido ni deformación permanente del recipiente, aunque, si éste es de plástico, se admitirá que se deforme por ablandamiento, siempre  que no tenga fugas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAPÍTULO 6.3
+
+          REQUERIMIENTOS RELATIVOS A LA CONSTRUCCIÓN Y AL ENSAYO DE EMBALAJES PARA LAS SUSTANCIAS DE LA DIVISIÓN 6.2
+
+
+6.3.1		Disposiciones generales	
+
+6.3.1.1		El embalaje que reúna  las condiciones de esta sección y de la sección 6.3.2 deberá llevar, previa decisión de la autoridad competente, el marcado siguiente:
+
+			a)	 El símbolo de embalaje de las Naciones Unidas;
+
+		b)		El código de designación del tipo de embalaje de acuerdo a lo prescrito en la sección 6.1.2;
+
+			c)	 La indicación “CLASE 6.2”;	
+
+			d)	 Los dos últimos dígitos del año de fabricación del embalaje;
+
+		e)	 El Estado que autoriza la atribución de la marca, indicado mediante el signo distintivo utilizado para los automóviles en el tráfico internacional;
+
+		f)	El nombre del fabricante u otro medio de identificación del embalaje especificado por la autoridad competente;
+
+		g)	  En los embalajes que satisfagan Los requerimientos del párrafo 6.3.2.9, se insertará la letra “U” inmediatamente después de la mención a que se refiere el apartado b).
+
+6.3.1.2	Ejemplos de marcado
+
+    4G/CLASE 6.2/92		Según 6.3.1.1 a) ,b) , c) y d)
+    BR/SP-9989-ERIKSSON	Según 6.3.1.1 e) y f)	
+
+
+6.3.2		Requerimientos relativos a los ensayos de los embalajes 
+
+6.3.2.1	Salvo en el caso de los embalajes para animales u organismos vivos, se prepararán muestras de cada embalaje con arreglo a lo indicado en 6.3.2.2 para someterlas a los ensayos a que se refieren los párrafos 6.3.2.4 a 6.3.2.6. Si la naturaleza del embalaje lo hace necesario, se permitirá una preparación y los ensayos equivalentes, siempre y cuando pueda demostrarse que son, por lo menos, de igual eficacia.
+
+
+
+6.3.2.2	Se preparará como para el transporte muestras de cada embalaje, salvo que las sustancias infecciosas líquida o sólida deban ser sustituidas por agua o, en los casos en que se especifica el acondicionamiento a –18°C, por agua con anticongelante. Cada uno de los recipientes primarios se llenará al 98% de su capacidad.
+
+
+
+
+                6.3.2.3 Ensayos requeridos
+
+MATERIAL DEL
+ENSAYOS REQUERIDOS
+EMBALAJE
+EXTERNO
+EMBALAJE
+INTERNO
+CAIDA LIBRE  VEASE 6.3.2.5
+PERFORACION VÉASE 6.3.2.6
+Cartón
+Plástico
+Otros
+Plástico
+Otros
+a)
+b)
+c)
+d)
+
+X
+
+
+x
+
+
+x
+x
+(*)
+x
+X
+
+
+
+x
+
+x
+
+
+x
+
+x
+
+x
+
+
+
+x
+
+x
+
+x
+
+
+x
+
+
+x
+
+x
+
+
+x
+x
+
+
+
+x
+
+x
+
+
+x
+
+x
+x
+
+
+
+x
+
+      (*) si fuera usado hielo seco.
+
+6.3.2.4	Los embalajes preparados como para el transporte se someterán a los ensayos requeridos en el párrafo 6.3.2.3, en el que, a los efectos de esos ensayos, se clasifican los embalajes según sus características materiales. Con respecto a los embalajes exteriores, los epígrafes del cuadro hacen referencia al cartón o materiales similares, cuya resistencia puede disminuir rápidamente por efecto de la humedad, así como a los plásticos, que pueden tornarse quebradizos a bajas temperaturas, y a otros materiales, como el metal, cuya resistencia no se altera por efecto de la humedad o de la temperatura. Si un recipiente primario y un embalaje secundario constituyentes de un embalaje interior son de materiales diferentes, el material del recipiente primario determina el ensayo procedente. En los casos en que el recipiente primario esté construido con dos materiales diferentes, el ensayo adecuado será el determinado por el que más susceptible sea de dañarse.
+
+6.3.2.5	a)	Las muestras se someterán a ensayos de caída libre sobre una superficie horizontal rígida, no elástica y plana desde una altura de 9 m. Si las muestras tienen forma de caja, se dejarán caer cinco de ellas sucesivamente:
+
+		i)	de plano sobre la base;
+		ii)	de plano sobre la parte superior;
+		iii)	de plano sobre el lado más largo;
+		iv)	de plano sobre el lado más corto;
+		v)	en una de las esquinas;
+
+		Si las muestras tienen forma de tambor, se dejarán caer tres de ellas sucesivamente:
+
+		i)	diagonalmente sobre el reborde  superior, con el centro de 
+ 				gravedad en la vertical del punto de impacto;
+		ii)	diagonalmente sobre el reborde de la base;
+		iii)	de plano sobre el cuerpo;
+
+		Tras la adecuada serie de caídas no tendrá que haberse producido ningún derrame del recipiente o los recipientes primarios, que seguirán protegidos por material absorbente en el embalaje secundario.
+
+		Nota:	En cada caso la muestra se dejará caer con la orientación indicada, si bien se admite que, por razones de aerodinámica, puede no producirse el impacto en la orientación prevista.
+
+	b)	La muestra se someterá a una aspersión de agua que simule la exposición a una precipitación de unos 5 cm por hora durante, por lo menos, una hora. A continuación se someterá a l ensayo descrito en el apartado a);
+
+	c)	La muestra será acondicionada durante 24 horas como mínimo en una atmósfera a temperatura igual o inferior a –18°C, y a los 15 minutos de ser retirada de esa atmósfera se someterá al ensayo descrito en el apartado a). Si la muestra contiene hielo seco se podrá reducir a 4 horas el período de acondicionamiento;
+
+	d)	Si está previsto que el embalaje contenga hielo seco, se efectuará un  ensayo adicional a las especificadas en los apartados a), b) o c). Se guardará una muestra en reserva hasta que se disipe por completo el hielo seco, para someterla luego al ensayo que se describe en el apartado a).
+
+6.3.2.6	Se someterán a los ensayos descritos en el apartado a) de este párrafo los embalajes de una masa bruta de 7 kg o menor, y a las que se describen en el apartado b) los que excedan  de 7 kg de masa bruta, en la forma siguiente:
+
+	a)	Se colocarán las muestras sobre una superficie dura y plana. Se dejará caer verticalmente en caída libre una barra cilíndrica de acero de una masa de 7 kg por lo menos y un diámetro que no exceda de 38 mm, y cuya extremidad de impacto tenga un radio que no exceda de 6 mm, desde una altura de 1 m medida desde la extremidad de impacto hasta la superficie de impacto de la muestra. Una de las muestras se colocará  sobre su base. Otra de las muestras será colocada en una dirección perpendicular a la de la primera muestra.  En ambas pruebas se dejará caer la barra de acero orientándola de modo que pueda chocar con el recipiente primario. Tras cada impacto se considerará aceptable que el embalaje secundario resulte perforado, siempre que no haya derrame de los recipientes primarios ;
+
+	b)	Se dejarán  caer las muestras sobre el extremo superior de una barra cilíndrica de acero, que estará fija, en posición vertical, en una superficie dura y plana y tendrá 38 mm de diámetro, sin que exceda de 6 mm el radio de su extremo superior. La barra sobresaldrá de la superficie hasta una distancia que por  lo menos sea igual a la existente entre el  recipiente o los recipientes primarios y la superficie exterior del embalaje exterior, pero que no habrá de ser inferior a 200 mm. Se dejará caer una muestra, en caída libre vertical, desde una altura de 1 m medida desde el extremo superior de la barra de acero. Desde esa misma altura se dejará caer una segunda muestra con una orientación perpendicular a la de la primera muestra. En ambas pruebas se dejará caer el embalaje orientándolo de modo que la barra de acero pueda perforar el recipiente o los recipientes primarios. Tras cada impacto, no deberá haber derrames a partir del recipiente o los recipientes primarios. 
+
+6.3.2.7		La autoridad competente puede permitir que se sometan a ensayos selectivos embalajes que sólo difieren en aspectos poco importantes de un modelo ya probado, como los embalajes interiores de tamaño más pequeño o de masa neta menor, o embalajes como tambores, bolsas y cajas con una o varias de sus dimensiones exteriores ligeramente reducidas, por ejemplo.
+
+6.3.2.8		Siempre que se mantenga un grado equivalente de aceptabilidad, estarán  permitidas, sin necesidad de someter a nuevos ensayos el embalaje completo, las siguientes variantes en cuanto a recipientes primarios colocados dentro un embalaje secundario:
+
+	a)	Podrán utilizarse recipientes primarios de tamaños equivalente o inferior al de los recipientes primarios ya sometidos a ensayos, siempre que:
+
+		i)	los recipientes primarios sean de un diseño análogo al del recipiente primario ensayado (por ejemplo, en su forma: redonda, rectangular, etc.);                 
+		ii)	el material de construcción del recipiente primario (vidrio, plástico, metal, etc.) ofrezca igual o mayor resistencia a las fuerzas de impacto y de apilamiento que el recipiente primario originalmente sometido a ensayo;
+		iii)	los recipientes primarios tengan  las aberturas de igual o menor tamaño y los cierres de un diseño análogo (por ejemplo, tapa roscada, cápsula adhesiva, etc.);
+		iv)	se utilice material amortiguador adicional suficiente para rellenar los espacios vacíos e impedir que los recipientes primarios se muevan mucho;
+		v)	los recipientes primarios estén  orientados dentro del embalaje secundario de igual manera que en el embalaje sometido a ensayo.
+
+	b)	Podrán utilizarse en menor número recipientes primarios de los ya sometidos a ensayo o de los tipos sustitutivos de recipientes primarios indicados en el apartado a), a condición de que se agregue material amortiguador suficiente para llenar el o los espacios vacíos e impedir que los recipientes primarios se muevan mucho.
+
+6.3.2.9	Los recipientes interiores de todos los tipos pueden reunirse dentro de un embalaje  intermedio (secundario) y transportarse sin ser sometidos a ensayo en el embalaje exterior, si se cumplen las condiciones siguientes:
+
+	a)	La combinación de embalaje intermedio con embalaje exterior ha superado el ensayo previsto en el párrafo 6.3.2.3 con recipientes interiores frágiles (por ejemplo, de vidrio);
+
+	b)	La masa bruta combinada total de los recipientes interiores no excede de la mitad de la masa bruta de los recipientes interiores utilizados para los ensayos de caída a que se refiere el apartado a);
+
+	c)	El espesor del material de amortiguamiento entre los recipientes interiores y entre éstos y el exterior del embalaje intermedio no es inferior a los espesores correspondientes del embalaje que ha superado los ensayos iniciales; si se ha utilizado un solo recipiente interior en el ensayo inicial, el espesor del material de amortiguamiento entre los recipientes interiores no será inferior al del material de amortiguamiento colocado entre el exterior del embalaje intermedio y el recipiente interior en el ensayo inicial. Si se usan recipientes interiores en menor número o de tamaño más pequeño que en el ensayo de caída, se utilizará material de amortiguamiento suplementario para rellenar los huecos;
+
+	d)	El embalaje exterior ha superado el ensayo de apilamiento del párrafo 6.1.5.6 en vacío. La  masa total de los embalajes idénticos será función de  la masa combinada de los recipientes interiores utilizados en el ensayo de caída del apartado a);
+
+	e)	Los recipientes interiores que contienen líquidos están rodeados por material absorbente para absorber la totalidad del líquido en caso de derrame;
+
+	f)	Si el embalaje exterior está destinado a contener recipientes interiores para líquidos y no es estanco, o si está destinado a contener recipientes interiores para sólidos y no es hermético al polvo, se han adoptado medidas para retener los líquidos o sólidos que puedan derramarse, consistentes en un forro hermético, una bolsa de plástico u otro medio de retención de igual eficacia;
+
+	g)	Además del marcado prescrito por los apartados a) a f) del párrafo 6.3.1.1, los embalajes se marcarán de conformidad con lo dispuesto en el apartado g) del párrafo 6.3.1.1.		
+CAPÍTULO 6.4
+
+          REQUERIMIENTOS RELATIVOS A LA CONSTRUCCIÓN Y ENSAYO DE EMBALAJES PARA LOS MATERIALES DE LA CLASE 7
+
+
+
+Nota: Deberán ser consultadas las autoridades competentes de los Estados Partes.

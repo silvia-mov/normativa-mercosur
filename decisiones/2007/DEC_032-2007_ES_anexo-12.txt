@@ -1,0 +1,1494 @@
+Decisión CMC N° 32/07
+Título: ACUERDO PARA LA FACILITACIÓN DEL TRANSPORTE DE MERCANCÍAS PELIGROSAS EN EL MERCOSUR
+Tipo de documento: anexo-12
+Archivo original: 4660_DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES > DEC_032-2007_Anexo del AcTranspMercanciasPeligrosas_ES/Espa�ol-Acdo Mercancias Peligrosas-Anexos/ANEXO II-Acdo Mercancias Peligrosas-ES/ANEXO II-Acdo Mercancias Peligrosas-ES-CAPITULO 4.2.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://www.mercosur.int/documentos/normativa/).
+----------------------------------------------------------------------
+CAPÍTULO 4.2
+
+USO DE CISTERNAS PORTÁTILES
+
+4.2.1	Disposiciones generales para el uso de cisternas portátiles para el transporte de mercancías de las Clases 3 a 9.
+4.2.1.1	Esta sección establece los requerimientos generales aplicables al uso de cisternas portátiles destinados al transporte de mercancías de las Clases 3, 4, 5, 6, 7, 8 y 9. Además de esos requerimientos generales, las cisternas portátiles deberán cumplir los requerimientos de diseño, construcción, inspección y ensayo detallados en 6.7.2. Las mercancías deberán ser transportadas en cisternas portátiles de acuerdo con la instrucción para cisternas portátiles aplicable, identificada en la Columna 12 del Listado de Mercancías Peligrosas y descrita en 4.2.4.2.6 (T1 a T23) y con las disposiciones especiales para cada mercancía, en la Columna 13 del Listado de Mercancías Peligrosas.
+4.2.1.2	Durante el transporte, las cisternas portátiles deberán estar adecuadamente protegidas contra daños a la carcaza y al equipamiento de servicio resultantes de impactos longitudinales y transversales y de vuelcos. Si la carcaza y el equipamiento de servicio fueran construidos de forma que resistan a impactos o vuelcos no necesitan dicha protección. Ejemplos de tales protecciones están dados en 6.7.2.17.5.
+4.2.1.3	Ciertas mercancías son químicamente inestables. Ellas son aceptadas para transporte solamente cuando hayan sido tomadas las medidas necesarias para prevenir su descomposición, polimerización o transformación peligrosa durante el transporte. Para esto, deberán ser adoptadas precauciones, en particular para asegurar que las carcazas no contengan ninguna mercancía capaz de promover tales reacciones.
+4.2.1.4	La temperatura de la superficie externa de la carcaza, excluyendo las aberturas y sus cierres, o del aislamiento térmico no deberá exceder de 70 °C durante el transporte. Cuando fueran transportadas mercancías peligrosas en estado líquido o sólido a temperaturas elevadas, la carcaza deberá estar térmicamente aislada para cumplir esa condición.
+4.2.1.5	Las cisternas portátiles, vacías sin limpiar y sin desgasificar, deberán satisfacer los mismos requerimientos que las cisternas llenas con la mercancía previamente transportada.
+4.2.1.6	No deberán ser transportadas mercancías en compartimientos contiguos de una carcaza cuando ellas pudieran reaccionar peligrosamente entre sí y provocar:
+	a)	combustión y/o desprendimiento de calor considerable;
+	b)	desprendimiento de gases inflamables, tóxicos o asfixiantes;
+	c)	la formación de sustancias corrosivas;
+	d)	la formación de sustancias inestables;
+	e)	aumento peligroso de presión.
+4.2.1.7	El certificado de aprobación de diseño, el informe de ensayo y el certificado mostrando los  resultados de la inspección y ensayo iniciales de cada cisterna portátil, emitido por la autoridad competente, o el  organismo autorizado por ella, deberán ser conservados por la autoridad o el organismo y por el propietario. Los propietarios deberán ser capaces de proveer esa documentación ante la solicitud de cualquier autoridad competente.
+4.2.1.8	A menos que el nombre de la(s) mercancía(s) transportada(s) aparezca(n) en la chapa metálica descrita en 6.7.2.20.2, una copia del certificado especificado en 6.7.2.18.1, deberá estar disponible, ante la solicitud de la autoridad competente o el organismo autorizado por ella, y ser fácilmente suministrable por el expedidor, el destinatario, o su agente, según corresponda.
+4.2.1.9	Grado  de llenado
+4.2.1.9.1	Antes del llenado, el expedidor deberá asegurarse de que sea usada la cisterna portátil apropiada y no sea cargada con mercancías que, en contacto con los materiales de la carcaza, de las juntas, del equipamiento de servicio y de cualquier revestimiento protector, puedan reaccionar peligrosamente con ellos, para formar productos peligrosos o debilitar apreciablemente el material. El expedidor puede tener la necesidad de consultar al fabricante de la mercancía conjuntamente con la autoridad competente, para tener una orientación sobre la compatibilidad de la mercancía con los materiales de la cisterna portátil.
+4.2.1.9.1.1	Las cisternas portátiles no deberán ser llenadas por encima del grado especificado en 4.2.1.9.2 a 4.2.1.9.6. La aplicabilidad de 4.2.1.9.2, 4.2.1.9.3 o 4.2.1.9.5.1 a mercancías específicas está indicada en las disposiciones especiales para cisternas portátiles aplicables, en 4.2.4.2.6 o 4.2.4.3 y en la Columna 12 y 13 del Listado de Mercancías Peligrosas. 
+4.2.1.9.2	El grado de llenado máximo (en %) para uso general está determinado por la fórmula:
+	Grado de llenado = 
+4.2.1.9.3	El grado de llenado máximo (en %) para líquidos de la División 6.1 y de la Clase 8, en los grupos de embalaje I y II, y líquidos con una presión de vapor absoluta superior a 175 kPa a 65 ºC, está determinado por la  fórmula:
+	Grado de llenado = 
+4.2.1.9.4	En estas fórmulas,  es el coeficiente promedio de expansión cúbica del líquido entre la temperatura  promedio del líquido durante el llenado (tf) y la temperatura promedio máxima del granel durante el transporte (tr) (ambas en ºC). Para líquidos transportados en condiciones ambientes,   puede ser calculado por la fórmula:
+ =
+donde y son las densidades del líquido a 15 ºC y a 50 ºC, respectivamente.
+4.2.1.9.4.1	La temperatura promedio máxima del granel (tr) deberá ser tomada como 50 ºC, excepto que, para viajes en condiciones climáticas templadas o extremas, la autoridad competente acepte una temperatura inferior o superior, según sea el caso.
+4.2.1.9.5	Las disposiciones de 4.2.1.9.2 a 4.2.1.9.4.1 no se aplican a cisternas portátiles cuyo contenido sea mantenido, durante el transporte, a una temperatura superior a 50 ºC  (por ejemplo, mediante dispositivo de calentamiento). Para cisternas portátiles equipadas con dispositivos de calentamiento, deberán ser usados reguladores de temperatura para asegurar que el grado de llenado máximo no sea superior a 95 % de su capacidad, en ningún momento durante el transporte.
+4.2.1.9.5.1	El grado de llenado máximo (en %) para líquidos transportados en condiciones de temperatura elevada está determinado por la fórmula:
+	Grado de llenado
+donde dr y df son, respectivamente, las densidades del líquido a la temperatura promedio del líquido durante el llenado y a la temperatura promedio máxima del granel durante el transporte.
+4.2.1.9.6	No deberán ser ofrecidas para transporte cisternas portátiles:
+a)	con un grado de llenado (en el caso de líquidos que tengan una viscosidad cinemática menor que 2680 mm2/s (2680 cSt), a 20 ºC o a la temperatura máxima de la mercancía durante el transporte, para el caso de mercancías calentadas), de más del 20 % pero menos del 80 %, a menos que las carcazas de las cisternas portátiles estuvieran divididas, por tabiques o placas rompeolas, en secciones de no más de 7500 litros de capacidad;
+b)	con residuos de la mercancía previamente transportada adheridos al exterior de la carcaza o a los equipamientos de servicio;
+c)	con fugas o daños de tal magnitud que puedan afectar la integridad de la cisterna portátil o de sus dispositivos de izamiento o aseguramiento; y
+d)	a menos que su equipamiento de servicio haya sido examinado y considerado en buenas condiciones de operación.
+4.2.1.9.7	Las aberturas para la introducción de las uñas de montacargas de cisternas portátiles deberán estar cerradas cuando la cisterna esté llena. Esta disposición no se aplica a cisternas portátiles que, de acuerdo con 6.7.3.13.4, no necesitan estar provistas de medios de cerrado de tales aberturas.
+4.2.1.10	Disposiciones adicionales aplicables al transporte de mercancías de la Clase 3 en cisternas portátiles
+4.2.1.10.1	Todas las cisternas portátiles destinadas al transporte de líquidos inflamables deberán ser cerradas y equipadas con dispositivos de alivio, de acuerdo con 6.7.2.8 a 6.7.2.15.
+4.2.1.10.1.1	Para cisternas portátiles destinadas solamente al transporte terrestre, las reglamentaciones pertinentes de transporte terrestre podrán permitir sistemas de ventilación abiertos.
+4.2.1.11	Disposiciones adicionales aplicables al transporte de mercancías de la Clase 4 (excepto sustancias auto-reactivas de la División 4.1)  en cisternas portátiles 
+Nota 1: Se están realizando estudios, por especialistas, para definir tales disposiciones adicionales.
+Nota 2: Para sustancias  que reaccionan espontanámente de la División 4.1, ver 4.2.1.13.1.
+4.2.1.12	Disposiciones adicionales aplicables al transporte de mercancías de la División 5.1 en cisternas portátiles
+Nota: Se están realizando estudios, por especialistas, para definir tales disposiciones adicionales.
+4.2.1.13	Disposiciones adicionales aplicables al transporte de mercancías de la División 5.2 y de sustancias auto-reactivas de la División 4.1 en cisternas portátiles
+4.2.1.13.1	Cada mercancía deberá haber sido ensayada y el informe deberá ser sometido a aprobación de la autoridad competente del país de origen. Una notificación de ello deberá ser enviada a la autoridad competente del país de destino. La notificación deberá contener la información relevante de transporte y el informe con los resultados de los ensayos. Los ensayos llevados a cabo deberán incluir aquellos necesarios para:
+a)	probar la compatibilidad de todos los materiales normalmente en contacto con la mercancía durante el transporte;
+b)	proveer la información necesaria para el diseño de los dispositivos de alivio de presión y de emergencia, teniendo en cuenta las características de diseño de la cisterna portátil.
+Cualquier requerimiento especial necesario para el transporte seguro de la mercancía deberá ser claramente descrito en el informe.
+4.2.1.13.2	Los requerimientos siguientes son aplicables a cisternas portátiles destinados al transporte de peróxidos orgánicos, Tipo F, o sustancias auto-reactivas, Tipo F, con temperatura de descomposición auto-acelerada (TDAA) de 55 ºC o más. En caso de conflicto, estos requerimientos prevalecen sobre aquellos especificados en la sección 6.7.2. Deberán ser tenidas en cuenta como emergencias la descomposición auto-acelerada de la mercancía y el envolvimiento en fuego, como se describe en 4.2.1.13.8.
+4.2.1.13.3	Los requerimientos adicionales para el transporte de peróxidos orgánicos o sustancias auto-reactivas con una TDAA menor que 55 ºC en cisternas portátiles deberán ser especificadas por la autoridad competente del país de origen. Una notificación de ello deberá ser enviada a la autoridad competente del país de destino.
+4.2.1.13.4	La  cisterna portátil deberá estar diseñada para una presión de ensayo de, al menos, 0,4 MPa.
+4.2.1.13.5	Las cisternas portátiles deberán estar equipadas con dispositivos sensores de temperatura.
+4.2.1.13.6	Las cisternas portátiles deberán estar equipadas con dispositivos de alivio de presión y de alivio de emergencia. Podrán ser usados también dispositivos de alivio de vacío. Los dispositivos de alivio de presión deberán operar a las presiones determinadas de acuerdo, tanto con las propiedades de la mercancía peróxido, como con las características de construcción de la cisterna portátil. No están permitidos elementos pasibles de ser fundidos en la carcaza. 
+4.2.1.13.7	Los dispositivos de alivio de presión deberán consistir en válvulas de resorte ajustadas para prevenir un desarrollo de presión significativo, dentro de la cisterna, de los productos y vapores de descomposición liberados a la temperatura de 50 ºC. La capacidad y la presión de inicio de descarga de las válvulas de alivio deberán estar basadas en los resultados de los ensayos especificados en 4.2.1.13.1. Sin embargo, la presión de inicio de descarga deberá ser tal que, en ningún caso, permita que el líquido pueda escapar por la(s) válvula(s), si la cisterna portátil estuviera volcada. 
+4.2.1.13.8	Los dispositivos de alivio de emergencia podrán ser del tipo resorte o de ruptura, o una combinación de los dos, diseñados para dejar escapar todos los productos y vapores de descomposición desprendidos durante un período de no menos de una hora de envolvimiento completo por el fuego, calculado por la siguiente fórmula:
+q = 70961 F A 0,82
+donde:
+	q = absorción de calor W
+	A = área mojada [m2]
+	F = factor de aislamiento, [ - ]
+	F = 1 para recipientes no aislados, o 
+	F =               para recipientes aislados
+donde:
+K = conductividad térmica de la capa aislante	[W.m-1. K-1]
+L = espesor de la capa aislante	             [m]
+U = K/L = coeficiente de transferencia de calor del aislamiento	[W.m-2. K-1]
+ = temperatura del peróxido en condiciones de alivio	             [K]
+
+	La presión de inicio de descarga de los dispositivos de alivio de emergencia deberá ser superior a la especificada en 4.2.1.13.7 y basada en los resultados de los ensayos referidos en 4.2.1.13.1. Los  dispositivos de alivio de emergencia deberán ser dimensionados de modo que la presión máxima en la cisterna nunca exceda a la  presión de ensayo de la cisterna.
+Nota: Un ejemplo de método para determinar las dimensiones de los dispositivos de alivio de emergencia es suministrado en el Apéndice 5 del Manual de Ensayos y Criterios.
+4.2.1.13.9	Para cisternas portátiles aisladas, la capacidad y los ajustes de los dispositivos de alivio de emergencia deberán ser determinados asumiendo una pérdida de aislamiento del 1 % del área de la superficie.
+4.2.1.13.10	Los dispositivos de alivio de vacío y las válvulas de resorte deberán estar provistas de corta-llamas. Se deberá prestar especial atención a la reducción de la capacidad de alivio debido al corta-llamas.
+4.2.1.13.11	El equipamiento de servicio, como ser válvulas y tubería exterior, deberán estar dispuestos de modo que no quede mercancía en ellas luego del llenado de la cisterna portátil.
+4.2.1.13.12	Los cisternas portátiles podrán estar, ya sea aislados o protegidos por una cubierta contra el sol. Si la TDAA de la mercancía en la cisterna portátil fuera 55 ºC o menos,  o si la cisterna portátil estuviera hecha de aluminio, la cisterna portátil deberá estar completamente aislada. La superficie exterior deberá tener un acabado en color blanco o brillo metálico.
+4.2.1.13.13	El grado de llenado no deberá superar el 90 % a 15 ºC.
+4.2.1.13.14	El marcado exigido en 6.7.2.20.2 deberá incluir el número UN y el nombre técnico del peróxido orgánico con la concentración aprobada para la mercancía en cuestión.
+4.2.1.13.15	Los peróxidos orgánicos y las sustancias auto-reactivas específicamente listados en la instrucción para cisternas portátiles T23 en 4.2.4.2.6, podrán ser transportados en cisternas portátiles. 
+
+4.2.1.14	Disposiciones adicionales aplicables al transporte de mercancías de la División 6.1 en cisternas portátiles
+Nota: Se están realizando estudios, por especialistas, para definir tales disposiciones adicionales.
+4.2.1.15	Disposiciones adicionales aplicables al transporte de materiales de la Clase 7 en cisternas portátiles
+4.2.1.15.1	Las cisternas portátiles utilizadas para el transporte de material radiactivo no deberán ser usados para transportar otras mercancías.
+4.2.1.15.2	El grado de llenado de las cisternas portátiles no deberá exceder 90 % o, alternativamente, cualquier otro valor aprobado por la autoridad competente.
+4.2.1.16	Disposiciones adicionales aplicables al transporte de mercancías de la Clase 8 en cisternas portátiles
+4.2.1.16.1	Los dispositivos de alivio de presión de cisternas portátiles utilizados para el transporte de mercancías de la Clase 8 deberán ser inspeccionados a intervalos no superiores a un año.
+4.2.1.17	Disposiciones adicionales aplicables al transporte de mercancías de la Clase 9 en cisternas portátiles
+Nota: Se están realizando estudios, por especialistas, para definir tales disposiciones adicionales.
+4.2.2	Disposiciones generales para el uso de cisternas portátiles para el transporte de gases licuados no refrigerados
+4.2.2.1	Esta sección establece los requerimientos generales aplicables al uso de cisternas portátiles para el transporte de gases licuados no refrigerados.
+4.2.2.2	Las cisternas portátiles deberán cumplir los requerimientos de diseño, construcción, inspección y ensayo detallados en 6.7.3. Los gases licuados no refrigerados deberán ser transportados en cisternas portátiles de acuerdo con la instrucción para cisternas portátiles T50 como se describe en 4.2.4.2.6 y con las disposiciones especiales para cisternas portátiles relativas a gases licuados no refrigerados específicos, encontradas en la Columna 13 del Listado de Mercancías Peligrosas y descritas en 4.2.4.3.
+4.2.2.3	Durante el transporte, las cisternas portátiles deberán estar adecuadamente protegidos contra daños a la carcaza y al equipamiento de servicio resultantes de impactos longitudinales y transversales y de vuelcos. Si la carcaza y el equipamiento de servicio fueran construidos de forma que resistan a impactos o vuelcos no necesitan dicha protección. Ejemplos de tales protecciones están dados en 6.7.3.13.5.
+4.2.2.4	Ciertos gases licuados no refrigerados son químicamente inestables. Ellos son aceptados para transporte solamente cuando hayan sido tomadas las medidas necesarias para prevenir su descomposición, polimerización o transformación peligrosa durante el transporte. Para esto, deberán ser adoptadas precauciones, en particular para asegurar que las carcazas no contengan ninguna mercancía capaz de promover tales reacciones.
+4.2.2.5	A menos que el nombre de las mercancías peligrosas que están siendo transportadas aparezca en la chapa metálica descrita en 6.7.3.16.2, una copia del certificado especificado en 6.7.3.14.1, deberá estar disponible, ante la solicitud de la autoridad competente, y ser fácilmente suministrable por el expedidor, el destinatario, o su agente, según corresponda.
+4.2.2.6	Las Cisternas portátiles vacías, sin limpiar y sin desgasificar, deberán satisfacer los mismos requerimientos que las cisternas llenas con el gas licuado no refrigerado previamente transportado.
+4.2.2.7	Llenado
+4.2.2.7.1	Antes del llenado, el expedidor deberá asegurarse de que la cisterna portátil está aprobada para el gas licuado no refrigerado que será transportado y que la cisterna portátil no será cargada con un gas licuado no refrigerado el cual en contacto con los materiales de la carcaza, de las juntas, del equipamiento de servicio, puedan reaccionar peligrosamente con ellos, para formar productos peligrosos o debilitar apreciablemente el material. Durante el llenado, la temperatura del gas licuado no refrigerado deberá caer dentro de los límites del rango de temperatura de diseño.
+4.2.2.7.2	La masa máxima de gas licuado no refrigerado por litro de capacidad de la carcaza (kg/l) no deberá exceder la densidad del gas licuado no refrigerado a 50 ºC multiplicada por 0,95. Además, la carcaza no deberá estar llena de líquido a 60 ºC.
+4.2.2.7.3	Las cisternas portátiles no deberán ser llenadas por encima de su masa bruta máxima admisible y de la masa de carga máxima admisible especificada para cada gas a ser transportado.
+4.2.2.8	No deberán ser ofrecidas para transporte cisternas portátiles:
+a)	con un espacio de cabeza tal que pueda provocar una fuerza hidráulica inaceptable, debida al oleaje del contenido dentro de la cisterna portátil;
+b)	cuando presenten fugas;
+c)	con daños de tal magnitud que puedan afectar la integridad de la cisterna portátil o de sus dispositivos de izamiento o aseguramiento; y
+d)	a menos que su equipamiento de servicio haya sido examinado y considerado en buenas condiciones de operación.
+4.2.2.9	Las aberturas para la introducción de las uñas de montacargas de cisternas portátiles deberán estar cerradas cuando la cisterna esté llena. Esta disposición no se aplica a cisternas portátiles que, de acuerdo con 6.7.4.12.4, no necesitan estar provistas de medios de cerrado de tales aberturas.
+4.2.3	Disposiciones generales para el uso de cisternas portátiles para el transporte de gases licuados refrigerados
+4.2.3.1	Esta sección establece los requerimientos generales aplicables al uso de cisternas portátiles para el transporte de gases licuados refrigerados.
+4.2.3.2	Las cisternas portátiles deberán cumplir los requerimientos de diseño, construcción, inspección y ensayo detallados en 6.7.4. Los gases licuados refrigerados deberán ser transportados en cisternas portátiles de acuerdo con la instrucción para cisternas portátiles T75 como se describe en 4.2.4.2.6 y con las disposiciones especiales para cisternas portátiles relativas a gases licuados refrigerados específicos, encontradas en la Columna 13 del Listado de Mercancías Peligrosas y descritas en 4.2.4.3.
+4.2.3.3	Durante el transporte, las cisternas portátiles deberán estar adecuadamente protegidos contra daños a la carcaza y al equipamiento de servicio resultantes de impactos longitudinales y transversales y de vuelcos. Si la carcaza y el equipamiento de servicio fueran construidos de forma que resistan a impactos o vuelcos no necesitan dicha protección. Ejemplos de tales protecciones están dados en 6.7.4.12.5.
+4.2.3.4	A menos que el nombre de las mercancías peligrosas que están siendo transportadas aparezca en la chapa metálica descrita en 6.7.4.15.2, una copia del certificado especificado en 6.7.4.13.1, deberá estar disponible, ante la solicitud de la autoridad competente, y ser fácilmente suministrable por el expedidor, el destinatario, o su agente, según corresponda.
+4.2.3.5	Las cisternas portátiles vacías sin limpiar y sin desgasificar deberán satisfacer los mismos requerimientos que las cisternas llenas con el gas licuado refrigerado previamente transportado.
+4.2.3.6	Llenado
+4.2.3.6.1	Antes del llenado, el expedidor deberá asegurarse de que la cisterna portátil está aprobada para el gas licuado refrigerado que será transportado y que la cisterna portátil no será cargada con un gas licuado refrigerado el cual en contacto con los materiales de la carcaza, de las juntas, del equipamiento de servicio, puedan reaccionar peligrosamente con ellos, para formar productos peligrosos o debilitar apreciablemente el material. Durante el llenado, la temperatura del gas licuado refrigerado deberá caer dentro de los límites del rango de temperaturas de diseño.
+4.2.3.6.2	Para estimar el grado de llenado inicial, deberá ser tenido en consideración el tiempo de contención  necesario para el viaje a ser emprendido, incluyendo cualquier demora que pudiera ser encontrada. El grado de llenado inicial de la carcaza, excepto lo dispuesto en 4.2.3.6.3 y 4.2.3.6.4 deberá ser tal que, si el contenido, excepto helio, fuera a ser elevado a una temperatura a la cual la presión de vapor sea igual a presión de trabajo máxima admisible (PTMA), el volumen ocupado por el líquido no exceda del 98 %.
+4.2.3.6.3	Las carcazas destinadas al transporte de helio pueden ser llenadas hasta, pero no por encima, de la entrada del dispositivo de alivio de presión.
+4.2.3.6.4	Puede ser admitido un mayor grado de llenado inicial, sujeto a la aprobación de la autoridad competente, cuando la duración prevista del transporte sea considerablemente inferior al tiempo de contención.
+
+
+4.2.3.7	Tiempo de contención real
+	El tiempo de contención real deberá ser calculado para cada viaje, de acuerdo con un procedimiento reconocido por la autoridad competente, con base en lo siguiente:
+a)	el tiempo de contención de referencia para el gas licuado refrigerado a ser transportado (ver 6.7.4.2.8.1) (como indica en la chapa referida en 6.7.4.15.1);
+b)	la densidad de llenado real;
+c)	la presión de llenado real; y 
+d)	la menor presión para la cual el (los) dispositivo(s) de limitación de presión está(n) calibrado(s).
+4.2.3.7.1	El tiempo de contención real deberá ser marcado ya sea en la propia cisterna portátil o en una chapa metálica firmemente asegurada a la cisterna portátil, de acuerdo con 6.7.4.15.2.
+4.2.3.8	No deberán ser ofrecidos para transporte cisternas portátiles:
+a)	con un espacio de cabeza tal que pueda provocar una fuerza hidráulica inaceptable, debida al oleaje del contenido dentro de la cisterna portátil;
+b)	cuando presenten fugas;
+c)	con daños de tal magnitud que puedan afectar la integridad de la cisterna portátil o de sus dispositivos de izamiento o aseguramiento;
+d)	a menos que su equipamiento de servicio haya sido examinado y considerado en buenas condiciones de operación;
+e)	a menos que el tiempo de contención real para el gas licuado refrigerado que está siendo transportado haya sido determinado de acuerdo con 4.2.3.7 y el cisterna portátil esté marcado de acuerdo con 6.7.4.15.2; y
+f)	a menos que la duración del transporte, después de haber tenido en cuenta cualquier demora que pudiera ser encontrada, no exceda al tiempo de contención real.
+4.2.3.9	Las aberturas para la introducción de las uñas de montacargas de cisternas portátiles deberán estar cerradas cuando la cisterna esté llena. Esta disposición no se aplica a cisternas portátiles que, de acuerdo con 6.7.4.12.4, no necesitan estar provistos de medios de cerrado de tales aberturas.
+4.2.4	Instrucciones para Cisternas Portátiles y Disposiciones Especiales 
+4.2.4.1	Generalidades
+4.2.4.1.1	Esta sección incluye las instrucciones para cisternas portátiles y las disposiciones especiales aplicables a mercancías peligrosas autorizadas a ser transportadas en cisternas portátiles. Cada instrucción para cisternas portátiles está identificada por una designación alfanumérica (por ejemplo T1). La Columna 12 del Listado de Mercancías Peligrosas, en el Capítulo 3.2, indica la instrucción para cisternas portátiles que deberá ser usada para cada mercancía permitida para el transporte en cisternas portátiles. Cuando no aparece, en la Columna 12, ninguna instrucción para cisternas portátiles para una mercancía peligrosa específica, entonces, el transporte de esa mercancía no está permitido en cisternas portátiles, a menos que sea concedida una aprobación de la autoridad competente, como se detalla en 6.7.1.3. Las disposiciones especiales para cisternas portátiles, están asignadas a cada mercancía peligrosa específica en la Columna 13 del Listado de Mercancías Peligrosas, en el Capítulo 3.2. Cada disposición especial para cisterna portátil está identificada por una designación alfanumérica (por ejemplo, TP1). Un listado de las disposiciones especiales para cisternas portátiles se incluye en 4.2.4.3.
+4.2.4.2	Instrucciones para cisternas portátiles
+4.2.4.2.1	Las instrucciones para cisternas portátiles son aplicables a mercancías peligrosas de las Clases 2 a 9. Las instrucciones para cisternas portátiles proveen información específica relativa a los requerimientos para cisternas portátiles aplicables a mercancías específicas. Estos requerimientos deberán ser cumplidos además de los requerimientos generales contenidos en este Capítulo y en el Capítulo 6.7.
+4.2.4.2.2	Para mercancías de las Clases 3 a 9, las instrucciones para cisternas portátiles indican la presión de ensayo mínima, el espesor mínimo de la carcaza (en acero de referencia (ver 6.7.2.1)), los requerimientos relativos a las aberturas en el fondo y los requerimientos de presión de alivio aplicables. En T23, están listadas, las sustancias auto-reactivas de la División 4.1, y los peróxidos orgánicos de la División 5.2, permitidas para el transporte en cisternas portátiles, conjuntamente con las temperaturas de control y de emergencia aplicables.
+4.2.4.2.3	Los gases licuados no refrigerados están asignados a la instrucción para cisternas portátiles T50. Esta instrucción provee, para los gases licuados no refrigerados cuyo transporte en cisternas portátiles está permitido, las presiones de trabajo máximas admisibles y los requerimientos relativos a las aberturas en el fondo, las presiones de alivio y al grado de llenado.
+4.2.4.2.4	Los gases licuados refrigerados están asignados a la instrucción para cisternas portátiles T75.
+4.2.4.2.5	Determinación de la instrucción para cisternas portátiles apropiada
+Cuando una instrucción para cisternas portátiles está especificada en la Columna 12, relativa a una mercancía peligrosa específica, podrán ser usados otras cisternas portátiles que posean una presión de ensayo más elevada, mayores espesores de pared y requerimientos más estrictos sobre las aberturas en el fondo y sobre la ubicación de los dispositivos de alivio de presión. Las siguientes directrices permiten la determinación de las cisternas portátiles apropiadas que pueden ser usados para el transporte de mercancías específicas:
+
+Instrucción para cisternas portátiles especificada
+Instrucciones para cisternas portátiles también permitidas
+T1
+T2, T3, T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T20, T21, T22
+T2
+T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T20, T21, T22
+T3
+T4, T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T20, T21, T22
+T4
+T5, T6, T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T20, T21, T22
+T5
+T10, T14, T19, T20, T22
+T6
+T7, T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T20, T21, T22
+T7
+T8, T9, T10, T11, T12, T13, T14, T15, T16, T17, T18, T19, T20, T21, T22
+T8
+T9, T10, T13, T14, T19, T20, T21, T22
+T9
+T10, T13, T14, T19, T20, T21, T22
+T10
+T14, T19, T20, T22
+T11
+T12, T13, T14, T15, T16, T17, T18, T19, T20, T21, T22
+T12
+T14, T16, T18,  T19, T20, T22
+T13
+T14, T19, T20, T21, T22
+T14
+T19, T20, T22
+T15
+T16, T17, T18, T19, T20, T21, T22
+T16
+T18, T19, T20, T22
+T17
+T18, T19, T20, T21, T22
+T18
+T19, T20, T22 
+T19
+T20,  T22
+T20
+T22
+T21
+T22
+T22
+Ninguna
+T23
+Ninguna
+
+
+4.2.4.2.6	Instrucciones para cisternas portátiles
+T1-T22
+INSTRUCCIONES PARA CISTERNAS PORTÁTILES
+T1-T22
+Estas instrucciones para cisternas portátiles se aplican a mercancías líquidas y sólidas de las Clases 3 a 9. Deberán ser cumplidas las disposiciones generales de la sección 4.2.1 y los requerimientos de la sección 6.7.2.
+Instrucción para cisterna
+portátil
+Presión mínima de ensayo
+(kPa)
+Espesor mínimo de las carcazas
+(en mm - acero de referencia 
+(ver 6.7.2.4)
+Requerimientos de presión de alivio
+(ver 6.7.2.8)
+Requerimientos de
+abertura en el fondo
+(ver 6.7.2.6)
+T1
+150
+Ver  6.7.2.4.2
+Normal
+Ver  6.7.2.6.2
+T2
+150
+Ver  6.7.2.4.2
+Normal
+Ver  6.7.2.6.3
+T3
+265
+Ver  6.7.2.4.2
+Normal
+Ver  6.7.2.6.2
+T4
+265
+Ver  6.7.2.4.2
+Normal
+Ver  6.7.2.6.3
+T5
+265
+Ver  6.7.2.4.2
+Ver  6.7.2.8.3
+No permitida
+T6
+400
+Ver   6.7.2.4.2
+Normal
+Ver  6.7.2.6.2
+T7
+400
+Ver  6.7.2.4.2
+Normal
+Ver  6.7.2.6.3
+T8
+400
+Ver  6.7.2.4.2
+Normal
+No permitida
+T9
+400
+6 mm
+Normal
+No permitida
+T10
+400
+6 mm
+Ver  6.7.2.8.3
+No permitida
+T11
+600
+Ver  6.7.2.4.2
+Normal
+Ver 6.7.2.6.3
+T12
+600
+Ver  6.7.2.4.2
+Ver  6.7.2.8.3
+Ver  6.7.2.6.3
+T13
+600
+6 mm
+Normal
+No permitida
+T14
+600
+6 mm
+Ver  6.7.2.8.3
+No permitida
+T15
+1000
+Ver  6.7.2.4.2
+Normal
+Ver  6.7.2.6.3
+T16
+1000
+Ver  6.7.2.4.2
+Ver  6.7.2.8.3
+Ver   6.7.2.6.3
+T17
+1000
+6 mm
+Normal
+Ver  6.7.2.6.3
+T18
+1000
+6 mm
+Ver  6.7.2.8.3
+Ver  6.7.2.6.3
+T19
+1000
+6 mm
+Ver  6.7.2.8.3
+No permitida
+T20
+1000
+8 mm
+Ver  6.7.2.8.3
+No permitida
+T21
+1000
+10 mm
+Normal
+No permitida
+T22
+1000
+10 mm
+Ver  6.7.2.8.3
+No permitida
+
+
+
+
+
+
+T23
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES
+T23
+Esta instrucción para cisternas portátiles se aplica a sustancias auto-reactivas de la División 4.1 y a peróxidos orgánicos de la División 5.2. Deberán ser cumplidas las disposiciones generales de la sección 4.2.1 y los requerimientos de la sección 6.7.2. Deberán ser cumplidas también las disposiciones específicas, para sustancias auto-reactivas de la División 4.1 y peróxidos orgánicos de la División 5.2 indicadas en 4.2.1.13.
+Nº
+ONU
+Sustancia
+Presión
+Mínima de ensayo
+(kPa)
+Espesor
+mínimo de la carcaza
+(mm – en acero de referencia)
+Requeri-mientos
+de abertura
+en el fondo
+Requeri-mientos
+de presión de alivio
+Límites
+de
+llenado
+Tempe-ratura
+de
+Regula-ción
+Tempe-ratura
+de
+emer-gencia
+3109
+PERÓXIDO ORGÁNICO, TIPO F, LÍQUIDO
+400
+Ver
+6.7.2.4.2
+Ver  6.7.2.6.3
+Ver  6.7.2.8.2
+4.2.1.13.6
+4.2.1.13.7
+4.2.1.13.8
+Ver  4.2.1.13.13
+
+
+
+
+
+Hidroperóxido de t-butilo */ no más de 72 %, en agua
+
+
+
+
+
+
+
+
+Hidroperóxido de cumilo, no más de 90 %, en diluyente tipo A
+
+
+
+
+
+
+
+
+Peróxido de di-t-butilo, no más de 32 %, en diluyente tipo A
+
+
+
+
+
+
+
+
+Hidroperóxido de isopropilcumilo, no más de 72 %, en diluyente  tipo A
+
+
+
+
+
+
+
+
+Hidroperóxido de              p-mentilo, no más de 72 %, en diluyente tipo A.
+
+
+
+
+
+
+
+
+Hidroperóxido de pinanilo, no más de 50 %, en diluyente tipo A.
+
+
+
+
+
+
+
+
+3110
+
+PERÓXIDO ORGÁNICO, TIPO F, SÓLIDO
+
+Peróxido de dicumilo**/
+
+400
+
+Ver  6.7.2.4.2
+
+Ver  6.7.2.6.3
+
+Ver  6.7.2.8.2
+4.2.1.13.6
+4.2.1.13.7
+4.2.1.13.8
+
+Ver
+4.2.1.13.13
+
+
+
+
+
+
+
+
+
+
+
+
+T23
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES (continuación)
+T23
+Esta instrucción para cisternas portátiles se aplica a sustancias auto-reactivas de la División 4.1 y a peróxidos orgánicos de la División 5.2. Deberán ser cumplidas las disposiciones generales de la sección 4.2.1 y los requerimientos de la sección 6.7.2. Deberán ser cumplidas también las disposiciones específicas, para sustancias auto-reactivas de la División 4.1 y peróxidos orgánicos de la División 5.2 indicadas en 4.2.1.13.
+Nº
+ONU
+Sustancia
+Presión
+Mínima de ensayo
+(kpa)
+Espesor
+mínimo de la carcaza (mm - en  acero de referencia)
+Requeri-mientos
+de abertura
+en el fondo
+Requeri-mientos
+de presión de alivio
+Límites
+de
+llenado
+Tempe-ratura
+de
+Regula-ción
+Tempe-ratura
+de
+emer-gencia
+3119
+PERÓXIDO ORGÁNICO, TIPO F, LÍQUIDO, TEMPERATURA REGULADA
+400
+Ver 
+6.7.2.4.2
+Ver 6.7.2.6.3
+Ver
+6.7.2.8.2
+4.2.1.13.6
+4.2.1.13.7
+4.2.1.13.8
+Ver 4.2.1.13.13
+
+*/
+
+*/
+
+Peroxiacetato de t-butilo, no más de 32 %, en diluyente tipo B
+
+
+
+
+
++30 °C
++35 °C
+
+Peroxi-2-etil-hexanoato de t-butilo, no más de   32 %, en diluyente tipo B
+
+
+
+
+
++15 °C
++20 °C
+
+Peroxipivalato de           t-butilo, no más de 27 %, en diluyente tipo B
+
+
+
+
+
++5 °C
++10 °C
+
+Peroxi-3,5,5-trimetil-hexanoato de t-butilo, no más de 32 %, en diluyente tipo B
+
+
+
+
+
++35 °C
++40 °C
+
+Peróxido de di-(3,5,5-trimetil-hexanoilo), no más de 38 %, en diluyente tipo A.
+Ácido peroxiacético, destilado, tipo F, estabilizado **/
+
+
+
+
+
+0 °C
+
+
+
+
+
++30°C
++5 °C
+
+
+
+
+
++35°C
+3120
+PERÓXIDO ORGÁNICO, TIPO F, SÓLIDO, TEMPERATURA REGULADA
+400
+Ver
+6.7.2.4.2
+Ver  6.7.2.6.3
+Ver  6.7.2.8.2
+4.2.1.13.6
+4.2.1.13.7
+4.2.1.13.8
+Ver
+4.2.1.13.13
+*/
+*/
+3229
+SUSTANCIA AUTO-REACTIVA, TIPO F, LÍQUIDA
+400
+Ver
+6.7.2.4.2
+Ver  6.7.2.6.3
+Ver
+6.7.2.8.2
+4.2.1.13.6
+4.2.1.13.7
+4.2.1.13.8
+Ver
+4.2.1.13.13
+
+
+3230
+SUSTANCIA AUTO-REACTIVA, TIPO F, SÓLIDA
+400
+Ver
+6.7.2.4.2
+Ver 6.7.2.6.3
+Ver  6.7.2.8.2
+4.2.1.13.6
+4.2.1.13.7
+4.2.1.13.8
+Ver
+4.2.1.13.13
+
+
+3239
+SUSTANCIA AUTO-REACTIVA, TIPO F, LÍQUIDA, TEMPERATURA REGULADA
+400
+Ver
+6.7.2.4.2
+Ver  6.7.2.6.3
+Ver  6.7.2.8.2
+4.2.1.13.6
+4.2.1.13.7
+4.2.1.13.8
+Ver
+4.2.1.13.13
+*/
+*/
+
+
+
+T23
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES (continuación)
+T23
+Esta instrucción para cisternas portátiles se aplica a sustancias auto-reactivas de la División 4.1 y a peróxidos orgánicos de la División 5.2. Deberán ser cumplidas las disposiciones generales de la sección 4.2.1 y los requerimientos de la sección 6.7.2. Deberán ser cumplidas también las disposiciones específicas, para sustancias auto-reactivas de la División 4.1 y peróxidos orgánicos de la División 5.2 indicadas en 4.2.1.13.
+Nº
+ONU
+Sustancia
+Presión
+Mínima de ensayo
+(kPa)
+Espesor
+mínimo de la carcaza
+(mm – en  acero de referencia) 
+Requeri-mientos
+de abertura
+en el fondo
+Requeri-mientos
+de presión de alivio
+Límites
+de
+llenado
+Tempe-ratura
+de
+Regula-ción
+Tempe-ratura
+de
+emer-gencia
+3240
+SUSTANCIA AUTO-REACTIVA, TIPO F, SÓLIDA, TEMPERATURA REGULADA
+400
+Ver
+6.7.2.4.2
+Ver  6.7.2.6.3
+Ver  6.7.2.8.2
+4.2.1.13.6
+4.2.1.13.7
+4.2.1.13.8
+Ver
+4.2.1.13.13
+*/
+
+*/
+
+*/ Conforme a lo aprobado por la autoridad competente del Estado Parte de origen .
+
+T50
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES
+T50
+Esta instrucción para cisternas portátiles se aplica a gases licuados no refrigerados. Deberán ser cumplidos los requerimientos generales de la sección 4.2.2 y los requerimientos de la sección 6.7.3.
+Nº
+ONU
+Gases licuados no refrigerados
+Presión de trabajo máxima admisible (kPa) 
+Pequeño;
+No protegido;
+Protegido del sol; Aislado
+Abertura debajo del nivel de líquido
+Requeri-mientos de
+presión de alivio
+(ver 6.7.3.7)
+Grado de llenado máximo
+(kg/l )
+1005
+Amoníaco anhidro
+2900
+2570
+2200
+1970
+Permitida
+Ver  6.7.3.7.3
+0,53
+1009
+Bromotrifluormetano (Gas refrigerante R 13B1)
+3800
+3400
+3000
+2750
+Permitida
+Normal
+1,13
+1010
+Butadienos, estabilizados
+750
+700
+700
+700
+Permitida
+Normal
+0,55
+1011
+Butano
+700
+700
+700
+700
+Permitida
+Normal
+0,51
+1012
+Butileno
+800
+700
+700
+700
+Permitida
+Normal
+0,53
+1017
+Cloro
+1900
+1700
+1500
+1350
+No permitida
+Ver 6.7.3.7.3
+1,25
+
+
+T50
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES (continuación)
+T50
+Esta instrucción para cisternas portátiles se aplica a gases licuados no refrigerados. Deberán ser cumplidos los requerimientos generales de la sección 4.2.2 y los requerimientos de la sección 6.7.3.
+Nº
+ONU
+Gases licuados no refrigerados
+Presión de trabajo máxima admisible (kPa) 
+Pequeño;
+No protegido;
+Protegido del sol; Aislado
+Abertura debajo del nivel de líquido
+Requeri-mientos de
+presión de alivio
+(ver 6.7.3.7)
+Grado de llenado máximo
+(kg/l )
+1018
+Clorodifluormetano (Gas refrigerante R22)
+2600
+2400
+2100
+1900
+Permitida
+Normal
+1,03
+1020
+Cloropentafluoretano (Gas refrigerante R 115)
+2300
+2000
+1800
+1600
+Permitida
+Normal
+1,06
+1021
+1-Cloro-1,2,2,2-tetrafluoretano
+(Gas refrigerante R 124)
+1030
+980
+790
+700
+Permitida
+Normal
+1,20
+1027
+Ciclopropano
+1800
+1600
+1450
+1300
+Permitida
+Normal
+0,53
+1028
+Diclorodifluormetano (Gas refrigerante R 12)
+1600
+1500
+1300
+1150
+Permitida
+Normal
+1,15
+1029
+Diclorofluormetano (Gas refrigerante R 21)
+700
+700
+700
+700
+Permitida
+Normal
+1,23
+1030
+1,1-Difluoretano (Gas refrigerante R 152a)
+1600
+1400
+1240
+1100
+Permitida
+Normal
+0,79
+1032
+Dimetilamina, anhidro
+700
+700
+700
+700
+Permitida
+Normal
+0,59
+1033
+Éter dimetílico
+1550
+1380
+1200
+1060
+Permitida
+Normal
+0,58
+1036
+Etilamina
+700
+700
+700
+700
+Permitida
+Normal
+0,61
+1037
+Cloruro de etilo
+700
+700
+700
+700
+Permitida
+Normal
+0,80
+
+
+
+T50
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES (continuación)
+T50
+Esta instrucción para cisternas portátiles se aplica a gases licuados no refrigerados. Deberán ser cumplidos los requerimientos generales de la sección 4.2.2 y los requerimientos de la sección 6.7.3.
+Nº
+ONU
+Gases licuados no refrigerados
+Presión de trabajo máxima admisible (kPa) 
+Pequeño;
+No protegido;
+Protegido del sol; Aislado
+Abertura debajo del nivel de líquido
+Requeri-mientos de
+presión de alivio
+(ver 6.7.3.7)
+Grado de llenado máximo
+(kg/l )
+1040
+Óxido de etileno con nitrógeno, hasta una presión total de 1000 kPa a 50 ºC
+-
+-
+-
+1000
+No permitida
+Ver 6.7.3.7.3
+0,78
+1041
+Mezcla de óxido de etileno y dióxido de carbono, con más del    9 % y hasta el 87 % de óxido de etileno
+Ver la definición de PTMA en 6.7.3.1
+Permitida
+Normal
+Ver 4.2.2.7
+1055
+Isobutileno
+810
+700
+700
+700
+Permitida
+Normal
+0,52
+1060
+Mezcla de metilacetileno y propadieno, estabilizada
+2800
+2450
+2200
+2000
+Permitida
+Normal
+0,43
+1061
+Metilamina anhidra
+1080
+960
+780
+700
+Permitida
+Normal
+0,58
+1062
+Bromuro de metilo, con no más de 2% de cloropicrina
+700
+700
+700
+700
+No permitida
+Ver  6.7.3.7.3
+1,51
+1063
+Cloruro de metilo (Gas refrigerante R 40)
+1450
+1270
+1130
+1000
+Permitida
+Normal
+0,81
+1064
+Metilmercaptano
+700
+700
+700
+700
+No permitida
+Ver  6.7.3.7.3
+0,78
+1067
+Tetróxido de dinitrógeno
+700
+700
+700
+700
+No permitida
+Ver  6.7.3.7.3
+1,30
+1075
+Gas licuado de petróleo
+Ver definición de PTMA en 6.7.3.1
+Permitida
+Normal
+Ver 4.2.2.7
+1077
+Propileno
+2800
+2450
+2200
+2000
+Permitida
+Normal
+0,43
+1078
+Gas refrigerante, N.E.P.
+Ver definición de PTMA en 6.7.3.1
+Permitida
+Normal
+Ver 4.2.2.7
+
+
+T50
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES (continuación)
+T50
+Esta instrucción para cisternas portátiles se aplica a gases licuados no refrigerados. Deberán ser cumplidos los requerimientos generales de la sección 4.2.2 y los requerimientos de la sección 6.7.3.
+Nº
+ONU
+Gases licuados no refrigerados
+Presión de trabajo máxima admisible (kPa) 
+Pequeño;
+No protegido;
+Protegido del sol; Aislado
+Abertura debajo del nivel de líquido
+Requeri-mientos de
+presión de alivio
+(ver 6.7.3.7)
+Grado de llenado máximo
+(kg/l )
+1079
+Dióxido de azufre
+1160
+1030
+850
+760
+No permitida
+Ver  6.7.3.7.3
+1,23
+1082
+Trifluorcloroetileno, estabilizado (Gas refrigerante R 1113)
+1700
+1500
+1310
+1160
+No permitida
+Ver  6.7.3.7.3
+1,13
+1083
+Trimetilamina, anhidro
+700
+700
+700
+700
+Permitida
+Normal
+0,56
+1085
+Bromuro de vinilo, estabilizado
+700
+700
+700
+700
+Permitida
+Normal
+1,37
+1086
+Cloruro de vinilo, estabilizado
+1060
+930
+800
+700
+Permitida
+Normal
+0,81
+1087
+Éter metilvinílico, estabilizado
+700
+700
+700
+700
+Permitida
+Normal
+0,67
+1581
+Mezcla de cloropicrina y bromuro de metilo, con más de 2% de cloropicrina
+700
+700
+700
+700
+No permitida
+Ver  6.7.3.7.3
+1,51
+1582
+Mezcla de cloropicrina y cloruro de metilo
+1920
+1690
+1510
+1310
+No permitida
+Ver  6.7.3.7.3
+0,81
+1858
+Hexafluorpropileno (Gas refrigerante R 1216)
+1920
+1690
+1510
+1310
+Permitida
+Normal
+1,11
+1912
+Mezcla de cloruro de metilo y cloruro de metileno
+1520
+1300
+1160
+1010
+Permitida
+Normal
+0,81
+1958
+1,2-Dicloro-1,1,2,2-tetrafluoretano
+(Gas refrigerante R 114)
+700
+700
+700
+700
+Permitida
+Normal
+1,30
+
+
+
+T50
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES (continuación)
+T50
+Esta instrucción para cisternas portátiles se aplica a gases licuados no refrigerados. Deberán ser cumplidos los requerimientos generales de la sección 4.2.2 y los requerimientos de la sección 6.7.3.
+Nº
+ONU
+Gases licuados no refrigerados
+Presión de trabajo máxima admisible (kPa) 
+Pequeño;
+No protegido;
+Protegido del sol; Aislado
+Abertura debajo del nivel de líquido
+Requeri-mientos de
+presión de alivio
+(ver 6.7.3.7)
+Grado de llenado máximo
+(kg/l )
+1965
+Hidrocarburo gaseoso, mezcla licuada, N.E.P.
+Ver definición de PTMA en 6.7.3.1
+Permitida
+Normal
+Ver 4.2.2.7
+1969
+Isobutano
+850
+750
+700
+700
+Permitida
+Normal
+0,49
+1973
+Mezcla de clorodifluormetano y cloropentafluoretano con punto de ebullición fijo, con aproximadamente 49 % de clorodifluormetano (Gas refrigerante R 502)
+2830
+2530
+2280
+2030
+Permitida
+Normal
+1,05
+1974
+Clorodifluorbromometano (Gas refrigerante R 12B1)
+740
+700
+700
+700
+Permitida
+Normal
+1,61
+1976
+Octafluorciclobutano (Gas refrigerante RC 318)
+880
+780
+700
+700
+Permitida
+Normal
+1,34
+1978
+Propano
+2250
+2040
+1800
+1650
+Permitida
+Normal
+0,42
+1983
+1-Cloro-2,2,2-trifluoretano (Gas refrigerante R 133a)
+700
+700
+700
+700
+Permitida
+Normal
+1,18
+2035
+1,1,1-Trifluoretano (Gas refrigerante R 143a)
+3100
+2750
+2420
+2180
+Permitida
+Normal
+0,76
+2424
+Octafluorpropano (Gas refrigerante R 218)
+2310
+2080
+1860
+1660
+Permitida
+Normal
+1,07
+2517
+1-Cloro-1,1-difluoretano (Gas refrigerante R 142b)
+890
+780
+700
+700
+Permitida
+Normal
+0,99
+2602
+Mezcla azeotrópica de diclorodifluormetano y difluoretano, con aproximadamente 74 % de diclorodifluormetano (Gas refrigerante R 500)
+2000
+1800
+1600
+1450
+Permitida
+Normal
+1,01
+
+
+T50
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES (continuación)
+T50
+Esta instrucción para cisternas portátiles se aplica a gases licuados no refrigerados. Deberán ser cumplidos los requerimientos generales de la sección 4.2.2 y los requerimientos de la sección 6.7.3.
+Nº
+ONU
+Gases licuados no refrigerados
+Presión de trabajo máxima admisible (kPa) 
+Pequeño;
+No protegido;
+Protegido del sol; Aislado
+Abertura debajo del nivel de líquido
+Requeri-mientos de
+presión de alivio
+(ver 6.7.3.7)
+Grado de llenado máximo
+(kg/l )
+3057
+Cloruro de trifluoracetilo
+1460
+1290
+1130
+990
+No permitida
+Ver  6.7.3.7.3
+1,17
+3070
+Mezcla de óxido de etileno y diclorodifluormetano, con no más de 12,5 % de óxido de etileno
+1400
+1200
+1100
+900
+Permitida
+Ver  6.7.3.7.3
+1,09
+3153
+Perfluor (éter metilvinílico)
+1430
+1340
+1120
+1020
+Permitida
+Normal
+1,14
+3159
+1,1,1,2-Tetrafluoretano (Gas refrigerante R 134a)
+1770
+1570
+1380
+1210
+Permitida
+Normal
+1,04
+3161
+Gas licuado inflamable, N.E.P.
+Ver definición de PTMA en 6.7.3.1
+Permitida
+Normal
+Ver 4.2.2.7
+3163
+Gas licuado, N.E.P.
+Ver definición de PTMA en 6.7.3.1
+Permitida
+Normal
+Ver  4.2.2.7
+3220
+Pentafluoretano (Gas refrigerante  R 125)
+3440
+3080
+2750
+2450
+Permitida
+Normal
+0,95
+3252
+Difluormetano (Gas refrigerante   R 32)
+4300
+3900
+3440
+3050
+Permitida
+Normal
+0,78
+3296
+Heptafluorpropano (Gas refrigerante R 227)
+1600
+1400
+1250
+1100
+Permitida
+Normal
+1,20
+3297
+Mezcla de óxido de etileno y clorotetrafluoretano, con no más de 8,8 % de óxido de etileno
+810
+700
+700
+700
+Permitida
+Normal
+1,16
+3298
+Mezcla de óxido de etileno y pentafluoretano, con no más de    7,9 % de óxido de etileno
+2590
+2340
+2090
+1860
+Permitida
+Normal
+1,02
+
+T50
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES (continuación)
+T50
+Esta instrucción para cisternas portátiles se aplica a gases licuados no refrigerados. Deberán ser cumplidos los requerimientos generales de la sección 4.2.2 y los requerimientos de la sección 6.7.3.
+Nº
+ONU
+Gases licuados no refrigerados
+Presión de trabajo máxima admisible (kPa) 
+Pequeño;
+No protegido;
+Protegido del sol; Aislado
+Abertura debajo del nivel de líquido
+Requeri-mientos de
+presión de alivio
+(ver 6.7.3.7)
+Grado de llenado máximo
+(kg/l )
+3299
+Mezcla de óxido de etileno y tetrafluoretano, con no más de    5,6 % de óxido de etileno
+1670
+1470
+1290
+1120
+Permitida
+Normal
+1,03
+3318
+Amoníaco en solución acuosa, con densidad relativa menor que 0,880 a 15 ºC, con más de 50 % de amoníaco
+Ver definición de PTMA
+en 6.7.3.1
+Permitida
+Ver
+ 6.7.3.7.3
+Ver
+4.2.2.7
+3337
+Gas refrigerante R 404A
+3160
+2830
+2530
+2250
+Permitida
+Normal
+0,82
+3338
+Gas refrigerante R 407A
+3130
+2810
+2510
+2240
+Permitida
+Normal
+0,94
+3339
+Gas refrigerante R 407B
+3300
+2960
+2650
+2360
+Permitida
+Normal
+0,93
+3340
+Gas refrigerante R 407C
+2990
+2680
+2390
+2130
+Permitida
+Normal
+0,95
+
+T75
+INSTRUCCIÓN PARA CISTERNAS PORTÁTILES
+T75
+Esta instrucción para cisternas portátiles se aplica a gases licuados refrigerados.  Deberán ser cumplidas las disposiciones generales de la sección 4.2.3  y  los requerimientos de la sección 6.7.4.
+
+
+4.2.4.3	Disposiciones especiales para cisternas portátiles
+
+Existen disposiciones especiales para cisternas portátiles asignadas a ciertas mercancías que establecen requerimientos adicionales o sustitutivos de los suministrados por las instrucciones o los requerimientos del Capítulo 6.7. Las disposiciones especiales para cisternas portátiles, están designadas usando la abreviación TP y están asignadas a las mercancías específicas en la Columna 13 del Listado de Mercancías Peligrosas, del Capítulo 3.2. La siguiente es una lista de las disposiciones especiales para cisternas portátiles:
+
+TP1
+-
+Deberán ser cumplidos los límites especificados en 4.2.1.9.2.          
+ (Grado de llenado = )
+TP2
+-
+Deberán ser cumplidos los límites especificados en 4.2.1.9.3.           (Grado de llenado = )
+TP3
+-
+Para líquidos transportados bajo condiciones de temperatura elevada deberán ser cumplidos los límites de llenado especificados en  4.2.1.9.5.1.                   (Grado de llenado = )
+TP4
+-
+El grado de llenado para cisternas portátiles no deberá exceder 90 % o, alternativamente, cualquier otro valor aprobado por la autoridad competente (ver 4.2.1.15.2).
+TP5
+-
+Reservado.
+TP6
+-
+Para evitar la ruptura de la cisterna en cualquier incidente, incluyendo el envolvimiento en fuego, la cisterna deberá estar equipada con dispositivos de alivio de presión adecuados a la capacidad de la cisterna y a la  naturaleza de la mercancía transportada. El dispositivo deberá ser, también, compatible con la mercancía.
+TP7
+-
+El aire deberá ser eliminado del espacio de cabeza por medio de nitrógeno o por otros medios.
+TP8
+-
+La presión de ensayo para la cisterna portátil podrá ser reducida  a 150 kPa, cuando el punto de inflamación  de la mercancía transportada sea superior a 0 ºC.
+TP9
+-
+Las sustancias bajo esta descripción sólo deberán ser transportadas en una cisterna portátil bajo una aprobación otorgada por la autoridad competente del Estado Parte.
+TP10
+-
+Se requiere de un forro de plomo, con espesor no inferior a 5 mm, el cual deberá ser ensayado anualmente, u otro material de revestimiento adecuado, aprobado por la autoridad competentedel Estado Parte.
+TP12
+-
+Altamente corrosivo para el acero.
+TP13
+-
+Cuando esta sustancia es transportada, se deberá proveer un equipo de respiración autónoma.
+TP16
+-
+La cisterna deberá estar equipada con un dispositivo especial para evitar baja presión o presión excesiva, en condiciones normales de transporte. Ese dispositivo deberá ser aprobado por la autoridad competente. Los requerimientos de presión de alivio, son como se indica en 6.7.2.8.3 para evitar la cristalización del producto en la válvula de alivio de presión.
+TP17
+-
+Para el aislamiento térmico de la cisterna sólo deberán ser utilizados materiales inorgánicos no combustibles.
+TP18
+-
+La temperatura deberá ser mantenida entre 18 ºC y 40 ºC. Las cisternas portátiles que contengan ácido metacrílico solidificado no deberán ser recalentadas durante el transporte.
+TP19
+-
+El espesor calculado para las paredes deberá ser incrementado en 3 mm. El espesor de las paredes deberá ser verificado por ultrasonido, a medio intervalo entre los ensayos hidráulicos periódicos.
+TP20
+-
+Esta sustancia sólo deberá ser transportada en cisternas aisladas y bajo una capa  de nitrógeno.
+TP21
+-
+El espesor de las paredes no deberá ser inferior a 8 mm. Las cisternas deberán ser ensayadas hidráulicamente e inspeccionadas internamente a intervalos no superiores a 2,5 años.
+TP22
+-
+Lubricantes para juntas u otros dispositivos deberán ser compatibles con el oxígeno.
+TP23
+-
+Transporte permitido bajo condiciones especiales especificadas por las autoridades competentes.
+TP24
+-
+La cisterna portátil podrá estar equipada con un dispositivo colocado en el espacio de vapor de la carcaza en condiciones de llenado máximo, para evitar el desarrollo de excesos de presión debido a la lenta descomposición de la mercancía transportada. Este dispositivo deberá evitar, también, la fuga de una cantidad inaceptable de líquido, en caso de vuelco o la entrada de materia extraña a la cisterna. Este dispositivo deberá ser aprobado por la autoridad competente del Estado Parte u organismo autorizado por ella.
+TP25
+-
+Trióxido de azufre con pureza igual o superior a 99,95 % podrá ser transportado en cisternas sin inhibidor, siempre que sea mantenido a una temperatura igual o superior a 32,5 ºC.
+TP26
+-
+Cuando sea transportado bajo condiciones de calentamiento, el dispositivo de calentamiento deberá estar instalado fuera de la carcaza. Para ONU 3176, este requerimiento sólo es aplicable cuando la sustancia reacciona peligrosamente con agua.
+TP27
+-
+Podrá ser usado un cisterna portátil teniendo una presión mínima de ensayo inferior a 400 kPa, si se demuestra que, una presión de 400 kPa o inferior, es aceptable de acuerdo con la definición de presión de ensayo en 6.7.2.1.
+TP28
+-
+Podrá ser usado un cisterna portátil teniendo una presión mínima de ensayo inferior a 265 kPa, si se demuestra que, una presión de 265 kPa o inferior, es aceptable de acuerdo con la definición de presión de ensayo en 6.7.2.1.
+TP29
+
+Podrá ser usado un cisterna portátil teniendo una presión mínima de ensayo inferior a 150 kPa, si se demuestra que, una presión de 150 kPa o inferior, es aceptable de acuerdo con la definición de presión de ensayo en 6.7.2.1.
+TP30
+
+Esta sustancia se deberá transportar en cisternas con aislamiento térmico.
+TP31
+-
+Esta sustancia sólo podrá transportarse en cisternas cuando se encuentre en estado sólido.
