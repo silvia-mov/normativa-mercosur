@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" role="img" aria-label="silv[ia], la asistente">
+<path d="M120 22h56a14 14 0 0 1 14 14v18a14 14 0 0 1-14 14h-30l-14 12V68h-12a14 14 0 0 1-14-14V36a14 14 0 0 1 14-14z" fill="#FEC9D7"/>
+<circle cx="132" cy="45" r="5" fill="#FF5883"/><circle cx="148" cy="45" r="5" fill="#FF5883"/><circle cx="164" cy="45" r="5" fill="#FF5883"/>
+<line x1="88" y1="52" x2="92" y2="74" stroke="#FF5883" stroke-width="4" stroke-linecap="round"/><circle cx="87" cy="48" r="8" fill="#FF91AD"/>
+<path d="M40 190c0-34 26-58 58-58s58 24 58 58v30H40z" fill="#f5eef1"/>
+<rect x="30" y="72" width="136" height="98" rx="44" fill="#f5eef1"/>
+<rect x="44" y="86" width="108" height="66" rx="33" fill="#1d3b35"/>
+<path d="M70 120q8-12 16 0M110 120q8-12 16 0" stroke="#79D3BE" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M88 132q10 8 20 0" stroke="#79D3BE" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M18 104l10 4M14 118h10M18 132l10-4" stroke="#FF5883" stroke-width="4" stroke-linecap="round"/>
+</svg>

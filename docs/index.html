@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Consultas sobre normas del MERCOSUR</title>
+<title>silv[ia] · normas del MERCOSUR</title>
 <meta name="description" content="Preguntale a un asistente sobre las decisiones del Consejo del Mercado Común del MERCOSUR (1991–2026). Responde solo con el texto de las normas y cita la fuente.">
 <link rel="icon" href="logo.svg" type="image/svg+xml">
 <link rel="canonical" href="https://silvia-mov.github.io/normativa-mercosur/">
@@ -63,14 +63,29 @@ h2.sec { text-align:center; font-size:22px; margin:36px 0 14px; }
 .dlc a, .dlc span { display:inline-block; background:#fff; color:#1d1a1c; font-weight:600; padding:7px 16px; border-radius:99px; text-decoration:none; font-size:14px; }
 .dlc span { opacity:.7; }
 .c1 { background:#e5466f; } .c2 { background:#d9688a; } .c3 { background:#1f9c80; }
+.heroflex { display:flex; align-items:center; gap:24px; } .mascota { width:190px; flex:none; }
+@media (max-width:640px){ .mascota { width:110px; } .heroflex { gap:10px; } }
+.info { display:grid; grid-template-columns:1fr 1.3fr; gap:24px; align-items:center; margin:36px 0 8px; }
+@media (max-width:700px){ .info { grid-template-columns:1fr; } }
+.rasgos h3 { margin:0 0 4px; font-size:20px; } .rasgos p { margin:0 0 16px; color:var(--text2); }
+h3.v { color:var(--accent); } h3.r { color:var(--pink); }
+.ejemplo { background:#b9eee1; border-radius:20px; padding:18px; }
+.ej-in { background:var(--panel); border-radius:14px; padding:16px; } .ej-in b:first-child { color:var(--accent); }
+.ej-in p { margin:8px 0 12px; }
+.ej-in a { display:block; background:var(--yo); color:var(--yotext); border-radius:10px; padding:8px 12px; font-size:14px; text-decoration:none; }
+.flujo { list-style:none; padding:0; margin:0; display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px; }
+.flujo li { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:16px; text-align:center; }
+.flujo p { margin:4px 0 0; color:var(--text2); font-size:14px; }
+.i { display:grid; place-items:center; width:40px; height:40px; border-radius:50%; color:#fff; font-weight:700; margin:0 auto 8px; }
+.i1 { background:#1d3b35; } .i2 { background:#39b89a; } .i3 { background:#ff91ad; } .i4 { background:#ff5883; }
 </style>
 </head>
 <body>
 <header class="hero">
   <div class="wrap">
     <div class="marca"><img src="logo.svg" alt=""><span><b>Normas MERCOSUR</b><br><small>Asistente de consultas · proyecto independiente</small></span></div>
-    <h1>Tu asistente para la normativa <em>MERCOSUR</em></h1>
-    <p class="lead">Preguntá y obtené respuestas basadas solo en el texto de las 1.130 decisiones del Consejo del Mercado Común (1991–2026), con la norma citada.</p>
+    <div class="heroflex"><div><h1>Hola, soy <em>silv[ia]</em>: tu asistente para la normativa MERCOSUR</h1>
+    <p class="lead">Preguntá y obtené respuestas basadas solo en el texto de las 1.130 decisiones del Consejo del Mercado Común (1991–2026), con la norma citada.</p></div><img class="mascota" src="silvia.svg" alt="silv[ia], la asistente"></div>
   </div>
 </header>
 
@@ -83,10 +98,26 @@ h2.sec { text-align:center; font-size:22px; margin:36px 0 14px; }
     <button type="button">¿Qué decisiones tratan sobre el arancel externo común?</button>
   </div>
   <form id="form">
-    <textarea id="pregunta" rows="2" maxlength="500" placeholder="Escribí tu pregunta…" aria-label="Tu pregunta" disabled></textarea>
+    <textarea id="pregunta" rows="2" maxlength="500" placeholder="Preguntale a silv[ia] sobre la normativa del MERCOSUR…" aria-label="Tu pregunta" disabled></textarea>
     <button id="enviar" disabled>Preguntar</button>
   </form>
   <div id="chat" aria-live="polite"></div>
+
+  <section class="info">
+    <div class="rasgos">
+      <div><h3 class="v">Trazabilidad directa</h3><p>Cada respuesta enlaza al texto exacto de la norma en el repositorio.</p></div>
+      <div><h3 class="r">Solo con las normas</h3><p>silv[ia] responde únicamente con el texto de las decisiones; si no lo encuentra, lo dice.</p></div>
+    </div>
+    <div class="ejemplo"><div class="ej-in"><b>silv[ia] responde:</b><p>Según la <b>Decisión CMC N° 44/10</b>, el Régimen de Origen MERCOSUR fija los requisitos para que un producto sea considerado originario y reciba la preferencia.</p><a href="https://github.com/silvia-mov/normativa-mercosur/tree/main/decisiones/2010">decisiones/2010/DEC_044-2010 → Ver fuente</a></div></div>
+  </section>
+
+  <h2 class="sec">Cómo funciona</h2>
+  <ol class="flujo">
+    <li><span class="i i1">1</span><b>Repositorio</b><p>1.130 decisiones en texto, en GitHub.</p></li>
+    <li><span class="i i2">2</span><b>Búsqueda</b><p>Encuentra los fragmentos que hablan de tu pregunta.</p></li>
+    <li><span class="i i3">3</span><b>Lectura</b><p>La IA lee solo esos fragmentos.</p></li>
+    <li><span class="i i4">4</span><b>Respuesta</b><p>Síntesis breve con la norma citada y su enlace.</p></li>
+  </ol>
 
   <h2 class="sec">Descargá las normas completas</h2>
   <div class="dl">
@@ -155,7 +186,7 @@ $("form").addEventListener("submit", async (e) => {
   if (!res.length) { agregar("bot", "<p>No encontré normas que hablen de eso. Probá con otras palabras.</p>"); return; }
   const frags = res.map((r) => { const [dec, texto] = DATOS.fragmentos[r.id]; const [codigo, titulo, anio, url] = DATOS.decisiones[dec]; return { codigo, titulo, anio, url, texto }; });
   if (!ASISTENTE_URL) { agregar("bot", "<p>Estas son las normas que mejor coinciden con tu pregunta:</p>" + fuentesHTML(frags)); return; }
-  const caja = agregar("bot", "<p>Leyendo las normas…</p>");
+  const caja = agregar("bot", "<p>silv[ia] está leyendo las normas…</p>");
   $("enviar").disabled = true;
   try {
     const r = await fetch(ASISTENTE_URL, { method: "POST", headers: { "Content-Type": "application/json" },
