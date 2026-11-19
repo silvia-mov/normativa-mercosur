@@ -23,7 +23,7 @@ ordenadas con nombres claros, para leerlas, buscarlas y analizarlas con cualquie
 
 ## Página de consultas
 
-[silvia-mov.github.io/normativa-mercosur](https://silvia-mov.github.io/normativa-mercosur/): buscador y asistente que responde solo con el texto de las normas (decisiones, resoluciones y directivas) y cita la fuente. Se puede elegir en qué tipo de norma buscar; las derogadas se marcan. Usa `docs/` (página), `worker/` (intermediario de Cloudflare) y `scripts/e_datos_web.py` (datos de la página). Buscador: [MiniSearch](https://github.com/lucaong/minisearch) (MIT).
+[silvia-mov.github.io/normativa-mercosur](https://silvia-mov.github.io/normativa-mercosur/): buscador y asistente que responde solo con el texto de las normas (decisiones, resoluciones y directivas) y cita la fuente. Se puede elegir en qué tipo de norma buscar; las derogadas se marcan. También permite bajar cualquier norma en .txt eligiendo tipo, año y número, con enlace a su ficha en el sitio del MERCOSUR para el original (datos: `scripts/f_catalogo_web.py`, que usa `indices/fichas_decisiones.csv` para las fichas de las decisiones). Usa `docs/` (página), `worker/` (intermediario de Cloudflare) y `scripts/e_datos_web.py` (datos de la página). Buscador: [MiniSearch](https://github.com/lucaong/minisearch) (MIT).
 
 ## Cómo están organizados
 

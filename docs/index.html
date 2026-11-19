@@ -63,8 +63,16 @@ h2.sec { text-align:center; font-size:22px; margin:36px 0 14px; }
 .dl { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; }
 .dlc { border-radius:16px; padding:18px; color:#fff; }
 .dlc h3 { margin:0 0 6px; } .dlc p { margin:0 0 14px; font-size:15px; opacity:.95; }
-.dlc a, .dlc span { display:inline-block; background:#fff; color:#1d1a1c; font-weight:600; padding:7px 16px; border-radius:99px; text-decoration:none; font-size:14px; }
-.dlc span { opacity:.7; }
+.dlc .sel { display:flex; gap:8px; margin:0 0 10px; }
+.dlc select { flex:1; min-width:0; font:inherit; font-size:14px; color:#1d1a1c; background:#fff; border:0; border-radius:10px; padding:7px 8px; }
+.dlc .elegida { font-size:14px; margin:0 0 12px; min-height:2.6em; opacity:.95; }
+.dlc .elegida b { display:block; font-size:12px; text-transform:uppercase; letter-spacing:.04em; opacity:.85; }
+.dlc button.bajar { display:inline-block; background:#fff; color:#1d1a1c; font-weight:600; padding:7px 16px; border-radius:99px; font-size:14px; }
+.dlc button.bajar:disabled { opacity:.6; cursor:not-allowed; }
+.dlc .orig, .dlc .extras a { color:#fff; font-size:13px; }
+.dlc .orig { display:block; margin-top:10px; }
+.dlc .extras { font-size:13px; margin-top:8px; } .dlc .extras a { margin-right:8px; white-space:nowrap; }
+.todo { text-align:center; font-size:14px; color:var(--text2); margin:14px 0 0; }
 .c1 { background:#e5466f; } .c2 { background:#d9688a; } .c3 { background:#1f9c80; }
 .heroflex { display:flex; align-items:center; gap:24px; } .mascota { width:190px; flex:none; }
 @media (max-width:640px){ .mascota { width:110px; } .heroflex { gap:10px; } }
@@ -126,12 +134,28 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
     <li><span class="i i4">4</span><b>Respuesta</b><p>Síntesis breve con la norma citada y su enlace.</p></li>
   </ol>
 
-  <h2 class="sec">Descargá las normas completas</h2>
+  <h2 class="sec">Descargá una norma en texto</h2>
   <div class="dl">
-    <div class="dlc c1"><h3>Decisiones</h3><p>Las 1.130 decisiones del CMC en texto, con índice en Excel.</p><a href="https://github.com/silvia-mov/normativa-mercosur/archive/refs/heads/main.zip">Descargar</a></div>
-    <div class="dlc c2"><h3>Resoluciones</h3><p>Las 2.181 resoluciones del GMC (1991–2026): archivos originales por década, en texto y con índice en Excel.</p><a href="https://github.com/silvia-mov/normativa-mercosur/releases/tag/resoluciones_gmc">Descargar</a></div>
-    <div class="dlc c3"><h3>Directivas</h3><p>Las 1.933 directivas de la CCM (1994–2026): archivos originales por década, en texto y con índice en Excel.</p><a href="https://github.com/silvia-mov/normativa-mercosur/releases/tag/directivas_ccm">Descargar</a></div>
+    <div class="dlc c1" data-tipo="dec"><h3>Decisiones</h3><p>Consejo del Mercado Común: 1.130 decisiones (1991–2026).</p>
+      <div class="sel"><select class="anio" aria-label="Año de la norma (decisiones)" disabled><option value="">Año</option></select><select class="num" aria-label="Número de la norma (decisiones)" disabled><option value="">Número</option></select></div>
+      <p class="elegida"></p>
+      <button type="button" class="bajar" disabled>Descargar .txt</button>
+      <div class="extras"></div>
+      <a class="orig" hidden target="_blank" rel="noopener">Ver el original (PDF/Word) en el sitio del MERCOSUR ↗</a></div>
+    <div class="dlc c2" data-tipo="res"><h3>Resoluciones</h3><p>Grupo Mercado Común: 2.181 resoluciones (1991–2026).</p>
+      <div class="sel"><select class="anio" aria-label="Año de la norma (resoluciones)" disabled><option value="">Año</option></select><select class="num" aria-label="Número de la norma (resoluciones)" disabled><option value="">Número</option></select></div>
+      <p class="elegida"></p>
+      <button type="button" class="bajar" disabled>Descargar .txt</button>
+      <div class="extras"></div>
+      <a class="orig" hidden target="_blank" rel="noopener">Ver el original (PDF/Word) en el sitio del MERCOSUR ↗</a></div>
+    <div class="dlc c3" data-tipo="dir"><h3>Directivas</h3><p>Comisión de Comercio: 1.933 directivas (1994–2026).</p>
+      <div class="sel"><select class="anio" aria-label="Año de la norma (directivas)" disabled><option value="">Año</option></select><select class="num" aria-label="Número de la norma (directivas)" disabled><option value="">Número</option></select></div>
+      <p class="elegida"></p>
+      <button type="button" class="bajar" disabled>Descargar .txt</button>
+      <div class="extras"></div>
+      <a class="orig" hidden target="_blank" rel="noopener">Ver el original (PDF/Word) en el sitio del MERCOSUR ↗</a></div>
   </div>
+  <p class="todo">Elegí año y número, y bajá el texto. El documento original está en la ficha de cada norma del sitio del MERCOSUR. ¿Todas juntas? <a href="https://github.com/silvia-mov/normativa-mercosur/archive/refs/heads/main.zip">Todos los textos en un .zip</a>.</p>
 </main>
 
 <footer>
@@ -229,6 +253,56 @@ $("form").addEventListener("submit", async (e) => {
     caja.innerHTML = "<p>El asistente no respondió. Mientras tanto, estas son las normas que coinciden:</p>" + fuentesHTML(frags);
   } finally { $("enviar").disabled = false; }
 });
+// Descargas: tipo -> año -> número -> .txt del repositorio; enlace a la ficha oficial para el original.
+const RAW = "https://raw.githubusercontent.com/silvia-mov/normativa-mercosur/main/";
+const CARPETA = { dec: "decisiones", res: "resoluciones", dir: "directivas" };
+const FICHA = "https://normas.mercosur.int/public/normativas/";
+const corto = (t, n) => t.length > n ? t.slice(0, n - 1) + "…" : t;
+
+async function bajar(ruta, nombre, boton) {
+  const antes = boton.textContent; boton.disabled = true; boton.textContent = "Descargando…";
+  try {
+    const r = await fetch(RAW + ruta); if (!r.ok) throw new Error(r.status);
+    const url = URL.createObjectURL(new Blob([await r.arrayBuffer()], { type: "text/plain;charset=utf-8" }));
+    const a = Object.assign(document.createElement("a"), { href: url, download: nombre });
+    document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 10000);
+    boton.textContent = antes;
+  } catch { boton.textContent = "No se pudo descargar; probá de nuevo"; }
+  finally { boton.disabled = false; }
+}
+
+fetch("datos/catalogo.json").then((r) => r.json()).then((cat) => {
+  document.querySelectorAll(".dlc[data-tipo]").forEach((card) => {
+    const tipo = card.dataset.tipo, lista = cat[tipo] || [];
+    const [selA, selN] = card.querySelectorAll("select"), boton = card.querySelector(".bajar");
+    const elegida = card.querySelector(".elegida"), orig = card.querySelector(".orig"), extras = card.querySelector(".extras");
+    const anios = [...new Set(lista.map((x) => x[0]))].sort((a, b) => b - a);
+    selA.innerHTML = '<option value="">Año</option>' + anios.map((a) => `<option>${a}</option>`).join("");
+    selA.disabled = false;
+    let actual = null;
+    const mostrar = () => {
+      boton.disabled = !actual; orig.hidden = !actual; extras.innerHTML = "";
+      if (!actual) { elegida.textContent = ""; return; }
+      const [anio, num, titulo, archivo, ficha, x] = actual;
+      const vig = tipo !== "dec" && x ? ` · ${x.toLowerCase()}` : "";
+      elegida.innerHTML = `<b>N° ${num}/${anio}${vig}</b>${escapar(corto(titulo, 140))}`;
+      orig.href = FICHA + ficha;
+      if (tipo === "dec" && Array.isArray(x)) {
+        extras.innerHTML = "También: " + x.map(([et, arch], i) => `<a href="#" data-i="${i}">${escapar(et)}</a>`).join("");
+        extras.querySelectorAll("a").forEach((a) => a.addEventListener("click", (e) => {
+          e.preventDefault(); const arch = x[a.dataset.i][1]; bajar(`${CARPETA[tipo]}/${anio}/${arch}`, arch, boton);
+        }));
+      }
+    };
+    selA.addEventListener("change", () => {
+      const delAnio = lista.filter((x) => x[0] == selA.value).sort((a, b) => a[1] - b[1]);
+      selN.innerHTML = '<option value="">Número</option>' + delAnio.map((x) => `<option value="${x[1]}">${x[1]} · ${escapar(corto(x[2], 40))}</option>`).join("");
+      selN.disabled = !selA.value; actual = null; mostrar();
+    });
+    selN.addEventListener("change", () => { actual = lista.find((x) => x[0] == selA.value && x[1] == selN.value) || null; mostrar(); });
+    boton.addEventListener("click", () => { if (actual) bajar(`${CARPETA[tipo]}/${actual[0]}/${actual[3]}`, actual[3], boton); });
+  });
+}).catch(() => { document.querySelectorAll(".dlc .elegida").forEach((e) => { e.textContent = "No se pudo cargar la lista de normas. Recargá la página."; }); });
 </script>
 </body>
 </html>
