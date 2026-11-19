@@ -1,6 +1,6 @@
 // Intermediario (Cloudflare Worker) entre la página y Gemini.
 // Guarda la clave en secreto (variable GEMINI_API_KEY) y solo deja que la IA use los fragmentos enviados.
-// Variables: GEMINI_API_KEY (secreto, obligatorio), MODELO (opcional; por defecto gemini-2.5-flash).
+// Variables: GEMINI_API_KEY (secreto, obligatorio), MODELO (opcional; por defecto gemini-flash-latest, el Flash vigente).
 
 const ORIGEN = "https://silvia-mov.github.io";
 
@@ -37,7 +37,7 @@ export default {
 
     const contexto = fragmentos.map((f) =>
       `[${String(f.codigo).slice(0, 30)}] ${String(f.titulo).slice(0, 300)}\n${String(f.texto).slice(0, 2000)}`).join("\n\n---\n\n");
-    const modelo = env.MODELO || "gemini-2.5-flash";
+    const modelo = env.MODELO || "gemini-flash-latest";
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelo}:generateContent`;
     const r = await fetch(url, {
       method: "POST",
@@ -49,7 +49,11 @@ export default {
       }),
     });
     if (r.status === 429) return respuesta({ error: "Hoy se usaron todas las consultas gratuitas. Probá mañana; mientras, revisá las fuentes de abajo." }, 429);
-    if (!r.ok) return respuesta({ error: "El asistente no está disponible ahora. Revisá las fuentes de abajo." }, 502);
+    if (!r.ok) {
+      // El código de Gemini ayuda a diagnosticar: 400/403 = clave GEMINI_API_KEY faltante o inválida; 404 = modelo inexistente.
+      const sinClave = !env.GEMINI_API_KEY ? " (falta la clave GEMINI_API_KEY)" : "";
+      return respuesta({ error: `El asistente no está disponible ahora (Gemini ${r.status}${sinClave}). Revisá las fuentes de abajo.` }, 502);
+    }
     const j = await r.json();
     const texto = j?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
     return respuesta({ respuesta: texto || "No encontré esa información en las normas cargadas." });

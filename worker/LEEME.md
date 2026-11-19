@@ -8,5 +8,5 @@ Guarda la clave de Gemini en secreto y le pasa a la IA solo los fragmentos de no
    Google AI Studio → Deploy.
 4. Copiar la dirección del Worker (termina en `.workers.dev`) y ponerla en `ASISTENTE_URL` de `docs/index.html`.
 
-Opcional: variable `MODELO` (texto) para usar otro modelo de Gemini. Sin tarjeta cargada, Google no cobra:
+Opcional: variable `MODELO` (texto) para usar otro modelo de Gemini (por defecto `gemini-flash-latest`). Si la página dice "Gemini 403" o "400", revisar la clave; "404", el modelo. Sin tarjeta cargada, Google no cobra:
 al llegar al tope diario gratuito, la página avisa "probá mañana".
