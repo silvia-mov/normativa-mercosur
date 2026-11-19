@@ -1,0 +1,494 @@
+Resolución GMC N° 76/96
+Título: REGLAMENTO TÉCNICO PARA REGISTRO DE PRODUCTOS ANTIPARASITÁRIOS DE USO VETERINÁRIO
+Fecha de aprobación: 11/10/1996
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24519_RES_076-1996_ES_RT RegProductAntiparasitUsoVeterinario.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1819).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 76/96
+
+
+REGLAMENTO TECNICO PARA REGISTRO DE PRODUCTOS ANTIPARASITARIOS DE USO VETERINARIO
+
+      VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión nº 4/91 del Consejo del Mercado Común y la Resolución nº 11/93 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que los Estados Partes aprobaron el contenido del documento sobre el Marco Regulatorio de Productos Veterinarios y su Reglamentación Complementaria;
+
+Que existe la necesidad de armonizar reglamentos específicos que aseguren que los productos antiparasitarios a registrar en cada Estado Parte sean controlados por un único Reglamento.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Aprobar el Reglamento Técnico para Registro de Productos Antiparasitarios de Uso Veterinario, que consta en el Anexo I y forma parte de la presente Resolución.
+
+Art. 2 - Los órganos responsables de la implementación de la presente Resolución en cada Estado Parte son:
+
+ARGENTINA 	Servicio Nacional de Sanidad Animal
+(Secretaría de Agricultura y Pesca y Alimentación)
+
+BRASIL 		Ministério da Agricultura e do Abastecimento
+(Secretaria de Defesa Agropecuária)
+
+PARAGUAY 	Ministerio de Agricultura y Ganadería
+
+URUGUAY 		Ministerio de Ganadería, Agricultura y Pesca
+
+Art. 3 - El presente Reglamento entrará en vigencia el 30/03/97.
+
+XXIII GMC, Brasilia 11/10/96
+
+ANEXO I
+
+REGLAMENTOS TECNICOS PARA REGISTRO DE PRODUCTOS ANTIPARASITARIOS DE USO VETERINARIO
+
+1.	TESTS DE EFICACIA
+
+Los métodos de evaluación de los productos correspondientes a los ítems 1.1 a 1.9, que se describen a continuación, son considerados requisitos básicos.  Serán aceptados a los efectos de nuevos registros, datos de publicaciones científicas internacionalmente aceptadas o de experimentos realizados de acuerdo a los preceptos éticos y científicos.
+
+1.1	Vermicidas
+1.2	Matabicheras
+1.3	Antihelmínticos
+1.4	Insecticidas
+1.5	Sarnífugos
+1.6	Piojicidas
+1.7	Anticoccidios
+1.8	Hemoparasiticidas
+1.9	Otras indicaciones de parasiticidas
+2.0	Etiquetado para productos ectoparasiticidas
+3.0	De acción residual
+4.0	Disposiciones generales
+
+
+1.1	TEST DE EFICACIA PARA VERMICIDAS EN VACUNOS
+
+1.1.1	TEST DE CAMPO
+
+a)	Animales infectados naturalmente:  Deben seleccionarse, identificarse y pesarse un mínimo de 10 vacunos infectados con larvas de Dermatobia hominis a efectos de calcular la dosis a ser administrada. Antes del tratamiento, el número de larvas en todo el cuerpo del animal debe ser registrado y representado gráficamente con precisión en un diseño con formato de vacuno. Los animales deberán ser listados, en orden decreciente, de acuerdo con el conteo de larvas. Los dos animales con el conteo más elevado deberán ser distribuidos por sorteo, uno al grupo testigo (no tratado) y el otro al grupo tratado, repitiéndose tal procedimiento hasta que cada grupo contenga diez animales.
+
+b)	Eficacia:  la eficacia del producto será determinada comparándose la mortalidad o expulsión de las larvas en un período máximo de 7 días después del tratamiento de los animales tratados, y de los testigos de acuerdo a la siguiente fórmula:
+% de Eficacia = (Larvas vivas en los testigos - Larvas vivas en los tratados) ÷ (larvas vivas en los testigos) x 100.
+Se exige que el producto tenga un mínimo del 90% de eficacia.
+
+1.1.2	TEST EN ANIMALES CRIADOS EN ESTABLO e INFECTADOS ARTIFICIALMENTE
+
+a)	Infección Artificial (Optativa):  Un mínimo de cuatro vacunos debe ser infectado, individualmente, con 25 larvas del primer instar (etapa) de Dermatobia hominis. Después de 20 a 24 días de la infección, el número de larvas presentes en los animales debe ser registrado antes del tratamiento con el producto de evaluación. Otros cuatro bovinos, infectados de modo similar, sin tratamiento, serán considerados como testigos.
+
+b)	Eficacia:  la eficacia del producto será determinada comparando la mortalidad o expulsión de las larvas en los animales tratados y testigos, en un período máximo de 7 días de tratamiento con un mínimo del 90% de eficacia, de acuerdo a la fórmula citada en el inciso 1.1.1b.
+
+1.1.3	TEST PARA DETERMINAR EL PERIODO DE EFECTO RESIDUAL (OPTATIVO)
+
+a)	Infección artificial: Grupos de cuatro vacunos, previamente tratados con el producto, deben ser desafiados, individualmente, con 25 larvas de 1o  instar de Dermatobia hominis a intervalos máximos de 5 días, hasta el establecimiento de las larvas. Deben mantenerse como testigos un mínimo de 4 vacunos sin tratamiento, infectados de la misma manera.
+
+b)	Infección natural: se utilizará el mismo procedimiento del inciso anterior, debiendo extraer las larvas manualmente, a intervalos regulares de 5 a 7 días, hasta que la eficacia observada sea inferior al 90%.
+
+1.2	TEST DE EFICACIA DE MATABICHERAS
+
+1.2.1	INFECCIÓN EXPERIMENTAL
+
+Los tests de matabicheras deben ser realizados utilizando como mínimo 5 animales con 2 miíasis (infección por introducción de larvas de mosca) cada una, inducida artificialmente. Estas miíasis deben ser establecidas realizando incisiones cutáneas de tres a cuatro centímetros de diámetro, con anestesia local, infectando cada una de ellas con 100 larvas de 1er. instar de Cochliomyia hominivorax. Los animales deberán ser tratados después de la observación de las tres etapas larvarias o dos días después de la infección artificial. Paralelamente, el mismo número de animales infectados bajo las mismas condiciones deberá ser mantenido como testigos. Cuando el matabichera es de uso tópico, el experimento en una especie servirá como índice para las otras especies susceptibles.
+
+1.2.2	EFICACIA
+
+La eficacia del matabichera se determinará comparando la mortalidad o la expulsión de las larvas en los animales tratados en las primeras cuarenta y ocho horas después del tratamiento tópico o setenta y dos horas en los tratamientos sistémicos, con los animales testigos.  En ese momento los animales testigos deberán ser tratados. Se exige que el producto tenga una eficacia del 100%.
+
+1.3	TEST DE EFICACIA DE ANTIHELMÍNTICOS EN RUMIANTES (mínimo: 6 animales por grupo)
+
+El test controlado es el procedimiento más confiable para la determinación de la eficacia de antihelmínticos en rumiantes. Los tests antihelmínticos son realizados con infecciones inducidas artificialmente (para evaluación de las etapas de larvas y adultos) o en animales portadores de infecciones naturalmente adquiridas (usualmente evaluados en la etapa adulta). Son deseables las infecciones naturales porque los animales naturalmente infectados abrigarán, probablemente, la variedad y la cantidad de parásitos nativos del lugar. Los tests con infecciones inducidas artificialmente e infecciones  adquiridas naturalmente, propiciarán, ciertamente, la evaluación simultánea de una amplia variedad de helmintos.
+
+Para repartir los animales en grupos para estudios experimentales, deberán ser utilizados métodos de distribución que posibiliten estudios estadísticos apropiados.  Como sugerencia, el método descrito a seguir podrá ser utilizado: A los efectos de distribución, los animales deberán ser listados en orden decreciente, de acuerdo con el conteo de huevos por gramo de heces realizado entre los días -2 y 0 antes del tratamiento.  Los dos animales con el conteo más elevado serán destinados a la repetición número 1, los dos siguientes a la repetición número 2, hasta que se forme un mínimo de seis repeticiones.  Dentro de cada repetición, un animal deberá ser destinado por sorteo (al azar) a cada uno de los grupos de tratamiento (testigo no tratado o tratado).
+
+La eficacia se determina por comparación de la diferencia del número de helmintos recuperados a la necropsia parasitológica en los grupos medicados y testigos. La siguiente fórmula puede ser aplicada: % de eficacia = (promedio de helmintos de los animales control - promedio de helmintos de los animales tratados) ÷ (promedio de helmintos de los animales control) x 100. Pueden ocurrir casos que indiquen el uso de la razón geométrica, contrario al promedio aritmético. Esto dependerá, sobre todo, del hecho de que los conteos de vermes sean normalmente distribuidos o no. En el caso de tests controlados para verificación de la eficacia antihelmíntica contra determinadas especies de nematodos, los animales deberán ser sacrificados entre el 4o y el 7o día después del tratamiento, pudiendo aumentarse de acuerdo a la farmacocinética del compuesto. En el caso de tests controlados para evaluación de la eficacia contra cestodos, el intervalo mínimo entre el tratamiento y el sacrificio de los animales debe ser de 12 días.
+
+Las indicaciones de la etiqueta deben ser sólo para parásitos específicos (género, especie y estado de infección) contra los cuales el compuesto fue probado y para los cuales los datos fueron presentados para establecer las indicaciones. En tales indicaciones debe ser utilizado el siguiente criterio:
+Altamente efectivo > 98%
+Efectivo 90-98%
+Moderadamente efectivo 80-89%
+Insuficientemente activo < 80% (no registrable)
+Para tests utilizando infecciones artificiales con nematodos, deberá utilizarse la siguiente tabla para establecer la dosis mínima de larvas infectantes por estirpes:
+Tabla 1: Número de larvas viables de tercera etapa utilizadas para producir infecciones en vacunos, ovinos y caprinos, con fines de evaluación de agentes antihelmínticos.
+
+
+Vacunos
+Haemonchus placei
+5000-10000
+Ostertagia ostertagi
+10000-20000
+Trichostrongylus axei
+10000-15000
+Cooperia oncophora
+10000-15000
+Cooperia pectinata
+10000-15000
+Cooperia punctata
+10000-15000
+Nematodirus spathiger
+3000-6000
+Nematodirus helvetianus
+3000-6000
+
+
+Bunostomum phlebotomum
+1000
+Oesophagostomun radíatum/O. venulosum
+1000-2500
+Chabertia ovina
+1000
+Strongyloides papillosus
+200000
+
+
+Ovinos/Caprinos
+
+Haemonchus contortus
+2500-4000
+Teladorsagia circumcincta
+5000-10000
+Trichostrongylus axei
+3000-6000
+Trichostrongylus colubriformis + T. vitrinus
+3000-6000
+Cooperia curticei
+3000-6000
+Nematodirus spp.
+3000-6000
+Oesophagostomum columbianum
+800
+Oesophagostomum venulosum
+1000
+Bunostomum trigonocephalum (subcutáneo)
+1000
+Strongyloides papillosus (subcutáneo)
+80000
+Chabertia ovina
+800
+Gaigeria pachyscelis (percutáneo)
+400
+
+1.3.1	TEST CONTROLADO EMPLEANDO ANIMALES NATURALMENTE INFECTADOS
+
+Los animales que serán empleados en el test se mantendrán en régimen de pastoreo, en pasturas naturalmente infectadas con especies de parásitos internos de rumiantes, apuntando a la contaminación natural de los mismos, con una carga mixta de parásitos. Luego de un período de 21 días de pastoreo, como mínimo, los animales serán examinados individualmente en base a exámenes de las heces y de coprocultivos para determinación de los géneros de nematodos presentes. Basándose en los resultados observados, los animales serán distribuidos en dos grupos de forma homogénea, según el peso vivo y la carga parasitaria, como se describe a continuación:
+
+GRUPO I -	testigo, sin tratamiento, con un mínimo de 6 animales;
+GRUPO II -	tratado, según la dosis y la vía de administración recomendada por el laboratorio fabricante, con un mínimo de 6 animales.
+
+Se recomienda que los promedios de los conteos individuales del número de huevos de helmintos por gramo de heces de los grupos, sea como mínimo de 500 huevos. Siete días antes del tratamiento, los animales de los grupos I y II serán transferidos a instalaciones con piso de cemento donde recibirán alimentación y agua ad libitum. En el día cero, día del tratamiento, y cada 2 días de intervalo hasta el sacrificio de los animales, entre 4 y 7 días, se recogerán muestras fecales para realizar los exámenes de heces, para la determinación del número de huevos por gramo de heces (OPG), la presencia de larvas de Dictyocaulus spp. y coprocultivos para identificación de los géneros de nematodos. La eficacia del tratamiento se determina conforme ecuación descrita en el item 1.3.  En el caso de observar una carga parasitaria muy baja en el grupo control, el ensayo podrá ser invalidado.
+
+1.3.2	TIEMPO DE TRATAMIENTO PARA DETERMINAR LA EFICACIA CONTRA VARIOS ESTADIOS DE PARASITOS EN INFECCIONES INDUCIDAS ARTIFICIALMENTE
+
+1.3.2.1	ADULTOS
+
+Para evaluación de la eficacia de drogas contra nematodos adultos en infecciones artificialmente inducidas, el tratamiento no debe ser dado antes de los 21 a 25 días (28 - 35 días es lo ideal) después de la infección, excepto para Strongyloides, Oesophagostomum spp y Bunostomum spp. el intervalo de tiempo para estos géneros debe ser de 14 a 16, de 35 a 41 y de 52 a 56 días, respectivamente. Para Dictyocaulus spp. puede ser mejor esperar hasta que las larvas del 1º estadio aparezcan en las heces.
+
+1.3.2.2  LARVAS DE CUARTO ESTADIO
+
+Para evaluar un producto contra larvas del cuarto estadio (L4) en infecciones artificialmente inducidas, el tratamiento debe hacerse después de la inoculación del material infectante: de 3 a 4 días para Strongyloides; de 5 a 6 días para Haemonchus, Ostertagia, Trichostrongylus, Cooperia y Dictyocaulus; de 3 a 10 días para Nematodirus; y de 15 a 17 días para Oesophagostomum.  Enseguida del tratamiento, los parásitos restantes en los animales tratados y de control, podrán ser dejados para maduración, lo cual facilitará su recolección en la necropsia.
+
+1.3.2.3  LARVAS DE TERCER ESTADIO
+
+El tratamiento debe hacerse 2 días después de la infección artificial de los animales a todos los parásitos, excepto Haemonchus, que es tratado en el 1º día. La reivindicación de eficacia contra vermes inmaduros debe ser tan exacta cuanto sea posible. Se debe referir al estadio de desarrollo específico del parásito durante el tratamiento. El término general "inmaduro" no es aceptable, ya que cubre varias etapas diferentes del ciclo de vida. Para establecer normas para estadios específicos de infecciones inmaduras serán necesarios datos similares a los requeridos para los helmintos maduros.
+
+1.3.3	TEST CONTRA LARVAS INHIBIDAS (TIPO II) DE OSTERTAGIA
+
+Para mención en el rótulo de eficacia contra larvas de 4º estadio hipobióticas o inhibidas de Ostertagia, u otros vermes (ex. Haemonchus) debe ser seleccionado un número mínimo de 6 vacunos y/o 6 ovinos por tratamiento, con mayor probabilidad de abrigar larvas inhibidas.
+
+Los animales seleccionados para el test deben ser confinados para asegurar la no exposición adicional a larvas infectantes de Ostertagia. Después de 3 a 4 semanas de confinamiento los animales serán tratados, manteniéndose un grupo  testigo, siendo sacrificado a los 4 a 7 días posteriores al tratamiento. El abomaso (o cuajar) debe ser examinado para ver la presencia de larvas de Ostertagia del 4º estadio inhibidas incluyendo la digestión del órgano o su incubación en solución salina.
+
+1.3.4	TEST CONTRA ESTIRPES DE NEMATODOS RESISTENTES (OPTATIVO)
+
+1.3.4.1  TEST DE LABORATORIO
+
+Los ovinos sometidos a tests de laboratorio deben estar libres de parásitos y tener entre 3 y 9 meses de edad.
+
+ANIMALES: Se deberán usar como mínimo 30 ovinos distribuidos aleatoriamente en 3 grupos. Los ovinos serán infectados artificialmente de acuerdo con la dosis mínima de larvas infectantes por estirpe presentada en la tabla 1, y serán distribuidos y tratados de acuerdo con el siguiente esquema:
+
+GRUPO  I -  sin tratamiento (control)
+GRUPO II -  tratados con antihelmíntico, que será evaluado 21 a 28 días después de la Infección;
+GRUPO III - tratados con antihelmíntico al cual la estirpe es resistente,  después de 21 a 28  días de la infección;
+
+CRITERIOS DE EVALUACION
+
+La eficacia se determina por comparación de la diferencia del número de helmintos entre los grupos tratado y testigo. La siguiente fórmula puede ser aplicada: % de eficacia = (promedio de helmintos en los animales control - promedio de helmintos en los animales tratados) ÷ (promedio de helmintos en los animales control) x 100.
+
+Pueden ocurrir casos que indiquen el uso de la progresión geométrica y no del promedio aritmético. Esto dependerá, sobre todo, del hecho de que los conteos de vermes sean normalmente distribuidos o no.
+
+Para que se alegue una actividad antihelmíntica deseable o justificada contra una determinada especie de helminto resistente, el antihelmíntico contra el cual se alega resistencia, deberá presentar una eficacia inferior al 60%, cuando sea empleado en la dosis recomendada.
+
+1.3.4.2  TEST DE CAMPO
+
+ANIMALES:	El día se examinarán tres grupos con 10 ovinos, como mínimo, naturalmente infectados y mantenidos a campo, y tomadas muestras fecales de los mismos para la determinación del número de huevos por gramo de heces (OPG) y la realización de coprocultivos. Un grupo será mantenido como control y los otros dos serán tratados con el producto en test y con el producto contra el cual se considera que la estirpe del parásito es resistente, respectivamente. Serán efectuados exámenes individuales de heces (OPG) y coprocultivos nuevamente al 10º día posterior al tratamiento. El día 14 después del tratamiento deberán ser sacrificados 3 animales de cada grupo como mínimo. Para determinación de la eficacia de los productos con relación a la reducción del número de huevos por gramo de  heces, deberá ser empleada la siguiente ecuación: 1-(T2 ÷ T1) X (C1 ÷ C2) X 100, donde T2 = promedio del OPG del grupo tratado en el 10º día luego del tratamiento; T1= promedio del OPG del grupo tratado en el día 0; C1 = promedio del OPG del grupo control en el día 0; C2= promedio del OPG del grupo control en el 10º día del experimento. Con relación al cálculo de la eficacia en base a la reducción de los parásitos adultos y/o formas inmaduras recuperadas en la necropsia, se utilizará la fórmula y los criterios de evaluación del inciso 1.3.4.1.
+
+1.3.5	TEST CONTRA CESTODOS Y TREMATODOS
+
+Los animales sometidos a tests de eficacia contra Moniezia se considerarán infectados al constatarse la presencia de huevos o segmentos en las heces. Por lo menos veinticinco animales deberán ser colocados en el grupo de tratamiento.  Debe ser respetado un período de 12 días entre el tratamiento y la necropsia, para permitir el crecimiento y, por consiguiente, facilitar la recolección e identificación de los escólex no removidos por la acción del medicamento. En la necropsia solamente deben ser contados los estróbilos con escólex o cabezas.
+
+Para la indicación de un antihelmíntico contra las diferentes formas de Fasciola hepatica deberán ser presentados experimentos con infecciones inducidas con 400 metacercarias (cercarias después de enquistadas) en vacunos entre 12 y 18 meses de edad y 200 metacercarias en ovinos de más de un año de edad, que demuestren eficacia en parásitos, en las siguientes semanas de edad:
+
+Inmaduros jóvenes:	1-4 semanas, migración en el parénquima
+Inmaduros tardíos:	6-8 semanas, pre-patente en los ductos biliares
+Maduros:			12-14 semanas, en los ductos biliares
+
+La realización de tests de eficacia con F. hepatica en edad inferior a 4 semanas, podrá ser efectuada a criterio del laboratorio interesado. Para evaluación de la eficacia contra formas adultas de F. hepatica, también podrán ser utilizadas infecciones naturales, desde que el número promedio de parásitos en los animales testigos sea en torno de 30. La necropsia para evaluación de la eficacia contra formas maduras deberá ser hecha luego de 2 a 3 semanas de tratamiento. Para formas inmaduras, la necropsia deberá ser postergada hasta la maduración del parásito, para que las mismas puedan ser más fácilmente identificadas y contadas.
+
+Criterio de eficacia: en tests de titulación y confirmación de dosis, la eficacia se determina comparando el número de vermes vivos en los animales tratados con el número encontrado en los controles. La diferencia debe ser estadísticamente significativa. En tests clínicos, la eficacia se determina comparando los conteos de huevos en las heces de animales tratados, y controles realizadas hasta siete días antes, o en el día del tratamiento, con los efectuados luego de transcurridas tres semanas, como mínimo.
+
+1.3.6	TESTS CLINICOS DE CAMPO (OPTATIVO)
+
+Los tests clínicos de campo son realizados básicamente, para obtener evaluaciones adicionales del desempeño del producto cuando son utilizados por el consumidor en el campo y para experimentar la seguridad de la droga cuando se aplica bajo condiciones clínicas diversas.
+
+La eficacia debe ser determinada en, por lo menos, dos regiones climáticas diferentes, teniendo en cuenta la variabilidad de las condiciones ambientales, de las muestras de poblaciones de parásitos, incluyendo formas resistentes a la droga, y de las prácticas de alimentación y manejo.
+
+Los animales deben ser tratados con la dosis, el modo de administración y la formulación final del producto a ser comercializado. Frecuentemente, en ese tipo de experimento, se determina la eficacia antiparasitaria por el conteo de huevos en las heces y, en ciertos casos, por el conteo de larvas y diferenciación larval. Por lo menos se debe hacer una evaluación fecal antes del tratamiento y 3 veces luego del tratamiento, por ejemplo: 7º, 14º  y 21º días. El examen de las heces en los tests para F. hepatica debe ser efectuado 21 días después del tratamiento. Se debe incluir en el experimento un mínimo del 10% de animales como testigos no tratados. Con excepción del tratamiento, esos animales deben ser manejados de la misma forma que los animales tratados. Se deben obtener datos de, por lo menos, 100 animales tratados en cada una de las dos áreas climáticas diferentes. En el caso de que sean utilizadas más de dos áreas climáticas, se puede disminuir el número de animales en cada área. No obstante, se recomiendan datos de un total de por lo menos 200 animales tratados. Se aceptará cualquiera de las técnicas de conteo convencionalmente usadas, desde que se mantenga la misma técnica durante todo el experimento. El método usado debe ser descrito conjuntamente con otros datos.
+
+Los animales que mueran durante cualquier etapa de los tests deberán ser necropsiados y se presentará un registro completo.
+
+Los tests anteriores mencionados se aplican a todos los rumiantes debiendo ser específico para cada huésped. No se aceptarán tests de soporte de registro de caprinos, realizados en ovinos, o de vacunos realizados en búbalos.
+
+El test con infección artificial será obligatorio para la aprobación de productos contra la Fasciola hepatica.
+
+1.4	 TEST DE EFICACIA PARA INSECTICIDAS (MOSQUICIDAS)
+
+1.4.1	EN INSTALACIONES RURALES
+
+El insecticida será aplicado sobre paredes internas y externas de madera y mampostería de instalaciones rurales. El número de moscas se registrará antes del tratamiento y a intervalos semanales luego del test hasta que el efecto del insecticida haya desaparecido. Se realizarán observaciones similares en las instalaciones no tratadas (testigos). Para determinar el número de moscas se recomienda contar el número de moscas que se posan durante un minuto sobre una superficie de 0,25m2. La eficacia del insecticida se evaluará comparando las poblaciones de moscas en las instalaciones tratadas, con las no tratadas.
+
+También podrá ser empleada la siguiente metodología: Las moscas son contadas en un enrejado (enrejado de Scudder) colocado sobre una concentración natural de moscas. El enrejado consiste en 16-24 tiras de madera colocadas a intervalos regulares para cubrir una superficie de 0.8 m2 (enrejado mayor) hasta 0.2 m2 (enrejado menor).  El enrejado mayor se destina solamente a uso externo. Para conteo de moscas, se baja el enrejado sobre una concentración de moscas. Las moscas se mueven pero vuelven a lo que las atrae, y permanecen temporalmente en el enrejado.  Se cuenta el número de moscas que se posan durante 30 segundos. En cada lugar los conteos se hacen tres o más veces en las áreas de concentraciones más elevadas de moscas, obteniéndose un promedio del resultado. En cada área podrán existir estaciones fijas y móviles. A efectos de establecer una comparación, los conteos en estaciones fijas deben hacerse en el mismo período del día.
+
+El porcentaje de eficacia se calculará usando la siguiente fórmula: % de eficacia = (Nº de moscas en las  instalaciones testigos - Nº de moscas en las instalaciones tratadas) ÷ (Nº de moscas en las instalaciones testigos) x 100.
+Se recomienda una eficacia mínima del 80%.
+
+1.4.2	CEBOS INSECTICIDAS (MOSQUICIDAS)
+
+Determinada la cantidad de cebo (sólido o líquido), el mismo se pondrá en una placa de Petri, la cual será colocada en el centro de una superficie de 1 m2 (usar cartón, papel o similar).  Sobre otra superficie de 1 m2  situada a 2 metros de la primera, como máximo, deberá colocarse otra placa de Petri conteniendo cebo sin el ingrediente activo (placebo). Treinta minutos después, todas las moscas muertas deberán contarse y retirarse de cada una de las superficies y se invertirá la posición de las placas de Petri. Después de treinta minutos más, se realizará un nuevo conteo, repitiéndose este procedimiento cuatro veces.
+
+El porcentaje de eficacia deberá ser calculado de acuerdo con la siguiente fórmula:
+suma de las moscas muertas en el área tratada - suma de las moscas muertas en el área no tratada ÷ suma de las moscas muertas en el área tratada X 100.
+
+Se recomienda una eficacia mínima del 80%.
+
+1.4.3	APLICADO SOBRE LOS ANIMALES
+
+Un mínimo de 15 animales deberán ser tratados con el insecticida, y el número de moscas sobre los animales se registrará antes del tratamiento y a intervalos semanales luego de éste, hasta que el efecto del insecticida haya desaparecido. Se realizarán observaciones similares sobre 15 (quince) animales no tratados (testigos). Los animales tratados y los animales testigos deberán mantenerse en pasturas similares separadas.
+
+En el caso específico de ensayos de eficacia contra la mosca del cuerno, Haematobia irritans, los animales tratados y testigos deberán mantenerse separados, a una distancia mínima de 5 Km. El número mínimo promedio de moscas deseable en los ensayos con H. irritans deberá ser de 50 moscas. En el día cero, los vacunos deberán ser anotarse en orden decreciente, de acuerdo con la suma de dos conteos estimados de la población de la mosca, realizados antes del tratamiento y distribuidos consecutivamente a un mínimo de 15 pares. Dentro de cada par, los animales deberán ser distribuidos por sorteo, uno en cada grupo. Los pastos deberán distribuirse por sorteo a los grupos tratado y testigo.
+
+CRITERIOS PARA CONTEO Y EVALUACION
+
+Personal debidamente entrenado realizará las evaluaciones del número de moscas que infecta cada animal. Se harán dos evaluaciones antes del tratamiento para servir como base para la distribución de los animales a los grupos de tratamiento, y bajo condiciones de pasto en el día cero (antes del tratamiento) y nuevamente en los días +1, +3, +7, +14, +21, +28, +35 y +42 (posteriores al tratamiento) y, en caso de persistir la eficacia, semanalmente, hasta que la infección de los animales tratados llegue al 50% del promedio inicial.
+
+Se evaluará la eficacia del insecticida comparando las poblaciones de moscas en los animales tratados con los no tratados. El porcentaje de la eficacia será calculado usándose la siguiente fórmula: % de eficacia = (promedio aritmético del nº de moscas en los animales testigos - promedio aritmético del nº de moscas en los animales tratados) ÷ (promedio aritmético del nº de moscas en los animales testigos) X 100.
+
+1.5	TESTS DE EFICACIA PARA SARNICIDAS DESTINADOS A EQUINOS, CAPRINOS, PORCINOS, CANINOS, FELINOS, CONEJOS Y AVES
+
+ANIMALES: Un mínimo de 4 animales infectados natural o artificialmente serán tratados con el producto que está siendo evaluado. Un grupo con un número idéntico de animales infectados deberá mantenerse como control no medicado. Antes del tratamiento, los animales deberán ser anotados en orden decreciente de acuerdo al conteo de ácaros. Los dos animales con el número más elevado deberán ser destinados, por sorteo, uno al grupo testigo (no tratado) y el otro al grupo tratado, repitiéndose tal procedimiento hasta que cada grupo contenga, como mínimo, cuatro animales.
+
+CRITERIOS DE EVALUACION
+
+El conteo de ácaros se realizará de acuerdo con el siguiente procedimiento: los ácaros vivos serán identificados y contados por raspajes obtenidos en el día -2 ó -1 y +3, y a intervalos semanales a partir del día 0 hasta el día +28.  En cada oportunidad, dos áreas de, como mínimo, 1 cm2 serán raspadas en cada animal en la parte que, aparentemente o previamente, haya parecido más activa. Los lugares en los cuales se realizaron los raspajes serán marcados en una silueta de animal, junto con la descripción de la lesión de los ácaros en cada examen. Se realizará una inspección visual en el lugar donde los ácaros tienden a ser más frecuentemente encontrados, de acuerdo con la especie estudiada. Las lecturas luego del último tratamiento se realizarán, como mínimo los días 3, 7, 14, 21 y 28, excepto en la sarna "demodécica", cuja lectura final se realizará 60 días después del último tratamiento, momento en el que deberá presentar resultados negativos para ácaros vivos. Los productos con indicaciones del fabricante para tratamiento de aplicación única o múltiple tienen su evaluación realizada luego del último tratamiento, obedeciendo los criterios antes referidos.
+
+1.6	TEST DE EFICACIA PARA PIOJICIDAS
+
+ANIMALES: Un mínimo de 5 animales, natural o artificialmente infectado, deberá ser sometido a tratamiento, permaneciendo un número igual de animales como control. En el caso de las aves el número mínimo deberá ser de 20 animales.
+
+CRITERIOS DE EVALUACION
+
+Las lecturas, luego del último tratamiento. se realizarán, como mínimo, los días 3, 7, 15, 21 y 28, momento en que se deberán presentar resultados negativos para parásitos vivos.
+
+1.7	TEST DE EFICACIA PARA ANTI-COCCIDIOS
+
+Los tests podrán ser realizados por el centro de investigación de la empresa que solicite el registro, o por organismos oficiales, u órganos privados acreditados por el órgano registrador, o aún en entidades reconocidas internacionalmente.
+
+ANIMALES:	( Pollos de corte) - Test en boxes
+
+Un mínimo de 600 pollitos de corte (300 machos y 300 hembras) con 1 día de edad y originarios de un mismo lote de matrices.
+
+INOCULACION
+
+Tratándose de pollos para consumo, "oocistos" (oosfera fecundada) esporíferos de por lo menos, tres especies de la Eimeira incluyendo necesariamente, E. acervulina, E. máxima y E. tenella. La potencia de la inoculación deberá ser conocida (pre titulada) y suficiente para determinar, (P < o = 0,05) significativamente, la mortalidad del 10% en el grupo control no medicado.
+
+La evaluación del grado de lesiones, deberá seguir el criterio Johnson y Reid, 1970.
+
+PLAN EXPERIMENTAL
+
+Distribuir las aves en boxes con capacidad de hasta 50 aves cada uno, lo que corresponde a una repetición. Se utilizará un mínimo de seis repeticiones para cada tratamiento. Se utilizará un grupo control infectado no medicado y un grupo control no infectado y medicado.
+
+Todas las aves deben ser expuestas artificialmente a los "oocistos" esporÍferos a través de la ración, a los 14 días de edad. La infección deberá realizarse incorporándose los "oocistos" esporíferos a la ración en las concentraciones previamente establecidas en la pre titulación.
+
+El producto a evaluar deberá ser incorporado a la ración y suministrado a las aves a partir del primer día de vida, durante todo el período experimental, respetándose el eventual período de retirada.
+
+CRITERIOS DE EVALUACION
+
+Se utilizarán los siguientes parámetros: mortalidad debido a la coccidiosis, resultado de lesiones, aumento de peso, conversión alimentaria y efectos colaterales, los cuales se registrarán en un formulario específico. Las aves se observarán buscando los siguientes efectos colaterales: disminución del consumo de ración, cama húmeda, deficiente plumaje y sintomatología nerviosa.
+
+Las aves muertas luego del quinto día de inoculación de los "oocistos", serán necropsiadas para visualizar las lesiones de coccidiosis.  Del 7º al 14º días luego de la inoculación de "oocistos", al 10% de las aves de cada repetición se les realizará la necropsia aleatoriamente, para determinar la cantidad de lesiones.
+
+Esa cantidad obedecerá una escala de 0 a 4. La incidencia de coccidiosis está basada en la presencia de lesiones causadas por coccidios en las aves examinadas.
+
+El consumo total de ración y aumento de peso final se determinará al final del experimento.
+
+El producto será aprobado en el caso que muestre una superioridad estadísticamente significativa com respecto al control infectado no tratado según los siguientes criterios:  número de lesiones (intestino superior, medio e inferior, y ciego), aumento de peso diario y conversión alimentaria. Los datos obtenidos se evaluarán estadísticamente a través del análisis de variancia, y las diferencias entre el grupo tratado y el control a nivel de importancia cuando P < o = 0,05.
+
+1.8	TESTS DE EFICACIA PARA HEMOPARASITICIDAS
+
+1.8.1	PARASITICIDA CONTRA BABESIA, DESTINADOS A BOVINOS
+
+ANIMALES:	Un mínimo de 16 becerros de, por lo menos, 9 meses de edad.
+
+INOCULO
+Sangre parasitada por Babesia  bovis y B. bigemina.
+
+PROYECTO EXPERIMENTAL
+
+8 animales son esplenitomizados o inmunosuprimidos hasta producirse parasitemia, y 8 con bazo in situ, sin inmunosupresión, son divididos en grupos de 2 animales. 4 animales inmunosuprimidos y 4 normales son inoculados por vía endovenosa con 1 x 108 hematíes con parásitos B. bovis y los 8 restantes con 1 x 106 - hematíes con parásitos B. bigemina.
+La evaluación del producto obedecerá al siguiente esquema:
+
+GRUPO I  -	2 becerros esplenotomizados o inmunosuprimidos hasta producirse parasitemia y 2 normales, inoculados con B. bovis serán tratados con el producto cuando sean detectadas hematíes de parásitos en una preparación (para estudio microscópico, que se obtiene por la distensión, sobre una lámina de una capa delgada de materia orgánica) fina de sangre periférica y que presenten hipertermia.
+
+GRUPO II  -	2 becerros esplenitomizados o inmunosuprimidos hasta producirse parasitemia y 2 normales, inoculados con B. bovis, son mantenidos como control, no medicados.
+
+GRUPO III  -	2 becerros esplenitomizados o inmunosuprimidos hasta producirse parasitemia y 2 normales, inoculados con B. bigemina, serán tratados con el producto cuando el 2,0% estén parasitados y presenten hipertermia.
+
+GRUPO IV  -	2 becerros esplenitomizados o inmunosuprimidos hasta producirse parasitemia y 2 normales, inoculados con B. bigemina, son mantenidos como control no medicados.
+
+Productos indicados para el tratamiento de Anaplasma spp, deben obedecer los criterios establecidos para Babesia bigemina.
+
+Los animales esplenitomizados o inmunosuprimidos y los normales son inoculados con, por lo menos 1 x 106 hematíes parasitados.
+
+Los animales destinados a los tests anaplasmicidas deben ser alojados en local aislado, a prueba de insectos.
+
+1.8.2	PARASITICIDA CONTRA BABESIA, DESTINADOS A EQUINOS
+
+ANIMALES:  Como mínimo 16 equinos o 16 asninos por producto.
+
+INOCULO: Sangre parasitada por B. caballi y B. equi.
+
+PROYECTO EXPERIMENTAL
+
+8 animales de cada especie son esplenItomizados o inmunosuprimidos hasta producirse parasitemias, y 8 con bazo "in situ", sin inmunosupresión, son agrupados y sometidos al siguiente esquema de evaluación:
+
+GRUPO I - 2 animales de cada especie esplenItomizados o inmunosuprimidos hasta producirse parasitemia y 2 normales son inoculados con B. caballi (5 x 105 o 1 x 106 hematíes parasitadas) y tratados con el producto cuando presenten hipertermia y hematíes parasitadas.
+
+GRUPO II - 2 animales de cada especie, esplenitomizados o inmunosuprimidos hasta producirse parasitemia y 2 normales, inoculados con B. caballi (5 x 105 o 1 x 106 hematíes parasitadas) son mantenidos como control no medicados.
+
+GRUPO III -	Tratamiento semejante al grupo I, pero, inoculados con 5 x 105 a 1 x 106 hematíes parasitadas por B. equi.
+
+GRUPO IV -	Idem al grupo II, pero inoculados con 5 x 105 a 1 x 106  hematíes parasitadas por B. equi.
+
+1.8.3	PARASITICIDAS DE BABESIA DESTINADOS A CANIDOS
+
+ANIMALES:	Como mínimo ocho perros.
+
+INOCULO: Sangre parasitado por B. canis.
+
+PROYECTO EXPERIMENTAL
+
+4 animales son esplenitomizados y 4 con el bazo "in situ", son agrupados y sometidos al siguiente esquema de evaluación:
+
+GRUPO I  -	2 perros esplenitomizados 2 normales inoculados con 1 x 105 hemácias parásitodas por B. canis y tratados con el producto cuando presenten hipertermia y sean detectadas hematíes parasitadas.
+
+GRUPO II -	Idem al grupo I, sin tratamiento.
+
+Observación:  Criterios de evaluación de la Eficacia.
+
+Los parámetros utilizados en la evaluación de la eficacia de parasiticidas contra Babesia y anaplasmicidas incluyen la medida de temperatura, determinación de la parasitermia, exámenes clínicos diarios y exámenes de sangre (hemograma) realizados con intervalos semanales. Esos datos son recogidos antes de la inoculación y durante el período experimental mínimo de 30 días.
+
+Los datos obtenidos para animales tratados y controles son comparados y sometidos a análisis estadístico.
+
+1.9	OTRAS INDICACIONES DE PARASITICIDAS
+
+Las empresas interesadas en registrar parasiticidas indicados para uso en otras especies animales no contempladas en estas instrucciones deberán someter protocolo específico para evaluación.
+
+CAMBIOS DE FORMULACIÓN Y/O DOSIS
+
+Serán necesarios experimentos de bioequivalencia si el fabricante cambia, por ejemplo, la posología, vía de administración o forma farmacéutica del producto
+aprobado. El experimento debe demostrar que la alteración no presentó modificaciones de eficacia en comparación con el producto aprobado. Para demostrar la equivalencia, será necesario por lo menos un test de confirmación de la dosis recomendada en animales debidamente infectados. Para las pruebas de campo debe ser testada por lo menos la mitad del número de animales recomendados en las solicitudes de registro inicial. En los casos de solicitud de cambio de dosis el interesado deberá presentar resultados de pruebas de eficacia y de campo idénticos a los requeridos para registro del producto. Se podrán solicitar pruebas de biodisponibilidad en caso necesario.
+
+2.0	ETIQUETADO PARA PRODUCTOS ECTOPARASITICIDAS
+
+Las etiquetas, instrucciones de uso y demás impresos de los productos ectoparasiticidas que ofrezcan riesgos a la salud humana y/o al medio ambiente, deberán especificar o contener lo siguiente:
+
+a) la finalidad exclusiva para uso veterinario, el modo de aplicación claramente descrito, las instrucciones de uso, así como los límites de empleo;
+
+b) las indicaciones claras sobre el riesgo resultante de la manipulación del producto e instrucciones sobre su manipulación, de modo de limitar las posibilidades de accidentes para el hombre y el medio ambiente.
+
+c) el grupo químico a que pertenecen los componentes activos de la fórmula, las medidas terapéuticas de urgencia a ser adoptadas en caso de accidente, incluyendo la recomendación sobre la necesidad de atención médica inmediata, los respectivos antídotos, cuando existan, y especificando:
+
+c.1) PRIMEROS AUXILIOS destacando la vía de riesgo, como también los principales cuidados a ser tomados en caso de accidente;
+
+c.2) TRATAMIENTO MÉDICO DE EMERGENCIA explicando de manera concisa las principales informaciones terapéuticas dirigidas al médico;
+
+c.3) ANTÍDOTO citando el antídoto específico y las recomendaciones favorables o contrarias con respecto a los antídotos comúnmente utilizados;
+
+c.4) TELEFONO de la empresa para informaciones sobre el producto
+
+d) frases de advertencia que podrán constar en los prospectos: CONSERVE FUERA DEL ALCANCE DE LOS NIÑOS Y ANIMALES DOMÉSTICOS; NO USE EL EMBALAJE VACIO;  NO GUARDE O APLIQUE CON LOS ALIMENTOS, BEBIDAS, MEDICAMENTOS, PRODUCTOS DE HIGIENE y DOMÉSTICOS;
+
+d.1)	PRECAUCIONES GENERALES:
+
+- no coma, no beba y no fume durante la manipulación del producto.
+- no utilice equipos con pérdidas.
+- no destape picos, orificios y válvulas con la boca.
+- no manipule el producto con las manos desprotegidas.
+- no aplique el producto contra el viento.
+
+d.2)	CUIDADOS EN LA MANIPULACION DEL PRODUCTO:
+
+d.2.1 Use Protector Ocular
+
+ - el producto es irritante para los ojos.
+ - si existe contacto del producto con los ojos, lávelos inmediatamente.
+
+d.2.2 Use máscaras cubriendo la nariz y la boca:
+
+ - el producto es peligroso si se inhala o aspira,
+ - en caso de haber inhalación o aspiración, procure un lugar aireado.
+
+d.2.3 Use Guantes de Goma:
+
+ - el producto es irritante y/o absorbible por la piel.
+ - al contacto del producto con la piel, lávela inmediatamente.
+
+e) el símbolo clásico de peligro de vida representado por la calavera y dos tibias cruzadas;
+
+f) las palabras CUIDADO, VENENO destacadas.
+
+g) No será permitido el uso de expresiones tales como no tóxico, inocuo e inofensivo en la etiqueta de productos ectoparasiticidas.
+
+3.0	DE ACCION PROLONGADA
+
+3.1  Una determinada fórmula de un antiparasitario se considerará de acción prolongada cuando, en comparación con otra fórmula convencional en base al mismo ingrediente activo, mantenga un nivel plasmático terapéutico, o actividad antiparasitaria por un período de tiempo considerablemente mayor.
+
+3.2 La acción prolongada del antiparasitario debe ser comprobada con referencias bibliográficas oficiales o científicas internacionalmente reconocidas o por experimentos propios conducidos dentro de la metodología científica.
+
+3.3  La alteración del nivel plasmático terapéutico puede ser resultado de la modificación favorable de la estructura química, del empleo de recursos farmacotécnicos o farmacológicos o que actúen sobre la farmacocinética del antiparasitario.
+
+3.4  La existencia, en una especialidad farmacéutica, de sustancias activas con y sin acción prolongada obliga a la clasificación del producto en esta última categoría.
+
+3.5  El uso de la denominación larga acción, acción prolongada, o acción profiláctica para productos antiparasitarios, podrá ser utilizada por las firmas registrantes, observándose los siguientes criterios:
+
+3.5.1	El período de eficacia prolongada deberá ser incluido en el prospecto por especie de parásito, luego de la comprobación en test conducido en el cual haya existido desafío, con infección experimental por el parásito a ser indicado. Los siguientes parámetros se utilizarán para cálculo del período de eficacia prolongada:
+
+a) los tests realizados con registro en que una infección experimental semanal con el parásito especificado determine el período de acción prolongada contra aquel parásito, teniendo como criterio de evaluación de eficacia el ítem 1.3 de este reglamento;
+
+b) comprobación de la concentración plasmática del principio activo compatible con el período de eficacia contra el parásito especificado.
+
+c) para determinación del período de eficacia prolongada de productos ectoparasiticidas tópicos degradables por rayos ultravioletas, el desafío experimental deberá ser realizado con animales expuestos a radiación solar.
+
+3.5.2	Los tests realizados con registros delineados para infección natural no se aceptarán para la determinación del período de acción prolongada, a efectos de registro o uso, con excepción de los vermicidas.
+
+3.5.3	El período de "prepatência" del parásito especificado no podrá ser utilizado en el cálculo del período de acción prolongada, a efectos de registro o uso.
+
+4.0	DISPOSICIONES GENERALES
+
+4.1  Para nuevas drogas, cuyas características y mecanismo de acción, impliquen una nueva metodología de ensayo y evaluación, y que por consiguiente no estén contenidas en este reglamento deberá ser aceptada la metodología propuesta por el propietario de la molécula, luego del análisis por el órgano oficial registrante.
+
+4.2	Cuando las fórmulas de los productos antiparasitarios que tengan indicaciones de uso incluidas en la presente reglamentación presenten alguna innovación técnica o contengan principios activos sobre los cuales no haya suficiente información bibliográfica, las pruebas de eficacia obligatoria deberán ser avaladas por técnicos pertenecientes a instituciones reconocidas por el órgano oficial registrante.
+
+4.3	En caso de fórmulas conocidas internacionalmente y que contengan principios activos ampliamente estudiados, y con resultados publicados en la bibliografía, solamente será obligatoria la realización de pruebas de eficacia con infección natural, cuyos registros hayan sido previamente evaluados y aprobados por el órgano oficial registrante, el cual deberá ser informado con una antecedencia mínima de 15 días de: a) fecha en que se iniciará la realización del test;  b) lugar en que será realizado el test; y c) médico veterinario responsable de la conducción del test.
+
+
+17

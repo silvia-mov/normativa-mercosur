@@ -1,0 +1,417 @@
+Resolución GMC N° 07/24
+Título: REGLAMENTO TÉCNICO MERCOSUR REQUISITOS ESENCIALES DE SEGURIDAD Y DESEMPEÑO DE LOS PRODUCTOS MÉDICOS Y PRODUCTOS MÉDICOS PARA DIAGNÓSTICO IN VITRO (DEROGACIÓN DE LA RESOLUCIÓN GMC Nº 72/98)
+Fecha de aprobación: 10/04/2024
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 99423_RES_007-2024_ES_RTM Diagnostico in vitro.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4731).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 07/24
+
+REGLAMENTO TÉCNICO MERCOSUR REQUISITOS ESENCIALES DE SEGURIDAD Y DESEMPEÑO DE LOS PRODUCTOS MÉDICOS Y PRODUCTOS MÉDICOS PARA DIAGNÓSTICO IN VITRO
+(DEROGACIÓN DE LA RESOLUCIÓN GMC Nº 72/98)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 38/98, 72/98, 40/00, 45/17 y 25/21 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario actualizar los requisitos esenciales de seguridad y desempeño de los productos médicos y productos médicos para diagnóstico in vitro.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR Requisitos esenciales de seguridad y desempeño de los productos médicos y productos médicos para diagnóstico in vitro", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+Art. 3 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+Art. 4 - Derogar la Resolución GMC Nº 72/98.
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 07/X/2024.
+
+CXXX GMC - Asunción, 10/IV/24.
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR REQUISITOS ESENCIALES DE SEGURIDAD Y DESEMPEÑO DE LOS PRODUCTOS MÉDICOS Y PRODUCTOS MÉDICOS PARA DIAGNÓSTICO IN VITRO
+
+I. OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR (RTM) establece los requisitos esenciales de seguridad y desempeño de los productos médicos y productos médicos para diagnóstico in vitro.
+En el contexto de este RTM se utiliza el término dispositivo médico y dispositivo médico para diagnóstico in vitro, los cuales son equivalentes de producto médico y producto médico para diagnóstico in vitro, respectivamente, y cada Estado Parte puede adoptar uno u otro término.
+II. ALCANCE
+
+Este RTM se aplica a todos los productos médicos y productos médicos para diagnóstico in vitro y tiene por objeto identificar y describir los principios esenciales de seguridad y desempeño que deben tenerse en cuenta durante el proceso de diseño y fabricación. Algunos de los principios esenciales de seguridad y desempeño no se aplican, dependiendo del producto médico o producto médico para diagnóstico in vitro en cuestión. En esos casos, se debe justificar su exclusión.
+
+III. REFERENCIAS
+
+- IMDRF/GRRP WG/N47:2018 Essential Principles of Safety and Performance of Medical Devices and IVD Medical Devices
+
+IV. DEFINICIONES
+
+Análisis de riesgos: uso sistemático de la información disponible para identificar los peligros y estimar el riesgo.
+
+Beneficio: impacto positivo o resultado deseable del uso de un producto médico y producto médico para diagnóstico in vitro en el estado de salud de un individuo o un impacto positivo en el manejo del paciente o gestión de la salud pública. Los beneficios pueden incluir un impacto positivo en el resultado clínico, en la calidad de vida del paciente y en los resultados relacionados con el diagnóstico; un impacto positivo a partir de los productos de diagnóstico en los resultados clínicos; o un impacto positivo en la salud pública.
+
+Ciclo de vida: todas las etapas de la vida de un producto médico, desde la concepción y el diseño inicial hasta el desmantelamiento y la eliminación final.
+
+Control de riesgo: proceso en el que se toman decisiones y se implementan medidas para reducir o mantener los riesgos dentro de los niveles especificados por el fabricante sin comprometer la relación riesgo-beneficio.
+Daño: lesión o perjuicio para la salud de las personas o perjuicio para la propiedad o el medio ambiente.
+
+Datos clínicos: información de seguridad, desempeño clínico y/o efectividad que se genera a partir del uso clínico de un producto médico.
+
+Desempeño: capacidad de un producto médico de lograr su finalidad prevista, según lo declarado por el fabricante. El desempeño puede incluir tanto aspectos clínicos como técnicos.
+
+Desempeño analítico de un producto médico para diagnóstico in vitro: capacidad de un producto médico para diagnóstico in vitro de detectar o medir un analito específico.
+
+Desempeño clínico de un producto médico: la capacidad de un producto médico para lograr su propósito clínico previsto según lo declarado por el fabricante.
+
+Desempeño clínico de un producto médico para diagnóstico in vitro: capacidad de un producto médico para diagnóstico in vitro de producir resultados que se correlacionan con una afección clínica o un estado fisiológico específicos, en función de la población destinataria y del usuario previsto. El desempeño clínico puede incluir la sensibilidad diagnóstica y la especificidad diagnóstica en función del estado clínico o fisiológico conocido de la persona y de los valores predictivos negativos y positivos basados en la prevalencia de la enfermedad.
+
+Desempeño de un producto médico para diagnóstico in vitro: capacidad de un producto médico para diagnóstico in vitro de lograr su finalidad o uso previstos, según lo declarado por el fabricante. El desempeño de un producto médico para diagnóstico in vitro está compuesto por el desempeño analítico y, cuando procede, el desempeño clínico para respaldar el uso previsto del producto médico para diagnóstico in vitro.
+
+Eficaz: capacidad de un producto médico o producto médico para diagnóstico in vitro para proporcionar resultados clínicamente significativos en una parte significativa de la población objetivo. Esta capacidad se evalúa en situaciones en las que el producto médico o el producto médico para diagnóstico in vitro se utiliza para la finalidad y las condiciones de uso previstas y se acompaña de instrucciones de uso adecuadas y de advertencias contra el uso no seguro.
+
+Estabilidad: capacidad de un producto médico o producto médico para diagnóstico in vitro en mantener inalterables sus características y/o su desempeño durante un determinado período de tiempo, de acuerdo con las condiciones adecuadas previamente establecidas.
+
+Estado del arte: etapa del desarrollo de la capacidad técnica, en un momento dado, con respecto a productos, procesos y servicios, que se basa en los hallazgos relevantes consolidados de la ciencia, la tecnología y la experiencia.
+
+Evaluación clínica: conjunto de actividades continuas que utilizan métodos científicamente sólidos para la evaluación y el análisis de datos clínicos con el fin de verificar la seguridad, el desempeño clínico y/o la efectividad del producto médico cuando se usa conforme lo previsto por el fabricante.
+Evaluación de riesgos: procedimiento basado en el análisis de riesgos para determinar si se ha superado el riesgo tolerable.
+
+Evidencia clínica: datos clínicos y su informe de evaluación respecto de un producto médico.
+
+Evidencia clínica para un producto médico para diagnóstico in vitro: toda la información que respalda la validez científica y el desempeño para el uso previsto por el fabricante.
+
+Gestión de riesgos: aplicación sistemática de políticas, procedimientos y prácticas de manejo para las tareas de análisis, evaluación, control y monitoreo de riesgos asociados a determinado producto o proceso.
+
+Investigación clínica: investigación o estudio sistemático en el que participan uno o más seres humanos efectuados con objeto de evaluar la seguridad, desempeño clínico y/o eficacia de un producto médico para la finalidad prevista.
+
+Informe de evaluación clínica: documento que contiene la evaluación y el análisis de los datos clínicos relacionados con el producto médico para verificar la seguridad clínica y el rendimiento del producto cuando se usa conforme lo previsto por el fabricante.
+
+Plazo de validez o período máximo de almacenamiento: período de tiempo máximo, hasta la fecha de vencimiento, durante el cual un producto médico, en su empaque original es estable en las condiciones de almacenamiento especificadas por el fabricante.
+
+Peligro: fuente potencial de daño.
+
+Reducir [los riesgos] apropiadamente: reducción del riesgo hasta un nivel aceptable determinado por el fabricante y la autoridad regulatoria (reducción a un riesgo tan bajo como sea razonablemente posible, reducción a un riesgo tan bajo como sea razonablemente factible o reducir el riesgo tanto como sea posible) sin afectar negativamente a la relación entre beneficios y riesgos.
+
+Riesgo: combinación de la probabilidad de que se produzca un daño y la gravedad de dicho daño.
+
+Rótulo: información escrita, impresa o gráfica que figura en el propio producto, en el embalaje de cada unidad o en el embalaje de varios productos.
+
+Seguridad: ausencia de riesgos inaceptables.
+
+Situación de peligro: circunstancia en la que las personas, los bienes o el medio ambiente están expuestos a uno o más peligros.
+
+Uso previsto/Finalidad prevista: uso para el cual está destinado el producto conforme la información declarada por el fabricante en la evaluación clínica.
+
+Uso normal: funcionamiento, incluida la inspección y los ajustes de rutina por parte de cualquier usuario, e inactividad, de acuerdo con las instrucciones de uso o con la práctica generalmente aceptada para productos médicos o productos médicos para diagnóstico in vitro proporcionados sin instrucciones de uso.
+
+El uso normal no debe confundirse con el uso previsto. Ambos incluyen el concepto de uso conforme lo previsto por el fabricante, el uso previsto se centra en el propósito médico y el uso normal incorpora no solo el propósito médico sino también el mantenimiento, el transporte, etc. El error de uso puede ocurrir en el uso normal. Los productos médicos o productos médicos para diagnóstico in vitro que se pueden usar de manera segura sin instrucciones de uso están eximidos de tener instrucciones de uso por parte de algunas autoridades competentes.
+
+Valoración de riesgos: proceso general que comprende un análisis de riesgos y una evaluación de riesgos.
+
+Vida útil: período de tiempo especificado por el fabricante durante el cual se espera que el producto médico o producto médico para diagnóstico in vitro mantenga un uso seguro y eficaz. La vida útil puede estar determinada por la estabilidad.
+
+V. SEGURIDAD Y DESEMPEÑO DE LOS PRODUCTOS MÉDICOS - PRINCIPIOS GENERALES ESENCIALES
+
+El fabricante de un producto médico o producto médico para diagnóstico in vitro debe diseñar y fabricar un producto que sea seguro y que funcione conforme lo previsto a lo largo de su ciclo de vida. En este RTM se describen los requisitos fundamentales de diseño y fabricación para garantizar este resultado, denominados "principios esenciales de seguridad y desempeño".
+
+Este RTM está estructurado para presentar los principios esenciales que se aplican a todos los productos médicos, incluidos los productos médicos para diagnóstico in vitro (sección 6) y se divide en dos secciones: una para los principios esenciales que se aplican a los productos médicos que no son productos médicos para diagnóstico in vitro (sección 7) y otra para los principios esenciales que solo se aplican a los productos médicos para diagnóstico in vitro (sección 8).
+
+Las actividades de diseño y fabricación de productos médicos o productos médicos para diagnóstico in vitro deben estar bajo el control del sistema de gestión de calidad del fabricante. La conformidad del producto con todos los principios esenciales aplicables se demostrará y evaluará de acuerdo con los procedimientos designados por las autoridades regulatorias.
+
+VI. PRINCIPIOS ESENCIALES APLICABLES A PRODUCTOS MÉDICOS Y PRODUCTOS MÉDICOS PARA DIAGNÓSTICO IN VITRO
+
+
+6.1	Aspectos generales
+
+6.1.1	Los productos médicos y productos médicos para diagnóstico in vitro deben alcanzar el desempeño previsto por su fabricante y diseñarse y fabricarse de manera que sean adecuados para la finalidad prevista en las condiciones de uso establecidas. Deben ser seguros y funcionar conforme lo previsto, tener riesgos aceptables en comparación con los beneficios para el paciente y no comprometer el estado clínico o la seguridad de los pacientes, ni la seguridad y la salud de los usuarios o, cuando corresponda, de otras personas.
+
+6.1.2	Los fabricantes deben establecer, implementar, documentar y mantener un sistema de gestión de riesgos para garantizar la calidad, la seguridad y el desempeño continuos de los productos médicos y productos médicos para diagnóstico in vitro. La gestión de riesgos debe entenderse como un proceso continuo a lo largo de todo el ciclo de vida de un producto médico o producto médico para diagnóstico in vitro, que requiere una actualización regular y sistemática. Al llevar a cabo la gestión de riesgos, los fabricantes deben:
+
+a) elaborar y documentar un plan de gestión de riesgos para cada producto médico y producto médico para diagnóstico in vitro;
+b) identificar y analizar los peligros conocidos y previsibles asociados a cada producto médico y producto médico para diagnóstico in vitro;
+c) estimar y evaluar los riesgos asociados que ocurran durante el uso previsto y el uso indebido razonablemente previsible;
+d) eliminar o controlar los riesgos mencionados en el ítem c) conforme los requisitos de los ítems 6.1.3 y 6.1.4;
+e) evaluar el impacto de la información de las fases de producción y poscomercialización sobre el riesgo general, la determinación del balance de riesgo-beneficio y la aceptabilidad del riesgo. Esta evaluación debe incluir el impacto de la presencia de riesgos o situaciones peligrosas que anteriormente no eran conocidas, la aceptabilidad del riesgo o los riesgos estimados derivados de una situación peligrosa y los cambios en el estado del arte.
+f) modificar las medidas de control de acuerdo con los requisitos indicados en los ítems 6.1.3 y 6.1.4, si fuera necesario, basándose en la evaluación del impacto de la información mencionada en el ítem e).
+
+6.1.3	Las medidas de control de riesgos adoptadas por los fabricantes para el diseño y la fabricación de productos médicos y productos médicos para diagnóstico in vitro deben ajustarse a los principios de seguridad, teniendo en cuenta el estado del arte. Cuando sea necesaria la reducción de riesgos, los fabricantes deben controlar los riesgos para que el riesgo residual asociado a cada peligro y el riesgo residual global se consideren aceptables. Los fabricantes deben seleccionar las soluciones más apropiadas, de acuerdo con el siguiente orden de prioridad:
+
+a) eliminar o reducir los riesgos mediante el diseño y la fabricación seguros;
+b) adoptar las medidas de protección adecuadas en relación con los riesgos que no puedan eliminarse, cuando corresponda, incluidas las alarmas, si fuera necesario; y
+c) proporcionar información relativa a la seguridad (advertencias, precauciones, contraindicaciones) y capacitar a los usuarios cuando sea pertinente.
+
+6.1.4	El fabricante debe informar a los usuarios cualquier riesgo residual relevante.
+
+
+6.1.5	El fabricante, al eliminar o reducir los riesgos relacionados con el uso, debe:
+
+a) reducir apropiadamente los riesgos relacionados con las características del producto médico y producto médico para diagnóstico in vitro y con el entorno donde está previsto utilizarlos (por ejemplo, características ergonómicas y de usabilidad, tolerancia al polvo y a la humedad); y
+b) tener en cuenta los conocimientos técnicos, la experiencia, la formación, la capacitación y el entorno de uso y, cuando corresponda, las condiciones médicas y físicas de los usuarios previstos.
+
+6.1.6	Las características y el desempeño de un producto médico y producto médico para diagnóstico in vitro no deben verse perjudicadas hasta el punto de comprometer la salud o la seguridad del paciente, del usuario y la de otras personas que se vean comprometidas durante la vida útil del producto, según lo especificado por el fabricante, cuando el producto médico o producto médico para diagnóstico in vitro esté sometido al estrés que pueda ocurrir durante las condiciones normales de uso, mantenido y calibrado adecuadamente (en caso de proceder) de acuerdo con las instrucciones del fabricante.
+
+6.1.7	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse, fabricarse y embalarse de manera que sus características y su desempeño, incluidas la integridad y la limpieza del producto, y cuando se utilicen conforme a la finalidad prevista, no se vean perjudicadas por el transporte y el almacenamiento (por ejemplo, debido a impactos, vibraciones y fluctuaciones de la temperatura y la humedad), teniendo en cuenta las instrucciones y la información proporcionadas por el fabricante. El desempeño, la seguridad y la esterilidad del producto médico y producto médico para diagnóstico in vitro, cuando aplique, deben mantenerse durante todo el período de vida útil especificado por el fabricante.
+
+6.1.8	Los productos médicos y productos médicos para diagnóstico in vitro deben tener una estabilidad aceptable durante su período de vida útil, durante el tiempo de uso después de haber sido abiertos (en el caso de los productos médicos para diagnóstico in vitro, incluso después de haber sido instalados en el instrumento) y durante el transporte o el envío (en el caso de los productos médicos para diagnóstico in vitro, incluidas las muestras).
+
+6.1.9	Todos los riesgos conocidos y previsibles, y eventuales efectos secundarios no deseados, deben reducirse al mínimo y ser considerados aceptables si se comparan con los beneficios evaluados que se derivan del desempeño del producto en las condiciones de uso previstas, teniendo en cuenta el estado del arte.
+
+6.2	Evaluación clínica
+
+6.2.1	Será exigida, cuando corresponda, una evaluación clínica, en la cual se deben valorar los datos clínicos para determinar la existencia de un balance favorable de los beneficios respecto a los riesgos del producto médico para diagnóstico in vitro, mediante uno o más de los siguientes documentos:
+
+- informes de investigación clínica (para los productos médicos para diagnóstico in vitro, informes de evaluación del desempeño clínico);
+- revisiones o artículos científicos publicados;
+- experiencia clínica.
+
+6.2.2	Las investigaciones clínicas deben realizarse de acuerdo con los principios éticos que tienen su origen en la Declaración de Helsinki. Estos principios protegen los derechos, la seguridad y el bienestar de los seres humanos, que son las consideraciones más importantes y que deben prevalecer sobre los intereses de la ciencia y la sociedad. En cada etapa de la investigación clínica se deben entender, observar y aplicar estos principios. Además, cada Estado Parte puede tener requisitos regulatorios específicos para la revisión del protocolo antes del estudio, el consentimiento libre e informado y, en el caso de los productos médicos para diagnóstico in vitro, el uso de las muestras sobrantes.
+
+6.3	Propiedades químicas, físicas y biológicas
+
+6.3.1	En lo que respecta a las propiedades químicas, físicas y biológicas de los productos médicos y productos médicos para diagnóstico in vitro, se debe prestar especial atención a lo siguiente:
+
+a) elección de los materiales y las sustancias utilizadas, en particular en lo que se refiere a:
+- toxicidad;
+- biocompatibilidad; e
+- inflamabilidad;
+b) impacto de los procesos sobre las propiedades de los materiales;
+c) resultados de las investigaciones biofísicas o de modelización cuya validez se haya demostrado de antemano, cuando sea pertinente;
+d) propiedades mecánicas de los materiales utilizados, que reflejen, cuando sea pertinente, aspectos como la resistencia, la ductilidad, la resistencia a la fractura, la resistencia al desgaste y la resistencia a la fatiga;
+e) propiedades de la superficie; y
+f) confirmación de que el producto cumple todas las especificaciones químicas y/o físicas definidas.
+
+6.3.2	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse, fabricarse y embalarse de manera a minimizar el riesgo causado por los contaminantes y los residuos para los usuarios y los pacientes, teniendo en cuenta su finalidad prevista, así como para las personas que intervienen en el transporte, el almacenamiento y el uso de los productos. Se debe prestar especial atención a los tejidos de los usuarios y pacientes expuestos a dichos contaminantes y residuos, así como a la duración y la frecuencia de la exposición.
+
+6.3.3	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente los riesgos causados por la pérdida de sustancias (incluidas la filtración y/o la evaporación), los productos de degradación, los residuos del procesamiento, etc. Se debe prestar especial atención a la fuga o filtración de sustancias cancerígenas, mutágenas o tóxicas para la reproducción.
+
+6.3.4	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente los riesgos causados por el ingreso no intencional de sustancias en el producto, teniendo en cuenta los productos médicos o productos médicos para diagnóstico in vitro y la naturaleza del entorno previsto para su uso.
+
+6.3.5	Los productos médicos y productos médicos para diagnóstico in vitro y sus procesos de fabricación deben diseñarse de manera a eliminar o reducir adecuadamente el riesgo de infección de los usuarios y del resto de personas que puedan entrar en contacto con el producto. El diseño debe:
+
+a) permitir que la manipulación sea fácil y segura;
+b) reducir de manera adecuada cualquier fuga microbiana desde el producto médico y producto médico para diagnóstico in vitro y/o la exposición microbiana durante su uso;
+c) prevenir la contaminación microbiana del producto médico y producto médico para diagnóstico in vitro o de su contenido (por ejemplo, muestras); y/o
+d) reducir adecuadamente los riesgos de exposición involuntaria, por ejemplo, cortes y pinchazos, lesiones por pinchazos con agujas, salpicaduras en los ojos, etc.
+
+6.4	Esterilización y contaminación microbiana
+
+6.4.1	Los productos médicos y productos médicos para diagnóstico in vitro, cuando sea necesario, deben diseñarse para facilitar que el usuario pueda proceder de manera segura a su limpieza, desinfección, esterilización y reesterilización, según corresponda.
+
+6.4.2	Los productos médicos y productos médicos para diagnóstico in vitro en cuyo rotulado se indique su estado microbiano específico deben diseñarse, fabricarse y embalarse de manera de garantizar la permanencia en ese estado al momento de su comercialización y en las condiciones de transporte y almacenamiento especificadas por el fabricante.
+
+6.4.3	Los productos médicos y productos médicos para diagnóstico in vitro, entregados en un estado estéril, deben diseñarse, fabricarse y embalarse de acuerdo con los procedimientos adecuados de manera de garantizar su estado estéril al momento de su comercialización y que, a menos que el embalaje destinado a mantener su estado estéril se dañe, permanezcan estériles en las condiciones de transporte y almacenamiento especificadas por el fabricante, hasta que el embalaje se abra en el lugar de uso. Se debe garantizar que la integridad de ese embalaje sea claramente evidente para el usuario final (por ejemplo, mediante el uso de embalajes con cierre inviolable).
+
+6.4.4	Los productos médicos y productos médicos para diagnóstico in vitro rotulados como estériles deben procesarse, fabricarse, embalarse y esterilizarse mediante métodos adecuados y validados. El período de vida útil de los productos médicos y productos médicos para diagnóstico in vitro debe determinarse mediante métodos validados.
+
+6.4.5	Los productos médicos y productos médicos para diagnóstico in vitro destinados a ser esterilizados, ya sea por el fabricante o por el usuario, deben fabricarse y embalarse en condiciones y en instalaciones apropiadas y controladas.
+
+6.4.6	Cuando los productos médicos y productos médicos para diagnóstico in vitro se suministran sin esterilizar y estén destinados a ser esterilizados antes de usarlos:
+
+a) el sistema de embalaje debe reducir al mínimo el riesgo de contaminación microbiana y ser adecuado, teniendo en cuenta el método de esterilización indicado por el fabricante; y
+b) el método de esterilización indicado por el fabricante debe ser validado.
+
+6.4.7	Para el caso de productos médicos y productos médicos para diagnóstico in vitro comercializados en condiciones tanto estériles como no estériles, el rótulo debe diferenciar claramente estas versiones.
+
+
+6.5	Consideraciones sobre el medio ambiente y condiciones de uso
+
+6.5.1	En caso de que el producto médico o producto médico para diagnóstico in vitro se utilice combinado con otros productos médicos y productos médicos para diagnóstico in vitro o equipos, todo el conjunto, incluido el sistema de conexión, debe ser seguro y no afectar al desempeño especificado del producto. Cualquier restricción de uso conocida que se aplique a dicho conjunto debe ser indicada en el rótulo y/o las instrucciones de uso. Cualquiera de las conexiones manipuladas por el usuario, como las destinadas a las transferencias de líquidos o gases, o acoplamiento eléctricos o mecánicos, deben diseñarse y fabricarse de manera a eliminar o reducir adecuadamente todos los riesgos posibles, incluidos los errores de conexión o peligros para la seguridad.
+
+6.5.2	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse teniendo en cuenta las condiciones de uso y el entorno previstos, y de manera a eliminar o reducir adecuadamente:
+
+a) los riesgos de lesiones para los usuarios u otras personas en relación con sus características físicas y ergonómicas o de usabilidad;
+b) los riesgos de error del usuario debido al diseño de la interfaz de usuario, las características ergonómicas o de usabilidad y el entorno donde está previsto que se utilice el producto médico o producto médico para diagnóstico in vitro;
+c) los riesgos relacionados con influencias externas o condiciones ambientales razonablemente previsibles, como campos magnéticos, efectos eléctricos y electromagnéticos externos, descargas electrostáticas, radiaciones asociadas a procedimientos diagnósticos o terapéuticos, presión, humedad, temperatura y/o variaciones en la presión y aceleración;
+d) los riesgos asociados con el uso del producto médico o producto médico para diagnóstico in vitro cuando entra en contacto con materiales, líquidos y sustancias, incluidos los gases, a los que está expuesto durante las condiciones de uso previstas;
+e) los riesgos asociados a la posible interacción negativa entre el programa informático (software) y el entorno de tecnología de la información (TI) en el que opera e interactúa;
+f) los riesgos medioambientales derivados de la liberación accidental de sustancias del producto médico o producto médico para diagnóstico in vitro durante su uso, teniendo en cuenta el del producto médico o producto médico para diagnóstico in vitro y la naturaleza del entorno donde está previsto que se utilice;
+g) el riesgo de identificación incorrecta de muestras o datos y el riesgo de resultados erróneos debido, por ejemplo, a la confusión de colores o códigos numéricos en los receptáculos de las muestras, las piezas extraíbles o los accesorios utilizados para realizar el análisis, la prueba o el ensayo según lo previsto; y
+h) los riesgos de interferencia con otros productos médicos o productos médicos para diagnóstico in vitro utilizados normalmente en el diagnóstico, el control o el tratamiento.
+
+
+6.5.3	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a eliminar o reducir adecuadamente los riesgos de incendio o explosión durante su uso normal y en condiciones de fallo único. Se debe prestar especial atención a los productos médicos y productos médicos para diagnóstico in vitro cuyo uso previsto incluya la exposición o la asociación a sustancias inflamables o explosivas que puedan provocar una combustión.
+
+6.5.4	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera que el ajuste, la calibración y el mantenimiento puedan realizarse de forma segura y eficaz. Específicamente:
+
+a) cuando el mantenimiento no sea posible, por ejemplo, en el caso de los implantes, los riesgos de envejecimiento de los materiales, entre otros, deben reducirse adecuadamente;
+b) cuando el ajuste y la calibración no sean posibles, por ejemplo, con ciertos tipos de termómetros, los riesgos de pérdida de precisión de cualquier mecanismo de medición o control deben reducirse adecuadamente.
+
+6.5.5	Los productos médicos y productos médicos para diagnóstico in vitro destinados al funcionamiento en conjunto con otros productos médicos o productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera que la interoperabilidad y la compatibilidad sean fiables y seguras.
+
+6.5.6	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente el riesgo de acceso no autorizado que podría impedir el funcionamiento del producto conforme lo previsto o plantear un problema de seguridad.
+
+6.5.7	Cualquier función de medición, control o visualización de los productos médicos y productos médicos para diagnóstico in vitro debe diseñarse y fabricarse de acuerdo con los principios de ergonomía y usabilidad, teniendo en cuenta la finalidad prevista, a los usuarios y las condiciones del entorno previsto para su uso.
+6.5.8	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a facilitar su eliminación o reciclado seguros, así como la eliminación o el reciclado seguros de las sustancias de desecho generados por el usuario, el paciente u otra persona. En las instrucciones de uso deben indicarse los procedimientos y las medidas de eliminación o de reciclaje seguros.
+
+6.6	Protección contra riesgos eléctricos, mecánicos y térmicos
+
+6.6.1	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera de proteger al usuario, paciente u otra persona frente a riesgos mecánicos relacionados, por ejemplo, con la resistencia al movimiento, la inestabilidad y las piezas móviles.
+
+6.6.2	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente los riesgos derivados de las vibraciones generadas por ellos, teniendo en cuenta el progreso tecnológico y los medios disponibles para limitar las vibraciones, especialmente en la fuente, a menos que las vibraciones formen parte del desempeño especificado.
+
+6.6.3	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente los riesgos derivados del ruido emitido, teniendo en cuenta el progreso tecnológico y los medios disponibles para reducir el ruido, especialmente en la fuente, a menos que el ruido emitido forme parte del desempeño especificado.
+
+6.6.4	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente el riesgo relacionado con el fallo de cualquier parte del producto destinado a conectarse o reconectarse antes o durante el uso.
+
+6.6.5	Las partes accesibles de los productos médicos y productos médicos para diagnóstico in vitro (excluidas las partes o zonas destinadas a suministrar calor o a alcanzar determinadas temperaturas) y su entorno no deben alcanzar temperaturas potencialmente peligrosas en condiciones normales de uso.
+
+6.7	Productos médicos activos y productos médicos para diagnóstico in vitro y productos médicos conectados a ellos
+
+6.7.1	En el caso de los productos médicos y productos médicos para diagnóstico in vitro en condiciones de fallo único, deben adoptarse las medidas pertinentes para eliminar o reducir adecuadamente los riesgos consecuentes.
+
+6.7.2	Los productos médicos y productos médicos para diagnóstico in vitro en los que la seguridad del paciente dependa de una fuente de alimentación interna deben disponer de un medio para determinar el estado de dicha fuente y de una advertencia o indicación adecuada para el caso en que la capacidad de la fuente de alimentación sea crítica.
+
+6.7.3	Los productos médicos y productos médicos para diagnóstico in vitro en los que la seguridad del paciente dependa de una fuente de alimentación externa deben disponer de un sistema de alarma para advertir cualquier falla de alimentación.
+
+6.7.4	Los productos médicos y productos médicos para diagnóstico in vitro destinados a controlar uno o más parámetros clínicos de un paciente deben estar equipados con sistemas de alarma adecuados para alertar al usuario de situaciones que puedan provocar la muerte o un deterioro grave del estado de salud del paciente.
+
+6.7.5	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente los riesgos de interferencias electromagnéticas que puedan perjudicar el funcionamiento de cualquier producto o equipo instalado en el entorno previsto para su uso.
+
+6.7.6	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a proporcionar un nivel de inmunidad intrínseca a las interferencias electromagnéticas que permita su funcionamiento conforme lo previsto.
+
+6.7.7	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente el riesgo de descargas eléctricas accidentales para el usuario o cualquier otra persona, tanto durante el uso normal de los productos médicos o productos médicos para diagnóstico in vitro como en condiciones de fallo único en productos médicos o productos médicos para diagnóstico in vitro, siempre que sean instalados y mantenidos conforme lo previsto por el fabricante.
+
+6.8	Productos médicos y productos médicos para diagnóstico in vitro que incorporan programas informáticos (software) o que constituyan un programa informático (software) como producto médico
+
+6.8.1	Los productos médicos y productos médicos para diagnóstico in vitro que incorporen sistemas electrónicos programables, incluidos los programas informáticos, o que constituyan un programa informático (software) como producto médico, deben diseñarse para garantizar la exactitud, la fiabilidad, la precisión, la seguridad y el desempeño de acuerdo con su uso previsto. En condiciones de fallo único, deberían adoptarse las medidas adecuadas para eliminar o reducir adecuadamente los riesgos consecuentes o la alteración del desempeño.
+
+6.8.2	En el caso de productos médicos y productos médicos para diagnóstico in vitro que incorporen programas informáticos (software) o que constituyan un programa informático como producto médico, el programa informático debe desarrollarse, fabricarse y mantenerse de acuerdo con el estado del arte, teniendo en cuenta los principios del ciclo de vida del desarrollo (por ejemplo, ciclos de desarrollo rápidos, cambios frecuentes, efecto acumulativo de los cambios), la gestión de riesgos (por ejemplo, cambios en el sistema, el entorno y los datos), incluida la seguridad de la información (por ejemplo, implementación de actualizaciones de forma segura), la verificación y la validación (por ejemplo, proceso de gestión de cambios).
+
+6.8.3	Los programas informáticos (software) destinados a ser utilizados en combinación con plataformas informáticas móviles deben diseñarse y desarrollarse teniendo en cuenta la propia plataforma (por ejemplo, la relación entre el tamaño y el contraste de la pantalla, la conectividad, la memoria, etc.) y los factores externos relacionados con su uso (entorno variable en cuanto al nivel de luz o ruido).
+
+6.8.4	Los fabricantes deben establecer los requisitos mínimos relativos al equipo informático (hardware), las características de las redes de TI y las medidas de seguridad de TI, incluida la protección contra el acceso no autorizado, necesarios para que el programa informático (software) funcione conforme lo previsto.
+
+6.8.5	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse, fabricarse y mantenerse de manera de proporcionar un nivel adecuado de ciberseguridad frente a los intentos de acceso no autorizado.
+
+6.9	Productos médicos y productos médicos para diagnóstico in vitro con función de diagnóstico o medición
+
+6.9.1	Los productos médicos y productos médicos para diagnóstico in vitro que tengan una función de diagnóstico o medición (incluido el monitoreo) deben diseñarse y fabricarse de manera de, entre otras características de desempeño, ofrecer la suficiente exactitud, precisión y estabilidad para el uso previsto, basándose en los métodos científicos y técnicos adecuados, conforme las siguientes disposiciones:
+
+a) El fabricante debe indicar los límites de exactitud, cuando corresponda.
+b) Los valores expresados numéricamente, siempre que sea posible, deben estar en unidades comúnmente aceptadas y estandarizadas, y los usuarios del producto médico y producto médico para diagnóstico in vitro deben entenderlos. Las consideraciones de seguridad, la familiaridad del usuario y la práctica clínica establecida pueden justificar el uso de otras unidades de medida reconocidas, a pesar de que se apoye la convergencia en el uso mundial de unidades de medida estandarizadas internacionalmente.
+c) La función de los controles y los indicadores debe especificarse claramente en el producto médico y producto médico para diagnóstico in vitro. Cuando las instrucciones para su funcionamiento o indicación de parámetros de funcionamiento o ajuste sean presentadas mediante un sistema visual, dicha información deberá ser comprensible para el usuario y, cuando corresponda, para el paciente.
+
+6.10	Rotulado
+
+6.10.1	Los productos médicos y productos médicos para diagnóstico in vitro deben ir acompañados de la información necesaria para identificar de forma específica el producto médico o el producto médico para diagnóstico in vitro y a su fabricante. Cada producto médico o producto médico para diagnóstico in vitro también debe ir acompañado de la información de seguridad y desempeño pertinentes para el usuario, o cualquier otra persona, según corresponda, o dirigirlo hacia dicha información. Esta información puede aparecer en el propio producto médico y producto médico para diagnóstico in vitro, en el rótulo o en las instrucciones de uso, o ser de fácil acceso por medios electrónicos (como un sitio web) cuando sea permitido por la reglamentación del Estado Parte, y debe ser fácilmente comprensible para el usuario previsto.
+
+6.11	Protección frente a las radiaciones
+
+6.11.1	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse, fabricarse y embalarse de manera a reducir adecuadamente la exposición de los usuarios, de otras personas o, cuando corresponda, de los pacientes a la radiación de manera compatible con la finalidad prevista, sin restringir la aplicación de niveles específicos adecuados para fines diagnósticos y terapéuticos.
+
+6.11.2	Las instrucciones de funcionamiento de los productos médicos y productos médicos para diagnóstico in vitro que emiten radiaciones peligrosas o potencialmente peligrosas deben contener información detallada sobre la naturaleza de las radiaciones emitidas, los medios para proteger a los usuarios, a otras personas o, cuando corresponda, a los pacientes, y las formas de evitar un mal uso y de reducir adecuadamente los riesgos inherentes al transporte, al almacenamiento y a la instalación.
+
+6.11.3	En el caso de los productos médicos y productos médicos para diagnóstico in vitro que tengan por objeto emitir radiaciones peligrosas o potencialmente peligrosas, deben ir provistos, siempre que sea posible, de indicadores visuales y/o de advertencias sonoras de dichas emisiones.
+
+6.11.4	Los productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera a reducir adecuadamente la exposición de los usuarios, de otras personas o, cuando corresponda, de los pacientes, a la emisión de radiación no intencional, desviada o dispersa. Cuando sea posible y apropiado, deben seleccionarse métodos que reduzcan la exposición a la radiación de los usuarios, de otras personas o, cuando corresponda, de pacientes, que puedan resultar afectados.
+
+6.11.5	En el caso de los productos médicos y productos médicos para diagnóstico in vitro que emitan radiaciones peligrosas o potencialmente peligrosas y que requieran de instalación, la información relativa a las pruebas de aceptación y desempeño, los criterios de aceptación y el procedimiento de mantenimiento deben especificarse en las instrucciones de funcionamiento.
+
+6.11.6	En el caso de los productos médicos y productos médicos para diagnóstico in vitro que tengan por objeto emitir radiaciones peligrosas o potencialmente peligrosas, que puedan alcanzar al usuario, paciente u otra persona, deben diseñarse y fabricarse de manera de garantizar que la cantidad, la geometría, la distribución (o calidad) de la energía y otras características clave de la radiación emitida puedan controlarse y ajustarse adecuadamente y, cuando corresponda, monitorearse durante su uso. Estos productos médicos y productos médicos para diagnóstico in vitro deben diseñarse y fabricarse de manera de garantizar la reproducibilidad de los parámetros variables pertinentes dentro de un margen de tolerancia aceptable.
+
+
+6.12	Protección contra los riesgos asociados a los productos médicos y productos médicos para diagnóstico in vitro destinados por el fabricante a su uso por usuarios legos
+
+6.12.1	Los productos médicos y productos médicos para diagnóstico in vitro destinados para la utilización por usuarios legos (como los destinados a la autoevaluación o pruebas usadas por usuarios legos) deben diseñarse y fabricarse de manera de tener un desempeño adecuado para el uso o finalidad previstos, teniendo en cuenta las aptitudes y los medios que disponen los usuarios legos y la influencia resultante de las variaciones que puedan preverse razonablemente en la técnica y el entorno de dichos usuarios. La información y las instrucciones proporcionadas por el fabricante deben ser fáciles de comprender y aplicar para que el usuario lego las comprenda y aplique cuando use el producto médico o producto médico para diagnóstico in vitro e interprete los resultados.
+
+6.12.2	Los productos médicos y productos médicos para diagnóstico in vitro destinados a ser utilizados por usuarios legos (como los destinados a la autoevaluación o a la realización de pruebas por usuarios legos cerca del paciente) deben diseñarse y fabricarse para:
+
+a) garantizar que el producto médico o producto médico para diagnóstico in vitro pueda ser usado de forma segura y exacta por el usuario conforme las instrucciones de uso. Cuando los riesgos asociados a la interpretación de las instrucciones de uso no puedan reducirse a niveles aceptables, estos riesgos podrán mitigarse mediante la capacitación;
+b) reducir adecuadamente el riesgo de error por parte del usuario al manipular el producto médico o producto médico para diagnóstico in vitro y, cuando corresponda, al interpretar los resultados.
+
+6.12.3	Los productos médicos y productos médicos para diagnóstico in vitro destinados para ser utilizados por usuarios legos deben incluir, cuando corresponda, medios que les permitan:
+
+a) verificar que, en el momento de usarlo, el producto médico o producto médico para diagnóstico in vitro tenga un desempeño conforme lo previsto por el fabricante; y
+b) recibir una advertencia en caso de que el producto médico o producto médico para diagnóstico in vitro no haya funcionado conforme lo previsto o no haya proporcionado un resultado válido.
+
+6.13	Productos médicos y productos médicos para diagnóstico in vitro que incorporan materiales de origen biológico
+
+6.13.1	En el caso de los productos médicos y productos médicos para diagnóstico in vitro que incluyan tejidos, células o sustancias de origen animal, vegetal o bacteriano, o sus derivados, que no sean viables o se vuelvan inviables, deben aplicarse las siguientes disposiciones:
+
+
+a) los tejidos y las células de origen animal o sus derivados, cuando corresponda, deben proceder de animales que hayan sido sometidos a controles veterinarios adaptados al uso previsto pretendido de los tejidos, teniendo en cuenta las especies animales. Puede ser necesario que los fabricantes deban conservar la información sobre el origen geográfico de los animales, dependiendo de los requisitos de cada jurisdicción;
+b) la obtención, el procesamiento, la conservación, la evaluación y la manipulación de tejidos, células y sustancias de origen animal o de sus derivados, deben realizarse de manera de garantizar la seguridad de los pacientes, los usuarios y, cuando corresponda, de otras personas. En particular, la seguridad con respecto a los virus y otros agentes transmisibles debe abordarse mediante la aplicación de métodos actualizados y validados para la eliminación o inactivación en el curso del proceso de fabricación, excepto cuando el uso de dichos métodos pueda dar lugar a una degradación inaceptable que comprometa al producto médico o producto médico para diagnóstico in vitro.
+
+6.13.2	En el caso de los productos que se fabriquen utilizando tejidos, células o sustancias de origen humano o sus derivados como los productos médicos o productos médicos para diagnóstico in vitro, deben aplicarse las siguientes disposiciones:
+
+a) la donación, la obtención y el análisis de los tejidos y las células deben realizarse de conformidad con los requisitos jurisdiccionales; y
+b) el procesamiento, la conservación y cualquier otra manipulación de dichos tejidos y células o de sus derivados deben realizarse de manera de garantizar la seguridad de los pacientes, los usuarios y, cuando corresponda, de otras personas. En particular, la seguridad con respecto a los virus y otros agentes transmisibles deben abordarse mediante métodos adecuados de obtención y la aplicación de métodos validados para la eliminación o inactivación en el curso del proceso de fabricación.
+
+6.13.3	En el caso de los productos médicos y productos médicos para diagnóstico in vitro fabricados con sustancias biológicas distintas de las mencionadas en los ítems 6.13.1 y 6.13.2 (por ejemplo, materiales de origen vegetal o bacteriano), el procesamiento, la conservación, el análisis y la manipulación de dichas sustancias deben realizarse de manera de garantizar la seguridad de los pacientes, los usuarios y, cuando corresponda, de otras personas, incluida la cadena de eliminación de residuos. En particular, la seguridad con respecto a los virus y otros agentes transmisibles debe abordarse mediante métodos adecuados de obtención y la aplicación de métodos validados para la eliminación o inactivación en el curso del proceso de fabricación.
+
+
+VII. PRINCIPIOS ESENCIALES APLICABLES A LOS PRODUCTOS MÉDICOS, EXCEPTO LOS PRODUCTOS MÉDICOS PARA DIAGNÓSTICO IN VITRO
+
+Los principios esenciales de diseño y fabricación enumerados en esta sección son complementarios a los principios esenciales que se enumeran en la sección 6. Estos principios esenciales son aplicables a productos médicos, excepto de los productos médicos para diagnóstico in vitro.
+
+7.1 	Propiedades químicas, físicas y biológicas
+
+7.1.1	Con relación a las propiedades químicas, físicas y biológicas de un producto médico, debe prestarse especial atención a la compatibilidad entre los materiales y las sustancias utilizados y los tejidos biológicos, las células y los líquidos corporales, teniendo en cuenta la finalidad prevista del producto y, cuando corresponda (por ejemplo, en el caso de algunos productos absorbibles), su absorción, distribución, metabolismo y excreción.
+
+7.1.2	Los productos médicos deben diseñarse y fabricarse de manera a utilizar de forma segura los materiales, las sustancias y los gases con los que entran en contacto durante su uso previsto. En el caso de que los productos estén destinados a administrar medicamentos, deben diseñarse y fabricarse de manera de que sean compatibles con los medicamentos de que se trate, de acuerdo con las disposiciones y restricciones que regulan dichos medicamentos, y de modo que el desempeño tanto de los medicamentos como de los productos médicos se mantenga de acuerdo con sus correspondientes indicaciones y para el uso previsto.
+
+7.1.3	Los productos médicos deben diseñarse y fabricarse de manera a reducir adecuadamente los riesgos asociados al tamaño y a las propiedades de las partículas que se liberan o puedan liberarse en el cuerpo del paciente o del usuario, a menos que entren en contacto únicamente con piel intacta. Debe prestarse especial atención a los nanomateriales.
+
+7.2	Protección frente a las radiaciones
+
+7.2.1	Los productos médicos que emiten radiación ionizante y están destinados a la obtención de imágenes médicas deben diseñarse y fabricarse para obtener una calidad de imagen o de salida y/o el resultado adecuados para la finalidad médica prevista y al mismo tiempo para reducir al mínimo la exposición a la radiación del paciente, el usuario u otras personas.
+
+7.2.2	Los productos médicos que emitan radiaciones ionizantes deben diseñarse para permitir la estimación precisa (o el monitoreo), la visualización, la notificación y el registro de la dosis de un tratamiento.
+
+7.3	Requisitos particulares para los productos médicos implantables
+
+7.3.1	Los productos médicos implantables deben diseñarse y fabricarse de manera a eliminar o reducir adecuadamente los riesgos asociados al tratamiento médico, por ejemplo, el uso de desfibriladores o de equipo quirúrgico de alta frecuencia.
+
+7.3.2	Los productos médicos implantables programables activos deben diseñarse y fabricarse de manera de permitir la identificación inequívoca del producto sin necesidad de una intervención quirúrgica.
+
+
+7.4 	Protección contra los riesgos que los productos médicos que suministran energía o sustancias pueden suponer para el paciente o el usuario
+
+7.4.1	Los productos médicos destinados a suministrar energía o sustancias al paciente deben diseñarse y fabricarse de manera que sea posible ajustar y mantener la cantidad administrada con la suficiente exactitud para garantizar la seguridad del paciente, el usuario u otras personas.
+
+7.4.2	Los productos médicos deben estar dotados de medios para prevenir y/o indicar cualquier cantidad inadecuada de energía o de sustancias suministradas que pueda representar un peligro. Los productos deben incorporar medios adecuados para reducir adecuadamente el riesgo de liberación accidental de niveles peligrosos de energía o de sustancias.
+
+7.5	Productos médicos que incorporan una sustancia considerada como medicamento o fármaco
+
+7.5.1	Cuando un producto médico incorpore como parte integrante una sustancia que, en caso de utilizase por separado, puede considerarse un medicamento o un fármaco, y tener sobre el cuerpo una acción complementaria a la del producto médico, deben verificarse la seguridad y el desempeño del producto médico en su conjunto, así como la identidad, la seguridad, la calidad y la eficacia de la sustancia presente en el producto combinado.
+
+VIII. PRINCIPIOS ESENCIALES APLICABLES A LOS PRODUCTOS MÉDICOS PARA DIAGNÓSTICO IN VITRO
+
+Los principios esenciales de diseño y fabricación que se enumeran en esta sección son complementarios a los principios esenciales de seguridad y desempeño enumerados en la sección 6. Estos principios esenciales son aplicables únicamente a los productos médicos para diagnóstico in vitro.
+
+8.1 	Propiedades químicas, físicas y biológicas
+
+8.1.1	Con relación a las propiedades químicas, físicas y biológicas de los productos médicos para diagnóstico in vitro, debe considerarse la posibilidad de que se comprometa el desempeño analítico debido a la incompatibilidad física o química entre los materiales utilizados y las muestras, el analito o el marcador que se debe detectar y medir (como tejidos biológicos, células, líquidos corporales y microorganismos), teniendo en cuenta la finalidad prevista del producto.
+
+8.2	Características del desempeño
+
+8.2.1	Los productos médicos para diagnóstico in vitro deben alcanzar el desempeño analítico y clínico, declarado por el fabricante, y aplicable al uso o la finalidad previstos, teniendo en cuenta a la población objeto, usuario y al entorno de uso previsto. Estas características de desempeño deben establecerse por métodos adecuados, validados y actualizados. Por ejemplo:
+
+
+a) El rendimiento analítico puede incluir, entre otras:
+- trazabilidad de los calibradores y controles;
+- exactitud de la medición (fiabilidad y precisión);
+- sensibilidad analítica y límite de detección;
+- especificidad analítica;
+- intervalo/rango de medición;
+- estabilidad de las muestras.
+
+b) El desempeño clínico, por ejemplo, la sensibilidad clínica o diagnóstica, la especificidad clínica o diagnóstica, el valor predictivo positivo, el valor predictivo negativo, la razón de verosimilitud y los valores esperados en poblaciones normales y afectados.
+
+c) Los procedimientos de control validados para asegurar al usuario que el producto médico para diagnóstico in vitro funciona según el desempeño previsto y que los resultados son adecuados para el uso previsto.
+
+8.2.2	En el caso del desempeño de un producto médico para diagnóstico in vitro dependa del uso de calibradores o materiales de control, la trazabilidad de los valores asignados a dichos calibradores o materiales de control debe garantizarse mediante procedimientos de medición de referencia disponibles o materiales de referencia disponibles de orden superior (patrón primario).
+
+8.2.3	Los valores expresados numéricamente, siempre que sea posible, deben estar en unidades comúnmente aceptadas, estandarizadas y comprendidas por los usuarios del producto médico para diagnóstico in vitro.
+
+8.2.4	Las características de desempeño del producto médico para diagnóstico in vitro deben evaluarse de acuerdo con la finalidad prevista, que debe incluir:
+
+a) usuario previsto, por ejemplo, usuario lego o profesional;
+b) entorno de uso previsto, por ejemplo, domicilio del paciente, unidades de urgencias, ambulancias, centros de salud, laboratorio;
+c) poblaciones objetivo, como pediátrica, adultos, embarazadas, personas con signos y síntomas de una enfermedad específica, pacientes sometidos a diagnóstico diferencial, donantes de sangre, etc. Los grupos poblacionales evaluados deben representar, cuando corresponda, a grupos diversos desde el punto de vista étnico, de género y genético, de modo que sean representativas de las poblaciones a las cuales se destina el producto. Con relación a las enfermedades infecciosas, se recomienda que los grupos poblacionales seleccionados tengan tasas de prevalencia similares.
+
+
+2

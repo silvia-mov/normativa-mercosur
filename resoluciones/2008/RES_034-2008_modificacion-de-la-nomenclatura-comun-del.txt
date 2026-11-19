@@ -1,0 +1,427 @@
+Resolución GMC N° 34/08
+Título: MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 28/11/2008
+Vigencia: Vigente (Vigente desde el 14/03/2014 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 3969_RES_034-2008_ES_NCM_AEC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/252).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 34/08
+
+
+MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 07/94, 22/94, 31/04 y 37/07 del Consejo del Mercado Común y la Resolución No 70/06 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que se hace necesario ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la "Modificación de la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común", en sus versiones en español y portugués, que figuran como anexo y forman parte de la presente Resolución.
+
+Art. 2 - Las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, aprobadas por la presente Resolución, tendrán vigencia a partir del 01/I/2009, debiendo los Estados Partes asegurar su incorporación a sus respectivos ordenamientos jurídicos internos antes de esa fecha.
+
+
+LXXIV GMC - Brasilia, 28/XI/08
+
+
+ANEXO
+
+
+SITUACIÓN ACTUAL
+NCM
+DESCRIPCIÓN
+AEC
+%
+8443.3
+- Las demás máquinas impresoras, copiadoras y de fax, incluso combinadas entre sí:
+
+8443.31.00
+- - Máquinas que efectúan dos o más de las siguientes funciones: impresión, copia o fax, aptas para ser conectadas a una máquina automática para tratamiento o procesamiento de datos o a una red
+12BIT
+8443.32
+- - Las demás, aptas para ser conectadas a una máquina automática para tratamiento o procesamiento de datos o a una red
+
+8443.32.1
+Máquinas de fax
+
+8443.32.11
+Con impresión por sistema térmico
+12BIT
+8443.32.12
+Con impresión por sistema láser
+12BIT
+8443.32.13
+Con impresión por chorro de tinta
+16BIT
+8443.32.19
+Los demás
+16BIT
+8443.32.2
+Impresoras de impacto
+
+8443.32.21
+Que operen línea a línea
+8BIT
+8443.32.22
+De caracteres "Braille"
+0BIT
+8443.32.23
+Las demás matriciales (por puntos)
+16BIT
+8443.32.29
+Las demás
+16BIT
+8443.32.3
+Las demás impresoras, con velocidad de impresión inferior a 30 páginas por minuto
+
+8443.32.31
+A chorro de tinta líquida, con ancho de impresión inferior o igual a 420 mm
+16BIT
+8443.32.32
+De transferencia térmica de cera sólida (por ejemplo: "Solid Ink" y "Dye Sublimation")
+2BIT
+8443.32.33
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), monocromáticas, con ancho de impresión superior a 230 mm y resolución superior o igual a 600 x 600 puntos por pulgada (DPI)
+2BIT
+8443.32.34
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), policromáticas
+2BIT
+8443.32.35
+Las demás, a láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), monocromáticas, con ancho de impresión inferior o igual a 420 mm
+12BIT
+8443.32.36
+Las demás, con ancho de impresión superior a 420 mm
+2BIT
+8443.32.39
+Las demás
+16BIT
+8443.32.40
+Las demás impresoras, con velocidad de impresión superior o igual a 30 páginas por minuto
+
+
+2BIT
+8443.32.5
+Graficadores ("plotters")
+
+8443.32.51
+Con impresión por medio de puntas trazadoras
+12BIT
+8443.32.52
+Con anchura de impresión superior a 580 mm, excepto los con impresión por medio de puntas trazadoras
+2BIT
+8443.32.59
+Los demás
+16BIT
+8443.32.9
+Las demás
+
+8443.32.91
+Impresoras de código de barras postales, tipo 3 en 5, a chorro de tinta fluorescente, con velocidad de hasta 4,5 m/s y paso de 1,4 mm
+2BIT
+8443.32.99
+Las demás
+16BIT
+8443.39
+- - Las demás
+
+8443.39.10
+Máquinas de imprimir por chorro de tinta
+14BK
+8443.39.2
+Máquinas copiadoras electrostáticas
+
+8443.39.21
+Por procedimiento indirecto (reproducción del original mediante soporte intermedio), monocromáticas, para copias de superficie inferior o igual a 1 m2, con velocidad inferior a 100 copias por minuto
+14BK
+8443.39.28
+Las demás, por procedimiento indirecto
+0BK
+8443.39.29
+Las demás
+14BK
+8443.39.30
+Las demás máquinas copiadoras
+14BK
+8443.39.90
+Los demás
+14BK
+
+
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC
+%
+8443.3
+- Las demás máquinas impresoras, copiadoras y de fax, incluso combinadas entre sí:
+
+8443.31
+- - Máquinas que efectúan dos o más de las siguientes funciones: impresión, copia o fax, aptas para ser conectadas a una máquina automática para tratamiento o procesamiento de datos o a una red
+
+8443.31.1
+Alimentadas con hojas, con velocidad de impresión, medida en formato A4 (210 mm x 297 mm), inferior o igual a 45 páginas por minuto (ppm)
+
+8443.31.11
+A chorro de tinta líquida, con ancho de impresión inferior o igual a 420 mm
+12BIT
+8443.31.12
+De transferencia térmica de cera sólida (por ejemplo: "solid ink" y "dye sublimation")
+0BIT
+8443.31.13
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), monocromáticas, con ancho de impresión inferior o igual a 280 mm
+12BIT
+8443.31.14
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), monocromáticas, con ancho de impresión superior a 280 mm pero inferior o igual a 420 mm
+0BIT
+8443.31.15
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), policromáticas
+0BIT
+8443.31.16
+Las demás, con ancho de impresión superior a 420 mm
+0BIT
+8443.31.19
+Las demás
+12BIT
+8443.31.9
+Las demás
+
+8443.31.91
+Con impresión por sistema térmico
+12BIT
+8443.31.99
+Las demás
+0BIT
+8443.32
+- - Las demás, aptas para ser conectadas a una máquina automática para tratamiento o procesamiento de datos o a una red
+
+8443.32.2
+Impresoras de impacto
+
+8443.32.21
+Que operen línea a línea
+0BIT
+8443.32.22
+De caracteres "Braille"
+0BIT
+8443.32.23
+Las demás matriciales (por puntos)
+16BIT
+8443.32.29
+Las demás
+16BIT
+8443.32.3
+Las demás impresoras, alimentadas con hojas, con velocidad de impresión, medida en formato A4 (210 mm x 297 mm), inferior o igual a 45 páginas por minuto (ppm)
+
+8443.32.31
+A chorro de tinta líquida, con ancho de impresión inferior o igual a 420 mm
+16BIT
+8443.32.32
+De transferencia térmica de cera sólida (por ejemplo: "solid ink" y "dye sublimation")
+0BIT
+8443.32.33
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), monocromáticas, con ancho de impresión inferior o igual a 280 mm
+12BIT
+8443.32.34
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), monocromáticas, con ancho de impresión superior a 280 mm pero inferior o igual a 420 mm
+0BIT
+8443.32.35
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), policromáticas, con velocidad de impresión inferior o igual a 20 páginas por minuto (ppm)
+0BIT
+8443.32.36
+A láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), policromáticas, con velocidad de impresión superior a 20 páginas por minuto (ppm)
+0BIT
+8443.32.37
+Las demás, con ancho de impresión superior a 420 mm
+0BIT
+8443.32.39
+Las demás
+16BIT
+8443.32.40
+Las demás impresoras alimentadas con hojas
+0BIT
+8443.32.5
+Graficadores ("plotters")
+
+8443.32.51
+Con impresión por medio de puntas trazadoras
+12BIT
+8443.32.52
+Los demás, con ancho de impresión superior a 580 mm
+0BIT
+8443.32.59
+Los demás
+16BIT
+8443.32.9
+Las demás
+
+8443.32.91
+Impresoras de código de barras postales, tipo 3 en 5, a chorro de tinta fluorescente, con velocidad de hasta 4,5 m/s y paso de 1,4 mm
+0BIT
+8443.32.99
+Las demás
+16BIT
+8443.39
+- - Las demás
+
+8443.39.10
+Máquinas de imprimir por chorro de tinta
+14BK
+8443.39.2
+Máquinas copiadoras electrostáticas
+
+8443.39.21
+Por procedimiento indirecto (reproducción del original mediante soporte intermedio), monocromáticas, para copias de superficie inferior o igual a 1 m2, con velocidad inferior a 100 copias por minuto
+
+
+14BK
+8443.39.28
+Las demás, por procedimiento indirecto
+0BK
+8443.39.29
+Las demás
+14BK
+8443.39.30
+Las demás máquinas copiadoras
+14BK
+8443.39.90
+Las demás
+14BK
+
+8443.99
+- - Los demás
+
+8443.99.1
+De máquinas de fax
+
+8443.99.11
+Circuitos impresos con componentes eléctricos o electrónicos montados
+12BIT
+8443.99.12
+Mecanismos de impresión por sistema térmico o láser para máquinas de fax
+0BIT
+8443.99.13
+Bastidores y armazones
+8BIT
+8443.99.19
+Las demás
+8BIT
+8443.99.2
+De impresoras o graficadores ("plotters")
+
+8443.99.21
+Mecanismos completos de impresoras matriciales (por puntos) o de impresoras o graficadores ("plotters") a chorro de tinta, montados
+14BIT
+8443.99.22
+Mecanismos completos de impresoras a láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), montados
+0BIT
+8443.99.23
+Martillos de impresión y bancos de martillos
+0BIT
+8443.99.24
+Cabezales de impresión, excepto los térmicos y los de chorro de tinta
+10BIT
+8443.99.25
+Cabezales de impresión, térmicos o de chorro de tinta incluso con depósito de tinta incorporado
+0BIT
+8443.99.26
+Bandas (cintas de caracteres)
+0BIT
+8443.99.27
+Cartuchos de tinta
+0BIT
+8443.99.29
+Los demás
+8BIT
+8443.99.3
+De máquinas copiadoras
+
+8443.99.31
+Tambor recubierto de materia semiconductora fotoeléctrica de selenio o de sus aleaciones, para los aparatos de fotocopia electrostáticos por procedimiento indirecto
+14BK
+8443.99.39
+Las demás
+14BK
+
+
+8443.99
+- - Los demás
+
+8443.99.1
+Mecanismos de impresión por impacto, sus partes y accesorios
+
+8443.99.11
+Mecanismos de impresión, incluso sin cabezal de impresión incorporado
+12BIT
+8443.99.12
+Cabezales de impresión
+0BIT
+8443.99.19
+Los demás
+8BIT
+8443.99.2
+Mecanismos de impresión a chorro de tinta, sus partes y accesorios
+
+8443.99.21
+Mecanismos de impresión, incluso sin cabezal de impresión incorporado
+8BIT
+8443.99.22
+Cabezales de impresión
+0BIT
+8443.99.23
+Cartuchos de tinta
+0BIT
+8443.99.29
+Los demás
+8BIT
+8443.99.3
+Mecanismos de impresión láser, LED (Diodos Emisores de Luz) o LCS (Sistema de Cristal Líquido), sus partes y accesorios
+
+8443.99.31
+Mecanismos de impresión, incluso sin cilindro fotosensible incorporado
+0BIT
+8443.99.32
+Cilindros recubiertos de materia semiconductora fotoeléctrica
+0BIT
+8443.99.33
+Cartuchos de revelador o de virador ("toner")
+0BIT
+8443.99.39
+Los demás
+8BIT
+8443.99.4
+Mecanismos de impresión por sistema térmico, sus partes y accesorios
+
+8443.99.41
+Mecanismos de impresión, incluso sin cabezal de impresión incorporado
+8BIT
+8443.99.42
+Cabezales de impresión
+0BIT
+8443.99.49
+Los demás
+8BIT
+8443.99.50
+Los demás mecanismos de impresión, sus partes y accesorios
+8BIT
+8443.99.60
+Circuitos impresos con componentes eléctricos o electrónicos, montados
+12BIT
+8443.99.70
+Bandejas y gavetas, sus partes y accesorios
+8BIT
+8443.99.80
+Mecanismos de alimentación o de clasificación de papeles o documentos, sus partes y accesorios
+8BIT
+8443.99.90
+Los demás
+8BIT
+
+
+4

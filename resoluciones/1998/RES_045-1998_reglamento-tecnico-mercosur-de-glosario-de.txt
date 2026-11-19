@@ -1,0 +1,247 @@
+Resolución GMC N° 45/98
+Título: REGLAMENTO TÉCNICO MERCOSUR DE GLOSARIO DE TÉRMINOS Y DEFINICIONES PARA RESIDUOS DE MEDICAMENTOS VETERINARIOS
+Fecha de aprobación: 08/12/1998
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 21770_RES_045-1998_ES_RTM_Glos_Residuos_Med-Veterinarios_Acta 4_98.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1570).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. 45/98
+
+REGLAMENTO TÉCNICO MERCOSUR DE GLOSARIO DE TERMINOS Y DEFINICIONES PARA RESIDUOS DE MEDICAMENTOS VETERINARIOS
+
+
+      VISTO:El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones N°91/93, 152/96 y 38/98 del Grupo Mercado Común y la Recomendación N° 53/97 de SGT N°3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+La necesidad de establecer un "Glosario de Términos y Definiciones para Residuos de Medicamentos Veterinarios" para su uso en el ámbito del MERCOSUR.
+
+Que la armonización de este Glosario eliminará los obstáculos que generan las diferencias nacionales existentes al respecto.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR de Glosario de Términos y Definiciones para Residuos de Medicamentos Veterinarios", en sus versiones en español y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los términos y definiciones que fija el Anexo de la presente Resolución serán modificados o agregados periódicamente de acuerdo con las informaciones técnicas y científicas del momento.
+
+Art. 3 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para el cumplimiento de la presente Resolución  a través de los siguientes organismos:
+
+Argentina: Secretaría de Agricultura, Ganadería, Pesca y Alimentación, Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA).
+	Ministerio de Salud y Acción Social. Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT).
+
+Brasil	:	Ministério da Agricultura e do Abastecimento (MAA)
+		Ministério da Saúde (MS).
+
+Paraguay: Ministerio de Agricultura y Ganadería (MAG). Subsecretaría de Estado de Ganadería (SSEG).
+
+
+Uruguay: Ministerio de Ganadería, Agricultura y Pesca. Dirección General de Servicios Ganaderos (MGAP/DGSG).
+
+Art. 4  - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 5 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del día 7/VI/99.
+
+
+XXXII GMC - Rio de Janeiro, 8/XII/98
+
+ANEXO
+
+Reglamento Técnico MERCOSUR de Glosario de Términos y Definiciones para Residuos de Medicamentos Veterinarios.
+
+1. ALCANCE
+
+1.1. Objetivo
+
+Establecer un Glosario de términos y definiciones para su uso en el ámbito del MERCOSUR.
+
+1.2. Ambito de Aplicación
+
+El presente reglamento se refiere a los términos y definiciones que serán usados en la redacción de documentos en el ámbito del MERCOSUR.
+
+2. DESCRIPCION
+
+El glosario es una lista abierta sujeta a revisión por parte del GMC debiendo ser actualizado por adición, sustracción y/o modificación de términos y definiciones.
+
+ APLICABILIDAD DEL METODO
+
+Es una característica del método de poder ser aplicado a diferentes sustratos como está descripto o con modificaciones mínimas.
+
+ APTITUD ANALITICA
+
+Es la habilidad demostrada y documentada de un analista en la ejecución de una metodología específica con exactitud y precisión establecidas.
+
+ COEFICIENTE DE VARIACION
+
+Es una medida de la precisión calculada a partir de la desviación estándar de un conjunto de resultados divididos por la media de los mismos. Se expresa en porcentaje.
+
+ CONFIABILIDAD
+
+Término que expresa el grado de desempeño satisfactorio de un método en relación a los parámetros de exactitud, precisión y reproducibilidad.
+
+
+CONTROL DE CALIDAD
+
+Técnicas operacionales y actividades sistemáticas que aseguran la calidad de un servicio o producto.
+
+ESPECIFICIDAD
+
+Es la característica de un método en responder exclusivamente a la sustancia que está siendo analizada. Los detalles relativos a especificidad deberán referirse al menos a todas las sustancias que puedan dar una señal como respuesta, cuando se utiliza el procedimiento de medida descripto, por ejemplo productos homólogos, análogos o metabolitos de residuos de interés.
+
+EVALUACION DE CALIDAD
+
+Acciones planeadas o sistematizadas para garantizar la calidad de un servicio o producto.
+
+EXACTITUD
+
+Es el grado de concordancia entre el valor verdadero de concentración del analizado y el resultado medio de muchas observaciones en paralelo, obtenidas por la aplicación de un procedimiento analítico a una misma muestra, expresado en porcentaje del valor real.
+
+IMPLEMENTACION DE UN METODO ANALITICO
+
+Es el período de capacitación para la correcta aplicación de un Método Analítico (nuevo, revisado o adaptado) luego del cual el laboratorio se considera apto para analizar muestras remitidas por la unidad de evaluación de calidad.
+
+INGESTA DIARIA ADMISIBLE
+
+Es la cantidad de una sustancia que puede ser ingerida diariamente, durante toda la vida, sin ofrecer riesgo apreciable para la salud. Se expresa en miligramos o microgramos de producto por kilogramo de peso corporal.
+
+LIMITE DE CUANTIFICACION
+
+Es la menor concentración de una sustancia en la cual se puede determinar la presencia de ésta con un grado específico de exactitud y precisión, dentro de los límites estadísticos. Equivale a la media de la muestra blanco representativa (n 20), más seis veces la desviación estándar de la misma, o a la relación señal ruido 10/1 o a la concentración nominal correspondiente al CV 20% en el análisis de regresión de muestras fortificadas.
+
+LIMITE DE DETECCION
+
+Es la menor concentración medible de una sustancia a partir de la cual se puede detectar la presencia de ésta con razonable seguridad estadística. Equivale a la media de la  muestra blanco representativa (n 20), más tres veces la desviación estándar de la misma, o a la relación señal ruido 5/1, o a la concentración nominal cero de la hipérbola superior de confianza en el análisis de regresión de muestras fortificadas a un nivel de significación de 0.05.
+
+LIMITE MAXIMO DE RESIDUO (LMR)
+
+Concentración máxima de residuos (expresada en mg/Kg o g/Kg o mg/L o g/L), que se permita legalmente o se reconozca como admisible dentro de un alimento.
+
+LOTE
+
+Cantidad identificable de animales y/o alimentos entregados de una sola vez, para su sacrificio o distribución con respecto a los cuales el oficial encargado de la toma de muestras haya determinado que tiene características comunes en cuanto a origen, variedad, tipo de envase, envasador, expedidor o mercado.
+
+MEDICAMENTO VETERINARIO APLICADO A ESPECIES PRODUCTORAS DE ALIMENTOS
+
+Sustancia que se aplica o administra a cualquier animal destinado a la producción de alimentos, como los que producen carne o leche, las aves de corral, peces o abejas, tanto con fines terapéuticos como profilácticos o de diagnóstico, o para modificar las funciones fisiológicas, o de comportamiento, o de promoción de crecimento.
+
+METODO DE CONFIRMACION
+
+Es un método que suministra información completa o complementaria para la identificación inequívoca de una sustancia.
+
+ METODO CUANTITATIVO
+
+Método de análisis capaz de detectar con precisión y exactitud la concentración de una sustancia presente en la muestra a ser analizada. Debe ser sensible como para detectar la presencia de residuos en una concentración igual o menor al límite máximo de residuo establecido.
+
+
+METODO OFICIAL DE ANALISIS
+
+Método reconocido legalmente y/o validado por el/los laboratorio/s de referencia nacional/es que proporcione fundamentos para acción regulatoria.
+
+METODO DE SELECCION
+
+Método rápido, relativamente barato para verificar la presencia de una sustancia específica o de un grupo de sustancias estrechamente relacionadas, que sea lo suficientemente selectivo y preciso para permitir, como mínimo, la detección semicuantitativa de residuos en el contenido de acuerdo con el límite máximo establecido.
+
+METODO VALIDADO
+
+Método analítico cuya exactitud, precisión y reproducibilidad ha sido objeto de un estudio realizado por varios laboratorios.
+
+MINIMA CONCENTRACION INHIBITORIA
+
+Es la mínima concentración de producto veterinario que produce inhibición para el desarrollo de microorganismos.
+
+MUESTRA
+
+Porción de material estadísticamente representativa, tomada de un universo.
+
+MUESTRA BLANCO
+
+Porción de material proveniente de animales, no tratados con medicamentos veterinarios, de especie, sexo, edad y condiciones fisiológicas similares a los de la especie objeto de estudio.
+
+MUESTRA CONTROL
+
+Cualquier producto o tejido preparado con el propósito de determinar desviaciones, exactitud y/o precisión entre analistas y/o laboratorios o de un único analista o laboratorio.
+
+MUESTRA FORTIFICADA
+
+Material que contiene una concentración conocida del elemento a ser analizado agregado a la muestra blanco.
+
+
+MUESTRA OFICIAL
+
+La muestra tomada por técnicos del organismo competente y obtenida a través de normas armonizadas.
+
+ MUESTREO DIRIGIDO
+
+El muestreo dirigido es el que está destinado a investigar y regular el movimiento de productos potencialmente adulterados. Con frecuencia el muestreo está deliberadamente sesgado y orientado hacia determinados productos y productores como respuesta a la información proveniente de un muestreo de base estadística (u otros datos facilitados por el organismo encargado del control reglamentario), o a las observaciones formuladas por el inspector durante la inspección ante-mortem o post-mortem, indicando la posible presencia de residuos en cantidades superiores a los límites establecidos.
+
+MUESTREO INSESGADO
+
+El muestreo insesgado es el que tiene como objetivo facilitar información esquemática, de carácter nacional y anual, sobre la presencia de residuos en poblaciones específicas destinadas a la producción de alimentos.
+
+MUSCULO
+
+Tejido muscular solamente.
+
+NIVEL DE ACCION PARA RESIDUOS DE MEDICAMENTOS VETERINARIOS
+
+Es la concentración igual al LMR cuando está establecido o al límite de detección del método de confirmación para sustancias prohibidas o para aquellas cuya presencia no está permitida en el alimento.
+
+PRACTICABILIDAD
+
+Constituye una característica no estandarizada de un procedimiento analítico, identificado por la facilidad de realización de un número considerable de muestras, a un costo reducido, cumpliendo con los objetivos del análisis.
+
+PRECISION
+
+Es el grado de concordancia entre los resultados obtenidos por la aplicación de un procedimiento analítico repetidas veces a una muestra homogénea, bajo condiciones prescriptas, abarcando la repetibilidad y la reproducibilidad.
+
+REPETIBILIDAD
+
+Es el grado de concordancia entre los resultados obtenidos por la aplicación del mismo procedimiento analítico al mismo material en las mismas condiciones de análisis (el mismo operador, el mismo instrumental, el mismo laboratorio y en intervalos cortos de tiempo). Se expresa como CVt %.
+
+REPRODUCIBILIDAD
+
+Es el grado de concordancia entre los resultados obtenidos por la aplicación del mismo procedimiento analítico al mismo material, bajo condiciones preestablecidas (diferentes laboratorios, con distintos operadores, usando diferentes equipos). Se expresa como CVd %.
+
+RESIDUOS EXTRAIBLES
+
+Aquellos residuos extraídos de tejidos o fluidos biológicos utilizando medios acuosos ácidos o básicos, solventes orgánicos y/o hidrólisis enzimática. Las condiciones de extracción deben ser tales que no destruyan los compuestos de interés.
+
+RESIDUOS NO EXTRAIBLES
+
+Comprenden:
+
+1) Residuos de los medicamentos incorporados en los compuestos endógenos por conductos metabólicos normales (por ej: aminoácidos, proteínas, ácidos nucleicos). Estos residuos no tienen consecuencias toxicológicas.
+
+2) Residuos ligados químicamente derivados de la interacción de residuos del medicamento de origen o sus metabolitos con macromoléculas. Estos residuos pueden tener consecuencias toxicológicas.
+
+RESIDUO INDICADOR
+
+Residuos cuya concentración disminuye en una relación conocida con el nivel de residuos totales en los tejidos, huevos, leche u otros tejidos animales.
+
+RESIDUO DE PRODUCTO VETERINARIO
+
+Incluyen los compuestos de origen y/o sus metabolitos presentes en cualquier alimento de origen animal, así como los residuos de impurezas relacionadas con el medicamento veterinario correspondiente.
+
+
+RESIDUO TOTAL
+
+El residuo total de un medicamento en los alimentos de origen animal consiste en el medicamento de origen juntamente con todos los metabolitos y productos provenientes de este medicamento que permanecen en el alimento después que éste se haya administrado a los animales productores de alimentos.
+
+SENSIBILIDAD
+
+Es una medida de la capacidad de un procedimiento analítico para detectar la presencia de una sustancia y discernir pequeñas diferencias en la concentración de
+ésta. Está determinada por la pendiente de la curva de calibración en el punto de interés.
+
+TEJIDO
+
+Todo tejido animal comestible que incluye músculo, hígado, riñón, grasa y sus subproductos.
+
+TEJIDO DOSIFICADO
+
+Tejido proveniente de animales de la especie objeto de estudio que se hayan tratado con el medicamento estudiado de acuerdo con el uso previsto.
+
+
+9

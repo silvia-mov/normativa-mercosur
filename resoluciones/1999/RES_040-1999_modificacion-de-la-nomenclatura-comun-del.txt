@@ -1,0 +1,277 @@
+Resolución GMC N° 40/99
+Título: Modificación de la Nomenclatura Común del MERCOSUR y su Correspondiente Arancel Externo Común
+Fecha de aprobación: 10/06/1999
+Vigencia: Vigente (Vigente desde el 09/04/2001 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 17862_RES_040-1999_ES_Modificación_NCM_Acta 2_99.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1414).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 40/99
+
+
+MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N° 7/94, 22/94 y 15/97 del Consejo del Mercado Común, la Resolución N° 36/95 del Grupo Mercado Común y la Propuesta N° 5/99 de la Comisión de Comercio del MERCOSUR.
+
+
+CONSIDERANDO:
+
+Que es necesario efectuar ajustes en la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+Que debe procederse conforme a lo establecido en el inciso iii), del Artículo 40 del Protocolo de Ouro Preto de manera de garantizar la vigencia simultánea de la presente norma.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la "Modificación de la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común", que figura como Anexo y forma parte de la presente Resolución, de conformidad con lo dispuesto en el Artículo 1 de la Decisión CMC N° 15/97.
+
+Art. 2 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del día 10 de agosto de 1999.
+
+
+XXXIV GMC - Asunción, 10/VI/99
+
+
+ANEXO
+
+(VERSIÓN EN ESPAÑOL)
+
+
+SITUACIÓN ACTUAL
+RECOMENDACIÓN
+CÓDIGO
+DESCRIPCION
+AEC
+%
+CÓDIGO
+DESCRIPCION
+AEC
+%
+2922.50.32
+Metildopa
+17
+2922.50.32
+Metildopa
+5
+3207.20.90
+Las demás
+15
+3207.20.9
+3207.20.91
+
+
+3207.20.99
+Las demás
+Con un contenido, en peso, de plata superior o igual a 25% o de bismuto superior o igual a 40%, del tipo de las utilizadas en la fabricación de circuitos impresos
+Las demás
+
+
+5
+15
+3907.30.21
+Copolímero de tetrabromobisfenol A y epiclorhidrina (resina epoxibromada)
+
+
+5
+3907.30.21
+
+
+Copolímero de tetrabromobisfenol A y epiclorhidrina (resina epoxibromada)
+
+
+17
+8428.90.90
+Los demás
+17 BK
+8428.90.20
+
+
+8428.90.90
+Transportadores-elevadores (transelevadores) automáticos, de desplazamiento horizontal sobre guías
+Los demás
+
+
+3 BK
+17 BK
+8443.11.00
+--Alimentados con bobinas
+17 BK
+8443.11
+8443.11.10
+
+
+8443.11.90
+--Alimentados con bobinas
+Para la impresión multicolor de diarios, alimentados con bobinas de ancho superior o igual a 1.180 mm, con unidades de impresión en configuración torre y empalmadoras automáticas
+Los demás
+
+
+3 BK
+17 BK
+8473.30.49
+Los demás
+15 BIT
+8473.30.43
+
+
+8473.30.49
+Placas de microprocesamiento con dispositivo de disipación de calor, incluso en cartuchos
+Los demás
+
+
+3 BIT
+15 BIT
+8607.19.10
+Cajas de cojinetes
+17 BK
+8607.19.1
+8607.19.11
+
+
+8607.19.19
+Cajas de cojinetes
+Con rodamientos incorporados, de diámetro exterior superior a 190 mm, del tipo de las utilizadas en ejes de ruedas de vagones ferroviarios
+Las demás
+
+
+5 BK
+17 BK
+
+(VERSIÓN EN ESPAÑOL)
+
+
+SITUACION ACTUAL
+RECOMENDACION
+CÓDIGO
+DESCRIPCION
+AEC
+%
+CÓDIGO
+DESCRIPCION
+AEC
+%
+3002.30.90
+Las demás
+5
+3002.30.70
+
+
+3002.30.80
+
+
+3002.30.90
+Contra las enfermedades de: Newcastle, a virus vivo o virus inactivado; Gumboro, a virus vivo o virus inactivado; Bronquitis, a virus vivo o virus inactivado; Difteroviruela, a virus vivo; Síndrome de caída de puesta (EDS); Salmonelosis aviar, elaboradas con cepa 9R; Cólera de las aves, inactivadas.
+Vacunas combinadas contra las enfermedades citadas en el item 3002.30.70
+Las demás
+
+
+7
+
+
+7
+5
+
+(VERSIÓN EN ESPAÑOL)
+
+
+SITUACION ACTUAL
+RECOMENDACIÓN
+CÓDIGO
+DESCRIPCION
+AEC
+%
+CÓDIGO
+DESCRIPCION
+AEC
+%
+8471.49.22
+Del ítem 8471.60.12
+19 BIT
+8471.49.22
+Del ítem 8471.60.13
+19 BIT
+8471.49.23
+Del ítem 8471.60.19
+19 BIT
+8471.49.23
+Del ítem 8471.60.14
+19 BIT
+8471.49.24
+Del ítem 8471.60.30
+5 BIT
+8471.49.24
+Del ítem 8471.60.19
+19 BIT
+
+8471.49.25
+Del ítem 8471.60.30
+5 BIT
+
+(VERSION EN ESPAÑOL)
+
+
+SITUACION ACTUAL
+RECOMENDACIÓN
+CÓDIGO
+DESCRIPCION
+AEC
+%
+CÓDIGO
+DESCRIPCION
+AEC
+%
+8542.13.21
+Memorias de los tipos ROM, PROM, EPROM, Eeprom, Flash-EEPROM y SRAM con tiempo de acceso inferior o igual a 25ns.
+
+
+3 BIT
+8542.13.21
+
+
+Memorias de los tipos: RAM estáticas (SRAM) con tiempo de acceso inferior o igual a 25 ns, EPROM, EEPROM, PROM, ROM y FLASH.
+
+
+ 3 BIT
+8542.13.91
+Memorias de los tipos ROM, PROM, EPROM, Eeprom, Flash-EEPROM y SRAM con tiempo de acceso inferior o igual a 25ns.
+
+
+3 BIT
+8542.13.91
+
+
+Memorias de los tipos: RAM estáticas (SRAM) con tiempo de acceso inferior o igual a 25 ns, EPROM, EEPROM, PROM, ROM y FLASH.
+
+
+3 BIT
+8542.19.21
+Memorias de los tipos ROM, PROM, EPROM, Eeprom, Flash-EEPROM y SRAM con tiempo de acceso inferior o igual a 25ns.
+
+
+3 BIT
+8542.19.21
+
+
+Memorias de los tipos: RAM estáticas (SRAM) con tiempo de acceso inferior o igual a 25 ns, EPROM, EEPROM, PROM, ROM y FLASH.
+
+
+3 BIT
+8542.19.91
+Memorias de los tipos ROM, PROM, EPROM, Eeprom, Flash-EEPROM y SRAM con tiempo de acceso inferior o igual a 25ns.
+
+
+3 BIT
+8542.19.91
+
+
+Memorias de los tipos: RAM estáticas (SRAM) con tiempo de acceso inferior o igual a 25 ns, EPROM, EEPROM, PROM, ROM y FLASH.
+
+
+3 BIT
+
+1
+
+
+1

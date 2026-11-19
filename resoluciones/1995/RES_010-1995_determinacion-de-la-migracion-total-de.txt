@@ -1,0 +1,172 @@
+Resolución GMC N° 10/95
+Título: DETERMINACION DE LA MIGRACION TOTAL DE MATERIALES PLASTICOS EN ACEITE DE OLIVA COMO SIMULANTE GRASO
+Fecha de aprobación: 03/08/1995
+Vigencia: Derogada (Derogada por la Resolución GMC N° 32/10 Vigente desde el 19/06/1999 (Art. 5 inc.a) y Art. 9 ii) de la Dec. CMC Nº 23/00) – hasta el 17/09/2021)
+Idioma del texto: ES
+Archivo original: 25580_RES_010-1995_ES_Mat_Plas_Oliva.DOC
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1869).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 10/95
+
+DETERMINACION DE LA MIGRACION TOTAL DE MATERIALES PLASTICOS EN ACEITE DE OLIVA COMO SIMULANTE GRASO
+
+
+	VISTO: El Tratado de Asunción, las Decisiones Nº 4/91 y 9/94 del Consejo del Mercado Común, las Resoluciones Nº 30/92 y 91/93 del Grupo Mercado Común, la Propuesta Nº 5/95 de la Comisión de Comercio y la Recomendación Nº 85/94 del SGT Nº 3 - "Normas Técnicas".
+
+CONSIDERANDO:
+
+	Que en la Resolución Nº 30/92 GMC se adoptó el aceite de oliva como uno de los simulantes para los alimentos grasos.
+
+	Que de acuerdo con este criterio, se considera conveniente disponer de una reglamentación común sobre el método de determinación de la migración total con aceite de oliva como simulante graso en envases y equipamientos plásticos que estén destinados a entrar en contacto con alimentos.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - La determinación de la migración total usando aceite de oliva como simulante graso en envases y equipamientos plásticos destinados a entrar en contacto con alimentos grasos que se comercialicen entre los Estados Partes, se evaluará de acuerdo con lo establecido en el Reglamento Técnico adjunto "Determinación de la migración total de materiales plásticos en aceite de oliva como simulante graso".
+
+Art. 2 - Lo establecido en el Art. 1 no se aplicará obligatoriamente a los alimentos envasados destinados a la exportación a terceros países.
+
+Art. 3 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos
+
+	Argentina :
+
+		Ministerio de Economía y Obras y Servicios Públicos.
+		Secretaría de Agricultura, Ganadería y Pesca (SENASA)
+		Instituto Argentino de Sanidad y Calidad Vegetal (IASCAV)
+		Ministerio de Salud y Acción Social.
+		Secretaría de Industria
+		Instituto Nacional de Vitivinicultura (INV).
+
+
+	Brasil :
+
+		Ministerio da Saúde
+
+	Paraguay :
+
+		Ministerio de Industria y Comercio.
+		Instituto Nacional de Tecnología y Normalización (INTN)
+		Ministerio de Salud Pública y Bienestar Social
+
+	Uruguay :
+
+		Ministerio de Salud Pública (M.S.P.)
+
+Art 4 - La presente Resolución entrará en vigor el 1 de enero de 1996.
+
+
+XVIII GMC - Asunción, 03/VIII/95
+
+SGT Nº 3/REC Nº 85/94
+ANEXO
+
+DETERMINACION DE LA MIGRACION TOTAL DE MATERIALES PLASTICOS EN ACEITE DE OLIVA COMO SIMULANTE GRASO
+
+1. Alcance.
+
+	Este Reglamento se aplica para la determinación de la migración total de componentes no polímeros de envases y equipamientos plásticos en contacto con alimentos, compuestos exclusivamente por un solo tipo de plástico o de una mezcla de plásticos, utilizando aceite de oliva como simulante de alimentos grasos.
+
+	Este es un método de referencia que se aplica cuando existiera incompatibilidad del material plástico con el simulante n-heptano (por ejemplo ciertos polímeros bajo peso molecular, ciertos poliestirenos, etc.)
+
+2. Fundamento
+
+	La muestra, cuya área de superficie y masa son conocidos, se pone en contacto con aceite de oliva en las condiciones de tiempo y temperatura establecidas en la Resolución GMC 36/92. Al finalizar el período de contacto, la muestra se seca y se pesa. El aceite absorbido por la muestra se extrae con triclorotrifluoretano y se determina su masa por cromatografía gas-líquido en un cromatógrafo gaseoso con detector de ionización de llama. Esta masa se utiliza como corrección en la fórmula de cálculo de la migración total.
+
+3. Equipamiento
+
+	3.1. cromatógrafo gaseoso con detector de ionización de llama, con accesorios.
+
+	3.2. columna cromatográfica adecuada para la separación de los picos de los ésteres metílicos de los ácidos margárico.
+
+	3.3. soporte de acero inoxidable para sostener las muestras en contacto con el aceite de oliva conforme a las figuras 1 y 2.
+
+	3.4. recipientes de vidrio adecuados para contener el soporte antes mencionado, las muestras y el aceite de oliva. Se aconseja usar tubos de vidrio de base plana, con diámetro interno 3.5 cm; longitud 20 cm, con cuello cónico y tapón esmerilados.
+
+	3.5. desecadores en los que se acondicionará la muestra en su soporte a 50% de humedad relativa.
+
+	3.6 balanza analítica con precisión 0.1 mg
+
+	3.7. equipo de extracción Soxhlet
+
+	3.8 equipo destilador o evaporador rotarorio
+
+	4. Reactivos
+
+	4.1 ácido sulfúrico, d=1.84
+
+	4.2 1,1,2-triclorotrifluoretano para espectroscopía, destilado a 47.6ºC
+
+	4.3. margarado de metilo, grado cromatográfico, como patrón interno
+
+	4.4. solución 0,5 N de hidróxido de potasio en metanol
+
+	4.5 solución de trifluoruro de boro en metanol (aprox. 14% BF3)
+
+	Advertencia:  REACTIVO TOXICO:  USAR BAJO CAMPANA
+
+	4.6. solución saturada de sulfato de sodio
+
+	4.7 n-heptano, grado cromatográfico.
+
+	5. Método de ensayo
+
+	5.1. Preparación de la muestra
+
+	Se corta un número de probetas tal que el área total de superficie de las mismas sea de 600 cm2 aproximadamente.
+
+	Las probetas se lavan primero con un chorro de agua corriente, luego con agua destilada, y se secan. Se sigue el mismo procedimiento con probetas que constituyen el "blanco".
+
+	5.2. Primer acondicionamiento y pesada
+
+	Se colocan la probetas en su soporte (3.3) y el conjunto en un desecador en el cual se mantiene a temperatura de 23ºC + - 2ºC y humedad relativa del 50%. Se pesan las probetas cada 24 horas hasta lograr masa constante. Se determina así la masa inicial ( ), de la muestra.
+
+	5.3 Contacto con el aceite de oliva. Se lleva el aceite de oliva a la temperatura prescripta para el ensayo. Se coloca el soporte junto con la muestra en el recipiente correspondiente. Se vierte una cantidad adecuada de aceite de oliva en el mismo (aproximadamente 100 ml). Se coloca el recipiente en la estufa termostatizada (o en el refrigerador o autoclave, dependiendo de la temperatura de ensayo), a la temperatura prescripta durante el tiempo requerido, seleccionadas de acuerdo con la tabla del Anexo 2 de la Resolución GMC Nº 36/92.
+
+	Nota: Asegurarse de que durante el tiempo de ensayo, las probetas permanezcan separadas unas de otras, para permitir un íntimo contacto de las mismas con el aceite.
+
+	Al finalizar el tiempo prescrito, se retiran las probetas, se deja gotear el aceite de su superficie, se sacan del soporte con ayuda de pinzas, y se secan entre dos hojas de papel de filtro WHATMAN Nº1, haciendo presión con un rodillo de goma sobre una placa de vidrio o metal pulido. Se repite la operación hasta que las hojas de papel no presenten manchas de aceite. Se secan también los bordes de las probetas. Se vuelven a colocar las probetas en el soporte, una vez que éste esté limpio. Se colocan el recipiente con el soporte y el blanco a la misma temperatura y durante el mismo tiempo que la muestra original. Este aceite constituye el aceite de referencia.
+
+	5.4 Segundo acondicionamiento y pesada
+	Proceder como en 5.2. Se determina así la masa final (m2) de la muestra.
+
+	5.5. Extracción del aceite absorbido
+	Usando pinzas se colocan las probetas y su soporte en el equipo de extracción Soxhlet.
+	Colocar en el balón aproximadamente 200 ml de 1,1,2-triclorotrifluoretano, y algunos trozos de porcelana porosa para ayudar a controlar la ebullición. Asegúrese de que durante la extracción será como mínimo 18 horas.
+	Al completar la extracción, se enfría, se retira el balón y se evapora el extracto hasta eliminación del solvente en un destilador o evaporador rotatorio.
+	Se efectúa la extracción del blanco en el equipo Soxhelt bajo las mismas condiciones que en el caso de la muestra.
+
+	5.6. Preparación de la solución patrón interno
+	Se prepara una solución conteniendo 2 mg/ml de margarato de metilo en n-heptano.
+
+	5.7 Preparación de los ésteres metílicos
+	Al residuo del extracto de la muestra se agregan 4 ml de solución de hidróxido de potasio 0.5 N en metanol y algunos trozos de porcelana porosa.  Se calienta la solución a reflujo durante 10 minutos.
+	A través del condensador se agregan 5 ml de solución de trifluoruro de boro en metanol, y se calienta durante otros 2 minutos. Se enfría a temperatura ambiente y se agregan 10 ml de solución de margarato de metilo estándar interno) y 30 ml de una solución saturada de sulfato de sodio. Se agita durante 2 minutos. Se agrega nuevamente solución saturada de sulfato de sodio hasta que el nivel del líquido alcance el cuello del balón.
+	Se deja reposar la solución hasta que las fases se separen completamente (aprox. 30 minutos). Se toma la capa orgánica. Se aplica el procedimiento detallado al residuo del extracto del blanco.
+
+	5.8 Preparación de la curva de calibración.
+	Se construye una curva de calibración pesnado en recipientes adecuados varias alícuotas del aceite de referencia, de modo tal que la cantidad de aceite extraído de la muestra esté comprendida en la curva de calibración ( por ejemplo entre 10 y 100 mg). Se procede como en 5.7. Se inyecta sucesivamente 1 gl de cada una de las soluciones de referencia en el cromatógrafo. Se mide el área o la altura de los picos de oleato de metilo y de margarato de metilo y se calcula su relación (C18:1/C17).
+	Se construye la curva de calibración, graficando en el eje de ordenadas las relaciones C18:1/C17 y en eje de abscisas las cantidades de aceite de oliva usadas, ajustándola por el método de cuadrados mínimos.
+	NOTA: Se repite cada inyección al menos dos veces.
+
+	5.9. Análisis cromatográfico de la muestra y el banco
+	Se inyecta en el cromatógrafo 1 gl de la solución muestra y de la solución blanco (obtenidas como se detalla en 5.7). Se miden las alturas o áreas de los picos de oleato de metilo y margarato de metilo. Se calcula su relación (C:18/C17) y se obtiene de la curva de calibración la masa de aceite absorbida por la muestra (m H) y la masa de las interferencias del blanco, si existieran.
+
+	NOTA: Se repite cada inyección al menos dos veces.
+
+	5.10 Cálculo de los resultados
+	La migración total Q o Q' se calcula con las fórmulas indicadas en el apartado 6 de la Resolución GMC Nº 36/92, teniendo en cuenta que R debe ser reemplazado por R', siendo:
+
+	R' =m1 - (m2-mH) = m1-m2+mH
+
+	donde R': masa componente no poliméricos migrados, en mg
+	m1: masa de la muestra antes del contacto con el aceite, en mg
+	m2: masa de la muestra después del contacto con el aceite, en mg
+	mH: masa del aceite retenido por la muestra, en mg.
+
+	5.1 Ensayo de migración para materiales y artículos compuestos de dos o más capas de plásticos.
+
+	En caso de envases y equipamientos compuestos de dos o más capas  de plásticos, el ensayo se realiza siguiendo el procedimiento indicado anteriormente, de modo tal que el aceite de oliva esté en contacto sólo con las partes de la muestra que durante el uso real están en contacto directo con los alimentos.
+
+
+6

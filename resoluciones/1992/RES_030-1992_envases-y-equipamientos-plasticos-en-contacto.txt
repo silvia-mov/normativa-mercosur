@@ -1,0 +1,86 @@
+Resolución GMC N° 30/92
+Título: ENVASES Y EQUIPAMIENTOS PLÁSTICOS EN CONTACTO CON ALIMENTOS: CLASIFICACIÓN DE ALIMENTOS Y SIMULADORES
+Fecha de aprobación: 02/10/1992
+Vigencia: Vigente (Estuvo vigente desde el 30/05/1997 (Art. 5 inc.a) y Art. 9 ii) de la Dec. CMC Nº 23/00) – hasta el 17/09/2021)
+Idioma del texto: ES
+Archivo original: 51791_RES_030-1992_ES_EnvasesyEquipPlasticos.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2897).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 30/92
+
+
+EMBALAJES Y EQUIPOS PLASTICOS EN CONTACTO CON ALIMENTOS: CLASIFICACION DE ALIMENTOS Y SIMULADORES
+
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común y la Recomendación Nº 15 del Subgrupo de Trabajo Nº 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que es conveniente disponer de un reglamento común sobre la metodología de ensayos de migración de embalajes y equipos plásticos en contacto con alimentos que completen las disposiciones generales sobre los mismos;
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art. 1 - Aprobar la clasificación establecida en el documento "Embalajes y Equipos Plásticos en Contacto con Alimentos: Clasificación de Alimentos y Simuladores". Simulantes adjuntos, para que entre en vigencia en los países miembros del MERCOSUR.
+
+Art. 2 - Lo establecido en el Artículo 1º no se aplicará obligatoriamente a los alimentos embalados destinados a la exportación para terceros países
+
+Art. 3 - Los Estados Partes del MERCOSUR dictarán las disposiciones legales y administrativas necesarias para dar cumplimiento a la presente Resolución y comunicarán el texto de las mismas al Grupo Mercado Común.
+
+
+VII GMC - Brasilia, 2/X/1992
+
+COMISION DE ALIMENTOS INDUSTRIALIZADOS
+SUBCOMISION DE EMBALAJES Y EQUIPOS DESTINADOS A ENTRAR EN CONTACTO CON ALIMENTOS
+
+ANEXO: EMBALAJES Y EQUIPOS PLASTICOS DESTINADOS A ENTRAR EN CONTACTO CON ALIMENTOS: CLASIFICACION DE ALIMENTOS Y SIMULANTES
+
+
+1 - CLASIFICACION DE LOS ALIMENTOS
+Del punto de vista de la integración con los embalajes y equipos plásticos, los alimentos se clasifican de la siguiente forma:
+
+TIPO I: alimentos acuosos no ácidos (ph > 5)
+TIPO II: alimentos acuosos ácidos (ph < 5)
+TIPO III: a. alimentos acuosos no ácidos que contienen aceite o grasa
+b. alimentos acuosos ácidos que contienen aceite o grasa
+TIPO IV: alimentos aceitosos o grasosos
+TIPO V: alimentos alcohólicos (contenido de alcohol superior al 5% (v/v))
+TIPO VI: alimentos sólidos secos o de acción extractiva poco significativa
+
+2. SELECCION DE LOS SIMULANTES DE ALIMENTOS
+
+2.1. Con la finalidad de realizar los ensayos de migración en embalajes y equipos plásticos en contacto con alimentos, se definen los siguientes simulantes de alimentos:
+
+SIMULANTE A: agua destilada
+
+SIMULANTE B: solución de ácido acético en agua destilada, al 3% (m/v)
+
+SIMULANTE C: solución de etanol en agua destilada al 15% o en concentración más próxima a la real de uso
+
+SIMULANTE D: aceite de oliva refinado; alternativa:  n- heptano (I)
+
+2.2. Los simulantes indicados para cada tipo de alimento son los siguientes:
+
+ALIMENTO		SIMULANTE
+
+TIPO I				A
+TIPO II			B
+TIPO IIIa			A,D
+TIPO IIIb			B,D
+TIPO IV			D
+TIPO V			C
+TIPO VI			Ninguno, u ocasionalmente A, B, C o
+D, dependiendo del tipo de alimento
+
+NOTA
+
+(1) - El n-heptano está indicado como simulante alternativo durante el período de transición del MERCOSUR, considerándose que es el simulante oficial para alimentos aceitosos, tanto en la legislación argentina como en la brasileña, y es una técnica simple de utilizar. El comportamiento del n-heptano como simulante de alimentos aceitosos está siendo cuestionado. La tendencia general es el uso de aceites vegetales (aceite de oliva, aceite de girasol o de soja), pues los mismos son excelentes simulantes de alimentos aceitosos, a pesar de que el método correspondiente sea más complejo que el anterior. En algunos casos de plástico que son atacados por el n-heptano, no será posible su utilización como simulante de alimentos aceitosos.
+
+2.3. En la Tabla 1 (REF: Directriz de CEE) están descritos, a título de ejemplo y no de manera taxativa, diversos alimentos o grupo de alimentos, señalándose los simulantes correspondientes a utilizar en los ensayos de migración. Para cada tipo de alimento o grupo de alimento se utilizará el simulante indicado con una "X", usándose muestras no ensayadas del material en estudio para cada simulante, cuando no se indica "X", no son necesarios ensayos de migración.
+En el caso de alimentos que necesiten del simulante D, cuando aparece el símbolo "X" seguido de "/" y el número (X/n), los resultados de los ensayos de migración deberán ser divididos por el número indicado (n).
+El número n es el factor de reducción, usado convencionalmente para tener en cuenta la mayor capacidad extractiva del simulante con relación al alimento tratado.
+
+Aprobado por los representantes gubernamentales en Rio de Janeiro, el 18 de setiembre de 1992.

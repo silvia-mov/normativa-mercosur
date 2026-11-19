@@ -1,0 +1,698 @@
+Resolución GMC N° 25/15
+Título: Guía para estudios de Evaluación Económica de Tecnologías Sanitarias
+Fecha de aprobación: 15/07/2015
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 58026_RES_025-2015_ES_Guia Eval Economica Res 3_13.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3133).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 25/15
+
+GUÍA PARA ESTUDIOS DE EVALUACIÓN ECONÓMICA DE TECNOLOGÍAS SANITARIAS
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 18/05, 12/08 y 06/12.
+
+CONSIDERANDO:
+
+Que la creciente incorporación de innovaciones tecnológicas no siempre representa ventajas sobre las tecnologías existentes.
+
+Que son necesarias decisiones fundamentadas en evidencias científicas para la incorporación de tecnologías sanitarias.
+
+Que la aplicación de una tecnología sanitaria, cuando es utilizada en situaciones reales o habituales, presenta una variabilidad económica que es influenciada por múltiples factores.
+
+Que la disponibilidad de una guía regional genera un marco para la estandarización de las evaluaciones económicas de tecnologías sanitarias, mediante un instrumento unificado y armonizado para efectuar tales evaluaciones y poder compartir e intercambiar información vital en los Estados Partes para la toma de decisiones
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - La "Guía para Estudios de Evaluación Económica de Tecnologías Sanitarias" es la que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - La guía a que hace referencia el Artículo precedente establece los procedimientos y métodos que deben emplear los analistas e investigadores para producir, realizar, describir, reportar y valorar las evaluaciones económicas de tecnologías sanitarias en los Estados Partes.
+
+Art. 3 - Los Estados Partes deben indicar en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 4 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/I/2016.
+
+XLV GMC EXT. - Brasilia, 15/VII/15.
+
+
+ANEXO
+
+GUÍA PARA ESTUDIOS DE EVALUACIÓN ECONÓMICA DE TECNOLOGÍAS SANITARIAS
+
+Contenido
+
+1.  Consideraciones generales
+2.  Definiciones
+3.  Caracterización del problema
+4.  Población destinataria y población incluida
+5.  Diseño del estudio
+6.  Tipos de análisis
+7.  Intervenciones a ser comparadas
+8.  Perspectiva del análisis
+9.  Horizonte temporal
+10. Caracterización y medición de resultados
+11. Cuantificación y costeo de recursos
+12. Modelado
+13. Tasa de descuento
+14. Resultados
+15. Análisis de sensibilidad
+16. Generalización de los resultados
+17. Limitaciones del estudio
+18. Consideraciones sobre el impacto presupuestario y equidad
+19. Aspectos éticos y administrativos
+20. Conclusiones y recomendaciones
+21. Conflicto de interés / fuentes de financiamiento
+22. Formato de presentación
+
+
+1. CONSIDERACIONES GENERALES
+
+1.1 Esta Guía establece los procedimientos y métodos que deben emplear los analistas e investigadores para producir, realizar, describir, reportar y valorar las evaluaciones económicas de tecnologías sanitarias en los Estados Partes.
+
+1.2 Esta Guía provee un marco para la estandarización de las evaluaciones económicas de tecnologías sanitarias en los Estados Partes.
+
+2. DEFINICIONES
+
+Las definiciones dadas a continuación se aplican a los términos utilizados en esta Guía, éstas pueden tener significados diferentes en otros contextos.
+
+Agencia de evaluación de tecnologías sanitarias: Institución pública o privada dedicada a realizar y a divulgar los resultados de investigaciones sobre tecnologías sanitarias, nuevas y prexistentes, a partir de evidencias disponibles sobre la seguridad, la eficacia, la efectividad, la relación costo-efecto y el impacto socio-económico y ético de esas tecnologías.
+
+Alternativa: Opción con la cual la intervención o tecnología es comparada.
+
+Análisis conjunto "discrete choice experiment": Técnica para valorar los beneficios de las tecnologías sanitarias que consiste en solicitar a los individuos que seleccionen entre distintas alternativas de atributos que presenta la tecnología. Si el costo de la tecnología es uno de esos atributos, esa técnica permite determinar indirectamente la disposición a pagar de los individuos.
+
+Análisis de escenarios: Tipo de análisis de sensibilidad multivariable, que considera sustituir simultáneamente diversas variables del modelo asociadas con subgrupos identificables de interés; la variabilidad debe ser evaluada a través de los análisis de escenarios, que incluyan por lo menos la mejor y la peor posibilidad.
+
+Análisis de costo en salud: Evaluación económica parcial, en el ámbito de la Salud, que considera solamente los costos del uso de la tecnología.
+
+Análisis de costo-beneficio (ACB): Evaluación económica completa de tecnologías, en el ámbito de la salud, en que tanto los costos de las tecnologías comparadas como sus efectos son valorados en unidades monetarias.
+
+Análisis de costo-consecuencia (ACC): Tipo de evaluación económica en la cual costos y consecuencias de las tecnologías sanitarias son listados separadamente en formato desagregado, sin agregación de los resultados (por ejemplo, en una razón de costo-efectividad incremental).
+
+Análisis de costo-efectividad (ACE): Evaluación económica completa, en el ámbito de la salud, que compara distintas intervenciones de salud, cuyos costos son expresados en unidades monetarias, y los efectos, en unidades clínico- epidemiológicas (tales como años de vida, ganancias o eventos clínicos evitados). Este término es también utilizado ocasionalmente para referirse a todos los tipos de evaluaciones económicas.
+
+Análisis de costo-minimización (ACM): Evaluación económica que compara solamente los costos de dos o más tecnologías. Los efectos sobre la salud que resultan de comparar las tecnologías son considerados similares.
+
+Análisis de costo-utilidad (ACU): Evaluación económica completa que permite la comparación entre diferentes tipos de intervención de salud y los efectos de éstos, medidos en Años de Vida Ajustados por la Calidad (AVAC). Los costos de intervenciones de salud son expresados en unidades monetarias.
+
+Análisis de sensibilidad: Procedimiento analítico que evalúa la solidez de los resultados de un estudio, mediante el cálculo de cambios en los resultados y en las conclusiones que se producen cuando las variables, clave del problema, cambian en un intervalo específico de valores. Un análisis de sensibilidad consiste en tres etapas: (a) definición de los parámetros que son objeto de cuestionamiento; (b) elección de una franja plausible de variación de los factores relacionados a la incertidumbre y (c) presentación de los diferentes resultados originados de la variación de los parámetros seleccionados.
+
+Los análisis de sensibilidad pueden ser univariados o multivariados y de primer o de segundo orden.
+
+En los análisis univariados, cada parámetro es evaluado separadamente en su franja de variación, mientras los otros permanecen constantes. Su objetivo es verificar la influencia del parámetro analizado en el resultado final de modo de determinar si es o no sensible a sus cambios. Cuanto mayor es el impacto en los resultados, mayor debe ser la precaución a ser tomada en la interpretación de los resultados. El análisis univariado de todos los parámetros influenciados por la variabilidad de los datos y de la incertidumbre puede ser suficiente para garantizar confiabilidad a los resultados de la evaluación económica.
+
+Los análisis multivariados modifican dos o más parámetros simultáneamente, con la finalidad de verificar el impacto de ellos en el resultado del estudio. Usualmente, cuanto mayor es el número de parámetros utilizados, más difícil es la interpretación de los resultados del modelo. Para disminuir este problema, la construcción de escenarios es un camino para explorar el impacto de la variación en los diferentes estados de salud. En esa situación, deben construirse escenarios que reflejen el mejor y el peor de los casos.
+
+Otra elección que debe ser realizada se relaciona a la forma como los parámetros deben variar. La primera posibilidad es decidir por valores determinados (0% y 10% en la tasa de descuento, por ejemplo) y observar el impacto en el resultado. La segunda posibilidad es introducir una función de probabilidad para estudiar las variaciones en los parámetros.
+
+
+Los límites plausibles de variación de los parámetros deben ser definidos y justificados. Esos límites deben reflejar la escala total de la variabilidad y de la incertidumbre que es relevante y apropiada para cada modelo. Esos límites pueden ser determinados a partir de la revisión de la literatura, por la consulta a expertos y usando intervalos de confianza, para datos estocásticos.
+
+Al realizar análisis estocásticos, en las cuales los datos de costo y eficacia de los tratamientos para cada paciente están disponibles, las incertidumbres derivadas de los errores de muestras deben ser analizadas a partir de intervalos de confianza aplicados al resultado del estudio. Varios métodos han sido propuestos para estimar esos intervalos de confianza en los estudios de costo-efectividad en esas circunstancias, con diferentes escalas de intervalo. Preferentemente, deben ser utilizados el método basado en el teorema de Fieller en análisis paramétricos, y el método básico de "bootstrap", para análisis no-paramétricos. Esos métodos producen mejores resultados, con mayor probabilidad de garantizar que los parámetros de la población estén dentro del intervalo de confianza estimado. Una alternativa interesante es la de construir curvas de aceptabilidad de las estrategias. Esas curvas representan la probabilidad de una estrategia en cuestión de ser costo- efectiva para diferentes razones de valores, en un intervalo de 0 a 1. Se debe verificar que esas curvas no presentan un problema encontrado en la determinación de los intervalos de confianza, la existencia de razones negativas de costo-efectividad.
+
+Una simulación de segundo orden de Monte Carlo debe ser utilizada para la obtención de resultados que dependen del tipo de distribución de probabilidades que son definidas por los parámetros. Las simulaciones de Monte Carlo ofrecen resultados probabilísticos de estudios de evaluación económica. Así, es posible evaluar las propiedades estadísticas de la distribución de probabilidades de los resultados y utilizar intervalos de confianza para verificar la validez de las conclusiones.
+
+Análisis de impacto presupuestario "Budget impact analysis"(AIP): Estimación del impacto en el uso de servicios y costos en los primeros dos años (y años subsiguientes) después de la inclusión de una nueva tecnología en un formulario, listado definido de prestaciones, programa de cobertura específica o sistema de salud. Los AIP son realizados basándose en una evaluación económica previa o en forma independiente. Los AIP deben ser realizados con un marco de análisis adecuado a la naturaleza de la condición de salud a evaluar y a las tecnologías involucradas. Para condiciones crónicas de salud es necesario utilizar modelos que consideren el factor de dependencia temporal y asociación entre variables, tales como Modelos de Markov, entre otros. En el caso de condiciones agudas de salud, es posible utilizar modelos más simples en donde el episodio de salud es la unidad de análisis. Debe aclararse la perspectiva utilizada, los escenarios, los grupos de intervenciones a ser comparadas, la población a ser incluida, el horizonte temporal considerado relevante para el solicitante, el método de costeo, y agregar un análisis de sensibilidad que muestre una serie de resultados que reflejen un abanico plausible de circunstancias que el solicitante podrá enfrentar cuando incluya la nueva tecnología en cuestión. El AIP debe ser sometido a procedimientos de validación específicos.
+
+Análisis estratificado: Proceso de análisis de subgrupos menores y más homogéneos de acuerdo con criterios específicos como edad o nivel socioeconómico, cuando existe variabilidad (heterogeneidad) en la población.
+
+Análisis probabilístico de sensibilidad: Método de análisis de decisión en que distribuciones de probabilidades son especificadas para parámetros inciertos, donde a partir de la realización de una simulación de Monte Carlo, se presenta la distribución de probabilidades resultantes de los costos y resultados esperados.
+
+Años de Vida Ajustados por Incapacidad (AVAI): Índice que representa los años futuros de vida exentos de incapacidades que se pierden en un determinado período, por consecuencia de muertes prematuras o de situaciones de incapacidad provocadas por enfermedades.
+
+Años de Vida Ajustados por Calidad (AVAC o QALY - "Quality-adjusted life year"): Unidad de medida bidimensional del bienestar de un individuo o de un grupo de personas que ajusta los años de vida según la utilidad evaluada como consecuencia de los estados imperfectos de salud. El valor de la unidad de medida está comprendido entre 0 (cero), que es muerte, y 1 (uno) o 100 (cien), que es salud perfecta.
+
+Por definición y en su forma más sencilla, la especificación de la función agregada propuesta por el método QALY, usado para agregar una ganancia de (t) años de vida en un estado de salud cuya calidad es medida por el valor (q), es igual al período (t) multiplicado por la calidad de vida (q).
+
+Los QALY representan una unidad común para comparar el costo-utilidad de diferentes intervenciones de salud y para establecer prioridades para la ubicación de recursos exiguos y han sido ampliamente utilizados en la literatura internacional.
+
+Años Potenciales de Vida Perdidos (APVP): Unidad de medida de impacto relativa a varias enfermedades y a problemas de salud en la sociedad, calculada a partir de la suma de los años de vida perdidos como consecuencia de muertes de jóvenes o de muertes prematuras de las personas de una determinada región o de un país.
+
+Árbol de Decisión: Representación gráfica de la decisión, incorporando opciones alternativas, eventos inciertos (y sus probabilidades) y resultados en salud.
+
+Beneficio: Ganancia o resultado positivo de cualquier tecnología sanitaria.
+
+Beneficio Neto: Uno de los métodos de representación de los resultados de las evaluaciones económicas de costo-beneficio, representa la diferencia entre el beneficio total y el costo total de la intervención bajo examen, menos la diferencia entre el beneficio total y el costo total de su estrategia alternativa.
+
+Calidad de vida relacionada con la salud: Aspectos físicos, emocionales y sociales que son relevantes e importantes para el bienestar de los individuos; puede ser evaluada usando instrumentos de medida genéricos, específicos para determinadas enfermedades, o basados en las preferencias.
+
+Caso-referencia: Conjunto de métodos a seguir preferidos por el analista, cuando conduce el análisis del caso de base en las evaluaciones económicas.
+
+Centro de costos: Sector de una institución que tiene gastos mensurables.
+
+Conferencias de Consenso: Técnica de toma de decisión en que se reúnen las partes interesadas en el cuidado, para llegar a un consenso sobre la seguridad, la eficacia y las condiciones apropiadas para el uso de una tecnología, basando sus juicios en las evidencias científicas disponibles.
+
+Consumo de servicios de salud: Uso o empleo de los servicios de salud por parte de un individuo o grupo de personas, con el objetivo de obtener una satisfacción en términos de mejoría de la calidad de vida relacionada a la salud.
+
+Control de costos: Estrategia utilizada para el control de los costos provenientes de cualquier sistema de producción de bienes y servicios de salud.
+
+Cohorte: Grupo de individuos que tiene una característica común que es la presencia de una exposición a un factor en estudio o la ausencia de ese factor.
+
+Cuidado habitual o usual: Alternativa más común o más ampliamente utilizada en la práctica clínica; también referido como "práctica existente", "práctica corriente", "cuidado típico" o "status quo".
+
+Costo: Valor de todos los recursos gastados en la producción de un bien o servicio.
+
+Costo de oportunidad: Costo en que la sociedad incurre al poner a disposición una tecnología sanitaria a la población, en la medida en que los recursos empleados no quedan disponibles para otros fines. El costo de oportunidad también es conocido como el valor de la mejor alternativa no concretada, como consecuencia de la utilización de recursos limitados en la producción de un determinado bien o servicio de salud.
+
+Costo directo: Costo atribuido directamente al producto o servicio prestado, no siendo necesaria ninguna metodología de prorrateo.
+
+Costo económico: Costo de oportunidad.
+
+Costo en salud: Valor de los recursos empleados en el uso de una alternativa terapéutica, de un programa o de un servicio de salud durante un período de tiempo.
+
+Costo de enfermedad "cost-of-illness": Tipo de evaluación económica parcial por medio de la cual se calcula el impacto económico, o los costos de la prevalencia, o los costos de la incidencia de determinada enfermedad durante un determinado período de tiempo.
+
+Costo marginal: Aumento que experimenta el costo total, originado a partir del aumento de una unidad en el volumen de producción.
+
+
+Costo medio unitario: Costo total dividido por la cantidad producida, en un determinado período. Puede ser obtenido en relación al costo directo, indirecto y total.
+
+Costo total: Es el resultado de la suma de los costos directos e indirectos de todas las unidades de un mismo bien o servicio producidas durante determinado período de tiempo.
+
+Costo variable: Costo que es pasible de alteración en el corto plazo. Ese costo se modifica proporcionalmente al volumen producido y que, sumado al costo fijo, se constituye en el costo total de un determinado servicio o producto.
+
+Costos brutos "top down costing": Abordaje de medición de costos que usa grandes componentes como base para el cálculo de los costos de una intervención, tales como costos por día de internación.
+
+Costos de productividad (o indirecto): Son los costos asociados a la pérdida o reducción de la capacidad de trabajar de un individuo o de un grupo de personas, en función de la morbimortalidad ocasionada por enfermedades.
+
+DALY (DALY / "disability-adjusted life years"): Años de vida ajustados por incapacidad.
+
+Demanda: Cantidad de un bien o servicio que un individuo puede y está dispuesto a comprar para cada nivel de precio establecido en el mercado, mientras que se mantengan inalterados todos los otros factores que afectan el consumo de ese bien.
+
+Depreciación: Reducción de valor o de precio que se registra en la mayoría de los bienes, en función del uso, del desgaste físico, de las evoluciones tecnológicas, del pasar del tiempo o de las alteraciones en los precios de otros factores de producción. La depreciación de una moneda significa su desvalorización en relación a otras.
+
+Disposición a pagar "willingness-to-pay" (DAP): Método de evaluación usado en las evaluaciones de costo-beneficio para cuantificar los resultados en salud en términos monetarios. Es utilizado para determinar la cantidad máxima de dinero que los individuos se disponen a pagar por un determinado resultado o beneficio en salud.
+
+Distribución de recursos en salud: Es la forma como el sector salud distribuye sus recursos financieros entre las diferentes alternativas de tecnologías, con objetivo de atender a las necesidades de salud de la sociedad.
+
+Dominancia fuerte (sencilla o estricta): Estado en que una intervención es más efectiva y menos costosa que su alternativa.
+
+Dominancia débil (o extendida): Estado en que una intervención es más costosa y menos efectiva y tiene menor razón de costo-efectividad incremental, que su alternativa.
+
+Efectos en salud: Ganancias, resultados o consecuencias de cualquier tecnología en salud.
+
+Efectividad: Medida de los resultados o consecuencias originados de la aplicación de una tecnología sanitaria, cuando es utilizada en situaciones reales o habituales de uso.
+
+Eficacia: Medida de los resultados o consecuencias originados de la aplicación de una tecnología sanitaria, cuando es utilizada en situaciones ideales o experimentales.
+
+Eficiencia: Concepto económico derivado de la escasez de recursos que vincula a la producción de bienes y servicios deseados por la sociedad al menor costo social posible.
+
+Ensayo clínico: Cualquier forma de experimento planeado que considera personas enfermas y es formulado para determinar el tratamiento más apropiado en los futuros pacientes con la misma enfermedad.
+
+Ensayo clínico controlado cruzado (ensayo secuencial, "crossover clinical trial"): Estudio en que la mitad de un grupo de pacientes recibe un tratamiento y la otra mitad el tratamiento control (placebo). Después de una pausa temporal "washout period", se hace una inversión, con la primera mitad recibiendo el placebo y la segunda el tratamiento en estudio. Ese tipo de estudio permite comparar los resultados en conjunto, o sea, todos los que fueron sometidos al tratamiento con todos los que recibieron el placebo, lo que permite reducir a la mitad el número de la casuística en relación al ensayo clínico controlado. Es importante que se evite la posibilidad que el tratamiento o su falta en la primera etapa tenga repercusión en la segunda etapa.
+
+Ensayo clínico controlado factorial "factorial clinical trial": Variante del ensayo clínico controlado aleatorizado, pero con un delineamiento factorial. En lugar de considerar solamente un factor, por ejemplo, de una droga o intervención "A", se puede testear los efectos de la droga o intervención "A", droga o intervención "B", drogas o intervenciones "A + B", además del placebo o procedimiento control, formándose de esa manera, por ejemplo, cuatro grupos.
+
+Equidad en salud: Principio según el cual la distribución de recursos es realizada en función de las necesidades de salud de una determinada población.
+
+Estudio multicéntrico: Estudio cooperativo entre diversas instituciones que permite la obtención de casuísticas mayores "megatrials" pero exigen elaboración más compleja en cuanto a protocolos, así como entrenamiento e integración de los equipos.
+
+Estudios abiertos "open", "open label", "open clinical trial": Ensayos en que todos los investigadores integrantes del equipo de investigación, así como todos los pacientes saben a qué grupo pertenece cada individuo de la casuística, o sea, si al grupo control o a lo(s) grupo(s) experimental(es).
+
+Estudios "aleatorizados": Estudios en que los integrantes de la investigación son distribuidos aleatoriamente en dos grupos: control y experimentales.
+
+Estudios clínicos controlados "aleatorizados": Ensayos clínicos que consideran por lo menos un tratamiento en análisis y un tratamiento de control, ingreso simultáneo de pacientes y seguimiento de los grupos en análisis y control y en los cuales el tratamiento a ser administrado es seleccionado por un proceso aleatorizado. La aleatorización reduce el riesgo de errores sistemáticos, produciendo un equilibrio entre los diversos factores de riesgo que pueden influir en el desenlace clínico a ser medido.
+
+Estudios comparativos: Estudios en que se observan grupos diferentes, no siendo uno control del otro.
+
+Estudios controlados: Investigaciones que consideran el estudio de un "grupo de casos" y de un "grupo control". Deben ser lo más semejantes posibles, difiriendo solamente por el hecho de que un grupo recibe el placebo o tratamiento ya consagrado, y el otro el nuevo tratamiento propuesto. Permiten la propuesta de hipótesis, comparando los resultados entre los grupos y son, generalmente, utilizados en estudios analíticos incluyendo cálculos de probabilidades estadísticas.
+
+Estudios cuádruplo-ciego "quadruple-blind", "quadruple-masked": Estudios en que el equipo de investigación, los pacientes, el bioestadístico que hace los análisis y el investigador que está escribiendo la discusión acerca de los resultados desconocen la identidad de los grupos control y grupo(s) experimental(es).
+
+Estudios de cohorte (estudio de seguimiento, "cohort study"): Estudios longitudinales en que el investigador, después de distribuir los individuos como no expuestos y expuestos a un determinado factor en estudio, los sigue durante un determinado período de tiempo para verificar la incidencia de una enfermedad o situación clínica entre los expuestos y no expuestos.
+
+Estudios de incidencia: Estudios longitudinales en que se evalúan casos nuevos o de desenlaces nuevos de los casos existentes de una enfermedad específica, que ocurren en una población que no los presentaba.
+
+Estudios de precisión: Tipo de investigación utilizada para que un nuevo test diagnóstico bajo estudio (exámenes complementarios, pero también asociaciones obtenidas de signos, síntomas y/o evidencias clínicas) garantizan que su resultado positivo indique, realmente, la presencia de una enfermedad, y que sea negativo en la real ausencia de la misma.
+
+Estudios de prevalencia (detección de casos, "screening"): Estudios transversales que tienen por objetivo conocer la probabilidad de individuos asintomáticos de desarrollar o no la enfermedad o situación clínica que es objeto de la investigación.
+
+Estudios doble-ciego "double-blind": Estudios en que el equipo de investigación y los pacientes desconocen la identidad de los grupos control y grupo(s) experimental(es). Solamente una persona del equipo, la que no va a tener contacto con los pacientes, y tampoco evaluar los resultados, sabe quién pertenece a cada grupo.
+
+Estudios de intervención: Estudios en que el investigador no se limita a la simple observación, sino que interfiere por la exclusión, inclusión o modificación de un determinado factor.
+
+Estudios de observación: Estudios en que el investigador sólo observa el paciente, las características de la enfermedad o trastorno, y su evolución, sin intervenir o modificar cualquier aspecto bajo estudio.
+
+Estudios en centro único: Estudios desarrollados por un equipo de investigación que incluye solamente a una institución de investigación.
+
+Estudios longitudinales "follow up": Estudios en que existe una secuencia temporal conocida entre una exposición, ausencia de la misma o intervención terapéutica, y la aparición de casos de la enfermedad o factor evolutivo. Se destina a estudiar un proceso a lo largo del tiempo para investigar cambios. Tiene la desventaja de estar sujeto a variaciones originadas de factores extrínsecos, que pueden cambiar el grado de comparación entre los grupos.
+
+Estudios no aleatorizados: Estudios en que no es hecha una distribución aleatorizada de los sujetos de la investigación por los grupos control y experimentales, pudiendo haber distorsiones en los resultados a consecuencia de la casuística o muestra viciada.
+
+Estudios no controlados (estudio de casos, estudio "antes y después", estudio de la relación estímulo/efecto): Investigaciones clínicas en que se registran los datos relativos a la observación clínica y/o de laboratorio de grupos de individuos portadores de una enfermedad, sin utilizar un grupo control o placebo.
+
+Estudios primarios: Investigaciones originales.
+
+Estudios prospectivos: Estudios en que la estructuración de la investigación se hace en el presente y los individuos son seguidos a lo largo del tiempo, se vuelve necesario el cumplimento de las exigencias inherentes a la estandarización y calidad de las informaciones obtenidas.
+
+Estudios retrospectivos: Estudios en que se realizan análisis a partir de registros del pasado, desde aquel momento hasta el presente. Dependen de la credibilidad de los datos de registros a ser computados, en relación a la exposición del factor y/o a su intensidad, y a la ocurrencia de la enfermedad, situación clínica o muerte con correlación conocida al factor de exposición.
+
+Estudios secundarios: Estudios que procuran establecer conclusiones a partir de estudios primarios e incluyen las revisiones no sistemáticas de la literatura, las revisiones sistemáticas con y sin meta-análisis, y los artículos de revisión.
+
+Estudios tipo caso-control "case-control study": Estudios en que el investigador, después de distribuir las personas como enfermos y no enfermos, verifica, retrospectivamente, si hubo exposición previa a un factor entre los enfermos y los no enfermos. Las personas enfermas o portadoras son denominadas "casos", y las no enfermas o no portadoras "control".
+
+Estudios transversales (o seccionales): Estudios en que la exposición al factor o causa está presente en el mismo momento o intervalo de tiempo analizado que el efecto. Describe una situación o fenómeno en un momento no definido, solamente representado por la presencia de una enfermedad o trastorno. Son utilizados cuando la exposición es relativamente constante en el tiempo y el efecto (o enfermedad) es crónico. Tiene como principales ventajas el bajo costo y la casi total ausencia de pérdidas de seguimiento.
+
+Estudios triple-ciego "triple-blind", "triple-masked": Estudios en que el equipo de investigación, los pacientes y el profesional de Bioestadística que hace los análisis desconocen la identidad de los grupos control y grupo(s) experimental(es).
+
+Estudios uniciego "blind", "single-masked": Estudios en que sólo el equipo de investigación sabe cuál fue el tipo de tratamiento instituido en cada paciente, o a qué grupo cada paciente pertenece. Generalmente, esa modalidad es aplicada en estudios relativos a tratamientos por intervenciones quirúrgicas o radioterapia.
+
+Evaluación de Tecnologías Sanitarias (ETS): Evaluación sistemática de las propiedades, efectos y/ o impactos de las tecnologías sanitarias, teniendo en cuenta sus consecuencias directas o intencionales, e indirectas o no intencionales. Su principal objetivo es informar a los tomadores de decisión y constituirse en insumo para las políticas relacionadas a las tecnologías de la salud. La ETS se realiza por medio de un equipo multidisciplinario utilizando un paradigma de análisis explícito con múltiples metodologías.
+
+Evaluación Económica en salud: Análisis comparativo de diferentes tecnologías, en el ámbito de la salud, referentes a sus costos y a los efectos sobre el estado de salud. Las principales técnicas de evaluación económica completa son: el análisis de costo-efectividad, costo-utilidad, costo-minimización y costo-beneficio.
+
+Evaluación económica "piggy-backed": Estudios prospectivos en que la evaluación económica es realizada en paralelo al ensayo clínico.
+
+Evaluador: Aquel que conduce la evaluación económica.
+
+Evento adverso: Efecto indeseable de una tecnología en salud.
+
+Evento adverso grave: Evento adverso que resulta en muerte o en amenaza a la vida o requiere hospitalización del paciente o prolongación de una internación ya presente; resulta en persistente o significativa incapacidad/deficiencia o en anomalía congénita.
+
+Fármacoeconomía: Conjunto de actividades dedicadas, de modo general, al análisis económico en el campo de la asistencia farmacéutica, como la gestión de servicios farmacéuticos, la evaluación de la práctica profesional y la evaluación económica de medicamentos.
+
+Función de Distribución de probabilidades "probability density function": Representación numérica o matemática de la probabilidad relativa de cada posible valor que el parámetro pueda asumir.
+
+Gastos: Monto de recursos gastados en un determinado período, que no está directamente relacionado con la actividad final. El gasto puede ser atribuido o no al producto o servicio como costo indirecto.
+
+Generalización: Posibilidad de aplicación o extrapolación de los resultados obtenidos de una población o espacio de práctica. También referido como validez externa o aplicabilidad.
+
+Horizonte temporal: Período de tiempo a lo largo del cual los costos y resultados son medidos en una evaluación económica.
+
+HYE: "healthy-years equivalentes" (HYE) ganancias equivalentes en años saludables.
+
+Incertidumbre: Estado en que el valor verdadero de un parámetro o estructura de un proceso es desconocido.
+
+Incertidumbre de Parámetros: Incertidumbre sobre el verdadero valor numérico de los parámetros del modelo.
+
+Incertidumbre del Modelo: Incertidumbre relacionada con las características de diseño del modelo (estructura, métodos analíticos, presupuestos). La incertidumbre del modelo depende de las opciones y presupuestos hechos por el analista.
+
+Incertidumbre en las Evaluaciones Económicas: Incertidumbre de Parámetros representada por la función de la frecuencia de la distribución de probabilidad que no puede ser reducida. La incertidumbre proviene del desconocimiento del valor exacto de los parámetros como consecuencia de las imperfecciones de la medida realizada. En la elección de las estrategias de intervención en salud, el análisis de sensibilidad es el procedimiento más común para evaluar el impacto de la variabilidad de los datos y de la incertidumbre en los resultados finales y en su repercusión.
+
+Inflación: Proceso de aumento continuo en el nivel general de precios de una economía.
+
+Inputs del modelo: Parámetros (por ejemplo, resultados, uso de los recursos, utilidades) y características de diseño (estructura, métodos analíticos, presupuestos) del modelo.
+
+Intervención: Tecnología en salud de interés para la evaluación económica.
+
+
+Intervenciones de cribado o "screening": Se utilizan para el examen de personas presuntamente sanas y buscan detectar enfermedades, anormalidades o factores de riesgo asociados en individuos asintomáticos.
+
+Intervención diagnóstica: Comprende aquellas referentes al examen de individuos presuntamente enfermos, con la intención de identificar la causa y la naturaleza o la extensión de una afección o enfermedad e individuos con signos y síntomas clínicos.
+
+Intervenciones preventivas: Buscan proteger contra enfermedades y otros agravantes a través de la prevención de su ocurrencia, de la reducción en el riesgo de ocurrencia o de la limitación de su extensión y secuelas. La prevención puede ser primaria (buscando reducir el número de casos nuevos de alguna enfermedad o agravio), secundaria (para reducir el número de casos ya establecidos en la sociedad) o terciaria (para estabilizar o reducir la dimensión de la incapacidad física o mental asociada con una determinada enfermedad o condición). Los cuidados de apoyo pueden ser parte de un tratamiento específico (por ejemplo, en la recuperación quirúrgica post-operatoria) o pueden ser instituidos cuando un tratamiento activo fue suspendido (por ejemplo: cuidados paliativos).
+
+Intervención terapéutica: Aquella cuyo objetivo es el de mejorar o eliminar una enfermedad o condición ya diagnosticada.
+
+Investigación clínica (ensayos "trial"): Estudios que involucran pacientes (humanos), en que los investigadores designan personas elegibles para grupos de intervención.
+
+Investigación experimental: Estudios que involucran modelos experimentales como animales experimentales, cadáver y cultivo de células y tejidos.
+
+Limitaciones de los estudios de evaluación económica: Las informaciones y métodos utilizados pueden introducir sesgos en el análisis a favor de una alternativa estudiada o de alguno de los subgrupos. Deben considerarse las siguientes preguntas: a) ¿Los resultados pueden ser considerados factibles y validados? b) ¿Qué informaciones y conocimientos pueden ser aprendidos de ese estudio? y c) ¿En qué situaciones el resultado alcanzado puede ser utilizado?
+
+Los datos y métodos utilizados en el análisis y los límites de la generalización de los resultados para otros pacientes deben ser totalmente descritos. En particular, estudios que usan datos de eficacia, por ejemplo, de ensayos clínicos, deben considerar las diferencias sobre la efectividad y el impacto en el resultado de estudio de costo-efectividad emprendido. Las informaciones económicas y epidemiológicas no pueden ser transferidas de un país a otro sin una verificación previa. Debe demostrarse que esos datos (clínicos, epidemiológicos o económicos) pueden ser transferidos con suficiente aplicabilidad.
+
+Media ponderada: El precio medio ponderado de una tecnología en salud es la suma de la multiplicación de cada precio por su respectiva cantidad vendida, dividido por el total de cantidades vendidas.
+
+Medicamento: Producto farmacéutico, técnicamente obtenido o elaborado, con finalidad profiláctica, curativa, paliativa o para fines de diagnóstico. Es una forma farmacéutica terminada que contiene el fármaco, generalmente en asociación con adyuvantes fármaco-técnicos.
+
+Medidas de evaluación de la calidad de vida relacionada a la salud: Se describen estados de salud y se realiza un procedimiento de cálculo que permite asociar un valor numérico cualitativo a un estado de salud. Una vez escogida una medida de calidad de vida en salud, sus condiciones de uso deben ser respetadas; en particular, las características de la población destinataria, la enfermedad o condición mórbida, o método de aplicación, las reglas para el cálculo de los "scores" y para interpretación de los resultados.
+
+Existen dos abordajes para integrar aspectos relativos a la calidad de vida: el abordaje de psicometría y el económico. Este último produce medidas de utilidad usando métodos para revelar las preferencias de los individuos, mientras el abordaje de psicometría produce medidas de calidad de vida usando cuestionarios o escalas.
+
+Medida indirecta de preferencias: Uso de instrumentos para medir las preferencias de los individuos, sin tomar medidas directas.
+
+Meta-análisis: Técnicas que aplican protocolos y utilizan métodos estadísticos para revisar e interpretar críticamente los resultados combinados de investigaciones primarias que fueran realizadas, con el objetivo de obtener síntesis cuantitativas sobre los efectos de las tecnologías sanitarias.
+
+Método bayesiano: Ramo de la estadística que utiliza información previa sobre presupuestos para estimación e inferencia.
+
+Método del capital humano: Método de estimar los costos de productividad basado en la cantidad de tiempo de pleno empleo del individuo que es perdido como resultado de la enfermedad.
+
+Métodos de estimación de costos: Herramientas destinadas a la identificación de los costos de servicios o de programas de salud brindados por institución u órgano específico. Los principales métodos de estimación de costos pueden ser: i) costeo por absorción; ii) costeo directo o variable; iii) costeo por procedimiento o enfermedad; y iv) costeo ABC.
+
+Micro-costos "bottom-up costing": Abordaje de medición basada en la identificación de los recursos utilizados por los pacientes, con base en cada uno de los ítems de costo.
+
+Modelos de Markov: son construcciones semejantes a las de los árboles de decisión en que se incorpora el ciclo de tiempo de una enfermedad, en la forma de un proceso recursivo, conocido como cadenas de Markov. La caracterización básica de procesos dinámicos como procesos de Markov se da por la llamada "regla de Markov", que supone que una transición de un estado actual hacia un estado futuro no depende de la historia anterior del sistema, solamente del estado actual. Esquemáticamente, el modelo de Markov es utilizado para simular el camino recorrido por un individuo a través de un número finito de estados de salud y acumulando las consecuencias que aparecen a lo largo de la evolución de la enfermedad - años de vida salvados, QALY y costos, por ejemplo. Sin especificar detalles de ese modelo matemático, su propiedad fundamental es la construcción de un proceso "sin memorias". Eso significa que un número de pacientes en un determinado estado de salud en el tiempo t depende solamente de la cantidad de pacientes en ese estado en el tiempo t-1 y la probabilidad de entrar y salir de ese estado en el tiempo t. Esa simplificación representa una seria limitación cuando se modela la evolución de enfermedades cuyo diagnóstico puede evolucionar a lo largo del tiempo. En ese caso, es posible incorporar "memoria" al modelo, resultando en un proceso conocido como semi Markov.
+
+Oferta: Cantidad de un bien o de un servicio disponible en el mercado en que los ofertantes están dispuestos a vender, según el precio de mercado, en un período de tiempo determinado.
+
+Patrón-oro (patrón de referencia o "gold standard"): Método, procedimiento o medida que es ampliamente aceptado como el mejor disponible, contra el que nuevas intervenciones deben ser comparadas.
+
+Perspectiva: Punto de vista a partir del cual la evaluación económica es conducida, por ejemplo, sociedad, servicio y sistema de salud. Define que costos y consecuencias son examinados.
+
+Precio: Valor monetario por medio del cual un bien o un servicio es comprado y vendido.
+
+Preferencias: Deseo de un resultado o situación particular. Los términos preferencias y utilidades son generalmente utilizados como sinónimos de medidas de calidad de vida en salud en las evaluaciones económicas. Utilidades son preferencias obtenidas por métodos que incluyen incertidumbre (por ejemplo, "standard gamble"), mientras que valores son preferencias derivadas de métodos que no trabajan con incertidumbre (por ejemplo, "time trade-off") y ambos valores y utilidades son preferencias.
+
+Probabilidad: Expresión del grado de certeza de que un evento pueda ocurrir, en una escala de 0 (certeza de que un evento nunca ocurrirá) a 1 (certeza de que el evento ocurrirá).
+
+Procedimiento: Proceso de intervención que puede incluir tanto medicamentos, como vacunas, reactivos para diagnóstico y equipos.
+
+Productos médicos: Cualquier instrumento, dispositivo, equipo, implante o prótesis, reactivo, o calibrador para diagnóstico in vitro, programa informático, material u otro artículo similar o relacionado, utilizado solo o en combinación con cualquier accesorio, destinados por su fabricante a ser utilizados en seres humanos con fines de: diagnóstico; prevención; control; tratamiento o alivio de una enfermedad, lesión o deficiencia; investigación, sustitución o modificación de la anatomía o de un proceso fisiológico; regulación de la concepción y que no ejerzan la acción principal por medios farmacológicos, inmunológicos ni metabólicos.
+
+Protocolos clínicos: Conjunto de directrices, de estrategias, de criterios y de pautas, provenientes de una revisión sistemática de la evidencia científica disponible y de una evaluación profesional, presentado de manera estructurada y elaborado con el objetivo de ayudar a los profesionales de salud y a los pacientes en sus decisiones. Son establecidos claramente los criterios de diagnóstico de cada enfermedad, el tratamiento instituido, con los medicamentos disponibles en las respectivas dosis correctas, los mecanismos de control, el acompañamiento y la verificación de resultados y la racionalización de la prescripción y del suministro de los medicamentos.
+
+Rateo: Distribución proporcional de costos indirectos de la producción de bienes y servicios.
+
+Razón incremental de costo-efectividad ("Incremental cost-effectiveness ratio" -ICER): Razón calculada como la diferencia de costo entre dos estrategias, dividida por la diferencia de los efectos producidos por ellas. Las variaciones en el uso de recursos deben ser incluidas en el numerador y aquellas que influyen sobre los estados de salud, en el denominador, procurándose evitar doble contabilidad.
+
+Registro de tecnologías sanitarias: Inscripción que es destinada a conceder el derecho de fabricación y de comercialización de determinado producto.
+
+Resultado "Outcome": Consecuencia de la condición o intervención. Se refieren a los efectos en salud, tales como los resultados intermedios o finales de importancia para la salud.
+
+Resultado final: Resultado en salud que está directamente relacionado con la duración y calidad de vida, como los años de vida salvados o los años de vida ajustados por calidad.
+
+Resultado intermedio: Medida de laboratorio o signos y síntomas utilizados como substitutos para un resultado final clínicamente importante que mide directamente la sobrevida o función de los pacientes.
+
+Revisión sistemática: Aplicación de métodos explícitos para identificar, localizar, recuperar y analizar sistemáticamente toda la evidencia disponible sobre un problema específico, con el objetivo de establecer bases científicas sobre el uso de determinadas tecnologías o procedimientos de salud, de minimizar las variaciones de una investigación y poder generalizar las conclusiones.
+
+Seguridad: Cuando los resultados esperados del uso de las tecnologías sanitarias exceden los probables riesgos.
+
+Simulación de Monte Carlo: Tipo de simulación de estandardización que utiliza números "aleatorizados" para capturar los efectos de la incertidumbre. Múltiples simulaciones son ejecutadas, con el valor de cada parámetro seleccionado aleatorizadamente a partir de la distribución de probabilidades de cada simulación.
+
+
+Standard gamble: Técnica usada para evaluar la utilidad para los individuos de un resultado o estado de salud que difiere en calidad o duración de vida. Es aplicada pidiendo que los individuos escojan entre un determinado estado de salud o arriesguen entre la salud ideal y la muerte inmediata. La probabilidad de salud ideal versus la muerte inmediata va sistemáticamente cambiando hasta que la persona no tenga más opciones de preferencia entre el estado de salud y el riesgo.
+
+Tasa de descuento: Las comparaciones entre las alternativas de intervención son realizadas en un punto en el tiempo, habitualmente el momento presente. Pero los costos y consecuencias pueden ocurrir a lo largo de un período variado de tiempo, y diferentes intervenciones pueden tener perfiles temporales de costos y consecuencias diversos. El descuento significa estimar lo que un resultado o costo realizado en un momento t1 representa en relación al mismo resultado o costo que ocurra en el momento presente t0. De existir una equivalencia entre esos elementos (costos y resultados) independientemente del momento en que ocurran, ningún descuento es requerido o la tasa de descuento es cero.
+
+Los costos y resultados que ocurren en el futuro generalmente reciben de la sociedad un valor en el presente distinto de aquellos obtenidos en el futuro, de acuerdo con el que la sociedad establece como su tasa de "preferencia en el tiempo". No existe un acuerdo general acerca de la tasa de descuento apropiada y, además, la preferencia en el tiempo varía entre culturas y sociedades. La elección de la tasa de descuento debe considerar la racionalidad del proceso de decisión y del ambiente económico de cada sociedad.
+
+Técnicas de modelado: Las técnicas de modelado más frecuentemente utilizadas en el área del análisis económico se refieren al uso de modelos de árbol de decisión.
+
+Los arboles de decisión son construidos como representación de las estrategias de decisión. Se utilizan nodos de probabilidad para incorporar la frecuencia esperada de los eventos, como, por ejemplo, tasa de éxito y curación. Al final de cada serie de probabilidades, los valores de efectividad y/o costo son asociados para obtener un resultado final.
+
+Tecnologías sanitarias: Conjunto de equipamientos, medicamentos, insumos y procedimientos utilizados en la prestación de servicios de salud, así como de las técnicas de infraestructura de esos servicios y de su organización.
+
+Time trade-off: Técnica de evaluación de las preferencias en que los individuos son solicitados a determinar la duración de tiempo en condiciones ideales (o de buena salud) que ellos consideran equivalente a un período mayor de tiempo en un determinado estado/situación de salud.
+
+Transferencia de resultados en una evaluación económica: La generalización o transferencia de los resultados de las evaluaciones económicas se refiere a la extensión con que los resultados de un estudio basado en medidas de una población particular de pacientes y/o de un contexto específico pueden ser aplicados o extrapolados para otra población y/o contexto diferente.
+
+
+Utilidad: Concepto empleado para indicar la satisfacción obtenida por el individuo en consecuencia del consumo de bienes y servicios de salud. Ese concepto es utilizado para denominar una cuantificación de la calidad de vida de las personas, que puede no estar basada necesariamente en las preferencias de los consumidores, pudiendo resultar de evaluaciones hechas por profesionales.
+
+Validez: Extensión con cual una técnica mide aquello que intenta medir.
+
+Validez externa: Extensión en que se puede generalizar las conclusiones de un estudio a poblaciones y espacios de práctica externos al estudio.
+
+Validez interna: Es el grado en que un resultado (o una medida o un estudio) se acerca probablemente a la verdad y está libre de sesgos (errores sistemáticos). La validez tiene algunos otros significados.
+
+Valor presente: Valor de los costos o beneficios futuros después de ajuste para las preferencias en el tiempo por descuento.
+
+Valoración: Proceso de cuantificar el deseo de un resultado en utilidad o términos monetarios o de cuantificar el uso de los recursos o la productividad de los individuos en términos monetarios.
+
+Valoración contingente: Técnica para valorar los beneficios de las tecnologías sanitarias, mediante la determinación de la disposición a pagar máxima de los individuos para el acceso a la tecnología o de la cantidad mínima que ellos podrían aceptar como compensación por no tener la tecnología disponible.
+
+Variabilidad: Refleja diferencias conocidas en los valores de los parámetros asociados con diferencias identificables; es representada por frecuencias de distribución; puede ser atribuida a padrones de práctica clínica diversos en áreas geográficas o espacios de práctica diferentes o a heterogeneidad de la población de pacientes.
+
+Variación de la práctica médica: Variación que resulta de actuaciones diferenciadas en la práctica de los médicos frente a situaciones clínicas idénticas, derivadas de las incertidumbres que acompañan esas decisiones, fundamentadas en teorías insuficientemente evaluadas o de escasa evidencia científica disponible.
+
+
+3. CARACTERIZACIÓN DEL PROBLEMA
+
+3.1 Pregunta Clínica
+
+3.1.1 Todo estudio de evaluación económica debe estar orientado a partir de una pregunta clínica adecuadamente definida.
+3.1.2 La pregunta clínica debe delimitar el problema que se pretende estudiar, especificando la intervención y las estrategias bajo comparación, así como la población destinataria, la perspectiva y el horizonte temporal del estudio.
+
+
+3.1.3 La pregunta en estudio debe ser relevante y orientada a las necesidades de los gestores participantes en el proceso de toma de decisión y de la decisión específica a ser tomada. Esa pregunta debe conducir a resultados generalizables a la población objetivo en su propio contexto geográfico.
+
+
+4. POBLACIÓN DESTINATARIA Y POBLACIÓN INCLUIDA
+
+4.1 Se debe especificar qué grupos o subgrupos poblacionales se beneficiarán con los resultados de la evaluación económica (población destinataria), mencionando los criterios de inclusión y exclusión.
+
+4.2 Se debe especificar la población incluida en la evaluación, la cual debe ser descripta en sus características sociodemográficas de acuerdo con la naturaleza, el estado de avance o la gravedad de la enfermedad o condición mórbida, y la existencia de enfermedades asociadas y otros agravantes.
+
+4.3 Las poblaciones deben ser definidas en función de otras características, como servicio donde la tecnología o intervención se incorpora, localización geográfica, tasa de adherencia al procedimiento o intervención propuesta, protocolización del tratamiento.
+
+4.4 Deben ser consideradas y descriptas las diferencias entre la población destinataria y la beneficiaria de la intervención o tecnología en la práctica usual.
+
+4.5 Si los datos de la efectividad son obtenidos a partir de múltiples fuentes de poblaciones diferentes, debe establecerse una descripción detallada del método utilizado para llegar a la definición de la población destinataria y de las estimaciones de la efectividad del uso de la tecnología que está siendo evaluada.
+
+4.6 Si la efectividad presenta diferencias en los resultados para subgrupos de la población, debe explicitarse el control y la fuerza estadística de los datos recolectados.
+
+
+5. DISEÑO DEL ESTUDIO
+
+5.1 El diseño del estudio de evaluación económica deberá definirse claramente, en relación al método adoptado, a la recolección prospectiva o retrospectiva de datos, tamaño de la muestra, fuente de evidencia clínica y modelo de análisis.
+
+5.2 Debe definirse cómo y en qué momento la evaluación económica está vinculada a la obtención de datos clínicos. En el caso de evaluaciones económicas realizadas retrospectivamente en relación a la recolección de datos clínicos, la evaluación será realizada con datos clínicos previamente reunidos de ensayos clínicos anteriores, revisión de literatura/meta-análisis o de una base de datos. En el caso de evaluaciones prospectivas, los datos acerca de los costos y consecuencias serán obtenidos al mismo tiempo que los datos clínicos. En las evaluaciones económicas asociadas a ensayos clínicos o "piggy-backed", se deben seleccionar los elementos útiles para el análisis económico y establecer una relación específica entre el paciente, los insumos utilizados, las intervenciones aplicadas y los resultados de cada uno. En el caso de los estudios realizados retrospectivamente, esta relación será estimada.
+
+5.3 Debe definirse si la obtención de las evidencias clínico-epidemiológicas es primaria o secundaria.
+
+5.4 Se deben utilizar datos de efectividad en lugar de eficacia. En ausencia de datos sobre la efectividad de una intervención, podrán ser utilizados datos de eficacia que deben ser objeto de análisis de sensibilidad.
+
+5.5 Debe preferirse la realización de evaluaciones económicas en asociación con ensayos clínicos aleatorizados.
+
+5.6 Se debe buscar el mejor punto de equilibrio entre lo que es necesario y los varios tipos de restricciones o límites presentes al seleccionar un abordaje para el diseño de estudio. Deben ser considerados también los costos y beneficios de los diseños de investigación con diferentes fuerzas y precisión. El abordaje a ser utilizado debe tener una fuerte base empírica y combinar el rigor de los estudios clínicos controlados con los elementos obtenidos de los estudios de observación, especialmente en relación a la utilización de los recursos.
+
+
+6. TIPOS DE ANÁLISIS
+
+6.1 Debe definirse el tipo de análisis que se realiza, que depende de los vínculos establecidos entre los costos y los resultados de una estrategia terapéutica. El tipo de análisis seleccionado debe ser claramente justificado y orientado con respecto a la pregunta a ser respondida en la evaluación económica.
+
+6.1.1 Cuando se requiera examinar la relación entre costos y consecuencias o resultados de una intervención deben realizarse Análisis de costo-resultado. Se debe seleccionar y describir qué subtipo de análisis se lleva a cabo:
+
+6.1.1.1 Se debe realizar un análisis de costo-minimización si se requiere conocer la alternativa de menor costo dentro de opciones que llevan a consecuencias equivalentes en términos de resultados en salud.
+6.1.1.2 Se debe realizar un análisis de costo-efectividad si se requiere conocer la alternativa que ofrece mejor relación entre los costos y los resultados de salud medidos en unidades cuantitativas no-monetarias.
+6.1.1.3 Se debe realizar un análisis de costo-utilidad si se requiere conocer la alternativa que ofrece mejor relación entre sus costos y los resultados en términos de la calidad y duración de la sobrevida obtenida. La metodología utilizada para medir estos resultados de calidad de vida debe estar validada para su uso en el país donde se realiza la evaluación económica.
+6.1.1.4 Se debe realizar un análisis de costo-beneficio si se requiere conocer si es socialmente rentable invertir en un proyecto determinado.
+
+
+6.1.2 Cuando no es posible vincular recursos a los resultados por medio de un criterio explícito, deben realizarse los Análisis de costo-consecuencia o evaluaciones económicas parciales. La elección de este tipo de análisis debe estar debidamente justificada.
+
+6.1.3 Si el objetivo del análisis es identificar y medir todos los costos asociados con una enfermedad en particular, debe realizarse un análisis de costo de la enfermedad.
+
+
+7. INTERVENCIONES A SER COMPARADAS
+
+7.1 Se debe especificar el tipo de intervención o de tecnología bajo estudio y la selección de las intervenciones o estrategias tecnológicas bajo comparación.
+
+7.2 Se debe definir y clasificar las intervenciones como terapéuticas, diagnósticas, de cribado ("screening"), preventivas y en cuidados de apoyo.
+
+7.3 El tipo de tecnología sanitaria debe definirse específicamente: medicamentos e inmunobiológicos, productos de la salud o productos médicos y procedimientos clínicos y quirúrgicos.
+
+7.4 Las comparaciones a realizar deben ser relevantes y abarcar todas las alternativas que se presentan ante el uso real de la tecnología.
+
+
+8. PERSPECTIVA DEL ANÁLISIS
+
+8.1 Debe definirse la perspectiva del análisis de forma explícita, definiendo si es la perspectiva del sistema público de salud, de la sociedad, del sistema privado de salud, de un servicio sanitario (hospital, etc.) o del usuario / paciente.
+
+8.2 Para decisiones involucradas en políticas públicas deberá preferirse la perspectiva del sistema público de salud.
+
+8.3. En caso de seleccionar la perspectiva de la sociedad, se deben incluir todos los costos directos de la producción del servicio/ procedimiento y de los tiempos perdidos por los pacientes y sus familiares, además de los costos relacionados a la pérdida de productividad y muerte prematura.
+
+
+9. HORIZONTE TEMPORAL
+
+9.1 Debe ser explicitado y justificado el horizonte temporal de la evaluación económica.
+
+9.2 Para enfermedades crónicas y aquellas en que las diferencias en la mortalidad son significativas, los análisis deben considerar la expectativa de vida de los pacientes como horizonte temporal prioritario.
+
+9.3 En los casos en que los análisis de largo plazo no tengan posibilidad de recolectar datos primarios de los pacientes, deben utilizarse los datos factibles para hacer un análisis de corto plazo, para obtener informaciones intermedias y servir como fuente de extrapolación del modelo de análisis, lo cual debe estar debidamente justificado.
+
+
+10. CARACTERIZACIÓN Y MEDICIÓN DE RESULTADOS
+
+10.1 Efectividad y Eficacia
+
+10.1.1 Debe preferirse la medición de la Efectividad a la de la Eficacia.
+
+10.1.2 Si la eficacia es la única medida disponible, deben realizarse ajustes apropiados que consideren la mejor evidencia disponible mediante las técnicas de conversión adecuadas hacia parámetros de efectividad. Las potenciales incertidumbres deben ser evaluadas en el análisis de sensibilidad.
+
+10.2 Indicadores de efectividad: medidas intermedias y resultados finales
+
+10.2.1 Debe preferirse la evaluación de las intervenciones en base a sus resultados finales y no a medidas intermedias.
+
+10.3 Obtención de evidencias
+
+10.3.1 Debe especificarse la fuente y tipo de evidencia sobre efectividad, eficacia y eventos adversos asociados con las tecnologías evaluadas.
+
+10.3.2 El análisis de evaluación económica debe mencionar el nivel de calidad de la evidencia en la que se basa la evaluación, así como describir los estudios incluidos, los criterios de inclusión y exclusión y los métodos utilizados en la conducción de la revisión, particularmente describiendo si ha sido sistemática o no lo ha sido.
+
+10.3.3 Debe efectuarse un análisis de sensibilidad en el caso de realizar un análisis estratificado para evaluar el impacto de la variación en la efectividad de una intervención entre subgrupos de una población destinataria.
+
+10.4 Calidad de vida
+
+10.4.1 Debe preferirse en el análisis las medidas de resultados que incorporan las preferencias de los pacientes por ciertos estados de salud resultantes de las diferentes intervenciones en salud, las llamadas medidas de calidad de vida relacionadas a la salud.
+
+10.5 Utilidades
+
+10.5.1 Debe describirse y justificarse la técnica utilizada para medir las utilidades.
+
+
+10.6 Medidas de Psicometría
+
+10.6.1 Debe describirse y justificarse el proceso y tipo empleado si se utilizan medidas de psicometría para valorar las preferencias.
+
+10.6.2 Cuando se utilicen las versiones de instrumentos desarrollados fuera del país se debe realizar y/o describir el proceso de transposición y validación.
+
+10.7 Unidad de medida de las utilidades
+
+10.7.1 Se debe realizar a "priori" un análisis y describir los métodos y justificación de la selección de la unidad de medida de las utilidades que se considere más apropiada para la condición bajo estudio. Se debe describir y justificar las hipótesis acerca de los cambios a lo largo del tiempo de las medidas atribuidas a la calidad de vida.
+10.7.2 Cualquier resultado presentado como costo por QALY debe incluir la definición de la base de referencia dentro de la cual fue calculado y la especificación de la función de agregación. Los resultados sin esos elementos no deben ser utilizados como base para la toma de decisiones públicas.
+10.7.3 Se debe tener mucha cautela en comparaciones entre estudios o entre patologías (por ejemplo, uso de tablas de vida).
+
+10.8 Resultados en los análisis de costo-beneficio
+
+10.8.1 Deben explicarse las etapas empleadas para convertir los resultados de salud a términos monetarios. Los presupuestos subyacentes deben ser validados y probados en el análisis de sensibilidad.
+
+
+11. CUANTIFICACIÓN Y COSTEO DE RECURSOS
+
+11.1 Es necesario describir y justificar la metodología y fuente de estimación de costos. La estimación de los costos debe constar de tres etapas: (1) la definición de los costos relevantes a la evaluación; (2) la medición de los recursos usados y (3) valoración de los recursos.
+
+11.2 La perspectiva preferencial de análisis es la del sistema público de salud, y deben incluirse aquellos costos directamente relacionados con el cuidado prestado por ese sistema.
+
+11.3 La utilización de recursos en cada estado de salud debe ser representada en una función de producción que muestre los costos generados por la utilización de recursos en las estrategias escogidas, incluyendo consulta clínica inicial, tratamiento hospitalario, internaciones, incluso en unidades de terapia intensiva, ambulatorio, servicios médicos y de enfermería, exámenes de laboratorio y complementarios, atención de servicios de emergencia, y medicamentos, entre otros.
+
+11.4 Los costos calculados directamente deben reflejar los costos económicos del uso de todos los recursos empleados en el nivel normal de operación.
+
+11.5 Cuando se incluye la perspectiva de la sociedad, los costos adicionales incurridos por los pacientes y sus familiares deben ser computados, así como aquellos asociados a la disminución de la productividad por la pérdida de tiempo y muerte prematura. En esos casos, cada ítem debe ser listado separadamente y los análisis deben mostrar su impacto en el costo incremental.
+
+11.6 El uso de los recursos en ese caso debe ser medido a partir de su costo unitario y ser valorado a precio de mercado. Los análisis deben utilizar un precio medio ponderado como medida, que debe tener debidamente señaladas las fuentes y los valores utilizados. Debe justificarse adecuadamente las razones por las cuales no utilicen precios de mercado sino otras referencias en la determinación del costo, en el caso en que esto suceda.
+
+11.7 La valoración debe ser hecha a partir de la definición del gasto correspondiente en el caso de la adquisición de los bienes.
+
+11.8 Cuando el recurso usado es el tiempo, éste es medido por medio de hipótesis "ad hoc". Se debe justificar adecuadamente la hipótesis que se refiere a los episodios agudos de corto plazo, que conducen a la recuperación rápida de los pacientes (inferior a un mes), para los cuales se asuman costos bajos con pequeño impacto que no modifican significativamente los valores de las relaciones de costo-efectividad o las conclusiones generales. Para enfermedades con tratamiento prolongado, exigiendo mucho del paciente, debe considerarse tales costos.
+
+11.9 La evaluación monetaria del costo del cuidado de un niño o del trabajo doméstico debe ser calculada por el costo de reposición de un recurso equivalente en el mercado.
+
+11.10 Deben medirse los costos directos incurridos por pacientes y sus familias provocados por la enfermedad y su tratamiento. La medida de esos costos directos debe realizarse mediante estimaciones "ad hoc" realizadas en una base rigurosa, particularmente con vistas a su efecto potencial en la renta. El tiempo perdido sin trabajo debe ser medido mediante el uso de un recurso equivalente en el mercado o, alternativamente, por la disposición del paciente a pagar por el uso de recursos sustitutos.
+
+11.11 Es necesario considerar los costos indirectos asociados a la pérdida de productividad y muerte prematura de los pacientes cuando se utiliza la perspectiva de la sociedad.
+
+11.12 El método que debe ser utilizado para medir la pérdida de productividad es el Capital Humano. El costo de esa pérdida será evaluado midiendo el número de horas de trabajo o de días perdidos debido a la enfermedad, multiplicado por la Renta "per capita" del país en cuestión.
+
+
+12 MODELADO
+
+12.1 Debe describirse y justificarse la técnica de modelado utilizada.
+
+12.2 La estructura del modelo debe describirse y ser el más adecuado para incorporar todas las condiciones importantes y que tengan impacto potencial en las intervenciones consideradas. El modelo debe ser flexible para adaptarse a las circunstancias y características de cada esfera de actuación en el área de la salud. Deben especificarse las condiciones de tratamiento, asociadas con los eventos clínicos y sus relaciones causales, y capturar el impacto relevante de las estrategias de intervención en salud analizadas. La estructura del modelo no debe ser definida sólo por la práctica médica corriente, ya que él debe ser capaz de incorporar los cambios propuestos de esa práctica. Podrán excluirse del modelo los eventos clínicos que no se esperan sean divergentes entre las alternativas estudiadas.
+
+12.3 La confiabilidad del modelo debe ser objeto de validación interna y externa. En el caso de la validación interna, el modelo debe basarse en hipótesis y datos relevantes, que deben estar muy bien documentados (publicados y/o referenciados), y en una estructura lógica consistente desde el punto de vista matemático. En el caso de la validación externa, los resultados de la simulación dinámica derivados del modelo deben aproximarse a aquellos originados en la realidad. Para ello la estructura, las hipótesis y parámetros del modelo deben reflejar de forma adecuada las condiciones existentes y los impactos de las intervenciones y alternativas estudiadas.
+
+
+13. TASA DE DESCUENTO
+
+13.1 Los análisis económicos deben aplicar y describir una tasa de descuento a los costos y a los resultados, que debe considerar el efecto del paso del tiempo sobre los mismos. Los costos y beneficios futuros deben descontarse de su valor en el momento presente, utilizando una tasa de descuento estándar, cuando el universo temporal de análisis sea superior a 1 año.
+
+13.2 Los análisis económicos deben realizar y describir un análisis de sensibilidad en relación a la tasa de descuento aplicada a los costos y resultados.
+
+
+14. RESULTADOS
+
+14.1 En una evaluación económica de tecnologías sanitarias debe definirse si la situación bajo análisis requiere que los proyectos, programas o estrategias de cuidado de la salud sean desarrollados independientemente uno del otro o, siendo mutuamente excluyentes, debe elegirse uno de ellos (por ej. tratamientos distintos para una misma enfermedad).
+
+14.2 Si se utiliza un análisis de costo-efectividad con el objeto de expresar un resumen de los resultados de una evaluación comparativa de diferentes estrategias no excluyentes de cuidados de la salud, las estrategias independientes deben ser clasificadas en orden descendente de razón de costo-efectividad. Deben elegirse aquellas alternativas que el presupuesto permite financiar, comenzando por la más costo-efectiva.
+
+
+14.3 Si se requiere evaluar dos o más estrategias mutuamente excluyentes debe elegirse la estrategia más costo-efectiva, empleando la razón incremental de costo- efectividad (RICE), Los componentes de esa razón como costos y resultados deben ser presentados por su distribución estadística (media, mediana, intervalo de confianza, etc.).
+
+14.4 Para presentar los resultados de un análisis incremental de costo-efectividad debe seguirse el siguiente procedimiento:
+
+•	Identificar todas las estrategias que pueden contribuir al logro de los objetivos propuestos.
+
+•    Listar las estrategias ordenadas de menor a mayor costo.
+
+•    Eliminar todas las estrategias que son dominadas por alguna de las otras.
+
+•	Para las estrategias no dominadas, seleccionar aquella que tenga la mejor razón incremental de costo-efectividad, de acuerdo con los valores ubicados en el presupuesto.
+
+14.5 Todos los resultados, incluso los del análisis de sensibilidad, deben ser presentados en forma gráfica o en tabla. Todos los gráficos deben ser apropiadamente discutidos y no deben ser utilizados para eliminar la discusión acerca de la interpretación de los resultados.
+
+
+15. ANÁLISIS DE SENSIBILIDAD
+
+15.1 Las evaluaciones económicas deben contar con un análisis de sensibilidad.
+
+15.2 Deben describirse las etapas utilizadas y los métodos para el análisis de sensibilidad, así como sus resultados, preferentemente mediante tablas y gráficos.
+
+
+16. GENERALIZACIÓN DE LOS RESULTADOS
+
+16.1 Debe tenerse precaución al intentar generalizar o transferir los resultados de una evaluación económica a otro contexto, y describir la metodología utilizada a tal fin.
+
+
+17. LIMITACIONES DEL ESTUDIO
+
+17.1 Todas las limitaciones del estudio realizado deben ser explicitadas y discutidas, incluyendo los problemas metodológicos, la validez de las hipótesis realizadas, la confiabilidad de las evidencias obtenidas, y el uso de modelos en la resolución de los estudios de costo-efectividad.
+
+
+18. CONSIDERACIONES SOBRE EL IMPACTO PRESUPUESTARIO Y EQUIDAD
+
+18.1 Debe realizarse un análisis de impacto presupuestario asociado a la evaluación económica en salud, cuando el solicitante quisiera evaluar si existen recursos suficientes para sustentar una decisión, y como para asegurar, al mismo tiempo, que otros servicios ya consolidados no perderán viabilidad.
+
+18.2 Debe incluirse una discusión detallada sobre los posibles efectos que tiene la distribución de la/s intervención/es o programa/s de salud considerados en diferentes grupos poblacionales, y otros aspectos relacionados a la equidad en la asignación de recursos, tales como la identificación de los grupos potenciales beneficiarios, los que pueden ser perjudicados o pueden tener dificultades de acceso a dichas intervenciones.
+
+
+19. ASPECTOS ÉTICOS Y ADMINISTRATIVOS
+
+19.1 Todas las evaluaciones económicas que involucren seres humanos deben presentar un anexo con la aprobación de un Comité de Ética en Investigación Institucional. Esa aprobación debe ser obtenida tanto para el relevamiento de datos primarios, como para el uso de datos secundarios. En el primero caso, el protocolo de investigación debe ser evaluado y aprobado por dicho Comité de Ética. En el segundo caso, el Comité de Ética Institucional debe indicar en qué institución o fuente de datos aprobó la realización de la evaluación.
+
+19.2 Cuando las informaciones sean obtenidas de fuentes internacionales, debe asegurarse que todos los datos utilizados fueron obtenidos de acuerdo con los principios éticos que guían la investigación.
+
+
+20. CONCLUSIONES Y RECOMENDACIONES
+
+20.1 Los resultados de una evaluación económica deben ser presentados de forma clara de manera de permitir su examen y revisión. Los reportes finales deben contener todos los elementos que permiten al lector entender la metodología adoptada, verificar las fuentes, la relevancia de las informaciones recolectadas y la exactitud de los cálculos efectuados. Todos los datos, fuentes, referencias y procedimientos realizados deberán estar disponibles para todos los interesados. La única excepción admisible se refiere a la confidencialidad de los datos que permiten identificar los individuos.
+
+20.2 Si los estudios realizados llevaren a una recomendación de política pública, deberá especificarse si las conclusiones pueden ser utilizadas solamente como un factor más en el proceso de decisión o si existe alguna condición que recomienda su utilización lo más rápida posible. Debe asegurarse que la recomendación sea compatible con el tipo de estudio realizado.
+
+20.3 Las conclusiones de los estudios de costo-efectividad que comparan estrategias mutuamente excluyentes, deben indicar la elección que, entre las opciones no dominadas, puedan ser legítimamente aplicadas por los gestores en su proceso de decisión. Las conclusiones de los estudios acerca de las estrategias comparadas deben tener carácter indicativo en lugar de prescriptivo.
+
+20.4 Los resultados intermedios para cada alternativa, relevantes para la comprensión del análisis general, deben también ser presentados desagregadamente. Si otros estudios hubieran sido hechos sobre las estrategias en análisis, se deben comparar los métodos y los resultados de esas evaluaciones con los resultados obtenidos.
+
+20.5 Los tópicos futuros de investigación deben ser identificados en función de los resultados obtenidos del análisis de sensibilidad.
+
+
+21. CONFLICTO DE INTERÉS / FUENTES DE FINANCIAMIENTO
+
+21.1 Todos los autores que participaron del proyecto y ejecución de la evaluación económica en salud deben ser identificados y mencionados. Cada uno será personalmente responsable por la veracidad del estudio y debe asegurar que la metodología seguida fue correctamente descrita.
+
+21.2 Las afiliaciones institucionales de los autores, así como las fuentes de financiamiento, públicas o privadas de los mismos y del análisis económico, deben ser indicadas con claridad suficiente.
+
+21.3 Todos los autores deben revelar si existe algún tipo de conflicto de interés que pueda influenciar los resultados obtenidos.
+
+
+22. FORMATO DE PRESENTACIÓN
+
+22.1 El reporte del análisis de evaluación económica deberá ser claro y detallado, y el análisis debe ser presentado de manera transparente. Debe contener un resumen ejecutivo al inicio del documento, cuya extensión no debe ser mayor a tres páginas, escrito en lenguaje accesible a un lector no técnico.
+
+22.2 El reporte del análisis de evaluación económica debe seguir la siguiente estructura:
+
+•	Título y año de elaboración y actualización de la evaluación económica en salud.
+•	Autores y filiación institucional
+•	Resumen ejecutivo
+•	Cuestión(es) de interés y justificación para la evaluación económica en salud especificando el contexto de la solicitud de la misma.
+•	Diseño de la evaluación económica en salud efectuada, tipo/s de análisis económico/s realizado/s y razones para su elección
+•	Pregunta/s clínica/s que orientaron la evaluación económica en salud
+•	Población objetivo
+•	Intervención o tecnología bajo estudio
+•	Intervenciones de referencia y/o comparación
+•	Perspectiva adoptada para cálculo de los costos y resultados en salud
+•	Horizonte temporal
+•	Caracterización y medición de resultados, origen y tipo de datos utilizados para evaluar impactos en salud
+•	Cuantificación y costeo de recursos, tipos de costos, orígenes de los datos económicos
+•	Modelado, descripción, justificaciones técnicas y validaciones.
+•	Uso de descuento y tasas utilizadas
+•	Análisis de sensibilidad (métodos, parámetros y franjas)
+•	Principales resultados (costo-efectividad y análisis incremental)
+•	Consistencia (o inconsistencia) de los resultados en relación a otros estudios con el mismo objetivo
+•	Limitaciones de la evaluación económica, factores a ser considerados en la evaluación (en particular limitaciones en términos de tiempo, población, información etc.).
+•	Período de realización del estudio
+•	Período para el cual los resultados son estimados como válidos
+•	Consideraciones sobre impacto presupuestario y equidad
+•	Conclusiones y recomendaciones
+•	Identificación de las fuentes de financiamiento y declaración de potenciales conflictos de interés
+•	Aprobación de la evaluación económica por Comité de Ética Institucional, adhesión a las normas de confidencialidad de los datos y las relativas a la ética en la investigación biomédica.
+•	Referencias bibliográficas relevantes.
+
+
+30

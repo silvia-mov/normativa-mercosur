@@ -1,0 +1,187 @@
+Resolución GMC N° 30/07
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE ENVASES DE POLIETILENTEREFTALATO (PET) POSTCONSUMO RECICLADO GRADO ALIMENTARIO (PET-PCR GRADO ALIMENTARIO) DESTINADOS A ESTAR EN CONTACTO CON ALIMENTOS
+Fecha de aprobación: 11/12/2007
+Vigencia: Vigente (Vigente desde el 29/07/2012 - Art. 40 POP para Argentina, Brasil y Uruguay. Vigente desde el 11/05/2019 - Art. 40 POP para Paraguay.)
+Idioma del texto: ES
+Archivo original: 5274_RES_030-2007_ES_PET-PCR.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/358).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 30/07
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE ENVASES DE POLIETILENTEREFTALATO (PET) POSTCONSUMO RECICLADO GRADO ALIMENTARIO (PET-PCR GRADO ALIMENTARIO) DESTINADOS A ESTAR EN CONTACTO CON ALIMENTOS
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 56/92, 38/98 y 56/02 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que habiéndose establecido en el punto 9 de las Disposiciones Generales de la  Resolución GMC Nº 56/92 que se podrán estudiar procesos tecnológicos especiales de obtención de resinas a partir de materiales reciclables;
+
+Que los estudios realizados avalan la inclusión de nuevas tecnologías para el reciclado de PET postconsumo y se fundamentan en la evaluación de la seguridad del uso del material mencionado;
+
+Que es conveniente disponer de una reglamentación común sobre los envases de PET postconsumo reciclado grado alimentario (PET-PCR grado alimentario);
+
+Que en consecuencia, los Estados Partes acordaron reglamentar los envases de PET-PCR grado alimentario destinados a estar en contacto con alimentos;
+
+Que la armonización de los Reglamentos Técnicos tiende a eliminar los obstáculos al comercio.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art.1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Envases de Polietilentereftalato (PET) Postconsumo Reciclado Grado Alimentario (PET-PCR grado alimentario) destinados a estar en Contacto con Alimentos", que consta como Anexo y forma parte de la presente Resolución.
+
+Art.2 - Los Organismos Nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina:     Ministerio de Salud
+      Secretaría de Políticas, Regulación e Institutos
+Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT)
+      Ministerio de Economía y Producción
+  Secretaría de Agricultura, Ganadería, Pesca y Alimentos (SAGPyA)
+
+
+Brasil:           Ministério da Saúde
+      Agência Nacional de Vigilância Sanitária (ANVISA)
+
+Paraguay: 	Ministerio de Industria y Comercio (MIC)
+      Instituto Nacional de Tecnología, Normalización y Metrología (INTN)
+      Ministerio de Salud Pública y Bienestar Social (MSPyBS)
+      Instituto Nacional de Alimentación y Nutrición (INAN)
+
+Uruguay: 	Ministerio de Salud Pública (MSP)
+		Ministerio de Industria, Energía y Minería (MIEM)
+		Laboratorio Tecnológico del Uruguay (LATU)
+
+
+Art.3 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extra-zona.
+
+Art.4 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del 1/VII/2008.
+
+
+LXX GMC - Montevideo, 11/XII/07
+
+
+ANEXO
+
+
+REGLAMENTO TECNICO MERCOSUR SOBRE ENVASES DE POLIETILENTEREFTALATO (PET) POST CONSUMO RECICLADO GRADO ALIMENTARIO (PET-PCR GRADO ALIMENTARIO) DESTINADOS A ESTAR EN CONTACTO CON ALIMENTOS
+
+
+1. ALCANCE
+
+1.1 Objetivo.
+
+Establecer los requisitos generales y los criterios de evaluación, aprobación/autorización y registro de envases de PET elaborados con proporciones variables de PET virgen (grado alimentario) y de PET postconsumo reciclado descontaminado (grado alimentario),  destinados a estar en contacto con alimentos.
+
+
+1.2. Ámbito de aplicación.
+
+El presente Reglamento se aplica a los productos finales (envases de PET- PCR grado alimentario), artículos precursores de los mismos y materia prima (PET -PCR grado alimentario).
+
+
+2. DEFINICIONES
+
+A los efectos de este Reglamento se considera:
+
+
+2.1. PET de descarte industrial: es el material de desecho proveniente de envases o artículos precursores de los mismos, ambos de grado alimentario, generado en el establecimiento industrial que elabora envases, artículos precursores y/o alimentos, y que no se recupera a partir de los residuos sólidos domiciliarios. No incluye el  "scrap".
+
+2.2. "Scrap" (Descarte de proceso): PET de grado alimentario que no está contaminado ni degradado, que se puede reprocesar con la misma tecnología de  transformación que lo originó, y que puede ser utilizado para la fabricación de envases y materiales destinados a estar en contacto con alimentos.
+
+2.3. PET postconsumo: es el material proveniente de envases o artículos precursores usados, ambos de grado alimentario, y que se obtiene a partir de los residuos sólidos a los efectos de aplicar las tecnologías de descontaminación.
+
+2.4. Procedimiento de validación normalizado ("challenge test" o equivalente): protocolo de análisis destinado a evaluar la eficiencia de eliminación de contaminantes modelo de la tecnología de reciclado físico y/o químico con que se procesa el PET postconsumo y/o de descarte industrial. El mismo está establecido o reconocido por la Food and Drug Administration (FDA) de USA, la European Food Safety Authority (EFSA), la Dirección General de Sanidad y Protección de los Consumidores (Directorate General of Health and Consumer Protection) de la Comisión Europea, las Autoridades Sanitarias Competentes de Estados Miembros de la Unión Europea, o la que en el futuro se consensúe en el ámbito del MERCOSUR.
+
+2.5. Contaminantes modelo ("surrogates"): sustancias utilizadas en los ensayos de validación ("challenge test" o equivalente) de las tecnologías de reciclado físico y/o químico, para evaluar su eficiencia de descontaminación, y que son representativas de los potenciales contaminantes presentes en el PET postconsumo y/o de descarte industrial.
+
+2.6. Autorizaciones especiales de uso: son las Cartas de no Objeción  ("no objection letter" ó "NOL") al uso de PET-PCR grado alimentario, o las Aprobaciones o Decisiones referentes a su uso, emitidas por la Food and Drug Administration (FDA) de USA, la European Food Safety Authority (EFSA), la Dirección General de Sanidad y Protección de los Consumidores (Directorate General of Health and Consumer Protection) de la Comisión Europea, las Autoridades Sanitarias Competentes de Estados Miembros de la Unión Europea,  o la que en el futuro se consensúe en el ámbito del MERCOSUR.
+
+2.7. PET-PCR grado alimentario (PET postconsumo reciclado descontaminado de grado alimentario):
+
+* es el material proveniente de una fuente de PET postconsumo y/o de descarte industrial;
+* obtenido por medio de una tecnología de reciclado físico y/o químico con alta eficiencia de descontaminación, que ha sido demostrada sometiéndola a un procedimiento de validación normalizado ("challenge test" o equivalente), y que por ende, cuenta con autorizaciones especiales de uso, validadas por la Autoridad Nacional Competente;
+* y que puede ser utilizado en la elaboración de envases en contacto directo con los alimentos.
+
+2.8. Envases de PET-PCR grado alimentario: envases fabricados con proporciones variables de PET virgen y de PET-PCR grado alimentario, destinados a estar en contacto con alimentos.
+
+2.9. Artículos precursores de envases de PET-PCR grado alimentario: materiales semielaborados o intermedios (películas, láminas y preformas), fabricados con proporciones variables de PET virgen y de PET-PCR grado alimentario, a partir de los cuales se elaboran envases destinados a estar en contacto con alimentos.
+
+2.10. Grado alimentario: características propias de la composición de los materiales  plásticos vírgenes que determina su aptitud sanitaria conforme a la Reglamentación MERCOSUR correspondiente. En el caso de los materiales reciclados implica además, la remoción de sustancias contaminantes potencialmente presentes en los mismos, obtenida por la aplicación de los procesos de descontaminación de las tecnologías de reciclado físico y/o químico validadas, a niveles tales que su uso no implica un riesgo sanitario para el consumidor, ni modifican la calidad sensorial de los alimentos. En ambos casos estas características permiten el uso de estos materiales en contacto directo con los alimentos.
+
+2.11. Materia Prima: material destinado a la producción de  PET-PCR, comprendiendo PET de descarte industrial y PET postconsumo, todos de grado alimentario.
+
+
+3. CRITERIOS BASICOS PARA LA CONFORMIDAD DE LA SEGURIDAD Y APROBACION DE ENVASES, ARTICULOS PRECURSORES Y PET-PCR GRADO ALIMENTARIO.
+
+3.1. La proporción de PET-PCR grado alimentario a usar en la elaboración de los envases de PET-PCR grado alimentario estará sujeta a las restricciones  establecidas en las autorizaciones especiales de uso definidas en el ítem 2.
+
+3.2. Los envases de PET-PCR grado alimentario deben satisfacer los requisitos de aptitud sanitaria establecidos en la Reglamentación MERCOSUR sobre envases de material plástico, y deben ser compatibles con el alimento que van a contener. En el caso de que estos envases sean retornables y/o multicapa, éstos deberán cumplir además con los requisitos establecidos para ellos en la Reglamentación MERCOSUR correspondiente.
+
+3.3. Los envases, y/o los artículos precursores, de PET-PCR grado alimentario, deberán ser aprobados/autorizados y registrados ante la Autoridad Sanitaria Nacional Competente, siguiendo los procedimientos establecidos y se deberá declarar si son envases (o artículos precursores) multicapa o monocapa, de un único uso o retornables, según corresponda, conteniendo PET- PCR grado alimentario.
+
+3.4. Los envases de PET-PCR grado alimentario no deberán ceder sustancias ajenas a la composición propia del plástico, en cantidades que impliquen un riesgo para la salud humana o una modificación de los caracteres sensoriales de los productos envasados.
+
+El aspecto toxicológico se asegura cuando las tecnologías de reciclado físico y/o químico están debidamente validadas, y cuentan, por ende, con autorizaciones especiales de uso definidas en el ítem 2.
+
+Para ello en el procedimiento de validación normalizado ("challenge test" o equivalente) se debe verificar el cumplimiento del límite de concentración de  contaminantes modelo en el PET-PCR grado alimentario de 220 ppb (µg/kg)  (para cada contaminante),  o del límite de migración específica de contaminantes modelo de 10 ppb (µg/kg) en envases (para cada contaminante). Estos dos  límites para el caso de PET-PCR grado alimentario derivan de la concentración máxima de contaminantes admitidos en la dieta humana de 0,5 ppb (µg/kg de alimento) (umbral de regulación).
+
+El aspecto organoléptico se asegura con el programa de análisis sensorial requerido en el ítem 3.11.
+
+3.5. En el caso de que los productores de alimentos utilicen envases, o sus artículos precursores, de PET- PCR grado alimentario, sólo deberán usar los aprobados/autorizados y registrados por la Autoridad Sanitaria Nacional Competente (siguiendo los procedimientos establecidos), y destinarlos a contener sólo los alimentos especificados y sólo en las condiciones estipuladas en dicha aprobación/autorización y registro, basadas en las autorizaciones especiales de uso definidas en el ítem 2.
+
+3.6. Los establecimientos productores de envases, o sus artículos precursores, de PET-PCR grado alimentario, deberán estar habilitados y registrados por la Autoridad Sanitaria Nacional Competente, y deberán solicitar la aprobación/autorización de dichos envases o sus artículos precursores y su registro ante la misma, siguiendo los procedimientos establecidos.
+
+
+3.7. Para que un establecimiento que elabore envases o sus artículos precursores de PET-PCR grado alimentario, sea habilitado y registrado, se requerirá también que disponga de:
+
+* procedimientos escritos y sus registros de aplicación sobre Buenas Prácticas de Fabricación que se encuentren a disposición de la Autoridad Sanitaria Nacional Competente;
+* registros del origen y composición/caracterización del PET- PCR grado alimentario y del PET virgen, con documentación que lo acredite;
+* equipamiento adecuado para el acondicionamiento y procesado del PET- PCR grado alimentario;
+* procedimientos de control de proceso de elaboración de los envases o sus artículos precursores de PET-PCR grado alimentario, que permita la trazabilidad del mismo;
+* personal para la operación de todo el equipamiento y para el control del proceso, capacitado específicamente para tal fin;
+* un sistema de aseguramiento de la calidad que prevenga la contaminación con otras fuentes de material reciclado para aplicaciones que no sean de grado alimentario.
+
+3.8. Los establecimientos habilitados y registrados para elaborar los envases o sus artículos precursores de PET-PCR grado alimentario, deberán utilizar para este fin, además de resina de PET virgen, sólo PET-PCR grado alimentario obtenido por  medio de una tecnología de reciclado físico y/o químico  aprobada/autorizada y registrada por la Autoridad Sanitaria Nacional Competente y evaluada por su Laboratorio de Referencia reconocido.
+
+3.9. Los establecimientos habilitados y registrados para elaborar los envases o sus artículos precursores de PET-PCR grado alimentario,  deberán obtener  el PET-PCR grado alimentario de un productor (habilitado y registrado por la Autoridad Sanitaria Nacional Competente)  y utilizarlo para la manufactura de envases o sus artículos precursores destinados para contener sólo los alimentos especificados y sólo en las condiciones estipuladas en la aprobación/autorización y registro por parte de la Autoridad Sanitaria Nacional Competente, basadas en las autorizaciones especiales de uso definidas en el ítem 2.
+
+3.10. Para que un establecimiento que produzca  PET- PCR grado alimentario sea habilitado y registrado por la Autoridad Sanitaria Nacional Competente se requerirá que:
+
+
+* utilice como materia prima PET postconsumo y/o de descarte industrial, ambos de grado alimentario, cuya fuente y aplicación original estén sujetas a las restricciones establecidas en las autorizaciones especiales de uso definidas en el ítem 2 y en las especificaciones sobre las mismas de la tecnología de reciclado físico y/o químico utilizada;
+
+* utilice una tecnología de reciclado físico y/o químico aprobada/autorizada y registrada en cada caso particular por la Autoridad Sanitaria Nacional Competente, y evaluada por el Laboratorio de Referencia reconocido por la Autoridad Sanitaria Nacional Competente, sobre la base de: la descripción detallada de la tecnología involucrada, los antecedentes internacionales de uso de la misma, los resultados del procedimiento normalizado de su validación ("challenge test" o equivalente),  las autorizaciones especiales de uso definidas en el item 2, y los ensayos de evaluación de aptitud  sanitaria de los envases elaborados con  PET- PCR grado alimentario;
+
+* provea el PET-PCR grado alimentario al productor de envases o sus artículos precursores de PET-PCR grado alimentario, destinados sólo para el envasado de los alimentos especificados y sólo en las condiciones estipuladas en la aprobación/autorización y registro por parte de la Autoridad Sanitaria Nacional Competente,  basadas en las autorizaciones especiales de uso definidas en el  ítem 2;
+
+* cuente con procedimientos escritos y sus registros de aplicación sobre Buenas Prácticas de Fabricación que se encuentren a disposición de la Autoridad Sanitaria Nacional Competente;
+
+* mantenga registros del origen y composición/caracterización de la materia prima del proceso de reciclado físico y/o químico de descontaminación, es decir, del PET post-consumo y/o de descarte industrial, ambos de grado alimentario;
+
+* mantenga registros del destino y composición/caracterización del PET- PCR grado alimentario producto del proceso;
+
+* cuente con procedimientos de control del proceso de obtención del PET- PCR grado alimentario que permita la trazabilidad del mismo;
+
+* tenga montado un laboratorio de análisis que permita realizar los ensayos de caracterización de los contaminantes del PET post-consumo y/o de descarte industrial, ambos de grado alimentario, usado como materia prima  de la tecnología de reciclado físico y/o químico, así como del PET-PCR grado alimentario obtenido, a fin de determinar su calidad y la eficiencia de la tecnología utilizada;
+
+* cuente con personal para la operación de todo el equipamiento, para el control del proceso, y para desempeñarse en el laboratorio, capacitado específicamente para tal fin;
+
+* disponga de un sistema de aseguramiento de la calidad que prevenga la contaminación con otras fuentes de material reciclado para aplicaciones que no sean de grado alimentario, o con material no descontaminado.
+
+
+3.11. Los productores de PET-PCR grado alimentario deberán contar además con un sistema de aseguramiento de la calidad que contemple:
+
+* Alcance del ensayo de validación. Un procedimiento de validación normalizado de la tecnología ("challenge test" o equivalente) es válido mientras los parámetros de proceso se mantengan constantes y el equipamiento involucrado para llevar a cabo las operaciones de descontaminación sea el correspondiente a la tecnología originalmente aprobada/autorizada y registrada. Si existen cambios, el productor de PET-PCR grado alimentario deberá  comunicarlos a la Autoridad Sanitaria Nacional Competente y a su Laboratorio de Referencia, y si aquellos comprometen la calidad del material obtenido, se deberá evaluar nuevamente la eficiencia del proceso mediante un nuevo procedimiento de validación normalizado ("challenge test" o equivalente).
+
+* Programas de monitoreo analítico que aseguren la continuidad de la calidad del PET- PCR grado alimentario obtenido a lo largo del tiempo.
+
+* Análisis sensorial. Para asegurar que el PET- PCR grado alimentario no altere las características sensoriales de los alimentos contenidos, se deberán realizar con la frecuencia adecuada, ensayos sensoriales sobre los envases, según la Norma ISO 13302 "Sensory analysis - Methods for assessing modifications to the flavour of foodstuffs due to packaging" o equivalentes.
+
+
+4. ROTULACION
+
+En el envase final deberá quedar indicado en forma indeleble: la identificación del productor, el número de lote o codificación que permita su trazabilidad y la expresión "PET-PCR".
+
+
+8

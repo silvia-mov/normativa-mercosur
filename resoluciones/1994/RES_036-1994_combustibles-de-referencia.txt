@@ -1,0 +1,79 @@
+Resolución GMC N° 36/94
+Título: COMBUSTIBLES DE REFERENCIA
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 29197_RES_036-1994_ES_CombustReferen.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2126).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 36/94
+
+COMBUSTIBLES DE REFERENCIA
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, la Resolución Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 11/94 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los vehículos deben cumplir una serie de requisitos técnicos, entre ellos los correspondientes a emisiones de gases contaminantes.
+
+Que para uniformizar los resultados obtenidos en ensayos de emisiones realizados en diversos laboratorios de los distintos Estados Partes, deben establecerse los combustibles de referencia utilizados en los mismos.
+
+Que la protección y el mejoramiento del medio ambiente en relación a los efectos nocivos producidos por las emisiones de vehículos debe ser uno de los objetivos prioritarios en el proceso de integración.
+
+Que los combustibles de referencia permitirán establecer una correlación entre laboratorios.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. Adoptar los siguientes combustibles de referencia :
+I. Nafta sin plomo : De acuerdo al Code of Federal Regulations parágrafo 86.1213.90 de la Environmental Protectors Agency - USA.
+II. Nafta con 22% de alcohol etílico anhidro: De acuerdo al CNP Nº 24/89, "Especificações da gasolina padrão para ensaios de consumo e emissões veiculares" y DNC Nº 03/91, "Especificações do alcool etilico anidro combustivel (AEAC) e alcool etilico hidratado combustivel (AEHC)".
+III. Gasoil : De acuerdo al Anexo VI del Reglamento 24 de la Comisión Económica para Europa de las Naciones Unidas. En caso de imposibilidad de obtener este combustible se aceptará como alternativa la especificación que figura en el Anexo.
+
+Art. 2. A los efectos de la ejecución de los ensayos de homologación de vehículos en cuanto a los requisitos de emisiones de gases contaminantes y consumo deberá aplicarse la siguiente tabla en función del tipo del motor y del país de destino del vehículo:
+
+	ARGENTINA/PARAGUAY/ URUGUAY	BRASIL		Motor Ciclo OTTO	Nafta sin plomo (I)	Nafta con 22% de alcohol (II)		MOTOR CICLO DIESEL	Gasoil (III)	Gasoil (III)
+
+Art. 3. La presente Resolución entrará en vigor el 1 de enero de 1995.
+
+Art. 4. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:
+Secretaría de Recursos Naturales y Ambiente Humano
+
+Brasil:
+Ministério de Minas e Energía
+Departamento Nacional de Combustiveis
+Paraguay:
+Ministerio de Industria y Comercio
+Instituto Nacional de Tecnología y Normalización
+Uruguay:
+ANCAP
+
+SGT Nº 3/REC Nº 11/94
+
+ANEXO I
+NAFTA SIN PLOMO (CFR 86.1213.90)
+
+CARACTERISTICA 	MINIMO 	MAXIMO 		Sensibilidad 	7.5 	- 		Número Octano Motor	- 	- 		Número Octano Research	93 	- 		Densidad 	- 	- 		Presión Reid [bar] a 37.8º C	0.60 	0.63 		Destilación 				Punto Inicial 	24 	35 		10% vol. [ºC] 	49 	57 		50% vol. [ºC] 	93 	110 		90% vol. [ºC]	149 	163 		Punto final 	- 	213 		Residuos [% vol] 	- 	- 		Comp. Hidrocarburos 				Olefínicos [% vol] 		10 		Aromáticos [% vol] 	- 	35 		Saturados [% vol] 	- 	balance 		Período de inducción [min] 	- 	- 		Gomas [mg/100 ml] 	- 	- 		Tenor de azufre [% masa]	- 	0.10 		Tenor de plomo [g/l]	- 	0.013 		Tenor de fósforo [g/l] 	- 	0.0013
+
+ANEXO II
+NAFTA CON 22 % ALCOHOL ETILICO ANHIDRO
+ESPECIFICACIONES DE LOS ALCOHOLES ETILICOS COMBUSTIBLES
+HIDRATADO - AEHC Y ANHIDRO – AEAC
+
+CARACTERISTICAS 	UNIDAD 	AEAC 	AEHC 		Acidez total (en ácido acético) 	(mg/l) 	30 máx. 	30 máx. 		Aspecto 	- 	(1) 	(1) 		Conductividad eléctrica 	((s/m) 	500 máx. 	500 máx. 		Iones cloruro (Cl-)	(mg/kg) 	- 	1máx 		Iones Sulfato (SO4=)	(mg/kg) 	- 	4 máx 		Peso específico a 20° C (2)	(kg/m3) 	791.5 máx 	809.3+1.7 		Peso específico a 20° C con agregado máximo de 30 ml/l de nafta (3)	(kg/m3) 	- 	808.0+3.0 		Material no volátil a 105° C (2)	(mg/l) 	30 máx 	30 máx. 		Cobre (Cu)	(mg/kg) 	0.07 máx. 	- 		Metales Hierro (Fe) 	(mg/kg) 	- 	5 máx. 		Sodio (Na) 	(mg/kg) 	- 	2 máx. 		Potencial hidrogeniónico 	(pH) 	- 	7.0+1.0 		Residuo por evaporación (3) 	(mg/l) 	- 	50 máx. 		Tenor alcohólico (2) 	(ºINPM) 	99.3 min. 	93.2+0.6 		Tenor alcohólico con un agregado máximo de 30 m/l de nafta (3)	(ºINPM) 	- 	92.6 al 94.7 		Tenor en nafta (3)	(ml/l) 	- 	30 máx. 		(1) Límpido y exento de material en suspensión
+(2) Especificado a nivel de producción
+(3) Especificado solamente a nivel de distribución
+
+
+NAFTA (CNP 24/89) PARA MEZCLAR CON ALCOHOL ETILICO ANHIDRO
+
+CARACTERISTICA 	MINIMO 	MAXIMO 		Sensibilidad 	- 	- 		Número Octano Motor 	80 	- 		Número Octano Research	93 	- 		Densidad 	0.730 	0.760 		Presión Reid [bar] a 37.8º C 	0.55 	0.65 		Destilación 				Punto Inicial 	30 	40 		10% vol. [ºC] 	45 	60 		50% vol. [ºC]	90 	110 		90% vol. [ºC] 	160 	190 		Punto final 	190 	215 		Residuos [% vol.] 	- 	2 		Comp. Hidrocarburos 				Olefínicos [% vol.] 	- 	45 		Aromáticos [% vol.] 	- 	35 		Saturados [% vol.] 		balance 		Período de inducción [min]	480 	- 		Gomas [mg/100 ml]	- 	5 		Tenor de azufre [% masa]	- 	0.12 		Tenor de plomo [g/l]	- 	0.013 		Tenor de fósforo [g/l]	- 	-
+
+
+ANEXO III
+GASOIL
+	GASOIL ALTERNATIVO 		GASOIL ECE R-24 			CARACTERISTICA 	MINIMO 	MAXIMO 	MINIMO 	MAXIMO 		Número Cetano	48 	54 	51 	57 		Densidad	0.835 	0.845 	0.835 	0.845 		Destilación 						Punto Inicial	160 	190 	- 	- 		10% vol. [ºC]	190 	220 	- 	- 		50% vol. [ºC]	245 	280 	245 	- 		90% vol. [ºC]	330 	360 	320 	340 		Punto final	- 	390 	- 	370 		Viscosidad a 40 ºC (mm2/s) 	2.5 	3.5 	2.5 	3.5 		Tenor de azufre (% masa)	0.2 	0.5 	0.2 	0.5 		Punto de ignición [ºC] 	55 	- 	55 	- 		Límite filtrabilidad [ºC]	- 	-5 	- 	-5 		Residuo Carbono
+(% masa)	- 	0.25 	- 	0.20 		Tenor de Cenizas	- 	0.02 	- 	0.01 		Tenor de Agua	- 	0.05 	- 	0.05

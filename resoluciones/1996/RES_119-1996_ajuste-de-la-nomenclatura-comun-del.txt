@@ -1,0 +1,132 @@
+Resolución GMC N° 119/96
+Título: AJUSTE DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 14/12/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 26805_RES_119-1996_ES_AjusteNCMyAEC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2030).
+----------------------------------------------------------------------
+MERCOSUR \GMC\RES Nº 119/96
+
+
+AJUSTE DE LA NOMENCLATURA COMUN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMUN
+
+
+      VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 22/94 del Consejo del Mercado Común, la Resolución No 36/95 del Grupo Mercado Común, y la Propuesta Nº 15/96 de la Comisión de Comercio del Mercosur.
+
+CONSIDERANDO:
+
+Que se hace necesario ajustar la Nomenclatura Común del Mercosur y su correspondiente Arancel Externo Común, instrumento esencial de la Unión Aduanera.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art.1.- Aprobar los ajustes en la Nomenclatura Común del Mercosur y su correspondiente Arancel Externo Común, resultante del análisis efectuado en la comparación de la versión NCM 1996 con la anterior, que figuran en el Anexo y forma parte de la presente Resolución.
+
+Art. 2 La presente Resolución entrará en vigencia el 1/2/97.
+
+
+XXIV GMC - Fortaleza, 13/12/96
+
+ANEXO (VERSION EN ESPAÑOL)
+
+
+AJUSTE DE LA NCM Y SU CORRESPONDENTE AEC
+
+1. ELIMINACION DE CODIGOS
+
+
+2843.90.10
+Cloruros de rutenio
+2843.90.90
+Los demás
+
+
+2. SUSTITUCION DE CODIGOS
+
+
+DONDE DICE:
+
+DEBE DECIR:
+
+2843.90
+Los demás compuestos; amalgamas
+2843.90.00
+Los demás compuestos; amalgamas
+7019.52.00
+De anchura superior a 30 cm, de ligamento tafetán, con gramaje inferior a 250 g/m2, de filamentos de título inferior o igual a 136 tex por hilo sencillo
+7019.52
+De anchura superior a 30 cm, de ligamento tafetán, con gramaje inferior a 250 g/m2, de filamentos de título inferior o igual a 136 tex por hilo sencillo
+
+
+3. MODIFICACION DE A.E.C.
+
+
+NCM
+
+A.E.C. ACTUAL %
+A.E.C. ACORDADO %
+2821.10.30
+Hidróxidos de hierro
+2
+10
+2903.30.11
+1,1,1,2- Tetrafluoroetano
+12
+2
+
+
+4. INCORPORACION DE A.E.C.
+
+
+A.E.C. ACORDADO %
+2843.90.00
+Los demás compuestos; amalgamas
+10
+
+
+5. SUSTITUCION DE TEXTO
+
+
+2933.90.94
+Metenamina (Hexametilentetramina) y sus sales.
+
+
+6. INCORPORACIONES
+
+
+NCM
+DESCRIPCION
+A.E.C. %
+
+3824.90.6
+Preparaciones a base de tetrafluoroetano y pentafluoroetano; preparaciones a base de clorodifluorometano y pentafluoroetano; preparaciones a base de clorodifluorometano y clorotetrafluoroetano
+
+
+3824.90.61
+Preparaciones a base de tetrafluoroetano y pentafluoroetano
+2
+
+3824.90.62
+Preparaciones a base de clorodifluorometano y pentafluoroetano
+2
+
+3824.90.63
+Preparaciones a base de clorodifluorometano y clorotetrafluoroetano
+2
+
+3911.90.23
+Polietilenaminas
+2
+
+7019.52.10
+Con un contenido de materia orgánica superior o igual  a 0,075% pero inferior o igual a 0,3%, en peso, según norma ANSI/IPC - EG - 140, aptos para la fabricación de placas para circuitos impresos
+2
+
+7019.52.90
+Los demás
+12
+
+
+3

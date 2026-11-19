@@ -1,0 +1,91 @@
+Resolución GMC N° 09/02
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA LA VERIFICACIÓN CUANTITATIVA DE HARINA DE TRIGO
+Fecha de aprobación: 18/04/2002
+Vigencia: Vigente (Vigente desde el 17/10/2006 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 19533_RES_009-2002_ES_FE_RTM_Verif-Cuant_Harina Trigo_Acta 1_02.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1026).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 09/02
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA VERIFICACIÓN  CUANTITATIVA DE HARINA DE TRIGO
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 91/93, 152/96 y 38/98 del Grupo Mercado Común.
+
+CONSIDERANDO :
+
+Que resulta necesario establecer las condiciones metrológicas  que debe satisfacer  el producto harina de trigo que se comercialice como premedido, a los efectos de facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción, eliminar  barreras técnicas que sean obstáculos a la libre circulación de productos premedidos, así como garantizar la defensa del consumidor.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR para la Verificación Cuantitativa de Harina de Trigo", que consta en Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas  necesarias para dar cumplimiento a la presente Resolución  a través de los siguientes organismos:
+
+Argentina: 	Ministerio de la Producción - Secretaría de la Competencia, la Desregulación y la Defensa del Consumidor (SCD y DC)
+
+Brasil: 	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial (INMETRO)
+
+Paraguay:	Instituto Nacional de Tecnología y Normalización (INTN)
+
+Uruguay:	Ministerio de Industria, Energía y Minería
+
+Art. 3 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del  1/VII/2002.
+
+
+XLV GMC - Buenos Aires, 18/IV/02
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA VERIFICACIÓN CUANTITATIVA DE HARINA DE TRIGO
+
+1- OBJETIVO
+
+1.1. Este Reglamento Técnico Metrológicose aplicará a la comercialización de harina de trigo comercializada como premedidos.
+
+2- CAMPO DE APLICACIÓN
+
+2.1. Este Reglamento Técnico Metrológico se aplicará a la industria y al comercio de harina de trigo.
+
+3- TOLERANCIA .
+
+3.1. Definiciones .
+  : media aritmética .
+Qn: cantidad nominal .
+T  : tolerancia individual .
+
+3.2. Tolerancia individual (T) 3% de Qn  .
+3.2.1. No será admitida ninguna unidad debajo de Qn-T .
+
+3.3. Tolerancia para la media () .
+3.3.1. La tolerancia admitida es de 1,5 % (uno y medio por ciento) de Qn en menos de la media correspondiente.
+ Qn - (1,5 % Qn ).
+
+4- MUESTREO.
+
+TABLA 1
+Tamaño del lote
+Tamaño del muestreo
+5 a 13
+Todas
+14 a 49
+14
+50 a 149
+20
+150 a 4000
+32
+4001 a 10000
+80
+
+5- CRITERIO DE APROBACIÓN .
+
+5.1. El lote sometido a verificación cuantitativa, es aprobado cuando cumple las condiciones del subitem 3.1 y 3.2 simultáneamente.
+
+
+1
+
+
+1

@@ -1,0 +1,445 @@
+Resolución GMC N° 12/95
+Título: ENSAYO DE MIGRACION TOTAL DE ENVASES Y EQUIPAMIENTOS CELULOSICOS
+Fecha de aprobación: 03/08/1995
+Vigencia: Derogada (Derogada por la Res GMC Nº 40/15)
+Idioma del texto: ES
+Archivo original: 25594_RES_012-1995_ES_EnvEqui_Celulo.DOC
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1871).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 12/95
+
+ENSAYO DE MIGRACION TOTAL DE ENVASES Y EQUIPAMIENTOS CELULOSICOS
+
+	VISTO: El Tratado de Asunción, las Decisiones Nº 4/91 y 9/94 del Consejo del Mercado Común, las Resoluciones Nº 3/92 y 91/93 del Grupo Mercado Común, la Propuesta Nº 7/95 de la Comisión de Comercio y la Recomendación Nº 87/94 del SGT Nº 3 "Normas Técnicas"
+
+
+CONSIDERANDO:
+
+	Que habiéndose fijado criterios generales de envases y equipamientos en contacto con alimentos en la Resolución Nº 3/92 del GMC, resulta necesario proceder a la armonización de las especificaciones técnicas para la clasificación de materiales acordada en la Resolución mencionada.
+
+	Que, de acuerdo con este criterio, se considera conveniente disponer de una normativa común sobre disposiciones generales para envases y equipamientos celulósicos en contacto con alimentos.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. Los envases y equipamientos celulósicos destinados a entrar en contacto con los alimentos que se comercialicen entre los Estados Partes del MERCOSUR deberán cumplir con las exigencias establecidas en el Reglamento Técnico adjunto a esta Resolución "Ensayos de Migración Total de Envases y Equipamientos Celulósicos en Contacto con Alimentos".
+
+Art. 2. Lo establecido en el Art. 1 no se aplicará obligatoriamente a los alimentos envasados destinados a la exportación a terceros países.
+
+Art. 3. Los Estados Partes del MERCOSUR pondrán en vigencia las disposiciones legislativas,  reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, a través de los siguientes organismos:
+
+	Argentina.
+		Ministerio de Economía y Obras y Servicios Públicos
+		Secretaría de Agricultura, Ganadería y Pesca
+		Servicio Nacional de Sanidad Animal (SENASA),
+		Instituto Argentino de Sanidad y Calidad Vegetal (IASCAV)
+		Secretaría de Industria
+		Instituto Nacional de Vitivinicultura  (INV)
+		Ministerio de Salud y  Acción Social
+
+	Brasil:
+		Ministério da Saúde
+
+	Paraguay:
+		Ministerio de Industria y Comercio
+		Instituto Nacional de Tecnología y Normalización (INTN)
+		Ministerio de Salud Pública y Bienestar Social
+
+	Uruguay:
+		Ministerio de Salud Pública (M.S.P.)
+
+Art. 4 - La presente Resolución entrará en vigor el 1 de enero de 1996.
+
+
+XVIII GMC - Asunción, 03/VIII/95
+
+
+ENSAYOS DE MIGRACION TOTAL DE ENVASES Y EQUIPAMIENTOS CELULOSICOS EN CONTACTO CON ALIMENTOS.
+
+1.ALCANCE
+
+Esta norma se aplica a envases y equipamientos celulósicos no revestidos o revestidos o tratados superficialmente con pigmentos minerales parafinas y/o resinas polimétricas; destinados a entrar en contacto con alimentos.
+
+2. FUNDAMENTO
+
+Este método se basa en la cuantificación gravimétrica del residuo total extraído del material celulósico luego del contacto con los simulantes de alimentos bajo las condiciones patronizadas que representan las condiciones reales de empleo del material.
+
+3. CONDICIONES DE EXTRACCION
+
+Para los ensayos de migración deberán ser utilizados los simulantes descritos en la Res GMC 30/92 excepto que el simulante D será n-heptano. El contacto de los materiales celulósicos con los simulantes en las condiciones de tiempo y temperatura seleccionados en la tabla 1, será realizado de manera que reproduzca las condiciones normales y previsibles de uso en la elaboración, fraccionamiento, almacenamiento, distribución, comercialización y consumo de los alimentos. El análisis debe ser efectuado por cuadruplicado, acompañado por el análisis de un blanco.
+
+a.  elaboración- condiciones que se verifiquen en períodos relativamente cortos, tales como: pasteurización, esterilización, acondicionamiento en caliente, etc.
+
+b. almacenamiento- contacto prolongado durante el almacenamiento a temperatura ambiente o de refrigeración.
+
+c. consumo- calentamiento del alimento en el propio envase antes de la ingestión; utilización de utensilios domésticos de material celulósico en contacto con alimentos.
+
+Si un envase o equipamiento de material celulósico es utilizado en varias condiciones de contacto de la tabla 1, los ensayos de migración serán realizados sometiendo las muestras sucesivamente a estas condiciones de test, usándose el mismo simulante.
+
+Para un determinado tiempo de contacto, si el material celulósico pasa los ensayos de migración a una determinada temperatura, no es necesario efectuar el test a una temperatura menor.
+
+Para una determinada temperatura de contacto, si el material celulósico pasa los ensayos de migración a un determinado tiempo de contacto, no es necesario efectuar el test a un tiempo menor.
+
+Siempre que las condiciones de temperatura y tiempo no están especificadas en las condiciones impuestas en la tabla 1 , deben ser seguidas las condiciones que más se aproximen a las condiciones reales de uso.
+
+Para mantener las muestras a la temperatura seleccionada, pueden ser utilizados, dependiendo del caso, congelador, refrigerador, baño de agua, estufa, autoclave u horno microondas.
+
+
+4. REACTIVOS
+
+-Agua destilada y desmineralizada;
+-n- heptano p.p.a.;
+-Solución de ácido acético al 3 % (p/v)
+-Solución alcohólica al 15 % (v/v) o la concentración más próxima a la del alimento, preparado a partir de alcohol etílico 95% diluido con agua destilada desmineralizada;
+-Cloroformo p.p.a.
+
+
+5. PROCEDIMIENTO
+
+5.1 EXTRACCION
+
+5.1.1. Siempre que el envase, equipamiento o material lo permita realizar la extracción directamente en él, según el método siguiente.
+
+5.1.1.1. EQUlPOS
+
+a) vaso de bohemia
+b) cápsula de platino o de vidrio borosilicato
+c) estufa
+d) plancha de calentamiento
+e) balanza analítica con sensibilidad de 0,1 mg
+f) desecador
+
+5.1.1.2. PROCEDIMIENTO
+
+a) Tomar un número de envases o equipamientos tal que la superficie ensayada sea de por lo menos 600 cm2.
+
+b) Colocar el simulante elegido, en una relación de 0,3 ml/cm2 de superficie ensayada, a la temperatura seleccionada según la tabla 1, cubrir o cerrar el recipiente y dejar a la temperatura de ensayo el tiempo indicado.
+
+c) Al final del período de exposición, dejar Ilegar a temperatura ambiente, juntar el solvente de cada uno de los envases o equipamientos utilizados en cada réplica en un matraz Erlenmeyer o vaso de bohemia limpio.
+
+d) Lavar los envases de ensayo con una pequeña cantidad de solvente limpio y adjuntar los líquidos de lavado al recipiente del ítem c).
+
+e) Evaporar el solvente hasta aproximadamente 100 ml y transferir a una cápsula tarada de platino o vidrio borosilicato.
+
+f) Lavar el matraz o vaso de bohemia 3 veces con pequeñas porciones del solvente utilizado, adjuntando los líquidos de lavado en la cápsula.
+
+g) Evaporar el contenido de la cápsula hasta pocos mililitros evitando proyecciones, en una plancha de calentamiento. Los últimos mililitros deben evaporarse en estufa a 105º C.
+
+h) Enfriar la cápsula en un desecador por 30 minutos y pesar el residuo con precisión de 0,1 mg.
+
+i) Calcular la migración total en mg/dm2 de superficie de envase ensayada según el ítem 6.
+
+Cuando la migración total exceda el límite establecido en el ítem 7, proseguir con la extracción del residuo soluble en cloroformo según el ítem 5.3.
+
+5.1.2. Siempre que el envase, equipamiento o material no permita realizar la extracción según el ítem 5.1.1., en el caso de materiales sin impresión y sin revestimiento con pigmentos minerales (sin coating) realizar la extracción según el método siguiente.
+
+5.1.2.1. EQUIPOS
+
+a) baño de agua termostatizado, con temperatura variable (con capacidad para que un vaso de bohemia de 800 ml quede parcialmente sumergido)
+b) balanza analítica con sensibilidad de 0.1 mg.
+c) pinzas
+d) planchas de calentamiento
+e) estufa
+f) mufla
+g) clips de papel Nº 2
+h) vaso de bohemia de 800 ml con vidrio de reloj para tapar
+i) vaso de bohemia de 250 ml
+j) 5 telas cuadradas de mínimo 40 cm2 cada una de acero inoxidable N° 316
+k) soporte para contener varias muestras
+I) alambre capaz de sostener el sistema de fijación de las probetas
+
+5.1.2.2. PROCEDIMIENTO
+a) Para cada una de las réplicas de extracción, cortar precisamente 8 probetas cuadradas, iguales a las telas de 40 cm2 mínimo de la muestra celulósica a ser ensayada.
+
+b) Montar cuidadosamente las 8 probetas y las telas metálicas en forma de sandwich, de modo que el lado de contacto con el alimento de cada probeta quede siempre en contacto con la tela como se describe: tela, probeta, probeta, tela, probeta, probeta, tela, etc.
+
+c) Ensamblar el sandwich cuidadosamente con un clip de papel N° 2, dejando un espacio suficiente en el tope como para poder atravesar el alambre.
+
+d) Colocar todo el conjunto en un vaso de bohemia de 800 ml conteniendo 100 ml del solvente simulante apropiado, en un baño con la temperatura deseada, cubrir con un vidrio de reloj y dejar el tiempo necesario.
+
+e) Después del acondicionamiento, usando las pinzas, cuidadosamente retirar el sandwich, prender en el soporte y dejar escurrir sobre el propio solvente simulante usado en este test.
+
+f) Cuando el solvente se ha escurrido, transferir el mismo a un vaso de bohemia tarado de 250 ml.
+
+g) Lavar el vaso de bohemia de 800 ml tres veces usando no más de 50 ml del solvente utilizado en el ensayo.
+
+h) Determinar el residuo total extraído no volátil como se describe en el ítem 5.2.
+
+5.1.3. Siempre que el envase, equipamiento o material no permita realizar la extracción según el ítem 5.1.1. y en el caso de materiales con impresión externa y/o revestidos con pigmentos minerales y/o revestidos o tratados superficialmente con parafinas y/o resinas poliméricas y/o laminados cuya capa interna es de material celulósico, realizar la extracción según el método siguiente.
+
+5.1.3.1. EQUIPOS
+
+a) dispositivo que permita la fijación de la probeta de forma que el contacto con el simulante sea sólo del lado de interés como por ejemplo el de la figura 1 , o la celda descrita en "Official Methods of Analysis of Official Analytical Chemists" l3th Ed. (1980) Secc. 21.010-21.015
+b) vasos de vidrio con borde recubierto por una cinta de teflón
+c) vaso de bohemia
+
+
+5.1.3.2. PROCEDIMIENTO
+
+a) Cortar las muestras de dimensiones compatibles con los dispositivos empleados. El número de probetas usados para cada determinación debe proveer un área total de contacto de por lo menos 600 cm2.
+
+b) Colocar el solvente simulante en el número adecuado de vasos de vidrio con borde recubierto por una cinta de teflón, de modo que en total se utilice un volumen de 100 ml, y se mantenga la relación área/volumen en cada uno de los vasos.
+
+c) Colocar la probeta sobre el vaso y adaptar el conjunto al dispositivo de fijación. (Figura 1)
+
+d) Invertir el dispositivo para que haya contacto del solvente con la probeta
+
+e) Hacer un blanco sustituyendo la probeta por una placa de vidrio para verificar que no haya migración de los elementos de la cinta de sellado para el solvente
+
+f) Dejar en contacto el tiempo y a la temperatura estipulados en la tabla n° 1
+
+g) Invertir el dispositivo a la posición normal y dejarlo escurrir el tiempo necesario
+
+h) Retirar las probetas y juntar las alícuotas de solvente en un vaso de bohemia tarado.
+
+i) Lavar los vasos de vidrio con no más de 20 ml, por vaso, del solvente utilizado en el ensayo.
+
+j) Determinar el residuo total no volátil extraído como se describe en el ítem 5.2.
+
+5.2. DETERMINACION DEL RESIDUO TOTAL
+
+A) Evaporar el solvente en una plancha de calentamiento hasta aproximadamente 5 ml que deberán ser totalmente evaporados en una estufa a aproximadamente 10° C.
+
+b) Enfriar el vaso de bohemia en un desecador por 30 minutos y pesar el residuo en una balanza analítica con precisión de 0.1 mg.
+
+c) Restar el peso obtenido en el análisis del blanco, obteniendo un residuo total (R).
+
+El peso del blanco debe ser < 1.0 mg/100 ml y < 30% del peso del residuo total.
+
+d) Calcular la migración total en mg/dm2 de muestra, de acuerdo con lo descrito en el ítem 6.
+
+Cuando la migración total exceda el límite establecido en el ítem 7, proseguir con la extracción del residuo soluble en cloroformo.
+
+5.3. DETERMINACION DEL RESIDUO SOLUBLE EN CLOROFORMO
+
+a) Adicionar 50 ml. de cloroformo p.p.a. al residuo total (R) obtenido en el ítem 5.2.
+
+b) Calentar cuidadosamente y filtrar a través de un papel de filtro Whatman N° 41 (o equivalente) utilizando un embudo de vidrio.
+
+c) recoger el filtrado en una cápsula de porcelana ó platino limpia y tarada.
+
+d) Lavar el vaso de bohemia y el papel de filtro con una segunda porción de cloroformo y juntarlo con el filtrado original
+
+e) Evaporar hasta unos pocos ml en la plancha de calentamiento. Los últimos ml deberán ser evaporados en una estufa a aproximadamente 105° C.
+
+f) Enfriar la cápsula en un desecador por 30 minutos y pesar con precisión de 0.1 mg para obtener el residuo soluble en cloroformo (R´). Este residuo R´ debe sustituir a R en las ecuaciones descritas en el ítem 6.
+
+Cuando la migración total calculada con el residuo soluble en cloroformo (R') exceda el límite establecido en el ítem 7, se debe proceder a la corrección por zinc.
+La corrección para ceras, vaselinas y aceite minerales es necesaria en el caso de que éstos formen parte de la composición de la muestra.
+
+5.4. DETERMINACION DEL RESIDUO SOLUBLE EN CLOROFORMO CORREGIDO PARA ZINC.
+
+a) Calcinar el residuo soluble en cloroformo obtenido en cápsula de platino por calentamiento sobre mechero tipo Meker o en mufla a temperatura equivalente, para destruir la materia orgánica y se deja a rojo vivo por aproximadamente un minuto.
+
+b) Enfriar al aire durante 3 minutos y luego en desecador durante 30 minutos.
+
+c) Pesar con precisión de 0,1 mg.
+
+d) Esta ceniza se analiza para determinar zinc, de acuerdo con el método A.O.A.C. u otro equivalente. Se expresa el contenido de Zn en la ceniza como oleato de zinc y se resta esta cantidad del residuo soluble en cloroformo (R'), para obtener el valor del residuo soluble en cloroformo corregido por zinc (R").
+Este R"sustituye a R' en las ecuaciones presentadas en el ítem 6.
+
+5.5. DETERMINACION DEL RESIDUO SOLUBLE EN CLOROFORMO CORREGIDO PARA CERAS, VASELINAS Y ACEITES MINERALES.
+
+5.5.1 . EQUIPOS Y MATERIALES
+
+a) Columna cromatográfica patrón de 10 mm de diámetro interno X 60 cm (o bureta patrón de 50 ml con diámetro interno de10-11 mm) con una válvula reguladora de vidrio, resina de perfluorocarbono u otro material equivalente.
+La columna (o bureta) puede ser opcionalmente equipada con un disco de vidrio sinterizado y el tope de la columna puede ser opcionalmente ajustado con reserva de 100 mm de solvente.
+
+b) lana de vidrio fina
+
+c) arena fina
+
+d) óxido de aluminio grado cromatográfico (80-200 mesh)
+
+e) cilindro graduado
+
+f) sulfato de sodio anhidro
+
+g) heptano
+
+
+5.5.2. PREPARACION DE LA COLUMNA
+
+a) Colocar una pequeña porción de lana de vidrio fina en el fondo de la columna (o bureta) si ésta no estuviera equipada con disco de vidrio sintetizado.
+
+b) Colocar una capa de 15-20 mm de arena fina.
+
+c) Medir 15 mm de óxido de aluminio grado cromatográfico (80-200 mesh) en un cilindro graduado. Para medir bata cuidadosamente el cilindro para acomodar el óxido de aluminio.
+
+d) Transferir el óxido de aluminio a la columna cromatográfica batiendo levemente durante y después de la transferencia.
+
+e) Colocar sobre la capa de óxido de aluminio una capa de 1 a 1,5 cm de sulfato de sodio anhidro y en el tope colocar una porción de lana de vidrio de 6 a 10 mm.
+
+f) A continuación adicionar 25 ml de heptano a la columna con la válvula reguladora abierta para permitir que el heptano pase a través de la columna hasta que el nivel del líquido alcance el tope de la columna y entonces cerrar la válvula.
+
+5.5.3. PROCEDIMIENTO PARA EL RESIDUO SOLUBLE EN CLOROFORMO QUE PESE 0.5 g y MENOS,
+
+a) Disolver el residuo soluble en cloroformo obtenido en el ítem 5.3. adicionado 20 ml de heptano y mezclando si es necesario.
+
+b) Calentar cuidadosamente hasta disolver el residuo. Se puede adicionar hasta 50 ml de n-heptano para auxiliar la disolución del residuo.
+
+c) Enfriar hasta temperatura ambiente (si la solución se torna turbia, usar el procedimiento descrito en el ítem 5.5.4. para obtener una alícuota de solución de heptano que contenga 0.1-0.5 g de residuo soluble en cloroformo).
+
+d) Transferir el heptano a la columna.
+
+e) Enjuagar el vaso de bohemia con 10 ml de heptano y adicionar a la columna.
+
+f) Dejar pasar el líquido a través de la columna, goteando aproximadamente a 2 ml/ minuto y recoger la muestra eluída en un vaso de bohemia limpio y tarado.
+
+g) Cuando el nivel del líquido alcanza el tope de la columna, cerrar la válvula reguladora temporalmente.
+
+h) Enjuagar el frasco que contenía la muestra con 10-15 ml de heptano y adicionarlos a la columna.
+
+i) Eluir la columna con más heptano, recolectando un total aproximado de 100 ml de solvente.
+
+j) Evaporar sobre plancha de calentamiento el heptano eluido de la columna hasta aproximadamente 5 ml.
+
+k) Secar lo restante en estufa a 105ºC por 15 minutos. Enfriar el vaso en un desecador por 30 minutos y pesar el residuo con precisión de 0.1 mg. ·
+
+I) Sustraer el peso obtenido al peso del residuo soluble en cloroformo (R') para obtener el residuo corregido para cera, vaselina y aceites minerales (RR'). Este RR' sustituye al R' en las ecuaciones presentadas en el ítem 6.
+
+5.5.4. PROCEDIMIENTO PARA EL RESIDUO SOLUBLE EN CLOROFORMO QUE PESE MAS DE 0.5 g.
+
+a) Disolver el residuo soluble en cloroformo siguiendo el mismo procedimiento descrito en el ítem 5.5.3 usando una mayor cantidad de heptano.
+
+b) Tranferir la solución de heptano a un matraz aforado de tamaño apropiado y ajustar el volumen con adición de heptano (por ejemplo: matraz aforado de 250 ml para un residuo de 2.5 g)
+
+c) Pipetear una alícuota (50 ml) calculada para contener 0.1.-0.5 g de residuo soluble en cloroformo y analizar cromatográficamente como está descrito en el ítem 5.5.3. En este caso el residuo seco pesado de heptano debe ser multiplicado por el factor de dilución para obtener el residuo de cera, vaselina y aceite mineral a ser sustraído del peso de residuo soluble en cloroformo (R') para obtener la corrección del residuo soluble en cloroformo para cera, vaselina y aceite mineral (RR'). Este RR' sustituye al R' en la ecuación presentada en el ítem 6 .
+
+En el caso de que el extracto soluble en cloroformo contenga ceras de alto punto de fusión (punto de fusión mayor que 77° C) puede ser necesario una nueva dilución de la solución de heptano en la que una alícuota de 50 ml pueda contener solamente 0.1-0.2 g de residuo soluble en cloroformo.
+
+6.CALCULOS
+
+6.1. En el caso de que el solvente simulante utilizado sea agua, soluciones de ácido acético o soluciones alcohólicas la migración total se calcula de acuerdo a la siguiente fórmula:
+
+
+donde:
+
+Q = migración total en mg/dm2
+R = masa del residuo total en mg
+S = superficie de la muestra ensayada en cm2.
+
+6.2. En el caso de que el solvente simulante utilizado sea el heptano, la migración total se calcula de la siguiente manera:
+
+
+donde:
+
+Q = migración total en mg/dm2
+R = masa del residuo total en mg
+S = superficie de la muestra ensayada en cm2
+F = 5 , que corresponde al factor de corrección debido a la mayor extracción en n-heptano cuando es comparada con la extracción, en las mismas condiciones, por un alimento aceitoso ó graso.
+R', R" y RR' sustituyen a R en la ecuación cuando es necesario.
+
+7. LIMITE
+
+El límite de migración total para envases y equipamientos celulósicos en contacto con alimentos, con las correcciones indicadas en esta resolución, es de 8 mg/dm2.
+
+
+TABLA 1
+CONDICIONES PARA LOS ENSAYOS DE MIGRACION
+
+CONDICIONES DE ENSAYO
+
+Condiciones de contacto en uso real
+SIMULANTE A
+agua destilada
+SIMULANTE B
+ácido acético al 3% (p/v)
+SIMULANTE C
+Etanol al 15%
+(v/v)
+SIMULANTE D
+n-Heptano
+(I)
+A.
+Conservac. (contacto prolongado
+t> 24 hs
+T< 5º C
+5º C< T< 40º C
+
+
+20ºC/48hs
+50ºC/24hs
+
+
+20ºC/48hs
+50ºC/24hs
+
+
+20ºC/48hs
+50ºC/24hs
+
+
+20ºC/30m
+20ºC/30m
+B.
+Contacto breve (2 hs<t<24hs)
+a T amb.
+
+
+40ºC/24hs
+
+
+40ºC/24hs
+
+
+40ºC/24hs
+
+
+20ºC/15m
+C.
+Contacto momentáneo (t<2hs) a temperatura ambiente
+
+
+40ºC/2hs
+
+
+40ºC/2hs
+
+
+40ºC/2hs
+
+
+20ºC/15m
+D.
+Elaboración
+40ºC<T<80ºC
+80ºC<T<100ºC
+T>100ºC
+
+
+65ºC/2hs
+100ºC/30 min
+120ºC/2hs
+
+
+65ºC/2hs
+100ºC/30 min
+120ºC/2hs
+
+
+65ºC/2hs
+      ----
+      ----
+
+
+40ºC/30 m
+50ºC/30 m
+65ºC/2 hs
+E.
+Llenado en caliente
+T>70º C
+
+llenar a T ebullic. y enfriar a 38º C
+
+llenar a T ebullic. y enfriar a 38º C
+
+
+      ----
+
+
+50º C/15m
+
+
+(I) En el caso del material celulósico revestido con parafina no es requerido el ensayo de migración total con el simulante n-heptano.

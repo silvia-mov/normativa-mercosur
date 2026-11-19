@@ -1,0 +1,86 @@
+Resolución GMC N° 13/98
+Título: AJUSTE DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE AEC
+Fecha de aprobación: 22/07/1998
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 21735_RES_013-1998_ES_Ajuste_NCM_AEC_Acta 2_98.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1559).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº13/98
+
+
+AJUSTE DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE AEC
+
+
+	VISTO:  El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 7/94, 22/94 y 15/97 del Consejo del Mercado Común, la Resolución Nº 36/95 del Grupo Mercado Común y la Propuesta Nº 6/98 de la Comisión de Comercio del MERCOSUR.
+
+
+CONSIDERANDO:
+
+Que es necesario ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+
+Art. 1 - Aprobar el ajuste de la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común que figura como Anexo, en sus versiones en español y portugués, y forma parte de la presente Resolución, de conformidad con lo dispuesto en el Artículo 1 de la Decisión CMC Nº 15/97.
+
+Art. 2 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del día 22/IX/98.
+
+
+XXX GMC - Buenos Aires, 22/VII/98
+
+
+1.	SUSTITUCIONES DE CÓDIGOS
+
+
+NCM
+DONDE DICE:
+
+NCM
+DEBE DECIR:
+
+8541.21.90
+Los demás
+
+8541.21.9
+Los demás
+8542.40.10
+De espesor de capa inferior o igual a 1 micrómetro
+
+8542.40.1
+De espesor de capa inferior o igual a 1 micrómetro
+
+
+2. 	INCORPORACIONES
+
+
+NCM
+DESCRIPCIÓN
+AEC (%)
+
+8536.50.30
+Conmutadores codificadores digitales, aptos para montaje en circuitos impresos
+
+3 BIT
+8541.21.91
+De efecto de campo, con juntura heterogénea (HJ FET o HEMT)
+
+3 BIT
+8541.21.99
+Los demás
+
+9 BIT
+8542.40.11
+Con frecuencia de operación superior o igual a 800 MHz
+
+3 BIT
+8542.40.19
+Los demás
+
+15 BIT
+
+
+1

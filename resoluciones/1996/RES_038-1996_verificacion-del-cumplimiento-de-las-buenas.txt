@@ -1,0 +1,2966 @@
+Resolución GMC N° 38/96
+Título: VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION Y CONTROL EN ESTABLECIMIENTOS DE PRODUCTOS PARA DIAGNOSTICO USO “IN VITRO
+Fecha de aprobación: 21/06/1996
+Vigencia: Derogada (Vigente desde el 22/06/2005 – Art. 40 POP Será derogada por la Resolución GMC Nº 20/11, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 24456_RES_038-1996_ES_RTProDiagInVit.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1808).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 38/96
+
+
+VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION Y CONTROL EN ESTABLECIMIENTOS DE PRODUCTOS PARA DIAGNOSTICO USO "IN VITRO"
+
+	VISTO:  El Tratado de Asunción, el Protocolo de Ouro Preto, la Resolución Nº 91/93 del Grupo Mercado Común, y la Recomendación Nº 14/96 del SGT Nº 3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+	Que debe garantizarse el cumplimiento de las buenas prácticas de fabricación y control en establecimientos de productos para diagnóstico "in vitro".
+
+	Que a tales efectos es necesario establecer un mecanismo de verificación de tal cumplimiento.
+
+	Que se han armonizado los criterios a aplicar al respecto.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Aprobar el Reglamento Técnico sobre "Verificación del Cumplimiento de las Buenas Prácticas de Fabricación y Control en Establecimientos de Productos para Diagnóstico uso in vitro".
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos :
+
+Argentina :	ANMAT (Administración Nacional de Medicamentos, Alimentos y
+		Tecnología Médica)
+Brasil :	Secretaria de Vigilancia Sanitária do Ministério da Saúde
+Paraguay:	Dirección de Vigilancia Sanitaria del Ministerio de Salud Pública y
+		Bienestar Social
+Uruguay:	Ministerio de Salud Pública.
+
+Art. 3 - La presente Resolución entrará en vigor en el Mercosur en un plazo máximo de 90 (noventa) días a partir de la fecha de su aprobación.
+
+
+XXII GMC - Buenos Aires, 21/VI/1996
+
+
+	REACTIVOS PARA DIAGNOSTICO "IN-VITRO
+
+
+VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION Y CONTROL EN ESTABLECIMIENTOS DE PRODUCTOS PARA  DIAGNÓSTICO  USO "IN-VITRO"
+
+
+	-------------*********--------------
+
+
+	I N D I C E
+
+
+1.		ADMINISTRACION E INFORMACION GENERAL
+1.A			CONDICIONES EXTERNAS
+1.B			CONDICIONES INTERNAS
+
+
+2.		DEPOSITO
+2.A			RECEPCION Y ALMACENAMIENTO DE INSUMOS
+2.B			RECEPCION Y ALMACENAMIENTO DE PRODUCTOS TERMINADOS
+2.C			DEVOLUCIONES
+2.D			RECOLECCION DE PRODUCTOS DEL MERCADO
+
+
+3.		SISTEMA E INSTALACIONES DE AGUA
+3.A			AGUA POTABLE
+3.B			AGUA PURIFICADA
+3.B.1				DEIONIZACION
+3.B.2				OSMOSIS INVERSA
+3.C			AGUA DESTILADA/BIDESTILADA
+3.D			AGUA ESTERIL
+
+
+4.		PRODUCCION
+4.A			ORGANIZACION
+4.A.1				FORMULA PATRON
+4.A.2				ORDEN DE FABRICACION
+4.B			AREAS DE PESADA/MEDIDA
+4.C			AREAS PRODUCTIVAS
+4.D			AREA DE LAVADO
+4.E			ACONDICIONAMIENTO
+
+
+5.		CONTROL DE CALIDAD
+
+
+6.		GARANTIA DE CALIDAD
+
+
+7.		ACTA DE INSPECCION
+
+
+----------**********----------
+
+
+"VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION Y CONTROL EN ESTABLECIMIENTOS DE PRODUCTOS PARA DIAGNOSTICO USO "IN-VITRO"".
+
+
+En el caso de aquellas empresas que elaboren, exporten, importen, fraccionen y/o comercialicen productos conteniendo materiales radioactivos, deberan cumplimentar, además de los requisitos expuestos en este documento, aquellos exigidos por el Organismo Fiscalizador de Radioisotopos, en lo que hace al licenciamiento de instalaciones y habilitación de profesionales.
+
+
+----------------*********--------------
+
+
+1.- ADMINISTRACION E INFORMACION GENERAL
+El establecimiento deberá presentar la documentación que le sea requerida por el Inspector.
+
+
+1.1
+
+1.2
+
+1.3
+
+1.4
+
+
+1.5
+
+
+1.6
+
+1.7
+
+1.8
+
+
+1.9
+
+
+1.10
+
+
+1.11
+
+
+1.12
+
+
+1.13
+
+
+1.14
+
+1.15
+
+Cuál es la razón social de la empresa?
+
+Por quién son atendidos los inspectores ?
+
+El Director Técnico responsable está presente?
+
+Existe prueba de la inscripción del D.T. y de la empresa en el Organismo Nacional Competente?
+
+La empresa posee autorización de la Autoridad competente para funcionamiento referente a la localización, protección ambiental y seguridad de instalaciones?
+
+Fueron exhibidos los planos de los edificios?
+
+Cuál es el número de empleados que pertenecen a la empresa?
+
+Cuál es el número de empleados que están directamente ligados a las áreas de administración y venta de la Empresa?
+
+Fue exhibida la lista de los productos de la firma que están en comercialización y de los que no lo están?
+
+Todos esos productos están debidamente registrados en el Organismo Sanitario Nacional competente?
+
+La superficie que ocupa la Empresa es adecuada para la capacidad operativa que declara la empresa?
+
+Cuál es la capacidad de producción propia para cada producto fabricado en la empresa?
+
+Existe(n) contrato(s) de fabricación con terceros?
+
+Cuál(es) es(son) el(los) nombre(s) de la(s) empresa(s) contratada(s)?
+
+Importa insumos, producto terminado, a granel, semielaborados?
+
+Exporta insumos, producto terminado, a granel, semielaborados?
+
+
+1.A - CONDICIONES EXTERNAS
+
+1.A.1
+
+
+1.A.2
+
+
+1.A.3
+
+
+1.A.4
+En cuanto al aspecto externo, el/los edificio/s presenta/n buena conservación (ausencia de rajaduras, pintura descascarada, filtraciones, etc.?
+
+Existe protección contra la entrada de roedores, insectos, aves u otros animales?
+
+Las condiciones físicas y estado de conservación de estructura, paredes y techos, son adecuadas?
+
+
+Las vías de acceso son aptas?
+
+
+1.B - CONDICIONES INTERNAS
+
+1.B.1
+
+
+1.B.2
+
+1.B.3
+
+1.B.4
+
+1.B.5
+
+
+1.B.6
+
+1.B.7
+
+
+1.B.8
+
+
+1.B.9
+
+El estado de higiene y conservación (ausencia de grietas, sin roturas, agujeros y rajaduras) es adecuado?
+
+Las paredes están bien conservadas?
+
+Su estado higiénico es adecuado?
+
+Los techos son apropiados y están en buenas condiciones?
+
+Los desagües y cañerías están en buen estado?
+
+
+La iluminación es adecuada?
+
+Las instalaciones eléctricas se encuentran en buen estado de conservación, seguridad y uso?
+
+Fueron notados indicios de presencia de roedores, insectos, aves u otros animales?
+
+Existe algún sistema con un procedimiento para combatir la presencia de roedores, insectos, aves u otros animales? Quién es el responsable del mismo? Con qué frecuencia se aplica?
+
+Verificar en caso de ser realizado por una empresa contratada cual es la frecuencia
+
+
+1.B.10
+
+
+1.B.11
+
+
+1.B.12
+
+
+1.B.13
+
+
+1.B.14
+
+
+1.B.15
+
+1.B.16
+
+
+1.B.17
+
+
+Existe equipamiento de seguridad para combatir incendios?
+El acceso a extinguidores y mangueras se encuentra libre?
+
+Existe un plan de asistencia médica permanente y de atención de emergencias en caso de enfermedad brusca o accidentes del personal?
+
+Existen servicios sanitarios en cantidad suficiente? Verificar la limpieza de los mismos.
+
+Existen vestuarios en cantidad suficiente? Verificar la limpieza de los mismos.
+
+El personal está vestido con el uniforme correspondiente? Verificar las condiciones y la limpieza de los mismos.
+
+Existe un salón comedor? Si no, dónde come el personal?
+
+Existen bebederos de agua potable en lugares adecuados y en cantidades suficientes?
+
+Existen recipientes adecuados e identificados para recolección de basura?. Son vaciados con frecuencia?
+
+
+2 - DEPOSITO
+
+
+2.1
+
+
+2.2
+
+
+2.3
+
+2.4
+
+
+2.5
+
+2.6
+
+
+2.7
+
+
+2.8
+
+
+2.9
+
+
+2.10
+
+2.11
+
+
+2.12
+
+
+La temperatura del local condice con las condiciones necesarias de almacenamiento de insumos, graneles, semielaborados y productos terminados?
+
+Se controla y registra la temperatura y humedad del  depósito?
+Verificar los registros en el momento de la inspección.
+
+Hay necesidad de cámara frigorífica?
+
+Si es necesaria la cámara frigorífica, es controlada y registrada la temperatura de la misma?
+
+Cuál es la temperatura en el momento de la inspección?
+
+Con qué frecuencia son calibradas las balanzas?
+Verificar los registros.
+
+La disposición de almacenamiento es correcta y racional, a fin de preservar la integridad e identidad de los materiales?
+
+El producto terminado almacenado se encuentra debidamente separado (aislado) del piso y paredes para facilitar la realización de las tareas de limpieza e higiene y su conservación?
+
+Existen garantías de separación de materiales de envase, empaquetado, insumos, graneles, producto semielaborado y producto elaborado?
+
+Existe un área o sistema de cuarentena para todos los productos?
+
+Existe un área o sistema perfectamente identificado para todos los productos rechazados?
+
+Existe un área o sistema perfectamente identificado para el almacenamiento de etiquetas, rótulos y manuales de instrucciones?
+
+
+2.13
+
+
+2.14
+
+2.15
+
+
+2.16
+
+Los productos explosivos e inflamables son almacenados en un local apropiado?
+
+Está aprobado por la Autoridad competente?
+
+Existen dentro del depósito, sectores separados cerrados con llave y con acceso restricto, para sustancias narcóticas, psicotrópicos, tóxicos o similares, cuando sea necesario?
+
+
+Existen indicaciones escritas y comunicación verbal sobre características de reactividad, riesgo de salubridad y forma de manipuleo de las materias primas, graneles, semielaborados y productos terminados, así también modo de actuar en caso de accidentes?
+
+
+2.A. - RECEPCION Y ALMACENAMIENTO DE INSUMOS
+       (SOLO PARA FRACIONADORES Y/O ELABORADORES)
+
+2.A.1
+
+
+2.A.2
+
+
+2.A.3
+
+2.A.4
+
+
+2.A.5
+
+
+2.A.6
+
+
+2.A.7
+
+
+2.A.8
+
+
+2.A.9
+
+
+2.A.10
+
+2.A.11
+
+
+2.A.12
+
+
+2.A.13
+
+
+Se realiza un examen visual a la recepción de los insumos para verificar si sufrieron daños durante el transporte?
+
+Hay modo de verificar que se cumplió con la cadena de frío durante el transporte?
+
+Está documentada la recepción?
+
+A su recepción se le asigna un número de registro a cada lote de insumos?
+
+Antes de su liberación por Control de Calidad, los insumos permanecen en cuarentena y debidamente rotulados?
+
+Se documenta su identificación adhiriendo el rótulo de aprobado al envase que los contienen y no a la tapa?
+
+Los insumos son muestrados para Control de Calidad de acuerdo a sistemas apropiados y confiables?
+
+Un insumo ya aprobado es etiquetado como tal y transferido al Depósito correspondiente?
+
+El plazo de validez (Fecha de vencimiento) y la fecha de reanálisis está indicado en el rótulo?
+
+Los insumos rechazados son debidamente identificados y aislados?
+
+La disposición del almacenamiento es buena y racional a fin de preservar la identidad e integridad de los insumos?
+
+Que sistema existe para el Control de stock?
+Es funcional?
+
+Los embalajes y envases conteniendo insumos (tambores, barricas, cajas, etc.) están bien cerrados?
+Están adecuadamente identificados?
+
+
+2.B - RECEPCION Y ALMACENAMIENTO DE PRODUCTOS TERMINADOS
+
+
+2.B.1
+
+
+2.B.2
+
+
+2.B.3
+
+
+2.B.4
+
+
+2.B.5
+
+
+2.B.6
+
+
+2.B.7
+Se mantiene un sistema de registro de ingreso y control de existencias de producto terminado?
+
+El sistema de registro y control de los despachos de producto terminado contempla la correspondiente correlación secuencial de lotes, fecha de ingreso/egreso y la observación de la fecha de vencimiento?
+
+El almacenamiento del producto terminado, se realiza con el debido órden y seguridad evitando posibles confusiones en su control y despacho, así como accidentes en el manipuleo?
+
+La disposición del almacenamiento es buena y racional a fin de preservar la identidad e integridad de los productos terminados?
+
+Los productos vencidos son retirados del depósito, posteriormente destruidos y/o reprocesados debidamente registrado tal procedimiento?
+
+Cuál es la política de la empresa con respecto al envio de productos próximos a su vencimiento?
+Verificar el cumplimiento de dicha política y la existencia de registros.
+
+Se realizan inventarios periódicamente? Existen registros de los mismos?
+
+
+2.C- DEVOLUCIONES
+
+
+2.C.1
+
+
+2.C.2
+
+2.C.3
+
+
+2.C.4
+
+
+2.C.5
+
+
+2.C.6
+
+
+2.C.7
+
+
+Existe un área que delimite o restrinja el almacenamiento de productos devueltos?
+
+Esos productos son identificados como tales?
+
+Hay responsables de la toma de decisiones para su debido tratamiento?
+
+Se informa a control de calidad de la recepción de estas devoluciones?
+
+Son registrados los análisis realizados, sus resultados y las decisiones adoptadas como consecuencia de ellos?
+
+Luego de analizado, se procede a su destrucción o reprocesado según lo que corresponda? Existen los registros correspondientes?
+
+Los registros son anexados o se hace alguna referencia de ellos en la documentación de cada lote?
+
+
+2.D.- RECOLECCION DE PRODUCTOS DEL MERCADO
+
+NOTA: Se define como distribución a nivel primario, a aquella entrega en forma directa en la cadena de comercialización, promoción e investigación aplicada desde la firma propietaria del producto al primer receptor del mismo.
+
+2.D.1
+
+
+2.D.2
+
+
+2.D.3
+
+
+2.D.4
+
+
+2.D.5
+
+
+2.D.6
+
+
+2.D.7
+
+
+2.D.8
+
+
+2.D.9
+
+
+2.D.10
+
+
+2.D.11
+
+
+2.D.12
+
+
+Existe un control de distribución de productos terminados? Verificar lista de distribuidores.
+
+La Empresa establece y mantiene procedimientos de retiro de productos del mercado?
+
+Establece y mantiene un sistema que garantiza la correcta aplicación de dichos procedimientos?
+
+Existe un responsable designado para la coordinación y ejecución del procedimiento de retiro?
+
+Si la persona responsable designada no pertenece al departamento de Control de Calidad, este departamento es informado de las operaciones efectuadas?
+
+Existen informes de los retiros de productos del mercado así como de sus causas?
+
+En caso de retiro de productos, por desvios de calidad, las autoridades competentes de los demás países, son informadas inmediatamente?
+
+Son tomadas las providencias inmediatas para el retiro del producto, en todo el territorio en el cual fue distribuido? Esto está registrado?
+
+Los registros de distribución a nivel primario, de los productos, quedan disponibles para una pronta acción de retiro del mercado?
+
+Esos registros contienen información que permita el rastreo y determinación de cuales son los destinatarios resultantes de la distribución primaria?
+
+Existe un área apropiada y segura para el almacenamiento de los productos retirados del mercado y están debidamente identificados, mientras aguardan su destino?
+
+Existen informes sobre el destino de los productos retirados del mercado?
+
+
+3.- SISTEMA E INSTALACIONES DE AGUA
+
+3.1
+La empresa utiliza agua potable, purificada, destilada, bidestilada y/o esteril?
+
+
+3.A AGUA POTABLE
+
+3.A.1
+
+
+3.A.2
+
+
+3.A.3
+
+3.A.4
+
+
+3.A.5
+
+
+3.A.6
+
+
+3.A.7
+
+
+3.A.8
+
+
+Cual es la procedencia del agua utilizada por la empresa? Red Pública - Pozos Artesianos - Semi Artesianos - Otros. Cuales?
+
+La empresa posee tanques de agua? Cuantos? De que materiales? Cual es la capacidad de estos tanques?
+
+Se hace algún tratamiento antes de ser almacenada el agua? Cuál?
+
+Se hace limpieza de los tanques de agua? Cual es la Frecuencia? Existen registros? El procedimiento de limpieza está escrito?
+
+Se hacen controles físico-químicos? Cuáles? Con que frecuencia? Existen registros?
+
+Se hacen controles microbiológicos? Cuáles? Con que frecuencia? Existen registros?
+
+Son recogidas muestras de agua en diversos puntos de la fábrica, inclusive en los bebederos, para efectuar un control microbiológico? Existen registros?
+
+Las cañerías utilizadas para el transporte del agua potable están en buen estado de conservación y limpieza?
+
+
+3.B.-  AGUA PURIFICADA
+
+
+3.B.1
+
+3.B.1.1
+
+
+3.B.1.2
+
+
+3.B.1.3
+
+
+3.B.1.4
+
+
+3.B.1.5
+
+
+3.B.1.6
+
+
+3.B.1.7
+
+
+3.B.1.8
+
+
+3.B.1.9
+
+
+3.B.1.10
+
+
+3.B.1.11
+
+
+3.B.1.12
+
+
+El agua potable es utilizada como fuente de alimentación para sistemas de producción de agua purificada? Cuál es el sistema utilizado? Deionización u ósmosis inversa.
+
+DEIONIZACION
+
+La industria posee equipo deionizador para la producción de agua purificada?
+
+Cuál es la capacidad en litros/hora?
+
+Existe personal capacitado para operar el sistema?
+El responsable para la operación está presente?
+
+Existe manual de operaciones para el sistema?
+Es utilizado?
+
+Las resinas son regeneradas con frecuencia?
+Existen registros?
+
+El agua que abastece al deionizador es tratada?
+Cómo?
+
+Si el agua que abastece el deionizador es clorada, existe un sistema para retirar el cloro antes del deionizador? Cuál?
+
+Existe depósito para agua deionizada? Cuál es la capacidad? Cuál es el material utilizado? Existe algún tratamiento para evitar la contaminación microbiológica ?
+Cuál es el consumo medio?
+
+Se hacen controles físico-químicos? Cuáles? Con que frecuencia? Existen registros?
+
+Se hacen controles microbiológicos? Cuáles? Con que frecuencia? Existen registros?
+
+El transporte o circulación de agua deionizada se hace por cañería apropiada?
+
+El agua producida es utilizada como materia prima para todos los productos líquidos?
+
+Es liberada por Control de Calidad antes de ser utilizada?
+
+
+3.B.1.13
+
+
+3.B.2
+
+3.B.2.1
+
+
+3.B.2.2
+
+3.B.2.3
+
+
+3.B.2.4
+
+
+3.B.2.5
+
+
+3.B.2.6
+
+
+3.B.2.7
+
+
+3.B.2.8
+
+
+3.B.2.9
+
+
+3.B.2.10
+
+
+3.B.2.11
+
+3.B.2.12
+
+
+El sistema de purificación está validado? Existen registros?
+
+
+OSMOSIS INVERSA
+
+La industria posee equipo de osmosis inversa para la producción de agua purificada?
+
+Cuál es la capacidad en litros/hora?
+
+El agua que abastece al sistema es tratada?
+Cómo?
+
+Existe personal capacitado para operar el sistema?
+El responsable para la operación está presente?
+
+Existe manual de operaciones para el sistema?
+Es utilizado?
+
+Existe depósito para este agua? Cuál es la capacidad? Cuál es el material utilizado? Existe algún tratamiento para evitar la contaminación microbiológica ?
+Cuál es el consumo medio?
+
+Se hacen controles físico-químicos? Cuáles? Con que frecuencia? Existen registros?
+
+Se hacen controles microbiológicos? Cuáles? Con que frecuencia? Existen registros?
+
+El transporte o circulación de este agua se hace por cañería apropiada?
+
+El agua producida es utilizada como materia prima para todos los productos líquidos?
+
+Es liberada por Control de Calidad antes de ser utilizada?
+
+El sistema de purificación está validado? Existen registros?
+
+
+3.C - AGUA DESTILADA/BIDESTILADA
+
+
+3.C.1
+
+
+3.C.2
+
+3.C.3
+
+
+3.C.4
+
+
+3.C.5
+
+
+3.C.6
+
+
+3.C.7
+
+
+3.C.8
+
+
+3.C.9
+
+
+3.C.10
+
+
+3.C.11
+
+3.C.12
+
+La industria posee equipo de destilación para la producción de este tipo de agua?
+
+Cuál es la capacidad en litros/hora?
+
+El agua que abastece al destilador es tratada?
+Cómo?
+
+Existe personal capacitado para operar el sistema?
+El responsable para la operación está presente?
+
+Existe manual de operaciones para el sistema?
+Es utilizado?
+
+Existe depósito para este agua? Cuál es la capacidad? Cuál es el material utilizado? Existe algún tratamiento para evitar la contaminación microbiológica ?
+Cuál es el consumo medio?
+
+Se hacen controles físico-químicos? Cuáles? Con que frecuencia? Existen registros?
+
+Se hacen controles microbiológicos? Cuáles? Con que frecuencia? Existen registros?
+
+El transporte o circulación de este agua se hace por cañería apropiada?
+
+El agua producida es utilizada como materia prima para todos los productos líquidos o es para control de calidad?
+
+Es liberada por Control de Calidad antes de ser utilizada?
+
+El sistema de purificación está validado? Existen registros?
+
+
+3.D - AGUA ESTERIL
+
+
+3.D.1
+
+
+3.D.2
+
+3.D.3
+
+
+3.D.4
+
+
+3.D.5
+
+
+3.D.6
+
+
+3.D.7
+
+3.D.8
+La industria posee equipo de esterilización para la producción agua estéril?
+
+Cuál es la capacidad en litros/hora?
+
+El agua que abastece al esterilizador es tratada?
+Cómo?
+
+Existe personal capacitado para operar el sistema?
+El responsable para la operación está presente?
+
+Existe manual de operaciones para el sistema?
+Es utilizado?
+
+Se hacen controles de esterilidad? Cuáles? Con que frecuencia? Existen registros?
+
+
+Es liberada por Control de Calidad antes de ser utilizada?
+
+El sistema está validado? Existen registros?
+
+
+4 - PRODUCCION
+
+
+4.1
+
+4.2
+
+
+4.3
+
+4.4
+
+
+4.5
+
+4.6
+
+
+4.7
+
+
+Quién es el responsable de dirigir la producción?
+
+Cuál es su formación profesional?
+
+
+Existe un organigrama?
+
+Cantidad de personal afectado al área.
+El personal técnico y especializado es suficiente?
+
+Existe un plan de entrenamiento para el personal?
+
+Si el personal manifiesta lesiones o enfermedades que puedan afectar a la calidad o seguridad de los productos es excluido del contacto con éstos?
+
+En caso de existir contrato de fabricación con terceros, cuáles son los productos y cuáles son sus respectivos volúmenes de producción?
+
+
+4.A. - ORGANIZACION
+
+
+4.A.1. -  FORMULA PATRON
+
+4.A.1.1
+
+4.A.1.2
+
+
+4.A.1.3
+
+
+4.A.1.4
+
+
+4.A.1.5
+
+
+4.A.1.6
+
+4.A.1.7
+
+
+4.A.1.8
+
+
+4.A.1.9
+
+
+4.A.1.10
+
+
+4.A.1.11
+
+
+Existe una especificación de elaboración?
+
+Esa especificación está preparada, revisada y aprobada por personas responsables y firmada por otra persona también responsable?
+
+Existen procedimientos escritos sobre forma de proceder en casos donde es necesario modificar la especificación de elaboración?
+
+La especificación de elaboración contiene:
+- Nombre, código o artículo del producto y de cada componente
+- Composición de cada uno de los componentes del producto, periódo de validez o estabilidad, temperatura de almacenamiento
+- Cantidad teórica del producto a ser fabricado?
+
+Existen instrucciones detalladas de todas y cada una de las etapas de fabricación, sector donde debe efectuarse y equipos a ser utilizados?
+
+Existe un procedimiento para limpieza de equipos?
+
+Existe un responsable en la verificación de ejecución de limpieza en los equipos empleados?
+
+Existen instrucciones claras y detalladas de que etapa de la elaboración requiere la intervención de Control de Calidad para control del proceso con indicación del responsable y fecha?
+
+Existen exigencias de anexar al registro de elaboración, registros gráficos de temperatura, presión y humedad cuando el procedimiento requiere control de los mismos?
+
+Existen exigencias de anexar al registro de elaboración el rótulo de identificación de las materias primas y materiales empleados, cuando no exista otro sistema de seguridad equivalente?
+
+Existe la exigencia de anexar al registro de elaboración un rótulo del producto final, con el número de lote o partida y el vencimiento?
+
+
+4.A.1.12
+
+
+4.A.1.13
+
+
+4.A.1.14
+
+
+4.A.1.15
+
+
+4.A.1.16
+
+Existe el cálculo de rendimiento real obtenido en las diversas etapas de la elaboración y relación con el rendimiento teórico?
+
+Existen instrucciones adecuadas para rotular y embalar el producto y condiciones de conservación?
+
+Existe una descripción de los envases, estuches y otros materiales utilizados para el fraccionamiento con códigos, cantidades y unidades de medida?
+
+Todos los envases, líneas, equipos usados durante la producción están identificados para indicar claramente su contenido o la etapa de procesamiento del lote?
+
+Los equipos, utensilios y envases están localizados y/o almacenados en lugar adecuado?
+
+
+4.A.2. ORDEN DE FABRICACION
+
+4.A.2.1
+
+
+4.A.2.2
+
+4.A.2.3
+
+
+4.A.2.4
+
+
+4.A.2.5
+
+4.A.2.6
+
+4.A.2.7
+
+
+4.A.2.8
+
+
+Existe un proceso de copia fiel de la fórmula patrón que asegure su exacta producción?
+
+Contiene el número de lote?
+
+Contiene los números de código, de lote y análisis de materias primas y materiales involucrados?
+
+El cálculo de las materias primas es correcto en base a la fórmula unitaria o centecimal?
+
+Está firmado por el responsable del cálculo?
+
+Esta firma es refrendada por otra persona?
+
+Si es necesario modificar las instrucciones de fabricación, equipos, ambiente y/u otra condición, la modificación está firmada por un responsable autorizado?
+
+Después de finalizar el proceso de fabricación, toda la documentación sobre el lote producido (registro de la producción, rótulos, resultado analítico de los controles de proceso y producto terminado) se archivan?
+Por cuánto tiempo? Quién es el responsable?
+
+
+4.B. - AREAS DE PESADAS Y MEDIDAS
+
+
+4.B.1
+
+4.B.2
+
+
+4.B.3
+
+
+4.B.4
+
+
+4.B.5
+
+
+4.B.6
+
+
+4.B.7
+
+
+4.B.8
+
+4.B.9
+
+
+4.B.10
+
+4.B.11
+
+
+4.B.12
+Está limpia el área?
+
+Los materiales usados para las pesadas y medidas están limpios y guardados como tal en lugar adecuado?
+
+Las balanzas y elementos de medida son calibrados regularmente? Existen registros?
+
+Los recipientes que contienen una materia prima a ser pesada o medida son limpiados antes de ser abiertos? Quedan cerrados despues del procedimiento?
+
+Los materiales pesados y/o medidas son identificados correctamente?
+
+
+En esta etiqueta consta:
+- Nombre del insumo
+- Número de lote del insumo
+- Nombre del producto a que se destina el insumo
+- Número del lote del reactivo
+- Cantidad que fue pesada o medida
+- Peso bruto
+- Firma del responsable de la pesada o medida.
+
+
+El área tiene ventilación, iluminación, controles de humedad y temperatura adecuados?
+
+Posee algún sistema de extracción?
+
+Las materias primas de un lote ya pesadas o medidas son separadas fisicamente de las del otro lote ya pesado?
+
+El área posee un lugar separado para el lavado de utensilios usados?
+
+Existe un sistema de prevención de contaminación cruzada durante la pesada o medida?
+
+Existe forma de prevención de contaminación del medio ambiente a través de los sistemas de extracción u otro modo?
+
+
+4.C - AREAS PRODUCTIVAS:ELABORACION / FRACCIONAMIENTO
+
+
+4.C.1
+
+4.C.2
+
+
+4.C.3
+
+4.C.4
+
+4.C.5
+
+4.C.6
+
+4.C.7
+
+4.C.8
+
+
+4.C.9
+
+
+4.C.10
+
+4.C.11
+
+
+4.C.12
+
+4.C.13
+
+
+Cuantos m2 cubiertos se destinan a la producción excluídos depósitos?
+
+De acuerdo a los productos que elaboran y/o fraccionen, existen áreas separadas y con características adecuadas para los productos en cuestión?
+
+Cuántas áreas existen?
+
+El área ocupada condice con el volúmen de las operaciones?
+
+Cuál es el número de operarios del sector?
+
+Las áreas están limpias?
+
+Está prohibido comer, beber y fumar en sectores productivos?
+
+La eliminación de agua servida, desperdicios y otros desechos dentro y fuera del edificio y de las inmediaciones, se hace en forma segura y sanitaria?
+
+Existen normas de seguridad y/o bioseguridad escritas? Se complementan?
+
+El personal utiliza ropa y calzado adecuado a las tareas que realiza?
+
+A las áreas de producción se prohibe el acceso de personas vestidas con ropa inadecuada?
+
+Los pisos son adecuados?
+
+Si se aplica un método de desinsectización, se ha verificado previamente que su empleo y forma de aplicación no significa un riesgo de contaminación de equipos y productos?
+
+
+4.C.14
+
+
+4.C.15
+
+
+4.C.16
+
+4.C.17
+
+
+4.C.18
+
+
+4.C.19
+
+
+4.C.20
+
+
+4.C.21
+
+4.C.22
+
+4.C.23
+
+
+4.C.24
+
+4.C.25
+
+4.C.26
+
+
+4.C.27
+
+
+En las áreas productivas se efectúan controles de presión de aire, microbiológicos, de partículas, humedad, temperatura y sustancias tóxicas? Existen registros? Existen medidas de seguridad para el personal?
+
+La circulación interna  y la distribución de áreas es adecuada? La iluminación, ventilación y las dimensiones son adecuadas?
+
+Se logra minimizar la posibilidad de contaminación de una a otra área?
+
+Se evita la contaminación cruzada de un producto con partículas o polvo provenientes del almacenaje, manufactura o manipuleo de otro producto?
+
+Las áreas están acondicionadas para proveer las condiciones de estabilidad adecuadas a los componentes, materiales en proceso y productos terminados?
+
+Existe una adecuada separación física entre los equipos para evitar mezcla o contaminación cruzada, cuando se fabrican simultáneamente lotes de productos diferentes?
+
+Cada fase crítica de producción lleva el visado del operador y del superior inmediato?
+
+Las instalaciones eléctricas están en buenas condiciones?
+
+Existen líneas muertas?
+
+Las tuberías de agua, vapor, gas, aire comprimido y electricidad están debidamente identificadas?
+
+Son adecuados los sistemas de desagüe?
+
+Poseen rejillas sifón? Son desinfectadas frecuentemente?
+
+Las paredes, pisos y techos están construidos con materiales fácilmente lavables?
+
+En caso de productos de origen animal: cuentan con bioterio propio? Si la respuesta es afirmativa Ver Control de Calidad.
+
+
+4.D.- AREA DE LAVADO
+
+
+4.D.1
+
+4.D.2
+
+4.D.3
+
+
+4.D.4
+
+4.D.5
+
+4.D.6
+
+
+4.D.7
+
+4.D.8
+
+
+Existe un local separado para el lavado de materiales y de envases?
+
+El área ocupada es adecuada para el volúmen de las operaciones?
+
+La existencia y distribución de los equipamientos es ordenada, racional y adecuada al volúmen de operaciones?
+
+El área de circulación está libre de obstáculos?
+
+El área está limpia?
+
+Cuál es el tipo de agua utilizada en la alimentación de las máquinas de lavado o para lavado manual?
+
+Las estufas de secado funcionan perfectamente?
+
+Los envases son transferidos con seguridad al área de envase a fin de evitar una posible contaminación?
+
+
+4.E.- ACONDICIONAMIENTO
+
+
+4.E.1
+
+
+4.E.2
+
+
+4.E.3
+
+
+4.E.4
+
+
+4.E.5
+
+
+4.E.6
+
+
+4.E.7
+
+
+4.E.8
+
+
+4.E.9
+
+Sólo se permite a personas debidamente autorizadas el acceso a los rótulos y manuales de instrucciones?
+
+Se inspeccionan los rótulos y manuales de instrucciones antes de entregarse a la línea de empaque?
+
+Se verifican las máquinas rotuladoras(en caso de contar con ellas) y la línea de empaque antes de usarlas, con respecto a la no existencia de rótulos, estuches u otros elementos de productos anteriores?
+
+Se examinan los rótulos y manuales de instrucciones antes o durante el proceso para verificar si se refieren realmente al producto a empacar y si consta específicamente en rótulos el número de lote y fecha de vencimiento?
+
+Se destruyen al terminar el empaque los rótulos sobrantes y grabados con número de lote y/o vencimiento?
+
+Se mantienen registros de rótulos y manual de instrucciones recibidos, usados , destruidos y devueltos?
+
+Se investiga y registra toda discrepancia entre el número de envases rotulados, número de rótulos recibidos y número de rótulos usados, incluyendo los dañados y destruidos?
+
+Si los rótulos sobrantes no son grabados con el número de lote o fecha de vencimiento y se devolvieron al depósito existe personal responsable de dicha devolución?
+
+Se registra debidamente por escrito las operaciones arriba mencionadas?
+
+
+5.- CONTROL DE CALIDAD
+
+
+5.1
+
+
+5.2
+
+
+5.3
+
+
+5.4
+
+5.5
+
+5.6
+
+5.7
+
+
+5.8
+
+
+5.9
+
+
+5.10
+
+5.11
+
+
+5.12
+
+
+5.13
+
+
+5.14
+
+Existen en la empresa áreas de control de calidad? Está separado del área de producción?
+
+De cuántas áreas dispone? El área condice con el volumen de las operaciones?
+
+Existe un organigrama? Hay una descripción de función para cada cargo?
+
+Control de calidad es independiente de la producción?
+
+El responsable de control de calidad a quién reporta?
+
+Cuál es la formación profesional del responsable del control de calidad?
+
+Qué cantidad de personal posee control de calidad y cuál es la formación de cada uno de ellos?
+
+En caso de no contar con laboratorio de control de calidad propio, debe (n) existir contrato(s) de control de calidad con terceros. Cuál(es) es(son) la(s) empresa(s) y que tipo de control(es) es(son) efectuados?
+
+Control de calidad es responsable de aprobar/rechazar productos terminados, semielaborados , acondicionados e insumos contratados por terceros?
+
+Existen equipamientos adecuados a los controles que son efectuados?
+
+Los equipos o aparatos están instalados de manera adecuada según las exigencias para su correcto funcionamiento?
+
+Hay un programa de mantenimiento preventivo y calibraciones claramente definido? Hay registros?
+
+Control de calidad es responsable de aprobar/rechazar productos terminados, semielaborados , acondicionados, insumos, material de envase y empaque?
+
+Existen procedimientos escritos con la descripción detallada del muestreo, método analítico y especificaciones para el control,  aprobación o rechazo de materias primas,  semielaborados y materiales de embalaje?
+
+
+5.15
+
+
+5.16
+
+
+5.17
+
+5.18
+
+
+5.19
+
+5.20
+
+5.21
+
+
+5.22
+
+
+5.23
+
+
+5.24
+
+
+5.25
+
+
+5.26
+
+
+Existen procedimientos escritos con la descripción detallada del muestreo, método analítico y especificaciones  para el control, aprobación o rechazo de productos terminados?
+
+Los métodos analíticos se consultan y siguen para la ejecución de los análisis?
+
+Control de calidad mantiene registros de los análisis efectuados ?
+
+El muestreo estadístico se efectúa por persona entrenada por control de calidad?
+
+Son conservadas las contramuestras de las materias primas empleadas?
+
+Está definido el tiempo y condiciones de conservación?
+
+Son conservadas las contramuestras de cada lote de los componentes del producto terminado? (Kit). En el caso de firmas importadoras, la conservación de las mismas, puede hacerse en el país de origen, debidamente documentada?
+
+Está definido el tiempo y condiciones de conservación?
+
+Existe procedimiento escrito detallando el plazo de recontrol de materias primas?
+
+Existen en la empresa patrones y materiales de referencia? Son conservados y utilizados de acuerdo a procedimientos previamente establecidos?
+
+Hay personal de Control de Calidad destinado a inspeccionar los procesos de fabricación?
+
+Control de calidad verifica toda la documentación del proceso de cada producto para certificar la correcta ejecución del mismo, así como la correcta investigación y solución de cualquier desvio del proceso?
+
+
+5.27
+
+
+5.28
+
+5.29
+
+5.30
+
+
+5.31
+
+
+5.32
+
+5.33
+
+
+5.34
+
+
+5.35
+
+5.36
+
+5.37
+Control de Calidad verifica si cada lote elaborado cumple con las especificaciones establecidas antes de ser liberados? Existen registros?
+
+Se efectúan ensayos microbiológicos en áreas adecuadas?
+
+Se efectúan ensayos biológicos en áreas adecuadas?
+
+Si existe un bioterio: Está ubicado fuera del predio?
+Si está dentro del predio, las instalaciones de ventilación y aire acondicionado están debidamente separadas de cualquier otro sistema?
+
+Existen normas y registros de condiciones ambientales, higiene, alojamiento, alimentación y salud de los animales de bioterio?
+
+El bioterio está limpio? Frecuencia de limpieza
+
+Existen áreas de experimentación animal? Están separadas del bioterio?
+
+Existe separación de los animales sometidos a ensayos previamente, de los que están en ensayo y de los que aún no han sido utilizados?
+
+Los animales de ensayo están identificados? Cómo?
+
+Existen registros de historia y uso de animales utilizados?
+
+Se siguen normas de Bioseguridad?
+
+
+\
+
+
+6.- GARANTIA DE CALIDAD
+
+
+6.1
+
+6.2
+
+
+6.3
+
+
+6.4
+
+
+6.5
+
+
+6.6
+
+
+6.7
+
+
+6.8
+
+
+6.9
+
+
+6.10
+
+
+6.11
+
+
+Existe en la empresa un programa de garantía de calidad?
+
+Existen normas escritas para la divulgación y cumplimiento de buenas prácticas de fabricación para todos los niveles?
+
+Existe en la empresa un área que coordine las actividades de garantía de calidad?
+
+Están claramente definidas las responsabilidades por la gestión de calidad?
+
+Existen procedimientos escritos o sistemas para avalar la efectividad y aplicabilidad de las normas y sistemas de garantía de calidad.?
+
+Existe un programa de entrenamiento del personal? Se llevan registros del entrenamiento de cada persona?
+
+Se desarrollan y proyectan los productos de acuerdo con los requisitos de buenas prácticas de fabricación?
+
+Los nuevos conocimientos adquiridos en los procesos o las adaptaciones y mejoras se implementan sólo después de una completa evaluación y aprobación ?
+
+Se realizan autoinspecciones periódicas para verificar el cumplimiento de buenas prácticas de fabricación ? Hay registros?
+
+Existe un programa escrito de estudio de la estabilidad de los productos con condiciones de ensayos, registro de los resultados, métodos analíticos usados, condiciones de conservación de las muestras, envases primarios, periodicidad de análisis y fecha de vencimiento?
+
+Se llevan registros de las quejas recibidas sobre la calidad de los productos o cualquier modificación de sus características físicas así como de las resoluciones tomadas?
+
+
+7.- ACTA DE INSPECCION
+
+
+7.1
+
+7.2
+
+7.3
+
+7.4
+
+
+7.5
+
+
+7.6
+
+
+7.7
+
+
+7.8
+
+
+7.9
+
+
+Nombre de la empresa
+
+Nombre del/los inspector/es
+
+Motivo de la Inspección y/o número de la órden de inspección.
+
+Nombre, cargo y formación profesional de las personas entrevistadas
+
+Se recogieron muestras de productos? Cuáles? Cuántas? Especificaciones de las muestras tomadas.
+
+Descripción de las observaciones efectuadas durante la Inspección. Descripción de los procedimientos operativos
+
+Plazo recomendado por el Inspector a las Autoridades Sanitarias para implementar las medidas correctivas en caso que correspondiera
+
+Comentarios sobre las observaciones del Inspector, por parte del responsable de la firma.
+
+Cierre del acta realizando un original y las copias correspondientes quedando en poder de la empresa una de ellas.
+
+
+CALIFICACION DE LOS ITEMS DEL DOCUMENTO "VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION EN ESTABLECIMIENTOS DE PRODUCTOS PARA DIAGNOSTICO USO "IN-VITRO"".
+
+
+Los ítems deben ser clasificados como:
+IMPESCINDIBLE - NECESARIO - RECOMENDABLE - INFORMATIVO - NO CORRESPONDE
+
+
+Las definiciones y los símbolos correspondientes a las mismas son:
+
+
+IMPRESCINDIBLE 	( I )
+Se considera como ítem Imprescindible aquel que, formando parte de las recomendaciones de las Buenas Prácticas de Fabricación y Control, puede influir en grado crítico en la calidad del producto y/o la seguridad de los trabajadores, como, así también, aquellos que respondan a exigencias jurídico-administrativas.
+
+NECESARIO			( N )
+Se considera como ítem Necesario aquel cuyo incumplimiento puede afectar significativamente la calidad del producto y/o la seguridad de los trabajadores.
+
+RECOMENDABLE		( R )
+Se considera como ítem Recomendable aquel cuyo incumplimiento puede afectar en grado no significativo la calidad del producto y/o la seguridad de los trabajadores.
+
+INFORMATIVA		( INF )
+Se considera como ítem Informativo aquel que expresa una información descriptiva y/o complementaria
+
+NO CORRESPONDE		(NC)
+Se considera como ítem No corresponde aquel que no debe ser considerado en la Inspección que se está llevando a cabo.
+
+
+1.-ADMINISTRACION E INFORMACION GENERAL
+
+
+PREGUNTAS
+ELABORADORES
+FRACCIONADORES
+IMPORTADORES
+1.1
+   INF
+    INF
+   INF
+1.2
+   N
+    N
+   N
+1.3
+   N
+    N
+   N
+1.4
+   I
+    I
+   I
+1.5
+   I
+    I
+   I
+1.6
+   R
+    R
+   R
+1.7
+   INF
+    INF
+   INF
+1.8
+   INF
+    INF
+   INF
+1.9
+   I
+    I
+   I
+1.10
+   I
+    I
+   I
+1.11
+   INF
+    INF
+   INF
+1.12
+   N
+    N
+   NC
+1.13
+   INF
+    INF
+   INF
+1.14
+   INF
+    INF
+   INF
+1.15
+   INF
+    INF
+   INF
+
+
+1..A -        CONDICIONES       EXTERNAS
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+1.A.1
+   R
+    R
+   R
+1.A.2
+   N
+    N
+   N
+1.A.3
+   R
+    R
+   R
+1.A.4
+   R
+    R
+   R
+
+
+1.B. -
+
+
+CONDICIONES
+
+
+INTERNAS
+
+
+1.B.1
+   N
+    N
+   N
+1.B.2
+   N
+    N
+   N
+1.B.3
+   N
+    N
+   N
+1.B.4
+   N
+    N
+   N
+1.B.5
+   N
+    N
+   R
+1.B.6
+   N
+    N
+   N
+1.B.7
+   N
+    N
+   N
+1.B.8
+   INF
+    INF
+   INF
+1.B.9
+   N
+    N
+   N
+1.B.10
+   N
+    N
+   N
+1.B.11
+   INF
+    INF
+   INF
+1.B.12
+   INF
+    INF
+   INF
+1.B.13
+   INF
+    INF
+   INF
+1.B.14
+   R
+    R
+   INF
+1.B.15
+   INF
+    INF
+   INF
+1.B.16
+   INF
+    INF
+   INF
+1.B.17
+   INF
+    INF
+   INF
+
+2.- DEPOSITO
+
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+2.1
+   I
+    I
+   I
+2.2
+   I
+    I
+   I
+2.3
+   INF
+    INF
+   INF
+2.4
+   I
+    I
+   I
+2.5
+   R
+    R
+   R
+2.6
+   R
+    R
+   NC
+2.7
+   N
+    N
+   N
+2.8
+   N
+    N
+   N
+2.9
+   I
+    I
+   I
+2.10
+   I
+    I
+   I
+2.11
+   I
+    I
+   I
+2.12
+   N
+    N
+   N
+2.13
+   N
+    N
+   N
+2.14
+   N
+    N
+   N
+2.15
+   I
+    I
+   I
+2.16
+   N
+    N
+   N
+
+
+2.A.- RECEPCION Y ALMACENAMIENTO DE INSUMOS
+
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+2.A.1
+   N
+    N
+   NC
+2.A.2
+   N
+    N
+   NC
+2.A.3
+   N
+    N
+   NC
+2.A.4
+   I
+    I
+   NC
+2.A.5
+   I
+    I
+   NC
+2.A.6
+   N
+    N
+   NC
+2.A.7
+   N
+    N
+   NC
+2.A.8
+   N
+    N
+   NC
+2.A.9
+   N
+    N
+   NC
+2.A.10
+   I
+    I
+   NC
+2.A.11
+   N
+    N
+   NC
+2.A.12
+   R
+    R
+   NC
+2.A.13
+   N
+    N
+   NC
+
+
+2.B. - RECEPCION Y ALMACENAMIENTO DE PRODUCTOS TERMINADOS
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+2.B.1
+   N
+    N
+   N
+2.B.2
+   N
+    N
+   N
+2.B.3
+   N
+    N
+   N
+2.B.4
+   N
+    N
+   N
+2.B.5
+   I
+    I
+   I
+2.B.6
+   R
+    R
+   R
+2.B.7
+   INF
+    INF
+   INF
+
+
+2.C. - DEVOLUCIONES
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+2.C.1
+   N
+    N
+   N
+2.C.2
+   N
+    N
+   N
+2.C.3
+   N
+    N
+   N
+2.C.4
+   N
+    N
+   N
+2.C.5
+   N
+    N
+   N
+2.C.6
+   I
+    I
+   I
+2.C.7
+   R
+    R
+   R
+
+
+2.D.- RECOLECCION DE PRODUCTOS DEL MERCADO
+
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+2.D.1
+   N
+    N
+   N
+2.D.2
+   N
+    N
+   N
+2.D.3
+   N
+    N
+   N
+2.D.4
+   N
+    N
+   N
+2.D.5
+   N
+    N
+   N
+2.D.6
+   N
+    N
+   N
+2.D.7
+   R
+    R
+   R
+2.D.8
+   I
+    I
+   I
+2.D.9
+   I
+    I
+   I
+2.D.10
+   N
+    N
+   N
+2.D.11
+   N
+    N
+   N
+2.D.12
+   I
+    I
+   I
+
+
+3.- SISTEMA E INSTALACIONES DE AGUA
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+3.1
+   INF
+   INF
+   INF
+
+
+3.A - AGUA POTABLE
+
+PREGUNTAS
+ELABORADORES
+FRACCIONADORES
+IMPORTADORES
+3.A.1
+   INF
+    INF
+   INF
+3.A.2
+   INF
+    INF
+   INF
+3.A.3
+   INF
+    INF
+   INF
+3.A.4
+   R
+    R
+   INF
+3.A.5
+   N
+    N
+   INF
+3.A.6
+   N
+    N
+   INF
+3.A.7
+   N
+    N
+   INF
+3.A.8
+   N
+    N
+   INF
+
+
+3.B.- AGUA PURIFICADA
+
+3.B.1 - DEIONIZACION
+
+PREGUNTAS
+ELABORADORES
+FRACCIONADORES
+IMPORTADORES
+3.B.1.1
+   INF
+    INF
+   NC
+3.B.1.2
+   INF
+    INF
+   NC
+3.B.1.3
+   N
+    N
+   NC
+3.B.1.4
+   N
+    N
+   NC
+3.B.1.5
+   INF
+    INF
+   NC
+3.B.1.6
+   R
+    R
+   NC
+3.B.1.7
+   R
+    R
+   NC
+3.B.1.8
+   N
+    N
+   NC
+3.B.1.9
+   N
+    N
+   NC
+3.B.1.10
+   N
+    N
+   NC
+3.B.1.11
+   INF
+    INF
+   NC
+3.B.1.12
+   N
+    N
+   NC
+3.B.1.13
+   R
+    R
+   NC
+
+
+3.B.2 - OSMOSIS INVERSA
+
+PREGUNTAS
+ELABORADORES
+FRACCIONADORES
+IMPORTADORES
+3.B.2.1
+   INF
+    INF
+   NC
+3.B.2.2
+   INF
+    INF
+   NC
+3.B.2.3
+   INF
+    INF
+   NC
+3.B.2.4
+   INF
+    INF
+   NC
+3.B.2.5
+   R
+    R
+   NC
+3.B.2.6
+   R
+    R
+   NC
+3.B.2.7
+   N
+    N
+   NC
+3.B.2.8
+   N
+    N
+   NC
+3.B.2.9
+   N
+    N
+   NC
+3.B.2.10
+   INF
+    INF
+   NC
+3.B.2.11
+   N
+    N
+   NC
+3.B.2.12
+   R
+    R
+   NC
+
+
+3.C-  AGUA DESTILADA / BIDESTILADA
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-
+IMPORTADORES
+
+
+DORES
+
+3.C.1
+   INF
+   INF
+   NC
+3.C.2.
+   INF
+   INF
+   NC
+3.C.3.
+   INF
+   INF
+   NC
+3.C.4
+   INF
+   INF
+   NC
+3.C.5
+   N
+   N
+   NC
+3.C.6
+   R
+   R
+   NC
+3.C.7
+   N
+   N
+   NC
+3.C.8
+   N
+   N
+   NC
+3.C.9
+   N
+   N
+   NC
+3.C.10
+   INF
+   INF
+   NC
+3.C.11
+   N
+   N
+   NC
+3.C.12
+   R
+   R
+   NC
+
+
+3.D. - AGUA ESTERIL
+
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+3.D.1
+   INF
+    INF
+   NC
+3.D.2
+   INF
+    INF
+   NC
+3.D.3
+   INF
+    INF
+   NC
+3.D.4
+   INF
+    INF
+   NC
+3.D.5
+   N
+    N
+   NC
+3.D.6
+   I
+    I
+   NC
+3.D.7
+   N
+    N
+   NC
+3.D.8
+   R
+    R
+   NC
+
+
+4.- PRODUCCION
+
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+4.1
+   INF
+    INF
+   NC
+4.2
+   INF
+    INF
+   NC
+4.3
+   INF
+    INF
+   NC
+4.4
+   INF
+    INF
+   NC
+4.5
+   R
+    R
+   NC
+4.6
+   N
+    N
+   NC
+4.7
+   INF
+    INF
+   NC
+
+
+4.A.1 - FORMULA PATRON
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+4.A.1.1
+   I
+    I
+   NC
+4.A.1.2
+   N
+    N
+   NC
+4.A.1.3
+   N
+    N
+   NC
+4.A.1.4
+   I
+    I
+   NC
+4.A.1.5
+   N
+    N
+   NC
+4.A.1.6
+   N
+    N
+   NC
+4.A.1.7
+   N
+    N
+   NC
+4.A.1.8
+   N
+    N
+   NC
+4.A.1.9
+   N
+    N
+   NC
+4.A.1.10
+   N
+    N
+   NC
+4.A.1.11
+   N
+    N
+   NC
+4.A.1.12
+   N
+    N
+   NC
+4.A.1.13
+   N
+    N
+   NC
+4.A.1.14
+   N
+    N
+   NC
+4.A.1.15
+   I
+    I
+   NC
+4.A.1.16
+   N
+    N
+   NC
+
+
+4.A.2 - ORDEN DE FABRICACION
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+4.A.2.1
+   I
+    I
+   NC
+4.A.2.2
+   I
+    I
+   NC
+4.A.2.3
+   I
+    I
+   NC
+4.A.2.4
+   I
+    I
+   NC
+4.A.2.5
+   N
+    N
+   NC
+4.A.2.6
+   N
+    N
+   NC
+4.A.2.7
+   N
+    N
+   NC
+4.A.2.8
+   N
+    N
+   NC
+
+
+4.B.- AREA DE PESADAS Y MEDIDAS
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+4.B.1
+   N
+    N
+   NC
+4.B.2
+   N
+    N
+   NC
+4.B.3
+   N
+    N
+   NC
+4.B.4
+   N
+    N
+   NC
+4.B.5
+   I
+    I
+   NC
+4.B.6
+   N
+    N
+   NC
+4.B.7
+   N
+    N
+   NC
+4.B.8
+   N
+    N
+   NC
+4.B.9
+   N
+    N
+   NC
+4.B.10
+   R
+    R
+   NC
+4.B.11
+   N
+    N
+   NC
+4.B.12
+   N
+    N
+   NC
+
+
+4.C.- AREAS PRODUCTIVAS: ELABORACION / FRACCIONAMIENTO
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+4.C.1
+   INF
+    INF
+   NC
+4.C.2
+   I
+    I
+   NC
+4.C.3
+   INF
+    INF
+   NC
+4.C.4
+   R
+    R
+   NC
+4.C.5
+   INF
+    INF
+   NC
+4.C.6
+   R
+    R
+   NC
+4.C.7
+   I
+    I
+   NC
+4.C.8
+   N
+    N
+   NC
+4.C.9
+   I
+    I
+   NC
+4.C.10
+   N
+    N
+   NC
+4.C.11
+   N
+    N
+   NC
+4.C.12
+   N
+    N
+   NC
+4.C.13
+   N
+    N
+   NC
+4.C.14
+   R
+    R
+   NC
+4.C.15
+   N
+    N
+   NC
+4.C.16
+   N
+    N
+   NC
+4.C.17
+   N
+    N
+   NC
+4.C.18
+   N
+    N
+   NC
+4.C.19
+   N
+    N
+   NC
+4.C.20
+   R
+    R
+   NC
+4.C.21
+   N
+    N
+   NC
+4.C.22
+   INF
+    INF
+   NC
+4.C.23
+   N
+    N
+   NC
+4.C.24
+   N
+    N
+   NC
+4.C.25
+   INF
+    INF
+   NC
+4.C.26
+   R
+    R
+   NC
+4.C.27
+   INF
+    INF
+   NC
+
+
+4.D. - AREA DE LAVADO
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+4.D.1
+   N
+    N
+   NC
+4.D.2
+   R
+    R
+   NC
+4.D.3
+   R
+    R
+   NC
+4.D.4
+   R
+    R
+   NC
+4.D.5
+   N
+    N
+   NC
+4.D.6
+   INF
+    INF
+   NC
+4.D.7
+   N
+    N
+   NC
+4.D.8
+   N
+    N
+   NC
+
+
+4.E. - ACONDICIONAMIENTO
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+4.E.1
+   N
+    N
+   NC
+4.E.2
+   N
+    N
+   NC
+4.E.3
+   N
+    N
+   NC
+4.E.4
+   N
+    N
+   NC
+4.E.5
+   N
+    N
+   NC
+4.E.6
+   I
+    I
+   NC
+4.E.7
+   I
+    I
+   NC
+4.E.8
+   N
+    N
+   NC
+4.E.9
+   N
+    N
+   NC
+
+
+5.- CONTROL DE CALIDAD
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+5.1
+   I
+    I
+   I
+5.2
+   INF
+    INF
+   INF
+5.3
+   N
+    N
+   INF
+5.4
+   I
+    I
+   NC
+5.5
+   INF
+    INF
+   INF
+5.6
+   INF
+    INF
+   INF
+5.7
+   INF
+    INF
+   INF
+5.8
+   INF
+    INF
+   INF
+5.9
+   N
+    N
+   N
+5.10
+   N
+    N
+   N
+5.11
+   N
+    N
+   N
+5.12
+   I
+    I
+   I
+5.13
+   N
+    N
+   N
+5.14
+   N
+    N
+   NC
+5.15
+   N
+    N
+   N
+5.16
+   N
+    N
+   N
+5.17
+   N
+    N
+   N
+5.18
+   N
+    N
+   N
+5.19
+   R
+    NC
+   NC
+5.20
+   R
+    NC
+   NC
+5.21
+   N
+    N
+   N
+5.22
+   N
+    N
+   N
+5.23
+   R
+    NC
+   NC
+5.24
+   N
+    N
+   INF
+5.25
+   N
+    N
+   NC
+5.26
+   N
+    N
+   NC
+5.27
+   N
+    N
+   NC
+5.28
+   N
+    N
+   N
+5.29
+   N
+    N
+   N
+5.30
+   I
+    I
+   NC
+5.31
+   N
+    N
+   NC
+5.32
+   N
+    N
+   NC
+5.33
+   R
+    R
+   NC
+5.34
+   N
+    N
+   NC
+5.35
+   N
+    N
+   NC
+5.36
+   N
+    N
+   NC
+5.37
+   N
+    N
+   N
+
+
+6.- GARANTIA DE CALIDAD
+
+PREGUNTAS
+ELABORADORES
+FRACCIONA-DORES
+IMPORTADORES
+6.1
+   N
+    N
+   N
+6.2
+   N
+    N
+   NC
+6.3
+   N
+    N
+   N
+6.4
+   N
+    N
+   N
+6.5
+   N
+    N
+   N
+6.6
+   N
+    N
+   N
+6.7
+   N
+    N
+   NC
+6.8
+   R
+    R
+   NC
+6.9
+   R
+    R
+   NC
+6.10
+   N
+    N
+   NC
+6.11
+   N
+    N
+   N

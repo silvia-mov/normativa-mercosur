@@ -1,0 +1,376 @@
+Resolución GMC N° 04/11
+Título: MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 17/07/2011
+Vigencia: Vigente (Vigente desde el 14/03/2014 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 39619_RES_004-2011_ES_Modif NCM.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2464).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 04/11
+
+
+MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N° 07/94,  22/94 y 31/04 del Consejo del Mercado Común y la Resolución Nº 70/06 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que se hace necesario ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la "Modificación de la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común", en sus versiones en español y portugués, que figuran como Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, aprobadas por la presente Resolución, tendrán vigencia a partir de 01/X/2011, debiendo los Estados Partes asegurar su incorporación a sus respectivos ordenamientos jurídicos nacionales antes de esa fecha.
+
+
+LXXXIV GMC - Asunción, 17/VI/11.
+
+
+ANEXO
+
+SITUACIÓN ACTUAL
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC %
+NCM
+DESCRIPCIÓN
+AEC %
+2207.10.00
+- Alcohol etílico sin desnaturalizar con grado alcohólico volumétrico superior o igual al 80 % vol
+20
+2207.10
+- Alcohol etílico sin desnaturalizar con grado alcohólico volumétrico superior o igual al 80 % vol
+
+
+2207.10.10
+Con un contenido de agua inferior o igual a 1 % vol
+20
+
+
+2207.10.90
+Los demás
+20
+2207.20.10
+Alcohol etílico
+20
+2207.20.1
+Alcohol etílico
+
+
+2207.20.11
+Con un contenido de agua inferior o igual a 1 % vol
+20
+
+
+2207.20.19
+Los demás
+20
+2922.50.99
+Los demás
+2
+2922.50.3
+Tirosina y sus derivados; sales de estos productos
+
+
+2922.50.31
+Levodopa
+14
+
+
+2922.50.32
+Metildopa
+2
+
+
+2922.50.39
+Los demás
+2
+
+
+2922.50.99
+Los demás
+2
+2937.39
+- - Los demás
+
+2937.39.00
+- - Los demás
+2
+2937.39.1
+Tirosina y sus derivados; sales de estos productos
+
+2937.39.1
+SUPRIMIDO
+
+2937.39.11
+Levodopa
+14
+2937.39.11
+SUPRIMIDO
+
+2937.39.12
+Metildopa
+2
+2937.39.12
+SUPRIMIDO
+
+2937.39.19
+Los demás
+2
+2937.39.19
+SUPRIMIDO
+
+2937.39.90
+Los demás
+2
+2937.39.90
+SUPRIMIDO
+
+3003.39.93
+Levodopa; alfa-metildopa
+14
+3003.39.93
+SUPRIMIDO
+
+3003.90.49
+Los demás
+8
+3003.90.45
+Levodopa; alfa-metildopa
+14
+
+
+3003.90.49
+Los demás
+8
+3004.39.93
+Levodopa; alfa-metildopa
+14
+3004.39.93
+SUPRIMIDO
+
+3004.90.39
+Los demás
+8
+3004.90.35
+Levodopa; alfa-metildopa
+14
+
+
+3004.90.39
+Los demás
+8
+3002.10.36
+Interferón beta
+0
+3002.10.36
+Interferón beta; peg interferón alfa-2-a
+0
+3004.90.95
+Busulfano; dexormaplatino; dietilestilbestrol o su dipropionato; enloplatino; iproplatino; lobaplatino; miboplatino; miltefosina; mitotano; ormaplatino; peg interferón alfa 2-a; procarbazina o su clorhidrato; propofol; sebriplatino; zeniplatino
+0
+3004.90.95
+Busulfano; dexormaplatino; dietilestilbestrol o su dipropionato; enloplatino; iproplatino; lobaplatino; miboplatino; miltefosina; mitotano; ormaplatino; procarbazina o su clorhidrato; propofol; sebriplatino; zeniplatino
+
+
+0
+
+
+3003.39.1
+Que contengan hormonas polipeptídicas o proteicas
+
+3003.39.1
+Que contengan las siguientes hormonas polipeptídicas o proteicas: buserelina o su acetato; corticotropina (ACTH); gonadotropina coriónica (hCG); gonadotropina sérica (PMSG); leuprolide o su acetato; menotropinas; somatostatina o sus sales; somatotropina; triptorelina o sus sales
+
+3003.39.12
+HCG (gonadotropina coriónica)
+14
+3003.39.12
+Gonadotropina coriónica (hCG)
+14
+3003.39.14
+ACTH (corticotropina)
+8
+3003.39.14
+Corticotropina (ACTH)
+8
+3003.39.15
+PMSG (gonadotropina sérica)
+
+8
+3003.39.15
+Gonadotropina sérica (PMSG)
+
+8
+3003.39.2
+Que contengan hormonas polipeptídicas o proteicas, sin productos de la subpartida 3003.39.1
+
+3003.39.2
+Que contengan las demás hormonas polipeptídicas o proteicas, sin productos de la subpartida 3003.39.1
+
+3004.39.1
+Que contengan hormonas polipeptídicas o proteicas
+
+3004.39.1
+Que contengan las siguientes hormonas polipeptídicas o proteicas: buserelina o su acetato; corticotropina (ACTH); gonadotropina coriónica (hCG); gonadotropina sérica (PMSG); leuprolide o su acetato; menotropinas; somatostatina o sus sales; somatotropina; triptorelina o sus sales
+
+3004.39.12
+HCG (gonadotropina coriónica)
+14
+3004.39.12
+Gonadotropina coriónica (hCG)
+14
+3004.39.14
+ACTH (corticotropina)
+8
+3004.39.14
+Corticotropina (ACTH)
+8
+3004.39.15
+PMSG (gonadotropina sérica)
+
+8
+3004.39.15
+Gonadotropina sérica (PMSG)
+
+8
+3004.39.2
+Que contengan hormonas polipeptídicas o proteicas, sin productos de la subpartida 3004.39.1
+
+3004.39.2
+Que contengan las demás hormonas polipeptídicas o proteicas, sin productos de la subpartida 3004.39.1
+
+8443.32.37
+Las demás, con ancho de impresión superior a 420 mm
+
+
+0 BIT
+8443.32.37
+Térmicas, de los tipos utilizados en la impresión de imágenes para diagnóstico médico en hojas revestidas con capa termosensible
+0 BIT
+
+
+8443.32.38
+Las demás, con ancho de impresión superior a 420 mm
+0 BIT
+8443.32.39
+Las demás
+16 BIT
+8443.32.39
+Las demás
+16 BIT
+8443.99.33
+Cartuchos de revelador o de virador ("toner")
+0 BIT
+8443.99.33
+Cartuchos de revelador ("toner")
+0 BIT
+
+
+8534.00.00
+CIRCUITOS IMPRESOS.
+10 BIT
+8534.00
+CIRCUITOS IMPRESOS.
+
+
+8534.00.1
+Simple faz, rígidos
+
+
+8534.00.11
+Con aislante de resina fenólica y papel celulósico
+10 BIT
+
+
+8534.00.12
+Con aislante de resina epoxi y papel celulósico
+10 BIT
+
+
+8534.00.13
+Con aislante de resina epoxi y tejido de fibra de vidrio
+10 BIT
+
+
+8534.00.19
+Los demás
+10 BIT
+
+
+8534.00.20
+Simple faz, flexibles
+10 BIT
+
+
+8534.00.3
+Doble faz, rígidos
+
+
+8534.00.31
+Con aislante de resina fenólica y papel celulósico
+10 BIT
+
+
+8534.00.32
+Con aislante de resina epoxi y papel celulósico
+10 BIT
+
+
+8534.00.33
+Con aislante de resina epoxi y tejido de fibra de vidrio
+10 BIT
+
+
+8534.00.39
+Los demás
+10 BIT
+
+
+8534.00.40
+Doble faz, flexibles
+10 BIT
+
+
+8534.00.5
+Multicapas
+
+
+8534.00.51
+Con aislante de resina epoxi y tejido de fibra de vidrio
+10 BIT
+
+
+8534.00.59
+Los demás
+10 BIT
+8708.40.90
+Las demás cajas de cambio; partes
+18
+8708.40.80
+Las demás cajas de cambio
+18
+
+
+8708.40.90
+Partes
+18
+9018.19.30
+Cámaras Gamma
+0 BK
+9018.14.20
+Cámaras gamma
+0 BK
+
+
+9018.19.30
+SUPRIMIDO
+
+
+3

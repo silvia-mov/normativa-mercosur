@@ -1,0 +1,254 @@
+Resolución GMC N° 06/08
+Título: DIRECTRICES PARA ARMONIZAR LOS CRITERIOS UTILIZADOS EN EL DISEÑO DE LOS SITIOS WEB DE LOS ÓRGANOS Y FOROS DEL MERCOSUR
+Fecha de aprobación: 20/06/2008
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 32/22 Estuvo vigente desde su aprobación el 20/06/2008 (Art. 5 inc. a) de la Dec. CMC Nº 23/00) – hasta el 03/12/2022.)
+Idioma del texto: ES
+Archivo original: 4526_RES_006-2008_ES_Diretrices Sitio Web.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/298).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 06/08
+
+
+DIRECTRICES PARA ARMONIZAR LOS  CRITERIOS UTILIZADOS EN EL DISEÑO DE LOS SITIOS WEB DE LOS ÓRGANOS Y FOROS DEL MERCOSUR
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 59/00 y Nº 07/07 del Consejo del Mercado Común y la Resolución  Nº 155/96 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Secretaría del MERCOSUR tiene asignadas las tareas de mantenimiento y actualización del sitio Web del MERCOSUR;
+
+Que el carácter abierto del sitio mencionado permite reunir múltiples aplicaciones, potencialmente independientes desde el punto de vista funcional;
+
+Que la independencia funcional, necesaria para la descentralización del desarrollo de sub-sitios y aplicaciones Web, no debería traducirse en una inconsistencia visual que menoscabe la calidad del producto global;
+
+Que se hace necesario contar con guías y procedimientos que estandaricen los criterios utilizados para el diseño de nuevas interfaces;
+
+Que en la LII Reunión del GMC se recibió el instructivo, elaborado por el SGT Nº 2,  respecto a los lineamientos para la divulgación de información a través de la página Web de la Secretaría del MERCOSUR por parte de los órganos y foros del MERCOSUR
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar las "Directrices para armonizar los  criterios utilizados en el diseño de los sitios Web de los órganos y foros del MERCOSUR", que constan como Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Esta Resolución no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+LXXII GMC  - Buenos Aires, 20/VI/08
+
+
+ANEXO
+
+DIRECTRICES PARA ARMONIZAR LOS  CRITERIOS UTILIZADOS EN EL DISEÑO DE LOS SITIOS WEB DE LOS ÓRGANOS Y FOROS DEL MERCOSUR
+
+
+Objetivos
+
+El primer objetivo en el diseño de la interfaz de las aplicaciones que publica el sitio Web de la Secretaría del MERCOSUR (en adelante Sitio Web) será maximizar la usabilidad del producto. El término usabilidad hace referencia a la capacidad de una interfaz de:
+
+- facilitar su aprendizaje,
+- ser eficiente,
+- ser mnemotécnica,
+- desconsiderar los errores de los usuarios,
+- proporcionar satisfacción.
+
+El segundo objetivo será respetar el diseño visual del Sitio Web considerando la:
+
+- organización (proveyéndole al usuario una clara y consistente estructura conceptual),
+- economía (maximizando la efectividad de un conjunto mínimo de elementos visuales),
+- comunicación (haciendo corresponder la interfaz gráfica a las capacidades del usuario).
+
+A Metodología
+
+El diseño de la interfaz se basará en ciertos criterios y best-practices aplicables al diseño de interfaces de las aplicaciones web 2.0, clasificables en:
+
+
+1) Adaptabilidad del diseño
+
+Relacionados con la capacidad del diseño para adaptarse a la diversidad de aplicaciones (y sus posibles configuraciones) que permiten acceder a la Web.
+
+2) Uniformizado y maximización de los tiempos de respuesta
+
+Relacionados con la consideración de que los usuarios tienen un límite tanto en su capacidad de mantenerse enfocados, como en el tiempo de espera de una respuesta.
+
+
+3) Simplificación del acceso a la información
+
+Relacionados con las facilidades que proporciona la interfaz del sitio para maximizar la velocidad y la convergencia del proceso de búsqueda de un determinado contenido.
+
+4) Legibilidad y presentación del contenido
+
+Relacionados con la forma de presentar el contenido y su calidad, para maximizar la permanencia de los usuarios en el sitio y, a la vez, proporcionarles un incentivo para que retornen, procurando convertir a los visitantes del sitio en clientes E intentando maximizar la penetrabilidad de un determinado producto o servicio en el mercado objetivo.
+
+Estos criterios se desglosan en:
+
+ Adaptabilidad del diseño
+
+* Diseño orientado a múltiples plataformas
+
+El diseño debe ser independiente de la resolución de la plataforma de acceso a la Web y, en general, debe ser contemplativo de sus múltiples configuraciones.
+
+Dada la coexistencia de una variedad de navegadores Web con múltiples versiones, se exige que los sitios desarrollados operen con al menos: Internet Explorer, en sus versiones 6 y 7, y Mozilla Firefox, en sus versiones 1.5 y 2.
+
+* Separación del contenido de la presentación
+
+Se sugiere que la estructura visual de las aplicaciones emplee una correcta combinación de XHTML utilizando codificación semántica, CSS y Javascript no obstrusivo con la finalidad de separar la presentación del contenido.
+
+ Uniformizado y maximización de los tiempos de respuesta
+
+* Respuesta rápida
+
+Se debe intentar minimizar el tiempo de respuesta procurando que no supere los 10 segundos, siendo conveniente, disminuir el peso de las páginas, reutilizar imágenes y reducir al máximo la cantidad de datos transferidos desde un web service a la página (a través de una solicitud XML/HTTP). En este último caso, se conviene en que el protocolo de transferencia minimice la cantidad de datos transferidos.
+
+
+* Tiempos predecibles
+
+Se recomienda minimizar la variabilidad entre los tiempos de respuestas a diferentes consultas. Cuando la regularidad aumenta, la ansiedad de los usuarios disminuye.
+
+* Tiempo de descarga
+
+Se debe informar al usuario si el tiempo de descarga podría llegar a ser demasiado extenso.
+
+ Simplificación del acceso a la información
+
+* Máximo provecho de hipervínculos
+
+El usuario debe conocer a dónde conducen los hipervínculos. Para ello, se deben evitar las descripciones del estilo "haz clic aquí".
+
+Se deben agregar tooltips a los hipervínculos que describan muy brevemente el destino al cual conducen.
+
+      Se deben evitar links redundantes.
+
+* Soporte de navegación ("Usted está aquí")
+
+Deben existir opciones de navegación que le den al usuario la opción de elegir a dónde ir. Cada página debe responder a las preguntas: ¿dónde estoy? y ¿qué hace este sitio?
+
+En este sentido, la aplicación debe mostrar el camino recorrido; por ejemplo: /principal/documentos/actas/.
+
+* Navegación limpia
+
+La navegación debe ser simple, evitando modelos demasiado sofisticados como el uso de representaciones tridimensionales, reduciendo los artefactos de navegación y dejando solo aquellos que sean imprescindibles.
+
+* Máximo provecho de las funcionalidades de búsqueda
+
+Las consultas deben retornar resultados ordenados según algún criterio explícito (o implícito, pero inmediatamente deducible), evitando repeticiones.
+
+Si la respuesta involucra listas de elementos vinculados semánticamente, es conveniente presentarlos en formato tabular.
+
+La funcionalidad de búsqueda debe ser accesible desde todas las páginas.
+
+* Máximo provecho de las URL
+
+Se deben elegir URL fáciles de escribir, que mantengan relación con el contenido (por ejemplo, si el contenido es un currículum vitae, es preferible utilizar http://example.com/curriculum.html en lugar de http://example.com/p2.html).
+
+ Legibilidad y presentación del contenido
+
+* Escribiendo para la Web
+
+Para el contenido textual se aplicara el mismo principio que inspira a otros criterios: apelar a la simplicidad. Se deben escribir párrafos cortos para no obligar a los usuarios a leer demasiada información de corrido. Además, el texto debe evitar el uso de metáforas que puedan confundir al usuario (por ejemplo, "Error: Sched server socket read timeout").
+
+En cuanto a la calidad del texto, se deben evitar errores y faltas de ortografía.
+
+* Título de página
+
+Se debe contar con un título que describe su contenido y que tenga una extensión. De entre 40 y 60 caracteres para explicar de qué se trata la página.
+
+* Titulares
+
+Los titulares (headlines) deben ser autodescriptivos y explicativos del contexto en el cual se encuentran. Es recomendable hacer que la primera palabra sea la más importante y, en el resto de la oración, evitar artículos.
+
+* Legibilidad del contenido
+
+Para aumentar la legibilidad, es recomendable:
+
+- utilizar texto positivo,
+- siempre evitar el movimiento del texto (marquesinas, parpadeos, etc.),
+- evitar texto en mayúsculas.
+
+* Obstáculos innecesarios
+
+Debe evitarse el scroll horizontal.
+
+* Diálogos emergentes
+
+Los diálogos emergentes o popups pueden resultar útiles, como mecanismo para reducir la cantidad de información presentada. Si se utiliza AJAX, el contenido de estos diálogos puede recuperarse cuando la aplicación lo demande.
+
+* Multimedia
+
+El contenido multimedia debe utilizarse con criterio, debido a que una saturación puede provocar demoras.
+
+En términos generales, deberán evitarse las imágenes en movimiento.
+
+B Diseño de la interfaz
+
+ Normalización para múltiples navegadores
+
+Para normalizar la forma en que los distintos navegadores renderizan las hojas de estilo, se define la siguiente directiva general a todas las aplicaciones:
+
+html, body, dl, dt, dd, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, label, legend, a {
+	margin: 0;
+	padding: 0;
+	border: 0;
+ Layout
+
+Generalidades
+
+El layout debe ser fluido y adaptable al frame del Sitio Web (y, por lo tanto, a la resolución del navegador del usuario).
+
+
+Debe estar estructurado en tres partes: encabezado, contenido y pie. El encabezado contiene los elementos de navegación y el título (titular o headline) de la funcionalidad. El cuerpo principal de la aplicación (formularios de búsqueda, contenido textual, etc.) debe estar dispuesto a continuación del encabezado. Finalmente, el pie es opcional, y puede utilizarse para proporcionar información adicional al usuario (condiciones de uso, preguntas frecuentes, disclaimers, etc.).
+
+
+Para lograr esta disposición, se sugiere utilizar la siguiente combinación de HTML y CSS:
+ HTML
+
+<body>
+	<div id="container">
+	<div id="header">
+	</div>
+	<div id="wrapper">
+	</div>
+	<div id="footer">
+	</div>
+	</div>
+</body>
+
+El elemento identificado como "container" contiene íntegramente el layout de la interfaz; "header" contiene el encabezado; "wrapper" contiene el contenido; "footer" contiene el pie.
+
+ CSS
+
+Consultas directas
+
+div#container {
+	width: 100%;
+}
+
+div#header {
+	width: 100%;
+}
+
+div#wrapper {
+	width: 100%;
+}
+
+div#footer {
+	width: 100%;
+}
+
+ Colores y tipografía
+
+Los colores a utilizar serán los siguientes (RGB):
+
+* Mostaza: 183 - 155 - 22
+* Azul: 10 - 42 - 101
+
+El tipo de letra a utilizar para el texto será Arial de tamaño 12.
+
+
+ Idioma
+
+Tanto las páginas como los menús deben estar en español o portugués, dependiendo del idioma definido por el usuario. Incluso los logos serán diferentes de acuerdo al idioma.
+
+
+5

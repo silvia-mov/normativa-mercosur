@@ -1,0 +1,513 @@
+Resolución GMC N° 128/96
+Título: REGLAMENTO TECNICO DE LÍMITES MÁXIMOS DE EMISIÓN DE GASES CONTAMINANTES Y RUIDO PARA VEHÍCULOS AUTOMOTORES
+Fecha de aprobación: 14/12/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 26857_RES_128-1996_ES_RT LimMaxEmisionGasesYRuido.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2042).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 128/96
+
+REGLAMENTO TECNICO DE LIMITES MAXIMOS DE EMISION DE GASES CONTAMINANTES Y RUIDO PARA VEHICULOS AUTOMOTORES
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Resolución Nº 9/91 del Grupo Mercado Común y la Recomendación Nº 47/96 del SGT Nº 3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+Que los vehículos automotores, las motocicletas, motonetas, triciclos, ciclomotores, bicicletas con motor auxiliar y vehículos similares, deben cumplir una serie de requisitos técnicos en virtud de las legislaciones nacionales, entre ellos, los correspondientes a los LIMITES MAXIMOS DE EMISION DE GASES CONTAMINANTES y RUIDO PARA VEHICULOS AUTOMOTORES.
+
+Que estos requisitos difieren de un Estado Parte a otro, lo que puede crear una barrera técnica al intercambio comercial y a la libre circulación de vehículos, pudiendo así, ser eliminada a través de la adopción de los mismos requisitos técnicos para todos los Estados Partes, ya sea como complemento o en substitución de sus legislaciones actuales.
+
+Que se hace necesario armonizar los métodos de ensayo adoptados con relación a LIMITES MAXIMOS DE EMISION DE GASES CONTAMINANTES y RUIDO PARA VEHICULOS AUTOMOTORES.
+
+Que, para eso, es preciso adoptar las medidas necesarias destinadas al establecimiento progresivo de la integración sin fronteras, y que sea garantizada la libre circulación de bienes, servicios y factores productivos con la mayor fluidez.
+
+Que, para tal fin, los Estados Partes acordaron adecuar sus legislaciones, de modo a posibilitar el libre intercambio de vehículos, sus partes y sus repuestos.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1  - Los Estados Partes no podrán limitar o prohibir la libre circulación, homologación, certificación, venta, importación, comercialización, licencia y uso de los vehículos automotores que cumplan con el REGLAMENTO TECNICO DE LIMITES MAXIMOS DE EMISION DE GASES CONTAMINANTES Y RUIDO PARA VEHICULOS AUTOMOTORES, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes, a criterio de sus autoridades ambientales, pueden aceptar, alternativamente a los límites y procedimientos de esta Resolución, las homologaciones realizadas según procedimiento adoptado por la Comunidad Económica Europea, de acuerdo con las Directrices 91/441/CEE y 93/59/CEE o posteriores.
+
+Art. 3 - Se revocan las Resoluciones del GMC números 84/94, 85/94 y 86/94.
+
+
+Art. 4 - Los Estados Partes colocarán en vigencia las disposiciones reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución.
+
+Art. 5 - La presente Resolución entrará en vigencia el 1/1/97.
+
+XXIV GMC - Fortaleza, 13/12/96
+
+ANEXO
+
+REGLAMENTO TECNICO DE LIMITES MAXIMOS DE EMISION DE GASES CONTAMINANTES Y RUIDO PARA VEHICULOS AUTOMOTORES
+
+DE LA CLASIFICACION DE VEHICULOS
+
+Art. 1  - Establecer para el control de la emisión vehicular de gases, material en partículas y evaporatorio, la siguiente clasificación de los vehículos automotores, que entrará en vigencia a partir del 1º de enero del 2000.
+
+	§ 1O Vehículo liviano de pasajeros: vehículo automotor con peso total máximo autorizado de hasta 3856 kg. y peso del vehículo en orden de marcha de hasta 2720 kg., proyectado para el transporte de hasta 12 pasajeros, o sus derivados para el transporte de carga.
+
+	§ 2O Vehículo liviano comercial: vehículo automotor no derivado de vehículo liviano de pasajeros con peso total máximo autorizado de hasta 3856 kg. y peso del vehículo en orden de marcha de hasta 2720 kg., proyectado para el transporte de carga, o mixto o sus derivados, o proyectado para el transporte de más de 12 pasajeros, o aún con características especiales para uso fuera de carreteras.
+
+	§ 3º Vehículo pesado: vehículo automotor para el transporte de pasajeros y/o carga, con peso total máximo autorizado mayor a 3856 kg. o peso del vehículo en orden de marcha mayor a 2720 kg., proyectado para el transporte de pasajeros y/o carga.
+
+	§ 4O Vehículo de uso mixto: vehículo automotor con carrocería, destinado al transporte simultáneo o alternativo de pasajeros y carga en un mismo compartimiento, caracterizado por el hecho de tener acceso directo y que por lo menos la mitad de su capacidad de carga útil pueda ser instalada o adaptada para transporte de carga.
+
+	§ 5O Vehículo con características especiales para uso fuera de carretera:  vehículo que posee tracción en las cuatro ruedas y, como mínimo, cuatro de las siguientes características calculadas para el vehículo con el peso en orden de marcha, en superficie plana, con las ruedas delanteras paralelas a la línea del centro longitudinal del vehículo y los neumáticos inflados con la presión recomendada por el fabricante:
+
+* . ángulo de ataque mínimo 25º;
+* . ángulo de salida mínimo 20º;
+* . ángulo de transposición de rampa  mínimo 14º;
+* . altura libre del suelo entre los ejes, mínimo de 200      mm;
+* . altura libre del suelo bajo los ejes delantero y trasero mínimo de 180 mm.
+
+DE LAS DEFINICIONES
+
+Art. 2º - Adoptar las siguientes definiciones a los efectos de esta Resolución.
+
+	§ 1º - Peso total máximo autorizado - peso máximo del vehículo definido por la legislación competente para las condiciones de operación por ella establecida, resultante de la suma del peso del vehículo en orden de marcha con la capacidad de carga del vehículo.
+
+	§ 2º - Peso del vehículo en orden de marcha - peso del vehículo con carrocería y dotado de todos los equipos eléctricos y auxiliares necesarios para el funcionamiento normal del vehículo, incrementados con el peso de los elementos que el fabricante del vehículo provee como de serie u opcionales, y que deben ser listados y el peso de los siguientes elementos, cuando sean normalmente suministrados por el fabricante:
+
+* lubricantes;
+* líquido refrigerante;
+* líquido del limpia parabrisas;
+* combustible (tanque lleno, por lo menos con el 90% de la capacidad especificada por el fabricante);
+* rueda(s) auxiliar(es);
+* extintor(es) de incendio;
+* repuestos;
+* tacos de rueda;
+* juego de herramientas.
+
+	§ 3º - Peso del vehículo en orden de marcha para vehículos incompletos - debe ser declarado por el fabricante, considerando un peso típico para la aplicación.
+
+	§ 4º - Peso del vehículo para ensayo - peso del vehículo en orden de marcha agregándosele 136 kg.
+
+	§ 5º - dB(A)  - unidad del nivel de presión sonora en decibeles, ponderada por la curva de respuesta en frecuencia A, para cuantificación del nivel de ruido.
+
+	§ 6º - Gas del Cárter: substancias emitidas hacia la atmósfera, provenientes de cualquier apertura del sistema de lubricación o ventilación del cárter del motor.
+
+	§ 7º - Gas del Caño de Escape: substancias emitidas hacia la atmósfera, provenientes de cualquier apertura del sistema de escape a reflujo de la válvula de escape del motor.
+
+	§ 8º - Marcha Lenta: régimen de trabajo en que la velocidad angular del motor, especificado por el fabricante, debe ser mantenida dentro de ± 50 rpm y el motor debe estar operando sin carga y con los controles del sistema de alimentación de combustible, acelerador y toma de aire, en la posición de reposo.
+
+	§ 9º - Emisión evaporatoria de combustible: Substancias emitidas hacia la atmósfera provenientes de evaporación de combustible por los respiraderos, tapas y conexiones del tanque, carburador o sistema de inyección de combustible y sistemas de control de emisiones.
+
+DE LOS LIMITES DE EMISION DE CONTAMINANTES Y FECHAS DE IMPLANTACION
+
+Art. 3º Establecer los siguientes límites de emisión de contaminantes para vehículos livianos de pasajeros:
+
+Contaminantes
+Límites MERCOSUR(g/km)
+Fecha de Implantación
+Monóxido de carbono (CO)
+2,0
+
+Hidrocarburos (HC)
+0,3
+
+Óxidos de nitrógeno (NOx)
+0,6
+
+Aldehídos totales  (CHO)(1)
+0,03
+01.01.2000
+Material en partículas (2)(3)
+0,124
+
+CO en marcha lenta (1)
+0,5 %
+
+Emisión evaporatoria (1)
+6,0 g/ensayo
+
+Emisión de gas del cárter
+nula
+
+
+(1) Excepto para motores del ciclo Diesel
+(2) Solamente para motores del ciclo Diesel
+(3) Debido a la prohibición de la comercialización de vehículos livianos equipados con motor del ciclo Diesel, este límite no se aplica a Brasil.
+
+Art. 4º Establecer los siguientes límites de emisión de contaminantes para vehículos livianos comerciales:
+
+Vehículos livianos comerciales con peso de referencia para ensayo 1700 kg.
+Contaminantes
+Límites MERCOSUR(g/km)
+Fecha de Implantación
+Monóxido de carbono (CO)
+2,0
+
+Hidrocarburos (HC)
+0,3
+
+Óxidos de nitrógeno (NOx)
+0,6
+
+Aldehídos totales  (CHO) (1)
+0,03
+01.01.2000
+Material en partículas (2)
+0,124
+
+CO en marcha lenta (1)
+0,5 %
+
+Emisión evaporatoria (1)
+6,0 g/ensayo
+
+Emisión de gas del cárter
+nula
+
+(1)  Excepto para motores del ciclo Diesel
+(2)  Solamente para motores del ciclo Diesel
+
+Vehículos  livianos comerciales con peso de referencia para ensayo > 1700 kg
+Contaminantes
+Límites MERCOSUR(g/km)
+Fecha de Implantación
+Monóxido de carbono (CO)
+6,2
+
+Hidrocarburos (HC)
+0,5
+
+Óxidos de nitrógeno (NOx)
+1,4
+
+Aldehídos totales (CHO) (1) (2)
+0,06
+01.01.2000
+Material en partículas (3)
+0,16
+
+CO en marcha lenta (1)
+0,5 %
+
+Emisión evaporatoria (1)
+6,0 g/ensayo
+
+Emisión de gas del cárter (4)
+nula
+
+
+(1)  Excepto para vehículos con motores del ciclo Diesel
+(2)  O 0,10 g/km. cuando la suma de la emisión de hidrocarburos y aldehídos no exceda los 0,50 g/km.
+(3)  Solamente para vehículos con motores del ciclo Diesel
+(4)  Excepto para los motores del ciclo Diesel turbo-alimentados
+
+	Párrafo único - Los vehículos livianos comerciales, con motores del ciclo Diesel y peso total máximo autorizado mayor a 2000 kg, pueden atender a las exigencias para vehículos pesados, alternativamente a los procedimientos establecidos en este Artículo, cuando las características del motor permitan el ensayo, estando en este caso los motores turbo-alimentados dispensados de la exigencia de emisión nula de gases del cárter.
+
+Art. 5º Establecer los siguientes límites de emisión de contaminantes para vehículos pesados:
+
+Contaminantes
+Límites MERCOSUR (g/kWh)
+Fecha de Implantación (1)
+Monóxido de carbono (CO)
+4,0
+
+Hidrocarburos (HC)
+1,1
+
+Óxidos de nitrógeno (NOx)
+7,0
+01.01.2000
+Material en partículas (1)
+0,25/0,15 (2)
+
+Emisión de gas del cárter (3)
+Nula
+
+
+(1) aplicable solamente para motores de ciclo Diesel
+(2) 0,25 g/kWh para motores de hasta 0,7 dm³ por cilindro y rotación superior a 3000 rpm y 0,15 g/kWh para los demás motores
+(3) excepto para los motores del ciclo Diesel turbo-alimentados
+
+      Párrafo único - El límite de emisión de humo a plena carga se define en la tabla siguiente:
+
+Escape
+De aire
+Para Altitudes Menores o iguales a 350 m
+Para Altitudes Mayores a 350 m
+(l/s)
+Unid.Bosch (UB)
+Coeficiente Absorción de Luz
+( m-1 )
+Unid. Bosch (UB)
+Coeficiente Absorción de Luz
+ ( m-1 )
+ 42
+4,61
+2,26
+5,11
+2,94
+45
+4,55
+2,19
+5,05
+2,85
+50
+4,46
+2,08
+4,96
+2,71
+55
+4,37
+1,99
+4,87
+2,58
+60
+4,28
+1,90
+4,78
+2,47
+65
+4,22
+1,84
+4,72
+2,40
+70
+4,16
+1,78
+4,66
+2,31
+75
+4,10
+1,72
+4,60
+2,24
+80
+4,03
+1,67
+4,53
+2,17
+85
+3,98
+1,62
+4,48
+2,11
+90
+3,93
+1,58
+4,43
+2,05
+95
+3,88
+1,54
+4,38
+2,00
+100
+3,83
+1,50
+4,33
+1,95
+105
+3,79
+1,47
+4,29
+1,91
+110
+3,74
+1,43
+4,24
+1,86
+115
+3,70
+1,40
+4,20
+1,82
+
+120
+3,66
+1,37
+4,16
+1,78
+125
+3,63
+1,35
+4,13
+1,75
+130
+3,59
+1,32
+4,09
+1,72
+135
+3,57
+1,30
+4,07
+1,69
+140
+3,52
+1,27
+4,02
+1,65
+145
+3,49
+1,25
+3,99
+1,63
+150
+3,45
+1,23
+3,95
+1,60
+155
+3,42
+1,21
+3,92
+1,57
+160
+3,40
+1,19
+3,90
+1,55
+165
+3,37
+1,17
+3,87
+1,52
+170
+3,34
+1,16
+3,84
+1,50
+175
+3,32
+1,14
+3,82
+1,48
+180
+3,29
+1,13
+3,79
+1,46
+185
+3,27
+1,11
+3,77
+1,45
+190
+3,24
+1,10
+3,74
+1,43
+195
+3,21
+1,08
+3,71
+1,41
+ 200
+3,19
+1,07
+3,69
+1,39
+
+DE LOS LIMITES DE EMISION DE RUIDO Y FECHA DE IMPLANTACION
+
+Art. 6º - Establecer los siguientes límites de emisión de ruido dinámico para las categorías de vehículo automotor listadas abajo, para implantación a partir del 1º de enero del 2000.
+
+CATEGORIA DE VEHICULO
+
+dB(A)
+a) Vehículos para transporte de pasajeros con capacidad de hasta 9 asientos incluyendo el conductor y vehículos de uso mixto derivados de automóviles
+77
+b) Vehículos para transporte de pasajeros con capacidad superior a 09 asientos incluyendo el del conductor, vehículo de
+con peso máximo de hasta 2.000 kg.
+78
+carga o de tracción, vehículo de uso mixto no derivado del automóvil
+con peso máximo superior a 2.000 kg. y que no exceda los 3.500 kg.
+
+79
+c) Vehículos para transporte de pasajeros con capacidad superior a 09 asientos incluyendo el del conductor, vehículo de
+con motor de potencia máxima inferior a 150 kW (204 cv)
+
+80
+uso mixto, ambos, con el peso bruto total mayor a
+3.500 kg.
+con motor de potencia máxima igual o superior a 150 kW (204 cv)
+
+83
+
+con motor de potencia máxima inferior a 75 kW (102 cv)
+
+81
+d) Vehículos para transporte de carga o de tracción con peso bruto total superior a 3.500 kg.
+con motor de potencia máxima igual o superior a 75 kW (102 cv) y que no exceda 150 kW (204 cv)
+
+
+83
+
+con motor de potencia máxima igual o superior a 150 kW (204  cv)
+
+84
+
+	§ 1º - Para los vehículos con un peso máximo que no exceda los 3.500 Kg. equipados con motor del ciclo Diesel de inyección directa, los valores límites de la tabla, definida en la primera parte de este artículo, se incrementan en 1(un) dB(A).
+
+	§ 2º - El nivel de ruido del vehículo en condición de parado, es el valor de referencia del vehículo nuevo en el proceso de certificación. A este valor se agregará una tolerancia, a criterio de cada Estado Parte, para la fiscalización del vehículo en circulación.
+
+	§ 3º - Los vehículos con características especiales para uso fuera de carretera tendrán los límites de la tabla definida en la primera parte de este artículo, agregándoseles:
+
+I - 1 (un) dB (A) a aquellos con motor de potencia menor a 150 kW:
+
+II - 2 (dos) dB (A) a aquellos con motor de potencia igual o superior a 150 kW:
+
+Art. 7º Establecer, para motocicletas, motonetas, triciclos, ciclomotores, bicicletas con motor auxiliar y vehículos similares, los siguientes límites máximos de ruido con el vehículo  acelerado y parado.
+
+         Límites máximos de ruido MERCOSUR con el vehículo acelerado
+CATEGORIA
+ 1ª Fase dB(A) implantación 01/01/2000
+ 2ª Fase dB(A) implantación 01/01/2001
+Hasta 80 cm3
+77
+75
+81 cm3  a 125 cm3
+80
+77
+126 cm3  a 175 cm3
+81
+
+176 cm3  a 350 cm3
+82
+80
+Arriba de 350 cm3
+83
+
+
+	Párrafo Único - El nivel de ruido del vehículo parado, es el valor de referencia del vehículo nuevo en el proceso de certificación.
+
+DE LOS PROCEDIMIENTOS DE ENSAYO
+
+Art. 8º - Para atender a lo dispuesto en esta Resolución, serán adoptados como norma patrón para el MERCOSUR los procedimientos detallados en los párrafos de este artículo hasta que sean elaboradas las normas MERCOSUR específicas.
+
+      § 1º Las emisiones de monóxido de carbono (CO), hidrocarburos (HC) y óxidos de nitrógeno (NOx), deben ser medidas de acuerdo a la norma NBR 6601, de 1990 - Vehículos Carreteros Automotores Livianos - Determinación de Hidrocarburos, Monóxido de Carbono, Óxidos de Nitrógeno y Dióxido de Carbono en el Gas del Caño de Escape.
+
+	§ 2º Las emisiones de aldehídos totales (CHO) deben ser medidas de acuerdo a la norma NBR 12026, de 1990 - Vehículos Carreteros Automotores Livianos - Determinación de la Emisión de Aldehídos y Acetonas Contenidas en el Gas del Caño de Escape, por Cromatografía Líquida - Método DNPH.
+
+	§ 3º La emisión evaporatoria de combustible debe ser medida de acuerdo a la norma NBR 11481, de 1990 - Vehículos Carreteros Livianos - Medición de Emisión Evaporatoria.
+
+	§ 4º La emisión de monóxido de carbono en marcha lenta debe ser medida de acuerdo a la norma NBR 10972, de 1989 - Vehículos Carreteros Automotores Livianos - Medición de la Concentración de Monóxido de Carbono en el Gas del Caño de Escape en Régimen de Marcha Lenta - Ensayo de Laboratorio, actualizado por los proyectos de normas 05:017.01-004 - Analizador infrarrojo de monóxido de carbono (CO), hidrocarburos (HC) y dióxido de carbono (CO2), contenidos en el gas del caño de escape de vehículos automotores livianos - Especificación y 05:017.01-005 - Analizador de infrarrojo de monóxido de carbono (CO), hidrocarburos (HC) y dióxido de carbono (CO2) contenidos en el gas del caño de escape de vehículos automotores livianos - método de ensayo.
+
+	§ 5º Los ensayos para medición de los niveles de ruido para fines de esta Resolución, deberán ser realizados de acuerdo con las normas brasileñas NBR-8433 - Ruido Emitido de Vehículos Automotores en Aceleración - Método de Ensayo y NBR-9714 - Ruido Emitido de Vehículos Automotores en Condición Parado - Método de Ensayo, con referencia a la medición de ruido en las proximidades del caño de escape.
+
+	I - Los niveles de ruido en aceleración, medidos conforme la NBR-8433, también deben considerar todas las modificaciones establecidas por las Directivas 87/56/CEE, del
+18 de diciembre de 1986 y 84/424/CEE, del 3 de setiembre de 1984, de la Comunidad Económica Europea.
+
+	II - Los vehículos equipados con sistema de transmisión con relación variable continua, deben ser ensayados de la misma forma que los vehículos equipados con caja de cambios sin selector manual.
+
+	III - La posición del micrófono para medición del ruido en las proximidades del caño de escape, debe estar de acuerdo con la NBR-9714.
+
+	§ 6º - Las emisiones de monóxido de carbono (CO), hidrocarburos (HC) y óxidos de nitrógeno (NOX), en los motores de vehículos pesados, se expresan en g/kWh y deben ser medidas de acuerdo a las Normas NB-1192, de 1992 - Determinación de la Emisión del Gas de Escape Emitidos por Motor Diesel y MB-3295, de 1990 - Motor Diesel - Análisis de Gases de Escape y el material en partículas (MP) debe ser medido de acuerdo al Anexo V, ítem 2, de la Directriz del Consejo de Comunidades Económicas Europeas, nº 91/542/CEE de 01/10/1991 apéndice a la Directiva 88/77/EEC o Proyectos de Norma 05.017.02-006 Motor Diesel - Análisis del Material en Partículas del Gas de Escape y 05.017.02-007 Determinación del Material en Partículas Emitido por Motor del Ciclo Diesel - Ciclo de 13 Puntos.
+
+	§ 7º - El límite de emisión de humo a plena carga será determinado de acuerdo con las normas y sus actualizaciones, prescritas en la Resolución CONAMA nº 8, del 31 de agosto de 1993, artículo 6º, § 1º, basado en el Reglamento 24.03 de la Comisión Económica para Europa.
+
+DE LAS DISPOSICIONES GENERALES
+
+Art. 9º - Hasta el 31 de diciembre de 1999, cada Estado Parte se compromete a extender la validez de sus certificaciones de los vehículos livianos comerciales y de los vehículos de transporte de carga derivados de automóviles, que ya estén certificados hasta el 31 de diciembre de 1996.
+
+
+2

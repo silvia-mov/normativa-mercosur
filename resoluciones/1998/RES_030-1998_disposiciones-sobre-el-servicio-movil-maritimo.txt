@@ -1,0 +1,1259 @@
+Resolución GMC N° 30/98
+Título: DISPOSICIONES SOBRE EL SERVICIO MÓVIL MARÍTIMO EN LA BANDA DE VHF
+Fecha de aprobación: 22/07/1998
+Vigencia: Vigente (Vigente desde el 26/05/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 21953_RES_030-1998_ES_Disp-Serv_Móvil Marítimo_Banda VHF_Acta 2_98.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1621).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES. Nº 30/98
+
+DISPOSICIONES SOBRE EL SERVICIO MÓVIL MARÍTIMO EN LA BANDA DE VHF
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones  Nº  38/95, 15/96 y 20/96 del Grupo Mercado Común, el Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones y la Recomendación Nº 2/98 del SGT Nº 1 "Comunicaciones".
+
+CONSIDERANDO:
+
+Que el Artículo 7 "Acuerdos especiales" del Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones establece que dos o más miembros podrán, en el marco de las disposiciones del artículo 31 del Convenio concerniente a los arreglos particulares, concertar acuerdos especiales en lo referente a la distribución de subdivisiones en las bandas o para la asignación de frecuencias entre los servicios interesados de dichos países, siempre que no estén en contraposición con las disposiciones del Reglamento.
+
+Que a efectos de lograr una adecuada operación y coordinación del uso de los canales en la Banda de 156,000 a 162,050 MHz. atribuidos al Servicio Móvil Marítimo surge la necesidad de asegurar el desarrollo y la optimización del uso del espectro radioeléctrico en las zonas de compartición limítrofes, impulsando las nuevas tecnologías y criterios técnicos  para el bienestar común de los Pueblos e integración de los mismos.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar las Disposiciones sobre Adjudicación de Canales Radioeléctricos en el Servicio Móvil Marítimo en la Banda de 156,000 a 162,050 MHz especificados en el Apéndice 18 del Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones (Ap. 18 RR UIT), que figura como Anexo, en sus versiones en español y portugués, y forma parte de la presente Resolución.
+
+Art. 2 - A efectos del cumplimiento de la presente Resolución, establécese que la Zona de Coordinación será la comprendida dentro del área geográfica de 100 Kms. medidos desde la línea de frontera hacia adentro de cada país.
+
+Art. 3 - Facúltase al SGT-1 "Comunicaciones" a realizar las coordinaciones entre las Administraciones a efectos de las notificaciones pertinentes a la Unión Internacional de Telecomunicaciones y mantener actualizada las Disposiciones aprobadas por la presente Resolución acorde al Reglamento UIT.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del día 23/XI/98.
+
+
+XXX GMC - Buenos Aires, 22/VII/98
+
+
+DISPOSICIONES ENTRE LOS GOBIERNOS  DE LA REPÚBLICA ARGENTINA, REPÚBLICA FEDERATIVA DEL BRASIL, REPÚBLICA DEL PARAGUAY Y REPÚBLICA ORIENTAL DEL URUGUAY POR LAS QUE SE COORDINA LA ADJUDICACIÓN DE LOS CANALES PARA EL SERVICIO MÓVIL MARÍTIMO EN LA BANDA DE 156,000 A 162,050 MHz.
+PREÁMBULO
+Los Gobiernos de la República Argentina, de la República Federativa del Brasil, de la República del Paraguay y de la República Oriental del Uruguay, considerando la necesidad de asegurar el desarrollo y la optimización en el uso del espectro Radioeléctrico en las zonas de compartición limítrofes, impulsando las nuevas tecnologías y criterios técnicos para el bienestar común de los Pueblos e integración de los mismos, DECIDEN aprobar las Disposiciones sobre Adjudicación de Canales Radioeléctricos en el Servicio Móvil Marítimo en la Banda de 156,000  a  162,050 MHz. especificados en el Apéndice 18 del Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones (Ap. 18 RR UIT).
+ARTICULO l
+
+Objeto de las Disposiciones
+Las presentes Disposiciones tienen por objeto la coordinación y operación de los Canales Radioeléctricos atribuidos al Servicio Móvil Marítimo en las zonas de coordinación establecidas en el mismo.
+En el caso de que futuras Conferencias Mundiales de Radiocomunicaciones (CMR) modifiquen el Ap. 18 RR UIT, las Partes se obligan a revisar las presentes Disposiciones, cabiendo esta tarea a las Administraciones.
+
+ARTICULO II
+Definiciones
+
+1.- Administración: Es el Organismo Gubernamental de Telecomunicaciones de cada país, responsable del cumplimiento de las obligaciones del Convenio Internacional de Telecomunicaciones y competente para intervenir en las presentes Disposiciones.
+2.- Área de Servicio: Zona geográfica marítima, fluvial ó lacustre, dentro de la cual las intensidades de campo son iguales o superiores a la mínima necesaria para el normal desarrollo del Servicio.
+3.- Zona de Coordinación: Área geográfica dentro de la cual los firmantes se obligan a condicionar la operación en los canales atribuidos al Servicio Móvil Marítimo.
+4.- Los términos y símbolos utilizados en las presentes Disposiciones que no estuvieren definidos en las mismas, serán aplicados conforme están definidos en el Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones (RR).
+ARTICULO Ill
+Lista de Canales
+
+1. Las Partes convienen en confeccionar la lista de asignación para la operación de los canales radioeléctricos comprendidos en la banda de frecuencias de 156,000 MHz. a 162,050 MHz, que se incorporan como Anexo I a las presentes Disposiciones.
+
+2. Se faculta a las Administraciones Nacionales a realizar, de común acuerdo y utilizando criterios tendientes al uso eficaz del espectro radioeléctrico, nuevas incorporaciones o modificaciones en las características técnicas en la asignación de canales de las estaciones, de conformidad con las presentes Disposiciones.
+3. Los acuerdos bilaterales o trilaterales que se realicen, serán siempre sobre la base de no afectar a los otros miembros, debiendo realizarse las notificaciones correspondientes entre las Administraciones intervinientes para la actualización de estas Disposiciones.
+4. Se podrán realizar nuevas asignaciones o modificaciones de las características técnicas de las estaciones de conformidad con estas Disposiciones.
+ARTICULO IV
+
+Afectación de los Canales
+Los canales especificados en estas Disposiciones se utilizarán a título primario en el Servicio Móvil Marítimo, acorde a las condiciones establecidas en el Nº 613 (MOB-87) del Reglamento de Radiocomunicaciones, a las cuales deberán ajustarse estrictamente las Administraciones cuando asignen frecuencias de estas bandas a otros servicios distintos del Servicio Móvil Marítimo.
+En el Servicio de Correspondencia Pública, se observará lo establecido en el RR UIT Artículo 65, y en especial en los números 4906 y 4915.
+
+ARTICULO V
+Solución de Controversias
+Si surgiera una controversia entre alguna de las Partes signatarias de estas Disposiciones, las mismas deberán buscar una solución mediante los mecanismos de la negociación directa.
+Si mediante tales negociaciones, no se alcanzare un acuerdo o si la controversia fuera solucionada solo en parte, se aplicarán los procedimientos previstos en el sistema de solución de controversias vigente entre los Estados Partes del Tratado de Asunción.
+
+ARTICULO VI
+ Cooperación e Intercambio de Información
+Con el propósito de establecer un sistema de consulta permanente, las Partes se comprometen por intermedio de sus respectivas Administraciones, a intercambiar información y cooperar entre sí con el objeto de reducir al mínimo las interferencias perjudiciales y obtener la máxima eficiencia en el uso del espectro radioeléctrico.
+ARTICULO VII
+Notificaciones e Intercambio de Correspondencia.
+El intercambio de correspondencia y las notificaciones a que se refiere el Artículo VI, que se realicen en virtud de las presentes Disposiciones, deberán ser efectuadas entre las respectivas Administraciones  y enviadas a las respectivas direcciones que se indican en el ANEXO II, las cuales se considerarán válidas, en tanto no exista comunicación en contrario.
+
+ARTICULO VIII
+ Enmiendas
+Las enmiendas a las presentes Disposiciones y la Reglamentación de los Aspectos Técnicos inherentes a éstas, serán convenidas por consenso entre los cuatro Estados Partes e instrumentados jurídicamente mediante la suscripción de Proyectos Adicionales.
+ARTICULO IX
+Gestiones ante la Unión Internacional de Telecomunicaciones
+Las Administraciones se comprometen a efectuar las gestiones necesarias ante la UIT respecto de asignaciones ya notificadas con el fin de adecuar las inscripciones y tomar las medidas indispensables en concordancia con lo establecido en las presentes Disposiciones.
+
+ANEXO I
+	Clasificación RR				  U S O
+
+
+Nº de
+Canal
+
+Sx ó
+Dx
+
+
+EB
+
+
+OP
+
+
+MB
+
+
+CP
+
+
+Uruguay
+
+
+Argentina
+
+
+Brasil
+
+
+Paraguay
+
+
+60
+
+
+Dx
+
+
+17
+
+
+9
+
+
+22
+
+
+(3)
+
+
+01
+
+
+Dx
+
+
+10
+
+
+15
+
+
+8
+
+
+(3)
+
+
+61
+
+
+Dx
+
+
+23
+
+
+3
+
+
+17
+
+
+(3)
+
+
+02
+
+
+Dx
+
+
+8
+
+
+17
+
+
+10
+
+
+(3)
+
+
+62
+
+
+Dx
+
+
+20
+
+
+6
+
+
+20
+
+
+(3)
+
+
+03
+
+
+Dx
+
+
+9
+
+
+16
+
+
+9
+
+
+(3)
+
+
+63
+
+
+Dx
+
+
+18
+
+
+8
+
+
+21
+
+
+(3)
+
+
+04
+
+
+Dx
+
+
+11
+
+
+14
+
+
+7
+
+
+(3)
+
+
+64
+
+
+Dx
+
+
+22
+
+
+4
+
+
+18
+
+
+(3)
+
+
+05
+
+
+Dx
+
+
+6
+
+
+19
+
+
+12
+
+
+TRANSPORTE FLUVIAL
+
+
+OP  MB
+
+
+(3)
+
+
+65
+
+
+Dx
+
+
+21
+
+
+5
+
+
+19
+
+
+(3)
+
+
+Nº de
+Canal
+
+Sx ó
+Dx
+
+
+EB
+
+
+OP
+
+
+MB
+
+
+CP
+
+
+Uruguay
+
+
+Argentina
+
+
+Brasil
+
+
+Paraguay
+
+
+06
+
+Sx
+
+1
+
+
+EB
+
+66
+
+
+Dx
+
+
+19
+
+
+7
+
+
+(10) (4)
+
+
+07
+
+
+Dx
+
+
+7
+
+
+18
+
+
+11
+
+
+ANCAP
+
+
+Transp.
+Marítimos
+
+(3)
+
+
+Armada
+
+
+67
+
+
+Sx
+
+
+9
+
+
+10
+
+
+9
+
+
+ARMADA
+(2)
+
+OP
+Armada
+
+OP
+
+
+08
+
+
+Sx
+
+
+2
+
+
+EB
+
+
+68
+
+
+Sx
+
+
+6
+
+
+2
+
+
+PNN
+Seguridad
+Boya Petrolera
+
+Empresas
+ Petroleras
+
+OP  MB
+
+
+09
+
+
+Sx
+
+
+5
+
+
+5
+
+
+12
+
+
+PNN - PNA
+OP
+
+OP
+
+
+69
+
+
+Sx
+
+
+8
+
+
+11
+
+
+4
+
+
+Lanchas
+colectivas
+pasajeros
+
+CV y EB
+
+
+EB
+
+
+10
+
+
+Sx
+
+
+3
+
+
+9
+
+
+10
+
+
+ALTERNO LLAMADA CANAL 16
+
+
+70
+
+
+Sx
+
+
+LLAMADA SELECTIVA DIGITAL PARA SOCORRO, SEGURIDAD Y LLAMADA
+
+
+11
+
+
+Sx
+
+
+3
+
+
+1
+
+
+Seguri-
+dad
+P.N.N.
+
+
+OP
+
+
+71
+
+
+Sx
+
+
+7
+
+
+6
+
+
+CLUBES Y EMBARCACIONES DEPORTIVAS
+
+
+Nº de
+Canal
+
+Sx ó
+Dx
+
+
+EB
+
+
+OP
+
+
+MB
+
+
+CP
+
+
+Uruguay
+
+
+Argentina
+
+
+Brasil
+
+
+Paraguay
+
+
+12
+
+
+1
+
+
+3
+
+
+(1)
+
+Seguridad
+P.N.A.
+Exclusivo
+
+OP MB
+
+
+Seguridad
+
+
+72
+
+
+Sx
+
+
+6
+
+
+P.N.A.
+
+
+CV
+
+
+Armada
+
+
+13
+
+
+Sx
+
+
+4
+
+
+4
+
+
+5
+
+
+Seguridad
+P.N.N.
+
+
+SEGURIDAD
+ DE LA NAVEGACIÓN
+
+
+73
+
+
+Sx
+
+
+7
+
+
+12
+
+
+11
+
+
+Armada Radiofa-ros este Mvdeo
+Transporte
+fluvial
+de carga
+
+CV y MB
+
+
+MB
+
+
+14
+
+
+Sx
+
+
+2
+
+
+7
+
+
+(1)
+
+Seguridad
+P.N.A.
+
+
+Seguridad
+
+
+Armada
+
+
+74
+
+
+Sx
+
+
+8
+
+
+8
+
+
+CLUBES Y EMBARCACIONES DEPORTIVAS
+
+
+15
+
+
+Sx
+
+
+11
+
+
+14
+
+
+14
+
+
+BOLETINES METEOROLOGICOS  Y
+AVISOS A LOS NAVEGANTES  (2) (10)
+
+75
+
+
+BANDA DE GUARDA 156,7625 - 156,7875 MHz.
+
+
+16
+
+
+Sx
+
+
+SOCORRO SEGURIDAD Y LLAMADA
+
+
+76
+
+
+BANDA DE GUARDA 156,8125 - 156,8375 MHz.
+
+
+17
+
+
+Sx
+
+
+12
+
+
+13
+
+
+13
+
+
+(8)
+
+(8)
+Servicios de practicaje
+
+8)
+
+
+77
+
+
+Sx
+
+
+10
+
+
+(8)
+
+
+Nº de
+Canal
+
+Sx ó
+Dx
+
+
+EB
+
+
+OP
+
+
+MB
+
+
+CP
+
+
+Uruguay
+
+
+Argentina
+
+
+Brasil
+
+
+Paraguay
+
+
+18
+
+
+Dx
+
+
+3
+
+
+22
+
+
+TRANSPORTES
+PETROLEROS
+
+OP MB
+
+Clubes y
+Embarc..
+deport.
+
+78
+
+
+Dx
+
+
+12
+
+
+13
+
+
+23
+
+CLUBES Y
+EMBARCACIONES
+DEPORTIVAS
+
+CP
+
+Clubes y
+Embarc..
+deport.
+
+19
+
+
+Dx
+
+
+4
+
+
+21
+
+
+ARENERAS Y
+EMPRESAS DE
+DRAGADO
+
+CV
+
+
+79
+
+
+Dx
+
+
+14
+
+
+1
+
+
+COORDINACION ENTRE ARMADAS (4)
+
+
+20
+
+
+Dx
+
+
+1
+
+
+23
+
+
+M.T.O.P.
+Servicio
+Hidrogr.
+Empresa
+Remolcad. y Practicaje
+
+
+Armada
+
+
+80
+
+
+Dx
+
+
+16
+
+
+2
+
+
+(4)
+
+
+21
+
+
+Dx
+
+
+5
+
+
+20
+
+
+DIFUSION INFORMACION DE SEGURIDAD MARITIMA
+(2) (6)
+
+CV
+
+
+81
+
+
+Dx
+
+
+15
+
+
+10
+
+
+24
+
+CONTROL TRÁFICO
+CANAL MARTIN GARCIA (7)
+
+CP
+
+
+CV
+
+
+22
+
+
+Dx
+
+
+2
+
+
+24
+
+
+ADMINISTRACIÓN DE PUERTOS
+
+CV
+
+
+82
+
+
+Dx
+
+
+13
+
+
+11
+
+
+DIFUSION DE INFORMACION DE
+SEGURIDAD MARITIMA
+(4) (6)
+
+23
+
+
+Dx
+
+
+5
+
+
+CP (3)
+
+
+83
+
+
+Dx
+
+
+DIFUSION DE INFORMACION DE
+SEGURIDAD MARITIMA
+(4) (6)
+
+
+Nº de
+Canal
+
+Sx ó
+Dx
+
+
+EB
+
+
+OP
+
+
+MB
+
+
+CP
+
+
+Uruguay
+
+
+Argentina
+
+
+Brasil
+
+
+Paraguay
+
+
+24
+
+
+Dx
+
+
+4
+
+
+CP (3)
+
+
+84
+
+
+Dx
+
+
+24
+
+
+12
+
+
+13
+
+
+CP (3)
+
+
+25
+
+
+Dx
+
+
+3
+
+
+CP (3)
+
+
+85
+
+
+Dx
+
+
+15
+
+
+CP (3)
+
+
+26
+
+
+Dx
+
+
+1
+
+
+CP (3)
+
+
+86
+
+
+Dx
+
+
+(4)
+
+
+27
+
+
+Dx
+
+
+2
+
+
+CP (3)
+
+
+87
+
+
+Dx
+
+
+14
+
+
+CP (3)
+
+
+28
+
+
+Dx
+
+
+6
+
+
+CP (3)
+
+
+88
+
+
+Dx
+
+
+16
+
+
+(4)
+
+
+CP (3)
+
+
+NOTAS REFERENTES AL CUADRO
+
+(1) -   Los Canales 12 y 14 serán utilizados por la Prefectura Nacional Naval Uruguaya sólo para comunicaciones de regulación de tránsito fluvial en las zonas de los puentes FRAY BENTOS - PUERTO UNZUÉ y PAYSANDÚ - COLÓN y de la Represa de Salto Grande.-
+(2)  -  Las respectivas Prefecturas Nacionales (P.N.A. y P.N.N.), coordinarán los horarios de emisión.-
+(3) - Para efectuar comunicaciones de correspondencia pública dentro del Servicio Móvil Marítimo, se utilizarán canales dúplex según lo previsto en el numeral 4906 del Art. 65 del RR, debiéndose dar especial atención a lo indicado en el numeral 4915 del citado Artículo.
+(4) - Su uso estará sujeto a previa coordinación entre las Administraciones.-
+(5) - Este canal se explotará en SIMPLEX, utilizándose solamente la frecuencia correspondiente a la estación de barco.-
+(6) - Este canal se explotará en SIMPLEX UNIDIRECCIONAL, utilizándose solamente la frecuencia correspondiente a la estación costera.
+(7) - Este Canal estará reservado exclusivamente a las Autoridades argentinas y uruguayas de Control de Tráfico Marítimo en el Canal Martín García, en su zona de responsabilidad.
+(8) - Prioritario para coordinación entre Autoridades Marítimas para control de derrames de hidrocarburos.
+(9) - Este Canal podrá ser utilizado para las comunicaciones abordo, cuando no lo esté utilizando la autoridad responsable de la difusión de información de seguridad marítima.
+(10) - Canal destinado a las autoridades de Control de Tráfico en la Hidrovía Puerto Cáceres - Nueva Palmira. Fuera de este área de servicio, se utilizará para los fines de Correspondencia Pública.
+El orden de uso de los Canales, se ha establecido para la operación en dúplex (dos frecuencias), habiéndose alterado el orden de los canales de correspondencia pública 66, 82, 83 y 86 que se destinan para otros usos, como por ejemplo obras de carácter binacional, acorde a los números (4), (6) y (10).
+Abreviaturas:
+	CP - Correspondencia Pública
+	CV - Estaciones Costeras de Organismos Privados/Gobierno
+	EB - Entre Barcos
+	MB - Movimiento de Barcos
+	OP - Operaciones Portuarias
+	PNA - Prefectura Naval Argentina
+	PNN - Prefectura Nacional Naval de Uruguay
+
+
+ANEXO II
+
+DIRECCIONES
+
+
+ARGENTINA:
+Comisión Nacional de Comunicaciones
+Gerencia de Ingeniería
+Perú 103 - Piso 13
+1067 Buenos Aires
+
+BRASIL:
+Agência Nacional de Telecomunicações
+S.A.S. - Quadra 06 - Bloco H - 7 Andar
+70313-900 - Brasília/DF
+
+PARAGUAY:
+Comisión Nacional de Telecomunicaciones
+Departamento de Ingeniería del Espectro
+Yegros 437 y 25 de Mayo
+Edificio San Rafael - Piso 2
+Asunción
+
+URUGUAY:
+Dirección Nacional de Comunicaciones
+Bv. Artigas 1520
+Montevideo
+
+1
+
+
+1

@@ -1,0 +1,194 @@
+Resolución GMC N° 57/94
+Título: CRITERIOS PARA LA VALIDACIÓN DE METODOLOGÍAS ANALÍTICAS PARA LA DETERMINACIÓN DE RESIDUOS DE PRINCIPIOS ACTIVOS DE MEDICAMENTOS VETERINARIOS (RMV) EN PRODUCTOS DE ORIGEN ANIMAL
+Fecha de aprobación: 04/11/1994
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 29261_RES_057_1994_ES_CritparaValiddeMetAnal.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2138).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 57/94
+
+CRITERIOS PARA LA VALIDACIÓN DE METODOLOGÍAS ANALÍTICAS PARA LA DETERMINACIÓN DE RESIDUOS DE PRINCIPIOS ACTIVOS DE MEDICAMENTOS VETERINARIOS (RMV) EN PRODUCTOS DE ORIGEN ANIMAL
+
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, la Resolución Nº 91/93 del Grupo Mercado Común, y la Recomendación Nº 44/94 do SGT Nº 3 - "Normas Técnicas".
+
+CONSIDERANDO:
+
+La necesidad de fijar criterios para la validación de los métodos analíticos destinados a la determinación de residuos de principios activos de medicamentos veterinarios en productos de origen animal.
+
+Que la armonización de los criterios para la validación de métodos analíticos eliminará los obstáculos que generan las diferencias nacionales existentes al respecto.
+
+El GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR de Criterios para la Validación de Métodos Analíticos" que figura como Anexo de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para el cumplimiento de la presente Resolución, a través de los siguientes órganos:
+
+Argentina:
+
+Secretaría de Agricultura, Ganadería y Pesca.
+Servicio Nacional de Sanidad Animal (SENASA).
+
+Brasil:
+
+Ministério da Agricultura, do Abastecimento e da Reforma Agrária (MAARA)
+Ministério da Saúde (MS).
+
+Paraguay:
+
+Ministerio de Agricultura y Ganadería (MAG)
+Subsecretaría de Ganadería.
+
+
+Uruguay:
+
+Ministerio de Ganadería, Agricultura y Pesca.
+Dirección General de Servicios Ganaderos (MGAP/DGSG).
+
+Art. 3 - La presente Resolución entrará en vigor el día 1º de enero de 1995.
+
+
+XV GMC, Brasília, 4/XI/1994.
+
+
+ANEXO
+
+REGLAMENTO TECNICO MERCOSUR CRITERIOS PARA LA VALIDACION DE METODOS ANALITICOS
+
+1. Alcance
+
+1.1. Objetivo
+
+ Fijar criterios para validar metodologías analíticas para la determinación de Residuos de Principios Activos de Medicamentos Veterinarios (RMV) en Productos de Origen Animal.
+
+
+1.2. Ámbito de aplicación
+
+      El presente Reglamento se refiere a las Metodologías Analíticas utilizadas en los Programas de Control de Residuos de Medicamentos Veterinarios en Productos de Origen Animal comercializados en el ámbito del MERCOSUR.
+
+2. Definiciones
+
+      A efectos del presente Reglamento Técnico se considerarán las definiciones contenidas en el Glosario para Residuos de Medicamentos Veterinarios.
+
+3. Descripción
+
+3.1. Requisitos generales
+
+      Un método analítico debe estar descripto exhaustivamente de tal forma que en su texto se consideren los siguientes aspectos:
+
+3.1.1. Objetivos y alcance del método
+3.1.2. Reactivos y Materiales
+3.1.3. Instrumental
+3.1.4. Procedimiento.
+3.1.4.1. Toma y conservación de las muestras.
+3.1.4.2. Preparación de las muestras.
+3.1.4.3. Procedimientos de limpieza o purificación.
+3.1.4.4. Procedimientos para la identificación y cuantificación del analizado.
+3.1.5. Resultados.
+3.1.5.1. Criterios de aceptabilidad de los resultados (validación de resultados).
+3.1.5.2. Forma y consideraciones para la emisión correcta del protocolo analítico.
+3.1.5.3. Control de calidad Intralaboratorio.
+- Recuperación media del analizado
+- Coeficiente de variación para la repetibilidad.
+- Cartas de control (valor medio y rango).
+3.1.5.4. Control de calidad Interlaboratorio
+- Coeficiente de variación para la reproducibilidad.
+3.1.5.5. Acciones Correctivas
+3.1.5.6. Referencias Bibliográficas.
+
+3.2. Requisitos específicos
+
+3.2.1. Métodos de selección
+
+A los efectos de la aplicación de la presente norma los métodos de selección serán clasificados en:
+
+a) Métodos no cuantitativos y/o semicuantitativos.
+b) Métodos cuantitativos.
+
+Los métodos de selección deben cumplir con los siguientes requisitos:
+
+3.2.1.1. Especificidad.
+      Debe ser definida.
+3.2.1.2. Exactitud y precisión
+
+A) Métodos de selección no cuantitativos y/o semicuantitativos.
+
+                  A 1) Una característica deseable de estos métodos es su precisión en el límite máximo de residuo e inmediatamente por debajo.
+
+                  A 2) La ocurrencia de falsos negativos en el entorno del límite máximo de residuos debe ser mínima.
+
+B) Métodos de selección cuantitativos.
+
+                  B 1) Los métodos de selección cuantitativos deben seguir los criterios de exactitud y precisión expresados en 3.2.2.2.2. y 3.2.2.2.3.
+
+                  B 2) La ocurrencia de falsos negativos en el entorno del límite máximo de residuos debe ser mínima.
+
+3.2.1.3. Límite de detección
+
+                  3.2.1.3.1. El método debe presentar un límite de detección que permita detectar el medicamento veterinario de interés en una concentración menor o igual al límite máximo de residuos.
+
+                  3.2.1.3.2. En el caso de un medicamento veterinario prohibido en animales destinado a la alimentación humana, el límite de detección debe ser tan bajo como la tecnología analítica disponible lo permita.
+
+                  3.2.1.3.3. La determinación del límite de detección debe considerar las interferencias relacionadas con la matriz en las que la razón de señal instrumental a perturbación (S/R) sea superior a 5/1, o la concentración determinada por tres desviaciones estándar de la respuesta de la señal en el caso del tejido blanco, si esta es menor.
+
+3.2.1.4. Límite de cuantificación
+
+            3.2.1.4.1. El límite de cuantificación del método deberá ser menor que el límite máximo de residuo establecido.
+
+            3.2.1.4.2. El límite de cuantificación será seis veces la desviación estándar correspondiente a la medida de la señal producida por el tejido blanco.
+
+            3.2.1.4.3. En el caso de sustancias con un límite máximo de residuos establecido, el método deberá ser controlado para este límite y para valores de concentración correspondientes a la mitad y al doble del mismo.
+
+3.2.1.5. Practicabilidad
+
+            El método debe tener capacidad de analizar un número importante de muestras en corto tiempo y a un costo reducido.
+
+3.2.2. Métodos de confirmación
+
+Los métodos de confirmación deben cumplir los siguientes requisitos:
+
+3.2.2.1. Especificidad
+
+            3.2.2.1.1. En la medida de lo posible los métodos de confirmación deben proporcionar información inequívoca respecto a la estructura química de la sustancia a analizar.
+
+      3.2.2.1.2. Si una determinada técnica no posee la especificidad adecuada esta debe ser obtenida a través de la combinación de métodos analíticos (GC-MS, LC-MS, LC.IR)
+
+3.2.2.2. Exactitud
+
+      3.2.2.2.1. Las necesidades de exactitud de los métodos de confirmación no son tan grandes como las de los métodos cuantitativos, dado que en la mayoría de los programas de control de residuos estos métodos sólo se aplican una vez que se ha determinado mediante un método cuantitativo que la concentración de residuos es mayor al límite máximo de residuos. La mayoría de los métodos confirmativos tienen un aspecto cuantitativo inherente que sirve como verificación adicional del método cuantitativo anteriormente aplicado.
+
+      3.2.2.2.2. Requerimientos de exactitud para metodología analítica en función de la concentración del analizado.
+
+Concentración	Intervalo de Variación
+	Aceptable
+
+<1 ug/kg 	- 50 a + 20 %
+> 1 ug/kg <10 ug/kg 	- 40 a + 20 %
+> 10 ug/kg <100 ug/kg 	- 30 a + 10 %
+> 100 ug/kg	- 20 a + 10 %
+
+3.2.2.3. Precisión
+
+            3.2.2.3.1. Requerimientos de precisión, en condiciones de repetibilidad, para metodología analítica en función de la concentración del analizado.
+
+Concentración	Coeficiencia de Variación
+	(C.V-Repetibilidad)
+
+<1 ug/kg 	35 %
+> 1 ug/kg < 10 ug/kg 	30 %
+> 10 ug/kg < 100 ug/kg 	20 %
+> 100 ug/kg	15 %
+
+3.2.2.4. Límite de Detección.
+3.2.2.4.1.Idem 3.2.1.3.
+3.2.2.5. Límite de Cuantificación.
+3.2.2.5.1. Idem 3.2.1.4.
+
+4. Referencias
+
+4.1. Codex Alimentario Volumen 3 "Residuos de Medicamentos Veterinarios en los alimentos" 2da. Edición Roma 1993.
+
+4.2. Decisión de la Comisión (93/256/CE) (14 de abril de 1993).

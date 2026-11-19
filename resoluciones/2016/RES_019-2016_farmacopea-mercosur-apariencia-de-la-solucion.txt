@@ -1,0 +1,181 @@
+Resolución GMC N° 19/16
+Título: FARMACOPEA MERCOSUR: APARIENCIA DE LA SOLUCIÓN
+Fecha de aprobación: 15/06/2016
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 62186_RES_019-2016_ES_ AparienciaSolucion.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3299).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 19/16
+
+FARMACOPEA MERCOSUR: APARIENCIA DE LA SOLUCIÓN
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Apariencia de la solución", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/XII/2016.
+
+
+CII GMC - Montevideo, 15/VI/16.
+
+ANEXO
+APARIENCIA DE LA SOLUCIÓN
+
+Definición - A los efectos de este capítulo, el color se puede definir como la   percepción o la respuesta subjetiva de un observador al estímulo objetivo de energía radiante en el espectro visible que se extiende en el intervalo de longitudes de onda de 400 nm a 700 nm. El color percibido es una función de tres variables: las propiedades espectrales del objeto, tanto absorbentes como reflectantes; las propiedades espectrales de la fuente de iluminación; y las características visuales del observador.
+
+Se dice que dos objetos poseen colores iguales para una fuente específica de iluminación cuando un observador no puede detectar una diferencia de color. Cuando un par de objetos presenta colores iguales, con una fuente de iluminación y no con otra, constituyen un par metamérico. El color de dos objetos es igual para todas las fuentes de iluminación si los espectros de absorción y de reflectancia de los dos objetos son idénticos.
+
+El acromatismo o falta de color es un extremo de cualquier escala de color para la transmisión de luz. Esto implica la ausencia completa de color y, en consecuencia, el espectro visible del objeto carece de absorbancias. A efectos prácticos, el observador en este caso percibe poca o ninguna absorción en el espectro visible.
+
+Atributos del Color - Como la sensación de color tiene un componente subjetivo y otro objetivo, el color no puede describirse exclusivamente en términos espectrofotométricos. Por lo tanto, los atributos comunes del color no pueden corresponder uno a uno con la terminología espectral.
+
+Por lo general se utilizan tres atributos para identificar un color: (1) el matiz, o la cualidad según la cual una familia de colores se distingue de otra, como por ejemplo rojo, amarillo, azul, verde y términos intermedios; (2) el valor, o la cualidad que distingue un color claro de uno oscuro; y (3) la cromaticidad, o la cualidad que distingue un color fuerte de uno débil, o el grado en el cual un color difiere de un gris del mismo valor.
+
+Los tres atributos del color se pueden utilizar para definir un espacio de color tridimensional, en el cual se ubica cualquier color por sus coordenadas. El espacio de color elegido es visualmente uniforme si la distancia geométrica entre dos colores en el espacio de color es directamente una medida de la distancia del color entre ellos. A menudo se eligen coordenadas cilíndricas por conveniencia. Los puntos a lo largo del eje longitudinal representan valores del oscuro al claro o del negro al blanco y poseen un matiz indeterminado y ninguna cromaticidad. Centrándose en una sección transversal perpendicular al eje del valor, el matiz se determina por el ángulo con respecto al eje longitudinal y la cromaticidad se determina por la distancia desde el eje longitudinal. Los matices rojos, amarillos, verdes, azules, morados e intermedios están dados por diferentes ángulos. Los colores a lo largo de un radio de una sección transversal tienen el mismo matiz, que se convierte en un matiz más intenso a medida que se aleja. Por ejemplo, el agua incolora o acromática tiene un matiz intermedio, valor alto y ninguna cromaticidad.
+
+Si se agrega un soluto de color, el agua adopta un matiz específico. A medida que se agrega más soluto, el color se torna más oscuro, más intenso, o más profundo; es decir, generalmente la cromaticidad aumenta y el valor disminuye. Sin embargo si el soluto es de color neutro, es decir, gris, el valor disminuye, no se observa un aumento en la cromaticidad y el matiz permanece indeterminado.
+
+Las mediciones espectroscópicas de laboratorio pueden convertirse en mediciones de los tres atributos de color.
+
+Cuando dos objetos difieren  significativamente en matiz, resulta difícil decidir cuál tiene mayor cromaticidad. Esto señala la importancia de elegir un estándar de comparación lo más parecido posible al color de la muestra, especialmente para los atributos de matiz y cromaticidad.
+
+Determinación de Color y Estándares - La percepción del color y de la igualdad de colores depende de las condiciones de observación e iluminación. Las determinaciones deben hacerse usando iluminación difusa y uniforme bajo condiciones que reduzcan al mínimo las sombras y la reflectancia no espectral. La superficie de los polvos debe alisarse con presión suave para que puedan presentar una superficie plana sin irregularidades. Los líquidos deben compararse en tubos para comparación de color iguales, contra un fondo blanco. Si se descubre que los resultados varían con la iluminación, se considerarán correctos los valores obtenidos con luz de día natural o artificial. En lugar de la determinación visual puede emplearse un método instrumental apropiado.
+
+Los colores de los estándares deben ser lo más parecidos posibles a los de las muestras de prueba para cuantificar las diferencias de color. Los estándares para materiales opacos están disponibles como conjuntos de muestras indicadoras de color que se disponen en un espacio visualmente uniforme. Estándares para comparaciones de color de líquidos, identificados mediante una letra, se pueden preparar según la Tabla Líquidos de comparación adjunta. Para preparar el líquido de comparación requerido, pipetear y transferir los volúmenes prescritos de las soluciones de prueba colorimétricas [ver en Soluciones Colorimétricas (SC) en la sección Reactivos y Soluciones] y agua en uno de los recipientes para comparación y mezclar la solución en el recipiente. Hacer la comparación según se indica en la monografía individual, bajo las condiciones de observación previamente descritas. Los líquidos de comparación u otras combinaciones de las soluciones colorimétricas pueden emplearse en concentraciones muy bajas para medir desviaciones del acromatismo.
+
+
+Líquido de Comparación
+Partes de
+Cloruro Cobaltoso SC
+Partes de
+Cloruro
+Férrico SC
+Partes de
+Sulfato
+Cúprico SC
+Partes de Agua
+A
+0,1
+0,4
+0,1
+4,4
+B
+0,3
+0,9
+0,3
+3,5
+C
+0,1
+0,6
+0,1
+4,2
+D
+0,3
+0,6
+0,4
+3,7
+E
+0,4
+1,2
+0,3
+3,1
+F
+0,3
+1,2
+0,0
+3,5
+G
+0,5
+1,2
+0,2
+3,1
+H
+0,2
+1,5
+0,0
+3,3
+I
+0,4
+2,2
+0,1
+2,3
+J
+0,4
+3,5
+0,1
+1,0
+K
+0,5
+4,5
+0,0
+0,0
+L
+0,8
+3,8
+0,1
+0,3
+M
+0,1
+2,0
+0,1
+2,8
+N
+0,0
+4,9
+0,1
+0,0
+O
+0,1
+4,8
+0,1
+0,0
+P
+0,2
+0,4
+0,1
+4,3
+Q
+0,2
+0,3
+0,1
+4,4
+R
+0,3
+0,4
+0,2
+4,1
+S
+0,2
+0,1
+0,0
+4,7
+T
+0,5
+0,5
+0,4
+3,6
+Tabla Líquidos de comparación.
+5

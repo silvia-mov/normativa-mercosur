@@ -1,0 +1,80 @@
+Resolución GMC N° 06/06
+Título: DISPOSICIONES GENERALES PARA EL USO DE LOS SERVICIOS DE TELEFONÍA BÁSICA Y DE DATOS EN LAS ÁREAS DE CONTROL INTEGRADO
+Fecha de aprobación: 22/06/2006
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 5344_RES_006-2006_ES_UsoTelefoniaBasica-AreasControlIntegrado.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/391).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº  06/06
+
+DISPOSICIONES GENERALES PARA EL USO DE LOS SERVICIOS DE TELEFONÍA BÁSICA Y DE DATOS EN LAS ÁREAS DE CONTROL INTEGRADO
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 4/00 del Consejo del Mercado Común, las Resoluciones N° 45/99, 49/01 y 32/04 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Decisión CMC Nº 4/00 aprobó el texto revisado, ordenado y consolidado del "Acuerdo de Alcance Parcial para la Facilitación del Comercio Integrado entre la República Argentina, la República Federativa del Brasil, la República del Paraguay y la República Oriental del Uruguay", denominado "Acuerdo de Recife".
+
+Que la Resolución GMC N° 45/99 aprueba las "Disposiciones Generales para el Uso de Servicios de Telefonía Básica y de Datos en las Áreas de Control Integrado" las cuales se refieren al texto original del denominado "Acuerdo de Recife", aprobado por la decisión CMC Nº 5/93, posteriormente derogada por la norma citada en el considerando anterior.
+
+Que, consecuentemente es necesario actualizar las Disposiciones mencionadas, a fin de adecuarlas tanto al texto vigente del "Acuerdo de Recife" así como a los marcos regulatorios de telecomunicaciones de los Estados Partes.
+
+Que la adopción de principios generales comunes contribuye al proceso de integración de las comunicaciones en el MERCOSUR e es necesaria para garantizar el buen funcionamiento de las Áreas de Control Integrado.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1- Aprobar las "Disposiciones Generales para el Uso de los Servicios de Telefonía Básica y de Datos en las Áreas de Control Integrado", que constan como Anexo y forman parte de la presente Resolución.
+
+Art. 2- Derogar la Resolución GMC N° 45/99, a partir de la entrada en vigencia de la presente Resolución.
+
+Art. 3- Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 22/XII/2006.
+
+
+LXIII GMC - Buenos Aires, 22/VI/06
+
+DISPOSICIONES GENERALES PARA EL USO DE LOS SERVICIOS DE TELEFONÍA BÁSICA Y DE DATOS EN LAS ÁREAS DE CONTROL INTEGRADO
+
+Art. 1. Ámbito de Aplicación Espacial.
+Las presentes Disposiciones se aplicarán a los Puntos de Frontera de Controles Integrados entre los Estados Partes del MERCOSUR, aprobados por Resolución GMC N° 49/01 y que obran como Anexo a la misma, y los que en el futuro sean aprobados por dicho órgano.
+
+Art. 2. Ámbito de Aplicación Material
+Las presentes Disposiciones comprenden la instalación, puesta en funcionamiento y mantenimiento de todo equipo de telecomunicaciones que el País Limítrofe desee instalar en el País Sede, para el uso, por parte de aquellos Organismos listados en la Resolución mencionada en el artículo anterior, de los servicios de telefonía básica y de datos dentro del Área de Control Integrado (ACI) o el vínculo de ésta con alguno de esos Organismos que en ella operan, excluyéndose todo tipo de prestación de servicios de telecomunicaciones a terceros.
+
+Art. 3. Autoridad Competente
+Los siguientes organismos, serán las Autoridades Competentes para diligenciar, tramitar y aprobar la implementación de los servicios de telefonía básica y de datos:
+Argentina : Comisión Nacional de Comunicaciones
+Brasil : Agência Nacional de Telecomunicações
+Paraguay : Comisión Nacional de Telecomunicaciones
+Uruguay : Unidad Reguladora de los Servicios de Comunicaciones
+
+Art. 4. Definiciones (Decisión CMC N° 4/00 "Acuerdo de Recife")
+País Sede : País en cuyo territorio se encuentra asentada el Área de Control Integrado.
+País Limítrofe : País vinculado por un punto de frontera con el País Sede.
+
+Art. 5. Procedimiento de Autorización
+a) El Organismo que deba trasladarse al País Sede, deberá presentar a la Autoridad Competente del País Limítrofe, una solicitud precisando los servicios de telecomunicaciones que necesita disponer en el País Sede, acompañada de un proyecto técnico de implementación, el que deberá ser avalado por dicha Autoridad. Dicha solicitud deberá incluir una manifestación formal del Coordinador Local (en el ACI) del País Limítrofe, en la que convalide o confirme que el uso de los servicios de telefonía básica y/o de datos como de todo tipo de sistema de telecomunicaciones, será realizado conforme el Ámbito de Aplicación Material establecido en el Art. 2 del presente, independientemente que los medios utilizados sean alámbricos o inalámbricos.
+b) Aprobada por la Autoridad Competente del País Limítrofe, ésta remitirá la documentación a la Autoridad Competente del País Sede, quien procederá a realizar los estudios legales y técnicos necesarios para otorgar la autorización correspondiente.
+c) El País Sede, deberá comunicar la autorización a la Autoridad Competente del País Limítrofe en un plazo máximo de 15 días hábiles. En caso que la Autoridad Competente del País Sede no pudiera cumplir con el plazo mencionado, comunicará de inmediato tal circunstancia al País Limítrofe, señalando además el plazo aproximado en que podrá otorgar la autorización.
+
+Art. 6º El proyecto técnico mencionado en el artículo precedente deberá contener, como mínimo, la siguiente información:
+a. Nombre, dirección, teléfono y dirección de correo electrónico del responsable del Organismo solicitante, del contacto en el prestador de servicios de telecomunicaciones y, cuando hubiera, del responsable técnico.
+b. Localización del predio o inmueble donde se instalarán los equipos.
+c. Esquema de la sala donde serán instalados los equipos.
+d. Descripción de la infraestructura de telecomunicaciones que vinculará el equipamiento a ser instalado en el ACI con las instalaciones del prestador de servicios en el país limítrofe, principalmente los enlaces a ser implementados, en cuanto al medio a utilizar (cableado, inalámbrico o mixto, y su ancho de banda, etc)
+e. Descripción sucinta de los equipos que serán instalados, inclusive nombre del fabricante y modelo; para el caso de sistemas que hacen uso de frecuencias, mencionar necesidades específicas tales como local para instalación de la torre, antenas, etc.
+f. Indicación de las frecuencias que serán utilizadas, potencia de transmisión, tipo de antena y ganancia, coordenadas geográficas de las estaciones involucradas, ancho de banda ocupada, ángulo de 1/2 potencia (en grados), cantidad de estaciones (fijas y móviles).
+
+Además de la mencionada información mínima requerida, cada Administración podrá solicitar la información adicional conforme a su normativa.
+
+Art. 7. Disposiciones Finales
+a) La autorización se otorgará, basada en el principio de reciprocidad en cuanto a las condiciones de su otorgamiento.
+b) Al equipamiento a ser instalado en las ACI no se le exigirá homologación de parte del País Sede. No obstante, en los casos en que los equipos declarados no se encuentren homologados en el País Sede, la documentación técnica a ser presentada de acuerdo a los dispuesto por el Art. 5 deberá incluir por cada equipo declarado, aquella que demuestre la compatibilidad del mismo con las redes nacionales de dicho País.
+c) Las estaciones terrenas de satélites podrán conectarse con las redes de satélites autorizadas por el País Limítrofe, aún cuando dichas redes no se encuentren habilitadas para operar comercialmente en el País Sede.
+d) En cada Estado Parte deberán establecerse los procedimientos específicos que faciliten el transporte fronterizo de personal, material, equipamiento e instrumental destinado a la instalación y mantenimiento de los recursos de telecomunicaciones.
+e) Las instalaciones de comunicaciones están sujetas al cumplimiento de la normativa MERCOSUR y de las leyes, decretos, reglamentos, convenios y demás disposiciones que rigen la materia y las que eventualmente dicte el País Sede, siempre y cuando no contradigan estas Disposiciones.
+
+
+2

@@ -1,0 +1,1477 @@
+Resolución GMC N° 88/96
+Título: ESTÁNDAR 3.7 – ARMONIZACION DE MEDIDAS FITOSANITARIAS SUB ESTÁNDAR 3.7.A – INTENSIDAD DE LAS MEDIDAS FITOSANITARIAS SUB ESTÁNDAR 3.7.B – TRATAMIENTOS CUARENTENARIOS
+Fecha de aprobación: 11/10/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 26597_RES_088-1996_ES_Standar 3.7Subestandar 3.7.A y 3.7.B.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2010).
+----------------------------------------------------------------------
+MERCOSUL/GMC/RES No. 88/96
+
+ESTÁNDAR 3.7 - ARMONIZACION DE MEDIDAS FITOSANITARIAS
+SUB ESTÁNDAR 3.7.A - INTENSIDAD DE LAS MEDIDAS FITOSANITARIAS
+SUB ESTÁNDAR 3.7.B - TRATAMIENTOS CUARENTENARIOS
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión No. 6/93, la Resolución No. 11/96 y la Recomendación No. 09/96 del Subgrupo de Trabajo No. 8 "Agricultura".
+
+CONSIDERANDO:
+
+Que es necesario disponer de requerimientos cuarentenarios armonizados para aplicar al intercambio de productos de origen vegetal entre los Estados Partes y con terceros Estados.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Aprobar el Estándar 3.7 "Armonizacion de Medidas Fitosanitarias por vía de ingreso-producto", que se adjunta y forma parte de la presente Resolución.
+
+Art. 2 - Aprobar la Revisión del Sub Estándar 3.7.A "Intensidad de las Medidas Fitosanitarias por Tipo de Plaga, versión 1.1", que se adjunta.
+
+Art. 3 - Aprobar el Sub Estándar 3.7.B "Tratamientos Cuarentenarios", que se adjunta.
+
+Art. 4 - Las Organizaciones de Protección Fitosanitaria, que
+se enumeran seguidamente, deberán adoptar las disposiciones internas pertinentes para dar cumplimiento a la presente resolución:
+
+ARGENTINA: Instituto Argentino de Sanidad y Calidad Vegetal
+(IASCAV) - Secretaría de Agricultura, Pesca y Alimentación.
+
+BRASIL: Departamento de Defesa e Inspeção Vegetal (DDIV) - Ministério da Agricultura e do Abastecimento (MA).
+
+PARAGUAY: Dirección de Defensa Vegetal (DDV) - Ministerio de Agricultura y Ganadería.
+
+URUGUAY - Dirección de Servicios de Protección Agrícola - Ministerio de Agricultura, Ganadería y Pesca.
+
+Art. 5 - Derogar la Resolución 11/96.
+
+Art. 6 - La presente Resolución entrará en vigencia el 10/12/96.
+
+
+XXIII GMC, Brasilia 11/10/96
+
+
+ESTANDAR FITOSANITARIO MERCOSUR
+
+
+SECCION III - MEDIDAS FITOSANITARIAS
+
+
+3.7. ARMONIZACION DE LAS MEDIDAS FITOSANITARIAS POR
+VIA DE INGRESO (PRODUCTO)
+
+CATEGORIAS DE RIESGO FITOSANITARIO, CLASES Y MEDIDAS
+FITOSANITARIAS POR CATEGORIA DE RIESGO
+
+
+COMITE DE SANIDAD DEL MERCOSUR
+Mayo 1996
+
+
+CONTENIDO
+
+
+Revisión
+Aprobación
+Registro de modificaciones
+Distribución
+
+
+Introducción:
+
+Ambito
+Referencias
+Definiciones y Abreviaturas
+Descripción
+
+REVISION
+
+Este Estándar Fitosanitario del CSM está sujeto a revisiones y modificaciones periódicas y aperiódicas en función del status de las plagas en los territorios de los Estados Parte del MERCOSUR.
+La 1ra revisión se ha efectuado en MAYO 1996
+La fecha de la próxima revisión periódica es: MAYO, 2000.
+
+APROBACION
+
+La aprobación de este Estándar Fitosanitario fue recomendada por la Reunión del Sub - Comité de Sanidad Vegetal del MERCOSUR efectuada el 27 de setiembre de 1994 en Asunción, Paraguay. El Estándar fue aprobado por la Reunión del Comité de Sanidad del MERCOSUR del 7 al 9 de noviembre de 1994 en Asunción, Paraguay, y ratificado por Resolución GMC 62/94.
+
+La 1ra revisión se efectuó, sobre la base de la Recomendación realizada por el GTP-Cuarentena Vegetal en su Reunión efectuada en Buenos Aires del 4 al 8 de marzo de 1996. Fue recomendada por la Reunión del Sub-Comité de Sanidad Vegetal del MERCOSUR realizada del 6 a 8 de mayo de 1996 en Asunción, Paraguay y aprobada por el COMITÉ DE SANIDAD DEL MERCOSUR del 9 de mayo de 1996. La misma fue ratificada por Resolución GMC de 1996.
+
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este Estándar serán numeradas y datadas correlativamente.
+La 1ra modificación se realizó en mayo de 1996
+Los poseedores del Estándar deben asegurarse que todas las modificaciones serán insertadas y las páginas obsoletas serán removidas.
+
+DISTRIBUCION
+
+Este Estándar es distribuido por el COMITE DE SANIDAD DEL MERCOSUR a:
+- Instituto Argentino de Sanidad y Calidad Vegetal (IASCAV), Argentina.
+- Secretaría de Defensa Agropecuaria (SDA), Brasil.
+- Dirección de Defensa Vegetal (DDV), Paraguay.
+- Servicio de Protección Agrícola (SPA), Uruguay.
+- Secretaría de la Convención Internacional de Protección Fitosanitaria - FAO.
+- Asia and Pacific Plant Protection Comission (APPC).
+- Caribbean Plant Protection Comission (CPPC).
+- European and Mediterranean Plant Protection Organization (EPPO)
+- Inter-African Phytosanitary Council (IAPC).
+- Junta del Acuerdo de Cartagena (JUNAC).
+- North American Plant Protection Organization (NAPPO).
+- Organismo Internacional Regional de Sanidad Agropecuaria (OIRSA).
+- Comité Regional de Sanidad Vegetal del Cono Sur (COSAVE).
+
+
+INTRODUCCION
+
+1.- AMBITO
+
+	Este Estándar presenta las definiciones para categorías y clases de productos vegetales de acuerdo a su nivel de riesgo fitosanitario y los criterios utilizados para establecer los requisitos fitosanitarios, armonizados, generales y específicos aplicados por las ONPFs de los Estados Parte del MERCOSUR para la regulación fitosanitaria en el intercambio de productos de origen vegetal, según su codificación en el Nomenclator Cuarentenario y de acuerdo con su país de origen.
+
+2.- REFERENCIAS
+
+þ Estándar 3.5. Nomenclator cuarentenario MERCOSUR, CSM/EST 3.5 Setiembre1994.
+þ Estándar 2.10 Glosario de términos fitosanitarios COSAVE, agosto 1994, Brasilia
+
+3.- DEFINICIONES Y ABREVIATURAS.
+
+	AFIDI 	Abreviatura de Acreditación Fitosanitaria de Importación.
+
+	AO 	Abreviatura de Análisis oficial.
+
+	CC	Abreviatura de Certificado de Calidad.
+
+	CF	Abreviatura de Certificado Fitosanitario.
+
+	CFO	Abreviatura de Certificación Fitosanitaria de Origen.
+
+	CI	Abreviatura de Certificado ISTA.
+
+	CIPF	Abreviatura de Convención Internacional de Protección 				Fitosanitaria, como depositada en la FAO, en Roma en 1951 y sus 		modificaciones posteriores.
+
+	CFR	Abreviatura de Certificado Fitosanitario de Re-exportación.
+
+CLASE DE PRODUCTO
+
+Categoría de productos similares que pueden ser considerados conjuntamente en las reglamentaciones fitosanitarias.
+
+CODIGO DE PRODUCTO
+
+Conjunto alfanumérico de 13 dígitos que representa la unión de los códigos de genero, especie, uso propuesto, parte vegetal, presentación, clase y categoría de riesgo fitosanitario
+
+CPE	Abreviatura de Cuarentena Post - Entrada.
+
+CSM	Abreviatura de Comité de Sanidad del MERCOSUR.
+
+
+CUARENTENA
+
+Confinamiento oficial de vegetales o productos vegetales sujetos a reglamentaciones fitosanitarias, para observación e investigación o para futura inspección, prueba y/o tratamiento.
+
+CUARENTENA CERRADA
+
+Cuarentena realizada en una estación cuarentenaria
+
+CUARENTENA VEGETAL
+
+Todas las actividades destinadas a prevenir la introducción y/o dispersión de plagas cuarentenarias o para asegurar su control oficial
+
+DA	Abreviatura de Declaración Adicional.
+
+DA n	Declaración Adicional codificada No. n.
+
+DA1	"El (envío, plantas, vivero, semillero, región, lugar de producción, lote, etc.) se encuentra libre de (plaga/s)".
+
+DA2	"El (envío, semillas, etc.) ha sido tratado con (producto, concentración, tiempo), para eliminar (plaga/s), bajo supervisión oficial, habiéndose constatado la eficacia del tratamiento para la/s plaga/s mencionada/s".
+
+DA3	"Plaga de calidad: en el análisis oficial, el lote no presentó más de (% de plaga/s)".
+
+DA4	"El (vivero, semillero) del cual proceden (las plantas, estacas, esquejes, yemas, barbados, bulbos, semillas, etc.) se encuentra bajo un sistema de certificación oficial, aceptado (por la autoridad fitosanitaria del país importador)".
+
+DA5	"El (cultivo, vivero, semillero, lugar de producción, etc.) fue oficialmente inspeccionado durante (período) y encontrado libre de (plaga/s)".
+
+DA6	"Las (plantas, estacas, esquejes, barbados, yemas, etc.) han sido analizadas con indicadoras apropiadas y/o métodos equivalentes y encontrado libre de (plaga/s)".
+
+
+DA7	"El (producto, vivero, semillero, etc.) fue (cultivado/ realizado) en un(área reconocida por la autoridad fitosanitaria del país importador) como área libre de: (la/s plaga/s), según Estándar 3.2. Lineamientos para el Reconocimiento de Areas Libres de Plagas ".
+
+DA8	"En (país), (la plaga/s) no se encuentra/n presente/s".
+
+DA9	"En el lugar de producción o en su vecindad inmediata (radio) no se han observado síntomas de (infección o infestación) por (plaga/s) desde (período)".
+
+DA10	"Las plantas propagadas vegetativamente fueron producidas bajo un esquema de certificación fitosanitario aprobado (por la autoridad fitosanitaria nacional) para (plaga/s), utilizándose indicadoras apropiadas o métodos equivalentes, encontrándolas libres de esas plagas".
+
+DA11	"Las plantas propagadas vegetativamente fueron derivadas en línea directa de material que ha sido mantenido bajo condiciones apropiadas y que ha sido sometido, dentro de (período), al menos una vez, a análisis oficial por (plaga/s), utilizando indicadoras apropiadas o métodos equivalentes y encontradas libres de esas plagas".
+
+DA12	"El material (plantas, estacas, esquejes, yemas, etc.) debe provenir de Estaciones de Cuarentena Intermedia (en un tercer país)".
+
+DA13	"Las plantas madres de las cuales proceden han sido indexadas y se encuentran libres de plagas transmisibles por semilla (sexual, asexual)".
+
+DA14	"El envío no presenta riesgo cuarentenario con respecto a (la/s plaga/s), como resultado de la aplicación oficialmente supervisada del sistema integrado de prácticas de mitigación del riesgo, acordado con el país importador según Protocolo N( )".
+
+DA15	"El envío se encuentra libre de: (la/s plaga/s), de acuerdo con el resultado el análisis oficial de laboratorio N ( )".
+
+DC	Abreviatura de Depósito Cuarentenario.
+
+DECLARACION ADICIONAL
+
+Cláusula cuya inclusión en el Certificado Fitosanitario es requerida por el país de destino y la cual suministra información adicional especifica en relación con la condición fitosanitaria del embarque
+
+DECLARACION PREVIA
+
+Comunicación anticipada del importador a la ONPF, de su intención de ingresar un embarque
+
+DEPOSITO CUARENTENARIO
+
+Recinto fiscal declarado por el importador y aprobado por la ONPF donde se confinara bajo intervención, el embarque
+
+DESCORTEZADO
+
+Remoción de la corteza de la madera redonda (el descortezado no necesariamente deja a la madera libre de corteza).
+
+DP	Abreviatura de Declaración Previa.
+
+ESQUEMA DE CERTIFICACION
+
+Sistema de certificación aplicado a productos, procesos o servicios específicos a los cuales se aplican los mismos estándares, reglas y procedimientos
+
+IF	Abreviatura de Inspección Fitosanitaria.
+
+INSPECCION
+
+Examen visual oficial de vegetales, productos vegetales u otros artículos regulados para determinar si las plagas están presentes y/o para determinar el cumplimiento de las reglamentaciones fitosanitarias
+
+ONPF	Abreviatura de Organización Nacional de Protección Fitosanitaria.
+
+REQUISITO FITOSANITARIO
+
+Condición necesaria para el ingreso
+
+R n	Requisito Fitosanitario codificado No. n.
+
+R1	Sujeto a IF al Ingreso.
+
+R2	La mercadería debe venir acompañada por CF o por CFR si corresponde (que especifique el Nº de AFIDI), (e incluya la/s siguiente/s Declaración/es Adicional/es).
+
+R3	La mercadería debe venir acompañada por CFO (que especifique el Nº de AFIDI), (e incluya la/s siguiente/s Declaración/es Adicional/es).
+
+R4	Sujeto a AO al Ingreso.
+
+R5	Requiere CI que acredite que el lote está libre de (plaga/s).
+
+R6	Requiere CC.
+
+R7	Ingresará con destino (al domicilio de la autoridad fitosanitaria del país 	importador).
+
+R8	(Ingresará a, presenta) DC situado en (dirección) según Habilitación Nº ( ).
+
+R9	Sujeto a CPE durante (período).
+
+R10	La madera deberá estar descortezada.
+
+R11	Las (plantas, bulbos, etc.) deben estar libres de tierra y substratos, pudiendo estar protegidas por un sustrato del tipo inerte, especificando en el CF su tipo y tratamiento recibido.
+
+R12	Deberá dar cumplimiento a lo dispuesto en el Decreto (Nº).
+
+R13	El envío deberá cumplir con los requisitos establecidos en el/los Decreto/s 	(Nº).
+
+R14	Esta acreditación deberá ser acompañada de Certificado de (la institución responsable de registrar la entrada de material de propagación).
+
+R15	El material de propagación (yemas, varetas o cualquier material in vitro) deberá ser ingresado para su indexaje y limpieza bajo Cuarentena Cerrada al Programa de Saneamiento oficial del país importador.
+
+SI	  Abreviatura de Solicitud de Importación.
+
+T	  Abreviatura de Tratamiento.
+
+4.- DESCRIPCION
+
+	Este Estándar presenta las definiciones y los conceptos utilizados para el establecimiento de los requisitos fitosanitarios armonizados, generales y específicos aplicados por las ONPFs de los Estados Parte del MERCOSUR, para la regulación fitosanitaria del intercambio de los productos que se incluyen en los sub-estándares por producto. Los mismos están organizados por producto y dentro de ellos por país de destino y según el código de producto que consta en el Nomenclator Cuarentenario del MERCOSUR.
+
+II. REQUISITOS GENERALES
+
+II.1 PROCEDIMIENTO PARA LA ARMONIZACION DE REGLAMENTACIONES FITOSANITARIAS POR VIA DE INGRESO (PRODUCTO)
+
+	A. IDENTIFICACION DE LOS REQUISITOS APLICABLES A LOS 	VEGETALES Y PRODUCTOS VEGETALES SEGÚN CATEGORIA DE 	RIESGO FITOSANITARIO Y CLASES
+
+	A.1 CATEGORIAS DE RIESGO FITOSANITARIO
+
+CATEGORIA 1
+Productos de origen vegetal industrializados, desvitalizados por haber sido sometidos a cualquier proceso tecnológico de desnaturalización (cocimiento, blanqueo, pasteurización, esterilización, fermentación u otros) que se transforman en productos incapaces de ser afectados directamente por plagas, pero que pueden vehiculizar las mismas en los materiales de embalaje, medios de transporte y almacenaje
+CATEGORIA 2
+Productos vegetales semi-procesados (sometidos a secados, limpieza, separación, descascaramiento, etc.) que pueden albergar plagas, excepto algodón.
+CATEGORIA 3
+Materiales y productos vegetales primarios (naturales/no desvitalizados), para consumo/uso directo o transformación.
+CATEGORIA 4
+Semillas, plantas u otros materiales de origen vegetal destinados a la propagación y/o reproducción
+CATEGORIA 5
+Misceláneos, turba, polen, especímenes botánicos, microorganismos, agentes de control biológico, inoculos, formulados o no, otras mercaderías.
+
+A.2 CLASES DE VEGETALES Y PRODUCTOS VEGETALES
+
+CLASE 1
+Plantas: plantas vivas y partes de plantas, destinadas a la propagación, excepto las partes subterráneas y las semillas.
+CLASE 2
+Bulbos, tubérculos y raíces: porciones subterráneas destinadas a la propagación
+CLASE 3
+Semillas: semillas verdaderas en su definición botánica destinadas a la propagación. Semillas hortícolas, frutícolas, cerealeras, forrajeras, oleaginosas, leguminosas, forestales, florales y de especias.
+CLASE 4
+Frutas y hortalizas: porciones comestibles mas o menos suculentas de plantas alimenticias al consumo.
+CLASE 5
+Flores de corte y follajes ornamentales; porciones cortadas de plantas, incluidas las inflorescencias, destinadas al decorativo y no a la propagación.
+CLASE 6
+maderas, corteza, corcho: maderas (procesadas o no), cortezas, corcho.
+CLASE 7
+Material de embalaje: productos de origen vegetal y cualquier otro material usado para proteger las plantas, los productos vegetales y otros, durante su transporte.
+CLASE 8
+Suelos, turbas y otros materiales de soporte.
+CLASE 9
+Granos; se refiere a semillas de cereales, oleaginosas y leguminosas para consumo y otras semillas destinadas a ser consumidas y no a ser propagadas.
+CLASE 10
+Cualquier otra mercadería que no se ajuste a las clases anteriores.
+
+A.3 REQUISITOS FITOSANITARIOS POR CATEGORIA DE RIESGO
+
+CATEGORIA 1
+CATEGORIA 2
+CATEGORIA 3
+CATEGORIA 4
+CATEGORIA 5
+Declaración previa
+Solicitud de importación
+Solicitud de
+importación
+Solicitud de importación
+Solicitud de importación
+
+Autorización de importación (AFIDI)
+Autorización de importación (AFIDI)
+Autorización de importación (AFIDI)
+Autorización de importación (AFIDI)
+
+
+Registro
+
+Certificado Fitosanitario
+Certificado Fitosanitario
+(Certificado Fitosanitario de Origen)
+Certificado Fitosanitario
+Certificado Fitosanitario de Origen, Certificado ISTA)
+Certificado Fitosanitario
+
+(Declaración Adicional)
+(Declaración Adicional)
+(Declaración Adicional)
+(Declaración Adicional)
+Inspección al ingreso
+Inspección al ingreso
+Inspección al ingreso
+Inspección al ingreso
+Inspección al ingreso
+
+
+Depósito Cuarentenario
+Depósito Cuarentenario
+Depósito Cuarentenario
+
+(Análisis Oficial)
+(Análisis Oficial)
+(Análisis Oficial)
+(Análisis Oficial)
+
+(Tratamiento)
+(Tratamiento)
+(Tratamiento)
+(Tratamiento)
+
+
+(Cuarentena Post-entrada)
+(Cuarentena Post-entrada)
+
+A.4 CATEGORIZACION DE LOS PRODUCTOS ESPECIFICOS SEGÚN SU CATEGORIA DE RIESGO FITOSANITARIO
+
+La misma se realiza en función del estándar 3.5 Nomenclator Cuarentenario (CSM/EST 3.5)
+
+B. IDENTIFICACION DE LAS PLAGAS OBJETO DE REGLAMENTACION FITOSANITARIA EN EL MERCOSUR
+
+La misma se realiza en función de lo establecido por los estándares:
+
+-3.1 Lineamentos para el Análisis de Riesgo de Plagas COSAVE (COS/EST 3.1)
+-3.3 Listados de Plagas de Importancia Cuarentenaria COSAVE (COS/EST 3.3)
+
+solo serán objeto de reglamentación fitosanitaria en el comercio internacional aquellas plagas que califiquen como cuarentenarias o de calidad en función de la aplicación de los antes mencionados estándares.
+
+C. IDENTIFICACION DE LAS PLAGAS SUJETAS A REGLAMENTACION FITOSANITARIA SEGÚN ORIGEN EN LOS ESTADOS PARTE DEL MERCOSUR.
+
+La misma se efectuará en base al estándar 3.3 Listado de Plagas Cuarentenarias COSAVE (COS/EST 3.3)
+
+D. IDENTIFICACION DE LOS PRODUCTOS SUJETOS A REGLAMENTACION FITOSANITARIA EN EL MERCOSUR
+
+La misma se efectuará sobre los productos incluidos en el estándar 3.5 Nomenclator Cuarentenario del MERCOSUR (CSM/EST 3.5).
+
+E. ESTABLECIMIENTO DE LOS REQUISITOS FITOSANITARIOS ESPECIFICOS PARA VEGETALES O PRODUCTOS VEGETALES, SEGUN SU CODIGO DE PRODUCTO, EN LOS ESTADOS PARTE DEL MERCOSUR.
+
+Estándar 2.1 Principios de Cuarentena Vegetal en Relación al Comercio Internacional (COS/EST 2.1)
+
+Estándar 2.2 Principios para la reglamentación de Plagas de calidad (nocivas) en el Comercio Regional (COS/EST. 2.2)
+
+Estándar 3.3 Lineamiento para el Análisis de Riesgo de Plagas (COS/EST 3.3)
+
+
+SUB ESTÁNDAR FITOSANITARIO MERCOSUR
+
+SECCIÓN III - MEDIDAS FITOSANITARIAS
+
+
+Standard 3.7.A Intensidad de las Medidas Fitosanitarias
+por Tipo de Plaga
+
+Revisión 1.1
+
+
+COMITÉ DE SANIDAD DEL MERCOSUR
+
+Contenido
+
+Revisión
+Aprobación
+Registro de Modificaciones
+Distribución
+
+I. Introducción:
+
+Ámbito
+Referencias
+Definiciones y Abreviaturas
+Descripción
+
+II. Intensidad de las Medidas Fitosanitarias por Tipo de Plagas
+
+REVISIÓN
+Este Estándar fitosanitario del CSM está sujeto a revisiones y modificaciones periódicas y no periódicas en función del avance del proceso de armonización regional e internacional. La fecha de la próxima revisión periódica es: abril de 1966.
+
+APROBACION
+
+La aprobación de este Sub Estándar fitosanitario fue recomendada por la Reunión 03/95 del Sub Comité de Sanidad Vegetal del MERCOSUR realizada en Montevideo, del 4 al 7 de diciembre de 1995.
+Este Sub Estándar fue aprobado por el Comité de Sanidad del Mercosur en su 2ª Reunión, el 7 de diciembre de 1995.
+
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este Sub Estándar serán numeradas y fechadas correlativamente. Los poseedores del Sub Estándar deben asegurarse que todas las modificaciones serán incluidas y las páginas obsoletas serán retiradas.
+
+DISTRIBUCIÓN
+
+Este Sub Estándar se distribuye por el Comité de Sanidad del MERCOSUR a:
+Instituto Argentino de Sanidad y Calidad Vegetal (IASCAV), Argentina.
+Secretaria de Defesa Agropecuária (SDA), Brasil.
+Dirección de Defensa Vegetal (DDV), Paraguay.
+Servicio de Protección Agrícola (SPA), Uruguay.
+Secretaría de la Convención Internacional de Protección Fitosanitaria - FAO.
+Asia and Pacific Plant Protection Comission (APPC).
+Caribbean Plant Protection Comission (CPPC).
+European and Mediterranean Plant Protection Organization (EPPO).
+Inter-African Phytosanitary Council (IAPC).
+Junta del Acuerdo de Cartagena (JUNAC).
+North American Plant Protection Organization (NAPPO).
+Organismo Internacional Regional de Sanidad Agropecuaria (OIRSA).
+Comité Regional de Sanidad Vegetal del Cono Sur (COSAVE).
+
+INTRODUCCIÓN
+
+1. ÁMBITO
+
+Este Sub Estándar presenta las Intensidades de Medidas Fitosanitarias de acuerdo al Tipo de Plaga, aplicadas por las ONPFs de los Estados Partes del MERCOSUR para el establecimiento de los requisitos fitosanitarios de los productos de intercambio en la Región y extra Región.
+
+2. REFERENCIAS
+
+Resolución No. 59/94 sobre Adopción de Padrones Fitosanitarios y Resolución No. 62/94 sobre Padrones Fitosanitarios.
+Estándar 3.7 Armonización de las Medidas Fitosanitarias por Producto. CSM/EST 3.7. Setiembre 1994.
+
+3. DEFINICIONES Y ABREVIATURAS
+
+AFIDI		Abreviatura de Autorización Fitosanitaria de Importación
+AO		Abreviatura de Análisis Oficial
+CC		Abreviatura de Certificado de Calidad
+CF		Abreviatura de Certificado Fitosanitario
+CFO		Abreviatura de Certificado Fitosanitario de Origen
+CI 		Abreviatura de Certificado ISTA
+CIPF	Abreviatura para Convención Internacional de Protección Fitosanitaria, como depositada en FAO, en Roma, en 1951, y sus modificaciones posteriores
+CPE		Abreviatura de Cuarentena Post Entrada
+CFR		Abreviatura de Certificado Fitosanitario de Reexportación
+CSM		Abreviatura de Comité de Sanidad del MERCOSUR
+DA		Abreviatura de Declaración Adicional
+DA n		Declaración Adicional codificada No. n
+DA1	"El (envío, plantas, vivero, semillero, región, lugar de producción, lote, etc.) se encuentra libre de plaga/s"
+DA2	"El (envío, semillas, etc.) fue tratado con (producto, concentración, tiempo), para eliminar (plaga/s) bajo supervisión oficial", habiendo constatado la eficacia del tratamiento para la plagas mencionadas
+DA3	"Plaga de calidad" en el análisis oficial el lote no presentó más del (%) de (plaga/s)"
+DA4	"El (vivero, semillero) de la que proceden las (plantas, estacas, esquejes, yemas, barbados, bulbos, semillas, etc.) está bajo un sistema de certificación oficial, aceptado (por la autoridad del país importador)"
+DA5	"El (cultivo, vivero, semillero, lugar de producción, etc.) fue oficialmente inspeccionado durante (período) y hallado libre de (plaga/s)"
+DA6	"Las (plantas, estacas, esquejes, barbados, yemas) fueron analizadas con indicadores apropiados y/o métodos equivalentes y encontradas libres de (plaga/s)"
+DA7	"El (producto, vivero, semillero, etc.) fue (cultivado/realizado) en un (área reconocida por la autoridad fitosanitaria del país importador) como área libre de (la/s plaga/s), según el Estándar 3.2 Directivas para el Reconocimiento de Áreas Libres de Plagas"
+DA8 	"En el (país) (la/s plaga/s) no se encuentran presente/s"
+DA9	"En el lugar de producción o su vecindad inmediata (radio) no fueron observados síntomas de infección/infestación por (plagas) desde (período)"
+DA10	"Las Plantas propagadas vegetativamente fueron producidas bajo un esquema de certificación fitosanitaria aprobado (por la autoridad fitosanitaria nacional) para (plaga/s), utilizándose indicadores apropiados o métodos equivalentes, encontrándose libres de plagas"
+DA11	"Las Plantas propagadas vegetativamente fueron derivadas en línea directa de material que fue mantenido bajo condiciones apropiadas y que fue sometido dentro de (período), al menos una vez al análisis oficial para (plagas), utilizando indicadores apropiados o métodos equivalentes y encontradas libres de esas plagas"
+DA12	"El material (planta, estacas, esquejes, yemas, etc.) debe provenir de Estaciones de Cuarentena Intermediaria (en un tercer país)"
+DA13	"Las plantas madres de las cuales proceden han sido indexadas y se encuentran libres de plagas transmisibles por semillas (sexual/asexual)"
+DA14	"El envío no presenta riesgo cuarentenario con respecto a (la/s plaga/s) como resultado de la aplicación oficialmente supervisada del sistema integrado de prácticas de mitigación de riesgo, acordado con el país importador según Protocolo No. (  )"
+DA15	"El envío está libre de: (la/s plaga/s) de acuerdo al resultado del análisis oficial de laboratorio No. (  )"
+DC	Abreviatura de Depósito Cuarentenario
+DP 	Abreviatura de Declaración Previa
+IF 	Abreviatura de Inspección Fitosanitaria
+ONPF 	Abreviatura de Organización Nacional de Protección Fitosanitaira
+R n	Requisito Fotosanitario codificado No. n
+R1	Sujeto a Inspección Fitosanitaria al ingreso
+R2	La mercadería debe estar acompañada por Certificado Fitosanitario o por Certificado Fitosanitario de Reexportación (No. del AFIDI) y (Das)
+R4	Sujeto a análisis oficial al ingreso
+R5	Requiere CI que declare que el lote está libre de (plagas)
+R6	Requiere Certificado de Calidad
+R7	Ingresará con destino (al domicilio de la autoridad fitosanitaria del país importador)
+R8	(ingreso No.) será presentado en el (depósito cuarentenario) situado en (dirección), según habilitación (No. )
+R9	Sujeto a cuarentena post entrada durante (período)
+R10	La madera deberá estar decorticada
+R11	Las (plantas, bulbos, etc.) deben estar libres de tierra y sustratos, pudiendo estar protegidos por un sustrato de tipo inerte, especificando en el Certificado Fitosanitario su tipo y tratamiento recibido
+R12	Deberá ser cumplido lo dispuesto en el decreto (No.)
+R13	El envío deberá cumplir los requisitos establecidos en el/los decreto/s (No.)
+R14	Esta autorización deberá estar acompañada del certificado de la (institución responsable del registro de entrada de material de propagación)
+R15	El material de propagación deberá tener ingreso bajo forma de yemas en tubos de ensayo "in vitro" para su subxación y limpieza sobre cuarentena cerrada: excepcionalmente podrán ser autorizados el ingreso de yemas o tubos de ensayo bajo las siguientes condiciones
+SI 	Abreviatura de Solicitud de Importación
+T 	Abreviatura de Tratamiento
+
+
+4. DESCRIPCION
+
+Este Sub Estándar presenta, como carácter general, las intensidades de medidas fitosanitarias con respecto al tipo de plaga utilizadas por las ONPFs de los Estados Partes del MERCOSUR, para el establecimiento de los requisitos fitosanitarios para la comercialización de productos en la Región y fuera de ella. Las medidas fitosanitarias están organizadas por grupo de plagas y constituyen una orientación general para apoyar el proceso de armonización del producto.
+
+
+ANEXO - Cuadro de Categorización de las Intensidades de Medida Según Agrupación de Plagas por Tipo
+
+
+Tipo de Plaga
+
+Propagación
+
+Consumo
+
+Ácaros - Coleópteros
+DA7 o DA5 o DA2 o DA1/envío
+DA7 o DA9 o DA2 o DA1/envío
+Dípteros no Tephritidae - Lepidópteros
+DA7 o DA5 o DA2 o DA1/envío
+DA7 o DA2 o DA1 / envío
+Tephritidae
+ --------------------------
+DA7 o DA14 o DA2 o DA1/envío
+Homoptera-Thisanoptera
+Hymenoptera-Hemiptera
+DA7 o DA2 o DA5 o DA1/envío
+DA7 o DA2 o DA1 / envío
+Invasoras de difícil detección
+DA7 o DA5 o DA1/ lugar de producción o DA15
+* Raciones: DA7 o DA15
+* Transformación nada
+Invasoras de fácil detección
+DA7 o DA5 o DA1/ lugar de producción o DA15
+* Raciones: DA7 o DA1/envío
+* Transformación nada
+Nematoideos
+DA7 o DA5 o DA1/ lugar de producción o DA15
+* Raciones: DA7 o DA15 o DA1/envío
+* Transformación nada
+Virus - Viroides - Rickettsias - Micoplasmas - Espiroplasmas
+DA11 o DA10 o DA4 o (DA5+DA15) o DA15
+Nada
+Bacterias
+DA7 o DA11 o DA10 o DA4 (DA5+DA15) o DA15 o DA5
+DA7 o DA14 o DA5 o o DA15 o (DA9 + DA2) o (DA2+DA1/ empaquetamiento) o DA1/envío o nada
+Hongos
+DA7 o DA4 o DA5 o DA15 o DA2 o (DA5 + DA2)
+* Consumo humano: DA1/envío o nada
+*Consumo animal: DA7 o DA2 o DA15 o DA1 o nada
+
+ESTÁNDAR REGIONAL SOBRE PROTECCION FITOSANITARIA
+
+
+SECCION III - MEDIDAS FITOSANITARIAS
+
+
+3.7.B  TRATAMIENTOS CUARENTENARIOS
+
+
+COMITÉ DE SANIDAD VEGETAL DEL MERCOSUR
+AGOSTO, 1996
+
+CONTENIDO
+
+REVISIÓN
+
+APROBACIÓN
+
+RATIFICACIÓN
+
+REGISTRO DE MODIFICACIONES
+
+DISTRIBUCIÓN
+
+I. INTRODUCCIÓN
+
+ÁMBITO
+REFERENCIAS
+DEFINICIONES Y ABREVIATURAS
+DESCRIPCIÓN
+
+II. REQUISITOS GENERALES
+
+1. Requisitos Técnicos
+2. Requisitos Administrativos
+3. Mecanismos de Aprobación o Rechazo
+4. Mecanismos de Reconsideración
+
+
+REVISIÓN
+
+Este Estándar Regional sobre Protección Fitosanitaria del MERCOSUR está sujeto a revisiones y modificaciones periódicas.
+
+APROBACIÓN
+
+Este Estándar Regional Fitosanitario fue aprobado en la Reunión del Comité de Sanidad, en agosto de 1996, Brasilia, Brasil.
+
+RATIFICACIÓN
+
+No requiere.
+
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este Estándar serán numeradas y fechadas correlativamente.
+Los poseedores del Estándar deben asegurarse que todas las modificaciones estén incluídas y las páginas correspondientes que se vuelvan obsoletas sean descartadas.
+
+DISTRIBUCIÓN
+
+Este Estándar se distribuye a:
+a.	Organizaciones Nacionales de Protección Fitosanitaria -  ONPFs integrantes del COSAVE:
+	- Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+	- Secretaria de Defesa Agropecuária, Brasil.
+	- Servicio Agrícola y Ganadero, Chile.
+	- Dirección de Defensa Vegetal, Paraguay.
+	- Servicio de Protección Agrícola, Uruguay.
+b. 	Organizaciones Regionales de Protección Fitosanitaria - ORPFs.
+c. 	Grupos de Trabajo Permanentes del Comité (GTPs).
+d.	Secretaría de la Convención Internacional de Protección Fitosanitaria - CIPF de la FAO.
+e.	Secretaría Administrativa del MERCOSUR.
+f.	Comité de Sanidad del Cono Sur (COSAVE).
+
+
+I - INTRODUCCIÓN
+
+1 - ÁMBITO
+
+	Este Estándar describe los procedimientos utilizados por el Comité de Sanidad para el reconocimiento de Tratamientos Cuarentenarios fitosanitarios y los Tratamientos Cuarentenarios a utilizar por las respectivas ONPFs de sus países miembros. No incluye el reconocimiento de protocolos de disminución de riesgos por la aplicación de sistemas, lo que será considerado en otros estándares.
+
+	2 - REFERENCIAS
+
+1 -	Propuesta de Manual de Inspección y Control Cuarentenario de uso común en Argentina, Brasil, Chile, Paraguay y Uruguay. 1987. Antonieta Urrutia Anabalón, Consultora FAO/RLAC.
+
+2 -	Treatment Manual, APHIS, USDA. 1995.
+
+3 - 	Methyl Bromide Quarantine Fumigation for Strawberries Infested with Mediterranean Fruit Fly. 1981. J.W.Amstrong et al, ARS. USDA.
+* Glosario FAO de Términos Fitosanitarios, FAO Plant Protection Bulletin 38 (1), 1990. Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, Italia.
+* Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, Italia, 1951.
+* Principios de Cuarentena Vegetal aplicados al Comercio Internacional, 1993. Programme for Global harmonization of Plant quarantine, FAO Conference Paper C93/25-Rev. 01. November 1993.
+* Acuerdo de medidas santiarias y fitosanitarias, Acta Final de la Ronda Uruguay del GATT, Abril 1994.
+* Acuerdo Sanitario y Fitosanitario, MERCOSUR, Agosto 1992.
+* Glosario de Términos Fitosanitarios, COSAVE, Estándar No. 2.6, octubre 1994. Ilhéus, Brasil.
+* International Plant Quarantine Treatment Manual. FAO Plant Production and Protection Paper 50, Roma, 1993.
+
+3 - DEFINICIONES Y ABREVIATURAS
+
+AREA
+Un país, parte de un país o partes de varios países, definidos oficialmente
+
+
+CIPF
+Abreviatura de "Convención Internacional de Protección Fitosanitaria".
+
+
+CONTROL (de una plaga)
+Contención, supervisión  o erradicación  de  la población de una plaga.
+
+
+EQUIVALENCIA
+La condición de medidas fitosanitarias que no son idénticas pero que tienen el mismo efecto.
+
+
+ERPF
+Estándar Regional de Protección Fitosanitaria
+
+
+FAO
+Organización de las Naciones Unidas para la Agricultura y la Alimentación
+
+
+FRESCO
+Vivo, no desecado, congelado o conservado de otra manera.
+
+
+FRUTAS Y HORTALIZAS
+Partes frescas de vegetales destinadas al consumo o procesamiento
+
+
+FUMIGACIÓN
+Tratamiento cuarentenario con un agente químico que alcanza el producto, completamente o primariamente, en estado gaseoso.
+
+
+GATT
+Ver OMC
+
+
+GRANO
+Semillas destinadas exclusivamente al consumo (ver semillas).
+
+
+ARMONIZACIÓN
+El desarrollo, reconocimiento y aplicación por diferentes países de medidas fitosanitarias basadas en estándares comunes.
+
+
+ISO
+International Organization for Standartization (Organización Internacional para la Estandardización).
+
+
+OFICIAL
+Establecido, autorizado o realizado por una Organización Nacional de Protección Fitosanitaria.
+
+
+OMC
+Organización Mundial del Comercio
+
+
+ONPF
+Organización Nacional de Protección Fitosanitaria
+
+
+ORGANIZACIÓN NACIONAL DE PROTECCIÓN FITOSANITARIA
+Servicio  oficial  establecido  por  un   gobierno encargado   de   las   funciones   especificadas por  la CIPF
+
+
+PLAGA
+Cualquier especie, raza o biotipo de vegetales, animales o agentes patógenos, nocivos para los vegetales o productos vegetales
+
+
+PLAGA CUARENTENARIA
+Una plaga de importancia económica potencial para el área puesta en peligro y donde aún no está presente, o si está, no se encuentra ampliamente distribuida y es oficialmente controlada.
+
+
+PRODUCTO
+Mercadería, tipo de vegetal, producto vegetal u otro artículo regulado que está siendo movilizado por razones comerciales u otros propósitos
+
+
+PRODUCTO FITOSANITARIO
+Cualquier  sustancia o mezcla de sustancias destinados a prevenir, destruir y controlar cualquier organismo nocivo, incluyendo las especies no deseadas de plantas o animales que causan perjuicio o que interfieren de alguna forma en la producción, elaboración o almacenamiento de productos agrícolas. El término incluye coadyuvantes, fitorreguladores, desecantes y las sustancias aplicadas a los cultivos, antes o después de la cosecha para proteger los vegetales contra el deterioro durante el transporte o almacenamiento. Sinónimo: Fitosanitario
+
+
+PRODUCTO REGLAMENTADO
+Cualquier local de almacenamiento, de transporte, recipiente u otro objeto material capaz de abrigar o propagar plagas de las plantas, particularmente en lo que se refiere al transporte internacional.
+
+
+PRODUCTO VEGETAL
+Material  no  manufacturado  de   origen  vegetal (incluidos granos) y aquellos productos manufacturados que, por su naturaleza o la de su procesamiento, puedan crear riesgo de dispersión de plagas.
+
+
+PRODUCTOS ALMACENADOS
+Productos vegetales no manufacturados, destinados al consumo o procesamiento, almacenados en forma seca (incluye, en particular, granos, frutos y hortalizas secas).
+
+
+CUARENTENA VEGETAL
+Todas  las  reglamentaciones / regulaciones y actividades destinadas a prevenir la introducción y/o dispersión de plagas cuarentenarias o para asegurar su control oficial
+
+
+CONJUNTO DE HOSPEDANTES
+Las especies de vegetales capaces, bajo condiciones naturales de ser afectadas o infectadas con una plaga específica.
+
+
+RECHAZO
+Prohibición del ingreso de un embarque u otros objetos de normalización cuando dejan de cumplir con las reglamentaciones / regulaciones fitosanitarias.
+
+
+REGIÓN
+Los territorios combinados de los países miembros de una Organización Regional de Protección Fitosanitaria.
+
+
+SEMILLAS
+Partes vegetales destinadas a la siembra o plantación (ver granos).
+
+
+ESTÁNDAR
+Documento establecido por consenso y aprobado por un organismo reconocido, que suministra, para uso común y repetido, reglas, directivas o características para actividades o sus resultados con el propósito de alcanzar el grado óptimo de orden en un determinado contexto (Definición: ISO/IEC GUIDE 2:1991).
+
+
+TRATAMIENTO
+Procedimiento oficialmente autorizado para exterminar, remover o tornar infértiles las plagas cuarentenarias.
+
+
+TRATAMIENTO CUARENTENARIO
+Procedimiento autorizado, oficialmente para exterminar, remover o tornar infértiles las plagas cuarentenarias.
+
+
+TRATAMIENTO CUARENTENARIO COMBINADO
+Se refiere a la aplicación de dos o más tratamientos en forma conjunta o secuencial.
+
+
+TRATAMIENTO CUARENTENARIO DE IRRADIACIÓN
+Tratamiento de tipo físico para obtener la esterilización de plagas cuarentenarias a través de radiaciones ionizantes
+
+
+TRATAMIENTO CUARENTENARIO HIDROTÉRMICO
+Tratamiento de tipo físico para el control de plagas  cuarentenarias a través de inmersión en agua, a una determinada temperatura por un período de tiempo adecuado.
+
+
+TRATAMIENTO CUARENTENARIO TÉRMICO
+Tratamiento cuarentenario de tipo físicoutilizado para el control     de plagas cuarentenarias a través de bajas / altas temperaturas
+
+
+TRATAMIENTOS FÍSICOS
+Tratamiento cuarentenario en el cual el agente empleado para el control de la plaga es de carácter físico
+
+
+TRATAMIENTOS CUARENTENARIOS QUÍMICOS
+Tratamiento en el cual se aplica un producto fitosanitario para     destruir las plagas cuarentenarias.
+
+
+VALOR PROBIT 9
+Es el valor que permite evaluar la efectividad del tratamiento cuarentenario, en base al control de una población determinada de la plaga. Estadísticamente, corresponde al área bajo la curva de una distribución normal hasta el cuarto desvío padrón a la derecha de la media.
+
+
+VEGETALES
+Plantas vivas y sus partes, incluyendo semillas.
+
+
+VEGETALES PARA PLANTACIÓN
+Vegetales destinados a permanecer plantados a ser plantados o trasplantados.
+
+
+4. DESCRIPCIÓN
+
+El propósito básico de este Estándar es establecer el procedimiento por el cual se analizará el reconocimiento de los Tratamientos Cuarentenarios que sean reconocidos, con el objetivo de armonizar su uso por todos los Estados Partes e indicar aquellos que han sido reconocidos.
+	La aplicación de este Estándar permitirá contar con Tratamientos Cuarentenarios armonizados a los cuales las ONPFs puedan recurrir, como medida de disminuir el riesgo.
+
+El presente estándar incluirá un mecanismo que permite reconsiderar aquellos tratamientos que no cumplen con algunos de los requisitos que se establecen en este documento, aunque hayan sido utilizados para el intercambio a nivel mundial.
+
+
+II REQUISITOS GENERALES
+
+A. RECONOCIMIENTO
+
+Para que un Tratamiento Cuarentenario sea reconocido oficialmente por el MERCOSUR, es necesario que cumpla con los siguientes requisitos:
+
+1.	Requisitos Técnicos. Deben detallar:
+
+1.1. 	Tipo de plagas contra las cuales es aplicable el Tratamiento Cuarentenario.
+* Género y especies de la(s) plaga(s) cuarentenaria(s) asociada(s) al producto de interés, detallando su ciclo biológico.
+
+1.2.	Material vegetal y/o producto reglamentado susceptible de ser tratado.
+* Género(s) y especie(s) de material vegetal
+* Parte del material vegetal
+* Uso propuesto del material vegetal
+* Presentación
+* Detallar las características de embalaje comercial
+
+1.3.	Descripción detallada del Tratamiento Cuarentenario.
+* Deberá incluir las especificaciones técnicas del tratamiento. Por ejemplo: Producto fitosanitario, dosis, tiempo de exposición, temperaturas, etc.
+* Mencionar, en el caso de existir, las especificaciones que el tratamiento tiene para el producto, por ejemplo: tamaño de la fruta.
+* Instalaciones, equipamiento y control.
+
+1.4.	Respaldo Científico.
+1.4.1.	En el caso de un tratamiento cuarentenario reconocido o de uso habitual internacional, deberán presentarse como respaldo los antecedentes científicos en poder del Organismo que lo desarrolló y aprobó, así como los países que los están utilizando.
+* Si es posible, debe incluirse el respaldo estadístico que dé aval a la efectividad del Tratamiento Cuarentenario.
+* Si existe información que haga suponer distinta eficacia del Tratamiento Cuarentenario, la misma deberá ser considerada en el análisis.
+1.4.2.	En el caso de aquellos tratamientos que aún no son de uso internacional habitual, se permitirá la información de los siguientes ensayos:
+* Determinación de la etapa o forma más resistente de la plaga a la aplicación del tratamiento.
+* La(s) condición(es) (por ej.: dosis, tiempo de exposición, temperatura) del tratamiento capaz de exterminar, remover o hacer infértil la etapa o forma más resistente de la plaga.
+* El nivel de mortalidad o inviabilidad alcanzado.
+* Deberá detallarse el método de infectación o infección del producto por la plaga, especificando si el mismo fue obtenido de forma natural o artificial. En el caso de infestación o infección artificial, deberá especificarse el método de creación o cultivo de la plaga, así como el nivel de mortalidad natural o inviabilidad.
+* Desarrollo del Tratamiento Cuarentenario, en condiciones simuladas de comercialización, con el propósito de evaluar la efectividad del tratamiento para eliminación de la etapa o forma más resistente.
+* Respaldo estadístico de la efectividad del Tratamiento Cuarentenario expresado por el Valor Probit u otro método estadístico, que propicie la adecuada seguridad cuarentenaria.
+1.4.3.	En caso de que sea posible, se incluirá la opinión actualizada de especialistas en la materia.
+
+1.5.	Otros antecedentes del Tratamiento Cuarentenario.
+* Fitoxidad (Fitotoxicidad) y otros daños del Tratamiento Cuarentenario.
+Si es indispensable contar con la información, se incluirán los ensayos de los productos tratados, así como también, del poder germinativo en semillas y la medición de cualquier otro parámetro que pueda afectar el uso propuesto del producto.
+* Recomendaciones para el uso seguro del Tratamiento Cuarentenario para el operador.
+* Información sobre LMR y períodos de carencia.
+
+2. Requisitos Administrativos
+
+* El pedido de reconocimiento de un tratamiento podrá ser presentado por el SGT-CV, por un país integrante del MERCOSUR, o por la ONPF de un tercer país que realice la presentación formal ante el MERCOSUR.
+* Deberá presentarse bajo la forma de un proyecto de sub estándar, el cual se distribuirá a cada país miembro del MERCOSUR para su análisis.
+* Esta propuesta deberá ser enviada a los países, con 60 días de antecedencia a la reunión siguiente del SGT-CV, para su consideración.
+* Quando la ONPF de un país solicite la incorporación de un nuevo material vegetal a un sub estándar previametne aprobado, deberá presentar la información fundamentada que avale dicha propuesta.
+
+3. Mecanismo de Aprobación o de Rechazo
+
+* Para su aprobación, un proyecto de sub estándar deberá cumplir con los requisitos señalados en los puntos 1 y 2.
+* Un proyecto de sub estándar podrá ser rechazado por no contar con toda la información solicitada, y/o no tener el respaldo de eficacia suficiente para ofrecer una adecuada seguridad cuarentenaria.
+* El SGT-CV enviará al SCSVV los proyectos de sub estándares aprobados, el cual deberá expresar su opinión y enviarlos al Comité de Sanidad para su aprobación final.
+
+4. Mecanismos de Reconsideración
+
+Cuando un Tratamiento Cuarentenario sea rechazado por no cumplir con algunos de los requisitos enumerados en los puntos 1 y 2, y cuando se considere, por parte de uno de los países miembros del MERCOSUR que sería deseable contar con él, se seguirá el siguiente mecanismo:
+
+4.1.	Propuesta oficial fundamentada del tratamiento a considerar.
+4.2.	Análisis de la situación por parte de los Estados Partes. Deberán considerarse dos situaciones posibles:
+* Que se cuente con nueva información que permita cumplir con los requisitos, debido a los cuales fue rechazado.
+* Que no sea posible agregar información. En ese caso, debe presentarse el motivo fundamentado de la necesidad del tratamiento.
+4.3. Discusión y toma de decisión final, a realizarse en la reunión siguiente del SGT-CV que trate de la referida propuesta, cuyo resultado será informado el SCSV. El SCSV deberá expresar su opinión al respecto y someterla al Comité de Sanidad para la ratificación final.
+
+
+B. TRATAMIENTOS RECONOCIDOS
+
+TCM Nº 1
+
+
+Producto;	Semillas
+
+Plaga:		Trogoderma granarium
+
+Tratamiento:
+
+
+      Temperatura	Dosis		Concentración minima
+                                          lectura a:
+                        lb/1000ft3	0,5hs 2hs 4hs 12hs
+
+      90ºF o +		2,5 lbs		30	 20  20  15
+      80-89ºF		3,5 lbs		42	 30  30  20
+      70-79ºF		4,5 lbs		54	 40  40  25
+      60-69ºF		6   lbs			72	 50  50  30
+      50-59ºF		7,5 lbs		90	 60  60  35
+      40-49ºF		9   lbs		         108	 70  70  40
+
+Producto:	Otros productos vegetales
+
+Plaga:	 	Trogoderma granarium
+
+Producto:
+
+      Temperatura	Dosis		Concentración minima
+                                          lectura a:
+                        lb/1000ft3	0,5hs 2hs  12hs
+
+      90ºF o +		2,5 lbs		30	 20    15
+      80-89ºF		3,5 lbs		42	 30    20
+      70-79ºF		4,5 lbs		54	 40    25
+      60-69ºF		6   lbs			72	 50    30
+      50-59ºF		7,5 lbs		90	 60    35
+      40-49ºF		9   lbs			108   	 70    40
+
+
+      TCM Nº 2
+
+      Producto:	semilla de girasol (Heliantus annum)
+
+      Plaga:		Plasmopora halstedii
+
+      Tratamiento:	210 gr de i.a. de Metalaxil por cada 100 Kg. Semillas
+
+TCM Nº 3
+
+      Producto:	fruto fresco de tomate (Lycopersicon esculentun)
+
+      Plaga:		Ceratitis capitata, Anastrepha spp., Ragolethis tomatis
+
+	Tratamiento: Bromuro de metilo 32 gr/m3 durante 3,5 hs a 21ªC o más
+
+	ADVERTENCIA: Puede causar daños fitotoxicos e intolerancia de algunas 	especies o variedades.
+
+	TCM Nº 4
+
+Producto:	material de propagación vegetal de los generos Citrus, Malus y Pyrus
+
+Plaga:	Ceroplastes destructor, Planococcus lilacinus, Pseudococcus citriculus, Brevipalpus californicus, B. lewisi, Tetranychus pacificus.
+
+Tratamiento:	En material de propagación deberá ser sometido a un baño de inmersión con un insecticida/acaricida en las dosis y tiempos que establezca el país importador.
+
+	TCM Nº 5
+
+Producto:		fruta citrica fresca
+
+Plaga:			Xanthomonas campestris, pv. citri
+
+Tratamiento:	La fruta deberá ser sometida a un baño por inmersión durante 2 minutos en una solución de 200 ppm de Hipoclorito de sodio a un pH de 6 a 7,5 o en una solución conteniendo 1,86 a 2% de Orto fenil fenato de sodio (SOPP) por 45 segundos, si el baño tiene espuma a por un minuto en caso contrario, bajo supervisión oficial.
+
+	TCM Nº 6
+
+Producto:		fruta fresca citrica (excepto naranja)
+
+Plaga:		Brevipalpus californicus, B. lewisi y Tetranychus pacificus
+
+Tratamiento:	Bromuro de metilo
+
+DOSIS
+TIEMPO EXPOSICION
+TEMPERATURA
+40 gr/m3
+2 horas
+25,5 C o más
+
+ADVERTENCIA: No deberá fumigarse la fruta pre-enfriada si la temperatura de pulpa es inferior a 15,5 C
+
+ADVERTENCIA: Puede causar daños fitotoxicos e intolerancia de alguna especies y/o variedades.
+
+TCM Nº 7
+
+Producto:		fruta fresca de Citrus, Manzana y Pera
+
+Plaga:			Bactrocera dorsalis y B. cucurbitae
+
+Tratamiento:	con frío
+
+TEMPERATURA
+TIEMPO DE EXPOSICION
+0 C  o menos
+10 días
+0,55 C o menos
+11 días
+1,11 C o menos
+12 días
+1,66 C o menos
+14 días
+
+
+TCM Nº 8
+
+Producto:		fruta fresca de Citrus, Manzana y Pera
+
+Plaga:			Bactrocera tryoni
+
+Tratamiento:	con frio
+
+TEMPERATURA
+TIEMPO DE EXPOSICION
+0 C o menos
+13 días
+0,55 C o menos
+14 días
+1,11 C o menos
+18 días
+1,66 C o menos
+20 días
+2,22 C o menos
+22 días
+
+TCM Nº 9
+
+Producto:	fruta fresca de Citrus, Manzana y Pera
+
+Plaga:		Anastrepha fraterculus, Anastrepha spp (excepto A. ludens)
+
+Tratamiento: con frío
+TEMPERATURA
+
+TIEMPO DE EXPOSICION
+0 C o menos
+11 días
+0,55 C o menos
+13 días
+1,11 C o menos
+15 días
+1,66 C o menos
+17 días
+
+
+TCM Nº 10
+
+Producto:	fruta fresca de Citrus, Manzana y Pera
+
+Plaga:		Anastrepha ludens
+
+Tratamiento: con frio
+
+TEMPERATURA
+TIEMPO DE EXPOSICION
+0,55 C o menos
+18 días
+1,11 C o menos
+20 días
+1,66 C o menos
+22 días
+
+
+TCM Nº 11
+
+Producto:	fruta fresca de Citrus, manzana y Pera
+
+Plaga:		Bactrocera dorsalis, B. cucurbitae, B. tryoni y Ceratitis capitata
+
+Tratamiento:	Bromuro de metilo y refrigeración
+
+ADVERTENCIA:  algunas variedades de frutas pueden ser dañadas con un tiempo de exposición de 3 horas
+
+NOTA: el tiempo entre la fumigación y el comienzo de la refrigeración no debe exceder 24 horas
+
+1a.	Tiempo de exposición de la fumigación : 2 horas
+
+TEMPERATURA
+DOSIS
+LECTURA DE CONCENTRACION MINIMA (gr/m3) a las :
+0,5 horas                                      2 horas
+21 C o  más
+32 gr/m3
+25                                                        18
+
+1b.	Seguido por refrigeración
+
+TEMPERATURA
+TIEMPO DE EXPOSICION
+0,55 C    -   0,7 C
+4 días
+0
+
+3,33 C    -    8,3 C
+11 días
+
+2a.	Tiempo de exposición de la fumigación : 2,5 horas
+
+TEMPERATURA
+DOSIS
+LETURA DE LA CONCENTRACION MINIMA
+0,5                 2 HORAS          2 HORAS
+21 C o más
+32 gr/m3
+25                        18                      18
+
+
+2b.	Seguido por refrigeración
+
+TEMPERATURA
+TIEMPO DE EXPOSICION
+1,11ºC - 4,44ºC
+4 días
+o
+
+5ºC - 8,33ºC
+6 días
+o
+
+8,88ºC - 13,33ºC
+10 días
+
+3a   Tiempo de exposición de la fumigación: 3 horas
+
+TEMPERATURA
+DOSIS
+LECTURA DE CONCENTRACIÓN MINIMA (gr/m3) A LA:
+
+
+0,5 hr
+2 hr
+2,5 hr
+3 hr
+21ºC o más
+32 gr/m3
+25
+18
+18
+17
+
+3b  Seguido por refrigeración.
+
+TEMPERATURA
+TIEMPO DE EXPOSICIÓN
+11ºC  -  8,33ºC
+3 días
+o
+
+8ºC  -  13,33ºC
+6 días
+
+
+TCM Nº 12
+
+Producto: fruta fresca cítrica
+
+Plaga:  Anastrepha spp.
+
+Tratamiento: 	fumigación con bromuro de metilo
+
+DOSIS
+TIEMPO DE EXPOSICIÓN
+TEMPERATURA
+40 gr/m3
+2 horas
+21ºC a 29ºC
+
+
+NOTA: el limite de carga de la cámara no debe exceder el 80% de su capacidad.
+
+Previo al tratamiento deberá inspecionarse una muestra representativa de la fruta. Si el nivel de infestación con Mosca de los Frutos es mayor que el 0,5% del lote, entonces la fruta es inelegible para la fumigación.
+
+ADVERTENCIA: Puede causar daños fitotóxicos e intolerancia de algunas especies  y/o variedades.
+
+
+TCM Nº 13
+
+Producto: fruta fresca Citrus, manzana y Pera
+
+Plaga:      Ceratitis capitata
+
+Tratamiento: 	con frío.
+
+TEMPERATURA
+TIEMPO DE EXPOSICIÓN
+0ºc o menos
+10 días
+0,55ºC o menos
+11 días
+1,11ºC o menos
+12 días
+1,66ºC o menos
+14 días
+2,22ºC o menos
+16 días
+
+
+TCM Nº 14
+
+Producto: fruta fresca de Manzana y Pera
+
+Plaga:      Erwinia amylovora.
+
+Tratamiento: 	la fruta deberá ser sometida a un baño por inmersión durante 1 minuto en una solución de cloro a una concentración de 100 ppm.
+
+
+TCM Nº 15
+
+Producto: fruta (excepto cítricos)
+
+Plaga:  Brevipalpus lewisi, Tetranychus pacificus.
+
+Tratamiento: 	fumigación con bromuro de metilo
+
+DOSIS
+TIEMPO DE EXPOSICIÓN
+TEMEPEARTURA/PRODUCTO
+24 gr/m3
+2 horas
+26,5ºC  -  31,5ºC
+32 gr/m3
+2 horas
+21ºC   -  26ºC
+40 gr/m3
+2 horas
+15,5ºC   -  20,5ºC
+48 gr/m3
+2 horas
+10ºC   -  15ºC
+64 gr/m3
+2 horas
+4,5ºC    -   9,5ºC
+
+ADVERTENCIA: Puede causar daños fitotóxicos e intolerancia de algunas especies y/o variedades.
+
+
+TCM Nº 16
+
+Producto: fruta fresca de Pera y Manzana
+
+Plaga:      Anthonomus pyri.
+
+Tratamiento: 	fumigación con bromuro de metilo
+
+
+DOSIS
+TIEMPO DE EXPOSICIÓN
+TEMPERATURA/PRODUCTO
+16 gr/m3
+2 horas
+25ºC o más
+24 gr/m3
+2 horas
+20ºC  - 25ºC
+32 gr/m3
+2 horas
+10ºC  - 20ºC
+48 gr/m3
+2 horas
+2ºC    - 10ºC
+
+ADVERTENCIA: Puede causar daños fitotóxicos e intolerancia de algunas especies y/o variedades.
+
+
+TCM Nº 17
+
+Producto: fruta fresca de Manzana
+
+Plaga:  Conotrachelus nenuphar.
+
+Tratamiento: 	con frío.
+	90 días a 3,3 ºC o menos
+
+
+TCM Nº 18
+
+Producto: fruta fresca de Manzana, Pera, Durazno, Damasco, Cereza, Nectarín, Ciruelas e Membrillo.
+
+Plaga:  Conotrachelus nenuphar.
+
+Tratamiento: 	con frío.
+	40 días a  -0,6 ºC o menos
+
+
+TCM Nº 19
+
+Producto: fruta fresca de Manzana y Pera
+
+Plaga:  Rhagoletis pomonella
+
+Tratamiento: 	con frío
+	42 días a -0,6ºC a 2,2ºC
+
+
+TCM Nº 20
+
+Producto: fruta fresca de Manzana y Pera
+
+Plaga:  Anarsia lineatella
+
+Tratamiento: 	fumigación en cámara de vacío (381 mm Hg) com Bromuro de metilo.
+
+
+DOSIS
+TIEMPO DE EXPOSICIÓN
+TEMPERATURA/PRODUCTO
+48 gr/m3
+2    horas
+21ºC o más
+48 gr/m3
+2,5 horas
+16ºC - 20 ºC
+
+
+ADVERTENCIA: Puede causar daños fitotóxicos e intolerancia de algunas especies y/o variedades.
+
+
+TCM Nº 21
+
+Producto: Plantas de Coffea spp.
+
+Plaga:	      Planococcoides njalensis y Planococcus lilacinus.
+
+Tratamiento:	Fumigación con Bromuro de metilo.
+
+DOSIS		Tiempo de exposición		Temperatura
+
+32 grs./m3		4 horas				21 C ó +
+40 grs./m3		4 horas				16-20 C
+48 grs./m3		4 horas				11-15 C
+
+Fuente de Información : 1.
+
+
+TCM Nº 22
+
+Producto: Granos de café verdes (Coffea spp.)
+
+Plaga:	      Sophronica ventralis.
+
+Tratamiento:	Fumigación con Bromuro de metilo.
+
+DOSIS		Tiempo de exposición 		Temperatura
+
+48 grs./m3		2,5 horas				22-35 C
+48 grs./m3		3   horas				16-21 C
+48 grs./m3		3,5 horas				10-15 C
+
+Fuente de Información : 1.
+
+
+TCM Nº 23
+
+Producto:	Granos de café verdes (Coffea spp.)
+
+Plaga:		Sophronica ventralis.
+
+Tratamiento:	Fumigación con Phostoxin (fosfuro de aluminio), 3 tabletas/m3, durante 72 horas a temperatura de 20-21 C ó más.
+
+Fuente de información : 1.
+
+
+TCM Nº 24
+
+Producto:	algodón en rama, grano, fibra, pellets y otros derivados.
+
+Plaga:	Anthonomus grandis
+
+Tratamiento:	Fumigación con Bromuro de Metilo.
+
+            Temperatura		Dosis		Tiempo de exposición
+
+            26,5 - 31,5 ºC		48g/m3			8 horas
+            15,5 - 26   ºC		64g/m3			8 horas
+            13   - 15   ºC			80g/m3			8 horas
+            10   - 12,5 ºC		88g/m3			8 horas
+             4,5 -  9,5 ºC			96g/m3			8 horas
+
+Fuente de información: 2
+
+TCM Nº 25
+
+Producto:	Algodón en rama grano, fibra, tortas, pellets y otros derivados.
+
+Plaga:	Anthonomus grandis
+
+Tratamiento:	Fumigación con fosfina 1,5-3 g/m3 a 10 ºC ó más, con un tiempo de exposición mínimo de 72 horas.
+
+Fuente de información: 2
+
+
+TCM Nº 26
+
+Producto:	Semilla de algodón
+
+Plaga:	Anthonomus grandis
+
+Tratamiento:	Fumigación con fosfamina 3g/m3 a 10 ºC ó más durante 72 horas.
+
+Fuente de información: 2
+
+TCM Nº 27
+
+Producto: Fruto fresco frutilla
+
+Plaga:	Ceratitis capitata
+
+Tratamiento:	Fumigación con 48g/m3 de Bromuro de metilo durante 3 horas a 15 ºC ó más.
+
+Fuente de información: 3
+
+
+TCM Nº 28:
+
+Producto:	Frutos frescos de pera y Prunus.
+
+Plaga: Cryptophlebia leucotreta.
+
+Tratamiento: Con frío.
+
+Temperatura				Tiempo de exposición
+
+   -0,55 ºC ó menos 				22 días
+
+Fuente de información: 2
+
+
+TCM Nº 29
+
+Producto:	Papa consumo
+
+Plagas: 	intimamente asociadas (virus,bacterias)
+
+Tratamiento: Cloro Isopropil Fenil Carbamato - CIPC
+
+LMR:		50 ppm
+
+TCM Nº 30
+
+Producto:	Papa consumo
+
+Plagas:	intimamente asociadas (virus,bacterias)
+
+Tratamiento: Hidrazida maleica
+
+LMR:		Según CODEX
+
+
+37

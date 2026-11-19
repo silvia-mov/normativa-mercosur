@@ -1,0 +1,1033 @@
+Resolución GMC N° 17/04
+Título: NORMA RELATIVA A LA INFORMATIZACIÓN DEL MANIFIESTO INTERNACIONAL DE CARGAS / DECLARACIÓN DE TRÁNSITO ADUANERO Y AL SEGUIMIENTO DE LA OPERACIÓN ENTRE LOS ESTADOS PARTES DEL MERCOSUR
+Fecha de aprobación: 25/06/2004
+Vigencia: Vigente (Vigente desde el 05/12/2008 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 14803_RES_017-2004_ES_FE_NormaInformManifIntCargas.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/821).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 17/04
+
+
+NORMA RELATIVA A LA INFORMATIZACIÓN DEL MANIFIESTO INTERNACIONAL DE CARGAS / DECLARACIÓN DE TRÁNSITO ADUANERO Y AL SEGUIMIENTO DE LA OPERACIÓN ENTRE LOS ESTADOS PARTES DEL MERCOSUR
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución N° 4/91 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que como instrumento para la facilitación del comercio entre los Estados Partes resulta conveniente la aplicación de la tecnología de la información a los procedimientos vinculados con el seguimiento de las operaciones de Tránsito Aduanero Internacional (TAI).
+
+Que se han concretado exitosamente procesos de intercambio electrónico de datos entre las administraciones aduaneras de los Estados Partes del MERCOSUR.
+
+Que los Estados Partes del MERCOSUR son signatarios del Acuerdo sobre Transporte Internacional Terrestre (ATIT), en cuyo Anexo I, Capítulo XIV, artículo 30, inciso 2 se prevé la utilización de tecnología informática disponible para la transmisión de datos, por lo que resulta conveniente avanzar en ese sentido.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+
+Art. 1 - Aprobar la "Norma relativa a la Informatización del Manifiesto Internacional de Cargas / Declaración de Tránsito Aduanero y al Seguimiento de la Operación entre los Estados Partes del MERCOSUR", así como sus Apéndices (Apéndice I - "Datos de la Declaración de TAI", Apéndice II - "Referencia Única de la Operación de TAI (RUT)", Apéndice III - "Novedades (Ocurrencias) Parametrizadas de la operación de TAI, y Apéndice IV - "Eventos a Transmitir", que se acompañan en Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Aprobar como método de seguimiento global de las operaciones de TAI los procesos de intercambio electrónico de información vinculada a la Referencia Única de la Operación de TAI (RUT), entre los sistemas informáticos de las administraciones aduaneras de los Estados Partes del MERCOSUR, en las condiciones que se establecen en la presente norma.
+
+
+Art. 3 -1.- Sin perjuicio de lo establecido en el artículo 6 el procedimiento establecido en la presente norma será aplicado entre aquellos Estados Partes que hayan adecuado sus sistemas informáticos, mediante intercambio de notas.
+2.- El procedimiento a que se refiere el apartado 1 podrá ser puesto en funcionamiento como prueba piloto en corredores viales previamente establecidos para evaluar su aplicación, inclusive en lo que se refiere a la contingencia, y su gestión.
+
+Art. 4 - El Comité Técnico N° 2 - "Asuntos Aduaneros" de la Comisión de Comercio del MERCOSUR deberá elaborar un cronograma de implementación de las medidas a que se refiere la presente Resolución.
+
+Art. 5 - Autorizar al Comité Técnico N° 2 - "Asuntos Aduaneros" de la Comisión de Comercio del MERCOSUR a actualizar la tabla de ocurrencias contenida en el Apéndice III - "Novedades (Ocurrencias) Parametrizadas de la operación de TAI", en la medida que la experiencia recogida recomiende su modificación, mediante procedimientos de implementación simplificados y coordinados entre los Estados Partes.
+
+Art. 6 - Esta Resolución deberá ser incorporada a los ordenamientos jurídicos nacionales de los Estados Partes antes de 1/IX/04.
+
+
+LIV GMC - Buenos Aires, 25/VI/04
+
+
+ANEXO
+
+NORMA RELATIVA A LA INFORMATIZACIÓN DEL MANIFIESTO INTERNACIONAL DE CARGAS / DECLARACIÓN DE TRÁNSITO ADUANERO Y AL SEGUIMIENTO DE LA OPERACIÓN ENTRE LOS ESTADOS PARTES DEL MERCOSUR
+
+ÁMBITO Y OPERACIONES DE APLICACIÓN
+
+Artículo 1°
+El procedimiento establecido por la presente norma es aplicable en el ámbito de los Estados Partes del MERCOSUR, a las operaciones de Tránsito Aduanero Internacional (TAI) efectuadas al amparo del Acuerdo de Alcance Parcial sobre Transporte Internacional Terrestre (ATIT), del régimen de Transporte de Encomiendas en Ómnibus de Pasajeros de Línea Regular habilitados para el transporte internacional, y podrá ser aplicado al Acuerdo de Transporte Fluvial por la Hidrovía Paraguay - Paraná con las adecuaciones y ajustes que tal vía de transporte requiera.
+
+Artículo 2°
+Siempre que estas operaciones se desarrollen en el ámbito establecido en el artículo 1°, la presente Resolución es aplicable a las operaciones de:
+
+a) transporte terrestre con tráfico bilateral a través de frontera común, como asimismo las de tráfico bilateral con tránsito por terceros países signatarios, siempre al amparo de un Manifiesto Internacional de Carga y de la Declaración de Tránsito Aduanero (MIC / DTA) vigente, incluyendo el transporte sin carga (en lastre);
+b) tránsito internacional efectuado por la vía ferroviaria al amparo del Conocimiento -Carta de Porte Internacional -Declaración de Tránsito Aduanero (TIF / DTA);
+c) tránsito internacional de encomiendas realizadas por medio de ómnibus de pasajeros de línea regular habilitados para tal fin.
+
+EMPADRONAMIENTO
+
+Artículo 3°
+1. El transporte de mercaderías mediante las operaciones TAI será efectuado por transportistas habilitados y empadronados sobre la base de su identificador fiscal.
+2. El acceso a los sistemas informáticos de los Estados Partes solamente será permitido a operadores debidamente habilitados, inclusive en el caso de transportistas habilitados con carácter ocasional, en las condiciones establecidas en el ATIT.
+
+Artículo 4°
+Las administraciones aduaneras de los Estados Partes, a través de sus sistemas informáticos, intercambiarán información relativa a los transportistas habilitados, incluyendo aquellas de interés para la operación, vinculadas al medio de transporte o al transportista, obrantes en el Apéndice I.
+
+Artículo 5°
+Los sistemas informáticos de los Estados Partes deberán contar con funcionalidades que permitan registrar la autorización de los exportadores o responsables legales de la mercadería a los transportistas, para actuar en su nombre como beneficiarios del tránsito.
+
+RESPONSABILIDADES
+
+DEL TRANSPORTISTA
+
+Artículo 6°
+Las responsabilidades del transportista serán aquellas establecidas en el ATIT y en la legislación de los Estados Partes.
+
+Artículo 7°
+El transportista o su representante legal serán también responsables por el registro informático de la operación de TAI y por las informaciones suministradas en ocasión de dicho registro.
+
+DE LAS ADMINISTRACIONES ADUANERAS
+
+Artículo 8°
+1. Las administraciones aduaneras deberán intercambiar, en la forma establecida en la presente norma, información:
+a) relativa al registro informático de la operación de TAI y a los eventos de control vinculados al mismo, y
+b) relativas a las intervenciones de sus funcionarios y de los transportistas o sus declarantes autorizados.
+2. Las administraciones aduaneras deberán además garantizar la correcta utilización de los datos cuyo intercambio fue acordado, arbitrando las medidas necesarias a los fines de evitar y reprimir su uso indebido.
+
+REGISTRO INFORMÁTICO DE LA OPERACIÓN DE TAI
+
+Artículo 9°
+1. El transportador o su representante legal solicitará el régimen de TAI mediante el registro informático de la declaración relativa a la operación, integrando la información prevista en el Apéndice I.
+2. La declaración podrá efectuarse en portugués o español, según el idioma del país de registro.
+3. La declaración de TAI solo será oficializada si se hubieren integrado los datos señalados como obligatorios en el Apéndice I.
+
+
+Artículo 10°
+1. El registro de la declaración podrá ser realizado utilizando los datos relativos a las mercaderías que hayan sido declarados en oportunidad de la destinación aduanera que ampara la carga transportada como TAI.
+2. En el caso señalado en el apartado 1, la responsabilidad por las informaciones así suministradas será del declarante original, sin perjuicio de lo establecido en el Articulo 7º.
+
+
+Artículo 11°
+El tránsito internacional de los medios de transporte en lastre será considerado como un caso especial de TAI, salvo las excepciones expresamente dispuestas, y a los efectos de su seguimiento, se identificarán mediante el registro de un documento de transporte generado por los sistemas informáticos de los Estados Partes.
+
+RUTA INFORMÁTICA
+
+Artículo 12º
+A los efectos de esta norma, se entiende por "Ruta Informática" la secuencia de datos relativos a País-Ciudad-Aduana-Lugar Operativo, a integrar en el momento del registro informático de la declaración de TAI, conforme al itinerario que seguirá el medio de transporte, a fin de que se constituyan en los únicos puntos autorizados para recibir o emitir la información requerida para el seguimiento del TAI.
+
+
+Artículo 13º
+El declarante, cuando fuera el caso, registrará el punto de la "Ruta Informática" donde se produzcan transbordos programados.
+
+Articulo 14°
+No podrán cambiarse datos relativos a un punto de la "Ruta Informática" una vez que el medio de transporte haya pasado por dicho punto.
+
+OFICIALIZACIÓN DE LA DECLARACIÓN INFORMÁTICA DE TAI
+
+Artículo 15°
+1. La oficialización de una operación de  TAI se produce en el momento en que las administraciones aduaneras de origen aceptan la declaración de la operación en sus sistemas y le asignan mediante éstos un identificador único e irrepetible denominado Registro Único de Tránsito (RUT), conforme a las características establecidas en el Apéndice II.
+2. La declaración de TAI no podrá ser alterada por el declarante después de su oficialización.
+
+
+Artículo 16°
+ La oficialización de la declaración de TAI caracteriza el inicio de las responsabilidades asociadas al régimen.
+
+Artículo 17°
+1. Los sistemas informáticos de los Estados Partes serán diseñados a fin de permitir, luego de la oficialización del registro informático, la impresión en soporte papel de los formularios autorizados, en tantas copias numeradas como puntos de control se prevea para la "Ruta Informática".
+2. Las copias a que se refiere el apartado 1 serán utilizadas hasta tanto la legislación de los Estados Partes autoricen los procedimientos electrónicos en forma excluyente.
+
+
+Artículo 18°
+La información contenida en soporte papel deberá concordar con la ingresada informáticamente, constituyendo responsabilidad de cada Estado Parte asegurar la mencionada consistencia.
+
+Artículo 19°
+Una vez oficializados los registros y en ocasión de la partida del medio de transporte, la aduana de registro transmitirá a las demás aduanas intervinientes participantes de la "Ruta Informática" los documentos electrónicos correspondientes al registro de TAI, y el evento de partida del medio de transporte acorde a lo establecido en el Artículo 36° y en Apéndice IV.
+
+Artículo 20°
+Los datos transmitidos podrán ser reutilizados por las aduanas en todos aquellos procesos informáticos que realice cada uno de los Estados Partes.
+
+Artículo 21°
+Los Estados Partes se comprometen a tomar todos los recaudos necesarios que garanticen que los datos ingresados por el declarante, mediante registro informático, no puedan, una vez oficializada la declaración por los sistemas aduaneros, ser objeto de repudio o modificación sin autorización e intervención de la autoridad aduanera.
+
+USO DE LOS FORMULARIOS PARA LAS OPERACIONES DE TAI
+
+Artículo 22°
+La documentación respaldatoria de la operación y de los controles efectuados en las secuencias previstas será resguardada en las aduanas intervinientes por el lapso que establezca la legislación de cada Estado Parte, y se encontrará a disposición de las aduanas participantes en caso que sea requerida por los medios pertinentes, en el marco del Anexo I -  "Asuntos Aduaneros", Capítulo XII, Artículo 22 del ATIT.
+
+
+Artículo 23°
+Cada Estado Parte arbitrará las medidas necesarias a fin de efectuar los controles que permitan determinar la veracidad y la consistencia entre la documentación intervenida por la autoridad aduanera y los registros informáticos efectuados en consecuencia.
+
+TORNAGUÍA ELECTRÓNICA
+
+Artículo 24°
+1. La operatoria informática prevista por la presente norma dará información sobre el estado y conclusión de las operaciones de TAI.
+2. Cada conjunto de registros informáticos previstos y la documentación respaldatoria a que se refiere el Artículo 22 serán considerados como una tornaguía electrónica.
+
+TRANSMISIÓN DE LAS INFORMACIONES
+
+Artículo 25°
+Al ocurrir un evento que deba ser registrado informáticamente, la administración aduanera del Estado Parte en el cual se produce dicho evento deberá transmitir, en forma simultánea al momento de su  registro, el correspondiente mensaje a sus similares de los Estados Partes participantes en la respectiva operación de tránsito.
+
+Artículo 26°
+1. Los sistemas informáticos utilizados por las aduanas de cada Estado Parte serán diseñados a fin de informar:
+a) sobre la situación de todas las operaciones de TAI que se estén desarrollando en su jurisdicción, y
+b) el plazo de llegada a destino de cada documento de transporte.
+2. Los plazos a que se refiere el inciso b) del apartado 1 serán controlados en cada tramo por los sistemas informáticos locales.
+
+Artículo 27°
+La información prevista para el seguimiento de las operaciones de TAI deberá ser transmitida desde y hacia los sistemas informáticos oficiales de los Estados Partes, considerándose a todos los efectos información oficial de las administraciones aduaneras emisoras.
+
+CARACTERÍSTICAS DE LOS SISTEMAS
+
+Artículo 28º
+Los sistemas informáticos de las administraciones aduaneras participantes deberán ser diseñados de forma de permitir:
+a) que los funcionarios aduaneros ingresen información común a los distintos documentos de transporte de un mismo medio de transporte o a cada uno de ellos, en forma indistinta, mediante transacciones únicas;
+b) el acceso a la información a través de códigos de barra u otras tecnologías, cuando se encuentren disponibles.
+
+Artículo 29°
+Los sistemas informáticos de las administraciones aduaneras participantes deberán ser diseñados a fin de brindar información de los siguientes eventos:
+a) registro de la declaración de la operación de TAI a ser transmitida;
+b) los que resulten de la operatoria aduanera en la partida, las fronteras o en los destinos;
+c) novedades (ocurrencias), según las definiciones establecidas en el Apéndice IV.
+
+Artículo 30°
+1. Los sistemas informáticos de las administraciones aduaneras participantes deberán ser diseñados a fin de prever la realización de consultas estructuradas relativas a:
+a) tránsitos por arribar;
+b) tránsitos vencidos;
+c) tránsitos interrumpidos;
+d) tránsitos finalizados; y
+e) destinaciones u operaciones aduaneras en destino, luego de la conclusión del tránsito, en la medida que los Estados Partes concluyan con los desarrollos pertinentes.
+2. A partir de los datos intercambiados, cada Estado Parte queda facultado a realizar sus propias consultas no estructuradas.
+
+PROCEDIMIENTOS DE CONTINGENCIA
+
+Artículo 31°
+1. No podrán darse lugar a procedimientos manuales de contingencia para la oficialización de la operación de TAI y el evento de partida a que se refieren el Artículo 36° y el Apéndice IV.
+2. En el caso de imposibilidad de oficialización de la declaración de TAI en el sistema informático a que se refiere el Artículo 15 (principal), tal oficialización será efectuada a través de sistema informático alternativo de contingencia.
+3. Los sistemas informáticos alternativos deberán ser diseñados a fin de prever la transmisión electrónica de datos a los sistemas principales de los Estados Partes involucrados en las respectivas operaciones de TAI.
+4. Luego de la partida y ante situaciones justificadas, podrán adoptarse los procedimientos manuales de contingencia, acorde a la legislación de cada Estado Parte.
+5. Los procedimientos manuales de contingencia referidos en el apartado 4 deberán ser regularizados informáticamente en un plazo máximo de 24 (veinticuatro) horas, luego de desaparecida la causa que originó la aplicación del procedimiento manual alternativo.
+6. En caso de ser efectuados procedimientos de contingencia, la aduana que los produzca deberá comunicar lo realizado a todas las demás aduanas de la Ruta Informática.
+
+
+TABLAS E IDENTIFICADORES
+
+Artículo 32°
+A fin de asegurar la posibilidad de reutilización de datos y la interpretación uniforme de los mismos, los registros informáticos de la operación de TAI o de los eventos de control vinculados al mismo deberán utilizar codificadores o identificadores comunes.
+
+
+SEGUIMIENTO Y FINALIZACIÓN DE OPERACIONES DE TAI
+
+Artículo 33º
+El seguimiento informático de los manifiestos internacionales de carga se efectuará por cada documento de transporte, determinando para cada uno de ellos su partida, su paso por frontera y su arribo a destino.
+
+Artículo 34º
+1. A efectos del seguimiento de la operación de TAI, los puntos de control determinados en la Ruta Informática deberán brindar información sobre la referida operación.
+2. Los eventos relacionados a la operación de TAI serán registrados en los siguientes puntos de control:
+a) en el Estado Parte del Inicio del TAI: punto de partida y punto de salida;
+b) en el / los Estado / s Parte / s de Paso: punto de entrada y punto de salida;
+c) en el Estado Parte de Finalización: punto de entrada y llegada al punto de destino.
+
+Artículo 35°
+Los registros de eventos en los puntos de control deberán contener información relativa a los funcionarios intervinientes, a la fecha y hora de producido el evento, a las novedades (ocurrencias) parametrizadas según Apéndice III, y a toda otra información que se considere relevante para el seguimiento de la operación.
+
+EVENTOS A TRANSMITIR
+
+Artículo 36°
+Las administraciones aduaneras deberán transmitir, conforme los puntos de control de la operación de TAI, los eventos definidos en el Apéndice IV.
+
+RECTIFICACIÓN Y ANULACIÓN DEL REGISTRO DE UNA OPERACIÓN DE TAI
+
+Artículo 37°
+1. A pedido del interesado o de oficio, conforme el caso, por los mecanismos y los procedimientos que prevea la legislación de cada Estado Parte, podrá efectuarse la rectificación o la anulación de una declaración electrónica de TAI oficializada.
+2. Los datos rectificados deberán ser ingresados al sistema a fin de constar en la declaración.
+3. La rectificación o la anulación a que se refiere el apartado 1 solamente podrá ser realizada por la aduana de registro y antes del evento de la partida del medio de transporte.
+
+Artículo 38°
+La rectificación o la anulación de una declaración de TAI oficializada no exime al beneficiario o al transportador de las responsabilidades emergentes por eventuales delitos o infracciones, de conformidad a la legislación de cada Estado Parte.
+
+
+APENDICE I
+
+DATOS DE LA DECLACIÓN DE TRÁNSITO ADUANERO INTERNACIONAL (TAI)*
+
+RELATIVOS AL MEDIO DE TRANSPORTE
+
+
+Nº de Orden
+Nº de Campo en el Formulario
+Datos
+MIC
+TIF
+MIE
+OBSERVACIONES
+1
+NUEVO (MIC-DTA) NUEVO (TIF-DTA) (MIE-DTA)
+VIA DE TRANSPORTE
+O
+O
+O
+
+2
+1(MIC-DTA)          4(TIF-DTA)         (MIE-DTA)
+NOMBRE DEL TRANSPORTADOR EMISOR
+O
+O
+O
+
+3
+1(MIC-DTA)         4(TIF-DTA)         (MIE-DTA)
+DOMICILIO DEL TRANSPORTADOR EMISOR
+O
+O
+O
+
+4
+1(MIC-DTA)           4(TIF-DTA)            (MIE-DTA)                                     3(CRT)
+PAIS DEL TRANSPORTADOR EMISOR
+O
+O
+O
+
+5
+2(MIC-DTA) NUEVO (TIF-DTA) (MIE-DTA)
+REGISTRO FISCAL DEL TRANSPORTADOR EMISOR
+O
+O
+O
+
+6
+9(MIC-DTA)                           3(CRT)
+NOMBRE DEL PROPIETARIO DEL VEHICULO
+O
+X
+X
+El dato será registrado cuando el propietario del vehículo sea distinto al transportador
+7
+9(MIC-DTA)                           3(CRT)
+DOMICILIO DEL PROPIETARIO DEL VEHICULO
+O
+X
+X
+El dato será registrado cuando el propietario del vehículo sea distinto al transportador
+8
+9(MIC-DTA)
+PAIS DEL PROPIETARIO DEL VEHICULO
+O
+X
+X
+El dato será registrado cuando el propietario del vehículo sea distinto al transportador
+9
+10(MIC-DTA)
+REGISTRO FISCAL DEL PROPIETARIO DEL VEHICULO
+O
+X
+X
+El dato sera registrado cuando el propietario del vehiculo sea distinto al transportador
+10
+NUEVO (MIC-DTA) NUEVO (TIF-DTA) (MIE-DTA)
+EN LASTRE
+O
+X
+O
+Informar SI (S) o NO (N)
+11
+11(MIC-DTA)         (MIE-DTA)
+IDENTIFICACION DEL VEHICULO
+O
+X
+O
+Dato a incluirse en el evento de partida
+12
+15 (MIC-DTA)          14 (TIF-DTA)
+IDENTIFICACION DEL SEMIREMOLQUE/REMOLQUE/VAGON
+O
+O
+X
+Dato a incluirse en el evento de partida
+13
+12(MIC-DTA)
+MARCA Y NUMERO DEL CHASIS DEL VEHICULO
+O
+X
+X
+Dato a incluirse en el evento de partida
+14
+14(MIC-DTA)
+MODELO DE CHASIS Y AÑO DE FABRICACION
+O
+X
+X
+Dato a incluirse en el evento de partida
+15
+13(MIC-DTA)
+CAPACIDAD DE TRACCION
+O
+X
+X
+Dato a incluirse en el evento de partida
+16
+40(MIC-DTA)           22(TIF-DTA)                    (MIE-DTA)
+DESCRIPCION DE RUTAS/ITINERARIO
+O
+O
+O
+
+17
+NUEVO (MIC-DTA)  (MIE-DTA)
+NOMBRE DEL CONDUCTOR DEL VEHICULO
+O
+X
+O
+Dato a incluirse en el evento de partida
+18
+NUEVO (MIC-DTA)  (MIE-DTA)
+DOCUMENTO DE IDENTIDAD DEL CONDUCTOR
+O
+X
+O
+Dato a incluirse en el evento de partida
+19
+31o 46 (MIC-DTA) 15 (TIF-DTA)           (MIE-DTA)
+CANTIDAD TOTAL DE BULTOS TRANSPORTADOS
+O
+O
+O
+
+20
+32 o 47 (MIC-DTA) 18 (TIF-DTA)                  (MIE-DTA)
+PESO BRUTO TOTAL DE LOS BULTOS TRANSPORTADOS
+O
+O
+O
+
+21
+38 (MIC-DTA)                16(TIF-DTA)                                   (MIE-DTA)                                11(CRT)
+IDENTIFICACION DEL CONTENEDOR
+O
+O
+O
+Para mercaderías sueltas debe integrarse con N
+22
+NUEVO (MIC-DTA)         NUEVO (TIF-DTA)
+MEDIDAS DEL CONTENEDOR
+O
+O
+X
+Codificado - Para mercaderías sueltas debe integrarse con N
+23
+NUEVO (MIC-DTA)         NUEVO (TIF-DTA)
+CONDICION DEL CONTENEDOR
+F
+F
+X
+Condición de contratación
+24
+ NUEVO (MIC-DTA)                   NUEVO (TIF-DTA)           (MIE-DTA)
+CANTIDAD DE BULTOS DENTRO DEL CONTENEDOR
+O
+O
+O
+
+25
+37(MIC-DTA)           20(TIF-DTA)                    (MIE-DTA)
+NUMEROS DE LOS PRECINTOS
+O
+O
+O
+Dato a incluirse en el evento de partida
+26
+16 (TIF-DTA)
+ACCESORIOS - TIPO Y NUMERO
+X
+O
+X
+
+
+RELATIVOS A CADA DOCUMENTO DE TRANSPORTE
+
+
+Nro de Orden
+Nro.de Campo en el Formulario
+Datos
+MIC
+TIF
+MIE
+OBSERVACIONES
+27
+4(MIC-DTA)           7(TIF-DTA)                    (MIE-DTA)
+REFERENCIA UNICA DE TRANSITO -RUT
+O
+O
+O
+
+28
+8(TIF-DTA)
+ESTACION DE PROCEDENCIA
+X
+O
+X
+
+29
+1(TIF-DTA)
+ESTACION DE DESTINO
+X
+O
+X
+
+30
+6(MIC-DTA)           26(TIF-DTA)                    (MIE-DTA)
+FECHA DE EMISION
+O
+O
+O
+Fecha de oficialización del TAI
+31
+41(MIC-DTA)           12(TIF-DTA)                    (MIE-DTA)
+FECHA DE PARTIDA
+O
+O
+O
+Dato a incluirse en el evento de partida
+32
+40(MIC-DTA)           24(TIF-DTA)                    (MIE-DTA)
+FECHA DE LLEGADA PREVISTA
+O
+O
+O
+
+33
+23(MIC-DTA)                        7(TIF-DTA)                            (MIE-DTA)
+NUMERO DE DOCUMENTO DE TRANSPORTE
+O
+O
+O
+
+34
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)
+INDICADOR DE LA FRACCION TRANSPORTADA
+O
+O
+X
+Nro de fracción transportada respecto al total del documento de transporte
+35
+7 (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+PAIS DE PARTIDA
+O
+O
+O
+En caso que el dato Lugar Operativo se halle codificado abarcando a los datos País/Ciudad/ Aduana/Lugar Operativo, se informara solo este último.
+36
+7 (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)                                      7(CRT)
+CIUDAD DE PARTIDA
+O
+O
+O
+En caso que el dato Lugar Operativo se halle codificado abarcando a los datos País/Ciudad/ Aduana/Lugar Operativo, se informara solo este último.
+37
+7 (MIC-DTA)                   12 (TIF-DTA)   (MIE-DTA)
+ADUANA DE PARTIDA
+O
+O
+O
+
+38
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+LUGAR OPERATIVO DE INICIO DEL TAI EN EL PAIS DE PARTIDA
+O
+O
+O
+
+39
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+CIUDAD DE SALIDA EN EL PAIS DE PARTIDA
+O
+O
+O
+En caso que el dato Lugar Operativo se halle codificado abarcando a los datos País/Ciudad/ Aduana/Lugar Operativo, se informara solo este último.
+40
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+ADUANA DE SALIDA EN EL PAIS DE PARTIDA
+O
+O
+O
+
+41
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+LUGAR OPERATIVO DE SALIDA EN EL PAIS DE PARTIDA
+O
+O
+O
+
+42
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+PAIS DE PASO
+O
+O
+O
+En caso que el dato Lugar Operativo se halle codificado abarcando a los datos País/Ciudad/ Aduana/Lugar Operativo, se informara solo este último.
+43
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+CIUDAD DE ENTRADA EN EL PAIS DE PASO
+O
+O
+O
+
+44
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+ADUANA DE ENTRADA EN EL PAIS DE PASO
+O
+O
+O
+
+45
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+LUGAR OPERATIVO DE ENTRADA EN EL PAIS DE PASO
+O
+O
+O
+
+46
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+CIUDAD DE SALIDA EN EL PAIS DE PASO
+O
+O
+O
+
+47
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+ADUANA DE SALIDA EN EL PAIS DE PASO
+O
+O
+O
+En caso que el dato Lugar Operativo se halle codificado abarcando a los datos País/Ciudad/ Aduana/Lugar Operativo, se informara solo este último.
+48
+7 (MIC-DTA)                   12 (TIF-DTA)   (MIE-DTA)
+LUGAR OPERATIVO DE SALIDA EN EL PAIS DE PASO
+O
+O
+O
+
+49
+8 (MIC-DTA)                   2 (TIF-DTA)           (MIE-DTA)                      8(CRT)
+PAIS DE DESTINO
+O
+O
+O
+
+50
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+CIUDAD DE ENTRADA EN EL PAIS DE DESTINO
+O
+O
+O
+En caso que el dato Lugar Operativo se halle codificado abarcando a los datos País/Ciudad/ Aduana/Lugar Operativo, se informara solo este último.
+51
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+ADUANA DE ENTRADA EN EL PAIS DE DESTINO
+O
+O
+O
+
+52
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+LUGAR OPERATIVO DE ENTRADA EN EL PAIS DE DESTINO
+O
+O
+O
+
+53
+8 (MIC-DTA)                   NUEVO (TIF-DTA)           (MIE-DTA)
+CIUDAD DE DESTINO
+O
+O
+O
+
+54
+24 (MIC-DTA)                   2 (TIF-DTA)           (MIE-DTA)
+
+
+ADUANA DE DESTINO
+O
+O
+O
+En caso que el dato Lugar Operativo se halle codificado abarcando a los datos País/Ciudad/ Aduana/Lugar Operativo, se informara solo este último.
+55
+NUEVO (MIC-DTA)                   13 (TIF-DTA)           (MIE-DTA)
+LUGAR OPERATIVO DE DESTINO EN EL PAIS DE DESTINO
+O
+O
+O
+
+56
+NUEVO (MIC-DTA)                    NUEVO(TIF-DTA)
+PAIS DE TRASBORDO PROGRAMADO
+F
+F
+X
+En caso que el dato Lugar Operativo se halle codificado abarcando a los datos País/Ciudad/ Aduana/Lugar Operativo, se informara solo este último.
+57
+NUEVO (MIC-DTA)                    NUEVO(TIF-DTA)
+CIUDAD DE TRASBORDO PROGRAMADO
+F
+F
+X
+
+58
+NUEVO (MIC-DTA)                    NUEVO(TIF-DTA)
+ADUANA DE TRASBORDO PROGRAMADO
+F
+F
+X
+
+59
+NUEVO (MIC-DTA)                    NUEVO(TIF-DTA)
+LUGAR OPERATIVO DE TRASBORDO PROGRAMADO
+F
+F
+X
+
+60
+REVERSO S/N (MIC-DTA)                 REVERSO S/N (TIF-DTA)                                       (MIE-DTA)
+OBSERVACIONES DEL DECLARANTE PARA LAS ADUANAS INTERVINIENTES
+F
+F
+F
+En oportunidad del registro informático
+61
+38 (MIC-DTA)                    16(TIF-DTA)           (MIE-DTA)                             11(CRT)
+DESCRIPCION DE LAS MERCADERIAS
+O
+O
+O
+
+62
+38 (MIC-DTA)                    17(TIF-DTA)           (MIE-DTA)
+NOMENCLATURA COMUN DEL MERCOSUR
+F
+O
+O
+
+63
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+PAIS DE ORIGEN DE LAS MERCADERIAS
+O
+O
+O
+
+64
+NUEVO (MIC-DTA)   NUEVO (TIF-DTA)  (MIE-DTA)
+MERCADERIA PELIGROSA
+O
+O
+O
+Se indicara el grado de peligrosidad según código IMO.
+65
+30 (MIC-DTA)                    16(TIF-DTA)           (MIE-DTA)                          11(CRT)
+TIPO DE EMBALAJE
+O
+O
+O
+
+66
+18(TIF-DTA)
+PESO BRUTO PARCIAL POR TIPO DE EMBALAJE
+X
+O
+X
+
+67
+NUEVO (MIC-DTA)    15(TIF-DTA)           (MIE-DTA)                              11(CRT)
+CANTIDAD DE BULTOS POR TIPO DE EMBALAJE
+O
+O
+O
+
+68
+38 (MIC-DTA)                    16(TIF-DTA)           (MIE-DTA)
+MARCA Y NUMERO DE LOS BULTOS
+O
+O
+O
+
+69
+32 (MIC-DTA)                    18(TIF-DTA)           (MIE-DTA)                               12(CRT)
+PESO BRUTO TOTAL
+O
+O
+O
+
+70
+(MIE-DTA)
+CANTIDAD DE UNIDADES
+X
+X
+O
+
+71
+(MIE-DTA)
+FINALIDAD COMERCIAL
+X
+X
+O
+Se indicara SI (S) o NO (N)
+72
+(MIE-DTA)
+NUMERO DE FACTURA
+X
+X
+O
+Obligatorio si se indica SI en el campo anterior
+73
+25 (MIC-DTA)                    NUEVO(TIF-DTA)           (MIE-DTA)                           16(CRT)
+MONEDA - CODIGO ( DEL VALOR DE LA MERCADERIA)
+O
+O
+O
+
+74
+19(TIF-DTA)
+VALOR DE LA CARGA SEGÚN TIPO DE MERCADERIA
+X
+O
+X
+En dolares estadounidenses
+75
+27 (MIC-DTA)                    19(TIF-DTA)           (MIE-DTA)                             16(CRT)
+VALOR DECLARADO DE LA CARGA
+O
+O
+O
+Para el MIE y el TIF en dolares estadounidenses
+76
+NUEVO(MIC-DTA)                    REVERSO(TIF-DTA)                           (MIE-DTA)                               15(CRT)
+MONEDA - CODIGO ( DEL VALOR DEL FLETE)
+O
+O
+O
+
+77
+28 (MIC-DTA)                    REVERSO(TIF-DTA)                           (MIE-DTA)                                     15(CRT)
+VALOR DEL FLETE
+O
+O
+O
+Para el MIE y el MIC en dolares estadounidenses
+78
+NUEVO (MIC-DTA)                    NUEVO(TIF-DTA)                           (MIE-DTA)
+MONEDA - CODIGO ( DEL VALOR DEL SEGURO)
+O
+O
+O
+
+79
+29 (MIC-DTA)                    23(TIF-DTA)                           (MIE-DTA)
+VALOR DEL SEGURO
+O
+O
+O
+En dolares estadounidenses
+80
+36 (MIC-DTA)                    21(TIF-DTA)
+IDENTIFICADOR DEL DOCUMENTO ADUANERO QUE AUTORIZA LA EXPORTACION
+O
+O
+X
+Datos a informar para mercaderías cuya destinación de exportación es registrada en países signatarios  del ATIT.
+81
+NUEVO(MIC-DTA)                    NUEVO(TIF-DTA)
+IDENTIFICADOR DEL MANIFIESTO DE CARGA DE ARRIBO AL PAIS DE PARTIDA
+O
+O
+X
+Datos a informar para mercaderías provenientes de países no signatarios del ATIT.
+82
+NUEVO(MIC-DTA)                    NUEVO(TIF-DTA)
+IDENTIFICADOR DEL DOCUMENTO DE TRANSPORTE DE ARRIBO AL PAIS DE PARTIDA
+O
+O
+X
+
+83
+33 (MIC-DTA)                    3(TIF-DTA)                           (MIE-DTA)                                    1(CRT)
+REMITENTE - NOMBRE O RAZON SOCIAL
+O
+O
+O
+
+84
+33 (MIC-DTA)                    3(TIF-DTA)                           (MIE-DTA)                                    1(CRT)
+REMITENTE - DOMICILIO
+O
+O
+O
+
+85
+NUEVO (MIC-DTA)                    NUEVO(TIF-DTA)
+REMITENTE - IDENTIFICACION FISCAL
+O
+O
+X
+
+86
+(MIE-DTA)
+REMITENTE - TIPO y NUMERO DE DOCUMENTO DE IDENTIDAD
+X
+X
+O
+
+87
+35 (MIC-DTA)                    9(TIF-DTA)                           (MIE-DTA)                                 6(CRT)
+CONSIGNATARIO - NOMBRE O RAZON SOCIAL
+O
+O
+O
+
+88
+35 (MIC-DTA)                    9(TIF-DTA)                           (MIE-DTA)                                 6(CRT)
+CONSIGNATARIO - DOMICILIO
+O
+O
+O
+
+89
+NUEVO(MIC-DTA)                    NUEVO(TIF-DTA)
+CONSIGNATARIO - IDENTIFICACION FISCAL
+O
+O
+X
+
+90
+34 (MIC-DTA)                    5(TIF-DTA)                            4(CRT)
+DESTINATARIO - NOMBRE O RAZON SOCIAL
+O
+O
+X
+
+91
+34 (MIC-DTA)                    5(TIF-DTA)                             4(CRT)
+DESTINATARIO - DOMICILIO
+O
+O
+X
+
+92
+36(MIC-DTA)                    21(TIF-DTA)                                           17(CRT)
+OTROS DOCUMENTOS ANEXOS
+O
+O
+O
+Corresponde a otros documentos que acompañan la carga. De no existir tal obligación completar con NO.
+
+
+( * ) a ser transmitidos por los eventos de registro y partida de la operación de TAI
+
+
+REFERENCIAS:
+
+
+O = Datos obligatorios de la declaración de TAI integrados por el declarante o los sistemas informáticos
+F = Datos facultativos de la declaración de TAI
+X = Datos no integrables de la declaración de TAI
+
+
+APENDICE II
+
+REFERENCIA UNICA DE LA OPERACIÓN DE TAI (RUT)
+
+Clave Manifiesto:
+1. Año de emisión
+2. País emisor
+3. Numero secuencial
+4. Digito verificador
+
+Clave Documento de Transporte:
+1. Clave Manifiesto
+2. Numero de documento de transporte
+
+
+APENDICE III
+
+NOVEDADES (OCURRENCIAS) PARAMETRIZADAS DE LA OPERACIÓN DE TAI
+
+Novedades relativas al medio de transporte y al conductor
+Sustitución del vehículo transportador sin autorización de la autoridad aduanera.
+Sustitución del vehículo transportador con autorización aduanera.
+Reemplazo del conductor.
+Sustitución del tractor.
+Otras a criterio común de los Estados Parte.
+
+Novedades de la ruta informática
+Llegada del vehículo fuera del plazo establecido sin motivo justificado.
+Desvío de la ruta autorizada con motivo justificado.
+Desvío de la ruta autorizada sin motivo justificado.
+Interrupción del TAI.
+Otras a criterio común de los Estados Parte.
+
+Novedades por siniestros u otras contingencias de la operación.
+Faltante parcial de la carga.
+Faltante total de la carga.
+Tránsito de cargas sin declaración aduanera.
+Mercadería peligrosa no declarada como tal.
+Hallazgo de drogas u otras mercaderías prohibidas.
+Otras a criterio común de los Estados Parte
+
+Novedades de los precintos
+Violación de dispositivo de seguridad.
+Cambio de precintos por controles.
+Colocación de precintos adicionales.
+Otras a criterio común de los Estados Parte
+
+APENDICE IV
+
+EVENTOS A TRANSMITIR
+
+a) Oficialización de una operación de TAI - "OFTAI", a ser efectuado por la aduana de registro de la operación de TAI en el Estado Parte: la transmisión del evento de oficialización a las aduanas intervinientes será efectuada en forma conjunta con la del evento de partida, salvo en los casos en que se hubieran autorizado procedimientos de contingencia.
+
+b) Partida de una operación de TAI.- "PATAI", a ser efectuado por la aduana de carga de la operación de TAI en el Estado Parte de partida: luego de cumplidos todos los requisitos necesarios para la aplicación del régimen, hubieren finalizado los controles, colocado los precintos y se haya autorizado la partida del TAI, la aduana de partida transmitirá electrónicamente el evento de partida, que implica la autorización de inicio de la operación de tránsito al amparo de un TAI.
+
+c) Salida de una operación de TAI del Estado Parte de partida - "SATAI", a ser efectuado por la aduana de frontera del Estado Parte de partida: cuando el medio de transporte y las mercaderías que estuviere transportando, luego de cumplido todos los requisitos, controles y formalidades a las que se hallen sometido, hayan sido autorizados por la aduana de frontera del país de partida a la prosecución del itinerario autorizado, habiendo concluido el tránsito en su territorio.
+
+d) Entrada de una operación de TAI en el Estado Parte de paso - "EPTAI", a ser efectuado por la aduana de frontera del Estado Parte de paso: cuando el medio de transporte y las mercaderías que estuviere transportando, luego de cumplido todos los requisitos, controles y formalidades a las que se halle sometido, hayan sido autorizados por la aduana de frontera de entrada al Estado Parte de paso a la prosecución del itinerario autorizado.
+
+e) Salida de una operación de TAI en el Estado Parte de paso - "SPTAI", a ser efectuado por la aduana de frontera del Estado Parte de paso: cuando el medio de transporte y las mercaderías que estuviere transportando, luego de cumplido todos los requisitos, controles y formalidades a las que se halle sometido, hayan sido autorizados por la aduana de frontera de salida del Estado Parte de paso a la prosecución del itinerario autorizado, habiendo concluido el tránsito en su territorio.
+
+f) Entrada en el Estado Parte de destino de una operación de TAI - "EDTAI", a ser efectuado por la aduana de frontera del Estado Parte de destino: cuando el medio de transporte y las mercaderías que estuviere transportando, luego de cumplido todos los requisitos, controles y formalidades a las que se halle sometido, hayan sido autorizados por la aduana de frontera de entrada al Estado Parte de destino a la prosecución del itinerario autorizado, con destino a la aduana de destino del TAI.
+
+g) Finalización de una operación TAI - "FITAI", a ser efectuado por la aduana de destino del Estado Parte de destino: cuando el medio de transporte y las mercaderías que estuviere transportando, luego de cumplido todos los requisitos, controles y formalidades a las que se halle sometido, hayan sido autorizados por la aduana de destino a dar por cumplido y finalizada la operación de TAI, quedando las mercaderías en condiciones de ser sometidas a una destinación u operación aduanera permitida.
+
+h) Comunicación de la destinación u operación posterior al TAI - "DETAI", a ser efectuado por la aduana de destino del Estado Parte de destino, dentro de las cuarenta y ocho (48) horas de producida la destinación u operación posterior al TAI, con la finalidad de posibilitar su consulta por las aduanas de los Estados Partes, en la medida que los mismos concluyan los desarrollos correspondientes.
+
+i) Novedades (ocurrencias) de una operación de TAI - "NOTAI": Son aquellas informaciones electrónicas a ser registradas por las aduanas de la Ruta Informática con posterioridad al evento de partida, según el siguiente ordenamiento:
+
+i.1) Novedades relativas al medio de transporte y al conductor: a ser efectuadas por todas las aduanas participantes de una operación de TAI de los Estados Partes, comprendiendo la posibilidad de registrar novedades (ocurrencias) , según las contenidas en el Apéndice III.
+
+i.2) Novedades de la Ruta Informática: a ser efectuadas por aduanas que, integrando la Ruta Informática, hayan registrado algún evento informático en la operación de TAI, comprendiendo la posibilidad de registrar novedades (ocurrencias), según las contenidas en el Apéndice III.
+
+i.3) Novedades por siniestros, interrupción u otras contingencias de la operación de TAI, a ser efectuadas por todas las aduanas participantes de los Estados Partes, localizadas en los puntos de control de una operación de TAI, comprendiendo la posibilidad de registrar novedades (ocurrencias), según las contenidas en el Apéndice III.
+
+i.4) Novedades de los precintos: a ser efectuadas por todas las aduanas participantes de los Estados Partes de una operación de TAI, comprendiendo la posibilidad de registrar novedades (ocurrencias), según las contenidas en el Apéndice III.
+
+j) Acuse de Recibo de un evento de TAI - "ARTAI": a ser efectuados por todas las aduanas participantes de los Estados Partes de una operación de TAI, constituyendo el acuse de recibo informático de los eventos transmitidos a través de los mensajes que prevé la presente norma.
+
+9
+
+
+SECRETARÍA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 10
+FE DE ERRATAS - COPIA CERTIFICADA
+
+Reginaldo Braga Arcuri
+Director
+
+
+10
+
+
+7
+
+
+SECRETARÍA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 10
+FE DE ERRATAS - ORIGINAL
+
+Reginaldo Braga Arcuri
+Director

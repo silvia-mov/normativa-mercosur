@@ -1,0 +1,125 @@
+Resolución GMC N° 11/95
+Título: DETERMINACION DE LA MIGRACION ESPECIFICA DE ETILENGLICOL Y DIETILENGLICOL
+Fecha de aprobación: 03/08/1995
+Vigencia: Derogada (Derogada por la Res. GMC Nº 32/10 Estuvo vigente desde el 09/04/2001 (Art. 40 POP) – hasta el 17/09/2021)
+Idioma del texto: ES
+Archivo original: 25586_RES_011-1995_ES_Migra_Etilenglicol.DOC
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1870).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 11/95
+
+DETERMINACION DE LA MIGRACION ESPECIFICA
+ DE ETILENGLICOL Y DIETILENGLICOL
+
+
+	VISTO: El Tratado de Asunción, las Decisiones Nº 4/91 y 9/94 del Consejo del Mercado Común, las Resoluciones Nº 56/92 y 91/93 del Grupo Mercado Común, la Propuesta Nº 6/95 de la Comisión de Comercio y la Recomendación Nº 86/94 del SGT Nº 3 - "Normas Técnicas".
+
+Considerando :
+
+	Que habiéndose fijado en el apartado 5 del Anexo Disposiciones Generales para envases y equipamientos plásticos de la Resolución Nº 56/92 del MERCOSUR, que los envases y equipamientos plásticos en contacto con alimentos deben cumplir los requisitos establecidos en un Reglamento Técnico específico.
+
+	Que de acuerdo con este criterio, se considera conveniente disponer de una reglamentación común sobre el método de determinación de migración específica de etilenglicol y dietilenglicol en envases y equipamientos plásticos elaborados con polietilentereftalato (PET), sus copolímeros y otros polímeros derivados de etilenglicol y dietilenglicol, que estén destinados a entrar en contacto con alimentos.
+
+EL GRUPO MERCADO COMUN
+RESUELVE :
+
+Art. 1 - La migración específica de etilenglicol y dietilenglicol en envases y equipamientos elaborados con polietilentereftalato (PET) sus copolímeros y otros polímeros derivados en etilenglicol y dietilenglicol destinados a entrar en contacto con alimentos que se comercialicen entre los Estados Parte del MERCOSUR, se evaluará de acuerdo con lo establecido en el Reglamento Técnico adjunto "Determinación de migración específica de etilenglicol y dietilenglicol".
+
+Art. 2 - Lo establecido en el Art. 1 no se aplicará obligatoriamente a los alimentos envasados destinados a la exportación a terceros países.
+
+Art. 3 - Los Estados Partes del MERCOSUR pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos.
+
+	Argentina.:
+		Ministerio de Economía y Obras y Servicios Públicos.
+		Secretaría de Agricultura, Ganadería y Pesca.
+		Servicio Nacional de Sanidad Animal (SENASA).
+		Instituto Argentino de Sanidad y Calidad Vegetal (IASCAV).
+		Secretaría de Industria
+		Instituto Nacional de Vitivinicultura (INV).
+		Ministerio de Salud y Acción Social.
+
+
+Brasil :
+		Ministerio da Saúde.
+
+Paraguay :
+		Ministerio de Industria y Comercio.
+		Instituto Nacional de Tecnología y Normalización (INTN).
+		Ministerio de Salud Pública y Bienestar Social
+
+Uruguay :
+		Ministerio de Salud Pública (M.S.P.)
+
+Art 4 - La presente resolución entrara en vigor el 1 de enero de 1996.
+
+
+XVIII GMC - Asunción, 03/VIII/95
+
+DETERMINACION DE LA MIGRACION ESPECIFICA DE ETILENGLICOL Y DIETILENGLICOL
+
+
+1. Alcance
+
+Este reglamento técnico se aplica a la determinación de la migración específica de etilenglicol (EG) y dietilenglicol (DEG) en envases y equipamientos plásticos elaborados con polietilenglicol (PET), sus copolímeros y otros polímeros derivados de EG y DEG, y que estén destinados a entrar en contacto con alimentos.
+
+2. Fundamento
+
+Los ensayos de migración específica se realizan teniendo en cuenta la clasificación de alimentos y simulantes (excepto los simulantes de alimentos grasos), y las condiciones de tiempo y temperatura correspondientes a los ensayos de migración total, detalladas en las Resoluciones GMC Nº 30/92 y 36/92 respectivamente.
+
+Cumplido el tiempo prescrito para los ensayos de migración, se realiza la determinación de la concentración de EG y DEG en los extractos correspondientes por cromatografía gas-líquidos por inyección directa de un concentrado del extracto, y cuantificación por patrones externos.
+
+*Nota: No se efectúa la determinación de EG y DEG en n-heptano debido a su inmiscibilidad en este solvente, a la dificultad de obtener un grado de pureza adecuado del n-heptano, y a las interferencias propias de otros componentes no poliméricos de la muestra, solubles en dicho simulante. Por ello en el caso de alimentos grasos, se sugiere realizar el ensayo de migración específica de EG y DEG en simulante acuoso como condición más drástica.
+
+3. Equipamiento
+
+3.1. Cromatógrafo gas-líquido con detector de ionización de llama.
+
+3.2. Columna cromatográfica que permita la separación de los picos correspondientes a EG, DEG, y los solventes utilizados (por ejemplo columna PORAPAK Q de 1 m. de longitud y 3.2 mm de diámetro).
+
+4. Reactivos
+
+4.1 etilenglicol, pureza mayor a 99% (V/V)
+4.2 dietilenglicol, pureza mayor a 99% (V/V)
+4.3 etanol, p.a.
+4.4 ácido acético, p.a.
+4.5 agua destilada
+4.6 gas nitrógeno
+4.7 aire
+4.8 gas hidrógeno
+
+Advertencia: tanto el EG como el DEG son tóxicos por inhalación y por ingestión, irritantes de piel y mucosas e inflamables; por lo tanto, se debe trabajar con cuidado bajo campana.
+
+5. Condiciones de operación recomendadas
+
+5.1 temperatura de columna isoterma: 200ºC
+5.2 temperatura de inyector: 250ºC
+5.3 temperatura de detector: 250ºC
+5.4 flujo de aproximadamente 30 ml/min
+5.5 volumen de inyección: 2 ul
+
+6. Procedimiento
+
+6.1 Preparación de los patrones y curva de calibración.
+
+Se preparan soluciones patrón de EG y DEG por separado con los mismos simulantes usados en los ensayos de migración de la muestra, de forma tal de construir dos curvas de calibración en función de la concentración de estos compuestos en la muestra.
+En todos los casos se inyectan las soluciones concentradas de la misma manera que la muestra.
+
+6.2 Análisis cromatográfico de la muestra
+
+Se toman 15 ml de extracto y se concentran en balón con columna Snyder a 5 ml a fuego directo con telemática. El mismo procedimiento se realiza con el blanco correspondiente. Se realizan las inyecciones en el cromatógrafo según las condiciones de operación recomendadas.
+
+Notas
+
+1.- 5 ml es el volumen final obtenido luego del lavado de la columna con el extracto correspondiente.
+2.- En todos los casos las determinaciones se realizan por duplicado.
+3.- Cuando se utilice simulante de alimentos acuosos ácidos (solución de ácido acético en agua) se deberá realizar previamente a la concentración, la neutralización del extracto con solución de NaOH (aq) concentrada.
+
+7. Cálculo
+
+Las concentraciones de EG y DEG se obtienen de las curvas de calibración, y a partir de este resultado se calcula la migración específica con las fórmulas establecidas en la Resolución GMC Nº 36/92.
+
+8. Límites
+
+8.1 El límite de detección de este método es de 10 mg/kg (ppm).
+8.2 El límite de migración específica de EG y DEG es de 30 mg/kg (ppm) (solos o combinados), tal como fue establecido en la Resolución GMC Nº 87/93.

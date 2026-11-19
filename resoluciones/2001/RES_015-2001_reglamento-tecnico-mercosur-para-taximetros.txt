@@ -1,0 +1,1481 @@
+Resolución GMC N° 15/01
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA TAXÍMETROS
+Fecha de aprobación: 13/06/2001
+Vigencia: Vigente (Vigente desde el 26/02/2012 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 13765_RES_015-2001_ES_RTM_Taxímetros_Acta 2_01.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1124).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES.N 15/01
+
+REGLAMENTO TÉCNICO MERCOSUR PARA TAXÍMETROS
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones N 91/93, N° 152/96, N° 51/97, N° 61/97, N° 23/98 y N° 38/98 del Grupo Mercado Común y la Recomendación N 08/00 del Subgrupo de Trabajo N 3 "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que la reglamentación existente difiere entre los Estados Partes.
+
+Que por tal motivo se hace necesario adecuar la legislación metrológica entre los Estados Partes.
+
+Que la norma estudiada reglamenta los instrumentos de medición basados en tiempo y en distancia llamados taxímetros, destinados a utilizar en vehículos de alquiler, permitiendo a los Estados Partes comercializar este instrumento sin ninguna dificultad.
+
+Que para esta propuesta fue considerada la Recomendación N 21 y el Documento N 11 (Edición 1994), de la Organización Internacional de Metrología Legal, y la Norma EN 50148 del "European Committee for Electrotechnical Standardization-CENELEC", según fue acordado entre los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+ Art 1 - Aprobar el Reglamento Técnico MERCOSUR para Taxímetros que figura como Anexo y forma parte de la presente Resolución.
+Art 2-  Las aprobaciones de modelos y las verificaciones primitivas efectuadas por los Estados Partes, en los términos del reglamento sancionado por la Resolución GMC Nº 51/97, serán aceptadas por los demás Estados Partes, a partir de la  fecha establecida en el Artículo 6.
+Art 3- Las verificaciones primitivas efectuadas por los Estados Partes, en cumplimiento del Artículo 2 de la presente Resolución, serán aceptadas por los demás Estados Partes siempre que las expresiones de identificación y simbología  estén en la lengua del país al cual el instrumento se destina.
+
+
+Art 4- Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+ARGENTINA: Ministerio de Economía, Secretaría de la Competencia, la Desregulación y la Defensa del Consumidor (SCD y DC).
+BRASIL: 	Instituto Nacional de Metrología, Normalizaâo e Qualidade Industrial (INMETRO).
+PARAGUAY: Instituto Nacional de Tecnología y Normalización (INTN).
+URUGUAY: 	Ministerio de Industria, Energía y Minería.
+Art 5- La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+Art 6- Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 31/XII/2002.
+
+XLII GMC- Asunción, 13/VI/01
+
+
+ANEXO
+
+                         REGLAMENTO TÉCNICO MERCOSUR PARA TAXÍMETROS
+
+1. CAMPO DE APLICACIÓN .
+1.1. La presente reglamentación establece las condiciones técnicas y metrológicas esenciales que deben cumplir los instrumentos de medición tiempo-distancia, llamados taxímetros destinados a la utilización para vehículos de alquiler.
+1.2. Este reglamento se aplica a los taxímetros, sus dispositivos complementarios y accesorios.
+2. TERMINOLOGÍA .
+2.1. TAXÍMETRO: instrumento que basado en la distancia recorrida y/o el tiempo transcurrido, mide e informa gradualmente el valor obtenido por la utilización del vehículo-taxi.
+2.2. VELOCIDAD DE TRANSICIÓN:  es la velocidad en la cual la medición en el taxímetro pasa de la base de tiempo para la base de distancia y viceversa. Ésta velocidad es obtenida por la división de la tarifa horaria por la tarifa kilométrica.
+2.3. TARIFA HORARIA: valor remunerativo establecido en función del tiempo transcurrido y aplicable abajo de la velocidad de transición.
+2.4. TARIFA KILOMÉTRICA: valor remunerativo establecida en función de la distancia recorrida.
+2.4.1. La tarifa kilométrica puede admitir valores diversos de acuerdo con las situaciones de utilización del vehículo-taxi.
+2.5. TARIFA INICIAL (BAJADA DE BANDERA): valor remunerativo correspondiente a la tasa de ocupación del vehículo-taxi, a partir de la cual se inicia la medición.
+2.6.  CONSTANTE " k " DEL TAXÍMETRO: factor característico que informa el tipo y la cantidad de señales que el taxímetro debe recibir para indicar correctamente el valor correspondiente a una distancia de 1 km . Se expresa de las siguientes formas:
+a) rotaciones  por  kilómetro (rot/km), si la información fuera mecánica;
+b) en   pulsos   por    kilómetro  ( p/km ), si la información fuera electrónica.
+2.6.1. De acuerdo con la construcción del taxímetro, la constante " k " puede ser ajustable.
+2.7. COEFICIENTE CARACTERÍSTICO " w " DEL VEHÍCULO: es un factor que informa el tipo y cantidad de señales suministradas por el vehículo-taxi al taxímetro, correspondiente a una distancia recorrida de 1 km .
+Este coeficiente es expresado:
+a) en rotaciones por kilómetros (rot/km )
+b) en pulsos por kilómetros ( p/km )
+
+
+2.8. CIRCUNFERENCIA EFECTIVA " u " DE LAS RUEDAS: la circunferencia efectiva " u " de la rueda que está conectada directamente o indirectamente al taxímetro, es la distancia recorrida por el vehículo correspondiente a una vuelta completa de esa rueda. Cuando dos ruedas están simultáneamente conectadas al taxímetro, la circunferencia efectiva es la media de las circunferencias efectivas de cada rueda.
+2.9. El coeficiente característico " w " del vehículo  y la  circunferencia  efectiva " u " de las ruedas deben ser determinados en las condiciones de referencia de examen en el vehículo-taxi, según el subítem 6.3.1.
+2.10. DISPOSITIVO ADAPTADOR:  de   acuerdo   con   las   definiciones   dadas  en 2.6 para la constante " k " del taxímetro y en 2.7 para el coeficiente característico " w ", estos valores deben ser iguales a fin de registrar correctamente la distancia recorrida. En los casos de que estos valores difieran, un dispositivo adaptador es utilizado para ajustar las diferencias para satisfacer el subítem 4.2 .
+2.11. TRANSDUCTOR: componente que suministra al taxímetro pulsos eléctricos en cantidad proporcional a la información mecánica (rotaciones) suministrada por el vehículo, en función de la distancia recorrida.
+2.12. ERRORES INTRÍNSECOS : son los errores debidos exclusivamente al taxímetro no instalado en el vehículo, y que constan en el subítem 4.1.1 .
+3. UNIDAD DE MEDIDA
+Las siguientes unidades de medida son autorizadas para los taxímetros:
+3.1. Para la distancia recorrida, el metro, símbolo ( m ); y su múltiplo, el kilómetro, símbolo ( km ) .
+3.2. Para el tiempo transcurrido, el segundo, símbolo ( s ) y sus múltiplos, el minuto ( min ) y la hora ( h ) .
+3.3. Para la velocidad, el kilómetro por hora, símbolo ( km/h ) .
+3.4. Para la indicación del servicio prestado, la unidad monetaria en vigencia o la unidad correspondiente a cada país en el cual será utilizado el taxímetro, acompañado de su respectivo símbolo.
+4. REQUISITOS METROLÓGICOS
+4.1. Errores máximos tolerados .
+4.1.1. Errores intrínsecos (se aplican en la aprobación de modelo y en la verificación primitiva) :
+a) para la distancia recorrida + 1% ;
+b) para el tiempo transcurrido + 1,5% .
+Para las distancias abajo de 1000 m y tiempos abajo de 10 min, las tolerancias son fijas y corresponden respectivamente a + 10 m y +  9 s .
+4.1.2. Errores para verificaciones metrológicas de taxímetros instalados en vehículos:
+a) para la distancia recorrida + 2% ;
+b) para el tiempo transcurrido + 1,5% .
+Para las distancias abajo de 1000 m y tiempos abajo de 10 min, las tolerancias son fijas y corresponden a + 20 m y + 9 s .
+
+
+4.1.3. Los errores máximos tolerados se aplican tanto para la distancias y tiempos iniciales (subítem 5.4.1), así como para las distancias y tiempos subsecuentes.
+4.2. El error máximo tolerado en el acoplamiento de la constante " k " del taxímetro, al coeficiente " w " del vehículo, es de + 1%, en las condiciones de referencia de examen en el vehículo-taxi, que constan en el subítem 6.3.1 .
+5. REQUISITOS TÉCNICOS
+5.1. Los taxímetros deben funcionar normalmente y presentar mediciones que satisfagan el presente reglamento  de acuerdo con los examenes y ensayos que constan en el ítem 6 (control metrológico) y la respectiva metodología que consta en el ítem 7 (métodos de ensayo).
+5.1.1. Los taxímetros deben ser construidos con materiales que presenten solidez y estabilidad tal que el instrumento no sufra la acción de cuerpos extraños, polvo, humedad u otros agentes agresivos.
+5.2. Los taxímetros y sus dispositivos complementarios deben ser construidos previéndose su fácil adecuación a las características específicas de cada Estado Parte, en lo que concierne a las identificaciones, unidades legales y los respectivos símbolos.
+5.3. El taxímetro debe ser fabricado de tal forma que calcule e indique el valor remunerativo, basándose en:
+a) la distancia recorrida (modo kilométrico), cuando el vehículo-taxi circula a una velocidad superior a la de transición ;
+b) el tiempo transcurrido (modo horario), cuando el vehículo-taxi circula a una velocidad inferior a la de transición.
+5.3.1. El modo kilométrico es accionado exclusivamente por las informaciones del desplazamiento del vehículo-taxi, siendo que la marcha atrás no debe reducir la indicación.
+5.3.2. En el modo horario, el taxímetro utiliza un contador propio de tiempo. Si este contador fuera mecánico debe permitir un funcionamiento ininterrumpido mínimo de dos horas. Si fuera eléctrico o electrónico será automático sin interrupción.
+5.4. La indicación efectuada por el taxímetro debe, a partir de la Tarifa Inicial (Bajada de Bandera), progresar de manera discontinua en divisiones (fracciones) de un único valor constante, de acuerdo a la programación de tarifas establecidas por la autoridad competente.
+5.4.1. De acuerdo con los reglamentos locales, el primer incremento de medición, puede darse después de un recorrido inicial o intervalo de tiempo proporcional a este recorrido, de acuerdo con la velocidad de transición.
+5.5. El taxímetro debe ser fabricado de tal forma que permita fácilmente las modificaciones necesarias para que se adecue a los diversos valores de tarifas, de acuerdo con la localidad.
+5.5.1. En los casos en que el número de tarifas del taxímetro es superior al número de tarifas vigentes para la localidad, estas deben ser bloqueadas.
+5.6. El accionamiento del dispositivo de comando del taxímetro debe ser de fácil operación, a través de palancas, teclas o interruptores. Las diversas posiciones del dispositivo de comando son las siguientes:
+
+5.6.1. Posición " LIBRE " :
+a) en esta posición el taxímetro no sufre influencia de las magnitudes de medición y la indicación, será CERO, o el valor de la Tarifa Inicial o estar apagada;
+b) la medición de la distancia total recorrida, si hubiere, deberá estar activada;
+c) la indicación  de  los  totalizadores,  si  fuera  electrónica  debe permanecer apagada, pudiendo ser accedida exclusivamente en esta posición y, retornando automáticamente a la forma  desactivada  a partir de la última información solicitada, hasta un período máximo de 10 s ;
+d) en el período de tiempo en que el taxímetro electrónico estuviere haciendo una indicación de totalizadores, el display de la indicación principal debe estar todo activado con " ceros " o con el código " Info " ó " apagado ";
+e) la indicación de la posición del dispositivo de comando, debe ser " LIBRE " o "L".
+5.6.2. Posición " OCUPADO " :
+Esta posición solo puede ser accedida a partir de la posición " LIBRE " .
+a) en ésta posición las magnitudes de longitud y tiempo estarán activadas;
+b) la elección de cada tarifa puede ser manual o automática de acuerdo con los reglamentos locales;
+c) las mediciones de los totalizadores, si hubieren, estarán activadas, sin embargo, si la indicación fuera electrónica, ésta será inhibida;
+d) la indicación de las diversas tarifas será indicada por los dígitos 1, 2, siendo que la serie define los valores de las tarifas de forma creciente;
+e) en esta posición el taxímetro debe indicar en todo instante solamente el valor actualizado de la medición;
+f) la indicación de la posición del dispositivo de comando, debe  ser  " OCUPADO " u " O " o "el número de la tarifa" en que está operando, cuando fuera de tarifa única. En el caso de mas de una tarifa ésta deberá ser indicada conforme al punto d) de este subítem.
+5.6.3. Posición " A PAGAR ":
+a) esta posición sólo podrá ser accedida  a  partir  de  la  posición "OCUPADO" ;
+b) el valor indicado por el taxímetro debe permanecer invariable, para permitir el pago del servicio;
+c) en los taxímetros electrónicos, no  será posible  el retorno de la posición " A PAGAR " , para la posición " LIBRE " , antes de transcurrido un período de 10s ;
+d) las mediciones de los totalizadores, si hubieren, estarán activadas, sin embargo, si la indicación fuera electrónica, esta será inhibida;
+e) los taxímetros provistos de impresora, solo podrán emitir el ticket para el pasajero en esta posición;
+f) en los taxímetros electrónicos la posición " A PAGAR " debe ser   automáticamente permutada para "LIBRE ", cuando el vehículo-taxi, recorre en esta posición una distancia comprendida entre 50 y  200 m ;
+g) la indicación de la  posición  del  dispositivo de  comando, debe   ser   " A PAGAR " o " P " .
+
+5.7. Los dispositivos de comando están sujetos a las siguientes restricciones:
+a) a partir de la posición  " OCUPADO " , el taxímetro no podrá retornar a la posición " LIBRE " , sin pasar por la posición " A PAGAR " , cualquiera que sea la tarifa utilizada;
+b) a  partir  de  la  posición  " A PAGAR "  el  taxímetro  no   puede  retornar  a  la  posición    " OCUPADO ", sin pasar por la posición " LIBRE ", cualquiera que sea la tarifa utilizada;
+c) posiciones intermedias de palancas, o teclas e interruptores, accionamientos simultáneos o en secuencias o combinaciones preestablecidas, no deberán influenciar en el correcto funcionamiento del taxímetro;
+d) los taxímetros electrónicos cuando tuvieren un interruptor  de    encendido/apagado, éste solo tendrá función en la posición " LIBRE ";
+e) si el vehículo-taxi estuviera desarrollando velocidad superior a 10 km/h, no debe ser posible pasar de la posición "LIBRE" para "OCUPADO" así como de la posición "OCUPADO" para la posición "A PAGAR".
+5.8. Dispositivo indicador.
+Todo taxímetro debe presentar sus indicaciones de forma clara, legible e inequívoca, en todas las condiciones de uso del instrumento tanto de noche como de día.
+5.8.1. Cada indicación debe tener asociada, de forma clara, una identificación, unidad y simbología, de acuerdo con lo exigido en la reglamentación de cada Estado Parte.
+5.8.2. Un sistema adecuado de iluminación debe ser previsto cuando fuera necesario.
+5.8.3. La indicación principal del taxímetro, que muestra el valor remunerativo, será formado por caracteres alineados de altura no menor a 10 mm, admitiéndose una tolerancia de 0,5 mm en menos para este valor de 10 mm . La indicación de la tarifa en uso no deberá realizarse con caracteres menores a los utilizados en la indicación principal.
+5.8.4. Todo taxímetro debe informar en todo momento, en su visor, la posición del dispositivo de comando en que está operando. La utilización de un dispositivo auxiliar para visualización externa de la posición del sistema de comando puede ser previsto.
+5.8.5. El taxímetro podrá estar provisto de totalizadores de: distancia total recorrida, distancia total cuando esté ocupado, total de bajadas de banderas, total de incrementos u otros. En este caso estas indicaciones serán ejecutadas con caracteres de altura entre 4 mm y 8 mm, no pudiendo ser mostradas en el visor de indicación principal que muestra el valor remunerativo.
+5.8.6. La capacidad máxima de totalización de la indicación principal, no deberá ser inferior al valor correspondiente a cuatro dígitos activos, observando la configuración de la tarifa del país donde será utilizado el instrumento
+5.9. Los taxímetros electrónicos deben poseer un testeo de los segmentos de los dígitos, que puede ser automático o manual. Si fuera manual, debe ser posible exclusivamente en la posición " LIBRE " . Si fuera automático, debe ser ejecutado inmediatamente antes del inicio de la medición o después de colocarse el taxímetro en operación.
+
+5.10. Los taxímetros electrónicos deben ser capaces de identificar el buen funcionamiento de sus memorias y, si una falla que influye en la medición es detectada, el instrumento debe bloquearse.
+5.11. Cuando un mismo transductor de distancia, fuera utilizado para proveer información a diversos instrumentos del vehículo, incluyendo al taxímetro, debe ser previsto un dispositivo o circuito desacoplador para el taxímetro, para que fallas en cualquiera de los instrumentos no afecten el funcionamiento del taxímetro ó los demás instrumentos.
+5.12. Para las definiciones de la velocidad de transición para el taxímetro, se admite un rango de incertidumbre de 2 km/h , para más o para menos, sin embargo no debe haber compromiso del funcionamiento normal del instrumento dentro de este rango.
+5.13. Dispositivos opcionales
+El taxímetro puede opcionalmente, estar equipado con los siguientes dispositivos, siempre que el perfecto funcionamiento del instrumento, no sea afectado:
+a) impresión sobre etiquetas, de informaciones de interés del pasajero, y/o de los totalizadores y/o de las programaciones de la memoria o de otras informaciones prestadas por el taxímetro;
+b) lectores para pago con tarjetas de crédito;
+c) dispositivo para detectar la presencia de pasajeros;
+d) otros dispositivos auxiliares pueden ser autorizados, quedando la decisión en ocasión de la aprobación de modelo.
+5.14. Inscripciones obligatorias .
+a) marca o nombre del fabricante y su dirección;
+b) para los taxímetros importados, además de la marca o nombre del fabricante, deberá constar el nombre y dirección del importador;
+c) país de origen;
+d) designación del modelo y número de fabricación;
+e) identificación o código de aprobación de modelo;
+f) constante " k " , del taxímetro, o el rango en que ésta constante puede ser ajustada.
+5.15. Dispositivo Impresor
+5.15.1. Todo  taxímetro provisto de dispositivo impresor, debe observar los siguientes requisitos:
+a) permitir la impresión del ticket  de interés del pasajero exclusivamente en la posición "A PAGAR", no permitiéndose cualquier tipo de interrupción o interferencia a través del dispositivo de comando durante la impresión.
+b) fallas en la alimentación eléctrica del sistema taxímetro-impresora durante una impresión, por tiempo de hasta cinco segundos, no debe provocar la pérdida de los datos a imprimir. Después de recuperada la alimentación debe ser posible la continuación de la impresión o bien emitir un ticket en su totalidad.
+c) el acceso a los datos de programación solamente deberá ser posible a través de empresas registradas en el Órgano Metrológico competente.
+
+5.15.2.  La impresión debe observar los siguientes requisitos mínimos:
+a) debe ser efectuado en el idioma del país en que será utilizado el instrumento.
+b) deben registrar fidedignamente, de forma clara, legible e indeleble, con caracteres no inferiores a 2 mm de altura medidos en relación a los caracteres mayúsculos, las informaciones que sean de interés del pasajero. Estas informaciones deben estar correctamente identificadas.
+c) Los tickets de impresión de datos exclusivos de controles de servicio que no sean de interés del pasajero, deben ser impresos a partir de la posición "LIBRE", o con el instrumento fuera de su utilización normal.
+5.16. Dispositivo de entrada y salida de datos.
+5.16.1. Con objeto de facilitar la ejecución de los ensayos el taxímetro puede ser provisto de un dispositivo para procesar por lo menos las siguientes señales (informaciones):
+a) Entrada
+- señal de información de distancia de un valor equivalente a por lo menos   200 km/h .
+- señal de información de tiempo de un valor equivalente a (10) diez veces el tiempo real.
+- señal para bloquear el contador de tiempo
+b) Salida
+- señal de información de distancia
+- señal de información de tiempo
+- señal para informar el incremento de la indicación.
+5.16.2. Las características de las señales/informaciones deberán ser compatibles con:
+a) Entrada
+nivel bajo (lógica 0)                                          0V<UL<1V
+nivel alto (lógica1)                                            3V<Uh<5V
+resistencia de entrada                                      Ri>1 k
+b) Salida
+nivel bajo (lógica 0)                                          0V<UL<1V (*)
+nivel alto (lógica 1)                                           3V<Uh<5V (*)
+resistencia de la fuente de alimentación          Rs<10k
+(*) no debe tener carga en los pines de testeo
+c) Las señales son referenciadas a tierra del conector de testeo, generalmente el negativo de la alimentación eléctrica del taxímetro.
+d) Todas las señales deben ser de forma rectangular con pulsos de duración no inferior a 500 µs con ciclo de actividades entre 30 a 70 %.
+1.3. Marcas de verificación y sellado.
+5.17.1. Todo taxímetro debe prever un sistema de sellado que impida el acceso a sus partes constructivas internas, engranajes, reguladores, circuitos eléctricos y sus programaciones.
+
+5.17.2. El dispositivo adaptador, en los taxímetros mecánicos y el transductor en los electrónicos, deben ser convenientemente sellados.
+5.17.3. Los cables y sus conexiones de transmisión sean eléctricos o mecánicos, deben ser debidamente protegidos y solidamente fijados a las partes selladas del taxímetro o poseeran sellado adicional. Cuando el instrumento  posea un sistema antifraude electrónico la protección citada puede ser dispensada, quedando la decisión en ocasión de la aprobación de modelo.
+5.17.4. Otros puntos de sellado podrán ser establecidos en ocasión de la aprobación de modelo.
+5.17.5. Todo taxímetro debe prever lugar adecuado para la fácil colocación y visualización de las identificaciones de verificación.
+
+2. CONTROL METROLÓGICO
+6.1. Aprobación de Modelo.
+6.1.1. Todo taxímetro en el ámbito del MERCOSUR, que sea fabricado en los Estados Partes, o importado por estos, de otros países fuera del MERCOSUR, deben tener su modelo aprobado, por el Órgano Metrológico competente de uno de los Estados Partes.
+6.1.1.1. El fabricante o importador deberá presentar la solicitud de aprobación de modelo acompañada:
+a) de la documentación requerida, de acuerdo a lo establecido por la Resolución GMC Nº 57/92,  y
+b) de dos prototipos del modelo.
+6.1.1.2. La apreciación técnica del modelo consistirá en el examen de los prototipos de acuerdo con este reglamento.
+6.1.2. La apreciación técnica del modelo consiste en las siguientes etapas principales: examen de la documentación, examen general y ensayos de los prototipos.
+6.1.2.1. Examen de la documentación: se verifica que la documentación presentada cumple con la exigida, si la memoria descriptiva del modelo aclara y define las características constructivas y metrológicas,  sus especificaciones técnicas y operacionales.
+6.1.2.2. Examen general: tiene como objetivo verificar si el modelo fue concebido de acuerdo con las exigencias de este Reglamento, comparándolo con la respectiva memoria descriptiva.
+6.1.2.3. Ensayos: cada prototipo debe ser previamente programado de acuerdo con lo solicitado por el servicio responsable de la aprobación del modelo. Las programaciones de los dos prototipos deben ser distintas, abarcando valores diversos para todos los parámetros de programación. Serán ejecutados los siguientes ensayos:
+a) verificación de la programación;
+b) comprobación del retorno obligatorio a la posición "LIBRE";
+c) comprobación del retorno de la posición "A PAGAR" para "LIBRE";
+d) comprobación si el taxímetro no pasa de "LIBRE" para "OCUPADO" y ni de "OCUPADO" para "A PAGAR" (subítem. 5.7.e);
+e) verificación de la velocidad de transición;
+
+f) ensayo en el modo kilométrico;
+g) ensayo en el modo horario;
+h) ensayo climático;
+i) ensayo de variación de la tensión eléctrica de alimentación;
+j) ensayo de fallas en la tensión eléctrica de alimentación;
+k) descargas electrostáticas;
+l) Transitorios eléctricos en la línea de alimentación;
+m) Transitorios eléctricos en la línea de señal;
+n) radiaciones electromagnéticas;
+o) ensayo de vibraciones mecánicas.
+6.2. Verificación Primitiva
+6.2.1. Es responsabilidad del fabricante o del importador, la presentación del instrumento para verificación primitiva, en sus dependencias o en local apropiado designado por el Órgano Metrológico competente, debiendo proporcionar los medios necesarios para su ejecución.
+6.2.2. En la verificación primitiva serán efectuados los siguientes exámenes:
+a) verificación si el taxímetro conserva las características del modelo aprobado;
+b) verificación del perfecto funcionamiento de todos los dispositivos operacionales y sus funciones, indicadores, identificaciones  e inscripciones.
+c) verificación de la velocidad de transición;
+d) determinación del error en función del tiempo transcurrido, para un período no inferior a cinco minutos;
+e) correspondencia de la indicación con la distancia recorrida, en la diversas tarifas, para un recorrido equivalente a cinco kilómetros;
+6.2.3. Todo taxímetro aprobado en verificación primitiva deberá llevar la respectiva marca de verificación metrológica.
+6.3. Verificaciones metrológicas periódicas y eventuales.
+6.3.1. En las verificaciones metrológicas adóptanse las siguientes condiciones de referencia para el vehículo taxi:
+a) La carga del vehículo-taxi, será el equivalente a dos personas adultas .
+b) Los neumáticos tendrán la presión especificada por el fabricante y su uso dentro de las normas de seguridad, establecidas por el Organismo Competente del Estado Parte.
+c) El traslado del vehículo-taxi se dará, impulsado por su motor, en una superficie plana, en línea recta y a una velocidad entre 35 km/h y 45 km/h .
+d) Si las condiciones de ensayo adoptadas fueran diferentes a las establecidas, deberá asegurarse que el resultado de la medición sea el mismo que se obtendría en las condiciones de referencia.
+7. MÉTODOS DE ENSAYO
+7.1. Aprobación de modelo
+7.1.1. Examen general
+
+a) examen visual para constatar la correcta identificación de los elementos indicadores y operacionales y respectiva simbología; las inscripciones obligatorias, la claridad de las leyendas y de los elementos indicadores y su capacidad de lectura; lugar adecuado para las marcas de verificación y de sellado; la protección y sellado de los cables de transmisión; si los instrumentos y sus complementos están protegidos (vedados) contra cuerpos extraños; el cumplimiento de los requisitos de impresión.
+b) examen dimensional y funcional para constatar: las dimensiones de los caracteres de los elementos indicadores, la facilidad y la correcta operación de los diversos dispositivos (llaves, teclas); el correcto funcionamiento de todas las operaciones previstas y exigidas de acuerdo con la respectiva posición del dispositivo de comando; la correcta ejecución del test de los segmentos de los dígitos; el correcto funcionamiento y la no interferencia de los dispositivos opcionales; el correcto funcionamiento del dispositivo impresor, exclusivamente en la posición "A PAGAR".
+7.1.2. Ensayos.
+a) verificación de la programación del instrumento: constatar si los valores de bajada de bandera, del valor de la división ,de las diferentes tarifas y de la constante "K" están de acuerdo con lo programado.
+b) constatación si el instrumento retorna automaticamente a la posición "LIBRE" después de que el vehículo-taxi recorre una distancia comprendida entre 50 y 200 m en la posición "A PAGAR". Esta constatación será realizada por lo menos tres veces.
+c) constatación si el retorno de la posición "A PAGAR" para "LIBRE" ocurre solamente después de 10s . Ejecutar por lo menos tres  mediciones con el vehículo taxi parado (modo kilometrico desactivado).
+d)  comprobación si el taxímetro no pasa de "LIBRE" para "OCUPADO" y ni de "OCUPADO" para "A PAGAR" cuando el vehículo estuviera a una velocidad superior a 10 km/h. Ejecútense tres observaciones para cada operación simulando velocidad de 12 km/h.
+e) verificación de la velocidad de transición: determínanse los errores del instrumento para tres velocidades; la velocidad de transición menos 3 km/h; la velocidad de transición más 3 km/h y la velocidad de transición; para la primera el taxímetro debe operar en el modo horario; para la segunda debe operar exclusivamente en el modo kilométrico; y en la velocidad de transición puede operar en uno de los dos modos, pero debe medir correctamente en el modo seleccionado.
+f) ensayo del modo kilométrico:  en este ensayo determínanse los errores para cada tarifa y para cada prototipo, en valores monetarios prefijados correspondientes a distancias próximas a 1km; 2km; 3km;  5km; 7km; 10 km; 12 km; 15km; 17 km y 20 km, efectuándose cinco mediciones para cada distancia.
+g) ensayo del modo horario: en este ensayo determínanse los errores en los dos prototipos para las indicaciones próximas a 5min, 10min, 15min, 20min, 25min e 30 min , efectuándose tres mediciones para cada indicación.
+h) ensayo climático: este ensayo está compuesto de tres etapas, descriptas a continuación:
+
+Calor seco: el ensayo es realizado de acuerdo con la norma IEC 68-2-2, test Bd. El taxímetro alimentado eléctricamente debe ser sometido a una temperatura de +70 ºC +2 ºC durante 16 horas. En seguida la temperatura deberá ser reducida y estabilizada en +55ºC +2 ºC, verificándose el buen desempeño del instrumento en cuanto a su correcta operación, funciones y determinación de los errores. La humedad absoluta del aire no debe exceder de 20 g/m3 .
+Calor húmedo: este ensayo es realizado de acuerdo con la norma IEC 68-2-30. Ensayo cíclico Db, temperaturas de +25ºC a +55ºC . El taxímetro no debe estar energizado. Serán efectuados dos ciclos de 24 horas cada uno. Después de terminado el ensayo, el taxímetro debe ser examinado verificándose el buen desempeño del instrumento en cuanto a su correcta operación, funciones y determinación de los errores.
+Frío: este ensayo debe ser realizado de acuerdo con la norma IEC 68-2-1, ensayo Ab. El taxímetro apagado, debe permanecer expuesto a una temperatura de -25ºC +3ºC, durante 16 horas. Luego aumentar la temperatura a -10ºC +3ºC y estando ésta estabilizada energizar el taxímetro. Verificar el desempeño del instrumento, su operación, funciones y determinación de los errores en esta temperatura.
+i) ensayo de variación de tensión eléctrica de alimentación: verificar el correcto funcionamiento del taxímetro en las tensiones de 9V y 16V. Realizar el ensayo para las distancias nominales de 2km, 5km y 10 km .
+j) ensayo de influencia de las interrupciones (fallas) en la alimentación eléctrica: someter el taxímetro (en medición) a por lo menos diez fallas en la tensión de alimentación (interrupción o detención significativa), debajo de 9V hasta 0V. En esta situación el taxímetro debe continuar funcionando normalmente y asumir las siguientes situaciones: si la detención o interrupción de la alimentación se da por un período de hasta 15s, el taxímetro debe asumir el valor anterior a la falla. Si la falla tuviera duración superior a 20s el instrumento debe asumir la posición "LIBRE". Para fallas entre 15s a 20s, las dos situaciones son permitidas. Provócanse dos  interrupciones y dos paradas significativas en relación a la tensión nominal con duración de 15s. El taxímetro debe asumir la indicación anterior. Provócanse dos interrupciones y dos paradas significativas, de duración 21s. El taxímetro debe asumir la posición "LIBRE". Provócanse dos interrupciones entre 16s a 19s. El taxímetro puede asumir el valor anterior a la falla o ir a la posición "LIBRE". Entiéndese como parada significativa aquella en la que el instrumento interpreta esto como interrupción y no tiene condición de funcionamiento a partir de aquella tensión de alimentación.
+k) ensayo de influencia de las descargas electrostáticas (IEC 1000-4-2): aplícanse diez descargas por aire, con intensidad de 8kV y diez descargas por contacto (directamente en el cuerpo del instrumento) con intensidad de 6kV. Deben ser escogidos puntos del instrumento, normalmente sujetos a las descargas (accesibles al operador) siendo estas aplicadas con intervalos de 10s. El taxímetro no debe presentar fallas significativas en cualquiera de las aplicaciones (no debe alterar o perder sus funciones e indicaciones).
+l) ensayo de influencia de los  transitorios eléctricos en la línea de alimentación (ISO 7637-1).
+
+Ensayos 3a y 3b: aplícanse en la línea de alimentación un tren de pulsos negativos y otro de pulsos positivos de amplitudes -100V y +75V respectivamente. La duración mínima de la aplicación del ensayo debe ser de una hora para cada tipo de tren de pulsos. El instrumento no debe alterar o perder sus indicaciones y funciones, en la aplicación de los transitorios.
+Ensayo pulso 4: (simulación de reducción de fuente de alimentación-batería del vehículo, causada por la energización del circuito de partida del motor). Aplícase un único pulso de la siguiente forma: reducir la alimentación de 12V a un valor comprendido  entre 5V y 8V, en un período de tiempo menor a 5 ms . El tiempo de permanencia en ese valor (entre 5V a 8V) estará comprendido entre 15ms a 40 ms.  Después la tensión de alimentación es aumentada a un valor comprendido entre 6V y 9,5V en un intervalo de tiempo inferior a 50 ms , permaneciendo en este valor entre 0,5s a 20s. Después de este período retornar  a la tensión de alimentación nominal (12V) en un período de tiempo entre 5ms a 100 ms .
+Ensayo pulso 5: aplícase un único pulso con amplitud máxima de 86,5 V, con  un tiempo de subida entre 5 ms y 10 ms y con un tiempo de caida entre 30 ms y 390 ms .
+m) Ensayo de influencia de transitorios eléctricos en la línea de señal (ISO 7637-3):
+Ensayos 3a y 3b : aplícanse en la línea de señal un tren de pulsos negativos y otro de pulsos positivos de amplitudes -40V y +30V respectivamente. La duración mínima de la aplicación del ensayo debe ser de diez minutos para cada tipo de tren de pulsos. El instrumento no debe alterar o perder sus indicaciones y funciones, en la aplicación de los transitorios.
+n) ensayo de inmunidad a las radiaciones electromagnéticas (IEC 1000-4-3): sométase el instrumento a un campo electromagnético de intensidad de 10 V/m, en frecuencias de 26 MHz a 1000 MHz con modulación en amplitud de 80%, con 1kHz de onda sinusoidal. Reiniciaciones, bloqueo de funciones (almacenamiento de datos) e incremento de fracciones, son consideradas fallas significativas.
+o) ensayo de vibración mecánica: este ensayo debe ser realizado de acuerdo con la norma IEC 68-2-36, ensayo Fdb. El rango de frecuencias será de 10 a 500 Hz. Entre 10 a 20 Hz, la densidad espectral de aceleración será de 4,8m².s-3 (0,05g²/Hz) . Entre 20 Hz hasta 500 Hz será aplicada una atenuación de -3dB por octava. Este ensayo debe ser realizado en los tres ejes principales del taxímetro con una duración de 30 min para cada eje. El taxímetro será montado en una estructura rígida y en una posición similar a la de uso normal. Durante el ensayo se debe observar el comportamiento del instrumento que deberá estar funcionando en el modo horario. Al final del ensayo se verificará el desempeño del instrumento, su operación, funciones y determinación de los errores .
+7.2. Verificación primitiva.
+7.2.1. Conformidad al modelo aprobado: Verificar si el instrumento conserva todas las características del modelo aprobado, a través de exámenes visuales y operacionales, y también:
+a) la perfecta legibilidad y corrección de las leyendas y simbología del indicador;
+b) Si las inscripciones obligatorias son correctas.
+c) la nitidez, claridad y las dimensiones de los caracteres de las indicaciones.
+
+d) el perfecto funcionamiento de los dispositivos operacionales y sus funciones:
+- secuencia correcta del dispositivo de comando asociado a sus posiciones y funciones;
+- test de los segmentos de los dígitos;
+- correcta operación de las teclas e interruptores.
+7.2.2. Ensayo de verificación de la velocidad de transición (Vt)
+a) el taxímetro primeramente debe ser colocado en funcionamiento a una velocidad 3 (tres) km/h por debajo de la velocidad de transición. Verificar si el instrumento funciona exclusivamente en el modo horario.
+b) luego el taxímetro es colocado en funcionamiento a una velocidad 3 (tres) km/h por encima de la velocidad de transición. Verificar si el instrumento funciona exclusivamente en el modo kilométrico.
+7.2.3. Ensayo de determinación de los errores en función del tiempo transcurrido. Para proceder al ensayo, el taxímetro es alimentado a través de una fuente de alimentación o batería. Este ensayo debe ser ejecutado para un tiempo equivalente a 5 min, o el tiempo correspondiente a cinco  divisiones, o el que fuera menor.
+7.2.4. Ensayo de determinación de los errores en función de la distancia recorrida. Para proceder al ensayo, se utiliza un medidor patrón  de bancada con una incertidumbre de medición no superior a 1/3 del error máximo tolerado. El ensayo debe contemplar todas las tarifas que el taxímetro irá a utilizar y será ejecutado para las distancias nominales de 2 km y 5 km.
+7.2.5. Marcas de comprobación metrológica.
+En los taxímetros aprobados en verificación inicial serán colocadas las respectivas identificaciones de comprobación metrológicas.
+
+
+APENDICE 1 - FORMULARIO DE APROBACIÓN DE MODELO PARA TAXÍMETRO
+1.1 - INFORMACIONES GENERALES SOBRE EL INSTRUMENTO
+Expediente Nº ..............................................................................
+Designación del modelo: ...................................................................
+Marca:...........................................................................................
+Fabricante:......................................................................................
+Representante:.......................................................................................
+Descripción del instrumento:.......................................................................
+Fecha de ensayo:..................................................................................
+Técnico ejecutor:....................................................................................
+Lugar de ejecución del ensayo:.................................................................
+Organismo ejecutor:.............................................................................
+
+
+TAXÍMETRO
+
+1.2. - LISTA DE CONTROLES
+
+Expediente Nº........................................................................................
+
+Designación del modelo:............................................................................
+
+Exigencia
+Descripción
+CUMPLE
+NO CUMPLE
+No Aplicable  - OBS.
+
+
+6.1.2.1.
+Examen de la documentación
+
+
+Solicitud en la lengua del país ejecutor de la aprobación de modelo.
+
+
+Identificación del requiriente y fabricante, dirección, teléfono, técnico responsable.
+
+
+Designación de marca y de modelo.
+
+
+Descripción del proceso de medición.
+
+
+Descripción de la forma de actualización de tarifas.
+
+
+Descripción de la forma, material y dimensiones.
+
+
+Descripción del transductor, tipo y características técnicas.
+
+
+Descripción de las restricciones.
+
+
+Descripción de los rangos de utilización y especificaciones.
+
+
+Definición del rango de ajuste y resolución de la constante "K".
+
+
+Descripción de los elementos indicadores.
+
+
+Descripción de los dispositivos de comando y sus funciones asociadas.
+
+
+Plano del display en vista frontal, definiendo los elementos indicadores y dispositivos de comando.
+
+
+Plano del instrumento completo en perspectiva indicando los puntos de sellado, inclusive las conexiones al vehículo.
+
+
+Examen general
+
+
+5.8.1.
+Clara visualización e identificación de los elementos indicadores.
+
+
+5.8.1.
+Simbología correcta.
+
+
+5.17.5.
+Lugar adecuado para la marca de verificación.
+
+
+5.17.1.
+Lugar adecuado para precintar.
+
+
+5.17.3.
+Protección y sellado de los cables de conexión.
+
+
+5.8.3. y
+5.8.5.
+Dimensión de los caracteres de los diversos indicadores:
+- "PRECIO A PAGAR" (mínimo 10 mm);
+- "TOTALIZADORES" (entre 4 y 8 mm);
+- "TARIFAS" (no inferior al de precio a pagar).
+
+
+5.8.4.
+Correcta operación del dispositivo de comando y su identificación asociada.
+
+
+5.6.1.c)
+Indicación de totalizadores es accedida en la posición "LIBRE" y retorna a la posición desactivada en 10 s .
+
+
+5.6.1.d)
+La indicación principal está apagada o con ceros o con código "INFO" durante la indicación de totalizadores.
+
+
+5.6.2.c) y
+5.6.3.d)
+Indicación electrónica de totalizadores inhibida en las posiciones "OCUPADO" y "A PAGAR" .
+
+
+5.7.c)
+Accionamientos simultáneos de teclas e interruptores o combinaciones de estas, no influyen en el funcionamiento normal del taxímetro
+
+
+5.7.d)
+El interruptor de encendido/apagado solo funciona en la posición "LIBRE".
+
+
+5.9.
+Correcto testeo de los segmentos en el test.
+
+
+5.13.
+Correcto funcionamiento del instrumento cuando está provisto de dispositivos complementarios y/o opcionales.
+
+
+Exigencia
+Descripción
+CUMPLE
+NO CUMPLE
+No Aplicable  - OBS.
+5.14
+Inscripciones obligatorias
+
+
+5.14.a)
+Marca o nombre del fabricante.
+
+
+5.14.b)
+Importador
+
+
+5.14.c)
+País de origen.
+
+
+5.14.d)
+Designación de modelo.
+
+
+5.14.f)
+Constante K , o su rango de ajuste.
+
+
+5.15
+Examen de impresión
+
+
+5.15.1.a)
+Impresión de ticket de interés del pasajero exclusivamente en la posición "A PAGAR".
+
+
+5.15.1.b)
+Fallas en la alimentación eléctrica de hasta 5s , no provocan pérdida de los datos a imprimir.
+
+
+5.15.2.b)
+Caracteres de impresión de altura mínima de 2 mm, medidos sobre las letras mayúsculas.
+
+
+5.15.2.c)
+Datos exclusivos del control del servicio impresos en la posición "LIBRE".
+
+
+5.16
+Dispositivo de entrada y salida de datos.
+
+
+5.16.1.a)
+Entrada, con pulsos de distancia de hasta 200 km/h.
+
+
+5.16.1.a)
+Señal de información de tiempo, equivalente a 10 veces el tiempo real.
+
+
+5.16.1.a)
+Señal para bloquear el contador de tiempo.
+
+
+5.16.1.b)
+Salida - señal de distancia.
+
+
+5.16.1.b)
+Salida - señal de tiempo.
+
+
+5.16.1.b)
+Salida - señal, que informa incremento.
+
+
+TAXÍMETRO
+
+Expediente Nº:.....................................................................................................
+
+Designación del modelo:...............................................................................
+
+
+1.3.a - VERIFICACIÓN DE LA PROGRAMACIÓN DE LOS PROTOTIPOS
+
+
+Protótipo
+      Nº
+     k
+(p/km)
+
+Bajada de bandera (unidades monetarias)
+Tarifas kilométricas  (unidad monetaria/km)
+Tarifa horária
+(unidad monetaria/h)
+División
+    (unidades monetarias)
+
+
+B1
+B2
+
+
+1 programado
+
+
+1 constatado
+
+
+2
+programado
+
+
+2 constatado
+
+
+				APROBADO                                RECHAZADO
+
+
+OBSERVACIONES:....................................................................................................
+
+....................................................................................................................................
+
+....................................................................................................................................
+
+
+FECHA:...............................................LUGAR:..........................................................
+
+Técnico Ejecutor:.....................................................Firma:.........................................
+
+
+TAXÍMETRO
+
+Expediente Nº:.....................................................................................................
+
+Designación del modelo:........................................................Prototipo Nº................
+
+1.3.b- ENSAYO DE CONSTATACIÓN SI EL  TAXÍMETRO RETORNA A LA POSICIÓN "LIBRE" DESPUÉS QUE EL VEHÍCULO RECORRE entre 50m a 200m EN LA POSICIÓN "A PAGAR".
+
+Observación Nº
+Retornó en (m)
+1
+
+2
+
+3
+
+			APROBADO                             RECHAZADO
+
+OBSERVACIONES:.........................................................................................
+
+......................................................................................................................
+
+
+1.3.c- Constatación si el retorno a la Posición "LIBRE" ocurre solamente después de 10s, cuando está en la posición "A PAGAR"
+
+Ensayo Nº
+Retornó en (s)
+1
+
+2
+
+3
+
+				APROBADO                         RECHAZADO
+
+OBSERVACIONES:....................................................................................................
+....................................................................................................................................
+
+Fecha:...............................................Lugar:..............................................................
+Técnico Ejecutor:.....................................................Firma:.........................................
+
+
+TAXÍMETRO
+
+Expediente Nº :...................................................................................................
+
+Designación del modelo:...................................................Prototipo Nº................
+
+1.3.d -Comprobación de si el taxímetro no pasa de la posición "LIBRE" a la posición "OCUPADO" ni de la posición "OCUPADO"  a la posición  "A PAGAR", cuando el vehículo está a una velocidad superior a 10 km/h.
+Utilizar en el ensayo la velocidad de 12 km/h
+
+
+Observación Nº
+"LIBRE" a "OCUPADO"
+
+"OCUPADO"  a
+"A PAGAR"
+
+1
+
+
+2
+
+
+3
+
+
+			APROBADO                                  RECHAZADO
+
+
+OBSERVACIONES:....................................................................................................
+
+....................................................................................................................................
+
+...................................................................................................................................
+
+Fecha:...............................................Lugar:................................................................
+
+
+Técnico Ejecutor:.........................................................Firma:....................................
+
+
+TAXÍMETRO
+
+
+Expediente N°:........................................................................................................
+Designación del modelo:......................................................Prototipo Nº..................
+
+1.3.e - VERIFICACIÓN DE LA VELOCIDAD DE TRANSICIÓN
+Ejecutar el ensayo para un valor del taxímetro correspondiente a las primeras diez  fracciones
+Velocidad
+Parámetros
+Programado/a
+Verificada/o
+Error
+
+A/R
+(km/h)
+
+
+Determinado
+Tolerado
+
+Vt-3
+Tiempo (s)
+
+
+Vt
+Tiempo (s)
+
+
+Distancia (m)
+
+
+Vt+3
+Distancia(m)
+
+
+				APROBADO                             RECHAZADO
+
+
+Fecha:...........................................Lugar:...................................................................
+
+Técnico Ejecutor:................................................Firma:.............................................
+
+
+TAXÍMETRO
+
+Expediente Nº...........................................................................................................
+
+Designación del modelo:..........................................................Prototipo Nº ............
+
+1.3.f - ENSAYO EN EL MODO KILOMÉTRICO
+
+
+Distan.
+Nominal
+(km)
+Indicación
+Programada
+(unidades monetarias)
+Distancia
+Correspon-
+diente
+(m)
+Distancia
+Recorrida
+(m)
+Error Determi-
+nado
+(m)
+Error
+Tolerado
+( m)
+
+A/R
+1
+
+
+2
+
+
+3
+
+
+5
+
+
+7
+
+
+10
+
+
+12
+
+
+15
+
+
+17
+
+
+20
+
+
+				APROBADO                             RECHAZADO
+
+
+Fecha:............................................Lugar:...................................................................
+Técnico Ejecutor:.....................................................Firma:.........................................
+
+
+TAXÍMETRO
+
+Expediente Nº:...........................................................................................................
+
+Designación del modelo:...........................................................Prototipo Nº............
+
+
+1.3.g- ENSAYO EN EL MODO HORARIO
+
+
+Tiempo nominal
+(min)
+Indicación
+Programada
+Tiempo
+correspon-diente
+Tiempo Transcurrido
+Error determi-nado
+(s)
+Error
+tolerado
+(s)
+
+A/R
+
+(unidades monetarias)
+min
+s
+min
+s
+
+
+5
+
+
+10
+
+
+15
+
+
+20
+
+
+25
+
+
+30
+
+
+				APROBADO                             RECHAZADO
+
+
+Fecha:............................................Lugar:...................................................................
+
+Técnico Ejecutor:.........................................................Firma:.....................................
+
+TAXÍMETRO
+
+Expediente Nº:...........................................................................................................
+
+Designación del modelo:..........................................................Prototipo Nº............
+
+
+1.3-h-ENSAYO CLIMÁTICO - CALOR SECO
+
+Para la ejecución del ensayo, se sigue la secuencia descripta en el item. 7.1.2. h , calor seco, y se sigue con el examen del taxímetro.
+
+
+Examen funcional y operacional,
+observaciones...........................................................
+
+....................................................................................................................................
+
+....................................................................................................................................
+examen después del ciclo seco  (55°C)
+Indicación
+Programada
+(unidades monetarias)
+Distancia
+Correspondiente
+(m)
+Distancia
+recorrida
+(m)
+Error
+Determina-do
+(m)
+Error
+Tolerado
+(m)
+A/R
+
+
+				APROBADO                             RECHAZADO
+
+Fecha:..........................................Lugar:...................................................................
+
+Técnico Ejecutor:.....................................................Firma:.........................................
+
+
+TAXÍMETRO
+
+Expediente Nº:..........................................................................................................
+
+Designación del modelo:...........................................................Prototipo Nº............
+
+1.3.h ENSAYO CLIMÁTICO - CALOR HÚMEDO
+
+Para la ejecución del ensayo, se sigue la secuencia descripta en el item. 7.1.2.h., calor húmedo, y se sigue con el examen del taxímetro.
+
+
+Examen funcional y operacional
+observaciones...........................................................
+
+....................................................................................................................................
+
+....................................................................................................................................
+
+
+examen después del  ciclo húmedo (25°C)
+Indicación
+Programada
+ (unidades monetarias)
+Distancia
+Correspondiente
+(m)
+Distancia
+recorrida
+(m)
+Error
+Determinado
+(m)
+Error
+Tolerado
+(m)
+A/R
+
+
+				APROBADO                             RECHAZADO
+
+
+Fecha:...........................................Lugar:...................................................................
+
+Técnico Ejecutor:.....................................................Firma:.........................................
+
+TAXÍMETRO
+
+Expediente Nº:............................................................................................................
+
+Designación del modelo:............................................................Prototipo Nº............
+
+1.3.h ENSAYO CLIMÁTICO - FRÍO
+
+Para la ejecución del ensayo, se sigue la secuencia descripta en el item. 7.1.2.h., frío, y se sigue con el examen del taxímetro.
+
+
+Examen funcional y operacional
+observaciones...........................................................
+
+....................................................................................................................................
+....................................................................................................................................
+
+examen después del ciclo frío (-10°C)
+Indicación
+Programada
+(unidades monetarias)
+Distancia
+Correspondiente
+(m)
+Distancia
+indicada
+(m)
+Error
+determinado
+(m)
+Error
+Tolerado
+(m)
+A/R
+
+
+				APROBADO                             RECHAZADO
+
+
+Fecha:............................................Lugar:...................................................................
+
+Técnico Ejecutor......................................................Firma:.........................................
+
+
+TAXÍMETRO
+
+Expediente Nº:............................................................................................................
+
+Designación del modelo:.......................................................Prototipo Nº................
+
+
+1.3.i ENSAYO DE LA VARIACIÓN DE TENSIÓN ELÉCTRICA DE ALIMENTACIÓN
+
+
+Distanc.
+Nominal
+(km)
+Indicación Programada
+Distancia
+Correspondiente
+
+Distancia indicada a tensión de:........../errores
+(m)
+Error
+Toler.
+(m)
+
+A/R
+
+(unidades monetarias)
+(m)
+9,0 V
+error
+12,0 V
+error
+16,0 V
+error
+
+
+2
+
+
+5
+
+
+10
+
+
+      APROBADO                            RECHAZADO
+
+
+Fecha:...............................................Lugar:................................................................
+
+Técnico Ejecutor:.....................................................Firma:.........................................
+
+TAXÍMETRO
+
+Expediente Nº:............................................................................................................
+
+Designación del modelo:.......................................................Prototipo Nº................
+
+
+1.3. j-ENSAYO DE INFLUENCIA DE LAS INTERRUPCIONES (FALLAS) EN LA ALIMENTACIÓN ELÉCTRICA
+
+Tipo de falla
+
+Tiempo de la falla(s)
+Indicación anterior  (unidades monetarias)
+Comportamiento esperado
+A/R
+OBSERV.
+Interrupción
+15
+
+Indicación anterior
+
+
+Interrupción
+15
+
+Indicación anterior
+
+
+Parada significativa
+15
+
+Indicación anterior
+
+
+Parada significativa
+15
+
+Indicación anterior
+
+
+Interrupción
+16 a 20s
+
+Indicación anterior o  posición "LIBRE"
+
+
+Parada
+significativa
+16 a 20s
+
+Indicación  anterior o posición "LIBRE"
+
+
+Interrupción
+21
+
+Asumir posición "LIBRE"
+
+
+Interrupción
+21
+
+Asumir posición "LIBRE"
+
+
+Parada
+significativa
+21
+
+Asumir posición "LIBRE"
+
+
+Parada significativa
+21
+
+Asumir posición "LIBRE"
+
+
+              APROBADO                                         RECHAZADO
+
+Interrupción: Cuando la tensión eléctrica de alimentación, es totalmente suprimida (V=0)
+Parada significativa: Es una quita de tensión, que el instrumento interpreta como interrupción, siendo la tensión aplicada, por debajo de la mínima  con la que el  taxímetro consigue funcionar.
+
+Fecha:............................................Lugar:...................................................................
+
+Técnico Ejecutor:.....................................................Firma:.........................................
+
+TAXÍMETRO
+
+Expediente Nº:............................................................................................................
+
+Designación del modelo:.......................................................Prototipo Nº................
+
+
+1.3. k- ENSAYO DE INFLUENCIA DE LAS DESCARGAS ELETROSTÁTICAS
+
+Descarga No
+Tipo
+Intensidad
+Puntos de ensayo/falla significativa
+A/R
+1
+
+
+Descargas por el
+aire
+
+
+    8kV
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+11
+
+
+Descargas por contacto
+directo
+
+
+    6kV
+
+
+12
+
+
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+       APROBADO                                             RECHAZADO
+
+OBSERVACIONES:.....................................................................................................
+....................................................................................................................................
+.....................................................................................................................................
+.....................................................................................................................................
+
+Fecha:...........................................Lugar:...................................................................
+
+Técnico Ejecutor:....................................................Firma:.........................................
+
+
+TAXÍMETRO
+
+Expediente Nº:............................................................................................................
+
+Designación del modelo:.......................................................Prototipo Nº................
+
+
+1.3. L -ENSAYO DE INFLUENCIA DE LOS TRANSITORIOS ELÉCTRICOS EN LA LINEA DE ALIMENTACIÓN
+
+Velocidad simulada de ensayo:
+
+Km/h
+
+
+Tensión de alimentación = tensión nominal  (Vn):
+
+VCC
+Perturbación aplicado:
+Pulsos 3a, 3b, 4 y 5
+
+
+Tarifa
+Kilométrica
+
+
+Pulsos
+Tiempo mínimo de ensayo
+  Resultado
+
+
+Fallas significativas
+
+
+No
+Si
+Normal
+Sin perturbación
+
+
+3a
+
+negativo
+
+1h
+
+
+Normal
+Sin perturbación
+
+
+ 3b
+
+positivo
+1h
+
+
+Normal
+Sin perturbación
+
+
+Pulso 4
+1pulso
+
+
+Normal
+Sin perturbación
+
+
+Pulso 5
+1pulso
+
+
+APROBADO                                      RECHAZADO
+
+
+Fecha:...........................................Lugar:...................................................................
+
+Técnico Ejecutor:.....................................................Firma:.........................................
+
+TAXÍMETRO
+
+Expediente Nº:...........................................................................................................
+
+Designación del modelo:........................................................Prototipo Nº................
+
+
+1.3.m-ENSAYO DE INFLUENCIA DE LOS TRANSITORIOS ELÉCTRICOS EN LA
+LINEA DE SEÑAL
+
+
+Velocidad simulada de ensayo:
+
+km/h
+Tensión de alimentación = tensión nominal  (Vn):
+
+VCC
+Perturbación aplicado:
+Pulsos 3a, 3b
+
+
+Tarifa
+Kilométrica
+
+
+Pulsos
+Tiempo mínimo de ensayo
+  Resultado
+
+
+Fallas significativas
+
+
+No
+Si
+Normal
+Sin  perturbación
+
+
+3a
+
+negativo
+
+10min
+
+
+Normal
+Sin perturbación
+
+
+ 3b
+
+positivo
+10 min
+
+
+APROBADO                                               RECHAZADO
+
+
+Fecha:............................................Lugar:...................................................................
+
+Técnico Ejecutor......................................................Firma:.........................................
+
+
+TAXÍMETRO
+
+Expediente Nº:............................................................................................................
+
+Designación del modelo:........................................................Prototipo Nº................
+
+1.3. n- ENSAYO DE INMUNIDAD A LAS RADIACIONES ELETROMAGNÉTICAS
+
+Tarifa
+Horaria
+
+Antena
+
+
+Polarización
+
+Faja  de Frecuencia
+(MHz)
+Cara del instrumento
+  Resultado
+
+
+Fallas significativas
+
+
+No
+Si (obs, puntos  ensayo)
+Normal
+
+Bicónica
+Sin perturbación
+
+
+Vertical
+26 ~ 200
+Frontal
+
+
+26 ~ 200
+Trasera
+
+
+26 ~ 200
+Derecha
+
+
+26 ~ 200
+Izquierda
+
+
+Horizontal
+26 ~ 200
+Frontal
+
+
+26 ~ 200
+Trasera
+
+
+26 ~ 200
+Derecha
+
+
+26 ~ 200
+Izquierda
+
+
+Log-Periódica
+Sin perturbación
+
+
+Vertical
+200 ~ 1000
+Frontal
+
+
+200 ~ 1000
+Trasera
+
+
+200 ~ 1000
+Derecha
+
+
+200 ~ 1000
+Izquierda
+
+
+Horizontal
+200 ~ 1000
+Frontal
+
+
+200 ~ 1000
+Trasera
+
+
+200 ~ 1000
+Derecha
+
+
+200 ~ 1000
+Izquierda
+
+
+APROBADO                                                      RECHAZADO
+Fecha:............................................Lugar:...................................................................
+Técnico Ejecutor......................................................Firma:.........................................
+
+
+TAXÍMETRO
+
+Expediente Nº:............................................................................................................
+
+Designación del modelo:........................................................Prototipo Nº................
+
+
+1.3-o - ENSAYO DE VIBRACIÓN MECÁNICA
+
+Para la ejecución del ensayo, se procede con la secuencia descripta en el item 7.1.2.o, y se continua con el examen del taxímetro.
+
+
+Examen funcional y operacional
+observaciones...........................................................
+
+....................................................................................................................................
+
+....................................................................................................................................
+
+
+examen después del  ensayo
+Indicación
+Programada
+(unidades monetarias)
+Distancia
+Correspondiente
+(m)
+Distancia
+recorrida
+(m)
+Error determinado
+(m)
+Error
+Tolerado
+(m)
+A/R
+
+
+               APROBADO                                                             RECHAZADO
+
+Fecha:.........................................Lugar:...................................................................
+Técnico Ejecutor......................................................Firma:.........................................

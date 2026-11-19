@@ -1,0 +1,129 @@
+Directiva CCM N° 227/26
+Título: CERTIFICADOS DERIVADOS EN EL MARCO DE LA DECISIÓN CMC N° 33/15 (DEROGACIÓN DE LA DIRECTIVA CCM N° 59/20)
+Fecha de aprobación: 22/10/2026
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 115207_DIR_227-2026_ES_Certificados Derivados_Derog Dir 59-20.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/5454).
+----------------------------------------------------------------------
+MERCOSUR/CCM/DIR. Nº 227/26
+
+CERTIFICADOS DERIVADOS
+EN EL MARCO DE LA DECISIÓN CMC N° 33/15
+(DEROGACIÓN DE LA DIRECTIVA CCM N° 59/20)
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N° 08/94, 56/10, 33/15, 05/23 y 02/25 del Consejo del Mercado Común, las Resoluciones N° 43/03 y 39/11 del Grupo Mercado Común y la Directiva N° 59/20 de la Comisión de Comercio del MERCOSUR.
+
+
+CONSIDERANDO:
+
+Que la Decisión CMC N° 08/94 establece las condiciones aplicables a las mercaderías provenientes de las zonas francas comerciales, zonas francas industriales, zonas de procesamiento de exportaciones y áreas aduaneras especiales.
+
+Que, mediante la Decisión CMC N° 33/15, los Estados Partes acordaron que las mercaderías originarias de un Estado Parte o de terceros países que cuenten con las mismas reglas de origen para el ingreso en todos los Estados Partes en virtud de acuerdos comerciales suscriptos por el MERCOSUR, no perderán su condición de originarias cuando ingresen a las zonas francas comerciales, zonas francas industriales, zonas de procesamiento de exportaciones y áreas aduaneras especiales de los Estados Partes.
+
+Que el Artículo 3 de la referida Decisión dispone que se aplicará el régimen de certificación de mercaderías originarias almacenadas en zonas francas comerciales, zonas francas industriales, zonas de procesamiento de exportaciones y áreas aduaneras especiales establecido en su Anexo.
+
+Que, de acuerdo a lo dispuesto en el Artículo 5 del mencionado Anexo, los Certificados Derivados deben especificar, como mínimo, los datos correspondientes a la Entidad Emisora, número de Certificado, número de Factura y cantidad y/o volumen.
+
+Que la Directiva CCM N° 59/20 adopta un modelo armonizado de Certificado Derivado.
+
+Que la Decisión CMC N° 05/23, por la que se establece el nuevo Régimen de Origen MERCOSUR, incorporó, en su Artículo 25 y subsiguientes, el concepto de Prueba de Origen.
+
+Que, esta última Decisión, establece que la Prueba de Origen podrá realizarse, a elección del Estado Parte exportador, mediante Certificado de Origen, Declaración de Origen (autocertificación), o una combinación de ambas modalidades.
+
+
+Que, asimismo, la referida Decisión establece en su artículo 28, que los certificados de origen y demás documentos vinculados a la certificación de origen en formato digital tendrán la misma validez jurídica e idéntico valor que los emitidos en papel.
+
+Que, atento a lo expuesto, los Estados Partes consideran conveniente ajustar la información requerida en los Certificados Derivados para aquellos casos que contemplen la Declaración de Origen (autocertificación).
+
+Que, por los motivos expuestos, resulta conveniente actualizar el modelo de Certificado Derivado con la información que estos certificados deberán contener.
+
+Que el Artículo 4 de la Decisión CMC N° 02/25 establece que la Comisión de Comercio del MERCOSUR podrá modificar el Anexo de la Decisión CMC N° 33/15 por medio de Directivas.
+
+LA COMISIÓN DE COMERCIO DEL MERCOSUR
+DETERMINA:
+
+Art. 1 - Los Certificados Derivados emitidos por los Estados Partes, de conformidad con lo establecido en la Decisión CMC N° 33/15, contendrán la siguiente información:
+
+1)   Número de Identificación del Certificado Derivado;
+2) 	Remitente: nombre, dirección, país;
+3) 	Importador: nombre, dirección, país;
+4)  	Número y/o nombre del Acuerdo de la prueba de origen;
+5) 	Entidad emisora del Certificado de Origen 1 Exportador o Productor emisor de la Declaración de Origen: nombre, correo electrónico, ciudad y país, según corresponda;
+6) 	Identificación de la prueba de origen: número, si corresponde, y fecha de emisión;
+7)  Número y fecha de cada factura consignada en la Prueba de Origen. En los casos en que la Declaración de Origen no sea realizada en la factura, se indicará el número y fecha que consta en cada factura asociada a la Declaración de Origen;
+8)   País de destino de los productos;
+9) Factura consignada en el Certificado Derivado: número y fecha (una                  factura por Certificado Derivado);
+10)	Código de la nomenclatura consignada en la Prueba de Origen, por cada número de orden. Cuando este dato no se encuentre consignado en la Declaración de Origen, deberá declararse el código de la nomenclatura correspondiente a los productos amparados por dicha Declaración;
+11) Denominación de los productos: debe coincidir con la consignada en la Prueba de Origen;
+12)	Cantidad o volumen consignado en la Prueba de Origen o en la factura asociada a la Declaración de Origen, por cada número de orden;
+13)	Cantidad o volumen correspondiente a la mercadería amparada en el Certificado Derivado expresada en las mismas unidades de medida que la declarada en la Prueba de Origen o en la factura asociada a dicha prueba, detallada por cada posición arancelaria;
+14) Norma de Origen consignada en el Certificado de Origen, por cada número de orden; este campo podrá quedar en blanco cuando el Certificado Derivado se emita en base a una Declaración de Origen;
+15) Declaración aduanera de ingreso de los productos a Zona Franca;
+16) Observaciones;
+17) Autoridad   o Entidad emisora   del Certificado   Derivado:   nombre, correo electrónico y país;
+18)	Fecha, sello y firma del emisor del Certificado Derivado.
+
+El modelo del Certificado Derivado consta como Anexo y forma parte de la presente Directiva.
+
+Art. 2 - El Certificado Derivado a ser utilizado deberá ser firmado por funcionarios debidamente habilitados de la Administración Aduanera/Autoridad Competente u otros organismos públicos o entidades de clase de nivel superior, que actúen en la jurisdicción nacional, estadual o provincial. Los funcionarios deben tener sus firmas incluidas en el registro de funcionarios habilitados vigente en la Asociación Latinoamericana de Integración (ALADI), especificando su alcance sólo para los Certificados Derivados.
+
+Art. 3 - Los Certificados Derivados en formato digital, y los documentos vinculados al mismo, tienen la misma  validez jurídica que el Certificado Derivado en formato de papel, siempre que sean emitidos y firmados digitalmente de conformidad con las respectivas legislaciones de los Estados Partes, por funcionarios debidamente habilitados, de acuerdo con los procedimientos y las especificaciones técnicas de la Certificación de Origen Digital establecidos en la Resolución 386 del Comité de Representantes de la ALADI, sus modificatorias y/o complementarias. Los Estados Partes establecerán las condiciones para la implementación de lo dispuesto en este artículo a través de instrumentos a ser suscriptos bilateralmente.
+
+Art. 4 - Derogar la Directiva CCM N° 59/20.
+
+Art. 5 - Solicitar a los Estados Partes signatarios del Acuerdo de Complementación Económica N° 18 (ACE N° 18) que instruyan a sus respectivas Representaciones ante la ALADI, a protocolizar la presente Directiva en el marco del ACE N° 18, en los términos establecidos en la Resolución GMC N° 43/03. Dicha protocolización deberá incluir la derogación del Ducentésimo Décimo Tercer Protocolo Adicional al ACE N° 18.
+
+Art. 6 - Esta Directiva deberá ser incorporada al ordenamiento jurídico interno de los Estados Partes antes del 20/IV/2027.
+
+Art. 7- El Estado Parte que no hubiera incorporado esta Directiva en el plazo previsto en el Artículo 6 deberá reconocer los certificados emitidos, en virtud de la presente Directiva, por los Estados Partes que hubieran incorporado esta Directiva.
+
+CCXXII CCM - Montevideo, 22/X/26
+
+ANEXO
+CERTIFICADO DERIVADO
+
+
+1. Identificación del Certificado Derivado
+2. Remitente
+3. Importador
+
+4. N° y/o nombre del Acuerdo de la Prueba de Origen
+
+5.Emisor de la prueba de origen
+6. Identificación de la prueba de origen (Número (de corresponder), fecha de emisión)
+7. N° y fecha de cada factura relacionado  a la prueba de origen
+
+8. País de Destino de los Productos
+9. Factura Comercial del Certificado Derivado
+
+Número: 	Fecha:
+
+
+N°de
+Orden
+
+
+10. Código de la nomenclatura
+
+
+11. Denominación de los productos
+12. Cantidad y/o Volumen en la Prueba de Origen o factura
+
+
+13. Cantidad y/o Volumen
+
+
+14. Norma de Origen
+
+
+15. Declaración Aduanera
+de Ingreso:
+16. Observaciones
+"Émitido al amparo de la Decisión CMC N° 33/15"
+CERTIFICACIÓN:
+17. Entidad Emisora Certificado Derivado:
+18.Fecha:
+Sello y Firma

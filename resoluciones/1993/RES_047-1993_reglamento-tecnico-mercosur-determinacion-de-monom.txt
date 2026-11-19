@@ -1,0 +1,358 @@
+Resolución GMC N° 47/93
+Título: REGLAMENTO TECNICO MERCOSUR DETERMINACION DE MONOMERO DE CLORURO DE VINILO RESIDUAL
+Fecha de aprobación: 24/09/1993
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 02/12.)
+Idioma del texto: ES
+Archivo original: 31005_RES_047-1993_ES_RTM Determ.Monómero Cloruro vin.res._Acta_03_93.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2242).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 47/93
+
+REGLAMENTO TECNICO MERCOSUR DETERMINACION DE MONOMERO DE CLORURO DE VINILO RESIDUAL
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común y las Recomendaciones Nº 4/92 y Nº 36/93  del Subgrupo de Trabajo Nº 3 " Normas Técnicas".
+
+CONSIDERANDO:
+
+Que habiéndose fijado en el apartado 5 del Anexo Disposiciones Generales para envases y equipamientos plásticos de la Resolución Nº 56/92 del MERCOSUR.
+
+Que los envases y equipamientos plásticos en contacto con alimentos deben cumplir los requisitos establecidos en un Reglamento Técnico especifico.
+
+Que de acuerdo a este criterio, se considera conveniente disponer de una reglamentación común sobre el método de determinación del limite de composición monómero de cloruro de vinilo en envases y equipamientos de policloruro de vinilo (PVC) y sus copolímeros en contacto con alimentos.
+
+EL GRUPO MERCADO COMUN
+RESUELVE
+
+Art. 1- Que el contenido de monómeros de cloruro de vinilo residual en envases y equipamientos elaborados con PVC y sus copolimeros destinados a entrar en contacto con alimentos que se comercialicen entre los Estados Partes del MERCOSUR, se dosará de acuerdo con lo establecido en el Reglamento Técnico adjunto "Determinación de monómero de cloruro de vinilo residual".
+
+Art. 2- Lo establecido en el Art. 1 no se aplicará obligatoriamente a los alimentos envasados destinados a la exportación a terceros países.
+
+Art. 3- Los Estados Partes del MERCOSUR pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar  cumplimiento a la presente decisión y comunicarán el texto de las mismas al Grupo Mercado Común, a través de la Secretaría Administrativa.
+
+
+XI GMC - Montevideo, 24/IX/1993.
+
+
+ANEXO
+
+DETERMINACION DE MONOMERO DE CLORURO DE VINILO RESIDUAL
+
+1. Alcance:
+
+Este Reglamento Técnico se aplica para la determinación de monómero de cloruro de vinilo residual en envases y equipamientos plásticos elaborados con policloruro de vinilo (PVC) y copolímeros que utilicen ese monómero, y que se destinen a entrar en contacto con alimentos.
+
+2. Fundamento:
+
+2.1. El nivel del monómero de cloruro de vinilo se determina por cromatografía gaseosa aplicando la técnica "espacio de cabeza" después de la disolución o suspensión de la muestra en N,N-dimetilacetamida.
+
+3. Instrumental:
+
+3.1. Cromatógrafo gaseoso: equipado con detector de ionización de llama, unidad de integración y provisto o no de un muestreador automático "espacio de cabeza".
+
+El sistema combinado detector-columna debe ser tal que la señal obtenida con una solución de cloruro de vinilo de 0.02 mg/kg en N,N-dimetilacetamida sea dos veces superior al ruido de la línea de base.
+
+Cuando se usan técnicas manuales de muestreo, la toma de muestra del "espacio de cabeza" con jeringa puede causar un vacío parcial dentro del frasco.
+
+De ahí que para técnicas manuales, donde el frasco no está presurizado antes de la toma de muestra, se recomienda el uso de frascos grandes.
+
+3.2. Columna para cromatografía gaseosa: que permita la separación de los picos correspondientes al aire y al cloruro de vinilo. (Por ej.: columna de níquel de 6 cm de largo y 0,32 cm de diámetro, rellena con UCON LB 550 al 20 % sobre Chromosorb P, malla 60 - 80).
+
+3.3. Frascos tipo penicilina de vidrio, de 20 cm3 de capacidad, con tapón de silicona o de caucho butílico y precintos de aluminio.
+
+3.4. Pinza selladora.
+
+3.5. Agitadores magnéticos.
+
+3.6. Baño termostático, con regulador a 600C ±10C.
+
+3.7. Pipeta aforada de 5 cm3 de capacidad.
+
+3.8. Jeringas para gases de 1 cm3 de capacidad.
+
+3.9. Jeringas de 10 mm3 (ul) y de 25 mm3 (ul).
+
+3.10. Balanza analítica, con precisión de 0,1 mg.
+
+4. Reactivos:
+
+4.1. Cloruro de vinilo*, de pureza mayor a 99,5 % (v/v).
+
+*Advertencia: El cloruro de vinilo es tóxico, carcinógeno, mutagénico, teratogénico y se presenta en forma gaseosa a temperatura ambiente. Por eso la preparación de las soluciones debe ser efectuada bajo campana.
+
+4.2. N,N-dimetilacetamida (DMA), libre de cualquier impureza cuyo tiempo de retención coincida con el del cloruro de vinilo.
+
+4.3. Eter dietílico o 2-cis-buteno que se podrán usar como patrones internos.
+
+Estos deben estar exentos de impurezas susceptibles de tener los mismos tiempos de retención que el cloruro de vinilo en las condiciones de ensayo.
+
+5. Procedimiento:
+
+Advertencia: Asegurarse que durante todo el proceso no haya pérdidas de cloruro de vinilo ni de DMA en los frascos.
+
+5.1. Preparación de la solución estándar concentrada (S1).
+
+5.1.1. Se pesa con precisión de 0,1 mg un frasco tipo: penicilina con tapón y precinto (P1) y se coloca en su interior DMA hasta dejar 1 cm de espacio de cabeza.
+
+5.1.2. Se cierra herméticamente y se vuelve a pesar (P2).
+
+5.1.3. Se introducen a través del tapón dos agujas, una que llegue por debajo del nivel de DMA y la otra al espacio de cabeza.
+
+5.1.4. Se conecta la primera aguja a una garrafa que contenga cloruro de vinilo, se abre la válvula y se deja burbujear el gas durante algunos segundos.
+
+5.1.5. Se cierra la válvula, se saca la primera aguja y luego la segunda.
+
+Nota: En el caso de usarse cloruro de vinilo en estado líquido se inyecta directa y lentamente en DMA, y se continúa el procedimiento como en el caso de utilizar cloruro de vinilo en estado gaseoso.
+
+5.1.6. Se pesa nuevamente el frasco (P3).
+
+5.1.7. Se deja en reposo como mínimo dos horas para que alcance el equilibrio.
+
+5.1.8. Se guarda en heladera.
+
+5.1.9. Se determina la concentración de cloruro de vinilo en la solución estándar como sigue:
+
+
+siendo:
+
+S1 la concentración de cloruro de vinilo en la solución estándar, (S1=2 mg/g), en miligramos por gramo.
+
+P1 = la masa del frasco vacío, en gramos.
+
+P2= la masa del frasco con DMA, en gramos.
+
+P3= la masa del frasco con DMA y con cloruro de vinilo, en gramos.
+
+Nota: En el caso de usarse cloruro de vinilo en estado líquido para el cálculo de su concentración debe realizarse una corrección teniendo en cuenta la masa del diluyente utilizado.
+
+5.2. Preparación de la solución estándar diluida (S2):
+
+5.2.1. Se pesa con precisión de 0,1 mg un frasco tipo penicilina con tapón y precinto (D1) y se coloca en su interior DMA hasta dejar 1 cm de espacio de cabeza.
+
+5.2.2. Se cierra herméticamente y se vuelve a pesar (D2).
+
+5.2.3. Se calcula y se agrega el volumen de S1 necesario para obtener una concentración de cloruro de vinilo de aproximadamente 50 µg/g.
+
+5.2.4. Se pesa nuevamente el frasco (D3).
+
+5.2.5. Se determina la concentración de cloruro de vinilo en la solución diluida como sigue:
+
+
+siendo:
+
+S2= la concentración de cloruro de vinilo en la solución diluida, (S2=50 ug/g), en microgramos por gramo.
+
+D1= la masa del frasco vacío, en gramos.
+
+D2= la masa del frasco con DMA, en gramos.
+
+D3= la masa del frasco con DMA y con cloruro de vinilo, en gramos.
+
+5.2.6. Se utiliza esta dilución para obtener la curva de calibración.
+
+5.3. Preparación de la solución de patrón interno con una concentración de 1 mg/kg de éter dietílico o 2 cis-buteno en DMA.
+
+5.4. Preparación de los patrones.
+
+5.4.1. Se coloca 5,0 cm3 de DMA o de solución de patrón interno en 15 frascos tipo penicilina, se los cierra herméticamente y se los pesa con precisión de 0,1 mg (N1). Se expresa en gramos.
+
+5.4.2. Se agrega a través del tapón mediante la jeringa de 10 mm3 (ul) o 25 mm3 (ul) las cantidades de S2 indicadas en la tabla I, y se vuelve a pesar cada frasco (N2).
+
+TABLA I
+PREPARACION DE PATRONES
+
+N frasco
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+mm3 de S2 (µl)
+0
+1
+1
+3
+3
+5
+5
+7
+7
+10
+10
+15
+15
+20
+20
+µg de cloruso de vinilo (aprox)
+
+0,05
+0,15
+0,25
+0,35
+0,50
+0,75
+1,20
+
+5.4.3.	Se colocan los frascos en el baño termostático durante 1 hora.
+
+
+5.5. Curva de calibración.
+
+5.5.1. Se prepara la tabla siguiente:
+
+TABLA II
+
+CURVA DE CALIBRACION
+
+Frasco
+N1
+N2
+(N2-N1).S2
+Cloruro de vinilo (x)
+y
+Número
+g
+g
+ug
+Mm
+Ó u.a.
+1
+a1
+15
+
+
+5.5.2. Se recomienda que la diferencia entre las respuestas de cada par de patrones sea inferior a 0,02 mg/kg de cloruro de vinilo.
+
+5.5.3. Se calcula la curva a partir de los puntos encontrados aplicando el método de cuadrados mínimos utilizando la ecuación siguiente:
+
+y= b + ax
+
+5.5.4. Se calculan las constantes aplicando las fórmulas siguientes:
+
+
+siendo:
+
+y= las alturas (H) o áreas de los picos medidos en cada una de las determinaciones individuales, en milímetros o unidades de área (u. a.).
+
+
+x= las concentraciones de cada patrón correspondiente a cada uno de los valores anteriores de y, en microgramos.
+
+n= el número de determinaciones llevadas a cabo, (n=15)
+
+5.5.5. Se realiza el cálculo siguiente:
+
+
+siendo:
+
+
+yi cada una de las respuestas medidas (alturas o áreas de los picos) en las determinaciones individuales;
+
+zi el valor correspondiente a la respuesta (yi) obtenido de la recta de cuadrados mínimos;
+
+n=15
+
+5.5.6. La curva debe ser lineal es decir, el valor resultante de dividir la desviación estándar (S), (de las diferencias entre las respuestas medidas (yi) y de los valores correspondientes a las respuestas calculadas (zi) a partir de la recta obtenida por cuadrados mínimos), por el valor medio (y) de todas las respuestas medidas, no debe exceder 0,07.
+
+5.6. Preparación de la muestra.
+
+5.6.1. Se pesa con precisión de 0,1 mg cinco frascos tipo penicilina con tapón y precintos y con barra magnética en su interior (M1).
+
+
+5.6.2. Se coloca en cada uno de ellos alrededor de 0,5 g de muestra previamente cortada en pequeños trozos de área menor que 10 mm x 2 mm.
+
+5.6.3. Se pesan los frascos nuevamente (M2).
+
+5.6.4. Se agregan 5 cm3 de DMA o de solución de patrón interno en cada uno de los frascos.
+
+5.6.5. Se cierra herméticamente y mediante un agitador magnético se logra la completa disolución de la muestra.
+
+5.6.6. Finalmente se colocan los frascos en el baño termostático durante 1 hora.
+
+5.7. Análisis cromatográfico.
+
+5.7.1. Las condiciones de operación recomendadas son las siguientes:
+
+
+Temperatura del inyector: 120ºC
+Temperatura del detector: 180ºC
+Temperatura de la columna: 60ºC
+Caudal: 20 cm3/min
+
+Atenuación: se adecua a la concentración de cloruro de vinilo hallada.
+
+Gas portador: Nitrógeno, grado cromatográfico.
+
+
+5.7.2. En las condiciones de operación indicadas en 5.7.1, se inyecta 1 mm3 (µl) del "espacio de cabeza" de la solución estándar concentrada (S1) y se corre al cromatograma para determinar el tiempo de retención correspondiente al cloruro de vinilo o a los patrones internos.
+
+5.7.3. Se inyecta, a continuación, 1 cm3 del "espacio de cabeza" de cada uno de los frascos (número 1 al 15) que contienen los patrones preparados para obtener la curva de calibración.
+
+5.7.4. Se mide en cada cromatograma la altura o área del pico (y) correspondiente al tiempo de retención del cloruro de vinilo (Tabla II).
+
+5.7.5. Se realiza lo mismo con cada uno de los quintuplicados de la muestra (ym) (Tabla III).
+
+
+5.8. Control de las soluciones tipo preparadas.
+
+5.8.1. Se prepara una nueva solución estándar concentrada, una segunda solución estándar (S3) y un patrón que contenga 0,1 mg/kg de cloruro de vinilo en DMA (Frascos 10 y 11).
+
+
+5.8.2. El promedio de las determinaciones cromatográficas de cloruro de vinilo efectuadas sobre esta última solución no debe diferir en más del 5 % del punto correspondiente sobre la curva de calibración. Si la diferencia excediera el 5 % se descartan todas las soluciones preparadas y se repite el procedimiento desde el principio.
+
+5.9. Cálculo de los resultados.
+
+5.9.1. Se prepara la tabla siguiente con los datos obtenidos con la muestra.
+
+TABLA III Resultados
+
+Frasco
+Pm=M2-M1
+ym
+xm
+cloruro de vinilo
+xm/Pm
+Número
+g
+mm ó u.a.
+µg
+µg/g
+1 al 5
+
+
+5.9.2. Se calculan los valores de xmi a partir de la ecuación de la recta obtenida por el método de cuadrados mínimos:
+
+
+5.9.3. Se calcula el contenido de cloruro de vinilo de la siguiente forma:
+
+
+5.10. Confirmación del contenido de cloruro de vinilo.
+
+Cuando el contenido de cloruro de vinilo encontrado en las muestras supere la cantidad máxima permitida, los resultados obtenidos deben ser confirmados por uno de los tres procedimientos siguientes:
+
+5.10.1. Empleando otra columna con fase estacionaria de diferente polaridad.
+
+Este procedimiento se repetirá hasta obtener un cromatograma que no evidencie superposición del pico de cloruro de vinilo y/o los picos correspondientes al patrón interno con constituyentes de la muestra.
+
+5.10.2. Empleando otros detectores (por ej.: el detector de conductividad microelectrolítico).
+
+5.10.3. Empleando espectroscopia de masa.
+
+En este caso si los iones moleculares con masas (m/e) 62 y 64 se encuentran en relación 3:1 se puede considerar con alta probabilidad, confirmada la presencia de cloruro de vinilo. En caso de duda se debe comprobar el espectro de masa total.
+
+5.11. Repetibilidad.
+
+La diferencia entre los resultados de dos determinaciones llevadas a cabo simultáneamente o en rápida sucesión sobre la misma muestra, por el mismo analista y bajo las mismas condiciones no debe exceder los 0,2 mg de cloruro de vinilo por kg de muestra.
+
+5.12. Límite.
+
+El contenido máximo permitido de cloruro de vinilo es de 1 mg/kg de materia plástica, tal cual lo establecido en la resolución MERCOSUR correspondiente a la lista positiva de polímeros y resinas para envases y equipamientos plásticos en contacto con alimentos.

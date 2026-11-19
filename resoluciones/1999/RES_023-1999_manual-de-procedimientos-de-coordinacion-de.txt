@@ -1,0 +1,437 @@
+Resolución GMC N° 23/99
+Título: Manual de Procedimientos de Coordinación de Frecuencia de Sistemas Paging Unidireccional
+Fecha de aprobación: 10/06/1999
+Vigencia: Vigente (Vigente desde el 27/03/2003 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 17701_RES_023-1999_ES_Manual_Proc_Sist-Paging_Bidireccional_Acta 2_99.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1397).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N°23/99
+
+
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS DE SISTEMAS PAGING UNIDIRECCIONAL
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 38/95, N°20/96 y N°68/97 del Grupo Mercado Común y la Recomendación N° 2/99 del SGT N° 1 "Comunicaciones".
+
+CONSIDERANDO:
+
+Que la Resolución N° 38/95 del Grupo Mercado Común aprobó las Pautas Negociadoras de los Subgrupos de Trabajo, Reuniones Especializadas y Grupos Ad-Hoc.
+
+Que mediante la Resolución MERCOSUR/GMC/RES. N° 68/97 se aprobó el uso de la banda de 931 - 932 MHz por parte de los Sistemas Paging Unidireccional en el ámbito del MERCOSUR.
+
+Que dentro de las Pautas Negociadoras del Subgrupo de Trabajo N° 1 "Comunicaciones", denominada Paging (Sistemas de Paging Unidireccional), se acordó elaborar un Manual de Procedimientos de Coordinación de Frecuencias de Sistemas de Paging Unidireccional, con el objetivo de armonizar procedimientos técnicos y administrativos cuando uno de los países desee instalar y operar un sistema referido dentro de los Estados Partes del MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Manual de Procedimientos de Coordinación de Frecuencias de Sistemas Paging Unidireccional" dentro de los países del MERCOSUR, en sus versiones en español y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Facúltase al Subgrupo de Trabajo N° 1 "Comunicaciones" a proponer actualizaciones al presente Manual acorde a los avances tecnológicos y en otros aspectos que surjan.
+
+Art. 3 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del día 10 de setiembre de 1999.
+
+
+XXXIV GMC-Asunción,10/VI/99
+
+ANEXO
+
+
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN
+ DE FRECUENCIAS DE SISTEMAS PAGING UNIDIRECCIONAL
+
+ÍNDICE
+
+
+1 	PREÁMBULO
+
+2	PRINCIPIOS GENERALES BÁSICOS
+
+3	DEFINICIONES
+
+4 	PROCEDIMIENTO DE COORDINACIÓN
+
+4.1 	OBLIGACIÓN DE LA COORDINACIÓN
+
+4.2	INFORMACIÓN PARA LA COORDINACIÓN
+
+4.3 	ACUSE DE RECIBO DE LA INFORMACIÓN PARA LA COORDINACIÓN
+
+	4.4	ANÁLISIS DE LA INFORMACIÓN PARA LA COORDINACIÓN Y PLAZOS
+
+	4.5	SOLUCIÓN DE CONTROVERSIAS
+
+4.6	DISPOSICIONES FINALES
+
+4.7	DISPOSICIONES TRANSITORIAS
+
+
+5 	ANEXOS
+
+  ANEXO A - BANDAS DE FRECUENCIAS Y CANALIZACIÓN
+
+      ANEXO B - NORMAS OPERATIVAS Y TÉCNICAS
+
+ANEXO C - MÉTODO DE CÁLCULO
+
+ANEXO D - FORMULARIO DE COORDINACIÓN
+
+
+1	PREÁMBULO
+1.1	Este Manual establece los procedimientos que deben aplicarse para la coordinación del uso de frecuencias comprendidas en las bandas que se detallan en el Anexo A del presente, por parte de las estaciones centrales o base o estaciones repetidoras destinadas a Sistemas Paging Unidireccional que operen en zonas fronterizas de los países integrantes del MERCOSUR.
+1.2	Los procedimientos descriptos en el Capítulo 4, determinan en qué casos y cuándo una Administración debe iniciar el proceso de coordinación.
+1.3	En las bandas de frecuencias mencionadas en el Anexo A, las Administraciones se comprometen a no autorizar nuevas estaciones de otros servicios de radiocomunicaciones, dentro de la zona de coordinación o que estando fuera lleguen a dicha zona con un nivel de señal  superior al indicado en el punto 5 del Anexo B.
+1.4	La responsabilidad de la coordinación de frecuencias recae en las Administraciones Nacionales de cada Estado Parte.
+2	PRINCIPIOS GENERALES BÁSICOS
+2.1	A fin de garantizar la continuidad de la prestación del servicio por parte del Prestador a los abonados radicados en su zona de servicio y que transitoriamente se encuentren al otro lado de la frontera y dentro de la zona de coordinación, el nivel máximo de señal admitida, se especifica en el punto 5 del Anexo B, el que deberá respetarse en el diseño de las características de transmisión de las estaciones centrales o bases o estaciones repetidoras.
+2.2	Toda interferencia perjudicial debe ser evitada y en caso de existir, debe ser inmediatamente subsanada.
+2.3	En caso necesario y a efectos de asegurar el cumplimiento de los procedimientos de coordinación y optimizar la adecuación de los criterios técnicos de referencia, las Administraciones evaluarán y realizarán en conjunto, mediciones de campo con la participación, en la medida de lo posible, de los Prestadores involucrados.
+2.4	Las Partes acuerdan respetar las coordinaciones de frecuencias concretadas.  Las peticiones de modificación de las mismas o incorporación de nuevas frecuencias, serán consideradas, salvo que haya consentimiento expreso de las Administraciones involucrados en la coordinación.
+2.5	Las Administraciones facilitarán las asignaciones destinadas a la interconexión de las estaciones centrales y sus estaciones repetidoras, lo que probablemente exigirá coordinación de las Administraciones.
+2.6	Las Administraciones y los Prestadores deben maximizar todos sus esfuerzos, facilitando el planeamiento y buscando una rápida solución de los casos de coordinación, compartiendo el espectro y la solución de interferencias, buscando siempre el objetivo común de prestar el servicio a todos los usuarios, con la calidad adecuada.
+2.7 Las estaciones coordinadas y en proceso de coordinación, tendrán prioridad en su operación ante la solicitud de coordinación de nuevas frecuencias, en el caso de superposición total o parcial de áreas de cobertura.
+3. DEFINICIONES
+3.1 FRECUENCIAS COORDINADAS: Frecuencias asignadas a una estación radioeléctrica central o base o estación repetidora para su operación en la zona coordinada y que cuenta con la conformidad de las Administraciones de los países limítrofes correspondientes.
+3.2 ASIGNACIÓN DE FRECUENCIA: Autorización que da una Administración para que una estación central o base o estación repetidora utilice una frecuencia determinada en condiciones especificadas.
+3.3 SISTEMA PAGING UNIDIRECCIONAL: Servicio de radiocomunicación móvil terrestre que permite cursar mensajes individuales o simultáneos hacia estaciones receptoras móviles.
+3.4 	ESTACIÓN CENTRAL O BASE: Estación Radioeléctrica Fija del servicio móvil terrestre destinada a transmitir mensajes o advertir sobre la existencia de los mismos.
+3.5 	ESTACIÓN REPETIDORA: Estación Radioeléctrica fija del servicio móvil terrestre destinada a retransmitir los mensajes emitidos por la estación central o base, permitiendo atender áreas de sombra dentro del área de cobertura o bien el área de servicio del Prestador.
+3.6 ESTACIÓN MOVIL RECEPTORA: Estación móvil terrestre receptora portátil que tiene la capacidad de recibir mensajes desde la estación central o base o de estación repetidora.
+3.7 	ADMINISTRACIÓN: Entidad Gubernamental de Telecomunicaciones de cada Estado Parte, competente para intervenir en el cumplimiento y ejecución del presente Manual.
+3.8 	PRESTADOR: Titular de la autorización para instalar y poner en funcionamiento las estaciones del Servicio de Paging Unidireccional.
+3.9 	ABONADO: Persona que ha celebrado un contrato de Servicio de Paging Unidireccional con el prestador del mismo.
+3.10 ÁREA DE COBERTURA: Área geográfica definida, en que una estación móvil receptora puede ser atendida por una estación central o base o estación repetidora.
+3.11 ZONA DE COORDINACIÓN: Faja geográfica dentro de cada país con un ancho de 40 kilómetros. En caso de límite lacustre, fluvial o marítimo se considerará como límite de referencia el margen o costa del país que solicita la coordinación.
+4. PROCEDIMIENTO DE COORDINACIÓN
+4.1 SOLICITUD DE COORDINACIÓN
+4.1.1 Toda Administración antes de autorizar la operación o efectuar una modificación a una asignación de frecuencia, de una estación central o base o estación repetidora de un Sistema Paging Unidireccional situada en el interior de la zona de coordinación, o que estando fuera de la misma sus características técnicas provoquen un nivel de señal superior al establecido en el ítem 5 del Anexo B, deberá coordinar la asignación proyectada con las Administraciones que pudieran resultar afectadas, salvo en los casos descritos en el ítem 4.1.2.
+
+4.1.2 No es necesaria la coordinación cuando una Administración se propone autorizar:
+4.1.2.1 la operación de una estación central o base o estación repetidora de un Sistema Paging, que se encuentra situada fuera de la zona de coordinación y que sus características no generen en dicha zona un nivel de señal superior al establecido en el ítem 5 del Anexo B;
+4.1.2.2 modificaciones de las características o condiciones especificadas de una asignación existente o que ya fue coordinada, de modo que no aumente el nivel de señal causado anteriormente y presente en las áreas de cobertura de estaciones de Prestadoras de otros Estados Partes. En este caso se deberá notificar estas modificaciones a las Administraciones afectadas.
+4.1.3 Cuando una Administración desee modificar las características técnicas de una asignación durante el proceso de coordinación, deberá reiniciar el mismo. Por lo tanto los plazos establecidos en esta Sección se contarán a partir del nuevo envío de información que incluya las modificaciones propuestas.
+
+4.2 INFORMACIÓN PARA LA COORDINACIÓN
+4.2.1	Para iniciar los procedimientos de coordinación, la Administración solicitante enviará a la Administración afectada, el pedido de coordinación junto con la información contenida en el formulario del Anexo D.
+4.3	ACUSE DE RECIBO DE LA INFORMACIÓN PARA LA COORDINACIÓN
+4.3.1	Las Administraciones que reciban un pedido de coordinación, deberán de inmediato, acusar recibo a la Administración solicitante y tendrán un plazo máximo de 20 (VEINTE) días a contar de la fecha de recibo, para verificar si la información está completa, o devolver el pedido en el caso que la información suministrada esté incompleta.
+4.3.2	No habiendo manifestación de la Administración receptora, en cuanto a las informaciones, en el plazo máximo establecido en el ítem 4.3.1, el pedido de coordinación deberá ser reiterado, debiendo esa reiteración ser respondida en el plazo máximo de 10 (DIEZ) días.
+4.3.3	La aceptación de la coordinación, su rechazo, o cualquier modificación que se proponga deberá ser realizada por la Administración notificada en un plazo de 30 (TREINTA) días contados a partir de la fecha del acuse de recibo del pedido.
+4.4	ANÁLISIS DE LA INFORMACIÓN PARA LA COORDINACIÓN Y PLAZOS
+4.4.1	Al recibir los detalles referentes a la coordinación, la Administración receptora con la que se trata de efectuar la coordinación los examinará en el menor tiempo posible, a fin de determinar la interferencia que se produciría sobre las estaciones de los Sistemas de Paging que cuentan con asignaciones de frecuencias coordinadas con anterioridad o en proceso de coordinación.
+4.4.2	Los criterios y el método de cálculo que se deben emplear para evaluar la interferencia están tratados en los Anexos B y C. No obstante, durante el proceso de coordinación, las Administraciones y los Prestadores involucrados podrán adoptar otros criterios y métodos más precisos para superar los problemas de interferencia que surgieran.
+4.4.3	Las Administraciones involucradas podrán solicitar la información adicional que juzguen necesaria para evaluar la interferencia causada a las asignaciones de frecuencias de las estaciones centrales o bases o estaciones repetidoras en cuestión. Asimismo se realizarán todos los esfuerzos posibles para superar las dificultades, de forma aceptable para las partes interesadas.
+4.4.4	Para efectuar la coordinación, se podrá utilizar para la correspondencia, todo medio apropiado de telecomunicaciones y/o reuniones bilaterales o multilaterales, en caso que sea necesario.
+4.4.5	De existir oposición técnicamente fundamentada en el plazo de 30 (TREINTA) días establecido en el ítem 4.3.3, no podrán ser autorizadas las instalaciones en las condiciones requeridas en la coordinación, hasta tanto se llegue a un acuerdo entre las Administraciones involucradas.
+4.4.6	En caso de no existir oposición o haber transcurrido los plazos mencionados en los ítems 4.3.2 y 4.3.3, la Administración solicitante quedará habilitada para realizar la asignación o autorizar la modificación.
+4.4.7	Los plazos establecidos en días son considerados días corridos.
+4.4.8	Para toda asignación de frecuencias de una estación central o base o estación repetidora que estuviera coordinada, pero que no fue puesta en operación en un plazo máximo de 1 (UN) año contado a partir de la fecha de conclusión de la coordinación, se deberá reiniciar el procedimiento de coordinación como si se tratase de una nueva asignación. Este período podrá ser prorrogado por acuerdo entre las Administraciones interesadas.
+4.5	SOLUCIÓN DE CONTROVERSIAS.
+Si surgiera una controversia entre alguna de las partes, las mismas deberán buscar una solución mediante los procedimientos de la negociación directa.
+Si mediante tales procedimientos no se alcanzare un acuerdo o si la controversia fuera solucionada solo en parte, se aplicará el procedimiento de Solución de Controversias vigente del Tratado de Asunción entre los Estados Partes.
+4.6	DISPOSICIONES FINALES
+4.6.1	En caso de que surjan posibles interferencias perjudiciales no contempladas en el presente Manual, las Administraciones y los Prestadores involucrados harán todos los esfuerzos necesarios para superar las mismas de forma aceptable para todas las partes interesadas.
+4.6.2	Este Manual deberá ser constantemente actualizado con las nuevas alternativas de Sistemas Paging Unidireccional y los nuevos estándares tecnológicos que surjan.
+
+4.7	DISPOSICIONES TRANSITORIAS
+4.7.1	A las estaciones centrales o bases o estaciones repetidoras en servicio, con asignaciones de frecuencias en las bandas mencionadas en el Anexo A con fecha anterior a la aprobación del presente Manual, que se encuentren en el interior de la zona de coordinación, o estando fuera de la misma sus características técnicas provoquen en el interior de la zona de coordinación un nivel de señal superior al establecido en el ítem 5 del Anexo B, deben aplicarse  los siguientes procedimientos:
+4.7.1.1	coordinación de frecuencias ya efectuadas, con acuerdos ratificados por las respectivas Administraciones, prevalecen los acuerdos anteriormente mencionados;
+4.7.1.2	coordinación de frecuencias en proceso, en caso necesario, deberá adecuarse a los procedimientos y reglas del presente Manual.
+
+4.7.2 En caso de interferencias perjudiciales que surjan de situaciones no contempladas en el presente Manual, las Administraciones y los Prestadores involucrados harán todos los esfuerzos posibles para superar las mismas de forma aceptable para las partes interesadas.
+
+4.7.3	Las Administraciones deben presentar dentro de un plazo de  60 (SESENTA) días después de aprobado este Manual, informe de los Prestadores de Servicio de Paging Unidireccional que operen en la zona de coordinación, tomando como referencia el Anexo D de este Manual.
+
+ANEXO A
+
+BANDAS DE FRECUENCIAS Y CANALIZACIÓN
+
+1	BANDAS DE FRECUENCIAS
+
+BANDAS DE FRECUENCIAS SISTEMAS PAGING UNIDIRECCIONAL
+
+Transmisión de la estación central o base o estación repetidora 931 - 932 MHz
+
+2	CANALIZACIÓN
+
+ESQUEMA DE DISTRIBUCIÓN DE FRECUENCIAS PARA SISTEMAS PAGING UNIDIRECCIONAL.
+
+SEPARACION ENTRE CANALES: 25 KHz.
+
+CANAL
+FRECUENCIA
+ESTACIÓN CENTRAL O BASE O ESTACIÓN REPETIDORA
+
+CANAL
+FRECUENCIA
+ESTACIÓN CENTRAL O BASE O ESTACIÓN REPETIDORA
+1
+931,0125
+
+21
+931,5125
+2
+931,0375
+
+22
+931,5375
+3
+931,0625
+
+23
+931,5625
+4
+931,0875
+
+24
+931,5875
+5
+931,1125
+
+25
+931,6125
+6
+931,1375
+
+26
+931,6375
+7
+931,1625
+
+27
+931,6625
+8
+931,1875
+
+28
+931,6875
+9
+931,2125
+
+29
+931,7125
+10
+931,2375
+
+30
+931,7375
+11
+931,2625
+
+31
+931,7625
+12
+931,2875
+
+32
+931,7875
+13
+931,3125
+
+33
+931,8125
+14
+931,3375
+
+34
+931,8375
+15
+931,3625
+
+35
+931,8625
+16
+931,3875
+
+36
+931,8875
+17
+931,4125
+
+37
+931,9125
+18
+931,4375
+
+38
+931,9375
+19
+931,4625
+
+39
+931,9625
+20
+931,4875
+
+40
+931,9875
+
+ANEXO B
+NORMAS OPERATIVAS Y TECNICAS
+
+1 MODO DE EXPLOTACIÓN: El modo de explotación de los canales radioeléctricos será SIMPLEX.
+2  TIPO DE INFORMACIÓN A TRANSMITIR: Datos.
+3		CODIFICACIÓN: Las estaciones centrales o  bases o estaciones repetidoras y las móviles receptoras trabajarán empleando técnicas de llamada selectiva. La capacidad de direccionamiento del sistema de codificación empleado permitirá asignarle a cada abonado una o más direcciones.
+4	 POTENCIA RADIADA APARENTE: La potencia radiada aparente de las estaciones centrales o base o estación repetidora, no podrá ser superior al nivel necesario y suficiente para cumplir con lo especificado en el ítem 5.
+5	 ÁREA DE SERVICIO PROTEGIDA: Las estaciones  centrales o base o estaciones repetidoras de los Sistemas Paging deberán diseñarse de tal forma que el nivel de señal provocado en el borde de un círculo de 20 Km de radio con centro en el lugar de emplazamiento no exceda una intensidad de campo eléctrico de 40 dB (100 V/m).
+6	 CÁLCULOS DEL NIVEL DE SEÑAL: Los cálculos del nivel de señal que se presente en el borde de un círculo de 20 Km de radio, con centro en la estación central o base o estación repetidora, serán realizados conforme a los procedimientos establecidos en el Anexo C.
+7	 RELACIÓN DE PROTECCIÓN: La relación entre la señal deseada y la no deseada será de 16 dB.
+8	REPETIDORAS: En caso de zonas de sombra dentro del área de servicio protegida, provocados por edificaciones o relieves topográficos, se podrá autorizar la instalación y funcionamiento de estaciones repetidoras en la misma frecuencia asignada a la estación central o base. La intensidad del campo eléctrico generado por la estación repetidora, en ningún caso, deberá superar el nivel de 40 dB (100 V/m) en el contorno del área de servicio protegida a la estación central o base. Cuando se pretenda extender el área de servicio de la estación central más allá del límite establecido en el ítem 5, la ubicación de los sistemas irradiantes de las estaciones repetidoras definirán una nueva área de servicio en condiciones similares a las establecidas en el mencionado ítem, para la intensidad de campo. La máxima distancia entre cada estación repetidora y la estación central o base deberá ser de 20 Km. La posibilidad de operación de las repetidoras bajo estas formas quedará sujeta a los análisis de compatibilidad que realice la Administración, pudiendo requerirse al Prestador el aporte de datos o la presentación de los estudios necesarios. El vínculo entre la estación central o base y las estaciones repetidoras podrá resolverse de acuerdo con alguna de las siguientes formas:
+8.1	por medios físicos;
+8.2	por repetición simultánea de los mensajes, mediante la utilización de enlaces punto a punto o punto a multipunto, según corresponda; haciendo uso de las frecuencias que puedan destinarse específicamente para tal fin o en aquellas atribuidas al servicio fijo.
+9	Los valores especificados en este Anexo, son provisorios y deberán ser utilizados hasta que el Grupo de Especialistas de Radiopropagación los confirme.
+
+ANEXO C
+
+MÉTODO DE CÁLCULO
+
+El método de cálculo será el que determine el Grupo de Especialistas de Radiopropagación. Mientras el mismo no esté disponible, las Administraciones utilizarán sus propios métodos. Si no existiese acuerdo  sobre la base de los cálculos teóricos presentados, se adoptará como referencia la Recomendación UIT Nº 370 "VHF and UHF propagation curves for the frecuency range from 30 MHz to 1.000 MHz broadcasting services" y UIT 529 "Prediction methods for the terrestrial land mobiles service in the VHF and UHF bands"
+
+
+ANEXO D - PARTE I
+
+FORMULARIO DE COORDINACIÓN
+
+
+Nº
+DESCRIPCION
+SIMBOLO
+DATOS
+1
+PAÍS
+ADM
+
+2
+SITUACIÓN
+A
+
+3
+FRECUENCIA
+FRE
+
+4
+LOCALIDAD
+LOC
+
+5
+NOMBRE Y SEÑAL DISTINTIVA DE LA ESTACIÓN
+SD
+
+6
+LONGITUD OESTE
+LON
+
+7
+LATITUD SUR
+LAT
+
+8
+POTENCIA RADIADA APARENTE
+PRA
+
+9
+GANANCIA DE LA ANTENA
+GA
+
+10
+ACIMUT DE MÁXIMA RADIACIÓN
+AZ
+
+11
+APERTURA HORIZONTAL
+AH
+
+12
+COTA SOBRE EL NIVEL DEL MAR
+CT
+
+13
+ALTURA DE LA ANTENA
+HA
+
+14
+FECHA
+FE
+
+15
+TIPO DE ESTACIÓN:
+CENTRAL O BASE
+REPETIDORA
+
+CE
+RE
+
+
+ANEXO D - PARTE II
+
+INSTRUCCIONES PARA COMPLETAR EL FORMULARIO DE COORDINACIÓN
+
+1
+PAÍS (ADM)
+Símbolo indicativo del país solicitante de coordinación:
+Argentina: 	ARG
+Brasil:		B
+Paraguay:	PRG
+Uruguay:	URG
+
+2
+SITUACIÓN (A)
+Se indicará ADD, MOD o SUP si se refiere a una nueva asignación, una modificación o una supresión total de una asignación, respectivamente.
+
+3
+FRECUENCIA (FREC)
+Se indicará el canal que corresponda, según la tabla obrante en el ítem 2 del ANEXO A.
+
+4
+LOCALIDAD (LOC)
+Se indicará el nombre de la localidad en que se encuentra la estación correspondiente, o el nombre de la localidad más próxima a dicho lugar.
+
+5
+NOMBRE Y SEÑAL DISTINTIVA  DE LA ESTACIÓN (SD)
+
+Se indicará el nombre y señal distintiva de la estación.
+
+6
+LONGITUD OESTE (LON)
+Este dato se expresará en grados, minutos y segundos sexagecimales.
+
+7
+LATITUD SUR (LAT)
+Este dato se expresará en grados, minutos y segundos sexagecimales.
+
+8
+POTENCIA RADIADA APARENTE (PRA)
+Se indicará el producto de la potencia suministrada a la antena por su ganancia con relación al dipolo de media onda, expresado en dBW (Potencia Radiada Aparente en español o Effective Radiated Power en inglés).
+
+9
+GANANCIA DE LA ANTENA (GA)
+Se indicará la ganancia de antena en la dirección de máxima radiación, expresado en dBd.  Además acompañará a este formulario el diagrama de radiación correspondiente, si se tratara de una antena direccional.
+
+10
+AZIMUT DE MÁXIMA RADIACION (AZ)
+Es el ángulo formado entre la dirección del norte geográfico y la dirección de máxima radiación de antena, en el sentido de las agujas del reloj. Se indicará en grados. Si la antena de la estación tiene características de radiación omnidireccional, se indicará el valor de 360º.
+
+11
+APERTURA HORIZONTAL (AH)
+Se indicará el ángulo de media potencia del diagrama de radiación horizontal.
+
+12
+COTA SOBRE EL NIVEL DEL MAR (CT)
+Se expresará la altura del terreno en relación al nivel del mar en metros.
+
+13
+ALTURA DE LA ANTENA (HA)
+Se expresará en metros.
+
+14
+FECHA (FE)
+Se indicará la fecha de envío en el formato dd.mm.aaaa.
+
+15
+TIPO DE ESTACIÓN:
+CENTRAL O BASE (CE)
+REPETIDORA (RE)
+Informar si la estación a ser coordinada es una Estación Central o Base (CE) o Estación Repetidora (RE).
+
+
+15

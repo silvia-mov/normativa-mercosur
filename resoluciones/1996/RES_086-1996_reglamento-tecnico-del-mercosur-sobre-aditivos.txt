@@ -1,0 +1,890 @@
+Resolución GMC N° 86/96
+Título: REGLAMENTO TÉCNICO DEL MERCOSUR SOBRE ADITIVOS ALIMENTARIOS A SER EMPLEADOS SEGÚN LAS BUENAS PRÁCTICAS DE FABRICACIÓN
+Fecha de aprobación: 11/10/1996
+Vigencia: Derogada (Vigente desde el 09/04/2001 – Art. 40 POP Será derogada por la Resolución GMC Nº 34/10, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 26596_RES_086-1996_ES_RTM Aditivos Alimentarios.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2009).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 86/96
+
+REGLAMENTO TECNICO DEL MERCOSUR SOBRE ADITIVOS ALIMENTARIOS A SER EMPLEADOS SEGUN LAS BUENAS PRACTICAS DE FABRICACION (BPF)
+
+      VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto y la Recomendación Nº 41/96 del SGT-3.
+
+CONSIDERANDO:
+
+Que el "Comité Conjunto FAO/OMS de Técnicos sobre Aditivos Alimentarios y Contaminantes" (JECFA) evalúa toxicológicamente los aditivos alimentarios recomendando los correspondientes valores de Ingestión Diaria Aceptables (IDA);
+
+Que existe un grupo de aditivos para los cuales el Comité estableció una IDA no limitada, o no especificada;
+
+Que el Codex Alimentarius considera que estos aditivos pueden ser usados según las Buenas Prácticas de Fabricación, y
+
+Que los Estados Partes acordaron elaborar una lista de aditivos para ser usados según las Buenas Prácticas de Fabricación (incluida en el Acta 04/94 del SGT - 3)
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Aprobar el Reglamento Técnico del Mercosur sobre Aditivos Alimentarios a ser empleados según las Buenas Prácticas de Fabricación (BPF), que figura en el Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los aditivos que están incluidos en la lista que constituye el Anexo A podrán ser usados en los alimentos en general, según las Buenas Prácticas de Fabricación (B.P.F.), o sea, sin limitaciones cuantitativas, desde que cumplan las funciones determinadas y que estas funciones estén autorizadas en el alimento correspondiente. Podrán ser establecidas restricciones de uso de aditivos B.P.F. para determinados alimentos, siempre que sea acordado por los Estados Partes.
+
+Art 3 -  Los Estados Partes colocarán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución y comunicarán el texto de la misma al Grupo Mercado Común.
+
+Art 4 - En función de lo establecido en la Resolución Nº 91/93 del GMC, las autoridades competentes de los Estados Partes encargadas de la implementación de la presente Resolución serán:
+
+ARGENTINA:  Ministerio de Salud y Acción Social
+         Ministerio de Economía y Obras y Servicios Públicos
+         Secretaría de Agricultura, Pesca y Alimentación
+Instituto Argentino de Sanidad y Calidad Vegetal (IASCAV)
+         Servicio Nacional de Sanidad Animal (SENASA)
+         Secretaría de Industria
+         Instituto Nacional de Vitivinicultura (INV)
+
+BRASIL:	    Ministério da Saúde
+              Ministério da Agricultura e do Abastecimento
+
+PARAGUAY:    Ministerio de Salud Pública y Bienestar Social
+              Ministerio de Agricultura y Ganadería
+
+URUGUAY:	    Ministerio de Salud Pública
+              Ministerio de Ganadería, Agricultura y Pesca
+              Ministerio de Industria, Energía y Minería
+              Laboratorio Tecnológico del Uruguay (LATU)
+
+Art 5 - La presente Resolución entrará en vigencia el 1/01/97.
+
+
+XXIII GMC, Brasilia 11/10/96
+
+
+ANEXO A
+
+ADITIVOS SEGUN BUENAS PRACTICAS DE FABRICACIÓN
+(Ordenados alfabéticamente por nombre del aditivo)
+Actualización: 05.09.96
+
+Número
+NOMBRE DEL ADITIVO ALIMENTARIO
+CABLE FUNCIONAL
+INS
+generalmente utilizado
+(Ver Abreviaturas al pié)
+
+
+260
+Acido Acetico
+ACREG/CONS
+400
+Acido Alginico
+ESP/EST
+300
+Acido Ascorbico
+ANT/FLO
+330
+Acido Cítrico
+ACI/ACREG/ANT/SEC/AROSAB
+315
+Acido Eritorbico, Acido Isoascórbico
+ANT
+570i
+Acido Estearico, Acido Octadecanoico
+ANESP/GLA
+297
+Acido Fumarico
+ACI/ACREG
+574
+Acido Glucónico
+ACI/ACREG/RAI
+620
+Acido Glutamico
+EXA
+630
+Acido Inosinico
+EXA
+270
+Acido Láctico
+ACI/ACREG
+296
+Acido Malico
+ACI/ACREG
+280
+Acido Propionico
+CONS
+406
+Agar
+ESP/EST/GEL
+559
+Aluminio Silicato
+ANAH
+554
+Aluminio y Sodio Silicato, Sodio Aluminosilicato
+ANAH
+1100
+Amilasa
+FLO
+403
+Amonio Alginato
+ESP/EST
+503ii
+Amonio Bicarbonato, Amonio Carbonato Acido
+ACREG/RAI
+503i
+Amonio Carbonato
+ACREG/RAI
+527
+Amonio Hidróxido
+ACREG
+517
+Amonio Sulfato
+FLO/EST
+624
+Amonio -(mono) Glutamato
+EXA
+263
+Calcio Acetato
+CONS/EST/ACREG
+404
+Calcio Alginato
+ESP/EST/GEL/ANESP
+302
+Calcio Ascorbato
+ANT
+170i
+Calcio Carbonato
+ANAH/EST/ACREG/FIR
+509
+Calcio Cloruro
+EST/FIR
+623
+Calcio Diglutamato
+EXA
+526
+Calcio Hidróxido
+ACREG/FIR
+327
+Calcio Lactato
+ACREG/FLO/FIR
+529
+Calcio Oxido
+ACREG/FLO
+282
+Calcio Propionato
+CONS
+552
+Calcio Silicato
+ANAH
+516
+Calcio Sulfato
+FLO/SEC/FIR
+333
+Calcio-(tri) Citrato, Calcio Citrato
+ACREG/SEC/ANT/FIR/EST
+290
+Carbono Dioxido
+CONS
+466
+Carboximetilcelulosa Sodica
+ESP/EST/EMU
+407
+Carragenina (incluye Furcellaran y sus sales de Na y K), Musgo Irlandés
+ESP/EST/GEL
+460i
+Celulosa Microcristalina
+EST/EMU/FIR/ANAH/ESP
+902
+Cera Candelilla
+GLA
+901
+Cera de Abejas, Blanca y Amarilla
+GLA
+1001i
+Colina Acetato
+EMU
+1001ii
+Colina Carbonato
+EMU
+
+
+ANEXO A
+
+
+ADITIVOS SEGUN BUENAS PRACTICAS DE FABRICACIÓN
+
+
+(Ordenados alfabéticamente por nombre del aditivo)
+
+
+Actualización: 05.09.96
+
+
+Número
+NOMBRE DEL ADITIVO ALIMENTARIO
+CABLE FUNCIONAL
+INS
+generalmente utilizado
+(Ver Abreviaturas al pié)
+1001iv
+Colina Citrato
+EMU
+1001iii
+Colina Cloruro
+EMU
+1001vi
+Colina Lactato
+EMU
+1001v
+Colina Tartrato
+EMU
+472f
+Esteres de Mono-y Digliceridos de Ac. Grasos con Ac. Acético y Tartarico
+EMU/EST/SEC
+472a
+Esteres de Mono- y Digleceridos de Ac. Grasos con Ac. Acético
+EMU/EST/SEC
+472c
+Esteres de Mono- y Digleceridos de Ac. Grasos con Ac. Cítrico
+EMU/EST/SEC/ANT
+472b
+Esteres de Mono- y Digleceridos de Ac. Grasos con Ac. Láctico
+EMU/EST/SEC
+472d
+Esteres de Mono- y Digleceridos de Ac. Grasos con Ac. Tartarico
+EMU/EST/SEC
+471
+Esteres de Mono- y Digleceridos de Ac. Grasos
+EMU/EST/AN ESP
+-
+Gelatina
+EST/EMU/ESP/GEL
+422
+Glicerina, Glicerol
+HUM
+575
+Glucono-Delta-Lactona
+ACREG/RAI/ACI
+1102
+Glucosa Oxidasa
+ANT
+414
+Goma Arábiga, Goma Acacia
+ESP/EST/EMU
+410
+Goma Garrofin, Goma Caroba, Goma Algarrobo, Goma Jatai
+ESP/EST
+412
+Goma Guar
+ESP/EST/EMU
+416
+Goma Karaya, Goma Sterculia, Goma Caraya
+ESP/EST/EMU
+-
+Goma Konjac
+ESP/EST/EMU/GEL
+904
+Goma Laca, Shellac
+GLA
+413
+Goma Tragacanto, Tragacanto, Goma Adragante
+ESP/EST/EMU
+415
+Goma Xatica, Goma Xaltan, Goma de Xantano
+ESP/EST/EMU
+463
+Hidroxipropil Celulosa
+ESP/EST/EMU
+953
+Isomalta, Isomaltitol
+EDU/GLA
+966
+Lactitol
+EDU/FIR
+322
+Lecitinas
+EMU/ANT/EST
+504i
+Magnesio Carbonato, Magnesio Carbonata Básico
+ACREG/ANAH/ESTCOL
+625
+Magnesio Glutamato, Magnesio Diglutamato
+EXA
+528
+Magnesio Hidróxido
+ANAH/ACREG/ESTCOL
+530
+Magnesio Oxido
+ANAH
+553i
+Magnesio Silicato
+ANAH
+965
+Maltitol y Jarabe de Maltitol
+ESP/EST/EMU
+421
+Manitol
+EDU/HUM/EST
+461
+Metilcelulosa, Metil Celulosa
+ESP/EST/EMU
+465
+Metiletilcelulosa, Metil Etil Celulosa
+ESP/EMU/EST/FOA
+440
+Pectina/Pectina Amidada
+ESP/EST/GEL
+1200
+Polidextrosa
+AGC/ESP/EST/HUM/FIR
+402
+Potasio Alginato
+ESP/EST
+303
+Potasio Ascorbato
+ANT
+501i
+Potasio Corbanato
+ACREG/EST
+525
+Potasio Hidróxido, Potasa Cáustica
+ACREG
+283
+Potasio Propionato
+CONS
+515
+Potasio Sulfato
+ACREG
+622
+Potasio-(mono) Glutamato
+EXA
+
+
+ANEXO A
+
+
+ADITIVOS SEGUN BUENAS PRACTICAS DE FABRICACIÓN
+(Ordenados alfabéticamente por nombre del aditivo)
+Actualización: 05.09.96
+
+
+Número
+NOMBRE DEL ADITIVO ALIMENTARIO
+CABLE FUNCIONAL
+INS
+generalmente utilizado
+(Ver Abreviaturas al pié)
+
+
+332ii
+Potasio-(tri) Citrato, Potasio Citrato
+ACREG/SEC/EST
+470
+Sales de Al, Ca, Mg, K, Na y NH4 con Ac. Grasos
+EMU/EST/ANAH
+551
+Silicio Dioxido, Sílice
+ANAH
+401
+Sodio Alginato
+ESP/EST/GEL
+301
+Sodio Ascorbato
+ANT
+500ii
+Sodio Bicarbonato, Sodio Carbonato Acido
+ACREG/RAI/ANAH/EST
+500i
+Sodio Carbonato
+ACREG/RAI/ANAH
+-
+Sodio Caseinato
+EMU/EST
+316
+Sodio Eritorbato
+ANT/CONS
+524
+Sodio Hidróxido
+AGREG
+325
+Sodio Lactato
+HUM/ANT
+281
+Sodio Propinato
+CONS
+627
+Sodio-(di) Guanilato, Sodio -(di) 5´-Guanilato
+EXA
+631
+Sodio-(di) Inositato, Sodio-(di) 5´Inosinato
+EXA
+621
+Sodio-(momo) Glutamato, Sodio Monoglutamato
+EXA
+331iii
+Sodio-(tri) Citrato, Sodio Citrato
+ACREG/SEC/EMU/EST
+420
+Sorbitol y Jarabe de Sorbitol, d-Sorbita
+EDU/HUM/SEC/FIR/EMU
+553iii
+Talco
+ANAH
+967
+Xilitol, Xilita
+EDU/HUM/EST/EMU/ESP
+
+
+ANEXO A
+
+
+ADITIVOS SEGUN BUENAS PRACTICAS DE FABRICACIÓN
+(Ordenados por número INS)
+Actualización: 05.09.96
+
+
+Número
+NOMBRE DEL ADITIVO ALIMENTARIO
+CABLE FUNCIONAL
+INS
+generalmente utilizado
+(Ver Abreviaturas al pié)
+-
+Gelatina
+EST/EMU/ESP/GEL
+-
+Goma Konjac
+ESP/EST/EMU/GEL
+-
+Sodio Caseinato
+EMU/EST
+170i
+Calcio Carbonato
+ANAH/EST/ACREG/FIR
+260
+Acido Acético
+ACREG/CONS
+263
+Calcio Acetato
+CONS/EST/ACREG
+270
+Acido Láctico
+ACI/ACREG
+280
+Acido Propionico
+CONS
+281
+Sodio Propionato
+CONS
+282
+Calcio Propionato
+CONS
+283
+Potasio Propionato
+CONS
+290
+Carbono Dioxido
+CONS
+296
+Acido Malico
+ACI/ACREG
+297
+Acido Fumarico
+ACI/ACREG
+300
+Acido Ascorbico
+ANT/FLO
+301
+Sodio Ascorbato
+ANT
+302
+Calcio Ascorbato
+ANT
+303
+Potasio Ascorbato
+ANT
+315
+Acido Eritorbico, Acido Isoascorbico
+ANT
+316
+Sodio Eritorbato
+ANT/CONS
+322
+Lecitinas
+EMU/ANT/EST
+325
+Sodio Lactato
+HUM/ANT
+327
+Calcio Lactato
+ACREG/FLO/FIR
+330
+Acido Cítrico
+ACI/ACREG/ANT/SEC/AROSAB
+331iii
+Sodio-(tri) Citrato, Sodio Citrato
+ACREG/SEC/EMU/EST
+332ii
+Potasio-(tri) Citrato, Potasio Citrato
+ACREG/SEC/EST
+333
+Calcio-(tri) Citrato, Calcio Citrato
+ACREG/SEC/ANT/FIR/EST
+400
+Acido Alginico
+ESP/EST
+401
+Sodio Alginato
+ESP/EST/GEL
+402
+Potasio Alginato
+ESP/EST
+403
+Amonio Alginato
+ESP/EST
+404
+Calcio Alginato
+ESP/EST/GEL/ANESP
+406
+Agar
+ESP/EST/GEL
+407
+Carragenina (incluye Furcellaran y sus sales de Na y K), Musgo Irlandés
+ESP/EST/GEL
+410
+Goma Garrofin, Goma Caroba, Goma Algarrobo, Goma Jatai
+ESP/EST
+412
+Goma Guar
+ESP/EST/EMU
+413
+Goma Tragacanto, Tragacanto, Goma Adragante
+ESP/EST/EMU
+414
+Goma Arábiga, Goma Acacia
+ESP/EST/EMU
+415
+Goma Xántica, Goma Xantan, Goma de Xantano
+ESP/EST/EMU
+416
+Goma Karaya, Goma Sterculia, Goma Caraya
+ESP/EST/EMU
+420
+Sorbitol y Jarabe de Sorbitol, d-Sorbita
+EDU/HUM/SEC/FIR/EMU
+421
+Manitol
+EDU/HUM/EST
+422
+Glicerina, Glicerol
+HUM
+440
+Pectina/Pectina Amidada
+ESP/EST/GEL
+
+
+ANEXO A
+
+ADITIVOS SEGUN BUENAS PRACTICAS DE FABRICACIÓN
+(Ordenados por número INS)
+Actualización: 05.09.96
+Número
+NOMBRE DEL ADITIVO ALIMENTARIO
+CABLE FUNCIONAL
+INS
+generalmente utilizado
+(Ver Abreviaturas al pié)
+460i
+Celulosa Microcristalina
+EST/EMU/FIR/ANAH/ESP
+461
+Metilcelulosa, Metil Celulosa
+ESP/EST/EMU
+463
+Hidroxipropil Celulosa
+ESP/EST/EMU
+465
+Metietilcelulosa, Metil Etil Celulosa
+ESP/EMU/EST/FOA
+466
+Carboximetilcelulosa Sodica
+ESP/EST/EMU
+470
+Sales de Al, Ca, Mg, K, Na y Nh4 con Ac. Grasos
+EMU/EST/ANAH
+471
+Esteres de Mono- y Digliceridos de Acidos Grasos
+EMU/EST/AN ESP
+472a
+Esteres de Mono- y Digliceridos de Acidos Grasos con Ac. Acético
+EMU/EST/SEC
+472b
+Esteres de Mono- y Digliceridos de Acidos Grasos con Ac. Láctico
+EMU/EST/SEC
+472c
+Esteres de Mono- y Digliceridos de Acidos Grasos con Ac. Cítrico
+EMU/EST/SEC/ANT
+472d
+Esteres de Mono- y Digliceridos de Acidos Grasos con Ac. Tartarico
+EMU/EST/SEC
+472f
+Esteres de Mono- y Digliceridos de Acidos Grasos con Ac. Acético y Tartarico
+EMU/EST/SEC
+500i
+Sodio Carbonato
+ACREG/RAI/ANAH
+500ii
+Sodio Bicarbonato, Sodio Carbonato Acido
+ACREG/RAI/ANAH/EST
+501i
+Potasio Carbonato
+ACREG/EST
+503i
+Amonio Carbonato
+ACREG/RAI
+503ii
+Amonio Bicarbonato, Amonio Carbonato Acido
+ACREG/RAI
+504i
+Magnesio Carbonato, Magnesio Carbonato Básico
+AGREG/ANAH/ESTCOL
+509
+Calcio Cloruro
+EST/FIR
+515
+Potasio Sulfato
+ACREG
+516
+Calcio Sulfato
+FLO/SEC/FIR
+517
+Amonio Sulfato
+FLO/EST
+524
+Sodio Hidróxido
+ACREG
+525
+Potasio Hidróxido, Potasa Cáustica
+ACREG
+526
+Calcio Hidróxido
+ACREG/FIR
+527
+Amonio Hidróxido
+ACREG
+528
+Magnesio Hidróxido
+ANAH/ACREG/ESTCOL
+529
+Calcio Oxido
+ACREG/FLO
+530
+Magnesio Oxido
+ANAH
+551
+Silicio Dioxido, Sílice
+ANAH
+552
+Colcio Silicato
+ANAH
+553i
+Magnesio Silicato
+ANAH
+553iii
+Talco
+ANAH
+554
+Aluminio y Sodio Silicato, Sodio Aluminosidicato
+ANAH
+559
+Aluminio Silicato
+ANAH
+570i
+Acido Estearico, Acido Octadecanoico
+ANESP/GLA
+574
+Acido Gluconico
+ACI/ACREG/RAI
+575
+Glucono-Delta-Lactona
+ACREG/RAI/ACI
+620
+Acido Glutamico
+EXA
+621
+Sodio-(mono) Glutamato, Sodio Monoglutamato
+EXA
+622
+Potasio-(mono) Glutamato
+EXA
+623
+Calcio Diglutamato
+EXA
+624
+Amonio-(mono) Glutamato
+EXA
+625
+Magnesio Glutamato, Magnesio Diglutamato
+EXA
+
+
+ANEXO A
+
+
+ADITIVOS SEGUN BUENAS PRACTICAS DE FABRICACIÓN
+(Ordenados por número INS)
+Actualización: 05.09.96
+Número
+NOMBRE DEL ADITIVO ALIMENTARIO
+CABLE FUNCIONAL
+INS
+generalmente utilizado
+(Ver Abreviaturas al pié)
+627
+Sodio-(di) Guanilato, Sodio-(di) 5'- Guanilato
+EXA
+630
+Acido Inosinico
+EXA
+631
+Sodio-(di) Inositato, Sodio-(di) 5'- Inosinato
+EXA
+901
+Cera de Abejas, Blanca y Amarilla
+GLA
+902
+Cera Candelilla
+GLA
+904
+Goma Laca, Shellac
+GLA
+953
+Isomalta, Isomaltitol
+EDU/GLA
+965
+Maltitol y Jarabe de Maltitol
+EDU/EST/EMU
+966
+Lactitol
+EDU/FIR
+967
+Xilitol, Xilita
+EDU/HUM/EST/EMU/ESP
+1001i
+Colina Acetato
+EMU
+1001ii
+Colina Carbonato
+EMU
+1001iii
+Colina Cloruro
+EMU
+1001iv
+Colina Citrato
+EMU
+1001v
+Colina Tartrato
+EMU
+1001vi
+Colina Lactato
+EMU
+1100
+Amilasa
+FLO
+1102
+Glucosa Oxidasa
+ANT
+1200
+Polidextrosa
+AGC/ESP/EST/HUM/FIR
+
+
+ANEXO A
+
+
+ADITIVOS SEGUN BUENAS PRACTICAS DE FABRICACIÓN
+(Ordenados por número INS)
+Actualización: 05.09.96
+Número
+NOMBRE DEL ADITIVO ALIMENTARIO
+CABLE FUNCIONAL
+INS
+generalmente utilizado
+(Ver Abreviaturas al pié)
+
+
+*** ABREVIATURAS***
+
+
+ACREG = Regulador de la Acidez
+
+
+ACI = Acidulante
+
+
+AGC = Agente de Masa
+
+
+ANAH = Antiaglutinante/Antihumectante
+
+
+ANESP = Antiespumante
+
+
+ANT = Antoxidante
+
+
+ARO = Aromatizante/saborizante
+
+
+COL = Colorante
+
+
+CONS = Conservador
+
+
+EDU = Edulcorante
+
+
+EMU = Emulsionante/Emulsificante
+
+
+ESP = Espesante
+
+
+EST = Estabilizante
+
+
+ESTCOL = Estabilizante del Color
+
+
+EXA = Resaltador de Color
+
+
+FIR = Agente de Firmeza o Endurecedor o Texturizante
+
+
+FLO = Mejorador de la Harina
+
+
+FOA = Espumante
+
+
+GAS = Gaseante
+
+
+GEL = Gelificante
+
+
+GLA = Glaseante
+
+
+HUM = Humectante
+
+
+RAI = Leudante Químico
+
+
+SEC = Secuestrante
+
+
+13

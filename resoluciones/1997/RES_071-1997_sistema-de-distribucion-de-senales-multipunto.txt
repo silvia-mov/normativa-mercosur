@@ -1,0 +1,2625 @@
+Resolución GMC N° 71/97
+Título: SISTEMA DE DISTRIBUCION DE SEÑALES MULTIPUNTO MULTICANAL EN EL MERCOSUR (MMDS)
+Fecha de aprobación: 13/12/1997
+Vigencia: Vigente (Vigente desde el 12/12/2002 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 22381_RES_071-1997_ES_SenialMultican.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1697).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 71/97
+
+
+SISTEMA DE DISTRIBUCION DE SEÑALES MULTIPUNTO MULTICANAL EN EL MERCOSUR (MMDS)
+
+
+	VISTO:  El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 9/95 del Consejo del Mercado Común y la Recomendación Nº 7/97 del SGT Nº 1 "Comunicaciones".
+
+
+CONSIDERANDO:
+
+Que la adopción de un Sistema de Distribución de Señales Multipunto Multicanal - MMDS -posibilitará la operación de canales radioeléctricos en la banda de 2.500 Mhz a 2.686 Mhz, sin interferencias recíprocas en las áreas de frontera de los Estados Partes del MERCOSUR.
+
+Que la operación de estaciones de MMDS sin interferencias asegura a la población fronteriza de los Estados Partes un servicio de mejor calidad.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art. 1  Aprobar el "Sistema de Distribución de Señales Multipunto Multicanal en el MERCOSUR (MMDS)", que figura como Anexo y forma parte de la presente Resolución.
+
+Art. 2  La presente Resolución entrará en vigencia el 15/I/98.
+
+
+XXVIII GMC - Montevideo, 13/XII/97
+
+ARTICULO I
+
+OBJETO
+
+La presente Resolución tiene por objeto la coordinación y uso de los canales radioeléctricos del Servicio de  MMDS, en la banda 2.500 MHz. a 2.686 MHz.
+
+ARTICULO II
+
+DEFINICIONES
+
+1- Administración: Es el organismo gubernamental de comunicaciones de cada Estado Parte, responsable del cumplimiento de las obligaciones del Convenio Internacional de Telecomunicaciones y competente para intervenir en la presente Resolución.
+
+2- Zona de Coordinación: Área geográfica  dentro de la cual, los firmantes se obligan a condicionar la instalación y operación de servicios de MMDS al cumplimiento de las disposiciones de esta Resolución.
+
+3- Estación Generadora y Repetidora de MMDS: Estación Radioeléctrica capaz de generar o  retransmitir señales de televisión para su recepción por abonados suscriptores.
+
+4- Área Primaria de Servicio: Área geográfica en  la cual el valor de intensidad de campo no es inferior a la del valor protegido.
+
+5- Contorno de Protección: Línea que delimita la zona geográfica correspondiente al área primaria de servicio de una estación de MMDS, determinado por los parámetros técnicos de la estación.
+
+
+6- Relación de Protección: Valor mínimo, generalmente expresado en decibelios, de la relación entre la señal deseada y la señal no deseada a la entrada del receptor mediante el uso de una antena receptora típica, que permite obtener una calidad de recepción especificada de la señal deseada a la salida del receptor.
+
+7- Potencia Isótropa Radiada Equivalente (PIRE) :Producto de la potencia suministrada a la antena por su ganancia con relación a una antena isótropa en una dirección dada.
+
+8- Altura Media de la Antena (HMA): Es la que corresponde a la altura del centro de radiación de la antena (Ha+Ho) sobre la altura media del terreno (HMT),  ambas referidas al nivel medio del mar .
+
+HMA =(Ha + Ho) - HMT
+
+
+9- Los términos y símbolos utilizados en la presente Resolución no definidos en el mismo, serán interpretados según las definiciones del Reglamento de Radiocomunicaciones (RR) y demás disposiciones pertinentes de la Unión Internacional de Telecomunicaciones (UIT).
+
+
+ARTICULO III
+
+RANGO DE FRECUENCIAS DESTINADO
+
+Las Administraciones se  comprometen a reservar la banda 2.500 a 2686 MHz para  uso primario del servicio de MMDS.
+
+De destinarse esta banda, para cualquier otro servicio, sus estaciones deberán ser coordinadas con los  sistemas MMDS de los otros Estados Partes .
+
+
+ARTICULO IV
+
+ZONA DE COORDINACIÓN
+
+1-	A los efectos de esta Resolución, se establece una zona de coordinación dentro de cada territorio, cuya distancia lineal al limite fronterizo sea menor a 107 Km.
+En caso de límites fronterizos lacustres, fluviales o marítimos, se tomará la distancia a partir de la costa del país vecino.
+
+2-La ubicación de la estación está determinada por la localización de la antena transmisora.
+
+3-Las estaciones que se ubiquen fuera de la zona de coordinación definida, ubicadas en una franja a menos de 100 Km del límite de coordinación, y  que por sus parámetros técnicos de operación excedan los máximos establecidos en el ANEXO I, deberán considerarse dentro de la zona de coordinación.
+
+ARTICULO V
+
+PROTECCIÓN
+
+A los efectos de la compartición de los canales objeto de la presente Resolución, los Estados Partes  establecen los criterios de protección para cada clase de estación, que se detallan en el ANEXO I. No se considerará la protección fuera de las fronteras del Estado Parte notificado.
+
+
+ARTICULO VI
+
+CLASIFICACIÓN DE LAS ESTACIONES
+
+1- Los Estados Partes establecen que la clasificación de las estaciones se hará según sus requisitos máximos equivalentes que constan en el ANEXO  I.
+
+2- Cualquier nueva asignación o modificación dentro de la zona de coordinación no deberá sobrepasar los requisitos máximos establecidos.
+
+
+ARTICULO VII
+
+LISTA DE ASIGNACIÓN DE CANALES
+
+1- Las Partes convienen en confeccionar la lista de canales de MMDS asignados por cada Administración en la zona de coordinación que se incorporan como Apéndice 1 del Anexo I a la presente Resolución, en los cuales constará los datos que identifiquen a cada Estación, conforme al formulario que figura en el Apéndice 2 del Anexo I.
+
+2- Se podrán realizar nuevas asignaciones o modificaciones de las características técnicas de las estaciones incluidas en el Apéndice 1 del Anexo I, de conformidad con las disposiciones de la presente Resolución.
+
+3- Los  Estados Partes, acuerdan respetar los contornos de protección de las estaciones que constan en el Apéndice 1, frente a las solicitudes de modificación de las mismas o incorporación de nuevas estaciones.
+
+Las peticiones que se realicen en este sentido, serán consideradas siempre y cuando no afecten lo previsto en la presente Resolución, a menos que medie consentimiento expreso de los involucrados en la Coordinación.
+
+
+ARTICULO VIII
+
+PROCEDIMIENTO DE NOTIFICACIÓN Y CONSULTA
+
+1- En la zona de coordinación cualquier nueva asignación o modificación de las características  técnicas de una estación deberá ser notificada a la o las Administraciones de los Estados Partes que pudieran ser afectadas por la nueva asignación o modificación, enviando los datos requeridos en el formulario que figura en el Apéndice 2 .
+
+2- Las Administraciones que pudieran resultar afectadas dispondrán de un plazo máximo de 30 (treinta) días corridos, para formular su oposición técnicamente fundada, a la nueva asignación o modificación. Este plazo se contará, según el medio de comunicaciones empleado, desde la fecha de acuse de recibo.
+
+3- Si existiera oposición -formulada en el plazo correspondiente- no podrá realizarse la asignación o modificación, hasta tanto se llegue a un acuerdo con las Administraciones que se opusieran.
+
+4- En caso de no existir oposición o haber transcurrido el plazo mencionado en el punto 2 del presente artículo, la Administración interesada quedará habilitada para realizar la nueva asignación o modificación de que se trata, de conformidad con lo establecido en la presente Resolución.
+
+Sin perjuicio de ello, la Administración notificante remitirá a los restantes países los datos requeridos en el formulario que figura en el  Apéndice 2 .
+
+5- Si una estación perteneciente a alguna de las Administraciones causare interferencias perjudiciales dentro del área primaria de servicio de otra estación, en las condiciones establecidas en la presente Resolución, la Administración de la estación que se considere interferida, notificará tal hecho a la Administración de la estación interferente, indicando las características técnicas y datos establecidos en el Reglamento de Radiocomunicaciones (RR) en vigor.
+
+En este caso, la Administración responsable deberá adoptar inmediatamente las medidas necesarias para eliminar las interferencias perjudiciales.
+
+6.- A fin de facilitar la aplicación de los procedimientos los Estados Partes podrán utilizar métodos alternativos, para acordar estaciones de la forma más equitativa posible.
+
+
+ARTICULO IX
+
+COOPERACIÓN E INTERCAMBIO DE INFORMACIÓN
+
+1.- Con el propósito de establecer un sistema de consulta permanente, los Estados Partes se comprometen por intermedio de sus respectivas Administraciones a  intercambiar información y cooperar entre sí con el objetivo de reducir al mínimo las interferencias perjudiciales y obtener la máxima eficiencia en el uso del espectro radioeléctrico.
+
+2.- A efectos de asegurar el cumplimiento de la presente Resolución y a la vez optimizar la adecuación de las normas técnicas, las Administraciones de ser necesario, coordinarán la realización de mediciones de intensidad de campo de carácter conjunto, debiéndose notificar con una antelación mínima de 30 (treinta) días.
+
+3-La presente Resolución es de naturaleza dinámica y flexible y deberá adaptarse a las nuevas tecnologías en respuesta a la demanda y necesidades de las Administraciones del MERCOSUR.
+
+ARTICULO X
+
+REUNIONES PERIÓDICAS
+
+Con el objeto de analizar la evolución de la ejecución de la presente Resolución, los Estados Partes convienen que sus respectivas Administraciones  realicen  reuniones  ordinarias al menos una vez cada  año,  pudiéndose realizar reuniones extraordinarias cuando las circunstancias así lo aconsejasen o a pedido de una de ellas.
+La sede de las reuniones ordinarias será rotativa. El Estado Sede de la misma, tendrá a su cargo la organización y convocatoria de la reunión. Estas reuniones serán precedidas por el intercambio de información correspondiente, con una antelación mínima de 15 (quince) días.
+
+Podrán realizarse reuniones bilaterales o trilaterales cuando lo solicite una Administración a fin de resolver casos específicos en zona de coordinación.
+
+ARTICULO XI
+
+NOTIFICACIONES E INTERCAMBIO DE CORRESPONDENCIA
+
+El intercambio de correspondencia y las notificaciones a que se refiere el Artículo  VIII, que se realicen en virtud de la presente Resolución, deberán ser dirigidas a las respectivas Administraciones y a las direcciones que se indican en el ANEXO II, las cuales se considerarán válidas, en tanto no exista comunicación en contrario.
+
+
+ARTICULO XII
+DISPOSICIONES TRANSITORIAS
+
+1- La lista de canales que se incorpora como Apéndice 1, lista de estaciones coordinadas que pasará a formar parte integrante de la  presente Resolución.
+
+2- Las nuevas asignaciones se notificarán, coordinarán y luego de coordinadas pasarán a formar parte del Apéndice 1.
+
+
+CONTENIDO
+
+
+- ANEXO I (ESPECIFICACIONES TÉCNICAS)
+
+	- APÉNDICE 1 (LISTA DE CANALES)
+
+	- APÉNDICE 2 (FORMULARIO)
+
+	- APÉNDICE 3 (CURVAS DE PROPAGACIÓN)
+		FIG 1 - F(50,50)
+		FIG 2 - F(50,10)
+	- APENDICE 4 - DIAGRAMA DE ANTENAS DIRECTIVAS
+
+- ANEXO II (LISTADO DE ADMINISTRACIONES)
+
+
+ANEXO I
+
+ESPECIFICACIONES TÉCNICAS
+
+
+CAPITULO I
+
+ZONA DE COORDINACIÓN
+
+Ancho de la franja de coordinación para todas las clases de estaciones:
+
+107 Km.
+
+CAPITULO II
+
+CANALIZACIÓN
+
+	La banda de 2.500 a 2.686 MHz, destinada al Servicio de MMDS, Sistema de Distribución de Señales Multipunto Multicanal, se divide en 31 canales de 6 MHz de ancho según se indica en la Tabla 1.
+	Sobre estos canales se tendrá una portadora de vídeo modulada en amplitud y una portadora de audio modulada en frecuencia.
+
+	TABLA 1
+CANALIZACIÓN DE MMDS
+
+Grupo
+
+Canal
+LIMITES
+(MHz)
+VIDEO
+(MHz)
+AUDIO
+(MHz)
+A-1
+1
+2500-2506
+2,501.25
+2,505.75
+B-1
+2
+2506-2512
+2,507.25
+2,511.75
+A-2
+3
+2512-2518
+2,513.25
+2,517.75
+B-2
+4
+2518-2524
+2,519.25
+2,523.75
+A-3
+5
+2524-2530
+2,525.25
+2,529.75
+B-3
+6
+2530-2536
+2,531.25
+2,535.75
+A-4
+7
+2536-2542
+2,537.25
+2,541.75
+B-4
+8
+2542-2548
+2,543.25
+2,547.75
+C-1
+9
+2548-2554
+2,549.25
+2,553.75
+D-1
+10
+2554-2560
+2,555.25
+2,559.75
+C-2
+11
+2560-2566
+2,561.25
+2,565.75
+D-2
+12
+2566-2572
+2,567.25
+2,571.75
+C-3
+13
+2572-2578
+2,573.25
+2,577.75
+D-3
+14
+2578-2584
+2,579.25
+2,583.75
+C-4
+15
+2584-2590
+2,585.25
+2,589.75
+D-4
+16
+2590-2596
+2,591.25
+2,595.75
+E-1
+17
+2596-2602
+2,597.25
+2,601.75
+F-1
+18
+2602-2608
+2,603.25
+2,607.75
+E-2
+19
+2608-2614
+2,609.25
+2,613.75
+F-2
+20
+2614-2620
+2,615.25
+2,619.75
+E-3
+21
+2620-2626
+2,621.25
+2,625.75
+F-3
+22
+2626-2632
+2,627.25
+2,631.75
+E-4
+23
+2632-2638
+2,633.25
+2,637.75
+F-4
+24
+2638-2644
+2,639.25
+2,643.75
+G-1
+25
+2644-2650
+2,645.25
+2,649.75
+H-1
+26
+2650-2656
+2,651.25
+2,655.70
+G-2
+27
+2656-2662
+2,657.25
+2,661.75
+H-2
+28
+2662-2668
+2,663.25
+2,667.75
+G-3
+29
+2668-2674
+2,669.25
+2,673.75
+H-3
+30
+2674-2680
+2,675.25
+2,679.75
+G-4
+31
+2680-2686
+2,681.25
+2,685.75
+
+I- Característica de las estaciones transmisoras
+
+Las emisiones analógicas de vídeo se harán en los sistemas PAL-N o PAL-M
+No obstante se podrá emitir sistemas digitalizados ya sea para emitir múltiples programas o televisión de alta definición siempre que no implique incrementar los efectos interferentes.
+Los equipos deberán emitir con una tolerancia de frecuencia  de  500 Hz.
+La emisiones tendrán polarización lineal horizontal o vertical.
+La emisión en el plano ortogonal al de polaridad de la antena transmisora debe tener una atenuación mínima de 22 dB
+En el caso de utilizarse antenas transmisoras direccionales, se considerará una relación frente espalda de hasta 25 dB.
+En el Apéndice 4 se proporciona una lista de antenas tipo con patrón de irradiación horizontal , como referencia para las coordinaciones.
+Esta lista está abierta para nuevos agregados.
+
+	II - Característica de las antenas receptoras
+
+	A los fines del calculo de interferencias se asume las siguientes características mínimas de las antenas receptoras:
+	Ganancia de antena receptora 	:24 dBi
+	Angulo de media potencia  (-3 dB)  :12º (grados sexagesimales)
+		Relación frente espalda	:25 dB
+		Discriminación de polarización
+			ortogonal			:22 dB Haz principal
+							: 7 dB Otros acimutes
+
+CAPITULO III
+
+PROTECCIÓN
+
+1.- Intensidad de campo mínima a proteger:
+
+66 dBV/m
+
+
+NOTA: Condiciones de Medición: El valor indicado corresponde a la medida tomada con una antena receptora ubicada a la altura de 9 m sobre el nivel del suelo.
+
+2.- Relaciones de Protección
+
+	Los valores que se asumen a fin de determinar las relaciones entre la intensidad de campo de la señal deseada y de la interferente, son los voltajes que se  obtendrían a la entrada del conversor de una instalación típica, con una antena receptora de las características indicadas en el numeral II del Capítulo II, orientada hacia la antena transmisora de la señal deseada, e instalada en el contorno del área de servicio de la estación protegida:
+
+			Isocanal:				45 dB
+			Canal adyacente:		0 dB
+
+
+	Se asume una relación "Portadora de Vídeo/Ruido" de 45 dB a la salida del "Convertidor de Bajada"
+
+
+3.- Se considera una reducción de 22 dB en la relación de protección en el caso de utilizar polarización cruzada si la señal incide en el haz principal de la antena receptora y de solo 7 dB si lo hace en otros acimutes.
+
+CAPITULO IV
+
+PARÁMETROS MÁXIMOS DE LAS ESTACIONES
+
+
+Los parámetros técnicos máximos equivalentes para todas las estaciones son:
+
+				PIRE	   	:  27 dBW
+				HMA 		: 150 m
+	RADIO DE CONTORNO PROTEGIDO 	:  25 Km.
+
+
+Notas:
+
+1.- Podrán ser utilizados valores de potencias y alturas de antena diferentes de los aquí especificados, con la condición de que el contorno resultante de estos valores no exceda los 25 Km.
+
+2.-  Las Administraciones darán a las antenas de las estaciones la altura mínima necesaria para cubrir el área a servir, procurando no exceder los 66 dBuV/m en el contorno de protección, y que el radio de éste se aproxime a  la distancia del horizonte real.
+
+CAPITULO V
+
+PREDICCIÓN DEL CONTORNO DE PROTECCIÓN Y DE INTERFERENCIAS
+
+1.- Para la predicción de los contornos de protección y de interferencias serán utilizadas las curvas de las figuras 1 y 2 del Apéndice 3 respectivamente.
+	La curva de la figura 1 se ha calculado por la siguiente ecuación:
+
+E=Pt-20*log d + 74,8 -8
+
+que es la fórmula de propagación en espacio libre menos una atenuación empírica estimada en 8 dB.
+
+Siendo:
+	Pt=Potencia transmitida isotrópicamente (dBW)
+	d =Longitud del trayecto radioeléctrico  (Km.)
+	E =Intensidad del campo eléctrico (dBV/m)
+
+2.- Las curvas de las referidas figuras fueron elaboradas en base a una potencia isótropa radiada equivalente (PIRE) de 32 dBW y con una antena receptora ubicada a 9 metros de altura .
+
+3.- Para obtener en los gráficos de las figuras 1 y 2 del Apéndice 3 , la distancia en la cual se produce una determinada intensidad de campo,  con una potencia isótropa radiada equivalente (PIRE) diferente de 32 dBw , se deberá calcular la relación en decibelios,  existente entre la nueva potencia considerada y la correspondiente a 32 dBW y luego sustraerlas al valor de intensidad de campo en dBu para una altura media de antena (HMA) determinada.
+
+	Fórmula:
+
+			E=Ec-Pu+ Pr
+E = Intensidad de campo resultante (dBV/m)
+Ec = Intensidad de campo de referencia (dBV/m)
+Pr = Potencia de referencia (32 dBW)
+Pu = Potencia utilizada (en dBW)
+
+4.- Cuando el contorno de protección calculado sobrepase las fronteras de un país, se considera que la línea del contorno de protección coincide con el límite internacional establecido y que la intensidad de campo toma el valor de 66 dBV/m.
+
+5.- En el caso de que el área interferente tenga un radio inferior a 20 Km., se utilizarán las curvas de la figura 1 del Apéndice 3
+
+6.- Para el cálculo de los valores de la intensidad de campo  que las señales indeseables no deben superar,  se adopta el siguiente criterio :
+
+Para dos estaciones E1 y E2 (ver esquema),  cuyas áreas de servicio no se solapan, el cálculo de los límites de la intensidad de campo de la señal indeseable,  estará dado por la fórmula :
+
+Ci=66+DA+DPO-P/I
+
+donde
+
+	Ci= Intensidad de campo de la señal indeseable
+
+	DA= Discriminación de antena:
+				=25 dB para puntos C1 y C2
+   			     	= 0 dB para puntos B1 y B2
+
+	DPO= Discriminación por polarización ortogonal:
+				=22 dB en puntos B1 y B2
+				= 7 dB en puntos C1 y C2
+
+	P/I= Relación señal deseable (portadora)/ señal indeseable
+			 	= 45 dB para cocanales
+				= 0 dB para canales adyacentes
+
+El resultado de los mismos se sintetiza en la Tabla 2
+
+TABLA 2
+Valores límites del campo Ci (en dBV/m) en puntos B1,B2, C1 y C2
+
+
+En puntos B1 y B2
+dBV/m
+En puntos C1 y C2
+dBV/m
+Relación entre portadoras
+Igual polarización
+Polarización ortogonal
+Igual polarización
+Polarización ortogonal
+Cocanal
+
+21
+43
+46
+53
+Canal adyacente
+66
+88
+91
+98
+
+7.- Si la intensidad del campo interferente resultante en los puntos B para utilizar la figura 2 del Apéndice 3 es inferior a los 38 dBV/m se asume que la interferencia en los puntos "C" es la determinante para establecer la compatibilidad.
+
+8.- La altura media de la antena (HMA) transmisora a emplear en las predicciones descriptas en los párrafos anteriores, será la altura del centro de radiación de la antena sobre la altura media del terreno (HMT), ambas referidas a la cota cero (Ho)(Nivel medio del mar).
+
+9.- La altura media del terreno (HMT) se determinará en el área comprendida entre los círculos de 3 y 15 Km de radio , con centro en la antena transmisora y calculando la media de las altitudes a lo largo de 8 radiales igualmente espaciados uno de los cuales estará dirigido hacia el norte geográfico. Deberá ser levantado el mayor número de cotas en cada radial (por lo menos  doce), tomado como cota cero la que corresponde al nivel medio del mar.
+
+HMA = Ht + Ha -  Hmt
+
+HMA = Altura media de la antena
+Ht = Cota del terreno   en el punto de emplazamiento de la antena transmisora (respecto a la cota cero)
+Ha = Altura del centro de radiación de la antena (respecto al terreno en la base)
+Hmt = Altura media del terreno (respecto a la cota cero)
+
+10.- En regiones cuyos radiales se extiendan sobre terreno irregular o a través de grandes superficies de agua y para el caso de estaciones que radien con antena direccional , se tomará en cuenta exclusivamente los radiales correspondientes a aquellas zonas donde se espera prestar el servicio de MMDS.
+
+ A este fin se considerará que los radiales están separados entre sí un ángulo de 30 grados. No se tomarán en cuenta aquellas direcciones donde la ganancia de la antena está atenuada en más de 6 decibelios con respecto al valor máximo.
+
+11.- Cálculo de pérdida por obstrucción
+
+Se realizarán, en caso de que así corresponda, evaluaciones conjuntas entre las partes involucradas.
+
+
+CAPITULO VI
+ SEPARACIÓN ENTRE ESTACIONES
+
+A efectos de compatibilizar la operación de los canales, se deberá verificar una separación mínima entre las estaciones, calculada en cada caso, tomando en consideración los correspondientes PIRE, HMA, y características de las antenas, y las relaciones de protección establecidas en este Anexo.
+
+
+APENDICE 1
+LISTA DE CANALES
+LISTA DE CANALES DE ADMINISTRACION ARGENTINA
+
+     CANAL
+FREC. TX
+FREC. RX
+LOCALIDAD
+PROV.
+PIRE
+HMA
+LONG.
+LAT.
+POL.
+ANT.
+OBS.
+
+2498,500
+2617,500
+DON TORCUATO
+BS. AS.
+13
+100
+583918
+343006
+H
+
+MXD
+
+2554,500
+2673,5+00
+DON TORCUATO
+BS. AS.
+13
+100
+583918
+343006
+V
+
+MXD
+
+2498,500
+2617,500
+DON TORCUATO
+BS. AS.
+13
+100
+583918
+343006
+H
+
+MXD
+
+2554,500
+2673,500
+EL TALAR
+BS. AS.
+13
+100
+584116
+342727
+H
+
+MXD
+
+2526,500
+2645,500
+EZEIZA
+BS. AS.
+13
+100
+582740
+344740
+H
+
+MXD
+
+2526,500
+2645,500
+EZEIZA
+BS. AS.
+13
+100
+582740
+344740
+V
+
+MXD
+
+2673,500
+2554,500
+FLORENCIO VARELA
+BS. AS.
+13
+100
+581605
+344635
+H
+
+MXD
+
+2526,500
+2645,500
+HURLINGHAM
+BS. AS.
+13
+100
+583848
+343525
+H
+
+MXD
+
+2645,500
+2526,500
+LA PLATA
+BS. AS.
+13
+100
+575601
+345410
+V
+
+MXD
+
+2526,500
+2645,500
+LA PLATA
+BS. AS.
+13
+100
+575710
+345303
+V
+
+MXD
+
+2645,500
+2526,500
+LANUS
+BS. AS.
+13
+100
+582459
+344339
+V
+
+MXD
+
+2673,500
+2554,500
+MATHEU
+BS. AS.
+13
+100
+585102
+342229
+V
+
+MXD
+
+2526,500
+2645,500
+MORENO
+BS. AS.
+13
+100
+584734
+343804
+V
+
+MXD
+
+2645,500
+2526,500
+PILAR
+BS. AS.
+13
+100
+585747
+342430
+V
+
+MXD
+
+2554,500
+2673,500
+PONTEVEDRA
+BS. AS.
+13
+100
+584102
+344457
+V
+
+MXD
+
+2645,500
+2526,500
+QUILMES
+BS. AS.
+13
+100
+581723
+344328
+H
+
+MXD
+
+2673,500
+2554,500
+QUILMES
+BS. AS.
+13
+100
+581723
+344328
+V
+
+MXD
+
+2673,500
+2554,500
+RAMOS MEJIA
+BS. AS.
+13
+100
+583342
+343828
+H
+
+MXD
+
+2645,500
+2526,500
+RAMOS MEJIA
+BS. AS.
+13
+100
+583342
+343828
+V
+
+MXD
+
+2617,500
+2498,500
+RAMOS MEJIA
+BS. AS.
+13
+100
+583342
+343828
+V
+
+MXD
+
+2673,500
+2554,500
+SAN FERNANDO
+BS. AS.
+13
+100
+583257
+342603
+V
+
+MXD
+
+2498,500
+2617,500
+SAN ISIDRO
+BS. AS.
+13
+100
+583012
+342830
+V
+
+MXD
+
+2526,500
+2645,500
+SAN ISIDRO
+BS. AS.
+13
+100
+583500
+342853
+H
+
+MXD
+
+2673,500
+2554,500
+SAN JUSTO
+BS. AS.
+13
+100
+583347
+344051
+H
+
+MXD
+
+2645,500
+2526,500
+SAN JUSTO
+BS. AS.
+13
+100
+583347
+344051
+H
+
+MXD
+
+2673,500
+2554,500
+SAN JUSTO
+BS. AS.
+13
+100
+583347
+344051
+V
+
+MXD
+
+2645,500
+2526,500
+SAN JUSTO
+BS. AS.
+13
+100
+583347
+344051
+H
+
+MXD
+
+2617,500
+2498,500
+SAN JUSTO
+BS. AS.
+13
+100
+583347
+344051
+V
+
+MXD
+
+2617,500
+2498,500
+SAN MARTIN
+BS. AS.
+13
+100
+583420
+343304
+H
+
+MXD
+
+2498,500
+2617,500
+SAN MARTIN
+BS. AS.
+13
+100
+583125
+343511
+V
+
+MXD
+
+2526,500
+2645,500
+SAN MARTIN
+BS. AS.
+13
+100
+583125
+343511
+V
+
+MXD
+
+2645,500
+2526,500
+SAN MARTIN
+BS. AS.
+13
+100
+583420
+343304
+V
+
+MXD
+
+2617,500
+2498,500
+SAN MARTIN
+BS. AS.
+13
+100
+583420
+343304
+V
+
+MXD
+
+2645,500
+2526,500
+SAN MARTIN
+BS. AS.
+13
+100
+583420
+343304
+H
+
+MXD
+
+2554,500
+2673,500
+SAN MIGUEL
+BS. AS.
+13
+100
+584245
+343304
+V
+
+MXD
+
+2554,500
+2673,500
+SAN MIGUEL
+BS. AS.
+13
+100
+584245
+343304
+V
+
+MXD
+
+2673,500
+2554,500
+SAN VICENTE
+BS. AS.
+13
+100
+582244
+345947
+V
+
+MXD
+
+2610,500
+2491,500
+SAN VICENTE
+BS. AS.
+13
+100
+582244
+345947
+H
+
+MXD
+
+2645,500
+2526,500
+SAN VICENTE
+BS. AS.
+13
+100
+582244
+345947
+H
+
+MXD
+
+2617,500
+2498,500
+TORTUGUITAS
+BS. AS.
+13
+100
+584520
+342747
+H
+
+MXD
+
+2526,500
+2645,500
+VILLA ELISA
+BS. AS.
+13
+100
+580545
+345046
+H
+
+MXD
+
+2526,500
+2645,500
+VILLA ELISA
+BS. AS.
+13
+100
+580545
+345046
+V
+
+MXD
+
+2554,500
+2673,500
+VILLA LEON
+BS. AS.
+13
+100
+584144
+343754
+H
+
+MXD
+
+2617,500
+2498,500
+WILDE
+BS. AS.
+13
+100
+582033
+344104
+H
+
+MXD
+
+2526,500
+2645,500
+WILDE
+BS. AS.
+13
+100
+581845
+344128
+V
+
+MXD
+
+2491,500
+2610,500
+WILDE
+BS. AS.
+13
+100
+581845
+344128
+H
+
+MXD
+
+2617,500
+2498,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582648
+343744
+V
+
+MXD
+
+2498,500
+2617,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582336
+343919
+V
+
+MXD
+
+2617,500
+2498,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582648
+343744
+V
+
+MXD
+
+2498,500
+2617,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582336
+343919
+H
+
+MXD
+
+2526,500
+2645,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582703
+343346
+V
+
+MXD
+
+2645,500
+2526,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582648
+343744
+V
+
+MXD
+
+2554,500
+2673,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582336
+343919
+V
+
+MXD
+D2C3
+
+
+CAPITAL FEDERAL
+CAP. FED.
+20
+134
+582724
+343333
+V
+O
+
+D3C4
+
+
+CAPITAL FEDERAL
+CAP. FED.
+20
+134
+582724
+343333
+V
+O
+
+D4E1
+
+
+CAPITAL FEDERAL
+CAP. FED.
+20
+134
+582724
+343333
+V
+O
+
+C3D3
+
+
+CAPITAL FEDERAL
+CAP. FED.
+20
+134
+582757
+343434
+H
+O
+
+C4D4
+
+
+CAPITAL FEDERAL
+CAP. FED.
+20
+134
+582757
+343434
+H
+O
+
+E1F1
+
+
+CAPITAL FEDERAL
+CAP. FED.
+20
+134
+582757
+343434
+H
+O
+
+
+2526,500
+2645,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582508
+343726
+H
+
+MXD
+
+2645,500
+2526,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582648
+343744
+H
+
+MXD
+
+2554,500
+2673,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582508
+343726
+H
+
+MXD
+
+2673,500
+2554,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582405
+343612
+H
+
+MXD
+
+2554,500
+2673,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582234
+343606
+V
+
+MXD
+
+2673,500
+2554,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582648
+343744
+V
+
+MXD
+
+2554,500
+2673,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582756
+344134
+H
+
+MXD
+
+2673,500
+2554,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582648
+343744
+H
+
+MXD
+
+2554,500
+2673,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582239
+343620
+H
+
+MXD
+
+2498,500
+2617,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582756
+344134
+V
+
+MXD
+
+2554,500
+2673,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582810
+343506
+H
+
+MXD
+
+2673,500
+2554,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582703
+343346
+H
+
+MXD
+
+2498,500
+2617,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582703
+343346
+H
+
+MXD
+
+2617,500
+2498,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582817
+343220
+H
+
+MXD
+
+2498,500
+2617,500
+CAPITAL FEDERAL
+CAP. FED.
+13
+100
+582244
+343646
+V
+
+MXD
+ACEG
+
+
+PASO DE LOS LIBRES
+CTES.
+13
+60
+570525
+294250
+H
+O
+
+BDFH
+
+
+SANTO TOME
+CTES.
+13
+110
+560217
+283246
+H
+O
+
+ABCD1D2D3
+
+
+PUERTO IGUAZU
+MIS.
+25
+150
+543438
+253557
+H
+NULOAZI
+MUT329°
+
+ABCDEFGH
+
+
+FORMOSA
+FSA.
+20
+100
+581027
+260808
+H
+O
+
+ABCDEFGH
+
+
+CLORINDA
+FSA.
+20
+110
+574246
+251752
+V
+O
+
+ACE
+
+
+PUERTO RICO
+MIS.
+20
+100
+550129
+264903
+H
+O
+
+ABCDEFGH
+
+
+POSADAS
+MIS.
+20
+110
+555400
+272300
+V
+O
+
+CD3D4EF
+
+
+CORRIENTES
+MIS.
+20
+100
+585006
+272752
+H
+O
+
+ABC1D1
+
+
+RESISTENCIA
+CHA.
+20
+100
+585618
+272538
+V
+O
+
+C2D2GH
+
+
+BARRANQUERAS
+CHA.
+20
+100
+585600
+272900
+V
+O
+
+A1A2A3B2B3F2
+
+
+GUALEGUAYCHU
+ERI.
+13
+100
+583059
+330040
+H
+O
+
+A1A2A4CEG2
+
+
+CONCEPCION DEL URUGUAY
+ERI.
+17
+100
+581351
+322912
+H
+O
+
+B4DH2H3G3G4
+
+
+CONCEPCION DEL URUGUAY
+ERI.
+13
+80
+581351
+322912
+H
+O
+
+BFH
+
+
+COLON
+ERI.
+17
+110
+580828
+321328
+H
+O
+
+A3G1
+
+
+CASEROS
+ERI.
+10
+80
+582837
+322748
+H
+
+MXD
+A1A2
+
+
+URDINARRAIN
+ERI.
+10
+100
+585300
+324100
+H
+
+MXD
+ABCDFGH1
+
+
+CONCORDIA
+ERI.
+13
+80
+580116
+312346
+V
+DIRECTIVA ARG
+
+A3B4
+
+
+VILLA ELISA
+ERI.
+10
+60
+582351
+320947
+H
+
+MXD
+A3G1
+
+
+SAN JOSE
+ERI.
+10
+60
+581300
+321241
+H
+
+MXD
+BDFH
+
+
+CASEROS
+ERI.
+17
+100
+582837
+322748
+H
+O
+
+
+LISTA DE CANALES DE LA ADMINISTRACION  BRASILERA
+
+
+CANAL
+LOCALIDAD
+ESTADO
+PIRE
+HMA
+LONG.
+LAT.
+POL
+ANT
+A,C,E,G
+ALEGRETE
+RS
+19
+150
+554731
+294659
+H
+O
+A,C,E,G
+BAGÉ
+RS
+19
+150
+540625
+311953
+V
+O
+B,D,F,H
+CERRO LARGO
+RS
+19
+150
+544417
+280855
+V
+O
+B,D,F,H
+DOM PEDRITO
+RS
+19
+150
+544023
+305858
+H
+O
+A,C,E,G
+FREDERICO WESTPHALEN
+RS
+19
+150
+532340
+272133
+V
+O
+A,C,E,G
+GIRUÁ
+RS
+19
+150
+542059
+280142
+H
+O
+B,D,F,H
+HORIZONTINA
+RS
+19
+150
+541828
+273733
+H
+O
+B,D,F,H
+ITAQUÍ
+RS
+19
+150
+563311
+290731
+V
+O
+A,C,E,G
+JAGUARAO
+RS
+19
+150
+532233
+323358
+H
+O
+B,D,F,H
+PALMEIRA DAS MISSOES
+RS
+19
+150
+531849
+275358
+V
+O
+B,D,F,H
+QUARAÍ
+RS
+19
+150
+562705
+302315
+H
+O
+B,D,F,H
+ROSÁRIO DO SUL
+RS
+19
+150
+545451
+301530
+V
+O
+A,C,E,G
+SANTA ROSA
+RS
+19
+150
+542853
+275215
+V
+O
+B,D,F,H
+SANTA VITÓRIA DO PALMAR
+RS
+19
+150
+532205
+333108
+V
+O
+A,C,E,G
+SANTANA DO LIVRAMENTO
+RS
+19
+150
+553158
+305327
+H
+O
+B,D,F,H
+SANTO ANGELO
+RS
+19
+150
+541547
+281757
+V
+O
+B,D,F,H
+SANTO CRISTO
+RS
+19
+150
+543946
+274926
+H
+O
+A,C,E,G
+SAO BORJA
+RS
+19
+150
+560016
+283938
+V
+O
+B,D,F,H
+SAO LUIS GONZAGA
+RS
+19
+150
+545739
+282430
+H
+O
+B,D,F,H
+TRES DE MAIO
+RS
+19
+150
+541424
+274654
+V
+O
+A,C,E,G
+TRES PASSOS
+RS
+19
+150
+535555
+272720
+H
+O
+B,D,F,H
+URUGUAIANA
+RS
+19
+150
+570518
+294517
+V
+O
+B,D,F,H
+AMABAÍ
+MS
+19
+150
+551333
+230615
+V
+O
+A,C,E,G
+CORUMBA
+MS
+19
+150
+573912
+190033
+V
+O
+B,D,F,H
+DOURADOS
+MS
+19
+150
+544820
+221316
+V
+O
+A,C,E,-G
+NAVIRAI
+MS
+19
+150
+541126
+230354
+H
+O
+B,D,F,H
+CAMPO ERE
+SC
+19
+150
+530441
+262339
+V
+O
+A,C,E,G
+CHAPECO
+SC
+19
+150
+523706
+270547
+V
+O
+A,C,E,G
+SAO MIGUEL D'OESTE
+SC
+19
+150
+533105
+264321
+V
+O
+A,C,E,G
+ASSIS CHATEAUBRIAND
+PR
+19
+150
+533117
+242512
+V
+O
+A,C,E,G
+CASCAVEL
+PR
+19
+150
+532719
+245721
+H
+O
+E,F,G,H
+FOZ DO IGUACÚ
+PR
+25
+150
+543517
+253252
+H
+ TIPO B ORIENT. AZ   59  GRADOS
+A,C,E,G
+FRANCISCO BELTRAO
+PR
+19
+150
+530318
+260452
+V
+O
+A,C,E,G
+GUAIRA
+PR
+23
+150
+541521
+240448
+H
+O
+A,C,E,G
+MARECHAL  C. RONDON
+PR
+19
+150
+540324
+243322
+V
+O
+B,D,F,H
+MEDIANEIRA
+PR
+19
+150
+540538
+251743
+V
+O
+B,D,F,H
+PALOTINA
+PR
+19
+150
+535024
+241702
+V
+O
+B,D,F,H
+PATO BRANCO
+PR
+19
+150
+524014
+261343
+H
+O
+B,D,F,H
+TOLEDO
+PR
+19
+150
+534435
+244249
+H
+O
+A,C,E,G
+UMUARAMA
+PR
+19
+150
+531930
+234559
+V
+O
+
+
+LISTA DE CANALES DE LA ADMINISTRACION PARAGUAYA
+
+CANAL
+LOCALIDAD
+PIRE
+HMA
+LONG.
+LAT.
+POL
+ANT
+A,B,C,D,E,F,G,H
+ASUNCION
+20
+110
+573500
+251800
+H
+O
+A,B,C, D1,D2, D3
+CIUDAD DEL ESTE
+25
+150
+543800
+253000
+V
+NULO AZIMUT 149 GRADOS
+A,B,C,D,E,F,G,H
+ENCARNACION
+20
+110
+555100
+271800
+H
+O
+A,B,C,D
+P.J.CABALLERO
+20
+110
+551700
+223200
+V
+O
+B,D,F,H
+SALTO DE GUAIRA
+20
+110
+541800
+240200
+V
+O
+A,B,C,D,E,F,G,H
+PILAR
+20
+110
+581600
+265200
+H
+O
+A,B,C,D,E,F,G,H
+ALBERDI
+20
+100
+580400
+261100
+V
+NULO HACIA FORMOSA
+
+
+LISTA DE CANALES DE LA ADMINISTRACION URUGUAYA
+
+
+CANAL
+LOCALIDAD
+PIRE
+HMA
+LOGRA
+LOMIN
+LAGRA
+LAMIN
+ANT
+POL
+ACEG
+ARTIGAS
+19
+150
+56
+28,0
+30
+25,0
+O
+V
+ACEG
+BELLA UNION
+17
+100
+57
+36,0
+30
+16,0
+O
+V
+BDFH
+SALTO
+13
+100
+57
+57,5
+31
+24,0
+D URG
+H
+ACEG
+PAYSANDU
+20
+100
+58
+4,0
+32
+19,0
+D URG
+V
+ACEG
+GUICHON
+23
+150
+57
+12,1
+32
+21,9
+O
+V
+ACEG
+MERCEDES
+13
+100
+58
+1,9
+33
+16,0
+O
+V
+BDFH
+YOUNG
+13
+100
+57
+38,0
+32
+42,0
+O
+H
+ACEG
+CARMELO
+13
+100
+58
+17,0
+34
+0,0
+D URG
+H
+ACEG
+COLONIA
+13
+100
+57
+50,0
+34
+28,0
+D URG
+V
+BDFH
+OMBUES DE LAVALLE
+23
+150
+57
+49,0
+33
+57,0
+O
+H
+BDFH
+ROSARIO
+23
+150
+57
+21,4
+34
+19,0
+O
+V
+BDFH
+RIVERA
+19
+150
+55
+32,6
+30
+54,0
+O
+V
+ACEG
+MINAS DE CORRALES
+23
+150
+55
+28,4
+31
+34,8
+O
+V
+BDFH
+VICHADERO
+23
+150
+54
+41,4
+31
+47,0
+O
+V
+BDFH
+TACUAREMBO
+23
+150
+55
+59,0
+31
+43,5
+O
+V
+ACEG
+P.DE LOS TOROS
+23
+150
+56
+31,0
+32
+48,9
+O
+V
+BDFH
+DURAZNO-TRINIDAD
+23
+150
+56
+44,0
+32
+29,0
+O
+H
+ACEG
+SARANDI DE YI
+23
+150
+55
+38,0
+33
+20,0
+O
+H
+BDFH
+FLORIDA
+23
+150
+56
+13,0
+34
+6,0
+O
+V
+BDFH
+FRAY MARCOS
+23
+150
+55
+45,0
+34
+12,0
+O
+H
+ACEG
+SAN JOSE
+23
+150
+56
+43,0
+33
+20,0
+O
+V
+ACEG
+CANELONES
+23
+150
+56
+17,0
+34
+27,0
+O
+V
+B
+PROGRESO
+23
+150
+56
+14,0
+34
+38,0
+O
+H
+D
+SALINAS
+23
+150
+55
+49,0
+34
+46,0
+O
+V
+ACEG
+MONTEVIDEO
+27
+150
+56
+9,0
+34
+54,0
+O
+H
+FH
+MONTEVIDEO SODRE
+27
+150
+56
+9,0
+34
+54,0
+O
+V
+ACEG
+J.BATLLE Y ORDOÑEZ
+23
+150
+55
+7,0
+33
+28,0
+O
+V
+ACEG
+MINAS
+23
+150
+55
+14,0
+34
+22,0
+O
+H
+BDFH
+MALDONADO
+23
+150
+54
+57,0
+34
+55,0
+O
+H
+ACEG
+PIRIAPOLIS
+23
+150
+55
+16,0
+34
+53,0
+O
+V
+ACEG
+MELO
+23
+150
+54
+10,0
+32
+22,0
+O
+H
+BDFH
+RIO BRANCO
+19
+150
+53
+24,0
+32
+37,0
+O
+V
+ACEG
+TREINTA Y TRES
+23
+150
+54
+23,0
+33
+13,0
+O
+H
+BDFH
+J.PEDRO VARELA
+23
+150
+54
+24,0
+33
+27,0
+O
+H
+ACEG
+LA PALOMA ROCHA
+23
+150
+54
+10,3
+34
+37,6
+O
+H
+ACEG
+CHUY
+19
+150
+53
+28,0
+33
+38,0
+O
+H
+A-2
+MONTEVIDEO
+27
+150
+56
+14,9
+34
+53,8
+O
+C
+A-2
+PIRIAPOLIS
+27
+150
+55
+45,5
+34
+46,3
+O
+C
+A-2
+ATLANTIDA
+27
+150
+55
+14,5
+34
+53,5
+O
+C
+B,D,F,H
+FRAY BENTOS
+13
+100
+58
+18
+34
+07
+0
+H
+
+APENDICE 2
+FORMULARIO
+APENDICE 2
+
+
+NOTIFICACION DE ASIGNACIONES O MODIFICACIONES
+TECNICAS DE ESTACIONES
+
+
+                                                                                                                                                                             NOTIFICACION
+       ADMINISTRACION:    AR                      B                    PRG                      URG
+                                                                                                                                                                                                                                 Nº            Fecha
+
+
+                                                                                                                                                                                       NUEVA ASIGNACION               AMPLIACION DE
+         NOTIFICADA CON:    AR                       B                    PRG                      URG                                                                                                        UNA ESTACION
+
+
+                                                                                                                                                                             MODIFICACION DE CARACTERISTICAS
+                                                                                                                                                                             DE UNA ASIGNACION
+
+
+CARACTERISTICAS DE LA ASIGNACION
+
+LOCALIDAD     CANAL     PIRE     HMA   POL.      LATITUD     LONGITUD    TIPO DE  ATENUACION          TIPO DE          OPER.          OBSERVACIONES
+
+                                             (dBW)     (m)    (V/H)                                                     ANTENA (dB)    AZIMUT   NOTIFICACION
+
+
+APENDICE 3
+CURVAS DE PROPAGACIÓN
+
+
+APENDICE 4
+DIAGRAMAS DE ANTENAS DIRECTIVAS
+
+
+ANEXO II
+LISTA DE ADMINISTRACIONES
+
+a- Administración de la República Argentina
+
+Comisión Nacional de Comunicaciones
+Gerencia de Relaciones Internacionales e Institucionales
+Perú 103
+Tel.:    (541) 347-9540/42
+Fax:     (541) 347-9546
+1067-Capital Federal - República Argentina
+
+b- Administración de la República Federativa del Brasil
+
+Agencia Nacional de Telecomunicaciones - ANATEL
+SAS - Quadra 6 - Bloco - H Brasilia -DF
+Tel:     (5561) 3116651
+Fax:     (5561) 2234992
+
+c- Administración de la República del Paraguay
+
+CONATEL Comisión Nacional de Telecomunicaciones
+Yegros 437 y 25 de Mayo
+Edificio San Rafael
+Tel.:    +595-21-495-423/905
+Fax 	+595-21-495-423
+Asunción - Paraguay
+
+d- Administración de la República Oriental del Uruguay
+
+Dirección Nacional de Comunicaciones
+Bulevar Artigas 1520
+Tel.:    (598) 2 7073662/69
+Télex:   23213 DINACO UY
+Fax:     (598) 2 7073591/92
+Montevideo - Uruguay

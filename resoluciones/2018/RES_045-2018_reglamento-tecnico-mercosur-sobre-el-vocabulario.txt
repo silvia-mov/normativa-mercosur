@@ -1,0 +1,1230 @@
+Resolución GMC N° 45/18
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE EL VOCABULARIO DE TÉRMINOS DE METROLOGÍA LEGAL
+Fecha de aprobación: 08/11/2018
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 70826_RES_045-2018_ES_RTM Vocabulario VIML.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3626).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 45/18
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE EL VOCABULARIO DE TÉRMINOS DE METROLOGÍA LEGAL
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 57/92, 51/97, 38/98 y 45/17 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que el Vocabulario Internacional de Términos de Metrología Legal de la Organización Internacional de Metrología Legal - OIML edición 2013, establece los términos de definiciones aplicables a los diferentes campos de la Metrología Legal y es utilizado como documento de referencia a nivel internacional.
+
+Que es necesario uniformizar la terminología utilizada en el campo de la Metrología Legal en el MERCOSUR para contemplar las directrices internacionales en la materia.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre el Vocabulario de Términos de Metrología Legal", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 3 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3) los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 4 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 08/V/2019.
+
+
+CX GMC - Montevideo, 08/XI/18.
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE EL VOCABULARIO DE
+TÉRMINOS DE METROLOGÍA LEGAL
+
+
+SUMARIO
+
+Campo de Aplicación
+
+0. Términos fundamentales
+
+1. Metrología y sus aspectos legales
+
+2. Actividades de metrología legal
+
+3. Documentos y marcas de la metrología legal
+
+4. Clasificación de los instrumentos de medición
+
+5. Construcción y operación de los instrumentos de medición
+
+6. Software en metrología legal
+
+Anexo A. Términos relativos a la evaluación de la conformidad
+
+Índice Alfabético
+
+
+CAMPO DE APLICACIÓN
+
+El presente vocabulario será empleado por los metrólogos, así como por otros especialistas involucrados en diversas actividades relativas a la metrología legal. También puede ser una referencia para gobiernos y órganos intergubernamentales, asociaciones comerciales, fabricantes de instrumentos de medición así como para los usuarios de los servicios de metrología legal.
+
+
+0. Términos fundamentales
+
+0.01 Metrología
+
+Ciencia de las mediciones y sus aplicaciones.
+
+Nota: La metrología incluye todos los aspectos teóricos y prácticos de las mediciones, cualesquiera que sean su incertidumbre de medida y su campo de aplicación.
+
+[OIML V2-200:2012, 2.2]
+
+0.02 Sistema Internacional de Unidades (SI)
+
+Sistema de unidades basado en el Sistema Internacional de Magnitudes, con nombres y símbolos de las unidades, y con una serie de prefijos con sus nombres y símbolos, así como reglas para su utilización, adoptado por la Conferencia General de Pesas y Medidas (CGPM).
+
+[OIML V2-200:2012, 1.16]
+
+Nota 1: El SI está basado en las siete magnitudes básicas del Sistema Internacional de Magnitudes (ISQ). De acuerdo a: OIML V2-200:2012, 1.16 y la publicación SI [BIPM 2006]. Estas son: longitud, masa, tiempo, corriente eléctrica, temperatura termodinámica, cantidad de sustancia e intensidad luminosa.
+
+Nota 2: Las unidades básicas y las unidades derivadas coherentes del SI forman un conjunto coherente, denominado "conjunto de unidades SI coherentes".
+
+Nota 3: Una descripción y explicación completas del SI puede encontrarse en la octava edición, 2006, actualizada 2014 del folleto sobre el SI, publicado por la Oficina Internacional de Pesas y Medidas (BIPM).
+
+Nota 4: La magnitud "número de entidades" se considera frecuentemente como magnitud básica, con unidad básica uno, símbolo 1.
+
+Nota 5: Los prefijos SI para los múltiplos y submúltiplos de las unidades están dados en OIML V2-200:2012, 1.16.
+
+0.03 Indicación
+
+Valor proporcionado por un instrumento de medición o sistema de medición.
+
+Nota1: La indicación puede presentarse en forma visual o acústica, o puede transferirse a otro dispositivo. Frecuentemente viene dada por la posición de una aguja en un cuadrante para salidas analógicas, por un número visualizado o impreso para salidas digitales, por un código para salidas codificadas, o por el valor asignado para el caso de medidas materializadas.
+
+Nota 2: La indicación y el valor correspondiente de la magnitud medida no son necesariamente valores de magnitudes de la misma naturaleza.
+
+[OIML V2-200:2012, 4.1]
+
+0.04 Error de indicación
+
+Indicación menos el valor de referencia.
+
+Nota: Este valor de referencia, está algunas veces referido a un valor (convencionalmente) verdadero de una magnitud
+
+(véase también OIML V2-200:2012, 2.12, Nota 1).
+
+
+0.05 Error máximo permitido
+Límite de error
+
+Valor extremo del error de medida, con respecto a un valor de referencia conocido, permitido por especificaciones o reglamentaciones, para una medición, instrumento o sistema de medición dado.
+
+Nota 1: En general, los términos "errores máximos permitidos" o "límites de error" se utilizan cuando existen dos valores extremos
+
+Nota 2: No se debe utilizar el término "tolerancia" para designar el 'error máximo permitido'.
+
+[OIML V2-200:2012, 4.26]
+
+ Nota 3: Usualmente el término "error máximo permitido" se abrevia como "EMP", o "emp".
+
+0.06 Error intrínseco
+Error de indicación, determinado bajo condiciones de referencia.
+
+0.07 Magnitud de influencia
+
+Magnitud que, en una medición directa, no afecta a la magnitud que realmente se está midiendo, pero sí afecta a la relación entre la indicación y el resultado de medida.
+
+Ejemplo 1: La magnitud frecuencia en la medición directa de la amplitud constante de una corriente alterna con un amperímetro.
+
+Ejemplo 2: La concentración de la cantidad de sustancia de bilirrubina en una medición directa de la concentración de la cantidad de sustancia de hemoglobina en plasma sanguíneo humano.
+
+Ejemplo 3: La temperatura de un micrómetro utilizado para medir la longitud de una varilla, pero no la temperatura de la propia varilla, que puede aparecer en la definición del mensurando.
+
+Ejemplo 4: La presión atmosférica en la fuente de iones de un espectrómetro de masas durante la medida de una fracción molar.
+
+Nota 1: Una medición indirecta conlleva una combinación de mediciones directas, cada una de las cuales puede estar a su vez afectada por magnitudes de influencia.
+
+Nota 2: En la GUM ("Guide to the expression of uncertainity in measurement", publicación OIML G 1-100), el concepto 'magnitud de influencia' se define de acuerdo con la 2da edición del Vocabulario Internacional de Metrología (VIM), por lo que comprende no sólo las magnitudes que afectan al sistema de medida, como en esta definición, sino que también incluye aquéllas que afectan a las magnitudes realmente medidas. La GUM tampoco limita este concepto a mediciones directas.
+
+[OIML V2-200:2012,2.52]
+
+0.08 Condición nominal de funcionamiento
+
+Condición de funcionamiento que debe satisfacerse durante una medición para que un instrumento o un sistema de medida funcione conforme a su diseño.
+
+Nota: Las condiciones nominales de funcionamiento especifican generalmente intervalos de valores para la magnitud medida y para las magnitudes de influencia.
+
+[OIML V2-200:2012, 4.9]
+
+0.09 Condición de funcionamiento de referencia
+Condición de referencia
+
+Condición de funcionamiento prescrita para evaluar el desempeño de un instrumento o sistema de medida o para comparar resultados de medición.
+
+Nota 1: Las condiciones de referencia especifican intervalos de valores del mensurando y de las magnitudes de influencia.
+
+Nota 2: En la Norma IEC 60050-300, ítem 311-06-02, el término "condición de referencia" designa una condición de funcionamiento en la cual la incertidumbre instrumental especificada es la menor posible.
+
+[OIML V2-200:2012, 4.11]
+
+0.10 Instrumento de medición
+
+Dispositivo utilizado para realizar mediciones, solo o asociado a uno o varios dispositivos suplementarios.
+
+Nota 1: Un instrumento de medición que puede utilizarse individualmente es un sistema de medición.
+
+Nota 2: Un instrumento de medición puede ser un instrumento de medición indicador o una medida materializada.
+
+[OIML V2-200:2012, 3.1]
+
+0.11 Transductor de medición
+
+Dispositivo, utilizado en medición, que hace corresponder a una magnitud de entrada una magnitud de salida, según una relación determinada.
+
+Ejemplos: Termopar, transformador de corriente eléctrica, galga o banda extensométrica, electrodo para pH, tubo Bourdon, lámina bimetálica.
+
+[OIML V2-200:2012, 3.7]
+
+0.12 Sistema de medición
+
+Conjunto de uno o más instrumentos de medición y, frecuentemente, otros dispositivos, incluyendo reactivos y otros insumos, ensamblados y adaptados para proporcionar información utilizada para obtener valores medidos dentro de intervalos especificados, para magnitudes de naturalezas dadas.
+
+Nota: Un sistema de medición puede estar formado por un único instrumento de medición.
+
+[OIML V2-200:2012, 3.2]
+
+0.13 Escala de un instrumento de medición con dispositivo indicador
+
+Parte de un instrumento de medición con indicador, que consiste en un conjunto ordenado de marcas, eventualmente acompañadas de números o valores de la magnitud.
+
+[OIML V2-200:2012, 3.5]
+
+0.14 Calibración
+
+Operación que bajo condiciones especificadas establece, en una primera etapa, una relación entre los valores y sus incertidumbres de medida asociadas obtenidas a partir de los patrones, y las correspondientes indicaciones con sus incertidumbres asociadas y, en una segunda etapa, utiliza esta información para establecer una relación que permita obtener un resultado de la medición a partir de una indicación.
+
+Nota 1: Una calibración puede expresarse mediante una declaración, una función de calibración, un diagrama de calibración, una curva de calibración o una tabla de calibración. En algunos casos, puede consistir en una corrección aditiva o multiplicativa de la indicación con la incertidumbre de medición asociada.
+
+Nota 2: No debe confundirse la calibración con el ajuste de un sistema de medición, a menudo llamado incorrectamente "auto calibración", ni con una verificación de la calibración.
+
+Nota 3: Frecuentemente se interpreta que únicamente la primera etapa de esta definición corresponde a la calibración.
+
+[OIML V2-200:2012, 2.39]
+
+0.15 Ajuste de un sistema de medición
+Ajuste
+
+Conjunto de operaciones realizadas sobre un sistema de medición para que proporcione indicaciones prescritas, correspondientes a valores dados de la magnitud a medir.
+
+Nota 1: Diversos tipos de ajuste de un sistema de medición son: ajuste de cero, ajuste del offset (desplazamiento) y ajuste de la amplitud de escala (denominado también ajuste de la ganancia).
+
+Nota 2: No debe confundirse el ajuste de un sistema de medición con su propia calibración, que es un prerrequisito para el ajuste.
+
+Nota 3: Después de su ajuste, generalmente un sistema de medición debe ser calibrado nuevamente.
+
+[OIML V2-200:2012, 3.11]
+
+
+1. Metrología y sus aspectos legales
+
+1.01 Metrología legal
+
+Práctica y procesos de aplicación de una estructura jurídica y reglamentaria a la metrología y la implementación de su ejecución (ver 0.01).
+
+Nota 1:  El alcance de la metrología legal puede ser diferente en cada país.
+
+Nota 2:  La metrología legal incluye:
+
+
+* el establecimiento de las exigencias legales,
+* el control y la evaluación de la conformidad de los productos y de las actividades reglamentadas.
+* la supervisión de los productos y de las actividades reglamentadas, y
+* la provisión de la infraestructura necesaria para asegurar la trazabilidad de las mediciones reglamentadas y los instrumentos de medición con el SI y a patrones nacionales.
+
+1.02 Ley de metrología
+
+Los actos jurídicos y la legislación específica que proporcionan la estructura legal a la metrología.
+
+Nota: Los actos jurídicos y regulatorios en particular, especifican las unidades legales de medida y establecen:
+
+* los requisitos con respecto a las características de los instrumentos de medición,
+* la exactitud de la medición en los casos especificados por la ley
+* un control legal de los instrumentos de medición, y
+* la supervisión metrológica.
+
+1.03 Reglamentación de la metrología legal
+
+Reglamentación técnica en el campo de la metrología legal.
+
+Nota 1: Los reglamentos deberán, cuando sea aplicable, ser compatibles con las Recomendaciones Internacionales de la OIML y hacer uso de sus requisitos.
+
+Nota 2: El ámbito de la metrología legal generalmente incluye:
+
+* la protección de los intereses de los individuos y de las empresas,
+* la protección de los intereses nacionales,
+* la protección de la salud y la seguridad públicas, incluso en relación con el medio ambiente y con los servicios médicos, y
+* el cumplimiento de los requisitos para las transacciones comerciales.
+
+1.04 Organismo nacional responsable
+
+Organización o agencia a nivel nacional, responsable del desarrollo y/o de la aplicación de las leyes y reglamentos relativos al control de la metrología legal.
+
+1.05 Autoridad metrológica
+
+Entidad legal designada por ley o por el gobierno para ser responsable de las actividades específicas de la metrología legal.
+
+Nota 1: Entidad legal puede ser una institución gubernamental, local o no gubernamental autorizada por el gobierno.
+
+1.06 Unidades legales de medida
+
+Unidades de medida exigidas o permitidas por los reglamentos.
+
+Nota:  Las unidades legales pueden ser:
+
+* las unidades del SI,
+* sus múltiplos y submúltiplos decimales como está indicado para el uso de los prefijos en el SI, o
+* unidades que no están incluidas en el SI, especificadas por los reglamentos pertinentes.
+
+
+2. Actividades de metrología legal
+
+2.01 Control metrológico legal
+
+Conjunto de las actividades de la metrología legal.
+
+Nota:  El control metrológico legal comprende:
+
+* el control legal de los instrumentos de medición,
+* la supervisión metrológica,
+* todas las operaciones que tienen por finalidad examinar y demostrar, por ejemplo, para testificar en un tribunal de justicia, el estado de un instrumento de medición y para determinar sus características metrológicas, entre otros aspectos, tomando como referencia las exigencias legales pertinentes.
+
+2.02 Control legal de los instrumentos de medición
+
+Término utilizado para designar globalmente operaciones legales a las que los instrumentos de medición pueden ser sometidos, por ejemplo, la aprobación de modelo, la verificación, etc.
+
+2.03 Supervisión metrológica
+
+Actividad del control metrológico legal para comprobar la observancia de las leyes de la metrología y sus reglamentos metrológicos.
+
+Nota 1: La supervisión metrológica también incluye la comprobación de la exactitud de las cantidades indicadas en las mercaderías pre-medidas o pre envasadas.
+
+Nota 2: Para lograr estos propósitos, pueden utilizarse medios y métodos tales como la vigilancia del mercado y la gestión de la calidad.
+
+2.04 Evaluación de modelo
+
+Procedimiento de evaluación de la conformidad en uno o más ejemplares de un modelo determinado de un instrumento de medición que se traduce en una medición conducente a un informe de evaluación y/o a un certificado de evaluación de modelo.
+
+Nota: "Modelo" se utiliza en metrología legal con el mismo significado que "tipo"; en las definiciones siguientes, solo se utiliza "modelo".
+
+2.05 Aprobación de modelo
+
+Decisión de relevancia jurídica, basada en la revisión del informe de evaluación de modelo, referida a que el modelo de un instrumento de medición satisface las exigencias reglamentarias pertinentes, y conduce a la emisión del certificado de aprobación de modelo.
+
+Nota:  Ver también A.25
+
+2.06 Aprobación de modelo con efecto limitado
+
+Aprobación de modelo de instrumentos de medición que está vinculada con una o más restricciones específicas.
+
+Nota:  Las restricciones pueden referirse, a:
+
+* el período de validez,
+* el número de instrumentos cubiertos por la aprobación,
+* la obligación de notificar a las autoridades competentes el lugar de instalación de cada instrumento,
+* el uso del instrumento.
+* u otras que la autoridad metrológica entienda aplicable.
+
+2.07 Reconocimiento de una aprobación de modelo
+
+Resolución jurídica adoptada por una de las partes, ya sea de forma voluntaria o sobre la base de un acuerdo bilateral o multilateral por el que un modelo que fue aprobado por la otra parte es reconocido como satisfaciendo las exigencias legales pertinentes, sin emitir una nueva aprobación de modelo.
+
+Nota Ver también A.33.
+
+2.08 Cancelación de una aprobación de modelo
+
+Decisión de carácter legal cancelando una aprobación de modelo.
+
+Nota:  La cancelación está justificada en el caso de:
+
+* alteraciones del modelo,
+* modificación de sus partes vitales.
+* circunstancias que afectan la durabilidad y/o la confiabilidad metrológicas,
+* los efectos que alteran el desempeño metrológico del instrumento exigido por la ley y que se hacen visibles solo después que la aprobación oficial fue concedida.
+
+2.09 Verificación de un instrumento de medición
+
+Procedimiento de evaluación de la conformidad (distinto al de la evaluación de modelo) que se traduce en la colocación de una marca de verificación y/o en la emisión de un certificado de verificación.
+
+Nota Ver también (OIML V2-200: 2012, 2.44.)
+
+2.10 Examen preliminar
+
+Examen de un instrumento de medición, ya sea como parte de requisitos parciales o antes de que ciertos elementos del instrumento de medir se ensamblen como parte del procedimiento de verificación.
+
+2.11 Verificación por muestreo
+
+Verificación de un lote homogéneo de instrumentos de medición basado en los resultados de examinar una cantidad estadísticamente apropiada de muestras tomadas aleatoriamente de un lote identificado.
+
+2.12 Verificación inicial
+
+La verificación de un instrumento de medición que no ha sido verificado previamente.
+
+2.13 Verificación subsecuente
+
+La verificación de un instrumento de medición que sigue a una verificación previa
+
+Nota 1:  La verificación subsecuente incluye:
+
+* la verificación periódica obligatoria,
+* la verificación después de la reparación, y
+* la verificación voluntaria.
+
+Nota 2: La verificación subsecuente de un instrumento de medición puede llevarse a cabo antes de la expiración del período de validez de una verificación anterior, bien a petición del usuario (propietario) o cuando su verificación se ha declarado inválida.
+
+2.14 Verificación periódica obligatoria
+
+La comprobación subsecuente de un instrumento de medir, que se realiza periódicamente a determinados intervalos de acuerdo con el procedimiento establecido por la reglamentación.
+
+2.15 Reprobación o rechazo de un instrumento de medición
+
+Decisión de carácter legal especificando que un instrumento de medición no satisface las exigencias reglamentarias para la verificación y prohibiendo su uso para aplicaciones que requieren verificación obligatoria.
+
+
+2.16 Recalificación de un instrumento de medición
+
+Decisión de carácter legal que especifica que un instrumento de medición inicialmente rechazado, es devuelto a la conformidad con las exigencias legales y su uso ya no se encuentra prohibida para aplicaciones que requieren la verificación obligatoria.
+
+2.17 Reconocimiento de la verificación
+
+Decisión de carácter legal tomada por una de las partes, ya sea voluntariamente o basada en acuerdos bilaterales o multilaterales por el cual un certificado de verificación emitido y/o una marca de verificación aplicada por la otra parte se reconocen como satisfaciendo las exigencias reglamentarias, sin la emisión de un nuevo certificado de verificación y/o la colocación de una nueva marca de verificación.
+
+2.18 Inspección por muestreo
+
+Inspección de un lote homogéneo de instrumentos de medición basada en la evaluación de una cantidad estadísticamente adecuada de las muestras seleccionadas aleatoriamente a partir de un lote identificado.
+
+Nota 1: Las condiciones bajo las cuales los respectivos instrumentos han sido usados (por ejemplo, calidad del agua para los contadores de agua) pueden ser considerados entre los parámetros que determinen la homogeneidad del lote.
+
+Nota 2:  ISO 3534-2 da la siguiente definición:
+
+"4.1.6 inspección por muestreo: Inspección de los elementos seleccionados dentro del grupo bajo consideración".
+
+
+2.19 Marcado
+
+Colocación de una o más marcas.
+
+Nota 1: Ejemplos de marcas incluyen: marcas de verificación, de rechazo, de sellado y de aprobación de modelo (como se describe en 3.05, 3.06, y 3.07).
+
+Nota 2: Las marcas de verificación y de sellado pueden ser combinadas.
+
+Nota 3: El fabricante puede estar autorizado a aplicar otras marcas.
+
+2.20 Sellado
+
+Los medios destinados a proteger el instrumento de medición contra cualquier intervención no autorizada, modificación del ajuste, retiro de partes, modificación del software, etc.
+
+Nota: Esto se puede lograr por hardware, por software o por una combinación de ambos.
+
+2.21 Dispositivo de seguridad
+
+Medios para impedir el acceso no autorizado al hardware o al software.
+
+2.22 Cancelación de una marca de verificación
+
+Anulación de la marca de verificación cuando se ha constatado que el instrumento de medición ha dejado de satisfacer las exigencias reglamentarias.
+
+2.23 Verificación inicial de los instrumentos de medición utilizando el sistema de gestión de calidad del fabricante
+
+Declaración de conformidad del fabricante de los instrumentos de medición con las exigencias metrológicas legales para la verificación inicial; la declaración se permite con la condición de que el fabricante disponga de un sistema de gestión de calidad implantado y aprobado por un organismo competente.
+
+Nota 1: El organismo nacional responsable deberá disponer de un medio para que periódicamente valide la continuidad del sistema de gestión de calidad del fabricante.
+
+Nota 2: El programa de gestión de calidad para instrumentos de medición debe estar de acuerdo con las exigencias metrológicas legales para la verificación inicial de acuerdo con las leyes nacionales o los reglamentos para el control metrológico legal.
+
+2.24 Puesta en el mercado
+
+Primera comercialización en el mercado de un instrumento de medición o de un producto pre-envasado o pre-medido.
+
+Nota: Esto puede referirse al mercado de un único país o de un grupo de países (región).
+
+
+3. Documentos y marcas en metrología legal
+
+3.01 Certificado de aprobación de modelo
+
+Documento que certifica que la aprobación de modelo se ha concedido.
+
+3.02 Certificado de verificación
+
+Documento que acredita que la verificación del instrumento de medición se ha llevado a cabo y que confirma que el mismo satisface las exigencias legales.
+
+3.03 Notificación de rechazo
+
+Documento que acredita que un instrumento de medición no satisface o que ha dejado de satisfacer las exigencias legales pertinentes.
+
+3.04 Marca de verificación
+
+Marca aplicada a un instrumento de medición de un modo visible que certifica que la verificación del instrumento de medición se ha llevado a cabo y que confirma la satisfacción de las exigencias legales pertinentes.
+
+Nota: La marca de verificación puede identificar al organismo responsable de la verificación y/o indicar el año o la fecha de verificación o su fecha de vencimiento.
+
+3.05 Marca de rechazo
+
+Marca aplicada a un instrumento de medición de un modo bien visible para indicar que el instrumento de medición no satisface las exigencias legales y que cancela la marca de verificación aplicada con anterioridad.
+
+3.06 Marca de sellado
+
+Marca destinada a proteger al instrumento de medición contra cualquier modificación, reajuste, remoción de las partes, etc., no autorizados.
+
+3.07 Marca de aprobación de modelo
+
+Marca aplicada a un instrumento de medición certificando su conformidad con el modelo aprobado.
+
+
+4. Clasificación de los instrumentos de medición
+
+4.01 Categoría de los instrumentos
+
+Conjunto identificable de instrumentos en función de características metrológicas y técnicas únicas que puede incluir la magnitud a ser medida, el alcance de medición y el principio o método de medición.
+
+4.02 Familia de instrumentos de medición.
+
+Grupo identificable de los instrumentos de medición que pertenecen al mismo modelo fabricado, dentro de la misma categoría, que tienen las mismas características de diseño y los mismos principios metrológicos para la medición, pero que pueden diferir en algunas características en su desempeño metrológico y técnico, como están definidas en el reglamento pertinente.
+
+4.03 Metrológicamente relevante
+
+Atributo de un dispositivo, instrumento, función o software que influye en el resultado de la medición o de cualquier otra indicación primaria.
+
+4.04 Módulo
+
+Parte identificable de un instrumento de medición o de una familia de instrumentos de medición que realiza una función o más funciones específicas y que puede ser evaluada por separado de acuerdo a los requisitos metrológicos y técnicos que se especifican en el reglamento pertinente.
+
+Ejemplo: Los módulos típicos de un instrumento de pesar son: módulo de pesaje, celda de carga, indicador, dispositivo procesador de datos analógicos y/o digitales, y otros. (Ver OIML R76-1 Ed. 2006)
+
+4.05 Familia de módulos
+
+Grupo identificable de módulos que pertenece al mismo modelo fabricado que tienen similares características de diseño, pero que pueden diferir en algunos requisitos de desempeño metrológico y técnico, conforme están definidos en el reglamento pertinente.
+
+4.06 Modelo de un instrumento de medición o módulo
+
+Modelo definitivo de un instrumento de medición o módulo (incluyendo una familia de instrumentos o módulos) del cual la totalidad de los elementos que afectan sus características metrológicas están adecuadamente definidas.
+
+4.07 Instrumento de medición controlado legalmente
+
+Instrumento de medición que satisface los requisitos prescriptos, en particular los requisitos de metrología legal.
+
+4.08 Legalmente relevante
+
+Atributo de una parte de un instrumento de medición, de un dispositivo o de un software sujetos a control legal.
+
+4.09 Ejemplar de un modelo aprobado
+
+Instrumento de medición de un modelo aprobado, que por sí solo o en conjunto con la documentación adecuada, sirve como una referencia, por ejemplo, para control de la conformidad de los instrumentos con el modelo aprobado.
+
+4.10 Parámetro legalmente relevante
+
+Parámetro de un instrumento de medición, de un dispositivo (electrónico), de un componente, de un software o de un módulo sujeto a control legal.
+
+Nota: Se pueden distinguir los siguientes tipos de parámetros legalmente relevantes: parámetros específicos del modelo y parámetros específicos del dispositivo.
+
+4.11 Parámetro específico del modelo
+
+Parámetro legalmente relevante cuyo valor depende solamente del modelo de instrumento.
+
+Nota: Parámetros específicos del modelo son parte del software legalmente relevante.
+
+4.12 Parámetro específico del dispositivo
+
+Parámetro legalmente relevante cuyo valor depende del instrumento individual.
+
+Nota: Los parámetros específicos del dispositivo comprenden los parámetros de ajuste (por ejemplo, ajuste de intervalo u otros ajustes o correcciones) y parámetros de configuración (por ejemplo, el valor máximo, el valor mínimo, la unidad de medida, etc.).
+
+4.13 Modelo aprobado
+
+Modelo definitivo o familia de instrumentos de medición cuya utilización es legalmente permitida, cuya decisión está confirmada por la emisión de un certificado de aprobación de modelo.
+
+4.14 Instrumento de medición aceptable para la verificación
+
+Instrumento de medición de un modelo aprobado, o que satisface las exigencias reglamentarias y puede estar exento de la aprobación de modelo.
+
+4.15 Equipamiento para la verificación
+
+Equipamiento que satisface las exigencias reglamentarias y que se utiliza para la verificación
+
+
+4.16 Equipo bajo ensayo
+
+Componente, combinación de componentes o instrumento de medición completo sujetos a ensayo.
+
+Nota: Abreviatura EBE.
+
+
+5. Construcción y operación de los instrumentos de medición
+
+5.01 Intervalo de escala
+Valor de una división
+
+Valor expresado en unidades de la magnitud medida de la diferencia entre:
+
+* los valores correspondientes a dos marcas de la escala consecutivas, para la indicación analógica o
+* dos valores indicados consecutivos, para la indicación digital
+
+5.02 Intervalo de escala de verificación
+
+Valor, expresado en una unidad SI, utilizado para la clasificación y verificación de un instrumento.
+
+5.03 Número de intervalos de escala de verificación
+
+Cociente entre la capacidad máxima de una balanza,"Max", y el intervalo de escala de verificación "e":
+
+n = Max / e
+
+Nota 1: Este término se aplica a instrumentos de pesaje.
+
+Nota 2: "Max" y "e" tienen que estar en la misma unidad.
+
+5.04 Dispositivo indicador
+
+Parte del instrumento de medición, que muestra los resultados de las mediciones de forma continua o a demanda.
+
+Nota: Un dispositivo de impresión no es un dispositivo indicador, aunque un resultado de la medición impreso se considera como una indicación.
+
+5.05 Indicación primaria
+
+Indicación (en pantalla, impresa o memorizada) sujeta a control metrológico legal.
+
+5.06 Dispositivo auxiliar
+
+Dispositivo destinado a realizar una función particular, vinculado directamente en la elaboración, transmisión o en la visualización de los resultados de la medición.
+
+Nota 1: un dispositivo auxiliar puede o no estar sujeto a control metrológico legal de acuerdo con su función en el sistema de medición o para los reglamentos nacionales.
+
+Nota 2:  los dispositivos auxiliares principales son:
+
+* dispositivo de puesta a cero;
+* dispositivo repetidor de la indicación;
+* dispositivo de impresión;
+* dispositivo de memoria;
+* dispositivo indicador de precio unitario y total a pagar;
+* dispositivo totalizador;
+* dispositivo de pre-determinación;
+* dispositivo de autoservicio.
+
+5.07 Función de control
+
+Recurso incorporado a un instrumento de medición y que permite la detección de fallas significativas y la actuación en consecuencia.
+
+Nota: "actuar en consecuencia" se refiere a cualquier respuesta adecuada del instrumento de medición (señal luminosa, señal acústica, bloqueo del proceso de medición, etc.)
+
+5.08 Instrumento de control
+
+Instrumento de pesaje utilizado para determinar el valor convencional de la masa de las cargas de ensayo.
+
+Nota 1:  Los instrumentos de control utilizados para los ensayos pueden estar:
+
+* separados del instrumento bajo ensayo, o
+* integrados, cuando un instrumento a ser ensayado provee un modo de pesaje estático
+
+Nota 2:  Esta definición es aplicable a instrumentos de pesaje.
+
+5.09 Instrumento de medición asociado
+
+Instrumento para la medición de una magnitud, distinta a la del mensurando, cuyo valor es utilizado para corregir o convertir el resultado de la medición.
+
+Nota: Normalmente, un instrumento de medición asociado se conecta a un dispositivo (dispositivo de corrección, dispositivo de conversión, calculador) el cual es parte de un instrumento de medición y que modifica (corrige, convierte) el resultado de la medición para obtener un valor para el mensurando bajo condiciones especificadas.
+
+5.10 Terminal
+
+Dispositivo digital que tiene una o más teclas (o un mouse, o pantalla táctil, etc.) para operar el instrumento, y una pantalla para proporcionar los resultados de la medición transmitidos a través de un interfaz digital o de un dispositivo de procesamiento de datos analógicos.
+
+5.11 Error intrínseco inicial
+
+Error intrínseco de un instrumento de medición determinado antes de los ensayos de desempeño y de las evaluaciones de durabilidad.
+
+5.12 Falla
+
+Diferencia entre el error de indicación y el error intrínseco de un instrumento de medición.
+
+Nota 1: Principalmente, una falla es el resultado de un cambio no deseado de los datos contenidos en o que fluyen a través de un instrumento de medición electrónico.
+
+Nota 2: De la definición se deduce que una "falla" es un valor numérico que se expresa en ya sea una unidad de medida o como un valor relativo, por ejemplo, como un porcentaje.
+
+
+5.13 Falla límite
+
+Valor especificado en la reglamentación aplicable que delimita fallas no significativas.
+
+5.14 Falla significativa
+
+Falla que supera el valor de falla límite aplicable.
+
+Nota: Para determinados tipos de instrumentos de medición algunas fallas superiores a la falla límite no pueden ser consideradas como una falla importante; la reglamentación aplicable debe indicar cuándo se aplican tales excepciones. Por ejemplo, la aparición de una o algunas de las siguientes fallas puede ser aceptable:
+
+* fallas derivadas de causas simultáneas y mutuamente independientes entre sí, originadas en un instrumento de medición o en su sistema de control;
+* fallas que implican la imposibilidad de efectuar cualquier medición,
+* variaciones momentáneas en la indicación a causa de fallas transitorias, que no pueden ser interpretadas, memorizadas o transmitidas como resultado de una medición;
+* fallas que dan lugar a variaciones en el resultado de la medición que son lo suficientemente graves como para ser vistas por todos los interesados en el resultado de la medición; la reglamentación aplicable puede especificar la naturaleza de estas variaciones.
+
+5.15 Durabilidad
+
+Aptitud de un instrumento de medición de mantener sus características de desempeño durante un período de uso.
+
+5.16 Error de durabilidad
+
+Diferencia entre el error intrínseco después de un período de uso y el error intrínseco inicial de un instrumento de medición.
+
+5.17 Error de durabilidad significativo
+
+Error de durabilidad superior al valor especificado en la reglamentación aplicable.
+
+Nota: Algunos errores de durabilidad superiores aún al valor especificado pueden también ser considerados no significativos. En la reglamentación aplicable se debe estipular cuándo se aplica tal excepción. Por ejemplo, la ocurrencia de uno o algunos de los siguientes errores puede ser aceptable:
+
+* la indicación no puede ser interpretada, memorizada o transmitida como resultado de una medición;
+* la indicación implica la imposibilidad de efectuar cualquier medición,
+* la indicación es obviamente tan grosera que esto da lugar a que sea observada por todos los interesados en el resultado de la medición; o
+* un error de durabilidad no puede ser detectado y corregido debido a la falla del sistema apropiado de protección de durabilidad.
+
+
+5.18 Factor de influencia
+
+Magnitud de influencia, cuyo valor varía dentro del rango de las condiciones nominales de funcionamiento del instrumento de medición.
+
+Nota 1: Las condiciones nominales de funcionamiento deben estar en conformidad con las exigencias aplicables especificadas en la reglamentación pertinente
+
+Nota 2: La variación de la indicación como consecuencia de un factor de influencia se considera un error y no una falla.
+
+5.19 Perturbación
+
+Magnitud de influencia que posee un valor dentro de los límites especificados en el correspondiente reglamento, pero fuera de las condiciones nominales de funcionamiento especificadas de un instrumento de medición.
+
+5.20 Programa de ensayo
+
+Descripción de una serie de ensayos para ciertos tipos de equipamiento.
+
+5.21 Ensayo de desempeño
+
+Ensayo con el objetivo de comprobar si el EBE está apto para desempeñar sus funciones previstas.
+
+5.22 Ensayo de durabilidad
+
+Ensayo con el objetivo de comprobar si el EBE es capaz de mantener sus características de desempeño durante un período de uso
+
+
+6. Software en Metrología Legal
+
+6.01 Identificación del software
+
+Secuencia de caracteres legibles (por ejemplo, el número de la versión, la suma de comprobación, etc.) que está indisolublemente ligada al software o al módulo de software bajo consideración.
+
+Nota: Ésta se puede comprobar sobre un instrumento mientras está en uso.
+
+6.02 Separación del software
+
+La separación del software en los instrumentos de medición consiste en dividirlo en una parte legalmente relevante y otra parte legalmente irrelevante.
+
+Nota: Estas partes se comunican a través de una interfaz de software.
+
+6.03 Interfaz de software
+
+Código de programación y de dominio de datos dedicados a recibir, filtrar, o transmitir datos entre los módulos de software.
+
+Nota: Una interfaz de software no es necesariamente legalmente relevante.
+
+6.04 Protección del software
+
+La protección del software de instrumentos de medición o del dominio de los datos por un sello (precinto) de hardware o software implementado.
+
+Nota: El sello (precinto) debe ser eliminado, dañado o roto para obtener acceso a modificar el software.
+
+6.05 Control de eventos
+
+Archivo continuo de datos que contiene un registro cronológico de los eventos, por ejemplo, las modificaciones de los valores de los parámetros de un dispositivo, las actualizaciones del software, o toda otra actividad que sea legalmente relevante, susceptible de influenciar las características metrológicas.
+
+6.06 Evento
+
+Acción en la que se realiza una modificación de un parámetro del instrumento de medición, el ajuste de un factor o la actualización del módulo de software.
+
+6.07 Dispositivo de memoria
+
+Dispositivo que se utiliza para almacenar datos de la medición una vez que se ha completado la medición y mantenerlos disponibles con fines legalmente relevantes (por ejemplo, la conclusión de una transacción comercial).
+
+6.08 Interfaz de usuario
+
+Interfaz que permite que la información sea intercambiada entre el operador y el instrumento de medición o con sus componentes de hardware o de software, por ejemplo, interruptores, teclado, "mouse", pantalla, monitor, impresora, pantalla táctil, ventana del software en una pantalla, incluyendo el software que la gerencia.
+
+
+ANEXO A
+
+TÉRMINOS RELATIVOS A LA EVALUACIÓN DE LA CONFORMIDAD
+
+A.1 Evaluación de la conformidad
+
+Demostración de que se cumplen los requisitos especificados relativos a un producto, proceso, sistema, persona u organismo.
+
+Nota 1: El campo de la evaluación de la conformidad incluye actividades definidas en la norma ISO/IEC 17000:2004, tales como, el ensayo/prueba, la inspección y la certificación, así como la acreditación de organismos de evaluación de la conformidad.
+
+Nota 2: La expresión "objeto de evaluación de la conformidad" u "objeto" se utiliza en la norma ISO/IEC 17000:2004 para abarcar cualquier material, producto, instalación, proceso, sistema, persona u organismo al que se aplica la evaluación de la conformidad. Un servicio está cubierto por la definición de producto.
+
+[ISO/IEC 17000:2004, 2.1]
+
+A.2 Organismo de evaluación de la conformidad
+
+Organismo que realiza servicios de evaluación de la conformidad.
+
+Nota: Un organismo de acreditación no es un organismo de evaluación de la conformidad.
+
+[ISO/IEC 17000:2004, 2.5]
+
+A.3 Organismo de acreditación
+
+Organismo con autoridad que lleva a cabo la acreditación.
+
+Nota: La autoridad de un organismo de acreditación deriva en general del gobierno.
+
+[ISO/IEC 17000:2004, 2.6]
+
+A.4 Sistema de evaluación de la conformidad
+
+Reglas, procedimientos y gestión para realizar la evaluación de la conformidad.
+
+Nota: Los sistemas de evaluación de la conformidad pueden operar a nivel internacional, regional, nacional o sub-nacional.
+
+[ISO/IEC 17000:2004, 2.7]
+
+A.5 Esquema de evaluación de la conformidad
+Programa de evaluación de la conformidad.
+
+Sistema de evaluación de la conformidad relativo a objetos específicos de evaluación de la conformidad, a los que se aplican los mismos requisitos especificados, reglas y procedimientos.
+
+Nota: Los esquemas de evaluación de la conformidad pueden ser operados a nivel internacional, regional, nacional o sub-nacional.
+
+[ISO/IEC 17000:2004, 2.8]
+
+A.6 Requisito especificado
+
+Necesidad o expectativa establecida.
+
+Nota: Los requisitos especificados pueden establecerse en documentos normativos tales como la reglamentación, las normas y las especificaciones técnicas.
+
+[ISO/IEC 17000:2004, 3.1]
+
+A.7 Procedimiento
+
+Forma especificada para llevar a cabo una actividad o un proceso.
+
+[ISO/IEC 17000:2004, 3.2]
+
+A.8 Esquema de certificación
+
+Sistema de certificación aplicado a productos determinados, a los que se aplican los mismos requisitos especificados, reglas y procedimientos específicos.
+
+Nota 1:  Adaptado de la norma ISO/IEC 17000:2004, definición 2.8.
+
+Nota 2: Un "sistema de certificación" es un "sistema de evaluación de la conformidad", que se define según la norma ISO/IEC 17000:2004, definición 2.7.
+
+Nota 3: El esquema de certificación estipula las reglas, los procedimientos y la gestión para la implementación de la certificación de productos, procesos y servicios.
+
+Nota 4: La Norma ISO/IEC 17067, en combinación con las Guías ISO/IEC 28 e ISO/IEC 53, proporciona la orientación general para el desarrollo de esquemas de certificación.
+
+[ISO/IEC 17065:2013, 3.9]
+
+A.9 Muestreo
+
+Obtención de una muestra del objeto de evaluación de la conformidad, de acuerdo con un procedimiento.
+
+[ISO/IEC 17000:2004, 4.1]
+
+A.10 Ensayo
+Prueba
+
+Determinación de una o más características de un objeto de evaluación de la conformidad, de acuerdo con un procedimiento.
+
+Nota: El término "ensayo/prueba" se aplica en general a materiales, productos o procesos.
+
+[ISO/IEC 17000:2004, 4.2]
+
+A.11 Inspección
+
+Examen del diseño de un producto, del producto, proceso o instalación y determinación de su conformidad con requisitos específicos o, sobre la base del juicio profesional, con requisitos generales.
+
+Nota: La inspección de un proceso puede incluir la inspección de personas, instalaciones, tecnología y metodología.
+
+[ISO/IEC 17000:2004, 4.3]
+
+A.12 Auditoría
+
+Proceso sistemático, independiente y documentado para obtener registros, declaraciones de hechos u otra información pertinente y evaluarlos objetivamente para determinar en que medida se cumplen los requisitos especificados.
+
+Nota: Mientras que "auditoría" se aplica a los sistemas de gestión, "evaluación" se aplica tanto a los organismos de evaluación de la conformidad, como de forma más general.
+
+[ISO/IEC 17000:2004, 4.4]
+
+A.13 Evaluación entre pares
+
+Evaluación de un organismo, con respecto a requisitos especificados, por representantes de otros organismos que forman parte de un grupo de acuerdo, o son candidatos para serlo.
+
+[ISO/IEC 17000:2004, 4.5]
+
+A.14 Revisión
+
+Verificación de la aptitud, adecuación y eficacia de las actividades de selección y determinación, y de los resultados de dichas actividades, con respecto al cumplimiento de los requisitos especificados por un objeto de evaluación de la conformidad.
+
+[ISO/IEC 17000:2004, 5.1]
+
+A.15 Atestación
+
+Emisión de una declaración, basada en una decisión tomada después de la revisión, de que se ha demostrado que se cumplen los requisitos especificados.
+
+Nota 1: La declaración resultante, que en la norma ISO/IEC 17000:2004 se denomina "declaración de la conformidad" expresa el aseguramiento de que los requisitos especificados se han cumplido. Este aseguramiento, por sí solo, no constituye ninguna garantía contractual o legal.
+
+Nota 2: Las actividades de atestación de primera y tercera parte se distinguen por los términos dados en los apartados 5.4 a 5.6 de la Norma ISO/IEC 17000:2004 (declaración, certificación y acreditación). Para la atestación de segunda parte, no existe ningún término especial.
+
+[ISO/IEC 17000:2004, 5.2]
+
+A.16 Alcance de la atestación
+
+Extensión o características de los objetos de evaluación de la conformidad cubiertos por la atestación.
+
+[ISO/IEC 17000:2004, 5.3]
+
+A.17 Declaración
+
+Atestación de primera parte.
+
+[ISO/IEC 17000:2004, 5.4]
+
+A.18 Certificación
+
+Atestación de tercera parte relativa a productos, procesos, sistemas o personas.
+
+Nota 1: La certificación de un sistema de gestión a veces también se denomina registro.
+
+Nota 2: La certificación es aplicable a todos los objetos de evaluación de la conformidad, excepto a los propios organismos de evaluación de la conformidad, a los que es aplicable la acreditación.
+
+[ISO/IEC 17000:2004, 5.5]
+
+A.19 Acreditación
+
+Atestación de tercera parte relativa a un organismo de evaluación de la conformidad que manifiesta la demostración formal de su competencia para llevar a cabo tareas específicas de evaluación de la conformidad.
+
+[ISO/IEC 17000:2004, 5.6]
+
+A.20 Vigilancia
+
+Repetición sistemática de actividades de evaluación de la conformidad como base para mantener la validez de la declaración de conformidad.
+
+[ISO/IEC 17000:2004, 6.1]
+
+A.21 Suspensión
+
+Invalidación temporal de la declaración de conformidad, para todo o parte del alcance de la atestación especificado.
+
+[ISO/IEC 17000:2004, 6.2]
+
+A.22 Apelación
+
+Solicitud del proveedor del objeto de evaluación de la conformidad al organismo de evaluación de la conformidad o al organismo de acreditación, de reconsiderar la decisión que tomó en relación con dicho objeto.
+
+[ISO/IEC 17000:2004, 6.4]
+
+A.23 Queja o Reclamo
+
+Expresión de insatisfacción, diferente de la apelación, presentada por una persona u organización a un organismo de evaluación de la conformidad o a un organismo de acreditación, relacionada con las actividades de dicho organismo, para la que se espera una respuesta.
+
+[ISO/IEC 17000:2004, 6.5]
+
+A.24 Grupo de acuerdo
+
+Organismos que son signatarios del convenio en el que está basado un acuerdo. [ISO/IEC 17000:2004, 7.10]
+
+A.25 Aprobación
+
+Permiso para comercializar o utilizar un producto o un proceso, para fines establecidos o bajo condiciones establecidas.
+
+[ISO/IEC 17000:2004, 7.1]
+
+A.26 Reciprocidad
+
+Relación entre dos partes en la que ambas tienen los mismos derechos y obligaciones con respecto a la otra.
+
+Nota 1: La reciprocidad puede existir dentro de un acuerdo multilateral que comprenda una red de relaciones bilaterales recíprocas.
+
+Nota 2: Si bien los derechos y las obligaciones son los mismos, las posibilidades ofrecidas pueden diferir; esto puede conducir a relaciones desiguales entre las partes.
+
+[ISO/IEC 17000:2004, 7.11]
+
+A.27 Trato igualitario
+
+Tratamiento acordado para productos o procesos de un proveedor que no es menos favorable que el acordado para productos o procesos similares de cualquier otro proveedor, en una situación comparable.
+
+[ISO/IEC 17000:2004, 7.12]
+
+A.28 Trato nacional
+
+Tratamiento acordado para productos o procesos originarios de otros países que no es menos favorable que el acordado para productos o procesos similares de origen nacional, en una situación comparable.
+
+[ISO/IEC 17000:2004, 7.13]
+
+A.29 Trato nacional e igualitário
+
+Tratamiento acordado para productos o procesos originarios de otros países que no es menos favorable que el acordado para productos o procesos similares de origen nacional, u originarios de cualquier otro país, en una situación comparable.
+
+[ISO/IEC 17000:2004, 7.14]
+
+A.30 Designación
+
+Autorización gubernamental para que un organismo de evaluación de la conformidad lleve a cabo actividades especificadas de evaluación de la conformidad.
+
+[ISO/IEC 17000:2004, 7.2]
+
+A.31 Autoridad que designa
+
+Organismo establecido dentro del gobierno o facultado por éste para designar organismos de evaluación de la conformidad, suspender o retirar su designación o quitar la suspensión de su designación.
+
+[ISO/IEC 17000:2004, 7.3]
+
+A.32 Equivalencia
+Equivalencia de los resultados de la evaluación de la conformidad
+
+Grado de relación entre diferentes resultados de la evaluación de la conformidad, suficiente para proporcionar el mismo nivel de aseguramiento de la conformidad con respecto a los mismos requisitos especificados.
+
+[ISO/IEC 17000:2004, 7.4]
+
+A.33 Reconocimiento
+Reconocimiento de los resultados de la evaluación de la conformidad
+
+Admisión de la validez de un resultado de la evaluación de la conformidad proporcionado por otra persona o por otro organismo.
+
+[ISO/IEC 17000:2004, 7.5]
+
+A.34 Aceptación
+Aceptación de los resultados de la evaluación de la conformidad
+
+Utilización de un resultado de la evaluación de la conformidad proporcionado por otra persona o por otro organismo.
+[ISO/IEC 17000:2004, 7.6]
+
+A.35 Acuerdo unilateral
+
+Acuerdo por el cual una parte reconoce o acepta los resultados de la evaluación de la conformidad de otra parte.
+
+[ISO/IEC 17000:2004, 7.7]
+
+A.36 Acuerdo bilateral
+
+Acuerdo entre dos partes por el cual cada parte reconoce o acepta los resultados de la evaluación de la conformidad de la otra parte.
+
+[ISO/IEC 17000:2004, 7.8]
+
+A.37 Acuerdo multilateral
+
+Acuerdo entre más de dos partes por el cual cada parte reconoce o acepta los resultados de la evaluación de la conformidad de las otras partes.
+
+[ISO/IEC 17000:2004, 7.9]
+
+
+ÍNDICE ALFABÉTICO
+
+A
+
+Aceptación A.34
+Aceptación de resultados de declaración de conformidad A.34
+Acreditación A.19
+Acuerdo unilateral A35
+
+Acuerdo bilateral A36
+Acuerdo multilateral A37
+Ajuste 0.15
+Ajuste de un sistema de medición 0.15
+Alcance de la atestación A.16
+Apelación A.22
+Aprobación A.25
+Aprobación de modelo 2.05
+Aprobación de modelo con efecto limitado 2.06
+Atestación A.15
+Actividades de metrología legal 2.
+Auditoria A.12
+Autoridad que designa A.31
+Autoridad metrológica 1.05
+
+C
+
+Calibración 0.14
+Cancelación de una aprobación de modelo 2.08
+Cancelación de una marca de verificación 2.22
+Cantidad de influencia 0.07
+Categoría de instrumentos 4.01
+Certificación A.18
+Certificado de aprobación de modelo 3.01
+Certificado de verificación 3.02
+
+Clasificación de los instrumentos de medición 4.
+Colocación en el mercado 2.24
+Condición de funcionamiento de referencia 0.09
+Condición de referencia 0.09
+Condición nominal de funcionamiento 0.08
+Construcción y operación de instrumentos de medición 5.
+Control legal de los instrumentos de medición 2.02
+Control metrológico legal 2.01
+Control de eventos 6.05
+
+D
+
+Declaración de conformidad A.17
+Designación A.30
+Dispositivo auxiliar 5.06
+Dispositivo de memoria 6.07
+Dispositivo indicador 5.04
+Dispositivo de seguridad 2.21
+Documentos y marcas en metrología legal 3.
+Durabilidad 5.15
+
+E
+
+Ensayo/prueba A.10
+Ensayo de desempeño 5.21
+Ensayo de durabilidad 5.22
+Equipamiento para la verificación 4.15
+Equipo bajo ensayo 4.16
+Equivalencia A.32
+Equivalencia de resultados de evaluación de conformidad A.32 Error de durabilidad 5.16
+
+Error de durabilidad significativo 5.17
+Erro de indicación 0.04
+Error intrínseco 0.06
+Error intrínseco inicial 5.11
+Error máximo permitido 0.05
+Escala de un instrumento de medición con dispositivo indicador 0.13 Esquema de evaluación de la conformidad A.5 Esquema de certificación A.8
+Evaluación de conformidad A.1
+Evaluación entre pares A.13
+Evaluación de modelo 2.04
+Evento 6.06
+Examen preliminar 2.10
+Ejemplar de un modelo aprobado 4.09
+
+F
+
+Factor de influencia 5.18
+Falla 5.12
+Falla limite 5.13
+Falla significativa 5.14
+Familia de instrumentos de medición 4.02
+Familia de módulos 4.05
+Función de control 5.07
+
+G
+
+Grupo de acuerdo A.24
+
+I
+
+Identificación del software 6.01
+Indicación 0.03
+Indicación primaria 5.05
+Inspección A.11
+Inspección por muestreo 2.18
+Instrumento de control 5.08
+Instrumento de medición 0.10
+Instrumento de medición aceptable para verificación 4.14
+Instrumento de medición asociado 5.09
+Instrumento de medición legalmente controlado 4.07
+Intervalo de escala de verificación 5.02
+Interfaz de software 6.03
+Interfaz de usuario 6.08
+Intervalo de escala y valor de una división 5.01
+
+L
+
+Legalmente relevante 4.08
+Límite de error 0.05
+Ley de metrología 1.02
+
+M
+
+Magnitud de influencia 0.07
+Marca de aprobación de modelo 3.07
+Marca de rechazo 3.05
+Marca de sellado 3.06
+Marca de verificación 3.04
+Marcado 2.19
+Metrología y sus aspectos legales 1
+Metrología legal 1.01
+Metrológicamente relevante 4.03
+Modelo aprobado 4.13
+Modelo de un instrumento de medición o módulo 4.06
+Módulo 4.04
+Muestreo A.9
+
+N
+
+Notificación de rechazo 3.03
+Número de intervalos de escala de verificación 5.03
+
+O
+
+Organismo de acreditación A.3
+Organismo de evaluación de conformidad A.2
+Organización Nacional responsable 1.04
+
+P
+
+Parámetro específico del dispositivo 4.12
+Parámetro específico del modelo 4.11
+Parámetro legalmente relevante 4.10
+Perturbación 5.19
+Procedimiento A.7
+Programa de evaluación de conformidad A.5
+Programa de ensayo 5.20
+Protección del software 6.04
+Puesta en el mercado 2.24
+Q
+
+Queja A.23
+
+R
+
+Recalificación de un instrumento de medición 2.16
+Reprobación o rechazo de un instrumento de medición 2.15
+Reciprocidad A.26
+Reconocimiento A.33
+Reconocimiento de una aprobación de modelo 2.07 Reconocimiento de la verificación 2.17
+Reconocimiento de resultados de la evaluación de conformidad A.33 Registro de eventos o auditoría 6.05
+Reglamentación de la metrológica legal 1.03 Requisito especificado A.6 Revisión A.14
+
+S
+
+Sellado 2.20
+Separación del software 6.02
+Sistema de la evaluación de conformidad A.4
+Sistema de medición 0.12
+Sistema Internacional de Unidades (SI) 0.02
+Sistema Internacional de Unidades 0.02
+Software en metrología legal 6.
+Supervisión metrológica 2.03
+Suspensión A.21
+
+T
+
+Terminal 5.10
+Términos fundamentales 0.
+Términos relativos a la evaluación de conformidad A.
+Transductor de medición 0.11
+Trato igualitario A.27
+Trato nacional e igualitario A.29
+Trato nacional A.28
+
+U
+
+Unidades de medida legales 1.06
+
+V
+
+Valor de una división 5.01
+Verificación de un instrumento de medición 2.09 Verificación primitiva 2.12
+Verificación inicial de instrumentos de medición utilizando el sistema de gestión de
+calidad del fabricante 2.23
+Verificación periódica obligatoria 2.14
+Verificación por muestreo 2.11
+Verificación subsecuente 2.13
+Vigilancia A.20
+20

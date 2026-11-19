@@ -1,0 +1,128 @@
+Resolución GMC N° 20/23
+Título: FARMACOPEA MERCOSUR: ESPECTROFOTOMETRÍA ULTRAVIOLETA Y VISIBLE
+Fecha de aprobación: 02/07/2023
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 95631_RES_020-2023_ES_Farmacopea Espectrofotometría UV Visible.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4562).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 20/23
+
+
+FARMACOPEA MERCOSUR:
+ESPECTROFOTOMETRÍA ULTRAVIOLETA Y VISIBLE
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Espectrofotometría ultravioleta y
+
+
+visible", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 29/XII/2023.
+
+
+LX GMC EXT. - Puerto Iguazú, 02/VII/23.
+
+
+ANEXO
+ESPECTROFOTOMETRÍA ULTRAVIOLETA Y VISIBLE
+
+La espectrofotometría ultravioleta y visible consiste en la medida de la absorción de las radiaciones electromagnéticas comprendidas en un intervalo espectral de 200 a 400 nm para la región ultravioleta y de 400 a 800 nm para la región visible.
+
+Las bandas del espectro del UV y visible generalmente son anchas y no poseen un alto grado de especificidad para la identificación de sustancias. Sin embargo, existen ensayos adecuados para su cuantificación y otros ensayos adicionales para su identificación.
+
+En la ley de Lambert-Beer la absorbancia (Aλ) de una solución a una longitud de onda dada, λ, es definida como el logaritmo en base 10 de la inversa de la transmitancia (Tλ):
+
+
+Iλ = intensidad de la radiación transmitida a la longitud de onda λ.
+
+Iλo = intensidad de la radiación incidente a la longitud de onda λ.
+
+En ausencia de algún otro factor físico o químico, Aλ es proporcional al camino óptico, b, atravesado por la radiación, y a la concentración de la sustancia en solución, c, de acuerdo con la fórmula siguiente:
+
+Aλ = ελcb
+
+ε λ = absortividad molar
+c = concentración de soluto
+b = camino óptico
+
+Si la concentración, c, es expresada en g/L, la constante ελ se denomina absortividad (aλ,).
+
+La expresión  representa la absorbancia específica de una sustancia disuelta, referida a la absorbancia de una solución de 10 g/L en una celda de 1 cm de camino óptico a una longitud de onda definida:
+
+
+Equipo - Consta de un sistema óptico capaz de producir luz monocromática en la región de 200 a 800 nm, un dispositivo para seleccionar una banda angosta de longitudes de onda, una celda para contener la muestra y un detector apropiado para determinar la absorbancia. Cuando se emplean aparatos de doble haz de luz, la celda que contiene el blanco se coloca en el haz de referencia.
+
+Las celdas empleadas para la solución muestra y el blanco deben tener las mismas características espectrales.
+Calificación del equipo - Los equipos empleados para registrar los espectros ultravioleta y visible indicados en la Farmacopea MERCOSUR deben cumplir con los siguientes ensayos:
+
+Verificación de la escala de longitud de onda - La escala de longitud de onda puede verificarse midiendo los máximos de absorbancia correspondientes a las líneas de emisión de una lámpara de hidrógeno a 486,10 nm o deuterio a 486,00 nm, o las líneas de un arco de vapor de mercurio a 253,70; 302,25; 313,16; 334,15; 365,48; 404,66; 435,83; 546,07; 576,96 y 579,07 nm y los máximos de absorbancia de una solución estándar de perclorato de holmio a 241,15; 287,15; 361,50 y 536,30 nm.  Pueden ser utilizados otros materiales de referencia certificados.
+La tolerancia permitida es de ± 1 nm para el ultravioleta y ± 3 nm para el visible.
+
+Control de absorbancias - Controlar la absorbancia usando filtros de referencia certificados o una solución de dicromato de potasio preparada como se indica a continuación:
+Solución de dicromato de potasio - Secar el dicromato de potasio a 130 °C hasta peso constante. Para el control de absorbancia a 235 nm, 257 nm, 313 nm y 350 nm, pesar exactamente entre 57,0 y 63,0 mg, disolver en ácido sulfúrico 0,005 M y diluir a 1000,0 mL con el mismo solvente.
+Registrar el espectro de la Solución de dicromato de potasio y determinar las absorbancias a las longitudes de onda especificadas en la Tabla. Los valores de  deben estar dentro de las tolerancias especificadas.
+
+Tabla
+Longitud de onda (nm)
+
+Tolerancia máxima
+235
+124,5
+122,9 a 126,2
+257
+144,0
+142,4 a 145,7
+313
+48,6
+47,0 a 50,3
+350
+106,6
+104,9 a 108,2
+
+Límite de luz parásita o espúrea - La luz parásita o espúrea puede ser detectada a una determinada longitud de onda acorde a los filtros o soluciones: por ejemplo, la absorbancia de una solución de cloruro de potasio al 1,2 %, medida a 200 nm con un camino óptico de 1 cm, empleando agua como blanco, debe ser mayor de 2. Pueden ser utilizados otros materiales de referencia certificados.
+
+Resolución (para análisis cualitativo) - Registrar el espectro de una solución de tolueno al 0,02 % v/v en hexano. La relación entre el máximo de absorbancia a 269 nm, y el mínimo a 266 nm no debe ser menor de 1,5.
+
+Asimismo, deben tenerse las siguientes precauciones:
+Ancho de rendija (para análisis cuantitativo) - Cuando se mide la absorbancia a un máximo de absorción y cuando se emplea un equipo con ancho de rendija variable a la longitud de onda seleccionada, el ancho de rendija debe ser pequeño comparado con la mitad del ancho de la banda de absorción. Sin embargo, debe ser lo más grande posible para obtener un valor alto de Io y debe ser tal que una reducción adicional no resulte en un aumento de la lectura de absorbancia.
+Celdas - Las absorbancias de las celdas de lectura, cuando se llenan con el mismo solvente, deben ser iguales. Si este no es el caso, debe aplicarse una corrección apropiada. La tolerancia en el camino óptico de las celdas empleadas es ± 0,005 cm. Las celdas deben limpiarse y manipularse con cuidado.
+Solventes - Cuando se mide la absorbancia de una solución a una longitud de onda determinada, la absorbancia de la celda de referencia y su contenido no debe ser mayor de 0,4 y es conveniente que sea menor de 0,2 cuando se mide en referencia al aire a la misma longitud de onda. El solvente en la celda de referencia debe ser del mismo lote que el empleado para preparar la solución muestra.
+
+Determinación de la absorbancia - A menos que se especifique de otro modo en la monografía individual, medir la absorbancia a la longitud de onda especificada empleando celdas de 1 cm de camino óptico y efectuar las medidas con referencia al solvente o solventes empleados para preparar la solución muestra. En caso de que las medidas se deban efectuar con referencia a una mezcla de reactivos, los detalles se describen en las monografías individuales.
+
+En ciertas ocasiones, las derivadas de primero y segundo orden o de un orden mayor de los espectros podrían ser de utilidad a fin de mejorar la resolución y/o sensibilidad. De la misma forma que en la espectrofotometría directa, la derivada puede ser correlacionada con la concentración del analito y emplearse para la cuantificación de sustancias.
+
+Cuando en una monografía se especifica la longitud de onda a la cual se presenta un máximo de absorción, implica que dicho máximo presenta una tolerancia de ± 2 nm.
+Cuando un ensayo indica el empleo de una Sustancia de referencia, se deben realizar las medidas espectrofotométricas con la solución preparada a partir de la Sustancia de referencia y con la solución correspondiente preparada a partir de la muestra. Efectuar las medidas en sucesión inmediata, empleando las mismas condiciones experimentales y de preferencia la misma celda.
+
+Identificación por medio de Sustancias de referencia - La solución de referencia y la solución muestra deben medirse en celdas de 1 cm de camino óptico, en el intervalo espectral comprendido entre 200 y 400 nm, a menos que se especifique de otro modo en la monografía individual. Disolver separadamente una cantidad de sustancia de referencia y de la muestra en el Solvente especificado para obtener soluciones de concentración conocida aproximadamente igual a la especificada en la monografía individual. Registrar en sucesión inmediata los espectros de la Solución de referencia y la Solución muestra.
+Calcular las absorbancias específicas y/o la relación de absorbancias según se especifique en la monografía individual. Los requisitos se cumplen cuando los espectros de absorción ultravioleta de la Solución muestra y la Solución referencia presentan máximos y mínimos a las mismas longitudes de onda, y las absorbancias específicas y/o la relación de absorbancias están dentro de los límites especificados en la monografía.
+
+
+2

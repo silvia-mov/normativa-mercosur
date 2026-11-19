@@ -1,0 +1,2590 @@
+Resolución GMC N° 57/96
+Título: BUENAS PRÁCTICAS DE FABRICACIÓN - SOLUCIONES PARENTERALES DE GRAN VOLUMEN
+Fecha de aprobación: 21/06/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 26444_RES_057-1996_ES_ModRes52_94.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1967).
+----------------------------------------------------------------------
+MERCOSUR/GMC/ RES Nº 57/96
+
+BUENAS PRACTICAS DE FABRICACION SOLUCIONES PARENTERALES DE GRAN VOLUMEN
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Resolución Nº 52/94 del Grupo Mercado Común y la Recomendación Nº 25/96 del SGT Nº 3 " Reglamentos Técnicos"
+
+CONSIDERANDO:
+
+	Que en la reunión ordinaria de la Comisión Productos para la Salud del SGT Nº 3, Reglamentos Técnicos, realizada en Montevideo del 10 al 13 de junio de 1996, se consideraron y aprobaron modificaciones al Documento A1/91 - Soluciones Parenterales de Gran Volumen referidas al Anexo A - Buenas Prácticas de Fabricación Soluciones Parenterales de Gran Volumen - Item A5 Guía para Inspecciones.
+
+	Que dicho Documento constituye el Anexo I de la Resolución Nº 52/94 del GMC - Soluciones Parenterales de Gran Volumen - Documento A1/91.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art. 1 Aprobar el Documento que constituye el Anexo I de la presente Resolución el cual reemplaza el item A5 del Anexo I de la Resolución Nº 52/94 GMC
+
+Art. 2 Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina: 	ANMAT - Administración Nacional de Medicamentos, Alimentos y Tecnología Médica.
+Brasil: 	Secretaria de Vigilancia Sanitaria del Ministerio de Salud.
+Paraguay: 	Dirección de Vigilancia Sanitaria del Ministerio de Salud Pública y Bienestar Social.
+Uruguay:	Ministerio de Salud Pública.
+
+Art. 3 La presente Resolución entrará en vigencia en el MERCOSUR el 30 de agosto de 1996.
+
+
+XXII GMC - Buenos Aires, 21/VI/1996
+
+
+DOCUMENTO A-1/91
+ANEXO A. BUENAS PRACTICAS DE FABRICACION SOLUCIONES PARENTERLES DE GRAN VOLUMEN
+
+A.5- GUIA PARA INSPECCIONES
+
+CRITERIOS DE CALIFICACION Y DE EVALUACION DE LA GUIA DE INSPECCIONES EN SOLUCIONES PARENTERALES DE GRAN VOLUMEN
+
+1. CALIFICACION
+El criterio establecido para la clasificación está basado en el riesgo potencial inherente a cada ítem en relación a la calidad y seguridad del producto y a la seguridad del trabajador en su interacción con los productos y procesos durante la fabricación.
+
+IMPRESCINDIBLE -I
+Se considera ítem IMPRESCINDIBLE aquel que atiende a las recomendaciones de buenas prácticas de fabricación y control, que puede influir en grado crítico en la calidad o seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+Se define por SÍ o NO
+
+NECESARIO-N
+Se considera ítem NECESARIO aquel que atiende las recomendaciones de Buenas Prácticas de Fabricación y Control, que puede influir en un grado menos crítico en la calidad o seguridad de los productos y en la seguridad de los trabajadores en su interacción con los productos durante la fabricación.
+
+Se define por SÍ o NO.
+
+El ítem NECESARIO, no cumplido en la  primera inspección será automáticamente tratado como IMPRESCINDIBLE en las inspecciones siguientes.
+
+RECOMENDABLE-R
+Se considera RECOMENDABLE aquel que atiende las Buenas Prácticas de Fabricación y Control, que puede influir en un grado no crítico en la calidad y seguridad de los productos y en la seguridad de los trabajadores en su interacción con los productos y procesos de fabricación.
+
+Se define por SÍ o NO.
+
+El ítem RECOMENDABLE, no cumplido en la primera inspección, será automáticamente tratado como NECESARIO en las inspecciones siguientes. No obstante, nunca será tratado como IMPRESCINDIBLE.
+
+INFORMATIVO-INF
+Se considera como ítem INFORMATIVO aquel que presenta una información descriptiva, que no afecta la calidad y seguridad de los productos y la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+Podrá ser respondido opcionalmente con SÍ o NO, o bajo  forma descriptiva.
+
+
+A-5.1
+Administración e informaciones generales
+
+   I
+A-5.1.1
+¿La empresa está legalmente constituida?
+¿Cuál es su razón social?
+
+Inf
+A-5.1.2
+¿Con quién fue hecho el contacto inicial?
+
+I
+A-5.1.3
+¿El farmacéutico responsable está presente?
+
+I
+A-5.1.4
+¿Existe prueba de su inscripción en el organismo competente?
+
+I
+A-5.1.5
+¿Existe autorización de funcionamiento para la empresa, emitida por el organismo sanitario nacional competente?
+
+I
+A-5.1.6
+¿La empresa posee autorización de los organismos competentes para funcionamiento, referente a su localización, a la protección ambiental y a la seguridad de sus instalaciones?
+
+N
+A-5.1.7
+¿Fueron examinados los planos de los edificios?
+
+Inf
+A-5.1.8
+¿Cuál es el área total del terreno?
+
+Inf
+A-5.1.9
+¿Cuál es el área total construida?
+
+Inf
+A-5.1.10
+¿Cuántos edificios componen el plano?
+
+Inf
+A-5.1.11
+¿Cuál es el área ocupada por el edificio?
+
+Inf
+A-5.1.12
+¿Cuántos funcionarios tiene la empresa?
+
+Inf
+A-5.1.13
+¿Cuántos funcionarios están directamente relacionados a las operaciones de producción?
+
+R
+A-5.1.14
+¿Fueron verificadas las fichas médicas de los funcionarios?
+
+I/R
+A-5.1.15
+¿Fue mostrada la lista de productos de propiedad de la empresa, discriminando los que están en comercialización y los que no están?
+
+I
+A-5.1.16
+¿Todos esos productos están debidamente registrados en el organismo sanitario nacional competente?
+
+Inf
+A-5.1.17
+¿Cuál es la capacidad de producción de la empresa por fórmula farmacéutica?
+
+Inf
+A-5.1.18
+¿Cuál es la capacidad de producción propia para cada producto fabricado en la empresa?
+
+Inf
+A-5.1.19
+¿Cuál es la capacidad de producción contratada a terceros para cada producto?
+OBS.: Como parte de la inspección, deben ser incluidas las empresas con las cuales son mantenidos contratos de producción, los productos y los respectivos volúmenes industrializados.
+
+
+Inf
+A-5.1.20
+¿Importa materia prima?
+
+Inf
+A-5.1.21
+¿Importa producto acabado?
+
+Inf
+A-5.1.22
+¿Exporta materia prima?
+
+Inf
+A-5.1.23
+¿Exporta producto acabado?
+
+
+A-5.2
+Depósito
+OBS.: Se debe llenar una guía general y una para cada depósito o almacén existente.
+
+
+A-5.2.1
+Condiciones Externas
+
+R
+A-5.2.1.1
+Con relación al aspecto externo, ¿el edificio presenta buena conservación? Está exento de rajaduras, pintura descascada e infiltraciones, etc.?
+
+R
+A-5.2.1.2
+Dentro de las dependencias de la empresa, ¿las áreas circundantes al edificio están limpias?
+
+R
+A-5.2.1.3
+¿Existe protección contra la entrada de roedores, insectos y aves?
+
+Inf
+A-5.2.1.4
+¿Existen fuentes de contaminación (industrias u otras) próximas al edificio?
+
+R
+A-5.2.1.5
+Si el depósito es un galpón, ¿las condiciones del tejado son buenas?
+
+R
+A-5.2.1.6
+¿Las vías de acceso al depósito son adecuadas?
+
+
+A-5.2.2
+Condiciones Internas
+
+R
+A-5.2.2.1
+¿El piso es adecuado?
+
+R
+A-5.2.2.2
+¿El estado de higiene y conservación del piso es bueno, sin agujeros y rajaduras?
+
+R
+A-5.2.2.3
+¿Es de fácil limpieza?
+
+R
+A-5.2.2.4
+¿Las paredes están bien conservadas y en buenas condiciones de higiene, sin rajaduras o pintura descascada?
+
+R
+A-5.2.2.5
+¿El techo está en buenas condiciones, sin rajaduras, goteras o pintura descascada?
+
+R
+A-5.2.2.6
+¿Existen cañerías sobre los materiales en stock? En caso positivo, están en buen estado, sin infiltraciones?
+
+
+A-5.2.3
+Aspectos Generales
+
+R
+A-5.2.3.1
+¿La iluminación es suficiente?
+
+R
+A-5.2.3.2
+¿La ventilación es adecuada?
+
+R
+A-5.2.3.3
+¿Las instalaciones eléctricas están en buenas condiciones?
+
+N
+A-5.2.3.4
+¿La temperatura del local está de acuerdo con las condiciones necesarias para el almacenamiento de insumos y productos acabados?
+ Medir y registrar la temperatura, en el momento de la inspección.
+
+R
+A-5.2.3.5
+Si existe la necesidad de humedad y temperatura controladas, ¿existen equipos indicadores de su vigilancia y registro de esos datos?
+
+N
+A-5.2.3.6
+¿No fueron notados indicios de presencia de roedores, insectos o aves en el local?
+
+R
+A-5.2.3.7
+¿Existe un sistema de combate a roedores, insectos y aves?
+
+R
+A-5.2.3.8
+¿Es utilizado?
+
+Inf
+A-5.2.3.9
+¿Quién es el responsable? Anote el nombre.
+
+Inf
+A-5.2.3.10
+¿Existen sanitarios en cantidad suficiente?
+
+R
+A-5.2.3.11
+¿Están limpios?
+
+Inf/R
+A-5.2.3.12
+¿Existe un lugar separado para el descanso, café, etc.? Está limpio?
+
+Inf
+A-5.2.3.13
+¿Existen vestuarios en cantidad suficiente?
+
+Inf
+A-5.2.3.14
+¿Están en el mismo edificio?
+
+R
+A-5.2.3.15
+¿Están limpios y organizados?
+
+N
+
+R
+A-5.2.3.16
+¿Los funcionarios están adecuadamente vestidos?
+¿Los uniformes están limpios y en buenas condiciones?
+
+I
+A-5.2.3.17
+Si hay necesidad, ¿existe cámara de refrigeración?
+
+N
+A-5.2.3.18
+¿La temperatura de la cámara está controlada y registrada?
+
+N
+A-5.2.3.19
+¿Las balanzas son controladas regularmente y calibradas periódicamente?
+
+R
+A-5.2.3.20
+¿Existen registros?
+
+R
+A-5.2.3.21
+¿La disposición del almacenamiento es correcta y racional, a fin de preservar la integridad e identidad de los materiales?
+
+R
+A-5.2.3.22
+¿Existen áreas físicamente separadas, o sistemas, que garanticen la adecuada segregación, de materias primas, material de embalaje, producto acabado y producto semi-acabado, cuando sea el caso?
+
+N
+A-5.2.3.23
+¿Existe un área o sistema que delimite y restrinja el uso de los materiales en cuarentena?
+
+N
+A-5.2.3.24
+Existe un área o sistema que delimite y restrinja el uso de materiales reprobados?
+
+N
+A-5.2.3.25
+¿Existe un área especial, separada, para el almacenamiento de etiquetas de papel?
+
+R
+A-5.2.3.26
+¿Existe un área o sistema para recepción y almacenamiento de los productos devueltos o recogidas del mercado?
+
+
+I
+A-5.2.3.27
+¿Existe un local para almacenamiento de productos inflamables y explosivos?
+
+Inf
+A-5.2.3.28
+¿Está situado en área externa?
+
+N
+A-5.2.3.29
+¿Ofrece condiciones de seguridad?
+
+R
+A-5.2.3.30
+¿Existen áreas separadas y seguras para substancias cáusticas y corrosivas?
+
+R
+A-5.2.3.31
+¿Existen recipientes propios para la recolección de basura?
+
+R
+A-5.2.3.32
+¿Están bien cerrados?
+
+R
+A-5.2.3.33
+¿Son vaciados frecuentemente?
+
+N
+A-5.2.3.34
+¿Existe equipo de seguridad para combatir incendios?
+
+R
+A-5.2.3.35
+¿Los accesos a extintores y mangueras están libres?
+
+
+A-5.3
+Instalaciones de Agua
+
+Inf
+
+¿La empresa utiliza agua potable?
+
+Inf
+
+¿La empresa utiliza agua purificada?
+
+Inf
+
+¿La empresa utiliza agua para inyectables?
+
+
+A-5.3.1
+Agua Potable
+
+Inf
+A-5.3.1.1
+¿Cuál es el origen del agua utilizada en la empresa?
+(   ) Red Pública
+(   ) Pozos Artesianos
+(   ) Semi-Artesianos
+(   ) ¿Otros? ¿Cuáles?
+
+Inf
+A-5.3.1.2
+¿Se realiza algún tratamiento al agua antes de ser almacenada?
+¿Cuál?
+
+N
+
+Inf
+R
+A-5.3.1.3
+¿Se realiza la limpieza de los tanques de agua?
+¿Con que frecuencia?
+¿Existen registros?
+
+R
+A-5.3.1.4
+¿Existen procedimientos escritos para la limpieza de los tanques de agua?
+¿Son utilizados?
+
+N
+
+Inf
+Inf
+R
+A-5.3.1.5
+¿Se realizan pruebas físico-químicas?
+¿Cuáles?
+¿Con que frecuencia?
+¿Existen registros?
+
+N
+
+Inf
+R
+A-5.3.1.6
+¿Se realizan exámenes testes bacteriológicos?
+¿Con que frecuencia?
+¿Existen registros?
+
+R
+A-5.3.1.7
+¿Son recolectadas muestras de agua en diversos puntos de la fábrica, inclusive en los bebederos, para efectuar conteo bacteriano?
+¿Existen registros?
+
+R
+
+
+Inf
+A-5.3.1.8
+¿Las cañerías utilizadas para transporte de agua potable están externamente en buen estado de conservación y limpieza?
+¿Cuál es el material de la cañería?
+
+R
+A-5.3.1.9
+¿El suministro de agua potable se hace bajo presión positiva continua, en un sistema libre de defectos?
+
+
+A-5.3.2
+Agua Purificada
+
+Inf
+
+¿El agua potable se utiliza como fuente de alimentación del agua purificada? ¿Cuál es el sistema utilizado?
+
+Inf
+A-5.3.2.1
+¿La industria posee equipo des-ionizador, para producción de agua purificada?
+¿Cuál es la capacidad en litros/hora?
+
+Inf
+A-5.3.2.2
+¿El agua que abastece al des-ionizador está tratada?
+¿Cómo?
+¿Cuál es la procedencia de esa agua?
+
+R
+
+Inf
+A-5.3.2.3
+¿Existe personal capacitado para operar el sistema?
+¿El responsable por la operación está presente?
+
+R
+A-5.3.2.4
+¿Existe manual de operación para el sistema?
+¿Es utilizado?
+
+N
+
+Inf
+R
+A-5.3.2.5
+¿Las resinas son regeneradas  con frecuencia?
+¿Cuál?
+¿Existen registros?
+
+Inf
+A-5.3.2.6
+Si el agua que abastece el des-ionizador es clorada, ¿existe un sistema para el retiro del cloro antes del des-ionizador?
+¿Cuál?
+
+Inf
+A-5.3.2.7
+¿Existe depósito para el agua des-ionizada?
+¿Cuál es la capacidad?
+¿Cuál es el material utilizado?
+¿Existe algún tratamiento para evitar la contaminación bacteriológica?
+¿Cuál es el consumo medio?
+
+N
+
+Inf
+Inf
+
+R
+A-5.3.2.8
+¿Se realizan tests físico-químicos?
+¿Cuáles?
+¿Con qué frecuencia?
+¿Existen registros?
+
+N
+
+Inf
+R
+A-5.3.2.9
+¿Se realizan tests bacteriológicos?
+¿Con qué frecuencia?
+¿Existen registros?
+
+Inf
+A-5.3.2.10
+¿La circulación del agua des-ionizada se realiza por cañerías?
+¿Cuál es el material de la cañería?
+
+Inf
+A-5.3.2.11
+¿El agua producida es utilizada como fuente de alimentación para sistema de producción de agua para inyectables?
+
+R
+
+Inf
+Inf
+R
+A-5.3.2.12
+¿Se realiza la desinfección del sistema?
+¿Cómo?
+¿Cuál es la frecuencia?
+¿Existen registros?
+
+R
+A-5.3.2.13
+¿Existen procedimientos escritos para la desinfección del sistema?
+¿Son utilizados?
+
+Inf
+
+Inf
+R
+A-5.3.2.14
+¿Se realiza el mantenimiento preventivo de los equipos del sistema?
+¿Con qué frecuencia?
+¿Existen registros?
+
+Inf
+A-5.3.2.15
+¿Existe algún tipo de filtro en el sistema?
+¿Cuál?
+
+R
+
+Inf
+R
+A-5.3.2.16
+¿Se realiza la desinfección de los medios filtrantes?
+¿Con que frecuencia?
+¿Existen registros?
+
+R
+
+
+A-5.3.2.17
+¿Existen procedimientos escritos para desinfección de los medios filtrantes?
+¿Son utilizados?
+
+R
+A-5.3.2.18
+¿Existen registros de recambio de los medios filtrantes?
+
+R
+A-5.3.2.19
+¿El sistema de purificación tiene validez?
+¿Existen registros?
+
+
+A-5.3.3
+Osmosis Reversa
+
+Inf
+A-5.3.3.1
+¿La industria posee equipo de agua para ósmosis reversa para producción de agua purificada?
+¿Cuál es la capacidad en litros/hora?
+
+Inf
+A-5.3.3.2
+¿El agua que abastece el sistema está tratada?
+¿Cómo?
+¿Cuál es la procedencia de esta agua?
+
+R
+Inf
+A-5.3.3.3
+¿Existe personal capacitado para operar el sistema?
+¿El responsable por la operación está presente?
+
+R
+A-5.3.3.4
+¿Existe un manual de operación del sistema?
+¿Se utiliza?
+
+Inf
+A-5.3.3.5
+¿Existe depósito para esta agua?
+¿Cuál es el consumo promedio?
+¿Cuál es el material utilizado?
+¿Cuál es la capacidad del depósito?
+Existe algún tratamiento para evitar la contaminación bacteriológica?
+
+N
+
+Inf
+Inf
+R
+A-5.3.3.6
+¿Se realizan tests físico-químicos?
+¿Cuáles?
+¿Con que frecuencia?
+¿Existen registros?
+
+N
+
+Inf
+R
+A-5.3.3.7
+¿Se realizan tests bacteriológicos?
+¿Con qué frecuencia?
+¿Existen registros?
+
+Inf
+A-5.3.3.8
+¿La circulación de esta agua se realiza por cañería?
+¿Cuál es el material de la cañería?
+
+Inf
+A-5.3.3.9
+¿El agua producida se utiliza como fuente de alimentación para sistema de producción de agua para inyectables?
+
+R
+
+Inf
+Inf
+R
+A-5.3.3.10
+¿Se realiza la desinfección del sistema?
+¿Cómo?
+¿Con qué frecuencia?
+¿Existen registros?
+
+R
+A-5.3.3.11
+¿Existen procedimientos escritos para la desinfección del sistema?
+¿Son utilizados?
+
+Inf
+
+
+A-5.3.3.12
+¿Se realiza el mantenimiento preventivo de los equipos del sistema?
+¿Con qué frecuencia?
+¿Existen registros?
+
+Inf
+A-5.3.3.13
+¿Existe algún tipo de filtro en el sistema?
+¿Cuál?
+
+R
+
+Inf
+R
+A-5.3.3.14
+¿Se realiza la desinfección de los medios filtrantes?
+¿Con qué frecuencia?
+¿Existen registros?
+
+R
+A-5.3.3.15
+¿Existe procedimiento escrito para la desinfección de los medios filtrantes?
+¿Se utiliza?
+
+R
+A-5.3.3.16
+¿Existen registros de recambio de los medios filtrantes?
+
+R
+A-5.3.3.17
+¿El sistema de purificación tiene validez?
+¿Existen registros?
+
+
+A-5.3.3
+Agua para Inyectables
+
+I
+A-5.3.3.1
+¿La industria posee un sistema para producción de agua para inyectables según metodologías establecidas por las ediciones vigentes de la Farmacopea Europea o de la Farmacopea de los Estados Unidos de América?
+
+Inf
+
+¿Cuál es el sistema? ¿Cuál es su capacidad en litros/hora?
+
+Inf
+A-5.3.3.2
+¿El agua que abastece el sistema es purificada?
+
+Inf
+
+¿Cuál es el sistema de purificación?
+
+R
+A-5.3.3.3
+¿Existe personal capacitado para operar el sistema?
+
+Inf
+
+¿El responsable de la operación está presente?
+
+R
+A-5.3.3.4
+¿Existe manual de operación para el sistema?
+
+R
+
+¿Se utiliza?
+
+Inf
+A-5.3.3.5
+¿Existe depósito de agua para inyectables?
+
+Inf
+
+¿Cuál es la capacidad del depósito?
+
+Inf
+
+¿Cuál es el material utilizado?
+
+Inf
+
+¿Cuál es el consumo medio?
+
+Inf
+A-5.3.3.6
+¿El agua producida se utiliza inmediatamente?
+
+Inf
+
+De no ser así, ¿por cuánto tiempo se almacena?
+
+Inf
+
+¿A qué temperatura?
+
+R
+
+¿Existe recirculación de esa agua?
+
+N
+A-5.3.3.7
+¿Existe algún procedimiento para evitar la contaminación?
+
+Inf
+
+¿Cuál?
+
+N
+A-5.3.3.8
+¿Se realizan tests físico-químicos?
+
+Inf
+
+¿Cuáles?
+
+Inf
+
+¿Con qué frecuencia?
+
+N
+
+¿Existen registros?
+
+N
+A-5.3.3.9
+¿Se realizan tests bacteriológicos?
+
+Inf
+
+¿Con que frecuencia?
+
+N
+
+¿Existen registros?
+
+N
+A-5.3.3.10
+¿Se realiza test de pirógeno o de endotoxinas?
+
+Inf
+
+¿Con qué frecuencia?
+
+N
+
+¿Existen registros?
+
+Inf
+A-5.3.3.11
+¿La circulación de esta agua se realiza a través de cañerías?
+
+Inf
+
+¿Cuál es el material de la cañería?
+
+Inf
+N
+
+
+N
+A-5.3.3.12
+
+A-5.3.3.13
+
+
+A-5.3.3.14
+¿Existe un monitoreo continuo de la calidad del Agua para Inyectables?
+¿Existe un sistema que impida la utilización del agua si estuviera fuera de las especificaciones?
+¿El Control de Calidad verifica si el sistema funciona adecuadamente?
+¿Existen registros?
+
+N
+A-5.3.3.15
+¿Se realiza la desinfección del sistema?
+
+Inf
+
+¿Cómo?
+
+Inf
+
+¿Con qué frecuencia?
+
+N
+
+¿Existen registros?
+
+R
+A-5.3.3.16
+¿Existen procedimientos escritos para la desinfección del sistema?
+
+
+¿Se utilizan?
+
+
+R
+A-5.3.3.17
+¿Se realiza mantenimiento preventivo de los equipos del sistema?
+
+Inf
+
+¿Con qué frecuencia?
+
+R
+
+¿Existen registros?
+
+N
+A-5.3.3.18
+¿El sistema de producción de agua para inyectables tiene validez, de tal forma que garantice el cumplimiento de las especificaciones establecidas por las ediciones vigentes de la Farmacopea Europea o Farmacopea de los Estados Unidos de América?
+
+N
+
+¿Existen registros?
+
+
+A-5.4
+Recepción y Almacenamiento
+
+
+A-5.4.1
+Materia prima y Recipientes
+
+R
+A-5.4.1.1
+En la recepción, ¿las materias primas y recipientes son examinados visualmente para verificar si sufrieron daños durante el transporte?
+
+R
+A-5.4.1.2
+¿Existen documentos adecuados para registrar su recepción?
+
+R
+A-5.4.1.3
+¿Están debidamente completados?
+
+N
+A-5.4.1.4
+¿En el momento de la recepción, cada lote de materia prima y recipientes recibe un número de registro?
+
+N
+A-5.4.1.5
+¿Ese número se usa para identificar la materia prima y recipientes durante toda  su utilización?
+
+N
+A-5.4.1.6
+Las materias primas y recipientes permanecen en cuarentena hasta su autorización por el Control de Calidad?
+
+N
+A-5.4.1.7
+¿Existen etiquetas apropiadas para la identificación de las materias primas y recipientes en cuarentena?
+
+N
+A-5.4.1.8
+¿Las etiquetas de identificación, cuarentena, aprobación, etc. se fijan al cuerpo del embalaje y no sobre la tapa?
+
+N
+A-5.4.1.9
+Todas las materias primas y recipientes sin excepción, son verificados por el Control de Calidad, de acuerdo con sistemas adecuados y confiables?
+
+N
+A-5.4.1.10
+Las materias prima y recipientes aprobados y etiquetados como tal son inmediatamente transferidos para las áreas normales de almacenaje en caso de no existir un sistema adecuado de segregación?
+
+N
+A-5.4.1.11
+¿Las materias primas y recipientes reprobados son debidamente identificados y segregados?
+
+R
+A-5.4.1.12
+¿La disposición del almacenamiento es adecuada y racional, a fin de preservar la identidad y la integridad de las materias primas y recipientes?
+
+Inf
+A-5.4.1.13
+¿Existen fichas de stock para cada material almacenado?
+
+Inf
+A-5.4.1.14
+¿Existe otro sistema adecuado para el control de stock? ¿Cuál?
+
+R
+A-5.4.1.15
+¿Es funcional?
+
+R
+A-5.4.1.16
+¿Los embalajes, tambores, barricas, cajas, etc. están adecuadamente cerrados?
+
+R
+A-5.4.1.17
+¿El uso de materias primas y recipientes respeta el orden de entrada utilizándose primero la entrada más antigua?
+
+Inf
+A-5.4.1.18
+¿Existen recipientes para basura?
+
+R
+
+- ¿Están identificados?
+
+R
+
+- ¿Están bien cerrados?
+
+R
+
+- ¿Son vaciados con frecuencia?
+
+
+A-5.4.2
+Material de Embalaje
+
+R
+A-5.4.2.1
+¿El material de embalaje se examina en forma visual cuando llega, para verificar si sufrió daños durante el transporte?
+
+R
+A-5.4.2.2
+¿Existen documentos apropiados para su recepción?
+
+N
+A-5.4.2.3
+¿Están debidamente completados?
+
+N
+A-5.4.2.4
+¿El material de embalaje se conserva en cuarentena hasta  su autorización por el Control de Calidad?
+
+N
+A-5.4.2.5
+¿Existen etiquetas apropiadas para identificación del material de embalaje en cuarentena?
+
+N
+A-5.4.2.6
+¿Los materiales de embalaje son todos, sin excepción, verificados por el Control de Calidad, de acuerdo a sistemas adecuados y confiables?
+
+N
+A-5.4.2.7
+¿Los materiales de embalaje aprobados reciben etiquetas de identificación y son llevados inmediatamente para las áreas normales de almacenamiento en caso de no existir un sistema adecuado de segregación?
+
+N
+A-5.4.2.8
+¿Los materiales de embalaje rechazados son claramente identificados y segregados en locales apropiados?
+
+R
+A-5.4.2.9
+¿La disposición de almacenamiento es adecuada y racional, a fin de preservar la integridad e identidad de los materiales?
+
+Inf
+A-5.4.2.10
+¿Existen fichas de stock para cada material almacenado?
+
+Inf
+A-5.4.2.11
+¿Existe otro sistema adecuado de control de stock?
+
+R
+A-5.4.2.12
+¿Es funcional?
+
+ N
+A-5.4.2.13
+¿Existe un área destinada al almacenaje de etiquetas de papel?
+
+N
+A-5.4.2.14
+¿En esa área, se permite solamente la entrada de personas autorizadas?
+
+R
+A-5.4.2.15
+¿El uso del material se hace por orden de llegada, o sea, se utiliza el más antiguo en primer lugar?
+
+R
+A-5.4.2.16
+¿Los embalajes están bien cerrados?
+
+Inf
+A-5.4.2.17
+¿Existen recipientes para basura?
+
+R
+
+¿Están identificados?
+
+R
+
+¿Están bien cerrados?
+
+R
+
+¿Son vaciados con frecuencia?
+
+
+A-5.4.3
+Producto Acabado
+
+N
+A-5.4.3.1
+¿Los productos están almacenados en área física propia, separados de otros materiales?
+
+N
+A-5.4.3.2
+¿Existen áreas o sistemas que garanticen la cuarentena de productos hasta la autorización por el Control de Calidad?
+
+Inf
+A-5.4.3.3
+¿Los productos están identificados adecuadamente como "en cuarentena" en caso de no existir un área o sistema que garantice la manutención de los mismos?
+
+N
+A-5.4.3.4
+¿Existe un sistema eficaz que evite la expedición de productos en cuarentena?
+
+R
+A-5.4.3.5
+¿El local está limpio?
+
+R
+A-5.4.3.6
+¿Está bien ventilado?
+
+R
+A-5.4.3.7
+¿Está bien iluminado?
+
+R
+A-5.4.3.8
+Si existe necesidad de mantener valores prefijados de humedad y temperatura, ¿los mismos son controlados?
+Verificar los registros durante la inspección.
+
+R
+A-5.4.3.9
+¿Existen registros de productos recibidos?
+
+R
+A-5.4.3.10
+¿Se mantienen registros de productos expedidos?
+
+R
+A-5.4.3.11
+¿La salida de los productos del área obedece a un orden cronológico de entrada?
+
+R
+A-5.4.3.12
+¿Los productos están separados con espacio suficiente entre sí, a fin de evitar posibles mezclas entre lotes o productos?
+
+R
+A-5.4.3.13
+¿Los productos son apilados con seguridad?
+
+R
+A-5.4.3.14
+¿Los productos están almacenados sin contacto directo con el piso?
+
+R
+A-5.4.15
+¿Existe un espacio adecuado entre los productos y las paredes para facilitar la inspección, limpieza y conservación?
+
+R
+A-5.4.3.16
+¿Las áreas están protegidas contra la entrada de roedores, insectos y aves?
+
+R
+A-5.4.3.17
+¿Existe un programa de control de roedores, insectos y aves?
+
+I
+A-5.4.3.18
+¿Existe un local para el almacenamiento de productos que necesitan bajas temperaturas, si fuera el caso?
+
+R
+A-5.4.3.19
+¿Las superficies del piso, paredes y techos son de fácil limpieza?
+
+N
+A-5.4.3.20
+¿Todos los productos almacenados tienen el número de lote visiblemente identificado en sus cajas y frascos?
+
+N
+A-5.4.3.21
+¿Todos los productos almacenados tienen la fecha de vencimiento claramente identificada en sus cajas y frascos?
+
+N
+A-5.4.3.22
+¿Todos los productos almacenados están dentro de su plazo de validez?
+
+N
+A-5.4.3.23
+¿Los productos vencidos son inmediatamente retirados de stock?
+
+R
+A-5.4.3.24
+¿Existe un control de distribución a nivel primario de los productos expedidos, de modo de permitir la identificación de destino y, si fuera necesario,  su recuperación?
+
+
+A-5.4.4
+Devoluciones y/o Retiro de Productos
+
+R
+A-5.4.4.1
+¿Existe un protocolo adecuado que acompaña al producto devuelto?
+
+R
+A-5.4.4.2
+¿Existe un área o sistema para la recepción y almacenaje de los productos devueltos o retirados del mercado?
+
+R
+A-5.4.4.3
+¿Estos productos son identificados como tales?
+
+R
+A-5.4.4.4
+¿Se toman cuidados especiales, por parte de las personas responsables, con relación a esas devoluciones?
+
+N
+A-5.4.4.5
+¿Se avisa inmediatamente al Control de Calidad  sobre la recepción de un producto devuelto o retirado del mercado?
+
+N
+A-5.4.4.6
+¿Se toman providencias inmediatas en cuanto a la destrucción o recuperación del lote en cuestión, conforme a la decisión del Control de Calidad?
+
+
+N
+A-5.4.4.7
+¿Se avisa a las personas responsables sobre los problemas ocurridos, para que se tomen las medidas necesarias y para que no haya reincidencia en otros lotes del mismo producto?
+
+R
+A-5.4.4.8
+¿Se registran los resultados de las inspecciones y análisis?
+
+R
+A-5.4.4.9
+¿Se registran debidamente todas las decisiones tomadas ?
+
+R
+A-5.4.4.10
+¿La empresa establece y mantiene procedimientos para el pronto retiro de productos del mercado?
+
+R
+A-5.4.4.11
+¿Existe una persona responsable, designada para la coordinación y ejecución de este procedimiento?
+
+R
+A-5.4.4.12
+¿Se mantienen registros sobre el retiro de productos del mercado, así como sobre  sus causas?
+
+I
+A-5.4.4.13
+En caso de retiro de productos por desvíos de calidad, ¿las autoridades competentes del País y del/los (demás) país(es) son informadas inmediatamente?
+
+R
+A-5.4.4.14
+¿Los registros de distribución a nivel primario de los productos quedan disponibles para una pronta acción de retiro del mercado?
+
+R
+A-5.4.4.15
+¿Esos registros contienen informaciones que permiten el rastreo y la determinación de cuáles son los destinatarios resultantes de esa distribución primaria?
+
+R
+A-5.4.4.16
+¿Existen informes conclusivos sobre todo el proceso de retiro y el destino de cada uno de esos productos?
+
+
+A-5.5
+Producción
+
+
+A-5.5.1
+Personal
+
+Inf
+A-5.5.1.1
+¿Quién es el responsable por la producción?
+
+Inf
+A-5.5.1.2
+¿Cuál es su nivel profesional?
+
+R
+A-5.5.1.3
+¿Posee la calificación y competencia necesarias para ejercer esta función?
+
+R
+A-5.5.1.4
+¿Existe un organigrama?
+
+Inf
+A-5.5.1.5
+¿Existe personal técnico y especializado en número suficiente?
+
+R
+A-5.5.1.6
+¿Existe un programa de instrucción para el personal?
+
+N
+A-5.5.1.7
+¿La admisión de personal está precedida de un examen médico?
+
+R
+A-5.5.1.8
+¿Ese examen se repite periódicamente?
+
+I
+A-5.5.1.9
+¿El personal, cuyo estado de salud sea dudoso, se aleja inmediatamente de su lugar de trabajo hasta que se haya recuperado?
+
+
+A-5.5.2
+Condiciones Generales de las Areas de Producción
+
+
+Llenar un formulario por edificio
+
+R
+A-5.5.2.1
+¿El exterior del edificio se encuentra en buen estado?
+
+Inf
+A-5.5.2.2
+¿Las áreas circundantes del edificio están limpias y sin basura?
+
+R
+A-5.5.2.3
+¿El techo, las paredes y las ventanas están en buenas condiciones?
+
+Inf
+A-5.5.2.4
+¿Existen industrias contaminantes en los alrededores del edificio?
+
+N
+A-5.5.2.5
+¿Existe protección contra la entrada de roedores, insectos y aves?
+
+N
+A-5.5.2.6
+¿Las áreas de producción están limpias?
+
+R
+A-5.5.2.7
+¿Existe un programa escrito sobre limpieza?
+
+I
+A-5.5.2.8
+¿Está prohibido comer, beber y fumar en las áreas de producción?
+
+Inf
+A-5.5.2.9
+¿Existen vestuarios en cantidad suficiente?
+
+Inf
+A-5.5.2.10
+¿Existen sanitarios en cantidad suficiente?
+
+N
+A-5.5.2.11
+¿Los sanitarios y vestuarios están limpios y bien organizados?
+
+Inf
+A-5.5.2.12
+¿Existe cantina y/o restaurante?
+
+Inf
+A-5.5.2.13
+¿Existen normas escritas de seguridad?
+
+R
+
+¿Son cumplidas?
+
+R
+A-5.5.2.14
+¿Los extintores y el sistema de agua para incendios están localizados correctamente ?
+
+N
+A-5.5.2.15
+¿El personal está usando uniformes y zapatos apropiados para el trabajo?
+
+N
+A-5.5.2.16
+¿En las áreas de producción solamente entran personas con ropas apropiadas?
+
+R
+A-5.5.2.17
+¿Los pisos son los adecuados para cada área específica de trabajo?
+
+N
+A-5.5.2.18
+¿Existe protección contra la entrada de roedores, insectos y aves?
+
+R
+A-5.5.2.19
+Existe un programa de combate contra roedores, insectos y aves?
+
+R
+A-5.5.2.20
+¿La circulación interna es adecuada?
+
+R
+A-5.5.2.21
+¿La iluminación del área de circulación es suficiente?
+
+R
+A-5.5.2.22
+¿La ventilación del área de circulación es suficiente?
+
+R
+A-5.5.2.23
+¿El sistema de saneamiento es adecuado?
+
+N
+A-5.5.2.24
+¿Las rejillas poseen sifones?
+
+N
+A-5.5.2.25
+¿Son desinfectados frecuentemente?
+
+R
+A-5.5.2.26
+¿Las instalaciones eléctricas están en buenas condiciones?
+
+R
+A-5.5.2.27
+¿Las cañerías de agua, vapor, gas, aire comprimido, electricidad, etc., están debidamente identificadas?
+
+R
+A-5.5.2.28
+¿Las cañerías no presentan puntos muertos?
+
+R
+A-5.5.2.29
+¿Las paredes y techos están revestidos de material fácilmente lavable?
+
+R
+A-5.5.2.30
+¿Las paredes, techos y pisos están libres de rajaduras y no presentan pintura descascada?
+
+R
+A-5.5.2.31
+¿Los recipientes para recolección de basura, existentes en los diferentes sectores, están bien tapados?
+
+R
+A-5.5.2.32
+¿Se vacían frecuentemente?
+
+Inf
+A-5.5.2.33
+¿Cuál es el área, en metros cuadrados, ocupada para la producción farmacéutica, excluyendo los depósitos?
+
+Inf
+A-5.5.2.34
+¿Cuál es el número de funcionarios del sector de producción?
+
+Inf
+A-5.5.2.35
+¿Cuál es al relación de personas por m( de área?
+
+R
+A-5.5.2.36
+¿Existe un sistema para controlar la entrada de personal no autorizado en las áreas generales de producción?
+
+
+A-5.5.3
+Sector de Pesaje
+
+N
+A-5.5.3.1
+¿El área está físicamente segregada de las demás dependencias por paredes u otro tipo de separación?
+
+N
+A-5.5.3.2
+¿Los materiales usados para el pesaje  (recipientes, espátulas, pipetas, etc.) están limpios?
+
+R
+A-5.5.3.3
+¿Estos materiales son guardados en lugar limpio?
+
+N
+A-5.5.3.4
+¿Las balanzas son controladas regularmente y calibradas periódicamente?
+
+R
+A-5.5.3.5
+¿Existen registros de estos sistema de calibrado y control?
+
+N
+A-5.5.3.6
+¿Se usan equipos de protección (guantes, anteojos, gorros, máscaras, etc.) cuando son necesarios durante el pesaje?
+
+N
+A-5.5.3.7
+¿Los recipientes que contienen la materia prima a ser pesada, se limpian antes de ser abiertos?
+
+N
+A-5.5.3.8
+¿Después del pesaje esos recipientes se cierran bien?
+
+N
+A-5.5.3.9
+Luego del pesaje, los materiales son identificados inmediatamente a fin de evitar mezclas?
+
+
+A-5.5.3.10
+En esa identificación constan:
+
+N
+A-5.5.3.10.1
+Nombre y número del lote del producto, al cual se destina la materia prima.
+
+N
+A-5.5.3.10.2
+Nombre y número del lote de la materia prima.
+
+N
+A-5.5.3.10.3
+Cantidad que fue pesada.
+
+R
+A-5.5.3.10.4
+Control de pesaje con el visto del funcionario que pesó y del que controló el peso.
+
+N
+A-5.5.3.11
+¿Los funcionarios están con uniformes limpios?
+
+N
+A-5.5.3.12
+¿El área se ventila adecuadamente?
+
+N
+A-5.5.3.13
+¿Posee algún sistema de extractor de aire?
+
+N
+A-5.5.3.14
+¿El área está iluminada adecuadamente?
+
+N
+A-5.5.3.15
+¿Existe separación física entre los materiales ya pesados  para cada lote de producto?
+
+Inf
+A-5.5.3.16
+¿El área posee un lugar propio para lavado de utensilios de pesaje?
+
+Inf
+A-5.5.3.17
+¿Los recipientes usados en el pesaje de materias primas son reutilizados?
+
+N
+
+En ese caso, ¿están adecuadamente limpios y libres de identificaciones anteriores?
+
+R
+A-5.5.3.18
+¿Las materias primas más antiguas son usadas en primer término?
+
+
+A-5.5.4
+Sector de Preparación de Soluciones
+
+R
+A-5.5.4.1
+¿El área ocupada es adecuada para el volumen de las operaciones?
+
+Inf
+A-5.5.4.2
+¿Cuál es el área, en metros cuadrados, ocupada por el sector?
+
+Inf
+A-5.5.4.3
+¿Cuál es el número de funcionarios existentes en el sector?
+
+Inf
+A-5.5.4.4
+Cuál es el número de funcionarios por m2  de superficie?
+
+Inf
+A-5.5.4.5
+¿La distribución de los equipos está ordenada, racional y adecuadamente al volumen de operaciones?
+
+N
+A-5.5.4.6
+ Cuando es necesario, ¿se usan gorros, guantes, máscaras y protectores oculares?
+
+N
+A-5.5.4.7
+¿Los uniformes son utilizados exclusivamente en esa área? ¿Son lavados con procedimientos adecuados, bajo responsabilidad de la empresa?
+
+R
+A-5.5.4.8
+¿Existe en el local un sistema de renovación de aire?
+
+I
+A-5.5.4.9
+¿Existe un procedimiento de fabricación a ser seguido, que sea copia fiel de la fórmula estándar?
+
+N
+A-5.5.4.10
+¿Las instrucciones contenidas en el procedimiento de fabricación son seguidas  con exactitud?
+
+N
+A-5.5.4.11
+¿Cada etapa crítica de la producción recibe el visto bueno del operador y del supervisor inmediato?
+
+N
+A-5.5.4.12
+¿Todos los recipientes usados en la producción de un lote están identificados de acuerdo con su contenido y con el número del lote o sublote, a fin de evitar mezclas?
+
+
+N
+A-5.5.4.13
+Todos los equipos usados en la fabricación de un lote están identificados?
+
+N
+A-5.5.4.14
+¿Después de usados, todos los utensilios, equipos y recipientes son lavados y, si fuera necesario, esterilizados y conservados así, hasta ser nuevamente usados?
+
+N
+A-5.5.4.15
+¿Se identifican con etiquetas que aseguren esa condición?
+
+N
+A-5.5.4.16
+¿Existe una adecuada separación física entre los equipos para evitar mezcla o contaminación cruzada, cuando se realiza fabricación simultánea de lotes de diferentes productos?
+
+N
+A-5.5.4.17
+¿Se efectúan controles durante el proceso de fabricación a fin de garantizar la calidad del lote?
+
+N
+A-5.5.4.18
+¿Existen registros, por escrito, de esos controles?
+
+
+A-5.5.4.19
+¿Los tanques, conteniendo el producto a ser envasado, están cerrados e identificados con, por lo menos, los siguientes datos:
+
+N
+A-5.5.4.19.1
+Nombre del producto;
+
+N
+A-5.5.4.19.2
+Número del lote o sublote;
+
+N
+A-5.5.4.19.3
+Cantidad de solución contenida en el tanque;
+
+N
+A-5.5.4.20
+¿Los tanques, conteniendo la solución a ser envasada, son manipulados de modo de garantir que no haya contaminación del producto?
+
+R
+A-5.5.4.21
+¿Existen instrucciones escritas para especificar la porosidad que deberá ser usada para el filtrado final de los productos?
+
+R
+A-5.5.4.22.
+¿Estas instrucciones contienen el tiempo máximo de utilización de estos filtros?
+
+N
+
+Inf
+N
+A-5.5.4.23
+
+A-5.5.4.23.1
+A-5.5.4.23.2
+¿Se realizan ensayos para determinar la integridad de los filtros?
+¿Cuáles?
+¿Existen registros?
+
+
+A-5.5.5
+Sector de Lavado de Recipientes de Vidrio
+
+N
+A-5.5.5.1
+¿Existe un local separado para lavado  de los recipientes de vidrio?
+
+Inf
+A-5.5.5.2
+¿El área ocupada es la adecuada para el volumen de las operaciones?
+
+Inf
+A-5.5.5.3
+¿Los equipos son adecuados y su distribución es ordenada y racional con relación al volumen de las operaciones?
+
+R
+A-5.5.5.4
+¿El área de circulación está libre de obstáculos?
+
+N
+A-5.5.5.5
+¿Los uniformes utilizados son los adecuados?
+
+N
+
+¿Están limpios y en buenas condiciones?
+
+R
+
+¿Se usan exclusivamente en las dependencias del área productiva?
+
+R
+A-5.5.5.6
+¿Las máquinas para lavar recipientes de vidrio poseen presión suficiente para cumplir su finalidad?
+
+Inf
+A-5.5.5.7
+¿Cuál es la clase de agua utilizada en la alimentación de las máquinas de lavado de los frascos?
+
+
+R
+A-5.5.5.8
+¿Existe algún tipo de filtro en el sistema de lavado de los recipientes?
+
+N
+A-5.5.5.9
+¿Los recipientes lavados y secos son transferidos con seguridad para el área de envasado, evitando una posible contaminación?
+
+Inf
+A-5.5.5.10
+¿Los recipientes lavados y secos son debidamente identificados como tales?
+
+
+A-5.5.6
+Sector de Envasado
+
+I
+A-5.5.6.1
+¿Existen áreas de ambiente controlado para envasado de los frascos?
+
+Inf
+A-5.5.6.1.1
+Indicar la clasificación de la sala de envasado.
+
+Inf
+A-5.5.6.1.2
+Indicar la clasificación del área sobre la línea de envasado.
+
+R
+A-5.5.6.2
+¿El área ocupada es adecuada para el volumen de las operaciones?
+
+Inf
+A-5.5.6.3
+¿La distribución de los equipos es ordenada y racional?
+
+N
+A-5.5.6.4
+¿Los funcionarios están adecuadamente uniformados y limpios?
+
+N
+A-5.5.6.5
+¿Todos usan gorros, guantes y máscaras?
+
+N
+A-5.5.6.6
+¿Los uniformes son específicos para el área de envasado?
+
+N
+A-5.5.6.7
+¿Se lavan con procedimientos adecuados, bajo la responsabilidad de la empresa?
+
+R
+A-5.5.6.8
+¿Existen vestuarios específicos para el ingreso a esta área?
+
+N
+A-5.5.6.9
+¿Existe  sistema de filtración de aire?
+
+N
+
+R
+A-5.5.6.10
+¿La eficiencia de los filtros se verifica con frecuencia?
+ ¿Existen registros?
+
+N
+A-5.5.6.11
+¿La sala posee presión positiva de aire?
+
+N
+A-5.5.6.12
+¿Se realizan controles frecuentes del volumen de envasado?
+
+Inf
+A-5.5.6.13
+¿El Control de Calidad verifica frecuentemente el volumen de los recipientes?
+
+R
+A-5.5.6.14
+¿Existe registro, por escrito, de esas verificaciones?
+
+N
+A-5.5.6.15
+¿La entrada del personal al área está debidamente controlada?
+
+
+A-5.5.7
+Sector de Esterilización
+
+R
+A-5.5.7.1
+¿Las autoclaves están adecuadamente identificadas?
+
+N
+A-5.5.7.2
+¿Existen registradores de presión y temperatura?
+
+N
+A-5.5.7.3
+¿Existen registros, por escrito, de esos datos?
+
+N
+A-5.5.7.4
+¿Existen instrucciones por escrito, sobre el tiempo y la temperatura de esterilización en autoclaves?
+
+N
+A-5.5.7.5
+¿Se realizan, periódicamente, ensayos físicos y biológicos para la verificación del funcionamiento de las autoclaves?
+
+N
+A-5.5.7.6
+¿Existen registros por escrito?
+
+N
+A-5.5.7.7
+Si los recipientes envasados no estuvieran identificados, ¿los carros que los contienen están debidamente identificados?
+
+R
+A-5.5.7.8
+Después de la esterilización en autoclave, ¿existe alguna prueba para verificar si los frascos están bien cerrados?
+
+Inf
+A-5.5.7.9
+¿El área ocupada por las autoclaves es la adecuada al volumen de las operaciones?
+
+R
+A-5.5.7.10
+¿La distribución de los equipos es ordenada y racional?
+
+N
+A-5.5.7.11
+¿Los funcionarios están adecuadamente uniformados?
+
+N
+A-5.5.7.12
+¿Todos usan gorros y, si fuera necesario, guantes especiales?
+
+N
+A-5.5.7.13
+¿Existe sistema para identificación de los productos no esterilizados  de los ya esterilizados?
+
+
+A-5.5.8
+Sector de Inspección, Etiquetado y Embalaje
+
+I
+A-5.5.8.1
+¿Existe inspección de recipientes envasados y esterilizados?
+
+Inf
+A-5.5.8.2
+¿El método de inspección utilizado es el adecuado?
+
+N
+A-5.5.8.3
+ ¿Los recipientes ya inspeccionados están debidamente identificados?
+
+N
+A-5.5.8.4
+¿El acceso a las etiquetas sólo está permitido a personas debidamente autorizadas?
+
+N
+A-5.5.8.5
+¿Las etiquetas son inspeccionadas individualmente antes de ser entregadas a la línea de embalaje?
+
+N
+A-5.5.8.6
+¿Las máquinas rotuladoras son inspeccionadas, antes del uso, para que no haya etiquetas de productos/lotes anteriores?
+
+N
+A-5.5.8.7
+¿Los sobrantes de etiquetas selladas son destruidas inmediatamente después de la finalización del embalaje?
+
+N
+A-5.5.8.8
+¿El responsable por el stock de etiquetas verifica la cantidad devuelta y la almacena cuidadosamente, a fin de evitar mezclas?
+
+Inf
+A-5.5.8.9
+¿Existe un lugar especial para embalaje final de productos?
+
+Inf
+A-5.5.8.10
+¿El área ocupada es adecuada al volumen de operaciones?
+
+N
+A-5.5.8.11
+¿La separación entre las líneas de embalaje es suficiente, como para evitar mezclas de productos diferentes o de lotes diferentes del mismo producto?
+
+R
+A-5.5.8.12
+¿El área de circulación está libre?
+
+R
+A-5.5.8.13
+¿Los operadores están debidamente uniformados?
+
+R
+A-5.5.8.14
+¿Todos usan gorros y, si fuera necesario, guantes, máscaras y anteojos de protección?
+
+R
+A-5.5.8.15
+¿La ventilación del local es suficiente?
+
+R
+A-5.5.8.16
+¿Las condiciones de seguridad del local son adecuadas?
+
+N
+A-5.5.8.17
+¿Las líneas de embalaje son verificadas, para que no haya material sobrando de productos/lotes anteriores, antes de iniciar las operaciones?
+
+N
+A-5.5.8.18
+¿Los productos a ser embalados están debidamente identificados con relación a su contenido?
+
+N
+A-5.5.8.19
+¿Los productos son mantenidos cubiertos y protegidos de la luz, si fuera necesario, durante todo el proceso?
+
+N
+A-5.5.8.20
+¿Los productos diferentes son mantenidos separados?
+
+N
+A-5.5.8.21
+¿Todo el material de embalaje a ser usado tiene registro de aprobación del Control de Calidad?
+
+N
+A-5.5.8.22
+¿Cada línea de embalaje está visiblemente identificada de acuerdo con el producto que está siendo embalado?
+
+R
+A-5.5.8.23
+¿Se verifica la relación entre el rendimiento teórico y el rendimiento real?
+
+R
+A-5.5.8.24
+Si existe discrepancia, ¿ella se justifica por escrito?
+
+N
+A-5.5.8.25
+¿Los productos aguardan en cuarentena hasta la autorización por el Control de Calidad?
+
+
+A-5.5.9
+Registros de Producción
+
+I
+A-5.5.9.1
+¿Existe una fórmula patrón para cada producto a ser fabricado?
+
+I
+A-5.5.9.2
+¿Esa fórmula patrón fue preparada y firmada por un responsable y firmada por otra persona, también responsable y competente?
+
+
+A-5.5.9.3
+La fórmula patrón debe contener:
+
+N
+A-5.5.9.3.1
+El nombre, la fórmula y la forma farmacéutica del producto;
+
+N
+A-5.5.9.3.2
+La cantidad teórica a ser producida;
+
+N
+A-5.5.9.3.3
+El nombre y cantidad de cada materia prima, con sus códigos;
+
+N
+A-5.5.9.3.4
+Instrucciones detalladas de las etapas de fabricación, con indicaciones del equipo a ser usado;
+
+N
+A-5.5.9.3.5
+Instrucciones adecuadas para el etiquetado y el embalaje del producto.
+
+R
+A-5.5.9.4
+Si fuera necesario modificar la fórmula patrón original, ¿existen procedimientos escritos a ser seguidos?
+
+N
+A-5.5.9.5
+¿Existen órdenes de producción para cada lote fabricado?
+
+
+A-5.5.9.6
+Esas órdenes deben contener:
+
+N
+A-5.5.9.6.1
+Instrucciones detalladas de las etapas de fabricación, con lugares apropiados para la firma de los responsables e indicación de los equipos a ser usados.
+
+I
+A-5.5.9.6.2
+El registro del número de lote del producto.
+
+N
+A-5.5.9.6.3
+Registro del número del lote de las materias primas a ser usadas
+
+N
+A-5.5.9.6.4
+Cálculo de la cantidad de materia prima de acuerdo con su pureza
+
+N
+A-5.5.9.6.5
+¿Existe un responsable por el cálculo de materia prima?
+
+N
+A-5.5.9.6.6
+¿Ese cálculo es refrendado por otro responsable?
+
+R
+A-5.5.9.6.7
+Son confrontados los cálculos del rendimiento real, obtenido en las diversas etapas de fabricación, con el rendimiento teórico esperado?
+
+N
+A-5.5.9.6.8
+¿Cualquier modificación  en las instrucciones se registra en lugar apropiado y es aprobada por persona competente y autorizada?
+
+N
+A-5.5.9.6.9
+¿Luego de la finalización del proceso de fabricación, toda la documentación sobre el lote producido (registro de producción, rótulos, resultados analíticos, etiquetas de identificación, gráficos de esterilización (de_componentes e) de producto acabado, etc.) es archivada para referencias futuras?
+
+
+A-5.5.10
+Recipientes Plásticos
+
+Inf
+A-5.5.10.1
+¿Los recipientes plásticos de las SPGV son producidos en la empresa?
+
+R
+A-5.5.10.2
+Los recipientes plásticos para las SPGV son suministrados lacrados por termosellado o cualquier otro sistema?
+
+R
+A-5.5.10.3
+¿Los recipientes plásticos se entregan en embalajes que aseguren su integridad y limpieza?
+
+Inf
+A-5.5.10.4
+¿Quién es el responsable por la producción?
+
+Inf
+A-5.5.10.5
+¿Qué nivel profesional tiene?
+
+R
+A-5.5.10.6
+Posee calificación y competencia para ejercer esa función?
+
+R
+A-5.5.10.7
+¿Existe un organigrama?
+
+R
+A-5.5.10.8
+¿Existe un programa de entrenamiento para el personal?
+
+R
+A-5.5.10.9
+¿El exterior del edificio se encuentra en buen estado?
+
+Inf
+A-5.5.10.10
+Las áreas circundantes del edificio están limpias y sin basura?
+
+N
+A-5.5.10.11
+¿Existe protección contra entrada de roedores, insectos y aves?
+
+R
+A-5.5.10.12
+¿Existe un programa de combate a roedores, insectos y aves?
+
+N
+A-5.5.10.13
+¿El área de producción está limpia?
+
+R
+A-5.5.10.14
+¿Existe un programa escrito de limpieza?
+
+I
+A-5.5.10.15
+¿Está prohibido comer, beber y fumar en las áreas de producción?
+
+Inf
+A-5.5.10.15
+¿Existen sanitarios en cantidad suficiente?
+
+N
+
+¿Están limpios?
+
+Inf
+A-5.5.10.16
+¿Existen normas escritas sobre seguridad?
+
+R
+
+¿Son cumplidas?
+
+R
+A-5.5.10.17
+¿Los extintores y el sistema de agua contra incendio están correctamente localizados?
+
+N
+A-5.5.10.18
+ ¿El personal está usando uniformes y zapatos apropiados para el trabajo?
+
+N
+A-5.5.10.19
+¿En las áreas de producción solamente entran personas con ropa apropiada?
+
+R
+A-5.5.10.20
+¿El piso es el adecuado?
+
+R
+A-5.5.10.21
+¿La circulación interna es adecuada?
+
+R
+A-5.5.10.22
+¿La iluminación y la ventilación del área son suficientes?
+
+R
+A-5.5.10.23
+¿El sistema de saneamiento es adecuado?
+
+N
+A-5.5.10.24
+¿Las rejillas poseen sifones?
+
+N
+A-5.5.10.25
+¿Son desinfectados?
+
+R
+A-5.5.10.26
+¿Las instalaciones eléctricas están en buenas condiciones?
+
+R
+A-5.5.10.27
+¿Las cañerías de agua, aire comprimido, electricidad, etc., están debidamente identificadas?
+
+R
+A-5.5.10.28
+¿Las paredes y techos están revestidos de material fácilmente lavable?
+
+R
+A-5.5.10.29
+¿Las paredes, techos y pisos están libres de rajaduras y no presentan pintura descascada?
+
+Inf
+A-5.5.10.30
+¿Existen recipientes para basura?
+
+R
+
+¿Están identificados?
+
+R
+
+¿Están bien cerrados?
+
+R
+
+¿Se vacían con frecuencia?
+
+R
+A-5.5.10.31
+¿Existe un sistema para controlar la entrada de personal no autorizado en las áreas de producción?
+
+R
+A-5.5.10.32
+¿Todos los funcionarios usan protectores auriculares?
+
+R
+A-5.5.10.33
+¿La distribución de los equipos es racional y ordenada?
+
+Inf
+
+¿Cuál es el número de equipos para la producción de ampollas plásticas?
+
+Inf
+
+¿Cuál es la capacidad diaria de producción, por presentación?
+
+R
+A-5.5.10.34
+¿Existen instrucciones escritas para la utilización de cada equipo?
+
+R
+A-5.5.10.35
+¿Existe control de utilización de cada equipo?
+
+R
+
+¿Existen registros?
+
+R
+A-5.5.10.36
+¿Existe programa de limpieza para cada equipo utilizado?
+
+R
+
+¿Existen registros?
+
+R
+A-5.5.10.37
+¿Existe un sistema de mantenimiento de los equipos?
+
+R
+
+¿Existen registros?
+
+Inf
+
+¿Con qué periodicidad?
+
+I
+A-5.5.10.38
+¿El aire utilizado para el proceso de soplado  de  recipientes plásticos se filtra?
+
+Inf
+
+¿Cuál es el sistema usado para el filtrado?
+
+N
+A-5.5.10.39
+¿La materia prima utilizada es autorizada por el Control de Calidad?
+
+R
+
+¿Existen registros?
+
+N
+A-5.5.10.40
+¿Existe la identificación de cada lote producido?
+
+Inf
+
+¿Cuál es el criterio?
+
+N
+
+Inf
+R
+A-5.5.10.41
+¿Se realizan ensayos físicos?
+¿Con qué frecuencia?
+¿Existen registros?
+
+N
+
+Inf
+R
+A-5.5.10.42
+¿Se realizan ensayos biológicos?
+¿Con qué frecuencia?
+¿Existen registros?
+
+N
+
+Inf
+R
+A-5.5.10.43
+¿Se realizan ensayos químicos?
+¿Con qué frecuencia?
+¿Existen registros?
+
+N
+A-5.5.10.44
+¿El Control de Calidad autoriza cada lote producido?
+
+N
+A-5.5.10.45
+¿Los lotes son protegidos adecuadamente para su transporte?
+
+Inf
+
+¿Cómo?
+
+
+A-5.6
+Control de Calidad
+
+I
+A-5.6.1
+¿Existe en la empresa un laboratorio de Control de Calidad?
+
+R
+A-5.6.2
+¿Existe organigrama del laboratorio de Control de Calidad?
+
+I
+A-5.6.3
+El CC es responsable por aprobar o rechazar materias primas, productos en proceso y sus  recipientes, productos acabados, material de embalaje y otros?
+
+Inf
+A-5.6.4
+¿A quién se reporta el responsable por el CC?
+
+Inf
+A-5.6.5
+¿Cuál es la formación profesional del responsable por el CC?
+
+I
+A-5.6.6
+¿El CC está equipado para ejercer su función?
+
+N
+A-5.6.7
+¿Posee personal técnico calificado?
+
+R
+A-5.6.8
+¿El área es adecuada?
+
+R
+A-5.6.9
+¿Posee un área adecuada para equipos sensibles?
+
+I
+A-5.6.10
+¿Realiza ensayos biológicos y microbiológicos?
+
+I
+A-5.6.11
+¿Hay una sala especial para ensayos de esterilidad y microbiología?
+
+Inf
+A-5.6.12
+¿Posee bioterio?
+
+
+Inf
+A-5.6.12.1
+¿Está localizado dentro o fuera del edificio?
+
+N
+A-5.6.12.2
+Si está dentro del edificio, ¿las instalaciones de aire acondicionado están totalmente  separadas de cualquier otro sistema?
+
+R
+A-5.6.12.3
+¿Existen registros de las condiciones ambientales del bioterio?
+
+N
+A-5.6.12.4
+¿La limpieza del local es la adecuada?
+
+N
+A-5.6.12.5
+¿Los animales están bien alojados, bien alimentados y gozan de buena salud?
+
+R
+A-5.6.13
+¿Existe un procedimiento escrito para el mantenimiento preventivo y el sistema de calibrado de los aparatos utilizados?
+
+R
+A-5.6.14
+¿El programa se cumple?
+
+R
+
+¿Existen registros?
+
+I
+A-5.6.15
+¿El Control de Calidad mantiene registros escritos de todos los ensayos efectuados?
+
+N
+A-5.6.16
+¿Se guardan muestras de retención de las materias primas utilizadas?
+
+Inf
+
+¿Existe un plazo definido?
+
+I
+A-5.6.17
+¿Se conservan muestras de referencia de cada lote de producto acabado, en su embalaje final?
+
+R
+
+¿Por cuánto tiempo?
+
+R
+A-5.6.18
+¿Existen funcionarios de Control de Calidad designados especialmente para el control en proceso (inspectores de producción)?
+
+N
+A-5.6.19
+¿Todos los ensayos necesarios (materias primas, material de embalaje, semi-acabados y acabados) son realizados por el CC?
+
+I
+A-5.6.20
+¿Se verifica si cada lote de producción atiende las especificaciones establecidas, antes de ser liberado?
+
+I
+A-5.6.20.1
+¿El Control de Calidad verifica toda la documentación del proceso?
+
+N
+A-5.6.21
+¿El Control de Calidad tiene especificaciones escritas para todas las materias primas, el material de embalaje, los productos intermedios y los productos acabados?
+
+N
+A-5.6.22
+¿El CC tiene, por escrito, todos los procedimientos de muestreo y los métodos analíticos utilizados?
+
+R
+A-5.6.23
+¿Existen instalaciones de seguridad en el laboratorio (ducha, lava-ojos, etc.)?
+
+Inf
+A-5.6.23.1
+¿Existe un programa de verificación del funcionamiento de estos equipos?
+
+R
+A-5.6.23.2
+¿Existen registros?
+
+R
+A-5.6.24
+¿Existe algún procedimiento con relación a los patrones de referencia y a su mantenimiento?
+
+N
+A-5.6.25
+¿Los procedimientos usados por el Control de Calidad son suficientes para asegurar la calidad de los lotes fabricados?
+
+Inf
+A-5.6.26
+¿Existen controles efectuados por laboratorios contratados?
+
+Inf
+
+¿Qué controles?
+
+Inf
+
+¿Existen contratos?
+
+I
+A-5.6.27
+¿El Control de Calidad  es responsable por la aprobación o rechazo de productos fabricados y analizados bajo contrato con terceros?
+
+
+A-5.7
+Garantía de Calidad
+
+Inf
+A-5.7.1
+¿Existe en la empresa un Programa de Garantía de Calidad?
+
+Inf
+A-5.7.1.1
+¿Ese programa se divulga a todos los niveles?
+
+R
+A-5.7.2
+¿Existen normas escritas para la divulgación y el cumplimiento de Buenas Prácticas de Fabricación?
+
+R
+A-5.7.2.1
+¿Estas normas se siguen?
+
+Inf
+A-5.7.3
+¿Existe en la empresa un área que coordine las actividades de Garantía de Calidad?
+
+R
+A-5.7.4
+¿Están claramente definidas las responsabilidades por la gestión de la calidad?
+
+Inf
+A-5.7.5
+¿Existen procedimientos escritos o sistemas para evaluar la efectividad y la aplicabilidad de las normas y sistemas de Garantía de Calidad?
+
+R
+A-5.7.6
+¿Existe un programa de entrenamiento del personal?
+
+R
+A-5.7.6.1
+¿Se efectúan registros del entrenamiento de cada funcionario?
+
+N
+A-5.7.7
+¿Los productos farmacéuticos son proyectados y desarrollados de acuerdo con los requisitos de Buenas Prácticas de Fabricación?
+
+N
+A-5.7.8
+¿Las operaciones de producción y control están claramente definidas y escritas?
+
+R
+A-5.7.9
+¿Los funcionarios son entrenados y orientados de modo de garantir la correcta y completa ejecución de los procesos y procedimientos definidos?
+
+
+R
+A-5.7.10
+¿Nuevos conocimientos adquiridos en los procesos, o adaptaciones y mejoras, son implementados solamente luego de una completa evaluación y aprobación?
+
+R
+A-5.7.11
+¿Se realizan auto-inspecciones periódicas a fin de verificar el cumplimiento de las Buenas Prácticas de Fabricación?
+
+R
+A-5.7.11.1
+¿Existen registros?
+
+N
+A-5.7.12
+¿Existe un programa escrito para el estudio de estabilidad de los productos con:  condiciones de los tests, registros de los resultados, métodos analíticos usados, condiciones de conservación de las muestras, envases primarios, frecuencia de los análisis y fecha de vencimiento?
+
+N
+A-5.7.12.1
+¿El programa se cumple?
+
+N
+A-5.7.13
+¿Existe un sistema de seguimiento que permita verificar si el producto mantiene la calidad durante el plazo de validez, mantenidas las condiciones de almacenamiento preestablecidas?
+
+N
+A-5.7.14
+¿El procedimiento se cumple?
+
+R
+A-5.7.15
+¿Se mantienen registros de las reclamaciones recibidas sobre la calidad de los productos o cualquier modificación de sus características físicas, así como de las resoluciones tomadas?
+
+R
+A-5.7.15.1
+¿Las acciones tomadas con relación a las reclamaciones y devoluciones de productos son registradas a fin de saber cuál fue la decisión?
+
+I
+A-5.7.16
+¿Existe en la empresa un programa de verificación documentada para los ciclos de esterilización (por calor húmedo)?
+
+I
+A-5.7.16.1
+¿El programa se cumple?
+
+N
+A-5.7.16.2
+¿Existen protocolos preestablecidos?
+
+N
+A-5.7.16.3
+¿Existen registros?
+
+R
+A-5.7.17
+¿Existe en la empresa un programa de verificación documentada, para métodos analíticos de control que no consten en farmacopeas adoptadas?
+
+R
+A-5.7.17.1
+¿El programa se cumple?
+
+R
+A-5.7.17.2
+¿Existen protocolos preestablecidos?
+
+R
+A-5.7.17.3
+¿Existen registros?
+
+N
+A-5.7.18
+¿Se realiza una nueva verificación documentada toda vez que se efectúa un cambio que pueda afectar la calidad o reproductibilidad de un proceso o de un método analítico de control?
+
+
+3

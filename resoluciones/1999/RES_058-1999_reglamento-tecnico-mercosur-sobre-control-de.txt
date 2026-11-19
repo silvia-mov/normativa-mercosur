@@ -1,0 +1,195 @@
+Resolución GMC N° 58/99
+Título: Reglamento Técnico MERCOSUR sobre control de Productos Premedidos comercializados en Unidades de Masa y Volumen de Contenido nominal igual, de lotes de 5 a 49 Unidades en el Punto de Venta
+Fecha de aprobación: 29/09/1999
+Vigencia: Vigente (Vigente desde el 05/06/2002 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 17927_RES_058-1999_ES_RTM_Ctrol-Prod_Premedidos_Acta 3_99.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1432).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 58/99
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CONTROL DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE MASA Y VOLUMEN DE CONTENIDO NOMINAL IGUAL, DE LOTES DE 5 A 49 UNIDADES EN PUNTO DE VENTA
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Resoluciones N° 91/93, 91/94, 152/96, 61/97 y 38/98 del Grupo Mercado Común y la Recomendación N° 32/98 del SGT N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" .
+
+CONSIDERANDO:
+
+Que resulta necesario ampliar el Sistema de Tolerancias y muestreo de la Resolución GMC N 91/94 que deberá ser aplicado a los productos premedidos.
+
+Que tal sistema de control está destinado a facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción, y a eliminar barreras técnicas que sean obstáculo a la libre circulación de productos premedidos, asimismo como garantizar la defensa del consumidor.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1-  Aprobar el "Reglamento Técnico MERCOSUR sobre Control de Productos Premedidos Comercializados en Unidades de Masa y Volumen de contenido nominal igual de lotes de 5 a 49 unidades en puntos de ventas", en sus versiones en español y portugués, que figura como Anexo y forma parte de la presente Resolución.
+
+Art. 2- Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	Ministerio de Economía y Obras  y Servicios Públicos
+
+Brasil:		Instituto Nacional de Metrologia, Normalização e Qualidade Industrial
+
+Paraguay:	Instituto Nacional de Tecnología y Normalización
+
+Uruguay:	Ministerio de Industria, Energía y Minería
+
+Art. 3 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del día 29/III/2000.
+
+
+XXXV GMC - Montevideo, 29/IX/99
+ANEXO
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CONTROL DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE MASA Y VOLUMEN DE CONTENIDO NOMINAL IGUAL, DE LOTES DE 5 A 49 UNIDADES EN PUNTO DE VENTAS
+
+1.- OBJETIVO
+
+1.1. Este Reglamento Técnico Metrológico establece los criterios para la verificación del contenido efectivo de productos premedidos, con contenido nominal igual, expresado en unidades de masa y volumen .
+
+2. APLICACIÓN
+
+Se aplicará al control metrológico de productos premedidos comercializados en lotes de 5 a 49 unidades en puntos de venta.
+
+3. DEFINICIONES
+
+3.1. Lote en punto de venta
+	Se considera el lote a cantidades de productos inferior a 50 (cincuenta) unidades del mismo  tipo de producto, marca o contenido nominal.
+
+3.2. Tolerancia individual ( T )
+	Es la diferencia tolerada para menos, entre el contenido efectivo y el contenido nominal, que se encuentra establecido en la Tabla I de este Reglamento.
+
+3.3.  Muestreo del lote
+	Es la cantidad de productos pre-medidos que será efectivamente verificada
+(indicada en la Tabla II).
+                                                      _
+3.4. Media de la muestra     (X)
+Es definida por la ecuación.
+						I=n
+						 xi
+					_	I=1
+					X   =   __________
+						n
+
+		xi: es el contenido efectivo de cada producto
+		n: número de productos
+
+
+3.5- DESVIO  PADRON DE LA MUESTRA
+Es definido por la  ecuación:
+
+		Xi: es el contenido efectivo de cada producto;
+		n: número de productos.
+
+Nota: En el caso de que el lote sea 5 a 14 inclusive, n es igual al tamaño del lote.
+
+4 - TOLERANCIAS   INDIVIDUALES  ADMISIBLES  PARA  MASA Y VOLUMEN:
+
+
+                                                  TABLA I
+
+
+Tolerancia  Individual T
+Contenido Nominal Qn g o ml
+Porcentaje de Qn
+g o ml
+5 a 50
+9
+-
+50 a 100
+-
+4,5
+100 a 200
+4,5
+-
+200 a 300
+-
+9
+300 a 500
+3
+-
+500 a 1000
+-
+15
+1000 a 10000
+1,5
+-
+10000 a 15000
+-
+150
+15000 a 25000
+1
+-
+
+OBS:
+
+1- Valores de T para Qn menor o igual a 1000g o ml deben ser redondeados en 0,1g o ml para más.
+2- Valores de T para Qn mayores a 1000g o ml deben ser redondeados al o entero superior en g o ml.
+
+
+5. CRITERIOS DE APROBACION DEL LOTE
+El lote sometido a verificación es aprobado cuando las condiciones 5.1 y 5.2 son simultáneamente cumplidas.
+
+
+5.1. CRITERIO PARA LA MEDIA.
+
+                                                 TABLA II
+
+Lote
+Muestra del lote
+Criterio de aceptación para media
+5
+5
+X Qn-2,059 s
+6
+6
+X Qn- 1,646 s
+7
+7
+X Qn- 1,401 s
+8
+8
+X Qn- 1,237 s
+9
+9
+X Qn- 1,118 s
+10
+10
+X Qn- 1,028 s
+11
+11
+X Qn- 0,995 s
+12
+12
+X Qn- 0,897 s
+13
+13
+X Qn- 0,847 s
+14 a 49
+14
+X Qn- 0,805 s
+
+
+x =es la media de la muestra
+Qn= es  el contenido nominal del producto
+S = es el desvío patrón de la muestra
+
+
+5.2 CRITERIO INDIVIDUAL
+
+No son admitidos valores inferiores a Qn-T para las  unidades que componen las muestras (Tolerancia individual T de la Tabla I)
+
+5.2.1 En productos que por su falta de homogeneidad, discontinuidad, inestabilidad de peso con el transcurso del tiempo u otro factor que aumente de modo considerable la dispersión de su contenido efectivo, se admite una excepción del item 5.2 para:
+a) Productos con indicación de peso drenado.
+b) Productos cuyo peso de la menor unidad supera 1.5 veces la tolerancia T.
+c) Productos con pérdidas significativas de peso por secado y otros defectos de almacenamientos definidos por el Organo Metrológico Competente.
+d) Productos congelados.
+Para estos productos, se admite una tolerancia individual de Qn-2T, permaneciendo inalterado igual el ítem 5.1.
+
+
+1

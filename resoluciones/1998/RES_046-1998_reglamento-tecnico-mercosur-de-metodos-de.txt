@@ -1,0 +1,337 @@
+Resolución GMC N° 46/98
+Título: REGLAMENTO TÉCNICO MERCOSUR DE “MÉTODOS DE MUESTREO PARA EL CONTROL DE RESIDUOS DE MEDICAMENTOS VETERINARIOS EN ALIMENTOS DE ORIGEN ANIMAL”.
+Fecha de aprobación: 08/12/1998
+Vigencia: Sin vigencia registrada (VER EN SITIO WEB DEL DEPOSITARIO Vinculo de referencia VER EN SITIO WEB DEL DEPOSITARIO)
+Idioma del texto: ES
+Archivo original: 21773_RES_046-1998_ES_RTM_Mét-Muest_Resid-Med_Veterinarios_Acta 4_98.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1571).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 46/98
+
+REGLAMENTO TÉCNICO MERCOSUR DE "MÉTODOS DE MUESTREO PARA EL CONTROL DE RESIDUOS DE MEDICAMENTOS VETERINARIOS EN ALIMENTOS DE ORIGEN ANIMAL"
+
+
+      VISTO : El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 91/93, 152/96 y 38/98 del Grupo Mercado Común y la Recomendación Nº 54/97 del SGT Nº 3 "Reglamentos Técnicos".
+
+
+CONSIDERANDO :
+
+La necesidad de establecer métodos de muestreo para Programas de Control de Residuos de Medicamentos Veterinarios en Alimentos de Origen Animal.
+
+Que el muestreo es una herramienta utilizada como parte de un sistema para obtener información para determinar si una partida/lote  de productos alimenticios cumple los requisitos relativos a la salud pública, esto es, si la concentración de residuos de medicamentos veterinarios no supera los límites especificados y no constituye una barrera no arancelaria al comercio.
+
+Que la toma de muestras de una partida/lote debe estar basada en modelos estadísticos de muestreo con parámetros previamente definidos de acuerdo con el objetivo a que se destina.
+
+Que la equivalencia de los métodos de muestreo eliminará los obstáculos que generan las diferencias nacionales existentes al respecto.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+
+Art.1 - Aprobar el Reglamento Técnico "Métodos de Muestreo para el Control de Residuos de Medicamentos Veterinarios en Alimentos de Origen Animal", en sus versiones en español y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art.2 - El presente Reglamento será utilizado como referencia para el establecimiento de Programas de Control de Residuos de Medicamentos Veterinarios en Alimentos de Origen Animal. Los mismos serán actualizados periódicamente de acuerdo a los avances científicos.
+
+
+Art.3 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para el cumplimiento de la presente Resolución a través de los siguientes organismos:
+
+Argentina:
+	Secretaría de Agricultura, Ganadería, Pesca y Alimentación, Servicio 	Nacional de Sanidad y Calidad Agroalimentaria (SENASA).
+	Ministerio de Salud y Acción Social. Administración Nacional de 	Medicamentos, Alimentos y Tecnología Médica (A.N.M.A.T.).
+
+Brasil:
+	Ministério da Agricultura e do Abastecimento (MAA)
+	Ministério da Saúde (MS).
+
+Paraguay:
+	Ministerio de Agricultura y Ganadería (MAG). Subsecretaría de Estado de Ganadería (SSEG).
+
+Uruguay:
+	Ministerio de Ganadería, Agricultura y Pesca. Dirección General de Servicios Ganaderos (MGAP/DGSG).
+
+Art. 4  - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 5 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del día 7/VI/99.
+
+
+XXXII GMC - Río de Janeiro, 8/XII/98
+
+ANEXO
+
+REGLAMENTO TECNICO MERCOSUR
+METODOS DE MUESTREO PARA PROGRAMAS DE CONTROL DE RESIDUOS
+DE MEDICAMENTOS VETERINARIOS EN ALIMENTOS DE ORIGEN ANIMAL
+
+1. ALCANCE
+
+1.1. Objetivos
+
+Establecer directivas relativas al muestreo en partida/lote de productos alimenticios de origen animal para determinar si el mismo cumple con los límites máximos de residuos de medicamentos veterinarios acordados entre los Estados Partes.
+
+1.2. Ámbito de aplicación
+
+El presente Reglamento será de aplicación en Programas de Control de Residuos de Medicamentos Veterinarios en Alimentos de Origen Animal comercializados entre los Estados Partes.
+
+2. DEFINICIONES
+
+A efectos del presente Reglamento Técnico se considerarán las definiciones contenidas en el glosario de Términos y Definiciones para Residuos de Medicamentos Veterinarios (Resolución 45/98 del Grupo Mercado Común).
+
+3. DESCRIPCION
+
+El presente Reglamento tiene como base las recomendaciones establecidas en el CODEX ALIMENTARIUS (Sección 3, Volumen 3, 1995).
+
+3.1. Muestreo aleatório
+
+3.1.1. El muestreo aleatório deberá tener una confiabilidad estadísticamente especificada. Esta confiabilidad se expresa con un nivel de confianza y una tasa de frecuencia. Una vez establecidos ambos parámetros el número de muestras requeridas debe determinarse a partir del cuadro número 1.
+
+Cuadro 1: Número de muestras necesario para detectar al menos un caso de niveles superiores a los establecidos con probabilidades definidas de antemano (a saber, 90, 95 y 99 por ciento) en una población con una frecuencia conocida de casos de niveles superiores a los establecidos.
+
+
+Frecuencia (%) de los casos de niveles superiores a los establecidos con un nivel en una población
+
+Número mínimo de muestras necesarias para detectar un caso de niveles superiores a los establecidos con un nivel de confianza de:
+
+90 %
+95 %
+99 %
+35
+6
+7
+11
+30
+7
+9
+13
+25
+9
+11
+17
+20
+11
+14
+21
+15
+15
+19
+29
+10
+22
+29
+44
+5
+45
+59
+90
+1
+230
+299
+459
+0,5
+460
+598
+919
+0,1
+2 302
+2 995
+4 603
+
+3.1.2. Para establecer un programa de monitoreo se debe trabajar con un mínimo de 95 % de confianza y con frecuencias de 1 %, 5 % ó 10 % de casos de niveles superiores a los límites establecidos. Esto significa procesar 299, 59 o 29 muestras respectivamente. La tasa de frecuencia, para cada residuo, será determinada de acuerdo a las prioridades definidas en la Res. GMC Nº 53/94.
+
+3.1.3. Para aquellos casos en que la información estadística del programa de monitoreo lo justifique, se podrá reducir la exigencia relativa a los parámetros de confianza y frecuencia manteniéndose dentro de los valores establecidos en el cuadro 1.
+
+3.1.4. Considerando la incidencia de resultados con niveles superiores a los LMRs establecidos o resultados positivos para sustancias prohibidas, se incrementará el plan anual de muestreo de acuerdo a lo definido en el cuadro N° 1.
+
+3.2. Muestreo dirigido.
+
+3.2.1. El muestreo dirigido está destinado a investigar y regular el movimiento de productos potencialmente adulterados. Este muestreo está deliberadamente dirigido y orientado hacia determinados productos y productores como respuesta a la información proveniente de un muestreo aleatorio o de las observaciones formuladas durante la inspección post-mortem o ante-mortem indicando la posible presencia de residuos en cantidades superiores a los límites establecidos.
+
+3.2.2. Para determinar el número de muestras a ser analizadas en un programa de muestreo dirigido se deberán tener en cuenta los factores relativos al riesgo y al costo.
+
+
+3.2.3. En el cuadro número 2, se indica la probabilidad de no detectar un caso de residuos superiores a los límites establecidos, utilizando diferentes tamaños de muestras provenientes de una población infinita, con una proporción especificada de casos de residuos que superan los límites.
+
+Cuadro 2: Probabilidad de no detección de residuos superiores a límites establecidos
+
+Frecuencia
+Número de animales muestreados sometidos a ensayo
+
+
+(%)
+5
+10
+25
+50
+75
+100
+200
+250
+500
+1000
+1
+0.951
+0.904
+0.778
+0.605
+0.471
+0.366
+0.134
+0.081
+0.007
+0.000
+2
+0.904
+0.817
+0.603
+0.364
+0.220
+0.133
+0.018
+0.006
+0.000
+
+3
+0.859
+0.737
+0.467
+0.218
+0.102
+0.048
+0.002
+0.000
+
+
+4
+0.815
+0.665
+0.360
+0.130
+0.047
+0.017
+0.000
+
+
+5
+0.774
+0.599
+0.227
+0.077
+0.021
+0.006
+
+
+6
+0.734
+0.539
+0.213
+0.045
+0.010
+0.002
+
+
+7
+0.696
+0.484
+0.163
+0.027
+0.004
+0.001
+
+
+8
+0.659
+0.434
+0.124
+0.015
+0.002
+0.000
+
+
+9
+0.624
+0.389
+0.095
+0.009
+0.001
+
+
+10
+0.590
+0.349
+0.072
+0.005
+0.000
+
+
+12
+0.528
+0.279
+0.041
+0.002
+
+
+14
+0.470
+0.221
+0.023
+0.001
+
+
+16
+0.418
+0.175
+0.013
+0.000
+
+
+18
+0.371
+0.137
+0.007
+
+
+20
+0.328
+0.107
+0.004
+
+
+24
+0.254
+0.064
+0.001
+
+
+28
+0.193
+0.037
+0.000
+
+
+32
+0.145
+0.021
+
+
+36
+0.107
+0.012
+
+
+40
+0.078
+0.006
+
+
+50
+0.031
+0.001
+
+
+60
+0.010
+0.000
+
+
+1

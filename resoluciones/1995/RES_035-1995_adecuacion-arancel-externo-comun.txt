@@ -1,0 +1,221 @@
+Resolución GMC N° 35/95
+Título: ADECUACION ARANCEL EXTERNO COMUN
+Fecha de aprobación: 04/12/1995
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 25820_RES_035-1995_ES_Adecua AEC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1892).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 35/95
+
+
+ADECUACION ARANCEL EXTERNO COMUN
+
+	VISTO: El Tratado de Asunción, las Decisiones Nº 9/94 y 22/94 del Consejo del Mercado Común, las Resoluciones Nº 1/95, 19/95 y 30/95 del Grupo Mercado Común y la Propuesta Nº 15/95 de la Comisión de Comercio del MERCOSUR.
+
+
+CONSIDERANDO :
+
+Que la Decisión Nº 22/94 del Consejo del Mercado Común aprobó el Arancel Externo Común del MERCOSUR, compuesto por la Nomenclatura Común del MERCOSUR y sus respectivas alícuotas.
+
+Que es necesario realizar ajustes para mejorar la aplicación del AEC, instrumento esencial de la Unión Aduanera.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE :
+
+
+Art. 1 - Adecuar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, de acuerdo a lo establecido en el Anexo que forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución entrará en vigor el 1º de enero de 1996, incorporada en la nueva versión de la NCM.
+
+
+XIX GMC - Montevideo, 4/X/95
+
+
+ANEXO (VERSION EN ESPAÑOL)
+
+1. ELIMINACION DE CODIGOS
+
+5603.00.11
+5603.00.19
+
+2. SUSTITUCION DE CODIGOS
+
+DONDE DICE:
+DEBE DECIR:
+
+
+4016.99.00
+4016.99
+5603.00.1
+5603.00.10
+8532.21.00
+8532.21
+8532.23.00
+8532.23
+8532.24.00
+8532.24
+8532.25.00
+8532.25
+8532.29.00
+8532.29
+8532.30.00
+8532.30
+8545.19.00
+8545.19
+
+3. SUSTITUCION DE TEXTO
+
+2930.40.10
+DL-Metionina, con un contenido de cenizas sulfatadas superior al 0,1 %, en peso
+3002.10.21
+Seroalbúmina, Inmunoglobulina anti-Rh
+3002.10.22
+Inmunoglobulina G, liofilizada o en solución
+
+4. SUSTITUCION DE ALICUOTAS
+
+
+DESCRIPCION
+DICE
+DEBE DECIR
+
+
+2836.92.00
+Carbonato de estroncio
+10%
+2%
+
+
+2930.40.10
+DL-metionia, con un contenido de cenizas sulfatadas superior al 0,1%, en peso.
+
+
+2%
+
+
+12%
+
+
+29.30.40.90
+Las demás
+12%
+2%
+
+
+3002.10.22
+Inmunoglobulina G, liofilizada o en solución.
+
+2%
+
+8%
+
+
+8470.90.10
+Máquinas de franquear correspondencia.
+
+2%
+
+0% BK
+
+
+8476.19.10
+Máquinas automáticas para venta de sellos postales
+
+2%
+
+0% BK
+
+
+DONDE DICE:
+
+
+DESCRIPCION
+
+
+5603.00.11
+De gramaje superior o igual a 37g/m2 pero de inferior o igual a 115 g/m2.
+
+2%
+
+
+5603.00.19
+Los demás
+18%
+
+DEBE DECIR
+
+
+DESCRIPCION
+
+
+5603.00.10
+De fibras de polietileno de alta densidad
+18%
+
+5. INCORPORACIONES
+
+N.C.M.
+Descripción
+Alícuota (%)
+
+
+2401.10.40
+En hojas secas del tipo turco, con un contenido de aceites volátiles superior al 0,2 %, en peso
+10
+2825.90.20
+Trióxido de volframio (tungsteno)
+2
+4016.99.10
+Obturadores de EPDM para capacitores, con perforaciones para terminales
+2
+4016.99.90
+Las demás
+16
+8421.39.30
+Concentradores de óxigeno por depuración de aire, con capacidad de salida inferior o igual a 6 l/min
+0 BK
+8532.21.10
+Aptos para montaje en superficie (SMD-"Surface Mounted Device")
+16 I
+8532.21.90
+Los demás
+16
+8532.23.10
+Aptos para montaje en superficie (SMD-"Surface Mounted Device")
+16 I
+8532.23.90
+Los demás
+16
+8532.24.10
+Aptos para montaje en superficie (SMD-"Surface Mounted Device")
+16 I
+8532.24.90
+Los demás
+16
+8532.25.10
+Aptos para montaje en superficie (SMD-"Surface Mounted Device")
+16 I
+8532.25.90
+Los demás
+16
+8532.29.10
+Aptos para montaje en superficie (SMD-"Surface Mounted Device")
+16 I
+8532.29.90
+Los demás
+16
+8532.30.10
+Aptos para montaje en superficie (SMD-"Surface Mounted Device")
+16 I
+8532.30.90
+Los demás
+16
+8545.19.10
+De grafito, con un contenido de carbono superior o igual a 99,9%, en peso
+2
+8545.19.90
+Los demás
+12

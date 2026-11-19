@@ -1,0 +1,243 @@
+Resolución GMC N° 01/00
+Título: ESTÁNDAR DE CRITERIOS Y LINEAMIENTOS PARA LA ELABORACIÓN DE ESTÁNDARES DE SISTEMAS DE PRODUCCIÓN DE MATERIALES DE PROPAGACIÓN CERTIFICADOS (DEROGA RES. GMC N°44/96)
+Fecha de aprobación: 05/04/2000
+Vigencia: Vigente (Vigente desde el 21/10/2001 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 16206_RES_001-2000_ES_Criterios_Elab-Estánd-Producción_Mat-Propagación_Acta 1_00.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1187).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 01/00
+
+
+ESTÁNDAR DE CRITERIOS Y LINEAMIENTOS PARA LA ELABORACIÓN DE ESTÁNDARES DE SISTEMAS DE PRODUCCIÓN DE MATERIALES DE PROPAGACIÓN CERTIFICADOS (DEROGA RES. GMC N°44/96)
+
+
+      VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 6/96 del Consejo del Mercado Común, las Resoluciones N° 91/93, 59/94, 44/96, 70/98 y 74/99 del Grupo Mercado Común y la Recomendación Nº 1/00 del SGT Nº 8 "Agricultura".
+
+
+CONSIDERANDO:
+
+Que a los efectos de facilitar el comercio de semillas entre los Estados Partes del MERCOSUR, es necesario establecer un estándar de criterios y lineamientos para la elaboración de estándares de sistemas de producción de materiales de propagación certificados.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Estándar de Criterios y Lineamientos para la Elaboración de Estándares de Sistemas de Producción de Materiales de Propagación Certificados", en sus versiones español y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina: 	Secretaría de Agricultura, Ganadería, Pesca y Alimentación - SAGPyA
+      Instituto Nacional de Semillas - INASE
+      Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA
+
+Brasil: 	Ministério da Agricultura e do Abastecimento - MA
+      Secretaria de Defesa Agropecuária - SDA
+      Secretaria de Apoio Rural e Cooperativismo - SARC
+
+Paraguay: 	Ministerio de Agricultura y Ganadería - MAGP
+      Dirección de Defensa Vegetal - DDV
+      Dirección de Semillas - DISE
+
+Uruguay: 	Ministerio de Ganadería, Agricultura y Pesca - MGAP
+      Dirección General de  Servicios Agrícolas - DGSA
+      Instituto Nacional de Semillas - INASE
+
+Art.  3 -  Derógase la Resolución GMC  Nº 44/96.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del  5/VII/00.
+
+
+XXXVII GMC- Buenos Aires,5/IV/00
+
+ANEXO
+
+
+	ESTÁNDAR MERCOSUR
+
+
+	CRITERIOS Y LINEAMIENTOS PARA LA
+
+	ELABORACIÓN DE ESTÁNDARES DE SISTEMAS DE
+
+	PRODUCCIÓN DE MATERIALES DE PROPAGACIÓN CERTIFICADOS
+
+
+INDICE
+
+
+I.  	INTRODUCCIÓN
+
+1. AMBITO
+2. REFERENCIAS
+3. ABREVIATURAS
+4. DESCRIPCION
+
+II -	REQUISITOS GENERALES
+
+1. IDENTIDAD GENETICA
+2. CONDICION FITOSANITARIA
+3. ASPECTOS FISICOS.
+4. ASPECTOS FISIOLOGICOS
+5. CONDICIONES DE PRODUCCION
+	5.1 - Aislamiento
+	5.2 - Tratamiento fitosanitario
+	5.3 - Manejo de cultivo
+
+6. PROCEDIMIENTOS A CONSIDERAR EN LOS SISTEMAS DE  PRODUCCION DE MATERIALES DE PROPAGACION CERTIFICADOS (SPMPC)
+	6.1 - Inspecciones
+	6.2 - Extracción de muestras
+	6.3 - Diagnóstico de plagas
+	6.4 - Ensayos de Pre y Post Control
+	6.5 - Identificación
+	6.6 - Banco de datos
+
+7. DEFINICION DE CATEGORIAS DE BLOQUES/LOTES/CAMPOS DE PRODUCCION
+
+
+I.  INTRODUCCIÓN
+
+1. ÁMBITO
+
+Este estándar contiene criterios y lineamientos básicos para la elaboración de sistemas de producción de materiales de propagación certificados.
+
+2. REFERENCIAS
+
+-Glosario FAO de Términos fitosanitarios, FAO Plant Protection Bulletin 38 (1), 1990. Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, Italia.
+
+-Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Agricultura y la Alimentación, 1997, Roma, Italia.
+
+-Res. GMC 59/94 Estándar 3.4. Glosario de Términos Fitosanitarios.
+
+-Estándar COSAVE 1.1. Orientación y Lineamientos para la Elaboración y Adopción de Estándares Regionales en el Ambito de la Protección Fitosanitaria.
+
+-Res. GMC 59/94 Estándar 3.1. Directrices para el Análisis de Riesgo de Plagas.
+
+-Certificatión Scheme - Virus free or virus tested fruit trees and rootstocks part I. Basic scheme and its elaboration. Bulletin OEPP/EPPO 21,267-278, 1991.
+
+-Estándar de Certificación de Materiales Cítricos de Propagación. Dirección de los Servicios de Protección Agrícola. Dirección Semillas - Uruguay, Octubre 1994.
+
+-Res. GMC 70/98 Estándar MERCOSUR de terminologías de semillas.
+
+-Res. GMC 74/99 Estándar MERCOSUR "Lineamientos para la Identificación de Plagas No Cuarentenarias Reglamentadas (PNCR) y Establecimiento de sus Requisitos Fitosanitarios"
+
+
+3. ABREVIATURAS
+
+CIPF: Convención Internacional de Protección Fitosanitaria.
+PNCR: Plaga No Cuarentenaria Reglamentada
+SPMPC: Sistema de Producción de Materiales de Propagación Certificados.
+
+
+4. DESCRIPCIÓN
+
+El presente estándar establece los criterios básicos a considerar en la elaboración de Estándares de Sistemas de Producción de Materiales de Propagación Certificados, lo que implica la multiplicación del material inicial de forma controlada con el objetivo de obtener material certificado que cumpla con determinadas condiciones.
+
+Las condiciones que se establecen para las sucesivas etapas de multiplicación, permiten dar garantías en cuanto al mantenimiento de identidad genética, condición fitosanitaria,  aspectos físicos  y  fisiológicos del material de propagación producido.
+
+
+II.  REQUISITOS GENERALES
+
+Para la elaboración de los Sistemas de Producción de Materiales de Propagación Certificados, se definen etapas de multiplicación a las que se somete el material inicial y las condiciones en que se realiza esa multiplicación.
+
+Se definen las diferentes categorías de Bloques/Lotes/Campos de Producción, como las multiplicaciones que en cada uno de ellos se realiza y las condiciones de producción de los mismos. Asimismo, se establecen las diversas categorías de Material de Propagación que resultan de cada Bloque/Lote/Campo de Producción.
+
+Se detallan a continuación los requisitos específicos:
+
+
+1. IDENTIDAD GENÉTICA
+
+Cada individuo debe corresponder a la descripción del cultivar en producción.
+
+
+2. CONDICIÓN FITOSANITARIA
+
+2.1. La Condición Fitosanitaria de cada categoría del SPMPC, será establecida de acuerdo con las características de la transmisión (vertical) de la plaga, la especie y del agroecosistema considerado.
+
+La Condición Fitosanitaria, para la categoría inferior del sistema podrá coincidir o mejorar los requisitos fitosanitarios establecidos para las PNCR, no siendo exigible para el comercio internacional bajo las disposiciones de la CIPF.
+
+2.2 - Los requisitos fitosanitarios para PNCR serán establecidos, de acuerdo con las disposiciones de la Res. GMC 74/99 Estándar MERCOSUR "Lineamientos para la Identificación de Plagas No Cuarentenarias Reglamentadas (PNCR) y Establecimiento de sus Requisitos Fitosanitarios". Los mismos son exigibles en el intercambio internacional de acuerdo a las disposiciones de la CIPF (texto 1997).
+
+
+3. ASPECTOS FÍSICOS
+
+Los SPMPC considerarán aquellos aspectos referentes a la calidad física de los materiales de propagación cuando los mismos estén técnicamente justificados y/o afecten directamente la productividad de los cultivos considerados.
+
+4.  ASPECTOS FISIOLÓGICOS
+
+Los SPMPC considerarán aquellos aspectos referentes a la calidad fisiológica de los materiales de propagación cuando los mismos estén técnicamente justificados, afecten directamente la productividad de los cultivos considerados y existan metodologías disponibles para verificar y cuantificar.
+
+5.  CONDICIONES DE PRODUCCIÓN
+
+Los SPMPC establecerán las condiciones en que los Materiales de Propagación deben ser producidos con el propósito de lograr y mantener la calidad requerida.
+
+Las condiciones de producción que establecen los SPMPC pueden variar de un área a otra, en función de :
+
+a.- Su situación fitosanitaria.
+b.- Sus particularidades locales en cuanto a clima,  suelo, aislamiento, etc.
+
+Se aceptan como equivalentes las condiciones de producción que, no siendo iguales, permiten que los materiales de propagación allí producidos cumplan con las condiciones de calidad requeridas.
+
+5.1 - Aislamiento
+
+Se establecerán las condiciones mínimas  de aislamiento necesarias a los efectos de  cumplir con las condiciones de pureza varietal y fitosanitarias requeridas.
+
+5.2 - Tratamiento fitosanitario
+
+En los casos que se requiera, se describirá el tratamiento fitosanitario que se debe realizar en:
+
+		a)  Materiales de Propagación
+b)  Herramientas y Maquinarias
+c)  Suelos y sustratos artificiales
+d)  Instalaciones.
+
+5.3 - Manejo de cultivo
+
+Los SPMPC establecerán, cuando corresponda, las condiciones de manejo de cultivo que propendan al cumplimiento de lo establecido, en cuanto a la condición fitosanitaria y para evitar la mezcla o contaminación varietal.
+
+6.  PROCEDIMIENTOS A CONSIDERAR EN LOS SPMPC
+
+En los SPMPC se establecerán los requisitos para cada uno de los Bloques/Lotes/Campos de Producción y para los materiales de propagación que en cada uno de ellos se produce.
+
+6.1 - Inspecciones
+
+En los SPMPC se establecerán los momentos en que se deben realizar las inspecciones para cada categoría de Bloque/Lote/Campo de Producción considerado, haciendo referencia, cuando corresponda, al estado fenológico del cultivo a inspeccionar.
+
+
+6.2  Extracción de muestras
+
+En los SPMPC se establecerán las características del muestreo con el objetivo de verificar la identidad genética, condición fitosanitaria y el aspecto físico,  de las distintas categorías de materiales de propagación.
+
+6.3  Diagnóstico de Plagas
+
+Se definirán las metodologías de Diagnóstico que se aplicarán para el testaje de las distintas categorías de materiales de propagación, debiendo adoptarse las armonizadas regional o internacionalmente.
+
+6.4  Ensayos de Pre y Post control
+
+En los casos que los SPMPC lo requieran, se establecerán ensayos de pre y post control para verificar la calidad del material.
+
+6.5  Identificación
+
+Los SPMPC establecerán la adecuada identificación de los materiales producidos en cada categoría.
+
+6.6  Banco de datos
+
+Se definirán los registros de datos esenciales para el seguimiento de los SPMPC, a fin de conformar un banco de datos.
+
+7. DEFINICIÓN DE CATEGORÍAS DE BLOQUES/LOTES/CAMPOS DE PRODUCCIÓN
+
+Para la definición de las diferentes categorías de Bloques/Lotes/Campos de Producción que integren los SPMPC se considerará :
+
+a)	origen y calidad del material;
+
+b) que un Bloque/Lote/Campo de Producción puede producir más de una cosecha en tanto no se modifiquen las condiciones mínimas requeridas para ese Bloque/Lote/Campo;
+
+c) que el no cumplimiento de las condiciones establecidas para cada Bloque/Lote/Campo de Producción, determina un cambio para una categoría inferior, e inclusive, puede determinar la exclusión del mismo del SPMPC.
+
+d) que el material de propagación producido en una determinada categoría de Bloque/Lote/Campo de Producción, es apto sólo para ser utilizado en Bloques/Lotes/Campos de Producción de categoría inferior.
+
+
+1
+
+
+6

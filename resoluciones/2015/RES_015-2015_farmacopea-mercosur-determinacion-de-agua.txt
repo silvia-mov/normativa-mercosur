@@ -1,0 +1,186 @@
+Resolución GMC N° 15/15
+Título: FARMACOPEA MERCOSUR: DETERMINACIÓN DE AGUA
+Fecha de aprobación: 29/05/2015
+Vigencia: Vigente (Vigente desde el 07/06/2024 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 57382_RES_015-2015_ES_Farmacopea Determinacion Agua.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3109).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 15/15
+
+FARMACOPEA MERCOSUR: DETERMINACIÓN DE AGUA
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Determinación de agua", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 1/XII/2015.
+
+      XCVIII GMC - Brasilia, 29/V/15.
+
+ANEXO
+DETERMINACIÓN DE AGUA
+
+
+Muchas sustancias se encuentran en forma de hidrato o contienen agua adsorbida, por lo que resulta relevante su determinación por métodos específicos.
+
+En función de la naturaleza de la sustancia, en la monografía individual se especificará alguno de los métodos que se describen a continuación.
+
+1. METODO VOLUMÉTRICO (MÉTODO DE KARL FISCHER)
+
+La determinación volumétrica de agua está basada en la reacción cuantitativa del agua con una solución anhidra de dióxido de azufre e iodo en presencia de una solución amortiguadora, que reacciona con los iones hidrógeno, según la siguiente ecuación:
+
+I2 + SO2 + 3C5H5N + CH3OH + H2O → 2 (C5H5N+H)I- + (C5H5N+H)-OSO2OCH3
+
+En la solución volumétrica original, conocida como Reactivo de Karl Fischer, el dióxido de azufre y el iodo se disuelven generalmente en piridina y metanol, pudiéndose utilizar otros solventes y/o bases, en cuyo caso es necesario verificar la estequiometría y la ausencia de interferencias. Para este propósito pueden utilizarse reactivos comerciales teniendo en cuenta las recomendaciones del proveedor.
+
+Existen dos métodos diferentes basados en la reacción con el iodo: uno es la titulación volumétrica y el otro es un método de titulación culombimétrica.
+
+En el primero, el iodo se disuelve en el reactivo y el contenido de agua es determinado midiendo la cantidad de iodo consumido como resultado de la reacción con el agua. La muestra en ensayo puede valorarse con el Reactivo directamente o el análisis puede realizarse mediante un procedimiento de valoración indirecta. La estequiometría de la reacción no es exacta y la reproducibilidad de la determinación depende de factores tales como las concentraciones relativas de los componentes del Reactivo, la naturaleza del solvente inerte utilizado para disolver la muestra en ensayo y la técnica utilizada en la determinación. Por lo tanto, resulta necesario estandarizar previamente la técnica a fin de conseguir una exactitud adecuada. La precisión del método depende de la eficacia de la eliminación de la humedad atmosférica del sistema.
+
+En la titulación culombimétrica, el iodo es producido por la electrólisis de un reactivo de Karl Fischer que contiene al ión ioduro. El contenido de agua en una muestra puede ser determinado midiendo la cantidad de electricidad que se requiere para la producción de iodo durante la titulación.
+
+2I- → I2 + 2e-
+
+
+a. Método volumétrico directo
+
+Aparato - Dado que el reactivo de Karl Fischer es altamente higroscópico, el aparato debe garantizar una exclusión de la humedad atmosférica. La determinación del punto final debe ser adecuada. En el caso de la valoración directa de una solución incolora, el punto final se puede observar visualmente como un cambio de color amarillo intenso a ámbar. El caso inverso se observa cuando se realiza una valoración por retorno (indirecta) de una muestra en ensayo. Sin embargo, de forma más habitual el punto final se determina de forma electrométrica utilizando un aparato con un circuito eléctrico simple que genera un potencial aplicado de aproximadamente 200 mV entre un par de electrodos de platino sumergidos en la solución que se desea valorar. En el final de la valoración un ligero exceso de reactivo aumenta el flujo de corriente entre 50 y 150 µA durante un período de 30 segundos a 30 minutos, dependiendo de la solución que se esté valorando. Este período es menor en el caso de sustancias que se disuelven en el reactivo. En algunos tituladores volumétricos automáticos el cambio abrupto de corriente o de potencial en el punto final hace cerrar una válvula operada por solenoide que controla la bureta que suministra la solución volumétrica. Los aparatos disponibles comercialmente comprenden por lo general un sistema cerrado que consta de una o dos buretas automáticas y un vaso de valoración cubierto herméticamente, equipado con los electrodos necesarios y un agitador magnético. El aire en el sistema se mantiene seco con un desecante adecuado, por ejemplo cloruro de calcio anhidro o gel de sílice, y el vaso de valoración puede purgarse mediante una corriente de nitrógeno seco o de aire seco.
+
+Reactivo - El reactivo de Karl Fischer puede prepararse por cualquiera de los métodos indicados a continuación. [Nota: el cloroformo y el metanol empleados para la preparación del reactivo deben tener un contenido de agua inferior a 0,1 mg por ml. El metilcellosolve y el éter monometílico de dietilenglicol deben tener un contenido de agua inferior a 0,3 mg por ml]:
+
+Método a - Agregar 125 g de iodo a una solución que contenga 670 ml de metanol y 170 ml de piridina, y enfriar. Colocar 100 ml de piridina en una probeta graduada de 250 ml y, manteniendo la piridina fría en un baño de hielo, introducir dióxido de azufre seco hasta alcanzar un volumen de 200 ml. Agregar lentamente esta solución a la mezcla de iodo enfriada agitando hasta disolver el iodo. Transferir la solución al aparato y dejar la solución en reposo durante 24 horas antes de estandarizar. Un ml de esta solución recientemente preparada equivale aproximadamente a 5 mg de agua. Proteger la solución de la luz mientras se esté utilizando. Para determinar agua en cantidades de trazas (menos de 1%), es preferible usar un Reactivo con un factor de equivalencia de agua de no más de 2,0; el cual generará el consumo de un volumen más significativo de solución volumétrica.
+
+Método b - Disolver 63 g de iodo en 100 ml de piridina, con un contenido de agua inferior a 1 mg por ml, enfriar la solución en baño de hielo y hacer pasar dióxido de azufre seco a través de esta solución hasta que el aumento de peso sea de 32 g. Llevar a 500 ml agregando cloroformo o metanol y dejar en reposo durante no menos de 24 horas antes de usar.
+
+Método c - Disolver 102 g de imidazol, con un contenido de agua inferior a 0,1 %, en 350 ml de metilcellosolve o éter monometílico de dietilenglicol, enfriar la solución en baño de hielo y hacer pasar dióxido de azufre seco a través de esta solución hasta que el aumento de peso sea de 64 g, manteniendo la temperatura entre 25 y 30 °C. Disolver 50 g de iodo en esta solución y dejar en reposo durante no menos de 24 horas antes de usar.
+
+Método d - Hacer pasar dióxido de azufre a través de 150 ml de metilcellosolve hasta que el aumento de peso sea de 32 g. A esta solución, previamente enfriada en un baño de hielo, agregar 250 ml de metilcellosolve o cloroformo que contiene 81 g                 de 2metilaminopiridina, con un contenido de agua inferior a 1 mg por ml. Disolver 36 g de iodo en esta solución y dejar en reposo durante no menos de 24 horas antes de usar.
+
+El reactivo de Karl Fischer, preparado por cualquiera de estos métodos, debe estandarizarse dentro de un período de 1 hora antes de su uso o diariamente si su uso es continuo, dado que su actividad para la determinación de agua cambia con el tiempo. Almacenar el reactivo refrigerado, protegido de la luz y la humedad.
+
+Puede utilizarse una solución estabilizada de reactivo de tipo Karl Fischer disponible comercialmente. También pueden utilizarse reactivos disponibles comercialmente que contengan disolventes o bases diferentes a la piridina o alcoholes diferentes al metanol. Éstos pueden ser soluciones individuales o reactivos formados in situ combinando los componentes de los reactivos presentes en dos soluciones distintas. El Reactivo diluido requerido en algunas monografías debe diluirse de acuerdo a las instrucciones del fabricante. Como diluyente puede utilizarse metanol u otro solvente adecuado, como el éter monometílico de dietilenglicol.
+
+Estandarización - Colocar una cantidad suficiente de metanol o de otro solvente adecuado en el vaso de valoración para cubrir los electrodos y agregar suficiente Reactivo hasta obtener el color característico del punto final, o 100±50 μA de corriente continua con un potencial aplicado de aproximadamente 200 mV.
+
+Se puede usar Agua Purificada, tartrato de sodio dihidrato, un Estándar de Referencia farmacopeico, o un estándar comercial con un certificado de análisis trazable hasta un estándar farmacopeico para estandarizar el Reactivo. El factor de equivalencia del reactivo, el volumen de valoración recomendado, el tamaño de la bureta y la cantidad de estándar que se va a pesar son factores a considerar al momento de seleccionar el estándar y la cantidad que se va a usar. Para Agua Purificada o estándares de agua, agregar rápidamente entre 2 y 250 mg de agua, pesados con exactitud, y valorar hasta el punto final. Calcular el factor de equivalencia del agua, F, en mg de agua por ml de reactivo, por la fórmula.
+
+F=P/V
+
+en donde P es el peso, en mg, del agua contenida en la alícuota de estándar usado; y V es el volumen, en ml, del Reactivo usado en la valoración. Para tartrato de sodio dihidrato (C4H4Na2O6. 2H2O), agregar rápidamente entre 20 y 125 mg pesados con exactitud, y valorar hasta el punto final. El factor de equivalencia de agua F, en mg de agua por ml de reactivo, se calcula por la fórmula:
+
+F= (36,04/230,08) P/V
+
+en donde 36,04 es dos veces el peso molecular de agua y 230,08 es el peso molecular del tartrato de sodio dihidrato; P es el peso, en mg, del tartrato de sodio dihidrato; y V es el volumen, en ml, del Reactivo consumido en la valoración. [NOTA: la solubilidad del tartrato de sodio dihidrato en metanol es tal que podría necesitarse metanol adicional para posteriores valoraciones del estándar]
+
+Preparación de la muestra - A menos que se especifique de otro modo en la monografía individual, utilizar una cantidad pesada o medida con exactitud de la muestra en análisis con un contenido de agua estimado entre 2 y 250 mg. La cantidad de agua depende del factor de equivalencia de agua del Reactivo y del método de determinación del punto final. En la mayoría de los casos, se puede estimar la cantidad mínima de la muestra (Pm), en mg, por la fórmula:
+
+Pm = FCV/Kf
+
+En donde F es el factor de equivalencia de agua del Reactivo, en mg por ml; C es el volumen usado, en porcentaje de la capacidad de la bureta; V es el volumen de la bureta, en ml; y Kf es el límite o contenido esperado de agua en la muestra, en porcentaje. C está generalmente entre 30% y 100% para la valoración manual, y entre 10% y 100% para el método instrumental de determinación del punto final. [Nota: Se recomienda que el producto de FCV sea mayor o igual a 200 para el cálculo, a fin de asegurar que la cantidad mínima de agua valorada sea mayor o igual a 2 mg.]
+
+Si la muestra en análisis es un aerosol con propelente conservarla en el congelador durante no menos de 2 horas, abrir el envase y analizar 10,0 ml de la muestra bien mezclada. Para valorar la muestra, determinar el punto final a una temperatura de 10ºC o mayor.
+
+Si la muestra en análisis son cápsulas, utilizar una porción del contenido homogeneizado de no menos de 4 cápsulas. Si fuera necesario moler el contenido a polvo fino.
+
+Si la muestra en análisis son comprimidos, utilizar el polvo de no menos de 4 comprimidos molidos hasta polvo fino en una atmósfera con valores de temperatura y humedad relativa que no afecten los resultados.
+
+En los casos en los que la monografía especifique que la muestra en análisis es higroscópica, colocar una porción del sólido pesado con exactitud en un vaso de valoración, procediendo inmediatamente de forma de evitar la absorción de humedad atmosférica.
+
+Si la muestra está constituida por una cantidad definida de sólido como producto liofilizado o polvo dentro de un vial, utilizar una jeringa seca para inyectar un volumen adecuado de metanol u otro solvente apropiado, medido con exactitud, en un recipiente tarado y agitar hasta disolver la muestra. Con la misma jeringa, retirar la solución del recipiente, transferirla a un vaso de valoración preparado según se indica en Procedimiento y valorar inmediatamente. Determinar el gasto de reactivo empleado en la valoración del volumen de solvente utilizado para preparar la muestra y restar este valor al obtenido en la valoración de la muestra en análisis. Secar el recipiente y su cierre a 100ºC durante 3 horas, dejar que se enfríen en un desecador y pesar. Determinar el peso de la muestra analizada a partir de la diferencia en peso con respecto al peso inicial del recipiente.
+
+Cuando sea apropiado, el agua puede ser desorbida o liberada de la muestra mediante calor en un horno externo conectado al vaso, al que se transfiere con ayuda de un gas inerte y seco como nitrógeno puro. Se debe tener en cuenta y corregir cualquier deriva, debida al gas transportador. Seleccionar las condiciones de calentamiento para evitar la formación de agua como resultado de la deshidratación debida a la descomposición de los componentes de la muestra, lo cual puede invalidar este método.
+
+Procedimiento - A menos que se especifique de otro modo en la monografía individual, transferir suficiente metanol u otro solvente adecuado al vaso de valoración asegurándose de que el volumen sea suficiente para cubrir los electrodos (aproximadamente 30-40 ml) y valorar con el Reactivo hasta el punto final electrométrico o visual para consumir la humedad que pudiera estar presente. (No considerar el volumen consumido en el cálculo). Agregar rápidamente la muestra preparada según se indica en Preparación de la muestra, mezclar y valorar con el Reactivo hasta el punto final electrométrico o visual. Calcular el contenido de agua en la muestra, en porcentaje, por la fórmula:
+
+%agua =(VF x 100)/m
+
+en donde V es el volumen, en ml, del Reactivo consumido en la valoración; F es el factor de equivalencia de agua del Reactivo y m la masa de la muestra, en mg.
+
+b. Método por retorno (indirecto)
+
+Principio - En esta valoración se agrega un exceso de Reactivo a la muestra, se espera un tiempo suficiente para que se complete la reacción y se valora el Reactivo no consumido con una solución estándar de agua en un solvente como el metanol. El procedimiento de valoración por retorno se aplica de forma general y evita los problemas que pueden surgir en la valoración directa de sustancias en las que el agua unida se libera lentamente.
+
+Aparato - Reactivo y Preparación de la muestra - Usar el Método volumétrico directo.
+
+Preparación y Estandarización de la Solución de Agua - Preparar una Solución de Agua diluyendo 2 ml de agua con metanol u otro solvente adecuado hasta 1000 ml. Estandarizar esta solución valorando 25,0 ml con el Reactivo, previamente estandarizado según se indica en Estandarización del Reactivo. Calcular el contenido de agua (Cagua), en mg por ml, de la Solución de Agua, por la fórmula:
+
+Cagua =VF/25
+
+En donde V es el volumen del Reactivo consumido, en ml y F es el factor de equivalencia de agua del Reactivo, en mg por ml.
+
+Procedimiento - Transferir suficiente metanol u otro solvente adecuado al vaso de valoración, asegurándose de que el volumen sea suficiente para cubrir los electrodos (aproximadamente 30 a 40 ml) y valorar con el Reactivo hasta el punto final electrométrico o visual. Agregar rápidamente la muestra, mezclar y agregar un exceso, medido con exactitud, de Reactivo. Esperar un tiempo suficiente para que se complete la reacción y valorar el Reactivo no consumido con la Solución de Agua estandarizada hasta el punto final electrométrico o visual. Calcular el contenido de agua (%agua) de la muestra, en porcentaje, por la fórmula:
+
+%agua = F (X´- XR)100/m
+
+en donde F es el factor de equivalencia de agua del Reactivo, en mg/ml; X´ es el volumen, en ml, del Reactivo agregado después de introducir la muestra; X es el volumen, en ml, de la Solución de Agua estandarizada necesaria para neutralizar el Reactivo no consumido; R es el cociente, V/25 (ml de Reactivo/ml de Solución de Agua), determinado a partir de la Estandarización de la Solución de Agua para valoraciones volumétricas por retorno (indirecto) y m la masa de la muestra, en mg.
+
+c. Método culombimétrico
+
+Principio - Para la determinación culombimétrica del agua se utiliza la reacción de Karl Fischer. El iodo, sin embargo, no se agrega en forma de solución volumétrica sino que se obtiene por oxidación anódica en una solución que contiene ioduro. La celda de reacción consta normalmente de un amplio compartimento anódico y de un pequeño compartimento catódico, separados entre sí por un diafragma. También pueden utilizarse otros tipos adecuados de celdas de reacción (por ej. sin diafragma). Cada compartimento tiene un electrodo de platino que conduce la corriente a través de la celda. El iodo, que se produce en el electrodo anódico, reacciona inmediatamente con el agua que está presente en el compartimento. Cuando se ha consumido toda el agua, se produce un exceso de iodo que normalmente se detecta electrométricamente, lo que indica el punto final. La humedad se elimina del sistema mediante pre-electrólisis. No es necesario cambiar la solución del vaso después de cada determinación. Un requisito de este método es que cada componente de la muestra sea compatible con los demás componentes y que no se produzcan reacciones secundarias. Normalmente las muestras son transferidas al vaso en forma de solución mediante la inyección a través de un septo. Los gases se pueden introducir en la celda utilizando un tubo de entrada de gas adecuado. La precisión del método depende fundamentalmente del grado de eliminación de la humedad atmosférica en el sistema; por tanto, la introducción de sólidos en la celda puede requerir precauciones tales como trabajar en una atmósfera de gas inerte seco. El control del sistema se puede efectuar midiendo la deriva de la línea de base, lo cual no excluye la necesidad de una corrección con un blanco cuando se usa vehículo de introducción de la muestra. Este método es especialmente adecuado para sustancias químicas inertes como hidrocarburos, alcoholes y éteres. En comparación con la valoración volumétrica de Karl Fischer, la culombimetría es un micrométodo.
+
+Cuando sea apropiado, el agua puede ser desorbida o liberada de la muestra mediante calor en un horno externo conectado al vaso, al que se transfiere con ayuda de un gas inerte y seco como nitrógeno puro. Se debe tener en cuenta y corregir cualquier deriva debida al gas transportador. Seleccionar las condiciones de calentamiento para evitar la formación de agua como resultado de reacciones de descomposición por la deshidratación de los componentes de la muestra, lo cual puede invalidar este método.
+
+Aparato - Puede ser utilizado cualquier aparato comercialmente disponible que conste de un sistema absolutamente hermético equipado con los electrodos necesarios y un agitador magnético. El microprocesador del instrumento controla el procedimiento analítico y muestra los resultados.
+
+Reactivo - Las soluciones electrolíticas pueden prepararse por alguno de los métodos indicados a continuación, también pueden emplearse reactivos comerciales. [NOTA: el cloroformo y el metanol empleados para la preparación del reactivo deben tener un contenido de agua inferior a 0,1 mg/mL. El metilcellosolve y el éter monometílico de dietilenglicol deben tener un contenido de agua inferior a 0,3 mg/mL].
+
+Método a - SOLUCIÓN DEL ANOLITO: Disolver 102 g de imidazol en 900 ml de metanol, enfriar la solución en un baño de hielo y hacer pasar dióxido de azufre seco a través de la solución, mantenida a una temperatura inferior a 30 °C, hasta que el aumento de peso sea de 64 g. Disolver con agitación 12 g de iodo, agregar una cantidad apropiada de agua a la solución hasta que el color del líquido vire de marrón a amarillo y diluir a 1 litro con metanol. SOLUCIÓN DEL CATOLITO: Disolver 24 g de clorhidrato de dietanolamina en 100 ml de metanol.
+
+Método b - SOLUCIÓN DEL ANOLITO: Disolver 40 g de 1,3-di(4-piridil)propano y 30 g de dietanolamina en aproximadamente 200 ml de metanol y hacer pasar dióxido de azufre seco a través de la solución hasta que el aumento de peso sea de 25 g. Agregar 50 ml de carbonato de propileno y disolver 6 g de iodo en la solución. Agregar metanol para completar a 500 ml y agregar una cantidad apropiada de agua hasta que el color del líquido vire de marrón a amarillo. SOLUCIÓN DEL CATOLITO: Disolver 30 g de clorhidrato de colina en metanol y diluir a 100 ml con el mismo solvente.
+
+Método c - SOLUCIÓN DEL ANOLITO: Disolver 100 g de dietanolamina en 900 ml de metanol o en una mezcla de metanol y cloroformo (3:1) y hacer pasar dióxido de azufre seco a través de la solución hasta que el aumento de peso de la solución sea de 64 g. Disolver 20 g de iodo en la solución y agregar una cantidad apropiada de agua hasta que el color del líquido vire de marrón a amarillo. SOLUCIÓN DEL CATOLITO: Disolver 25 g de cloruro de litio en 1 litro de una mezcla de metanol y nitrometano (4:1).
+
+Preparación de la muestra - Cuando la muestra sea un sólido soluble, se puede disolver una cantidad apropiada, pesada con exactitud, en metanol anhidro u otros solventes adecuados. Cuando la muestra sea un sólido insoluble, se puede extraer una cantidad apropiada, pesada con exactitud, usando un solvente anhidro adecuado y se puede inyectar en la solución del anolito. Alternativamente, se puede usar una técnica de evaporación en la que el agua se libere y evapore por calentamiento de la muestra en un tubo en una corriente de gas inerte seco. El gas pasa luego al interior de la celda.
+
+Cuando la muestra se va a usar directamente sin disolver en un solvente anhidro adecuado, se puede introducir una cantidad apropiada, pesada con exactitud, directamente en el compartimento anódico.
+
+Cuando la muestra es un líquido miscible con metanol anhidro u otros solventes adecuados, se puede agregar una cantidad apropiada, pesada con exactitud, al metanol anhidro u otros solventes adecuados.
+
+Procedimiento - Usando un dispositivo seco, inyectar o agregar directamente en el anolito una cantidad, medida con exactitud, de la muestra o de la preparación de la muestra que contenga entre 0,5 y 5 mg de agua, o la cantidad recomendada por el fabricante del instrumento, mezclar, y llevar a cabo la valoración culombimétrica hasta el punto final electrométrico. Leer el contenido de agua de la preparación de la muestra directamente de la pantalla del instrumento y calcular el porcentaje presente en la sustancia. Realizar una determinación con un blanco, según sea necesario, y realizar las correcciones correspondientes.
+
+
+2. MÉTODO AZEOTRÓPICO - DESTILACIÓN CON TOLUENO
+
+Principio - Este método se basa en la destilación por arrastre con vapor de tolueno, del agua contenida en la muestra de un producto dado bajo condiciones establecidas.
+
+Aparato - Utilizar un balón con fondo redondo, de vidrio, de 500 ml, A, conectado mediante una trampa, B, a un condensador de reflujo, C, usando juntas de vidrio esmerilado (ver Figura).
+
+
+Figura - Aparato para la determinación de agua por destilación azeotrópica
+
+Las dimensiones críticas de las piezas del aparato son las siguientes. El tubo de conexión, D, tiene un diámetro interno de 9-11 mm. La trampa tiene una longitud de 235-240 mm. El condensador debe ser de tubo recto, con una longitud aproximada de 400 mm y un diámetro interno de no menos de 8 mm. El tubo receptor, E, tiene una capacidad de 5 ml y su parte cilíndrica, con una longitud de 146 a 156 mm, está graduada en subdivisiones de 0,1 ml, de forma que el error de lectura no es mayor de 0,05 ml para cualquier volumen indicado. La fuente de calor es preferiblemente un calentador eléctrico con control reóstato o un baño de aceite. La parte superior del balón y el tubo de conexión pueden estar aislados.
+
+Limpiar el tubo receptor y el condensador con una solución de limpieza adecuada, enjuagar exhaustivamente con agua y secar. Preparar el tolueno que se va a utilizar agitando con una pequeña cantidad de agua y destilarlo hasta separar el exceso de agua.
+
+Procedimiento - Colocar en un balón seco una cantidad de la sustancia, pesada con exactitud, para obtener entre 2 y 4 ml de agua. Si la sustancia es de tipo pastoso, pesar sobre una lámina metálica ovalada con un tamaño que pase justo a través del cuello del balón. Si existe la posibilidad de que al ingresar la sustancia se produzcan proyecciones, agregar una cantidad suficiente de material poroso (por ejemplo arena lavada y seca, tubos capilares, porcelana). Colocar aproximadamente 200 ml de tolueno en él balón, conectar el aparato y llenar el tubo receptor, E, con tolueno vertido a través de la parte superior del condensador. Calentar el balón suavemente durante 15 minutos y, una vez que el tolueno entre en ebullición, destilar a una velocidad de aproximadamente dos gotas por segundo hasta que la mayor parte del agua haya sido arrastrada, después aumentar la velocidad de destilación aproximadamente a cuatro gotas por segundo. Cuando aparentemente se haya destilado toda el agua, enjuagar el interior del tubo del condensador con tolueno. Continuar la destilación durante cinco minutos; luego retirar la fuente de calor, dejar que el tubo receptor se enfríe a temperatura ambiente y arrastrar el agua adherida a las paredes. Luego de finalizada la separación del agua y el tolueno, leer el volumen de agua y calcular el porcentaje presente en la sustancia.
+
+
+3. MÉTODO GRAVIMÉTRICO
+
+Procedimiento para Sustancias Químicas - Proceder según se indica en la monografía individual preparando la sustancia química según se indica en Pérdida por Secado.
+
+Procedimiento para Drogas Vegetales - Proceder según se indica en Métodos Generales de farmacognosia de acuerdo a lo indicado en la monografía individual.
+10

@@ -1,0 +1,371 @@
+Resolución GMC N° 23/06
+Título: SUB-ESTÁNDAR 3.7.24. REQUISITOS FITOSANITARIOS PARA GLYCINE MAX (SOJA) SEGÚN PAÍS DE DESTINO Y ORIGEN PARA LOS ESTADOS PARTES DEL MERCOSUR (DEROGACIÓN DE LA RES. GMC Nº 108/96)
+Fecha de aprobación: 22/06/2006
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 22/16.)
+Idioma del texto: ES
+Archivo original: 58180_ATT2BKA7.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/408).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 23/06
+
+SUB-ESTÁNDAR 3.7.24. REQUISITOS FITOSANITARIOS PARA GLYCINE MAX (SOJA) SEGÚN PAÍS DE DESTINO Y ORIGEN PARA LOS ESTADOS PARTES DEL MERCOSUR
+(DEROGACIÓN DE LA RES. GMC Nº 108/96)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N° 06/96 y 20/02 del Consejo del Mercado Común y las Resoluciones Nº 108/96, 57/01 y 52/02 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que por Resolución GMC Nº 108/96, se aprobaron los requisitos fitosanitarios para  Glycine max (soja), a ser aplicados en el intercambio comercial entre los Estados Partes del MERCOSUR.
+
+Que es necesario proceder a la actualización de los requisitos antes indicados, teniendo en cuenta la actual situación fitosanitaria de los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Sub-Estándar 3.7.24. "Requisitos Fitosanitarios para Glycine max (soja) según País de Destino y Origen para los Estados Partes del MERCOSUR", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Organismos Nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina:	Secretaría de Agricultura, Ganadería, Pesca y Alimentos.- SAGPyA
+Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA
+
+Brasil:		Ministério da Agricultura, Pecuária e  Abastecimento - MAPA
+		Secretaria de Defesa Agropecuária - SDA
+
+Paraguay:	Ministerio de Agricultura y Ganadería - MAG
+	Servicio Nacional de Calidad y Sanidad Vegetal y de Semillas - SENAVE
+
+Uruguay:	Ministerio de Ganadería, Agricultura y Pesca - MGAP
+		Dirección General de Servicios Agrícolas - DGSA
+
+Art. 3 - Derógase la Resolución GMC N° 108/96.
+
+Art. 4 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 22/XII/2006.
+
+LXIII GMC - Buenos Aires, 22/VI/06
+
+
+SUB- ESTÁNDAR FITOSANITARIO MERCOSUR
+
+
+SECCIÓN III - MEDIDAS FITOSANITARIAS
+
+
+3.7.24. Requisitos Fitosanitarios para Glycine max (soja)
+según País de Destino y Origen para los Estados Partes del MERCOSUR
+
+
+I - INTRODUCCIÓN
+
+
+1. ÁMBITO
+
+Este Sub-estándar presenta los requisitos fitosanitarios armonizados, aplicados por las ONPFs de los Estados Partes del MERCOSUR en el intercambio regional de Glycine max (soja).
+
+
+2. REFERENCIAS
+
+* Estándar 3.7. Requisitos Fitosanitarios Armonizados por Categoría de Riesgo para el Ingreso de Productos Vegetales, 2da revisión, Resolución GMC N° 52/02.
+
+
+3. DEFINICIONES Y ABREVIATURAS
+
+Las establecidas en el Estándar 3.7.
+
+
+4. DESCRIPCIÓN
+
+Este Sub-estándar presenta los requisitos fitosanitarios armonizados utilizados por las ONPFs de los Estados Partes del MERCOSUR en el intercambio regional para Glycine max (soja), en sus diferentes presentaciones y organizados por País de Destino y Origen.
+
+
+II. REQUISITOS FITOSANITARIOS  PARA Glycine max  (soja), SEGÚN PAÍS DE DESTINO Y ORIGEN, PARA LOS ESTADOS PARTES DEL MERCOSUR
+
+
+II.24.A. PAÍS DE DESTINO: 						ARGENTINA
+
+REQUISITOS FITOSANITARIOS PARA
+Glycine max
+
+EXIGENCIAS CUARENTENARIAS:
+CATEGORÍA 4
+CATEGORÍA 3
+CATEGORÍA 2
+CLASE 3: SEMILLAS
+CLASE 9: GRANOS
+CLASE 10: OTROS
+CLASE 10: OTROS
+Código:
+GLXMA 2 13 01 03 4
+o
+Semilla propagación
+Código:
+GLXMA
+1 13 01 09 3
+o
+Grano consumo
+
+Código:
+GLXMA
+1 37 01 10 3
+o
+Brotes consumo
+
+Códigos:
+GLXMA
+1 13 12 10 2
+o
+Grano procesado (torta y expeller)
+
+GLXMA
+1 13 02 10 2
+o
+Afrechillo
+Requisitos fitosanitarios
+R0, R1, R2, (R3), R4, (R7), R8, (R9), R12
+R0, R1, R2, (R3), (R4), (R7), (R8),  R12.
+R0, R1, R2, (R4), (R7), (R8), R12.
+
+REQUISITOS SEGÚN ORIGEN:
+Requisitos fitosanitarios exigidos por Argentina para:
+BRASIL
+CF:
+DA5 o DA15,  Bean pod mottle virus, Southern bean mosaic virus, Tobacco ringspot virus, Curtobacterium flaccumfaciens  pv. flaccumfaciens
+CF
+CF
+CF
+PARAGUAY
+CF
+
+CF
+CF
+CF
+URUGUAY
+CF:
+DA5 o DA15,  Tobacco ringspot vírus
+CF
+CF
+CF
+
+II.24.B. PAÍS DE DESTINO: 							BRASIL
+
+REQUISITOS FITOSANITARIOS PARA
+Glycine max
+
+EXIGENCIAS CUARENTENARIAS
+CATEGORÍA 4
+CATEGORÍA 3
+CATEGORÍA 2
+CLASE 3: SEMILLAS
+CLASE 9: GRANOS
+
+CLASE 10: OTROS
+CLASE 10: OTROS
+Código:
+GLXMA 2 13 01 03 4
+o
+Semilla propagación
+Código:
+GLXMA
+1 13 01 09 3
+o
+Grano consumo
+
+Código:
+GLXMA
+1 37 01 10 3
+o
+Brotes consumo
+
+Códigos:
+GLXMA
+1 13 12 10 2
+o
+Grano procesado (torta y expeller)
+
+GLXMA
+1 13 02 10 2
+o
+Afrechillo
+Requisitos fitosanitarios
+R0, R1, R2, (R3), R4, (R7), R8, (R9), R12.
+(R0), R1, R2, (R3), (R4), (R7), (R8), R12.
+(R0), R1, R2, (R4), (R7), (R8), R12.
+
+REQUISITOS SEGÚN ORIGEN:
+Requisitos fitosanitarios exigidos por Brasil para:
+ARGENTINA
+CF
+
+CF
+CF
+CF
+PARAGUAY
+CF
+
+CF
+CF
+CF
+
+URUGUAY
+CF
+
+CF
+CF
+CF
+
+
+II.24.C. PAÍS DE DESTINO: 						PARAGUAY
+
+REQUISITOS FITOSANITARIOS PARA
+Glycine max
+
+
+EXIGENCIAS CUARENTENARIAS:
+CATEGORÍA 4
+CATEGORÍA 3
+CATEGORÍA 2
+CLASE 3: SEMILLAS
+CLASE 9: GRANOS
+
+CLASE 10: OTROS
+CLASE 10: OTROS
+Código:
+GLXMA 2 13 01 03 4
+o
+Semilla propagación
+Código:
+GLXMA
+1 13 01 09 3
+o
+Grano consumo
+
+Código:
+GLXMA
+1 37 01 10 3
+o
+Brotes consumo
+
+Códigos:
+GLXMA
+1 13 12 10 2
+o
+Grano procesado (torta y expeller)
+
+GLXMA
+1 13 02 10 2
+o
+Afrechillo
+Requisitos fitosanitarios
+R0, R1, R2, (R3), R4, (R7), R8, (R9), (R12).
+R0, R1, R2, (R3), (R4), (R7), (R8), (R12).
+R0, R1, R2, (R4), (R7), (R8), (R12).
+
+REQUISITOS SEGÚN ORIGEN:
+Requisitos fitosanitarios exigidos por Paraguay para:
+ARGENTINA
+CF
+
+CF
+CF
+CF
+BRASIL
+CF:
+DA5 o DA15,
+Curtobacterium flaccumfaciens  pv. flaccumfaciens, Southern bean mosaic vírus
+CF
+CF
+CF
+
+URUGUAY
+CF
+
+CF
+CF
+CF
+
+
+II.24.D.PAÍS DE DESTINO:						URUGUAY
+
+REQUISITOS FITOSANITARIOS PARA
+Glycine max
+
+EXIGENCIAS CUARENTENARIAS:
+CATEGORÍA 4
+CATEGORÍA 3
+CATEGORÍA 2
+CLASE 3: SEMILLAS
+CLASE 9: GRANOS
+
+CLASE 10: OTROS
+CLASE 10: OTROS
+Código:
+GLXMA 2 13 01 03 4
+o
+Semilla propagación
+Código:
+GLXMA
+1 13 01 09 3
+o
+Grano consumo
+
+Código:
+GLXMA
+1 37 01 10 3
+o
+Brotes consumo
+
+Códigos:
+GLXMA
+1 13 12 10 2
+o
+Grano procesado (torta y expeller)
+
+GLXMA
+1 13 02 10 2
+o
+Afrechillo
+Requisitos fitosanitarios
+R0, R1, R2, R3, R4, (R7), R8, (R9), R12.
+R0, R1, R2, (R3), (R4), (R8), R12.
+R0, R1, R2, (R4),  (R8), R12.
+
+REQUISITOS SEGÚN ORIGEN:
+Requisitos fitosanitarios exigidos por Uruguay  para:
+ARGENTINA
+CF:
+DA5 o DA15, Heterodera glycines
+CF
+CF
+CF
+BRASIL
+CF:
+DA5 o DA15,
+Curtobacterium flaccumfaciens  pv. flaccumfaciens,
+Heterodera glycines
+CF
+CF
+CF
+
+PARAGUAY
+CF:
+DA5 o DA15, Heterodera glycines
+CF
+CF
+CF
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 23/07/15
+
+Oscar Pastore
+             Director
+
+
+8
+
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 23/07/15
+
+Oscar Pastore
+             Director

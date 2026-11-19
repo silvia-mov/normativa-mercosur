@@ -1,0 +1,79 @@
+Resolución GMC N° 17/94
+Título: USO DE NUEVAS BANDAS DE FRECUENCIAS
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 25384_RES_017-1994_ES_BandasFrecuen.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1853).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 17/94
+
+USO DE NUEVAS BANDAS DE FRECUENCIAS
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, y, la Recomendación Nº 15/94 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que es complejo armonizar la utilización de las bandas ya existentes y que es necesario para el futuro tener una planificación de frecuencias para ser utilizadas por los distintos servicios.
+
+Que la decisiones de la CAMR-92 han atribuido nuevas bandas de frecuencias a diferentes servicios.
+
+Que en virtud de ellos sería importante que los países armonicen la implementación de servicios dentro de las bandas del espectro radioeléctrico.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. Solicitar a las autoridades competentes de los Estados Partes del MERCOSUR que realicen todos los esfuerzos para armonizar la implementación de servicios en las bandas atribuidas por la CAMR-92, que figura como Anexo de la presente Resolución.
+
+Art. 2. Establecer que en el caso que una Administración desee introducir modificaciones a la utilización de las bandas de frecuencia explicitadas en el Anexo, deberá solicitar la revisión del mismo fundamentándose en las disposiciones del Reglamento de Radiocomunicaciones.
+
+Art. 3. Establecer que la utilización que las Administraciones realizan de las bandas de frecuencias no contempladas en el Anexo, continuarán siendo planeadas por ellas conforme a las disposiciones del Reglamento de Radiocomunicaciones.
+
+
+ANEXO
+
+"ARMONIZACION DEL USO DE NUEVAS BANDAS DE FRECUENCIAS ATRIBUIDAS A DIVERSOS SERVICIOS EN LA CAMR-92"
+
+I) Radiodifusión de Ondas Decamétricas
+
+
+Bandas de frecuencias (kHz)	5900 - 5950			7300- 7350			9400 - 9500			11600 - 11650			12050 - 12100			13570 - 13600			13800 - 13870			15600 - 15800			17480 - 17550			18900 - 19020
+Las precitadas bandas estarán disponibles para este Servicio a partir del 1º de Abril del 2007.
+
+II) Servicio Móvil por Satélite
+
+BANDAS DE FRECUENCIAS (MHz) 	NUEVA ATRIBUCION CAMR-92 	OBSERVACIONES		137 - 138 	MS	N-GSO		148 – 149,9	MS	N-GSO		149, 9 – 150,05	NTS	N-GSO		312 - 315	------			387 -390	------			400,15 - 401	MS	N-GSO		1525 - 1530	MS			1530 - 1533	MS			1533 - 1544	MS			1544 - 1545	MS			1545 - 1555	MAS (R)			1555 - 1559	MTS	MS (Argentina)		1626,5 – 1631,5	MS			1631,5 – 1634,5	MS			1634,5 – 1645,5	MMS	MS (Argentina, Brasil y Uruguay)		1645,5 – 1646,5	MS			1646,5 – 1656,5	MAS (R)			1656,5 – 1660,5	MTS	MS (Argentina)		1492 - 1525	MS			1675 - 1710	MS			1610 – 1626,5	MS ( RDS			2483,5 - 2500	MS ( RDS			1613,8 – 1626,5	MS			1930 - 1970	-----			2120 – 2160 	-----			1970 - 2010	MS			2160 - 2200	MS			2500 - 2520	-----			2670 - 2690	-----			2520 - 2535	-----			2655 - 2670	-----			19,7 – 20,2 GHz	MS			29,5 – 30 GHz	-----
+III) Radiodifusión por Satélite y Radiodifusión
+
+BANDA (MHz)                          OBSERVACIONES
+
+1452 - 1492
+
+
+IV) Televisión de Alta Definición (TVAD)
+
+BANDA (GHz)                         OBSERVACIONES
+
+17,3 - 17,8
+
+V) Fijo por Satélite
+
+
+BANDA (GHz)
+13,75 – 14                               OBSERVACIONES
+
+VI) Investigación Espacial, Exploración de la Tierra por Satélite y Operación Espacial
+
+
+BANDAS (MHz)                       OBSERVACIONES
+2025 – 2120
+2200 - 2290
+
+VII) Entre Satélites
+
+BANDAS (MHz)                       OBSERVACIONES
+22,55 – 23                                Los países del MERCOSUR no pretenden utilizar
+24,45 – 24,75                           Los países del MERCOSUR no pretenden utilizar
+25,25 - 27                                 Los países del MERCOSUR no pretenden utilizar
+32 – 32,3                                  Los países del MERCOSUR no pretenden utilizar

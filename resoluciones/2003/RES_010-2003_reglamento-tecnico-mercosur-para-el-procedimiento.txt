@@ -1,0 +1,204 @@
+Resolución GMC N° 10/03
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA EL PROCEDIMIENTO DE MUESTREO Y TOLERANCIAS PARA LOTES DE 5 A 49 UNIDADES EN PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE LONGITUD Y/O NÚMERO DE UNIDADES
+Fecha de aprobación: 12/06/2003
+Vigencia: Derogada (Derogada por la Res. GMC N° 17/010 Vigente desde el 21/09/2008 - Art. 40 POP - hasta el 28/01/21.)
+Idioma del texto: ES
+Archivo original: 12064_RES_010-2003_ES_RTMLotes5a49unidades-ProdPremedidos.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/942).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 10/03
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA EL PROCEDIMIENTO DE MUESTREO Y TOLERANCIAS PARA LOTES DE 5 A 49 UNIDADES EN PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE LONGITUD Y/O NÚMERO DE UNIDADES
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 91/93, 38/98, 58/99, 23/00 y 56/02 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario definir claramente el procedimiento de muestreo y tolerancias en lotes de 5 a 49 unidades comercializados en unidades longitud y/o números de unidades para facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción, eliminando barreras técnicas así como garantizar la defensa del consumidor.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR para el Procedimiento de Muestreo y Tolerancias para Lotes de 5 a 49 Unidades en Productos Premedidos Comercializados en Unidades de Longitud y/o Número de Unidades", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, a través de los siguientes organismos:
+
+Argentina:	Ministerio de la Producción, Secretaría de la Competencia, la Desregulación y la Defensa del Consumidor (S.C.D. y D.C.)
+Brasil:		Instituto Nacional de Metrología, Normalização e Qualidade Industrial (INMETRO)
+Paraguay: 	Instituto Nacional de Tecnología y Normalización (INTN)
+Uruguay:	Ministerio de Industria, Energía y Minería (MIEM)
+
+Art. 3 - La presente Resolución se aplica en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 08/XII/03.
+
+
+L GMC - Asunción, 12/VI/03
+
+ANEXO
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA EL PROCEDIMIENTO DE MUESTREO Y TOLERANCIAS PARA LOTES DE 5 A 49 UNIDADES EN PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE LONGITUD Y/O NÚMERO DE UNIDADES
+
+1. OBJETIVO
+
+1.1 - Este Reglamento Técnico MERCOSUR establece los criterios para la verificación del contenido efectivo de productos premedidos con contenido nominal igual, comercializados en unidades de longitud  y/o número de unidades.
+
+2. CAMPO DE APLICACIÓN
+
+2.1 - Este Reglamento Técnico MERCOSUR se aplica al control metrológico de productos premedidos comercializados en unidades de longitud y/o número de unidades que se presenten para su comercialización en lotes de 5 a 49 unidades en el punto de venta.
+
+3. DEFINICIONES
+
+3.1 Lote en Punto de Venta.
+
+Se considera lote a la cantidad de producto inferior a 50 (cincuenta) unidades del mismo tipo de producto, marca y contenido nominal.
+
+3.2. Contenido efectivo.
+
+Es la cantidad de producto contenida en el envase.
+
+3.3. Contenido nominal (Qn) .
+
+Es la cantidad indicada en el envase del producto.
+
+3.4. Tolerancia individual (T) .
+
+Es la diferencia tolerada en menos, entre el contenido efectivo y el contenido nominal, indicada en las tablas I y III de este Reglamento.
+
+3.5. Muestra del lote.
+
+Es la cantidad de productos premedidos que será efectivamente verificada, indicada en las tablas II y IV.
+
+3.6. Promedio de la muestra (X).
+
+Es definido por la ecuación:
+
+
+Xi = es el contenido efectivo de cada producto.
+n = es el número de productos.
+
+3.7. Desvío estándar de la muestra (s)
+
+Es definido por la ecuación:
+
+
+xi = Es el contenido efectivo de cada producto.
+n = Es el número de productos.
+x = Es el promedio del producto.
+
+4. CRITERIOS DE APROBACIÓN DEL LOTE
+
+El lote sometido a verificación es aprobado cuando la muestra cumple simultáneamente ambos criterios, el individual y el del promedio.
+
+4.1. Productos comercializados en número de unidades.
+4.1.1. Criterio individual
+
+No es admitida ninguna unidad debajo de Qn-T, siendo T obtenido de la Tabla I.
+
+						Tabla I
+Cantidad Nominal (Qn)
+Tolerancia (T)
+hasta 30 unidades
+0
+De 31 a 100 unidades
+1
+De 101 a 200 unidades
+2
+De 201 a 300 unidades
+3
+Superior a 300 unidades
+1 para cada 100
+
+4.1.2. Criterio del promedio.
+El promedio de la muestra deberá ser mayor o igual al contenido nominal (X   Qn) .
+
+						Tabla II
+Lote
+Muestra del lote
+de 5 a 13
+Todas
+de 14 a 49
+14
+
+4.2. Productos comercializados en unidades de longitud.
+
+4.2.1. Criterio individual.
+
+No es admitida ninguna unidad abajo de Qn-T, siendo el valor de T obtenido de la Tabla III.
+
+
+						Tabla III
+
+Tolerancia Individual ( T )
+Contenido nominal (Qn )
+Porcentual de Qn
+Qn   0,01 m
+2 %
+
+4.2.2. Criterio para el promedio.
+
+Conforme con la Tabla IV (X   Qn - ks).
+
+
+      					Tabla IV
+
+
+Lote
+Muestra
+Criterio de aceptación para el promedio
+5
+5
+
+X     Qn - 2,059.s
+6
+6
+
+X     Qn - 1,646.s
+7
+7
+
+X     Qn - 1,401.s
+8
+8
+
+X     Qn - 1,237.s
+9
+9
+
+X    Qn - 1,118.s
+10
+10
+
+X     Qn - 1,028.s
+11
+11
+
+X     Qn - 0,995.s
+12
+12
+
+X     Qn - 0,897.s
+13
+13
+
+X     Qn - 0,847.s
+14 a 49
+14
+
+X     Qn - 0,805.s
+
+
+RESUMEN  EJECUTIVO
+
+
+El presente Proyecto de Resolución establece el régimen de toma de muestras y tolerancias a aplicar en el control de productos premedidos, cuyos contenidos netos se encuentren expresados en unidades de longitud y/o número de unidades, y que al momento de la verificación se presenten en lotes de entre 5 y 49 unidades.
+
+
+PAGE  
+
+
+4

@@ -1,0 +1,225 @@
+Resolución GMC N° 17/10
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE CONTROL METROLÓGICO DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE LONGITUD Y NÚMERO DE UNIDADES DE CONTENIDO NOMINAL IGUAL (DEROGACIÓN DE LAS RES. GMC N° 27/97 y 10/03)
+Fecha de aprobación: 15/06/2010
+Vigencia: Vigente (Vigente desde el 28/01/2021 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 44563_RES_017-2010_ES_Derogacion Res. 27-97 y 10-03.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1823).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 17/10
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CONTROL METROLÓGICO DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE LONGITUD Y NÚMERO DE UNIDADES DE CONTENIDO NOMINAL IGUAL
+(DEROGACIÓN DE LAS RES. GMC N° 27/97 y 10/03)
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones No 27/97, 38/98, 56/02, 10/03 y 07/08 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario contar con un Reglamento armonizado para unificar las legislaciones nacionales sobre muestreo y tolerancia para control metrológico de los productos premedidos comercializados en unidades de longitud y número de unidades.
+
+Que tal sistema de control metrológico está destinado a facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción y a eliminar barreras técnicas que sean obstáculo a la libre circulación de productos premedidos, como asimismo garantizar la defensa del consumidor.
+
+Que las Resoluciones GMC No 27/97 y 10/03 tratan del mismo tema y se considera necesario unificar el contenido de las mismas y alinearlas con la Resolución GMC Nº 07/08.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Control Metrológico de Productos Premedidos Comercializados en Unidades de Longitud y Número de unidades de Contenido Nominal Igual", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los organismos nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina: Ministerio de Economía y Finanzas Públicas
+             Secretaría de Comercio Interior
+
+Brasil:       Instituto Nacional de Metrologia, Normalização e Qualidade Industrial
+
+Paraguay: Instituto Nacional de Tecnología, Normalización y Metrología
+
+Uruguay:   Ministerio de Industria, Energía y Minería.
+
+Art. 3 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+
+Art. 4 - Derogar  las Resoluciones GMC No 27/97 y 10/03.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/XII/2010.
+
+
+LXXX GMC - Buenos Aires, 15/VI/10.
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CONTROL METROLÓGICO DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE LONGITUD Y NÚMERO DE UNIDADES DE CONTENIDO NOMINAL IGUAL
+
+1. APLICACIÓN
+
+El presente Reglamento se aplicará para la verificación de los contenidos netos de los productos premedidos en fábricas, depósitos y puntos de venta, con contenido nominal igual, expresado en longitud en unidades del SISTEMA INTERNACIONAL DE UNIDADES o número de unidades.
+
+
+2. DEFINICIONES
+
+2.1. PRODUCTO PREMEDIDO
+
+Es todo producto envasado y medido sin la presencia del consumidor y en condiciones de comercializarse.
+
+2.2. PRODUCTO PREMEDIDO DE CONTENIDO NOMINAL IGUAL
+
+Es todo producto envasado y medido sin la presencia del consumidor, con igual contenido nominal y predeterminado en el envase durante el proceso de fabricación.
+
+2.3. CONTENIDO EFECTIVO
+
+Es la cantidad de producto que realmente contiene el producto premedido.
+
+2.4. CONTENIDO NOMINAL (Qn)
+
+Es el contenido neto de producto declarado en el envase.
+
+2.5. ERROR EN MENOS, CON RELACIÓN AL CONTENIDO NOMINAL
+
+Es la diferencia en menos entre el contenido efectivo y el nominal.
+
+2.6. TOLERANCIA INDIVIDUAL ( T )
+
+Es la diferencia tolerada en menos, entre el contenido efectivo y el contenido nominal, que se encuentra establecido en las Tablas II y III de este Reglamento.
+
+2.7. INCERTIDUMBRE DE MEDICIÓN  DEL CONTENIDO NETO O EFECTIVO
+
+La incertidumbre expandida, con un nivel de confianza de 95%, asociada a instrumentos de medición y a los métodos de ensayo utilizados para la determinación de las cantidades no deberá exceder 0,2T.(Tabla I).
+
+
+2.8.  LOTE
+
+2.8.1.  EN  FÁBRICA
+
+Es el conjunto de productos de un mismo tipo (marca, contenido nominal), procesados por un mismo fabricante o fraccionados en un espacio de tiempo determinado, en condiciones esencialmente iguales. Se considera espacio de tiempo determinado, la producción de una hora, siempre que las cantidades de producto sean iguales o superiores a 150 unidades.
+
+En el caso que la cantidad supere las 10.000 unidades el excedente podrá formar nuevo(s) lote(s).
+
+2.8.2. EN DEPÓSITO
+
+En el depósito el lote está referido a todas las unidades de un mismo tipo de producto (marca, contenido nominal) siempre que el número de la misma sea superior a 150. En el caso de que supere las 10.000 unidades el  excedente podrá formar nuevo(s) lote(s).
+
+2.8.3. PUNTO DE VENTA
+
+En el punto de venta el lote está referido a todas las unidades de un mismo tipo de producto (marca, contenido nominal), siempre que el número de la misma sea igual o superior a 9. En el caso de que supere las 10.000 unidades el excedente podrá formar nuevo(s) lote(s).
+
+2.9. MUESTRA DEL LOTE
+
+Es la cantidad de productos premedidos retirados aleatoriamente del lote y que será efectivamente controlada.
+
+2.10. MEDIA ARITMÉTICA DE LA MUESTRA
+
+Es igual a la suma de los contenidos individuales de cada unidad de la muestra dividida por el número de unidades de la muestra. Está representada por la siguiente ecuación:
+
+
+donde:
+xi es el contenido efectivo de cada unidad de la muestra de producto
+n es el número de unidades de la muestra de producto
+
+2.11. DESVIACIÓN STANDARD DE LA MUESTRA (S)
+
+Es igual a la raíz cuadrada de la suma de los cuadrados de las diferencias entre los contenidos individuales y el valor medio de los contenidos, dividido por el número de unidades de la muestra, menos uno.
+
+
+donde:
+xi es el contenido efectivo de cada unidad de la muestra de producto
+n es el número de unidades de la muestra de producto
+
+3. CRITERIOS DE APROBACIÓN DE LOTE DE PRODUCTOS PREMEDIDOS
+
+3.1. PRODUCTOS COMERCIALIZADOS EN UNIDADES DE LONGITUD
+
+El lote sometido a verificación es aprobado cuando las condiciones 3.1.1 y 3.1.2 son simultáneamente atendidas.
+
+3.1.1. CRITERIO PARA LA MEDIA
+
+
+donde:
+Qn es el contenido nominal del producto
+k es el factor que depende del tamaño de la muestra obtenido de la Tabla I
+S es la desviación standard de la muestra.
+
+3.1.2. CRITERIO INDIVIDUAL
+
+Es admitido un máximo de c unidades de la muestra abajo de: Qn - T (T es obtenido de la Tabla II y c es obtenido de la Tabla I).
+
+Para los productos que por razones técnicas no puedan cumplir con las tolerancias establecidas en este Reglamento Técnico, los Estados Partes acordarán las excepciones correspondientes.
+
+3.2. PRODUCTOS COMERCIALIZADOS EN NÚMERO DE UNIDADES
+
+El lote sometido a verificación es aprobado cuando las condiciones 3.2.1 y 3.2.2 son simultáneamente atendidas.
+
+
+3.2.1. CRITERIO PARA LA MEDIA
+
+
+donde:
+Qn es el contenido nominal del producto
+
+3.2.2. CRITERIO INDIVIDUAL
+
+Es admitido un máximo de c unidades de la muestra abajo de: Qn - T (T es obtenido de la Tabla III y c es obtenido de la Tabla I).
+
+Para los productos que por razones técnicas no puedan cumplir con las tolerancias establecidas en este Reglamento Técnico, los Estados Partes acordarán las excepciones correspondientes.
+
+
+TABLA I
+ Muestreo para Control
+
+Tamaño de Lote
+Tamaño de la muestra
+Criterio para la Aceptación de la Media
+
+Criterio para Aceptación individual (c) (máximo de defectuosos debajo de Qn-T)
+9 a 25
+5
+
+0
+26 a 50
+13
+
+1
+51 a 149
+20
+
+1
+150 a 4000
+32
+
+2
+4001 a 10000
+80
+
+5
+
+TABLA II
+Tolerancia individual para productos comercializados en unidades de longitud
+
+Tolerancia individual T
+2 % de Qn
+
+TABLA III
+Tolerancia individual para productos comercializados en número de unidades
+
+Contenido nominal (Qn)
+Tolerancia individual (T)
+Hasta 30 unidades
+0
+De 31 a 100 unidades
+1
+De 101 a 200 unidades
+2
+De 201 a 300 unidades
+3
+Mas de 300 unidades
+1 %*
+* se redondea al siguiente número entero por tratarse de número de unidades que no pueden ser fraccionadas
+
+
+6

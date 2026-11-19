@@ -1,0 +1,109 @@
+Resolución GMC N° 35/08
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE REQUISITOS ESENCIALES DE SEGURIDAD PARA PRODUCTOS ELÉCTRICOS DE BAJA TENSIÓN
+Fecha de aprobación: 28/11/2008
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 3971_RES_035-2008_ES_RTM Seguridad Prod Electricos.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/253).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 35/08
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE REQUISITOS ESENCIALES DE SEGURIDAD PARA PRODUCTOS ELÉCTRICOS DE BAJA TENSIÓN
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N 38/98, 56/02 y 22/05 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario garantizar a los consumidores la seguridad en la utilización de los productos eléctricos de baja tensión en condiciones previsibles o normales de uso.
+
+Que es función de los Estados Partes determinar los requisitos esenciales de seguridad, que deben cumplir los productos eléctricos de baja tensión para su comercialización.
+
+Que al ser estos requisitos los mínimos exigibles desde el punto de vista de la seguridad de las personas, bienes y animales domésticos, el cumplimiento de los mismos no deberá eximir del cumplimiento de reglamentaciones vigentes en otros ámbitos específicos.
+
+Que la armonización de Reglamentos Técnicos MERCOSUR tenderá a eliminar los obstáculos al comercio que son generados por diferencias en las reglamentaciones nacionales vigentes, dando cumplimiento a lo establecido en el Tratado de Asunción.
+
+Que estos requisitos contemplan lo solicitado por los Estados Partes.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Requisitos Esenciales de Seguridad para Productos Eléctricos de Baja Tensión", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los organismos nacionales competentes para la implementación de la presente Resolución, son:
+
+Argentina:	 Ministerio de Economía y Producción
+                                 Secretaría de Comercio Interior - SCI
+
+Brasil:	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO
+
+Paraguay:	Ministerio de Industria y Comercio - MIC
+
+Uruguay:		Unidad Reguladora de Servicios de Energía y Agua - URSEA
+
+Art. 3 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del 01/VII/09.
+
+
+LXXIV GMC - Brasilia, 28/XI/08
+
+
+ANEXO
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE REQUISITOS ESENCIALES DE SEGURIDAD PARA PRODUCTOS ELÉCTRICOS DE BAJA TENSIÓN
+
+
+I. A los fines del presente Reglamento se considerarán productos eléctricos de baja tensión los materiales y equipos eléctricos y electrónicos de tensión nominal mayor que cincuenta (50) volts y hasta mil (1000) volts en corriente alterna o mayor que setenta y cinco (75) volts y hasta mil quinientos (1500) volts en corriente continua, con la excepción de los siguientes:
+
+a) Material eléctrico destinado a utilizarse en una atmósfera explosiva;
+b) Material eléctrico para electro-radiología y para usos médicos y;
+c) Material eléctrico para uso exclusivo en buques, aeronaves y ferrocarriles.
+
+II. Las características fundamentales del producto eléctrico de baja tensión, de cuyo conocimiento y observancia dependa la utilización segura de acuerdo con el destino y el empleo,  figurarán sobre el mismo o, cuando esto no sea posible, en el manual de instrucciones o en el envase, redactadas en el idioma del país donde será comercializado (español o portugués), o en ambos idiomas.
+
+III. En todo producto eléctrico de baja tensión se marcará, de manera distinguible e indeleble, como mínimo lo siguiente:
+* país de origen;
+* marca comercial;
+* modelo.
+
+Además se marcará de la misma manera en el producto eléctrico de baja tensión, o en el envase cuando esto no sea posible, la siguiente información adicional:
+
+Para productos de fabricación nacional:
+* razón social y domicilio legal del fabricante.
+Para productos fabricados en otros Estados Partes y Extrazona:
+* razón social o nombre del importador y su domicilio legal.
+
+IV. Los productos eléctricos de baja tensión y todas sus partes y piezas serán fabricados de modo que permitan una conexión segura y adecuada.
+
+V. Los productos eléctricos de baja tensión deberán diseñarse y fabricarse de modo que quede garantizada la protección contra los peligros a que se refieren los ítems A y B citados abajo, siempre que sean atendidas las instrucciones del fabricante en cuanto a su uso adecuado y mantenimiento.
+
+
+A- Protección contra los peligros originados en el propio producto eléctrico de baja tensión.
+Serán previstas medidas de índole técnica a fin de que:
+
+1. Las personas y los animales domésticos queden adecuadamente protegidos contra el riesgo de heridas y otros  daños que puedan sufrir a causa de contactos directos o indirectos.
+
+2. No produzcan temperaturas, arcos eléctricos o radiaciones peligrosas.
+
+3. Sean  protegidas convenientemente las personas, animales domésticos y los bienes contra los peligros de naturaleza no eléctrica causados por el producto eléctrico.
+
+B.- Protección contra los peligros causados por efecto de influencias exteriores sobre el producto eléctrico de baja tensión.
+
+Se establecerán medidas de índole técnica  a fin de que:
+
+1. El producto eléctrico de baja tensión responda a las exigencias mecánicas previstas, no colocando en peligro las personas, los animales domésticos y los bienes.
+
+2. El producto eléctrico de baja tensión resista a las influencias no mecánicas en las condiciones previstas de medio ambiente, con objeto de que no corran peligro las personas, los animales domésticos y los bienes.
+
+3. El producto eléctrico de baja tensión no ponga en peligro a las personas, los animales domésticos y los bienes en las condiciones previstas de sobrecarga.
+
+VI. La aislación, así como también la clase de aislación, deberán ser adecuadas para las condiciones de utilización previstas.
+4
+
+
+2

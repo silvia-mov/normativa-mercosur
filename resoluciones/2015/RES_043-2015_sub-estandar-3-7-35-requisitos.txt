@@ -1,0 +1,560 @@
+Resolución GMC N° 43/15
+Título: SUB-ESTÁNDAR 3.7.35. REQUISITOS FITOSANITARIOS PARA Eucalyptus spp. (Eucalipto) SEGÚN PAÍS DE DESTINO Y ORIGEN PARA LOS ESTADOS PARTES
+Fecha de aprobación: 25/11/2015
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 21/19.)
+Idioma del texto: ES
+Archivo original: 59787_RES_043-2015_ES_SubEucsppComp.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3206).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 43/15
+
+
+SUB-ESTÁNDAR 3.7.35. REQUISITOS FITOSANITARIOS PARA Eucalyptus spp. (Eucalipto) SEGÚN PAÍS DE DESTINO Y ORIGEN PARA LOS ESTADOS PARTES
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 06/96 del Consejo del Mercado Común y la Resolución Nº 52/02 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario proceder a la armonización de los requisitos fitosanitarios para Eucalyptus spp. (Eucalipto) teniendo en cuenta la actual situación fitosanitaria de los Estados Partes.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+
+Art. 1 - Aprobar el "Sub-Estándar 3.7.35. Requisitos Fitosanitarios para Eucalyptus spp. (Eucalipto) según País de Destino y Origen para los Estados Partes", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 8 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 31/V/2016.
+
+C GMC - Asunción, 25/XI/15
+
+
+ANEXO
+
+
+SUB-ESTANDAR FITOSANITARIO MERCOSUR
+
+
+SECCION III - MEDIDAS FITOSANITARIAS
+
+
+Sub-estándar 3.7.35. Requisitos Fitosanitarios para Eucalyptus spp. (Eucalipto) según País de Destino y Origen, para los Estados Partes
+
+
+I- INTRODUCCIÓN
+
+
+1.- ÁMBITO
+
+Este Sub-estándar presenta los requisitos fitosanitarios armonizados, aplicados por las organizaciones nacionales de protección fitosanitaria (ONPFs) de los Estados Partes en el intercambio regional, para Eucalyptus spp. (Eucalipto).
+
+
+2.- REFERENCIAS
+
+- Estándar 3.7 Requisitos Fitosanitarios Armonizados por Categoría de Riesgo para el Ingreso de Productos Vegetales, 2ª Rev. Octubre 2002, aprobado por Resolución GMC Nº 52/02.
+- Listado regional de las principales plagas reglamentadas para la región COSAVE, 2013.
+- Listados Nacionales de Plagas Cuarentenarias de los Estados Partes.
+- Lista de plagas presentes de Eucalyptus spp. elaborada por el GT-SF del COSAVE, 2013.
+- Evaluaciones de Riesgo de Plaga para Chilecomadia valdiviana, Corticium salmonicolor, Cryphonectria cubensis, Ctenarytaina eucalyptii, Ctenarytaina spatulata, Cylindrocladium spp. (excepto C. scoparium), Gonipterus gibberus, Gonipterus scutellatus, Oxydia apidania, Oxydia vesulia, Phoracantha semipunctata, Phoracantha recurva, Platypus linearis, Pythium splendens, Thyrinteina arnobia, Thyrinteina leucocerae y Xyleborus spp.
+
+
+ 3.- DESCRIPCIÓN
+
+Este Sub-estándar presenta los requisitos fitosanitarios armonizados, utilizados por las ONPFs de los Estados Partes en el intercambio regional, para Eucalyptus spp. (Eucalipto), en sus diferentes presentaciones y organizados por país de destino y origen.
+
+
+II. 35. A. PAÍS DE DESTINO:						ARGENTINA
+
+REQUISITOS FITOSANITARIOS PARA Eucalyptus spp.
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Códigos: EUCSS 2 10 01 01 4 (Plantas)
+                EUCSS 2 01 01 01 4 (Estacas con raíz)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R8 - Ingresará a Depósito Cuarentenario bajo control oficial.
+R11 - Las plantas o las estacas enraizadas deben estar libres de suelo.
+Declaraciones Adicionales:
+Brasil:
+DA1 - El envío se encuentra libre de Oxydia apidania, Oxydia vesulia, Thyrinteina arnobia y Thyrinteina leucocerae.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Corticium salmonicolor, Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae, Cylindrocladium pteridis y Pythium splendens.
+o
+DA15 - El envío se encuentra libre de Corticium salmonicolor, Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae, Cylindrocladium pteridis y Pythium splendens, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Venezuela:
+DA1 - El envío se encuentra libre de Thyrinteina arnobia.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se ha detectado Cylindrocladium pteridis.
+o
+DA15 - El envío se encuentra libre de Cylindrocladium pteridis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+No hay Declaraciones Adicionales para Paraguay y Uruguay.
+
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Código: EUCSS 2 10 13 01 4 (Planta in vitro)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde).
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+No hay Declaraciones Adicionales para Brasil, Paraguay, Uruguay y Venezuela.
+
+CATEGORÍA 4
+CLASE 3: Semillas
+Código: EUCSS 2 13 01 03 4
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde).
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Brasil:
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae y Cylindrocladium pteridis.
+o
+DA15 - El envío se encuentra libre de Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae y Cylindrocladium pteridis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Venezuela:
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se ha detectado Cylindrocladium pteridis.
+o
+DA15 - El envío se encuentra libre de Cylindrocladium pteridis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+No hay Declaraciones Adicionales para Paraguay y Uruguay.
+
+CATEGORÍA 3
+CLASE 6: Maderas, corteza, corcho
+Código: EUCSS 1 14 06 06 3 (Madera no procesada)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R8 - Ingresará a Depósito Cuarentenario bajo control oficial.
+Declaraciones Adicionales:
+Brasil:
+DA1 - El envío se encuentra libre de Platypus linearis, Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus, Xyleborus retusus y Xyleborus spinosulus.
+
+Paraguay:
+DA1 - El envío se encuentra libre de Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus, Xyleborus retusus y Xyleborus spinosulus.
+
+Uruguay:
+DA1 - El envío se encuentra libre de Xyleborus retusus.
+
+No hay Declaraciones Adicionales para Venezuela.
+
+CATEGORÍA 2
+CLASE 6: Maderas, cortezas, corcho
+Código: EUCSS 1 14 07 06 2 (Madera semi procesada)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Brasil:
+DA1 - El envío se encuentra libre de Platypus linearis, Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus, Xyleborus retusus y Xyleborus spinosulus.
+
+Paraguay:
+DA1 - El envío se encuentra libre de Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus, Xyleborus retusus y Xyleborus spinosulus.
+
+Uruguay:
+DA1 - El envío se encuentra libre de Xyleborus retusus.
+
+No hay Declaraciones Adicionales para Venezuela.
+
+II. 35. B. PAÍS DE DESTINO:							BRASIL
+
+REQUISITOS FITOSANITARIOS PARA Eucalyptus spp.
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Códigos: EUCSS 2 10 01 01 4 (Plantas)
+                EUCSS 2 01 01 01 4 (Estacas con raíz)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde).
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R11 - Las plantas o las estacas enraizadas deben estar libres de suelo.
+Declaraciones Adicionales:
+No hay Declaraciones Adicionales para Argentina, Paraguay, Uruguay y Venezuela.
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Código: EUCSS 2 10 13 01 4 (Planta in vitro)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde).
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+No hay Declaraciones Adicionales para Argentina, Paraguay, Uruguay y Venezuela.
+
+CATEGORÍA 4
+CLASE 3: Semillas
+Código: EUCSS 2 13 01 03 4
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde).
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+No hay Declaraciones Adicionales para Argentina, Paraguay, Uruguay y Venezuela.
+
+CATEGORÍA 3
+CLASE 6: Maderas, cortezas, corcho
+Código: EUCSS 1 14 06 06 3 (Madera no procesada)
+Requisitos fitosanitarios:
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Chilecomadia valdiviana.
+
+No hay Declaraciones Adicionales para Paraguay, Uruguay y Venezuela.
+
+CATEGORÍA 2
+CLASE 6: Maderas, cortezas, corcho
+Código: EUCSS 1 14 07 06 2 (Madera semi procesada)
+Requisitos fitosanitarios:
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Chilecomadia valdiviana.
+
+No hay Declaraciones Adicionales para Paraguay, Uruguay y Venezuela.
+
+
+II. 35. C. PAÍS DE DESTINO:						PARAGUAY
+
+REQUISITOS FITOSANITARIOS PARA Eucalyptus spp.
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Códigos: EUCSS 2 10 01 01 4 (Plantas)
+                EUCSS 2 01 01 01 4 (Estacas con raíz)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R8 - Ingresará a Depósito Cuarentenario bajo control oficial.
+R11 - Las plantas o las estacas enraizadas deben estar libres de suelo.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Ctenarytaina eucalypti, Ctenarytaina spatulata, Gonipterus gibberus y Gonipterus scutellatus.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Cryphonectria cubensis.
+o
+DA15 - El envío se encuentra libre de Cryphonectria cubensis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Brasil:
+DA1 - El envío se encuentra libre de Ctenarytaina eucalypti, Ctenarytaina spatulata, Gonipterus gibberus, Gonipterus scutellatus, Oxydia apidania, Oxydia vesulia, Thyrinteina arnobia y Thyrinteina leucocerae.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Corticium salmonicolor, Cryphonectria cubensis, Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae, Cylindrocladium pteridis y Pythium splendens.
+o
+DA15 - El envío se encuentra libre de Corticium salmonicolor, Cryphonectria cubensis, Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae, Cylindrocladium pteridis y Pythium splendens, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Uruguay:
+DA1 - El envío se encuentra libre de Ctenarytaina eucalypti, Ctenarytaina spatulata, Gonipterus gibberus y Gonipterus scutellatus.
+Venezuela:
+DA1 - El envío se encuentra libre de Thyrinteina arnobia.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se ha detectado Cylindrocladium pteridis.
+o
+DA15 - El envío se encuentra libre de Cylindrocladium pteridis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Código: EUCSS 2 10 13 01 4 (Planta in vitro)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde).
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+No hay Declaraciones Adicionales para Argentina, Brasil, Uruguay y Venezuela.
+
+CATEGORÍA 4
+CLASE 3: Semillas
+Código: EUCSS 2 13 01 03 4
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Brasil:
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae y Cylindrocladium pteridis.
+
+o
+DA15 - El envío se encuentra libre de Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae y Cylindrocladium pteridis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Venezuela:
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se ha detectado Cylindrocladium pteridis.
+o
+DA15 - El envío se encuentra libre de Cylindrocladium pteridis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+No hay Declaraciones Adicionales para Argentina y Uruguay.
+
+
+CATEGORÍA 3
+CLASE 6: Maderas, cortezas, corcho
+Código: EUCSS 1 14 06 06 3 (Madera no procesada)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R8 - Ingresará a Depósito Cuarentenario bajo control oficial.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Chilecomadia valdiviana y Phoracantha recurva.
+
+Brasil:
+DA1 - El envío se encuentra libre de Phoracantha recurva y Platypus linearis.
+
+Uruguay:
+DA1 - El envío se encuentra libre de Phoracantha recurva.
+
+No hay Declaraciones Adicionales para Venezuela.
+
+CATEGORÍA 2
+CLASE 6: Maderas, cortezas, corcho
+Código: EUCSS 1 14 07 06 2 (Madera semi procesada)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Chilecomadia valdiviana y Phoracantha recurva.
+
+Brasil:
+DA1 - El envío se encuentra libre de Phoracantha recurva y Platypus linearis.
+
+Uruguay:
+DA1 - El envío se encuentra libre de Phoracantha recurva.
+
+No hay Declaraciones Adicionales para Venezuela.
+
+II. 35. D. PAÍS DE DESTINO:							URUGUAY
+
+REQUISITOS FITOSANITARIOS PARA Eucalyptus spp.
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Códigos: EUCSS 2 10 01 01 4 (Plantas)
+                 EUCSS 2 01 01 01 4 (Estacas con raíz)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R8 - Ingresará a Depósito Cuarentenario bajo control oficial.
+R11 - Las plantas o las estacas enraizadas deben estar libres de suelo.
+Declaraciones Adicionales:
+Argentina:
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se ha detectado Cryphonectria cubensis.
+o
+DA15 - El envío se encuentra libre de Cryphonectria cubensis de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Brasil:
+DA 1 - El envío se encuentra libre de Oxydia apidania, Oxydia vesulia, Thyrinteina arnobia y Thyrinteina leucocerae.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Corticium salmonicolor, Cryphonectria cubensis, Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae, Cylindrocladium pteridis y Pythium splendens.
+o
+DA15 - El envío se encuentra libre de Corticium salmonicolor, Cryphonectria cubensis, Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae, Cylindrocladium pteridis y Pythium splendens de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Venezuela:
+DA 1 - El envío se encuentra libre de Thyrinteina arnobia.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se ha detectado Cylindrocladium pteridis.
+o
+DA15 - El envío se encuentra libre de Cylindrocladium pteridis de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+No hay Declaraciones Adicionales para Paraguay.
+
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Códigos: EUCSS 2 10 13 01 4 (Planta in vitro)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde).
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+No hay Declaraciones Adicionales para Argentina, Brasil, Paraguay y Venezuela.
+
+CATEGORÍA 4
+CLASE 3: Semillas
+Código: EUCSS 2 13 01 03 4
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Brasil:
+DA5 - El cultivo fue sometido a inspección oficial  durante un ciclo completo de crecimiento y no se han detectado Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae y Cylindrocladium pteridis.
+
+o
+DA15 - El envío se encuentra libre de Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae y Cylindrocladium pteridis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Venezuela:
+DA5 - El cultivo fue sometido a inspección oficial antes de la cosecha y no se ha detectado Cylindrocladium pteridis.
+o
+DA15 - El envío se encuentra libre de Cylindrocladium pteridis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+No hay Declaraciones Adicionales para Argentina y Paraguay.
+
+CATEGORÍA 3
+CLASE 6: Maderas, cortezas, corcho
+Código: EUCSS 1 14 06 06 3 (Madera no procesada)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R8 - Ingresará a Depósito Cuarentenario bajo control oficial.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Chilecomadia valdiviana.
+Brasil:
+DA1 - El envío se encuentra libre de Platypus linearis, Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus y Xyleborus spinosulus.
+
+Paraguay:
+DA1 - El envío se encuentra libre de Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus y Xyleborus spinosulus.
+
+No hay Declaraciones Adicionales para Venezuela.
+
+CATEGORÍA 2
+CLASE 6: Maderas, cortezas, corcho
+Código: EUCSS 1 14 07 06 2 (Madera semi procesada)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Chilecomadia valdiviana.
+
+Brasil:
+DA1 - El envío se encuentra libre de Platypus linearis, Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus y Xyleborus spinosulus.
+
+Paraguay:
+DA1 - El envío se encuentra libre de Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus y Xyleborus spinosulus.
+
+No hay Declaraciones Adicionales para Venezuela.
+
+
+II. 35. E. PAÍS DE DESTINO:						VENEZUELA
+
+REQUISITOS FITOSANITARIOS PARA Eucalyptus spp.
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Códigos: EUCSS 2 10 01 01 4 (Plantas)
+                EUCSS 2 01 01 01 4 (Estacas con raíz)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R8 - Ingresará a Depósito Cuarentenario bajo control oficial.
+R11 - Las plantas o las estacas enraizadas deben estar libres de suelo.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Cteranytaina eucalypti, Cteranytaina spatulata, Gonipterus gibberus y Gonipterus scutellatus.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Cryphonectria cubensis.
+o
+DA15 - El envío se encuentra libre de Cryphonectria cubensis, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Brasil:
+DA1 - El envío se encuentra libre de Cteranytaina eucalypti, Cteranytaina spatulata, Gonipterus gibberus, Gonipterus scutellatus, Oxydia apidania, Oxydia vesulia y Thyrinteina leucoceraea.
+y
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Corticium salmonicolor, Cryphonectria cubensis, Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae y Pythium splendens.
+o
+DA15 - El envío se encuentra libre de Corticium salmonicolor, Cryphonectria cubensis, Cylindrocladium brasilensis, Cylindrocladium candelabrum, Cylindrocladium crotalariae y Pythium splendens, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+Uruguay:
+DA1 - El envío se encuentra libre de Cteranytaina eucalypti, Cteranytaina spatulata, Gonipterus gibberus y Gonipterus scutellatus.
+
+No hay Declaraciones Adicionales para Paraguay.
+
+CATEGORÍA 4
+CLASE 1: Plantas
+Código: EUCSS 2 10 13 01 4 (Planta in vitro)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde).
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+No hay Declaraciones Adicionales para Argentina, Brasil, Paraguay y Uruguay.
+
+CATEGORÍA 4
+CLASE 3: Semillas
+Código: EUCSS 2 13 01 03 4
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Brasil:
+DA5 - El cultivo fue sometido a inspección oficial durante un ciclo completo de crecimiento y no se han detectado Cylindrocladium brasilensis, Cylindrocladium candelabrum y Cylindrocladium crotalariae.
+o
+DA15 - El envío se encuentra libre de Cylindrocladium brasilensis, Cylindrocladium candelabrum y Cylindrocladium crotalariae, de acuerdo con el resultado del análisis oficial de laboratorio Nº ( ).
+
+No hay Declaraciones Adicionales para Argentina, Paraguay y Uruguay.
+
+CATEGORÍA 3
+CLASE 6: Maderas, Cortezas, Corcho
+Código: EUCSS 1 14 06 06 3 (Madera no procesada)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+R4 - Producto sujeto a Análisis Oficial de Laboratorio al ingreso.
+R8 - Ingresará a Depósito Cuarentenario bajo control oficial.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Chilecomadia valdiviana, Phoracantha semipunctata y Phoracantha recurva.
+Brasil:
+DA1 - El envío se encuentra libre de Phoracantha semipunctata, Phoracantha recurva, Platypus linearis, Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus, Xyleborus retusus y Xyleborus spinosulus.
+
+Paraguay:
+DA1 - El envío se encuentra libre de Phoracantha semipunctata, Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus, Xyleborus retusus y Xyleborus spinosulus.
+
+Uruguay:
+DA1 - El envío se encuentra libre de Phoracantha semipunctata, Phoracantha recurva y Xyleborus retusus.
+
+CATEGORÍA 2
+CLASE 6: Maderas, cortezas, corcho
+Código: EUCSS 1 14 07 06 2 (Madera semi procesada)
+Requisitos fitosanitarios:
+R0 - Requiere Permiso Fitosanitario de Importación.
+R2 - El envío debe venir acompañado por el CF (o por el CF de Re-Exportación si corresponde), donde se certifiquen las Declaraciones Adicionales solicitadas.
+R1 - Requiere inspección fitosanitaria al ingreso.
+Declaraciones Adicionales:
+Argentina:
+DA1 - El envío se encuentra libre de Chilecomadia valdiviana, Phoracantha semipunctata y Phoracantha recurva.
+
+Brasil:
+DA1 - El envío se encuentra libre de Phoracantha semipunctata, Phoracantha recurva, Platypus linearis, Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus, Xyleborus retusus y Xyleborus spinosulus.
+
+Paraguay:
+DA1 - El envío se encuentra libre de Phoracantha semipunctata, Xyleborus affinis, Xyleborus gracilis, Xyleborus hagedorni, Xyleborus linearicolis, Xyleborus neivai, Xyleborus obliquus, Xyleborus retusus y Xyleborus spinosulus.
+
+Uruguay:
+DA1 - El envío se encuentra libre de Phoracantha semipunctata, Phoracantha recurva y Xyleborus retusus.
+
+6
+
+
+17

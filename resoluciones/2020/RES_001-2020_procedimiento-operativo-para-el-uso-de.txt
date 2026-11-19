@@ -1,0 +1,123 @@
+Resolución GMC N° 01/20
+Título: PROCEDIMIENTO OPERATIVO PARA EL USO DE FIRMA DIGITAL EN EL ÁMBITO DE LA ESTRUCTURA INSTITUCIONAL DEL MERCOSUR
+Fecha de aprobación: 01/06/2020
+Vigencia: Vigente (Vigente desde su aprobación el 11/08/2020 - Articulo 5 a) Decisión CMC Nº 23/00.)
+Idioma del texto: ES
+Archivo original: 103504_RES_001-2020_ES_FERR_Proc firma digital.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3907).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 01/20
+
+
+PROCEDIMIENTO OPERATIVO PARA EL USO DE FIRMA DIGITAL EN EL ÁMBITO DE LA ESTRUCTURA INSTITUCIONAL DEL MERCOSUR
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Decisiones Nº 19/02, 18/04, 13/15, 44/15 y 18/18 del Consejo del Mercado Común y las Resoluciones N° 26/01 y 19/12 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que, por medio de la Decisión CMC Nº 18/18 "Uso de firma digital en el ámbito de la estructura institucional del MERCOSUR", fue aprobado el uso de la firma digital para la suscripción de actas, normas, declaraciones, recomendaciones, comunicados conjuntos y demás documentos no incluidos en los numerales I y II del artículo 41 del Protocolo de Ouro Preto.
+
+Que, conforme lo previsto en el artículo 5 de la Decisión CMC Nº 18/18, el Grupo Mercado Común debe establecer el procedimiento operativo para la firma digital de los instrumentos previstos en la mencionada Decisión.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Procedimiento operativo para el uso de firma digital en el ámbito de la estructura institucional del MERCOSUR", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - El presente Procedimiento se aplicará toda vez que los Estados Partes decidan utilizar la firma digital en el marco de lo previsto en la Decisión CMC Nº 18/18.
+
+Art. 3 - Esta Resolución no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 11/VIII/20.
+
+
+ANEXO
+
+PROCEDIMIENTO OPERATIVO PARA EL USO DE FIRMA DIGITAL EN EL ÁMBITO DE LA ESTRUCTURA INSTITUCIONAL DEL MERCOSUR
+
+Etapa 1: Preparación de los documentos
+
+Una vez consensuados los documentos en las reuniones, la Secretaría del MERCOSUR (SM) y/o la Presidencia Pro Tempore (PPT) procederá a convertirlos en formato PDF/A, agregando al final de cada uno de ellos una hoja de firmas según el modelo que consta en el apéndice.
+
+Una vez verificado el formato de la última versión del documento a ser suscripto, se agregará un sufijo a los nombres de los archivos, que podrá ser _SM cuando la misma preste apoyo a la reunión, o el sufijo del Estado Parte en ejercicio de la PPT (ejemplo: documento inicial XXX.pdf, documento firmado XXX_SM.pdf o XXX_AR.pdf).
+
+Estos documentos serán puestos a disposición de las delegaciones para su verificación y aprobación. La puesta a disposición podrá realizarse a través de una nube, ya sea en internet o creada especialmente al efecto, o por el medio que la PPT disponga. En caso de ser requerido, la PPT distribuirá a los usuarios la contraseña para ingresar a la nube exclusivamente para la descarga de los documentos, sin posibilidad de modificarlos.
+
+En el caso de que hubiere correcciones, la SM, previa autorización de la PPT, o la propia PPT realizará las mismas y convertirá el documento final al formato PDF/A, con el agregado de la hoja de firmas. Cuando no hubiere correcciones, los documentos serán puestos a disposición para la firma definitiva.
+
+Etapa 2: Consolidación de los documentos
+
+Una vez generados todos los documentos a ser suscriptos digitalmente en la reunión correspondiente, la SM o la PPT procederá a su consolidación en un único directorio (carpeta digital), a fin de permitir su firma en un solo acto. En el caso de que participen Estados Asociados, se deberán identificar los documentos correspondientes a su firma y adaptar la modalidad de consolidación prevista.
+
+Etapa 3: Firma de los documentos
+
+Los Estados Partes firmarán digitalmente los documentos comenzando por la PPT y prosiguiendo en orden alfabético. A continuación, y de corresponder, firmarán los Estados Asociados en orden alfabético.
+
+Cuando un Estado Parte, a su turno, no pudiera firmar, el proceso de firma continuará con el siguiente Estado, retomando cuando éste se encuentre disponible.
+
+En el caso de las reuniones de los órganos decisorios, la SM preparará los documentos para la firma en un equipo configurado especialmente al efecto, el que contendrá los drivers para la lectura de los elementos criptográficos y los certificados de las entidades raíz y de las entidades certificantes que correspondan a los certificados de los delegados nacionales. Cuando algún representante no pudiera efectivizar su firma digital, el procedimiento deberá interrumpirse y todos los documentos emanados de esa reunión deberán ser firmados por las delegaciones utilizando la firma manuscrita.
+
+En las demás reuniones presenciales de otros órganos o foros de la estructura institucional, que cuenten con apoyo de la SM, a pedido de la PPT, la SM procederá en los mismos términos.
+
+Para las reuniones en las que no se cuente con la presencia de la SM, corresponderá a la PPT la preparación del equipo para la firma.
+
+En el caso de reuniones no presenciales, cada Estado será responsable de la preparación de su equipo para la firma. En este caso, los documentos serán remitidos para la firma por correo electrónico u otro medio acordado al efecto y firmados inmediatamente al finalizar la reunión.
+
+Los archivos firmados contendrán un sufijo correspondiente a los Estados Partes que ya lo han firmado (_AR, _BR, _PY, _UY). Ejemplo: "XXX_SM_AR_BR_PY_UY.pdf" o "XXX_AR_BR_PY_UY.pdf", cuando la reunión no cuente con el apoyo de la SM.
+
+En el caso de las actas y anexos que se encuentren ad referendum se agregará el sufijo _ad seguido por las iniciales del Estado Parte ausente. Ejemplo: "XXX_SM_AR_BR_PY_adUY.pdf".
+
+La SM será responsable de la modificación del nombre de los archivos en las reuniones en que participe. En los restantes casos, cada Estado agregará su sufijo a los documentos una vez completado el proceso de firma.
+
+Cuando algún representante no pudiera efectivizar su firma digital, se deberá subsanar el inconveniente y firmar digitalmente los documentos electrónicos en un plazo no mayor a cinco (5) días de concluida la reunión.
+
+Etapa 4: Conservación de los documentos
+
+Concluido el proceso de firma, la SM procederá, en la medida de lo posible en el mismo lugar de la reunión, a cargar los archivos al Sistema de Información del MERCOSUR (SIM). En los casos en que la SM no esté presente, la PPT deberá remitir por vía electrónica el documento oficial para su conservación por parte de la SM.
+
+
+La SM realizará una copia en un medio digital que garantice su integridad y disponibilidad en el tiempo, que actuará como documento oficial a los efectos de la conservación de los documentos.
+
+El medio digital, debidamente identificado, será conservado por la SM en el mismo espacio físico que los restantes documentos oficiales.
+
+
+APÉNDICE
+
+MODELO DE HOJA DE FIRMA
+
+Documento firmado digitalmente
+
+
+Por [Estado Parte por orden alfabético]:
+
+
+Por [Estado Parte por orden alfabético]:
+
+
+Por [Estado Parte por orden alfabético]:
+
+
+Por [Estado Parte por orden alfabético]:
+
+
+Por [Estado Asociado por orden alfabético (cuando corresponda)]:
+
+
+SECRETARIA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 02/12/24
+
+
+B. Hugo Saguier Caballero
+Director SM
+
+
+3
+
+
+SECRETARIA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 02/12/24
+
+B. Hugo Saguier Caballero
+Director SM

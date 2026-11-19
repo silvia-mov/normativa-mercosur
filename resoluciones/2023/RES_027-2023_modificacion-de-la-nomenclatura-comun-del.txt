@@ -1,0 +1,280 @@
+Resolución GMC N° 27/23
+Título: MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 01/11/2023
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 97301_RES_027-2023_ES_ Mod. NCM y AEC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4624).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 27/23
+
+
+MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N° 07/94, 22/94, 31/04 y 08/22 del Consejo del Mercado Común y la Resolución Nº 16/21 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que se hace necesario ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, que constan como Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común aprobadas por la presente Resolución entrarán en vigor a partir del 01/IV/2024, debiendo los Estados Partes asegurar su incorporación a su respectivo ordenamiento jurídico nacional previo a esa fecha.
+
+
+CXXIX GMC - Brasilia, 01/XI/23
+
+ANEXO
+
+SITUACIÓN ACTUAL
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC %
+NCM
+DESCRIPCIÓN
+AEC %
+2820.10.00
+- Dióxido de manganeso
+9
+2820.10
+- Dióxido de manganeso
+
+
+2820.10.10
+Con un contenido de MnO2 superior o igual al 91 % en peso (manganeso electrolítico)
+0
+
+
+2820.10.90
+Los demás
+9
+2827.39.98
+De cinc
+9
+2827.39.3
+De cinc
+
+
+2827.39.31
+Anhidro, con un contenido de ZnCl2 superior o igual al 98 % en peso
+0
+
+
+2827.39.39
+Los demás
+9
+
+
+2827.39.98
+SUPRIMIDO
+
+2843.90.90
+Los demás
+9
+2843.90.40
+Tricloruro de rutenio, en polvo
+0
+
+
+2843.90.90
+Los demás
+9
+3006.30.12
+A base de iocarmato de dimeglumina o de gadoterato de meglumina o de gadoteridol
+0
+3006.30.12
+A base de iocarmato de dimeglumina o de iodixanol
+
+
+0
+3006.30.19
+Las demás
+10,8
+3006.30.19
+Las demás
+10,8
+3824.99.79
+Los demás
+12,6
+3824.99.6
+Contrastes para exámenes de diagnóstico por imágenes de resonancia magnética o de ecografía
+
+3824.99.89
+Los demás
+12,6
+3824.99.61
+A base de gadobenato de dimeglumina, de gadobutrol, de gadopentetato de dimeglumina, de gadoterato de meglumina, de gadoteridol o de gadoxetato disódico
+
+
+0
+
+
+3824.99.62
+A base de hexafluoruro de azufre
+0
+
+
+3824.99.69
+Los demás
+12,6
+
+
+3824.99.79
+Los demás
+12,6
+
+
+3824.99.89
+Los demás
+12,6
+3907.29.90
+Los demás
+12,6
+3907.29.9
+Los demás
+
+
+3907.29.91
+Poliacetal poliéter (PAPE)
+
+0
+
+
+3907.29.99
+Los demás
+12,6
+3917.22.00
+- - De polímeros de propileno
+16
+3917.22
+- - De polímeros de propileno
+
+
+3917.22.10
+De sección transversal interior redonda con diámetro inferior a 6 mm y exterior hexagonal
+0
+
+
+3917.22.90
+Los demás
+16
+4811.90.10
+En tiras o en bobinas (rollos) de anchura inferior o igual a 15 cm o en hojas en las que ningún lado sea superior a 360 mm, medidos sin plegar
+16
+4811.90.1
+En tiras o en bobinas (rollos) de anchura inferior o igual a 15 cm o en hojas en las que ningún lado sea superior a 360 mm, medidos sin plegar
+
+
+4811.90.11
+Recubiertos de pasta electrolítica a base de almidón modificado, de peso superior o igual a 75 g/m2 pero inferior o igual a 120 g/m2
+
+
+0
+
+
+4811.90.19
+Los demás
+16
+5501.30.00
+- Acrílicos o modacrílicos
+16
+5501.30.00
+- Acrílicos o modacrílicos
+0
+7409.40.10
+Enrolladas
+10,8
+7409.40.1
+Enrolladas
+
+
+7409.40.11
+De aleación de cobre-níquel-silicio, cincadas
+0
+
+
+7409.40.19
+Las demás
+10,8
+8450.20.90
+Las demás
+12,6BK
+8450.20.20
+Las demás máquinas, de capacidad inferior o igual a 18 kg
+12,6
+
+
+8450.20.90
+Las demás
+12,6BK
+8482.91.11
+Para bolígrafos
+12,6
+8482.91.11
+Para bolígrafos
+0
+8504.31.99
+Los demás
+18
+8504.31.93
+Los demás, de anchura y longitud inferior o igual a 50 mm, y de altura inferior o igual a 25 mm, aptos para montaje por inserción (PTH - "Pin Through Hole") o montaje en superficie (SMD - "Surface Mounted Device")
+0
+
+
+8504.31.99
+Los demás
+18
+8505.90.10
+Electroimanes
+16
+8505.90.1
+Electroimanes
+
+
+8505.90.11
+De los tipos utilizados en aparatos de diagnóstico de visualización por resonancia magnética
+0
+
+
+8505.90.19
+Los demás
+16
+8544.19.10
+De aluminio
+12,6
+8544.19.1
+De aluminio
+
+
+8544.19.11
+Revestido de cobre (CCA - "Copper Clad Aluminum")
+
+
+0
+
+
+8544.19.19
+Los demás
+12,6
+9002.90.00
+- Los demás
+16
+9002.90
+- Los demás
+
+
+9002.90.10
+Conmutadores ("switches") opto mecánicos, de los tipos utilizados en redes ópticas de trasmisión de datos, aptos para el montaje por inserción (PTH - "Pin Through Hole")
+0 BIT
+
+
+9002.90.90
+Los demás
+16
+
+2

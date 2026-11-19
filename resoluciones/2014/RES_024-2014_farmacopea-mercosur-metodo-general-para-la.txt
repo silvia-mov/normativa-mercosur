@@ -1,0 +1,115 @@
+Resolución GMC N° 24/14
+Título: FARMACOPEA MERCOSUR: MÉTODO GENERAL PARA LA DETERMINACIÓN DE LA ROTACION ÓPTICA
+Fecha de aprobación: 27/07/2014
+Vigencia: Vigente (Vigente desde el 07/06/2024 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 53316_RES_024-2014_ES_Farmacopea Rotacion Optica.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2960).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 24/14
+
+
+FARMACOPEA MERCOSUR: MÉTODO GENERAL PARA LA DETERMINACIÓN DE LA ROTACION ÓPTICA
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, la "Farmacopea MERCOSUR: Método general para la determinación de la rotación óptica", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 01/II/2015.
+
+
+      XLIII GMC EXT.  - Caracas, 27/VII/14.
+
+ANEXO
+
+FARMACOPEA MERCOSUR: MÉTODO GENERAL PARA LA DETERMINACIÓN DE LA ROTACION ÓPTICA
+
+
+INTRODUCCIÓN
+
+La rotación óptica es la propiedad que presentan algunas sustancias líquidas o solutos en solución de rotar el plano de polarización de la luz polarizada que incide sobre las mismas.
+
+Esta propiedad es característica de muchas sustancias que presentan centros quirales, constituidos muy frecuentemente por átomos de carbono con cuatro sustituyentes diferentes (centro asimétrico). El número máximo de isómeros ópticos posibles de una molécula es de 2n, siendo n el número de centros asimétricos.
+
+Las sustancias que rotan el plano de polarización en el sentido de las agujas del reloj son denominadas dextrógiras o isómeros ópticos (+), mientras que las que rotan el plano de polarización en la dirección opuesta son denominadas levógiras o isómeros ópticos (-). (Los símbolos d- y l- que anteriormente se usaban para indicar isómeros dextro- y levo- ya no se utilizan, debido a la confusión con los símbolos D- y L- que se refieren a las configuraciones relacionadas con el D-gliceraldehido. Los símbolos R y S así como α y β también se emplean para indicar la configuración, es decir, el ordenamiento de los átomos o grupos de átomos en el espacio).
+
+Las sustancias quirales cuyas moléculas no son superponibles sino imágenes especulares se denominan enantiómeros. Éstos tienen las mismas propiedades fisicoquímicas (densidad, índice de refracción, momento dipolo-dipolo, puntos de ebullición y fusión) excepto que rotan el plano de la luz polarizada la misma cantidad de grados en direcciones opuestas, y sus reacciones con otras sustancias quirales presentan características diferentes.
+
+La polarimetría es una técnica conveniente para distinguir entre sí, isómeros ópticamente activos, a partir de la medición de la rotación óptica de una sustancia; también es un criterio importante de identidad y pureza enantiomérica, pudiendo emplearse con fines cuantitativos.
+
+La rotación óptica varía con la temperatura, la longitud de onda de la luz incidente, el disolvente utilizado, la naturaleza de la sustancia y su concentración. Si una solución contiene dos sustancias ópticamente activas y estas no reaccionan entre sí, el ángulo de desvío será la suma algebraica de los ángulos de desvío de ambas.
+
+POLARÍMETRO
+
+Los polarímetros son aparatos que detectan la rotación óptica de modo visual (al igualar la intensidad de luz sobre dos campos) o mediante un sistema fotoeléctrico, siendo estos últimos más exactos y precisos que los de medición visual.
+
+
+La medición de la rotación óptica debe realizarse empleando un polarímetro capaz de apreciar diferencias de por lo menos 0.05°, a no ser que se especifique de otra forma en la monografía individual. Como fuente de luz se emplean lámparas de sodio, vapor de mercurio, xenón o halógeno-tungsteno entre otras, provistas de un dispositivo que permite trasmitir un haz luminoso monocromático. Estas dos últimas lámparas mencionadas suelen ser menos costosas además de ser de larga duración y tener un amplio rango de longitudes de onda de emisión con respecto a las fuentes de luz tradicionales. La escala debe controlarse usando un estándar de referencia de polarización que consiste en placas de cuarzo certificadas. La linealidad de la escala debe ser verificada periódicamente por medio de una solución de materiales de referencia estándar de dextrosa y sacarosa.
+
+El empleo de longitudes de onda menores, como por ejemplo las líneas de lámpara de mercurio a 578, 546, 436, 405 y 365 nm en un polarímetro fotoeléctrico pueden proporcionar ventajas en cuanto a la sensibilidad; con la consiguiente reducción de la concentración de la sustancia en el ensayo. En general, la rotación óptica observada en 436 nm es aproximadamente el doble y a 365 nm aproximadamente tres veces mayor que a 589 nm.
+
+La reducción de la concentración de la sustancia en ensayo requerida para la medición a veces puede realizarse mediante la conversión de dicha sustancia en otra que posea una rotación óptica significativamente mayor. La rotación óptica también es afectada por el solvente empleado en la medición y esto debe especificarse en todos los casos.
+
+
+PROCEDIMIENTO
+
+La rotación óptica específica es un valor de referencia y se calcula a partir de la rotación óptica observada para una solución de muestra o para el líquido de acuerdo a lo especificado en la monografía. Las medidas de rotación óptica son realizadas a 589,3 nm a 25°C a no ser que se especifique lo contrario en la monografía individual. La temperatura experimental debe ser mantenida en ± 0,5°C en relación al valor especificado.
+
+Cuando se emplea un polarímetro con detección visual se debe utilizar el promedio entre no menos de cinco determinaciones corregidas por la lectura del blanco de solvente en el caso de soluciones y aire en el caso de líquidos. Cuando se emplea un polarímetro fotoeléctrico se realiza una sola medición corregida por el blanco del solvente en el caso de soluciones y aire en el caso de líquidos. Usar el mismo tubo del polarímetro en la misma orientación para la muestra y el blanco.
+
+La rotación óptica de las soluciones debe ser determinada dentro de los 30 minutos después de preparadas. En el caso de sustancias que pueden sufrir racemización o mutarrotación se debe tener especial cuidado estandarizando el tiempo entre el cual se prepara la solución y se realiza la lectura polarimétrica.
+
+A menos que se especifique de otro modo en la monografía correspondiente, la rotación específica se calcula sobre la sustancia seca cuando la monografía especifica Pérdida por secado, sobre la sustancia anhidra cuando se especifica Determinación de agua, o libre de solventes cuando se especifica Contenido de solventes residuales.
+
+La exactitud y precisión de las medidas de rotación óptica pueden incrementarse si se toman las siguientes precauciones:
+
+1) Se debe evitar la formación de burbujas de aire durante el llenado del tubo del polarímetro, esto es particularmente necesario para tubos micro y semi-micro.
+
+2) Las muestras de sustancias líquidas o sólidas disueltas deben ser homogéneas y límpidas.
+
+3) Los elementos ópticos deben estar perfectamente alineados, al igual que la fuente de luz con respecto al camino óptico.
+
+
+CÁLCULOS
+
+Rotación óptica específica: se calcula a partir de la rotación óptica observada en la solución muestra, obtenida según se especifica en la monografía correspondiente.
+
+Calcular la rotación óptica específica usando las siguientes fórmulas:
+
+Para líquidos [α]25D= α /ld 25
+
+Para sustancias en solución [α]25D=100 α /lc
+
+Donde    α = rotación observada corregida, en grados a 25°C.
+	    l=longitud del tubo del polarímetro en decímetros
+	   d25= densidad relativa del líquido a 25°C
+	   c= concentración de la sustancia en porcentaje peso/volumen
+ [α]25D = rotación óptica específica determinada a 25ºC y a 589,3 nm (línea D de la luz de sodio)
+2
+
+
+1

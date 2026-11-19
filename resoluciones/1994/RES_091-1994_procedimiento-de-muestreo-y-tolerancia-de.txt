@@ -1,0 +1,267 @@
+Resolución GMC N° 91/94
+Título: PROCEDIMIENTO DE MUESTREO Y TOLERANCIA DE PRODUCTOS PREMEDIDOS
+Fecha de aprobación: 15/12/1994
+Vigencia: Derogada (Derogada por la Res. GMC Nº 07/08)
+Idioma del texto: ES
+Archivo original: 29390_RES_091-1994_ES_MuestreoyToleranciasProdPremedidos.DOC
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2152).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 91/94
+
+
+PROCEDIMIENTO DE MUESTREO Y TOLERANCIAS DE PRODUCTOS PREMEDIDOS
+
+
+VISTO: el Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del
+Consejo Mercado Común, las Resoluciones Nº 13/93 y 91/93 del Grupo Mercado Común y la Recomendación Nº 59/94 del SGT Nº 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que resulta necesario complementar el sistema de tolerancias y muestreo que deberá aplicarse a los productos premedidos de acuerdo con la Resolución Nº 13/93 del Grupo Mercado Comú;
+
+Que dicho sistema de control se destina a facilitar los intercambios comerciales entre los países signatarios del Tratado de Asunción y a eliminar restricciones  técnicas que sean un obstáculo a la libre circulación de los productos premedidos.
+
+El GRUPO MERCADO COMÚN
+R E S UE L V E:
+
+Art. 1- La comercialización entre los Estados Partes de productos enlatados deberá cumplir con lo establecido en el Anexo "Muestreo y Tolerancias de Productos Premedidos" de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos.
+
+
+Argentina: 	Ministerio de Economía e Obras e Servicios Públicos.
+	- Secretaría de Comercio e Inversiones
+
+Brasil:  	Instituto Nacional de Metrologia Legal e Qualidade
+
+Paraguay:	Instituto Nacional de Tecnología y Normalización
+
+Uruguay: 	Ministerio de Industria, Energía y Minería
+
+Art. 3-  La presente Resolución entrará en vigencia el 1º de enero de 1995.
+
+
+XVI GMC- Ouro Preto, 15/XII/1994.
+ANEXO
+
+1. MUESTREO Y TOLERANCIAS DE PRODUCTOS PREMEDIDOS
+
+2. APLICACIÓN
+
+El presente reglamento se aplicará para la verificación de los contenidos netos de los productos promedios, etiquetados, con contenido nominal igual,  expresado en masa o volumen en unidades del SISTEMA INTERNACIONAL DE UNIDADES. Para aquellos caos particulares de aplicación se armonizarán criterios específicos basados en legislación Internacional.
+
+3. DEFINICIONES
+
+3.1.	PRODUCTOS PREMEDIOS
+
+            Es todo producto envasado y medido sin la presencia del consumidor y en condiciones de comercializarse.
+
+3.2.	PRODUCTO PREMEDIDO DE CONTENIDO NOMINAL IGUAL
+
+            Es todo producto envasado y medido sin la presencia del consumidor, con igual contenido nominal y predeterminado en el envase durante el proceso de fabricación.
+
+3.3.	CONTENIDO EFECTIVO
+
+            El contenido efectivo de un envase es la cantidad de producto que realmente contiene.
+
+3.4.	CONTENIDO EFECTIVO ESCURRIDO
+
+            Es la cantidad de producto que efectivamente contiene el envase, descontando cualquier líquido, solución, caldo, etc.  Según la metodología a fijarse.
+
+3.5.	CONTENIDO NOMINAL (Qn)
+
+Es el contenido neto de producto declarado en el envase.
+
+3.6.	ERROR EN MENOS, CON RELACIÓN AL CONTENIDO NORMAL
+
+            El error en menos del contenido de un envase es la diferencia en menos entre el contenido efectivo y  el nominal del mismo.
+
+
+3.7.	INCERTIDUMBRE DE MEDICION DEL CONTENIDO NETO O EFECTIVO
+
+            La incertidumbre en la medición debe estar comprendido en el intervalo de incertidumbre + - 0.2 T (T se halla en la tabla I).
+
+3.8.	LOTE
+
+3.8.1.	EN FABRICA
+
+                  Es el conjunto de artículos de un mismo tipo, procesados por un mismo fabricante o fraccionados en un espacio de tiempo determinado, en condiciones esencialmente iguales. Se considera espacio de tiempo  determinado, la producción de una hora, siempre que las cantidades de productos sean igual o superior a 150 unidades.
+
+                  En el caso que la cantidad supere las 10.000 unidades el excedente podrá formar nuevo(s) lote(s).
+
+3.8.2.	EN DEPOSITO
+
+                  En el depósito el lote está referido a todas las unidades de  un mismo tipo de producto, siempre que el número de las mismas sea superior a 150.  En el caso de que supere las 10.000 unidades el excedente podrá formar nuevo)s) lote(s).
+
+3.8.3.	PUNTO DE VENTA
+
+                  En depósito o punto de venta el lote está referido a todas las unidades de un mismo tipo de producto. En caso de que supere las 10.000  unidades el excedente podrá formar nuevo(s) lote(s).
+
+                  El establecimiento de lotes menores a 150 (50-149) unidades queda restringido a aquello casos en los que resulte imposible reunir dicha cantidad.
+
+3.9.	CONTROL DESTRUCTIVO
+
+                  Es el control que requiere la apertura o destrucción de envases a ensayar.
+
+3.10.	CONTROL NO DESTRUCTIVO
+
+            Es el control que no requiere la apertura o destrucción de envases a ensayar.
+
+
+3.11.	TOLERANCIA INDIVIDUAL (T)
+
+            Es la diferencia permitida en menos entre el contenido declarado y el efectivo.
+
+3.12.	MUESTRA DEL LOTE - TOMA DE MUESTRA
+
+            Es la cantidad de productos pre-medidos retirados aleatoriamente del lote y que será efectivamente controlada.
+
+3.13.	MUESTRA PARA LA TARA EN CONTROL NO DESTRUCTIVO
+
+            Es la muestra retirada para estimar la masa del envase de los productos preenvasados. Propuesta Argentina.
+
+            3.13.1 Si el peso de la tara es inferior al 5 % del contenido nominal se tomará el valor promedio de una muestra de 25 envases si es en línea de producción y 6 si es punto de importación, despreciándose la desviación standard resultante.
+
+            3.13.2 Si la desviación de una muestra de tara de características similares a 3.14.1 resulta menor a 0,25 T también podrá tomarse el promedio despreciándose la desviación standard aunque el "valor relativo tara-versus-Qn, sea superior al 5 %.
+
+            3.13.3 Si la desviación standard de la tara es superior a 0,25, deberá  realizarse ensayo destructivo individualizando los envases.
+
+3.14.	 MEDIA ARITMÉTICA DE LA MUESTRA ( )
+
+Está representada por la siguiente ecuación
+
+
+xi : contenido neto de cada producto
+n: número de productos
+
+DEFINICIÓN: Es igual a la suma de los contenidos individuales dividida por el número de productos de la muestra.
+
+
+3.15.	DESVIACIÓN TÍPICA (S)
+
+            Es igual a la raíz cuadrada de la suma de los cuadrados de las diferencias entre los contenidos individuales y el valor medio de los contenidos, dividido por el número de productos de la muestra, menos uno.
+
+
+xi : contenido neto de cada producto
+n:  número de productos
+
+4 CRITERIOS DE APROBACIÓN DE LOTE DE PRODUCTOS PREMEDIDOS
+
+4.1.	PRODUCTOS DE CONTENIDO NOMINAL IGUAL COMERCIALIZADOS EN MAS A O VOLUMEN
+
+            El lote es sometido a verificación y aprobado cuando las condiciones 4.1.1 y 4.1.2 son simultáneamente atendidas.
+
+4.1.1.	CRITERIO PARA LA MEDIA
+
+
+ Qn - K.S
+
+donde  Qn  es el contenido nominal del producto
+K es el factor que depende del tamaño de la muestra obtenido de la tabla II;
+S desviación típica
+
+4.1.2.	CRITERIO INDIVIDUAL
+
+4.1.2.1.	Es admitido un máximo de c unidades de la muestra abajo de:
+
+Qn - T
+T es obtenido de la tabla I y
+c es obtenido de la tabla II
+
+4.1.2.2.	Para los productos que por su falta de homogeneidad, discontinuidad, no estabilidad de peso en el tiempo u otro facto que aumente de manera considerable la dispersión  en su cantidad efectiva de llenado, se establece una excepción al Inciso 4.1.2.1.
+
+            Se incluye un listado, suceptible de ser ampliado por los Estados Parte, que comprende:
+
+- 	Productos con indicación de peso escurrido
+- 	Productos discretos cuya menor unidad de peso supera 1,5 veces la tolerancia t (tabla I)
+- 	Productos con perdida significativa de peso por secado u otros efectos de almacenamiento.
+- Productos en estado de congelamiento.
+
+            Para los productos incluidos en los grupos mencionados, así como para aquellos que en el futuro pudieran incorporar los Estados Partes al listado, se admitirá un máximo de c unidades de la muestra abajo de
+
+Qn -2xT
+
+T es obtenido de la Tabla I y
+c es obtenido de la Tabla II
+
+Permanece inalterado el punto 4.1.1
+
+TABLA I
+
+
+Deficiencias individuales aceptadas
+
+Contenido neto individual Qn
+g. o ml. o cm.3
+Deficiencia tolerable  T
+Por ciento de Qn        g. o ml. o cm3
+
+
+5 a 50
+9
+-
+50 a 100
+-
+4,5
+100 a 200
+4,5
+-
+200 a 300
+-
+9
+300 a 500
+3
+-
+500 a 1.000
+-
+15
+1.000 a 10.000
+1,5
+-
+10.000 a 15.000
+-
+150
+15.000 a 25.000
+1,0
+-
+
+
+Estos valores T serán redondeados hasta la siguiente décima de g o ml para Qn menor que o igual a 1.000 g o ml o cm3 y al siguiente entero para Qn  mayor de 1.000 g o ml o cm3.
+
+
+TABLA II
+
+Muestreo para Control
+
+
+Tamaño de Lote
+Tamaño de  la
+muestra
+Criterio para Aceptación de la Media
+Criterio para Aceptación individual (máximo de defectuosos debajo
+Qn - T)
+50 - 149
+
+20
+  Qn - 0,60 x s
+1
+
+150 - 4000
+
+32
+ Qn - 0,485 x s
+2
+4001 - 10.0000
+
+80
+ Qn - 0,295
+5
+
+ es media de la muestra
+Qn contenido nominal
+s desvío standard
+T tolerancia s/tabla I
+
+
+2

@@ -1,0 +1,651 @@
+Resolución GMC N° 19/02
+Título: REGLAMENTO TÉCNICO MERCOSUR DE VEHÍCULOS DE LA CATEGORÍA M3 PARA EL TRANSPORTE AUTOMOTOR DE PASAJEROS POR CARRETERA (ÓMNIBUS DE MEDIA Y LARGA DISTANCIA)
+Fecha de aprobación: 20/06/2002
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 40757_RES_019_002_RTM_Veh-CatM3_Tranp_Pasaj_Carretera_Acta 2_02.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1041).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 19/02
+
+
+REGLAMENTO TÉCNICO MERCOSUR DE VEHÍCULOS DE LA CATEGORÍA M3 PARA EL TRANSPORTE AUTOMOTOR DE PASAJEROS POR CARRETERA (ÓMNIBUS DE MEDIA Y LARGA DISTANCIA)
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 91/93, 152/96 y 38/98 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que los vehículos automotores, deben cumplir una serie de requisitos técnicos en virtud de las respectivas legislaciones nacionales, inclusive los correspondientes a los Reglamentos Técnicos MERCOSUR de Vehículos de la Categoría M3 para el Transporte Automotor de Pasajeros por Carretera (Ómnibus de Media y Larga Distancia);
+
+Que los referidos requisitos difieren de un Estado Parte a otro, lo que crea obstáculos técnicos al intercambio comercial y a la libre circulación de vehículos, pudiendo eliminarse por medio de la adopción de los mismos requisitos técnicos por todos los Estados Partes en complementación o en sustitución de sus legislaciones actuales;
+
+Que, por lo tanto es preciso adoptar medidas destinadas al establecimiento progresivo de la integración en las que estén garantizadas la libre circulación de bienes, servicios y los sectores productivos con una mayor fluidez;
+
+Que para tal fin, los Estados Partes acordaron adecuar sus legislaciones, de modo de hacer posible el libre intercambio de vehículos, sus partes y sus piezas.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR de Vehículos de la Categoría M3 para el Transporte Automotor de Pasajeros por Carretera (Ómnibus de Media y Larga Distancia)", que figura como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, a través de los siguientes organismos:
+
+Argentina:	Secretaría de Transporte
+Secretaría de Industria, Comercio y Minería
+
+Brasil:		Ministério da Justiça
+Conselho Nacional de Trânsito
+Departamento Nacional de Trânsito
+
+Paraguay:	Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+
+Uruguay:	Ministerio de Transporte y Obras Públicas
+Ministerio de Industria, Energía y Minería
+
+Art. 3 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes no podrán limitar o prohibir la libre circulación, homologación, certificación, venta, importación, comercialización, licencia y registro, o uso de los vehículos automotores que cumplan con lo dispuesto en esta Resolución.
+
+Art. 5 - Todos los vehículos de la Categoría M3 para el Transporte Automotor de Pasajeros por Carretera (Ómnibus de Media y Larga Distancia), deben cumplir con los requisitos técnicos que se establecen en este Reglamento Técnico.
+
+Art. 6 -  Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes de 31/12/02.
+
+
+XLVI GMC - Buenos Aires, 20/VI/02
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR DE VEHÍCULOS DE LA CATEGORÍA M3 PARA EL TRANSPORTE AUTOMOTOR DE PASAJEROS POR CARRETERA (ÓMNIBUS DE MEDIA Y LARGA DISTANCIA)
+
+1.-	CLASIFICACIÓN:
+
+Los vehículos destinados al transporte automotor de pasajeros por carretera se clasificarán de la siguiente forma:
+
+1.1.- Por su composición:
+Simples:	Constituidos por una (1) única unidad con motor propio y solidario.
+Articulados:	Constituidos por dos (2) unidades rígidas, debidamente acopladas que permitan comunicación entre ellas. Por lo menos una (1) unidad deberá estar dotada de tracción.
+
+1.2.- Por las condiciones de utilización:
+Convencional:	Tendrán dos (2) filas de asientos dobles, de características estándar.
+Diferencial:	Podrán tener filas simples o dobles de asientos, con características de mayor confort, aire acondicionado y baño obligatorio.
+
+1.3.- Por el peso Bruto Total-PBT:
+Livianos:	Son aquellos clasificados en la categoría M3 con PBT mayor a cinco y menor a diez (> 5 y <10) toneladas.
+Medianos: Son aquellos clasificados en la categoría M3 con PBT desde diez y menor a catorce (10 y <14) toneladas.
+Pesados:	Son aquellos clasificados en la categoría M3 con PBT igual o mayor a catorce (> 14) toneladas.
+
+2.-	CAPACIDAD DEL TRANSPORTE Y DISTRIBUCIÓN DE LAS CARGAS
+
+Para proyectos y diseños de carrocerías, la carga útil transportada, deberá ser considerada como la resultante de la aplicación de los siguientes valores de referencia:
+
+a) Peso medio por pasajeros igual a setenta kilogramos (70 kg) considerado aplicado sobre el punto medio del asiento;
+
+b) El peso mínimo del equipaje será igual a diez kilogramos (10 kg) por pasajero, cuyo valor resultante se aplicará sobre el centro de gravedad del compartimiento de la bodega de portaequipajes.
+
+Este peso mínimo del equipaje podrá ser mayor siempre que las características del vehículo lo permitan.
+
+El volumen mínimo de la bodega será igual a una décima de metro cúbico (0,1 m3) de bodega por cada pasajero. En el caso de vehículos con motor central, queda a criterio de la autoridad competente aceptar un valor inferior a dicho volumen mínimo establecido.
+
+El procedimiento de cálculo de cargas, específico para vehículos de transporte automotor de pasajeros por carretera, se aplicará conforme al Acuerdo sobre "Pesos y Dimensiones", aprobado en la segunda reunión de los Estados Parte  del Subgrupo Técnico Nº 5 - Transporte,  realizada entre los días 19 y 20 de junio de 1991 en la Ciudad de Asunción, República del Paraguay, según consta en el Acta de la XIª Reunión Ordinaria del SGT5.
+
+c) Siempre deberá verse indicado el peso máximo admisible en el compartimiento de la bodega de portaequipajes. El peso máximo admisible del compartimiento del porta equipaje sumado al peso de los pasajeros, tripulación y la tara del vehículo, no podrá sobrepasar el peso máximo admitido (PBT declarado por el fabricante).
+
+Los ómnibus simples deberán estar proyectados y construidos de modo que el peso que actúe en el eje delantero sea igual o mayor al veinticinco por ciento (25%) del peso bruto total del vehículo, en condiciones de cargas máximas.
+
+3.-	CARACTERÍSTICAS DEL CHASIS
+
+a) Motor:
+
+Deberá cumplir las condiciones ambientales y poseer relación potencia líquida/peso bruto total máximo igual o mayor a diez (> 10) cv/ton., medida conforme a la norma vigente en el MERCOSUR.
+
+b) Sistema de dirección:
+
+Los ómnibus medianos y los pesados deberán estar equipados con sistema de dirección asistida hidráulicamente, debiendo quedar asegurada la dirección del vehículo (accionamiento mecánico) ante fallas de sus sistemas hidráulicos.
+
+c) Sistema de frenos:
+
+Los ómnibus y microómnibus, deberán estar dotados con sistema de frenos adecuados a su tamaño y peso, debiendo estar equipados con por lo menos dos (2) sistemas de frenos distintos: freno de servicio y freno de estacionamiento.
+
+Se admitirá en forma optativa o, cuando condiciones especiales de uso así lo exijan, la incorporación de sistemas complementarios de "freno motor" o "freno en la transmisión".
+El freno de servicio de los vehículos medianos y pesados deberá ser neumático.
+
+El freno de servicio de los vehículos livianos podrá ser neumático, hidroneumático o hidráulico.
+
+Las características de los sistemas de frenos deberán ajustarse a lo establecido en la RES. GMC Nº 82/94.
+
+d) Sistema eléctrico:
+
+El polo positivo, cuando pase por compartimientos metálicos, deberá estar protegido contra cortocircuitos (contacto a tierra) por revestimiento a prueba de agua y resistente a la corrosión.
+La fijación deberá estar protegida por recubrimientos resistentes a la corrosión y estar dispuestas de modo de no sufrir deterioros por contacto con partes móviles. Los terminales de conexión deben estar dimensionados de forma de evitar recalentamiento.
+
+La red de distribución de la instalación eléctrica de las carrocerías, deberá estar embutida, sus conductores estarán suficientemente aislados y dimensionados para soportar las corrientes nominales exigidas para las luces y demás elementos eléctricos.
+
+La batería deberá estar colocada sobre soporte fijo o desmontable, firmemente sujeta, en compartimiento aislado, a una distancia no inferior a un (1) metro del tanque de combustible excepto que entre ambos exista algún elemento material que lo separe físicamente y que no permita el avance de llama. Tal compartimiento deberá estar ventilado y de fácil acceso para el mantenimiento.
+
+El sistema eléctrico deberá contener un dispositivo de corte rápido de energía.
+
+e) Panel de instrumento y controles:
+
+El panel de instrumentos deberá contar con el instrumental necesario para el total control del funcionamiento del vehículo, conteniendo como mínimo:
+
+- Odómetro
+
+- Indicador de velocidad
+
+- Indicadores de luz alta, de dirección y posición.
+
+Todos los indicadores deberán estar localizados de tal forma que permita además la fácil lectura (con ideogramas normalizados), su visualización debe ser directa desde la posición normal del conductor del vehículo.
+
+Los ómnibus, deberán contar también con instrumental que permita a sus conductores el pleno conocimiento de las condiciones de funcionamiento del motor (presión de aceite, temperatura, presión del sistema neumático, nivel de combustible, sistema eléctrico y otros).
+
+f)	Registrador instantáneo inalterable de velocidad y tiempo:
+
+Los ómnibus, a efectos del control y de la investigación en caso de accidentes u otros fines, deberán estar equipados con un dispositivo que registre, sobre un documento durable, la velocidad, la distancia, el tiempo de recorrido y otras variables sobre su comportamiento, permitiendo asimismo, el control instantáneo sobre la circulación en cualquier parte.
+
+g)	Embrague:
+
+El embrague podrá ser accionado mediante sistema mecánico, hidráulico u otro tipo de modalidad, siempre que resulte eficiente y presente un accionar suave y liviano.
+
+La fuerza aplicada por el conductor, sobre el pedal de embrague, en la operación de acople o desacople no deberá ser mayor a diecisiete kilogramos (17 kg.).
+
+h) Caja de velocidades:
+
+Los vehículos podrán estar equipados con caja de velocidad con cualquier cantidad de marchas hacia adelante, todas sincronizadas pudiendo exceptuarse la primera y una marcha atrás.
+
+También se admitirá la colocación de caja automática para varias velocidades.
+
+i) Ruedas y neumáticos:
+
+Los ómnibus deberán, en relación a las ruedas y neumáticos, cumplir con la reglamentación acordada en la RES. GMC Nº 65/92. Como opcional podrán estar equipados con aparatos de medición y control de presión de los neumáticos con sistema de monitoreo en panel.
+
+j) Sistema de escape de gases:
+
+El caño de escape deberá estar en la extremidad de la parte trasera del ómnibus en la dirección del eje longitudinal del vehículo, salvo por comprobados impedimentos de orden técnico.
+
+4.- MODIFICACIONES DE CHASIS
+
+Cualquier modificación que altere las características originales de los chasis, podrá ser realizada por un tercero, en una de las siguientes condiciones:
+
+a) Debidamente autorizada por el fabricante de chasis o por la autoridad competente;
+
+b) Demostrando competencia técnica del proyecto, asumiendo integralmente la responsabilidad de la modificación.
+
+5.	CARACTERÍSTICAS DE CARROCERIAS
+
+Las dimensiones máximas, específicas para los vehículos de transporte automotor de pasajeros por carretera, serán las establecidas en el Acuerdo sobre "Pesos y Dimensiones", aprobado en la segunda reunión de los Estados Partes del Subgrupo de Trabajo Nº 5 - Transporte Terrestre del MERCOSUR, realizada entre los días 19 y 20 de junio de 1991 en la Ciudad de Asunción, República del Paraguay, según consta en el Acta de la XIª Reunión Ordinaria del SGT Nº 5.
+
+a)	Voladizo trasero:
+
+El voladizo trasero máximo, para ómnibus simples con motor trasero, medido entre el paragolpe trasero y el eje trasero, tendrá como máximo el sesenta y dos por ciento (62%) de las distancias entre ejes, delantero y trasero, medido en el centro de las ruedas.
+
+En el caso específico de ómnibus con motor delantero avanzado, situado totalmente delante del eje delantero, el voladizo trasero podrá alcanzar el setenta y uno por ciento (71%) de distancia entre ejes extremos.
+
+Para ómnibus con motor central, situados entre los ejes, el voladizo trasero podrá alcanzar el sesenta y seis por ciento (66%) de la distancia entre ejes extremos.
+
+b) Altura mínima interior, en cualquier punto del corredor de tránsito de pasajeros, medida verticalmente del piso del vehículo al revestimiento interior del techo: un metro con ochenta y cinco centímetros (1,85 m).
+
+c) El ancho mínimo del pasillo interior de tránsito de pasajeros (incluidos los accesos a las puertas de ascenso y descenso), medido horizontalmente en cualquier punto de su recorrido, entre las partes interiores más salientes: treinta y cinco centímetros (35 cm).
+
+d) Altura máxima de los paragolpes: cincuenta y cinco centímetros (55 cm).
+
+e) Los ómnibus deberán tener por lo menos una puerta, de ascenso y descenso, en la parte delantera del costado derecho de la carrocería, con las siguientes dimensiones:
+Altura mínima medida desde el estribo hasta el marco superior: un metro con ochenta centímetros (1,80 m);
+
+Ancho mínimo libre con la puerta abierta: sesenta centímetros (60 cm).
+
+Los aspectos principales a considerar en las carrocerías son:
+
+b) Estructura:
+
+La estructura de la carrocería podrá estar constituida (formada o compuesta) de perfiles metálicos o cualquier otro material que ofrezca un similar resultado en cuanto a su resistencia y seguridad.
+
+Cualquiera que sea el material utilizado en la estructura de la carrocería del vehículo, las partes que la componen deberán presentar sólida fijación entre sí a través de la soldadura, de los remaches o de los tornillos, de modo de evitar ruidos y vibraciones del vehículo, cuando se encuentre en movimiento, además de garantizar a través de los refuerzos necesarios, la resistencia suficiente para soportar en los puntos de concentración de carga (apoyos soportes, uniones, aberturas, etc.) todo tipo de esfuerzo al que puedan estar sometidos.
+
+Podrá ser admitida la sustitución del conjunto chasis-carrocería por una estructura autoportante. Dicha estructura deberá contar con igual o mejores características de solidez, resistencia y seguridad que las convencionales, obedeciendo siempre a las normas de este Reglamento.
+
+5.1-	CONDICIONES DE RESISTENCIA DE LA CARROCERIA FRENTE AL VUELCO
+
+Las estructuras de carrocerías deberán cumplir las siguientes condiciones de resistencia:
+
+a) Ser proyectadas para resistir una carga estática sobre el techo, equivalente al cincuenta por ciento (50%) del peso máximo admisible para el chasis (PMAch), distribuido uniformemente a lo largo del mismo, durante cinco minutos (5 min.), sin experimentar deformaciones en ningún punto, que superen los setenta milímetros (70 mm.).
+
+Para la realización de la prueba deberá adoptarse, como módulo experimental, el tramo de la estructura correspondiente al mayor paso de ventanillas que ella posea, con las respectivas prolongaciones hasta una distancia equivalente a la mitad del paso, a cada lado de los respectivos anillos de estructura o pórticos, incluyendo todos los elementos estructurales de los laterales y del techo, desde el nivel del piso del vehículo hasta la parte superior de la estructura (ver figura 1). El amarre de la estructura del piso, con la estructura lateral tratará de reproducirse fielmente, pudiéndose colocar, además, un tubo o perfil de la misma sección por debajo de la estructura.
+
+                                             Figura 1
+	Si las diagonales del antepecho de las ventanillas no poseen estructura (parante) intermedia, en el centro de los pasos será colocada una (1), de la altura del correspondiente antepecho, para soldar en éste, la intersección de la diagonal.
+La carga sobre el módulo experimental se determinará multiplicando el peso máximo admisible del chasis (PMAch) por cinco décimas (0,5) y por dos (2) veces el paso de las ventanillas (Pmax) y dividiendo el valor hallado por la longitud total de la carrocería (Lt).
+
+	C  =   PMAch x 0,5 x 2Pmax
+                       	     Lt
+La carga se aplicará directamente por medio de chapas de acero de fino espesor (máximo de 2 mm.), en forma transversal al módulo, sobre los arcos de cada anillo de la estructura, dividida en dos(2) partes iguales. La longitud de las chapas será tal que abarque el ancho total del techo del módulo.
+
+b) Los anillos de estructura o pórticos deben estar diseñados, además, para soportar como mínimo, una carga estática horizontal igual al quince por ciento (15%) del peso máximo admisible del chasis (PMAch), distribuida uniformemente sobre cada uno de ellos, aplicada a la altura del dintel longitudinal del lateral con el techo, sobre la ventanilla, sin que el mismo sufra un desplazamiento horizontal mayor a ciento cuarenta milímetros (140 mm). La carga deberá mantenerse aplicada durante un intervalo de tiempo no inferior a cinco minutos (5').
+
+Adoptándose el módulo anterior, la carga lateral se aplicará a través de una estructura secundaria colocada en el centro del módulo y soldada sobre los tubos o ménsula de la estructura. Con mecanismos neumáticos, hidráulicos o con pesos suspendidos, desde la estructura secundaria en el centro del módulo, se realizará una fuerza de tracción horizontal, sobre el dintel en la unión con cada uno de los dos (2) parantes de cualquier lateral. El valor de la fuerza lateral sobre cada parante será igual al valor que resulte de multiplicar el peso máximo admisible del chasis (PMAch) por quince centésimas (0,15) y dividirlo por el número de pórticos formados por los arcos de techo con los parantes (el frente y la cola se considerarán dos (2) pórticos más).
+
+   T  =  PMAch       x   0,15
+             N de pórticos
+
+Todas estas exigencias tendrán que ser certificadas, por parte del fabricante, mediante ensayos controlados por la autoridad competente, la que a su vez emitirá el documento específico en el que constarán todos los valores registrados en los ensayos. Tal documento oficial, deberá estar a disposición de las demás autoridades de los Estados Partes.
+
+5.2.-	CONDICIONES DE RESISTENCIA FRENTE A LOS IMPACTOS FRONTALES
+
+Los vehículos de transporte automotor de pasajeros por carretera, deberán tener en el frente, desde el nivel de la plataforma del conductor y a la altura del borde superior de su asiento (medida mínima de 400 mm), una chapa de acero de espesor mínimo de dos milímetros (2 mm) (tipo BWG Nº 14) o de condiciones de resistencia equivalente, unida adecuadamente a los travesaños superior e inferior de los parantes izquierdo y derecho de unión entre el frente y ambos laterales.
+
+Las aberturas para puertas de inspección, letreros de destino, alojamiento de luces, limpiaparabrisas, etc., no podrán superar el veinticinco por ciento (25 %) de la superficie total a proteger, debiendo, dichas aberturas, ser convenientemente reforzadas.
+
+La chapa en cuestión podrá ser colocada interna o externamente a la estructura frontal, y el travesaño inferior de la mencionada estructura deberá fijarse convenientemente a los largueros o la estructura delantera del chasis.
+
+La protección frontal en los vehículos dotados de motor delantero, podrá ser instalada solamente sobre la parte frontal izquierda, lado del conductor, fijada convenientemente a uno de los largueros del chasis, o estructura equivalente, cuando razones de orden constructivo impidan la colocación total en el frente del vehículo.
+
+Cuando disposiciones constructivas no permitan la colocación de la chapa de acero, en las condiciones y en la forma arriba indicadas, el fabricante deberá certificar el vehículo, mediante el ensayo de péndulo, en la condición de resistencia mínima del frente de la carrocería, de acuerdo con lo siguiente:
+
+a) El módulo para el ensayo estará compuesto por la estructura delantera, el anillo resistente inmediato a los elementos de unión entre ambos, que forman parte integral de la carrocería a ensayar (prototipo de ensayo). Para el caso de carrocerías autoportantes, el módulo se extenderá hasta el primer elemento resistente transversal, posterior al lugar destinado al conductor.
+
+b) Fijación del módulo: El módulo deberá estar fijado de forma tal que pueda evitarse cualquier movimiento del conjunto, debiendo todos los movimientos corresponder a deformaciones y/o roturas en el módulo y en sus fijaciones.
+
+La estructura de la carrocería, para los vehículos con chasis independientes, deberá estar fijada al chasis a través de sus componentes originales de base, y del chasis propiamente dicho, fijo al módulo de ensayo.
+
+c) Dispositivo de ensayo: El dispositivo de ensayo deberá estar compuesto de un péndulo, con el menor coeficiente de rozamiento posible en sus articulaciones, que sea solidario al dispositivo de fijación del módulo y que en su recorrido, el péndulo intercepte al módulo frontalmente. El impacto deberá ocurrir sobre la vertical del péndulo, con un máximo de tres grados sexagesimales (3º) de variación, anterior a la línea vertical. La distancia del péndulo al área de impacto deberá ser de cuatro mil quinientos milímetros a cinco mil milímetros (4500 a 5000 mm), la masa de mil kilogramos (1000 kg), con un área plana de impacto de setecientos milímetros por setecientos milímetros (700 mm. x 700 mm.).
+
+d) Impacto: El impacto ocurrirá entre los puntos indicados seguidamente en el centro de la cara de impacto de la masa del péndulo.
+d.1)	Puntos de impactos:
+d.1.1)	Coordenada transversal, coincidente con el eje del volante del vehículo, a una distancia entre ciento cincuenta milímetros y doscientos milímetros (150 y 200 mm.) del revestimiento del piso del puesto del conductor.
+d.1.2)	El punto simétrico entre d.1.1) y el eje vertical.
+
+e) Método de ensayo: La masa del péndulo deberá elevarse a una altura de dos mil milímetros (2.000 mm), en la dirección de su trayectoria normal, a partir de su punto de impacto. En la caída libre, la masa pendular impactará en el punto d.1.1) y posteriormente d.1.2), en ambos casos, su trayectoria deberá ser paralela al plano longitudinal del vehículo.
+
+f) Resultado del ensayo: Después de efectuados los dos (2) impactos, ningún punto de la estructura ensayada del vehículo podrá sufrir deformación longitudinal permanente superior a doscientos milímetros (200 mm). Dichas deformaciones serán medidas a partir de una referencia solidaria al dispositivo de ensayo.
+
+
+5.3.-	CONDICIONES DE RESISTENCIA FRENTE A LOS IMPACTOS DE LA PARTE LATERAL IZQUIERDA
+
+Para protección contra impactos en el lateral izquierdo, deberá colocarse en sentido longitudinal, a partir del nivel del solado (revestimiento del piso) de fijación de los asientos y hasta una altura no inferior a doscientos cincuenta milímetros (250 mm), una chapa de acero de dos milímetros (2 mm.) de espesor mínimo (tipo BWG Nº 14) o de condiciones de resistencia similares, soldada al travesaño inferior del lateral o travesaño del solado al soporte delantero de la primera fila de asientos y al soporte trasero de la última fila de asientos y a cada uno de los soportes y travesaños en la zona del antepecho de las respectivas ventanillas. Cuando los asientos se instalen también en el panel lateral, por fijaciones del tipo fusible, la chapa de acero de dos milímetros (2 mm.) deberá estar firmemente soldada al perfil de fijación de los asientos.
+
+En lugar de esta protección, definida como TRAVESAÑO ESTRUCTURAL DEL LATERAL IZQUIERDO, podrá instalarse una chapa externa o interna de acero de un milímetro con veinticinco centésimas de milímetro (1,25 mm) de espesor y de quinientos milímetros (500 mm.) de altura, soldada conforme a las especificaciones citadas.
+
+6.- PISO
+
+La superficie del pasillo central y de los accesos a las puertas de ascenso y descenso, deberán tener características antideslizantes.
+
+El área destinada a los asientos podrá estar a un nivel más elevado que el del piso del pasillo de tránsito interno para pasajeros, hasta treinta y tres centímetros (33 cm).
+En los vehículos, en el caso que existan desniveles en el pasillo de tránsito interno para pasajeros, deberá accederse mediante rampas o hasta tres (3) escalones con las siguientes características:
+
+- Escalones:	altura máxima veinte centímetros (20 cm) con profundidad mínima de veinticinco centímetros (25 cm)
+
+- Rampa:	inclinación máxima del veinte por ciento (20%) cuando no existan escalones en el pasillo, del quince por ciento (15%) en el caso que existan.
+Siempre deberá evitarse, que los bordes de los escalones existentes en el pasillo de tránsito de pasajeros se sitúen en las zonas entre asientos o entre otros asientos y mamparas.
+
+7.-	CAJA DE ESCALONES Y ESTRIBOS:
+
+Las cajas de los escalones de las puertas de ascenso y descenso no presentarán características específicas en cuanto a su forma y dimensiones, lo mismo ocurrirá con los estribos y los escalones. Estos, además de ser resistentes y de tener superficies antideslizantes, deberán obedecer a formas y dimensiones que admitan, en su superficie horizontal, la inscripción de un semicírculo de diámetro mínimo de cuarenta y dos centímetros (42 cm) y perpendicular a la dirección de ascenso y descenso. La proyección del borde del escalón superior sobre la superficie del inferior no podrá invadir el área de dicho semicírculo.
+
+La altura máxima medida desde el nivel del suelo hasta el escalón inferior, deberá ser de cuarenta centímetros (40 cm), permitiéndose para esto el uso del escalón retráctil.
+La altura máxima de los escalones consecutivos, será de treinta y tres centímetros (33 cm).
+
+8.-	CARACTERÍSTICAS Y DISPOSITIVOS DE ACCIONAMIENTO DE PUERTAS
+
+La puertas, en los vehículos de transporte de pasajeros, deberán cubrir totalmente los estribos cuando están cerradas y, por lo tanto, éstos no podrán sobresalir de la línea de la carrocería. Sus mitades superiores podrán seguir la línea del frente del vehículo o la inclinación de los parantes de las ventanillas laterales.
+
+El accionamiento de las puertas, en los vehículos, deberá efectuarse desde el puesto del conductor, a través de sistemas manuales (mecánicos) y/o servo mecánicos (hidráulico, neumático, eléctrico, etc.).
+Las puertas accionadas por cualquier sistema, que no sea manual, deberán contar con un dispositivo que permita abrirlas manualmente desde el interior en caso de emergencia. Dicho dispositivo deberá estar al alcance de los pasajeros, en las proximidades de las puertas de ascenso y descenso, debidamente protegido para evitar su accionamiento accidental. Los dispositivos de liberación de puertas deberán tener una leyenda que permita identificarlos.
+
+9.- VENTANILLAS
+
+Los paneles laterales de la carrocería y las partes superiores de las puertas (de ascenso, descenso y de emergencia), en los vehículos, deberán estar dotados de ventanillas ubicadas en la zona de los asientos.
+
+Se entenderá por "ventanilla lateral" toda superficie de vidrio, fijo o móvil, sujeta a un soporte que sirve de marco de la misma, ubicada en los costados del vehículo, entre el antepecho del lateral de la carrocería y su dintel o unión del techo con el lateral.
+
+Las ventanillas tendrán, como medidas mínimas, las siguientes dimensiones:
+Dobles:	un metro con treinta centímetros (1,30 m) de largo por sesenta centímetros (60 cm) de alto. Dicho largo podrá reducirse a un metro con diez centímetros (1,10 m) cuando su alto fuera de ochenta centímetros (80 cm). Es importante señalar que la suma de estas dimensiones, largo y alto, no será inferior a un metro con noventa centímetros (1,90 m).
+
+Simples:	sesenta centímetros (60 cm) de largo por sesenta centímetros (60 cm) de alto.
+
+La altura mínima del marco inferior de la parte móvil de las ventanillas medido a partir del nivel del piso del vehículo sobre el que están fijados los asientos, será de setenta centímetros (70 cm), con excepción de los asientos fijados al pasaruedas.
+
+Los vehículos de pasajeros de carretera, tendrán cubiertas sus ventanillas con vidrios de seguridad, exigencia ésta extensiva a los vidrios traseros, encuadrados según la norma MERCOSUR RES. GMC Nº 26/93.
+
+Los dispositivos de accionamiento no deberán presentar dificultad o exigir gran esfuerzo a los pasajeros para su utilización, serán simples, seguros, de accionamiento sensible y no presentarán riesgo de peligrosidad.
+
+Todas las ventanillas estarán provistas de cortinas o de otro dispositivo de protección solar.
+
+En el caso que posean ventanillas con vidrios móviles, su altura no podrá ser inferior a veinticinco centímetros(25 cm) y al estar abiertos, deberán proporcionar una superficie libre no inferior a cuatro mil centímetros cuadrados (4.000 cm2) para todo el vehículo, distribuida proporcionalmente entre todas las ventanillas.
+
+Los vehículos equipados con sistema de aire refrigerado o aire acondicionado, podrán tener ventanillas fijas o móviles de cualquier dimensión.
+
+10.- SALIDAS DE EMERGENCIA
+
+Las salidas de emergencia de los ómnibus, deberán permitir una rápida y segura evacuación de la totalidad de los pasajeros y del personal de abordo y observar las siguientes premisas:
+
+-	Permitir la salida de todas las personas del ómnibus en caso de choque o vuelco.
+-	La abertura de las salidas de emergencias podrán permitir su apertura aún cuando la estructura del ómnibus haya sufrido deformaciones.
+-	Cuando las ventanillas posean sistemas para destrucción de los vidrios, deberán contar con martillos de masa suficiente para romperlos, con indicaciones claras para su utilización.
+-	Los sistemas de accionamiento deberán poder ser operados en forma fácil y rápida.
+-	Los pasajeros deberán estar informados preventivamente acerca de los medios de acción a seguir en caso de emergencia.
+
+Todos los ómnibus tendrán como mínimo dos (2) ventanillas dobles por cada lateral, las que deberán funcionar obligatoriamente como salidas de emergencia. Dichas ventanillas, además, no podrán ser contiguas, debiendo estar proporcionalmente distribuida su ubicación de forma de permitir, en caso de ser necesario, la utilización de cada una por un número aproximadamente igual de pasajeros.
+
+Las referidas ventanillas, de vidrios fijos o móviles, deberán estar dotadas de mecanismos de apertura de tipo expulsable hacia el exterior, volcable o de vidrios destruibles.
+
+Las ventanillas de emergencia, una vez accionado su mecanismo de funcionamiento (expulsable, de vidrios destruibles, volcable), deberán ofrecer una abertura de forma rectangular de un metro con treinta centímetros (1,30 m) de largo por sesenta centimetros (60 cm) de alto, como medidas mínimas. El largo de esta abertura podrá reducirse a un metro con diez centímetros (1,10 m) siempre que su altura alcance a ochenta centímetros (80 cm), de manera que la suma de ambas medidas no sea inferior a un metro con noventa centímetros (1,90 m).
+
+La forma geométrica de la abertura de emergencia no debe ser obligatoriamente rectangular. Igualmente, cualquiera sea su formato deberá garantizar la inscripción de un rectángulo de las dimensiones establecidas precedentemente.
+
+En el techo del ómnibus deberá haber, con carácter obligatorio, por lo menos dos (2) aberturas para salidas de emergencia cuya sección útil será de la forma y las dimensiones tales que permitan inscribir un rectángulo de área igual a dos décimas de metro cuadrado (0,2 m2), con un lado de largo mínimo igual a cuarenta y tres centímetros (43 cm).
+
+La cubierta, tapa o cerramiento de las aberturas destinadas a salidas de emergencia (volcable, expulsable o de vidrios destruibles), nunca podrá, después de ser accionada, dejar la abertura resultante ocupada por componentes, de ninguna naturaleza, que puedan llegar a interferir u obstruir el libre pasaje por la misma.
+
+Las salidas de emergencia de los ómnibus, en ningún caso podrán estar ubicadas dentro de los compartimientos destinados a bar, baño o en la cabina del personal de abordo.
+
+11.- DISPOSITIVO DE DESTRUCCIÓN - MARTILLO DE SEGURIDAD
+
+Además de lo establecido en el ítem 10, respecto al sistema de apertura de las ventanillas de emergencia, en los casos de vidrios destruibles, vidrio templado, deberán llevar martillos de seguridad que posean las características indicadas más adelante. Los vehículos con vidrios fijos o móviles, estarán dotados de dicho dispositivo en correspondencia con cada salida de emergencia.
+
+- Material: acero SAE 1010 ó 1020;
+- Peso mínimo: doscientos noventa y cinco gramos (295 gr);
+
+Dimensiones:
+- Largo total: doscientos veinte milímetros (220 mm.);
+- Mazo: diámetro entre veintidos milímetros con cinco decimas (22,5 mm.) a veinticinco milímetros (25 mm.), puntiagudo, tratado térmicamente con la finalidad de partir los vidrios con facilidad;
+- Mango: doce milímetros (12 mm.) de diámetro;
+
+El mango deberá poseer una superficie antideslizante, preferentemente moleteado, en el extremo inferior.
+
+- La unión entre el mango y el mazo debe ser del tipo de ajuste mecánico y con unión firme por soldadura (Ver figura 2).
+
+  Figura 2
+
+Estos dispositivos, para destrucción de vidrios, deberán estar ubicados en las proximidades de las ventanillas de emergencia, en lugares visibles y de fácil acceso y al alcance de los pasajeros de los ómnibus. También deberán estar instalados con características tales que, además de no ofrecer ninguna dificultad para su utilización, impida su accionamiento accidental o involuntario desde el interior del vehículo.
+
+12.- PORTAEQUIPAJES Y PORTAPAQUETES
+
+Todos los ómnibus estarán dotados en su interior de portapaquetes, en forma de estantes, en correspondencia con ambos paneles laterales del vehículo destinados a la colocación de bultos pequeños y livianos.
+
+La profundidad máxima del mismo, estará medida horizontalmente y en sentido perpendicular al panel lateral de la carrocería, desde dicho panel y hasta el borde más saliente del portapaquetes. Deberá tener como máximo setenta y cinco centímetros (75 cm).
+
+Los portapaquetes deberán estar dotados de bordes o inclinación hacia el interior del mismo, que evite la caída de paquetes durante la marcha normal del vehículo.
+
+La altura de los portapaquetes, medida desde el piso de fijación de los asientos hasta su parte más baja, no deberá ser menor a un metro con treinta y cinco centímetros (1,35 m) y en los ómnibus de doble piso no deberá ser menor a un metro con treinta centímetros (1,30 m).
+
+Los ómnibus deberán disponer de compartimientos cerrados, por separado, con acceso por la parte externa del vehículo, para el transporte del equipaje de los pasajeros. El volumen mínimo de los portaequipajes será el que resulte de considerar un coeficiente de ocupación promedio igual a una decima de metro cúbico (0,1 m3), por pasajero sentado.
+
+Los portaequipajes deberán ser herméticos y de características constructivas tales, que impidan la entrada de polvo, agua, gases provenientes de la combustión, etc. Las puertas de acceso deben también estar equipadas con dispositivos de seguridad que eviten su apertura accidental durante la marcha del vehículo.
+
+Los elementos auxiliares del vehículo como rueda de auxilio, herramientas, etc., deberán colocarse por separado del equipaje de los pasajeros. Si eventualmente estos componentes estuvieran en el interior del portaequipajes, éste deberá portar un panel divisorio que impida el contacto con el equipaje.
+
+13.-  AISLACIÓN Y REVESTIMIENTO INTERIOR
+
+Todos los ómnibus, cualquiera sea el tipo de servicio al que estén afectados, deberán poseer, en el interior del techo, en las paredes laterales, frontal y posterior de la carrocería y en el compartimiento destinado al alojamiento del motor, un sistema de aislamiento acústico y térmico de características de baja combustibilidad o retardadores de llama.
+
+El nivel de ruido medido a una altura de un metro veinte con centímetros (1,20 m) sobre el nivel del piso del vehículo, en la posición del asiento del conductor, no podrá exceder:
+
+-	Con el vehículo detenido y motor regulando: setenta y cinco decibeles A (75 dB (A));
+-	Con el vehículo detenido y motor girando a tres cuartas (3/4) partes del número máximo de revoluciones por minuto (rpm): ochenta y cinco decibeles A (85 dB (A));
+
+Ambas mediciones se efectuarán con todas las puertas y ventanillas cerradas y con un nivel de ruido exterior inferior a sesenta decibeles A (60 dB (A)).
+
+Con el motor funcionando a tres cuartas (3/4) partes del número máximo de revoluciones por minuto (rpm), deberá asegurarse un nivel máximo de ruido interior de ochenta y ocho decibeles A (88 dB (A)), a un metro veinte centímetros (1,20 m) respecto del nivel del piso del pasillo de circulación interna, en cualquier punto de su extensión.
+
+14.- INFLAMABILIDAD DE LOS MATERIALES DESTINADOS A SER UTILIZADOS EN EL INTERIOR DE LOS VEHÍCULOS AUTOMOTORES
+
+Deberán cumplir con los requisitos armonizados en el MERCOSUR.
+
+15.- ASIENTOS
+
+Los asientos para los pasajeros en los ómnibus deberán estar ubicados según el eje longitudinal del vehículo en el sentido de marcha y/o viceversa, excepto aquellos que formen parte de un salón de estar y no sean de uso obligatorio para los pasajeros.
+
+Los vehículos convencionales poseerán dos (2) hileras de asientos dobles, de las siguientes características y dimensiones mínimas:
+
+-	Profundidad de la banqueta del asiento: cuarenta y dos centímetros (42 cm);
+-	Ancho libre de la banqueta del asiento: cuarenta y cinco centímetros (45 cm);
+-	Distancia libre entre el respaldo de asientos, con ambos en posición normal, a la altura de la banqueta entre la parte anterior de uno y la posterior del de adelante, en el sentido longitudinal del vehículo a nivel superior y en el centro de la banqueta: setenta y cinco centímetros (75 cm);
+-	Altura del borde superior de la banqueta al piso del vehículo donde esté fijado el asiento: máximo de cuarenta y ocho centímetros (48 cm) y mínimo de cuarenta centímetros (40 cm);
+-	Posiciones de reclinación mínima: dos (2), con un ángulo mínimo de treinta grados sexagesimales (30º);
+-	Altura del respaldo de la banqueta: setenta centímetros (70 cm);
+-	Distancia entre banquetas de asientos enfrentados: sesenta centímetros (60 cm);
+-	Las banquetas ubicadas inmediatamente al lado del pasillo interior del ómnibus, deberán poseer apoyabrazos;
+-	Las banquetas de los asientos deberán estar acolchados y tapizados;
+-	La superposición máxima del respaldo, en relación a la banqueta del asiento inmediatamente posterior: cinco centímetros (5 cm).
+
+Los ómnibus no convencionales, o sea diferenciales, podrán tener filas simples o dobles de asientos con las siguientes características y dimensiones mínimas:
+
+-	Profundidad de la banqueta del asiento: cuarenta y cinco centímetros (45 cm);
+-	Ancho libre de banqueta para asiento doble: cuarenta y cinco centímetros (45 cm);
+-	Ancho libre de banqueta para asiento simple: cincuenta centímetros (50 cm);
+-	Distancia libre entre los respaldos de las banquetas, en posición normal, a la altura de la banqueta entre la parte anterior de uno y la posterior del de adelante, en el sentido longitudinal del vehículo en  el nivel superior y en el centro de la banqueta: ochenta centímetros (80 cm);
+-	Posiciones de reclinación mínima: tres (3), con un ángulo mínimo de cuarenta grados sexagesimales (40º);
+-	Altura del respaldo de la banqueta: setenta centímetros (70 cm);
+-	Distancia entre banquetas de asientos enfrentados: setenta centímetros (70 cm);
+-	Las banquetas deberán estar dotadas de apoyabrazos a ambos lados;
+-	Los asientos de las banquetas deberán estar acolchados y tapizados con tejido o plástico;
+-	Las banquetas podrán tener incorporados apoyapies;
+-	Altura del borde superior de la banqueta al piso del vehículo donde estén fijadas las banquetas: máximo de cuarenta y ocho centímetros (48 cm) y mínimo de cuarenta centímetros (40 cm).
+
+Los apoyapies indicados precedentemente, cuando estén incorporados a las banquetas, tanto simple como dobles, deberán ser del tipo rebatible y que no molesten al pasajero que no desee utilizarlo.
+
+La identificación de las banquetas será a través de números naturales y/o letras excluyéndose las del conductor, acompañante y de los demás integrantes del personal de abordo, cuando les corresponda.
+
+El número correspondiente a cada banqueta podrá estar colocado en la parte superior del respaldo de las poltronas o en los apoyabrazos. También, estos números identificadores de las banquetas podrán estar colocados, para mejor visibilidad, sobre las ventanillas o en los portapaquetes. En este caso, además de los números, deberá constar obligatoriamente, las identificaciones correspondientes para las banquetas colocadas junto a las ventanillas y al pasillo.
+
+En la parte posterior de los respaldos podrán tener colocadas mesitas, individuales y rebatibles, que no excedan el ancho del respectivo respaldo.
+
+Los vehículos ejecutivos deberán poseer un paso entre asientos mínimo, distancia medida entre puntos homólogos, de: un metro con catorce centímetros (1,14 m), y tendrán como máximo tres (3) hileras de asientos.
+
+15.1.- ASIENTO PARA EL CONDUCTOR
+
+En los ómnibus de media y larga distancia, el asiento del conductor deberá observar las exigencias del diseño y estar colocado de manera que le permita, sentado normalmente y en posición correcta, operar con la comodidad necesaria todos los comandos del vehículo para su maniobra. Asimismo, sin dificultades ni esfuerzo, tener plenas condiciones para, además de accionar los mecanismos de señalización acústica o luminosa, poder observar, en su totalidad, el panel de instrumentos para el control de funcionamiento del vehículo. La ubicación del asiento evitará, igualmente, que el conductor sea molestado por la proximidad o desplazamiento de los pasajeros en el vehículo.
+
+También, por motivos de seguridad, no estarán permitidos en el respaldo del asiento destinado al conductor, que sobresalgan componentes o accesorios que puedan ofrecer algún riesgo de peligro para los pasajeros.
+
+El asiento del conductor, sin apoyabrazos y desplazable sólo en los sentidos horizontal y vertical, tendrá las siguientes dimensiones mínimas:
+
+-	Ancho: cuarenta y cinco centímetros (45 cm);
+-	Profundidad: cuarenta centímetros (40 cm);
+-	Altura mínima del respaldo (sin apoyacabezas): cincuenta centímetros (50 cm).
+
+El proyecto/diseño del asiento del conductor debe ser ergonómico, esto es, adecuado a lo que se determine por el análisis fisiológico de cada movimiento típico del conductor, respetando los principios biomecánicos. Además, debe permitir al conductor regular la posición mediante ajustes horizontales y verticales del mismo.
+
+También, dicho asiento deberá poseer amortiguación, condición que deberá garantizarse con un sistema de amortiguación y de suspensión propia y regulable, de características neumáticas o similares.
+
+Tanto el anclaje como la rigidez estructural del asiento del conductor serán las adecuadas para la correcta ubicación del cinturón de seguridad.
+
+16.- ACCESORIOS
+
+a) Parabrisas:
+
+Los parabrisas, en los ómnibus, serán de vidrio de seguridad laminado conforme a la norma establecida en la RES. GMC Nº 26/93. Deberán también, estar equipados con un dispositivo que permita el lavado del parabrisas estando en funcionamiento el sistema limpiaparabrisas, que es obligatorio.
+
+b) Mamparas:
+
+En los ómnibus serán colocadas mamparas de protección para los pasajeros, delante de las banquetas situadas detrás del asiento del conductor y delante de las ubicadas inmediatamente después de las cajas de escalones. En la mampara ubicada en las proximidades de la caja de escalones podrán colocarse pasamanos.
+
+Las mamparas deberán tener las siguientes dimensiones mínimas:
+
+-	Distancia mínima de las banquetas a la mampara: treinta y tres centímetros (33 cm);
+-	Altura desde el piso de fijación de las banquetas: sesenta centímetros (60 cm);
+-	El ancho de la mampara tendrá como mínimo cuarenta centímetros (40 cm) para la ubicada detrás del asiento del conductor y cubrirá en todos los casos, la profundidad total de la caja de escalones.
+
+c) Cinturones de Seguridad:
+
+Deberán cumplir con las exigencias establecidas en las normas MERCOSUR RES. GMC Nº 27/94.
+
+La fijación al piso del vehículo, de las banquetas con los cinturones de seguridad, fijos a su estructura, debe estar diseñada de forma tal que su capacidad resistente sea, como mínimo, igual a la exigida para los anclajes y demás elementos de fijación de estos cinturones de seguridad.
+
+d) Equipo de auxilio y de seguridad:
+
+Todos los ómnibus deberán estar equipados con rueda de auxilio, herramientas y otros elementos necesarios, enunciados en la norma MERCOSUR RES. GMC Nº 9/91.
+
+Los ómnibus deberán poseer matafuego y baliza que cumplan, como mínimo, con los requisitos de fabricación, mantenimiento y de control de carga periódico (del matafuego), de las normas establecidas en MERCOSUR (Para los Dispositivos de señalización reflectiva de emergencia, será la norma MERCOSUR RES. GMC Nº 37/94.
+
+La ubicación y fijación de los matafuegos en los ómnibus, independientemente de la categoría de vehículo, deberán cumplir con lo siguiente:
+
+-	Los matafuegos deberán ubicarse al alcance del personal de abordo, dentro del habitáculo;
+-	El soporte de los matafuegos deberá ubicarse en un lugar que no represente un riesgo para el conductor, personal auxiliar o pasajeros, fijándose de forma tal que impida su desprendimiento de la estructura del habitáculo;
+- El sistema de aseguramiento del matafuegos garantizará su permanencia, aún en caso de colisión o vuelco, permitiendo además su fácil liberación cuando tenga que ser empleado, debiendo ser metálico. Se prohibe usar el sistema de abrazadera elástica para su sujeción.
+
+17.- DISPOSICIONES GENERALES
+
+a) Ventilación:
+
+Todos los ómnibus deberán estar dotados de un sistema de ventilación forzada de aire, calefaccionado o refrigerado, que funcione aún estando el vehículo detenido y que asegure una renovación de aire, en su interior, por lo menos veinte (20) veces por hora.
+
+La renovación de aire deberá efectuarse uniformemente, por todo el interior del vehículo, con sus puertas y ventanillas cerradas independientemente de la velocidad de marcha.
+Independientemente del sistema de ventilación utilizado, las bocas de admisión y de expulsión de aire deberán estar equipadas con dispositivos que regulen su orientación direccional. Obligatoriamente, una de cada tipo de las bocas deberá permanecer siempre abierta. En los casos que el equipamiento disponible contenga solamente dos (2) bocas, las mismas no podrán cerrarse totalmente.
+
+Las bocas deberán ser diseñadas e instaladas de manera tal que puedan asegurar la debida ventilación sin permitir la penetración tanto de agua como de las emisiones gaseosas de combustible en el interior de los ómnibus.
+
+b) Refrigeración:
+
+Los ómnibus dotados de equipamiento de refrigeración, deberán contar con la potencia suficiente para asegurar, en el interior del vehículo, una diferencia de ocho grados celsius (8º C) en relación a la temperatura exterior en las condiciones más severas posibles, evitándose simultáneamente, corrientes concentradas de aire frío.
+
+La temperatura interior en los ómnibus, será verificada al nivel del techo, en toda su extensión, permitiendo ser graduado mediante el sistema de refrigeración regulable.
+
+Asimismo, la temperatura podrá ser controlada, por los pasajeros y personal de abordo, en todo momento, a través del termómetro obligatoriamente, fijado en el interior del vehículo, en un lugar adecuado y visible.
+
+c) Calefacción:
+
+Los ómnibus podrán estar equipados de cualquier sistema de calefacción, excepto los que funcionen con los gases de escape del motor que circulan por cañerías ubicadas en el interior del vehículo. El ingreso del aire calefaccionado o zona de intercambio de calor deberá corresponderse con la zona de piso del vehículo.
+
+El sistema de calefacción será tal que permita alcanzar, en el interior del vehículo, al nivel del piso, una diferencia de temperatura superior a quince grados celsius (15º C) respecto a la externa, en las condiciones más severas posibles.
+
+Asimismo, con el sistema de calefacción trabajando en régimen máximo, la temperatura interior del ómnibus no podrá ser inferior a quince grados celsius (15º C).
+
+La regulación de la calefacción será igual a la establecida para la refrigeración, incluso en lo referente a evitar corrientes concentradas de aire caliente.
+
+Todos los vehículos deberán estar equipados con sistema desempañador del parabrisas y, opcionalmente, con equipamientos combinados de refrigeración y calefacción.
+
+d) Compartimientos especiales:
+
+Los compartimientos específicos para bar, baño, sala de estar, etc., cuando existan, en el interior de los ómnibus, deberán estar ubicados en zonas que no dificulten el desplazamiento de los pasajeros, el libre tránsito en el pasillo y además que no obstruyan los accesos a las puertas de ascenso, descenso y las zonas de emergencia.
+
+18.- BAR
+
+Estará provisto opcionalmente de una pequeña pileta y de un tanque de agua. Poseerá también armarios, alacenas para el transporte de comestibles, un refrigerador y dispositivo para el suministro de bebidas calientes.
+
+Todos los equipamientos que componen el bar deberán fijarse y acondicionarse de manera de evitar desplazamientos durante la marcha del vehículo.
+
+La altura interior mínima del compartimiento del bar, desde el piso hasta el techo, en todo el sector de circulación y donde pueda estar de pie una persona, será de un metro con setenta y cinco centímetros (1,75 m).
+
+La banqueta destinada al auxiliar de abordo, de igual o mayor confort que la destinada a los pasajeros, podrá estar fijada dentro o fuera del compartimiento del bar.
+El ancho mínimo de la abertura para el acceso al interior del bar será de cuarenta centímetros (40 cm).
+
+
+19.- BAÑO O RETRETE
+
+Los componentes destinados para el baño o retrete, deberán estar ubicados en compartimientos estancos, provistos de extractores de aire con capacidad suficiente para que funcione permanentemente durante todo el recorrido del viaje.
+
+La puerta del baño estará dotada de cerradura que, solamente en caso de emergencia, pueda ser accionada por su lado exterior, sin afectar la comodidad y seguridad de los pasajeros, tanto para abrirla como para cerrarla.
+
+El baño deberá, también, estar dotado de señal luminosa indicadora de ocupado.
+
+El piso y las paredes laterales del baño, hasta un metro (1 m) de altura, serán de acero inoxidable o de plástico reforzado, excepto las aberturas para ventanillas, etc.
+
+El baño o retrete deberá contener, además del inodoro, un lavatorio y portapapeles, en lugares adecuados. Las ventanillas correspondientes no podrán ser de vidrios transparentes.
+
+El compartimiento, destinado al retrete tendrá las siguientes dimensiones mínimas:
+
+-	Área interior, medida a nivel superior del lavabo: seis désimas de metro cuadrado (0,6 m2);
+-	Largo y ancho, entre paredes medidos a nivel superior del lavabo: sesenta centímetros (60 cm);
+-	Altura interior, del piso al techo, en el sector de circulación, donde pueda estar normalmente de pie una persona: un metro con setenta y cinco centímetros (1,75 m);
+-	Altura de la puerta: un metro con sesenta y cinco centímetros (1,65 m);
+-	Ancho útil de la puerta (paso libre), en su máxima apertura: cuarenta centímetros (40 cm);
+-	Espacio libre entre el frente del inodoro y cualquier artefacto o elemento ubicado delante de él: treinta y cinco centímetros (35 cm);
+- Altura desde la plataforma exterior de acceso al retrete hasta el techo del vehículo: un metro con setenta y cinco centímetros (1,75 m);
+
+20.- CABINA DEL CONDUCTOR
+
+Los ómnibus podrán tener una cabina de conducción independiente del habitáculo de los pasajeros, con un paso de acceso a éste de acuerdo a los requisitos de servicio. Tanto el piso como el techo de esta cabina, podrán estar a igual nivel o en distintos niveles, superior o inferior al de los asientos para los pasajeros, o del pasillo de circulación interna del vehículo.
+
+Para los vehículos que posean cabina de conducción con altura interior superior a un metro con setenta y cinco centímetros (1,75 m), ésta deberá tener al menos una puerta lateral con dimensiones libres.
+
+Cuando la altura interior, de la zona destinada a la circulación y al ingreso y egreso del conductor y del personal auxiliar sea inferior a un metro con setenta y cinco centímetros (1,75 m), la cabina deberá tener dos (2) puertas, ubicadas una a cada lateral, con las siguientes medidas mínimas:
+
+Altura:	un metro con veinticinco centímetros (1,25 m);
+
+Ancho:	el ancho mínimo será de cincuenta y cinco centímetros (55 cm).
+
+Los vehículos que posean cabina de conducción independiente de la zona de pasajeros deberán, obligatoriamente, tener asiento para un acompañante.
+
+En ningún caso, la altura entre el borde superior de la banqueta del asiento del conductor o acompañantes, en su posición normal de trabajo, a ningún punto del techo de la cabina, podrá ser menor a noventa centímetros (90 cm).
+
+21.- ILUMINACIÓN
+
+21.1.- Luces Exteriores:
+
+Los sistemas de iluminación exterior para los ómnibus, deberán adecuarse a la norma establecida en la RES. GMC Nº 83/94, de acuerdo a la categoría que corresponda el vehículo.
+
+Además de estos sistemas, será admitida la colocación, en la zona frontal del ómnibus, de un cartel identificador de destino o puntos de recorrido, iluminado con luces blancas, con las siguientes dimensiones mínimas:
+
+-	Ancho: ochenta centímetros (80 cm);
+-	Alto: quince centímetros (15 cm).
+
+21.2.- LUCES INTERIORES:
+
+El sistema de iluminación interna se hará a través de luces blancas que proporcionen una adecuada iluminación en el interior de los ómnibus.
+
+El sistema de iluminación deberá estar formado, por lo menos, por dos (2) circuitos controlables individualmente, que sean capaces de alimentar los focos de luz instalados alternadamente y de manera tal, que proporcionen una iluminación lo más uniformemente posible, por todo el interior del vehículo.
+
+Además de la iluminación mencionada precedentemente, serán colocados puntos de luz, con focos para la lectura dirigidos a cada banqueta, provistos de interruptores individuales accionados por el propio pasajero.
+
+Todos los vehículos deberán contar con por lo menos una luz blanca en la caja de escalones de las puertas de ascenso y descenso, dispuesta de forma tal que ofrezca la adecuada visibilidad y no afecte la seguridad y el desplazamiento de los pasajeros.
+
+Podrán instalarse también "luces de sueño", excepto de color rojo.
+
+
+Los desniveles y escalones del pasillo interior de tránsito, deberán estar delimitados mediante luces indicadoras en el piso del vehículo, ubicadas de forma de no interferir en la circulación.
+
+Estará permitido también la colocación de luces antiencandilantes en el parabrisas.
+
+Las ventanillas de emergencia serán señalizadas con luces rojas colocadas en correspondencia a ellas y conectadas a las luces de posición ya reglamentadas, como en los desniveles del corredor interior.
+
+22.- ÓMNIBUS DE DOBLE PISO:
+
+Los ómnibus de doble piso cumplirán en lo que les corresponda, las disposiciones establecidas en esta reglamentación, excepto los aspectos abajo discriminados, que deberán ser satisfechos conforme la indicación en cada caso:
+
+La altura mínima interior medida en cada piso, desde el nivel del piso del pasillo de circulación al techo:
+
+-	Piso superior: un metro con sesenta y cinco centímetros (1,65 m);
+-	Piso inferior: un metro con ochenta centímetros (1,80 m).
+
+Escalera de vinculación entre los dos pisos:
+
+-	Ancho mínimo: sesenta centímetros (60 cm);
+-	Profundidad mínima de los escalones: veintiún centímetros (21 cm).
+
+La altura máxima entre la plataforma de los asientos y el pasillo de tránsito, en el piso inferior, será de: treinta y tres centímetros (33 cm).
+
+Los ómnibus de piso doble tendrán dos (2) ventanillas de emergencia, en cada lateral del piso superior y en cada lateral del piso inferior, además de la puerta, uniformemente distribuidas en la zona de los asientos.
+
+23.- VEHÍCULOS LIVIANOS DE LA CATEGORIA M3. (MICROÓMNIBUS)
+
+Los vehículos de la categoría M3 deberán ajustarse también, en general, en lo prescrito en el presente acuerdo, excepto en los siguientes aspectos:
+
+-	Las banquetas podrán ser fijas o reclinables y estar dotadas de apoyabrazos, siempre que no reduzcan el ancho útil de cada asiento;
+-	Podrá preverse la instalación de asientos específicos para el auxiliar de abordo o guía, cuando corresponda;
+-	Los asientos podrán ser simples o múltiples, orientados en el sentido de marcha del vehículo y/o viceversa.
+-	El espacio libre entre asientos no podrá ser inferior a:
+·	para asientos orientados en el mismo sentido: veintiocho centímetros (28 cm);
+·	para asientos orientados en sentidos opuestos: cincuenta centímetros (50 cm);
+·	ancho mínimo del pasillo interior: veintiseis centímetros (26 cm).
+-	La altura mínima del pasillo interior de circulación, para vehículos con capacidad menor a veintiún (21) asientos será de un metro con sesenta y cinco centímetros (1,65 m).
+-	Podrán estar dotados de todos los equipamientos inherentes a la comodidad y confort de los pasajeros, como por ejemplo: bar, minibar, sanitarios, música funcional, videos, etc.
+-	Los vehículos con capacidad menor a veintiún (21) asientos, deberán tener como mínimo una ventanilla por lateral del vehículo, destinada a salida de emergencia, que cuando sea accionada presente una abertura libre mínima de un metro con treinta centímetros (1,30 m) por cincuenta centímetros (50 cm) o dos (2) de setenta y cinco centímetros (75 cm) por cincuenta centímetros (50 cm), (dotadas de cualquiera de los sistemas de accionamiento previstos en este acuerdo) y otra salida de emergencia, en el techo, de dos décimos de metro cuadrado (0,2 m2) de superficie libre y uno de sus lados de cuarenta y tres centímetros (43 cm) como mínimo.
+
+Los vehículos podrán prescindir de la salida de emergencia de techo siempre que posean luneta trasera con las siguientes dimensiones mínimas: una de un metro con treinta centímetros (1,30 m) por cincuenta centímetros (50 cm) o dos (2) de cuarenta y cinco centímetros (45 cm) por cincuenta centímetros (50 cm).
+
+- El sistema de calefacción y refrigeración será optativo.
+- La luz libre de las puertas será: cincuenta centímetros (50 cm).
+
+SECRETARÍA ADMINISTRATIVA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 10
+FE DE ERRATAS - ORIGINAL
+
+Lic. Santiago González Cravino
+                                                                 Director
+
+1
+
+
+27

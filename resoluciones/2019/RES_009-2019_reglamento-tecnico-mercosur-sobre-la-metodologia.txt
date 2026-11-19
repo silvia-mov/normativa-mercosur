@@ -1,0 +1,147 @@
+Resolución GMC N° 09/19
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE LA METODOLOGÍA PARA EFECTUAR EL CONTROL METROLÓGICO EN PESCADOS, MOLUSCOS Y CRUSTÁCEOS GLASEADOS, A LOS EFECTOS DE DETERMINAR EL CONTENIDO EFECTIVO (DEROGACIÓN DE LA RESOLUCIÓN GMC Nº 40/09)
+Fecha de aprobación: 05/06/2019
+Vigencia: Vigente (Vigente desde el 05/11/2022 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 73290_RES_009_2019_ES_RTM Pescados.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3722).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 09/19
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LA METODOLOGÍA PARA EFECTUAR EL CONTROL METROLÓGICO EN PESCADOS, MOLUSCOS Y CRUSTÁCEOS GLASEADOS, A LOS EFECTOS DE DETERMINAR
+EL CONTENIDO EFECTIVO
+(DEROGACIÓN DE LA RESOLUCIÓN GMC Nº 40/09)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 38/98, 40/09 y 45/17 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+Que resulta necesario definir claramente el contenido efectivo en pescados, moluscos y crustáceos glaseados a los efectos de facilitar el intercambio comercial entre los Estados Partes y de eliminar barreras técnicas que podrían ser consideradas obstáculos a la libre circulación de los mismos, así como garantizar la defensa del consumidor.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre la Metodología para efectuar el control metrológico en Pescados, Moluscos y Crustáceos Glaseados, a los efectos de determinar el contenido efectivo", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 3 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3) los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 4 - Derogar la Resolución GMC Nº 40/09.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 02/XII/2019.
+
+CXII GMC - Buenos Aires, 05/VI/19.
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LA METODOLOGÍA PARA EFECTUAR EL CONTROL METROLÓGICO EN PESCADOS, MOLUSCOS Y CRUSTÁCEOS GLASEADOS, A LOS EFECTOS DE DETERMINAR
+EL CONTENIDO EFECTIVO
+
+
+1. OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR establece la metodología para la determinación de contenido efectivo en pescados, moluscos y crustáceos glaseados premedidos o preenvasados.
+
+2. CAMPO DE APLICACIÓN
+
+Este Reglamento Técnico MERCOSUR se aplica al control metrológico de pescados, moluscos y crustáceos glaseados premedidos o preenvasados.
+
+3. REFERENCIA
+
+OIML R87 - Edición 2016
+Guía WELMEC 6.8 - Mayo 2013 - Issue 2
+CODEX STAN 165-1989 (Revisión 2017)
+NIST HANDBOOK 133 - Edición 2018
+
+4. DEFINICIÓN
+
+A los efectos del presente Reglamento Técnico MERCOSUR se entiende por:
+
+Producto glaseado: Producto congelado cubierto por una capa fina de hielo para preservar su calidad.
+
+5. SIGLAS USADAS EN LAS FÓRMULAS
+
+PB Peso Bruto
+PPG Peso del Producto Glaseado
+PE Peso del Envase
+PPD Peso del Producto Desglaseado
+PH Peso del Hielo
+PEF Peso Efectivo
+PPGM Peso Medio Absoluto del Producto Glaseado
+PPDM Peso Medio Absoluto del Producto Desglaseado
+PHRM Cantidad Relativa de Hielo en la Muestra
+
+
+6. MATERIAL BÁSICO
+
+a) Balanza, con división 0,1 g o menor.
+b) Termómetro con precisión de 0,1 ºC, cubriendo el rango -30 ºC a 50 ºC.
+c) Recipiente paralelepípedo con un volumen mínimo de 10 litros de agua.
+d) Cernidor con malla de 2,36 mm a 2,5 mm en acero inoxidable.
+e) Cámara de congelado.
+f) Cronómetro.
+
+7. PROCEDIMENTO
+
+7.1 Identificar el producto.
+
+7.2 Identificar individualmente (numerar, posicionar u otro método) los envases, verificando si todos están en perfectas condiciones para el examen.
+
+7.3 Para pescados, moluscos y crustáceos glaseados de contenido nominal igual separar aleatoriamente un grupo de seis (6) unidades de la muestra tomada.
+
+7.4 Determinar el Peso Bruto (PB) pesando el producto ya identificado.
+
+7.5 Determinar el Peso del Envase (PE) pesando el envase y/o envoltorio totalmente limpio y sin residuos obteniéndose así el valor de (PE).
+
+7.6 Determinar el Peso del Producto Glaseado (PPG) substrayéndose del Peso Bruto (PB) el Peso del Envase (PE) correspondiente.
+
+      PPG = PB - PE
+
+7.7 Con el producto ya sin envase acomodarlo en un cernidor o canasto de alambre y sumergir en el recipiente con agua.
+
+7.7.1 La temperatura del baño antes de sumergir el producto, deberá estar en 20 ºC +/- 2 ºC.
+
+7.7.2 El producto deberá permanecer inmerso en su totalidad hasta que al tacto se perciba que todo el glaseado fue retirado; la muestra que se está ensayando no debe sufrir ningún tipo de descongelamiento.
+
+7.8 Retirar y dejar escurrir el producto en el cernidor por 2 minutos +/- 5 segundos. Para facilitar el escurrido, el cernidor deberá permanecer inclinado en un ángulo entre 17º y 20º. Retirar el exceso de agua del cernidor con papel absorbente.
+
+7.9 Determinar el Peso de Producto Desglaseado (PPD).
+
+7.10 Determinar el Peso del Hielo (PH) contenido en el producto substrayéndose del Peso del Producto Glaseado (PPG) el Peso del Producto Desglaseado (PPD).
+
+      PH = PPG - PPD
+
+7.11 Proceder al examen en todas las unidades seleccionadas.
+
+7.12 Determinar el Peso Medio Absoluto del Producto Glaseado (PPGM) usando la siguiente fórmula:
+
+      (PPGM) = PPG1 + PPG2 + PPG3 + PPG4 + PPG5 + PPG6
+					6
+7.13 Determinar el Peso Medio del Producto Desglaseado (PPDM) usando la siguiente fórmula:
+
+      (PPDM) = PPD1 + PPD2 + PPD3 + PPD4 + PPD5 + PPD6
+					6
+
+7.14 Determinación de la Cantidad Relativa de Hielo en la Muestra (PHRM):
+
+      PHRM= PPGM - PPDM
+      PPGM
+
+7.15 Cálculo para determinación del Peso Efectivo (PEF):
+
+      PEF = (PB-PE) . (1-PHRM)
+
+7.16 En caso de contenido nominal igual, obtenido el peso efectivo del producto, se aplicará la Resolución del Grupo Mercado Común vigente sobre Control Metrológico de Productos Premedidos o Preenvasados comercializados en Unidades de Masa y Volumen.
+
+7.17 Para pescados, moluscos y crustáceos glaseados de contenido nominal desigual debe realizarse ensayo destructivo para determinar el peso de hielo de cada unidad de la muestra y se aplica la Resolución del Grupo Mercado Común vigente sobre Control Metrológico de Productos Premedidos de Contenido Nominal Desigual.
+
+8. CONSIDERACIONES GENERALES
+
+8.1 Durante el período de transporte y traslado de las muestras hasta el laboratorio y durante su almacenaje, la temperatura del producto no podrá ser superior a -6 ºC. Hasta el momento de la inmersión del producto, no debe interrumpirse la cadena de frio.
+
+8.2 En el momento del examen, el producto seleccionado para el desglaseamiento debe estar a una temperatura entre -22 ºC y -6 ºC.
+
+8.3 La cantidad de agua en el baño debe ser como mínimo el equivalente a 10 veces el peso del producto a desglasearse.
+2

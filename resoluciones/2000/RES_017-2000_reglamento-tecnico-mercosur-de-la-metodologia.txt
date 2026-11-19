@@ -1,0 +1,74 @@
+Resolución GMC N° 17/00
+Título: REGLAMENTO TÉCNICO MERCOSUR DE LA METODOLOGÍA PARA DETERMINACIÓN DE PESO ESCURRIDO
+Fecha de aprobación: 28/06/2000
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 16351_RES_017-2000_ES_RTM_Metod_Deter-Peso Escurrido_Acta 2_00.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1200).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 17/00
+
+REGLAMENTO TÉCNICO MERCOSUR DE LA METODOLOGÍA PARA DETERMINACIÓN DE PESO ESCURRIDO
+
+
+      VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 91/93, 91/94, 152/96 y 38/98 del Grupo Mercado Común y la Recomendación Nº 12/99 del SGT Nº 3  "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que resulta necesario definir claramente la determinación de peso escurrido a los efectos de facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción, eliminar barreras técnicas que sean obstáculos a la libre circulación de productos de peso escurrido, y así garantizar la defensa del consumidor.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE :
+
+Art. 1 - Aprobar el Reglamento Técnico MERCOSUR de la Metodología para Determinación de Peso Escurrido, que figura en el Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	Ministerio de Economía, Secretaría de Industria, Comercio y Minería (S.I.C y M.)
+
+Brasil:	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial (INMETRO)
+
+Paraguay:	Instituto Nacional de Tecnología y Normalización (INTN)
+
+Uruguay:	Ministerio de Industria, Energía y Minería
+
+Art. 3 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 1° de enero de 2001.
+
+
+XXXVIII GMC - Buenos Aires, 28/VI/00
+
+ANEXO
+REGLAMENTO TÉCNICO MERCOSUR DE LA METODOLOGÍA PARA DETERMINACIÓN DE PESO ESCURRIDO
+MATERIAL BÁSICO
+
+a) Balanza compatible;
+b) Cernidor de acero inoxidable, malla de 1,4 mm (Nº 08) de abertura;
+c) Soporte de sustentación del cernidor, que mantenga una inclinación de 17º a 20º ;
+d) Recipiente;
+e) Termómetro para ambiente, escala de -10º C a +50º C  menor división 1º C;
+f) Cronómetro;
+
+CONDICIONES GENERALES
+
+a) Para verificación cuantitativa de productos escurridos comercializados en unidades de masa, debe ser observada y anotada la temperatura ambiente, a fin de minimizar las posibles influencias en el resultado del examen.
+b) La temperatura del ambiente deberá estar entre 20º C y 25º C.
+c) Los instrumentos de medición utilizados en la verificación cuantitativa deben tener sensibilidad compatible con la tolerancia admitida para el producto en examen.
+
+PROCEDIMIENTO
+
+1) Identificar el producto.
+2) Identificar individualmente (numerar y posicionar) los envases, verificando si todos están en perfectas condiciones para el examen.
+3) En caso que haya embalajes dañados, cuyo daño pueda influenciar el resultado del examen, excluir de la verificación las unidades dañadas y no realizar el examen por el criterio de la media.
+4) Determinar el contenido efectivo por método directo (examen destructivo) de cada unidad del producto en examen.
+4.1) Determinar el peso del recipiente más el del cernidor, limpios y sin residuos (p1).
+4.2) Derramar el producto en el cernidor, manteniendo una inclinación de 17º a 20º, dejando escurrir la parte líquida por 2min +\- 30s.
+4.3) Colocar el cernidor con el producto ya escurrido sobre el recipiente y determinar  su peso (p2).
+4.4) Determinar el peso líquido escurrido, substrayendo de p2 el valor de p1 (peso líquido escurrido = p2-p1).
+5) Obtenido el peso escurrido del producto se aplicará la Resolución GMC Nº 91/94.
+1
+
+
+1

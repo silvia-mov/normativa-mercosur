@@ -1,0 +1,145 @@
+Resolución GMC N° 04/09
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE CABLES Y CONDUCTORES ELÉCTRICOS DE BAJA TENSIÓN
+Fecha de aprobación: 02/07/2009
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 13077_RES_004_2009_ES_RTM-Cables y Cond Baja Tensión.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/630).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 04/09
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE
+CABLES Y CONDUCTORES ELÉCTRICOS DE BAJA TENSIÓN
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N 38/98, 56/02 y 35/08 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+
+Que la armonización de Reglamentos Técnicos MERCOSUR tiene por objeto  eliminar los obstáculos al comercio que son generados por diferencias en las reglamentaciones nacionales vigentes, dando cumplimiento a lo establecido en el Tratado de Asunción.
+
+Que resulta conveniente desarrollar especificaciones técnicas que aseguren el cumplimiento del Reglamento Técnico MERCOSUR sobre "Requisitos esenciales de seguridad para productos eléctricos de baja tensión".
+
+Que es necesario garantizar a los consumidores la seguridad en la utilización de cables y conductores eléctricos de baja tensión en condiciones previsibles o normales de uso.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el Reglamento Técnico MERCOSUR sobre "Cables y Conductores Eléctricos de Baja Tensión", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los organismos nacionales competentes para la implementación de la presente Resolución, son:
+
+Argentina:	Ministerio de Economía y Finanzas Públicas - MEyFP
+Secretaría de Comercio Interior - SCI
+
+Brasil:	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO
+
+Paraguay:		Ministerio de Industria y Comercio - MIC
+
+Uruguay:	Unidad Reguladora de Servicios de Energía y Agua - URSEA
+
+
+Art. 3 - Los requisitos sobre cables y conductores eléctricos de baja tensión establecidos en la presente Resolución serán obligatorios a partir del 01/10/10.
+
+Art. 4 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 01/I/2010.
+
+
+LXXVI GMC - Asunción, 02/VII/09
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CABLES Y CONDUCTORES  ELÉCTRICOS DE BAJA TENSIÓN
+
+
+1 - A los fines de este Reglamento se entiende por cables y conductores eléctricos de baja tensión aquellos cables aislados con policloruro de vinilo (PVC) para tensiones nominales hasta 450/750 Volt inclusive, de corriente alterna. El Reglamento se aplica a los cables y conductores rígidos y flexibles.
+
+2 - Los cables y conductores eléctricos de baja tensión alcanzados por el presente Reglamento deberán cumplir con los requisitos establecidos en las Normas MERCOSUR citadas a continuación y se exigirá la certificación obligatoria por marca de conformidad (Sistema ISO N 5), según las especificaciones de las mismas:
+
+NM 243:2000
+Cables aislados con policloruro de vinilo (PVC) o aislados con compuesto termofijo elastomérico para tensiones nominales hasta 450/750 V, inclusive - Inspección y recepción
+
+NM 244:2000
+Conductores y cables aislados - Ensayo de tensión en seco entre electrodos
+
+NM 247- 1:2000
+Cables aislados con policloruro de vinilo (PVC) para tensiones nominales hasta 450/750 V, inclusive - Parte 1  - Requisitos generales (IEC 60227-1, MOD).
+
+NM 247- 2:2000
+Cables aislados con policloruro de vinilo (PVC) para tensiones nominales hasta 450/750 V, inclusive - Parte 2  - Métodos de ensayos (IEC 60227- 2, MOD).
+
+NM 247- 3:2002
+Cables aislados con policloruro de vinilo (PVC) para tensiones nominales hasta 450/750 V, inclusive - Parte 3  - Cables unipolares  (sin envoltura) para instalaciones fijas (IEC 60227-3, MOD).
+
+NM 247- 5:2002
+Cables aislados con policloruro de vinilo (PVC) para tensiones nominales hasta 450/750 V, inclusive - Parte 5  - Cables flexibles (cordones) (IEC 60227-5, MOD).
+
+
+NM 274:2002
+Cables flexibles aislados con caucho de siliconas unipolares sin envoltura y multipolares con envoltura, resistentes al calor, para tensiones nominales hasta 450/750 V, inclusive
+
+NM 280:2002
+Conductores de cables aislados (IEC 60228, MOD)
+
+
+NM 287-1:2006
+
+Cables aislados con compuestos elastoméricos termofijos para tensiones nominales hasta 450/750 V, inclusive
+Parte 1: Requisitos generales (IEC 60245-1:2003, MOD)
+
+NM 287-2:2003
+
+Cables aislados con compuestos elastoméricos termofijos, para tensiones nominales hasta 450/750 V, inclusive -
+Parte 2: Métodos de ensayos (IEC 60245-2 MOD)
+
+NM 287-3:2003
+
+Cables aislados con compuestos elastoméricos termofijos para tensiones nominales hasta 450/750 V, inclusive -
+Parte 3: Cables aislados con caucho de siliconas con trenza, resistentes al calor (IEC 60245-3 MOD)
+
+NM 287-4:2006
+
+Cables aislados con compuestos elastoméricos termofijos para tensiones nominales hasta 450/750 V, inclusive
+Parte 4: Cordones y cables flexibles (IEC 60245-4:2004 MOD)
+
+3 - Deberán cumplir además, los siguientes requisitos y restricciones:
+
+3.1 Todos los cables y conductores eléctricos de baja tensión deberán tener  marcados el país de origen sobre su superficie externa (aislación o envoltura), además de lo establecido en la respectiva norma de referencia.
+
+Adicionalmente se marcará de la misma manera en el embalaje de los rollos o en las dos caras laterales externas de la bobina, la siguiente información:
+
+Para productos de fabricación nacional
+* razón social y domicilio legal del fabricante.
+* "BWF - Resistente a la propagación de incendio" (si corresponde)
+
+Para productos fabricados en otros Estados Partes o Extrazona
+* razón social o nombre del importador y su domicilio legal.
+* "BWF - Resistente a la propagación de incendio" (si corresponde)
+
+3.2 El punto 4.1.2 (Códigos de colores) de las Normas NM 247-1:2000 y NM 287-1:2006, no se aplica en el presente Reglamento.
+
+3.3 La nota del punto 4.1.3 (Combinación de los colores verde-amarillo) de las Normas NM 247-1:2000 y NM 287-1:2006, no se aplica en el presente Reglamento.
+
+3.4 Se aplicará a la nota del punto 4.1.2 de la norma NM 247-1:2000 en la que se determina que la combinación de colores verde-amarillo utilizada en la aislación de los conductores se utilizará exclusivamente para el conductor de puesta a tierra.
+
+
+3.5 El párrafo primero y segundo del punto 4.2.4 (Acondicionamiento) de la NM 247-1:2000, no se aplican al presente Reglamento. Para el control de las longitudes se deberán aplicar las Resoluciones MERCOSUR vigentes que regulan al respecto.
+
+3.6 El literal b) del punto 4.2.4 (Acondicionamiento) de la NM 247-1:2000 y los puntos 2.4 y 3.4 (Marcado) de la NM 274:2002, son aplicables para todos los países.
+
+3.7 El literal f) del punto 4.2.4 (Acondicionamiento) de las Normas NM 247-1:2000 y NM 287-1:2006, es aplicable para todos los países, para las bobinas y los rollos, debiendo en ambos casos indicarse la masa bruta en kilogramos.
+
+3.8 Los puntos 2.5, 3.5, 4.5, 5.5, 6.5 y 7.5 de la NM 247-3:2002, los puntos 3.5, 4.5, 5.5 y 6.5 de la NM 247-5:2002, los puntos 2.6 y 3.6 de la NM 274:2002,  el punto 3.5 de la NM 287-3:2003 así como los puntos 3.1, 3.5, 4.1, 4.5, 5.1, 5.5, 6.1 y 6.5 de la NM 287-4:2006 deben ser observados en el diseño, fabricación y utilización de los cables y conductores.
+
+3.9 Está prohibida la utilización de los cables y conductores de la Clase 4, conforme a la Norma NM 247-3:2002, en electrodomésticos y equipos electrónicos.
+
+3.10 Para los cables flexibles (cordones), conforme a las Normas NM 247-5:2002 y NM 287-4:2006, la clase 4 está prohibida.
+
+4 - Lo dispuesto en el presente Reglamento no obsta el cumplimiento de la Resolución GMC Nº 35/08 en lo que corresponda.
+
+
+5

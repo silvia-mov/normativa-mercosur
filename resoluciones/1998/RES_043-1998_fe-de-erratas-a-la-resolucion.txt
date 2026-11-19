@@ -1,0 +1,44 @@
+Resolución GMC N° 43/98
+Título: FE DE ERRATAS A LA RESOLUCIÓN GMC Nº 71/97: "DISPOSICIONES SOBRE SISTEMAS DE DISTRIBUCIÓN DE SEÑALES MULTIPUNTO MULTICANAL DEL MERCOSUR (MMDS)"
+Fecha de aprobación: 08/12/1998
+Vigencia: Vigente (Vigente desde el 26/05/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 21743_RES_043-1998_ES_FE_Res GMC Nº 71-97_Acta 4_98.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1567).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 43/98
+
+
+FE DE ERRATAS A LA RESOLUCIÓN GMC Nº 71/97: "DISPOSICIONES SOBRE SISTEMAS DE DISTRIBUCIÓN DE SEÑALES MULTIPUNTO MULTICANAL DEL MERCOSUR (MMDS)"
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Resolución Nº 71/97 del Grupo Mercado Común y la Recomendación Nº 3/98 del SGT Nº 1 "Comunicaciones".
+
+
+CONSIDERANDO:
+
+Que la Comisión Temática de Radiodifusión del SGT Nº 1 elaboró las disposiciones para la coordinación y uso del sistema de distribución de las señales multipunto multicanal (MMDS) en la banda 2500-2686 MHz, aprobado por Resolución del GMC Nº 71/97.
+
+Que en las disposiciones  se establece que, si en el cálculo en que se utiliza el gráfico de la figura 2, la distancia correspondiente a un determinado valor de intensidad de campo de señal interferente, resultare inferior a 20 Km, se debe aplicar el gráfico de la figura 1.
+
+Que dadas las modificaciones que se efectuaron en el gráfico de la figura 1, el salto entre las distancias que resulta de pasar del gráfico de la figura 2 al de la figura 1 es inadecuado.
+
+Que es necesario reemplazar en dicho cálculo, para distancias menores a 20 km, la aplicación del gráfico de la figura 1 por la aplicación del gráfico de la figura 3.
+
+      EL GRUPO MERCADO COMÚN
+      RESUELVE:
+
+Art. 1 - Se reemplaza el numeral 5 del capítulo V, del Anexo I "Especificaciones Técnicas"  del Convenio de MMDS en la Banda de 2500 - 2686 MHz., aprobado por Resolución 71/97 de GMC por el siguiente texto:
+
+	5.-  En el caso de que el contorno interferente tenga un radio inferior a 20 Km, se aplicarán las curvas de la figura 3 del Apéndice 3.
+
+Art. 2 - Se incorpora el gráfico de la figura 3 al Apéndice 3, que figura como Anexo y forma parte de la presente Resolución.
+
+
+XXXII GMC - Rio de Janeiro, 8/XII/98
+
+
+1
+
+
+1

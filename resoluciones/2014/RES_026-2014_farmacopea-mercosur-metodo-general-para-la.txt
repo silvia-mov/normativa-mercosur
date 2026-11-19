@@ -1,0 +1,68 @@
+Resolución GMC N° 26/14
+Título: FARMACOPEA MERCOSUR: MÉTODO GENERAL PARA LA DETERMINACIÓN DE RESIDUO POR IGNICIÓN (CENIZAS SULFATADAS)
+Fecha de aprobación: 27/07/2014
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 53318_RES_026-2014_ES_Farmacopea Cenizas.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2962).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 26/14
+
+
+FARMACOPEA MERCOSUR: MÉTODO GENERAL PARA LA DETERMINACIÓN DE RESIDUO POR IGNICIÓN (CENIZAS SULFATADAS)
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, la "Farmacopea MERCOSUR: Método general para la determinación de residuo por ignición (cenizas sulfatadas)", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 01/II/2015.
+
+
+      XLIII GMC EXT. - Caracas, 27/VII/14.
+
+ANEXO
+
+FARMACOPEA MERCOSUR: MÉTODO GENERAL PARA LA DETERMINACIÓN DE RESIDUO POR IGNICIÓN (CENIZAS SULFATADAS)
+
+Residuo por ignición (cenizas sulfatadas) es el residuo no volátil de una muestra incinerada en presencia de ácido sulfúrico. Este ensayo es utilizado para determinar el contenido de impurezas inorgánicas presentes en una sustancia orgánica. Esta técnica también es utilizada para la determinación de componentes inorgánicos en mezclas y de impurezas presentes en sustancias inorgánicas termolábiles.
+
+Procedimiento:
+
+Pesar exactamente entre 1 - 2 g de muestra, o la cantidad especificada en la monografía, en un crisol apropiado (cuarzo, sílica, platino o porcelana, a menos que se especifique otro material en la monografía individual) previamente sometido a ignición a la temperatura especificada para la muestra durante 30 minutos, enfriado en desecador y pesado. Humedecer la muestra con aproximadamente 1 mL de ácido sulfúrico R, calentar suavemente a una temperatura tan baja como sea posible hasta carbonización de la muestra. Enfriar y humedecer el residuo con 1 mL de ácido sulfúrico R, a menos que se especifique de otro modo en la monografía individual. Calentar suavemente hasta que no se desprendan humos blancos y carbonizar inmediatamente. Incinerar a  600 ± 50ºC entre 2 y 3 horas, a menos que se especifique otra temperatura y/o tiempo en la monografía individual. Enfriar en un desecador, pesar y calcular el porcentaje del residuo. A menos que se especifique de otra manera en la monografía individual, si el residuo obtenido excede el límite especificado, adicionar 1 mL de ácido sulfúrico R, calentar e incinerar por 30 minutos más. Repetir este procedimiento hasta que dos pesadas consecutivas no difieran en más de 0,5 mg o hasta que el residuo cumpla con el límite establecido en la monografía individual.
+
+Calcular el porcentaje del residuo en relación a la muestra en ensayo según la  siguiente fórmula:
+      % residuo por ignición (cenizas sulfatadas) =
+Donde:
+P1 = Peso del crisol después de la calcinación y enfriamiento (g)
+P2 = Peso del crisol con muestra después de la calcinación y enfriamiento (g)
+P3 = Peso inicial de la muestra (g)
+100 = Factor de porcentaje
+
+Realizar este procedimiento bajo campana extractora bien ventilada, pero protegida de las corrientes de aire. Podrá emplearse una mufla, si se desea, y su uso se recomienda para la ignición final a 600 ± 50ºC.
+
+Comprobar la exactitud de la medición y el sistema de circuitos de la mufla mediante el control de la temperatura en diferentes puntos de la mufla. La variación de temperatura tolerada es de ± 25ºC para cada punto evaluado.
+3

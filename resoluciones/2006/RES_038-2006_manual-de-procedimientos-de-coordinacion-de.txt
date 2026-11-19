@@ -1,0 +1,535 @@
+Resolución GMC N° 38/06
+Título: Manual de Procedimientos de Coordinación de Frecuencias para Estaciones del Servicio Fijo (Punto a Punto) en Frecuencias Superiores a 1.000 MHz
+Fecha de aprobación: 18/07/2006
+Vigencia: Vigente (Vigente desde el 07/04/2012 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 10232_RES_038-2006_ES_Manual ProcedCoordFrecuen-1000MHZ.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/646).
+----------------------------------------------------------------------
+MERCOSUR/GMC EXT./RES. Nº 38/06
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS PARA ESTACIONES DEL SERVICIO FIJO (PUNTO A PUNTO) EN FRECUENCIAS SUPERIORES A 1.000 MHz
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución Nº 32/04 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Resolución GMC Nº 32/04 aprueba las Pautas Negociadoras del Subgrupo de Trabajo Nº 1 "Comunicaciones" (SGT Nº 1).
+
+Que una de esas Pautas Negociadoras del SGT Nº 1, se denomina ahora "Manual de Procedimientos de Coordinación de Frecuencias para Estaciones del Servicio Fijo (Punto a Punto) en Frecuencias Superiores a 1.000 MHz".
+
+Que es necesario contar con instrumentos normativos que posibiliten armonizar procedimientos técnicos y administrativos para la instalación y funcionamiento de las estaciones que componen los enlaces punto a punto que operan en frecuencias por encima de 1.000 MHz.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Manual de Procedimientos de Coordinación de Frecuencias para Estaciones del Servicio Fijo (Punto a Punto) en Frecuencias Superiores a 1.000 MHz", que consta como Anexo y forma parte de la presente Resolución.
+Art. 2 - Encargar al SGT Nº 1 "Comunicaciones" a mantener actualizado el contenido del presente Manual, acorde a los avances que surjan en materia tecnológica u otros aspectos.
+Art. 3 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 01/I/2007.
+
+XXXI GMC EXT. - Córdoba, 18/VII/06
+
+
+ANEXO
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS PARA ESTACIONES DEL SERVICIO FIJO (PUNTO A PUNTO) EN FRECUENCIAS SUPERIORES A 1.000 MHz
+
+S U M A R I O
+
+
+1.	PREÁMBULO
+2.	DEFINICIONES
+3.	PRINCIPIOS GENERALES BÁSICOS
+4.	PROCEDIMIENTO DE COORDINACIÓN DE RADIOENLACES PUNTO A PUNTO UBICADOS DENTRO DE LA ZONA DE COORDINACIÓN DE UN ESTADO PARTE
+4.1. CONSIDERACIONES GENERALES
+4.2. INICIO DE LA COORDINACIÓN - PEDIDO DE INFORMACIÓN
+4.3.	CONFIRMACIÓN DE LA RECEPCIÓN DEL PEDIDO DE INFORMACIÓN Y ENVÍO DE LA INFORMACIÓN REQUERIDA
+4.4.	DETERMINACIÓN DE LAS FRECUENCIAS - FIN DEL PROCEDIMIENTO DE  COORDINACIÓN
+5.	PROCEDIMIENTO DE COORDINACIÓN Y DE AUTORIZACIÓN DE RADIOENLACES TRANSFRONTERIZOS
+5.1. CONSIDERACIONES GENERALES
+5.2. SOLICITUD DE INFORMACIÓN PREVIA AL PEDIDO DE COORDINACIÓN
+5.2.1. 	SOLICITUD DE INFORMACIÓN
+5.2.2. 	CONFIRMACIÓN DE LA RECEPCIÓN DE LA SOLICITUD DE INFORMACIÓN Y ENVÍO DE LA INFORMACIÓN REQUERIDA
+5.2.3.	DETERMINACIÓN DE LAS FRECUENCIAS PARA LA COORDINACIÓN
+     5.3. PEDIDO DE COORDINACIÓN
+     5.4. CONFIRMACIÓN DE LA RECEPCIÓN DEL PEDIDO DE COORDINACIÓN
+     5.5.	AUTORIZACIÓN DE UN RADIOENLACE TRANSFRONTERIZO
+6. SOLUCIÓN DE CONTROVERSIAS
+
+7. DISPOSICIONES FINALES
+
+8. DISPOSICIONES TRANSITORIAS
+
+
+ANEXOS
+
+ANEXO A: TABLA DE MÁXIMA SEÑAL EN LA LÍNEA DE FRONTERA
+
+ANEXO B: ZONA DE COORDINACIÓN
+ANEXO C:
+
+PARTE I: FORMULARIO DE COORDINACIÓN PARA RADIOENLACES TRANSFRONTERIZOS
+
+PARTE II: INSTRUCCIONES PARA EL LLENADO DEL FORMULARIO DE COORDINACIÓN DE RADIOENLACES TRANSFRONTERIZOS
+
+ANEXO D: PROCEDIMIENTO DE INTERCAMBIO DE INFORMACIÓN DE REGISTROS DE ASIGNACIONES DE FRECUENCIAS PARA ESTACIONES DEL SERVICIO FIJO (PUNTO A PUNTO) EN FRECUENCIAS SUPERIORES A 1.000 MHz
+
+
+1.
+PREÁMBULO
+1.1. Este Manual establece los procedimientos que deben aplicarse para la coordinación del uso de frecuencias para Estaciones Terrestres Fijas del Servicio Fijo de Radioenlaces Punto a Punto que operen en frecuencias superiores a 1.000 MHz en zonas fronterizas de los Estados Partes, incluyendo los Radioenlaces Transfronterizos.
+1.2. Los procedimientos descriptos en los ítems 4 y 5, determinan los pasos a seguir por cada Administración cuando desee realizar una asignación de frecuencias en zona de frontera dentro de su territorio o Radioenlaces Transfronterizos, respectivamente.
+1.3. La coordinación de frecuencias que trata el presente Manual se realizará teniendo como base el Cuadro de Atribución de Bandas de Frecuencias de cada Estado Parte, en el momento de realizar la coordinación.
+1.4. Toda Administración deberá informar a sus similares las modificaciones que se realicen en su Cuadro de Atribución de Bandas de Frecuencias en frecuencias superiores a 1.000 MHz.
+1.5. La responsabilidad de la coordinación de las frecuencias recae en las Administraciones de cada Estado Parte.
+
+2. DEFINICIONES
+2.1. ADMINISTRACIÓN: Entidad Gubernamental de Telecomunicaciones de cada Estado Parte, competente para intervenir en el cumplimiento y ejecución de las disposiciones del presente Manual.
+2.2. ASIGNACIÓN DE FRECUENCIA: Autorización que da una Administración para que una Estación Terrestre Fija del Servicio Fijo de un Radioenlace Punto a Punto utilice una frecuencia en las condiciones especificadas.
+2.3. ESTACIÓN DE UN RADIOENLACE PUNTO A PUNTO: Estación Radioeléctrica Fija del Servicio Fijo de un Radioenlace Punto a Punto que opera en frecuencias superiores a 1.000 MHz.
+2.4. ESTACIÓN DE UN RADIOENLACE TRANSFRONTERIZO: Estación Radioeléctrica Fija del Servicio Fijo de un Radioenlace Punto a Punto Transfronterizo.
+2.5. FRECUENCIAS COORDINADAS: Frecuencias asignadas a una Estación Terrestre Fija del Servicio Fijo de un Radioenlace Punto a Punto para su operación en Zona de Coordinación cuyo acuerdo fue obtenido con las Administraciones de los países limítrofes correspondientes.
+2.6. INTERFERENCIA: Efecto de una energía indeseable debido a una o varias combinaciones de emisiones, radiaciones o inducciones en la recepción de un sistema de radiocomunicaciones, manifestada por cualquier degradación de calidad, falseamiento o pérdida de información.
+2.7. PAÍS LIMÍTROFE: País vinculado por un punto de frontera con el País Sede.
+2.8. PAÍS SEDE: País cuya Administración inicia los procedimientos para la coordinación de uso de frecuencias.
+2.9. RADIOENLACE PUNTO A PUNTO: Enlace que permite la comunicación entre dos puntos fijos ubicados en la superficie de la tierra, utilizando ondas radioeléctricas.
+2.10. RADIOENLACE TRANSFRONTERIZO: Radioenlace Punto a Punto en el que uno de los puntos está localizado en un País Limítrofe.
+2.11. USUARIO: Titular de la autorización para instalar y poner en funcionamiento las estaciones Terrestres Fijas del Servicio Fijo de los Radioenlaces Punto a Punto o Transfronterizos.
+2.12. ZONA DE COORDINACIÓN: Faja geográfica dentro de cada país con un ancho variable dependiendo de la sub banda de frecuencias de acuerdo con el detalle del ANEXO B. En el caso de límite lacustre, fluvial o marítimo se considera como límite de referencia al margen o costa del país Sede.
+
+3. PRINCIPIOS GENERALES BÁSICOS
+3.1. A fin de garantizar el correcto funcionamiento de los sistemas de radiocomunicaciones terrestres de los Estados Partes, el proyecto de instalación de nuevas estaciones de Sistemas Fijos de Radioenlaces Punto a Punto, situadas dentro de la Zona de Coordinación, requerirá la realización de estudios de eventuales interferencias que pudieran ocurrir en estaciones localizadas en la Zona de Coordinación de los demás Estados Partes, observando el nivel máximo de señal admitido en la línea de frontera especificado en el ANEXO A.
+3.2. Toda interferencia perjudicial debe ser evitada y, en caso que ocurra, inmediatamente subsanada.
+3.3. Cuando sea necesario, para asegurar el cumplimiento de los procedimientos de coordinación y optimizar la adecuación de los criterios técnicos de referencia, los Estados Partes avalarán y realizarán, en conjunto, mediciones en campo con la participación, en la medida de lo posible, de los Usuarios involucrados.
+3.4. Las condiciones establecidas en las coordinaciones acordadas deben ser íntegramente cumplidas. En el caso de nuevas asignaciones o modificaciones de las condiciones técnicas de las frecuencias y/o estaciones ya coordinadas, deberá iniciarse un nuevo procedimiento de coordinación salvo que dichas incorporaciones o modificaciones no superen el nivel máximo de señal admitido en la línea de frontera especificado en el ANEXO A.
+3.5. Los Estados Partes y los Usuarios deben realizar todos los esfuerzos, facilitando el planeamiento y buscando rápida solución para los casos de coordinación, compartición de espectro y resolución de interferencias, con el objetivo común de establecer las comunicaciones pretendidas con una calidad adecuada.
+3.6. Las frecuencias que están en proceso de coordinación tendrán prioridad ante nuevas solicitudes o de modificaciones de parámetros de enlaces ya coordinados.
+3.7. Para efectuar una coordinación, se podrá utilizar todo medio apropiado de comunicación (correo electrónico, facsímil, correspondencia, etc.), incluyendo reuniones bilaterales o multilaterales.
+3.8. El formato y contenido de la información de los registros de frecuencias a intercambiar, se ajustará a lo establecido por los Estados Partes en el "Procedimiento de Intercambio de Información de Registros de Asignaciones de Frecuencias de Estaciones del Servicio Fijo (Punto a Punto) en Frecuencias superiores a 1.000 MHz", a excepción que se establezca una formalidad diferente no contemplada.
+3.9. Cuando una Administración deba realizar al mismo tiempo los procedimientos descriptos en los ítem 4 y 5 con dos o más Administraciones, debido a la necesidad de coordinar un Radioenlace localizado en una zona multifronteriza, comunicará a las Administraciones involucradas esta situación. En estos casos, los plazos establecidos en el numeral 4.3 se reducirán a los establecidos en el numeral 5.2.2.
+4. PROCEDIMIENTO DE COORDINACIÓN DE RADIOENLACES PUNTO A PUNTO UBICADOS DENTRO DE LA ZONA DE COORDINACIÓN DE UN ESTADO PARTE
+4.1. CONSIDERACIONES GENERALES
+4.1.1. Toda Administración antes de autorizar la instalación y funcionamiento o efectuar una modificación a una asignación de frecuencias superiores a 1.000 MHz, de un Radioenlace Punto a Punto situado dentro de su territorio, cuyas características técnicas puedan provocar en la línea de frontera un nivel de señal superior al establecido en el ANEXO A, debe coordinar la asignación proyectada con las Administraciones de los Estados Partes vecinos que pudieran ser afectadas.
+4.1.2. Cuando se trate de Radioenlaces Transfronterizos debe ser adoptado el procedimiento establecido en el ítem 5.
+4.2. INICIO DE LA COORDINACIÓN - PEDIDO DE INFORMACIÓN
+4.2.1. Para iniciar los procedimientos de coordinación, la Administración del País Sede enviará a la(s) Administración(es) afectada(s), el pedido de información de los registros de frecuencias en la banda y zona geográfica afectadas por la asignación que la Administración del País Sede desea realizar.
+4.2.2. Para ello la Administración del País Sede identificará los extremos de la banda de frecuencias de interés, expresados en Megahertz (MHz), y la zona geográfica mediante las coordenadas geográficas de los puntos extremos del Radioenlace.
+4.3. CONFIRMACIÓN DE LA RECEPCIÓN DEL PEDIDO DE INFORMACIÓN  Y ENVÍO DE LA INFORMACIÓN REQUERIDA
+4.3.1. La Administración del País Limítrofe, al recibir un pedido de información debe, de inmediato, acusar su recepción a la Administración del País Sede y tiene un plazo máximo de 10 (diez) días, a contar de la fecha de recepción, para remitir la información requerida.
+4.3.2.
+A partir de la fecha de envío de dicha información, la Administración del País Limítrofe no realizará asignaciones en la banda de frecuencias y la zona geográfica afectadas por el término de 30 (treinta) días, plazo dentro del cual la Administración del País Sede deberá resolver la asignación que diera motivo al proceso de coordinación en curso.
+4.3.3. La Administración del País Sede deberá confirmar inmediatamente la recepción de la información remitida por la Administración del País Limítrofe.
+4.4. DETERMINACIÓN DE LAS FRECUENCIAS - FIN DEL PROCEDIMIENTO DE   COORDINACIÓN
+4.4.1. Con la información de registros de frecuencias suministradas por la(s) Administración(es) de el(los) País(es) Limítrofe(s), la Administración del País Sede identificará las frecuencias de trabajo posibles de obtener su coordinación en forma satisfactoria, respetando los valores de Potencia Interferente Máxima, o valor equivalente, que se encuentren registrados para las estaciones que ya cuentan con una asignación de frecuencias.
+4.4.2. Una vez identificadas las frecuencias de trabajo, la Administración del País Sede informará de inmediato, a la(s) Administración(es) de el(los) País(es) Limítrofe(s) involucrado(s), la finalización del procedimiento de coordinación, de forma tal que queden liberados los procedimientos de asignación propios de cada Estado Parte para la banda y la zona geográfica que fueran consideradas.
+4.4.3. Si por otros motivos la Administración del País Sede desestima la asignación que dio inicio al procedimiento de coordinación antes de la finalización del periodo establecido en el ítem 4.3.2, ésta deberá comunicar a la(s) Administración(es) de el(los) País(es) Limítrofe(s) involucrado(s) este hecho, a fin de liberar los procedimientos de asignación propios de cada Estado Parte.
+5. PROCEDIMIENTO DE COORDINACIÓN Y DE AUTORIZACIÓN DE RADIOENLACES TRANSFRONTERIZOS
+5.1. CONSIDERACIONES GENERALES
+5.1.1. El interesado que pretenda instalar y operar un Radioenlace Transfronterizo desde el País Sede, debe presentar a la Administración del País Limítrofe, por medio de su Administración, una solicitud especificando los servicios de telecomunicaciones que necesita disponer entre el País Sede y el País Limítrofe, acompañada del proyecto técnico correspondiente.
+5.1.2. Para la elaboración del proyecto técnico, se deberán considerar los Cuadros o Planes de Atribución de Bandas de Frecuencias del País Sede y el País Limítrofe.
+5.1.3. Si por cualquier motivo la Administración del País Sede desestima la solicitud en algún momento del procedimiento de coordinación o una vez finalizado el mismo, cancela la autorización, ésta deberá comunicar dicha situación a la(s) Administración(es) de el(los) País(es) Limítrofe(s) involucrado(s).
+5.2.
+SOLICITUD DE INFORMACIÓN PREVIA AL PEDIDO DE COORDINACIÓN
+5.2.1. SOLICITUD DE INFORMACIÓN
+5.2.1.1. Para iniciar los procesos de coordinación, la Administración del País Sede enviará a la Administración del País Limítrofe, el pedido de información de sus registros de frecuencias en la banda y zona geográfica afectada por la asignación que la Administración del País Sede desea realizar para el Radioenlace Transfronterizo.
+5.2.1.2. Para esto la Administración del País Sede identificará los extremos de la banda de frecuencias de interés, expresados en Megahertz (MHz), y la zona geográfica mediante las coordenadas geográficas de los puntos extremos del radioenlace.
+5.2.2. CONFIRMACIÓN DE LA RECEPCIÓN DE LA SOLICITUD DE  INFORMACIÓN Y ENVÍO DE LA INFORMACIÓN REQUERIDA
+5.2.2.1. La Administración del País Limítrofe al recibir la solicitud de información debe, de inmediato, acusar su recepción a la Administración del País Sede y tiene un plazo máximo de 5 (cinco) días, a contar de la fecha de recepción, para remitir la información requerida.
+5.2.2.2. A partir de la fecha de envío de dicha información, la Administración del País Limítrofe no realizará asignaciones en la banda y la zona geográfica afectadas por el término de 20 (veinte) días, plazo dentro del cual la Administración del País Sede debe seleccionar las frecuencias de trabajo del Radioenlace, definir las demás características de funcionamiento de las estaciones involucradas y realizar el pedido de coordinación.
+5.2.2.3. La Administración del País Sede deberá confirmar la recepción de la información inmediatamente.
+5.2.3. DETERMINACIÓN DE LAS FRECUENCIAS PARA LA COORDINACIÓN
+5.2.3.1. La Administración del País Sede seleccionará las frecuencias del Radioenlace, respetando los valores de Potencia Interferente Máxima, o valor equivalente, que resulte de los registros de frecuencias de las estaciones ya autorizadas por las Administraciones involucradas.
+5.3. PEDIDO DE COORDINACIÓN
+5.3.1. Una vez que la Administración del País Sede haya realizado la selección de las frecuencias del Radioenlace, efectuará el pedido de coordinación a la(s) Administración(es) de el (los) País(es) Limítrofe(s), remitiendo el Formulario de Coordinación del ANEXO C PARTE I con la información requerida.
+5.4. CONFIRMACIÓN DE LA RECEPCIÓN DEL PEDIDO DE COORDINACIÓN
+5.4.1. La Administración del País Limítrofe al recibir un pedido de coordinación debe, de inmediato, acusar su recepción a la Administración del País Sede y tendrán un plazo máximo de 7 (siete) días, a contar de la fecha de recepción, para verificar si la información está completa o devolver el pedido en el caso que la información estuviera incompleta.
+5.4.2. No habiendo manifestación de la Administración del País Limítrofe en el plazo establecido en 5.4.1., el pedido de coordinación deberá ser reiterado, debiendo esa reiteración ser respondida en el plazo máximo de 7 (siete) días.
+5.4.3. La aceptación, rechazo o cualquier modificación que se proponga a la coordinación debe ser realizada por la Administración del País Limítrofe en un plazo de 15 (quince) días contados a partir de la fecha de confirmación de la recepción del pedido de coordinación.
+5.5. AUTORIZACIÓN DE UN RADIOENLACE TRANSFRONTERIZO
+5.5.1. Coordinadas las frecuencias, el(los) interesado(s) remitirá(n) la documentación necesaria a la Administración del País Limítrofe, que realizará los estudios legales y técnicos para otorgar la autorización de uso de frecuencias y/o para la instalación y puesta en funcionamiento de la Estación del Radioenlace Transfronterizo correspondiente.
+5.5.2. Una vez que ambas Administraciones no encuentren inconvenientes legales ni técnicos, otorgarán las respectivas Asignaciones de Frecuencias y/o las autorizaciones para la instalación y puesta en funcionamiento de las Estaciones del Radioenlace Transfronterizo, según las legislaciones vigentes de cada Estado Parte.
+5.5.3. La Administración del País Sede enviará a la Administración del País Limítrofe, y viceversa, las autorizaciones emitidas, con el objeto de notificar la conclusión de las actuaciones, en un plazo de 30 (treinta) días contados a partir de la fecha de la autorización.
+5.5.4. Ante cualquier irregularidad detectada por alguna de las Administraciones que provoque la cancelación, revocación o suspensión temporal de la Asignación de Frecuencias y/o de la autorización, ésta situación deberá ser notificada a la otra parte, a fin de que la misma realice los procedimientos y seguimientos pertinentes.
+5.5.5. La Asignación de Frecuencias y/o la autorización para la instalación de una Estación de un Radioenlace Transfronterizo será otorgada sobre la base del principio de reciprocidad de tratamiento gubernamental con relación a las condiciones de su otorgamiento.
+6. SOLUCIÓN DE CONTROVERSIAS
+6.1. Si ocurriera una controversia entre algunas de las Partes, las mismas deben buscar una solución mediante los mecanismos de negociación directa. Si mediante tales mecanismos no se llegara a un acuerdo o si la controversia fuera solucionada apenas parcialmente, serán de aplicación los procedimientos previstos en el sistema de Solución de Controversias vigente entre los Estados Partes del Tratado de Asunción.
+7. DISPOSICIONES FINALES
+7.1. En caso de ocurrir interferencias perjudiciales o situaciones no contempladas en el presente Manual, las Administraciones involucradas harán todos los esfuerzos necesarios para superarlas de forma aceptable para las partes interesadas.
+7.2. Este Manual debe ser constantemente actualizado con las nuevas alternativas de Sistemas Fijos y los nuevos patrones tecnológicos que surjan.
+7.3. Los plazos establecidos en días en el presente Manual, son considerados días corridos.
+8. DISPOSICIONES TRANSITORIAS
+8.1. Para Estaciones Terrestres Fijas del Servicio Fijo Punto a Punto en servicio, con asignaciones de frecuencias en bandas superiores a 1.000 MHz efectuadas con anterioridad a la fecha de aprobación del presente Manual, que se encuentran en el interior de la Zona de Coordinación o que estando fuera de la misma sus características técnicas provoquen en el interior de la Zona de Coordinación un nivel de señal superior al establecido en el cuadro del ANEXO A, se aplicarán los siguientes procedimientos:
+8.1.1. Para coordinaciones de frecuencias ya efectuadas, con acuerdos ratificados por las respectivas Administraciones, prevalecen los Acuerdos anteriormente mencionados.
+8.1.2. Para coordinaciones de frecuencias en proceso, en caso que las hubiera, deberán adecuarse a los procedimientos y reglas del presente Manual.
+8.1.3. Para asignaciones de frecuencias sin proceso de coordinación y en operación, las mismas serán consideradas como coordinadas, a menos que sean objeto de reclamaciones técnicamente fundadas, formuladas por las Administraciones afectadas dentro de los 60 (sesenta) días posteriores al intercambio de registros contemplado en el ítem 8.3. Ante esta eventualidad, deben ser iniciados los procedimientos de coordinación entre las Administraciones involucradas, de acuerdo a lo establecido en este Manual.
+8.2. En tanto no esté disponible un método de cálculo de radiopropagación común para el MERCOSUR, a ser propuesto por el Grupo de Especialistas de Radiopropagación, para evaluar interferencias entre estaciones del Servicio Fijo Punto a Punto, en frecuencias superiores a 1.000 MHz, cada Administración utilizará sus propios métodos. Si no hubiere acuerdo sobre la base de los cálculos teóricos presentados se adoptarán como referencia las Recomendaciones UIT-R P.530 - "Datos de propagación y métodos de predicción necesarios para el diseño de sistemas terrenales con visibilidad directa" y UIT-R P.452 "Procedimiento de predicción para evaluar la interferencia en microondas entre estaciones situadas en la superficie de la Tierra a frecuencias superiores a unos 0,7 GHz"
+8.3. Cada Administración debe presentar, dentro del plazo de 60 (sesenta) días posteriores a la aprobación de este Manual, un informe de las asignaciones del Servicio Fijo Punto a Punto que operan en la Zona de Coordinación, con la información necesaria a ser definida por las Partes y su intercambio se efectuará conforme a lo establecido en el "Procedimiento de Intercambio de Información de Registros de Asignaciones de Frecuencias de Estaciones del Servicio Fijo (Punto a Punto) en Frecuencias superiores a 1.000 MHz".
+
+ANEXO A
+TABLA DE MÁXIMA SEÑAL EN LA LÍNEA DE FRONTERA
+RANGO DE FRECUENCIAS (MHz)
+MÁXIMA SEÑAL EN LA LÍNEA DE FRONTERA (dBm)
+1400 ≤ f < 2100
+- 139,5
+2100 ≤ f < 2700
+- 142,5
+2700 ≤ f < 8700
+- 151
+8700 ≤ f < 13250
+- 154
+13250 ≤ f < 39200
+- 145
+
+ANEXO B
+ZONA DE COORDINACIÓN
+Las Zonas de Coordinación se definen de acuerdo a las bandas de frecuencias conforme la siguiente tabla:
+RANGO DE FRECUENCIAS EN MHz
+DISTANCIA MÍNIMA DE COORDINACIÓN (km) (1) (4)
+DISTANCIA MÁXIMA DE COORDINACIÓN (km) (2) (3) (4)
+1400 ≤ f < 2100
+10
+180
+2100 ≤ f < 2700
+10
+180
+2700 ≤ f < 8700
+10
+180
+8700 ≤ f < 13250
+10
+180
+13250 ≤ f < 39200
+5
+150
+Notas:
+(1) Toda estación que se encuentre en una zona inferior al límite de distancia mínima de coordinación, debe ser coordinada.
+(2) Toda estación que se encuentra entre la distancia máxima y la distancia mínima de coordinación, se debe coordinar si el nivel de señal en la línea de frontera es mayor o igual que el valor de señal máxima de la tabla del ANEXO A.
+(3) Toda estación que está localizada más allá de la distancia máxima de coordinación no necesita ser coordinada.
+(4) Las distancias tienen como referencia la línea de frontera de los países involucrados.
+
+ANEXO C - PARTE I
+FORMULARIO DE COORDINACIÓN PARA ESTACIONES DE RADIOENLACES TRANSFRONTERIZOS
+N.º
+DATOS
+SÍMBOLO
+INFORMACIÓN
+
+
+Estación A
+Estación B
+1
+PAÍS
+ADM
+
+2
+SITUACIÓN
+A
+
+3
+LOCALIDAD
+LOC
+
+4
+NOMBRE E INDICATIVO DE LA ESTACIÓN
+SD
+
+5
+LONGITUD OESTE
+LON
+
+6
+LATITUD SUR
+LAT
+
+7
+FRECUENCIA DE TRANSMISIÓN
+FTX
+
+
+8
+FRECUENCIA DE RECEPCIÓN
+FRX
+
+
+9
+ANCHURA DE BANDA NECESARIA
+BN
+
+
+10
+TIPO DE SISTEMA:
+a. ANALÓGICO
+b. DIGITAL
+
+CS1
+CS2
+
+11
+CAPACIDAD DEL ENLACE
+CE
+
+
+12
+POTENCIA DE TRANSMISIÓN
+PTX
+
+
+13
+GANANCIA DE LA ANTENA
+a. TRANSMISIÓN
+b. RECEPCIÓN
+
+GAT
+GAR
+
+
+14
+POLARIZACIÓN
+a. TRANSMISIÓN
+b. RECEPCIÓN
+
+POT
+POR
+
+
+15
+AZIMUT DE MÁXIMA RADIACIÓN
+a. TRANSMISIÓN
+b. RECEPCIÓN
+
+ACU
+ACR
+
+
+16
+ABERTURA HORIZONTAL
+a. TRANSMISIÓN
+b. RECEPCIÓN
+
+AHT
+AHR
+
+
+17
+POTENCIA INTERFERENTE MÁXIMA
+PIM
+
+
+18
+COTA DEL TERRENO SOBRE EL NIVEL DEL MAR
+CT
+
+
+19
+ALTURA DE LA ANTENA
+a. TRANSMISIÓN
+b. RECEPCIÓN
+
+HAT
+HAR
+
+
+20
+ATENUACIÓN TOTAL DEL SISTEMA DE ALIMENTACIÓN
+a. TRANSMISIÓN
+b. RECEPCIÓN
+
+
+ATT
+ATR
+
+
+21
+ENVOLVENTE DEL DIAGRAMA DE RADIACIÓN
+a. TRANSMISIÓN
+b. RECEPCIÓN
+
+DRT
+DRR
+
+
+22
+FECHA
+FE
+
+
+ANEXO C - PARTE II
+INSTRUCCIONES PARA EL LLENADO DEL FORMULARIO DE COORDINACIÓN DE RADIOENLACES TRANSFRONTERIZOS
+1
+PAÍS (ADM)
+Símbolo indicativo del Estado Parte solicitante de la coordinación
+	Argentina: 	ARG
+	Brasil:	           B
+	Paraguay:	PRG
+     	Uruguay:	URG
+2
+SITUACIÓN (A)
+Se indicará ADD, MOD o SUP cuando se refiera a una nueva asignación, una modificación o una supresión total de una asignación, respectivamente.
+3
+LOCALIDAD (LOC)
+Indicar el nombre de la localidad en que se encuentra la Estación del Servicio Fijo correspondiente, o el nombre de la localidad más próxima.
+4
+NOMBRE E INDICATIVO DE LA ESTACIÓN (SD)
+Indicar el nombre y el indicativo de la Estación del Servicio Fijo.
+5
+LONGITUD OESTE (LON)
+Este dato será expresado en grados, minutos y segundos sexagesimales.
+6
+LATITUD SUR (LAT)
+Este dato será expresado en grados, minutos y segundos sexagesimales.
+7
+FRECUENCIA DE TRANSMISIÓN (FTX)
+Indicar las frecuencias de transmisión de operación, en MHz, de la Estación del Servicio Fijo para la cual se solicita la coordinación.
+8
+FRECUENCIA DE RECEPCIÓN (FRX)
+Indicar las frecuencias de recepción de operación, en MHz, de la Estación del Servicio Fijo para la cual se solicita la coordinación.
+9
+ANCHURA DE BANDA NECESARIA (BN)
+Indicar, en MHz, la anchura de banda necesaria en transmisión.
+10
+TIPO DE SISTEMA:
+a. ANALÓGICO (CS1)
+b. DIGITAL (CS2)
+Informar si el sistema de radiocomunicaciones es analógico o digital.
+11
+CAPACIDAD DEL ENLACE (CE)
+Indicar el número de canales telefónicos, cuando se trate de sistemas analógicos, o la velocidad de transmisión, en bits/s, cuando se trate de sistemas digitales.
+12
+POTENCIA DE TRANSMISIÓN (PTX)
+Indicar las potencias de los equipamientos transmisores (en dBm), suministradas al sistema de alimentación de las antenas.
+13
+GANANCIA DE LA ANTENA
+a. TRANSMISIÓN (GAT)
+b. RECEPCIÓN (GAR)
+Indicar las ganancias de las antenas de transmisión y de recepción en la dirección de radiación máxima, expresada en dBi.
+
+
+14
+POLARIZACIÓN
+a. TRANSMISIÓN (POT)
+b. RECEPCIÓN (POR)
+Indicar el tipo de polarización utilizado en las antenas transmisoras y en las antenas receptoras.
+15
+AZIMUT DE MÁXIMA  RADIACIÓN
+a. TRANSMISIÓN (ACU)
+b. RECEPCIÓN (ACR)
+Es el ángulo formado entre la dirección del norte geográfico y la dirección de máxima radiación de la antena, en el sentido de las agujas del reloj. Indicar en grados los azimut de máxima radiación de las antenas transmisoras y de las antenas receptoras.
+16
+ABERTURA HORIZONTAL
+a. TRANSMISIÓN (AHT)
+b. RECEPCIÓN (AHR)
+Indicar Los ángulos de media potencia de los diagramas de radiación horizontal de las antenas transmisoras y de las antenas receptoras.
+17
+POTENCIA INTERFERENTE MÁXIMA (PIM)
+Se indicará la señal interferente máxima admisible en la entrada del receptor, expresada en decibeles con respecto a 1 mW.
+18
+COTA DEL TERRENO SOBRE EL NIVEL DEL MAR (CT)
+Indicar la altura del terreno con relación al nivel del mar, en metros.
+19
+ALTURA DE LA ANTENA
+a. TRANSMISIÓN (HAT)
+b. RECEPCIÓN (HAR)
+Indicar las alturas de las antenas de transmisión y de recepción con relación al suelo, en metros.
+20
+ATENUACIÓN TOTAL DEL SISTEMA DE ALIMENTACIÓN
+a. TRANSMISIÓN (ATT)
+b. RECEPCIÓN (ATR)
+Indicar las atenuaciones totales de los sistemas de alimentación de las antenas de transmisión y de las antenas de recepción debidas a las pérdidas en guías de onda, circuladores, duplexadores, filtros y conectores, etc., en dB.
+21
+ENVOLVENTE DEL DIAGRAMA DE RADIACIÓN
+a. TRANSMISIÓN (DRT)
+b. RECEPCIÓN (DRR)
+Anexar a este formulario los diagramas de radiación correspondientes a las antenas de transmisión y de recepción.
+22
+FECHA (FE)
+Informar la fecha de envío del formulario en el formato, dd.mm.aaaa.
+Observación:
+Los datos de la columna "Estación A" corresponderán a los de la estación ubicada en el País Limítrofe.
+Los datos de la columna "Estación B" corresponderán a los de la estación ubicada en el País Sede.
+
+ANEXO D
+PROCEDIMIENTO DE INTERCAMBIO DE INFORMACIÓN DE REGISTROS DE ASIGNACIONES DE FRECUENCIAS PARA ESTACIONES DEL SERVICIO FIJO (PUNTO A PUNTO) EN FRECUENCIAS SUPERIORES A 1.000 MHz
+El presente Anexo establece el mecanismo mediante el cual los Estados Partes, a través de sus Administraciones, pondrán a disposición de los demás Estados Partes, la información de sus registros de asignaciones de frecuencias de enlaces Punto a Punto superiores a 1.000 MHz.
+A tal fin, las Administraciones deben poner a disposición la información que deberá contener, como datos mínimos, los que se especifican mediante los procedimientos que se detallan u otros que pudieran ser acordados entre los Estados Partes.
+Definiciones:
+a. ADMINISTRACIÓN: entidad gubernamental de telecomunicaciones de cada Estado Parte, competente para intervenir en el cumplimiento y la ejecución de las disposiciones de la presente Resolución.
+b. ALTURA DE ANTENA: altura de la antena de transmisión o de recepción con relación al suelo, en metros.
+c. ATENUACIÓN TOTAL DEL SISTEMA DE ALIMENTACIÓN: valor que expresa la reducción cuantitativa de la potencia de transmisión debida al sistema de alimentación de antena, en dB.
+d. ASIGNACIÓN DE FRECUENCIAS: autorización para que una Estación del Servicio Fijo de un enlace Punto a Punto utilice una frecuencia determinada, en condiciones especificadas, otorgada por una Administración.
+e. FRECUENCIA DE RECEPCIÓN: frecuencia de recepción de operación de la Estación del Servicio Fijo para la cual está siendo solicitada la coordinación.
+f. FRECUENCIA DE TRANSMISIÓN: frecuencia de transmisión de operación de la Estación del Servicio Fijo para la cual está siendo solicitada la coordinación.
+g. GANANCIA DE ANTENA: relación, frecuentemente expresada en dB, entre la potencia requerida a la entrada de una antena de referencia libre de pérdidas y la potencia suministrada a la entrada de una antena que produciría, en una dirección particular, la misma intensidad de campo o la misma densidad de flujo de potencia a una distancia específica. La ganancia de antena de cada estación se expresa en dB con relación a una antena isotrópica.
+h. ANCHO DE BANDA OCUPADO: ancho de banda de frecuencias tal que, debajo del límite inferior y por encima del límite superior, cada una de las potencias medias radiadas es igual al 50 % (cuando no se especifica otro valor) de la potencia media radiada total por una emisión dada.
+i. LATITUD SUR: coordenada geográfica, expresada en grados, minutos y segundos sexagesimales.
+j. LONGITUD OESTE: coordenada geográfica, expresada en grados, minutos y segundos sexagesimales.
+k. LOCALIDAD: nombre del municipio en que se encuentra la Estación del Servicio Fijo o nombre de la localidad más próxima.
+l. POLARIZACIÓN: tipo de polarización utilizado por las antenas transmisoras y por las receptoras.
+m. POTENCIA DE TRANSMISIÓN: potencia del equipo transmisor, en dBm, entregada al sistema de alimentación de antenas.
+n. POTENCIA EQUIVALENTE ISOTRÓPICAMENTE RADIADA (en una dirección dada): producto de la potencia suministrada a la antena y su ganancia con relación a una antena isotrópica, en una dirección dada. En inglés "equivalente isotropically radiated power" o e.i.r.p.
+o. POTENCIA INTERFERENTE MÁXIMA: señal interferente máxima admisible, en la entrada del receptor, expresada en dBm.
+Las informaciones a intercambiar entre las Administraciones de los Estados Partes deben contener como datos mínimos, los siguientes:
+a. Frecuencia de Transmisión (MHz)
+b. Frecuencia de Recepción (MHz)
+c. Localidad
+d. Longitud: expresada en grados (º) minutos (') y segundos (")
+e. Latitud: expresada en grados (º) minutos (') y segundos (")
+f. Ancho de banda (MHz)
+g. Tipo de sistema: Analógico o Digital
+h. Potencia de Transmisión (dBm)
+i. Señal Interferencia Máxima (PIM) (dBm)
+j. Tipo de antena: se debe consignar la característica que define cuál es la antena
+k. Polarización
+l. Cota del terreno (m)
+m. Altura de antena (respecto de la cota del terreno) (m)
+n. Atenuación total del sistema de alimentación (dB)
+Los datos a consignar corresponden a cada una de las estaciones que participan de un radioenlace.
+Las Administraciones de los Estados Partes intercambiarán la información referida a los registros propios de asignaciones de frecuencias de los Radioenlaces Punto a Punto en bandas de frecuencia superiores a 1.000 MHz de acuerdo a lo establecido seguidamente:
+I.	ADMINISTRACIÓN DE ARGENTINA:
+a. La Administración Argentina dispone la información del registro de asignación de sus estaciones del Servicio Fijo que operan en frecuencias superiores a 1.000 MHz, en la página web denominada: www.cnc.gov.ar . Este registro se actualiza cada dos semanas.
+b. Una vez ingresado a la página, acceder en el menú de la derecha a Espectro Radioeléctrico, luego del mismo modo a Asignación de Frecuencias y dentro de esta opción ingresar a Registro.
+c. En la página se observa sobre la izquierda, las dos posibilidades de obtener la información, por medio de dos archivos, uno con extensión DBF y otro con extensión XLS. Asimismo se puede conocer la metodología de cálculo que la Administración Argentina utiliza para la asignación de frecuencias en bandas por encima de 1.000 MHz, que se denomina DG DNRc 61-02, siendo este último un archivo PDF.
+d. Alternativamente a la posibilidad expresada en los párrafos anteriores, las Administraciones de los demás Estados Partes podrán solicitar la información que deseen a la Administración Argentina mediante correos electrónicos a la dirección del Coordinador de la Comisión Temática de Radiocomunicaciones que actúe como tal al momento de realizar el pedido, o bien a quien este último señale como destinatario.
+e. Los interesados privados de cada Estado Parte también podrán optar por esta alternativa, siendo requisito indispensable ser presentados por su respectiva Administración, y remitiendo los siguientes datos:
+1) Coordenadas geográficas en grados, minutos y segundos sexagesimales del lugar alrededor del cual se desea conocer el estado de las asignaciones.
+2) Extremos de banda, en MHz, dentro de la cual se desea conocer el estado de registro de frecuencias.
+3) Distancia, expresada en kilómetros, del lugar especificado en el punto 1), alrededor del cual se desea conocer el estado de registro de las asignaciones.
+II. ADMINISTRACIÓN DE BRASIL
+a. La Administración de Brasil almacena la información relativa a los sistemas de radiocomunicaciones en la Base de Datos Técnicos y Administrativos (BDTA) de Anatel, a la cual pueden acceder las demás Administraciones por la red mundial de computadores-Internet:
+b. Para acceder inicialmente, en el sitio de ANATEL en Internet (http://www.anatel.gov.br), eligiendo la opción SISTEMAS.
+c. En la página, elegir la opción "SITARWEB - Sistema de Informaciones Técnicas para la Administración de las  Radiocomunicaciones WEB".
+d. Luego de acceder a SITARWEB, seleccionar la opción STEL - Sistema de Servicios de Telecomunicaciones.
+e.
+En la página STEL - Sistema de Servicios de Telecomunicaciones, elegir CONSULTAS, donde se encuentran 3 (tres) opciones:
+1) ATAJO PARA TABLAS AUXILIARES.
+2) RECUPERACIÓN DE FRECUENCIAS (210)
+3) LISTA DE FRECUENCIAS POR ÁREA (216).
+f. La opción Atajo para Tablas Auxiliares permite una amplia posibilidad de tópicos de consultas. Puede obtenerse información sobre canalizaciones de bandas de radiofrecuencias utilizadas en Brasil, por bandas o por servicios, coordenadas geográficas de municipios próximos a un punto indicado, distancias entre 2 puntos o entre 2 municipios; informaciones sobre servicios de telecomunicaciones, etc.
+g. La opción Recuperación de Frecuencias (210) y la Lista de Frecuencias por Área (216) permiten obtener las informaciones sobre datos referentes a las estaciones de radiocomunicaciones, como dirección, coordenadas geográficas, indicativos de llamada, frecuencias (TX/RX), denominación de la emisión, tipo de antena, ganancia de antena, ángulo de media potencia, ángulo de elevación, azimut, polarización, cota del terreno, altura de la antena con relación al suelo, potencia y clase. La opción Recuperación de Frecuencias (210) es la más indicada.
+h. Con el llenado de los campos obligatorios en la página presentada para escoger una de las dos opciones, Recuperación de Frecuencias (210) o Lista de Frecuencias por Área (216), el sistema presentará la información deseada sobre las estaciones de radiocomunicaciones. En la página Lista de Frecuencias por Área (216), la opción C presenta los datos técnicos de las estaciones de radiocomunicaciones.
+i. Los resultados de las consultas, con la información obtenida, pueden ser presentadas en archivo TXT o XLS y ser salvadas en el Terminal del Usuario, solo es necesario seleccionar el tipo de archivo deseado.
+j. La información relativa a los sistemas de radiocomunicaciones y disponibles en la Base de Datos Técnicos y Administrativos (BDTA) de Anatel puede ser obtenida por las demás Administraciones, por las prestadoras interesadas o por cualquier otra persona por la red mundial de computadores - Internet.
+III. ADMINISTRACIÓN DE PARAGUAY:
+a. La Administración de Paraguay dispone en formato de planilla Excel, la información de su Registro de asignaciones de estaciones terrestres del servicio fijo para enlaces Punto a Punto que operan en frecuencias superiores a 1.000 MHz.
+b. Esta Planilla es actualizada cada vez que se agregan nuevos enlaces o se modifican o cancelan enlaces existentes. Cada registro incluye a las dos estaciones del radioenlace.
+c. Las demás Administraciones de los Estados Partes podrán solicitar la información a la Administración Paraguaya mediante correo electrónico, a las siguientes direcciones:
+A: die@conatel.gov.py	CC: ctrc@conatel.gov.py	CC: gii@conatel.gov.py
+
+d. En la solicitud de la información se deberá detallar lo siguiente:
+1) Coordenadas geográficas de los puntos extremos del radioenlace, expresado en grados, minutos, segundos (ggºmm'ss").
+2) Extremos de la banda de frecuencias de interés, expresado en MHz. Deberán ser detallados los límites inferior y superior de las bandas de transmisión y recepción.
+e. Las empresas prestadoras también podrán realizar la misma solicitud suministrando los siguientes datos:
+1) Nombre de la persona solicitante.
+2) Empresa.
+3) Cargo que ocupa.
+4) Dirección de correo electrónico.
+5) Teléfono y Fax.
+f. Una vez que la Administración confirme los datos suministrados, se procederá al envío de la información.
+IV. ADMINISTRACIÓN DE URUGUAY
+a. La Administración de Uruguay dispone en formato de planilla Excel, la información de su Registro de asignaciones de estaciones del servicio fijo para enlaces Punto a Punto que operan en frecuencias superiores a 1.000 MHz.
+b. Las demás Administraciones de los Estados Partes podrán solicitar la información a la Administración Uruguaya mediante correo electrónico, a las siguientes direcciones:
+A: frecuencias@ursec.gub.uy  CC: hbude@ursec.gub.uy
+
+
+1
+
+
+ 2

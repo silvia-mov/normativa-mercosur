@@ -1,0 +1,307 @@
+Resolución GMC N° 43/96
+Título: ESTÁNDAR 2.3 - CRITERIOS PARA LA CARACTERIZACIÓN DE LAS PLAGAS DE CALIDAD (NOCIVAS)
+Fecha de aprobación: 21/06/1996
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 2/00)
+Idioma del texto: ES
+Archivo original: 26326_RES_043-1996_ES_EstPlagCalidad.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1952).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 43/96
+
+"Estándar 2.3 - Criterios para la Caracterización de las Plagas de Calidad (Nocivas)"
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº6/93 del Consejo del Mercado Común, y la Recomendación Nº 14/95 del SGT Nº8 "Agricultura".
+
+	CONSIDERANDO:
+
+	Que es necesario armonizar los criterios para la caracterización de las plagas de calidad (nocivas) entre los Estados Partes del MERCOSUR.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1.- Aprobar el Estándar que a continuación se detalla y forma parte de la presente: "Estándar 2.3 - Criterios para la caracterización de las plagas de calidad (nocivas)"
+
+Art. 2.- Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	SAPYA/IASCAV
+
+Brasil:		MAA/SDA
+
+Paraguay:	MAG/DDV
+
+Uruguay:	MGAP/DGSA/SPA
+
+Art. 3º.- La presente Resolución entrará en vigor en el Mercosur en un plazo máximo de 90 (noventa) días a partir de su aprobación.
+
+
+XXII GMC - Buenos Aires,. 21/VI/1996
+
+
+ESTANDAR FITOSANITARIO MERCOSUR
+
+
+SECCION II - REFERENCIA
+
+
+2.3 - CRITERIOS PARA LA CARACTERIZACION DE LAS PLAGAS DE CALIDAD (NOCIVAS)
+
+
+COMITE DE SANIDAD DE MERCOSUR
+
+
+INDICE
+
+
+I REVISION
+II APROBACION
+III REGISTRO DE MODIFICACIONES
+IV DISTRIBUCION
+V INTRODUCCION
+
+1 Ambito
+2 Referencias
+3 Definiciones y Abreviaturas
+4 Descripción
+
+
+VI REQUISITOS GENERALES
+
+1- Categorías de riesgo fitosanitarias consideradas
+
+1.1.- Materiales de propagación vegetal.
+
+1.2.- Productos vegetales y sus partes para consumo directo o transformación.
+
+
+2.- Criterios para la caracterización de plagas de calidad.
+
+2.1.- Uso propuesto : Materiales de propagación vegetal.
+
+2.2.- Uso propuesto : Consumo directo o transformación.
+
+
+3.- Procedimientos para establecer niveles de tolerancia de las plagas de calidad.
+
+4.- Procedimientos para la determinación de niveles de tolerancia.
+
+4.1.- Métodos de muestreo.
+
+4.2.- Metodología de análisis.
+
+4.3.- Tratamientos fitosanitarios
+
+I.-REVISION
+
+Este estándar fitosanitario está sujeto a revisiones y modificaciones periódicas.
+
+La fecha de la próxima revisión será marzo de 1996.
+
+II.-APROBACION
+
+Este estándar fitosanitario fue recomendado por la 3era. Reunión del SubComité de Sanidad Vegetal en Montevideo el 4 de diciembre de 1995 y fue aprobado en la 2da. Reunión del Comité de Sanidad de MERCOSUR el 7 de diciembre de 1995.
+
+III.-REGISTRO DE MODIFICACIONES
+
+Las modificaciones del estándar serán numeradas y fechadas correlativamente.
+
+Los poseedores del estándar deben asegurarse que todas las modificaciones sean incluidas y que se descarten las páginas correspondientes que se tornen obsoletas.
+
+IV.-DISTRIBUCION
+
+El estándar será distribuido por la Secretaría Administrativa del MERCOSUR a:
+
+a) Organizaciones Nacionales de Protección Fitosanitaria - ONPFs integrantes del MERCOSUR:
+
+- Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+
+- Secretaría de Defensa Agropecuaria, Brasil.
+
+- Dirección de Defensa Vegetal, Paraguay
+
+- Servicio de Protección Agrícola, Uruguay.
+
+b) Comité de Sanidad Vegetal del Cono Sur (COSAVE)
+
+INTRODUCCION
+
+1.- AMBITO
+
+Este estándar de referencia describe los criterios de caracterización de las plagas de calidad (nocivas) para la armonización de los niveles de tolerancia de acuerdo con el principio de transparencia en el comercio de vegetales y sus productos entre los países miembros.
+
+2.- REFERENCIAS
+
+- Acuerdo Sanitario y Fitosanitario MERCOSUR, Agosto 1993.
+
+- Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA, 1992.
+
+- Glosario FAO de Términos Fitosanitarios, FAO Plant Protection Bulletin 38 (1), Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA, 1990.
+
+- Estándar COSAVE N° 2.6, Glosario de Términos Fitosanitarios COSAVE, octubre de 1994, Brasilia, BRASIL.
+
+- Estándar COSAVE 2.2 sobre Principios de Regulación para las Plagas de Calidad (nocivas) en el comercio regional.
+
+- Estándar COSAVE 3.1 sobre Directivas para el Análisis de Riesgo de Plagas.
+
+- Resolución 059/94 GMC. Adopción de Padrones Fitosanitarios.
+
+3.- DEFINICIONES Y ABREVIATURAS
+
+ANALISIS	Examen oficial, otro que visual, para determinar si están presentes plagas o para identificar plagas.
+
+ANALISIS DE RIESGO
+DE PLAGAS	 Estimación del riesgo de plagas y del manejo del riesgo de plagas
+
+CATEGORIA DE RIESGO
+FITOSANITARIO 	Clasificación de los vegetales y productos en relación a su riesgo fitosanitario en función de su nivel de procesamiento, forma de presentación y uso propuesto.
+
+CIPF	Abreviación para la Convención Internacional de Protección Fitosanitaria.
+
+FAO	Abreviación para la Organización de las Naciones Unidas para la Agricultura y la Alimentación.
+
+GATT Abreviación del General Agreement of Trade and Tariffs.
+
+
+MATERIAL DE 		Ver vegetales para plantación.
+PROPAGACION
+
+NIVEL DE TOLERANCIA  PROVISORIO. 	Máxima cantidad de una plaga que es admitido en un envío y que ha sido armonizado sobre información aún no validada y que lo será dentro de un plazo establecido.
+
+OFICIAL Establecido, autorizado o realizado por una Organización Nacional de Protección Fitosanitaria.
+
+OMC	 Abreviación de la Organización Mundial de Comercio.
+
+ORGANIZACION NACIONAL DE PROTECCION FITOSANITARIA Servicio oficial establecido por un Gobierno, encargado de las funciones especificadas por la CIPF.
+
+ONPF Abreviación de la Organización Nacional de Protección Fitosanitaria.
+
+ORPF	 Abreviación de la Organización Regional de Protección Fitosanitaria.
+
+PLAGA  Cualquier especie, raza o biotipo de vegetales, animales o agentes patogénicos, nocivos para los vegetales o productos vegetales.
+
+PLAGA CUARENTENARIA	Una plaga de importancia económica potencial para el área en peligro por la misma y donde aún no se encuentra presente, o si presente se encuentra ampliamente distribuida y está siendo oficialmente controlada.
+
+PLAGA DE CALIDAD NOCIVA Plaga no cuarentenaria que afecta directamente el uso propuesto de los vegetales o productos vegetales.
+
+PRODUCTO	 Mercadería, tipo de vegetal, producto vegetal, u otro artículo regulado que está siendo movilizado por razones comerciales u otros propósitos.
+
+PRODUCTO VEGETAL Material no manufacturado de origen vegetal (incluyendo granos) y aquellos productos manufacturados que, por su naturaleza, o la de procesamiento, pueden crear un riesgo de dispersión de plagas.
+
+REGLAMENTACION/REGULACION FITOSANITARIA	Reglas oficiales para prevenir, contener, controlar y erradicar plagas mediante la regulación de la producción, del movimiento,almacenamiento de productos u otros artículos, de normalización de las actividades de las personas, así como el establecimiento de esquemas para la certificación fitosanitaria.
+
+USO PROPUESTO Destino final del vegetal, o su parte, que puede ser la propagación, o consumo, la transformación o la industrialización.
+
+VEGETALES PARA PLANTACION Vegetales destinados a permanecer plantados, a ser plantados, a ser plantados o replantados.
+
+
+4.- DESCRIPCION
+
+
+El presente estándar establece los criterios básicos para la caracterización de las plagas de calidad con el objetivo de establecer niveles de tolerancia armonizados entre los países miembros para vegetales y sus productos.
+
+VI REQUISITOS GENERALES
+
+
+1.- Categorías de riesgo fitosanitario consideradas.
+
+Este estándar se refiere a las categorías de riesgo fitosanitario 3 y 4.
+
+1.1.- Materiales de propagación vegetal.
+
+CATEGORIA 4 	CLASE 1 	*Plantas vivas y partes de plantas destinadas a la propagación, excepto las partes subterráneas y semillas.
+
+* Plantas hortícolas, frutícolas, ornamentales, industriales y forestales.
+
+* Estacas, yemas, o material "in vitro".
+
+CLASE 2 	Partes subterráneas de plantas destinadas a propagación.
+
+CLASE 3	 Semillas: Semilla verdadera en su definición botánica, destinada a propagación.
+
+* Semillas hortícolas, frutÍcolas, de cereales, forrajeras, oleaginosas, leguminosas, forestales, florales y de especiarias.
+
+1.2.- Productos vegetales destinados para consumo directo o transformación.
+
+CATEGORIA 3 	CLASE 4	Partes comestibles, más o menos suculentas de plantas alimenticias destinadas al consumo.
+
+* Frutas, hortalizas frescas y legumbres frescas o congeladas.
+
+CLASE 5	Partes cortadas de plantas, incluyendo las influorescencias destinadas al uso decorativo y no a propagación.
+
+* Flores, pimpollos, follajes, ramos, hojas y otras partes de plantas cortadas para buque y adornos frescos.
+
+CLASE 6	Maderas, procesadas o no, cortex y corcha
+
+* Maderas no procesadas, en bruto (descortezada), durmientes, postes, mouroes, tablas, etc.
+
+* Corcho no procesado (natural, bruto): planchas, tiras, etc.
+
+CLASE 9	Semillas de cereales, oleaginosas y leguminosas para consumo y otras semillas destinadas al consumo y no a la propagación.
+
+CLASE 10	 Comprende cualquier otra mercadería que no se ajuste a las clases anteriores.
+
+* Algodón (sin industrializar, o industrializado): natural, sin cardar ni peinar, linters, sobras, etc.
+
+* Café en grano, crudo, sin tostar.
+
+* Tabaco sin elaborar (en rama, o sobras)
+
+* Raíces forrajeras, henos, alfalfas, etc.
+
+2.- Criterios para la caracterizacion de plagas de calidad para la definición de sus niveles de tolerancia.
+
+Para caracterizar las plagas de calidad y establecer sus niveles de tolerancia, se aplican las definiciones y principios determinados y se fijan criterios en función del uso propuesto de los productos.
+
+Toda información a ser considerada deberá basarse en la investigación científica y en criterios técnicos reconocidos internacionalmente.
+
+2.1.- Uso propuesto: materiales de propagación vegetal.
+
+a) El material de propagación es la principal fuente de inoculo.
+
+b) En cuanto a la forma de transmisión de la plaga se tendrá en cuenta :
+
+- la forma de asociación de la plaga con el material de propagación.
+
+- la capacidad de transmisión por medio del material de propagación.
+
+- la existencia de vectores u otros medios de transmisión y eficiencia de esa transmisión.
+
+c) La capacidad de sobrevivencia de la plaga. d) La forma de diseminación y dispersión de la plaga.
+
+e) Su grado de incidencia directa en el uso propuesto. siendo su impacto económico verificable y cuantificable.
+
+2.2.- Uso propuesto: Consumo directo o transformación.
+
+a) Deberán estar asociadas al producto vegetal teniendo en cuenta:
+
+- La forma de asociación de la plaga con el producto.
+
+- Su riesgo de dispersión.
+
+- La posibilidad de producir sustancias que puedan afectar la salud humana o animal.
+
+b) Sus efectos sobre el uso propuesto son de verificables y cuantificables.
+
+3.- Procedimientos para establecer los niveles de tolerancia.
+
+Se establecerán los niveles de tolerancia en base a investigación científica y criterios técnicos reconocidos internacionalmente relacionados al efecto directo e impacto económico de las plagas de calidad a considerar.
+
+En caso de no existir información disponible al respecto, se podrá evaluar información sobre organismos biológicamente similares a los efectos de acordar un nivel de tolerancia provisorio.
+
+4.- Procedimientos para la determinación de los niveles de tolerancia.
+
+4.1.- Métodos de muestreo.
+
+Se armonizarán los métodos de muestreo para la extracción de la muestra a los fines de inspección y análisis.
+
+4 2.- Metodología de análisis.
+
+Se armonizarán las metodologias analíticas, para cada plaga y producto.
+
+4.3.- Tratamientos fitosanitarios.
+
+Se armonizarán para cada plaga y producto de acuerdo a su uso propuesto los tratamientos fitosanitarios aplicables.
+
+
+2

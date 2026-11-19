@@ -1,0 +1,95 @@
+Resolución GMC N° 32/99
+Título: Reglamento Técnico MERCOSUR sobre Metodologías Analíticas de Referencia para Control de Envases y Equipamientos en Contacto con Alimentos
+Fecha de aprobación: 10/06/1999
+Vigencia: Vigente (Vigente desde el 03/01/2009 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 17780_RES_032-1999_ES_RTM_Met-Anal_Ctrol-Envases_Cont-Alimentos_Acta 2_990.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1406).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N°32/99
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE METODOLOGÍAS ANALÍTICAS DE REFERENCIA PARA CONTROL DE ENVASES Y EQUIPAMIENTOS EN CONTACTO CON ALIMENTOS
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones GMC No 27/93, 28/93, 48/93, 87/93, 5/95, 91/93, 95/94, 56/97 y 38/98, Recomendación Nº 27/98 del SGT Nº 3 "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que los Estados Partes han fijado en las Resoluciones GMC No 27/93, No 28/93, No 87/93, N° 5/95, 95/94 y 56/97 y los límites de migración específica y de composición y otras restricciones.
+
+Que para el control de las migraciones y concentraciones de determinados componentes en los envases y equipamientos en contacto con alimentos es necesario entonces contar con metodologías analíticas de referencia.
+
+EL GRUPO MERCADO  COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Metodologías Analíticas de Referencia para Control de Envases y Equipamientos en Contacto con Alimentos", en sus versiones en espanõl y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los organismos:
+
+Argentina:	Ministerio de Economía y Obras y Servicios Públicos
+Secretaría de Agricultura, Ganadería, Pesca y Alimentación
+Servicio Nacional de Sanidad y Calidad Agroalimentaria
+Instituto Nacional de Vitivinicultura (INV)
+
+Ministerio de Salud y Acción Social
+Administración Nacional de Medicamentos, Alimentos y Tecnología Médica
+
+
+Brasil:		Ministério da Saúde
+
+Paraguay:	Ministerio de Industria y Comercio
+Instituto Nacional de Tecnología y Normalización (INTN)
+Ministerio de Salud Pública y Bienestar Social
+Instituto Nacional de Alimentación y Nutrición (INAN)
+
+Uruguay:	Ministerio de Salud Pública (MSP)
+
+Art. 3 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del día 10 de setiembre de 1999.
+
+
+XXXIV GMC - Asunción, 10/VI/99
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE METODOLOGÍAS ANALÍTICAS DE REFERENCIA PARA CONTROL DE ENVASES Y EQUIPAMIENTOS EN CONTACTO CON ALIMENTOS
+
+1. El presente Reglamento Técnico establece metodologías analíticas de referencia para el control de envases y artículos destinados a entrar en contacto con alimentos.
+
+2. Esta Lista podrá ser actualizada, a pedido de los Estados Partes, para la inclusión de Nuevas Metodologías o en caso que nuevos conocimientos técnico-científicos lo justifiquen.
+
+Plásticos:
+* Determinación de acetato de vinilo en simulantes de alimentos: Documento CEN/TC 194/SCI/WG2:N63.
+* Determinación de ácido maleico/anhídrido maleico en simulantes de alimentos: Documento CEN/TC 194/SCI/WG2:N114.
+* Determinación de ácido metacrílico en simulantes de alimentos: Documento CEN/TC 194/WG 5/TG 2:54/91.
+* Determinación de ácido tereftálico en simulantes de alimentos: se utilizará el Documento CEN/TC 194/WG 5/TG 2:54/91 (ácido metacrílico).
+* Determinación de acrilonitrilo en simulantes de alimentos: Documento CEN/TC 194/WG5/TG2: 59/9.
+* Determinación de aminas primarias aromáticas no sulfonadas en pigmentos y colorantes solubles en solvente: Norma DIN 55610 o ETAD 212.
+* Determinación de Bisfenol A en simulantes de alimentos: Documento CEN/TC 194/SC 1/WG 2 :N70
+* Determinación de 2,2-bis(4-hidroxifenil)propano-bis-2,3-epoxipropil)éter (BADGE) en simulantes de alimentos. Método A: Documento CEN/TC 194/SCI/WG2:N107.
+* Determinación de 2,2-bis(4-hidroxifenil)propano-bis-2,3-epoxipropil) éter (BADGE) en simulantes de alimentos. Método B: Documento CEN/TC 194/SCI/WG2:N115
+* Determinación de caprolactama en simulantes de alimentos: Documento CEN/TC 194/SCI/WG2:N59
+* Determinación de la migración del cloruro de vinilideno monómero (CVDM) de objetos a base de poli cloruro de vinilideno y sus copolímeros: Decreto Ministeriale del 18 de junio de 1979 - Gazzetta Ufficiale Della Repubblica Nº 180 (ITALIA).
+* Determinación de formaldehído en simulantes de alimentos: Documento CEN/TC 194/SCI/WG2:N42
+* Determinación de 1-octeno en simulantes de alimentos: Documento CEN/TC 194/SCI/WG2:N63
+* Determinación de 1,1,1-trimetilolpropano en simulantes de alimentos: Documento CEN/TC 194/SCI/WG2:N115.
+
+
+Celulósicos:
+* Preparación de un extracto en agua fría: Norma EN  645 (CEN).
+* Preparación de un extracto en agua caliente: Norma EN  647 (CEN).
+* Determinación de la solidez del color de papeles y cartones coloreados: Norma EN  646 (CEN).
+* Determinación de la solidez de papeles y cartones tratados con blanqueadores fluorescentes: Norma EN  648 (CEN).
+* Determinación de formaldehído en un extracto acuoso: Norma EN  1541 (CEN).
+* Determinación de mercurio en un extracto acuoso: Norma ENV  12497 (CEN).
+* Determinación de siete bifenilos policlorados (PCB) especificados: Norma ENV  1798 (CEN).
+
+Elastoméricos:
+* Se tomarán como Metodologías de Referencia para las determinaciones de migraciones específicas de monómeros y  para las concentraciones de monómeros residuales, las mismas utilizadas para plásticos.
+* Ditiocarbamatos, tiouramos y xantogenatos; Peróxidos; Aminas primarias aromáticas:
+Para estas tres determinaciones se tomarán como Metodologías de Referencia las del Decreto Ministeriale del 21 de marzo de 1973 - Gazzetta Ufficiale Nº 104 - Sezione 3 - Rivelazione della migrazione di traze di coadiuvanti tecnologici.
+
+
+1

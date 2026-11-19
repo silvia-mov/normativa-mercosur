@@ -1,0 +1,2898 @@
+Resolución GMC N° 19/01
+Título: Disposiciones Generales para el Roaming Internacional entre Prestadores de Servicio Móvil Celular en el Ámbito del MERCOSUR
+Fecha de aprobación: 13/06/2001
+Vigencia: Vigente (Vigente desde el 27/06/2007 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 14779_RES_019-2001_ES_Roaming _Frecuen_Móvil Celular_Acta 2_01.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1136).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 19/01
+
+DISPOSICIONES GENERALES PARA EL ROAMING INTERNACIONAL Y COORDINACIÓN DE FRECUENCIAS DEL SERVICIO MÓVIL CELULAR EN EL ÁMBITO DEL MERCOSUR (DEROGACIÓN DE LA RES. GMC Nº 65/97)
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones N° 15/96, Nº 20/96 y Nº 65/97 del Grupo Mercado Común y la Recomendación N° 2/01 del SGT N° 1 "Comunicaciones",
+
+CONSIDERANDO:
+
+Que para el cumplimiento de los objetivos del Tratado de Asunción en lo que respecta a la integración de los Estados Partes, los servicios de telecomunicaciones cumplen un rol importante.
+Que la adopción de disposiciones generales comunes contribuye al proceso de integración de las comunicaciones en el MERCOSUR, la cual es necesaria para facilitar los objetivos buscados.
+Que la telefonía móvil constituye uno de los servicios de telecomunicaciones que reviste mayor importancia en el proceso de integración regional y el fortalecimiento de las relaciones económicas.
+Que el roaming internacional entre prestadores de telefonía móvil de la región favorece la integración antes mencionada.
+Que es necesaria la coordinación de las bandas de frecuencias utilizadas por los prestadores de servicio de telefonía móvil en la región para evitar cualquier tipo de interferencia perjudicial.
+Que por Res. N° 65/97 del Grupo Mercado Común, fue aprobado el Manual de Procedimientos de Coordinación de Frecuencias del Servicio Móvil Celular que corresponde a los Anexos 1 y 8 del Acuerdo Cuatripartito entre Argentina, Brasil, Paraguay y Uruguay.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE :
+
+Art. 1 - Aprobar las "Disposiciones Generales para el Roaming Internacional entre Prestadores de Servicio Móvil Celular en el Ámbito del MERCOSUR", que consta como Anexo I y forma parte de la presente Resolución.
+
+Art. 2 - Aprobar el "Manual de Procedimientos de Coordinación de Frecuencias en la Banda de 800 MHz del Servicio Móvil Celular", que consta como Anexo II y forma parte de la presente Resolución.
+
+
+Art. 3 - Derógase la Res. GMC N° 65/97.
+
+Art. 4 - Facultar al SGT1 "Comunicaciones" a mantener actualizadas las presentes disposiciones y proponer las modificaciones necesarias acorde a los avances que surjan en materia tecnológica y otros aspectos.
+
+
+Art. 5 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 13/IX/2001.
+
+
+XLII GMC- Asunción, 13/VI/01
+
+
+ANEXO I
+
+
+DISPOSICIONES GENERALES PARA EL ROAMING INTERNACIONAL ENTRE PRESTADORES DEL SERVICIO MÓVIL CELULAR EN EL ÁMBITO DEL MERCOSUR
+Cuando en el marco de sus atribuciones, las Administraciones y/o los Prestadores del Servicio Móvil Celular, negocien entre sí acuerdos relativos al Roaming Internacional, por los  cuales los usuarios del Servicio Móvil Celular de cualquiera de los Estados Partes del MERCOSUR utilicen sus servicios móviles en el territorio de otro Estado Parte, deberán incluir los procedimientos, condiciones y demás aspectos referidos en este documento.
+
+1. 	DEFINICIONES
+Se presenta a continuación un listado de las definiciones a los efectos exclusivos del presente documento.
+1.1 Área de Registro Visitada: área que es visitada por una Estación Móvil registrada como residente en un área de registro perteneciente a otro Estado Parte.
+1.2 Estación Móvil: Estación del Servicio Móvil Celular que puede operar en movimiento o detenida en un lugar no especificado
+1.3 Estación Móvil Visitante: Estación Móvil que ingresa a un Área de Registro Visitada.
+1.4 Prestador: Persona jurídica habilitada para la explotación del Servicio Móvil Celular, conforme a los términos de la reglamentación de cada Estado Parte.
+1.5 Servicio Móvil Celular: servicio que, mediante las radiocomunicaciones, permite las comunicaciones entre Estaciones Móviles y entre estas y la Red Telefónica Publica (RTP) fija, utilizando la Técnica Celular.
+1.6 Técnica Celular: técnica que consiste en dividir una área geográfica en áreas menores denominadas celdas, a cada una de las cuales se atribuye un grupo de frecuencias, que permite que las frecuencias utilizadas en una celda puedan ser reutilizadas en otras celdas separadas espacialmente. Una característica fundamental de esta técnica es la de permitir la transferencia automática de una llamada en curso, de modo que las llamadas establecidas continúen cuando las Estaciones Móviles se desplazan de una celda a otra.
+1.7 Usuario Visitante: usuario de la Estación Móvil Visitante.
+
+2. PROCEDIMIENTOS DE ENCAMINAMIENTO
+2.1 El encaminamiento de las llamadas originadas en la Estación Móvil Visitante deberá recibir igual tratamiento que el de las llamadas originadas por la Estación Móvil perteneciente al Área de Registro Visitada, en lo referente a las llamadas locales y de larga distancia nacional e internacional.
+2.2 Las llamadas dirigidas a una Estación Móvil Visitante deberán ser encaminadas de acuerdo con las reglamentaciones vigentes en los Estados Partes tomándose en consideración las autorizaciones o licencias otorgadas a los Prestadores del Servicio Móvil Celular involucrados.
+
+3. 	IDENTIFICACIÓN DE LA ESTACIÓN MÓVIL
+3.1 Se recomienda que los Prestadores del Servicio Móvil Celular que presten el servicio de roaming internacional migren gradualmente los sistemas de identificación de redes móviles al plan establecido en la Recomendación E.212 de UIT; es decir, del Número de Identificación de la Estación Móvil ("Mobile Station Identification Number") - MIN al Identificador Internacional de Abonado Móvil ("International Mobile Subscriber Identity") - IMSI.
+
+4. 	CARACTERÍSTICAS DEL SERVICIO DE ROAMING PRESTADO
+4.1 Los Prestadores del Servicio Móvil Celular  serán responsables de informar, a los usuarios que solicitan el servicio de roaming internacional, las condiciones del mismo. Dicha información deberá incluir como mínimo las tarifas, los procedimientos operativos y el número del Servicio de Atención al Cliente del Prestador Visitado.
+4.2 La calidad del servicio prestado al Usuario Visitante no podrá ser menor que la del servicio prestado a sus propios clientes.
+
+5. OTRAS CONSIDERACIONES
+5.1 El responsable ante cualquier reclamo del Usuario Visitante, relativo al servicio de roaming internacional, será el Prestador del País de origen con el que el usuario tiene contratado el Servicio Móvil Celular.
+5.2 Se recomienda a los Prestadores de los Estados Parte que acuerden servicios de roaming internacional, implementar sistemas operacionales y procedimientos de control antifraude así como que establezcan en dicho acuerdo las responsabilidades al respecto.
+5.3 Cada vez que un Prestador del Servicio Móvil Celular, firme un acuerdo de servicio de roaming internacional, deberá presentar, dentro de los 30 días hábiles siguientes, una copia del mismo ante su Administración, disponiendo ésta hasta 30 días hábiles para realizar observaciones al mismo. Si en dicho período no surgieran observaciones de parte de algunas de las Administraciones, el acuerdo quedará registrado automáticamente.
+5.4 Sin perjuicio de la aplicación de los procedimientos de solución de controversias vigentes, en caso de existir incumplimientos o discrepancias respecto a lo acordado, el Prestador que se considere perjudicado, podrá pedir en primera instancia, a través de su Administración,  la mediación de las Administraciones de los Prestadores involucrados en el problema.
+5.5 Los Prestadores del Servicio Móvil Celular que acuerden servicios de roaming internacional deberán mantener tratamiento confidencial de toda información de usuario intercambiada.
+
+ANEXO II
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS EN LA BANDA DE 800 MHz DEL SERVICIO MÓVIL CELULAR
+
+SUMARIO
+1. 	PREÁMBULO
+2. PRINCIPIOS GENERALES BÁSICOS
+3. DEFINICIONES
+4.  PROCEDIMIENTO DE COORDINACIÓN
+4.1. 	 SOLICITUD DE COORDINACIÓN
+4.2. 	INFORMACIÓN PARA LA COORDINACIÓN
+4.3.	 ACUSE DE RECIBO DE LA INFORMACIÓN PARA LA COORDINACIÓN
+4.4. ANÁLISIS DE LA INFORMACIÓN PARA LA COORDINACIÓN, ACUERDO ENTRE PRESTADORES Y PLAZOS
+4.5. 	RESULTADO DE LA COORDINACIÓN
+4.6.	 DISPOSICIONES FINALES
+5. ANEXOS
+5.1.  BANDAS DE FRECUENCIAS
+5.1.1. 	SUBDIVISION DE BANDAS DE FRECUENCIAS
+5.1.2.	 CANALIZACIÓN
+5.2.	 NIVEL DE SEÑAL DE REFERENCIA
+5.3.	 MÉTODO DE CÁLCULO
+5.4.	 FORMULARIO DE COORDINACIÓN
+5.4.1. DATOS COMPLEMENTARIOS PARA COORDINACIÓN
+5.4.2. INSTRUCTIVO PARA EL LLENADO DEL FORMULARIO DE COORDINACIÓN
+5.5. 	LISTA DE  PRESTADORES
+5.6.	 CRITERIOS PARA LA IMPLEMENTACIÓN DEL SERVICIO EN REGIONES DE FRONTERA
+5.6.1 NIVEL DE LA SEÑAL EN EL PAIS LIMÍTROFE
+5.6.2.	CANALIZACIÓN DE FRECUENCIAS EN LAS CELDAS PRÓXIMAS A LAS FRONTERAS
+5.6.3.	RELACIONES DE PROTECCIÓN
+
+1. PREÁMBULO
+1.1. Este Manual establece los procedimientos a ser aplicados para la coordinación en las bandas de frecuencias detalladas en el numeral 5.1 entre los Servicios Móviles Celulares.
+1.2. Los procedimientos descriptos en el numeral 4 indican cuando un Prestador deberá iniciar el proceso de coordinación.
+1.3. En las bandas de frecuencias mencionadas en el numeral 5.1, las Administraciones se comprometen a no autorizar nuevas estaciones de otros servicios de radio comunicaciones, dentro de la Zona de Coordinación o que estando fuera de la misma, lleguen a la línea de frontera con un nivel de señal superior al indicado en el numeral 5.2.1.
+1.4. Los procedimientos descriptos en este Manual serán aplicados a las estaciones del Servicio Móvil Celular, así como a las Estaciones de Abonado Fijas que operen en la misma banda y utilicen la tecnología del Servicio Móvil Celular.
+1.5. La responsabilidad primaria de la coordinación es de las Administraciones Nacionales de cada Estado Parte. La metodología de trabajo se basará en la interacción directa entre los Prestadores involucrados en cada caso. El desarrollo y los resultados de las coordinaciones deberán ser comunicados a las respectivas Administraciones Nacionales por las partes involucradas.
+2. PRINCIPIOS GENERALES BÁSICOS
+2.1. El Área de Servicio de cada Prestador del Servicio Móvil Celular, y por consiguiente, las Áreas de Cobertura de sus ERB, debe limitarse al máximo a su Área de Prestación, minimizando la penetración de su señal en los territorios de los países vecinos.
+2.2. Cualquier interferencia perjudicial debe ser evitada, y en caso de existir, debe ser inmediatamente subsanada.
+2.3. La instalación de ERB sectorizadas debe prevalecer en detrimento de ERB con antenas omnidireccionales, con el fin de confinar al máximo la señal dentro del Área de Prestación.
+2.4. Estudios de ingeniería acompañados de predicciones de cobertura y/o de mediciones en campo, deben ser tomados en cuenta para orientar la selección del equipamiento de transmisión, incluyendo los sistemas radiantes, de forma tal de limitar las Áreas de Cobertura a los límites del Área de Prestación.
+2.5. Los estudios de ingeniería y las mediciones o ajustes posteriores en campo deben ser realizados con la participación de los Prestadores interesados y, siempre que sea posible, con la participación de sus proveedores de infraestructura celular.
+2.6. Todas las Administraciones deben incentivar los estudios previos de ingeniería, de forma tal que cada Prestador ponga a disposición de los otros interesados los medios necesarios para el planeamiento de sus estaciones, como mapas topográficos en escalas adecuadas (igual o mayor que 1:100.000), a fin de facilitar el futuro proceso de coordinación.
+2.7. Las condiciones de las coordinaciones acordadas deben ser íntegramente cumplidas, necesitando de una nueva coordinación ante cualquier variación de las mismas.
+2.8. Las Administraciones y los Prestadores deben maximizar todos sus esfuerzos, facilitando el planeamiento y buscando una solución rápida de los casos bajo coordinación, compartiendo el espectro y resolviendo interferencias, procurando siempre lograr el objetivo común de prestar el servicio a todos los usuarios con una calidad adecuada.
+
+3. DEFINICIONES
+3.1. FRECUENCIAS COORDINADAS: Son las frecuencias asignadas a una ERB por la Administración del país del Prestador, después de negociadas y reconocidas por las demás Administraciones de los países limítrofes.
+3.2. ASIGNACIÓN DE FRECUENCIA: Autorización otorgada por una Administración para que una ERB utilice una frecuencia determinada en condiciones especificadas.
+3.3. ESTACIÓN DE ABONADO FIJA: Estación fija que opera en las bandas de frecuencia del Servicio Móvil Celular y utiliza la misma tecnología de este servicio.
+3.4. ESTACIÓN BASE (EB) o ESTACIÓN RADIOBASE (ERB) o ESTACIÓN TERRESTRE (ET): Estación fija radioeléctrica del Servicio Móvil Celular, utilizada para radiocomunicaciones con las Estaciones Móviles e intercomunicación con la Central de Control y Conmutación. (Incluye las estaciones repetidoras celulares).
+3.5. ESTACIÓN MÓVIL (EM): Estación radioeléctrica del Servicio Móvil Celular que puede operar en movimiento o detenida en un lugar no especificado.
+3.6. ÁREA DE PRESTACIÓN: Área geográfica delimitada por la Administración Nacional del Estado Parte, en la cual el Prestador del Servicio Móvil Celular debe explotar el servicio, observando la reglamentación pertinente.
+3.7. ÁREA DE COBERTURA: Área geográfica en la cual una EM puede ser atendida por el equipamiento de radio de una ERB.
+3.8. ÁREA DE  SERVICIO: Conjunto de Áreas de Cobertura en la que EM tienen acceso al Servicio Móvil Celular y en la cual se puede acceder a una EM sin conocimiento previo de su exacta localización, inclusive por un usuario de la Red Telefónica Publica (RTP) fija.
+3.9. PRESTADOR: Persona física o jurídica habilitada para la explotación del Servicio Móvil Celular en los términos de la reglamentación de cada Estado Parte.
+3.10. ZONA DE COORDINACIÓN: Franja geográfica dentro de cada país, con un ancho de 5 (cinco) kilómetros. En caso de límite lacustre, fluvial o marítimo, se considerará como límite de referencia el margen o costa del país que solicita la coordinación.
+3.11. SERVICIO MÓVIL CELULAR (SMC): Servicio que, mediante las radiocomunicaciones, permite las comunicaciones entre EM y entre estas y la Red Telefónica Publica (RTP) fija, utilizando la Técnica Celular.
+3.12. TÉCNICA CELULAR: Técnica que consiste en dividir una área geográfica en áreas menores denominadas celdas, a cada una de las cuales se atribuye un grupo de frecuencias, que permite que las frecuencias utilizadas en una celda puedan ser reutilizadas en otras celdas separadas espacialmente. Una característica fundamental de esta técnica es la de permitir la transferencia automática de una llamada en curso, de modo que las llamadas establecidas continúen cuando las EM se desplazan de una celda a otra.
+3.13. CENTRAL DE CONTROL Y CONMUTACIÓN DEL SMC (CCC): Equipamiento que controla las ERB que de él dependen y sus respectivas EM, realiza la conmutación e interconecta el Servicio Móvil Celular con la Red Telefónica Publica (RTP) fija.
+
+4. PROCEDIMIENTO DE COORDINACIÓN
+4.1 SOLICITUD DE COORDINACIÓN
+4.1.1. Todo Prestador, antes de poner en operación o efectuar una modificación a una asignación de frecuencias, de una ERB situada en el interior de la Zona de Coordinación, o que estando fuera de la misma sus características técnicas provoquen en la línea de frontera un nivel de señal superior al establecido en el numeral 5.2.1., deberá coordinar la asignación proyectada con los Prestadores que pudieran resultar afectados, salvo en los casos descriptos en el numeral 4.1.2.
+4.1.2. No es necesaria la coordinación establecida en el numeral 4.1.1. cuando un Prestador se propone:
+4.1.2.1. poner en operación una ERB que se encuentra situada fuera de la Zona de Coordinación, y que sus características no generen en la línea de frontera un nivel de señal superior al establecido en el numeral 5.2.1.
+4.1.2.2. modificar las características de una asignación existente o que ya fue coordinada, de modo que no aumente el nivel de señal causado anteriormente a las estaciones de otros Prestadores. En este caso se deberán notificar estas modificaciones a los Prestadores involucrados.
+4.1.3. Cuando un Prestador modifica las características técnicas de una asignación durante el proceso de coordinación deberá reiniciar el mismo. Por lo tanto, los plazos establecidos en el numeral 4 se contarán a partir del nuevo envío de información que incluya las modificaciones efectuadas.
+4.2. INFORMACIÓN PARA LA COORDINACIÓN
+4.2.1. Para iniciar los procedimientos de coordinación, el Prestador solicitante enviará a cada uno de los Prestadores afectados, el pedido de coordinación junto con la información contenida en el Formulario de Coordinación del numeral 5.4. Los Prestadores involucrados comunicarán a sus respectivas Administraciones el pedido de coordinación efectuado dentro de un plazo máximo de 7 (siete) días de iniciada dicha coordinación.
+4.3. ACUSE DE RECIBO DE LA INFORMACIÓN PARA LA COORDINACIÓN
+4.3.1. Al recibir una solicitud de coordinación, los Prestadores deberán acusar recibo de inmediato, y tendrán un plazo máximo de 7 (siete) días para verificar si las informaciones están completas, en caso contrario devolver el pedido de coordinación.
+4.3.2. No habiendo manifestación del Prestador al cual se solicita la coordinación en el plazo máximo arriba establecido el pedido deberá ser reiterado, debiendo esta reiteración ser respondida en un plazo máximo de 5 (cinco) días.
+4.4. ANÁLISIS DE LA INFORMACIÓN PARA LA COORDINACIÓN, ACUERDO ENTRE PRESTADORES Y PLAZOS
+4.4.1. Al recibir los detalles referentes a la coordinación, el Prestador con el cual se trata de efectuar la coordinación los examinará en el menor tiempo posible, a fin de determinar la interferencia que se produciría en sus asignaciones de frecuencias de las ERB  existentes, ya coordinadas o en proceso de coordinación.
+4.4.2. El método de cálculo y los criterios que se deben emplear para evaluar la interferencia están tratados en los numerales 5.2. y 5.3. No obstante, durante el proceso de coordinación, los Prestadores involucrados podrán adoptar otros criterios y métodos más precisos para superar los problemas de interferencia que surgieran. Tales acuerdos se harán sin perjudicar a los otros Prestadores.
+4.4.3. Tanto el Prestador que solicita la coordinación como cualquier otro Prestador involucrado, podrán solicitar informaciones adicionales que juzguen necesarias para evaluar la interferencia causada a las asignaciones de frecuencias de las ERB en cuestión.
+4.4.4. Las Administraciones involucradas, los Prestadores afectados, así como el Prestador que desea la coordinación harán todos los esfuerzos posibles para superar las dificultades, de forma aceptable para las partes interesadas.
+4.4.5. Todos los Prestadores pueden utilizar para la correspondencia, todo medio apropiado de telecomunicaciones y/o reuniones bilaterales o multilaterales, en caso que sea necesario, para efectuar la coordinación.
+4.4.6. Los Prestadores consultados dispondrán de un plazo máximo de 30 (treinta) días, contados a partir de la fecha de acuse de recibo, para formular su oposición técnicamente fundada a la nueva coordinación, pudiendo efectuar las sugerencias que juzguen necesarias para solucionar el problema. En caso que la cantidad de ERB a coordinar sea mayor a 6 (seis), el Prestador dispondrá de una prórroga de 15 (quince) días para formular su oposición.
+4.4.7. El proceso de coordinación tendrá prioridad para las ERB en servicio que ya hubiesen sido coordinadas y requieran una nueva coordinación, sobre las estaciones proyectadas. En estos casos, los Prestadores que pudieran resultar afectados dispondrán de un plazo máximo de 15 (quince) días para formular su oposición técnicamente fundada.
+4.4.8. Si existiera oposición formulada en el plazo correspondiente, no podrán realizarse las instalaciones en las condiciones requeridas en la coordinación, hasta tanto se llegue a un acuerdo con los Prestadores que se opusieran. Los Prestadores se comprometerán a resolver el conflicto en un plazo adicional no mayor a los 15 (quince) días.
+4.4.9. En caso de no existir oposición o haber transcurrido los plazos mencionados en los numerales 4.4.6. y 4.4.7., la Administración del Prestador interesado quedará habilitada para realizar la asignación o autorizar la modificación de que se trata.
+4.4.10. En el caso en que los Prestadores involucrados en un proceso de coordinación no llegaran a concretar la misma por falta de acuerdo, podrán notificar de tal circunstancia a las respectivas Administraciones, solicitando su intervención para alcanzar una solución satisfactoria a la situación.
+4.4.11. Cuando uno de los Prestadores recurra a su Administración, ésta deberá notificar a las demás Administraciones involucradas. A partir de la fecha de esa notificación, las Administraciones dispondrán las acciones necesarias para resolver la situación planteada en el menor tiempo posible.
+4.4.12. Cuando un Prestador no responde en los plazos establecidos para el acuse de recibo (numerales 4.3.1. y 4.3.2.) o para comunicar su decisión con respecto al análisis de la información para la coordinación (numerales 4.4.6. y 4.4.7.) el Prestador consultado se compromete a:
+4.4.12.1. no formular ningún reclamo con respecto a interferencias perjudiciales que afecten el servicio prestado por sus estaciones y que puedan ser causadas por la utilización de las asignaciones de frecuencias para la cual se buscó la coordinación.
+4.4.12.2. no causar interferencia perjudicial a la asignación de frecuencias para la cual se busca coordinación.
+4.4.13. Los plazos establecidos en días son considerados días corridos.
+4.4.14. Para toda asignación de frecuencias de una ERB que estuviera coordinada, pero que no fue puesta en operación en un plazo máximo de 1 (un) año contado a partir de la fecha de conclusión de la coordinación, se deberá reiniciar el procedimiento de coordinación como si se tratase de una nueva coordinación. El período mencionado anteriormente podrá ser prorrogado por acuerdo entre los Prestadores interesados.
+4.5. RESULTADO DE LA COORDINACIÓN
+4.5.1. Una vez finalizada una coordinación, los Prestadores involucrados comunicarán en el plazo de 7 (siete) días el resultado de la misma a sus respectivas Administraciones, indicando el proyecto inicial y la solución alcanzada, con toda la información necesaria sobre los Prestadores intervinientes, las celdas consideradas y las frecuencias utilizadas.
+4.5.2. En caso de comprobarse que una estación previamente coordinada se encuentre sufriendo interferencias perjudiciales de estaciones de otro(s) Prestador(es), según los criterios establecidos en el presente Manual, el prestador afectado podrá notificar a el (los) otro(s) Prestador(es) a fin de buscar  una solución al problema. En este caso, se deberá aplicar el mismo procedimiento de coordinación arriba establecido. Si no se llega a un acuerdo entre Prestadores, se dará intervención a las Administraciones correspondientes.
+4.6. DISPOSICIONES FINALES
+4.6.1. Todo Prestador que tenga en servicio ERB con asignaciones de frecuencias en las bandas mencionadas en el numeral 5.1. con fecha anterior a la aprobación del presente Manual, que se encuentren en el interior de la Zona de Coordinación, o que estando fuera de la misma sus características técnicas ocasionen en la línea de frontera un nivel de señal superior a lo establecido en el numeral 5.2.1., deberán encuadrarse en los siguientes casos:
+4.6.1.1. Las coordinaciones de frecuencias ya efectuadas entre Prestadores y ratificadas por las Administraciones, permanecerán vigentes.
+4.6.1.2. Las coordinaciones de frecuencias ya efectuadas entre Prestadores y no ratificadas por las Administraciones, deberán ser encaminadas a las respectivas Administraciones para su ratificación.
+4.6.1.3. Las Coordinaciones de frecuencias en proceso, en aquellas que corresponda, deberán adecuarse a los procedimientos y reglas del presente Manual.
+4.6.1.4. Para otras coordinaciones de frecuencias necesarias, se deben iniciar los procedimientos de coordinación según lo establecido en este Manual, en un plazo no superior a 90 (noventa) días, a partir de la fecha de entrada en vigor del presente Manual.
+4.6.2. En el caso de posibles interferencias perjudiciales que surjan de situaciones o tipos de interferencias no contempladas en el presente Manual, las Administraciones y los Prestadores involucrados harán todos los esfuerzos posibles para superar las mismas de forma aceptable para las partes interesadas.
+4.6.3. Este Manual deberá ser periódicamente actualizado con las nuevas alternativas de servicios de radio comunicaciones celulares y/o los nuevos estándares tecnológicos que vayan surgiendo.
+5. ANEXOS
+5.1. BANDAS DE FRECUENCIAS
+5.1.1. SUB-DIVISION DE BANDAS DE FRECUENCIAS
+	Se dividen en dos Sub Bandas, denominadas "Sub Banda A" y "Sub Banda B" respectivamente
+5.1.1.1. Sub Banda A
+Transmisión de la EM			824 MHz a 835 MHz
+					845 MHz a 846,5 MHz
+Transmisión de la ERB			869 MHz a 880 MHz
+					890 MHz a 891,5 MHz
+5.1.1.2. Sub Banda B
+Transmisión de la EM			835 MHz a 845 MHz
+					846.5 MHz a 849 MHz
+Transmisión de la ERB			880 MHz a 890 MHz
+					891,5 MHz a 894 MHz
+5.1.2. CANALIZACION
+5.1.2.1 DESIGNACIÓN DE LOS CANALES DE VOZ
+5.1.2.1.1. En Sub Banda A
+5.1.2.1.1.1. Canalización AMPS/TDMA
+Nº de canal
+Frecuencias de Transmisión  EM (MHz)
+Frecuencias de Transmisión  ERB (MHz)
+991
+824,040
+869,040
+N
+0,03(N-1023) + 825
+0,03(N-1023) + 870
+1023
+825,000
+870,000
+1
+825,030
+870,030
+N
+0,03 N + 825
+0,03 N + 870
+312
+834,360
+879,360
+667
+845,010
+890,010
+N
+0,03 N + 825
+0,03 N + 870
+716
+846,480
+891,480
+5.1.2.1.1.2. Canalización NAMPS
+Nº de canal
+Sufijo
+Frecuencias de Transmisión  EM (MHz)
+Frecuencias de Transmisión  ERB (MHz)
+991
+L
+824,030
+869,030
+
+L
+0,03 (N-1023) + 824,990
+0,03 (N-1023) + 869,990
+N
+M
+0,03 (N-1023) + 825
+0,03 (N-1023) + 870
+
+U
+0,03 (N-1023) + 825,010
+0,03 (N-1023) + 870,010
+1023
+U
+825,010
+870,010
+1
+L
+825,020
+870,020
+
+L
+0,03 N+ 824,990
+0,03 N+ 869,990
+N
+M
+0,03 N+ 825
+0,03 N + 870
+
+U
+0,03 N + 825,010
+0,03 N + 870,010
+312
+U
+834,370
+879,370
+667
+L
+845,000
+890,000
+
+L
+0,03 N+ 824,990
+0,03 N+ 869,990
+N
+M
+0,03 N+ 825
+0,03 N + 870
+
+U
+0,03 N + 825,010
+0,03 N + 870,010
+716
+U
+846,490
+891,490
+
+
+5.1.2.1.1.3. Canalización CDMA
+La canalización para la tecnología CDMA será la especificada en la Norma IS-95.
+Nº de canal
+Frecuencia de transmisión
+Frecuencia de transmisión
+
+EM ( MHz)
+ERB (MHz)
+1013
+824,700
+869,700
+N
+0,03(N-1023)+825
+0,03(N-1023)+870
+1023
+825,000
+870,000
+1
+825,030
+870,030
+N
+0,03N+825
+0,03N+870
+311
+834,330
+879,330
+689
+845,670
+890,670
+N
+0,03N+825
+0,03N+870
+694
+845,820
+890,820
+5.1.2.1.2. En Sub Banda B
+5.1.2.1.2.1. Canalización AMPS/TDMA
+Nº de canal
+Frecuencias de Transmisión  EM (MHz)
+Frecuencias de Transmisión  ERB (MHz)
+355
+835,650
+880,650
+N
+0,03 N+ 825
+0,03 N + 870
+666
+844,980
+889,980
+717
+846,510
+891,510
+N
+0,03 N+ 825
+0,03 N + 870
+799
+848,970
+893,970
+5.1.2.1.2.2. Canalización NAMPS
+Nº de canal
+Sufijo
+Frecuencias de Transmisión
+EM (MHz)
+Frecuencias de Transmisión  ERB (MHz)
+355
+L
+835,640
+880,640
+
+L
+0,03 N+ 824,990
+0,03 N+ 869,990
+N
+M
+0,03 N+ 825
+0,03 N + 870
+
+U
+0,03 N + 825,010
+0,03 N + 870,010
+666
+U
+844,990
+889,990
+717
+L
+846,500
+891,500
+
+L
+0,03 N+ 824,990
+0,03 N+ 869,990
+N
+M
+0,03 N+ 825
+0,03 N + 870
+
+U
+0,03 N + 825,010
+0,03 N + 870,010
+799
+U
+848,980
+893,980
+
+5.1.2.1.2.3. Canalización CDMA
+La canalización para la tecnología CDMA será la especificada en la Norma IS-95.
+Nº DE CANAL
+FRECUENCIA DE TRANSMISION
+FRECUENCIA DE TRANSMISSION
+
+EM ( MHz)
+ERB (MHz)
+356
+835,680
+880,680
+N
+0,03 N+825
+0,03 N + 870
+644
+844,320
+889,320
+739
+847,170
+892,170
+N
+0,03 N + 825
+0,03 N + 870
+77
+848,310
+893,310
+
+5.1.2.2. DESIGNACIÓN DE LOS CANALES DE CONTROL
+5.1.2.2.1. En Sub Banda A
+
+Nº de canal
+Frecuencias de Transmisión  EM (MHz)
+Frecuencias de Transmisión  ERB (MHz)
+313
+834,390
+879,390
+N
+0,03 N+ 825
+0,03 N + 870
+333
+834,990
+879,990
+5.1.2.2.2. En Sub Banda B
+N de canal
+Frecuencias de Transmisión  EM (MHz)
+Frecuencias de Transmisión  ERB (MHz)
+334
+835,020
+880,020
+N
+0,03 N+ 825
+0,03 N + 870
+354
+835,620
+880,620
+5.1.2.3. CANALES PREFERENCIALES EN CDMA
+5.1.2.3.1. Sub Banda A:
+5.1.2.3.1.1. Primario: Canal 283 (Frecuencias de transmisión de 833,490 MHz para EM y de 878,490 MHz para ERB).
+5.1.2.3.1.2. Secundario: Canal 691 (Frecuencias de transmisión de 845,730 MHz para EM y 890,730 MHz para ERB).
+	5.1.2.3.2. Sub Banda B:
+5.1.2.3.2.1. Primario: Canal 384 (Frecuencias de transmisión de 836,520 MHz para EM y de 881,520 MHz para ERB).
+5.1.2.3.2.2. Secundario: Canal 777 (Frecuencias de transmisión de 848,310 MHz para EM y de 893,310 MHz para ERB).
+5.1.2.4. TABLAS DE CANALES RADIOELÉCTRICOS
+5.1.2.4.1. Se adjuntan tablas de canales radioeléctricos a utilizar como referencia, a efectos de facilitar los procedimientos de coordinación entre los distintos sistemas que se ubiquen en regiones de frontera.
+5.1.2.4.2. No se agregan las tablas correspondientes a NAMPS, por no existir un sistema único de formación de grupos.
+
+5.1.2.4.3. SUB BANDA "A" - PLAN DE FRECUENCIAS CON 21 CANALES DE SEPARACIÓN
+		AMPS/TDMA
+Grupo
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+C.C
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+313
+314
+315
+
+
+C.V
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+
+
+667
+668
+669
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+
+708
+709
+710
+711
+712
+713
+714
+715
+716
+991
+992
+993
+994
+995
+996
+997
+998
+999
+1000
+1001
+1002
+
+1003
+1004
+1005
+1006
+1007
+1008
+1009
+1010
+1011
+1012
+1013
+1014
+1015
+1016
+1017
+1018
+1019
+1020
+1021
+1022
+1023
+5.1.2.4.4. SUB BANDA "A" - PLAN DE FRECUENCIAS CON 24 CANALES DE SEPARACIÓN
+ AMPS/TDMA
+
+Grupo
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+C.C
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+333
+333
+333
+
+
+C.V
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+
+
+667
+668
+669
+670
+671
+672
+
+673
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+710
+711
+712
+713
+714
+715
+716
+
+
+991
+992
+993
+994
+995
+996
+997
+998
+999
+
+1000
+1001
+1002
+1003
+1004
+1005
+1006
+1007
+1008
+1009
+1010
+1011
+1012
+1013
+1014
+1015
+1016
+1017
+1018
+1019
+1020
+1021
+1022
+1023
+
+5.1.2.4.5. SUB BANDA "A" PLAN DE  FRECUENCIAS CANALES CDMA Y FRECUENCIAS CORRESPONDIENTES
+
+BANDA
+
+ATRIBUCION DE
+FRECUENCIAS
+CDMA
+
+CANTIDAD
+DE CANALES
+ANALÓGICOS
+NÚMERO DE CANAL
+CDMA
+FRECUÊNCIAS DE
+TRANSMISIÓN
+(MHz)
+
+
+EM
+ERB
+A"
+
+///////////////
+
+22
+991
+1012
+824,040
+824,670
+869,040
+869,670
+(1 MHz)
+
+CDMA
+
+11
+1013
+1023
+824,700
+825,000
+869,700
+870,000
+A
+(10 MHz)
+
+CDMA
+
+311
+1
+311
+825,030
+834,330
+870,030
+879,330
+
+
+///////////////
+
+22
+312
+333
+834,360
+834,990
+879,360
+879,990
+
+
+///////////////
+
+22
+667
+688
+845,010
+845,640
+890,010
+890,640
+A'
+(1,5 MHz)
+
+
+CDMA
+
+
+6
+689
+694
+845,670
+845,820
+890,670
+890,820
+
+
+///////////////
+
+22
+695
+716
+845,850
+846,480
+890,850
+891,480
+_________________________________________________________________________________________________
+OBSERVACIONES:
+///////////////   -  Tramos de Bandas no válidas para la atribución de frecuencias de CDMA.
+
+
+5.1.2.4.6. SUB BANDA "B" - PLAN DE FRECUENCIAS CON 21 CANALES DE SEPARACIÓN
+AMPS/TDMA
+
+Grupo
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+C.C
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+
+
+C.V
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+560
+561
+562
+563
+564
+
+565
+566
+567
+568
+569
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+
+586
+587
+588
+589
+590
+591
+592
+593
+594
+595
+596
+597
+598
+599
+600
+601
+602
+603
+604
+605
+606
+
+607
+608
+609
+610
+611
+612
+613
+614
+615
+616
+617
+618
+619
+620
+621
+622
+623
+624
+625
+626
+627
+
+628
+629
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+640
+641
+642
+643
+644
+645
+646
+647
+648
+
+649
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+660
+661
+662
+663
+664
+665
+666
+
+
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+
+796
+797
+798
+799
+
+
+5.1.2.4.7. SUB BANDA "B" - PLAN DE FRECUENCIAS CON 24 CANALES DE SEPARACIÓN AMPS/TDMA
+
+Grupo
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+C.C
+
+
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+
+
+C.V
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+560
+561
+562
+563
+564
+565
+566
+567
+568
+569
+570
+
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+590
+591
+592
+593
+594
+
+595
+596
+597
+598
+599
+600
+601
+602
+603
+604
+605
+606
+607
+608
+609
+610
+611
+612
+613
+614
+615
+616
+617
+618
+
+619
+620
+621
+622
+623
+624
+625
+626
+627
+628
+629
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+640
+641
+642
+
+643
+644
+645
+646
+647
+648
+649
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+660
+661
+662
+663
+664
+665
+666
+
+
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+
+787
+788
+789
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+
+
+5.1.2.4.8. SUB BANDA "B" - PLAN  DE  FRECUENCIAS  - CANALES CDMA Y FRECUENCIAS CORRESPONDIENTES
+
+
+BANDA
+
+ATRIBUCION DE FRECUENCIAS CDMA
+
+CANTIDAD DE CANALES ANALÓGICOS
+
+NÚMERO DE CANAL CDMA
+FRECUENCIAS DE TRANSMISIÓN (MHz)
+
+
+EM
+ERB
+
+///////////////
+22
+334
+355
+835,020
+835,650
+880,020
+880,650
+B
+(10 MHz)
+CDMA
+289
+356
+644
+835,680
+844,320
+880,680
+889,320
+
+///////////////
+22
+645
+666
+844,350
+844,980
+889,350
+889,980
+
+///////////////
+22
+717
+738
+846,510
+847,140
+891,510
+892,140
+B'
+(2,5 MHz)
+CDMA
+39
+739
+777
+847.170
+848,310
+892,170
+893,310
+
+///////////////
+22
+778
+799
+848,340
+848,970
+893,340
+893,970
+
+OBSERVACIONES:
+///////////////   -  Tramos de Bandas no válidas para la atribución de frecuencias de CDMA.
+
+5.1.2.5. En zonas de frontera en el caso que los Prestadores usen tecnologías de acceso y/o agrupamientos de canales diferentes, los mismos deberán definir las Sub-divisiones del espectro o los canales que serán utilizados por las partes involucradas.
+5.2. NIVEL DE SEÑAL DE REFERENCIA
+5.2.1. El nivel de señal de referencia en la línea de frontera será de -122 dBm.
+5.2.2. A los efectos de los cálculos del nivel de señal que se tiene en la línea de frontera se emplearán los procedimientos establecidos en el numeral 5.3.
+5.3. MÉTODO DE CÁLCULO
+5.3.1 Cada Prestador utilizará su propio método de cálculo. Si no existiera acuerdo entre los Prestadores, se adoptarán como referencia los resultados de mediciones en campo realizados por los Prestadores y, en caso de ser necesario, estas serán coordinadas por las Administraciones.
+5.4. FORMULARIO DE COORDINACIÓN
+
+Nº
+DATO
+SÍMBOLO
+VALOR A
+CONSIGNAR
+1
+PAIS
+ADM
+
+2
+SITUACIÓN
+A
+
+3
+SUB BANDA DE TRANSMISIÓN
+SUB
+
+4
+CANALES DE CONTROL ANALÓGICOS
+CCA
+
+5
+CANALES DE VOZ ANALÓGICOS
+CVA
+
+6
+CANALES DE CONTROL DIGITALES
+CCD
+
+7
+CANALES DE VOZ DIGITALES
+CVD
+
+8
+TONO DE SUPERVISIÓN DE AUDIO
+SAT
+0...2
+9
+CÓDIGO DE COLOR DIGITAL
+DCC
+0...3
+10
+CÓDIGO DE VERIFICACIÓN DE COLOR DIGITAL
+DVCC
+1...255
+11
+PATRÓN DE REUSO
+PR
+
+12
+PATRÓN CELULAR
+PC
+
+13
+NÚMERO DE PORTADORA (para CDMA)
+NCP
+
+14
+PSEUDO NUMBER / SECUÉNCIA PN DE PILOTO para CDMA
+PSN
+
+15
+LOCALIDAD
+LOC
+
+16
+NOMBRE Y SIGLA DE ESTACIÓN
+SIG
+
+17
+LONGITUD OESTE
+LON
+
+18
+LATITUD SUR
+LAT
+
+19
+POTENCIA
+POT
+
+20
+GANANCIA DE LA ANTENA EN RELACIÓN AL SUELO
+G
+
+21
+POLARIZACIÓN
+POL
+
+22
+TILT ELÉCTRICO
+TE
+
+23
+TILT MECÁNICO
+TM
+
+24
+ACIMUT MÁXIMA RADIACIÓN
+ACU
+
+25
+APERTURA HORIZONTAL
+AH
+
+26
+COTA SOBRE EL NIVEL DEL MAR
+CT
+
+27
+ALTURA DE LA ANTENA SOBRE EL SUELO
+HA
+
+28
+FECHA
+FE
+
+
+5.4.1. DATOS COMPLEMENTARIOS PARA COORDINACIÓN
+
+29
+PRESTADOR
+PS
+
+30
+CONTACTO
+NOM
+
+31
+TELÉFONO
+TEL
+
+32
+FAX
+FAX
+
+33
+E-MAIL
+EM
+
+
+Nota 1: Se deberán presentar los datos de cada sector.
+Nota 2:  En los casos en que se justifique, los Prestadores deberán remitir como información adicional los gráficos de predicción de cobertura e interferencia (Co-Canal y Canal Adyacente).
+
+5.4.2. INSTRUCTIVO PARA EL LLENADO DEL FORMULARIO DE COORDINACIÓN
+1.- 	PAIS (ADM)
+	Símbolo indicativo del país solicitante de coordinación:
+             Argentina: 	ARG
+             Brasil:	B
+             Paraguay:	PRG
+             Uruguay:	URG
+2.- 	SITUACIÓN (A)
+Se indicará ADD, MOD o SUP si se refiere a una nueva asignación, una modificación o una supresión total de una asignación, respectivamente.  Si se trata de una asignación existente, de acuerdo a lo establecido en el numeral 4.5.2., se indicará EXI.
+3.- 	SUB BANDA DE TRANSMISION (SUB)
+Se indicará el código que corresponda (A o B), según sea la banda de frecuencias de operación de acuerdo al numeral 5.1.1.
+4.- 	CANALES DE CONTROL ANALÓGICOS (CCA)
+Deben indicarse los números de los canales de control analógicos que se emplearán en cada sector de la ERB.
+5.- 	CANALES DE VOZ ANALÓGICOS (CVA).
+Deben indicarse los números de canales de voz analógicos que se emplearán en cada sector de la ERB.
+6.- 	CANALES DE CONTROL DIGITALES (CCD)
+Deben indicarse los números de los canales de control digitales que se emplearán en cada sector de la ERB.
+7.- 	CANALES DE VOZ DIGITALES (CVD).
+Deben indicarse los números de canales de voz digitales que se emplearán en cada sector de la ERB.
+8.- 	TONO DE SUPERVISIÓN DE AUDIO (SAT)
+		Debe indicarse en valores 0...2
+9.- 	CODIGO DE COLOR DIGITAL (DCC)
+		Debe indicarse en valores 0...3
+10.- 	CODIGO DE VERIFICACION DE COLOR DIGITAL (DVCC)
+		Debe indicarse en valores 1...255
+11.- 	PATRÓN DE REUSO (PR)
+		Se indicará el Patrón de Reuso de frecuencias utilizado (por ejemplo 4/12, 4/24, 7/21).
+12.- 	PATRÓN CELULAR (PC)
+		Se indicará el Patrón Celular adoptado (por ejemplo AMPS, NAMPS, TDMA, CDMA).
+13. 	NÚMERO DE PORTADORA para CDMA (NCP)
+		Se indicará el Número de Portadora (solamente para CDMA)
+
+14.-	PSEUDO NUMBER / SECUENCIA PN DE PILOTO para CDMA (PSN)
+		Se indicará el Pseudo Number / Secuencia PN de Piloto
+15.- 	LOCALIDAD (LOC)
+Se indicará el nombre de la localidad en que se encuentra la ERB correspondiente, o el nombre de la localidad más próxima.
+16.- 	NOMBRE  Y SIGLA DE ESTACIÓN (SIG) (Opcional)
+		Se indicará el nombre y sigla de la estación Radio Base.
+17.- 	LONGITUD OESTE (LON)
+		Este dato se expresará en grados, minutos y segundos sexagesimales.
+18.- 	LATITUD SUR (LAT)
+		Este dato se expresará en grados, minutos y segundos sexagesimales.
+19.- 	POTENCIA (POT)
+Se indicará el producto de la potencia suministrada a la entrada de la antena por su ganancia con relación al dipolo de media onda, expresado en dBW (potencia radiada aparente).
+20.- 	GANANCIA DE LA ANTENA (G)
+Se indicará la ganancia de antena en la dirección de máxima radiación, expresado en dBd.  Además se acompañará a este formulario el diagrama de radiación correspondiente.
+21.- 	POLARIZACIÓN (POL)
+		Se indicará de acuerdo al siguiente detalle:
+		Vertical - V
+		Circular - C
+22.- 	TILT ELÉCTRICO (TE)
+		Se indicará el valor en grados (+ o -).
+23.- 	TILT MECÁNICO (TM)
+		Se indicará el valor en grados (+ o -).
+24.- 	ACIMUT MÁXIMA RADIACIÓN (ACU)
+Es el ángulo formado entre la dirección del norte geográfico y la dirección de máxima radiación de antena, en el sentido de las agujas del reloj. Se indicará en grados. Si la antena de la estación tiene características de radiación omnidireccional, se indicará el valor de 360º.
+25.- 	APERTURA HORIZONTAL (AH)
+		Se indicará el ángulo de la media potencia del diagrama de radicación horizontal .
+26.- 	COTA SOBRE NIVEL DEL MAR (CT)
+		Se expresará en metros.
+27.- 	ALTURA DE LA ANTENA SOBRE EL SUELO (HA)
+		Se expresará en metros.
+28.- 	FECHA (FE)
+		Se indicará en el formato dd.mm.aa.
+
+29.- 	PRESTADOR (PS)
+		Indicar el nombre de la empresa Prestadora.
+30.- 	CONTACTO (NOM)
+Nombre y Apellido de la persona con la cual se podrán efectuar las coordinaciones.
+31.- 	TELEFONO (TEL)
+		Se indicará el teléfono de la persona de contacto.
+32.- 	FAX (FAX)
+		Se indicará el fax de la persona de contacto.
+33.- 	E-MAIL (EM)
+		Se indicará el e-mail de la persona de contacto.
+
+5.5. LISTA DE PRESTADORES
+Las Administraciones mantendrán el listado actualizado de Prestadores de su país, debiendo responder las consultas realizadas por otras Administraciones en un plazo de 2 días hábiles, estableciéndose las siguientes direcciones de E-Mail y/o puntos de contacto:
+      Argentina:
+      Comisión Nacional de Comunicaciones
+      Gerencia de Ingeniería
+      Área Asignación de Frecuencias
+      Perú 103 - Piso 13 -C1067AAC
+      Buenos Aires - República Argentina
+      TEL: + 54 11 4347-9659 / 9600
+      FAX: + 54 11 4347-9685
+      E-Mail: jjvalorio@cnc.gov.ar CC: jsonsino@cnc.gov.ar
+
+      Brasil:
+      Agência Nacional de Telecomunicações
+      Superintendencia de Serviços Privados
+      Gerencia Geral de Comunicações Pessoais Terrestres
+      Gerencia de Normas e Padrões
+      SAS Quadra 6 Bloco E 8 Andar
+      Brasília - DF - República Federativa do Brasil
+      CEP: 70313-900
+      TEL: + 55 61 312-2443 / 2152
+      FAX: + 55 61 312-22793
+      E-Mail: ctrc.mercosul@anatel.gov.br
+
+      Paraguay:
+      Comisión Nacional de Telecomunicaciones
+      Gerencia Internacional e Interinstitucional
+      Yegros 437 y 25 de Mayo - Edif.. San Rafael - Piso 3
+      Asunción - República del Paraguay
+      TEL: + 595 21 440-020
+      FAX: + 595 21 51-029
+      E-Mail: gii@conatel.gov.py CC : die@conatel.gov.py
+
+
+Uruguay:
+Dirección Nacional de Comunicaciones
+Departamento Frecuencias Radioeléctricas
+Bvar. Artigas 1.520 - Montevideo - República Oriental del Uruguay
+TEL: + 598 2 707-3661
+FAX: + 598 2 707-33591 / 3593
+      E-Mail	: frecuencias@dnc.gub.uy o bude@dnc.gub.uy
+5.6. CRITERIOS PARA LA IMPLEMENTACIÓN DEL SERVICIO EN REGIONES DE FRONTERA
+En toda situación que la coordinación lo requiera, se instalarán celdas sectorizadas con antenas con características directivas que permitan efectuar downtilt mecánico y/o eléctrico, después de agotados los demás recursos.
+5.6.1. NIVEL DE LA SEÑAL EN EL PAÍS LIMÍTROFE:
+Debe ser inferior al nivel de señal del Prestador local en su región. Este nivel será definido de común acuerdo por los Prestadores durante el proceso de coordinación. De lo contrario se procederá de acuerdo a lo estipulado en el numeral 4.4.10.
+5.6.2. CANALIZACIÓN DE FRECUENCIAS EN LAS CELDAS PRÓXIMAS A LAS FRONTERAS:
+Para fines de orientación de proyecto, se establecerán secuencias de utilización de frecuencias.
+5.6.2.1. SECUENCIA DE OCUPACIÓN DE CANALES:
+5.6.2.1.1. En caso de ser tres los Prestadores involucrados, se establecerá de acuerdo al siguiente orden:
+5.6.2.1.1.1. Espaciamiento de 21 canales
+CONJUNTO
+GRUPO DE CANALES
+A
+1
+4
+7
+10
+13
+16
+19
+B
+2
+5
+8
+11
+14
+17
+20
+C
+3
+6
+9
+12
+15
+18
+21
+5.6.2.1.1.2. Espaciamiento de 24 canales
+CONJUNTO
+GRUPO DE CANALES
+A
+1
+4
+7
+10
+13
+16
+19
+22
+B
+2
+5
+8
+11
+14
+17
+20
+23
+C
+3
+6
+9
+12
+15
+18
+21
+24
+5.6.2.1.2. En caso de ser dos los Prestadores involucrados se utilizaran los conjuntos A y C anteriormente mencionados, y el grupo B será dividido de la siguiente forma:
+
+5.6.2.1.2.1. Espaciamiento de 21 canales
+CONJUNTO
+GRUPO DE CANALES
+B1
+2
+8
+14
+20 (superior)
+B2
+5
+11
+17
+20 (inferior)
+
+5.6.2.1.2.2. Espaciamiento de 24 canales
+CONJUNTO
+GRUPO DE CANALES
+B1
+2
+8
+14
+20
+B2
+5
+11
+17
+23
+5.6.2.2. Para fines de coordinación, cada Prestador informará a las demás partes involucradas el grupo de canales que comenzará a utilizar.
+Cada Prestador podrá utilizar más de un conjunto de canales, siempre que su utilización no produzca interferencia perjudicial a los Prestadores vecinos.
+En caso de interferencia perjudicial, los Prestadores deberán implementar los sistemas y técnicas adecuadas para eliminarlas.
+En las instalaciones existentes, en la medida de lo posible, se ajustarán a la distribución propuesta en los numerales 5.6.2.1.1. y 5.6.2.1.2.
+En caso contrario, quedarán sujetas al procedimiento de coordinación.
+Otras soluciones podrán también ser negociadas entre los Prestadores, de forma de facilitar la coordinación y permitir la convivencia de los sistemas.
+5.6.3. RELACIONES DE PROTECCIÓN
+Las relaciones de protección respecto a la señal de cobertura del Prestador local, deberán ser iguales o mayores que los valores indicados a continuación:
+5.6.3.1. INTERFERENCIA CO-CANAL
+5.6.3.1.1. Caso 1 - Técnica de medición de campo
+       AMPS	-	17 dB
+       NAMPS	-	17 dB
+       TDMA	-	20 dB
+       CDMA	-	16 dB
+5.6.3.1.2. Caso 2 - Para cálculos de enlace o simuladores de propagación.
+       AMPS	-	21 dB
+       NAMPS	-	21 dB
+       TDMA	-	24 dB
+       CDMA	-	20 dBº
+
+
+1

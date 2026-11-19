@@ -1,0 +1,1904 @@
+Resolución GMC N° 59/94
+Título: ADOPCIÓN DE PADRONES FITOSANITARIOS
+Fecha de aprobación: 04/11/1994
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 29263_RES_059_1994_ES_AdopcPadronesFitosanitarios.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2139).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES No. 59/94
+
+ADOPCION DE PATRONES FITOSANITARIOS
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión No. 4/91 del Consejo del Mercado Común y la Recomendación No. 17/94 del Subgrupo de Trabajo No 8  "Política Agrícola".
+CONSIDERANDO:
+      Que los patrones fitosanitarios aprobados por el COSAVE en materia de:
+- Principios de cuarentena vegetal con relación al comercio internacional
+- Glosario de términos fitosanitarios
+- Acreditación de laboratorios de diagnóstico fitosanitario
+- Directivas para el reconocimiento de áreas libres de plagas (ALP)
+- Directivas para el análisis de riesgo de plagas
+- Principios para la reglamentación de plagas de calidad (nocivas) en el comercio regional
+      Que los patrones indicados son un elemento imprescindible para continuar el proceso de armonización en materia cuarentenaria en los Estados Partes.
+      Lo dispuesto en el Acuerdo Sanitario y Fitosanitario aprobado en la Ronda Uruguay del GATT y en el Art. 3, numerales 1, 2 y 3 del Acuerdo Sanitario y Fitosanitario del MERCOSUR.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Artículo 1 - Adoptar los patrones regionales COSAVE que aparecen como Anexo a la presente Resolución en materia de:
+- Principios de cuarentena vegetal con relación al comercio internacional
+- Glosario de términos fitosanitarios
+- Acreditación de laboratorios de diagnóstico fitosanitario
+- Directivas para el reconocimiento de áreas libres de plagas (ALP)
+- Directivas para el análisis de riesgo de plagas
+- Principios para la reglamentación de plagas de calidad (nocivas) en el comercio regional
+Artículo 2 - Instruir al Comité de Sanidad del MERCOSUR a aplicar los mencionados patrones en el trabajo de armonización cuarentenaria que debe efectuar.
+
+ 		XV GMC - Brasília, 4/XI/1994
+
+
+ESTANDAR INTERNACIONAL PARA MEDIDAS FITOSANITARIAS - FAO
+
+
+SECCION II - REFERENCIA
+
+
+2.1. PRINCIPIOS DE CUARENTENA VEGETAL EN RELACION AL COMERCIO INTERNACIONAL
+
+
+COMITÉ REGIONAL DE SANIDAD VEGETAL DEL CONO SUR
+
+
+COSAVE
+
+AGOSTO, 1994
+
+CONTENIDO
+
+REVISION
+
+APROBACION
+
+REGISTRO DE MODIFICACIONES
+
+DISTRIBUCION
+
+INTRODUCCION
+
+AMBITO
+
+REFERENCIAS
+
+DEFINICIONES Y ABREVIATURAS
+
+DESCRIPCION
+
+
+PRINCIPIOS DE CUARENTENA INTERNACIONAL EN RELACION AL COMERCIO INTERNACIONAL
+
+REVISION
+
+Este estándar fitosanitario internacional de FAO esta sujeto a revisiones y modificaciones periódicas.
+
+La fecha de la próxima revisión es: diciembre de 1996.
+
+APROBACION
+
+Estos Principios Fitosanitarios fueron aprobados:
+
+- En la lll Reunión del Consejo de Ministros del COSAVE, Enero de 1993. Punta del Este, URUGUAY.
+
+- En la XXVll Sesión de la Conferencia de FAO, Noviembre de 1993, Roma, ITALIA
+
+Este estándar fitosanitario fue aprobado en la Vll Reunión del Comité Directivo, agosto de 1994, Brasilia, BRASIL.
+
+REGlSTRO DE MODIFICACIONES
+
+Las modificaciones a este estándar serán numeradas y datadas correlativamente.
+
+Los poseedores del estándar deben asegurarse que todas las modificaciones sean insertadas y las paginas obsoletas sean removidas.
+
+DISTRlBUClON
+
+Este estándar es distribuido por la Secretaría de la Convención Internacional de Protección Fitosanitaria.
+
+- Asia and Pacific Plant Protection Comission.
+- Caribbean Plant Protection Comission.
+- Comité Regional de Sanidad Vegetal para el Cono Sur
+- European and Mediterranean Plant Protection Organization.
+- Inter-African Phytosanitary Council.
+- Junta del Acuerdo de Cartagena.
+- North American Plant Protection Organization.
+- Organismo Internacional Regional de Sanidad Agropecuaria.
+
+Asimismo este estándar es distribuido por la Secretaría de Coordinación del COSAVE a:
+
+- Secretaría del MERCOSUR.
+- Comité de Sanidad del MERCOSUR.
+- Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+- Secretaría de Defensa Agropecuaria, Brasil.
+- Servicio Agrícola y Ganadero, Chile.
+- Dirección de Defensa Vegetal, Paraguay
+- Servicio Agrícola, Uruguay.
+
+
+1- INTRODUCCION
+
+1. Ámbito
+
+         Este estándar de referencia describe los Principios de Cuarentena Vegetal en relación con el comercio Internacional.
+
+2. REFERENCIAS
+
+- Glosario FAO de Términos Fitosanitarios, FAO Plant Protection Bulletin 38(1), 1990, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA.
+
+- Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA, 1992.
+
+3. DEFINICIONES Y ABREVIATURAS
+
+ARP
+
+Abreviación para análisis de riesgo de plaga.
+
+ANALISIS DE RIESGO DE PLAGA
+Estimación del riesgo de plaga y del manejo del riesgo de plaga.
+
+AREA:
+Un país, parte de un país o partes de varios países definidos oficialmente.
+
+AREA LIBRE DE PLAGA
+Un área en la cual una plaga especifica no ocurre como lo demuestra la evidencia científica y en la cual, cuando apropiado, esta condición esta siendo oficialmente mantenida.
+
+CIPF
+Abreviación para la Convención Internacional de Protección Fitosanitarial, corno depositada en la FAO en Roma en 1951 y sus modificaciones posteriores.
+
+DlSPERSlON:
+Expansión de la distribución geográfica de una plaga dentro de un área
+
+EVALUACION DEL RIESGO DE PLAGA
+Determinación de si una plaga es una plaga cuarentenaria y evaluación de su potencial de introducción.
+
+MANEJO DEL RIESGO DE PLAGA
+El proceso de toma de decisión para reducir el riesgo de introducción y establecimiento de una plaga cuarentenaria.
+
+MEDlDA FITOSANITARIA
+Cualquier legislación, estándar, lineamiento, recomendación o procedimiento que tiene el propósito de prevenir la introducción o dispersión de plagas cuarentenarias.
+
+OFICIAL
+
+Establecido, autorizado o realizado por una Organización Nacional de Protección Fitosanitaria
+
+ORGANIZACION NACIONAL DE PROTECClON FITOSANITARIA
+
+Servicio oficial establecido por un Gobierno, encargado de las funciones especificadas por la CIPF.
+
+ONPF
+
+Abreviación para Organización Nacional de Protección Fitosanitaria.
+
+PLAGA
+
+Cualquier especie, raza o biotipo de vegetales, animales o agentes patogénicos, nocivos para los vegetales o productos vegetales.
+
+PLAGA CUARENTENARIA
+
+Una plaga de importancia económica potencial para el área en peligro por la misma y donde aun no se encuentra presente, o si presente no se encuentra ampliamente distribuida y esta siendo oficialmente controlada .
+
+REGLAMENTACION FITOSANITARIA
+
+Reglas oficiales para prevenir la introducción y/o dispersión de plagas cuarentenarias, mediante la reglamentación de la producción, del movimiento o existencia de productos u otros artículos, o de la actividad normal de las personas, y del establecimiento de esquemas para la certificación fitosanitaria.
+
+
+4.- DESCRIPCION
+
+El objetivo básico en la formulación de los siguientes principios es el facilitar el proceso para desarrollar estándares internacionales en cuarentena vegetal. Se considera que Ia instrumentación de estos principios por las autoridades fitosanitarias relevantes, resultará en la reducción o eliminación del uso injustificado de las medidas fitosanitarias como barreras al comercio.
+
+Adicionalmente a los Principios Generales, existen otros específicos a áreas particulares de la actividad cuarentenaria. Los principios generales indican el proceso de desarrollo de medidas fitosanitarias aplicables al comercio internacional. Estos principios generales deben leerse como un solo cuerpo y no interpretarse individualmente. Los principios específicos apoyan directamente la CIPF o están relacionados a procedimientos particulares dentro del sistema de cuarentena vegetal. Esta relación esta indicada en !as tablas .
+
+Se espera que los principios serán sometidos a revisión continua, reflejando los cambios en los conceptos y tecnologías cuarentenarias.
+
+La interpretación e instrumentación de estos principios debe ser coherente con las previsiones relevantes a ser establecidas en el contexto del GATT (N. B: a ser reemplazado por la Organización Mundial de Comercio).
+
+
+ESTANDAR REGIONAL FITOSANITARIO
+
+
+SECCION II- REFERENClA
+
+2.2. PRINCIPIOS PARA LA REGLAMENTACION DE
+LAS PLAGAS DE CALIDAD (NOCIVAS) EN EL
+COMERCIO REGIONAL
+
+
+COMITE REGIONAL DE SANIDAD VEGETAL DEL CONO SUR
+COSAVE
+AGOSTO, 1994.
+
+CONTENIDO
+
+REVISION
+
+APROBACION
+
+REGISTRO DE MODIFICACIONES
+
+DISTRIBUCION
+
+INTRODUCCION
+
+AMBITO
+
+REFERENCIAS
+
+DEFINICIONES Y ABREVIATURAS
+
+DESCRIPCION
+
+PRINCIPIOS PARA LA REGLAMENTACION DE LAS PLAGAS DE CALIDAD (NOCIVAS)
+
+
+REVISION
+
+Este estándar regional fitosanitario de COSAVE está sujeto a revisiones y modificaciones periódicas.
+La fecha de la próxima revisión es: noviembre de 1994.
+
+APROBACION
+
+Este estándar regional fitosanitario fue aprobado en la Vll Reunión del Comité Directivo, agosto de 1994, Brasilia, BRASIL.
+
+COMITE DIRECTIVO DE COSAVE
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este estándar serán numeradas y datadas. correlativamente.
+
+Los poseedores del estándar deben asegurarse que todas las modificaciones sean insertadas y las paginas obsoletas sean removidas.
+
+DlSTRIBUCION
+
+Este estándar es distribuido por la Secretaría de Coordinación del COSAVE a todos sus miembros, Organizaciones Regionales de Protección Fitosanitaria, Secretaría de la Convención Internacional de Protección Fitosanitaria-FAO, Secretaría del MERCOSUR y COMITE de Sanidad del MERCOSUR.
+
+-Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+-Secretaría de Defensa Agropecuaria, Brasil.
+-Servicio Agrícola y Ganadera, Chile.
+-Dirección de Defensa Vegetal, Paraguay.
+-Servicio Agrícola, Uruguay.
+-Secretaría de la Convención Internacional de Protección Fitosanitaria-FAO.
+-Asia and Pacific Plant Protection Comission.
+-Caribbean Plan Protection Comission.
+-European and Mediterranean Plant Protection Organization.
+-Inter-African Phytosanitary Council.
+-Junta del Acuerdo de Cartagena.
+-North American Plant Protection Organization.
+-Organismo Internacional Regional de Sanidad Agropecuaria.
+-Secretaría del MERCOSUR.
+-Comité de Sanidad del MERCOSUR.
+
+I.
+INTRODUCCION
+
+1. -AMBITO
+
+Este estándard de referencia describe los principios para la reglamentación fitosanitaria de las Plagas de Calidad (nocivas), en relación con el comercio regional.
+
+2- REFERENCIAS
+
+- Glosario FAO de Términos Fitosanitarios, FAO Plant Protection Bulletin 38(1), 1990, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA.
+
+- Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA, 1992.
+
+- Principios de Cuarentena Vegetal aplicados al Comercio Internacional, 1993. Programme for Global Harmonization of Plant Quarantine, FAO Conference Paper C 93/25 Rev 1 November, 1993
+
+- Acuerdo de Medidas Sanitarias y Fitosanitarias, Acta Final de la Ronda Uruguay del GATT, Abril 1994.
+
+- Acuerdo Sanitario y Fitosanitario MERCOSUR, Agosto 1993.
+
+- Glosario de Términos Fitosanitarios COSAVE, Estándar Nº 2, 10 de agosto de 1994, Brasilia, Brasil.
+
+3.DEFlNIClONES Y ABREVIATURAS
+
+CIPF
+Abreviación para la Convención Internacional de Protección Fitosanitarial, como depositada en la FAO, en Roma en 1951 y sus modificaciones posteriores.
+
+OFICIAL
+Establecido, autorizado o realizado por una Organización Nacional de Protección Fitosanitaria
+
+ORGANIZACION NACIONAL DE PROTECClON FITOSANITARIA
+Servicio oficial establecido por un Gobierno, encargado de las funciones especificadas por la CIPF.
+
+ONPF
+Abreviación para Organización Nacional de Protección Fitosanitaria.
+
+PLAGA
+Cualquier especie, raza o biotipo de vegetales, animales o agentes patogénicos, nocivos para los vegetales o productos vegetales.
+
+PLAGA CUARENTENARIA
+Una plaga de importancia económica potencial para el área en peligro por la misma y donde aun no se encuentra presente, o si presente no se encuentra ampliamente distribuida y esta siendo oficialmente controlada .
+
+PLAGA DE CALIDAD O NOCIVA
+Una plaga no cuarentenaria que afecta directamente el uso propuesto de lo vegetales o productos vegetales.
+
+REGLAMENTACION FITOSANITARIA
+Reglas oficiales para prevenir la introducción y/o dispersión de plagas cuarentenarias, mediante la reglamentación de la producción, del movimiento o existencia de productos u otros artículos, o de la actividad normal de las personas, y del establecimiento de esquemas para la certificación fitosanitaria.
+
+USO PROPUESTO
+Destino final del vegetal, o su parte, considerando como tal la propagación, el consumo, la transformación o la industrialización.
+
+
+DESCRIPCION
+
+El propósito básico de formular los siguientes principios es el de facilitar el proceso de desarrollo de estándares regionales en relación con la reglamentación fitosanitaria de las plagas de calidad (nocivas).
+
+Estos principios han sido desarrollados con especial consideración de las previsiones realizadas en los Acuerdos de Medidas Sanitarias y Fitosanitarias y de Barreras Técnicas al Comercio del GATT. En su formulacion se utilizó el modelo ya existente de los Principios de Cuarentena Vegetal en relación al Comercio Internacional de la FAO, adaptándolos a la especial situación de las plagas de calidad (nocivas).
+
+La Convención Internacional de Protección Fitosanitaria -FAO- en su articulo II numeral 4, establece que la misma será aplicada principalmente a las plagas cuarentenarias pero no excluye su aplicación a otros tipos de plagas que en el modelo de Certificado Fitosanitario se mencionan como "plagas nocivas". Estas son equivalentes a las 'plagas de calidad" definidas en este estándar (Fig. 1 ). La aplicación complementaria de este estándar y el de Principios de Cuarentena Vegetal conforman la base sobre la que es posible armonizar las medidas y requisitos fitosanitarios exigidos para todas las plagas incluidas en la CIPF.
+
+Se considera que la aplicación de estos principios por las autoridades fitosanitarias pertinentes resultara en la reducción o eliminación del uso injustificado de requisitos fitosanitarios en materia de plagas de calidad (nocivas) como barreras técnicas al comercio.
+
+
+ESTANDAR REGIONAL FITOSANITARIO
+
+
+SECCION lll - MEDIDAS FITOSANITARIAS
+
+
+3.1 - LINEAMENTOS PARA EL ANALISIS DE RIESGO
+DE PLAGAS
+
+
+COMITE REGIONAL DE SANIDAD VEGETAL DEL CONO SUR
+
+COSAVE
+
+CONTENIDO
+
+REVISION
+
+APROBACION
+
+REGISTRO DE MODIFICACIONES
+
+DISTRIBUCION
+
+INTRODUCCION
+
+AMBITO
+
+REFERENClAS
+
+DEFINICIONES Y ABREVIATURAS
+
+DESCRIPCION
+
+REQUISITOS GENERALES
+
+1.- FASE l: Inicio del proceso de ARP.
+1.1.ARP Iniciado para una vía de ingreso.
+1.2.ARP Iniciado para una plaga.
+1.3.Revision de ARP previos.
+1.4.Conclusión de la FASE 1.
+
+2.- FASE ll: Evaluación del riesgo de plaga.
+2.1. Criterios geográficos y reglamentarios.
+2.2. Criterios bioecologicos (plagas cuarentenarias)
+2.2.1 Potencial de establecimiento.
+2.2.2 Potencial de dispersión.
+2.3. Potencial de Introducción (Plagas cuarentenarias).
+2.4. Criterios económicos.
+2.4.1 Importancia económica potencial (plagas cuarentenarias)
+2.4.2 Importancia económica (plagas de calidad (nocivas))
+2.5 Conclusión de la FASE ll.
+
+3.- FASE lll: Manejo del riesgo de plaga.
+3.1 Opciones de manejo del riesgo de plaga.
+3.2. Eficacia e impacto de las opciones.
+3.3 Conclusión de la FASE lll.
+
+4.- Documentación del proceso de ARP.
+
+
+REVISION
+
+Este estándar regional fitosanitario de COSAVE esta sujeto a revisiones y modificaciones periódicas.
+
+La fecha de la próxima revisión es: noviembre de 1994.
+
+APROBACION
+
+Este estándar regional fitosanitario fue aprobado en la Vll Reunión del Comité Directivo, agosto de 1994, Brasilia, BRASIL,
+
+COMITE DIRECTIVO DE COSAVE
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este estándar serán numeradas y datadas correlativamente.
+
+Los poseedores del estándar deben asegurarse que todas las modificaciones sean insertadas y las páginas obsoletas sean removidas.
+
+DISTRIBUCION
+
+Este estándar es distribuido por la Secretaria de Coordinacion del COSAVE a todos sus miembros, Organizaciones Regionales de Protección Fitosanitaria, Secretaría de la Convención Internacional de Protección Fitosanitaria-FAO, Secretaría del MERCOSUR y COMITE de Sanidad del MERCOSUR.
+
+-Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+-Secretaría de Defensa Agropecuaria. Brasil,
+-Servicio Agrícola y Ganadero, Chile
+-Dirección de Defensa Vegetal, Paraguay
+-Servicio Agrícola, Uruguay.
+-Secretaría de la Convención Internacional de Protección Fitosanitaria -FAO.
+-Asia and Pacific Plant Protection Comission.
+-Caribbean Plant Protection Comission.
+-European and Mediterranean Plant Protection Organization.
+-Inter-African Phytosanitary Council.
+-Junta del Acuerdo de Cartagena.
+-North American Plant Protection Organization.
+-Organismo Internacional Regional de Sanidad Agropecuaria.
+-Secretaría del MERCOSUR.
+-Comité de Sanidad del MERCOSUR.
+
+
+1- INTRODUCCIÓN;
+
+1.- AMBITO
+
+      Este estándar describe el proceso de análisis de riesgo de plagas (ARP) para plagas de los vegetales o productos vegetales, con el objeto de que las ONPF de la Región puedan establecer reglamentaciones fitosanitarias armonizadas.
+
+2.- REFERENCIAS
+
+- Glosario FAO de Términos Fitosanitarios, FAO Plant Protection Bulletin 38(1), 1990, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA.
+
+- Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA, 1992.
+
+-Principios de Cuarentena Vegetal aplicados al Comercio Internacional, 1993. Programme for Global Harmonization of Plant Quarantine, FAO Conference Paper C 93/25 Rev 1 November, 1993
+
+-Acuerdo de Medidas Sanitarias y Fitosanitarias, Acta Final de la Ronda Uruguay del GATT, Abril 1994.
+
+-Acuerdo Sanitario y Fitosanitario MERCOSUR, Agosto 1993.
+
+-Glosario de Términos Fitosanitarios COSAVE, Estándar Nº 2, 10 de agosto de 1994, Brasilia, Brasil.
+
+-Principios para la reglamentación fitosanitaria de Plagas de Calidad (nocivas) en el Comercio Regional, COSAVE, Estándar Nº 2.50, agosto 1994, Brasilia, Brasil.
+
+- Guidelines for Pest Risk Analysis. (Draft Estándar) as aprobed by the CEPM in may 1994, FAO.
+
+3.- DEFINICIONES Y ABREVIATURAS.
+
+ARP
+
+Abreviación para análisis de riesgo de plaga.
+
+ARPC
+
+Abreviación para ARP de plagas cuarentenarias.
+
+ARPN
+
+Abreviación para ARP de plagas de calidad (nocivas).
+
+ANALISIS DE RIESGO DE PLAGA
+
+Estimación del riesgo de plaga y del manejo del riesgo de plaga.
+
+AREA
+
+Un país, parte de un país o partes de varios países, definidos oficialmente.
+
+AREA DE ARP:
+
+El área en relación a la que se conduce un ARP
+
+AREA EN PELIGRO:
+
+Un área donde los factores ecológicos favorecen el establecimiento de una plaga cuya presencia en ella pueden derivar en perdidas económicas importantes.
+
+AREA LIBRE DE PLAGA
+
+Un área en la cual una plaga específica no ocurre como lo demuestra lo evidencia científica y en la cual, cuando apropiado, esta condición esta siendo oficialmente mantenida.
+
+AREA PROTEGIDA:
+
+Mínima unidad político-administrativa, o su parte, que posibilita la efectiva aplicación de las medidas fitosanitarias necesarias para proteger un área puesta riesgo, en relación con la biología de la plaga.
+
+CIPF
+
+Abreviación para la Convención Internacional de Protección Fitosanitarial, como depositada en la FAO, en Roma en 1951 y sus modificaciones posteriores.
+
+DlSPERSlON
+
+Expansión de la distribución geográfica de una plaga dentro de un área
+
+ESTABLECIMIENTO
+
+La perpetuación por el futuro pronosticable de una plaga dentro de un área luego de su ingreso
+
+EVALUACION DEL RIESGO DE PLAGA
+
+Determinación de si una plaga es una plaga cuarentenaria y evaluación de su potencial de introducción
+
+INGRESO (de una plaga)
+
+Movimiento de una plaga dentro de un área donde no esta todavía presente, o estándolo no se encuentra ampliamente distribuida y esta oficialmente controlada.
+
+MANEJO DEL RIESGO DE PLAGA
+
+El proceso de toma de decisión para reducir el riesgo de introducción y establecimiento de una plaga cuarentenaria .
+
+OFICIAL
+
+Establecido, autorizado o realizado por una Organización Nacional de Protección Fitosanitaria.
+
+ORGANIZACION NACIONAL DE PROTECCION FITOSANITARIA
+
+Servicio oficial establecido por un Gobierno, encargado de las funciones especificadas por la CIPF.
+
+ONPF
+
+Abreviación para Organización Nacional de Protección Fitosanitaria.
+
+PLAGA
+
+Cualquier especie raza o biotipo de vegetales animales o agentes patogénicos, nocivos para los vegetales o productos vegetales.
+
+PLAGA CUARENTENARIA
+
+Una plaga de importancia económica potencial para el área en peligro por la misma y donde aun no se encuentra presente, o si presente no se encuentra ampliamente distribuida y esta siendo oficialmente controlada .
+
+PLAGA DE CALIDAD O NOCIVA:
+
+Una plaga no cuarentenaria que afecta directamente el uso propuesto de los vegetales o productos vegetales.
+
+POTENClAL DE ESTABLEClMlENTO
+
+Probabilidad de establecimiento de una plaga.
+
+POTENCIAL DE INGRESO
+
+Probabilidad de ingreso de una plaga.
+
+POTENClAL DE DlSPERSION
+
+Probabilidad de dispersión de una plaga.
+
+REGLAMENTACION FlTOSANlTARlA
+
+Reglas oficiales para prevenir la introducción y/o dispersión de plagas cuarentenarias, mediante la reglamentación de la producción, del movimiento o existencia de productos u otros artículos, o de la actividad normal de las personas, y del establecimiento de esquemas para la certificación fitosanitaria.
+
+USO PROPUESTO:
+
+Destino final del vegetal, o su parte, considerando como tal la propagación, el consumo, la transformación o la industrialización.
+
+
+4.- DESCRIPCION
+
+El análisis del riesgo de plaga consiste de tres fases: iniciación del proceso para eI análisis del riesgo, evaluación del riesgo de plaga y manejo del riesgo de plaga.(ver figuras 1.4.).
+
+El inicio del proceso involucra la identificación de la plaga o vías de ingreso, para las que se requiere un ARP. La evaluación del riesgo de plaga determina cuando una plaga identificada como tal, o asociada a una vía de ingreso, es una plaga cuarentenaria, caracterizada en términos de probabilidad de ingreso, establecimiento, dispersión e importancia económica; o se trata de una plaga de calidad o nociva caracterizada en términos de su importancia económica: o si se trata de una plaga no pasible de reglamentación fitosanitaria. El manejo del riesgo de plaga involucra desarrollar, evaluar, comparar y seleccionar opciones para reducir el riesgo.
+
+El ARP solo tiene sentido en relación con "una área de ARP" considerada en riesgo. Esta es usualmente un país, pero también puede ser un área dentro de un país o una área que abarque todo o partes de varios países.
+
+II.- REQUISITOS GENERALES
+
+1. FASE I: Inicio del proceso de ARP.
+
+Generalmente hay 2 causales para la iniciación para un ARP (Fig1.).
+
+- la identificación de una vía de ingreso, usualmente un producto importado, que puede posibilitar la introducción y/o dispersión de plagas cuarentenarias;
+
+- la identificación de una plaga que puede calificar como plaga cuarentenaria o una plaga de calidad (nociva).
+
+1.1- ARP iniciado para una vía de ingreso.
+
+      Un requerimiento para un ARP nuevo o revisado para una vía de ingreso, se producirá más frecuentemente en las siguientes situaciones:
+
+- Iniciación del comercio internacional de un nuevo producto (usualmente un vegetal o producto vegetal) o de un producto de un nuevo origen. El ARP puede ser provocado por una solicitud de importación o por la aparición en el mercado de embarques del producto. La vía de ingreso puede referirse a una o varias áreas de origen;
+
+- Importación de nuevas especies vegetales con propósitos fitotécnicos o de investigación científica;
+
+- Identificación de otra vía de ingreso, además del producto (dispersión natural, correo, basura, equipaje de pasajeros, etc.),
+
+- adopción de una decisión política para establecer o revisar las reglamentaciones fitosanitarias o los requisitos aplicados a productos específicos;
+
+- disponibilidad de un nuevo tratamiento, sistema o proceso, o nueva información que incide sobre una decisión anterior.
+
+      Las plagas que probablemente sigan la vía de ingreso (por ej. sean transportadas por el producto) son entonces listadas y cada una de ellas sometidas a la FASE ll, en el proceso de ARP (*).
+
+      Si no se identifican plagas potencialmente cuarentenarias o de calidad (nocivas) entonces el ARP se detiene en este punto.
+
+1.2 ARP iniciado para una plaga.
+
+      Un requerimiento para un ARP nuevo o revisado de una plaga aparecerá mas frecuentemente en las siguientes situaciones:
+
+- aparición de una emergencia por el descubrimiento de una infestación establecida o de un foco de una nueva plaga dentro de una área de ARP:
+
+- aparición de una emergencia por la intercepción de una nueva plaga en un producto importado;
+
+- identificación, a través de la investigación científica se identifica un nuevo riesgo de plaga .
+
+- introducción de una plaga en una nueva área diferente del área del ARP;
+
+- comunicación de que una plaga es mas dañina en otra área distinta del ARP, que en su área de origen;
+
+- la auditoria revela que una plaga especifica es repetidamente interceptada;
+
+- solicitud para importar como tal un organismo, por ej. por investigadores, docentes, usuarios de control biológico, coleccionistas, comerciantes (propietarios de negocios de mascotas), industria alimentaria, caracoles para consumo, etc.;
+
+- adopción de una decisión política para revisar las reglamentaciones fitosanitarias o los requisitos relativos a plagas especificas;
+
+- proposición por otro país o por una Organización Internacional de Protección Fitosanitaria, (ORPF, FAO);
+
+- disponibilidad de un nuevo tratamiento, sistema o proceso, o nueva información que incide sobre una decisión anterior'
+
+      La plaga específica identificada es entonces sometida a la FASE ll del proceso de ARP
+
+      Si no se identifican plagas potencialmente cuarentenarias o de calidad (nocivas), entonces el ARP se detiene en este punto.
+
+1.3 Revisión de ARPs anteriores.
+
+      Antes de proceder con un nuevo ARP, deberá comprobarse si la vía de ingreso o la plaga han sido ya sometidas al proceso de ARP, tanto a nivel nacional como internacional. Si existe un  ARP anterior su validez deberá ser comprobada dado que las circunstancias pueden haber cambiado. La posibilidad de usar un ARP de una vía de ingreso o plaga similares, que pueda reemplazar parcial o totalmente la necesidad de realizar un nuevo ARP deberá ser también considerada.
+
+1.4. Conclusión de la FASE 1.
+
+      Al término de la FASE 1, las plagas deben ser identificadas como potencialmente cuarentenarias o de calidad (nociva), individualmente o en asociación con una vía de ingreso.
+
+2.- FASE ll: Evaluación del riesgo de plaga.
+
+      En la FASE I se ha identificado una plaga o una lista de plagas (en el caso de iniciación por una vía de ingreso), para ser objeto de la evaluación de  riesgo. En la FASE II se consideran estas plagas individualmente (Fig.2). En ella se examina, para cada una, si se cumplen los criterios para el status de plaga cuarentenaria o de calidad (nociva).
+
+
+*La lista de plagas puede ser generada por cualquier combinación de banco de datos, fuentes bibliográficas o consulta de expertos. Una vez que las listas de plaga, han sido establecidas es aconsejable priorizarlas mediante el juicio de expertos, antes de proseguir a elaborar los resultados necesarios para conducir la evaluación de riesgo de todas las plagas.
+
+
+a.- Plagas cuarentenarias
+
+"una plaga de importancia económica potencial para el área en peligro por y en donde aún no se encuentra presente, o si lo esta, no se encuentra ampliamente distribuida y esta siendo oficialmente controlada".
+
+En este contexto "área" deberá ser entendida como:
+
+"un país, parte de un país o todas o partes de varios países oficialmente definidos" y "área en peligro" debe entenderse como: "una área donde los factores ecológicos favorecen el establecimiento de una plaga cuya presencia en el área dará como resultado importantes perdidas económicas".
+
+b.- Plagas de calidad (nocivas)
+
+"plaga de calidad o nociva es una plaga no cuarentenaria que afecta directamente el uso propuesto de los vegetales o partes de ellos, causando importantes pérdidas económicas".
+
+En este contexto el "uso propuesto" debe entenderse como la propagación, el consumo, la transformación o la industrialización, y las perdidas económicas deberán ser cuantificables y verificables.
+
+      A estos efectos, el ARP considera todos los aspectos de cada plaga y en particular la información actualizada sobre su distribución geográfica, biología e importancia económica. El juicio experto es entonces utilizado para evaluar el potencial del establecimiento, dispersión e importancia económica potencial en el área del ARP. Finalmente, es caracterizado el potencial de introducción dentro del área del ARP.
+
+      En la caracterización del riesgo, la cantidad de información disponible variará con cada plaga v la sofisticación de la evaluación variara con las herramientas disponibles. Por ejemplo, un país puede disponer de elaborados bancos de datos sobre plagas y sistemas de información geográfica; otro puede depender de libros, mapas impresos de suelo y clima. En algunos casos virtualmente no existirá información disponible o se hará necesaria la investigación para obtenerla, Ias evaluaciones estarán limitadas por la cantidad de información disponible sobre la biología de una plaga especifica
+
+2.1. Criterios geográficos y reglamentarios.
+
+      Para cada plaga sometida al proceso de ARP, deben ser considerados los criterios geográficos y reglamentarios incluidos en las definiciones de plagas cuarentenarias y plagas de calidad o nocivas.
+
+- si la plaga está presente en el área del ARP y ha alcanzado los limites de su rango ecológico (i.e esta ampliamente distribuida), entonces la plaga no satisface la definición de una plaga cuarentenaria y en consecuencia ei ARPC se detiene en este punto;
+
+- si la plaga esta presente en el área del ARP y no ha alcanzado los limites de su rango ecológico (i.e no esta ampliamente distribuida) y esta siendo sometida a control oficial en el área del ARP, entonces la plaga satisface este aspecto de la definición de una plaga cuarentenaria y el ARPC debe continuar;
+
+- Si la plaga no esta ampliamente distribuida y tampoco sujeta a control oficial, entonces la plaga no satisface la definición de plaga cuarentenaria, el ARPC se detiene en ese punto;
+
+- Si la plaga está ausente del área del ARP, entonces satisface este aspecto de la definición de plaga cuarentenaria y el ARPC debe continuar;
+
+- si la plaga es no cuarentenaria y afecta el uso propuesto del vegetal o producto vegetal, entonces el ARPN puede continuar;
+
+- si la plaga es no cuarentenaria pero no afecta el uso propuesto del vegetal o producto vegetal, entonces el ARP se detiene.
+
+2.2. Criterios bioecológicos.(plagas cuarentenaria)
+
+      Debe caracterizarse el riesgo de que una plaga introducida pueda establecerse y dispersarse en una área.
+
+2.2.1 Potencial de establecimiento.
+
+      A los efectos de evaluar el potencial de establecimiento de una plaga, debe obtenerse información biológica confiable (ciclo de vida, rango de huéspedes, epidemiología, sobrevivencia, etc.), de áreas donde la plaga está presente.
+
+      La situación en el área del ARP puede entonces ser cuidadosamente comparada con las de las áreas donde la plaga ocurre y el juicio experto puede ser utilizado para evaluar el potencial de establecimiento.
+
+      Puede ser útil considerar historias de casos relativos a plagas comparables pueden ser útiles de considerar. Ejemplos de factores a considerar son:
+
+- disponibilidad, cantidad y distribución de hospederos en el área de ARP
+- adecuación ambiental en el área de ARP
+- potencial de adaptación de la plaga;
+- estrategia reproductiva de la plaga;
+- modo de sobrevivencia de la plaga.
+
+      Si la plaga no tiene potencial de establecimiento en el área del ARP, entonces no satisface la definición de plaga cuarentenaria y el ARPC se detiene en este punto.
+
+2.2.2. Potencial de dispersión después del establecimiento
+
+A Ios efectos de evaluar el potencial de dispersión de la plaga debe obtenerse información biológica confiable de las áreas donde la plaga ocurre normalmente. La situación en el área del ARP puede entonces ser cuidadosamente comparada con la de las áreas donde la plaga ocurre normalmente y el juicio experto puede ser usado para evaluar el potencial de dispersión. Puede ser útil considerar historias de casos relativos a plagas comparables pueden ser útiles de considerar. EjempIos de los factores a considerar son:
+
+- adecuación del ambiente natural y/o manejado para la dispersión natural de de la plaga;
+- traslado con productos o embarque;
+- vectores potenciales de la plaga en el área del ARP;
+- enemigos naturales potenciales de la plaga en el área del ARP;
+- enemigos naturales potenciales de la plaga en el área del ARP.
+
+La información sobre potencial de dispersión es usada para elavaular cuan rápidamente el potencial de importancia económica de la plaga podrá ser expresado en el área del ARP. Estos también tiene importancia si la plaga es capaz de ingresar y establecerse en un área de baja importancia.
+
+- incrementos de los costos de control;
+- impacto sobre los programas integrados en ejecución;
+- daños ambientales;
+- capacidad de actuar como vector para otras plagas;
+- costos sociales percibidos tales como desempleo.
+
+      Si la plaga no tiene importancia económica potencial, entonces no satisface la definición de plaga cuarentenaria y el ARP-plaga cuarentenaria se detiene en este punto.
+
+2.4.2 Importancia Económica (Plagas de calidad (nocivas))
+
+      Si no se cuenta con Información económica cuantificable y verificable que demuestre una importancia significativa de la plaga de calidad (nociva) el ARPN se detiene en este punto.
+
+2.5 Conclusión de la FASE ll
+
+      Si la plaga satisface la definición de plaga cuarentenaria o de plaga de calidad o nociva, continua el proceso de ARP.
+
+      En el ARPC, el juicio experto debe ser usado para revisar la información recabada durante la FASE lI para decidir si la plaga tiene la suficiente importancia económica potencial y potencial de introducción (e.i. suficiente riesgo), para que se justifique la adopción de medidas fitosanitarias. Si esto es así, puede continuarse la Fase lll, en caso contrario el ARP se detiene en este punto.
+
+3. FASE III: Manejo de riesgo de plaga
+
+      El manejo de riesgo de plaga (Fig.3 y 4) para proteger una área en peligro, debe ser proporcional al riesgo identificado en Ia evaluación del riesgo de plaga. Las medidas fitosanitarias que se hayan identificado como necesarias, serán aplicadas solamente al área protegida. En la mayoría de los casos el manejo de riesgo de plaga podrá basarse en la información ya generada en la evaluación del riesgo de plagas .
+
+3.1. Opciones de Manejo del Riesgo
+
+      Debe generarse una lista de opciones para reducir los riesgos a un nivel aceptable. Estas opciones se referirán básicamente a las vías de ingreso y en particular a las condiciones para permitir el ingreso de los productos. Ejemplos de las opciones a considerar son:
+
+- inclusión en la lista de plagas prohibidas;
+- inspección fitosanitaria y certificación previo a la exportación;
+- definición de los requisitos a ser satisfechos antes de la exportación (por ej. tratamiento de origen de área libre de plaga, inspección a campo, esquema de certificación);
+- inspección al ingreso;
+- tratamiento en el punto de ingreso, estación de inspección o, si apropiado, en el lugar de destino;
+- detención en cuarentena post-entrada;
+- medidas de post-ingreso (restricciones sobre el uso del producto, medidas de control);
+- prohibición de ingreso de productos especificos desde origenes específicos.
+
+      No obstante, estos también pueden referirse a forma de reducir el riesgo de daño, por ejemeplo, introducción de un agente de control biológico o facilidad de erradicación o contenido.
+
+      Para el caso de plaga de calidad nocivas, las opciones de requisitos fitosanitarios deberán contemplar en forma particular lo establecido por los "Principios para la reglamentación fitosanitaria de la plagas de calidad (nociva) en el comercio regional".
+
+3.2. Eficacia o impacto de las opciones
+
+      La eficacia y el impacto de las distintas opciones para reducir el riesgo a un nivel aceptable, deberá ser evaluada, en relación a los siguientes factores:
+
+- efectividad biológica;
+- relación costo-beneficio de la instrumentación;
+- incidencia sobre las reglamentaciones existentes;
+- impacto comercial;
+- impacto social;
+- tiempo para el establecimiento de una nueva reglamentación;
+- eficacia de la opción contra otras plagas cuarentenarias;
+- impacto ambiental
+
+      Los aspectos positivos y negativos de las opciones deberán ser especificados. Particular atención debe prestarse al principio de "mínimo impacto": "las medidas fitosanitarias deberán ser consistentes con el riesgo de plagas involucrado y deberán representar las medidas menos restrictivas disponibles que resulten en el mínimo; impedimento al movimiento internacional de las personas, productos y embarques". El articulo VII.2, (f) de la CIPF establece previsiones similares pero menos amplias. Las medidas fitosanitarias recomendadas deberán estar basadas en todos los factores anteriormente mencionados. Igual criterio será de aplicación al caso de plagas de calidad (nocivas) con relación a los Principios para la reglamentación fitosanitaria de plagas de calidad (nocivas) en el comercio regional.
+
+      A los efectos de determinar que opciones son apropiadas puede ser aconsejable comunicarse con el interesado y los grupos afectados dentro y fuera del área del ARP.
+
+3.3. Conclusión de la FASE lll
+
+      Al final de la FASE lll, las medidas fitosanitarias apropiadas en relación a la plaga o a la vía de ingreso han sido decididas. La finalización de esta FASE es esencial y en particular no se justifica completar solamente las FASES I y II adoptando medidas fitosanitarias sin una evaluación apropiada de las opciones de manejo del riesgo. Después de establecer las medidas fitosanitarias, su efectividad debe ser monitoreada y Ias opciones de manejo del riesgo deberán ser revisadas, si ello es necesario.
+
+4.- Documentación del proceso de ARP
+
+Un ARP deberá estar suficientemente documentado de manera que, cuando se revise o surja una controversia el establezca claramente las fuentes de información y el razonamiento utilizado para alcanzar una decisión de manejo en relación a las medidas fitosanitarias.
+
+
+ESTANDAR REGIONAL FlTOSANITARIO
+
+
+SECCION lll - MEDIDAS FITOSANITARIAS
+
+
+3.2 - LlNlEAMlENTOS PARA EL RECONOClMlENTO
+DE AREAS LIBRES DE PLAGAS (ALP)
+
+
+COMITE REGlONAL DE SANIDAD VEGETAL DEL CONO SUR
+
+
+COSAVE
+AGOSTO, 1994
+
+CONTENIDO
+
+REVISION
+APROBACION
+REGISTRO DE MODlFlCAClONES
+DlSTRlBUClON
+lNTRODUCClON
+AMBITO
+REFERENClAS
+DEFlNlClONES Y ABREVIATURAS
+DESCRIPCION
+REQUISITOS GENERALES PARA LAS AREAS LIBRES DE PLAGAS
+
+1.- Extensión geográfica
+
+2.- País entero
+
+2.1. La ausencia de la plaga es verificada por un relevamiento de detección oficial.
+2.1.1 Relevamientos.
+2.1.2 Controles reglamentarios.
+2.1.3 Auditoria/Documentación.
+2.2. La ausencia de la plaga es indicada por la ausencia de registros oficiales o publicados.
+
+3.- Parte no infestada de un país en el que ocurre un área infestada limitada.
+
+3.1. Relevamiento.
+3.2. Controles reglamentarios.
+3.3. Auditoria/Documentación.
+
+4.- Parte no infestada de un país situada dentro de un área infestada.
+
+4.1. Relevamiento.
+4.2. Controles reglamentarios.
+4.3. Auditoria/Documentación.
+
+5.- Bases Técnicas de los requisitos
+
+5.1. Relevamientos.
+5.2. Controles reglamentarios.
+5.3. Auditoria/Documentación.
+
+
+REVISION
+
+Este estándar regional fitosanitario de COSAVE está sujeto a revisiones y modificaciones periódicas
+
+La fecha de la próxima revisión es: noviembre de 1994.
+
+APROBACION
+
+Este estándar regional fitosanitario fue aprobado en la Vll Reunión del Comité Directivo, agosto de 1994, Brasilia, Brasil.
+
+COMITE DIRECTlVO DE COSAVE
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este estándar serán numeradas y datadas correlativamente.
+
+Los poseedores del estándar deben asegurarse que todas las modificaciones sean insertadas y las paginas obsoletas sean removidas.
+
+DlSTRlBUClON
+
+Este estándar es distribuido por la Secretaría de Coordinación del COSAVE a todos sus miembros, Organizaciones Regionales de Protección Fitosanitaria, Secretaría de la Convención Internacional de Protección Fitosanitaria-FAO, Secretaría del MERCOSUR y COMITE de Sanidad del MERCOSUR.
+
+-Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+-Secretaría de Defensa Agropecuaria, Brasil.
+-Servicio Agrícola y Ganadero, Chile.
+-Dirección de Defensa Vegetal, Paraguay.
+-Servicio Agrícola, Uruguay.
+-Secretaría de la Convención Internacional de Protección Fitosanitaria-FAO.
+-Asia and Pacific Plant Protection Comission.
+-Caribbean Plan Protection Comission.
+-European and Mediterranean Plant Protection Organization.
+-Inter-African Phytosanitary Council.
+-Junta del Acuerdo de Cartagena.
+-North American Plant Protection Organization.
+-Organismo Internacional Regional de Sanidad Agropecuaria.
+-Secretaría del MERCOSUR.
+-Comité de Sanidad del MERCOSUR.
+
+
+INTRODUCCION
+
+1.- AMBITO
+
+Este estándard describe los requisitos para el establecimiento y uso de áreas libres de plagas (ALPs) como una opción de manejo de riesgo para la certificación fitosanitaria de los vegetales y productos vegetales.
+
+2. - REFERENCIAS
+
+Glosario de términos Fitosanitarios FAO, FAO Plant Protection Bulletin 38(1), 1990, Organización de las Naciones Unidas para la Alimentación y la Agricultura, Roma ITALIA.
+
+Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Alimentación y la Agricultura, Roma, 1992.
+
+Glosario de términos Fitosanitarios COSAVE, Serie ll, 2.6, agosto de 1994, Brasilia, BRASIL.
+
+Requirements for the establishment of pest free areas, Draft standard aprobado por el CEPM en mayo de 1994, FAO, Roma, ITALIA.
+
+3.- DEFlNlCIONES Y ABREVIATURAS.
+
+
+ALP
+Abreviatura para Area Libre de Plagas
+
+AREA:
+Un país, parte de un país o partes de varios países definidos oficialmente.
+
+AREA EN PELIGRO:
+
+Un área donde los factores ecológicos favorecen el establecimiento de una plaga cuya presencia en ella pueden derivar en pérdidas económicas importantes.
+
+CONTENCION
+La aplicación de medidas fitosanitarias en y alrededor de un área infestada para prevenir la dispersión de una plaga.
+
+AREA LIBRE DE PLAGA
+Un área en la cual una plaga específica no ocurre como lo demuestra la evidencia científica y en la cual, cuando apropiado, esta condición esta siendo oficialmente mantenida.
+
+AREA PROTEGIDA:
+
+Mínima unidad politico-administrativa, o su parte, que posibilita la efectiva aplicación de las medidas fitosanitarias necesarias para proteger un área puesta riesgo, en relación con la biología de la plaga.
+
+CIPF
+Abreviación para la Convención Internacional de Protección Fitosanitarial, corno depositada en la FAC en Roma en 1951 y sus modificaciones posteriores.
+
+DlSPERSlON:
+Expansión de la distribución geográfica de una plaga dentro de un área
+
+ESTABLECIMIENTO
+
+La perpetuación por el futuro pronosticable de una plaga dentro de un área luego de su ingreso.
+
+EVALUACION DEL RIESGO DE PLAGA
+Determinación de si una plaga es una plaga cuarentenaria y evaluación de su potencial de introducción.
+
+INGRESO (de una plaga)
+
+Movimiento de una plaga dentro de un área donde no esta todavía presente, o estándolo no se encuentra ampliamente distribuida y esta oficialmente controlada.
+
+MANEJO DEL RIESGO DE PLAGA
+El proceso de toma de decisión para reducir el riesgo de introducción y establecimiento de una plaga cuarentenaria .
+
+OFICIAL
+
+Establecido, autorizado o realizado por una Organización Nacional de Protección Fitosanitaria
+
+ORGANIZACION NACIONAL DE PROTECClON FITOSANITARIA
+Servicio oficial establecido por un Gobierno, encargado de las funciones especificadas por la CIPF.
+
+ONPF
+Abreviación para Organización Nacional de Protección Fitosanitaria.
+
+PLAGA
+Cualquier especie, raza o biotipo de vegetales, animales o agentes patogenicos, nocivos para los vegetales o productos vegetales.
+
+PLAGA CUARENTENARIA
+
+Una plaga de importancia económica potencial para el área en peligro por la misma y donde aun no se encuentra presente, o si presente no se encuentra ampliamente distribuida y esta siendo oficialmente controlada .
+
+POTENCIAL DE ESTABLECIMIENTO
+Probabilidad de establecimiento de una plaga
+
+POTENCIAL DE INGRESO
+Posibilidad de ingreso de una plaga
+
+POTENCIAL DE DISPERSION
+Probabilidad de dispersión de una plaga
+
+REGLAMENTACION FITOSANITARIA
+
+Reglas oficiales para prevenir la introducción y/o dispersión de plagas cuarentenarias, mediante la reglamentación de la producción, del movimiento o existencia de productos u otros artículos, o de la actividad normal de las personas, y del establecimiento de esquemas para la certificación fitosanitaria.
+
+RELEVAMIENTO DE DELIMITACION
+Un relevamiento conducido para establecer los límites de un área considerada como infestada por o libre de, una plaga
+
+RELEVAMIENTO DE DETECCION
+Un relevamiento conducido en un área para determinar si hay plagas presentes.
+
+CAMPO
+
+Una parcela de tierra con limites definidos dentro de un lugar de producción en la cual un producto es cultivado.
+
+INSPECION DE CAMPO
+
+Inspección de vegetales en un campo durante la estación de crecimiento.
+
+ENCONTRADO LIBRE
+
+El resultado de inspeccionar un embarque, campo o lugar de producción, y considerarlo libre de una plaga específica.
+
+LIBRE DE
+
+Aplicase a un embarque, campo, o lugar de producción, sin plagas (o plagas específicas) en número o cantidades que pueden ser detectadas por la aplicación de procedimientos fitosanitarios.
+
+ESTACION DE CRECIMIENTO
+
+Período del año durante el cual los vegetales están creciendo activamente en un área
+
+INSPECCION EN LA ESTACION DE CRECIMIENTO
+
+Ver Inspección de campo.
+
+VECINDAD INMEDIATA
+
+Campos adyacentes a un campo, o lugares de producción, adyacentes a un campo de producción.
+
+OCURRENClA
+
+La presencia en un área de una plaga oficialmente reconocida como indígena o, introducida y no reportada oficialmente como que ha sido erradicada.
+
+LUGAR DE PRODUCCION
+
+Cualquier establecimiento o conjunto de campos operados como una sola unidad de producción o cultivo.
+
+
+4.- DESCRlPClON
+
+Una área libre de plagas es un área en Ia que una plaga específica no ocurre como es demostrado por la evidencia científica y en la que, cuando es apropiado esta condición esta siendo oficialmente mantenida.
+
+Un área libre de plagas puede ser:
+
+- un país entero
+- la parte no infestada de un país, en el que se presenta un área infestada limitada.
+-la parte no infestada de un país dentro de un área generalmente (o posiblemente) infestada.
+
+El establecimiento y suo de ALP posibilita esencialmente el movimiento de vegtales y/o procductos vegetales desde esta área sin necesidad de aplicar medidas fitosanitarias adicionles, cuando se cumplen ciertos requisitos. En principio, los requisitos para el establecimiento y suo de ALPs como medida fitosanitaria puede incluir:
+
+-relevamientos (deleitación, detección, monitoreo)
+- Controles reglamentarios
+- auditoría (revisión y evaluación)
+- documentación (informes, planes de trabajo)
+
+II.- REQUlSITOS GENERALES PARA LAS AREAS LIBRES DE PLAGAS
+
+1.- EXTENSION GEOGRAFICA
+
+      Una ALP puede ser definida, en principio, en cualquier escala, siendo relevante la biología de la plaga cuarentenaria de preocupación. Una ALP debe estar identificada por fronteras políticas reconocidas (por ej. Ias fronteras del país) y por factores como ríos, cadenas montañosas, rutas, o límites de propiedades que son claros para todas las partes.
+
+
+2. PAIS ENTERO
+
+      En este caso, país libre de una plaga específica se aplica a una entidad política sobre la que la Organización Nacional de Protección Fitosanitaria tiene responsabilidad. Pueden ser usados dos sistemas para suministrar garantías:
+
+2.1. La ausencia de la plaga es verificada por un relevamiento de detección oficial
+
+      Cuando la declaración "ausencia de la plaga verificada" es suministrada por una ONPF, sus bases pueden ser descriptas con mas detalle en discusiones bilaterales a solicitud del país importador.
+Esto debe incluir:
+
+2.1.1 Relevamientos:
+
+      Un relevamiento oficial de detección debe ser realizado en forma tal que pueda detectar la plaga a un nivel definido, y opcionalmente puede ser seguido por relevamientos de monitoreo.
+
+Esto también puede incluir:
+
+2.1.2 Controles reglamentarios:
+      Estos pueden consistir en reglamentaciones fitosanitarias del país que se declara libre de la plaga para prevenir la introducción de la misma con controles de cumplimiento asociados en los puntos de ingreso.
+
+2.1.3 Auditoria/Documentación:
+      Esto puede incluir evidencia en apoyo de los resultados de los relevamientos oficiales, de las reglamentaciones fitosanitarias, información sobre la ONPF, y toda otra información que pueda ser requerida en apoyo de la declaración "ausencia de la indicada" (el punto 2.2 siguiente).
+
+2.2.La ausencia de la plaga es indicada por la ausencia de registros oficiales o publicados
+
+      Cuando la declaración "ausencia de la plaga indicada" es suministrada por una ONPF la misma puede ser descrita con mas detalle en discusiones bilaterales a solicitud del país importador. Debe existir un fundamento definido para esta declaración, por ej. la revisión bibliográfica, informaciones con mapas de distribución internacional, banco de datos internacionales etc.
+
+3- PARTE NO INFESTADA DE UN PAIS EN EL QUE OCURRE UN AREA INFESTADA LlMlTADA
+
+      En este caso la distribución de la plaga está limitada a una parte del país, como lo establece la ONPF. Se utilizan controles oficiales para contener y suprimir la población de la plaga. Cuando la declaración "área libre de plaga" es suministrada por una ONPF sus bases pueden ser descritas en discusiones bilaterales a solicitud del país importador. Estas pueden incluir:
+
+3.1. Relevamiento
+
+      Un relevamiento oficial de delimitación para determinar la extensión de la infestación. Adicionalmente, un relevamiento oficial de detección puede ser requerido para el área no infestada, de manera que pueda detectar la plaga a un nivel definido.
+
+3 2 Controles reglamentarios
+
+      Un ejemplo de estos son las reglamentaciones fitosanitarias para prevenir la introducción de la plaga en el área no infestada, con los controles de cumplimiento asociados en los puntos de ingreso. También pueden ser requeridas reglamentaciones fitosanitarias para el movimiento del material de los hospederos desde el área infestada hacia el área no infestada a los efectos de prevenir la dispersión artificial de la plaga.
+
+3.3.- Auditoria/Documentación
+
+      Incluye por ej. evidencia en apoyo de los controles oficiales tales como los resultados de relevamientos, las reglamentaciones fitosanitarias e información sobre a ONPF.
+
+      El status "ausencia de la plaga indicada" (ver punto 2.2) puede ser aplicado si corresponde, a Ia parte no infestada de un país en el que ocurre un área infestada limitada.
+
+4. PARTE NO INFESTADA DE UN PAIS SITUADA DENTRO DE UN AREA INFESTADA
+
+      Este tipo de ALP se aplica a un área, dentro de un área Infestada, en la que se ha establecido la ausencia de la plaga y se mantiene, de manera que un país exportador puede utilizar este status como base para la certificación fitosanitaria de vegetales o productos vegetales.
+
+      En ciertos casos una ALP puede ser establecida dentro de un área cuyo estado de infestacion no ha sido verificado. En tales casos, el área que la rodea se considera como infestada para propósitos prácticos.
+
+      Cuando la declaración "área libre de plagas" es suministrada por una ONPF sus bases pueden ser descritas en discusiones bilaterales a solicitud del país importador.
+
+      Esto debe incluir:
+
+4.1.- Relevamientos:
+
+Estos deben incluir relevamientos de delimitación y monitoreo.
+
+y pueden incluir:
+
+4.2. - Controles reglamentarios
+
+      Cuando se solicita debe alcanzarse un acuerdo entre las ONPFs involucradas en los controles reglamentarios, para asegurar el mantenimiento del estado del área libre de plaga. Las ONPFs requieren disponer de la autoridad legal apropiada para ejercer controles reglamentarios.
+
+4.3 Auditoria/Documentación
+
+Esto se refiere a la revisión y evaluación de la instrumentación del Acuerdo que puede ser emprendida por la ONPF del país importador.
+
+La documentación, suministra a todas las partes interesadas un claro entendimiento de los términos del acuerdo, su operación y de los resultados esperados.
+
+5. BASES TECNICAS DE LOS REQUISITOS
+
+5.1 Relevamientos
+
+Debe alcanzarse un acuerdo entre dos (o mas) ONPFs involucradas en los detalles técnicos de los procedimientos apropiados de relevamiento. Tales detalles técnicos pueden incluir:
+
+- el nivel de garantía suministrado por el relevamiento
+- métodos de detección, técnicas de muestreo y análisis apropiadas a la biología de la plaga;
+ - duración del relevamiento de acuerdo con la biología de la plaga;
+- factibilidad operacional
+
+5.2 Controles reglamentarios
+
+Los controles reglamentarios para prevenir la dispersión artificial de la plaga pueden incluir el derecho a :
+
+- ingresar;
+- restringir el movimiento de los productos;
+- restringir el movimiento de embarques,
+-inspeccionar;
+-comisar;
+-establecer cuarentenas:
+-tomar acción en el caso de detección de plagas
+
+5.3 Auditoria/Documentación
+
+La documentación debe incluir:
+
+-el acuerdo;
+-plan operativo;
+-resultados del relevamiento;
+-informes de la detección de plagas y de las acciones tomadas;
+-informes de auditorias;
+-certificación fitosanitaria.
+
+Un plan operativo suministra detalles específicos de las actividades requeridas en las operaciones de una ALP, incluyendo los roles y responsabilidades de la CNPF exportadora y de la CNPF exportadora y de los productores e industria de los países exportadores.
+
+
+ESTANDARD REGIONAL FITOSANITARIO
+
+
+SECCION lll -MEDIDAS FITOSANITARIAS
+
+
+3.4 GLOSARIO DE TERMINOS FITOSANITARIOS
+
+
+COMITE REGIONAL DE SANIDAD VEGETAL DEL CONO SUR
+
+
+COSAVE
+
+AGOSTO, 1994
+
+
+OM
+CONTENIDO
+
+REVISION
+APROBACION
+REGISTRO DE MODIFICACIONES
+DISTRIBUCION
+INTRODUCCION
+AMBITO
+REFERENCIAS
+DEFINICIONES Y ABREVIATURAS
+DESCRIPCION
+GLOSARIO
+
+
+REVISION
+
+Este estándar regional fitosanitario de COSAVE está sujeto a revisiones y modificaciones periódicas.
+
+La fecha de la próxima revisión es: noviembre de 1994.
+
+APROBAClON
+
+Este estándar regional fitosanitario fue aprobado en la Vll Reunión del Comité Directivo, agosto de 1994 Brasilia, BRASIL.
+
+COMITE DIRECTIVO DE COSAVE
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este estándar serán numeradas y datadas correlativamente.
+
+Los poseedores del estándar deben asegurarse que todas las modificaciones sean insertadas y las páginas obsoletas sean removidas.
+
+DlSTRlBUClON
+
+Este estándar es distribuido por la Secretaría de Coordinación del COSAVE a todos sus miembros, Organizaciones Regionales de Protección Fitosanitaria, Secretaría de la Convención Internacional de Protección Fitosanitaria-FAO, Secretaría del MERCOSUR y COMITE de Sanidad del MERCOSUR.
+
+-Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+-Secretaría de Defensa Agropecuaria, Brasil.
+-Servicio Agrícola y Ganadero, Chile.
+-Dirección de Defensa Vegetal, Paraguay.
+-Servicio Agrícola, Uruguay.
+-Secretaría de la Convención Internacional de Protección Fitosanitaria-FAO.
+-Asia and Pacific Plant Protection Comission.
+-Caribbean Plan Protection Comission.
+-European and Mediterranean Plant Protection Organization.
+-Inter-African Phytosanitary Council.
+-Junta del Acuerdo de Cartagena.
+-North American Plant Protection Organization.
+-Organismo Internacional Regional de Sanidad Agropecuaria.
+-Secretaría del MERCOSUR.
+-Comité de Sanidad del MERCOSUR.
+
+
+I- INTRODUCCION
+
+1.- AMBITO
+
+Este estándar describe el proceso de elaboración del listado regional de plagas cuarentenarias A1 y A2 para la Región del COSAVE, incluyendo el listado actualizado de estos agentes.
+
+2.- REFERENCIAS
+
+-Glosario FAO de Términos Fitosanitarios, FAO Plant Protection Bulletin 38(1), 1990. Organizacion de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA.
+
+-Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, ITALIA, 1992.
+
+3.- DEFlNlClONES Y ABREVIATURAS.
+
+COSAVE
+
+Comité de Sanidad Vegetal del Cono Sur
+
+CD
+
+Comité Directivo
+
+OFICIAL
+
+Establecido, autorizado o realizado por una Organización Nacional de Protección Fitosanitaria
+
+GTPCV
+
+Grupo de Trabajo Permanente en Cuarentena Vegetal
+
+
+4.- DESCRlPClON
+
+El presente estándar precisa la terminología utilizada en el quehacer cuarentenario, con el fin de posibilitar la armonización de las medidas fitosanitarias aplicadas al intercambio regional de vegetales y productos vegetales.
+
+GLOSARIO DE TERMINOS FITOSANITARIOS
+
+DECLARACION ADICIONAL
+Cláusula cuya exclusión en el Certificado fitosanitario es requerida por el país importador y la cual suministra información adicional especifica en relación con la fitosanitaria del embarque
+
+AREA:
+Un país, parte de un país o partes de varios países definidos oficialmente.
+
+AREA EN PELIGRO:
+
+Un área donde los factores ecológicos favorecen el establecimiento de una plaga cuya presencia en ella pueden derivar en pérdidas económicas importantes.
+
+BULBOS Y TUBERCULOS
+Organos vegetales subterráneos latentes destinados a plantación
+
+CERTIFICADO
+Documento oficial que certifica la condición fitosanitaria de cualquier embarque sujeto a reglamentación fitosanitaria.
+
+APROBACION (de un embarque)
+
+Verificación del cumplimiento de las reglamentaciones fitosanitarias
+
+PRODUCTO
+
+Mercancía, tipo de vegetal producto vegetal, u otro artículo regulado que esta siendo movilizado por razones comerciales u otros propósitos
+
+CLASE DE PRODUCTO
+
+Categoría de productos similares que; pueden ser considerados conjuntamente en las reglamentaciones fitosanitarias
+
+EMBARQUE
+
+Cantidad de vegetales, productos vegetales y/o otros artículos regulados movilizados desde un país a otro y amparados por un solo certificado fitosanitario (un embarque puede estar compuesto por uno o mas lotes)
+
+CONTENCION
+La aplicación de medidas fitosanitarias en y alrededor de un área infestada para prevenir la dispersión de una plaga.
+
+CONTROL (de una plaga)
+
+Contención, supresión o erradicación de una población plaga
+
+PAIS DE ORIGEN (*)
+
+País donde un embarque de vegetales fue cultivado
+
+PAIS DE RE-EXPORTACION(*)
+
+País a través e que un embarque de vegetales paso y fue dividido, almacenado o re-empacado
+
+PAIS DE TRANSlTO (*)
+
+País a través del cual un embarque de vegetales, paso sin ser dividido, almacenado o re-empacado, sin haber sido expuesto a contaminación por plagas en ese país.
+
+RAMAS Y FLORES CORTADAS
+
+Partes frescas de vegetales destinadas al uso decorativo y no a la plantación.
+
+DESCORTEZADO
+
+Remoción de la corteza de la madera redonda (el descortezado no necesariamente deja a la madera libre de corteza).
+
+RELEVAMlENTO DE DELIMITACION
+
+Un relevamiento conducido para establecer los límites de un área considerada como infestada por o libre de, una plaga.
+
+RELEVAMIENTO DE DETECCION
+
+Un relevamiento conducido en un área para determinar si hay plagas presentes
+
+DETENCION
+
+Mantener un embarque bajo custodia oficial o confinamiento por razones fitosanitarias
+
+MADERA DE ESTIBA
+
+Madera usada para separar o sostener cargas
+INGRESO (de un embarque)
+
+Entrada en un área a través de un punto de ingreso.
+
+POTENCIAL DE INGRESO
+
+Probabilidad de ingreso de una plaga
+
+INGRESO (de una plaga)
+
+Movimiento de una plaga dentro de un área donde no esta todavía presente o estándolo no se encuentra ampliamente distribuida, esta oficialmente controlada
+
+EQUIVALENCIA
+
+La situación de medidas fitosanitarias que no son idénticas pero que tienen el mismo efecto
+
+ERRADICACION
+
+La aplicación de medidas fitosanitarias para eliminar una plaga dentro de un área luego de su ingreso
+
+ESTABLECIMIENTO
+
+La perpetuación por el futuro pronosticado de una plaga luego de su ingreso.
+
+(a)PLAGA CUARENTENARIA A1
+
+Una plaga de importancia económica potencial para el area en peligro por la misma y donde aun no se encuentra presente.
+
+(a)PLAGA CUARENTENARIA A2
+
+Una plaga de importancia económica potencial para el area en peligro por la misma donde aun no se encuentra ampliamente distribuida y esta siendo oficialmente controlada.
+
+POTENCIAL DE ESTABLECIMIENTO
+
+Probabilidad de establecimiento de una plaga.
+
+CAMPO
+
+Una parcela de tierra con límites definidos dentro de un lugar de producción en la cual un producto es cultivado
+
+INSPECCION DE CAMPO
+
+Inspección de vegetales en un campo durante la estación de crecimiento
+
+ENCONTRADO LIBRE
+
+El resultado de inspeccionar un embarque, campo o lugar de producción, y considerarlo libre de una plaga especifica
+
+LIBRE DE
+
+Aplicase a un embarque, campo o lugar de producción, sin plagas (o plagas específicas) en número o cantidades que pueden ser detectadas por la aplicación de procedimientos fitosanitarios.
+
+FRESCO
+
+Vivo; no desecado congelado o conservado de otra manera.
+
+FRUTAS Y HORTALIZAS
+
+Partes frescas de vegetales destinadas al consumo o al procesamiento
+
+FUMIGACION
+
+Tratamiento con un agente químico que alcanza a producto completamente o primariamente un estado gaseoso.
+
+GERMOPLASMA
+Vegentales destinados para utilizar el programa de mejoramiento o concervasión
+GRANO
+
+Semillas destinadas al procesamiento o consumo y no para plantación (vea semillas).
+
+MEDIO DE CRECIMIENTO
+
+Cualquier material en el cual estan creciendo raices de vegetales o destinadoa ese proposito.
+
+ESTACION DE CRECIMIENTO
+
+Período del año durante el cual lo vegetales estan creciendo activamente en un área.
+
+INSPECCION EN LA ESTACION DE CRECIMIENTO
+
+Ver Inspección de campo.
+
+ARMONIZACION
+
+El desarrollo, reconocimiento y aplicación por diferentes países de medidas fitosanitarias, basadas en estandares comunes.
+
+RANGO DE HOSPEDEROS
+
+Las especies de vegetales capaces, bajo condiciones naturales, de sostener una plaga específica
+
+VECINDAD INMEDIATA
+
+Campos adyacentes a un campo o lugares de producción adyacentes a un campo de producción
+
+PERMISO DE IMPORTACION
+
+Documento oficial autorizando la importación de un producto de acuerdo con los requisitos fitosanitarios especificados.
+
+INSPECCION
+
+Examen visual oficial de vegetales, productos vegetales u otros artículos regulados para determinar si las plagas estan presentes y/o para determinar el cumplimiento de las reglamentaciones fitosanitarias
+
+INSPECTOR
+
+Persona autorizada por una Organización Nacional de Protección Fitosanitaria para realizar sus funciones.
+
+INTERCEPCION (de un embarque)
+
+El rechazo o ingreso controlado de un embarque importado debido a incumplimiento de las reglamentaciones fitosanitarias.
+
+INTERCEPCION (de una plaga)
+
+La detección de una plaga durante la inspección de un embarque importado
+
+INTRODUCCION
+
+Ingreso de una plaga que resulta en su establecimiento .
+
+POTENCIAL DE INTRODUCCION
+
+Probabilidad de introducción de una plaga.
+
+CIPF
+
+Abreviación para la Convención Internacional de Protección fitosanitarial, como depositada en la FAO, en Roma en 1951 y sus modificaciones posteriores.
+
+LOTE
+
+Un número de unidades de un solo producto identificable por su homogeneidad de composición, origen, etc, formando parte de un embarque.
+
+ORGANIZACION NACIONAL DE PROTECClON FITOSANITARIA
+Servicio oficial establecido por un Gobierno, encargado de las funciones especificadas por la CIPF.
+
+PLAGA NO CUARENTENARIA
+Una plaga que no es una plaga cuarentenaria para un área
+
+ONPF
+Abreviación para Organización Nacional de Protección Fitosanitaria
+
+OCURRENCIA
+La presencia en un área de una plaga oficialmente reconocida como indigena o introducida y no reportada oficialmente como que no ha sido erradicada.
+
+OFICIAL
+
+Establecido, autorizado o realizado por una Organización Nacional de Protección Fltosanitaria
+
+FOCO
+Una población plaga aislada recientemente detectada que se espera sobreviva en el futuro inmediato
+
+VIA
+Cualquier medio que permite la entrada o dispersión de una plaga.
+
+PLAGA
+Cualquier especie, raza o biotipo de vegetales, animales o agentes patogénicos, nocivos para los vegetales o productos vegetales.
+
+AREA LIBRE DE PLAGA
+Un área en la cual una plaga específica no ocurre como lo demuestra la evidencia científica y en la cual, cuando apropiado, esta condicion esta siendo oficialmente mantenida.
+
+ANALISIS DE RIESGO DE PLAGA
+Estimación del riesgo de plaga y del manejo del riesgo de plaga.
+
+EVALUACION DEL RIESGO DE PLAGA
+Determinación de si una plaga es una plaga cuarentenaria y evaluación de su potencial de introducción.
+
+MANEJO DEL RIESGO DE PLAGA
+El proceso de toma de decisión para reducir el riesgo de introducción y establecimiento de una plaga cuarentenaria .
+
+FITOSANITARIO
+Perteneciente a la cuarentena vegetal
+
+CERTIFICADO FlTOSANlTARIO
+
+Un certificado diseñado según el modelo de certificado de la CIPF
+
+CERTlFlCAClON  FITOSANITARIA
+
+El uso de procedimientos fitosanitarios conducentes a la expedición de un certificado fitosanitario
+
+LEGISLACION FITOSANITARIA
+
+Leyes básicas que dan a una Organización Nacional de Protección Fitosanitaria la autoridad legal para establecer regulaciones fitosanitarias
+
+MEDIDA FITOSANITARIA
+
+Cualquier leglslación, reglamentación o procedimiento oficial que tenga el proposito de prevenir la introducción y/o dispersión de plagas cuarentenarias.
+
+PROCEDlMIENTO FITOSANITARIO
+
+Cualquier metodo oficialmente presenta realizar inspecciones,. Pruebas,. relevamientos o tratamientos en relación con la cuarentena vegetal.
+
+REGLAMENTACION FITOSANITARIA
+
+Reglas oficiales para prevenir la introducción y/o dispersión de plagas cuarentenarias, mediante la reglamentación de la producción, del movimiento o existencia de productos u otros artículos, o de la actividad normal de las personas, y del establecimiento de esquemas para la certificación fitosanitaria.
+
+LUGAR DE PRODUCCION
+
+Cualquier establecimiento o conjunto de campos operados como una sola unidad de producción o cultivo.
+
+PLAGA VEGETAL
+
+Vea plaga
+
+PRODUCTO VEGETAL
+
+Material no manufacturado de origen vegetal (incluyendo granos) y aquellos productos manufacturados que, por su naturaleza o la de su procesamiento, pueden crear un riesgo de dispersión de plagas.
+
+ORGANIZACION DE PROTECCION FITOSANITARIA
+
+Vea Organización Nacional de Protección Vegetal.
+
+CUARENTENA VEGETAL
+
+Todas las actividades destinadas a prevenlr la introducción y/o dispersión de plagas cuarentenarias o para asegurar su control oficial.
+
+PLANTAClON (incluyendo REPLANTACION)
+
+Cualquieras de las operaciones para colocar vegetales en un medio de crecimiento para asegurar su subsecuente crecimiento reproducción o propagación
+
+VEGETALES
+
+Plantas vivas y sus partes, incluyendo semillas
+
+VEGETALES PARA PLANTACION
+
+Vegetales destinados a permanecer plantados, a ser plantados o replantados.
+
+VEGETALES EN CULTIVO DE TEJIDO
+
+Vegetales en un rnedio aséptico claro confinados en un contenedor transparente.
+
+PUNTO DE INGRESO
+Aeropuertos, puertos o pasos de frontera oficialmente destinados para Ia importación de embarques y/o la entrada de pasajeros.
+
+CUARENTENA DE POST-ENTRADA
+
+Cuarentena aplicada a un embarque después del ingreso
+ALP
+Abreviación para Area Libre de Plaga
+ARP
+
+Abreviación para análisis de riesgo de plaga
+
+PRACTICAMENTE LIBRE
+
+Aplicase a un embarque, campo o lugar de producción, sin plagas (o una plaga específica) en números que excedan a las que se espera que resulten, de la aplicación de buenas prácticas agrícolas y de manipulación, empleadas en la producción y comercialización del producto.
+
+APROBACION PRE-EMBARQUE
+
+Certificación fitosanitaria y/o aprobación en el país de origen, realizado por o bajo la supervisión regular de la organización ;de protección fitosanitaria del país de destino.
+
+PROHIBICION
+
+Una reglamentación fitosanitaria prohibiendo la importación o movimiento de plagas o productos especificados.
+
+MATERIAL DE PROPAGACION
+
+Ver vegetales para plantación
+
+CUARENTENA
+
+Confinamiento oficial de vegetales o productos vegetales sujetos a reglamentaciones fitosanitarias para observación e investigación o para futura inspección, prueba y/o tratamiento.
+
+AREA DE CUARENTENA
+
+un área dentro de la cual una plaga cuarentenaria esia presente y esta siendo oficialmente controlada
+
+PLAGA CUARENTENARIA
+
+Una plaga de importancia económica potencial para el área en peligro por la misma y donde aun no se encuentra presente, o si presente no se encuentra ampliamente distribuida y esta siendo oficialmente controlada.
+
+PROCEDIMIENTO CUARENTENARIO
+
+Vea procedimiento fitosanitario
+ESTACION CUARENTENARIA
+
+Estación oficial para mantener vegetales o productos vegetales en cuarentena.
+
+RECHAZO
+
+Prohibición del ingreso de un embarque u otros artículos regulados cuando fallan en cumplir con las reglamentaciones fitosanitarias.
+
+REGION
+
+Los territorios combinados de los países miembros de una Organización Regional de Protección Fitosanitaria.
+
+ORGANIZACION REGIONAL DE PROTECCION FITOSANITARIA
+
+Una organización intergubernamental con las funciones establecidas en el Artículo Vlll de la CIPF.
+
+ARTICULO REGLAMENTADO
+
+Cualquier lugar de almacenaje, medio de transporte, contenedor o cualquier olro objeto o material capaz de albergar o dispersar plagas vegetales, particularmente cuando se involucra el transporte internacional.
+
+LIBERACION (de un embarque)
+
+Autorización para ingreso luego de su aprobación.
+
+REPLANTACION
+
+Vea Plantación
+
+ROLLIZOS O TROZAS
+
+Madera no aserrada longitudinalmente presentando su superficie natural redondeada, con o sin corteza.
+
+ORPF
+
+Abreviación para Organización Regional de Protección Fitosanitaria
+
+MADERA ASERRADA
+
+Madera aserrada longitudinalmente, con o sin su superficie natural redondeada con o sin corteza.
+
+SEMILLAS
+
+Semillas para plantación, no para consumo ni procesamiento (ver granos)
+
+DISPERSION
+
+Expansión de la distribución geográfica de una plaga dentro de un área.
+
+POTENCIAL DE DISPERSION
+
+Probabilidad de dispersión de una plaga
+
+ESTANDAR
+
+Documento establecido por consenso y aprobado por un cuerpo de espertos, que suministra, para uso común y repetido, reglas, lineamientos o características para actividades o sus resultados, con el proposito de alcanzar el grado optimo de orden en un contexto dado. (ISO/IEC Guide 2:1991 definition)
+
+PRODUCTOS ALMACENADOS
+
+Productos vegetales no manufacturados, destinados para consumo o procesamiento, almacenados en forma seca (esto incluye en particular granos, frutos y hortalizas secas).
+
+SUPRESION
+La aplicación de medidas fitosanitarias en un área infestada para reducir la población de plagas y consecuentemente limitar su dispersión .
+
+RELEVAMIENTO
+
+Procedimiento oficial metódico para determinar las características de una población plaga o para determinar que especies ocurren en un área.
+
+ANALISIS
+
+Examen oficial, otro que visual, para determinar se están presentes plagas o para identificar plagas
+
+CULTIVO DE TEJIDOS
+
+Vea vegetales en cultivo de tejidos
+
+TRANSITO
+
+Vea País de tránsito
+
+TRANSPARENCIA
+
+El principio de hacer disponibles a nivel internacional Ias medidas fitosanitarias y su fundamento.
+
+TRATAMlENTO
+
+Procedimiento oficialmente autorizado para matar, remover o hacer infertiles las plagas
+
+MADERA
+
+Trozas o rollizos, madera aserrada astillas o material de estiba, con o sin corteza
+
+(a)AREA PROTEGIDA
+
+Mínima político-administrativa, o su parte que posibilita la efectiva aplicación de las medidas fitosanitarias necesarias para proteger un area en peligro en relación con la biología de la plaga y consistente con el ARP desarrollado.
+
+(a)PLAGA DE CALIDAD O PLAGA NOCIVA
+
+Plaga no cuarentenaria que afecta directamente el uso propuesto de los vegetales o productos vegetales.
+
+(a)USO PROPUESTO
+
+Destino final del vegetal, o su parte, que puede ser la propagación, el consumo, la transformación o la industrialización.
+
+(a)CATEGORlA DE RIESGO FlTOSANlTARIO
+
+Clasificación de los vegetales y productos vegetales en relación a su riesgo fitosanitario en función de su nivel de procesamiento, forma de presentación y uso propuesto.
+
+(a)NOMENCLADOR CUARENTENARIO
+
+Listado codificado de vegetales o productos vegetales sujetos a medidas fitosanitarias, segun genero y especie, parte, presentación, uso propuesto, clase y categoría de riesgo fitosanitario
+
+
+(a)Términos no incluidos en el Glosario FAO.
+
+
+ESTANDAR REGIONAL FITOSANITARIO
+
+
+SECCION Vll - PROCEDIMIENTOS Y METODOS ANALITICOS
+
+
+7.1 - ACREDITACION DE LABORATORIOS DE
+DIAGNOSTICO FITOSANITARIO
+
+
+COMITE REGIONAL DE SANIDAD VEGETAL DEL CONO SUR'
+
+
+COSAVE
+
+AGOSTO, 1994
+
+CONTENIDO
+
+REVISION
+APROBAClON
+REGISTRO DE MODIFICACIONES
+DlSTRIBUClON
+INTRODUCCION
+AMBITO
+REFERENCIAS
+DEFINICIONES Y ABREVIATURAS
+DESCRIPCION
+
+REQUISITOS GENERALEs
+
+1. Bases de sistema
+2. Funcionamiento del sistema
+3. Requisitos para la acreditación
+4. Procedimientos posteriores a la acreditación
+5. Transparencia del sistema
+
+
+REVlSlON
+
+Este estándar regional fitosanitario de COSAVE esta sujeto a revisiones y modificaciones periódicas.
+
+La fecha de la próxima revisión es: noviembre de 1994
+
+APROBACION
+
+Este estándar regional fitosanitario fue aprobado en la Vll Reunión del Comité Directivo, agosto de 1994, Brasilia, BRASlL.
+
+COMITE DIRECTIVO DE COSAVE
+
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este estándar serán numeradas y datadas correlativamente.
+
+Los poseedores del estándar deben asegurarse que todas las modificaciones sean insertadas y las paginas obsoletas sean removidas.
+
+DlSTRlBUClON
+
+Este estándar es distribuido por la Secretaría de Coordinación del COSAVE a:
+
+-Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+-Secretaría de Defensa Agropecuaria, Brasil.
+-Servicio Agricola y Ganadero, Chile.
+-Dirección de Defensa Vegetal, Paraguay.
+-Servicio Agricola, Uruguay.
+-Secretaría del MERCOSUR.
+-Comité de Sanidad del MERCOSUR.
+
+1- INTRODUCClON
+
+1.- AMBITO
+
+Este estándar establece los requisitos generales para la acreditación de Laboratorios de Diagnóstico Fitosanitario de los sectores público y privado, en la Región de los países miembros del COSAVE.
+
+2.- REFERENCIAS
+
+Recomendaciones de la lll Reunión del GTPPMA COSAVE, Mayo 1994, Santiago, CHILE.
+
+3.- DEFINICIONES Y ABREVIATURAS.
+
+OFICIAL
+
+Establecido, autorizado o realizado por una Organización Nacional de Protección Fltosanitaria
+
+ORGANIZACION NACIONAL DE PROTECClON FITOSANITARIA
+Servicio oficial establecido por un Gobierno, encargado de las funciones especificadas por la CIPF.
+
+ONPF
+Abreviación para Organización Nacional de Protección Fitosanitaria.
+
+REGLAMENTACION FITOSANITARIA
+
+Reglas oficiales para prevenir la introducción y/o dispersión de plagas cuarentenarias, mediante la reglamentación de la producción, del movimiento o existencia de productos u otros artículos, o de la actividad normal de las personas, y del establecimiento de esquemas para la certificación fitosanitaria.
+
+GTPPMA
+Abreviatura para Grupo de Trabajo Permanente en Metodos y Procedimientos  Analíticos
+
+
+4. DESCRlPClON
+
+En el marco del proceso de armonización fitosanitaria regional emprendido, la participación de laboratorios de diagnóstico confiables constituye un pre-requisito para el procedimiento de certificacion fitosanitaria.
+
+Es previsible que en el futuro próximo ciertos componentes del sistema fitosanitario puedan ser ejecutados por el sector privado. Para ello es imprescindible disponer de estándares que especifiquen en forma inequívoca las condiciones y responsabilidades de los agentes involucrados en el proceso de certificación, permitiendo una adecuada auditoría por parte del sector oficial, cuando corresponda.
+
+La puesta en práctica de los requisitos generales consignados en este estandar permitir:
+- Instrumentar un sistema de acreditación regional de laboratorios de diagnóstico fitosianitario, el que posibilitara aceptar y reconocer como validos los resultados de los laboratorios públicos y privados que integran el sistema, eliminando la necesidad de los análisis duplicados.
+
+- reducir los costos operativos de las ONPFs y agilizar el comercio regional;
+
+- posibilitar un aprovechamiento integral de la capacidad instalada de laboratorios de diagnóstico fitosanitarios en la Región, evitando la duplicación de estructuras, equipamientos y capacidades técnicas;
+
+- desarrollar mecanismos de cooperación horizontal entre los países miembros, que contribuyan a eliminar las asimetrías existentes en materias de capacidad de diagnóstico de las ONPFs.
+
+II. REQUISITOS GENERALES
+
+1.- Bases del sistema
+
+Para ser acreditado oficialmente por COSAVE, los laboratorios de diagnóstico fitosanitario interesados, deberán cumplir con los requisitos que se establezcan en relacion a:
+
+- organización e infraestructura
+- calificación del personal técnico
+- mecanismos de control y garantías de calidad
+
+El sistema de Laboratorios de diagnóstico fitosanitario acreditados incluirá:
+
+- Laboratorios oficiales: los pertenecientes a las ONPFs.
+- Laboratorios reconocidos: los pertenecientes a otras organizaciones del sector gubernamental  o del sector privado que soliciten y obtengan su acreditación
+- Laboratorios de referencia: los que serán designados entre los acreditados por su capacidad técnica a nivel regional y extra-regional.
+
+2.- Funcionamiento del sistema
+
+La estructura funcional del sistema estará conformada por:
+
+- las ONPFs como avales del misrno dentro de sus respectivos territorios;
+- el COSAVE como unidad registrante regional de aquellos laboratorios cuya solicitud de ingreso al sistema sea aprobada;
+- el GTP-PMA como unidad auditora y evaluadora del sistema;
+- los Laboratorios de referencia como entidades auditoras a requerimiento de COSAVE.
+
+La instancia registrante regional (COSAVE) será la responsable de conceder la acreditación oficial, a nivel regional, a quienes cumplan con los requisitos establecidos y de coordinar los procedimientos administrativos del sistema.
+
+Las CNPFs serán responsables por registrar, a nivel nacional, los laboratorios diagnósticos, avalar las solicitudes de registro regional de entidades que la soliciten y auditar a nivel nacional el cumplimiento del sistema.
+
+El GTP-PMA será la unidad técnica auditora y evaluadora del sistema a nivel regional y será responsable de:'
+
+- verificar y evaluar el cumplimiento de los requisitos exigidos tanto para el ingreso al sistema como el funcionamiento del mismo,
+- auditar ia confiabilidad de los resultados emitidos por los laboratorios acreditados.
+
+Los Laboratorlos acreditados serán responsables de:
+
+- cumplir fielmente con los objetivos y normativas del sistema;
+- Informar sobre cualquier variación de las condiciones de funcionamiento declaradas aI momento de su registro;
+- brindar, cuando le sea solicitado, la información y facilidades necesarias para su auditoria;
+- contar con personería jurídica;
+- abonar los costos derivados de su participación en el sistema.
+
+Los Laboratorios de referencia, designados por COSAVE, brindarán sus servicios para realizar las auditorias correspondientes.
+
+3.- Requisitos para la acreditación
+
+Exigencias generales:
+
+Los laboratorios interesados en obtener la acreditación de COSAVE deberán:
+
+- proporcionar toda la información que se les solicite;
+- permitir y brindar las facilidades necesarias para sus auditorias;
+- presentar declaración jurada, debidamente legalizada donde se exprese que asume la responsabilidad de todos sus actos.
+
+Solicitud y evaluación
+
+En la solicitud para su acreditación regional, los laboratorios interesados deberán proporcionar todos los detalles que permitan conocer los recursos humanos y materiales disponibles, su organización, funcionamiento y capacidad operativa.
+
+La solicitud será evaluada por el GTP-PMA, que informará sobre el grado de cumplimiento de los requisitos por parte del solicitante o laboratorio acreditado según corresponda. En particular se prestará especial atención a:
+
+- relaciones industriales, comerciales y profesional del laboratorio solocitante;
+- la real capacidad técnica-operativa del mismo.
+
+4.- Procedimientos posteriores a la acreditación
+
+Los Laboratorios acreditados deberán:
+
+- mantener la infraestructura declarada en su solicitud, notificando los cambios;
+- notificar los cambios en el equipo técnico-profesional;
+- mantener los procesos de operación y control de calidad en el nivel aceptado;
+- notificar cualquier cambio en los signatarios formales de los informes de diagnóstico;
+- abonar oportunamente los costos de su participación.
+
+5.- Transparencia del sistema
+
+A fin de asegurar la transparencia del sistema, se practicarán dos tipos de auditorias a los laboratorios acreditados:
+
+- auditorias ordinarias:evaluación periódica del funcionamiento de las entidades acreditadas mediante la acción de la propia organización de COSAVE o con el concurso de laboratorios de referencia designados por COSAVE, que incluye, entre otras prácticas, un sistema cruzado de diagnóstico de muestras estándares o ciegas;
+
+- auditorias extraordinarias: generadas ante la constatación de posibles discrepancias, desvío de funciones para las que el Laboratorio fue acreditado o denuncias de posibles incumplimientos de las entidades acreditadas, que se realizarán mediante la propia organización del COSAVE a través de entidades de referencia.
+
+En función del resultado de estas auditorias, el COSAVE podrá decidir mantener, suspender o cancelar los registros.
+
+
+60

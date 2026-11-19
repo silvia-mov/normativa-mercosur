@@ -1,0 +1,528 @@
+Resolución GMC N° 33/21
+Título: DISPOSICIONES SOBRE EL SERVICIO MÓVIL MARÍTIMO EN LA BANDA DE VHF (MODIFICACIÓN DE LA RESOLUCIÓN GMC Nº 30/98)
+Fecha de aprobación: 02/03/2022
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 88129_RES_033-2021_ES_ Dispos Serv móvil marítimo.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4222).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 33/21
+
+DISPOSICIONES SOBRE EL SERVICIO MÓVIL MARÍTIMO EN LA BANDA DE VHF
+(MODIFICACIÓN DE LA RESOLUCIÓN GMC Nº 30/98)
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 30/98 y 26/19 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Resolución GMC Nº 30/98 aprobó las "Disposiciones sobre el Servicio Móvil Marítimo en la Banda de VHF" y facultó al Subgrupo de Trabajo Nº 1 "Comunicaciones" (SGT N° 1) a mantener actualizadas dichas Disposiciones, de acuerdo al Reglamento de Radiocomunicaciones (RR) de la Unión Internacional de Telecomunicaciones (UIT).
+
+Que la Resolución GMC Nº 26/19 actualizó la mencionada norma de acuerdo a las modificaciones introducidas al RR por las Conferencias Mundiales de Radiocomunicaciones de 2012 y 2015 de la UIT.
+
+Que, en función de las modificaciones introducidas por la Conferencia Mundial de Radiocomunicaciones de 2019 al Apéndice 18 "Cuadro de frecuencias de transmisión en la banda de ondas métricas (VHF) del móvil marítimo" del RR se hace necesario actualizar las disposiciones correspondientes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 -  Sustituir los Anexos I y II de la Resolución GMC Nº 30/98 por los Anexos I y II de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo N° 1 "Comunicaciones" (SGT N° 1) los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Derogar el artículo 2 de la Resolución GMC N° 26/19.
+
+Art. 4 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 29/VIII/2022.
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 02/III/22.
+
+
+ANEXO I
+
+CLASIFICACIÓN Y USO MERCOSUR
+
+N° de Canal
+Tx
+Sx ó Dx
+Argentina
+Brasil
+Paraguay
+Uruguay
+60
+Dx
+OP - MB - CP
+(3)
+01
+Dx
+OP - MB - CP
+(3)
+61
+Dx
+OP - MB - CP
+(3)
+02
+Dx
+OP - MB - CP
+(3)
+62
+Dx
+OP - MB - CP
+(3)
+03
+Dx
+OP - MB - CP
+(3)
+63
+Dx
+OP - MB - CP
+(3)
+04
+Dx
+OP - MB - CP
+(3)
+64
+Dx
+OP - MB - CP
+(3)
+05
+Dx
+OP - MB - CP
+Transporte Fluvial
+
+(3)
+Transporte Fluvial
+65
+Dx
+OP - MB - CP
+(3)
+06
+Sx
+EB
+EB
+2006
+SX
+EB
+(12A)
+66
+Dx
+OP - MB
+(10) (4)
+07
+Dx
+OP -MB -CP
+Transportes Marítimos
+(3)
+Armada
+ANCAP
+67
+Sx
+EB -OP -MB
+ (2)
+OP
+OP
+(2)
+08
+Sx
+EB
+EB
+68
+Sx
+OP - MB
+Empresas Petroleras
+OP - MB
+PNN Seguridad Boya petrolera
+09
+Sx
+EB - OP - MB
+PNA Argentina - OP
+OP
+PNN Uruguay - OP
+69
+Sx
+EB - OP - MB
+Lanchas Colectivas Pasajeros
+CV - EV
+EB
+Lanchas Colectivas Pasajeros
+10
+Sx
+EB - OP - MB
+ ALTERNO LLAMADA CANAL 16
+70
+Sx
+LLAMADA SELECTIVA DIGITAL PARA SOCORRO, SEGURIDAD Y LLAMADA
+11
+Sx
+OP - MB
+
+OP
+Seguridad PNN
+71
+Sx
+OP - MB
+CLUBES Y EMBARCACIONES DEPORTIVAS
+12
+Sx
+OP - MB
+Seguridad PNA Exclusivo
+OP - MB
+Seguridad
+(1)
+72
+Sx
+EB
+PNA
+CV
+ARMADA
+PNN
+13
+Sx
+EB - OP - MB
+SEGURIDAD DE LA NAVEGACIÓN
+Seguridad PNN
+73
+Sx
+EB - OP - MB
+Transporte Fluvial de Carga
+CV - MB
+MB
+ARMADA Radiofaros.  Este Montevideo
+14
+Sx
+OP - MB
+Seguridad PNA
+Seguridad
+Armada
+(1)
+74
+Sx
+OP - MB
+CLUBES Y EMBARCACIONES DEPORTIVAS
+15
+Sx
+EB - OP - MB
+BOLETINES METEOROLÓGICOS Y AVISOS A LOS NAVEGANTES (2) (9) (10)
+75
+BANDA DE GUARDA 156,7625 - 156,7875 MHz.
+16
+Sx
+SOCORRO, SEGURIDAD Y LLAMADA
+76
+Sx
+BANDA DE GUARDA 156,8125 - 156,8375 MHz
+17
+Sx
+EB - OP  -  MB
+(8) Servicios de Practicaje
+(8)
+77
+Sx
+(8)
+18
+Dx
+OP  -  MB
+Transportes Petroleros
+OP - MB
+Clubes y Embarcaciones Deportivas
+Transportes Petroleros
+78
+Dx
+OP - MB  -  CP
+Clubes y Embarcaciones Deportivas
+CP
+Clubes y Embarcaciones Deportivas
+1078
+Sx
+EB
+(12A)
+2078
+Sx
+OP - MB  -  CP
+Unidireccional Costeras PNN (12B)
+19
+Dx
+OP - MB
+Areneras y Empresas de Dragado
+CV
+Areneras y Empresas de Dragado
+1019
+Sx
+EB
+(12A)
+Embarcaciones Deportivas y de Recreo (12A)
+2019
+Sx
+EB  -  MB
+(12B)
+Clubes y Empresas de Recreo (12B)
+79
+Dx
+OP - MB
+Coordinación entre Armadas Argentina y Uruguay (4)
+(4)
+Coordinación entre Armadas Argentina y Uruguay (4)
+1079
+Sx
+EB
+Practicaje - Remolcadores Río Uruguay (12A)
+(12A)
+Practicaje - Remolcadores Río Uruguay (12A)
+2079
+Sx
+MB  -  OP
+Costeras Practicaje y Remolcadores Río Uruguay (12B)
+(12B)
+Costeras Practicaje y Remolcadores Río Uruguay (12B)
+20
+Dx
+OP  -  MB
+Empresas Remolcadores y Practicaje
+
+Armada
+M.T.O.P. Servicio Hidrográfico
+1020
+Sx
+EB
+Transportes Combustibles (12A)
+2020
+Dx
+MB
+Prioritario, Coord. entre Autoridades Marítimas derrames Hidrocarburos (12B)
+80
+Dx
+OP  -  MB
+(4)
+21
+Dx
+OP  - MB
+Difusión Información de Seguridad Marítima (2) (6)
+CV
+
+Difusión Información de Seguridad Marítima (2) (6)
+81
+Dx
+OP - MB  -  CP
+Control Tráfico Canal Martín García (7)
+CP
+CV
+Control Tráfico Canal Martín García (7)
+22
+Dx
+OP  -  MB
+Administración de Puertos
+CV
+
+Administración de Puertos
+82
+Dx
+OP - MB
+DIFUSIÓN DE INFORMACIÓN DE SEGURIDAD MARÍTIMA (4) (6)
+23
+Dx
+CP
+ (3)
+83
+Dx
+DIFUSIÓN DE INFORMACIÓN DE SEGURIDAD MARÍTIMA (4) (6)
+24
+Dx
+CP
+ (3)
+1024
+Sx
+EB - MB  -  OP
+(12A)
+Areneras y Empresas de Dragado (12A)
+2024
+Sx
+EB -OP  -  MB
+(14)
+84
+Dx
+OP - MB  -  CP
+ (3)
+1084
+Sx
+EB - OP - MB
+(12A)
+Administración Nacional de Puertos (12A)
+2084
+Sx
+EB - OP  -  MB
+(14)
+25
+Dx
+CP
+(3)
+1025
+Sx
+EB - MB
+(12A)
+Armada Nacional - SOHMA - SERBA (12A)
+2025
+Sx
+EB - OP  -  MB
+(14)
+85
+Dx
+CP
+(3)
+1085
+Sx
+EB - OP - MB
+Coordinación entre Armadas Argentina-Uruguay (12A)
+(12A)
+Coordinación entre Armadas Argentina-Uruguay (12A)
+2085
+Sx
+EB - OP  -  MB
+(14)
+26
+Dx
+CP
+(3)
+1026
+Sx
+EB - OP  -  MB
+(12A)
+Actividad Transporte Forestal (12A)
+2026
+Sx
+EB - OP  -  MB
+(12B)
+Empresas Transporte Forestal (12B)
+86
+Dx
+EB - MB
+(4) (11)
+(4)
+(4) (11)
+1086
+Sx
+EB
+(12A)
+Aguas Interiores Río Negro (12A)
+2086
+Sx
+OP  -  MB
+(12B)
+PNN Control Tráfico Marítimo Río Negro (12B)
+27
+Dx
+CP
+ (15)
+1027
+Sx
+EB - OP  -  MB
+Operaciones Portuarias y Comerciales Colonia-Soriano (12A)
+ASM1
+SX
+MB
+
+87
+Dx
+CP
+(3)
+1028
+Sx
+OP  -  MB
+Operaciones Portuarias y Comerciales Paysandú - Río Negro (12A)
+ASM2
+Sx
+MB
+
+88
+Sx
+EB - OP - MB
+(4)
+AIS 1
+Sx
+(13)
+AIS 2
+Sx
+(13A)
+
+
+NOTAS REFERENTES AL CUADRO
+
+(1) En las zonas de los puentes Fray Bentos-Puerto Unzué, Paysandú-Colón y de la Represa de Salto Grande, los canales 12 y 14 serán utilizados por la Prefectura Nacional Naval de Uruguay sólo para comunicaciones de regulación de tránsito fluvial.
+
+(2) Las respectivas Prefecturas Nacionales de Argentina y de Uruguay coordinarán los horarios de emisión.
+
+(3)  Las comunicaciones de correspondencia pública se efectuarán utilizando canales dúplex y de acuerdo a lo establecido en el Artículo 57 del Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones (RR de la la UIT).
+
+(4) Su uso estará sujeto a previa coordinación entre las Administraciones que geográficamente correspondan.
+
+(5) Este canal se explotará en simplex, utilizándose solamente la frecuencia correspondiente a la estación de barco.
+
+(6) Este canal se explotará en simplex unidireccional, utilizándose solamente la frecuencia correspondiente a la estación costera.
+
+(7) Este canal es para uso exclusivo de las Autoridades de Argentina y Uruguay para el Control de Tráfico Marítimo en el Canal Martín García.
+
+(8) Prioritario para coordinación entre Autoridades Marítimas para control de derrames de hidrocarburos.
+
+(9) Este canal podrá ser utilizado para las comunicaciones abordo, cuando no lo esté utilizando la autoridad responsable de la difusión de información de seguridad marítima.
+
+(10) Canal destinado a las autoridades de Control de Tráfico en la Hidrovía Puerto Cáceres - Nueva Palmira. Fuera de esta área de servicio, se utilizará para los fines de correspondencia pública.
+
+(11) Alternativo Canal 81 y para uso exclusivo de las Autoridades de Argentina y Uruguay para el Control de Tráfico Marítimo en el Canal Martín García.
+
+(12A) Se utilizará la frecuencia de transmisión de Barco
+
+(12B) Se utilizará la frecuencia de transmisión de Costera.
+
+(13) Prioritario para operaciones de búsqueda y salvamento. Podrá ser utilizado por aeronaves que participen en operaciones de búsqueda y salvamento.
+
+(13A) Prioritario para operaciones de búsqueda y salvamento.
+
+(14) Para uso en condición analógica y digital hasta la fecha del cese definitivo de la operación analógica que oportunamente se establecerá.
+
+(15) Las comunicaciones de correspondencia pública podrán continuar realizándose utilizando este canal dúplex, contemplando que no se generen interferencias perjudiciales a estaciones que operen en los canales 1027 y ASM1.
+
+ ABREVIATURAS:
+CP - Correspondencia Pública
+CV - Estaciones Costeras de Organismos Privados/Gobierno
+EB - Entre Barcos
+MB - Movimiento de Barcos
+OP - Operaciones Portuarias
+PNA - Prefectura Naval Argentina
+PNN - Prefectura Nacional Naval de Uruguay
+
+
+ANEXO II
+
+ARGENTINA:
+
+Ente Nacional de Comunicaciones
+Dirección Nacional de Planificación y Convergencia
+Subdirección de Asuntos Internacionales
+Lima 1007 - Piso 9 - C1073AAU
+Ciudad Autónoma de Buenos Aires - República Argentina
+Correo electrónico: sgt1@enacom.gob.ar
+
+BRASIL:
+
+Agência Nacional de Telecomunicações
+S.A.S. - Quadra 06 - Bloco E - 10 Andar
+70313-900 - Brasília/DF
+Correo electrónico: espectro@anatel.gov.br - orle@anatel.gov.br
+
+PARAGUAY:
+
+Comisión Nacional de Telecomunicaciones (CONATEL)
+Gerencia de Radiocomunicaciones
+Presidente Franco 780 c/ Ayolas. Edificio Ayfra, Piso 11
+Asunción, Paraguay
+Tel.: +595 21 438 2726
+Correo electrónico: gii@conatel.gov.py
+
+URUGUAY:
+
+Unidad Reguladora de Servicios de Comunicaciones
+Departamento Administración del Espectro
+Avda. Uruguay 988
+Montevideo - Uruguay
+Correo electrónico: frecuencias@ursec.gub.uy
+
+
+2

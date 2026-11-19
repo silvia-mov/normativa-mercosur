@@ -1,0 +1,162 @@
+Resolución GMC N° 16/10
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE CONTROL METROLÓGICO DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE MASA DE CONTENIDO NOMINAL DESIGUAL (DEROGACIÓN DE LA RES.GMC Nº 26/99)
+Fecha de aprobación: 15/06/2010
+Vigencia: Vigente (Vigente desde el 28/01/2021 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 25264_RES_016-2010_ES_RTM ControMetrologico Deroga 26-99.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1821).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 16/10
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CONTROL METROLÓGICO DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE MASA DE CONTENIDO NOMINAL DESIGUAL
+(DEROGACIÓN DE LA RES. GMC N° 26/99)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones No 38/98,  26/99, 56/02 y 07/08 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que tal sistema de control metrológico está destinado a facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción y a eliminar barreras técnicas que sean obstáculo a la libre circulación de productos premedidos, como asimismo garantizar la defensa del consumidor.
+
+Que resulta necesario complementar el Sistema de Tolerancias y muestreo que deberá ser aplicado a los productos premedidos.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Control Metrológico de Productos Premedidos Comercializados en Unidades de Masa de Contenido Nominal Desigual", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los organismos nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina: Ministerio de Economía  y Finanzas Públicas
+       Secretaría de Comercio Interior
+
+Brasil:       Instituto Nacional de Metrologia, Normalização e Qualidade Industrial
+
+Paraguay: Instituto Nacional de Tecnología, Normalización y Metrología
+
+Uruguay:   Ministerio de Industria, Energía y Minería.
+
+Art. 3 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extra-zona.
+
+Art. 4 - Derogar la Resolución GMC No 26/99.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/XII/2010.
+
+
+LXXX GMC - Buenos Aires, 15/VI10.
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CONTROL METROLÓGICO DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE MASA DE CONTENIDO NOMINAL DESIGUAL
+
+1. APLICACIÓN
+
+El presente Reglamento se aplicará para la verificación de los contenidos netos de los productos premedidos, con contenido nominal desigual, expresado en masa en unidades del SISTEMA INTERNACIONAL DE UNIDADES.
+
+2. DEFINICIONES
+
+2.1. PRODUCTO PREMEDIDO
+
+Es todo producto envasado y medido sin la presencia del consumidor y en condiciones de comercializarse.
+
+2.2. PRODUCTO PREMEDIDO DE CONTENIDO NOMINAL DESIGUAL
+
+Es todo producto envasado y medido sin la presencia del consumidor que no tiene contenido nominal igual para todas las unidades del mismo producto.
+
+2.3. CONTENIDO EFECTIVO
+
+Es la cantidad de producto que realmente contiene el producto premedido.
+
+
+2.4. CONTENIDO NOMINAL (Qn)
+
+Es el contenido neto de producto declarado en el envase.
+
+2.5. TOLERANCIA INDIVIDUAL ( T )
+
+Es la diferencia tolerada en menos, entre el contenido efectivo y el contenido nominal, que se encuentra establecido en la Tabla I de este Reglamento.
+
+2.6.  INCERTIDUMBRE DE MEDICIÓN  DEL CONTENIDO NETO O EFECTIVO
+
+La incertidumbre expandida, con un nivel de confianza de 95%, asociada a instrumentos de medición y a los métodos de ensayo utilizados para la determinación de las cantidades no deberá exceder 0,2T.(Tabla I).
+
+2.7. LOTE
+A los efectos de este Reglamento Técnico MERCOSUR, se considerará lote a la cantidad del mismo producto, procesado por un mismo fabricante, fraccionador o responsable por la indicación cuantitativa, de contenido nominal desigual, envasado y medido sin la presencia del consumidor y en condiciones de comercialización.
+
+
+2.8. CONTROL DESTRUCTIVO
+
+Es el control que requiere la apertura o destrucción de todos los envases a ensayar.
+
+
+2.9. CONTROL NO DESTRUCTIVO
+
+Es el control que no requiere la apertura o destrucción de todos los envases a ensayar.
+
+
+2.10. MUESTRA DEL LOTE
+
+Es la cantidad de productos premedidos retirados aleatoriamente del lote y que será efectivamente controlada.
+
+
+3.TOMA DE MUESTRA
+
+La muestra será tomada de acuerdo con la Tabla II de este Reglamento.
+
+Si el tamaño del lote es inferior a 9 unidades, se ensaya el 100 % del lote.
+
+
+4. DETERMINACIÓN DEL CONTENIDO EFECTIVO
+
+Será efectuado por control no destructivo en la medida en que pueda establecerse la tara de los envases, de lo contrario la determinación del contenido efectivo será destructiva.
+
+
+5. CRITERIOS DE APROBACIÓN DE LOTE DE PRODUCTOS PREMEDIDOS
+
+El lote sometido a verificación es aprobado cuando la condición del ítem 5.1 es  atendida.
+
+
+5.1. Criterio individual
+
+Es admitido un máximo de c unidades de la muestra abajo de: Qn - T (T es obtenido de la Tabla I y c es obtenido de la Tabla II). Si el tamaño del lote es inferior a 9 unidades no se acepta ninguna unidad defectuosa.
+
+Para los productos que por razones técnicas no puedan cumplir con las tolerancias establecidas en este Reglamento Técnico, los Estados Partes acordarán las excepciones correspondientes.
+
+
+TABLA I
+Tolerancias individuales aceptadas
+
+Contenido Nominal - Qn (g)
+Tolerancia - T (g)
+Qn < 500
+5
+500 ≤ Qn < 5000
+10
+Qn ≥ 5000
+20
+
+TABLA II
+Muestreo para Control
+
+Tamaño de Lote
+Tamaño de la muestra
+Criterio para Aceptación individual (c) (máximo de defectuosos debajo de Qn-T)
+9 a 25
+5
+0
+26 a 50
+13
+1
+51 a 149
+20
+1
+150 a 4000
+32
+2
+4001 a 10000
+80
+5
+
+
+4

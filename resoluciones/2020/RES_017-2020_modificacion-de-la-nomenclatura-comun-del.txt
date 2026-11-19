@@ -1,0 +1,389 @@
+Resolución GMC N° 17/20
+Título: MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 26/01/2021
+Vigencia: Vigente (Vigente desde el 16/08/2024 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 82560_RES_017-2020_ES_Modif NCM y AEC.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3971).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 17/20
+
+
+MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N° 07/94, 22/94 y 31/04 del Consejo del Mercado Común y la Resolución Nº 26/16 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que, a fin de facilitar la aplicación de las disposiciones del Convenio de Minamata sobre el Mercurio y el Convenio de Estocolmo sobre Contaminantes Orgánicos Persistentes, se hace necesario ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, que constan como Anexos I y II y forman parte de la presente Resolución.
+
+Art. 2 - Las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, aprobadas por la presente Resolución entrarán en vigor a partir del 01/VII/2021, debiendo los Estados Partes asegurar su incorporación a su respectivo ordenamiento jurídico nacional previo a esa fecha.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 26/I/21.
+
+ANEXO I - CONVENIO DE MINAMATA SOBRE EL MERCURIO
+
+SITUACIÓN ACTUAL
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC %
+NCM
+DESCRIPCIÓN
+AEC %
+8539.31.00
+- - Fluorescentes, de cátodo caliente
+
+18
+8539.31
+- - Fluorescentes, de cátodo caliente
+
+
+8539.31.1
+Lámparas, con equipo electrónico incorporado y casquillo E 14, E 27 o E 40
+
+
+8539.31.11
+Con un contenido de mercurio superior a 5 mg por cada envolvente (tubo)
+18
+
+
+8539.31.19
+Las demás
+18
+
+
+8539.31.20
+Las demás lámparas
+18
+
+
+8539.31.3
+Tubos
+
+
+8539.31.31
+
+
+Con fósforo tribanda y con un contenido de mercurio superior a 5 mg
+
+
+18
+
+
+8539.31.32
+
+
+Con fósforo en halofosfato y un contenido de mercurio superior a 10 mg
+
+
+18
+
+
+8539.31.39
+Los demás
+18
+8539.32.00
+- - Lámparas de vapor de mercurio o sodio; lámparas de halogenuro metálico
+18
+8539.32
+- - Lámparas de vapor de mercurio o sodio; lámparas de halogenuro metálico
+
+
+8539.32.10
+De vapor de mercurio
+18
+
+
+8539.32.20
+De vapor de sodio
+18
+
+
+8539.32.30
+De halogenuro metálico
+18
+8539.39.00
+- - Los demás
+18
+8539.39
+- - Los demás
+
+
+8539.39.1
+Tubos fluorescentes de cátodo frío o de electrodo externo, para pantallas electrónicas
+
+
+8539.39.11
+De longitud inferior a 500 mm y con un contenido de mercurio superior a 3,5 mg
+18
+
+
+8539.39.12
+De longitud superior a 500 mm pero inferior o igual a 1500 mm y con un contenido de mercurio superior a 5 mg
+18
+
+
+8539.39.13
+De longitud superior a 1500 mm y con un contenido de mercurio superior a 13 mg
+18
+
+
+8539.39.19
+Los demás
+18
+
+
+8539.39.90
+Los demás
+18
+9018.90.92
+Aparatos para medida de la presión arterial
+16
+9018.90.6
+Aparatos para medida de la presión arterial
+
+
+9018.90.61
+Que contengan mercurio
+
+16
+
+
+9018.90.69
+Los demás
+16
+
+
+9018.90.92
+SUPRIMIDO
+
+9025.11.10
+Termómetros clínicos
+18
+9025.11.1
+Termómetros clínicos
+
+
+9025.11.11
+Que contengan mercurio
+
+18
+
+
+9025.11.19
+Los demás
+18
+9025.11.90
+Los demás
+18
+9025.11.9
+Los demás
+
+
+9025.11.91
+Que contengan mercurio
+
+18
+
+
+9025.11.99
+Los demás
+18
+
+
+ANEXO II - CONVENIO DE ESTOCOLMO SOBRE CONTAMINANTES ORGÁNICOS PERSISTENTES
+
+SITUACIÓN ACTUAL
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC %
+NCM
+DESCRIPCIÓN
+AEC %
+2903.29.00
+- - Los demás
+2
+2903.29
+- - Los demás
+
+
+2903.29.10
+Hexaclorobutadieno
+2
+
+
+2903.29.90
+Los demás
+2
+2903.81.10
+Lindano
+2
+2903.81.10
+Lindano (gama-hexaclorocicloexano)
+
+2
+2903.81.90
+Los demás
+2
+2903.81.20
+alfa-Hexaclorocicloexano
+2
+
+
+2903.81.30
+beta-Hexaclorocicloexano
+2
+
+
+2903.81.90
+Los demás
+2
+2903.89.00
+- - Los demás
+2
+2903.89
+- - Los demás
+
+
+2903.89.10
+Hexabromociclododecano
+2
+
+
+2903.89.90
+Los demás
+2
+2908.19.19
+Los demás
+2
+2908.19.16
+Pentaclorofenato de sodio
+
+2
+
+
+2908.19.19
+Los demás
+2
+2909.30.29
+Los demás
+2
+2903.30.22
+Pentacloroanisol
+2
+
+
+2903.30.23
+Éteres tetra- o pentabromodifenílicos
+
+2
+
+
+2903.30.24
+Éteres hexa-, hepta- o octabromodifenílicos
+
+2
+
+
+2903.30.25
+Éter decabromodifenílico
+2
+
+
+2903.30.29
+Los demás
+2
+2915.90.42
+Sales y ésteres
+12
+2915.90.42
+SUPRIMIDO
+
+
+2915.90.43
+Laurato de pentaclorodifenilo
+
+12
+
+
+2903.90.49
+Los demás
+12
+3808.59.29
+Los demás
+8
+3808.59.24
+A base de 1,2,3,4,5,6-hexaclorocicloexano (HCH (ISO)), incluido el lindano (ISO, DCI)
+
+
+8
+
+
+3808.59.29
+Los demás
+8
+
+
+3824.82.00
+- - Que contengan bifenilos polibromados (PBB), bifenilos policlorados (PCB) o terfenilos policlorados (PCT)
+
+
+14
+3824.82
+- - Que contengan bifenilos polibromados (PBB), bifenilos policlorados (PCB) o terfenilos policlorados (PCT)
+
+
+3824.82.10
+Que contengan bifenilos policlorados (PCB)
+
+14
+
+
+3824.82.90
+Los demás
+14
+3824.88.00
+- - Que contengan éteres tetra-, penta-, hexa-, hepta- u octabromodifenílicos
+
+
+14
+3824.88
+- - Que contengan éteres tetra-, penta-, hexa-, hepta- u octabromodifenílicos
+
+
+3824.88.10
+Que contengan éteres tetra- o pentabromodifenílicos
+
+
+14
+
+
+3824.88.20
+Que contengan éteres hexa-, hepta- u octabromodifenílicos
+
+
+14
+3824.99.89
+Los demás
+14
+3824.99.84
+Que contengan éteres decabromodifenílicos
+
+14
+
+
+3824.99.89
+Los demás
+14
+
+2

@@ -1,0 +1,122 @@
+Resolución GMC N° 24/19
+Título: PROCEDIMIENTO DE RECONOCIMIENTO DE PERMISOS DE ESTACIONES DE RADIOCOMUNICACIONES PARA USO DE LAS EMPRESAS DE TRANSPORTE CARRETERO (DEROGACIÓN DE LA RESOLUCIÓN GMC N° 146/96)
+Fecha de aprobación: 05/06/2019
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 73330_RES_024_2019_ES_Proc. Radiocom.Transp.Carr.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3737).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 24/19
+
+
+PROCEDIMIENTO DE RECONOCIMIENTO DE PERMISOS DE ESTACIONES DE RADIOCOMUNICACIONES PARA USO DE LAS EMPRESAS DE TRANSPORTE CARRETERO
+(DEROGACIÓN DE LA RESOLUCIÓN GMC N° 146/96)
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución N° 146/96 del Grupo Mercado Común.
+CONSIDERANDO:
+Que la Resolución GMC Nº 146/96 aprobó el Procedimiento de Reconocimiento de Permisos de Estaciones de Radiocomunicaciones para uso de las Empresas de Transporte Carretero.
+Que en función del tiempo transcurrido y el desarrollo tecnológico verificado, es pertinente actualizar el referido procedimiento.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art 1 - Aprobar el "Procedimiento de reconocimiento de permisos de estaciones de radiocomunicaciones para uso de las empresas de transporte carretero", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Derogar la Resolución GMC N° 146/96.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 31/VIII/2019.
+
+
+      CXII GMC - Buenos Aires, 05/VI/19.
+
+
+ANEXO
+
+PROCEDIMIENTO DE RECONOCIMIENTO DE PERMISOS DE ESTACIONES DE RADIOCOMUNICACIONES PARA USO DE LAS EMPRESAS DE TRANSPORTE CARRETERO
+
+
+1 - PROCEDIMIENTOS ADMINISTRATIVOS
+
+1.1  Las entidades autorizadas para operar en el Servicio de Radiocomunicaciones Móviles de un Estado Parte, que reúnan las condiciones establecidas en la presente Resolución, podrán utilizar sus estaciones radioeléctricas dentro de todo el territorio de los Estados Partes.
+
+1.2  Los permisos nacionales expedidos por las Administraciones competentes tendrán, como mínimo, las siguientes informaciones:
+
+a)  Razón Social
+b)  Distintivo de llamada
+c)  Frecuencias portadoras
+
+Adicionalmente, deberán constar las siguientes frases:
+
+"HABILITADO A OPERAR DENTRO DEL MERCOSUR".
+"LICENCIADO A OPERAR DENTRO DO MERCOSUL".
+
+1.3  Las notificaciones y los intercambios por correspondencia que se realicen como resultado del presente procedimiento, deberán ser dirigidas a las Administraciones de cada Estado Parte, a las siguientes direcciones, las que serán consideradas válidas mientras no exista comunicación formal de modificación:
+
+	Administración de la República Argentina
+      Ente Nacional de Comunicaciones
+      Dirección General de Asuntos Institucionales
+      Dirección: Perú 103 piso 11 - CABA
+      Correo electrónico:  sgt1@enacom.gob.ar
+
+Administración de la República Federativa do Brasil
+      Agência Nacional de Telecomunicações
+      Gerencia de Outorga e Licenciamento de Estações
+      Superintendência de Outorga e Recursos à Prestação
+      SAUS - Quadra 06 Bloco E - Setor de Autarquias Sul- Brasília DF
+      Correo electrónico: orle@anatel.gov.br
+
+
+Administración de la República del Paraguay
+      Comisión Nacional de Telecomunicaciones
+      Gerencia de Radiocomunicaciones
+      Edificio Ayfra - Piso 17
+      Presidente Franco N° 780 y Ayolas
+      Asunción, Paraguay
+      Correo electrónico: gar@conatel.gov.py
+
+	Administración de la República Oriental del Uruguay
+      Unidad Reguladora Servicios de Comunicaciones
+      Departamento Administración del Espectro
+      Av. Uruguay 988 - Montevideo
+      Correo electrónico: frecuencias@ursec.gub.uy
+
+
+ 2 - CARACTERÍSTICAS TÉCNICAS
+
+Con el fin de garantizar que las estaciones radioeléctricas móviles operen adecuadamente, éstas deberán cumplir con los siguientes requisitos:
+
+Banda de Frecuencia: 3 MHz a 15 MHz con atribuciones al Servicio Móvil (salvo móvil aeronáutico)
+      Potencia de pico máximo: 100 W
+      Designación de emisión: 2K80J3EJN
+
+
+3 - FRECUENCIAS RADIOELÉCTRICAS
+
+3.1 Establecer las siguientes frecuencias de operación en BLS (Banda Lateral Superior) en todo el territorio de los Estados Partes, salvo que se indique lo contrario:
+
+
+Frecuencias
+(kHz)
+3844,5 (*)
+5067
+7688
+7841
+10494
+10683
+13531
+13534
+13910
+14978
+      (*) Utilizada solamente en territorios de Argentina y del Paraguay
+
+
+3.2  Las eventuales frecuencias adicionales que se requieran para operar serán coordinadas de acuerdo con el siguiente procedimiento:
+
+a) Cada una de las Administraciones de los Estados Partes notificará a las restantes la lista de las frecuencias radioeléctricas adicionales propuestas para operación por parte de sus transportadoras en todo el territorio de los Estados Partes.
+
+b) En el plazo de treinta (30) días corridos luego de la notificación, las Administraciones notificadas podrán observar o condicionar el uso de una o más frecuencias adicionales propuestas, dentro de todo o parte de su territorio. En caso que vencido el plazo no se curse observación o condicionamiento alguno, se considerará aceptado.
+
+
+2

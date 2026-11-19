@@ -1,0 +1,173 @@
+Resolución GMC N° 27/04
+Título: MATRIZ MÍNIMA DE REGISTRO DE PROFESIONALES DE SALUD DEL MERCOSUR
+Fecha de aprobación: 08/10/2004
+Vigencia: Vigente (Vigente desde el 22/09/2007 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 11034_RES_027-2004_ES_Matriz min prof salud-esp_Acta 3-04.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/814).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 27/04
+
+
+MATRIZ MÍNIMA DE REGISTRO DE PROFESIONALES DE SALUD
+ DEL MERCOSUR
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución N° 91/93 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que los organismos de registro de los profesionales de la salud en cada uno de los Estados Partes no cuentan en la actualidad con información mínima armonizada.
+
+Que resulta necesario estandarizar la información de los profesionales de la salud que se registra en cada uno de los Estados Partes.
+
+Que algunos Estados Partes no cuentan con registros nacionales susceptibles de ser homologados entre sí.
+
+Que es imprescindible definir parámetros, sobre los cuales avanzar, para la implementación y puesta en marcha del "Registro de Profesionales de la Salud en cada Estado Parte".
+
+Que entre esos parámetros es esencial establecer, entre otros extremos, la autoridad o entidad que controlará y hará operativa la base de datos, la necesidad de los Estados Partes, cuando corresponda, de consensuar la implementación de la Matriz con las instancias internas competentes, la determinación de los sujetos habilitados para consultar el mencionado registro, y la reciprocidad de la información.
+
+Que, en los términos del Tratado de Asunción, el MERCOSUR tiene como uno de sus fines la libre circulación de profesionales.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la "Matriz Mínima de Registro de Profesionales de Salud del MERCOSUR", que consta como Anexo I y forma parte de la presente Resolución.
+Art. 2 - Aprobar el "Instructivo para la carga de datos que los órganos competentes de los Estados Partes deberán observar al completar la información requerida por la Matriz Mínima de Registro de Profesionales de Salud del MERCOSUR", que consta como Anexo II de la presente Resolución].
+Art. 3 - Los Estados Partes deberán incluir como información mínima para el Registro de los Profesionales de la Salud, los datos indicados en la Matriz Mínima de Registro de Profesionales de la Salud del MERCOSUR que constan en el Anexo I de la presente Resolución.
+Art. 4 - Los Estados Partes implementarán la Matriz Mínima de Registro de Profesionales de Salud del MERCOSUR a través de los siguiente organismos, los cuales estarán encargados a su vez, de operar y controlar la base de datos, asegurar  la publicidad de la misma e intercambiar información con los órganos correspondientes de los demás Estados Partes:
+Argentina:	Ministerio de Salud
+Brasil:		Ministério da Saúde
+Paraguay:	Ministerio de Salud Pública y Bienestar Social
+Uruguay:	Ministerio de Salud Pública
+Art. 5 - Los Estados Partes se comprometen a implementar la Matriz Mínima de Registro de Profesionales de Salud del MERCOSUR, antes del vencimiento del plazo establecido en el artículo 8, a través de las instancias competentes, según la estructura interna de cada país.
+Art. 6 - Los Estados Partes se comprometen a intercambiar la información de la Matriz Mínima de Registro de Profesionales de Salud del MERCOSUR, a través de los organismos citados en el artículo 4, los cuales quedan autorizados a pedir y brindar la información mencionada.
+Los Estados Partes, de conformidad con la presente Resolución, podrán mantener o crear complementariamente Registros Provinciales, Estatales y Departamentales de Profesionales de la Salud.
+Art. 7 - Los Registros de Profesionales contendrán  todos los datos de profesionales de la salud que ejerzan o intenten ejercer su profesión en el exterior y/o que trabajen en zonas, municipios o jurisdicciones de frontera. No obstante, cada Estado Parte podrá incluir en esos registros, en forma optativa, los datos de la totalidad de los profesionales de salud que ejerzan en el país.
+Art. 8 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos  jurídicos nacionales y adoptar las disposiciones legislativas, reglamentarias y administrativas necesarias para su cumplimiento, antes del 30/VI/05.
+
+LV GMC - Brasilia, 8/X/04
+
+ANEXO I
+MATRIZ MÍNIMA DE REGISTRO DE PROFESIONALES DE LA
+SALUD DEL MERCOSUR
+
+
+Código |___|___| - |___| - |___|___|___|___|___|___|___|___|
+
+
+Nombre                                             Apellidos ..............................................
+Tipo y Nº de Documento de Identidad...................Fecha de Nacimiento      /      /
+Ciudad y País de Nacimiento.........................................................................
+Nacionalidad........................... Sexo .............................................................
+Profesión ......................................................................................................
+Título/Diploma/Certificado..............................................................................
+Institución formadora......................................................................................
+Fecha ...../....../....... Ciudad ....................................País.................................
+Nº Registro Profesional......................./Jurisdicción....................
+Fecha de registro        /      /
+
+Observaciones................................................................................................
+
+Formación de Postgrado
+Título/Diploma/Certificado .................................................................................
+Institución formadora ........................................................................................
+Fecha ....../....../....... Ciudad .....................País .................................................
+Nº Registro Profesional......................./Jurisdicción....................
+Fecha de registro        /      /
+
+Reválida de Título/Diploma/Certificado....................................
+Institución ....................................................................................
+Fecha ....../......./....... País ............................................
+
+Registro de Título/Diploma/Certificado en otro País del MERCOSUR
+País  ................................Fecha ....../........./........
+
+
+DATOS RESERVADOS
+
+Domicilio Particular
+Calle........................................................................................Nº...................
+Ciudad ............................Provincia...................País.......................................
+Código Postal...................Teléfonos ...........................
+E-mail.............................................................................................................
+
+Sanciones
+Tipo........................................ Fecha  ......./......./........
+Motivo  .............................................................................
+Institución que impone la sanción...........................................................
+
+
+ANEXO II
+INSTRUCTIVO PARA LA CARGA DE DATOS DE LA MATRIZ MÍNIMA DE REGISTRO DE PROFESIONALES DE LA
+SALUD DEL MERCOSUR
+Instructivo
+1) Código: el Código de identificación estará formado por dos dígitos que identifican al país, separado por un guión se completará con un número o un dígito que identifica el tipo de documento, y seguido de un guión se deberá cargar el número del documento del país de origen. Los Estados Partes  consensuarán en Resoluciones complementarias a la presente, la conformación del código mencionado.
+
+          |___|___|          -   |___|      -        |___|___|___| ___|___|___|___|___|
+Identificación del país   Tipo de	                    Nº de identificación
+			      Documento                   del país de origen
+
+2) Nombre/Apellido: deberá llenarse con los nombres y apellidos que figuren en el documento seleccionado por cada Estado Parte para conformar el número de Código del punto 1.
+3) Documento de Identidad: deberá llenarse con el documento del país que registra.
+4) Fecha de nacimiento: deberá ocupar dos dígitos para el día, dos dígitos para el mes y cuatro dígitos para el año.
+5) Ciudad y País de nacimiento: deberá completarse con la localidad y el país de nacimiento del profesional registrado.
+6) Nacionalidad: se completará con la nacionalidad del profesional registrado.
+7) Sexo: se completará con femenino o masculino, de acuerdo a lo que surja de la documentación presentada por el profesional registrado.
+8) Profesión: Deberá completarse con el nombre de la profesión que el registrado ejerce.
+9) Título/Diploma/Certificado: deberá completarse de acuerdo a la nomenclatura que entre los Estados Partes se haya consensuado.
+10)  Institución formadora: institución que otorga al profesional registrado el título, diploma o certificado que presenta.
+11)  Fecha: de otorgamiento del título, diploma o certificado.
+12)  Ciudad/País: debe completarse con la ciudad y país de otorgamiento del título, diploma o certificado.
+13) Número de Registro Profesional: deberá llenarse con el número de matrícula otorgado por el país que registra, y podrá poseer más de un número de matrícula si es que está registrado para ejercer en diferentes jurisdicciones del mismo Estado.
+14) Jurisdicción: deberá llenarse con el nombre de la jurisdicción nacional, provincial, municipal o estadual dependiendo de la estructura interna de los Estados Partes.
+15) Fecha de registro: deberá cargarse con la fecha en que el número de registro o matrícula fue otorgado por la jurisdicción registrante.
+
+Los puntos 8 a 14 se deberán completar para cada una de las profesiones que esté habilitado a ejercer el profesional registrado.
+
+16)  Observaciones: debe agregarse toda información adicional que sea de interés para la autoridad registrante.
+
+FORMACIÓN DE POSTGRADO
+
+
+Título/Diploma/Certificado: deberá completarse con la especialidad o título de postgrado obtenido.
+Institución formadora: deberá completarse con el nombre de la institución que otorgó el Título/Diploma/Certificado.
+Fecha de inscripción en el registro: deberá cargarse con la fecha en que el profesional registra su título, certificado o diploma de postgrado y que lo habilita a desempeñarse dentro de una especialidad.
+
+Este campo deberá cargarse tantas veces como especialidades posea el profesional registrado.
+
+Reválida de Título/Diploma/Certificado
+Institución: completarse con el nombre de la Institución que otorgó la reválida de Título/Diploma/Certificado.
+Fecha: que figura en título, diploma o certificado de reválida.
+País: completarse con el nombre del país que otorgó la reválida de Título/Diploma
+/Certificado.
+
+Registro de Título/Diploma/Certificado en otro país del MERCOSUR
+País en que está registrado
+Fecha de registración
+
+
+DATOS RESERVADOS
+
+
+Estos datos sólo serán de conocimiento del ente registrante y de los organismos designados en el Artículo 4 de esta Resolución como responsables en los Estados Partes de los Registros de Profesionales de la Salud del MERCOSUR. Tales datos no consituyen información de acceso público
+
+Domicilio Particular
+Calle: deberá completarse con el domicilio donde reside el profesional en el momento de registrarse.
+Ciudad: deberá completarse con el nombre de la ciudad donde reside el profesional en el momento de registrarse.
+Provincia: deberá completarse con el nombre de la provincia donde reside el profesional en el momento de registrarse.
+País: deberá completarse  con el nombre del país donde reside el profesional en el momento de registrarse.
+Código Postal: deberá completarse con el código de la localidad donde reside el profesional en el momento de registrarse.
+Teléfonos: deberá completarse con el número de teléfono particular.
+E-mail: deberá completarse con la casilla de correo electrónico del profesional.
+
+
+Sanciones
+Tipo de sanción: el tipo de sanción y quien la impone.
+Fecha: en que se hace efectiva la sanción.
+Motivo: deberá completarse con el motivo que origina la sanción.
+Institución que impone la sanción: deberá llenarse con el nombre de la Institución que impone la sanción identificando a qué país corresponde.
+
+
+Para el caso de las Sanciones, cada Estado Parte evaluará en función de su régimen.

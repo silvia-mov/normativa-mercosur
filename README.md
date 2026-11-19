@@ -1,14 +1,19 @@
 # Normativa del MERCOSUR en texto
 
-Las **decisiones del Consejo del Mercado Común (CMC) del MERCOSUR, de 1991 a 2026**, pasadas a texto
-plano y ordenadas con nombres claros, para leerlas, buscarlas y analizarlas con cualquier programa.
+Las **decisiones del Consejo del Mercado Común (CMC), las resoluciones del Grupo Mercado Común (GMC) y
+las directivas de la Comisión de Comercio (CCM) del MERCOSUR, de 1991 a 2026**, pasadas a texto plano y
+ordenadas con nombres claros, para leerlas, buscarlas y analizarlas con cualquier programa.
 
 | | |
 |---|---|
 | Decisiones | 1.130 (1991–2026), todas con su texto completo en español |
 | Archivos de texto | 1.322 (textos, fe de erratas, anexos y planillas) |
 | Notas y decretos de incorporación de Paraguay | 24 |
-| Índice | [`indice_decisiones.csv`](indice_decisiones.csv) y [`indice_decisiones.xlsx`](indice_decisiones.xlsx) |
+| Índice de decisiones | [`indice_decisiones.csv`](indice_decisiones.csv) y [`indice_decisiones.xlsx`](indice_decisiones.xlsx) |
+| Resoluciones GMC | 2.183 publicadas (1991–2026); 2.181 con archivo y texto (2.165 en español) |
+| Directivas CCM | 1.934 publicadas (1994–2026); 1.933 con archivo y texto (1.931 en español) |
+| Índice de resoluciones y directivas | [`indices/indice_normativa_mercosur.xlsx`](indices/indice_normativa_mercosur.xlsx) y [`.csv`](indices/indice_normativa_mercosur.csv): fecha, vigencia, idioma, archivo, texto y números faltantes por año |
+| Archivos originales (Word/PDF) | releases [`resoluciones_gmc`](https://github.com/silvia-mov/normativa-mercosur/releases/tag/resoluciones_gmc) y [`directivas_ccm`](https://github.com/silvia-mov/normativa-mercosur/releases/tag/directivas_ccm), un zip por década |
 
 > **Aviso.** Esta es una recopilación independiente, **no oficial**. No es una publicación de la Secretaría
 > del MERCOSUR ni de ningún gobierno. Los textos se convirtieron automáticamente desde los archivos que
@@ -18,14 +23,17 @@ plano y ordenadas con nombres claros, para leerlas, buscarlas y analizarlas con 
 
 ## Página de consultas
 
-[silvia-mov.github.io/normativa-mercosur](https://silvia-mov.github.io/normativa-mercosur/): buscador y asistente que responde solo con el texto de las decisiones y cita la fuente. Usa `docs/` (página), `worker/` (intermediario de Cloudflare) y `scripts/e_datos_web.py` (datos de la página). Buscador: [MiniSearch](https://github.com/lucaong/minisearch) (MIT).
+[silvia-mov.github.io/normativa-mercosur](https://silvia-mov.github.io/normativa-mercosur/): buscador y asistente que responde solo con el texto de las normas (decisiones, resoluciones y directivas) y cita la fuente. Se puede elegir en qué tipo de norma buscar; las derogadas se marcan. Usa `docs/` (página), `worker/` (intermediario de Cloudflare) y `scripts/e_datos_web.py` (datos de la página). Buscador: [MiniSearch](https://github.com/lucaong/minisearch) (MIT).
 
 ## Cómo están organizados
 
 ```
 decisiones/<año>/DEC_<número>-<año>_<idioma>_<tipo>[_<título corto>].txt
+resoluciones/<año>/RES_<número>-<año>_<título corto>.txt
+directivas/<año>/DIR_<número>-<año>_<título corto>.txt
 incorporacion_paraguay/<año>/...      notas de Cancillería y decretos sobre incorporación
 indice_decisiones.csv / .xlsx         una fila por archivo
+indices/indice_normativa_mercosur.*   resoluciones y directivas: una fila por norma
 scripts/                              programas usados para convertir y ordenar
 ```
 
@@ -88,9 +96,34 @@ leyeron en sus primeras 5 páginas; su texto lo indica al final.
 - El sitio etiqueta mal el idioma de algunos archivos; aquí el idioma se decide por el contenido.
 - Los textos convertidos por OCR pueden tener letras mal leídas.
 
-## Próximamente
+## Resoluciones GMC y Directivas CCM
 
-Resoluciones del Grupo Mercado Común (GMC) y Directivas de la Comisión de Comercio del MERCOSUR (CCM).
+Se descargó **una versión por norma** de [normas.mercosur.int](https://normas.mercosur.int): en español
+cuando existe (preferencia .docx > .doc > .odt > .pdf) y, si no, la otra disponible. Cada texto lleva una
+cabecera como la de las decisiones, con número, título, fecha de aprobación, **vigencia** (según la ficha
+del sitio: vigente, derogada o sin vigencia registrada), idioma del texto, archivo original, cómo se
+convirtió y enlace a la ficha.
+
+Conversión: Word (4.024 archivos); lectura directa del formato .doc (70 archivos de 1992–2001 que Word
+actual no abre); OCR de Windows en español (20 PDF escaneados).
+
+Controles (columna `NOTA` del índice):
+- **Texto de otra norma**: el archivo que publica el sitio tiene el encabezado y el contenido de otra
+  resolución o directiva. Res. GMC 65/92, 23/96, 98/96, 38/97, 36/98, 38/00 y 44/15; Dir. CCM 08/07. El
+  texto se conserva, pero el buscador de la página no lo usa.
+- **Encabezado con otro número** pero contenido que coincide con el título (error del documento):
+  Res. GMC 99/96 y 44/26.
+- **Idioma mal indicado en el sitio** (dice español y está en portugués, o al revés): Res. GMC 17/92,
+  43/93, 56/94, 62/94, 22/96, 20/01, 31/14, 02/17 y 52/18; Dir. CCM 08/96 y 17/13. El idioma del texto
+  se decide por el contenido.
+
+Limitaciones:
+- Sin archivo publicado en el sitio: Res. GMC 80/94 y 43/23, Dir. CCM 198/25.
+- Números que faltan en el sitio: Res. GMC 01/01 y 28/01. Las directivas no tienen huecos.
+- Archivos dañados en el sitio, reemplazados por el PDF: Res. GMC 26/93, 66/93, 32/94, 62/94 y 83/94
+  (también el .doc vacío de la Res. GMC 80/99). Res. GMC 60/06 se publica sin extensión: es un PDF.
+- Solo hay texto en portugués para 16 resoluciones y 2 directivas.
+- Los programas de esta parte están en `scripts/gmc_ccm/` (Windows: Word y OCR de Windows).
 
 ## Fuente y uso
 

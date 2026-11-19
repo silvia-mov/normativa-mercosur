@@ -1,0 +1,73 @@
+Resolución GMC N° 116/94
+Título: NORMA SOBRE MERCADERÍAS CARGADAS EN DISTINTAS ADUANAS DEL PAÍS DE PARTIDA CON UN MISMO MIC/DTA Y EN LA MISMA UNIDAD DE TRANSPORTE
+Fecha de aprobación: 15/12/1994
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 29554_RES_116-1994_ES_MercaderiasCargadosenAduanas.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2178).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES N° 116/94
+
+
+NORMA SOBRE MERCADERIAS CARGADAS EN DISTINTAS ADUANAS DEL PAIS DE PARTIDA CON UN MISMO MIC/DTA Y EN LA MISMA UNIDAD DE TRANSPORTE
+
+
+VISTO: El Art. 13 del Tratado  de Asunción, el Art. 10 de la Decisión No 4/91 del Consejo del Mercado Común y la Recomendación No. 31/94 del Subgrupo de Trabajo No 2 "Asuntos Aduaneros".
+
+CONSIDERANDO:
+
+La importancia de facilitar e incrementar el tránsito de mercaderías al amparo del régimen MIC/DTA, reduciendo costos operativos y tiempo de detención de vehículos en frontera;
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Artículo 1 - Aprobar la norma sobre ¨Mercaderías cargadas en distintas Aduanas del país de partida con un mismo MIC/DTA y en la misma unidad de transporte¨, que consta como anexo en la presente Resolución.
+
+
+XVI GMC - Ouro Preto, 15/XII/1994.
+
+
+NORMAS SOBRE MERCADERIAS CARGADAS EN DISTINTAS
+ADUANAS DEL PAIS DE PARTIDA CON UN MISMO MIC/DTA Y
+EN LA MISMA UNIDAD DE TRANSPORTE
+
+
+ARTICULO 1° - La carga de mercaderías en una unidad de transporte con un mismo MlC/DTA podrá ser efectuada en distintas aduanas del país de partida
+
+ARTlCULO 2°- A los efectos de lo previsto en el Art. 1°, deberá presentarse el MIC/DTA en la aduana de partida, con indicación de las aduanas de carga intermedias entre la de partida y la de salida del país de origen.
+
+ARTICULO 3°- El trámite de las operaciones y los controles a que se sometan a las mismas, se ajustarán al procedimiento establecido en el Capítulo Vlll, artículo 14 del ANEXO I - Aspectos Aduaneros - del Acuerdo de Alcance Parcial sobre Transporte Internacional Terrestre para la aduana de partida.
+
+ARTICULO 4° - El MIC/DTA será registrado por la Aduana de Partida.
+
+ARTICULO 5° - La Ruta y el Plazo de Transporte hasta la aduana de destino, con indicación de cada aduana de carga intermedia, se declarará en el MIC/DTA que se presenta en la aduana de partida. Por el plazo de transporte se deberá computar el tiempo que insuma el embarque en cada aduana de carga intermedia.
+
+ARTICULO 6° - En cada aduana de carga intermedia presentara para su intervención por las Autoridades Aduaneras una hoja Continuación con la declaración por la carga que se incorpora que será registrada con el mismo número de MIC/DTA al que se anexa debiéndose otorgar además, un número de registro propio de dicha aduana.
+La Continuación se formulará en tantos ejemplares como los previstos para el MIC/DTA.
+
+ARTICULO 7° - Las aduanas de carga intermedia procederán a la colocación de nuevos precintos MS cuando debieran remover el precinto colocado por la aduana que la precediera, consignándolo en la hoja Continuación.
+No será necesaria la remoción de los precintos cuando el precintado fuere por bulto o grupos de bultos dentro de la unidad de transporte o por haberse precintado compartimientos interiores separados. En este caso se colocaran precintos sólo sobre la carga incorporada.
+Cuando la última aduana de carga utilice este sistema de precintado deberá además proceder al precintado exterior de la unidad de transporte.
+
+ARTICULO 8° - Podrá incorporarse la nueva carga al camión original mediante un acoplado en la aduana intermedia.
+A tal efecto deberá declararse ante la aduana de partida en el MIC/DTA la circunstancia y si se conocieran, los datos del acoplado.
+En caso de no conocerse los datos, en la aduana de carga intermedia se hará constar la placa del acoplado en la hoja Continuacíón correspondiente.
+
+ARTICULO 9° - Verificada la salida de la mercadería, un ejemplar de MIC/DTA y sus continuaciones será utilizado como tornaguia remitiéndose a la aduana de partida
+
+
+APENDICE
+lNSTRUCClONES PARA COMPLETAR EL MIC/DTA
+
+
+I. En el MlC/DTA
+Campo 15 - Declaración de que incorporará acoplado y número de placa en caso de ser conocido.
+Campo 40 - Lugar donde incorporara el acoplado.
+
+2. En la hoja Continuación
+Campo-4 - Número de Registro de Aduana de Partida.
+Campo 40 - Número de Registro de Aduana de Carga intermedia.
+   - Número de placa del remolque que incorpora en Aduana de carga intermedia.
+   - Ruptura de precintos.
+Campo 41- Sello y firma de la aduana interviniente.

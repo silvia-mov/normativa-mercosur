@@ -1,0 +1,393 @@
+Resolución GMC N° 03/23
+Título: SISTEMA DE DISTRIBUCIÓN DE SEÑALES MULTIPUNTO MULTICANAL EN EL MERCOSUR (DEROGACIÓN DE LAS RESOLUCIONES GMC Nº 71/97 Y 43/98)
+Fecha de aprobación: 13/04/2023
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 94223_RES_003-2023_ES_Sistema Distrib Señales MMDS.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4492).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 03/23
+
+SISTEMA DE DISTRIBUCIÓN DE SEÑALES MULTIPUNTO
+MULTICANAL EN EL MERCOSUR
+(DEROGACIÓN DE LAS RESOLUCIONES GMC Nº 71/97 Y 43/98)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 71/97 y 43/98 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que por Resolución GMC Nº 71/97 se aprobó el "Sistema de distribución de señales multipunto multicanal en el MERCOSUR (MMDS)", referido a la coordinación y uso de los canales radioeléctricos del servicio MMDS en la banda de 2.500 a 2.686 MHz.
+
+Que por Resolución GMC Nº 43/98 se aprobó la fe de erratas de la Resolución GMC Nº 71/97.
+
+Que con los nuevos servicios y sistemas de telecomunicaciones se han efectivizado modificaciones en el uso dado en forma general al segmento de frecuencias 2.500 a 2.700 MHz.
+
+Que, no obstante, aún existen varios sistemas MMDS que se mantienen en operación en algunos de los Estados Partes del MERCOSUR, incluyendo zonas de frontera.
+
+Que los parámetros técnicos de operación de las estaciones transmisoras de los mencionados sistemas MMDS fueron oportunamente coordinados en el marco del procedimiento aprobado por Resolución GMC Nº 71/97, correspondiendo mantener su protección ante eventuales interferencias perjudiciales que pudieran ser generadas por los nuevos sistemas de telecomunicaciones móviles internacionales (International Mobile Telecommunications, IMT) y sus estaciones.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la tabla de las estaciones de distribución de señales multipunto multicanal (MMDS) coordinadas que consta como Anexo y forma parte de la presente Resolución, con los parámetros técnicos allí indicados, en tanto continúen en operación.
+
+Art. 2 - Derogar las Resoluciones GMC Nº 71/97 y 43/98.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 09/I/2024.
+
+CXXVI GMC - Buenos Aires, 13/IV/23.
+
+ANEXO
+
+Frecuencias
+(MHz)
+Localidad
+Latitud
+Longitud
+PIRE
+dBW
+HMA
+m
+Pol.
+Tipo
+Ant.
+
+ESTACIONES TRANSMISORAS EN ARGENTINA
+
+2506 a 2512
+COLÓN
+32° 13' 28"
+58° 08' 28"
+17
+110
+H
+O
+2518 a 2524
+COLÓN
+32° 13' 28"
+58° 08' 28"
+17
+110
+H
+O
+2530 a 2536
+COLÓN
+32° 13' 28"
+58° 08' 28"
+17
+110
+H
+O
+2602 a 2608
+COLÓN
+32° 13' 28"
+58° 08' 28"
+17
+110
+H
+O
+2626 a 2632
+COLÓN
+32° 13' 28"
+58° 08' 28"
+17
+110
+H
+O
+2638 a 2644
+COLÓN
+32° 13' 28"
+58° 08' 28"
+17
+110
+H
+O
+2650 a 2656
+COLÓN
+32° 13' 28"
+58° 08' 28"
+17
+110
+H
+O
+2500 a 2686
+FORMOSA
+26° 08' 08"
+58° 10' 27"
+20
+100
+H
+O
+2500 a 2506
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2512 a 2518
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2524 a 2530
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2536 a 2542
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2548 a 2554
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2560 a 2566
+PUERTO RICO
+26° 49'´03"
+55° 01' 29"
+20
+100
+H
+O
+2572 a 2578
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2584 a 2590
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2596 a 2602
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2608 a 2614
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2620 a 2626
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+2632 a 2638
+PUERTO RICO
+26° 49' 03"
+55° 01' 29"
+20
+100
+H
+O
+
+ESTACIONES TRANSMISORAS EN URUGUAY
+
+2566 a 2626
+CARAGUATA
+32° 10' 31"
+55° 00' 47"
+23
+150
+V
+O
+2566 a 2626
+CARDONA
+33° 52' 31"
+57° 22' 23"
+13
+75
+V
+O
+2566 a 2626
+CARMELO
+33° 59' 49"
+58° 17' 00"
+13
+75
+H
+D
+2566 a 2626
+CASTILLOS
+34° 11' 51"
+53° 50' 43"
+13
+75
+H
+O
+2566 a 2626
+CHUY
+33° 41' 44"
+53° 27' 40"
+19
+150
+H
+O
+2566 a 2626
+FLORIDA
+34° 05' 15"
+56° 14' 58"
+23
+150
+V
+O
+2566 a 2626
+FRAY BENTOS
+33° 07' 51"
+58° 18' 33"
+13
+75
+H
+O
+2566 a 2626
+LIBERTAD
+34° 38' 04"
+56° 36' 35"
+23
+150
+V
+O
+2566 a 2626
+MARISCALA
+34° 01' 09"
+54° 49' 52"
+13
+75
+H
+O
+2566 a 2626
+MELO
+32° 22' 00"
+54° 10' 00"
+23
+150
+H
+O
+2566 a 2626
+MINAS
+34° 22' 40"
+55° 17' 25"
+23
+150
+H
+O
+2566 a 2626
+MONTEVIDEO
+34° 53' 55"
+56° 09' 59"
+27
+150
+C
+O
+2566 a 2626
+NUEVA HELVECIA
+34° 17' 44"
+57° 14' 05"
+13
+75
+V
+O
+2566 a 2626
+PAYSANDÚ
+32° 19' 13"
+58° 04' 59"
+13
+75
+V
+D
+2566 a 2626
+RIO BRANCO
+32° 37' 00"
+53° 24' 00"
+19
+150
+V
+O
+2566 a 2626
+ROCHA
+34° 28' 13"
+54° 09' 50"
+23
+150
+H
+O
+2566 a 2626
+SANTA TERESA
+34° 00' 55"
+53° 33' 27"
+19
+150
+H
+O
+2566 a 2626
+SARANDI GRANDE
+33° 44' 06"
+56° 19' 20"
+23
+150
+H
+O
+2566 a 2626
+TALA
+34° 20' 54"
+55° 45' 51"
+23
+150
+V
+O
+2566 a 2626
+JOSE P.VARELA
+33° 27' 23"
+56° 32' 05"
+23
+150
+H
+O
+2566 a 2626
+VERGARA
+32° 56' 19"
+53° 56' 17"
+23
+150
+H
+O
+
+¡Error!Marcador no definido.
+
+
+3

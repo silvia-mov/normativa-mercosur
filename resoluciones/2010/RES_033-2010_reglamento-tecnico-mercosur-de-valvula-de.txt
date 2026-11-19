@@ -1,0 +1,183 @@
+Resolución GMC N° 33/10
+Título: REGLAMENTO TÉCNICO MERCOSUR DE VÁLVULA DE CILINDRO PARA ALMACENAMIENTO DE GAS NATURAL COMPRIMIDO (GNC) UTILIZADO COMO COMBUSTIBLE A BORDO DE VEHÍCULOS AUTOMOTORES
+Fecha de aprobación: 15/06/2010
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 25309_RES_033-2010_ES_RTM Valvulas.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1839).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 33/10
+
+
+REGLAMENTO TÉCNICO MERCOSUR DE VÁLVULA DE CILINDRO PARA ALMACENAMIENTO DE GAS NATURAL COMPRIMIDO (GNC) UTILIZADO COMO COMBUSTIBLE  A BORDO DE VEHÍCULOS AUTOMOTORES
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 19/92, 38/98, 56/02 y 03/08 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que se deben armonizar las exigencias esenciales de seguridad para la fabricación, comercialización y utilización de los componentes para gas natural comprimido utilizado como combustible vehicular, tomando en consideración las medidas pertinentes para consolidar la protección de los usuarios de este combustible dentro de los Estados Partes.
+
+Que es necesario asegurar a los Estados Partes una protección eficaz para el consumidor contra los riesgos vinculados a la utilización del gas natural comprimido como combustible vehicular y de los componentes de los equipos asociados.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR de Válvula de Cilindro para Almacenamiento de Gas Natural Comprimido (GNC) utilizado como combustible a bordo de Vehículos Automotores", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - A partir del 01 de enero  del 2012 los fabricantes de válvulas sólo deberán producir válvulas de cilindros de acuerdo con el Reglamento Técnico MERCOSUR (RTM)  mencionado en el Artículo 1.
+
+Art. 3 - El RTM mencionado en el Artículo 1  será obligatorio para los Estados Partes a partir del 01 de julio de  2012, para los casos de nuevas instalaciones de válvulas de cilindro o para cuando resulte necesario el cambio de esa válvula.
+
+Art. 4 - A partir de la vigencia de esta Resolución, y hasta el 30 de junio de  2012, coexistirá la comercialización de válvulas de cilindros fabricadas y aprobadas de acuerdo con el RTM indicado en el Artículo 1, y con las reglamentaciones actualmente vigentes en cada Estado Parte.
+
+Art. 5 - A partir del 01 de julio de  2012 sólo podrán ser comercializadas en el ámbito del MERCOSUR, las válvulas de cilindros que cumplan con el Reglamento Técnico mencionado en el Artículo 1.
+
+
+Art. 6 - Los organismos nacionales competentes para la implementación de la presente Resolución son:
+
+      Argentina: 	Ente Nacional Regulador del Gas - (ENARGAS)
+
+Brasil: 	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - (INMETRO)
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - (ANP)
+      Departamento Nacional de Trânsito - (DENATRAN)
+
+      Paraguay: 	Ministerio de Industria y Comercio - (MIC)
+
+      Uruguay: 	Ministerio de Industria, Energía y Minería - (MIEM)
+      Unidad Reguladora de Servicios de Energía y Agua - (URSEA)
+
+
+Art. 7 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extra zona.
+
+Art. 8 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/VI/2011.
+
+
+LXXX GMC - Buenos Aires, 15/VI/10.
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR DE VÁLVULA DE CILINDRO PARA ALMACENAMIENTO DE GAS NATURAL COMPRIMIDO (GNC) UTILIZADO COMO COMBUSTIBLE A BORDO DE VEHÍCULOS AUTOMOTORES
+
+
+1 OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR establece los requisitos de seguridad y los ensayos para la fabricación de la Válvula de Cilindro, como uno de los Componentes para la instalación del Sistema para Gas Natural Comprimido (GNC) utilizados a bordo de vehículos automotores.
+
+2 DOCUMENTOS DE REFERENCIA
+
+Resolución GMC Nº 03/08 - "Reglamento Técnico MERCOSUR sobre cilindros para almacenamiento de gas natural comprimido (GNC) utilizado como combustible, a bordo de vehículos automotores", o sus modificatorias y/o complementarias.
+
+NM ISO 15500-1:2009 Vehículos de carretera-Componentes del sistema Gas Natural Comprimido (GNC) - Parte 1 - Requisitos generales y definiciones.
+
+NM ISO 15500-2:2009 Vehículos de carretera-Componentes del sistema Gas Natural Comprimido (GNC)- Parte 2-Prestaciones y métodos generales de ensayos.
+
+NM ISO 15500-5:2009 Vehículos de carretera-Componentes del sistema Gas Natural Comprimido (GNC)- Parte 5- Válvula manual de cilindro.
+
+NM ISO 15500-6:2009 Vehículos de carretera-Componentes del sistema Gas Natural Comprimido (GNC) - Parte 6- Válvula automática.
+
+NM ISO 15500-12:2009 Vehículos de carretera-Componentes del sistema Gas Natural Comprimido (GNC) - Parte 12- Válvula de alivio de presión (VAP).
+
+NM ISO 15500-13:2009 Vehículos de carretera-Componentes del sistema Gas Natural Comprimido (GNC) - Parte 13- Dispositivo de alivio de presión (DAP).
+
+NM ISO 15500-14:2009 Vehículos de carretera-Componentes del sistema Gas Natural Comprimido (GNC) - Parte 14- Válvula de exceso de flujo.
+
+ISO 10920:1997 Gas Cilynders - 25 E Taper thread for connection of valves to gas cilynders-Specification.
+
+ISO 15245-1:2001 Gas cilynders - Paralell threads for connection of valves to gas cilynders-Part 1:Specification.
+
+ISO 8434-1:2007 Metallic tube connection for fluid power and general use - Part 1: 24 degree cone connectors.
+
+3 SIGLAS
+
+NM Norma MERCOSUR
+ISO International Organization for Standardization
+RTM Reglamento Técnico MERCOSUR
+GNC Gas Natural comprimido
+VAP Válvula de alivio de presión
+DAP Dispositivo de alivio de presión
+
+4 TÉRMINOS Y DEFINICIONES
+
+Para los efectos de este Reglamento Técnico, se aplican los siguientes términos y definiciones, en complemento a los términos y definiciones indicados en el punto 2 de este Reglamento.
+
+4.1 Válvula auto ventilada
+
+Válvula que dispone de un sistema interno de ventilación que permite el direccionamiento para la parte externa del vehículo, de eventuales pérdidas de GNC a través de juntas, uniones y dispositivos de seguridad
+
+5 GENERALIDADES
+
+5.1 La válvula de cilindro debe ser diseñada y producida atendiendo las exigencias de seguridad, instalación y aptitud para su uso establecidas en este Reglamento Técnico.
+
+5.2 La válvula de cilindro debe ser proyectada para operar de forma manual y eléctrica, del tipo normal cerrada, para permitir su abertura y cierre por cualquiera de estas dos maneras, optativamente. El bloqueo manual debe ubicarse entre el cilindro y el bloqueo eléctrico.
+
+5.3 Cada dispositivo de la válvula debe ser proyectado de modo tal que sea imposible su montaje de forma incorrecta.
+La fabricación de cada elemento que conforma la válvula, responderá a conceptos de resistencia, operación y seguridad. Asimismo, no se deberán modificar sus características constructivas cuando se manipule bajo condiciones normales de uso.
+
+5.4 Las especificaciones de las conexiones roscadas deben atender los siguientes requisitos:
+
+a) La rosca correspondiente a la unión entre la válvula y el cilindro debe responder a lo especificado en la Resolución GMC N° 03/08; y
+b) La conexión de salida de la válvula a la tubería de alta presión se efectuará a través de una rosca M12x1 según lo indicado en la Norma ISO 8434-1:2007.
+Las partes de la válvula de cilindro correspondientes a las conexiones con el sistema de venteo a la atmósfera, deberán asegurar la correcta fijación a dicho sistema.
+
+5.5 La válvula del cilindro debe operar de forma segura en el rango de temperaturas comprendido entre -40ºC y 85ºC.
+
+5.6 La válvula de cilindro debe ser marcada de tal forma que permita su trazabilidad, de acuerdo con lo indicado en los ítems 4 (cuatro) de cada una de las normas NM ISO 15500-5:2009, NM ISO 15500-6:2009, NM ISO 15500-12:2009, NM ISO 15500-13:2009 y NM ISO 15500-14:2009.
+
+5.7 La válvula de cilindro debe poseer una válvula de exceso de flujo posicionada directamente en el interior del cilindro y que actúe en el caso de ruptura de un componente de la instalación.
+
+5.8 La válvula de cilindro debe poseer un dispositivo de alivio de presión activado por temperatura y presión.
+
+5.9 La válvula de cilindro debe ser del tipo auto ventilada y proyectada de manera tal que las conexiones eléctricas de la electroválvula no queden incluidas dentro del sistema de venteo, y que permita la libre operación de la válvula manual.
+
+5.10 Las instrucciones de instalación, montaje y mantenimiento de la válvula de cilindro deben cumplir con los requisitos establecidos en el ítem 6 de la Norma NM ISO 15500-1:2009.
+
+5.11 Para válvulas de cilindros manufacturadas con materiales no forjados en caliente, el fabricante debe presentar documentos respaldatorios con las siguientes informaciones como mínimo:
+
+a) Registros de colada del material utilizado en la fabricación (informe de análisis de la composición química); y
+b) Registros de ausencia de tensiones residuales (informe de análisis).
+
+5.12 La memoria descriptiva debe contener como mínimo las siguientes informaciones:
+
+a) Presión de Servicio;
+b) Presión de activación y caudal de los dispositivos de seguridad incorporados; y
+c) Instrucciones de aplicación para el montaje, operación y mantenimiento.
+
+6 CONDICIONES ESPECÍFICAS
+
+6.1 Válvula de exceso de flujo
+
+6.1.1 Debe restringir automáticamente la eventual pérdida de gas, a menos del 10% de la pérdida volumétrica máxima, sin interrumpirlo totalmente.
+
+6.1.2 No debe restringir el caudal regular del consumo de gas del motor en cualquier régimen de operación.
+
+6.1.3 Debe cumplir los requisitos especificados en la NM ISO 15500-14: 2009.
+
+6.2 La rosca de la válvula debe cumplir los requisitos establecidos en las normas ISO 10920:1997 para roscas cónicas o ISO 15245-1:2001 para roscas paralelas.
+
+6.3 Dispositivo de alivio de presión (DAP)
+
+6.3.1 El DAP debe permitir que:
+
+a) cumpla satisfactoriamente con la norma NM ISO 15500-13:2009, y su caudal mínimo con los requisitos de ensayos establecidos en el Anexo A, ítem A15 de la Resolución GMC Nº 03/08, y
+b) actúe cuando la temperatura y la presión interna del cilindro alcancen respectivamente, 110ºC ± 10°C y 30 MPa + 4MPa.
+
+6.3.2 Tapón fusible y disco de ruptura
+
+El tapón fusible y disco de ruptura deben ser instalados en la válvula del cilindro y operados en forma independiente o combinada, debiendo atender los requisitos técnicos y ensayos prescriptos en este Reglamento Técnico y en el Anexo A15 de la Resolución GMC Nº 03/08.
+
+7 ENSAYOS
+
+7.1 Ensayos requeridos
+
+Los ensayos que deben ser realizados están establecidos en los ítems 6 (seis) de cada una de las siguientes Normas NM ISO 15500-5:2009, NM ISO 15500-6:2009, NM ISO 15500-12:2009, NM ISO 15500-13:2009 y NM ISO 15500-14:2009.
+
+7.2 Métodos generales de ensayos
+
+La realización de los ensayos indicados en el ítem 7.1 debe adoptar la metodología presentada en la Norma NM ISO 15500-2: 2009.
+
+
+2

@@ -1,0 +1,138 @@
+Resolución GMC N° 27/97
+Título: REGLAMENTO TÉCNICO PROCEDIMIENTOS DE MUESTREO Y TOLERANCIAS DE PRODUCTOS COMERCIALIZADOS EN UNIDADES DE LONGITUD Y NÚMERO DE UNIDADES
+Fecha de aprobación: 05/09/1997
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 17/10 Estuvo vigente desde el 14/06/2008 - Art. 40 POP - hasta el 28/01/2021)
+Idioma del texto: ES
+Archivo original: 22007_RES_027-1997_ES_RTMUnidadesMed.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1640).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 27/97
+
+REGLAMENTO TÉCNICO PROCEDIMIENTOS DE MUESTREO Y TOLERANCIAS DE PRODUCTOS COMERCIALIZADOS EN UNIDADES DE LONGITUD Y NÚMERO DE UNIDADES
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones N° 91/93 y 33/96 del Grupo Mercado Común y la Recomendación N° 2/97 del SGT N° 3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+Que es necesario contar con un Reglamento armonizado para unificar las legislaciones nacionales sobre muestreo y tolerancia de los productos comercializados en unidades de longitud y número de unidades.
+Que tal medida está destinada a garantizar el intercambio comercial entre los Estados Partes y eliminar restricciones técnicas que sean obstáculos a la libre circulación de estos productos.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+Art. 1 - Aprobar el Reglamento Técnico "Procedimientos de Muestreo y Tolerancias de Productos Comercializados en Unidades de Longitud y Número de Unidades" que consta como Anexo y forma parte de la presente Resolución.
+Art. 2 - Los organismos competentes de los Estados Partes adoptarán las medidas pertinentes a efectos de dar cumplimiento a lo dispuesto en la presente Resolución.
+Art. 3 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+Argentina:	-	Ministerio de Economía y Obras y Servicios Públicos.
+	-	Secretaría de Industria, Comercio y Minería.
+Brasil:	-	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial.
+
+Paraguay:	-	Instituto Nacional de Tecnología y Normalización.
+
+Uruguay:	-	Ministerio de Industria, Energía y Minería.
+
+Art. 4 - La presente Resolución entrará en vigor el 1º/I/98.
+
+  XVII GMC-Montevideo 5/IX/97
+
+
+ANEXO
+
+PROCEDIMIENTOS DE MUESTREO Y TOLERANCIAS DE PRODUCTOS
+COMERCIALIZADOS EN UNIDADES DE LONGITUD Y NUMERO DE UNIDADES.
+
+  1- Objetivo
+  1.1.- Este Reglamento Técnico Metrológico establece los criterios para verificación del contenido efectivo de productos premedidos, de cantidad nominal igual, comercializados en longitud o en número de unidades, de acuerdo con el Sistema Internacional de Unidades (SI).
+  2- Campo de aplicación
+  2.1. Este reglamento se aplica al control metrológico de productos premedidos verificados en fábricas (lineas de producción), depósitos y puntos de ventas, comercializados en longitud o en número de unidades.
+  3 - Definiciones
+  3.1.  Producto premedido:
+  Es todo producto embalado y medido sin la presencia del consumidor y en condiciones de comercialización.
+  3.2. Contenido efectivo:
+  Es la cantidad de producto contenido en el embalaje.
+  3.3. Contenido nominal (Qn):
+  Es la cantidad indicada en el embalaje del producto.
+  3.4. Error para menos en relación al contenido nominal:
+  Es la diferencia para menos entre el contenido efectivo y el contenido nominal.
+  3.5. Lote:
+  3.5.1. En la fábrica:
+  Es el conjunto de productos de un mismo tipo, procesados por un mismo fabricante, o fraccionado en un espacio de tiempo determinado, en condiciones esencialmente iguales. Se considera espacio de tiempo determinado, a la producción de una hora, siempre que la cantidad de productos fuera igual o superior a 150 unidades. En caso que esta cantidad supere 10000 unidades, el excedente podrá formar nuevos lotes.
+
+  3.5.2. En el depósito:
+
+  Se considera lote a cantidad de producto  igual o superior a 150 unidades del mismo tipo, marca o contenido nominal. En caso que esta cantidad supere 10000 unidades, el excedente podrá formar nuevos lotes.
+  3.5.3 - En el punto de venta:
+  Se considera lote a la cantidad de producto del mismo tipo, marca y contenido nominal de acuerdo con la tabla I. En caso que la cantidad supere 10000 unidades, el excedente podrá formar nuevos lotes.
+  3.6 - La muestra del lote:
+  Es la cantidad de productos premedidos retirados aleatoriamente del lote y que serán efectivamente verificados.
+  3.7 - Tolerancia individual (T):
+  Es la diferencia permitida para menos entre el contenido efectivo y el contenido nominal ( tabla III, IV ).
+  3.8 - Media de la muestra  :
+  Está definida por la ecuación:  	    i=n
+  												x  i-1 Xi	 n
+
+  Xi: Es el contenido efectivo de cada producto;
+  n:  Es el número de productos.
+
+  3.9. Desvio patrón de la muestra (s):
+
+  Esta definido por la ecuación:
+
+  xi : Es el contenido efectivo de cada producto;
+   n  : Es el número de producto;
+    :  Es el contenido medio del producto.
+
+  4 - TABLAS
+  4.1. Tabla para muestreo y aceptación en el criterio individual(c):
+
+
+TABLA I
+
+Tamaño del Lote	Tamaño de la muestra	N° de aceptación (c)
+
+	50 a 149	20	1
+	150 a 4 000	32	2
+	4 001 a 10 000	80	5
+
+  4.2 - Tabla de aceptación en el criterio para la media (x):
+
+TABLA II
+
+	Tamaño 	Tamaño de	Criterio de aceptación
+	del lote	 la muestra	para la media. ( x  Qn-k.s )
+
+	50 a 149	20	x  Qn - 0,640.s			150 a 4000	32	x  Qn - 0,485.s			4001 a 10000	80	x  Qn - 0,295.s
+
+
+  5.- Criterios de aprobación del lote:
+  5.1. Productos comercializados en unidad de longitud:
+  El lote sometido a verificación está aprobado cuando la muestra obedece los sub-items 5.1.1 y 5.1.2., simultáneamente.
+  5.1.1 Criterio para la media:
+  	x  Qn - ks ( Tabla II )
+  5.1.2. Criterio individual: Es admitido un máximo de c unidades  abajo de Qn-T, siendo el valor de T obtenido de la tabla III.
+
+TABLA III
+
+	Contenido nominal Qn ( m )	Tolerancia Individual T
+	Qn    0,01 m	2 %  de Qn
+
+  5.2 - Productos comercializados en número de unidades:
+  El lote sometido a verificación está aprobado cuando la muestra obedece a los sub-items 5.2.1 y 5.2.2., simultáneamente.
+  5.2.1 - Criterio para la media:
+   	x  Qn
+  5.2.2 - Criterio individual:
+  Es admitido un máximo de c unidades abajo de Qn-T, siendo T   obtenido en la tabla IV de abajo.
+
+TABLA IV
+
+	Cantidad Qn	Tolerancia T
+	hasta 30 unidades	0
+	de 31 a 100 unidades	1
+	de 101 a 200 unidades	2
+	de 201 a 300 unidades	3
+	encima de 300 unidades	1 por cada 100
+
+
+1
+
+
+5

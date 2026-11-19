@@ -1,0 +1,192 @@
+Resolución GMC N° 28/93
+Título: REGLAMENTO TÉCNICO SOBRE ENVASES Y EQUIPAMIENTOS PLÁSTICOS EN CONTACTO CON ALIMENTOS
+Fecha de aprobación: 30/06/1993
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 15/10.)
+Idioma del texto: ES
+Archivo original: 29730_RES_028-1993_ES_Reg.Tec.envases y equip.plást.en cont.alim._Acta_02_93.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2220).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES 28/93
+
+
+REGLAMENTO TECNICO SOBRE ENVASES Y EQUIPAMIENTOS PLASTICOS EN CONTACTO CON ALIMENTOS
+
+      VISTO: El art. 13 del Tratado de Asunción, el art. 10 de la Decisión Nº 4/91 y las Recomendaciones Nº 4/92 y N° 22/93 del Subgrupo de Trabajo Nº 3 "Normas Técnicas".
+
+CONSIDERANDO
+
+Que habiéndose fijado en el apartado 6 del Anexo "Disposiciones Generales para Envases y Equipamientos Plásticos en Contacto con Alimentos" de la Resolución 56/92 del Grupo Mercado Común que los envases y equipamientos plásticos en contacto con alimentos deben cumplir los requisitos establecidos en un Reglamento Técnico específico.
+
+Que de acuerdo a este criterio, se considera conveniente disponer de una reglamentación común sobre los envases y equipamientos mencionados precedentemente.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE :
+
+Art. 1-	Los colorantes y pigmentos en envases y equipamientos plásticos destinados a entrar en contacto con  alimentos que se comercialicen entre los Estados Partes del MERCOSUR deberán cumplir con las exigencias establecidas en el Reglamento Técnico adjunto "Disposiciones sobre Envases y Equipamientos Plásticos en Contacto con Alimentos".
+
+Art. 2-	Lo establecido en el art. 1 no se aplicará obligatoriamente a los alimentos envasados destinados  a la exportación a terceros países.
+
+Art. 3-	Los Estados Partes del MERCOSUR pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la  presente Resolución y comunicarán el texto de las mismas  al  Grupo Mercado Común a través de la Secretaría Administrativa.
+
+
+X GMC - Asunción, 30/VI/1993.
+
+Disposiciones sobre  colorantes y pigmentos en envases y equipamientos plásticos en contacto con alimentos
+
+
+1. Alcance
+
+	Este documento se refiere a la metodología analítica para el control de colorantes y pigmentos en envases y equipamientos plásticos, conforme  a lo establecido en los apartados 7 y  8 de la Resolución GMC 56/92 "Disposiciones generales para envases y equipamientos plásticos en contacto con alimentos".
+
+2. Determinación de aminas aromáticas en colorantes y pigmentos
+
+	La determinación de aminas aromáticas debe realizarse de acuerdo con la metodología analítica establecida en la Resolución MERCOSUR correspondiente.
+
+3. Determinación de metales en colorantes y pigmentos.
+
+      Se pesa 2,00g +- 0,01g de muestra en un vaso de precipitado de 150 ml.
+      Se agrega 30ml de las siguientes soluciones de extracción:
+      - solución de NaOH 1N:  para arsénico
+      - solución de HNO3 1N:  para plomo
+      - solución  de HCl 0.1N:  para bario, cadmio, cinc, mercurio y selenio
+
+      Se agita con agitador magnético durante dos horas a temperatura ambiente. Se deja decantar y se filtra, recogiendo el filtrado en matraz aforado de 50,0  ml. Se  lleva a volumen con las soluciones de extracción.
+
+      Sobre los extractos se determina los metales usando espectrometría de absorción atómica según se detalla a continuación:
+- plomo, selenio, cadmio y cinc: con llama de aire-acetileno;
+- bario: con llama de nitroso-acetileno;
+- mercurio: con vapor frío;
+- arsénico: con generación de hidruros.
+
+Nota: No pudiendo realizarse estas determinaciones por absorción atómica, podrán usarse los métodos colorimétricos recomendados por la ADAC.
+
+
+4. Requisitos y ensayos adicionales para pigmento negro de humo.
+
+      Para el cabo de pigmento negro de humo:
+
+a) su extracto benzénico debe ser inferior al 0,1% (m/m).
+
+b) debe estar exento de hidrocarburos policíclicos aromáticos.
+
+
+Principio de los métodos:
+
+a) Extracto bencénico: la muestra en examen es sometida a extracción con benceno, en  extractor Soxhlet, por 24 horas; después  de evaporación a sequedad del solvente se pesa el residuo obtenido.
+
+b) Absorbancia en el U.V. del extracto (para detectar presencia de hidrocaburos policíclicos aromáticos): a una alícuota del extracto bencénico obtenido en estas condiciones se adiciona 1 ml de n-hexadecano, se evapora el solvente con sucesivos agregados de alcohol metílico para eliminar completamente el benceno. Se disuelve el residuo en n-hexano y se extrae  con dimetil sulfóxido  (DMSO). El extracto se disuelve con agua y se somete a reextracción con isooctano. La solución final isooctánica se somete a examen espectrofotométrico  entre 280 y 400 nm.
+
+
+Reactivos y sustancias auxiliares:
+
+* Benceno reactivo especial para espectrofotometría
+* .Algodón desengrasado
+* n-hexadecano puro para cromatografía gaseosa (exento de olefina)
+* Alcohol metílico reactivo especial para espectrofotometría
+* n-hexano puro para espectrofotometría
+* Dimetilsulfóxido puro para espectrofotometría
+* Agua bidestilada, obtenida de agua destilada, redestilada en el momento del uso sobre ácido sulfúrico y permanganato de potasio.
+* Sulfato de sodio anhidro granular reactivo puro.
+* Tubo de nitrógeno purísimo al 99,999%
+
+Advertencia: Se  recomienda cuidado en la manipulación del benceno, del alcohol metílico y del DMSO por su toxicidad.
+
+Aparatos:
+
+* Extractor Soxhlet provisto de un balón de 500ml y de cartuchos de extracción previamente lavados a reflujo con benceno
+* Ampollas de decantación, de capacidad  50ml y 100ml, provistas de tapa de vidrio y robinete de politetrafluoroetileno
+* Pipetas de 1ml, 5ml y 10ml
+* Embudos con placa porosa tipo Jena G/I o 17/D/I
+* Matraces aforados de 25,0 ml
+* Evaporador rotatorio
+* Espectrofotómetro de absorción en el visible y ultravioleta dotado con celdas de 1 cm y 4 cm de recorrido óptico.
+
+
+Procedimiento:
+
+a) Determinación del extracto bencénico. Se pesa en un cartucho para extracción 25,0g +- 0,2 g de la muestra en examen y se cierra el cartucho con una capa de algodón desengrasado. Se introduce 300ml de benceno en el balón de 500  ml del extractor Soxhlet, se coloca el cartucho que contiene la muestra y se extrae durante aproximadamente 24 horas. Al terminar la extracción (teniendo cuidado de reunir en el balón todo el solvente de extracción), se conecta el balón al evaporador rotatorio y se evapora,  evitando ebullición hasta un volumen aproximado de 20ml. Luego se transfiere cuantitativamente el volumen residual a un vaso de 100 ml tarado, con sucesivos lavados del balón con benceno. Se evapora a sequedad en baño maría y se coloca en estufa (generalmente es suficiente una hora). Se enfría en desecador y se pesa, repitiendo la operación hasta masa constante.
+
+Paralelamente se evapora, en las mismas condiciones, un volumen de benceno igual al que se usa para la extracción y para los lavados. La masa del residuo del solvente se  resta a  la masa del residuo de la muestra.
+
+b) Control de la absorbancia en el U.V
+
+
+Advertencias:
+
+* Dada la sensibilidad del método es necesario evitar toda posible contaminación. A tal fin el material de vidrio debe ser sometido a repetidos tratamientos con solución sulfocrómica, luego, con abundante agua corriente y, finalmente, con agua destilada.
+* Además, inmediatamente antes del uso del material de vidrio, es necesario lavarlo con n-hexano.
+* No debe ser empleado ningún tipo de grasa para lubricar los robinetes, la estanqueidad esta garantizada por los robinetes de politetrafluoroetileno.
+* Dado que algunos hidrocarburos policíclicos aromáticos son fotosensibles, el procedimiento entero debe ser efectuado en un ambiente con luz atenuada.
+
+Se pesa, en un cartucho de extracción, 25,0g +-0,2g de la muestra en examen y se efectúa la extracción en extractor Soxhlet con benceno aproximadamente durante 24 horas, en la forma indicada precedentemente en (a).
+
+Se agrega al extracto bencénico 1 ml de n-hexadecano y se evapora en evaporador rotatorio, bajo leve corriente de nitrógeno, hasta un volumen de 1 ml.
+
+Se agrega al residuo 10ml de alcohol metílico, tres veces consecutivas y se evapora cada vez hasta un volumen final de un ml (para eliminar toda traza de benceno).
+
+Se agrega al residuo 20 ml de n-hexano de forma de obtener una completa disolución del residuo, calentando ligeramente sobre baño maría en caso de ser necesario.
+
+Se transfiere a una ampolla de decantación de 100 ml, efectuando dos lavados sucesivos con 3 ml de n-hexano cada uno.
+
+Se agrega 5 ml de DMSO y se agita vigorosamente durante dos minutos.
+
+Se deja reposar hasta una separación total de las dos fases. Se transfiere cuidadosamente la fase inferior a una segunda ampolla de decantación de 50 ml conteniendo 10 ml de agua bidestilada.
+
+Se agrega 5 ml de isooctano y se agita vigorosamente durante dos minutos. Se deja reposar hasta la separación total de las dos fases.
+
+Se transfiere la capa acuosa inferior a una segunda ampolla de decantación de 50 ml que ya contiene 5 ml de isooctano. Se agita durante dos minutos y luego de la separación de las fases, se descarta la fase acuosa.
+
+Se lava dos veces cada uno de los extractos de isooctano, con 5ml de agua bidestilada cada vez, descartando la capa acuosa. Se filtra el primer extracto isooctánico a  través de un embudo con placa porosa conteniendo 3,5g de sulfato de sodio anhidro (previamente lavado con isooctano) recogiendo en un  matraz aforado de 25,0  ml.
+Se  lava la primer ampolla  de decantación con el segundo extracto isooctánico y se transfiere el  líquido de lavado, a través del embudo de filtración al matraz aforado.
+
+Se lava la segunda y luego la primer ampolla de decantación con 5 ml de isooctano y se transfiere el líquido de lavado a través del embudo de filtración al matraz aforado.
+
+Se lleva a un volumen de 25,0 ml con isooctano. Se determina la absorbancia de la solución en la región comprendida entre 280 y 400 nm en una celda de 4 cm de recorrido óptico, tomando como referencia el extracto obtenido de una prueba en blanco.
+
+Límites
+
+a) Extracto bencénico: no debe ser superior a 0,1% (m/m)
+
+b) Absorbancia en el U.V. (por 1 cm de recorrido óptico)
+
+   entre 280 y 289 nm   0,15
+     "      290 y 299 nm   0,12
+     "      300 y 359 nm   0,08
+     "      360 y 400 nm   0,02
+
+5.  Ensayos para envases y equipamientos plásticos coloreados destinados a entrar en contacto con alimentos
+
+Determinación de migración de colorantes y pigmentos.
+
+Se compara visualmente, con los blancos respectivos, los extractos obtenidos en los ensayos de migración total de los envases y equipamientos plásticos coloreados, realizados con los simulantes correspondientes (Resolución GMC 30/92), a las temperaturas y tiempos de contacto detalladas en la Resolución GMC 36/92.
+
+En estas condiciones no deben existir diferencias, apreciadas visualmente, entre la coloración del extracto y su blanco.
+
+
+Determinación de migración específica de metales y otros elementos.
+
+Se determina las concentraciones de metales y otros elementos en extractos obtenidos como se describiera en los ensayos de migración total de los envases y equipamientos plásticos coloreados, realizados con los simulantes correspondientes (Resolución GMC 30/92), a las temperaturas y tiempos de contacto detallados en la Resolución GMC 36/92. La determinación se efectúa por espectrometría de absorción atómica o, alternativamente, por las técnicas colorimétricas recomendadas por la ADAC.
+
+Los elementos a determinar en los extractos antes mencionados son los siguientes:
+
+               antimonio		(Sb)
+               arsénico 		(As)
+               bario  		(Ba)
+               boro  		(B)
+               cadmio 		(Cd)
+               cinc   		(Zn)
+               cobre  		(Cu)
+               cromo  		(Cr)
+               estaño 		(Sn)
+               flúor  		(F)
+               mercurio   	(Hg)
+               plata    		(Ag)
+               plomo   		(Pb)
+
+Estos elementos no deberán migrar en cantidades superiores a los límites establecidos en la Resolución MERCOSUR correspondiente a contaminantes en alimentos.
+2
+
+
+1

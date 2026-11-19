@@ -1,0 +1,2399 @@
+Resolución GMC N° 03/08
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE CILINDROS PARA ALMACENAMIENTO DE GAS NATURAL COMPRIMIDO (GNC) UTILIZADO COMO COMBUSTIBLE, A BORDO DE VEHÍCULOS AUTOMOTORES
+Fecha de aprobación: 16/04/2008
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 3840_RES_003-2008_ES_RTMCilindrosGNC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/229).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 03/08
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CILINDROS PARA ALMACENAMIENTO DE GAS NATURAL COMPRIMIDO (GNC) UTILIZADO COMO COMBUSTIBLE, A BORDO DE VEHÍCULOS AUTOMOTORES
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 19/92, 38/98 y 56/02 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que se deben armonizar las exigencias esenciales de seguridad para la fabricación, comercialización y utilización de los componentes para gas natural comprimido utilizado como combustible vehicular, tomando en consideración las medidas pertinentes para consolidar la protección de los usuarios de este combustible dentro de los Estados Partes.
+
+Que es necesario asegurar a los Estados Partes una protección eficaz para el consumidor contra los riesgos asociados a la utilización del gas natural comprimido como combustible vehicular y de los componentes de los equipos asociados.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Cilindros para Almacenamiento de Gas Natural Comprimido (GNC) utilizado como Combustible, a bordo de Vehículos Automotores", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - A partir del 1º de enero de 2011 sólo podrán ser comercializados en el territorio de los Estados Partes cilindros para almacenamiento que cumplan con lo establecido en el Reglamento Técnico MERCOSUR que consta como Anexo.
+
+Art. 3 - A partir de la vigencia de esta Resolución y hasta el 31 de diciembre de 2010, coexistirá la comercialización de cilindros de almacenamiento fabricados de acuerdo a lo establecido en el Reglamento Técnico MERCOSUR que consta como Anexo de la presente, con la de aquellos fabricados de acuerdo con las reglamentaciones vigentes en cada Estado Parte a la fecha de la firma de la presente Resolución.
+
+Art. 4 - A partir del 01 de enero de 2011 no podrán ser comercializados ni habilitados los cilindros para almacenamiento de GNC utilizado como combustible, a bordo de vehículos automotores, cuya norma de fabricación no establezca vida útil y que hayan cumplido  treinta (30) años de la fecha de su fabricación.
+
+Art. 5 - Los Organismos Nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina: Ente Nacional Regulador del Gas - (ENARGAS)
+
+
+Brasil: Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - (INMETRO)
+   Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - (ANP)
+   Departamento Nacional de Trânsito - (DENATRAN)
+
+Paraguay: Ministerio de Industria y Comercio - (MIC)
+                 Instituto Nacional de Tecnología y Normalización - (INTN)
+
+Uruguay: Ministerio de Industria, Energía y Minería - (MIEM)
+Unidad Reguladora de Servicios de Energía y Agua - (URSEA)
+
+Art. 6 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extra zona.
+
+Art. 7 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del 01/XI/08.
+
+
+LXXI GMC  - Buenos Aires, 16/IV/08
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CILINDROS PARA ALMACENAMIENTO DE GAS NATURAL COMPRIMIDO (GNC) UTILIZADO COMO COMBUSTIBLE, A BORDO DE VEHÍCULOS AUTOMOTORES
+
+1. Objeto
+Este Reglamento Técnico especifica los requisitos mínimos para cilindros livianos y recargables para gas, producidos en serie; a ser utilizados solamente para el almacenamiento a bordo de gas natural comprimido a alta presión, como combustible para vehículos automotores en los cuales se instalarán estos cilindros. Las condiciones de servicio no cubren las solicitaciones externas que pueden producirse por choques, etcétera.
+Los cilindros para el almacenamiento a bordo de combustible para el funcionamiento de vehículos a gas natural deben ser livianos y al mismo tiempo mantener o mejorar el nivel de seguridad existente actualmente para otros recipientes a presión. Para esto se deben cumplir los siguientes requisitos:
+a) Especificar de manera precisa y completa las condiciones de servicio como base sólida tanto para el diseño como para el uso del cilindro;
+b) Requerir un método adecuado para determinar la vida definida por la fatiga debida a la presión cíclica y establecer los tamaños de los defectos permitidos en los cilindros de metal o "liners";
+c) Requerir los ensayos para la calificación del diseño;
+d) Requerir los ensayos no destructivos e inspección de todos los cilindros de la producción;
+e) Requerir los ensayos destructivos de los cilindros y del material del cilindro seleccionado de cada lote de cilindros producido;
+f) Requerir que el fabricante tenga documentado e implementado un sistema de gestión de la calidad para la producción, basado en la Norma ISO 9001:2000;
+g) Requerir la reinspección periódica, y
+h) Requerir a los fabricantes, que especifiquen como parte de su diseño la vida útil de sus cilindros en condiciones de seguridad.
+
+Los diseños de cilindros que cumplan con los requisitos de este Reglamento Técnico:
+a) tendrán una vida por fatiga que exceda la vida útil especificada;
+b) cuando se realicen ciclos de presión hasta que se presenten fallas, deben presentar pérdidas pero no roturas;
+c) cuando se los someta a los ensayos de estallido hidráulico, deben tener factores de "tensión a la presión de estallido" sobre "tensión a la presión de trabajo" que excedan los valores especificados para el tipo de diseño y materiales utilizados.
+Este Reglamento Técnico comprende los cilindros fabricados en cualquier acero, aluminio o material no metálico, utilizando cualquier diseño o método de fabricación adecuado para las condiciones de servicio especificadas. Este Reglamento Técnico no se aplica a los cilindros de acero inoxidable o soldados.
+Los cilindros comprendidos en este Reglamento Técnico serán designados de la siguiente forma:
+GNC-1 Metálicos
+GNC-2 "Liner" de metal, reforzado con filamento continuo impregnado en resina (enrollado en la parte cilíndrica)
+GNC-3 "Liner" de metal, reforzado con filamento continuo impregnado en resina (totalmente enrollado)
+GNC-4 Filamento continuo impregnado en resina con un "liner" no metálico (totalmente compuesto)
+Los cilindros diseñados de acuerdo con las normas ISO 9809-1, ISO 9809-2, ISO 9809-3 e ISO 7866 pueden ser utilizados para este servicio siempre que los diseños cumplan con los requisitos adicionales especificados en este Reglamento Técnico.
+2. Referencias normativas
+Los documentos normativos enunciados a continuación contienen disposiciones que, al ser referidas en este texto, forman parte de este Reglamento Técnico. Para referencias sin fecha, se utilizará la última edición del documento normativo que corresponda.
+ISO 148: 1983, Acero - Ensayo de impacto Charpy (entalladura en V)
+ISO 306; 1994, Plásticos - materiales termoplásticos - Determinación de la temperatura de ablandamiento Vicat (VST).
+ISO 527-2:1993, Plásticos - Determinación de propiedades de  tracción - Parte 2: Condiciones de ensayo para plásticos moldeados o estirados a presión (incorpora Corrección Técnica 1:1994).
+ISO 2808: 1997, Pinturas y barnices - Determinación de espesor de la película.
+ISO 4624:- Pinturas y barnices - ensayo de arranque para verificar adhesión.
+ISO 6506-1:1999, Materiales metálicos, Ensayo de dureza  Brinell - Parte 1: método de ensayo..
+ISO 6892: 1998, Materiales metálicos - Ensayo de tracción a temperatura ambiente.
+ISO 7225, Cilindros para gas - Etiquetas de prevención.
+ISO 7866: 1999, Cilindros para gas - Cilindros sin costura de aleación de aluminio recargables, para gas - Diseño, fabricación y ensayo.
+ISO 9000: 2000- Sistemas de Gestión de Calidad
+ISO 9227: 1990, Ensayos de corrosión en atmósferas artificiales - Ensayos de niebla salina.
+ISO 9712: 1999, Ensayo no destructivo - Calificación y certificación del personal.
+ISO 9809-1: 1999, Cilindros para gas - Cilindros de acero recargables, sin costura, para gas - Diseño, fabricación y ensayo - Parte 1: cilindros de acero templados y revenidos con resistencia a la tracción menor que 1.100 MPa.
+ISO 9809-2: 2000, Cilindros para gas - Cilindros de acero recargables, sin costura, para gas - Diseño, fabricación y ensayo - Parte 2: cilindros de acero templados y revenidos con resistencia a la tracción mayor o igual que 1.100 MPa.
+ISO 9809-3: 2000, Cilindros para gas - Cilindros de acero recargables, sin costura, para gas - Diseño, fabricación y ensayo - Parte 3: cilindros de acero normalizados.
+ISO 14130:1997, compuestos de plástico reforzado con fibra - Determinación del esfuerzo de corte interlaminar aparente por medio del método de la viga corta.
+ASTM B117,   Practice for Operating Salt Spray (Fog) Apparatus
+ASTM D522-93ª-  Métodos de ensayo normalizados para el ensayo de plegado con mandril de los revestimientos orgánicos adheridos.
+ASTM D1308-87 (1998)- Método de ensayo normalizado para verificar el efecto de los productos químicos domésticos sobre terminaciones orgánicas claras y pigmentadas.
+ASTM D2794-93 (1999)e1- Método de ensayo normalizado para verificar la resistencia de los revestimientos orgánicos ante los efectos de una deformación rápida (Impacto).
+ASTM D3170-87 (1996)e1- Método de ensayo normalizado para verificar la resistencia al picado de los revestimientos.
+ASTM D3418-99- Método de ensayo normalizado para verificar el punto de transición de los polímeros a través de calorimetría por escaneado diferencial.
+ASTM G-154-00- Práctica normalizada para el manejo de aparatos para luz fluorescente para exposición UV de materiales no metálicos.
+ASTM D-3359, Standard test method for measuring adhesion by tape test
+NACE TM0177-962-Ensayo en laboratorio de metales para verificar la resistencia a las fisuraciones de tensiones por sulfuro y ruptura por corrosión bajo tensión en ambientes H2S.
+ASTM G 53-93 - Standard Practice for Operating Lignt and Water-Exposure Apparatus (Fluorescent UV- Condensation Type) for Exposure of Nonmetallic Materials.
+3. Términos y definiciones.
+A los efectos del alcance de este Reglamento Técnico, se utilizarán los siguientes términos y definiciones:
+3.1. Organismo de evaluación de la conformidad (OEC).
+Organismo competente, acreditado o reconocido por la Autoridad Reguladora del Estado Parte en que fueran comercializados los Cilindros.
+3.2. Autozunchado
+Procedimiento de aplicación de presión utilizado en la fabricación de cilindros compuestos con "liners" de metal; este proceso consiste en deformar el "liner" por sobre el punto de fluencia para provocar una deformación plástica permanente.
+3.3. Presión de autozunchado
+Presión dentro del "liner" revestido exteriormente a la cual se establece la distribución necesaria de las tensiones entre el "liner"  y el revestimiento exterior.
+3.4. Lote (de cilindros compuestos)
+Grupo de no más de 200 cilindros más los cilindros para el ensayo destructivo, o, si fuera mayor, una tanda de producción sucesiva de cilindros, producidos sucesivamente con "liners" aprobados que tengan el mismo: tamaño, diseño, materiales y procesos de fabricación especificados.
+3.5. Lote (de cilindros / "liners", de metal)
+Grupo de no más de 200 cilindros / "liners" más los cilindros / "liners" para el ensayo destructivo o, si fuera mayor, una tanda de producción sucesiva de cilindros / "liners" de metal, producidos sucesivamente y que tengan el mismo: diámetro nominal, espesor de pared, diseño, material de fabricación especificado, proceso de fabricación, equipo utilizado para su fabricación y tratamiento térmico, y condiciones de tiempo, temperatura y atmósfera ambiente durante el tratamiento térmico.
+3.6. Lote (de "liners" no metálicos)
+Grupo de no más de 200 "liners" más los liners para el ensayo destructivo, o, si fuera mayor, una tanda de producción sucesiva de "liners" no metálicos, sucesivamente producidos y que tengan el mismo: diámetro nominal, espesor de pared, diseño, material y proceso de fabricación especificados.
+3.7. Presión de estallido
+Presión máxima a la que llega el cilindro durante el ensayo de estallido.
+3.8. Cilindro compuesto
+Cilindro fabricado de filamento contínuo impregnado en resina enrollado sobre un "liner" metálico o no metálico.
+3.9. Tensión controlada de bobinado
+Proceso utilizado para la fabricación de cilindros compuestos bobinados en la parte cilíndrica, con "liners" de metal, por el cual se obtienen esfuerzos de compresión en el "liner" y esfuerzos de tracción en el revestimiento exterior a una presión interna de cero, bobinando los filamentos de refuerzo con una tensión especificada en el diseňo.
+3.10. Presión de llenado
+Presión a la cual se llena un cilindro.
+3.11. Cilindros terminados
+Cilindros completos, listos para su uso, con marcas de identificación y revestimiento exterior, incluyendo el aislamiento integral especificado por el fabricante, pero libre de aislamiento o protección no integral.
+3.12. Cilindro totalmente bobinado
+Cilindro con un revestimiento exterior, que tiene un refuerzo de filamento bobinado, tanto en dirección axial como en dirección circunferencial al cilindro.
+3.13. Temperatura del gas
+Temperatura del gas en el cilindro.
+3.14. Cilindro bobinado en la parte cilíndrica
+Cilindro con un revestimiento exterior, que tiene un refuerzo de filamento bobinado de modo sustancialmente circunferencial en la parte cilíndrica del "liner", de modo que el filamento no conduzca ninguna carga importante en dirección paralela al eje longitudinal del cilindro.
+3.15. "Liner"
+Recipiente interno para gas, sobre el cual las fibras de refuerzo son bobinadas como filamentos para alcanzar la resistencia necesaria.
+En este Reglamento Técnico se describen dos tipos de "liners", los de metal, que están diseñados para compartir la carga con el refuerzo, y los no metálicos, que no soportan ninguna parte de la carga.
+3.16. Fabricante o Importador
+Fabricante:
+Persona u organización responsable del diseño, fabricación y ensayo de los cilindros, cuando su fabricación y comercialización se realizan en el mismo Estado Parte.
+Importador:
+Persona u organización responsable del diseño, fabricación y ensayo de los cilindros, cuando su comercialización se realiza en un Estado Parte distinto al país de su fabricación.
+3.17. Revestimiento externo
+Sistema de refuerzo de filamento y resina aplicado sobre el "liner".
+3.18. Pretensado
+Proceso por medio del cual se aplica autozunchado o tensión controlada de enrollado.
+3.19. Vida útil
+Vida, expresada en años, durante la cual los cilindros pueden ser utilizados en condiciones de seguridad, según las condiciones de servicio normales.
+3.20. Presión estabilizada
+Presión del gas al alcanzar determinada temperatura fijada.
+3.21. Temperatura estabilizada
+Temperatura uniforme del gas, después de disipar cualquier cambio de temperatura provocado por el llenado.
+3.22. Presión de prueba
+Presión requerida, a aplicar durante un ensayo de presión.
+3.23. Presión de trabajo
+Presión estabilizada en 20 MPa. a una temperatura uniforme de 15º C.
+3.24 Inserto metálico
+Elemento metálico fijado al cilindro para la colocación de la válvula.
+4. Condiciones de servicio
+4.1 Generalidades
+4.1.1 Condiciones normales de servicio
+Las condiciones normales de servicio especificadas en este Reglamento Técnico, se fijan como base para el diseño, fabricación, inspección, ensayo y aprobación de los cilindros a ser instalados de manera permanente en los vehículos, y utilizados para almacenar gas natural a temperaturas ambiente como combustible para los vehículos.
+4.1.2 Uso de los cilindros
+Las condiciones de servicio especificadas deben brindar información acerca del modo en que los cilindros fabricados de acuerdo con este Reglamento Técnico pueden ser utilizados en forma segura. Esta información debe estar destinada a:
+a) fabricantes o importadores de cilindros;
+b) dueños o usuarios de cilindros;
+c) responsables de la instalación de cilindros y de su reinspección;
+d) dueños del equipo utilizado para recargar cilindros para estaciones de carga de vehículos;
+e) proveedores de gas natural comprimido;
+f) organismos reguladores con jurisdicción sobre la reglamentación del uso de los cilindros.
+4.1.3 Vida útil
+La vida útil durante la cual los cilindros pueden ser utilizados en condiciones de seguridad, deberá estar especificada por el fabricante del cilindro sobre la base de su utilización de acuerdo con las condiciones de servicio aquí especificadas. La vida útil deberá ser como máximo de 20 años.
+En el caso de los cilindros de metal y los "liners" de metal, la vida útil se determinará según la velocidad de crecimiento de la grieta por fatiga.  La inspección ultrasónica, de cada cilindro o "liner" deberá asegurar la ausencia de defectos que excedan el tamaño máximo permitido.
+En el caso de cilindros compuestos con "liners" no metálicos que no soporten cargas, la vida útil que debe especificar el fabricante de acuerdo con lo indicado en el primer párrafo, se determinará por medio de métodos apropiados de diseño, pruebas de aprobación de diseño y controles de fabricación.
+4.2 Presiones máximas de llenado
+Este Reglamento Técnico se basa en una presión de trabajo de 20 MPa a 15º C para el gas natural utilizado como combustible a una presión máxima de llenado de 26 MPa. Otras presiones de trabajo pueden adaptarse ajustando la presión por el factor apropiado (relación); por ejemplo, un sistema de presión de trabajo de 25 MPa necesitará presiones multiplicadas por 1,25.
+Con excepción de los casos en que las presiones hayan sido ajustadas de este modo, el cilindro deberá diseñarse para ser apto para los siguientes límites de presión:
+a) una presión de 20 MPa a una temperatura de  15º C,
+b) el máximo no deberá exceder los 26 MPa, sin considerar las condiciones de llenado o la temperatura.
+4.3 Número de ciclos de llenado para el diseño
+Los cilindros deberán diseñarse para ser llenados hasta una presión fijada de 20 MPa a una temperatura de gas fijada de 15º C para un servicio de hasta 1.000 veces por año.
+4.4 Rango de temperatura
+4.4.1 Temperatura del gas
+Los cilindros deberán diseñarse para ser aptos para los siguientes límites de temperatura del gas:
+a) la temperatura establecida del gas en los cilindros, que puede variar de un mínimo de -40º C a un máximo de +65º C,
+b) las temperaturas a que llegue el gas durante la carga y descarga.
+4.4.2 Temperaturas del cilindro
+Los cilindros deberán diseñarse para ser aptos para los siguientes límites de temperatura del material:
+a) la temperatura  de los materiales del cilindro pueden variar de -40º C a +82º C,
+b) las temperaturas mayores que +65° C deberán ser lo suficientemente localizadas, o de una duración tan corta, que la temperatura del gas en el cilindro, nunca exceda + 65° C, excepto bajo las condiciones dispuestas en el punto 4.4.1 b).
+4.5 Composición del gas
+4.5.1 Generalidades
+Los cilindros deberán diseñarse para tolerar su carga, con gas natural que cumpla la especificación del gas seco o húmedo que se detalla a continuación. No se debe agregar deliberadamente metanol ni glicol al gas natural.
+4.5.2 Gas seco
+El vapor de agua deberá limitarse a menos de 32 mg/m3 (es decir, una temperatura de rocío de -9º C a 20 MPa).
+Los límites constitutivos máximos serán los siguientes:
+Sulfuro de hidrógeno y otros sulfuros solubles
+23 mg/m3
+Oxígeno
+1% (fracción volumétrica)
+Hidrógeno, cuando los cilindros se fabrican de un acero con una resistencia final a la tracción que excede los 950 Mpa
+2% (fracción volumétrica)
+4.5.3 Gas húmedo
+Tiene un contenido de agua mayor que el del gas seco.
+Los límites constitutivos máximos serán los siguientes:
+Sulfuro de hidrógeno y otros sulfuros solubles
+23 mg/m3
+Oxígeno
+1% (fracción volumétrica)
+Bióxido de carbono
+4% (fracción volumétrica)
+Hidrógeno
+0,1% (fracción volumétrica)
+4.6 Superficies externas
+Las superficies externas del cilindro deberán diseñarse para poder soportar una exposición eventual a los siguientes elementos:
+a) agua, sea por inmersión intermitente o por su presencia en el camino;
+b) sal, debido al funcionamiento del vehículo cerca del océano o donde se use sal para el deshielo;
+c) radiación ultravioleta del sol;
+d) impacto del ripio;
+e) solventes, ácidos y álcalis, fertilizantes;
+f) líquidos del automóvil, incluyendo combustibles líquidos, fluidos hidráulicos, ácido de la batería, glicol y aceites;
+g) gases de escape.
+
+5 Requisitos generales para la Aprobación y Certificación
+5.1 Ensayo e inspección
+
+Los cilindros de este Reglamento Técnico deberán cumplir con los requerimientos para la Evaluación de la Conformidad a ser publicado a través de la Resolución MERCOSUR correspondiente para verificar que mantienen las especificaciones técnicas que dieron origen a la obtención de la certificación .
+A los fines de asegurar que los cilindros cumplan con este Reglamento Técnico, deberán estar sujetos a la aprobación de diseño de acuerdo con lo dispuesto en el punto 5.2, y a la inspección y ensayo de acuerdo con lo dispuesto en las cláusulas 6, 7, 8 o 9 según corresponda. Esto deberá ser efectuado por un OEC, reconocido en el Estado Parte donde se los comercialicen.
+Los procedimientos de ensayo se encuentran detallados en los Apéndices A y B, y los de aprobación y certificación en el Apéndice C.
+5.2 Procedimiento de aprobación de tipo
+5.2.1 Generalidades
+La aprobación de tipo consiste en dos partes:
+a) Aprobación del diseño, con presentación detallada de información al OEC por parte del fabricante, según se especifica en el punto 5.2.2.
+b) Ensayo de prototipo, con ensayos detallados llevado a cabo bajo la supervisión del OEC. Se deberá demostrar que el material, diseño, fabricación y prueba del cilindro son los adecuados para su servicio mediante el cumplimiento de los requisitos de los ensayos de prototipo especificados en los puntos 6.5, 7.5, 8.5 o 9.5, según el diseño del prototipo de cilindro que correspondiera.
+En los datos del ensayo también se deberá documentar las dimensiones, espesores de pared y pesos de cada uno de los cilindros para ensayo.
+5.2.2 Aprobación de diseño
+Los diseños del cilindro deberán ser aprobados por el OEC. La siguiente información deberá ser presentada por parte del fabricante solicitando al OEC su aprobación:
+a) declaración de servicio, de acuerdo con el punto 5.2.3;
+b) datos del diseño, de acuerdo con el punto 5.2.4;
+c) datos de fabricación, de acuerdo con el punto 5.2.5;
+d) sistema de calidad, de acuerdo con el punto 5.2.6;
+e) comportamiento de la fractura y tamaño del defecto en el ensayo no destructivo, de acuerdo con el punto 5.2.7;
+f) planilla de especificación, de acuerdo con el punto 5.2.8;
+g) datos adicionales de sustento, de acuerdo con el punto 5.2.9.
+5.2.3 Declaración de servicio
+La finalidad de esta declaración de servicio es guiar a los usuarios, instaladores y revisores de los cilindros, e informar al OEC. Esta declaración deberá incluir:
+a) declaración de que el diseño del cilindro se adecua a las condiciones de servicio definidas en 4 para la vida útil del cilindro;
+b) declaración de vida útil;
+c) especificación de los ensayos mínimos en servicio y/o requisitos de inspección;
+d) especificación de los dispositivos de alivio de presión y de aislación, si se provee;
+e) especificación de los sistemas de sujeción, protecciones externas y cualquier otro ítem requerido pero no provisto;
+f) descripción del diseño del cilindro;
+g) cualquier otra información e instrucciones necesarias para garantizar el uso seguro y la inspección del cilindro.
+5.2.4 Datos del diseño
+5.2.4.1 Planos
+Los planos deberán evidenciar al menos los siguientes datos:
+a) título, número de referencia, fecha de emisión y números de revisión con las fechas de emisión si correspondiere;
+b) referencia a este Reglamento Técnico y al tipo de cilindro;
+c) las dimensiones completas, con los límites de tolerancia, incluyendo los detalles de las formas del cierre de los extremos con espesores mínimos, y de las aberturas;
+d) masa de los cilindros, con sus tolerancias;
+e) especificaciones del material, junto con las propiedades mecánicas y químicas mínimas o los límites de tolerancia y, en el caso de los cilindros de metal o "liners" de metal, los límites especificados de dureza, cuando corresponda;
+f) límites de presión de autozunchado, presión mínima de ensayo, detalles del sistema de protección contra incendio y de cualquier protección externa.
+5.2.4.2 Informe del análisis de tensión
+Se deberá realizar un análisis de tensión por elementos finitos u otro tipo de análisis de tensión.
+Se deberá suministrar una tabla resumiendo las tensiones calculadas.
+5.2.4.3 Datos sobre la propiedad del material
+Se suministrará una descripción detallada de los materiales y tolerancias de sus propiedades. Los datos del ensayo también deberán ser presentados detallando las características mecánicas y adecuación de los materiales para el servicio de acuerdo con las condiciones especificadas en el capítulo 4.
+5.2.4.4 Protección contra incendio
+Se deberá especificar la ubicación de los dispositivos de alivio de presión, y la aislación si se provee, que protegerá al cilindro de una ruptura repentina cuando fuere expuesto a las situaciones de incendio indicadas en el punto A.15. Los datos de ensayo deberán justificar la efectividad del sistema especificado de protección contra incendio.
+
+
+5.2.5 Datos de fabricación
+Deberán suministrarse los detalles de todos los procesos de fabricación, ensayos no destructivos, ensayos de producción y de lote.
+Se deberán especificar las tolerancias para todos los procesos de producción, como por ejemplo el tratamiento térmico, el formado del extremo, la relación resina-mezcla, la tensión de filamentos y la velocidad con la que se realiza el bobinado a tensión controlada, tiempos y temperaturas de curado, y procedimiento de autozunchado. También se deberá especificar la terminación de la superficie, los detalles de la rosca, los criterios de aceptación para el escaneo ultrasónico (o equivalente) y los tamaños máximos de lote para realizar los ensayos de lote.
+5.2.6 Programa de control de calidad
+El fabricante deberá especificar los métodos y procedimientos de acuerdo con un sistema de garantía de calidad con base en la ISO:9000:2000.
+5.2.7 Desempeño de la fractura y tamaño del defecto en el Ensayo no Destructivo (ENDE).
+El fabricante deberá especificar el tamaño máximo del defecto para el ensayo no destructivo, que asegurará la aparición de una grieta con el desempeño de pérdida antes de la rotura y que evitará la falla del cilindro, debido a la fatiga, durante su vida útil, o por rotura.
+El tamaño máximo del defecto deberá establecerse según el método establecido en el Apéndice D.
+5.2.8 Planilla de especificación
+Un resumen de los documentos que brinden la información requerida en el punto 5.2.2 deberá ser suministrado en una planilla de especificación para cada diseño de cilindro. Se incluirá el título, número de referencia, números de revisión y fechas de la versión original y otras de cada documento. Todos los documentos deberán estar firmados o inicialados por el emisor.
+5.2.9 Datos adicionales de sustento
+En caso de que fuere aplicable, se deberán brindar datos adicionales que sustenten la solicitud, como por ejemplo los antecedentes de servicio del material que se propone utilizar o la utilización de determinado diseño de cilindro en otras condiciones de servicio.
+5.3 Certificado de aprobación de tipo
+Si los resultados de la aprobación de diseño (según se dispone en el punto 5.2) y del ensayo de prototipo (según se dispone en los puntos 6.5, 7.5, 8.5 o 9.5, según el diseño de cilindro que corresponda) fueran satisfactorios, el OEC emitirá un certificado de aprobación de tipo.
+El certificado de aprobación de tipo será de cuerdo con el Apéndice E.
+6 Requisitos de los cilindros de metal tipo GNC-1
+6.1 Generalidades
+El presente Reglamento Técnico no proporciona fórmulas de diseño ni lista de tensiones o deformaciones permitidas, pero requiere que la adecuación del diseño sea establecida de acuerdo con cálculos apropiados y demostrada mediante pruebas que indiquen que los cilindros cumplen satisfactoriamente los ensayos de materiales, de cualificación de diseño, de producción y de lote, especificados en este Reglamento Técnico.
+El diseño deberá asegurar un modo de falla "pérdida anterior a la rotura" frente a la posible degradación de las partes sometidas a presión durante el servicio normal. Si se produce una pérdida en el cilindro de metal, sólo se podrá deber a la propagación de una rotura por fatiga.
+6.2 Materiales
+6.2.1 Requisitos generales
+Los materiales utilizados deberán ser los adecuados para las condiciones de servicio especificadas en el punto 4. El diseño deberá asegurar que no haya materiales incompatibles en contacto.
+6.2.2 Controles de la composición química
+6.2.2.1 Acero
+El acero deberá ser calmado con aluminio y/o silicio, y fabricado con técnicas para obtener predominantemente grano fino.
+La composición química deberá ser declarada y definida al menos por:
+a) los contenidos de carbono, manganeso, aluminio y silicio en todos los casos;
+b) los contenidos de cromo, níquel, molibdeno, boro y vanadio, y de cualquier otro elemento aleante intencionalmente agregado.
+El contenido de azufre y fósforo del análisis de colada no deberá exceder los valores indicados en la Tabla 1.
+
+Tabla 1 - Límites máximos de azufre y fósforo
+Resistencia a la tracción
+ 950 MPa
+ 950 MPa
+
+Azufre
+0,020%
+0,010%
+Limite de
+Fósforo
+0,020%
+0,020%
+
+Azufre + Fósforo
+0,030%
+0,025%
+6.2.2.2 Aluminio
+Las aleaciones de aluminio pueden ser utilizadas para fabricar cilindros siempre que cumplan con los requisitos de este Reglamento Técnico y posean contenidos máximos de plomo y bismuto que no excedan el 0,003 %.
+6.3. Requisitos del diseño
+6.3.1. Presión de prueba
+La presión mínima de prueba utilizada será de 30 MPa (1,5 veces la presión de trabajo).
+6.3.2. Presión de estallido
+La presión de estallido mínima efectiva no será inferior a 45 MPa.
+6.3.3. Análisis de tensión
+Las tensiones en el cilindro serán calculadas para 20 MPa, presión de prueba y presión de estallido de diseño. Los cálculos deberán realizarse mediante análisis adecuados a fin de establecer las distribuciones de tensión que justifiquen los espesores mínimos de diseño de la pared.
+6.3.4. Tamaño máximo del defecto
+Deberá especificarse el tamaño máximo del defecto en cualquier parte del cilindro de metal, de manera que el cilindro cumpla con los requisitos de ciclado a presión y de "pérdida anterior a la rotura".
+El tamaño admisible del defecto para el ENDE deberá ser determinado a través del método que se describe en el Apéndice D.
+6.3.5. Aberturas
+Sólo deben ser permitidas aberturas en las ojivas. La línea de centros de las aberturas deberá coincidir con el eje longitudinal del cilindro.
+6.3.6. Protección contra incendio
+El diseño del cilindro deberá prever su protección con dispositivos de alivio de presión.  El cilindro, sus materiales, los dispositivos de alivio de presión y cualquier material aislante o de protección que se agregue, deberán ser diseñados en forma conjunta para garantizar la adecuada seguridad durante las condiciones de fuego establecidas para el ensayo especificado en A.15. A fin de optimizar las condiciones de seguridad, el fabricante puede especificar ubicaciones alternativas de los dispositivos de alivio de presión  para instalaciones específicas en vehículos.
+Los dispositivos de alivio de presión deberán ser aprobados según el Reglamento Técnico MERCOSUR correspondiente.
+6.3.7. Accesorios
+Cuando se utilice un anillo de gollete, anillo de pie o un accesorio para apoyo, éste deberá ser de un material compatible con el del cilindro y deberá ser agregado en forma segura mediante un método que no sea soldadura.
+6.4 Fabricación y acabado
+6.4.1. Cierre del extremo
+El espesor y la terminación superficial de cada cilindro deberán ser examinados antes de realizar el cierre del extremo.
+El fondo de los cilindros de aluminio no deberá ser sellado a través de un proceso de conformación.
+El fondo de los cilindros de acero que hayan sido cerrados a través de un proceso de conformación, será inspeccionado mediante ensayo no destructivo.
+No podrá agregarse metal durante el proceso de cierre de los extremos.
+6.4.2. Tratamiento térmico
+Luego del proceso de conformación del extremo, los cilindros deberán ser tratados térmicamente hasta alcanzar el nivel de dureza especificado para el diseño. No se permite realizar un tratamiento térmico localizado.
+6.4.3. Roscas de cuello
+Las roscas deberán ser de corte limpio, parejas, y no presentarán discontinuidades de superficie a fin de medir y cumplir con este Reglamento Técnico. La rosca de cuello del cilindro, deberá  responder a la Norma ISO 10920.
+
+
+6.4.4. Protección externa contra condiciones ambientales
+El exterior de los cilindros deberá cumplir con los requisitos del ensayo en ambiente ácido del punto A.14. La protección externa podrá brindarse a través de cualquiera de los siguientes métodos:
+a) mediante una terminación de superficie que otorgue la debida protección (por ejemplo, aluminio metalizado, anodización); o
+b) mediante una Protección externa (por ejemplo, revestimiento orgánico, pintura); si la Protección externa forma parte del diseño, deberán cumplirse los requisitos establecidos en A.9; o
+c) mediante una Protección externa resistente e impermeable a los productos químicos establecidos en A.14.
+Toda Protección externa que se aplique a los cilindros deberá tener un proceso de aplicación que no afecte en forma adversa las propiedades mecánicas del cilindro. La Protección externa será diseñada de manera tal de facilitar la posterior inspección, y el fabricante proveerá las instrucciones para el tratamiento de la Protección externa durante la inspección en servicio a fin de garantizar la continua integridad del cilindro.
+El ensayo de desempeño ambiental que evalúa la aptitud de la protección externa debe ser conducido conforme el Apéndice F.
+6.5. Procedimiento para el ensayo de prototipo
+6.5.1. Requisitos generales
+El ensayo de prototipo deberá realizarse en cada nuevo diseño, sobre cilindros terminados representativos de una producción normal y que tengan sus marcas de identificación. El OEC deberá seleccionar los cilindros para ensayo y deberá presenciar los ensayos de prototipo detallados en 6.5.2. Si más cilindros fueran objeto de los ensayos requeridos por este Reglamento Técnico, todos los resultados deberán ser documentados.
+6.5.2. Ensayos de prototipo
+6.5.2.1. Ensayos necesarios
+En el transcurso de la aprobación de tipo, el OEC deberá seleccionar en forma aleatoria los cilindros necesarios y presenciar los siguientes ensayos:
+- los ensayos especificados en 6.5.2.2 o 6.5.2.3 (ensayos de material) en 1 cilindro;
+- el ensayo especificado en 6.5.2.4 (ensayo de estallido por presión hidráulica) en 3 cilindros;
+- el ensayo especificado en  6.5.2.5 (ensayo cíclico de presión a temperatura ambiente) en 2 cilindros;
+- el ensayo especificado en 6.5.2.6 (ensayo de pérdida anterior a la rotura) en 3 cilindros;
+- el ensayo especificado en 6.5.2.7 (ensayo de resistencia al fuego) en 1 o 2 cilindros, según corresponda;
+- el ensayo especificado en 6.5.2.8 (ensayo de penetración) en 1 cilindro.
+6.5.2.2 Ensayos del material para los cilindros de acero
+Los ensayos de material en los cilindros de acero deberán realizarse de la siguiente manera:
+a) Ensayo de tracción
+Las propiedades mecánicas del acero en el cilindro terminado deberán ser determinadas de acuerdo con A.1 y deberán cumplir con los requisitos allí enumerados.
+b) Ensayo de impacto
+Las propiedades de impacto del acero en el cilindro terminado deberán ser determinadas de acuerdo con A.2 y deberán cumplir con los requisitos allí enumerados.
+c) Ensayo de resistencia a las fisuras bajo tensión, por sulfuro
+Si el límite superior de la resistencia a la tracción especificada para el acero excede los 950 MPa, el acero de un cilindro terminado deberá ser objeto de un ensayo de resistencia a las fisuras bajo tensión por sulfuro, de acuerdo con A.3 y deberá cumplir con los requisitos allí enumerados.
+6.5.2.3 Ensayos del material para los cilindros de aluminio aleado
+Los ensayos del material serán realizados sobre cilindros de aluminio aleado, de la siguiente manera:
+a) Ensayo de tracción
+Las propiedades mecánicas de la aleación de aluminio en el cilindro terminado deberán ser determinadas de acuerdo con A.1 y deberán cumplir con los requisitos allí enumerados.
+b) Ensayos de corrosión
+Las aleaciones de aluminio deberán cumplir con los requisitos de los ensayos de corrosión realizados de acuerdo con A.4.
+c) Ensayos de fisuras por carga sostenida
+Las aleaciones de aluminio deberán cumplir con los requisitos de los ensayos de fisuras por carga sostenida realizados de acuerdo con A.5.
+6.5.2.4 Ensayo de estallido por presión hidráulica
+Tres cilindros representativos deberán ser hidrostáticamente presurizados hasta que se presenten fallas de acuerdo con A.12. Las presiones de estallido del cilindro deberán exceder la presión de estallido mínima calculada por el análisis de tensión para el diseño y deberá ser de por lo menos 45 MPa.
+6.5.2.5. Ensayo cíclico de presión a temperatura ambiente
+Dos cilindros deberán ser ciclados a presión a temperatura ambiente de acuerdo con A.13 hasta que se presenten fallas, o a un mínimo de 45.000 ciclos. Los cilindros no deberán presentar fallas antes de alcanzar una cantidad de ciclos igual a la vida útil multiplicada por 1.000 ciclos/año. Los cilindros que excedan esa cantidad de ciclos deberán presentar fallas debido a una pérdida y no a una rotura. Los cilindros que no presenten fallas dentro de los 45.000 ciclos deberán ser destruidos ya sea mediante la continuación de los ciclos hasta que se produzca su falla o mediante la presurización hidrostática hasta que estallen. Deberá documentarse el número de ciclos hasta la presentación de fallas y la ubicación en la que éstas se inician.
+6.5.2.6. Ensayo de pérdida anterior a la rotura
+El ensayo de pérdida anterior a la rotura deberá realizarse de acuerdo con A.6 y cumplir con los requisitos allí enumerados.
+ 6.5.2.7. Ensayo de resistencia al fuego
+Uno o dos cilindros, según corresponda, deberán ser ensayados de acuerdo con el punto A.15 y deberán cumplir con los requisitos allí enumerados.
+6.5.2.8. Ensayo de penetración
+Un cilindro deberá ser ensayado de acuerdo con el punto A.16 y deberá cumplir con los requisitos allí enumerados.
+6.5.3 Cambio de diseño
+Un cambio de diseño es todo cambio en la selección de materiales estructurales o cambio de las dimensiones no atribuible a las tolerancias normales de fabricación.
+Los cambios de diseño especificados en la Tabla 2 sólo requerirán los ensayos de prototipo que se especifican en esa tabla.
+Tabla 2 - Cambio de diseño para los cilindros tipo GNC-1
+Cambio de diseño
+Tipo de ensayo
+
+Estalli
+do hidráulico
+Ciclos de presión a temperatu
+ra ambiente
+Pérdida anterior a la rotura
+Incen
+dio
+Penetra
+ción
+
+Cláusula
+
+A.12
+A.13
+A.6
+A.15
+A.16
+Material del  cilindro de metal
+X
+X
+X
+X
+X
+Cambio de diámetro ≤ 20%
+X
+X
+-
+-
+-
+Cambio de diámetro > 20 %
+X
+X
+X
+X
+X
+Cambio de largo ≤ 50%
+X
+X
+-
+X(a)
+-
+Cambio de largo > 50 %
+X
+X
+-
+X(a)
+-
+Cambio de la presión de trabajo  ≤  20 %b
+X
+X
+-
+-
+-
+Forma de la ojiva
+X
+X
+-
+-
+-
+Tamaño de la abertura
+X
+X
+-
+-
+-
+Cambio en el proceso de fabricación
+X
+X
+-
+-
+-
+Dispositivo del alivio de presión
+-
+-
+-
+X
+-
+a) Ensayo requerido sólo si se incrementa el largo.
+b) Sólo cuando el espesor cambia en forma proporcional al cambio de diámetro y/o de presión.
+
+6.6. Ensayos de lote
+6.6.1 Requisitos generales
+Los ensayos de lote deberán ser realizados en los cilindros terminados que representen la producción y que tengan sus marcas de identificación. Los cilindros para ensayo deberán ser seleccionados de cada lote al azar. Si más cilindros fueran objeto de los ensayos requeridos por este Reglamento Técnico, todos los resultados deberán ser documentados. También podrán ser utilizadas aquellas muestras testigo del tratamiento térmico que sean representativas de los cilindros terminados.
+No es necesario que los cilindros aprobados en base a las Normas ISO 9809-1, ISO 9809-2, ISO 9809-3 o ISO 7866 sean sometidos a un ensayo de ciclos de presión, siempre que durante el ensayo de aprobación de tipo los cilindros soporten un ciclado a presión sin que se presenten fallas durante un mínimo de 15.000 ciclos de presión desde no más de 2 MPa hasta no menos de 30 MPa (de acuerdo con el procedimiento de ensayo detallado en A.6), o durante un mínimo de 30.000 ciclos de presión desde no más de 2 MPA hasta no menos de 26 MPa (de acuerdo con el procedimiento de ensayo detallado en A.13).
+6.6.2 Programa de ensayo
+6.6.2.1 En cada lote de cilindros deberán realizarse los siguientes ensayos:
+a) en un cilindro:
+- un ensayo de estallido por presión hidráulica de acuerdo con el punto A.12.
+b) en otro cilindro o en una muestra testigo tratada térmicamente, representativa de un cilindro terminado:
+1) un control de las dimensiones críticas con las del diseño (ver 5.2.4.1);
+2) un ensayo de tracción de acuerdo con el punto A.1; los resultados del ensayo deberán satisfacer los requisitos del diseño (ver 5.2.4.1);
+3) para los cilindros de acero, tres ensayos de impacto de acuerdo con el punto A.2; los resultados del ensayo deberán satisfacer los requisitos especificados en A.2;
+4) cuando una Protección externa al cilindro sea parte del diseño, un ensayo de lote de la Protección externa de acuerdo con el punto A.24. Cuando la Protección externa no cumpla con los requisitos del punto A.24, el lote será inspeccionado en su totalidad a fin de sacar los cilindros que presenten revestimientos defectuosos similares. El revestimiento de todos los cilindros revestidos defectuosamente se puede sacar, y los cilindros se pueden volver a revestir. El ensayo de lote de la Protección externa deberá repetirse.
+Todos los cilindros representados por un ensayo de lote y que no cumplan con los requisitos especificados deberán seguir los procedimientos detallados en el punto 6.9.
+6.6.2.2  Además, deberá realizarse en los cilindros terminados un ensayo de ciclos de presión de acuerdo con el punto A.13, con la siguiente frecuencia de ensayo:
+a) inicialmente, un cilindro de cada lote deberá ser presurizado cíclicamente por un total de 1.000  veces su vida útil. Para aquellos cilindros cuya vida útil sea inferior a 15 años corresponderá un mínimo de 15000 ciclos.
+b) si en una secuencia de 10 lotes de producción de una familia de diseño (es decir, materiales y procesos similares dentro de la definición de un cambio menor de diseño, ver 6.5.3) ninguno de los cilindros sometidos a los ciclos de presión detallados en el apartado a) de este mismo punto pierde o se rompe en menos de 1.500 ciclos multiplicados por la vida útil especificada en años (22.500 ciclos como  mínimo), el ensayo de ciclado a presión podrá limitarse a un cilindro de cada 5 lotes de producción;
+c) si en una secuencia de 10 lotes de producción de una familia de diseño ninguno de los cilindros sometidos a los ciclos de presión detallados en el apartado a) de este mismo punto pierde o se rompe en menos de 2.000 ciclos multiplicados por la vida útil especificada en años (30.000 ciclos como  mínimo), el ensayo de ciclado a presión podrá limitarse a un cilindro de cada 10 lotes de producción;
+d) si hubieran transcurrido más de tres meses desde el último ensayo de ciclos de presión, un cilindro del siguiente lote de producción deberá ser sometido al ensayo de ciclos de presión a fin de mantener la frecuencia reducida de los ensayos de lote establecidos en los apartados b) o c) de este mismo punto;
+e) si alguno de los cilindros sometidos al ensayo de ciclos de presión con frecuencia reducida establecida en b) o c) de este mismo punto no cumple con el número requerido de ciclos de presión (22.500 o 30.000 ciclos de presión como mínimo, respectivamente), será necesario repetir la frecuencia de ensayo de lote de ciclos de presión establecida en a) en un mínimo de 10 lotes de producción a fin de restablecer la frecuencia reducida del ensayo de lote de ciclos de presión establecida en b) o c) de este mismo punto.
+Si alguno de los cilindros de los puntos a), b) o c) anteriormente mencionados no cumple con el requisito mínimo de 1.000 ciclos multiplicados por la vida útil especificada en años (15.000 ciclos como mínimo), la causa de la falla deberá ser determinada y corregida siguiendo los procedimientos del punto 6.9. El ensayo de ciclos de presión deberá repetirse en otros tres cilindros de ese lote. Si cualquiera de estos tres cilindros no cumple con el requisito mínimo de 1.000 ciclos a presión multiplicados por la vida útil especificada en años, el lote deberá ser rechazado.
+6.7 Ensayos en cada cilindro
+Las inspecciones y ensayos de producción deberán realizarse en todos los cilindros producidos en un lote.
+Cada cilindro deberá ser examinado durante su fabricación y una vez terminado, de la siguiente manera:
+a) a través de un ensayo no destructivo, de acuerdo con el Apéndice B, para verificar que el tamaño máximo del defecto no exceda el tamaño especificado en el diseño, tal como se determina en 6.3.4. A través del método de ensayo no destructivo se deberá poder detectar el tamaño máximo permitido del defecto;
+b) para verificar que las dimensiones críticas y la masa del cilindro terminado se encuentran dentro de las tolerancias del diseño;
+c) para verificar el cumplimiento con la terminación superficial especificada en el diseño, prestando especial atención a los embutidos profundos y a los pliegues o solapes en el cuello u ojiva de los cerramientos o aberturas forjadas o moldeadas;
+d) para verificar el marcado;
+e) a través de ensayos de dureza de cilindros sometidos a tratamiento térmico de acuerdo con el punto A.8; los valores así determinados deberán estar dentro de la escala especificada para el diseño;
+f) a través del ensayo hidráulico de los cilindros terminados de acuerdo con el punto A.11. Si se eligiera la opción 1, el fabricante deberá establecer el límite apropiado de expansión volumétrica permanente para la presión de prueba utilizada, pero en ningún caso la expansión permanente excederá el 10 % de la expansión volumétrica total medida bajo la presión de prueba.
+6.8. Certificado de aprobación de lote
+Si los resultados del ensayo de lote de acuerdo con los puntos 6.6 y 6.7 son satisfactorios, el fabricante y el OEC deberán firmar un certificado de aceptación. El modelo de certificado de aceptación a ser utilizado (denominado "Informe de Fabricación y Certificado de Conformidad") se encuentra detallado en el Apéndice E.
+6.9. Incumplimiento de los requisitos de ensayo
+En el caso de incumplimiento de los requisitos de ensayo, un reensayo o un retratamiento térmico y reensayo deberán ser realizados a satisfacción del OEC de la siguiente manera:
+a) Si hubiera evidencias de falla en la realización de un ensayo, o un error de medida, deberá realizarse otro ensayo; si el resultado de este ensayo es satisfactorio, el primer ensayo no será tenido en cuenta.
+b) Si el ensayo ha sido realizado de manera satisfactoria, se deberá identificar la causa de la falla.
+1) Si se considera que la falla se debe al tratamiento térmico aplicado, el fabricante podrá someter todos los cilindros implicados en la falla a otro tratamiento térmico, es decir, si la falla se produce en un ensayo que representa a los cilindros de lote o prototipo, la falla del ensayo requerirá un retratamiento térmico de todos los cilindros representados antes de realizar un reensayo; no obstante, si la falla se produce en forma esporádica en un ensayo aplicado a cada cilindro, sólo aquellos cilindros que fallen en el ensayo requerirán un retratamiento térmico y reensayo.
+- Toda vez que los cilindros sean sometidos a un retratamiento térmico, deberá mantenerse el espesor mínimo de pared garantizado.
+- Sólo serán realizados nuevamente los ensayos de prototipo o de lote  significativos , necesarios para probar la aceptabilidad de un nuevo lote. Si uno o más ensayos no son satisfactorios, aunque sea parcialmente, todos los cilindros del lote serán rechazados.
+2) Si la falla se debe a una causa distinta del tratamiento térmico aplicado, todos los cilindros defectuosos deberán ser rechazados o reparados. Si los cilindros reparados aprueban el/los ensayo/s requeridos por la reparación, deberán ser reconsiderados como parte del lote original.
+7. Requisitos de los cilindros bobinados en la parte cilíndrica tipo GNC-2
+7.1 Generalidades
+El presente Reglamento Técnico no establece fórmulas de diseño ni enumera tensiones o deformaciones permitidas, pero requiere que la adecuación del diseño sea establecida de acuerdo con cálculos apropiados y demostrado que los cilindros cumplen satisfactoriamente los ensayos de material, de qualificación de diseño, de producción y de lote especificados en este Reglamento Técnico.
+Durante la presurización, este tipo de diseño de cilindros muestra un comportamiento en el cual los desplazamientos del  revestimiento externo y del "liner" de metal son superpuestos linealmente. Debido a las diferentes técnicas de fabricación, este Reglamento Técnico no provee un método de diseño definido.
+El diseño deberá asegurar un modo de falla "pérdida anterior a la rotura" bajo condiciones de posible degradación de las partes que contienen presión durante el servicio normal. Si se produce una pérdida en el "liner" de metal, sólo se podrá deber al crecimiento de una grieta por fatiga.
+7.2 Materiales
+7.2.1 Requisitos generales
+Los materiales utilizados deberán ser los adecuados para las condiciones de servicio especificadas en el capítulo 4. El diseño deberá asegurar que no haya materiales incompatibles en contacto.
+7.2.2 Controles de la composición química
+7.2.2.1 Acero
+Los aceros serán calmados con aluminio y/o silicio, y fabricados con técnicas para obtener predominantemente grano fino. La composición química de todos los aceros deberá ser declarada y definida por lo menos por:
+a) los contenidos de carbono, manganeso, aluminio y silicio en todos los casos;
+b) los contenidos de cromo, níquel, molibdeno, boro y vanadio, y de cualquier otro elemento aleante intencionalmente agregado.
+El contenido de azufre y fósforo en el análisis de colada no deberá exceder los valores indicados en la Tabla 3.
+Tabla 3 - Límites máximos de azufre y fósforo
+Resistencia a la tracción
+ 950 MPa
+ 950 MPa
+
+Azufre
+0,020%
+0,010%
+Nivel de
+Fósforo
+0,020%
+0,020%
+
+Azufre + Fósforo
+0,030%
+0,025%
+
+7.2.2.2 Aluminio
+Las aleaciones de aluminio pueden ser utilizadas para fabricar cilindros siempre que cumplan con los requisitos de este Reglamento Técnico y posean contenidos máximos de plomo y bismuto que no excedan el 0,003 %.
+7.2.3 Materiales compuestos
+7.2.3.1 Resinas
+El material para la impregnación podrá ser resinas termorígidas o termoplásticas. Ejemplos de materiales matrices adecuados son epoxi, epoxi modificado, plásticos termorígidos de poliéster y estervinílico, y material termoplástico de polietileno y poliamida.
+La temperatura de transición al estado vítreo del material de la resina deberá ser determinada de acuerdo con la norma ASTM D3418-99.
+7.2.3.2 Fibras
+Los tipos de material del filamento para el refuerzo estructural deberán ser fibra de vidrio, fibra de aramida o fibra de carbono. Si se utiliza un refuerzo de fibra de carbono, el diseño deberá incorporar los medios necesarios para prevenir la corrosión electrolítica de los componentes metálicos del cilindro.
+El fabricante o importador deberá archivar las especificaciones publicadas para los materiales compuestos, las recomendaciones del fabricante del material para el almacenamiento, condiciones y duración del almacenamiento, y la certificación del fabricante del material de que cada partida cumple con dichos requisitos de especificación. El fabricante de la fibra  deberá certificar que las propiedades materiales de la fibra cumplen las especificaciones del fabricante o importador para el producto.
+7.3 Requisitos del diseño
+7.3.1 Presión de prueba
+La presión de prueba mínima utilizada en la fabricación será de 30 MPa (1,5 veces la presión de trabajo).
+7.3.2 Relaciones de tensión de la fibra y de presiones de estallido
+El "liner" de metal deberá tener una presión de estallido mínima efectiva de 26 MPa bar.
+La presión de estallido mínima efectiva no deberá ser inferior a los valores establecidos en la Tabla 4. El revestimiento externo deberá ser diseñado para una alta confiabilidad bajo condiciones de carga sostenida y carga cíclica. Esta confiabilidad deberá lograrse alcanzando o superando los valores de relación de tensión de los refuerzos compuestos establecidos en la Tabla 4. La relación de tensión se define como la tensión en la fibra a una presión de estallido mínima especificada, dividida por la tensión en la fibra a la presión de trabajo. La relación de estallido se define como la presión de estallido efectiva del cilindro, dividida por la presión de trabajo.
+Los cálculos de la relación de tensión deberán incluir:
+a) un método de análisis apto para los materiales no lineales (un programa de computación con un fin especial o un programa de análisis por elementos finitos);
+b) modelado adecuado de la curva esfuerzo-deformación plástico-elástica para un material conocido de "liner";
+c) modelado adecuado de las propiedades mecánicas de los Revestimientos externos;
+d) cálculos a la presión de autozunchado, presión cero luego del autozunchado, presión de trabajo, y presión de estallido mínima;
+e) informe de los pretensados provenientes de la tensión de enrollado;
+f) la presión de estallido mínima, elegida de tal manera que la tensión calculada a la presión de estallido mínima dividida por la tensión calculada a la presión de trabajo cumpla los requisitos de la relación de tensión requeridos para la fibra utilizada;
+g) consideración del modo en que se comparte la carga entre las diferentes fibras, basada en los distintos módulos elásticos de las fibras cuando se analizan los cilindros con refuerzo híbrido (dos o más fibras diferentes). Los requisitos de la relación de tensión para cada tipo de fibra deberán ser concordantes con los valores establecidos en la Tabla 4.
+También se puede hacer la verificación de las relaciones de tensión utilizando extensímetros como se indica  en el Apéndice G.
+
+Tabla 4 - Valores mínimos de estallido efectivo y relaciones de tensión para cilindros tipo GNC-2
+
+Tipo de fibra
+Relación de tensión
+Presión de estallido (MPa)
+Vidrio
+2,75
+50 a)
+Aramida
+2,35
+47
+Carbono
+2,35
+47
+Híbrido
+b)
+a) Presión de estallido mínima efectiva. Además, los cálculos deberán realizarse de acuerdo con el punto 7.3.2 para confirmar que también se cumple con los requisitos mínimos de la relación de tensión.
+b) Las relaciones de tensión y presiones de estallido deberán ser calculadas de acuerdo con el punto 7.3.2.
+
+7.3.3 Análisis de tensión
+Las tensiones en el compuesto y en el "liner" interior luego del pretensado deberán ser calculadas para 0 MPa, 20 MPa, presión de prueba y presión de estallido de diseño. Los cálculos deberán realizarse mediante técnicas adecuadas de análisis, teniendo en cuenta el comportamiento no lineal del material del "liner" al establecer las distribuciones de tensión.
+En los diseños en los que se utilice autozunchado para el pretensado, los límites dentro de los cuales caerá la presión de autozunchado deberán ser calculados y especificados. En los diseños en los que se utilice tensión controlada de enrollado para el pretensado, deberán calcularse la temperatura a la que se realiza, la tensión necesaria en cada capa de compuesto y el consecuente pretensado en el "liner".
+7.3.4 Tamaño máximo del defecto
+Deberá especificarse el tamaño máximo del defecto en cualquier parte del "liner" de metal, de manera que el cilindro cumpla con los requisitos de ciclado a presión y de pérdida anterior a la rotura. El método del ensayo no destructivo debe ser capaz de detectar el tamaño máximo de defecto permitido.
+El tamaño permitido del defecto para el ensayo no destructivo será determinado a través del método que se describe en el Apéndice D.
+7.3.5 Aberturas
+Sólo se permiten aberturas en las ojivas. La línea de centros de las aberturas deberá coincidir con el eje longitudinal del cilindro.
+7.3.6 Protección contra incendio
+El diseño del cilindro deberá prever su protección con dispositivos de alivio de presión.  El cilindro, sus materiales, los dispositivos de alivio de presión y cualquier material aislante o de protección que se agregue, deberán ser diseñados en forma conjunta para garantizar la adecuada seguridad durante las condiciones de fuego establecidas para el ensayo especificado en A.15. A fin de optimizar las condiciones de seguridad, el fabricante puede especificar ubicaciones alternativas de los dispositivos de alivio de presión para instalaciones específicas en vehículos.
+Los dispositivos de alivio de presión deberán ser aprobados según el Reglamento Técnico MERCOSUR correspondiente.
+7.4 Fabricación y acabado
+7.4.1 Generalidades
+El cilindro compuesto deberá fabricarse a partir de un "liner" revestido externamente con filamento continuo. Las operaciones de enrollado de las fibras deberán ser controladas electrónica o mecánicamente. Las fibras deberán aplicarse con tensión controlada durante el enrollado. Luego de completado el enrollado, las resinas termorígidas deberán curarse mediante calor, utilizando un diagrama de tiempo-temperatura predeterminado y controlado.
+7.4.2 "Liner"
+La fabricación de un "liner" de metal deberá cumplir con los requisitos establecidos en los puntos 7.2, 7.3.2 y en el punto 7.5.2.2 o 7.5.2.3 según corresponda con el tipo de fabricación del "liner".
+7.4.3 Roscas de cuello
+Las roscas deberán ser de corte limpio, parejas, y no presentarán discontinuidades de superficie a fin de medir y cumplir con este Reglamento Técnico. La rosca de cuello del cilindro, si es cónica deberá  responder a la Norma ISO 10920, y si es cilíndrica a la Norma ISO 15245-1.
+7.4.4 Revestimiento externo
+7.4.4.1  Bobinado de la fibra
+Los cilindros deberán ser fabricados mediante una técnica de bobinado de la fibra. Durante el bobinado, las variables significativas deberán mantenerse dentro de las tolerancias especificadas, y documentadas en un registro de bobinado. Estas variables pueden incluir, pero no se limitan a:
+a) tipo de fibra, incluyendo el tamaño;
+b) forma de impregnación;
+c) tensión de bobinado;
+d) velocidad de bobinado;
+e) cantidad de hilos de la fibra;
+f) ancho de la banda;
+g) tipo de resina y composición;
+h) temperatura de la resina;
+i) temperatura del "liner"; y
+j) ángulo de bobinado.
+7.4.4.2 Curado de las resinas termorígidas
+Si se utiliza una resina termorígida, ésta deberá ser curada luego del enrollado de filamentos. Durante el curado, se deberá documentar el ciclo de curado registrando la temperatura en función del tiempo.
+El tiempo y temperatura máximos de curado para los cilindros con "liners" de aluminio aleado deberán ser inferiores al tiempo y temperatura que afecten de manera adversa las propiedades del metal.
+7.4.4.3 Autozunchado
+Si se utilizara autozunchado, éste deberá realizarse antes del ensayo de presión hidráulica. La presión de autozunchado deberá estar dentro de los límites establecidos en el punto 7.3.3, y el fabricante deberá establecer el método para verificar la presión apropiada.
+7.4.5 Protección externa contra condiciones ambientales (Protección externa)
+El exterior de los cilindros deberá cumplir con los requisitos del ensayo de ambiente ácido del punto A.14. La Protección externa podrá brindarse a través de cualquiera de los siguientes métodos:
+a) mediante una terminación de superficie que otorgue la protección adecuada (por ejemplo, metalizado por aspersión sobre el aluminio, anodización); o
+b) mediante el uso de una fibra y material matriz adecuados (por ejemplo, fibra de carbono en resina); o
+c) mediante una Protección externa (por ejemplo, revestimiento orgánico, pintura); si la Protección externa forma parte del diseño, deberán cumplirse los requisitos establecidos en A.9; o
+d) mediante una Protección externa resistente e impermeable a los productos químicos mencionados en A.14
+Toda Protección externa que se aplique a los cilindros deberá tener un proceso de aplicación que no afecte en forma adversa las propiedades mecánicas del cilindro. La Protección externa será diseñada de manera tal de facilitar la posterior inspección, y el fabricante proveerá las instrucciones para el tratamiento de la Protección externa durante la inspección en servicio a fin de garantizar la continua integridad del cilindro.
+El ensayo de desempeño ambiental que evalúa la aptitud de la protección externa debe ser conducido conforme el Apéndice F.
+7.5 Procedimiento para el ensayo de prototipo
+7.5.1 Requisitos generales
+El ensayo de prototipo deberá realizarse en cada nuevo diseño, en los cilindros terminados que representen la producción normal y que tengan sus marcas de identificación. El OEC deberá seleccionar los cilindros o "liners" para ensayo y deberá presenciar los ensayos de prototipo detallados en 7.5.2. Si más cilindros o "liners" fueran objeto de los ensayos requeridos por este Reglamento Técnico, todos los resultados deberán ser documentados.
+7.5.2 Ensayos de prototipo
+7.5.2.1 Ensayos necesarios
+En el transcurso de la aprobación de tipo, el OEC debe seleccionar en forma aleatoria los cilindros o "liners" necesarios y presenciar los siguientes ensayos:
+- los ensayos especificados en 7.5.2.2 o 7.5.2.3 (ensayos de material), según corresponda, en un "liner";
+- el ensayo especificado en 7.5.2.4  (ensayo de estallido por presión hidráulica) en un "liner" y 3 cilindros;
+- el ensayo especificado en 7.5.2.5 (ensayo de ciclado a presión a temperatura ambiente) en 2 cilindros;
+- el ensayo especificado en 7.5.2.6 (ensayo de "pérdida anterior a la rotura") en 3 cilindros;
+- el ensayo especificado en 7.5.2.7 (ensayo de resistencia al fuego) en 1 o 2 cilindros, según corresponda;
+- el ensayo especificado en 7.5.2.8 (ensayo de penetración) en 1 cilindro;
+- el ensayo especificado en 7.5.2.9 (ensayo en ambiente ácido) en 1 cilindro;
+- el ensayo especificado en 7.5.2.10 (ensayo de tolerancia de defectos) en 1 cilindro;
+- ensayo especificado en 7.5.2.11 (ensayo de termofluencia a alta temperatura), cuando corresponda, en 1 cilindro;
+- el ensayo especificado en 7.5.2.12 (ensayo acelerado de rotura por tensión) en 1 cilindro;
+- el ensayo especificado en 7.5.2.13 (ensayo de ciclado a presión a temperatura extrema) en 1 cilindro;
+- el ensayo especificado en 7.5.2.14 (resistencia de la resina al esfuerzo de corte) en 1 muestra de material representativa del revestimiento exterior.
+7.5.2.2 Ensayos de material para los "liners" de acero
+Los ensayos de material deberán realizarse en los "liners" de acero de la siguiente manera:
+a) Ensayo de tracción
+Las propiedades del acero en el "liner" terminado serán determinadas de acuerdo con A.1 y deberán cumplir con los requisitos allí enumerados.
+b) Ensayo de impacto
+Las propiedades de impacto del acero en el "liner" terminado serán determinadas de acuerdo con A.2 y deberán cumplir con los requisitos allí enumerados.
+c) Ensayo de resistencia a las fisuras bajo tensión, por sulfuro.
+Si el límite superior de la resistencia a la tracción especificada para el acero excede los 950 MPa, el acero de un cilindro terminado deberá ser objeto de un ensayo de resistencia a las fisuras bajo tensión por sulfuro de acuerdo con A.3 y deberá cumplir con los requisitos allí enumerados.
+7.5.2.3 Ensayos de material para los "liners" de aluminio aleado
+Los ensayos de material serán realizados sobre "liners" de aluminio aleado, de la siguiente manera:
+a) Ensayo de tracción
+Las propiedades materiales del aluminio aleado en el cilindro terminado deberán determinarse de acuerdo con el punto A.1 y deberán cumplir con los requisitos allí enumerados.
+b) Ensayos de corrosión
+Las aleaciones de aluminio deberán cumplir con los requisitos de los ensayos de corrosión realizados de acuerdo con A.4.
+c) Ensayos de fisuras por carga sostenida
+Las aleaciones de aluminio deberán cumplir con los requisitos de los ensayos de fisuras por carga sostenida realizados de acuerdo con A.5.
+7.5.2.4 Ensayo de estallido por presión hidráulica
+a) Un "liner" deberá ser hidrostáticamente presurizado hasta que presente fallas de acuerdo con A.12. La presión de estallido deberá exceder la presión de estallido mínima especificada para el diseño del "liner".
+b) Tres cilindros deberán ser hidrostáticamente presurizados hasta que presenten fallas de acuerdo con el punto A.12. Las presiones de estallido del cilindro deberán exceder la presión de estallido mínima especificada calculada según el análisis de tensión del diseño, de acuerdo con la Tabla 4, y en ningún caso serán inferiores al valor necesario para cumplir con los requisitos de la relación de tensión establecida en el punto 7.3.2.
+7.5.2.5 Ensayo de ciclado a presión a temperatura ambiente
+Dos cilindros deberán ser ciclados a presión a temperatura ambiente hasta que presenten fallas de acuerdo con A.13, o a un mínimo de 45.000 ciclos. Los cilindros no deberán presentar fallas antes de alcanzar una cantidad de ciclos igual a la vida útil multiplicada por 1.000 ciclos/año. Los cilindros que excedan esa cantidad de ciclos deberán presentar fallas debido a una pérdida y no a una rotura. Los cilindros que no fallen dentro de los 45.000 ciclos deberán ser destruidos ya sea mediante la continuación de los ciclos hasta que se produzca la falla o mediante la presurización hidrostática hasta que estallen. Está permitido que los cilindros que superen los 45.000 ciclos fallen por rotura. Deberá documentarse el número de ciclos hasta la presentación de fallas y la ubicación en la que éstas se inician.
+7.5.2.6 Ensayo de pérdida anterior a la rotura
+El ensayo de pérdida anterior a la rotura deberá realizarse de acuerdo con A.6 y deberá cumplir con los requisitos allí enumerados.
+7.5.2.7 Ensayo de resistencia al fuego
+Uno o dos cilindros, según corresponda, deberán ser ensayados de acuerdo con A.15 y deberán cumplir con los requisitos allí enumerados.
+7.5.2.8 Ensayo de penetración
+Un cilindro deberá ser ensayado de acuerdo con A.16 y deberá cumplir con los requisitos allí enumerados.
+7.5.2.9 Ensayo en ambiente ácido
+Un cilindro deberá cumplir con los requisitos señalados en A.14 , o de acuerdo a lo indicado en el Apéndice F.
+7.5.2.10 Ensayos de tolerancia de defectos
+Un cilindro deberá ser ensayado de acuerdo con el punto A.17 y deberá cumplir con los requisitos allí enumerados.
+7.5.2.11 Ensayo de fluencia a alta temperatura
+En aquellos diseños en los que la temperatura de transición al estado vítreo de la resina no exceda los 102 °C, un cilindro deberá ser ensayado de acuerdo con el punto A.18 y deberá cumplir con los requisitos allí enumerados.
+7.5.2.12 Ensayo de rotura por tensión acelerada
+Un cilindro deberá ser ensayado de acuerdo con A.19 y deberá cumplir con los requisitos allí enumerados.
+7.5.2.13 Ensayo de ciclado a presión a temperatura extrema
+Un cilindro deberá ser ensayado de acuerdo con A.7 y deberá cumplir con los requisitos allí enumerados.
+7.5.2.14 Resistencia de la resina al esfuerzo de corte
+Los materiales de la resina deberán ser ensayados de acuerdo con A.26 y deberán cumplir con los requisitos allí enumerados.
+7.5.3 Cambio de diseño
+Un cambio de diseño es todo cambio en la selección de materiales estructurales o cambio de las dimensiones no atribuible a las tolerancias normales de fabricación.
+Los cambios menores de diseño se podrán habilitar a través de un programa reducido de ensayos. Los cambios de diseño especificados en la Tabla 5 sólo requerirán los ensayos de prototipo que se especifican en esa tabla.
+
+
+Tabla 5 - Cambio de diseño para los cilindros tipo GNC-2
+
+Cambio de diseño
+Tipo de Ensayo
+
+Esta-llido hidráu-lico
+Cicla
+do a pre
+sión a tempe
+ratura ambiente
+Incendio
+Pene
+tra-ción
+Am
+bien-tal
+Tole
+rancia de defec
+tos
+Termo-fluencia a alta tempe
+ratura
+Ten
+sión de ruptura
+
+Item
+
+A.12
+A.13
+A.15
+A.16
+A.14
+A.17
+A.18
+A.19
+Fabricante de la fibra
+X
+X
+-
+-
+-
+-
+X
+X
+Material  del "liner"  de metal
+X
+X
+X
+X
+X
+X
+X
+X
+Material de la fibra
+X
+X
+X
+X
+X
+X
+X
+X
+Material de la resina
+-
+-
+-
+X
+X
+X
+X
+X
+Cambio de diámetro  ≤ 20 %
+X
+X
+-
+-
+-
+-
+-
+-
+Cambio de diámetro  > 20 %
+X
+X
+X
+X
+-
+X
+-
+-
+Cambio de largo ≤ 50 %
+X
+-
+X a)
+-
+-
+-
+-
+-
+Cambio de largo > 50 %
+X
+X
+X a)
+-
+-
+-
+-
+-
+Cambio de la presión de
+trabajo ≤ 20 %b
+X
+X
+-
+-
+-
+-
+-
+-
+Forma de la ojiva
+X
+X
+-
+-
+-
+-
+-
+-
+Tamaño de la abertura
+X
+X
+-
+-
+-
+-
+-
+-
+Cambio del revestimiento
+-
+-
+-
+-
+X
+-
+-
+-
+Cambio en el proceso de fabricación
+X
+X
+-
+-
+-
+-
+-
+-
+Dispositivo de alivio de presión
+
+-
+-
+X
+-
+-
+-
+-
+-
+a) Ensayo requerido sólo cuando aumenta el largo.
+b) Sólo cuando el espesor cambia en forma proporcional al cambio de diámetro y/o de presión.
+
+7.6 Ensayos de lote
+7.6.1 Requisitos generales
+Los ensayos de lote deberán realizarse en cilindros terminados que representen la producción normal y que tengan sus marcas de identificación. Los cilindros y "liners" necesarios para el ensayo deberán ser seleccionados de cada lote al azar. Si más cilindros son objeto de los ensayos requeridos por este Reglamento Técnico, todos los resultados deberán ser documentados. Cuando se detecten defectos en el revestimiento externo anteriores a cualquier ensayo de autozunchado o de presión hidráulica, el revestimiento externo podrá ser completamente sacado y reemplazado.
+7.6.2 Ensayos requeridos
+7.6.2.1 En cada lote de cilindros deberán realizarse, por lo menos los siguientes ensayos
+a) en un cilindro, un ensayo de estallido por presión hidráulica de acuerdo con A.12.
+Si la presión de estallido es menor que la presión de estallido mínima calculada, deberán seguirse los procedimientos especificados en 7.9.
+b) en otro cilindro, o "liner", o en una muestra testigo tratada térmicamente representativa de un cilindro terminado:
+1. un control de las dimensiones críticas con el diseño (ver 5.2.4.1);
+2. un ensayo de tracción de acuerdo con A.1; los resultados del ensayo deberán satisfacer los requisitos del diseño (ver 5.2.4.1);
+3. para los "liners" de acero, tres ensayos de impacto de acuerdo con A.2; los resultados del ensayo deberán satisfacer los requisitos especificados en A.2;
+4. cuando una Protección externa al Revestimiento (Protección externa) sea parte del diseño, un ensayo de lote del revestimiento de acuerdo con A.24. Cuando la Protección externa no cumpla con los requisitos de A.24, el lote será inspeccionado en su totalidad a fin de sacar los cilindros que presenten Protecciones externas defectuosas similares. La Protección externa de todos los cilindros Protegidos defectuosamente se puede sacar utilizando un método que no afecte la integridad del enrollado compuesto, y luego, los cilindros se pueden volver a revestir. El ensayo de lote de la Protección externa deberá repetirse.
+Todos los cilindros o "liners" representados por un ensayo de lote y que no cumplan con los requisitos especificados deberán seguir los procedimientos detallados en 7.9.
+7.6.2.2  Además, deberá realizarse en los cilindros terminados un ensayo de ciclado a presión periódica de acuerdo con A.13, con la siguiente frecuencia de ensayo:
+a) inicialmente, un cilindro de cada lote deberá ser presurizado cíclicamente por un total de 1.000  veces su vida útil. Para aquellos cilindros cuya vida útil sea inferior a 15 años corresponderá un mínimo de 15000 ciclos.
+b) si en una secuencia de 10 lotes de producción de una familia de diseño (es decir, materiales y procesos similares dentro de la definición de un cambio menor de diseño, ver 7.5.3) ninguno de los cilindros sometidos a los ciclos de presión detallados en el apartado a) de este mismo punto pierde o se rompe en menos de una cantidad de ciclos igual al producto de la vida útil (especificada en años) por 1.500 (ciclos/año) (22.500 ciclos como  mínimo), el ensayo de ciclado a presión podrá limitarse a un cilindro de cada 5 lotes de producción;
+c) si en una secuencia de 10 lotes de producción de una familia de diseño ninguno de los cilindros sometidos a los ciclos de presión detallados en el apartado a) de este mismo punto pierde o se rompe en menos de una cantidad de ciclos igual al producto de la vida útil (especificada en años) por 2.000 (ciclos/año) (30.000 ciclos como  mínimo), el ensayo de ciclado a presión podrá limitarse a un cilindro de cada 10 lotes de producción;
+d) si hubieran transcurrido más de tres meses desde el último ensayo de ciclado a presión, un cilindro del siguiente lote de producción deberá ser sometido al ensayo de ciclado a presión a fin de mantener la frecuencia reducida de los ensayos de lote establecida en los apartados b) y c) de este mismo punto;
+e) si alguno de los cilindros sometidos al ensayo de ciclado a presión con frecuencia reducida, establecida en los apartados b) o c) de este mismo punto, no cumple con el número requerido de ciclos de presión (22.500 o 30.000 ciclos de presión como mínimo, respectivamente), será necesario repetir la frecuencia de ensayo de lote de ciclado a presión establecida en el apartado a) en un mínimo de 10 lotes de producción a fin de restablecer la frecuencia reducida del ensayo de lote de ciclado a presión establecida en los apartados b) o c) de este mismo punto.
+Si alguno de los cilindros de los apartados a), b) o c) anteriormente mencionados no cumple con el requisito mínimo de una cantidad de ciclos igual al producto de la vida útil (especificada en años) por 1.000 (ciclos/año) (15.000 ciclos como mínimo), la causa de la falla deberá ser determinada y corregida siguiendo los procedimientos de 7.9. El ensayo de ciclado a presión deberá repetirse en otros tres cilindros de ese lote. Si cualquiera de estos tres cilindros no cumple con el requisito mínimo de una cantidad de ciclos igual al producto de la vida de servicio (especificada en años) por 1.000 (ciclos/año), el lote deberá ser rechazado.
+7.7 Ensayos en cada cilindro
+Las inspecciones y ensayos de producción deberán realizarse en todos los cilindros producidos en un lote.
+Cada cilindro deberá ser examinado durante su fabricación y una vez terminado, de la siguiente manera:
+a) a través de un ensayo no destructivo de los "liners" de metal, de acuerdo con el Apéndice B, para verificar que el tamaño máximo del defecto no exceda el tamaño especificado en el diseño, tal como se determina en 7.3.4. A través del método de ensayo  no destructivo se deberá poder detectar el tamaño máximo permitido del defecto;
+b) para verificar que las dimensiones críticas y la masa de los cilindros terminados y de los "liners" y del revestimiento exterior se encuentran dentro de las tolerancias del diseño;
+c) para verificar el cumplimiento con la terminación superficial especificada, prestando especial atención a la superficie en los embutidos profundos y a los pliegues o solapes en el cuello u ojiva de los cerramientos o aberturas forjadas o moldeadas;
+d) para verificar el marcado;
+e) a través de ensayos de dureza de los "liners" de metal, de acuerdo con A.8, realizados luego del tratamiento térmico final. Los valores así determinados deberán estar dentro de la escala especificada para el diseño;
+f) a través del ensayo hidráulico de los cilindros terminados de acuerdo con A.11, opción 1. El fabricante deberá establecer el límite apropiado de expansión volumétrica permanente para la presión de prueba utilizada, pero en ningún caso la expansión permanente excederá el 5 % de la expansión volumétrica total medida bajo la presión de prueba.
+7.8 Certificado de aceptación de lote
+Si los resultados del ensayo de lote, de acuerdo con 7.6 y 7.7, fueran satisfactorios, el fabricante y el Inspector deberán firmar un certificado de aceptación. El modelo de certificado de aceptación a ser utilizado (denominado "Informe de Fabricación y Certificado de Conformidad") se encuentra detallado en el Apéndice E.
+7.9 Incumplimiento de los requisitos de ensayo
+En el caso de incumplimiento de los requisitos de ensayo, un reensayo o un retratamiento térmico y reensayo deberán ser realizados a satisfacción del OEC de la siguiente manera:
+a) Si hubiera evidencias de falla en la realización de un ensayo, o un error de medida, deberá realizarse otro ensayo; si el resultado de este ensayo es satisfactorio, el primer ensayo no será tenido en cuenta.
+b) Si el ensayo ha sido realizado de manera satisfactoria, se deberá identificar la causa de la falla del ensayo.
+1) Si se considera que la falla se debe al tratamiento térmico aplicado, el fabricante deberá someter todos los cilindros implicados en la falla a otro tratamiento térmico, es decir, si la falla se produce en un ensayo que representa a los cilindros de lote o de prototipo, la falla del ensayo requerirá un retratamiento térmico de todos los cilindros representados antes de realizar un reensayo; no obstante, si la falla se produce en forma esporádica en un ensayo aplicado a cada cilindro, sólo aquellos cilindros que fallen en el ensayo requerirán un retratamiento térmico y reensayo.
+-	Toda vez que los "liners" sean sometidos a un retratamiento térmico, deberá mantenerse el espesor mínimo de pared garantizado.
+-	Sólo serán realizados nuevamente los ensayos de prototipo o de lote significativos, necesarios para probar la  aceptabilidad de un nuevo lote. Si uno o más ensayos no fueran satisfactorios, aunque sea parcialmente, todos los cilindros del lote serán rechazados.
+2) Si la falla se debe a una causa distinta del tratamiento térmico aplicado, todos los cilindros defectuosos deberán ser rechazados o reparados. Si los cilindros reparados aprueban el/los ensayo/s requeridos por la reparación, deberán ser reconsiderados como parte del lote original.
+8. Requisitos de los cilindros totalmente bobinados tipo GNC-3
+8.1 Generalidades
+El presente Reglamento Técnico no establece fórmulas de diseño ni enumera tensiones o deformaciones permitidas, pero requiere que la adecuación del diseño sea establecida de acuerdo con cálculos apropiados y demostrado mediante pruebas que indiquen que los cilindros cumplen satisfactoriamente los ensayos de material, de cualificación de diseño, de producción y de lote especificados en este Reglamento Técnico.
+Durante la presurización, este tipo de diseño de cilindros muestra un comportamiento en el cual los desplazamientos del revestimiento externo y del "liner" son superpuestos. Debido a las diferentes técnicas de fabricación, este Reglamento Técnico no provee un método de diseño definido.
+El diseño deberá asegurar un modo de falla "pérdida anterior a la rotura" bajo condiciones de posible degradación de las partes que contienen presión durante el servicio normal. Si se produce una pérdida en el "liner" de metal, sólo se podrá deber al crecimiento de una grieta por fatiga.
+8.2 Materiales
+8.2.1 Requisitos generales
+Los materiales utilizados deberán ser los adecuados para las condiciones de servicio especificadas en el punto 4. El diseño deberá asegurar que no haya materiales incompatibles en contacto.
+8.2.2 Controles de la composición química
+8.2.2.1 Acero
+Los aceros serán calmados con aluminio y/o silicio, y fabricados con técnicas para obtener predominantemente grano fino. La composición química de todos los aceros deberá ser declarada y definida al menos por:
+a) los contenidos de carbono, manganeso, aluminio y silicio en todos los casos;
+b) los contenidos de cromo, níquel, molibdeno, boro y vanadio, y de cualquier otro elemento aleante intencionalmente agregado.
+El contenido de azufre y fósforo del análisis de colada no deberá exceder los valores indicados de la Tabla 6.
+
+Tabla 6 - Límites máximos de azufre y fósforo
+Resistencia a la tracción
+ 950 MPa
+ 950 MPa
+
+Azufre
+0,020%
+0,010%
+Nivel de
+Fósforo
+0,020%
+0,020%
+
+Azufre + Fósforo
+0,030%
+0,025%
+8.2.2.2 Aluminio
+Las aleaciones de aluminio pueden ser utilizadas para fabricar cilindros siempre que cumplan con los requisitos de este Reglamento Técnico y posean contenidos máximos de plomo y bismuto que no excedan el 0,003 %.
+8.2.3. Materiales compuestos
+8.2.3.1. Resinas
+El material para la impregnación podrá ser resinas termorígidas o termoplásticas. Ejemplos de materiales matrices adecuados son epoxi, epoxi modificado, plásticos termorígidos de polyester y estervinílico, y material termoplástico de polietileno y poliamida.
+La temperatura de transición al estado vítreo del material de la resina deberá ser determinada de acuerdo con la norma ASTM D3418-99.
+8.2.3.2 Fibras
+Los tipos de material del filamento para el refuerzo estructural deberán ser fibra de vidrio, fibra de aramida o fibra de carbono. Si se utiliza un refuerzo de fibra de carbono, el diseño deberá incorporar los medios necesarios para prevenir la corrosión electrolítica de los componentes metálicos del cilindro.
+El fabricante o importador deberá archivar las especificaciones publicadas para los materiales compuestos, las recomendaciones del fabricante del material para el almacenamiento, condiciones y duración del almacenamiento, y la certificación del fabricante del material de que cada partida cumple con dichos requisitos de especificación. El fabricante de la fibra deberá certificar que las propiedades materiales de la fibra cumplen las especificaciones del fabricante o importador para el producto.
+8.3 Requisitos del diseño
+8.3.1 Presión de prueba
+La presión mínima de prueba utilizada en la fabricación será de 30 MPa (1,5 veces la presión de trabajo).
+8.3.2 Relaciones de tensión de la fibra y presiones de estallido
+La presión mínima efectiva de estallido no será inferior a los valores de la Tabla 7. El revestimiento externo deberá ser diseñado para una alta confiabilidad bajo condiciones de carga sostenida y carga cíclica. Esta confiabilidad deberá lograrse alcanzando o superando los valores de la relación de tensión de los refuerzos compuestos establecidos en la Tabla 7. La relación de tensión se define como la tensión en la fibra a una presión de estallido mínima especificada, dividida por la tensión en la fibra a la presión de trabajo. La relación de estallido se define como la presión de estallido efectiva del cilindro, dividida por la presión de trabajo.
+Los cálculos de la relación de tensión deberán incluir:
+a) un método de análisis apto para los materiales no lineales (un programa de computación con un fin especial o un programa de análisis por elementos finitos);
+b) modelado adecuado de la curva esfuerzo-deformación plástico-elástica para un material de "liner" conocido;
+c) modelado adecuado de las propiedades mecánicas del Revestimiento externo;
+d) cálculos a la presión de autozunchado, presión cero luego de autozunchado, presión de trabajo y presión de estallido mínima;
+e) informe de los pretensados provenientes de la tensión de bobinado;
+f) la presión de estallido mínima, elegida de tal manera que la tensión calculada a la presión de estallido mínima dividida por la tensión calculada a la presión de trabajo cumpla los requisitos de la relación de tensión requeridos para la fibra utilizada;
+g) consideración del modo en que se comparte la carga entre las diferentes fibras, basada en los distintos módulos elásticos de las fibras cuando se analizan los cilindros con refuerzo híbrido (dos o más fibras diferentes). Los requisitos de la relación de tensión para cada tipo de fibra deberán ser concordantes con los valores establecidos en la Tabla 7.
+También se puede hacer la verificación de las relaciones de tensión utilizando extensímetros como se indica  en el Apéndice G.
+
+Tabla 7 - Valores mínimos de estallido efectivo y relaciones de tensión para cilindros tipo GNC-3
+
+      Tipo de fibra
+   Relación de tensión
+   Presión de estallido (MPa)
+Vidrio
+3,65
+70ª
+Aramida
+3,10
+60
+Carbono
+2,35
+47
+Híbrido
+b
+a Presión de estallido mínima efectiva. Además, los cálculos deberán realizarse de acuerdo con 8.3.2 para confirmar que también se cumple con los requisitos mínimos de la relación de tensión.
+b Las relaciones de tensión y presiones de estallido deberán ser calculadas de acuerdo con 8.3.2.
+
+8.3.3 Análisis de tensión
+Deberá realizarse un análisis de tensión para justificar el espesor mínimo de pared de diseño. Deberá incluir la determinación de las tensiones en los "liners" y fibras de los diseños compuestos.
+Las tensiones en dirección tangencial y longitudinal del cilindro en el Revestimiento exterior y en el "liner" luego del pretensado deberán calcularse para 0 MPa, 20 MPa, presión de prueba y presión de estallido de diseño. Los cálculos deberán realizarse mediante los análisis adecuados considerando el comportamiento no lineal del material del "liner" al establecer las distribuciones de tensión.
+Se deberán calcular los límites dentro de los cuales cae la presión de autozunchado.
+8.3.4 Tamaño máximo del defecto
+Deberá especificarse el tamaño máximo del defecto en cualquier parte del "liner" de metal, de manera que el cilindro cumpla con los requisitos de ciclado a presión y de pérdida anterior a la rotura. A través del ensayo no destructivo se deberá poder detectar el tamaño máximo de defecto permitido.
+El tamaño permitido del defecto para el ensayo no destructivo será determinado a través del método que se describe en el Apéndice D.
+8.3.5 Aberturas
+Sólo se permiten aberturas en las ojivas. La línea de centros de las aberturas deberá coincidir con el eje longitudinal del cilindro.
+8.3.6 Protección contra incendio
+El diseño del cilindro deberá ser protegido con dispositivos de alivio de presión. El cilindro, sus materiales, los dispositivos de alivio de presión y cualquier material aislante o de protección que se agregue, deberán ser diseñados en forma conjunta para garantizar la adecuada seguridad durante las situaciones de fuego establecidas para el ensayo especificado en A.15. A fin de optimizar las condiciones de seguridad, el fabricante puede especificar ubicaciones alternativas de los dispositivos de alivio de presión para instalaciones específicas en vehículos.
+Los dispositivos de alivio de presión deberán ser aprobados según el Reglamento Técnico MERCOSUR correspondiente.
+8.4 Fabricación y acabado
+8.4.1 Generalidades
+El cilindro compuesto deberá fabricarse a partir de un "liner" revestido externamente con filamento continuo. Las operaciones de enrollado de las fibras deberán ser controladas electrónica o mecánicamente. Las fibras deberán aplicarse con tensión controlada durante el enrollado. Luego de completado el enrollado, las resinas termorígidas deberán curarse mediante calor, utilizando un diagrama de tiempo-temperatura predeterminado y controlado.
+8.4.2 "Liner"
+La fabricación de un "liner" de metal deberá cumplir con los requisitos detallados en 8.2, 8.3.2 y 8.5.2.2 u 8.5.2.3 según corresponda con el tipo de fabricación del "liner".
+El esfuerzo de compresión en el "liner" a presión cero y a 15 °C no deberá provocar que el "liner" presente un curvado o arrugado.
+8.4.3 Roscas de cuello
+Las roscas deberán ser de corte limpio, parejas, y no presentarán discontinuidades de superficie a fin de medir y cumplir con este Reglamento Técnico. La rosca de cuello del cilindro, si es cónica deberá  responder a la Norma ISO 10920, y si es cilíndrica a la Norma ISO 15245-1.
+8.4.4 Revestimiento externo
+8.4.4.1 Bobinado de la fibra
+Los cilindros deberán fabricarse utilizando una técnica de bobinado de la fibra. Durante el bobinado, las variables significativas deberán mantenerse dentro de las tolerancias especificadas, y documentadas en un registro de bobinado. Estas variables pueden incluir, pero no se limitan a:
+a) tipo de fibra, incluyendo el tamaño;
+b) forma de impregnación;
+c) tensión de bobinado;
+d) velocidad de bobinado;
+e) cantidad de hilos de la fibra;
+f) ancho de la banda;
+g) tipo de resina y composición;
+h) temperatura de la resina;
+i) temperatura del "liner"; y
+j) ángulo de bobinado.
+8.4.4.2 Curado de resinas termorígidas
+Si se utiliza una resina termorígida, ésta deberá curarse luego del bobinado de filamento. Durante el curado se deberá documentar el ciclo de curado registrando la temperatura en función del tiempo.
+El tiempo y temperatura máximos de curado para los cilindros con "liners" de aluminio aleado deberán ser inferiores al tiempo y temperatura que afectan de manera adversa las propiedades del metal.
+8.4.4.3 Autozunchado
+Si se utiliza autozunchado, éste deberá realizarse antes del ensayo de presión hidráulica. La presión de autozunchado deberá estar dentro de los límites establecidos en el punto 8.3.3, y el fabricante deberá establecer el método para verificar la presión apropiada.
+8.4.5 Protección externa contra condiciones ambientales (Protección externa)
+El exterior de los cilindros deberá cumplir los requisitos del ensayo de ambiente ácido descrito en A.14. La protección exterior podrá brindarse a través de cualquiera de los siguientes métodos:
+a) mediante una terminación de superficie que ofrezca la protección adecuada (por ejemplo, aluminio metalizado, anodización); o
+b) mediante el uso de fibra y material matriz adecuados (por ejemplo, fibra de carbono en la resina); o
+c) mediante una Protección externa (por ejemplo, revestimiento orgánico, pintura); si la Protección externa forma parte del diseño, deberán cumplirse los requisitos establecidos en A.9; o
+d) mediante una Protección externa resistente e impermeable a los productos químicos establecidos en A.14;
+Toda Protección externa que se aplique a los cilindros deberá tener un proceso de aplicación que no afecte en forma adversa las propiedades mecánicas del cilindro. La Protección externa será diseñada de manera tal de facilitar la posterior inspección, y el fabricante proveerá las instrucciones para el tratamiento de la Protección externa durante la inspección en servicio a fin de garantizar la continua integridad del cilindro.
+El ensayo de desempeño ambiental que evalúa la aptitud de la protección externa debe ser conducido conforme el Apéndice F.
+8.5 Procedimiento para el ensayo de prototipo
+8.5.1 Requisitos generales
+El ensayo de prototipo deberá realizarse en cada nuevo diseño, en los cilindros terminados que representen la producción normal y que tengan sus marcas de identificación. El OEC deberá seleccionar los cilindros o "liners" para ensayo y deberá presenciar los ensayos de prototipo detallados en  8.5.2. Si más cilindros o "liners" fueran objeto de los ensayos requeridos por este Reglamento Técnico, todos los resultados deberán ser documentados.
+8.5.2 Ensayos de prototipo
+8.5.2.1 Ensayos necesarios
+En el transcurso de la aprobación de tipo, el OEC deberá seleccionar en forma aleatoria  los cilindros o "liners" necesarios y presenciar los siguientes ensayos:
+- los ensayos especificados en 8.5.2.2 u 8.5.2.3 (ensayos de material), según corresponda, en 1 "liner";
+- el ensayo especificado en 8.5.2.4 (ensayo de estallido por presión hidráulica) en 3 cilindros;
+- el ensayo especificado en  8.5.2.5 (ensayo de ciclado a presión a temperatura ambiente) en 2 cilindros;
+- el ensayo especificado en 8.5.2.6 (ensayo de "pérdida anterior a la rotura") en 3 cilindros;
+- el ensayo especificado en 8.5.2.7 (ensayo de resistencia al fuego) en 1 o 2 cilindros, según corresponda;
+- el ensayo especificado en 8.5.2.8 (ensayo de penetración) en 1 cilindro;
+- el ensayo especificado en 8.5.2.9 (ensayo en ambiente ácido) en 1 cilindro;
+- el ensayo especificado en 8.5.2.10 (ensayo de tolerancia de defectos) en 1 cilindro;
+- el ensayo especificado en 8.5.2.11 (ensayo de fluencia a alta temperatura), cuando corresponda, en 1 cilindro;
+- el ensayo especificado en 8.5.2.12 (ensayo de rotura por tensión acelerada) en 1 cilindro;
+- el ensayo especificado en 8.5.2.13 (ensayo de ciclado a presión a temperatura extrema) en 1 cilindro;
+- el ensayo especificado en 8.5.2.14 (resistencia de la resina al esfuerzo de corte) en 1 muestra de material representativa del revestimiento exterior ;
+- el ensayo especificado en 8.5.2.15 (ensayo de impacto por caída) en por lo menos 1 cilindro.
+8.5.2.2 Ensayos de material para los "liners" de acero
+Los ensayos de material deberán realizarse en los "liners" de acero de la siguiente manera:
+a) Ensayo de tracción
+Las propiedades materiales del acero en el cilindro o "liner" terminados serán determinadas de acuerdo con A.1 y deberán cumplir con los requisitos allí enumerados.
+b) Ensayo de impacto
+Las propiedades de impacto del acero en el cilindro o "liner" terminados serán determinadas de acuerdo con A.2 y deberán cumplir con los requisitos allí enumerados.
+c) Ensayo de resistencia a las fisuras bajo tensión, por sulfuro.
+Si el límite superior de la resistencia a la tracción especificada para el acero excede los 950 MPa, el acero de un cilindro terminado deberá ser ensayado de acuerdo con A.3 y deberá cumplir con los requisitos allí enumerados.
+8.5.2.3 Ensayos de material para los "liners" de aluminio aleado
+Los ensayos de material deberán realizarse sobre "liners" de aluminio aleado, de la siguiente manera:
+a) Ensayo de tracción
+Las propiedades materiales de la aleación de aluminio en el cilindro terminado deberán ser determinadas de acuerdo con A.1 y deberán cumplir con los requisitos allí enumerados.
+b) Ensayos de corrosión
+Las aleaciones de aluminio deberán cumplir con los requisitos de los ensayos de corrosión realizados de acuerdo con A.4.
+c) Ensayos de fisuras por carga sostenida
+Las aleaciones de aluminio deberán cumplir con los requisitos de los ensayos de fisuras por carga sostenida realizados de acuerdo con A.5.
+8.5.2.4 Ensayo de estallido por presión hidráulica
+Tres cilindros deberán ser hidrostáticamente presurizados hasta que se presenten fallas de acuerdo con A.12. Las presiones de estallido del cilindro deberán exceder la presión de estallido mínima especificada, calculada según el análisis de tensión del diseño, de acuerdo con la Tabla 7, y en ningún caso deberán ser inferiores al valor necesario para cumplir con los requisitos de la relación de tensión fijada en 8.3.2.
+8.5.2.5 Ensayo de ciclado a presión a temperatura ambiente
+Dos cilindros deberán ser ciclados a presión a temperatura ambiente de acuerdo con A.13 hasta que presenten fallas, o sometidos a un mínimo de 45.000 ciclos. Los cilindros no deberán presentar fallas antes de alcanzar una cantidad de ciclos igual a la vida útil multiplicada por 1.000 ciclos/año. Los cilindros que excedan esa cantidad de ciclos deberán presentar fallas debido a una pérdida y no a una rotura. Los cilindros que no presenten fallas dentro de los 45.000 ciclos deberán ser destruidos ya sea mediante la continuación de los ciclos hasta que se produzca la falla o mediante la presurización hidrostática hasta que estallen. Está permitido que los cilindros que excedan los 45.000 ciclos fallen por rotura. Deberá documentarse el número de ciclos anteriores a la presentación de fallas y la ubicación en la que éstas se inician.
+8.5.2.6 Ensayo de pérdida anterior a la rotura
+El ensayo de pérdida anterior a la rotura deberá realizarse de acuerdo con A.6 y deberá cumplir con los requisitos allí enumerados.
+8.5.2.7 Ensayo de resistencia al fuego
+Uno o dos cilindros, según corresponda, deberán ser ensayados de acuerdo con A.15 y deberán cumplir con los requisitos allí enumerados.
+8.5.2.8 Ensayo de penetración
+Un cilindro deberá ser ensayado de acuerdo con A.16 y deberá cumplir con los requisitos allí enumerados.
+8.5.2.9 Ensayo en ambiente ácido
+Un cilindro deberá cumplir con los requisitos señalados en A.14 , o de acuerdo a lo indicado en el Apéndice F.
+8.5.2.10 Ensayos de tolerancia de defectos
+Un cilindro deberá ser ensayado de acuerdo con A.17 y deberá cumplir con los requisitos allí enumerados.
+8.5.2.11 Ensayo de fluencia a alta temperatura
+En aquellos diseños en los que la temperatura de transición al estado vítreo de la resina no exceda los 102 °C, un cilindro deberá ser ensayado de acuerdo con A.18 y deberá cumplir con los requisitos allí enumerados.
+8.5.2.12 Ensayo de rotura por tensión acelerada
+Un cilindro deberá ser ensayado de acuerdo con A.19 y deberá cumplir con los requisitos allí enumerados.
+8.5.2.13 Ensayo de ciclado a presión a temperatura extrema
+Un cilindro deberá ser ensayado de acuerdo con A.7 y deberá cumplir con los requisitos allí enumerados.
+8.5.2.14 Resistencia de la resina al esfuerzo de corte
+Los materiales de la resina deberán ser ensayados de acuerdo con A.26 y deberán cumplir con los requisitos allí enumerados.
+8.5.2.15 Ensayo de impacto por caída
+Uno (o más) cilindros terminados serán sometidos al ensayo de impacto por caída de acuerdo con A.20 y deberán cumplir con los requisitos allí enumerados.
+8.5.3 Cambio de diseño
+Un cambio de diseño es todo cambio en la selección de materiales estructurales, o cambio de las dimensiones no atribuible a las tolerancias normales de fabricación.
+Los cambios menores de diseño se podrán habilitar a través de un programa reducido de ensayos. Los cambios de diseño especificados en la Tabla 8 requerirán los ensayos de cualificación de diseño de acuerdo con lo especificado en esa tabla.
+
+
+Tabla  8 - Cambio de diseño para los cilindros tipo GNC-3
+
+Cambio de diseño
+Tipo de ensaio
+
+Estalli
+do hidráuli
+co
+Ciclado a presión a temperatu
+ra ambiente
+Incen
+dio
+Pene
+tra
+ción
+Am
+bien
+tal
+Toleran
+cia de defectos
+Termo
+fluen-cia a alta tempe
+ratura
+Rotura por tensión
+Caída
+
+Item
+
+A.12
+A.13
+A.15
+A.16
+A.14
+A.17
+A.18
+A.19
+A.20
+Fabricante de la fibra
+X
+X
+-
+-
+-
+-
+X
+X
+X
+Material del "liner"  de metal
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Material de la fibra
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Material de la resina
+-
+-
+-
+X
+X
+X
+X
+X
+X
+Cambio de diámetro ≤20%
+X
+X
+-
+-
+-
+-
+-
+-
+-
+Cambio de diámetro >20%
+X
+X
+X
+X
+-
+X
+-
+-
+X
+Cambio de largo ≤50%
+X
+-
+Xa)
+-
+-
+-
+-
+-
+-
+Cambio de largo >50%
+X
+X
+Xa)
+-
+-
+-
+-
+-
+X
+Cambio en la presión de trabajo ≤20% b
+X
+X
+-
+-
+-
+-
+-
+-
+-
+Forma de la ojiva
+X
+X
+-
+-
+-
+-
+-
+-
+-
+Tamaño de la abertura
+X
+X
+-
+-
+-
+-
+-
+-
+-
+Cambio del revestimiento
+-
+-
+-
+-
+X
+-
+-
+-
+-
+Cambio en el proceso de fabricación
+X
+X
+-
+-
+-
+-
+-
+-
+-
+Dispositivo de alivio de presión
+-
+-
+X
+-
+-
+-
+-
+-
+-
+a Ensayo requerido sólo si se incrementa el largo.
+b Sólo cuando el espesor cambia en forma proporcional al cambio de diámetro y/o de presión.
+
+8.6 Ensayos de lote
+8.6.1 Requisitos generales
+Los ensayos de lote deberán realizarse en los cilindros terminados que representen la producción normal y que tengan sus marcas de identificación. Los cilindros y "liners" necesarios para el ensayo deberán ser seleccionados de cada lote al azar. Si más cilindros son objeto de los ensayos requeridos por este Reglamento Técnico todos los resultados deberán ser documentados. Cuando se detecten defectos en el revestimiento externo anteriores a cualquier ensayo de autozunchado o de presión hidráulica, el revestimiento externo podrá sacarse y reemplazarse por completo.
+
+
+8.6.2 Ensayos requeridos
+8.6.2.1 En cada lote de cilindros deberán realizarse, por lo menos, los siguientes ensayos:
+a) en un cilindro:
+1) un ensayo de estallido por presión hidráulica de acuerdo con A.12.
+Si la presión de estallido es menor que la presión de estallido mínima calculada, deberán seguirse los procedimientos especificados en 8.9.
+b) en otro cilindro, o "liner", o en una muestra testigo tratada térmicamente, representativa de un cilindro terminado:
+1) un control de las dimensiones críticas con el diseño (ver 5.2.4.1);
+2) un ensayo de tracción de acuerdo con A.1; los resultados del ensayo deberán satisfacer los requisitos del diseño (ver 5.2.4.1);
+3) para los "liners" de acero, tres ensayos de impacto de acuerdo con A.2; los resultados del ensayo deberán satisfacer los requisitos especificados en A.2;
+4) cuando una Protección externa al Revestimiento (Protección externa) sea parte del diseño, un ensayo de lote de la cubierta de acuerdo con A.24. Cuando la Protección externa no cumpla con los requisitos de A.24, el lote será inspeccionado en su totalidad a fin de sacar los cilindros que presenten Protecciones externas defectuosas similares. Las cubiertas de todos los cilindros recubiertos defectuosamente podrán sacarse utilizando un método que no afecte la integridad del revestimiento externo, y luego, los cilindros se pueden volver a recubrir. El ensayo de lote de la Protección externa deberá repetirse.
+Todos los cilindros o "liners" representados por un ensayo de lote y que no cumplan con los requisitos especificados deberán seguir los procedimientos detallados en 8.9.
+8.6.2.2 Además, deberá realizarse en los cilindros terminados un ensayo de ciclado a presión periódica de acuerdo con A.13, con la siguiente frecuencia de ensayo:
+a) inicialmente, un cilindro de cada lote deberá ser presurizado cíclicamente por un total de 1.000  veces su vida útil. Para aquellos cilindros cuya vida útil sea inferior a 15 años corresponderá un mínimo de 15000 ciclos.
+b) si en una secuencia de 10 lotes de producción de una familia de diseño (es decir, materiales y procesos similares dentro de la definición de un cambio menor de diseño, ver 8.5.3) ninguno de los cilindros sometidos a los ciclos de presión detallados en el apartado a) de este mismo punto pierde o se rompe en menos de 1.500 ciclos multiplicados por la vida útil especificada en años (22.500 ciclos como  mínimo), el ensayo de ciclado a presión podrá limitarse a un cilindro de cada 5 lotes de producción;
+c) si en una secuencia de 10 lotes de producción de una familia de diseño ninguno de los cilindros sometidos a los ciclos de presión detallados en el apartado a) de este mismo punto pierde o se rompe en menos de 2.000 ciclos multiplicados por la vida útil especificada en años (30.000 ciclos como  mínimo), el ensayo de ciclado a presión podrá limitarse a un cilindro de cada 10 lotes de producción;
+d) si hubieran transcurrido más de tres meses desde el último ensayo de ciclado a presión, un cilindro del siguiente lote de producción deberá ser sometido al ensayo de ciclado a presión a fin de mantener la frecuencia reducida de los ensayos de lote establecida en los apartados b) y c) de este mismo punto;
+e) si alguno de los cilindros sometidos al ensayo de ciclado a presión con frecuencia reducida, establecida en los apartados b) o c) de este mismo punto, no cumple con el número requerido de ciclos de presión (22.500 o 30.000 ciclos de presión como mínimo, respectivamente), será necesario repetir la frecuencia de ensayo de lote de ciclado a presión establecido en el apartado a) en un mínimo de 10 lotes de producción a fin de restablecer la frecuencia reducida del ensayo de lote de ciclado a presión establecido en los apartados b) o c) de este mismo punto.
+Si alguno de los cilindros de los apartados a), b) o c) anteriormente mencionados no cumple con el requisito mínimo de 1.000 ciclos multiplicados por la vida útil especificada en años (15.000 ciclos como mínimo), la causa de la falla deberá ser determinada y corregida siguiendo los procedimientos de 8.9. El ensayo de ciclado a presión deberá repetirse en otros tres cilindros de ese lote. Si cualquiera de estos tres cilindros no cumple con el requisito mínimo de 1.000 ciclos a presión multiplicados por la vida útil especificada en años, el lote deberá ser rechazado.
+8.7. Ensayos en cada cilindro
+Los exámenes y ensayos de producción deberán ser llevados a cabo sobre todos los cilindros producidos en un lote.
+Cada cilindro deberá ser examinado durante su fabricación y una vez terminado, de la siguiente manera:
+a) a través de un ensayo no destructivo de los "liners" de metal, de acuerdo con el Apéndice B, para verificar que el tamaño máximo del defecto no exceda el tamaño especificado en el diseño, tal como se determina en 8.3.4. A través del método de ensayo no destructivo se deberá poder detectar el tamaño máximo permitido del defecto;
+b) para verificar que las dimensiones críticas y la masa de los cilindros terminados y de los "liners" y del revestimiento exterior se encuentran dentro de las tolerancias del diseño;
+c) para verificar el cumplimiento con la terminación superficial especificada, prestando especial atención a los embutidos profundos y a los pliegues o solapes en el cuello u ojiva de los cerramientos o aberturas forjadas o moldeadas;
+d) para verificar el marcado;
+e) a través de ensayos de dureza de los "liners" de metal, de acuerdo con A.8, realizados luego del tratamiento térmico final; los valores así determinados deberán estar dentro de la escala especificada para el diseño;
+f) a través de ensayo hidráulico de los cilindros terminados de acuerdo con el punto A.11, opción 1. El fabricante deberá establecer el límite apropiado de expansión volumétrica permanente para la presión de prueba utilizada, pero en ningún caso la expansión permanente excederá el 5 % de la expansión volumétrica total medida bajo la presión de prueba.
+8.8. Certificado de aceptación de lote
+Si los resultados del ensayo de lote, de acuerdo con 8.6 y 8.7, fueran satisfactorios, el fabricante y el OEC deberán firmar un certificado de aceptación. El modelo de certificado de aceptación a ser utilizado (denominado "Informe de Fabricación y Certificado de Conformidad") se encuentra detallado en el Apéndice E.
+8.9. Incumplimiento de los requisitos de ensayo
+En el caso de incumplimiento de los requisitos de ensayo, un reensayo o un retratamiento térmico y reensayo deberán ser realizados a satisfacción del OEC de la siguiente manera:
+a) Si hubiera evidencias de falla en la realización de un ensayo, o un error de medida, deberá realizarse otro ensayo; si el resultado de este ensayo es satisfactorio, el primer ensayo no será tenido en cuenta.
+b) Si el ensayo ha sido realizado de manera satisfactoria, se deberá identificar la causa de la falla del ensayo.
+1) Si se considera que la falla se debe al tratamiento térmico aplicado, el fabricante deberá someter todos los cilindros implicados en la falla a otro tratamiento térmico, es decir, si la falla se produce en un ensayo que representa a los cilindros de lote o prototipo, la falla del ensayo requerirá un retratamiento térmico de todos los cilindros representados antes de realizar un reensayo; no obstante, si la falla se produce en forma esporádica en un ensayo aplicado a cada cilindro, sólo aquellos cilindros que fallen en el ensayo requerirán un retratamiento térmico y reensayo.
+- Toda vez que los "liners" sean sometidos a un retratamiento térmico, deberá mantenerse el espesor mínimo de pared garantizado.
+- Sólo serán realizados nuevamente los ensayos de prototipo o de lote significativos, necesarios para probar la aceptabilidad de un nuevo lote. Si uno o más ensayos no fueran satisfactorios, aunque sea parcialmente, todos los cilindros del lote serán rechazados.
+2) Si la falla se debe a una causa distinta del tratamiento térmico aplicado, todos los cilindros defectuosos deberán ser rechazados o reparados. Si los cilindros reparados aprueban el/los ensayo/s requeridos por la reparación, deberán ser reconsiderados como parte del lote original.
+9. Requisitos de los cilindros totalmente compuestos tipo GNC-4
+9.1 Generalidades
+El presente Reglamento Técnico no establece fórmulas de diseño ni enumera tensiones o deformaciones permitidas, pero requiere que la adecuación del diseño sea establecida de acuerdo con cálculos apropiados y demostrado mediante pruebas que indiquen que los cilindros cumplen satisfactoriamente los ensayos de material, de qualificación de diseño, de producción y de lote especificados en este Reglamento Técnico.
+El diseño deberá asegurar un modo de falla "pérdida anterior a la rotura" bajo condiciones de posible degradación de las partes que contienen presión durante el servicio normal.
+9.2 Materiales
+9.2.1 Requisitos generales
+Los materiales utilizados deberán ser los adecuados para las condiciones de servicio especificadas en el punto 4. El diseño deberá asegurar que no haya materiales incompatibles en contacto.
+9.2.2 Resinas
+El material para la impregnación podrá ser resinas termorígidas o termoplásticas. Ejemplos de materiales matrices adecuados son epoxi, epoxi modificado, plásticos termorígidos de poliéster y estervinílico, y material termoplástico de polietileno y poliamida.
+La temperatura de transición al estado vítreo del material de la resina deberá ser determinada de acuerdo con la norma ASTM D3418-99.
+9.2.3 Fibras
+Los tipos de material del filamento para el refuerzo estructural deberán ser fibra de vidrio, fibra de aramida o fibra de carbono. Si se utiliza un refuerzo de fibra de carbono, el diseño deberá incorporar los medios necesarios para prevenir la corrosión electrolítica de los componentes metálicos del cilindro.
+El fabricante o importador deberá archivar las especificaciones publicadas para los materiales compuestos, las recomendaciones del fabricante del material para el almacenamiento, condiciones y duración del almacenamiento, y la certificación del fabricante del material de que cada partida cumple con dichos requisitos de especificación. El fabricante de la fibra deberá certificar que las propiedades materiales de la fibra cumplen las especificaciones del fabricante o importador para el producto.
+9.2.4 "Liners" de plástico
+El material polimérico deberá ser compatible con las condiciones de servicio especificadas en el punto 4.
+9.2.5 Insertos metálicos
+Los insertos metálicos conectados al "liner" no metálico deberán ser de un material compatible con las condiciones de servicio especificadas en el punto 4.
+9.3 Requisitos del diseño
+9.3.1 Presión de prueba
+La presión mínima de prueba utilizada en la fabricación será de 30MPa (1,5 veces la presión de trabajo).
+9.3.2 Relaciones de tensión de la fibra y presiones de estallido
+La presión mínima efectiva de estallido no será inferior a los valores establecidos en la Tabla 9. El revestimiento externo deberá ser diseñado para una alta confiabilidad bajo condiciones de carga sostenida y carga cíclica. Esta confiabilidad deberá lograrse alcanzando o superando los valores de la relación de tensión de los refuerzos compuestos establecidos en la Tabla 9. La relación de tensión se define como la tensión en la fibra a una presión de estallido mínima especificada, dividida por la tensión en la fibra a la presión de trabajo. La relación de estallido se define como la presión de estallido efectiva del cilindro, dividida por la presión de trabajo.
+Para los diseños de cilindros tipo GNC-4, la relación de tensión es igual a la relación de estallido.
+También se puede hacer la verificación de las relaciones de tensión utilizando extensímetros como se indica  en el Apéndice G.
+
+Tabla 9 - Valores mínimos de estallido efectivo y relaciones de tensión para cilindros tipo GNC-4
+
+      Tipo de fibra
+   Relación de tensión
+   Presión de estallido (MPa)
+Vidrio
+         3,65
+          73
+Aramida
+         3,10
+          62
+Carbono
+         2,35
+          47
+Híbrido
+a
+a Las relaciones de tensión y presiones de estallido deberán ser calculadas de acuerdo con 9.3.2.
+
+9.3.3 Análisis de tensión
+Deberá realizarse un análisis de tensión para justificar los espesores mínimos de pared de diseño. Deberá incluir la determinación de las tensiones en los "liners" y fibras de los diseños compuestos.
+Deberán calcularse las tensiones en dirección tangencial y longitudinal del cilindro: en el compuesto y en el "liner". Las presiones utilizadas para realizar estos cálculos serán 0 MPa, 20 MPa, presión de prueba y presión de estallido de diseño. Los cálculos deberán realizarse mediante técnicas adecuadas de análisis a fin de establecer la distribución de tensiones en todo el cilindro.
+9.3.4 Aberturas
+Las aberturas sólo se permiten en los extremos. La línea de centros de las aberturas deberá coincidir con el eje longitudinal del cilindro.
+9.3.5 Protección contra incendio
+El diseño del cilindro deberá ser protegido con dispositivos de alivio de presión.  El cilindro, sus materiales, los dispositivos de alivio de presión y cualquier material aislante o de protección que se agregue deberán ser diseñados en forma conjunta para garantizar la adecuada seguridad durante las situaciones de fuego establecidas para el ensayo especificado en A.15. A fin de optimizar las condiciones de seguridad, el fabricante puede especificar ubicaciones alternativas de los dispositivos de alivio de presión para instalaciones específicas en vehículos.
+Los dispositivos de alivio de presión deberán ser aprobados según el Reglamento Técnico Mercosur correspondiente.
+9.4 Fabricación y acabado
+9.4.1 Generalidades
+El cilindro compuesto deberá fabricarse a partir de un "liner" revestido externamente con filamento continuo. Las operaciones de bobinado de las fibras deberán ser controladas por computadora o mecánicamente. Las fibras deberán aplicarse con tensión controlada durante el bobinado. Luego de completado el bobinado, las resinas termorígidas deberán curarse mediante calor, utilizando un diagrama de tiempo-temperatura predeterminado y controlado.
+
+9.4.2 Roscas de cuello
+Las roscas deberán ser de corte limpio, parejas, y no presentarán discontinuidades de superficie a fin de medir y cumplir con este Reglamento Técnico. La rosca de cuello del cilindro, deberá  responder a la Norma ISO 10920 si la rosca es cónica, o a la Norma ISO 15245-1 si es cilíndrica.
+9.4.3 Curado de las resinas termorígidas
+La temperatura de curado de las resinas termorígidas deberá ser de por lo menos 10 °C por debajo de la temperatura de ablandamiento del "liner" de plástico.
+9.4.4 Protección externa contra condiciones ambientales
+El exterior de los cilindros deberá cumplir con los requisitos del ensayo de ambiente ácido de A.14. La protección externa podrá brindarse a través de cualquiera de los siguientes métodos:
+a) mediante una terminación de superficie que brinde la protección adecuada (por ejemplo, aluminio metalizado, anodización); o
+b) mediante el  uso de fibra y material matriz adecuados (por ejemplo, fibra de carbono en la resina); o
+c) mediante una cubierta protectora (por ejemplo, revestimiento orgánico, pintura); si la cubierta protectora forma parte del diseño, deberán cumplirse los requisitos establecidos en A.9; o
+d) mediante una cobertura resistente e impermeable a los productos químicos establecidos en A.14;
+Toda cobertura que se aplique a los cilindros deberá tener un proceso de aplicación que no afecte en forma adversa las propiedades mecánicas del cilindro. La cobertura será diseñada de manera tal de facilitar la posterior inspección en servicio, y el fabricante proveerá las instrucciones para el tratamiento de la cobertura durante la inspección en servicio a fin de garantizar la continua integridad del cilindro.
+El ensayo de desempeño ambiental que evalúa la aptitud de la protección externa debe ser conducido conforme el Apéndice F.
+9.5 Procedimiento para el ensayo de prototipo
+9.5.1 Generalidades
+El ensayo de prototipo deberá realizarse en cada nuevo diseño, en los cilindros terminados que representen la producción normal y que tengan sus marcas de identificación. El OEC deberá seleccionar los cilindros o "liners" para ensayo y deberá presenciar los ensayos de prototipo detallados en  9.5.2. Si más cilindros o "liners" fueran objeto de los ensayos requeridos por este Reglamento Técnico, todos los resultados deberán ser documentados.
+9.5.2 Ensayos de prototipo
+9.5.2.1 Ensayos necesarios
+En el transcurso de la aprobación de tipo, el OEC deberá seleccionar los cilindros o "liners" necesarios, y presenciará los siguientes ensayos:
+- los ensayos especificados en 9.5.2.2 (ensayos de material) en un "liner";
+- el ensayo especificado en 9.5.2.3  (ensayo de estallido por presión hidráulica) en 3 cilindros;
+- el ensayo especificado en  9.5.2.4 (ensayo de ciclado a presión a temperatura ambiente) en 2 cilindros;
+- el ensayo especificado en 9.5.2.5 (ensayo de pérdida anterior a la rotura) en 3 cilindros;
+- el ensayo especificado en 9.5.2.6 (ensayo contra incendio) en 1 o 2 cilindros, según corresponda;
+- el ensayo especificado en 9.5.2.7 (ensayo de penetración) en 1 cilindro;
+- el ensayo especificado en 9.5.2.8 (ensayo en ambiente ácido) en 1 cilindro;
+- el ensayo especificado en 9.5.2.9 (ensayo de tolerancia de defectos) en 1 cilindro;
+- el ensayo especificado en 9.5.2.10 (ensayo de fluencia a alta temperatura), cuando corresponda, en 1 cilindro;
+- el ensayo especificado en 9.5.2.11 (ensayo de rotura por tensión acelerada) en 1 cilindro;
+- el ensayo especificado en 9.5.2.12 (ensayo de ciclado a presión a temperatura extrema) en 1 cilindro;
+- el ensayo especificado en 9.5.2.13 (resistencia de la resina al esfuerzo de corte) en 1 muestra de material representativa del revestimiento externo;
+- el ensayo especificado en 9.5.2.14 (ensayo de impacto por caída) en por lo menos 1 cilindro;
+- el ensayo especificado en 9.5.2.15 (ensayo del torque en el extremo) en 1 cilindro;
+- el ensayo especificado en 9.5.2.16 (ensayo de permeabiliadad) en 1 cilindro;
+- el ensayo especificado en 9.5.2.17 (ensayo de ciclado con gas natural) en 1 cilindro.
+9.5.2.2 Ensayos de material para los "liners" de plástico
+La tensión de fluencia a la tracción y la elongación final deberán determinarse de acuerdo con A.22 y deberán cumplir los requisitos allí establecidos.
+La temperatura de ablandamiento deberá determinarse de acuerdo con A.23 y deberá cumplir los requisitos allí establecidos.
+La resistencia al ensayo de fluencia a alta temperatura deberá determinarse de acuerdo con A.18 y deberá cumplir los requisitos allí establecidos.
+9.5.2.3 Ensayo de estallido por presión hidráulica
+Tres cilindros deberán ser hidrostáticamente presurizados hasta que se presenten fallas de acuerdo con A.12. Las presiones de estallido del cilindro deberán exceder la presión de estallido mínima establecida según el análisis de tensión para el diseño, de acuerdo con la Tabla 9, y en ningún caso deberán ser inferiores al valor necesario para cumplir los requisitos de la relación de tensión establecidos en 9.3.2.
+9.5.2.4 Ensayo de ciclado a presión a temperatura ambiente
+Dos cilindros deberán ser ciclados a presión a temperatura ambiente de acuerdo con A.13 hasta que se presenten fallas, o sometidos a un mínimo de 45.000 ciclos. Los cilindros no deberán presentar fallas antes de alcanzar una cantidad de ciclos igual a la vida útil multiplicada por 1.000 ciclos/año. Los cilindros que excedan esa cantidad de ciclos deberán presentar fallas debido a una pérdida y no a una rotura. Los cilindros que no presenten fallas dentro de los 45.000 ciclos deberán ser destruidos ya sea mediante la continuación de los ciclos hasta que se produzca su falla o mediante la presurización hidrostática hasta que estallen. Está permitido que los cilindros que superen los 45.000 ciclos fallen por rotura. Deberá documentarse el número de ciclos anteriores a la presentación de fallas y la ubicación en la que éstas se inician.
+9.5.2.5 Ensayo de pérdida anterior a la rotura
+Los ensayos de pérdida anterior a la rotura deberán realizarse de acuerdo con A.6 y deberán cumplir con los requisitos allí enumerados.
+9.5.2.6 Ensayo contra incendio
+Uno o dos cilindros, según corresponda, deberán ser ensayados de acuerdo con A.15 y deberán cumplir con los requisitos allí enumerados.
+9.5.2.7 Ensayo de penetración
+Un cilindro deberá ser ensayado de acuerdo con A.16 y deberá cumplir con los requisitos allí enumerados.
+9.5.2.8 Ensayo en ambiente ácido
+Un cilindro deberá cumplir con los requisitos señalados en A.14 , o de acuerdo a lo indicado en el Apéndice F.
+9.5.2.9 Ensayos de tolerancia de defectos
+Un cilindro deberá ser ensayado de acuerdo con A.17 y deberá cumplir con los requisitos allí enumerados.
+9.5.2.10 Ensayo de fluencia a alta temperatura
+En aquellos diseños en los que la temperatura de transición al estado vítreo de la resina no exceda los 102 °C, un cilindro deberá ser ensayado de acuerdo con A.18 y deberá cumplir con los requisitos allí enumerados.
+9.5.2.11 Ensayo de rotura por tensión acelerada
+Un cilindro deberá ser ensayado de acuerdo con A.19 y deberá cumplir con los requisitos allí enumerados.
+9.5.2.12 Ensayo de ciclado a presión a temperatura extrema
+Un cilindro deberá ser ensayado de acuerdo con A.7 y deberá cumplir con los requisitos allí enumerados.
+9.5.2.13 Resistencia de la resina al esfuerzo de corte
+Los materiales de la resina deberán ser ensayados de acuerdo con A.26 y deberán cumplir con los requisitos allí enumerados.
+9.5.2.14 Ensayo de impacto por caída
+Uno (o más) cilindros terminados serán sometidos al ensayo de impacto por caída de acuerdo con A.20 y deberán cumplir con los requisitos allí enumerados.
+9.5.2.15 Ensayo del torque en el inserto metálico
+Un cilindro deberá ser ensayado de acuerdo con A.25 y deberá cumplir con los requisitos allí enumerados.
+9.5.2.16 Ensayo de permeabilidad
+Un cilindro deberá ser sometido al ensayo de permeabilidad de acuerdo con el punto A.21 y deberá cumplir con los requisitos allí enumerados.
+9.5.2.17 Ensayo de ciclado con gas natural
+Un cilindro deberá ser ensayado de acuerdo con A.27 y deberá cumplir con los requisitos allí enumerados.
+9.5.3. Cambio de diseño
+Un cambio de diseño es todo cambio en la selección de materiales estructurales o cambio de las dimensiones no atribuible a las tolerancias normales de fabricación.
+Los cambios menores de diseño se podrán habilitar a través de un programa reducido de ensayos.
+Los cambios de diseño especificados en la Tabla 10 sólo requerirán los ensayos de qualificación que se especifican en esa tabla.
+
+
+Tabla 10 - Cambio de diseño para los cilindros tipo GNC-4
+Cambio de diseño
+Tipo de ensayo
+
+Estalli
+do hidráulico
+Ciclado a presión a temperatura ambiente
+Incendio
+Penetra
+ción
+Ambiental
+Tolerancia de defectos
+Termofluencia a alta temperatura
+Rotura por tensión
+Caída
+Torque del extremo
+Permeabilidad
+Ciclado con GNC
+
+Cláusula
+
+A.12
+A.13
+A.15
+A.16
+A.14
+A.17
+A.18
+A.19
+A.20
+A.25
+A.21
+A.27
+Fabricante de la fibra
+X
+X
+--
+--
+--
+--
+X
+X
+X
+X
+X
+X
+Material "liner" plástico
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Material de la fibra
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Material de la resina
+--
+--
+--
+X
+X
+X
+X
+X
+X
+--
+--
+--
+Cambio de diámetro ≤20%
+X
+X
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+Cambio de diámetro >20%
+X
+X
+X
+X
+--
+X
+--
+--
+X
+--
+--
+--
+Cambio de largo ≤50%
+X
+--
+Xa
+--
+--
+--
+--
+--
+--
+--
+--
+--
+Cambio de largo >50%
+X
+X
+Xa
+--
+--
+--
+--
+--
+X
+--
+--
+--
+Cambio en la presión de trabajo ≤20%b
+X
+X
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+Forma de la ojiva
+X
+X
+--
+--
+--
+--
+--
+--
+--
+X
+X
+X
+Tamaño de la abertura
+X
+X
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+Cambio del revestimiento
+--
+--
+--
+--
+X
+--
+--
+--
+--
+--
+--
+--
+Diseño del extremo
+--
+--
+--
+--
+--
+--
+--
+--
+--
+X
+X
+X
+
+
+Cambio en el proceso de fabricación
+X
+X
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+Dispositivo de alivio de presión
+--
+--
+X
+--
+--
+--
+--
+--
+--
+--
+--
+--
+a Ensayo requerido sólo cuando se aumenta el largo.
+b Sólo cuando el espesor cambia en forma proporcional al cambio de diámetro y/o de presión.
+
+
+9.6 Ensayos de lote
+9.6.1 Requisitos generales
+Los ensayos de lote deberán realizarse en los cilindros terminados que representen la producción normal y que tengan sus marcas de identificación. El/los cilindro/s y "liner/s" necesario/s para el ensayo deberá/n ser seleccionado/s de cada lote al azar. Si más cilindros fueran objeto de los ensayos requeridos por este Reglamento Técnico, todos los resultados deberán ser documentados.
+9.6.2 Ensayos requeridos
+9.6.2.1 En cada lote de cilindros deberán realizarse, por lo menos, los siguientes ensayos:
+a) en un cilindro, un ensayo de estallido por presión hidráulica de acuerdo con A.12.
+-	Si la presión de estallido es inferior a la presión de estallido mínima calculada, deberán seguirse los procedimientos establecidos en 9.9.
+b) en otro cilindro, o "liner", o en una muestra testigo tratada térmicamente representativa de un cilindro terminado:
+1)	un control de las dimensiones críticas con el diseño (ver 5.2.4.1);
+2)	un ensayo de tracción del "liner" de plástico de acuerdo con A.22; los resultados del ensayo deberán satisfacer los requisitos del diseño (ver 5.2.4.1);
+3)	la temperatura de fusión del "liner" de plástico debe ser ensayada de acuerdo con A.23, y debe cumplir con los requisitos del diseño;
+4)	cuando una cubierta protectora sea parte del diseño, un ensayo de lote de la cubierta de acuerdo con A.24. Cuando la cubierta no cumpla con los requisitos de A.24, el lote será inspeccionado en su totalidad a fin de sacar los cilindros que presenten cubiertas defectuosas similares. Las cubiertas de todos los cilindros recubiertos defectuosamente podrán sacarse utilizando un método que no afecte la integridad del revestimiento externo, y luego, los cilindros se pueden volver a recubrir. El ensayo de lote de la cubierta protectora deberá repetirse.
+Todos los cilindros o "liners" representados por un ensayo de lote y que no cumplan con los requisitos especificados deberán seguir los procedimientos detallados en 9.9.
+9.6.2.2 Además, deberá realizarse en los cilindros terminados un ensayo de ciclado a presión periódica de acuerdo con A.13, con la siguiente frecuencia de ensayo:
+a) inicialmente, en un cilindro de cada lote, el inserto metálico deberá ser ensayado al torque de acuerdo a A.25. Luego deberá ser presurizado cíclicamente por un total de 1.000  veces su vida útil. Para aquellos cilindros cuya vida útil sea inferior a 15 años corresponderá un mínimo de 15000 ciclos. Luego del ciclado a presión requerido, deberá someterse al cilindro a un ensayo de pérdida de acuerdo con el método descripto en A.10 y deberá cumplir con los requisitos allí establecidos;
+b) si en una secuencia de 10 lotes de producción de una familia de diseño (es decir, materiales y procesos similares dentro de la definición de un cambio menor de diseño, ver 9.5.3) ninguno de los cilindros sometidos a los ciclos de presión detallados en el apartado a) de este mismo punto pierde o se rompe en menos de 1.500 ciclos multiplicados por la vida útil (22.500 ciclos como  mínimo), el ensayo de ciclado a presión podrá limitarse a un cilindro de cada 5 lotes de producción;                 53
+c) si en una secuencia de 10 lotes de producción de una familia de diseño ninguno de los cilindros sometidos a los ciclos de presión detallados en el apartado a) de este mismo punto pierde o se rompe en menos de 2.000 ciclos multiplicados por la vida útil (30.000 ciclos como mínimo), el ensayo de ciclado a presión podrá limitarse a un cilindro de cada 10 lotes de producción;
+d) si hubieran transcurrido más de tres meses desde el último ensayo de ciclado a presión, un cilindro del siguiente lote de producción deberá ser sometido al ensayo de ciclado a presión a fin de mantener la frecuencia reducida de los ensayos de lote establecidos en los apartados b) y c) de este mismo punto;
+e) si alguno de los cilindros sometidos al ensayo de ciclado a presión con frecuencia reducida establecida en los apartados b) o c) de este mismo punto no cumple con el número requerido de ciclos de presión (22.500 o 30.000 ciclos de presión como mínimo, respectivamente), será necesario repetir la frecuencia de ensayo de lote de ciclado a presión establecido en el apartado a) en un mínimo de 10 lotes de producción a fin de restablecer la frecuencia reducida del ensayo de lote de ciclado a presión establecido en los apartados b) o c) de este mismo punto.
+Si alguno de los cilindros de los apartados a), b) o c) anteriormente mencionados no cumple con el requisito mínimo de 1.000 ciclos multiplicados por la vida útil (15.000 ciclos como mínimo), la causa de la falla deberá ser determinada y corregida siguiendo los procedimientos de 9.9. El ensayo de ciclado a presión deberá repetirse en otros tres cilindros de ese lote. Si cualquiera de estos tres cilindros no cumple con el requisito mínimo de 1.000 ciclos a presión multiplicados por la vida útil, el lote deberá ser rechazado.
+9.7. Ensayos en cada cilindro
+Las inspecciones y ensayos de producción deberán realizarse en todos los cilindros producidos en un lote.
+Cada cilindro deberá ser examinado durante su fabricación y una vez terminado, de la siguiente manera:
+a) a través de la inspección de los"liners" para verificar que el tamaño máximo del defecto sea menor al tamaño especificado en el diseño;
+b) para verificar que las dimensiones críticas y la masa del cilindro terminado y de todo "liner" y revestimiento exterior se encuentran dentro de las tolerancias del diseño;
+c) para verificar el cumplimiento con la terminación superficial especificada;
+d) para verificar el marcado;
+e) a través del ensayo hidráulico de los cilindros terminados de acuerdo con A.11, opción 1. El fabricante deberá establecer el límite apropiado de expansión elástica para la presión de prueba utilizada, pero en ningún caso la expansión elástica de los cilindros excederá el valor promedio del lote en más de un 10 %;
+f) a través de un ensayo de pérdida de acuerdo con A.10, cumpliendo con los requisitos allí establecidos.
+9.8 Certificado de aprobación de lote
+Si los resultados del ensayo de lote de acuerdo con 9.6 y 9.7 son satisfactorios, el fabricante y el OEC deberán firmar un certificado de aprobación. El modelo de certificado de aprobación a ser utilizado (denominado "Informe de Fabricación y Certificado de Conformidad") se encuentra detallado en el Apéndice E.
+9.9 Incumplimiento de los requisitos de ensayo
+En el caso de incumplimiento de los requisitos de ensayo, un reensayo o un retratamiento térmico y reensayo deberán ser realizados de la siguiente manera:
+a) Si hubiera evidencias de falla en la realización de un ensayo, o un error de medida, deberá realizarse otro ensayo; si el resultado de este ensayo es satisfactorio, el primer ensayo no será tenido en cuenta.
+b) Si el ensayo ha sido realizado de manera satisfactoria, se deberá identificar la causa de la falla del ensayo.
+- Todos los cilindros que presenten defectos deberán ser rechazados o reparados a través de un método aprobado. Si los cilindros reparados aprueban el/los ensayo/s requerido/s por la reparación, deberán ser reconsiderados como parte del lote original.
+- El nuevo lote deberá ser reensayado. Deberán realizarse nuevamente todos los ensayos significativos de prototipo o de lote necesarios para probar la aceptabilidad del nuevo lote. Si uno o más ensayos no fueran satisfactorios, aunque sea parcialmente, todos los cilindros del lote serán rechazados.
+10 Marcado
+El fabricante deberá proveer  en cada cilindro marcaciones claras y permanentes de no menos de 6 mm de altura. El marcado se podrá efectuar por etiquetas incorporadas en las resinas, etiquetas pegadas por adhesivos o  dígitos marcados en bajorelieve en las espesuras de las extremidades en los cilindros tipo GNC-1 y GNC-2 o combinaciones de las alternativas citadas. Las etiquetas autoadhesivas y sus aplicaciones se realizarán de acuerdo con la Norma ISO 7225. Se permitirá el uso de etiquetas múltiples, que no podrán quedar tapadas por las sujeciones utilizadas al montar los cilindros.
+Todos los cilindros que cumplan con este Reglamento Técnico deberán ser marcados de la siguiente manera:
+a) las palabras "SÓLO GNC;
+b) las palabras "NO USAR CON POSTERIORIDAD A XX/XXXX", donde XX/XXXX significa el mes y año de vencimiento.
+El período entre la fecha de fabricación y la de vencimiento no deberá exceder la vida útil especificada. Los cilindros deben ser guardados por su fabricante o importardor en un lugar seco y sin presión interna.
+c) la identificación del fabricante;
+d) la identificación del país de origen
+e) el código de identificación MERCOSUR (CIM) del cilindro de acuerdo al Apéndice J;
+f) la presión de trabajo a temperatura;
+g) la referencia a la Resolución MERCOSUR;
+h)  el tipo de cilindro;
+i) las palabras "Usar sólo un DAP aprobado por el fabricante";
+j) fecha de fabricación (mes y año).
+11. Preparación para su entrega
+Todos los cilindros deberán ser limpiados y secados internamente antes de salir del establecimiento del fabricante. Los cilindros que no sean cerrados inmediatamente mediante la aplicación de una válvula, y los elementos de seguridad, si correspondiera, deberán tener tapones en todas las aberturas a fin de prevenir la entrada de humedad y proteger las roscas. Antes de su entrega, todos los cilindros de acero y "liners" deberán rociarse interiormente con un inhibidor de corrosión (por ejemplo, con contenido de aceite).
+Deberá suministrarse al comprador la declaración de servicio del fabricante y toda información e instrucción necesaria para asegurar el correcto manejo, uso e inspección en servicio del cilindro. La declaración de servicio se hará de acuerdo con 5.2.3.En el Apéndice H se detalla un modelo del contenido de las instrucciones.
+
+
+APÉNDICE A
+Métodos y criterios de ensayo
+
+A.1 Ensayos de tracción para los cilindros y contenedores interiores de acero y aluminio
+Deberá realizarse un ensayo de tracción en el material tomado de la parte cilíndrica del cilindro o "liner" terminado utilizando una probeta rectangular configurada de acuerdo con el método descrito en la Norma ISO 9809-1 para el acero y en la Norma ISO 7866 para el aluminio. Las dos caras de la probeta que representan la superficie interna y externa del cilindro no deberán ser maquinadas.
+El ensayo de tracción deberá realizarse de acuerdo con la Norma ISO 6892.
+La resistencia a la tracción deberá cumplir con las especificaciones de diseño del fabricante.
+Para los cilindros y "liner" de acero, el alargamiento será de por lo menos el 14%.
+Para los cilindros y "liner" de aluminio aleado del tipo de fabricación 1 o 2, el alargamiento será de por lo menos  el 12%.
+Para los "liner" de aluminio aleado del tipo de fabricación 3, el alargamiento deberá cumplir las especificaciones de diseño del fabricante.
+NOTA - Se pone especial atención en el método de medición de alargamiento descrito en la Norma ISO 6892, particularmente en aquellos casos en los que se reduce la sección de la probeta de tracción, resultando en un punto de fractura distante del medio de la longitud de referencia.
+A.2 Ensayo de impacto para los cilindros y "liners" de acero
+El ensayo de impacto deberá realizarse en el material tomado de la parte cilíndrica del cilindro o "liner" terminado, en tres probetas de acuerdo con la Norma ISO 148.
+Las probetas para el ensayo de impacto deberán tomarse de la pared del cilindro en las direcciones establecidas en la Tabla A.1. La entalladura será perpendicular a la cara de la pared del cilindro. Para los ensayos longitudinales, la probeta será maquinada en toda la superficie (en las seis caras). Si el espesor de la pared no permite una probeta final con un ancho de 10 mm, el ancho será lo más cercano posible al espesor nominal de la pared del cilindro. Las probetas tomadas en dirección transversal sólo serán maquinadas en cuatro caras; las caras interna y externa de la pared del cilindro no serán maquinadas.
+Los valores de impacto no serán inferiores a los especificados en la Tabla A.1.
+TABLA A.1 - VALORES ADMISIBLES DEL ENSAYO DE IMPACTO
+Diámetro del cilindro D, mm
+>140
+140
+Dirección del ensayo
+Transversal
+Longitudinal
+Ancho de la probeta, mm
+3 a 10
+>5 a 7,5
+>7,5 a 10
+3 a 10
+Temperatura de ensayo, °C
+-50
+-50
+Resistencia al impacto J/cm²
+Promedio de tres muestras
+30
+35
+40
+60
+
+Muestra individual
+24
+28
+32
+48
+A.3 Ensayo de resistencia a las fisuras bajo tensión por sulfuro, para el acero
+A excepción de lo indicado a continuación, el ensayo deberá realizarse de acuerdo con el Método A - procedimientos de la Norma NACE para el Ensayo de Tracción, tal como se describe en la Norma NACE TM0177-96. Los ensayos deberán realizarse en un mínimo de tres muestras de tracción con un diámetro medido de 3,81 mm (0,150 pulgadas), maquinadas de la pared del cilindro o "liner", terminado. Las muestras deberán colocarse bajo una carga de tracción constante igual al 60% de la tensión de fluencia mínima especificada del acero, inmersas en una solución de agua destilada regulada con el 0,5% (fracción en masa) de trihidrato de acetato de sodio y ajustada a un pH inicial de 4,0, utilizando ácido acético. La solución deberá ser saturada en forma continua a temperatura y presión ambientes con 0,414 kPa (0,06 psia) de sulfuro de hidrógeno (nitrógeno equilibrado). Las muestras ensayadas no presentarán fallas durante una duración de ensayo de 144 horas.
+A.4 Ensayos de corrosión para el aluminio
+Los ensayos de corrosión para las aleaciones de aluminio deberán realizarse de acuerdo con el anexo A de la Norma ISO 7866:1999 y deberá cumplir con los requisitos allí establecidos.
+A.5 Ensayos de fisuras por carga sostenida para el aluminio
+La resistencia al ensayo de fisuras por carga sostenida deberá realizarse de acuerdo con el anexo B de la Normas ISO 7866:1999 y deberá cumplir con los requisitos allí establecidos.
+A.6 Ensayo de pérdida anterior a la rotura
+Tres cilindros terminados serán ciclados a presión entre 2 MPa y 30 MPa a una velocidad que no exceda los 10 ciclos por minuto de acuerdo con el punto A.13.
+Todos los cilindros deberán presentar fallas por pérdida o exceder los 45.000 ciclos de presión.
+A.7 Ciclado a presión a temperatura extrema
+Los cilindros terminados, con bobinado compuesto sin cubierta protectora, serán ciclados de la siguiente manera:
+a) acondicionar por 48 hs a presión cero, 65 °C o más, y 95 % o más de humedad relativa. Se considerará alcanzado el objetivo de este requisito a través del rociado con un aerosol fino o vapor de agua en una cámara a 65 °C.
+b) presurizar hidrostáticamente por una cantidad de ciclos igual al producto de la vida de servicio (especificada en años) por 500 (ciclos/año), entre 2 MPa y 26 MPa bar a 65 °C o más, y 95 % o más de humedad relativa;
+c) acondicionar el cilindro y el fluido a -40 °C o menos según lo medido en el fluido y en la superficie del cilindro;
+d) presurizar desde 2 MPa hasta 20 MPa por una cantidad de ciclos igual al producto de la vida de servicio (especificada en años) por 500 (ciclos/año) a -40 °C o menos. Deberán suministrarse los instrumentos de registro adecuados a fin de asegurar que se mantenga la temperatura mínima del fluido durante el ciclado a baja temperatura.
+La velocidad de ciclado a presión del apartado b) no excederá los 10 ciclos por minuto. La velocidad de ciclado a presión del apartado d) no excederá los 3 ciclos por minuto a menos que se instale un transductor de presión directamente dentro del cilindro.
+Durante este ciclado a presión el cilindro no deberá presentar signos de rotura, pérdida o desenrollado de fibras.
+Luego del ciclado a presión a temperaturas extremas, los cilindros deberán ser hidrostáticamente presurizados hasta que presenten fallas de acuerdo con el punto A.12, y deberán alcanzar una presión mínima de estallido del 85 % de la presión mínima de estallido de diseño. Para los diseños tipo GNC-4, antes del ensayo de estallido hidráulico el cilindro será sometido al ensayo de pérdida de acuerdo con el punto A.10.
+A.8 Ensayo de dureza Brinell
+Los ensayos de dureza deberán realizarse en la pared cilíndrica de cada cilindro o "liner" de acuerdo con la Norma ISO 6506-1 a un régimen de un ensayo por metro de largo de la pared cilíndrica. El ensayo deberá realizarse luego del tratamiento térmico final y los valores de dureza así determinados se encontrarán dentro del rango especificado para el diseño.
+A.9 Ensayos de la Protección externa
+Las Protecciones externas deberán evaluarse utilizando los siguientes métodos de ensayo:
+a) ensayo de adhesión, de acuerdo con la norma ISO 4624 utilizando el método A o B según corresponda. La Protección externa deberá mostrar un nivel de adhesión de 4A o 4B, según corresponda.
+b) flexibilidad, de acuerdo con la Norma ASTM D522-93, utilizando el método de ensayo B con un mandril de diámetro 12,7 mm (0,5 pulgadas) al espesor especificado y a -20 °C. Las muestras para el ensayo de flexibilidad deberán prepararse de acuerdo con la Norma ASTM D522-93. No habrá fisuras visualmente aparentes;
+c) resistencia al impacto, de acuerdo con la Norma ASTM D2794-93. La Protección externa a temperatura ambiente deberá aprobar el ensayo de impacto de 18 J (13,3 pies lbs);
+d) resistencia a los productos químicos, de acuerdo con la Norma ASTM D1308-87, con excepción de lo establecido a continuación. Los ensayos deberán realizarse utilizando el ensayo de superficie por el método abierto y 100 hs de exposición a una solución de ácido sulfúrico al  30 % (ácido de batería con una densidad específica de 1,219) y 24 hs de exposición a un glicol polialcalino (por ejemplo, fluido de freno). No deberán presentarse signos de descolgamiento, ampollas o ablandamiento de la Protección externa. La adhesión deberá alcanzar un nivel de 3A o 3B, según corresponda, cuando sea ensayada de acuerdo con la Norma  ISO 4624
+e) exposición mínima de 1.000 hs, de acuerdo con la Norma ASTM G53-93. No deberán presentarse signos de ampollas, y la adhesión deberá alcanzar un nivel de 3A o 3B, según corresponda, cuando sea ensayada de acuerdo con la norma  ASTM G5393. La pérdida máxima de brillo permitida es del 20 %;
+f) exposición mínima de 500 hs de acuerdo con la norma ISO 9227. El corte no excederá los 2 mm en la marca trazada; no deberán presentarse signos de ampollas y la adhesión deberá alcanzar el nivel de 3A o 3B, según corresponda, cuando sea ensayada de acuerdo con la Norma  ISO 4624
+g) resistencia al picado a la temperatura en la que se acondicionó el ambiente, de acuerdo con la Norma ASTM D3170-87. La Protección externa deberá tener un nivel de 7A o mejor, y no deberá haber exposición del substrato.
+
+A.10 Ensayo de pérdida
+Deberá someterse a ensayo de pérdida a los diseños tipo GNC-4, utilizando el siguiente procedimiento:
+a) secado minucioso de los cilindros;
+b) presurización de los cilindros a presión de trabajo con aire seco o nitrógeno que contengan un gas detectable, como el helio.
+Toda pérdida detectada será motivo de rechazo.
+NOTA - Una pérdida es el escape de gas a través de una fisura, poro, desunión o defecto similar. No se considera pérdida la permeabilidad a través de la pared de acuerdo con el punto A.21.
+A.11 Ensayo hidráulico
+Toda presión interna aplicada luego del autozunchado y con anterioridad al ensayo hidráulico no excederá el 90 % de la presión del ensayo hidráulico.
+Deberá utilizarse una de las siguientes opciones:
+Opción 1. Ensayo de expansión volumétrica
+a) El cilindro será ensayado hidrostáticamente a por lo menos 1,5 veces la presión de trabajo. En ningún caso la presión de prueba podrá exceder la presión de autozunchado.
+b) Deberá mantenerse la presión por 30 segundos y luego, el tiempo suficiente para asegurar la expansión completa. Cualquier presión interna aplicada luego del autozunchado y con anterioridad al ensayo hidráulico no excederá el 90 % de la presión de ensayo hidráulico. Si no puede mantenerse la presión de prueba debido a una falla del aparato de ensayo, se permitirá repetir el ensayo a una presión incrementada en 0,7 MPa. No se permiten más de dos de estos ensayos de repetición.
+c) Los cilindros que no cumplan con el límite de rechazo establecido serán rechazados y no podrán prestar servicio.
+Opción 2. Ensayo de presión de prueba.
+Deberá aumentarse la presión hidráulica en el cilindro en forma gradual y constante hasta alcanzar la presión de prueba, por lo menos 1,5 veces la presión de trabajo. La presión de prueba del cilindro deberá mantenerse por lo menos 30 segundos a fin de determinar que no se producen pérdidas.
+A.12 Ensayo de estallido por presión hidráulica
+La velocidad de presurización no excederá 1,4 MPa/s a presiones superiores al 80 % de la presión de estallido de diseño. Si la velocidad de presurización a presiones que exceden el 80 % de la presión de estallido de diseño supera 0,35 MPa/s, en ese caso deberá colocarse esquemáticamente al cilindro entre la fuente de presión y el elemento de medición de presión,o deberá mantenerse 5 segundos a la presión mínima de estallido de diseño.
+La presión mínima de estallido requerida (calculada) será de por lo menos 45 MPa, y en ningún caso será inferior al valor necesario para cumplir los requisitos de la relación de tensión. Se deberá registrar la presión de estallido efectiva. Las roturas pueden producirse ya sea en la parte cilíndrica o en la parte abovedada del cilindro.
+
+A.13 Ciclado a presión a temperatura ambiente
+El ciclado a presión deberá realizarse de acuerdo con el siguiente procedimiento:
+a) llenar el cilindro a ser ensayado con un fluido no corrosivo, como por ejemplo, aceite, agua inhibida o glicol;
+b) ciclar la presión en el cilindro entre 2 MPa y 26 MPa a una velocidad que no exceda los 10 ciclos por minuto.
+Deberá registrarse la cantidad de ciclos anteriores a la presentación de la falla, junto con la ubicación y descripción del inicio de la falla.
+A.14 Ensayo en ambiente ácido
+En un cilindro terminado deberá aplicarse el siguiente procedimiento de ensayo:
+a) exponer un área de 150 mm de diámetro sobre la superficie del cilindro durante 100 hs. a una solución de ácido sulfúrico al 30 % (ácido de batería con una densidad específica de 1,219) mientras que el cilindro es presurizado hidrostáticamente a 26 MPa;
+b) presurizar el cilindro hasta que estalle de acuerdo con el procedimiento descrito en A.12.
+La presión de estallido deberá exceder el 85 % de la presión de estallido mínima del diseño.
+A.15 Ensayo de resistencia al fuego
+A.15.1 Generalidades
+La finalidad del ensayo contra incendio es demostrar que los cilindros terminados,  con el sistema de protección contra incendio (válvula, dispositivos de alivio de presión, aislamiento térmico integral) especificado en el diseño, no presentarán rotura cuando se los ensaye bajo las situaciones de incendio especificadas.
+Deberán tomarse los recaudos necesarios durante el ensayo contra incendio para el caso de que se produzca la rotura del cilindro.
+A.15.2 Preparación del cilindro
+Deberá colocarse el cilindro en forma horizontal, con la parte más baja a aproximadamente 100 mm sobre la fuente del fuego.
+Deberá utilizarse una cubierta protectora de metal para evitar el impacto directo de la llama sobre las válvulas, accesorios y dispositivos de alivio de presión del cilindro. La cubierta protectora de metal no podrá estar en contacto directo con el sistema especificado de protección contra incendio (dispositivos de alivio de presión o válvula del cilindro).
+Cualquier falla que se produzca durante el ensayo en una válvula, accesorio o tubería que no forme parte del sistema de protección establecido para el diseño, invalidará el resultado del ensayo.
+A.15.3 Fuente del fuego
+Una fuente de fuego uniforme de 1650 mm de largo producirá el impacto directo de la llama sobre la superficie del cilindro de manera de envolverlo en todo su contorno, a lo largo de su eje longitudinal.
+Podrá utilizarse cualquier combustible para la fuente de fuego siempre que genere el suficiente calor uniforme como para mantener las temperaturas de ensayo especificadas hasta que el cilindro sea venteado. Para la elección del combustible deberá tenerse en cuenta la polución del aire. La preparación del fuego deberá registrarse detalladamente para asegurar que el régimen de entrada de calor en el cilindro es reproducible.
+Cualquier falla o inconsistencia de la fuente de fuego durante un ensayo invalidará su resultado.
+A.15.4 Medición de temperatura y de presión
+Las temperaturas de superficie serán monitoreadas por lo menos por tres termocuplas colocadas a lo largo de la parte más baja del cilindro y espaciadas entre sí por no más de 750 mm.
+Deberá utilizarse una cubierta protectora de metal para evitar el impacto directo de la llama sobre las termocuplas. Alternativamente, las termocuplas podrán ser colocadas en bloques de metal de menos de 25 mm cuadrados.
+Las temperaturas de las termocuplas y la presión del cilindro deberán ser registradas durante el ensayo, a intervalos de 30 segundos o inferiores.
+A.15.5 Requisitos generales de ensayo
+El cilindro deberá ser presurizado a presión de trabajo con gas natural o aire comprimido y ensayado en posición horizontal a presión de trabajo y al 25 % de la presión de trabajo si no se utiliza un dispositivo de alivio de presión activado térmicamente.
+Inmediatamente después de la ignición, el fuego producirá la incidencia de la llama sobre la superficie del cilindro -en todo el largo de la fuente de fuego, 1650 mm- envolviéndolo en todo su contorno.
+Dentro de los 5 minutos de ignición, al menos una termocupla deberá indicar una temperatura ≥ 590 °C. Deberá mantenerse esta temperatura mínima durante el resto del ensayo.
+Para los cilindros que midan 1650 mm de largo o menos, deberá colocarse el centro del cilindro sobre el centro de la fuente de fuego.
+Para los cilindros que midan más de 1650 mm de largo, deberá colocarse el cilindro de la siguiente manera:
+a) si el cilindro posee un dispositivo de alivio de presión en un extremo, la fuente de fuego deberá comenzar en el extremo opuesto del cilindro;
+b) si el cilindro posee dispositivos de alivio de presión en ambos extremos, o en más de un lugar a lo largo del cilindro, la fuente de fuego deberá centrarse en forma equidistante entre los dispositivos de alivio de presión que estén separados por la distancia horizontal mayor;
+c) si el cilindro está protegido además con un aislamiento térmico, deberán realizarse dos ensayos contra incendio a la presión de servicio; uno con el fuego centrado en forma equidistante a lo largo del cilindro, y el otro con el fuego que comience en uno de los extremos de un segundo cilindro.
+A.15.6 Resultados admisibles
+El cilindro venteará a través de un dispositivo de alivio de presión.
+A.16 Ensayos de penetración
+Un cilindro presurizado a 20 MPa ± 1 MPa con gas comprimido deberá ser penetrado por una bala perforante cuyo diámetro sea de 7,62 mm o mayor. La bala deberá penetrar completamente por lo menos una pared lateral del cilindro. Para los diseños tipo GNC-2, GNC-3 y GNC-4, el proyectil deberá impactar la pared lateral en un ángulo aproximado de 45°. El cilindro no deberá presentar roturas.
+A.17 Ensayos de tolerancia de defectos del compuesto
+En el caso de los diseños tipo GNC-2, GNC-3 y GNC-4, a un cilindro terminado, con la cubierta protectora, se le agregarán defectos en el compuesto en dirección longitudinal. Los defectos deberán ser mayores a los límites de inspección visual de acuerdo con lo establecido por el fabricante. Como mínimo, un defecto será de 25 mm de largo y 1,25 mm de profundidad, y otro defecto será de 200 mm de largo y 0,75 mm de profundidad, cortados en dirección longitudinal en la pared lateral del cilindro.
+El cilindro con defectos será luego ciclado a presión entre 2 MPa y 26MPa a temperatura ambiente, inicialmente durante 3.000 ciclos y luego durante 12.000 ciclos adicionales.
+El cilindro no deberá presentar pérdidas ni roturas dentro de los primeros 3.000 ciclos, pero podrá presentar pérdidas durante los 12.000 ciclos adicionales. Todos los cilindros que completen este ensayo serán destruidos.
+A.18 Ensayo de termofluencia a alta temperatura
+Este ensayo es requerido para todos los diseños tipo GNC-4, y para todos los diseños tipo GNC-2 y GNC-3 en los que la temperatura de transición  al estado  vítreo de la matriz de resina no exceda los 102 °C. Deberá ensayarse un cilindro terminado de la siguiente manera:
+a) el cilindro será presurizado a 26 MPa y se mantendrá a una temperatura de 100 °C durante no menos de 200 hs;
+b) luego del ensayo, el cilindro deberá cumplir los requisitos del ensayo de expansión hidráulica (A.11), del ensayo de pérdida (A.10) y del ensayo de estallido por presión hidráulica (A.12).
+A.19 Ensayo de rotura por tensión acelerada
+En el caso de los diseños tipo GNC-2, GNC-3 y GNC-4 un cilindro deberá ser hidrostáticamente presurizado a 26 MPa a 65 °C. El cilindro deberá mantenerse a esta presión y temperatura durante 1.000 h. Luego, el cilindro será presurizado hasta que estalle, de acuerdo con el procedimiento establecido en A.12. En este caso, la presión de estallido deberá exceder el 85 % de la presión de estallido mínima del diseño.
+A.20 Ensayo de impacto por caída
+Uno o más cilindros terminados deberán ser sometidos al ensayo de caída a temperatura ambiente sin presurización interna ni válvulas colocadas. La superficie sobre la cual deberán caer los cilindros será una plataforma o piso, de hormigón, liso y horizontal.
+Se dejará caer un cilindro en posición horizontal con la parte inferior a 1800 mm de distancia de la superficie sobre la que cae.
+Se dejará caer un cilindro en forma vertical de cada extremo a una altura de la plataforma o piso suficiente como para que la energía potencial sea 488 J, pero en ningún caso la altura del extremo inferior será mayor a 1800 mm.
+Se dejará caer un cilindro sobre una superficie abovedada de forma tal que su eje longitudinal forme un ángulo de 45° con la superficie de impacto, desde una altura tal que el centro de gravedad se encuentre a 1800 mm; no obstante, si el extremo inferior se encuentra a menor altura que 600 mm, se deberá cambiar el ángulo de caída a fin de mantener la altura mínima a 600 mm y el centro de gravedad a 1800 mm.
+Luego del impacto de caída, los cilindros serán ciclados a presión entre 2 MPa y 26 MPa a temperatura ambiente, inicialmente durante 3.000 ciclos y luego durante 12.000 ciclos adicionales.
+El cilindro no deberá presentar pérdidas ni roturas dentro de los 3.000 primeros ciclos, pero podrá presentar pérdidas durante los 12.000 ciclos adicionales. Todos los cilindros que completen este ensayo serán destruidos.
+A.21 Ensayo de permeabilidad
+Sólo se requiere este ensayo para los diseños tipo GNC-4. Deberá llenarse un cilindro terminado con gas natural comprimido a presión de trabajo; se lo colocará en una cámara cerrada y sellada a temperatura ambiente y será monitoreado durante 500 hs para observar la presentación de pérdidas. El nivel de permeabilidad deberá ser inferior a 0,25 ml de gas natural por hora por litro de capacidad de agua del cilindro. El cilindro deberá ser seccionado y las superficies internas inspeccionadas a fin de detectar cualquier signo de fisuras o de deterioro.
+A.22 Propiedades de tracción de los plásticos
+La tensión de fluencia a la tracción y el alargamiento final del material  plástico del "liner" deberá determinarse a -50 °C de acuerdo con la Norma ISO 527-2.
+Los resultados del ensayo deberán demostrar las propiedades dúctiles del material plástico del  "liner" a  temperaturas  de -50 °C o inferiores, cumpliendo los valores especificados por el fabricante.
+A.23 Temperatura de ablandamiento de los plásticos
+Los materiales poliméricos de los "liner" terminados serán ensayados de acuerdo con el método descripto en la Norma ISO 306.
+La temperatura de ablandamiento será de por lo menos 100 °C.
+A.24 Ensayos de lote de la Protección externa
+A.24.1 Espesor de la Protección externa
+El espesor de la Protección externa será medido de acuerdo con la Norma ISO 2808 y deberá cumplir con los requisitos del diseño.
+A.24.2 Adhesión de la Protección externa
+La resistencia de adhesión de la Protección externa deberá medirse de acuerdo con la Norma ISO 4624, y deberá tener un nivel mínimo de 4A o 4B, según corresponda,
+A.25 Ensayo de torque en el inserto metálico
+Deberá impedirse que el cuerpo del cilindro rote y deberá aplicarse en cada inserto metálico del cilindro un torque de dos veces el torque especificado por el fabricante para la instalación de la válvula o dispositivo de alivio de presión. El torque deberá aplicarse, en primer lugar, como si se ajustara una conexión a rosca, luego como si se la desajustara y, finalmente, como si se la ajustara nuevamente.
+Luego, el cilindro será sometido a un ensayo de pérdida de acuerdo con el punto A.10.
+A.26 Resistencia de la resina al esfuerzo de corte
+Los materiales de la resina deben ensayarse sobre una muestra representativa del revestimiento exterior compuesto de acuerdo con la Norma ISO 14130. Luego de hervir durante 24 hs en agua, el compuesto debe presentar una resistencia mínima de la resina al esfuerzo de corte de 13,8 MPa.
+A.27 Ensayo de ciclado con gas natural
+Deberá prestarse especial atención a la seguridad en el momento de realizar este ensayo. Con anterioridad a la realización de este ensayo, los cilindros de este diseño habrán aprobado satisfactoriamente los requisitos de ensayo de A.10 (ensayo de pérdida), de A.12 (ensayo de estallido por presión hidráulica), de A.13 (ensayo de ciclado a presión a temperatura ambiente) y de A.21 (ensayo de permeabilidad).
+Un cilindro terminado del tipo GNC-4 será ciclado a presión utilizando gas natural comprimido entre menos de 2 MPa y la presión de trabajo durante 1.000 ciclos. El tiempo de llenado será de 5 minutos como máximo. A menos que el fabricante especifique lo contrario, deberán tomarse los recaudos necesarios para asegurar que las temperaturas durante el venteo no excedan las condiciones definidas de servicio.
+El cilindro será sometido al ensayo de pérdida de acuerdo con A.10 y deberá cumplir con los requisitos allí establecidos. Luego de completado el ciclado con gas natural, el cilindro será seccionado, y el "liner" y la superficie de contacto del "liner" con el inserto metálico, serán inspeccionados a fin de detectar cualquier signo de deterioro, como por ejemplo, fisuras por fatiga o descarga electrostática.
+
+
+APÉNDICE B
+Inspección ultrasónica
+
+B.1 Alcance
+Este anexo se basa en las técnicas utilizadas por los fabricantes de cilindros.
+B.2 Requisitos generales
+El equipo para realizar el ensayo ultrasónico deberá poder detectar al menos el modelo de referencia según se describe en el punto B.3.2. Asimismo, el equipo deberá mantenerse regularmente de acuerdo con las instrucciones de operación de su fabricante para asegurar su exactitud. Se deberán guardar los informes de inspección y certificados de aprobación del equipo.
+El manejo del equipo de ensayo será realizado por personal entrenado y deberá ser supervisado por personal calificado y con experiencia, que esté certificado con el nivel 2 de la norma ISO 9712-1999.
+Las superficies interiores y exteriores de los cilindros sometidos a inspección ultrasónica deberán tener las condiciones propias de la producción para poder ser sometidas a un ensayo preciso y reproducible.
+Se deberá emplear el sistema de eco de pulsos para detectar defectos. Para medir el espesor se utilizará el método de resonancia o el sistema de eco de pulsos. Se usarán técnicas de ensayo por contacto o inmersión.
+Se utilizará un método de acoplamiento que asegure una adecuada transmisión de energía ultrasónica entre el cabezal de medición y el cilindro.
+B.3 Detección de defectos en las partes cilíndricas
+B.3.1 Procedimiento
+Los cilindros a ser inspeccionados y la unidad de búsqueda deberán tener un movimiento de rotación y traslación relacionados entre sí, de modo que se describa un escaneo helicoidal del cilindro. La velocidad de rotación y traslación será constante dentro de ±10 %. El paso de la hélice deberá ser inferior al ancho cubierto por el cabezal de medición (se deberá garantizar una superposición de por lo menos un 10 %) y estará relacionado con el ancho efectivo del haz, de modo de asegurar una cobertura del 100 % a la velocidad de rotación y traslación utilizada durante el procedimiento de calibración.
+Un método alternativo de escaneo puede utilizarse para detectar un defecto transversal, en el que el escaneo o movimiento relativo de los cabezales de medición y la pieza de trabajo sea longitudinal, y el movimiento de barrido asegure una cobertura de la superficie del 100 % con alrededor de un 10 % de superposición de los barridos.
+La pared del cilindro será ensayada para verificar defectos longitudinales transmitiendo la energía ultrasónica en ambas direcciones circunferenciales, y para verificar defectos transversales transmitiéndola en ambas direcciones longitudinales.
+En este caso, o cuando se realice un ensayo opcional en las zonas de transición entre la pared y el cuello o entre la pared y la base, si esto no se hace automáticamente, se puede hacer manualmente.
+La efectividad del equipo deberá ser controlada periódicamente contra un modelo de referencia a través del procedimiento de ensayo. Este control deberá realizarse por lo menos al comienzo y al final de cada turno de producción. Si durante este control no se detectara la presencia de la entalladura de referencia apropiada, todos los cilindros ensayados luego del último control para su aceptación deberán ser reensayados luego de que el equipo haya sido puesto nuevamente en funcionamiento.
+B.3.2 Modelo de referencia
+Un modelo de referencia, con un largo conveniente, deberá prepararse de un cilindro cuyos diámetro y espesor de pared sean de similar rango que los del cilindro a ser inspeccionado; y cuyas características acústicas y terminación superficial del material sean las mismas que las del cilindro a ser inspeccionado. El modelo de referencia no deberá presentar discontinuidades que puedan interferir en la detección de las entalladuras de referencia.
+Las entalladuras de referencia, tanto longitudinales como transversales, deberán ser maquinadas en la superficie interior y exterior del modelo. Las entalladuras deberán estar separadas de modo que cada una pueda ser claramente identificada.
+Las dimensiones y la forma de las entalladuras tienen una importancia crucial para ajustar el equipo (ver Figuras B.1 y B.2):
+- el largo de las entalladuras (E) no será superior a 50 mm;
+- el ancho (W) no será superior al doble de la profundidad nominal (T); sin embargo, cuando no se pueda cumplir esta condición, se admitirá un ancho máximo de 1 mm;
+- la profundidad de las entalladuras (T) deberá ser de 5 % ± 0,75 % del  espesor nominal (S) con  un  mínimo de 0,2 mm y un máximo de 1 mm, en el largo total de la entalladura; se permiten desviaciones en los extremos;
+- la entalladura deberá ser filosa en su intersección con la superficie de la pared del cilindro. El corte transversal de la entalladura deberá ser rectangular, excepto que se utilicen métodos de maquinado por electroerosión; en este caso se admite que el fondo de la entalladura sea redondeado;
+- la forma y dimensiones de la entalladura deberán demostrarse a través de un método adecuado.
+B.4 Calibración del equipo
+Al utilizar el modelo de referencia descrito en B.3.2, el equipo deberá ajustarse para producir indicaciones claramente identificables de las entalladuras de referencia interiores y exteriores. La amplitud de las indicaciones deberá ser tan aproximadamente igual como sea posible. La indicación de la amplitud menor será utilizada como el nivel de rechazo y para ajustar los dispositivos visuales, audibles, de registro o de clasificación. El equipo será calibrado con el modelo de referencia o según el cabezal de medición, o ambos, moviéndolo de la misma forma, en la misma dirección y con la misma velocidad, con las que se realizará la inspección del cilindro. Todos los elementos visuales, audibles, de registro o de clasificación deberán operar satisfactoriamente a la velocidad de ensayo.
+B.5 Medición del espesor de pared
+Si no se realiza la medición del espesor de pared en otro momento de la producción, la parte cilíndrica será examinada en su totalidad para asegurar que el espesor de la pared no sea inferior al valor mínimo garantizado.
+
+
+B.6 Interpretación de los resultados
+Se retirarán los cilindros que tengan indicaciones iguales o mayores a la más baja de las indicaciones provenientes de las entalladuras de referencia. Podrán sacarse los defectos de superficie; luego, los cilindros serán sometidos nuevamente a la detección ultrasónica de defectos y a la medición de espesor.
+Se rechazará todo cilindro que esté por debajo del espesor de pared mínimo garantizado.
+
+
+Referencias:
+
+
+1 Entalladura de referencia externa
+2 Entalladura de referencia interna
+
+NOTA: 	T  (5  0,75) % S pero 0,2 mm  T  1 mm
+	W  2T,  pero si no fuera posible, entonces W  1 mm
+	E  50 mm
+
+
+Figura B.1 - Detalles y dimensiones de diseño de las entalladuras de referencia para la detección de defectos longitudinales
+
+
+NOTA: 	T  (5  0,75) % S pero 0,2 mm   T  1 mm
+	W  2T, pero si no fuera posible, entonces W  1 mm
+	E  50 mm
+
+Figura B.2 - Esquema de representación de las entalladuras de referencia para la detección de defectos circunferenciales
+B.7 Documentación
+El fabricante del cilindro deberá documentar el ensayo ultrasónico.
+Todos los cilindros que hayan aprobado el ensayo ultrasónico de acuerdo con esta especificación deberán estamparse con el símbolo "UT".__________________
+
+
+APÉNDICE C
+
+Procedimientos de aprobación y certificación
+
+C.1 Generalidades
+La certificación del fabricante, la aprobación del cilindro y el monitoreo de los procedimientos de control/inspección de calidad son realizadas por la Autoridad Reguladora o el OEC. Este Apéndice describe los pasos relacionados con esos procedimientos.
+C.2 Certificación del fabricante o importador
+Para obtener la certificación en un país, el fabricante o importador debe solicitarla a la Autoridad Reguladora o a quien ésta designe. Dicha solicitud debe contener documentación relacionada con el diseño, el proceso y el control de calidad, según se dispone en el punto 5 de este Reglamento Técnico.
+La Autoridad Reguladora o a quien ésta designe otorga al fabricante la certificación a través de los siguientes pasos y emite un "certificado de aprobación".
+- la Autoridad Reguladora o a quien ésta designe realiza,  un análisis in situ de la planta de fabricación, incluyendo el equipamiento y el control de calidad. Se realiza la observación de los procesos de fabricación, ensayo e inspección. Esto es a los fines de verificar que la planta, el equipamiento, el personal y los sistemas utilizados sean los adecuados para la fabricación de cilindros según este Reglamento Técnico.
+- la Autoridad Reguladora, o quien ésta designe, realiza o hace realizar los ensayos de los cilindros seleccionados de un lote de producción prototipo. Estos ensayos deben cumplir los requisitos de aprobación de diseño según se dispone en este Reglamento Técnico, de acuerdo con el tipo específico de diseño de cilindro de que se trate.
+C.3. Aprobación del tipo de cilindro
+C.3.1 Luego de recibir la solicitud para la aprobación de un tipo de cilindro, la autoridad reguladora o quien ésta designe:
+
+- examinará los documentos técnicos para verificar que el cilindro haya sido fabricado de conformidad con la documentación técnica y que el diseño cumpla con las disposiciones pertinentes de este Reglamento Técnico;
+- acuerda con el solicitante el lugar en el cual se realizarán los análisis y ensayos;
+- realiza o hace llevar a cabo los exámenes y ensayos especificados para determinar que haya sido aplicado este Reglamento Técnico y que los procedimientos adoptados por el fabricante cumplen los requisitos de este Reglamento Técnico;
+C.3.2 Cuando el tipo de cilindro cumpla con los requisitos de este Reglamento Técnico, la autoridad reguladora o quien ésta designe otorgará al solicitante un certificado de aprobación. El certificado debe contener el nombre y dirección del fabricante, los resultados y conclusiones de los exámenes y los datos necesarios para la identificación del cilindro aprobado. Debe anexarse al certificado una lista de las partes relevantes de la documentación técnica. La autoridad reguladora o quien ésta designe y el fabricante deben guardar copia de la documentación, por el período de vida útil del cilindro.
+Se indica para cada fabricante o importador una identificación, que debe estamparse o marcarse  adecuadamente en el cilindro.
+C.3.3 Si se le negara al fabricante o importador la aprobación del cilindro según este Reglamento Técnico, la autoridad reguladora o quien ésta designe manifestará detalladamente los motivos por escrito.
+C.3.4 Es necesario que el fabricante o importador informe a la autoridad reguladora o quien ésta designe que emitió la certificación de aprobación del cilindro, sobre cualquier modificación del equipamiento o procedimientos aprobados. Se necesitará una aprobación adicional cuando esos cambios no estén de acuerdo con la aprobación original de los cilindros; esta aprobación adicional será otorgada como modificación del certificado original de aprobación del cilindro.
+C.3.5 Cuando fuera requerido, cada autoridad reguladora de un Estado Parte comunicará a la autoridad reguladora de otro Estado Parte la información pertinente relativa a cada aprobación de cilindro, modificaciones aprobadas y aprobaciones canceladas según este Reglamento Técnico.
+C.4 Informes y certificados
+C.4.1 Generalidades
+El fabricante o importador del cilindro guardará los certificados de aprobación y mantendrá un archivo con la documentación técnica. El informe cumplirá con este anexo y será firmado por el representante autorizado por el fabricante o importador. El informe deberá guardarse por no menos de 15 años o durante la vida útil del cilindro.
+El fabricante o importador  del cilindro suministrará al comprador del cilindro, como mínimo, la información solicitada en el Formulario 1 del Apéndice E.
+C.4.2 Certificado de aprobación del producto
+El certificado de aprobación del producto  incluirá los siguientes datos, además de los datos de ensayo para los requisitos pertinentes de aprobación del diseño:
+a) planos y cálculos de diseño;
+b) identificación del material del cilindro, y certificado de análisis y resultado de todo ensayo no destructivo de los lotes de material con los cuales se fabricaron los cilindros;
+c) resultado de los ensayos mecánicos, químicos y no destructivos del cilindro, o del "liner" y del sobrebobinado;
+d) capacidad en agua de cada cilindro expresada en litros (l);
+e) resultados de los ensayos de presión que indiquen (si correspondiera) que la expansión volumétrica registrada para el cilindro está por debajo del máximo permitido;
+f) espesor mínimo de diseño y espesor efectivo del cilindro, o del "liner"  revestimiento interior y sobrebobinado;
+g) masa real (kg).
+C.4.3 Informe del producto
+El informe del producto fabricante deberá suministrar, como mínimo, la información que se dispone en el Formulario 1 del Apéndice E.
+
+APÉNDICE D
+Tamaño del defecto en el ensayo no destructivo por ciclado del cilindro con fallas.
+
+Se deberá utilizar el siguiente procedimiento para determinar el tamaño del defecto en el ensayo no destructivo para los diseños tipo GNC-1, GNC-2 y GNC-3:
+a) para los diseños tipo GNC-1 que tengan un sector sensible de fatiga en la parte cilíndrica, introducir defectos externos en la pared lateral;
+b) para los diseños tipo GNC-1 que tengan un sector sensible de fatiga fuera de la pared lateral, y para los de tipo GNC-2 y GNC-3, introducir defectos internos; los defectos internos pueden ser maquinados antes del tratamiento térmico y cierre del extremo del cilindro;
+c) dimensionar estos defectos artificiales para que excedan la capacidad de detección del largo y la profundidad del defecto, por el método de inspección del ensayo no destructivo;
+d) ciclar a presión hasta que presenten fallas tres cilindros que tengan estos defectos artificiales, según el método de ensayo especificado en A.13.
+Si los cilindros no pierden ni se rompen en menos de 1.000 ciclos multiplicados por la vida útil expresada en años, el tamaño de defecto permitido para el ensayo no destructivo será igual o menor que el tamaño del defecto artificial en esa ubicación.
+
+
+72
+
+
+APÉNDICE E
+Formularios de informe
+
+E.1 Generalidades
+Este anexo brinda una guía acerca del tipo de información a ser incluida en el archivo de documentación técnica relacionada con la aprobación del cilindro. Se suministran ejemplos de formatos adecuados para el Formulario 1 y para el Formulario 7. Los Formularios 2 a 6 deben ser preparados por el fabricante o importador para identificar con exactitud los cilindros y sus requisitos. Cada informe deberá ser firmado por la autoridad de inspección independiente autorizada  y por el fabricante o importador.
+E.2 Lista de modelos de formularios
+La documentación debe incluir los formularios detallados a continuación:
+- Modelo 1) Informe de Fabricación y Certificado de Conformidad - debe ser claro y fácil de leer. Se da un ejemplo de formato adecuado en la Figura E.1.
+- Modelo 2) Informe del Análisis Químico del Material de los Cilindros, "liners" de metal o  insertos metálicos, de Metal - debe incluir elementos esenciales, identificación, etcétera.
+- Modelo 3) Informe de las Propiedades Mecánicas del Material de los Cilindros y "liner" de Metal - se deben informar todos los ensayos requeridos por este Reglamento Técnico.
+- Modelo 4) Informe de las Propiedades Físicas y Mecánicas de los Materiales para los "liner" No-metálicos - se deben informar todos los ensayos y brindar la información requerida por este Reglamento Técnico .
+- Modelo 5) Informe de los Análisis del Compuesto - se deben informar todos los ensayos y datos requeridos por  este Reglamento Técnico.
+- Modelo 6) Informe de los Ensayos Hidráulicos, de Ciclos de presión y de Estallido - se debe informar el ensayo y los datos requeridos por este Reglamento Técnico.
+- Modelo 7) Certificado de Aprobación de Tipo - en la Figura E.2 se da un ejemplo de formato adecuado.
+
+
+73
+
+
+Figura E.1 - Formato de ejemplo para el Formulario 1: Informe de Fabricación y Certificado de Conformidad
+
+Fabricado por:________________________________________________________
+Ubicado en:___________________________________________________________
+Número de registro:___________________________________________________
+Identificación y número del fabricante:_______________________________
+Número de serie:_____________________ a ____________________inclusive
+Código de homologación:
+
+TAMAÑO:           Diámetro exterior:____________mm; Largo__________mm
+Las marcas estampadas en la ojiva o en las etiquetas del cilindro son:
+a) "SOLO GNC":____________________________________________________
+b) "NO USAR CON POSTERIORIDAD A":_________________________________
+c) Identificación del fabricante:_________________________________
+d) Número de serie o parte:_______________________________________
+e) Presión de trabajo, expresada en bar:_______________________
+f) Reglamento Técnico MERCOSUR N° __________
+g) Protección contra incendio: Tipo_______________________________
+h) Fecha del ensayo original (mes y año):_________________________
+i) Masa del cilindro vacío, expresada en kg:_________________________
+j) Identificación del órgano autorizado o Inspector:______________
+k) Capacidad en agua, expresada en litros :____________________
+l) Presión de ensayo, expresada en MPa:____________________________
+m) Indicaciones especiales:_______________________________________
+
+Cada cilindro fue fabricado de acuerdo con todos los requisitos establecidos en el Reglamento Técnico MERCOSUR N° ________ y de acuerdo con la descripción del cilindro arriba enunciada. Se adjuntan los informes de los resultados de los ensayos solicitados.
+Por la presente certifico que todos estos ensayos fueron satisfactorios en todo sentido y que cumplen con los requisitos del Reglamentos Técnicos MERCOSUR ____ establecidos en el Reglamento Técnico MERCOSUR arriba enunciada______________
+Observaciones:______________________________________________________________________________________________________________________________
+Organo autorizado u organismo de inspección:__________________________
+
+74
+
+
+Firma del Representante del OAC:____________________________________
+_______________________________________________
+
+Firma del Responsable Técnico del fabricante:_________________________________________________
+Lugar:_______________________ Fecha:_________________________|_________
+
+
+75
+
+
+Figura E.2 - Formato de ejemplo para el Formulario 7: Certificado de aprobación de tipo-
+
+
+CERTIFICADO DE APROBACIÓN DE TIPO
+Emitido por:__________________________________________________________
+                    (Autoridad de inspección autorizada)
+______________________________________________________________________
+
+Se aplicó  el Reglamento Técnico MERCOSUR N° ...___________________________________
+
+A
+(TIPO DE CILINDRO)
+
+
+Número de aprobación ____________________Fecha________________________
+
+Tipo de cilindro:_____________________________________________________
+      (Descripción de la familia de cilindros -número de plano- que ha recibido la aprobación de tipo)
+
+Presión de servicio:__________________MPa
+Fabricante o importador  ___________________________________________________
+                     (Nombre y dirección del fabricante o agente)
+
+La información puede obtenerse de:____________________________________
+(Nombre y dirección del Organismo de Evaluación de la Conformidad )
+
+______________________________________________________________________
+
+
+Fecha:___________________________________Lugar________________________
+
+_______________________________
+(firma del Representante del Organismo de Evaluación de la Conformidad )
+76
+
+
+APÉNDICE F
+Ensayo ante condiciones ambientales
+
+F.1 Generalidades
+Este ensayo se aplica únicamente a los tipos de cilindro GNC-2, GNC-3 y GNC-4.
+F.2 Disposición y preparación del cilindro
+Se ensayan dos cilindros ubicados en una forma representativa de la configuración geométrica de su instalación, incluyendo la Protección externa (si correspondiera), los dispositivos de sujeción, juntas y accesorios a presión, utilizando la misma configuración de sellado (es decir, juntas tóricas) que la utilizada durante el servicio. Los dispositivos de sujeción pueden ser pintados o revestidos antes de su instalación en el ensayo de inmersión si están pintados o revestidos antes de la instalación en el vehículo.
+Se someten los cilindros a preacondicionamiento de acuerdo con el punto F.3 y luego se los somete a distintos ensayos ante condiciones ambientales, presiones y temperaturas según el punto F.5.
+Aunque el preacondicionamiento y la exposición a los fluidos se realiza en la parte cilíndrica del cilindro, todo el cilindro, incluyendo las partes abovedadas, debe ser resistente a su exposición a condiciones ambientales como lo son las zonas expuestas.
+Como alternativa, se puede adoptar el método de un solo cilindro, por medio del cual el ensayo por inmersión ante condiciones ambientales y los ensayos de exposición a otros fluidos se realizan en un solo cilindro. En este caso, se debe prestar especial atención para evitar que los fluidos se contaminen entre sí.
+F.3 Preacondicionamiento
+F.3.1 Equipo para realizar el preacondicionamiento
+Se necesitan los siguientes equipos para realizar el preacondicionamiento del cilindro de ensayo por medio del impacto de péndulo y ripio.
+a) El dispositivo para el ensayo de impacto con péndulo incluye:
+- un cuerpo de impacto de acero, que tenga la forma de una pirámide con lados triangulares equiláteros y una base cuadrada, estando la punta y los bordes redondeados a un radio de 3 mm;
+- un péndulo, cuyo centro de percusión coincida con el centro de gravedad de la pirámide; su distancia desde el eje de rotación del péndulo debe ser de 1 m y la masa total del péndulo en relación con el centro de percusión debe ser de 15 kg;
+- un medio para poder determinar que la energía del péndulo en el momento del impacto no sea inferior a 30 Nm y esté lo más cerca posible de ese valor;
+- un medio para mantener el cilindro en posición durante el impacto, sostenido por los extremos o por los dispositivos de sujeción utilizados para instalar los cilindros.
+b) El equipo de impacto de ripio incluye:
+77
+
+
+- un equipo de impacto, construido según las especificaciones de diseño de la Figura F.1 y que pueda ser operado de acuerdo con la norma ASTM D 3170-87, excepto por el hecho de que el cilindro puede estar a temperatura ambiente durante el impacto de ripio;
+- ripio, incluyendo ripio aluvional de caminos que pase por un tamiz de 16 mm pero que quede retenido en un tamiz de 9,5 mm. Cada aplicación consistirá en 550 ml de ripio graduado (aproximadamente 250 a 300 piedras).
+
+
+Dimensiones expresadas en milímetros
+
+Referencias:
+1 Embudo
+2 Tanque de combustible
+3 Entrada de aire
+4 Conducto de 50 mm
+5 Cabina de aproximadamente 500 mm de ancho
+6 Tamiz de clasificación por tamaños
+
+78
+Figura F.1 - Equipo para el impacto de ripio
+
+
+F.3.2 Procedimiento de preacondicionamiento
+F.3.2.1 Preacondicionamiento para el ensayo por inmersión ante condiciones ambientales
+Se requiere que la parte del contenedor a ser utilizada para el ensayo ante "condiciones ambientales por inmersión" (ver F.4.1) sea preacondicionada tanto por el impacto de péndulo como de ripio.
+Con el cilindro sin presurizar, preacondicionar la parte central del cilindro que será sumergida, con un impacto del cuerpo del péndulo en tres ubicaciones, separadas aproximadamente unos 150 mm. Luego del impacto, preacondicionar cada una de las tres ubicaciones aplicando el impacto de ripio.
+Además, preacondicionar un lugar, dentro de la parte sumergida de cada sección abovedada y dentro de los 50 mm (tomados por el eje) desde la tangente, por un solo impacto del cuerpo del péndulo.
+F.3.2.2 Preacondicionamiento para el ensayo de exposición a otros fluidos
+Se requiere el preacondicionamiento por el impacto de ripio sólo en la parte del contenedor a ser utilizada para el ensayo de "exposición a otro fluido" (Ver F.4.2)
+Dividir la sección superior del cilindro utilizado para el ensayo de "exposición a otros fluidos" en cinco áreas distintas de un diámetro nominal de 100 mm y marcar estas zonas para su preacondicionamiento y exposición a fluidos (Ver Figura F.2). Asegurar que las zonas no se superpongan en la superficie del cilindro y, en el caso de aplicar el método del único cilindro, no superponer la sección inmersa del cilindro. Cuando resulte conveniente para el ensayo, las áreas no necesitarán orientarse a lo largo de una única línea.
+Con el cilindro sin presurizar, preacondicionar cada una de las cinco áreas identificadas en la figura F.2 para su exposición a otro fluido con la aplicación del impacto de ripio.
+
+
+Referencias:
+
+1 Áreas de exposición a otro fluido
+2 Área de inmersión (tercio inferior)
+Figura F.2 - Orientación del cilindro y disposición de las áreas de exposición
+79
+
+F.4 Condiciones ambientales
+F.4.1 Condiciones ambientales de inmersión
+En los pasos que corresponda en la secuencia de ensayo (ver Tabla F.1) orientar el cilindro horizontalmente para poder sumergir el tercio inferior del diámetro del cilindro en una solución acuosa simulada de lluvia ácida/sal de camino que tenga los compuestos enumerados a continuación:
+- agua desionizada;
+- cloruro de sodio: 2,5 % (fracción en masa) 0,1 %;
+- cloruro de calcio: 2,5 % (fracción en masa) 0,1 %;
+- ácido  sulfúrico: el necesario para lograr una solución pH de 4,0  0,2.
+Ajustar el nivel de la solución y pH antes de cada paso del ensayo donde se utilice este líquido.
+Mantener la temperatura del baño a 21 °C  5 °C. Durante la inmersión, mantener la parte sin sumergir del cilindro al aire ambiente.
+F.4.2 Exposición a otro fluido
+En los pasos que corresponda en la secuencia de ensayo (ver Tabla F.1) exponer cada zona marcada a una de cinco soluciones durante 30 minutos. Utilizar las mismas condiciones ambientales para cada ubicación en todo el ensayo. Las soluciones son las siguientes:
+- ácido sulfúrico: 19 % (fracción volumétrica) solución acuosa;
+- hidróxido de sodio: 25 % (fracción en masa) solución acuosa;
+- metanol/gasolina: concentraciones de 30/70 %;
+- nitrato de amonio: 28 % (fracción en masa) solución acuosa;
+- fluido limpiaparabrisas.
+Durante su exposición, orientar el cilindro de ensayo con la zona de exposición hacia arriba. Poner un paño de lana de vidrio del espesor de una capa (aproximadamente 0,5 mm), recortado según las dimensiones de la zona de exposición. Utilizando una pipeta, aplicar 5 ml del fluido de ensayo en la lana de vidrio. Asegurarse de que ésta esté húmeda en forma pareja en toda su superficie y espesor. Presurizar el cilindro y sacar el paño de lana de vidrio luego de presurizar por 30 minutos.
+F.5 Condiciones de ensayo
+F.5.1 Ciclado a presión
+En el paso que corresponda en la secuencia de ensayo (ver Tabla F.1) someter el cilindro a ciclos de presión hidráulica de entre 2 MPa y 26 MPa para los pasos de temperatura ambiente y alta, y de entre 2 MPa y 16 MPa para los pasos de temperatura baja. Mantener la presión máxima durante un período mínimo de 60 segundos y asegurarse de que cada ciclo completo no dure menos de 66 segundos.
+
+80
+
+F.5.2 Exposición a alta y baja temperatura
+En los pasos que corresponda en la secuencia de ensayo (ver Tabla F.1) llevar la superficie del cilindro a una temperatura en aire alta o baja. La temperatura baja no deberá ser mayor que -35 °C y la temperatura alta deberá ser de 82 °C  5 °C, tomadas en la superficie del cilindro.
+F.6 Procedimiento de ensayo
+El procedimiento de ensayo es el siguiente:
+a) preacondicionar los cilindros (o un cilindro, si se adopta la alternativa de un solo cilindro) de acuerdo con el punto F.3.2;
+b) realizar las secuencias de exposición a condiciones ambientales, ciclado a presión y exposición a temperatura descritas en la Tabla F.1; no lavar o limpiar la superficie del cilindro entre las distintas etapas;
+c) luego de completadas las secuencias, someter a los cilindros (o cilindro) a un ensayo de estallido por presión hidráulica hasta que se destruya, según el punto A.12.
+F.7 Resultados admisibles
+Se considera que el ensayo ha sido satisfactorio si la presión de estallido de los cilindros (o cilindro) no es inferior a 1,8 veces la presión de servicio.
+Tabla F.1 - Condiciones y secuencia de ensayo
+Pasos del ensayo
+
+
+Condiciones
+Ambientales
+
+Cantidad de ciclos de presión
+
+
+Temperatura
+Método con dos cilindros
+Método con un cilindro
+
+
+Cilindro en inmersión
+Otros fluidos
+Alternativa de un único cilindro
+
+
+__
+1
+1
+Otros fluidos
+(40 min)
+__
+Ambiente
+1
+__
+2
+Inmersión
+500 por vida útil (en años)
+
+Ambiente
+__
+2
+__
+
+Aire
+500 por vida útil (en años)
+
+Ambiente
+
+__
+3
+3
+Otros fluidos
+(40 min)
+__
+Ambiente
+
+2
+
+4
+
+4
+
+Aire
+250 por vida útil (en años)
+Baja
+__
+5
+5
+Otros fluidos
+(40 min)
+__
+Ambiente
+
+3
+
+6
+
+6
+Aire
+250 por vida útil (en años)
+Alta
+81
+
+
+APENDICE G
+Verificación de las relaciones de tensión utilizando extensímetros
+
+El presente anexo establece un procedimiento que debe ser utilizado para verificar las relaciones de tensión mediante el uso de medidores de tensión.
+a) La relación tensión/deformación para las fibras siempre es elástica; por lo tanto, las relaciones de tensión y las relaciones de deformación son iguales.
+b) Se requieren medidores de tensión de alto alargamiento.
+c) Los medidores de tensión deberán orientarse en la dirección de las fibras sobre las que son colocados (es decir, con fibras circunferencialmente bobinadas en el exterior del cilindro, colocar los medidores de tensión en dirección circunferencial).
+d) Método 1 (aplicable a cilindros que no utilizan una alta tensión de bobinado )
+	1) Antes del autozunchado, aplicar los medidores de tensión y calibrar.
+	2) Medir las deformaciones en el autozunchado, a presión cero luego del autozunchado y a presión de trabajo y presión de estallido mínima.
+	3) Confirmar que la deformación a la presión de estallido dividida por la deformación a la presión de trabajo cumpla con los requisitos de la relación de tensión. Para una fabricación híbrida, la deformación a la presión de trabajo se compara con la deformación por rotura de los cilindros reforzados con un solo tipo de fibra.
+e) Método 2 (aplicable a todos los cilindros)
+	1) A presión cero luego del bobinado y autozunchado, colocar los medidores de deformación y calibrar.
+	2) Medir las deformaciones a presión cero, presión de trabajo y presión de estallido mínima.
+	3) A presión cero, luego de tomadas las medidas de deformación a presión de trabajo y presión de estallido  mínima, y con los medidores de tensión monitoreados, cortar la sección del cilindro de manera que la parte que contiene el medidor de tensión sea de aproximadamente 125 mm de largo. Retirar el  "liner" sin dañar el compuesto. Medir las deformaciones luego de retirado el "liner".
+	4) Ajustar las lecturas de deformación a presión cero, presión de trabajo y presión de estallido mínima con la suma de la deformación medida a presión cero con el "liner" y sin éste.
+	5) Confirmar que la deformación a presión de estallido dividida por la deformación a presión de trabajo cumpla con los requisitos de la relación de tensión. Para una fabricación híbrida, la deformación a presión de trabajo se compara con la deformación por rotura de los cilindros reforzados con un solo tipo de fibra.
+
+
+82
+
+
+ APENDICE H
+Instrucciones del fabricante o importador para la manipulación, uso e inspección de los cilindros
+
+H.1 Generalidades
+El objetivo primordial de las instrucciones del fabricante o importador es el de suministrar una guía al comprador, distribuidor, instalador y usuario para el uso seguro del cilindro durante su vida útil.
+H.2 Distribución
+El fabricante o importador deberá informar al comprador que suministre estas instrucciones a todas las partes que intervengan en la distribución, manipuleo, instalación y uso de los cilindros.
+El documento podrá ser reproducido a fin de suministrar la cantidad de copias suficientes para este fin; no obstante, deberá ser marcado haciendo referencia a los cilindros que se entregan.
+H.3 Referencia a códigos, normas y reglamentaciones existentes
+Podrán establecerse instrucciones específicas haciendo referencia a códigos, normas y reglamentaciones nacionales o reconocidas.
+H.4 Manipulación del cilindro
+Los procedimientos para el manipuleo de los cilindros deberán ser descritos de manera tal de asegurar que éstos no sufran daños ni contaminaciones inaceptables durante su manipuleo.
+H.5 Instalación
+Deberán suministrarse las instrucciones para la instalación de los cilindros de manera tal de asegurar que éstos no sufran daños inaceptables durante su instalación ni durante su funcionamiento normal en toda su vida útil.
+Cuando el fabricante especifique el montaje de los cilindros, las instrucciones deberán contener -según corresponda- detalles tales como el diseño de colocación, el uso de materiales resilientes para juntas, los torques correctos de ajuste y evitar la exposición directa del cilindro a contactos ambientales, químicos y mecánicos. Las ubicaciones y colocaciones de los cilindros deberán cumplir las normas reconocidas de instalación.
+Cuando el fabricante no especifique el montaje, deberá advertir al comprador sobre posibles impactos a largo plazo del sistema de montaje en el vehículo, por ejemplo, movimientos del vehículo y expansión/contracción del cilindro bajo las condiciones de presión y temperatura de servicio.
+Si correspondiera, deberá advertirse al comprador sobre la necesidad de realizar instalaciones de manera tal que los líquidos o sólidos no se acumulen causando un daño material al cilindro.
+Deberá especificarse el dispositivo de alivio de presión que se colocará.
+83
+
+
+Las válvulas, dispositivos de alivio de presión y conexiones del cilindro deberán ser protegidas contra rotura por colisión.  Si esta protección se coloca en el cilindro, el diseño y método de adhesión deberán ser aprobados por el fabricante del cilindro. Algunos factores a ser considerados incluyen la capacidad del cilindro de soportar cualquier carga de impacto transferida, y el efecto de deformaciones localizadas, en la vida del cilindro, por tensiones y fatiga.
+H.6 Uso de los cilindros
+El fabricante o importador deberá advertir al comprador sobre las condiciones de servicio especificadas en este Reglamento Técnico, sobre todo en lo que respecta a la cantidad de ciclos permitida para el cilindro, su vida en años, los límites de calidad del gas y las presiones máximas permitidas.
+H.7 Inspección en servicio
+El fabricante o importador deberá especificar con claridad la obligación del usuario de cumplir con los requisitos necesarios de inspección del cilindro (por ejemplo, intervalos de reinspección, por personal autorizado, etc.). Esta información deberá concordar con los requisitos de aprobación del diseño y deberá cubrir los siguientes aspectos:
+a) Recalificación periódica
+Se requiere que la inspección y el ensayo se realicen de acuerdo con  el Reglamento Técnico MERCOSUR correspondiente
+El fabricante o importador del cilindro deberá suministrar las recomendaciones para la recalificación periódica, durante la vida útil, sobre la base del uso bajo las condiciones de servicio especificadas en dichas recomendaciones.
+Cada cilindro deberá ser inspeccionado por lo menos cada 36 meses, y cuando se realice cualquier reinstalación, a fin de detectar daños exteriores y deterioro, incluso debajo de los flejes de soporte.
+Deberán sacarse de servicio los cilindros que no posean marcaciones con la información obligatoria, o que posean marcaciones con información obligatoria ilegible.
+b) Cilindros que hayan sido objeto de colisiones
+Los cilindros que hayan sido objeto de una colisión del vehículo que pudiera comprometer la integridad del cilindro serán reinspeccionados según el Reglamento Técnico MERCOSUR correspondiente.
+c) Cilindros que hayan sido objeto de incendios
+Los cilindros que hayan sido objeto de la acción del fuego deberán ser reinspeccionados según el Reglamento Técnico MERCOSUR correspondiente.
+
+
+84
+
+
+APENDICE I
+COLOR DEL CILINDRO
+
+
+El color del cilindro deberá ser:
+
+Amarillo definido como "10Y R8/14" según el CODIGO MUNSELL.
+
+
+85
+
+
+ APÉNDICE J
+CÓDIGO DE IDENTIFICACIÓN MERCOSUR (CIM)
+
+
+Todos los cilindros fabricados según este Reglamento Técnico deberán estar identificados a través del siguiente Código de Identificación MERCOSUR (CIM) descripto a continuación.
+
+Primera sección:
+La primera sección del CIM, deberá definir el país donde se fabrica el cilindro, y se compondrá de dos letras.
+
+Segunda sección:
+La segunda sección del CIM, deberá definir la marca del fabricante del cilindro, y se compondrá de dos dígitos numéricos.
+
+Tercera sección:
+La tercera sección del CIM, deberá definir el tipo de cilindro, y se compondrá de un dígito numérico.
+
+Cuarta sección:
+La cuarta sección del CIM, deberá definir el modelo del cilindro, y se compondrá de dos letras y tres dígitos numéricos.
+
+Quinta sección:
+La quinta sección del CIM, deberá definir el número de serie del cilindro, de forma tal que sea único, irrepetible y secuencial, y se compondrá de ocho dígitos numéricos.
+Entre cada una de las secciones indicadas existirá un guión (-). El CIM no poseerá espacios en blanco entre sus dígitos, ni entre sus dígitos y guión.
+
+Ejemplo:  AR-01- 1-IF013-12345678
+
+
+86
+
+1
+1
+
+
+57
+
+
+1
+1

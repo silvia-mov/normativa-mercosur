@@ -1,0 +1,132 @@
+Resolución GMC N° 60/19
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE CLASIFICACIÓN DE VEHÍCULOS AUTOMOTORES Y REMOLQUES
+Fecha de aprobación: 03/12/2019
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 75438_ATTQDV60.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3859).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 60/19
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CLASIFICACIÓN DE VEHÍCULOS AUTOMOTORES Y REMOLQUES
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 35/94, 38/98 y 45/17 del Grupo Mercado Común.
+
+CONSIDERANDO:
+Que resulta necesario establecer una clasificación uniforme de los vehículos automotores y remolques que circulan en los Estados Partes, con el fin de que la misma garantice la aplicación de los reglamentos técnicos MERCOSUR.
+
+Que es necesaria la actualización de la Resolución GMC N° 35/94 "Clasificación de Vehículos", puesto que la misma contempla una cantidad de clasificaciones limitada y no contempla la clasificación de la categoría L; cuya circulación, en los Estados Partes, ha crecido considerablemente.
+
+Que el presente Reglamento Técnico se elaboró tomando como base la resolución de las Naciones Unidas sobre la construcción de vehículos, la cual establece las categorías alfanuméricas de vehículos automotores y remolques y demás definiciones complementarias.
+
+El GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Clasificación de Vehículos Automotores y Remolques", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - El presente Reglamento Técnico MERCOSUR (RTM) establece la clasificación de los vehículos automotores y remolques para su circulación, homologación, certificación y registro en los Estados Partes del MERCOSUR.
+
+Art. 3 - El presente RTM se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3) los organismos nacionales competentes para la incorporación de la presente Resolución.
+
+
+Art. 5 - Derogar la Resolución GMC Nº 35/94.
+
+Art. 6 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 01/VII/2020.
+
+LII GMC Ext. - Bento Gonçalves, 03/XII/19
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE CLASIFICACIÓN DE VEHICULOS AUTOMOTORES Y REMOLQUES
+
+
+1. OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR (RTM) establece la clasificación de vehículos automotores y remolques para los Estados Partes, a efectos de armonizarla.
+
+
+2. DOCUMENTOS DE REFERENCIA
+
+- Resolución consolidada sobre la construcción de vehículos (R.E.3) ECE/TRANS/WP.29/78/Rev.6.
+
+3. TÉRMINOS Y DEFINICIONES
+
+Para los efectos de este RTM, los Estados Partes acuerdan adoptar los siguientes términos y definiciones:
+
+3.1. VEHÍCULO AUTOMOTOR: Vehículo terrestre provisto de al menos un motor propulsor y que circula por sus propios medios, que posee ruedas y un sistema de dirección propia, y que sirve habitualmente para:
+
+- transportar personas y/o cargas.
+ - traccionar vehículos que transportan personas y/o cargas.
+
+NOTA 1: Se excluyen de esta definición a los vehículos Agrícolas, off-road y transporte ferroviario.
+
+3.2. PESOS
+
+3.2.1. Carga Útil: Capacidad de carga de un vehículo, incluyendo el peso de sus usuarios. Es la diferencia entre el PBT (3.2.3) y la tara (3.2.2).
+
+3.2.2. Tara: Peso propio del vehículo, considerando incluido en él, el peso de los fluidos y del combustible contenido en el depósito (que estará lleno hasta el 90% de su capacidad como mínimo), herramientas, accesorios, ruedas de auxilio, extintor de incendio y demás equipamientos necesarios para su funcionamiento, sin conductor, ni pasajeros y sin carga.
+
+3.2.3. Peso Bruto Total (PBT). Peso máximo del vehículo constituido por la suma de la tara más su carga útil. Se aplica para las categorías M, N y O.
+
+     NOTA 2: Se denomina PBT en este RTM "peso máximo".
+
+
+CLASIFICACIÓN DE VEHÍCULOS
+
+3.3  CATEGORÍA L
+
+      Vehículos automotores con menos de cuatro ruedas.
+
+3.3.1. Categoría L1: Vehículos con dos ruedas, con un motor cuya cilindrada, en el caso de motores térmicos no exceda los 50 cm3 y, cualquiera sea el medio de propulsión, la velocidad de diseño máxima no exceda 50 km/h.
+
+3.3.2. Categoría L2: Vehículos con tres ruedas, en cualquier configuración, con un motor cuya cilindrada, en el caso de motores térmicos no exceda los 50 cm3 y, cualquiera sea el medio de propulsión, la velocidad de diseño máxima no exceda 50 km/h.
+
+3.3.3. Categoría L3: Vehículos con dos ruedas, con un motor cuya cilindrada, en el caso de motores térmicos exceda los 50 cm3, o cualquiera sea el medio de propulsión, la velocidad de diseño máxima exceda 50 km/h.
+
+3.3.4. Categoría L4: Vehículos con tres ruedas, con una configuración asimétrica en relación al plano longitudinal medio, con un motor cuya cilindrada, en el caso de motores térmicos exceda los 50 cm3, o cualquiera sea el medio de propulsión, la velocidad de diseño máxima exceda 50 km/h (motocicletas con sidecars).
+
+3.3.5. Categoría L5: Vehículos con tres ruedas, con una configuración simétrica en relación al plano longitudinal medio, con un motor cuya cilindrada, en el caso de motores térmicos exceda los 50 cm3, o cualquiera sea el medio de propulsión, la velocidad de diseño máxima exceda 50 km/h.
+
+3.3.6. Categoría L6: Vehículos con cuatro ruedas, cuyo peso sin carga es inferior o igual  a 350 Kg, excluyendo el peso de las baterías para los vehículos eléctricos cuya velocidad máxima de diseño no supera los 45 Km/h, y una cilindrada que no exceda los 50 cm3 para los motores de encendido por chispa, o aquellos cuya salida de potencia neta máxima no excede los 4 kw, en el caso de los demás motores de combustión interna, o aquellos cuya potencia continua nominal no exceda los 4 kw en el caso de los motores eléctricos.
+
+3.3.7. Categoría L7: Vehículos con cuatro ruedas, distintos a los clasificados en la categoría L6 cuyo peso sin carga es inferior o igual a 400 Kg. (550 kg para vehículos destinados a transporte de carga), excluyendo el peso de las baterías para los vehículos eléctricos y cuya potencia continua nominal máxima no exceda 15 kw.
+
+3.4. CATEGORÍA M
+
+Vehículos automotores con al menos cuatro ruedas y utilizados para el transporte de pasajeros.
+
+3.4.1. Categoría M1: Vehículos utilizados para el transporte de pasajeros, con no más de ocho asientos además del asiento del conductor.
+
+3.4.2. Categoría M2: Vehículos utilizados para el transporte de pasajeros con más de ocho asientos además del asiento del conductor, con un peso máximo de 5 toneladas.
+
+3.4.3. Categoría M3: Vehículos utilizados para el transporte de pasajeros con más de ocho asientos además del asiento del conductor, con un peso máximo que supera las 5 toneladas.
+
+3.5. CATEGORÍA N
+
+Vehículos automotores con al menos cuatro ruedas y utilizados para el transporte de carga.
+
+3.5.1. Categoría N1: Vehículos automotores utilizados para el transporte de carga con un peso máximo de 3,5 toneladas.
+
+3.5.2. Categoría N2: Vehículos automotores utilizados para el transporte de carga con un peso máximo superior a 3,5 toneladas, que no exceda las 12 toneladas.
+
+3.5.3. Categoría N3. Vehículos automotores utilizados para el transporte de carga con un peso máximo superior a 12 toneladas.
+
+NOTA 3: Para la Categoría N, en el caso de los vehículos tractores diseñados para ser acoplados a un vehículo semirremolque (tractores para semirremolque), el peso a ser considerado para su clasificación es el peso del vehículo tractor en orden de marcha sumado al peso correspondiente a la carga vertical estática máxima transferida al vehículo tractor por el semirremolque y, cuando corresponda, se considerará el peso máximo del vehículo tractor con su propia carga.
+
+3.6. CATEGORÍA O
+
+Remolques, incluidos semirremolques.
+
+3.6.1. Categoría O1: Remolques con un peso máximo menor o igual a 0,75 toneladas.
+
+3.6.2. Categoría O2: Remolques con un peso máximo superior a 0,75 toneladas, que no exceda las 3,5 toneladas.
+
+3.6.3. Categoría O3: Remolques con un peso máximo superior a 3,5 toneladas, que no exceda las 10 toneladas.
+
+3.6.4. Categoría O4: Remolques con un peso máximo superior a 10 toneladas.
+5

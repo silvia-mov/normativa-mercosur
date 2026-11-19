@@ -1,0 +1,318 @@
+Resolución GMC N° 57/01
+Título: LINEAMIENTOS PARA LA CODIFICACIÓN DE VEGETALES Y PRODUCTOS VEGETALES OBJETO DE INTERCAMBIO
+Fecha de aprobación: 05/12/2001
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 19671_RES_057-2001_ES_Codif-Veget_Prod-Veget_Intercambio_Acta 4_01.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1499).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 57/01
+
+
+LINEAMIENTOS PARA LA CODIFICACIÓN DE VEGETALES Y PRODUCTOS VEGETALES OBJETO DE INTERCAMBIO
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión N° 6/96 del Consejo del Mercado Común, la Resolución N° 62/94 y el Artículo 3 de la Resolución N° 26/01 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que el Estándar 3.5 "Nomenclator Cuarentenario", aprobado por Resolución GMC N° 62/94, establece un listado de códigos de productos.
+
+Que dicho listado debe ser objeto de permanente actualización en función de la dinámica del comercio intra y extra zona que determina la generación continua de nuevos códigos de productos.
+
+Que en tal sentido, es necesario mantener los criterios para la codificación de los vegetales y productos vegetales, como base para que las Organizaciones Nacionales de Protección Fitosanitaria de los Estados Partes, elaboren los correspondientes listados.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el Estándar Nº 3.5 "Lineamientos para la codificación de vegetales y productos vegetales objeto de intercambio", en su versión en español, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Derogar el Estándar N° 3.5 "Nomenclator Cuarentenario" aprobado por Resolución GMC N° 62/94.
+
+Art. 3 - Los Estados Partes, pondrán en vigencia las disposiciones legislativas, administrativas y reglamentarias necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina: Secretaría de Agricultura, Ganadería, Pesca y Alimentación -SAGPyA
+Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA
+
+Brasil:         Ministério da Agricultura Pecuaria e  Abastecimento - MAPA
+Secretaria de Defesa Agropecuaria - SDA
+
+Paraguay:  Ministerio de Agricultura y Ganadería - MAG
+Dirección de Defensa Vegetal - DDV
+
+Uruguay:    Ministerio de Ganadería, Agricultura y Pesca - MGAP
+
+Dirección General de Servicios Agrícolas - DGSA
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del día 31/III/2002.
+
+
+XLIV GMC - Montevideo, 05/XII/01
+
+ESTANDAR FITOSANITARIO
+
+
+3.5. Lineamientos para la codificación de vegetales y productos vegetales objeto de intercambio.
+
+
+CONTENIDO
+
+
+1.- APROBACIÓN
+
+2.- ÁMBITO
+
+3.- REFERENCIAS
+
+4.- DEFINICIONES Y ABREVIATURAS
+
+5.- DESCRIPCIÓN
+
+6.- CODIFICACIÓN
+
+
+1.- APROBACIÓN
+
+Este Estándar Fitosanitario ha sido aprobado por Resolución del GMC número ..........
+
+
+2.- ÁMBITO
+
+Este estándar establece los lineamientos a aplicar por las ONPFs de los Estados Partes a los efectos de la codificación de vegetales y productos vegetales sujetos a medidas fitosanitarias en el intercambio comercial.
+
+
+3.- REFERENCIAS
+
+Convención Internacional de Protección Fitosanitaria (Nuevo Texto aprobado por la Conferencia de la FAO en su 29º período de sesiones- noviembre 1997).
+
+Norma Internacional de Medidas Fitosanitarias (NIMF) número 5 "Glosario de Términos Fitosanitarios"  (1999) y sus enmiendas.
+
+
+4.- DEFINICIONES
+
+Se aplicarán las definiciones establecidas en la Norma Internacional de Medidas Fitosanitarias (NIMF) número 5 "Glosario de Términos Fitosanitarios" y sus enmiendas, y las que a continuación se especifican:
+
+
+CATEGORIA DE RIESGO FITOSANITARIO
+	Clasificación de los vegetales y productos vegetales  en relación a su riesgo fitosanitario en función de su nivel de procesamiento, forma de presentación y uso propuesto.
+
+CÓDIGO DE PRODUCTO	Conjunto alfanumérico de trece dígitos que representa la unión de los códigos de género, especie, uso propuesto, parte vegetal, presentación, clase y categoría de riesgo fitosanitario.
+
+NOMENCLATOR CUARENTENARIO
+	Listado codificado de vegetales o productos vegetales, sujeto a medidas fitosanitarias, según género y especie, parte, presentación , uso propuesto, clase y categoría de riesgo fitosanitario.
+
+
+5.- DESCRIPCIÓN
+
+
+      El presente Estándar describe los criterios para la codificación de los vegetales y productos vegetales, según clases y categorías de riesgo fitosanitario, que posibilite la inequívoca identificación de tales productos en el proceso de armonización regional.
+
+      Estos criterios de codificación serán la base para la elaboración, por las ONPFs de los Estados Partes,  de un Nomenclator Cuarentenario.
+
+
+6.- CODIFICACIÓN
+
+      CÓDIGO DE PRODUCTO: Combinación alfa-numérica de 13 dígitos  que representa la unión de los siguientes códigos:
+
+GENERO
+3 primeras letras del género
+(SOL = SOLANUM)
+ESPECIE
+2 primeras letras de la especie
+(TU = TUBEROSUM)
+USO PROPUESTO
+1 dígito
+(1 = CONSUMO)
+PARTE VEGETAL
+2 dígitos
+(15 = TUBERCULO)
+PRESENTACION
+2 dígitos
+(01 = NATURAL)
+CLASE
+2 dígitos
+(04 = FRUTAS Y HORTALIZAS)
+CATEGORIA DE RIESGO FITOSANITARIO
+
+1 dígito
+(3=Productos vegetales primarios no desvitalizados)
+CODIGOS DE GENERO Y ESPECIE:
+
+de acuerdo al código Bayer.
+
+CODIGOS DE USO PROPUESTO:
+1= CONSUMO, USO DIRECTO O TRANSFORMACION
+
+2= PROPAGACION
+
+3=GERMOPLASMA
+
+
+CÓDIGOS DE PARTE VEGETAL:
+
+CODIGO
+PARTE
+01
+BARBADO (Estaca con raíz)
+02
+BULBO
+03
+CORTEZA
+04
+ESTACA (sin raíz)
+05
+ESTIGMA
+06
+ESTOLON
+07
+FLOR
+08
+FRUTO
+09
+HOJA
+10
+PLANTA
+11
+RAIZ
+12
+RAMA
+13
+SEMILLA
+14
+TALLO
+15
+TUBERCULO
+16
+YEMA
+17
+PAJA
+18
+ESPOROS
+19
+ESQUEJE
+20
+CASCARA
+21
+FIBRA
+22
+POLEN
+23
+CHAUCHA
+24
+MAZORCA
+25
+CORMO
+26
+RIZOMA
+27
+MICRO-TUBERCULO
+28
+MICROORGANISMOS
+29
+ESPIGAS
+30
+PEDUNCULO
+31
+MINI-TUBERCULOS
+32
+MADERA CON CORTEZA
+33
+VARETAS
+99
+OTROS
+
+
+CÓDIGOS DE PRESENTACIÓN:
+
+CÓDIGO
+PRESENTACIÓN
+01
+NATURAL
+02
+SECADO
+03
+DESHIDRATADO (ESCAMAS, POLVO),
+CONGELADO
+04
+ACONDICIONADO EL DETALLE
+05
+MADERA MANUFACTURADA O PROCESADA
+(DESVITALIZADA)
+06
+MADERA NO PROCESADA
+(NO DESVITALIZADA)
+07
+MADERA SEMI-PROCESADA
+08
+CON CASCARA / CORTEZA
+09
+SIN CASCARA / CORTEZA
+10
+MEZCLA
+11
+NO ELABORADA
+12
+ELABORADA
+13
+IN  VITRO
+14
+SIN HOJAS
+15
+DESLINTADA
+16
+SEMI-ELABORADO (LIMPIEZA, PRENSADO)
+17
+BONSAIS
+18
+ALFOMBRA
+99
+OTROS
+
+
+CÓDIGOS DE CLASE:
+
+CÓDIGO
+CLASE
+01
+PLANTAS
+02
+BULBOS, TUBERCULOS Y RAICES
+03
+SEMILLAS
+04
+FRUTAS Y HORTALIZAS
+05
+FLORES DE CORTE Y FOLLAJES ORNAMENTALES
+06
+MADERAS, CORTEZA, CORCHO
+07
+MATERIAL DE EMBALAJE
+08
+SUELO
+09
+GRANOS
+10
+OTROS
+
+
+CÓDIGOS DE CATEGORIA DE RIESGO FITOSANITARIO:
+
+CÓDIGO
+CATEGORIA DE RIESGO FITOSANITARIO
+1
+PRODUCTOS VEGETALES INDUSTRIALIZADOS (DESVITALIZADOS)
+2
+PRODUCTOS VEGETALES SEMI-INDUSTRIALIZADOS
+3
+VEGETALES Y PRODUCTOS VEGETALES PRIMARIOS DESTINADOS A CONSUMO
+4
+SEMILLAS, PLANTAS Y PARTES PARA PROPAGACION
+5
+MISCELANEOS
+
+
+1
+
+
+7

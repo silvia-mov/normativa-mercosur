@@ -1,0 +1,414 @@
+Resolución GMC N° 52/08
+Título: GUÍA PARA LA ELABORACIÓN DE INFORMES DE EVALUACIÓN DE TECNOLOGÍAS SANITARIAS
+Fecha de aprobación: 28/11/2008
+Vigencia: Vigente (Vigente desde su aprobación el 28/11/2008 - Art. 5 a) Decisión CMC Nº 23/00)
+Idioma del texto: ES
+Archivo original: 4077_RES_052-2008_ES_Guia Elab Infor AvalTecnSalud.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/279).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 52/08
+
+
+GUÍA PARA LA ELABORACIÓN DE INFORMES DE EVALUACIÓN DE TECNOLOGÍAS SANITARIAS
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 18/05, 13/07 y 12/08 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+La necesidad de disponer de una guía unificada y armonizada para la elaboración de informes de evaluación de tecnologías en salud.
+
+La creciente incorporación de innovaciones tecnológicas que no siempre representan ventajas sobre las tecnologías preexistentes.
+
+La necesidad de apoyar decisiones fundamentadas en evidencias científicas para la incorporación de tecnologías sanitarias.
+
+La variabilidad observada en la práctica clínica influenciada por múltiples factores más allá de la existencia de información que evidencia  efectividad.
+
+La importancia del uso racional de tecnologías por los profesionales y ciudadanos.
+
+Los impactos sanitarios, sociales, éticos, organizativos y económicos de la incorporación de tecnologías sanitarias;
+
+La necesidad de compartir e intercambiar información entre los Estados Parte, evitando la duplicación de trabajos, a través de la armonización de metodologías.
+
+La implementación del Formulario de solicitud de evaluación de tecnologías en salud, de acuerdo a la Resolución GMC N° 12/08.
+
+La necesidad de contar con un instrumento unificado y armonizado para efectuar las evaluaciones de tecnologías sanitarias.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la "Guía para la Elaboración de Informes de Evaluación de Tecnologías Sanitarias", que consta como Anexo y forma  parte de la presente Resolución.
+
+Art. 2 - Esta Resolución no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+
+LXXIV GMC - Brasilia, 28/XI/08
+ANEXO
+
+GUÍA PARA LA ELABORACIÓN DE INFORMES DE EVALUACIÓN DE TECNOLOGÍAS SANITARIAS
+
+
+1. Introducción y justificación
+
+Los proveedores y financiadores de servicios sanitarios, entre otros actores, están cada vez más interesados en disponer de evidencias explícitas sobre la efectividad y costo efectividad de las tecnologías y procedimientos que proveen o financian.
+Existe una clara preocupación por la accesibilidad a la atención sanitaria con Calidad, sin perder de vista la equidad.
+Por otra parte, los ciudadanos se ven sometidos en la actualidad a la oferta de un número creciente de nuevos procedimientos sanitarios cada vez más sofisticados y prometedores y el aviso continuo de las autoridades económicas acerca del crecimiento del gasto sanitario y las dificultades para afrontarlo.
+Esta situación ha sido analizada por profesionales sanitarios y políticos, llegando a constatar fenómenos que configuran un panorama que en última instancia pueden ser considerados generadores de la ETES o del movimiento llamado "Medicina Basada en la Evidencia".
+* la creciente incorporación de innovaciones tecnológicas no representan siempre ventajas sobre las tecnologías preexistentes.
+* la necesidad de apoyar decisiones fundamentadas para incorporación de tecnologías sanitarias.
+* la variabilidad observada en las prácticas clínicas que son influenciadas por múltiples factores más allá de la existencia de información que evidencia  efectividad.
+* la importancia del uso racional de tecnologías por los profesionales y ciudadanos.
+* la incertidumbre acerca del impacto real, que sobre la salud de los ciudadanos tiene el uso de muchas prácticas sanitarias.
+* la ausencia de una buena correlación entre el nivel de gasto sanitario de un país y la salud colectiva de sus ciudadanos.
+Es así que  el rápido incremento del gasto sanitario, no acompañado de mejoras proporcionales en el nivel de salud, el alto grado de variabilidad no explicable en la práctica médica y la incertidumbre acerca del impacto real de muchos procedimientos médicos sobre la salud, conducen a admitir la existencia de importantes lagunas en el conocimiento que dificultan la adopción de decisiones juiciosas sobre asignación de recursos y uso y aceptación de prácticas médicas. Esta realidad es la que ha llevado al nacimiento y desarrollo del concepto de la ETES (Evaluación de Tecnologías en Salud).
+
+La Guía representa la adaptación que se venía realizando en la Subcomisión de Evaluación y Uso de Tecnologías en  Servicios de Salud de la Comisión de Servicios de Salud, desde el año 2006 hasta la fecha.
+
+Fueron utilizadas las siguientes referencias para la elaboración del texto: 1)  "Guía para la Elaboración de Informes de Evaluación  de Tecnologías Sanitarias. Informe de Evaluación de Tecnologías Sanitarias Nº 19. Madrid, Junio de 1999." Agencia de evaluación de Tecnologías. Instituto de Salud Carlos III. Ministerio de Sanidad y Consumo. 2)  "Diretrizes Metodológicas: Elaboração de Informes Técnico-Científicos" para el Ministerio de Salud del Brasil/Ministerio de Salud del Brasil, Secretaría de Ciencia, Tecnología e Insumos Estratégicos, Departamento de Ciencia y Tecnología- Brasilia: Ministerio de Salud, 2007.
+
+El objetivo de la guía es describir las líneas generales, definiciones e etapas de trabajo para la elaboración de informes de Evaluación de Tecnologías en Salud
+
+
+2. Definición de ETES
+
+Se entiende por Tecnologías en Salud los medicamentos, equipos y procedimientos técnicos, los sistemas organizativos, de información, educativos y de soporte, y los programas y protocolos asistenciales por medio de los cuales la atención y los cuidados de salud son prestados a la población.
+
+La Evaluación de Tecnologías en Salud (ETES) es un proceso amplio, por medio del cual son evaluados los impactos clínicos, sociales y económicos de las tecnologías en salud, considerándose aspectos como eficacia, efectividad, seguridad, costo-efectividad, entre otros (GOODMAN, 1998, HUNINK; GLASZIOU, 2001). El objetivo principal de la ETES es auxiliar a los gestores de salud en la toma de decisiones coherentes y racionales en relación a la incorporación de tecnologías en salud (PANERAI; MOHR, 1989, HUNINK; GLASZIOU, 2001, CANADIAN COORDINATING OFFICE FOR HEALTH TECHNOLOGY ASSESSMENT, 2006).
+
+3. Informes de ETES. Definición y características.
+
+El informe de Evaluación de Tecnologías Sanitarias se puede definir como un documento estructurado, comprehensible, basado en la mejor evidencia disponible, elaborado con metodología explícita y reproducible y que responda a cuestiones relativas a la seguridad, eficacia, efectividad, utilidad, eficiencia o impacto de una tecnología en un contexto previamente definido. Su misión es la ayuda en la toma de decisiones. Su elaboración requiere una metodología acorde con el carácter de la pregunta y el tiempo en el que ésta debe ser contestada (Apéndice I).
+
+A continuación se describen algunas características y los elementos a considerar en un informe de ETES, estableciendo los aspectos metodológicos más destacados. No se pretende realizar una descripción pormenorizada de las técnicas utilizadas en ETES, sino ofrecer una guía de apoyo para la elaboración de informes el contexto del MERCOSUR.
+
+Los informes de ETES, son publicaciones que utilizan habitualmente revisiones sistemáticas (con o sin meta-análisis), entre otros recursos, para determinar la posible contribución de una tecnología en salud a la mejora de la salud en una población concreta.
+
+El objetivo de un Informe de ETES es responder a solicitudes de terceros (Ministerios de Salud, proveedores de servicios, aseguradores, financiadores) que precisan información fiable sobre los resultados o impacto de una tecnología en salud y su posible aplicación en un contexto determinado. En consecuencia, su metodología debe ajustarse al tipo de pregunta planteada y al tiempo requerido para su respuesta. La formulación de conclusiones y recomendaciones aplicables a un ámbito local determinado es otro de los aspectos que diferencia los informes de ETES de las revisiones sistemáticas o de los meta-análisis. En los informes de ETES casi siempre es necesario realizar un estudio del contexto local que permita que el solicitante del informe pueda tomar una decisión sobre la incorporación o no de esa tecnología en salud.
+
+Los responsables de tomar decisiones en los sistemas sanitarios (autoridades, administradores, profesionales) están interesados en disponer de información válida, relevante, a veces en un corto espacio de tiempo y aplicable al contexto en el que actúan.
+Los atributos de un informe de ETES son:
+1. Fundamentación en la evidencia científica. Revisión exhaustiva y análisis crítico de la evidencia disponible.
+2  Utilidad para la toma de decisiones. Es el atributo principal que diferencia las publicaciones de ETES frente a otro tipo de textos científicos. Los informes de ETES siempre se realizan con la intención de que el resultado sirva a alguien (político, gestor, administrador, clínico, usuario) para tomar decisiones.
+3. Redacción clara y fácil de comprender.
+4. Oportunidad y adaptación al tiempo y ámbito de decisión. La capacidad de influencia e impacto de la información presentada en un informe de evaluación de tecnología en salud dependerá del grado en que esta información se adapte al contexto en el que se generó la demanda.
+
+4. Tipos de documentos de ETES
+4.1 INFORMES DE ETES
+
+• Informes a demanda o internos. Se realizan en respuesta a solicitudes de la parte interesada. Su objeto, extensión y metodología se  ajusta a los términos que previamente se convengan entre las dos partes. La agencia actúa de segunda parte, es decir, elabora el informe para asesorar al solicitante. El producto, el "informe a demanda", se orienta a satisfacer las cuestiones planteadas, por lo que suele ser un informe interno o de circulación supeditada al solicitante. En general, y debido a la necesidad urgente del solicitante, son informes de ejecución rápida y contenido breve, aunque no se debe asimilar los informes a demanda o internos con documentos breves, ya que en muchos casos no es así.
+Un tipo de informe a demanda son los  denominados Informes Técnico-Científicos (ITC) (Apéndice II) los  cuales constituyen  una herramienta de soporte a la gestión y a la decisión, basada en la misma racionalidad de una ETES, sin embargo, con ejecución y contenido simplificados.
+Aunque generalmente realizan una revisión de la literatura menos extensa y profunda que una revisión sistemática, y son de ejecución y elaboración más rápidos, los ITC deben presentar un relato sistematizado y comprehensivo del conocimiento que puede ser ofrecido para contribuir a cualificar las decisiones que deben ser tomadas (CANADIAN COORDINATING, OFFICE FOR HEALTH TECHNOLOGY ASSESSMENT, 2003, NATIONAL INSTITUTE FOR CLINICAL EXCELLENCE, 2004 a,b, DANISH CENTER FOR EVALUATION , 2005).
+• Informes públicos. Son los productos más conocidos de las agencias de ETES. En este caso,la agencia actúa de tercera parte, ofreciendo una valoración técnica útil para cualquiera de las partes presentes en el sistema sanitario. Dado que deben ser útiles a cualquiera de los operadores que interactúan en un Servicio de Salud, generalmente son públicos y de libre acceso a todo aquel que lo solicite. Estos informes pueden pasar a formar parte de la base de datos de informes de ETES de la red internacional INAHTA y generalmente se elaboran por iniciativa de la Autoridad Sanitaria o de la propia agencia.
+4.2 GUÍAS DE PRÁCTICA CLÍNICA
+
+Pretenden ayudar a profesionales sanitarios y usuarios a decidir sobre la atención sanitaria más apropiada en circunstancias clínicas específicas, mediante la formulación de unas recomendaciones desarrolladas sistemáticamente y presentadas de manera estructurada, frecuentemente con algoritmos o árboles de decisión. Constituyen un instrumento para la difusión de los resultados de la evaluación de tecnologías sanitarias.
+La elaboración de una Guía de Práctica Clínica debe perseguir la obtención de un texto basado en la evidencia científica y consensuado. Sus características básicas deben ser validez, fiabilidad, aplicabilidad clínica, flexibilidad clínica, multidisciplinariedad, previsión de revisión y documentación adecuada. La calidad de una Guía de Práctica Clínica se basa en la exhaustividad y valoración crítica de la literatura científica y en la adecuada valoración de la evidencia, que debe acompañar a cada recomendación incluida.
+
+4.3 DICTÁMENES TÉCNICOS
+
+Otra parte de la actividad de las agencias de ETES es la asesoría acerca de lo apropiado de la adopción de una tecnología en un contexto determinado (peritaje, auditoría). La respuesta a este tipo de consulta se materializa en informes breves o dictámenes sobre aspectos concretos de determinadas técnicas o procedimientos.
+
+5. METODOLOGÍA PARA LA ELABORACIÓN DE INFORMES PÚBLICOS DE ETES.
+5.1 SOLICITUD DEL INFORME
+
+El origen del proceso de elaboración de un informe de ETES suele ser la solicitud de evaluación por parte de la administración sanitaria, instituciones u organismos usualmente proveedores o financiadores de tecnología en salud. Algunos centros han elaborado hojas de solicitud de informe en las que se pide la identificación del solicitante, la formulación de preguntas concretas, información sobre el contexto local de aplicación de la tecnología en salud, y además se establece el marco temporal y el formato de la respuesta. Este procedimiento puede facilitar y clarificar inicialmente el tipo de trabajo requerido y la previsión de recursos necesarios para su desarrollo.
+
+5.2 PRIORIZACIÓN EN LA ELABORACIÓN DE INFORMES DE ETES
+
+La ETES puede abordar una enorme cantidad de temas, siendo su prioridad, relevancia y oportunidad variables. Establecer prioridades puede ser el primer paso en el ciclo de la ETES, que se continúa con la realización de la evaluación, la difusión y aplicación de los resultados y la medición de su impacto.
+Los criterios que se utilizan para la priorización para la ETES son, entre otros:
+• Prevalencia de la condición o situación clínica a la que se dirige la tecnología.
+• Carga de la enfermedad. Grado de deterioro de la salud que ocasiona la condición clínica implicada. Los datos que pueden definir este concepto son los referentes a mortalidad, discapacidad, años de vida perdidos, jornadas laborales perdidas o calidad de vida, entre otros.
+• Grado de incertidumbre. Se refiere a la existencia de información contradictoria, escasa y/o de baja calidad.
+• Posible impacto sobre la salud. Efectos de la tecnología en salud sobre el manejo y resultados clínicos para los pacientes, teniendo en cuenta las alternativas concurrentes.
+• Posible impacto económico. Se valora si el uso de la tecnología eleva o reduce el costo agregado.
+• Posible impacto organizativo. Se valora si el uso de la tecnología en salud provoca cambios en las condiciones y organización del trabajo.
+• Posible impacto ético, social y/o legal.
+
+
+5.3 DISEÑO DE LA EVALUACIÓN
+
+5.3.1 Definición de las preguntas de evaluación
+
+El objetivo general o pregunta política constituye el motivo inicial que fundamenta la solicitud de un informe de ETES, que debe descomponerse en cuestiones más delimitadas y que puedan responderse con metodología científica.
+La formulación de los objetivos específicos va a determinar todo el proceso de evaluación, desde el diseño hasta su posible impacto en la práctica clínica.
+Se debe responder a una cuestión clara y precisa, en la cual estén explícitos: la condición de salud a la cual se aplica (población de interés), la tecnología a evaluarse, las tecnologías alternativas (de comparación), los parámetros abordados en la evaluación (eficacia, efectividad, seguridad, impacto económico, aspectos organizacionales, entre otros) y los resultados en salud de interés (mortalidad, morbilidad, efectos adversos, incidencia de complicaciones, entre otros).
+Una vez definida y delimitada la pregunta se debe realizar una búsqueda y recuperación bibliográfica inicial sobre el tema a evaluar (el Apéndice III ofrece un listado de fuentes de información para la búsqueda preliminar), con el objeto de identificar los datos o elementos de información más relevantes en relación con las preguntas de investigación. Una posible caracterización y clasificación de los tipos de elementos a considerar en la formulación de la pregunta es: a) datos referidos a las características de los participantes; b) a la tecnología; c) a la metodología, y d) a los resultados.
+a) Datos sobre las características de los participantes. Las características que tengan influencia sobre el efecto o resultado clínico, o sobre su interpretación, son las que más interesan, y van a determinar en gran parte la validez de las inferencias, por ejemplo el ámbito en el que se realiza el estudio (por ejemplo, un hospital de crónicos o un servicio de urgencias), la región geográfica, la edad, el sexo, el nivel de educación o la existencia de co-morbilidad.
+b) Los datos acerca de las características de la tecnología en salud o intervención a evaluar también condicionan la validez de los resultados. Cada técnica tiene aspectos diferenciales que pueden influir en las variables a considerar cuando se redacta una pregunta de investigación. Un estudio exhaustivo de las características de la tecnología en salud permitirá conocer todos los factores que pueden influir y modificar los resultados, costos y beneficios de la intervención sanitaria que se evalúa.
+c) Los datos sobre la metodología de los estudios que se suelen incluir en las preguntas de evaluación son:
+- Las características de las medidas de resultado que han utilizado los estudios revisados.
+- La precisión de los resultados de los estudios.
+- La técnica de asignación de pacientes a los grupos.
+- La duración del estudio.
+- El tipo de diseño, por ejemplo, ensayo aleatorio controlado o estudio observacional de cohortes.
+- La existencia de enmascaramiento y en qué grado, ciego simple, doble o triple ciego.
+- Las pérdidas de pacientes durante la realización del estudio.
+- Las co-intervenciones.
+d) Las medidas de resultado requeridas por la pregunta de investigación van a determinar totalmente la posibilidad de encontrar una respuesta válida. En la actualidad, el estudio de las medidas de resultado en medicina es una importante línea de investigación conocida también como investigación sobre la efectividad y la utilidad (outcomes research).
+
+5.3.2. Estudio de la factibilidad
+
+Antes de iniciar el trabajo de evaluación es necesario valorar la viabilidad del proyecto y la posibilidad de responder a la solicitud. Es posible que la evaluación esté ya total o parcialmente realizada, que exista información suficiente de fácil acceso para cubrir los objetivos propuestos, o por el contrario, que los recursos de personal o de tiempo necesarios para la elaboración del informe sean muy superiores a los inicialmente previstos.
+En algunas ocasiones el estudio de factibilidad puede concluir con la conveniencia de elaborar un informe preliminar de forma rápida o un informe completo de ETES. Un informe preliminar puede constituir una aproximación inicial al conocimiento científico disponible sobre esa tecnología en salud, siendo útil para la estimación de los recursos necesarios para culminar el proceso de ETES, o para realizar posteriormente, si así se decide, un informe de evaluación completo.
+
+5.3.3. La elaboración del proyecto de evaluación
+
+Los contenidos que debe incluir un protocolo o proyecto de evaluación pueden estructurarse tal y como se propone a continuación.
+Estructura de un proyecto de evaluación
++ Definición precisa de las preguntas u objetivos generales y específicos de la evaluación.
++ Metodología que se utilizará para elaborar el informe: revisión sistemática, evaluación económica, métodos de consenso, encuesta sobre el uso actual de una tecnología en salud, investigación con datos primarios u otros métodos.
++ Fuentes y estrategia de la búsqueda de información.
++ Criterios de inclusión y exclusión de los estudios, y criterios que se van a utilizar para la lectura crítica de los estudios.
++ Datos a extraer de los estudios y métodos que se emplearán para ello.
++ Estudio de los sesgos y limitaciones del proyecto.
++ Equipo de trabajo y, en su caso, métodos de selección de los expertos que van a participar.
++ Necesidades de personal, de tiempo y de presupuesto, para llevar a cabo la evaluación.
++ Estrategia de difusión del informe una vez elaborado.
++ Recopilación bibliográfica preliminar.
+La elección de la metodología a emplear
+Éste es el aspecto del proyecto de evaluación que más va a condicionar el resultado final y las posibles limitaciones del informe. Un informe de ETES puede utilizar un amplio rango de técnicas y métodos de análisis, algunos de los cuales se describen posteriormente en esta guía. Cada uno de esos métodos ha sido ampliamente estudiado y analizado, con sus fortalezas y debilidades.
+En muchos casos, los informes de ETES incluirán la utilización de varios métodos complementarios para la obtención de información que permita responder a las preguntas de evaluación.  La decisión sobre el tiempo y recursos a emplear en la elaboración del informe debe ser valorada en función del tipo de pregunta, los objetivos del trabajo, la exhaustividad necesaria para responder a la pregunta o los recursos disponibles.
+Tras la presentación del proyecto de evaluación se debe convocar una reunión entre los solicitantes y los evaluadores para discutir y aprobar el proyecto. En cualquier caso, la realización del proyecto debe ser un proceso flexible y abierto a la modificación y valoración continuas.
+
+5.4 BÚSQUEDA DE LA INFORMACIÓN
+
+La búsqueda exhaustiva y sistemática de la información requerida por las preguntas de evaluación constituye la base de todo informe de ETES.
+La estrategia de búsqueda en las diversas bases electrónicas es un paso clave, y a la vez complejo, que merece un tiempo importante que asegure que la revisión bibliográfica realizada para el informe sea sistemática, exhaustiva y precisa.
+Asimismo, el período de tiempo cubierto por la búsqueda y la fecha en que se realiza influyen considerablemente en el resultado final y, por tanto, deben describirse en la metodología del informe.
+En el Apéndice III se presenta una relación de las principales fuentes de información útiles en ETES con su dirección o modo de acceso. Por otra parte, a continuación se clasifican las formas de búsqueda de información que deben considerarse en el proceso de elaboración de un informe de ETES.
+• Bases de datos electrónicas. Existen multitud de bases de datos de investigaciones originales, además de MEDLINE y EMBASE, que facilitan la identificación de trabajos sobre tecnologías sanitarias. Por otra parte, en los últimos años han proliferado las publicaciones secundarias o las bases de datos sobre revisiones, entre las que destacan las que ofrece la Cochrane Library, que en el proceso de elaboración de informes de ETES son de consulta obligada, y a veces previa, a las bases de datos de investigaciones originales.
+• Informes de otras agencias de ETES. Muchas agencias se encuentran agrupadas en la red INAHTA, que conforma una base de datos con los informes de ETES realizados por sus miembros.
+• Fuentes de información estadística y/o administrativa. La aplicabilidad de los resultados del proceso de ETES va a depender en gran parte de los contenidos del estudio del contexto local que todo informe debe incluir. Este estudio se nutre de este tipo de fuentes de información. La disponibilidad de registros con los que poder realizar un ajuste al medio local, permitirá dotar de mayor validez a las conclusiones del informe.
+• Consulta de libros o revisiones sobre el tema. En muchas ocasiones, la mejor manera de iniciar un trabajo de investigación y localizar la información más relevante y aceptada es la lectura de uno o varios libros de texto generales, continuando por un buen artículo de revisión.
+• Consulta en revistas especializadas. Cuando sea posible, la revisión manual de los índices de revistas relacionadas con el tema estudiado durante un período de tiempo determinado, suele contribuir a la localización de originales. Este método permite la recuperación de artículos no identificados a través de una búsqueda con palabras clave.
+• Búsqueda a través de las referencias de los artículos encontrados. Es un método que suele resultar fructífero, aunque también laborioso. Una buena fuente para realizar este trabajo son las revisiones, ya que suelen presentar un gran número de citas.
+• Búsqueda de artículos publicados por un autor relevante. Se puede realizar fácilmente mediante el empleo de bases de datos electrónicas.
+• Búsqueda en actas de congresos. Pueden ser una fuente de información muy temprana y útil sobre investigaciones recién terminadas o aún en progreso, cuya localización se ve facilitada por el desarrollo actual de bases de datos electrónicas que las incluyen.
+• Búsqueda de literatura gris. El concepto de literatura gris es aún algo impreciso, a pesar de que su uso está cada vez más extendido. En general, se entiende por tal un conjunto de documentos de tirada limitada y circulación restringida, que no pueden obtenerse por los canales habituales de distribución. Son materiales que pueden aportar resultados de un considerable valor, tales como libros, folletos, informes técnicos de administraciones y empresas públicas o privadas, actas de congresos, tesis doctorales y otros.
+• Consulta a personas clave. La consulta a investigadores o profesionales destacados es un método de obtención de información muy útil para conseguir estudios recientes que todavía no han sido publicados o estudios antiguos que nunca llegaron a publicarse.
+• Solicitud de información a las casas comerciales relacionadas con la tecnología  Generalmente, los primeros datos y estudios sobre una tecnología en salud los realiza y conoce la industria o empresa interesada en su utilización.
+• Internet. Recientemente, el espectacular desarrollo de Internet ha posibilitado un cómodo y rápido acceso a muchas de las fuentes de información citadas.
+Existen programas informáticos que facilitan la gestión de las referencias bibliográficas, como REFERENCE MANAGER 65, PRO - CITE 66, ENDNOTE 67, SHAPIRE 68.
+5.5 EVALUACIÓN CRÍTICA Y SELECCIÓN DE LOS ESTUDIOS IDENTIFICADOS
+
+Es un paso fundamental en la elaboración de un informe de ETES, que contribuye a la identificación de sesgos y sirve de guía en la interpretación de los hallazgos. Los criterios que requieren evaluación crítica se pueden dividir en aquellos relacionados con: la validez, la precisión y las medidas de resultado de los estudios.
+ • La validez
+Un estudio es válido cuando su diseño y realización garantizan la detección y eliminación de errores sistemáticos y sesgos. Existen dos tipos de validez, interna y externa. La validez interna está relacionada con el diseño y los procedimientos de medición de variables y los métodos de análisis. Un estudio tiene validez interna cuando representa o mide aquello para lo que ha sido diseñado.
+La validez externa de un estudio es la potencialidad de generalización de sus resultados a personas o poblaciones distintas a los sujetos del estudio.
+El análisis de la validez es el aspecto que mejor valora la calidad de los estudios y, por tanto, de las evidencias científicas. Éstas deben fundamentar las recomendaciones de todo informe de ETES, relacionando la fuerza de la recomendación con el grado de calidad de la evidencia científica.
+• La precisión
+Un concepto importante que no debe ser confundido con la validez es la precisión. Ésta es una medida del error aleatorio que puede afectar al resultado de un estudio, y que generalmente se representa a través del intervalo de confianza de la estimación del efecto. En algunos casos se incluye entre los criterios que ponderan los estudios sintetizados en un meta-análisis, dando más peso a los estudios más precisos.
+• Las medidas de resultado
+El último de los tres criterios, aunque no el menos importante, se convierte, muchas veces, en el criterio más determinante para la selección de los artículos identificados.
+• Los cuestionarios o esquemas de análisis crítico
+Estos esquemas, o checklists, son útiles para ordenar los aspectos a incluir en la evaluación crítica de los estudios identificados. Proporcionan un método más objetivo de análisis que la simple lectura crítica, aunque nunca evitan ésta. Presentan los problemas típicos de cualquier cuestionario, la variabilidad inter e intra observador y otras limitaciones que pueden disminuir su fiabilidad y reproducibilidad, aspectos que deben ser evaluados si se utilizan. En ese caso, es importante que se describan claramente en el informe final; esto mejora la fiabilidad y reproducibilidad de las conclusiones. Existen multitud de cuestionarios o tablas de análisis para la evaluación crítica de estudios, por ejemplo el Instrumento AGREE ofrece un  marco para la evaluación de la calidad de las guías de práctica clínica.
+
+* Selección de los estudios
+Las decisiones sobre cuáles son los estudios que se incluirán en el informe de ETES son difíciles y muy relevantes. No es fácil discriminar todos los artículos con la misma objetividad; además, la exigencia de una descripción clara en el informe de los criterios utilizados para esa selección, aunque mejora la reproducibilidad y rigor de las conclusiones, en algunos casos produce una valoración demasiado rígida e incluso ilógica. Se han propuesto diversas formas para llevar a cabo el proceso de selección de estudios:
+• Estableciendo unos criterios umbrales para la inclusión o exclusión de estudios, que puede seguirse de un análisis de sensibilidad de los criterios considerados.
+• Asignando pesos a cada estudio en función de criterios explícitos, para posteriormente incluir esos pesos en el análisis cuantitativo de agregación de estudios.
+• Analizando y valorando los estudios de manera cualitativa, considerando la calidad el principal criterio de evaluación.
+Al igual que para los parámetros de evaluación crítica de los estudios, los criterios de inclusión y exclusión pueden atender a: valoración de la validez (metodología, características de los participantes y de la tecnología), la precisión y las medidas de resultado.
+Es conveniente que los criterios de selección de los estudios estén especificados ya en el proyecto inicial. Es recomendable que el informe final presente  tablas con los estudios seleccionados y otras con los excluidos, con el objeto de que los lectores conozcan con claridad cuáles son los estudios que se han quedado fuera del análisis y por qué.
+5.6  EXTRACCIÓN DE DATOS DE LOS ESTUDIOS SELECCIONADOS
+
+La ayuda de un formulario de recolección de datos, que contenga los criterios utilizados en la evaluación crítica de los estudios y los datos o resultados seleccionados cuando se definió la pregunta, suele ser beneficiosa. Los datos a extraer de los estudios se clasifican en: relativos a los resultados, a su metodología, a los participantes y a la tecnología. La definición de las unidades y medidas de resultado para el formulario de recolección de datos es una de las tareas claves. No sólo es importante la decisión de incluir una variable de resultado, sino su tipo, y cómo se mide y trata estadísticamente.
+5.7  ESTUDIO DEL CONTEXTO LOCAL
+
+Evaluar el impacto local de una tecnología en salud u ofrecer información que sitúe la evaluación en un contexto determinado es un elemento específico de las organizaciones que hacen ETES, a diferencia, por ejemplo, de aquellas dedicadas a la realización de revisiones sistemáticas. La valoración de la validez externa o generalidad de las conclusiones de los informes de ETES está íntimamente relacionada con el análisis del contexto local que incluya el informe.
+El estudio del contexto local puede enfocarse de dos formas, descriptiva o analíticamente. El enfoque descriptivo consiste en ofrecer información relevante sobre la utilización actual o futura de la tecnología o sobre las posibles consecuencias de la implantación de esa tecnología basada en datos de otros estudios o registros sanitarios diseñados para otro fin. El enfoque analítico consiste en realizar un estudio con datos primarios que evalúe la utilización o implantación de la tecnología en el medio elegido.
+Otros aspectos a considerar cuando se estudia el contexto son los aspectos legales, regulatorios y organizativos. Conocer la normativa legal que afecta al uso de la tecnologia en salud es esencial para valorar la introducción de ésta en el sistema sanitario o para la elaboración de recomendaciones sobre su uso apropiado o su regulación. En otros casos resulta muy útil realizar un estudio de la normativa legal o de la situación organizativa comparando diversos países, con el objeto de evaluar la conveniencia de que el informe realice propuestas que afecten a la legislación u organización del sistema sanitario.
+Por otra parte, el proceso de difusión y aplicación en la práctica de las conclusiones y recomendaciones del informe incluye la realización de actividades que produzcan efectos o motiven cambios en un medio o ámbito determinado. El éxito de esta fase de la ETES dependerá en parte del estudio del contexto local que se haya realizado. En el Apéndice III se proporciona una selección de las fuentes de información estadísticas y administrativas, útiles para la valoración del impacto local de una tecnología en salud.
+5.8  TÉCNICAS DE SÍNTESIS DE LA INFORMACIÓN Y OTROS MÉTODOS UTILIZADOS EN ETES
+
+5.8.1. Síntesis cualitativa y narrativa
+
+El empleo apropiado de la metodología cuantitativa es un instrumento muy potente que contribuye a evitar muchos errores y a ajustar las interpretaciones, pero muchas veces se observan importantes limitaciones para el empleo de técnicas de integración cuantitativa de resultados. En contraste, las valoraciones cualitativas deben estar incluidas siempre en los informes de ETES. Es más, muchos de los informes sólo van a incluir una valoración cualitativa o narrativa que, situada en el contexto de la ETES, tiene que ser sistemática, exhaustiva y explícita, con una buena valoración crítica de los estudios identificados, un examen y descripción minuciosos de los datos de los artículos, la elaboración de tablas que resuman y comparen los trabajos, y un estudio del impacto de la tecnología en el contexto local del solicitante.
+
+5.8.2. Meta-análisis
+
+Es un método cuantitativo para la agregación de resultados de diferentes estudios basado en la utilización de técnicas estadísticas que posibilitan la combinación y síntesis de los datos de las diversas investigaciones, y en las que las unidades primarias de análisis son los diferentes estudios. El objetivo del meta-análisis no es únicamente la obtención de una medida que sintetice el efecto de una intervención, sino también el análisis y la valoración de las diferencias entre los resultados de los diferentes estudios. La Biblioteca Nacional de Medicina de Estados Unidos lo define como: "un método cuantitativo de combinación y síntesis de resultados de estudios independientes (obtenidos generalmente de trabajos publicados) con el objeto de conseguir unas conclusiones o un resumen que pueda ser utilizado para la valoración de la efectividad de un tratamiento o la planificación de nuevos estudios, entre otros usos".
+Un meta-análisis estaría indicado en aquellas ocasiones en las que se desee realizar una revisión crítica con el rigor de un protocolo científico; cuando los resultados de los estudios existentes son conflictivos o no concluyentes, por ejemplo, si incluyen un número reducido de pacientes; e incluso cuando se desea detectar la evidencia existente y la calidad de la misma, identificando las lagunas en el conocimiento del área investigada. El meta-análisis se considera útil si los estudios son de alta calidad, existe una heterogeneidad explicable y de pequeño tamaño o la obtención de una medida estimadora de un efecto clínico resulta de alta relevancia.
+Existen diversos programas informáticos útiles para la realización de un meta-análisis o una revisión sistemática como: REVMAN, FAST * PRO, STATA, TRUE EPISTAT, DSTAT, DESCARTES, EASYMA  y META-ANALYST.
+
+5.8.3. Análisis de decisión
+
+Es una herramienta cuantitativa que evalúa el valor relativo de cada una de las opciones existentes en una decisión. Divide los problemas complejos en partes más sencillas, los analiza en detalle y los combina de nuevo de manera que se pueda identificar la mejor estrategia. Trata de evitar los errores sistemáticos producidos al establecer juicios clínicos basados fundamentalmente en la intuición clínica o en la experiencia personal. El análisis de decisión es un procedimiento de apoyo a la toma de decisiones, basado en la utilidad esperada de cada opción desde una determinada perspectiva. A la vez, constituye un método sistemático de identificación de opciones, cuantificación de expectativas o probabilidades, asignación de valores a resultados y comparación entre opciones.
+¿Cuándo está indicado el abordaje de un problema mediante el análisis de decisión? Se han propuesto las siguientes situaciones:
+1) Existe un conjunto de alternativas reales bien definidas entre las que escoger.
+2) Se detecta incertidumbre sobre las consecuencias de las alternativas.
+3) La persona o personas que deciden tienen preferencias acerca de los posibles resultados.
+4) Existen una o más restricciones que limitan el conjunto de alternativas. Por ejemplo, el costo de oportunidad de vacunar a toda la población escolar de hepatitis B es tan grande que nos impide realizar otras actuaciones sanitarias con una mejor relación costo-efectividad.
+5) El problema precisa que se tome una decisión.
+El árbol de decisión es la técnica principal y más empleada en los análisis de decisión. Otras técnicas son el análisis de umbrales de decisión y el proceso de Markov; los modelos de simulación de Monte-Carlo, y los métodos de medición de preferencias entre estados de salud standard gamble, time trade-off y category scaling.
+
+5.8.4. Estudios de evaluación económica
+
+La pertinencia de realizar un estudio de evaluación económica para la elaboración de un informe de ETES depende fundamentalmente de la formulación de la pregunta planteada en la solicitud de evaluación. Cuando los objetivos del informe vayan encaminados a la ponderación de costos y consecuencias, y pueda conseguirse información de la suficiente calidad y validez, se pueden usar las técnicas que a continuación se describen.
+El diseño de un estudio de evaluación económica debe partir de la identificación del tipo de información económica que será más útil para el destinatario del estudio o informe y definir de forma precisa las preguntas o problemas de investigación. Estos primeros pasos ofrecen las claves para orientar sobre el tipo de costos y resultados que van a ser analizados y sobre el diseño más apropiado para responder a las preguntas formuladas.
+A continuación se describen cada uno de los cuatro tipos de estudios económicos completos:
+MINIMIZACIÓN DE COSTOS: Los resultados no se miden en ninguna unidad porque se parte de la asunción de que las intervenciones que se comparan producen aproximadamente los mismos resultados. Se usa cuando, una vez identificado un beneficio común, las distintas opciones permiten alcanzar el mismo objetivo en el mismo grado, aunque previsiblemente con costos diferentes, que son los que se trata de minimizar.
+ANÁLISIS DE COSTO-EFECTIVIDAD: Las unidades en que se miden los resultados, son unidades naturales, unidades de efecto sanitario como las unidades de presión arterial, la incidencia de enfermedad, los casos evitados, la mortalidad o los años de vida ganados. El propósito de este tipo de análisis es comparar el costo de dos o más alternativas de intervención sanitaria que persiguen el mismo objetivo. Los costos se miden en unidades monetarias y los beneficios en unidades de efectividad.
+ANÁLISIS COSTO-UTILIDAD: Los resultados se miden generalmente en Años de Vida Ajustados por Calidad (AVAC o, en inglés, Q A LY, Quality Adjusted Life Year), lo que exige disponer de instrumentos específicos de medida y de ajuste de medidas cuantitativas de salud por calidad de vida, a menudo complejos y de difícil interpretación. Introduce las preferencias y valoraciones de estados de salud realizadas por individuos, profesionales o la sociedad.
+ANÁLISIS COSTO-BENEFICIO: Es el único tipo de evaluación económica en el que tanto los costes como los resultados se miden en unidades monetarias, de esta manera se facilita la comparación entre costos y beneficios. Es, quizás, la modalidad de análisis económico menos utilizada dadas  las implicaciones éticas y la dificultad de atribuir valor económico a la vida humana.
+ Inicialmente, en todo análisis económico se deben estudiar cuáles van a ser los costos a considerar, fijos o variables, directos o indirectos, tangibles o intangibles,  pagados por los pacientes, la administración sanitaria o la industria. La adecuada identificación de los costos y resultados es el aspecto más importante que se debe considerar cuando se diseña un estudio de evaluación económica en sanidad.
+
+5.8.5. El juicio de expertos
+
+La necesidad de adopción de decisiones sobre una tecnología en salud pese a la ausencia de evidencias científicas de alta calidad justifica en ocasiones el uso de métodos de consenso basados en el juicio de expertos. En otros casos, el problema analizado o las preguntas más relevantes a las que se pretende dar respuesta presentan numerosos componentes subjetivos, como la valoración de la calidad de vida, el interés social, determinados aspectos éticos o posiciones políticas. En estos y otros casos puede ser relevante añadir a la síntesis de la evidencia la valoración subjetiva y la opinión de especialistas experimentados o de representantes de las personas implicadas e intereses afectados por el uso de la TECNOLOGÍA EN SALUD. Es deseable también obtener un cierto grado de consenso y aceptación entre los que van a ofrecer o utilizar esa TECNOLOGÍA EN SALUD, de forma que se facilite su diseminación e implantación.
+Los procedimientos de juicio de expertos utilizan técnicas con grados diferentes de formalización y estructuración, y emplean métodos cualitativos de investigación y de decisión. Existe una enorme variedad de aproximaciones metodológicas para la elaboración de productos de acuerdo y consenso. La búsqueda de respuestas a determinadas preguntas planteadas ha sido abordada con distintos métodos que generan también distintas líneas de productos: Conferencias de Consenso; Método de Uso Apropiado, diseñado por la RAND Corporation; Método D E L P H I; Grupos Nominales, y otros. Estos procedimientos suelen implicar la participación de expertos en un proceso de valoración de problemas o situaciones clínicas con el apoyo de la literatura biomédica disponible y la elaboración de un documento consensuado en el que se propone una pauta de decisión frente al problema planteado. Así, en los procesos de elaboración de Guías de Práctica Clínica se llega a un acuerdo sobre un conjunto de recomendaciones, diseñadas para ayudar a los profesionales y a los usuarios en la selección de las mejores opciones diagnósticas y/o terapéuticas para el manejo de una condición clínica específica en circunstancias concretas.
+Estos métodos permiten, a su vez, la implicación de profesionales sanitarios de prestigio y de representantes de otros estamentos involucrados o afectados por el proceso de toma de decisiones (usuarios, pacientes, Administración, financiadores), lo que facilita la aceptación del proceso de elaboración, la colaboración en la estrategia de difusión y la aceptación de las recomendaciones. Los resultados finales de estos métodos de consenso dependerán en gran medida del rigor metodológico, el grado de preparación, la transparencia de todo el procedimiento y el prestigio de la organización promotora.
+5.9 VALORACIÓN DE LOS EFECTOS SOCIALES, ORGANIZATIVOS, PSICOLÓGICOS Y ÉTICOS
+
+La cantidad de factores que pueden influir y la diversidad de parámetros que se pueden utilizar para medir este tipo de efectos son algunas de las múltiples dificultades que presenta su valoración e inclusión en un estudio de evaluación. Las expectativas acerca de la calidad de vida o la salud percibida, por ejemplo, pueden matizarse enormemente de tal manera que cada individuo considere variables o factores diferentes a los demás. Sin embargo, muchas tecnología en salud ocasionan efectos psicológicos importantes en los pacientes, tienen un elevado impacto social o plantean problemas éticos relevantes. También su impacto organizativo puede influir en el uso y resultados finales de la intervención sanitaria. Por ello, su inclusión en un informe de ETES es importante.
+Se ha avanzado algo en la identificación de este tipo de efectos y en el establecimiento de escalas de medida para valorarlos.  Así, la realización de pruebas diagnósticas produce efectos psicológicos como el "etiquetado" (clasificar a una persona de enferma tiene consecuencias psicológicas), el miedo a la enfermedad, la ansiedad por el contacto con los servicios sanitarios, la satisfacción con la atención recibida.
+La valoración de los efectos sociales incluye aspectos como la equidad en el acceso a la TECNOLOGÍA EN SALUD, los condicionantes de la toma de decisiones colectiva sobre inclusión de  prestaciones o realización de intervenciones, la asignación de valores económicos a los resultados clínicos, las necesidades expresadas o percibidas en la comunidad y otros.
+A continuación se describen algunas de las variables que pueden medir los efectos de la introducción de una tecnología en una organización sanitaria:
+•    	Grado de flexibilidad/vulnerabilidad de la organización a los efectos de la introducción de la TECNOLOGÍA EN SALUD sobre las limitaciones presupuestarias, el mantenimiento general, los momentos críticos, la falta de personal entrenado en la nueva tecnología o la carga de trabajo.
+•     	Grado de centralización / descentralización de la información, del desarrollo de los procedimientos técnicos, de las decisiones clínicas y de las decisiones económicas o sobre los recursos de la tecnología.
+•    	Nivel de diferenciación que ocasiona la tecnología en la estructura de la organización (creación de un nuevo departamento) y en los niveles del personal (nuevos expertos).
+•      	Requerimientos de personal, de formación o de incentivos.
+* Satisfacción en el trabajo (medida mediante diversos aspectos como la seguridad, adaptación al medioambiente, buenas relaciones personales, efectividad y motivación con el trabajo).
+• 	Grado de efectividad de los canales de comunicación, destacando los canales de datos clínicos y administrativos.
+La dimensión ética en la ETES se relaciona con la evaluación socio-económica, en el marco de un contexto de recursos limitados. El acceso equitativo a la provisión de servicios sanitarios es un derecho de los ciudadanos. A la vez, el objetivo de los servicios de salud es maximizar el impacto sobre la salud con los recursos que la sociedad establece para ello. Así, la búsqueda de la eficiencia se puede definir como un objetivo ético.
+5.10  ELABORACIÓN DE LAS CONCLUSIONES Y RECOMENDACIONES
+
+Las conclusiones y recomendaciones son los apartados más leídos de los informes, junto con el resumen. En las conclusiones deben destacarse aquellos contenidos del informe que tengan mayor relevancia y capacidad de influir en la toma de decisiones. La realización de recomendaciones debe ser adecuadamente valorada, en función de los objetivos, contenidos y las necesidades del solicitante. Este apartado debe ser breve, preciso y consistente con los datos y evidencias aportados. Los aspectos que deben ser reseñados habitualmente son:
+• Valoración de la calidad de la información obtenida, así como de las incertidumbres detectadas.
+• Valoración de los costos (tanto económicos como relativos a riesgos, complicaciones y efectos adversos) y beneficios del uso de la tecnología. En algunos casos, es necesario concluir si la aplicación de la tecnología en salud es factible en el medio estudiado.
+• Valoración de las posibles implicaciones del informe para el Servicio Sanitario en el que se aplica la tecnología.
+• Grado en que se han logrado cumplir los objetivos propuestos.
+• Formulación de la respuesta o respuestas a las preguntas de evaluación u objetivos específicos.
+• Incertidumbres o lagunas de conocimiento que no han podido ser cubiertas con la información obtenida.
+• Líneas de investigación que deberían desarrollarse para avanzar en el conocimiento del tema que se ha evaluado.
+• Implicaciones para el desarrollo o modificación de regulaciones referidas a la tecnología evaluada.
+Un informe de ETES debe informar del grado de evidencia que apoya cualquier conclusión o recomendación, estableciendo claramente el orden de preferencia que se da a los diferentes resultados. La clasificación y jerarquía de las evidencias científicas es un tema ampliamente abordado en la literatura reciente.
+Un aspecto que debe analizarse en las conclusiones es la aplicabilidad de los resultados finales del informe. Se debe ofrecer una ayuda a los lectores para identificar si las conclusiones son aplicables a una población concreta  de tal manera que se describan las posibles variaciones de la validez o efectos si varían a su vez determinadas circunstancias, tales como las características biológicas de los participantes o del factor de exposición, por ejemplo; las diferentes cepas de una bacteria; determinados componentes culturales que afecten a los resultados de la intervención sanitaria; la  adherencia al tratamiento, o el riesgo basal previo a la intervención.
+Los factores enumerados pueden producir enormes variaciones, por lo que no se puede exigir que el informe de evaluación aborde todos esos posibles escenarios, pero sí se deben analizar las diferencias más importantes e incluir estas variaciones dentro de las posibles limitaciones de la evaluación realizada.
+Finalmente, es interesante que las conclusiones establezcan el grado de apoyo o confianza que merece la tecnología en salud a juicio de los autores del informe.
+
+
+5.11  REVISIÓN DEL DOCUMENTO
+
+Se debe reservar un período de tiempo suficiente para realizar una revisión externa y completa del texto antes de su publicación. La revisión por pares o peer review es una práctica asumida en la actualidad por toda la comunidad científica y considerada actualmente uno de los elementos clave que aseguran la calidad de una publicación.
+
+5.12  DIFUSIÓN Y APLICACIÓN DE LOS RESULTADOS DEL INFORME
+
+Esta fase es fundamental para asegurar que un informe de ETES sea efectivo, logre cambiar la práctica clínica o influir en las decisiones de las autoridades relacionadas con las tecnología en salud. No basta con elaborar informes basados en la mejor evidencia disponible, también es importante diseñar una estrategia que consiga la difusión y aplicación de sus conclusiones en la práctica diaria. Los informes de ETES deben basarse en la información científica más actualizada y de mayor calidad, pero esa información debe tener el impacto suficiente como para influir en los comportamientos y actitudes de los profesionales o los gestores sanitarios.
+En esta fase del proceso de elaboración de informes de ETES, los conceptos dissemination e implementation, que se podrían traducir como diseminación e implementación, pueden considerarse objetivos importantes en la búsqueda del mayor impacto posible del informe de ETES. El concepto dissemination se refiere a un conjunto de actividades muy amplias: la difusión del documento, la estrategia de búsqueda de los lectores clave, el diseño de actividades encaminadas a la discusión e interpretación correcta de las conclusiones del informe, e incluso la participación en procesos de formación y entrenamiento de los profesionales sanitarios que utilicen la TECNOLOGÍA EN SALUD evaluadas. Es un concepto que pretende añadir un nuevo valor o componente a los términos difusión o divulgación. La diseminación se corresponde con una difusión más activa, en la que a través de intervenciones o actividades se promueve, no sólo se difunde, una información o una recomendación.
+El concepto implementation se refiere a actividades que van más allá de la extensión o difusión de un documento, como la aplicación y evaluación en la práctica de las conclusiones y/o recomendaciones. Incluye intervenciones que reduzcan las barreras al cambio, actividades para conseguir la asimilación y posterior aplicación de los resultados del informe, el seguimiento y evaluación del uso de la tecnología, la medición del impacto del informe y la valoración a largo plazo de los efectos que produce la TECNOLOGÍA EN SALUD sobre la organización sanitaria o la población.
+La evaluación del impacto de los informes de ETES es una actividad que todavía está poco desarrollada. La mayoría de los estudios diseñados con ese objetivo analizan la difusión, comprensión y asimilación de la información resultante de la evaluación, pero no llegan a medir los cambios y el impacto que ésta produce en la práctica clínica.
+El éxito del proceso de transferencia de conocimientos de la evaluación e investigación a la práctica clínica precisa el desarrollo de una estrategia de difusión y aplicación de los resultados apoyada en actividades e incentivos organizativos, que estimulen el cambio. Esta estrategia debe ir dirigida no sólo a los profesionales sanitarios, sino también a los investigadores, directivos sanitarios, profesionales de los medios de comunicación y ciudadanos. Además, es importante que se planifique y se haga explícita en las primeras fases de la elaboración del informe de ETES, cuando se diseña el proyecto de evaluación.
+
+
+Apéndice I
+Formato y estructura de un informe Público de ETES
+
+El formato y estructura de los informes no ha sido consensuado entre las agencias u organizaciones que se dedican a la ETES. Lo que se pretende, en suma, es trasladar toda la información científica identificada a un texto comprensible y útil, de tal manera que cada tipo de usuario pueda apoyarse en la rigurosidad y fiabilidad del informe para tomar decisiones. A continuación se propone un formato básico aplicable a los informes públicos.
+- TÍTULO. Debe ser preciso y describir con claridad los objetivos del informe.
+- RESUMEN. Se realiza el primer resumen en el idioma original y el segundo en inglés, que deben ser breves. Es lo que se identifica como Summary o Executive Summary. Es aconsejable que se divida en secciones, relacionadas con la estructura del informe final, como: Objetivos, Fuentes de información, Selección de la información, Métodos de análisis y síntesis de la información, Resultados, Conclusiones y Recomendaciones.
+- RESUMEN O ABSTRACT ESTRUCTURADO EN INGLÉS. Además del resumen descrito en el punto anterior, es necesario escribir también un resumen estructurado para su inclusión en el registro de informes de la red INAHTA, cuya dirección aparece en el Apéndice III.
+- INTRODUCCIÓN. En esta sección se presenta el documento, indicando las razones que motivaron el inicio del trabajo, profundizando en la información requerida, las lagunas de información que pretende cubrir y los posibles beneficios que puede suponer. Indicar también la entidad solicitante o financiadora del informe, los posibles destinatarios de éste, algunos datos sobre la situación actual y evolución de la tecnología que describan ésta en su contexto internacional y local, y otros antecedentes que sitúen al lector permitiéndole profundizar a través de las referencias ofrecidas.
+- OBJETIVOS O PREGUNTAS. Pueden situarse tanto en la introducción como en un apartado específico. Deben respetarse dos cualidades esenciales que son precisión y brevedad. Cada objetivo debe iniciarse con el verbo que describa la acción a realizar; por ejemplo, "Comparar la eficacia de las tecnologías A y B". Generalmente existe una cuestión de ámbito político o relacionada con la gestión sanitaria que motiva la realización del informe; es el objetivo general, que a su vez se desarrolla mediante uno o varios objetivos específicos o preguntas científicas.
+- METODOLOGÍA. Se debe incluir una descripción de los métodos empleados en la realización del informe, con la claridad y los detalles suficientes como para que puedan reproducirse todos los pasos. Las fuentes de información, la estrategia de búsqueda, los criterios de inclusión y exclusión de los estudios y la metodología utilizada para analizar y sintetizar la información son los aspectos más importantes que deben especificarse en esta sección del informe.
+- DESARROLLO DE LOS CONTENIDOS DE LA EVALUACIÓN.  Este apartado muestra el análisis realizado (juicio de expertos, técnica cuantitativa) y sus resultados, así como la síntesis de los estudios considerados. También se incluye aquí la descripción de la tecnología y enfermedad, el estudio de la validez y calidad de los datos de los estudios seleccionados, la descripción de los estudios incluidos y excluidos, el estudio del contexto local, la valoración del impacto social, organizativo, psicológico y ético de la tecnología en salud, y finalmente, una discusión donde se analicen las limitaciones de la metodología empleada en la evaluación y se valore de manera integral el conjunto de los contenidos definidos en esta sección.
+- TABLAS Y/O GRÁFICOS. En la mayor parte de los informes son el elemento fundamental de la síntesis de información. Generalmente van a servir para describir los estudios incluidos y excluidos del análisis. A modo de esquema, los datos que se incluirán van a ser fundamentalmente: características de los pacientes receptores de la tecnología, tipo de tecnología, diseño del estudio, calidad de las evidencias y resultados de los estudios.
+- CONCLUSIONES. Los hallazgos del estudio evaluativo tienen una serie de implicaciones o pueden plantear nuevas preguntas. Éste es el apartado adecuado para explicitar estas cuestiones realizando un compendio de los resultados más importantes, incluyendo las limitaciones y lagunas de conocimiento detectadas. Cada conclusión debe ser breve, precisa, relevante y consistente con las evidencias que el informe aporta.
+- RECOMENDACIONES. No todos los informes incluyen recomendaciones, aunque son importantes.
+- BIBLIOGRAFÍA. Lo ideal es que se transcriban cumpliendo las normas de Vancouver. Las referencias de la metodología utilizada para la elaboración del informe son también relevantes por lo que es importante que no se olvide incluirlas. Asimismo, la bibliografía puede presentarse en tres apartados: los estudios incluidos en el análisis final, los excluidos y aquellos estudios que se han utilizado en la metodología o en el estudio general del tema a evaluar pero que no son objeto de análisis.
+
+
+Apéndice II
+Formato y estructura de un Informe Técnico Científico (ITC).
+
+Resumen estructurado.
+
+- Intensidad de la evidencia de las recomendaciones
+- Descripción de la tecnología evaluada y sus alternativas
+- Informaciones sobre la población-objetivo de la tecnología (indicadores     epidemiológicos)
+- Metodología (bases de datos donde la búsqueda fue realizada, calidad de la   evidencia encontrada, número de estudios incluidos en el análisis)
+- Resumen de las Recomendaciones
+Contenido
+
+- Contexto (justificativa e importancia de la pregunta respondida por el ITC)
+- Pregunta (objetivo del estudio, preguntas que deben ser respondidas por el
+  documento)
+- Introducción (informaciones epidemiológicas, descripción de la tecnología,
+  sus indicaciones, costos, gastos, riesgos y descripción de las tecnologías
+  alternativas)
+- Métodos (fuentes de datos, selección de estudios, evaluación de calidad)
+- Recomendaciones (implicaciones en la práctica clínica, en los servicios y en
+- Resultados (principales hallazgos, tabla de resultados de los estudios de
+  la investigación).
+
+
+Apéndice III
+Recopilación de fuentes de información útiles en ETES
+
+1. SELECCIÓN DE FUENTES DE INFORMACIÓN PARA LA BÚSQUEDA PRELIMINAR
+Listado de fuentes de información útiles para la búsqueda de información inicial. Ésta se realiza fundamentalmente cuando se diseña la evaluación.
+• Red INAHTA (http://www.inahta.org).
+• Base de datos de revisiones sistemáticas de la Colaboración
+Cochrane (http://www.update-software.com/publications/cochrane/).
+• HSTAT (Health Services/Technology Assessment Text) (http://text.nlm.nih.gov/).
+• TRIP database (http://www.tripdatabase.com).
+• MEDLINE: Buscar fundamentalmente artículos de revisión o de síntesis.
+PubMed: (http://www.ncbi.nlm.nih.gov / PubMed/)
+
+2 FUENTES BIBLIOGRÁFICAS Y DOCUMENTALES
+2.1. Bases de datos de publicaciones e investigaciones originales
+Medline: Es la principal base de datos de la Nacional Library of Medicine (NLM) de EE.UU Internet (http://www.ncbi.nlm.nih.gov/PubMed/).
+Embase: Es la base de datos electrónica de Excerpta Médica. Comprende información farmacológica y biomédica. Internet (http://www.umanitoba.ca/libraries/elibrary/netsdoc/subject_244.shtml) Acceso restringido
+HSRProj: Base de datos de la NLM. Contiene citas de proyectos de investigación en curso acerca de Servicios Sanitarios, incluyendo Evaluación de Tecnologías Sanitarias, así como el desarrollo y uso de guías de práctica clínica. (http://umanitoba..ca/libraries/elibrary/netsdoc/subject_244.shtml).
+LILACS (Literatura Latinoamericana y del Caribe en Ciencias de la Salud). Internet (http://www.bireme.br).
+National Research Register (NRR): Registro electrónico de proyectos de investigación y desarrollo, en curso o recién terminados, financiados por el Servicio Nacional de Salud del Reino Unido (NHS). Contiene proyectos de investigación, ensayos clínicos y revisiones sistemáticas. Internet (http://www.update-software.com).
+IME (Índice médico español): Contiene la producción científica española en el área de biomedicina. Internet (http://www.cindoc.csic.es/principal.html) y en CD-ROM.
+2.2. Fuentes de información secundaria
+The Cochrane Library Internet (http://www.cochrane.bvsalud.org/portal/php/index.php?lang=pt).
+Red INAHTA (International Network of Agencies for Health Technology Assessment): Aporta referencias de los informes de evaluación de tecnologías sanitarias, realizados por las agencias pertenecientes a la red  INAHTA que pueden localizarse a través de Internet (http://www.inahta.org).
+BCOHTA - British Columbia Office of Health Technology Assessment (Canada)
+http://www.ubc.ca/
+
+CCOHTA - Canadian Coordinating Office for Health Technology Assessment (Canada) http://www.cadth.ca/index.php/en/home
+
+CETS - Conseil d'Evaluation des technologies de la santé (Canada)
+http://www.mess.gouv.qc.ca/index.html
+
+CCHSR - Coordinating Committee for Health Services Research (Canada)
+http://www.chsrf.ca/
+
+ISTAHC Database (International Society of Technology Assessment in Health Care): Internet (http://www. istahc.org /live /viewdata).
+HSTAT (Health Services / Technology Assessment Text): Internet (http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=hstat).
+CRD (Centre for Reviews and Dissemination): Dependiente del Servicio Nacional de Salud (NHS) británico. Internet (http:/www./crd.york.ac.uk).
+TRIP database: Base de datos producida por TRIP (Turning Research Into Practice), Internet (http://www.tripdatabase.com).
+OSTEBA - Basque Office for Health Technology Assessment (España) http://www.euskadi.net/sr33-2273x/es/?resultsSource=fullText&fullText=OSTEPA
+
+AHRQ - Agency for Healthcare Research and Quality (EUA) http://www.ahcpr.gov/
+
+NICE - National Institute for Clinical Excellence and Health
+http://www.nice.org.uk/
+
+Programa británico de Evaluación de Tecnologías Sanitarias:  Internet (http://www. soton.ac.uk/).
+Evidence-based medicine journal (http://www.acponline.org/fcgi/search)
+ACP journal club (http://www.acponline.org/).
+Bandolier (http://www.jr2.ox.ac.uk/Bandolier).
+NGC (National Guideline Clearinghouse): Internet (http://www. Guidelines.gov/).
+CPG Infobase: Base de datos de guías de práctica clínica producidas por la Asociación Médica de Canadá (Canadian Medical Association). Internet (http://www.cma.ca/index.cfm/ci_id/121/la_id/1.htm).
+Literatura gris
+SIGLE (System for Information on Grey Literature): Internet (http://www.kb.nl/index-en. html)
+Conference  Papers Index: Información de los programas finales, libros de resúmenes y actas publicadas en las principales reuniones científicas de todo el mundo. Internet (http:/ /www.csa1.co.uk/) y en CD-ROM.
+TESEO: Contiene información sobre tesis doctorales leídas en las Universidades españolas desde 1976. Internet (http:/ /www.teseo.mec.es/teseo/jsp/teseo.jsp).
+3. FUENTES ESTADÍSTICO-ADMINISTRATIVAS
+OMS/WHO (Organización Mundial de la Salud): Ofrece acceso a múltiples estadísticas a nivel mundial y permite buscar en sus bases de datos de informes técnicos y otras publicaciones (http://www.who.int/en/).
+OPS/PAHO (Organización Panamericana de la Salud): Organismo internacional de salud pública dedicado a mejorar la salud y las condiciones de vida en América. Ofrece acceso a documentos, programas sanitarios e importante información técnica (http://www.paho.org/).
+FDA (Food and Drug Administration): Organismo que registra y autoriza todos los productos alimenticios y medicamentos en los EE.UU. (http://www.fda.gov/hometext.htm).
+4. BUSCADORES DE INFORMACIÓN SANITARIA EN INTERNET
+Medical Matrix. Permite acceso a recursos clínicos disponibles en Internet clasificados y comentados. Dirigido principalmente a médicos y trabajadores sanitarios de Estados Unidos (http://www.medmatrix.org/).
+Altavista. Se trata de uno de los buscadores de Internet. Aunque no es específico de temas relacionados con la salud, recoge un gran número de recursos sanitarios (http://www.br.altavista.com/).
+Yahoo Health. Recursos sanitarios del que, probablemente, sea el buscador de Internet más popular (http://health.yahoo.com/).
+OMNI (Organising Medical Networked Information). Recurso británico de fuentes biomédicas de alta calidad en Internet (http://www.intute.ac.uk/healthhandlifesciences/medicine/).
+
+
+2

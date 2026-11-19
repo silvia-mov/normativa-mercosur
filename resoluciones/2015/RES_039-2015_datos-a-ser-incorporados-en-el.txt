@@ -1,0 +1,648 @@
+Resolución GMC N° 39/15
+Título: DATOS A SER INCORPORADOS EN EL DUAM
+Fecha de aprobación: 23/09/2015
+Vigencia: Derogada (Derogada por la Resolución GMC N° 09/21. Estuvo vigente desde el 23/09/15 - Art. 5 a) de la Dec. CMC N° 23/00 – hasta el 26/08/21.)
+Idioma del texto: ES
+Archivo original: 59212_RES_039-2015_ES_DUAM.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3191).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 39/15
+
+DATOS A SER INCORPORADOS EN EL DUAM
+
+     VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Decisiones Nº 50/04, 54/04, 17/10, 27/10 y 56/10 del Consejo del Mercado Común.
+
+CONSIDERANDO:
+
+Que por la Decisión CMC Nº 17/10, se estableció el "Documento Único Aduanero del MERCOSUR (DUAM)" como el modelo de datos comunes para integrar las declaraciones de las destinaciones y operaciones aduaneras en el MERCOSUR, como paso indispensable para la armonización de los procedimientos de gestión aduanera.
+
+Que a los fines de su plena implementación se requiere el cumplimiento de determinadas actividades no limitativas que se han explicitado en el Artículo 2 de la Decisión CMC N° 17/10.
+
+Que el DUAM debe contemplar lo establecido en la recomendación del Consejo de Cooperación Aduanera de fecha 27 de junio de 2009 relativa al uso del Modelo de Datos de la Organización Mundial de Aduanas, por cuanto corresponde tener presente en esta etapa, la alineación de sus datos con los del Modelo de Datos de la OMA, en materia de nombres, definiciones e identificaciones, previsión esta que permitirá iniciar nuevas etapas en la adopción gradual del lenguaje universal establecido en el Modelo de Datos de la OMA, facilitando el intercambio de información entre los usuarios de la misma.
+
+Que en razón de la dinámica del comercio exterior del MERCOSUR resulta conveniente establecer métodos de actualización que contemplen el mapeo de los procesos de gestión aduanera vinculados a las operaciones comerciales.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - El conjunto provisional de datos comunes que formará parte del Documento Único Aduanero del MERCOSUR (DUAM), que contiene el listado de los datos correspondientes con sus nombres y definiciones, es el que consta en su versión resumida como Anexo I y en su versión completa como Anexo II y forman parte de la presente Resolución.
+
+Art. 2 - Los datos que se aprueban deberán ser incluidos en el Sistema INDIRA, desde el momento que los sistemas de declaración aduanera de los Estados Partes los incorporen.
+
+
+Art. 3 - Instruir a la CCM para que, a través del CT N° 2:
+
+I - Establezca un cronograma de trabajo gradual y en etapas para desarrollar las actividades enumeradas en la Decisión CMC N° 17/10 u otras que se identifiquen en el futuro como necesarias para la implementación del DUAM.
+
+II - Actualice los datos que componen los Anexos I y II de la presente Resolución, a medida que se avance en los trabajos.
+
+III - Las actividades descriptas en los numerales 1 y 2 serán sometidas a la aprobación de la CCM.
+
+Art. 4 - Esta Resolución no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+
+      XCIX GMC - Asunción, 23/IX/15.
+
+
+ANEXO I
+
+
+DATOS A SER INCORPORADOS EN EL DUAM
+
+
+N° de Campo
+Nombre del Campo
+Descripción
+1
+DATOS GENERALES DE LA DECLARACIÓN
+
+1.1
+Identificación de la declaración
+Identificación de la declaración; La identificación del DUAM está conformada por dos elementos de datos: 1.- La identificación del país donde se presenta la declaración, basado en el uso del código ISO alfanumérico de dos posiciones, y 2.- La identificación nacional que actualmente emplea cada Estado Parte. Cada país podrá tener reglas propias de formación del número de identificación de la declaración. Los EEPP podrán incluir a la identificación de la declaración elementos para permitir el control de las rectificaciones.
+1.1.1
+Identificación de la declaración - identificador país
+Identificación del país donde se presenta la declaración, basado en el uso del código ISO alfanumérico de dos posiciones.
+1.1.2
+Identificación de la declaración - identificador nacional
+Identificación nacional que actualmente emplea cada Estado Parte.
+1.2
+Clase de declaración
+Clase de declaración; en el DUAM se podrán utilizar diferentes clases de declaración de acuerdo al momento del despacho aduanero y al objetivo que se persigue. Las clases de declaración son, entre otras:
+
+Declaración Normal; es la declaración de mercancías que se efectúa a partir del día de ingreso de las mercancías al depósito temporal.
+Declaración Anticipada; es la declaración que se efectúa antes de la llegada de la mercancía al país.
+Declaración Complementaria; es la declaración que presenta el declarante con el propósito de culminar el trámite de una Declaración, cuando es permitida por la legislación de los EEPP.
+Declaración Simplificada; es la clase de declaración de mercancías que presenta con información básica o primordial para el despacho de las mercancías.
+
+Declaración Modificatoria; se utilizará para el caso de ampliaciones, modificaciones o rectificaciones autorizadas por las legislaciones nacionales de los EEPP, conforme establecido en la Decisión N° 50/04.
+1.4
+Régimen/ Sub-régimen aduanero
+
+1.4.1
+Régimen Aduanero
+El tratamiento aduanero aplicable a la mercadería objeto de
+tráfico internacional, de conformidad con lo establecido en la legislación aduanera (CAM).
+1.4.2
+Subrégimen Aduanero
+Especialización dentro del régimen.
+
+
+1.5
+Aduana de entrada
+Aduana de entrada: es el código de la aduana de ingreso de las mercancías al Estado Parte
+1.6
+Aduana de salida
+Aduana de salida: es el código de la aduana de salida de mercancías del Estado Parte
+1.7
+Aduana de registro
+Aduana de registro: es el código de la Aduana donde se realiza el registro trámite de la declaración del Estado Parte.
+1.8
+Aduana de partida
+Aduana de partida: es el código de la aduana de partida de la mercadería del Estado Parte
+1.9
+Aduana de destino
+Aduana de destino: Es el código de la Aduana de destino de la mercadería en el Estado Parte.
+1.10
+Depósito
+Código del lugar habilitado por la administración aduanera para el almacenamiento de mercancías que se encuentran bajo control aduanero en espera de que sean sometidos a una determinada destinación aduanera u otras operaciones.
+1.12
+Fecha de Registro
+Fecha de Registro: es la fecha de registro u oficialización de la declaración aduanera, en concordancia con la legislación aduanera.
+1.13
+Plazo de autorización
+Plazo de autorización: Plazo para el cumplimiento dado según régimen/subrégimen autorizado.
+1.14
+Plazo de validez de la declaración
+Plazo de validez de la declaración: Es el plazo de validez, variable según el tipo de declaración y las condiciones impuestas por cada EEPP.
+1.15
+Lugar de embarque - carga
+
+1.15.1
+Código del lugar - carga
+Lugar de embarque - carga: código del primer puerto, aeropuerto, terminal terrestre, estación ferroviaria u otro lugar donde se inicia el transporte de las mercancías
+1.15.2
+Nombre del lugar - carga
+Lugar de embarque - carga: nombre del primer puerto, aeropuerto, terminal terrestre, estación ferroviaria u otro lugar donde se inicia el transporte de las mercancías
+1.16
+Fecha de Embarque
+Fecha de embarque: fecha de embarque de la carga en el medio de transporte con destino al Territorio Aduanero.
+1.17
+Lugar de embarque - carga específico
+Lugar de embarque - carga específico; texto complementario para especificar el lugar de carga cuando sea requerido. Cuando el Lugar de embarque - carga (campo 1.15) tenga varios lugares operativos que resulta necesario identificar, se indicará el lugar operativo específico en donde se realiza la operación de carga
+1.18
+Canal de selectividad
+Canal de selectividad; canal de selectividad asignado por las aduanas a la declaración aduanera.
+1.19
+Fecha de arribo / salida
+Fecha de arribo / salida; en el caso de importación se registra la fecha de arribo del medio de transporte al puerto, aeropuerto o lugar de descarga, en el territorio aduanero del EEPP donde se registra el DUAM. En el caso de exportación se registra la fecha de salida del medio de transporte del puerto, aeropuerto o lugar de carga con destino al exterior.
+1.20
+Vía de transporte
+Vía de transporte; códigos de las vías de transporte usadas para el traslado de mercancías.
+1.21
+Total de ítem
+Total de ítem; número total de ítem presentes en la declaración.
+1.22
+Código de embalaje
+Código de embalaje; Código del tipo de embalaje. El contenedor no se considera embalaje.
+1.23
+Total de bultos por embalaje
+Total de bultos por embalaje; número total de bultos declarados por embalaje.
+
+
+1.24
+Total peso bruto
+Total peso bruto; total del peso bruto de las mercancías expresado en kilogramos. El peso bruto incluye el peso de la mercancía tal como ha sido embalada para su transporte y el peso de los envases, cubiertas, fardos y embalajes de todo genero, sean exteriores o inmediatos sin distinción de ninguna clase.
+1.25
+Total peso neto
+Total peso neto; total del peso neto de las mercancías expresado en kilogramos. El peso neto solamente incluye el peso de la mercancía, excluidos los embalajes.
+1.26
+Total FOB en la moneda de transacción
+Total FOB en la moneda de transacción: valor total del FOB expresado en la moneda en la cual se efectuó la transacción/contrato.
+1.27
+Moneda de transacción FOB
+Moneda de transacción FOB: Moneda en la cual se efectuó la transacción/contrato
+1.28
+Total Flete en la moneda de transacción
+Total Flete en la moneda de transacción; importe total del flete internacional en la moneda de transacción.
+1.29
+Moneda de transacción Flete
+Moneda de transacción Flete: moneda en la cual se efectuó la transacción/contrato correspondiente al flete.
+1.30
+Total Seguro en la moneda de transacción
+Total Seguro en la moneda de transacción; importe total del seguro internacional en la moneda de transacción.
+1.31
+Moneda de transacción Seguro
+Moneda de transacción Seguro: moneda en la cual se efectuó la transacción/contrato correspondiente al seguro.
+1.32
+Total FOB en la moneda de referencia común
+Total FOB en la moneda de referencia común.
+1.33
+Total Flete en moneda de referencia común
+Total Flete en moneda de referencia común; importe total del flete internacional en la moneda de referencia común. Observación:La moneda de referencia, en un primer momento, será el dólar.
+1.34
+Total Seguro en la moneda de referencia común
+Total Seguro en la moneda de referencia común; importe total del seguro internacional en la moneda de referencia común. Observación:La moneda de referencia, en un primer momento, será el dólar.
+2
+IDENTIFICACIÓN DE LOS PARTICIPANTES
+
+2.1
+Tipo de participante
+Tipo de participante; identificación del tipo de participante en el DUAM. Observación: será una dato múltiple con el que se identificará a aquellos sujetos de interés para la actividad aduanera (importador, exportador, declarante, exportador indirecto, fabricante, entre otros). En algunos casos, el dato será informado en nivel de ítem (adição).
+2.2
+Tipo de identificador tributario / país emisor
+Tipo de identificador tributario/país emisor: Tipo de identificador tributario que identifica al sujeto
+2.3
+Código de identificador tributario
+Código de identificador tributario: es el número/código del identificador tributario que identifica al Sujeto. Observación: Resulta conveniente adoptar un elemento en el campo que permita identificar al país emisor de la clave tributaria.
+2.4
+Razón Social o Apellidos y Nombres
+Razón Social o Apellidos y Nombres: Descripción de la razón social o de los nombres y apellidos del sujeto, tal como está registrado según su identificador tributario. Observación: Es un dato a ser, siempre que posible, integrado por los sistemas según sus registros de operadores.
+2.5
+Dirección y ciudad
+Dirección y ciudad; dirección y ciudad del participante registrada ante la autoridad aduanera o tributaria.
+
+
+3
+IDENTIFICACIÓN DE PAÍSES Y LUGARES
+
+3.1
+País de Procedencia / País de destino final
+País de Procedencia / País de destino final País de procedencia; código del país desde el cual se despacharon los bienes al país importador, sin que en los países intermedios se hubiera producido ninguna transacción comercial u otra operación que pudiera modificar la condición jurídica de los bienes. En el caso de que los bienes, antes de llegar al país importador, hayan ingresado en un tercer país y hubiesen sido sometidos a transacciones u operaciones del tipo antes mencionado, ese tercer país deberá considerarse como país de procedencia. País de destino final; es el código del último país - hasta donde se conozca en el momento de la exportación o el tránsito internacional - en el que se entregarán los bienes. En el caso de realizarse una importación se registra el código del país de procedencia, en el caso de la exportación y tránsito, se registra el código del país de destino de las mercancías.
+
+
+3.2
+Lugar de destino - descarga
+
+3.2.1
+Código del lugar - descarga
+Lugar de destino - descarga; código del último puerto, aeropuerto, terminal terrestre, estación ferroviaria u otro lugar donde finaliza el transporte de la mercancía.
+3.2.2
+Nombre del lugar - descarga
+Lugar de destino - descarga; nombre del último puerto, aeropuerto, terminal terrestre, estación ferroviaria u otro lugar donde finaliza el transporte de la mercancía.
+3.3
+Lugar de destino - descarga específico
+Lugar de destino - descarga específico; texto complementario para especificar el lugar de descarga cuando sea requerido.
+4
+IDENTIFICACIÓN DEL TRANSPORTE
+
+4.1
+Tipo de transporte (interno, internacional)
+Tipo de transporte (interno, internacional); información relativa al transporte interno o internacional de la mercancía: En importación: desde la aduana de ingreso hasta la aduana de despacho, o desde el último lugar de embarque en el exterior hasta la aduana de ingreso en el país. En exportación: desde la aduana de despacho hacia la aduana de salida, o desde la aduana de salida hacia el lugar de destino en el exterior. En Tránsito: Desde la aduana de partida hasta la aduana de destino.
+4.1.1
+Tipo de Transporte
+
+4.1.2
+Tipo de Transporte Interno
+
+4.2
+Empresa de transporte
+Empresa de transporte; código de la empresa de transporte responsable del transporte internacional. En el caso Aéreo se registra el código de la Línea Aérea de acuerdo a la codificación IATA; en el caso marítimo, fluvial o lacustre se consigna el código asignado por la Administración de Aduanas al representante en el país de la Línea de Transporte Acuático; en el caso ferroviario y en el transporte carretero, se registra el código asignado a la empresa de transporte. Observación: deberá ser buscada la padronización de las tablas.
+4.2.1
+Empresa de transporte - nombre
+
+4.2.2
+Empresa de transporte - código
+
+4.3
+Nacionalidad
+Nacionalidad: código de país o bandera donde está registrado o matriculado el medio de transporte, empleando el código ISO alfabético de dos caracteres.
+
+
+4.4
+Identificación del medio de transporte
+Identificación del medio de transporte; es la referencia única al vehículo, nave u otro dispositivo usado para el transporte internacional de mercancías. En el caso aéreo se consigna el número de vuelo; en el transporte marítimo, fluvial y lacustre el nombre de nave; en el transporte carretero y ferroviario el número de matrícula. Cuando en el transporte carretero se utilicen un vehículo tractor y un remolque que tengan una matrícula diferente, indíquese el número de matricula del tractor y del remolque.
+5
+VALORES PARA EL CÁLCULO DE LOS TRIBUTOS / BENEFICIOS
+
+5.1
+Tributo
+
+5.1.1
+Tributo - código
+Código del tributo; se consigna el código de cada uno de los tributos aduaneros correspondientes a la mercancía que se declara. Dato de ítem y de carátula.
+5.1.2
+Tributo - descripción
+Descripción del tributo; se consigna la descripción de cada uno de los tributos aduaneros correspondientes a la mercancía que se declara.
+5.2
+Beneficio
+
+5.2.1
+Beneficio - Código
+Código del beneficio; se consigna el código de cada uno de los beneficios aduaneros correspondientes a la mercancía que se declara.
+5.2.2
+Beneficio - Descripción
+Descripción del beneficio; se consigna la descripción de cada uno de los beneficios aduaneros correspondientes a la mercancía que se declara.
+5.3
+Modo de extinción
+Modo de extinción; referido a la forma de extinguir los tributos / beneficios.
+5.4
+Base imponible
+Base imponible; base imponible sobre la cual se liquida cada uno de los tributos / beneficios aduaneros correspondientes a la mercancía que se declara. En la Importación Valor Declarado (Valor en Aduana) y en la Exportación Valor Imponible. Se expresará en la moneda que el Estado Parte establezca. Dato de ítem.
+
+
+5.5
+Tipo de alícuota o forma de expresión del tributo
+Tipo de alícuota o forma de expresión del tributo: Referido al tipo de la alícuota, si es específica, ad valorem u otra. Dato de ítem.
+5.6
+Alícuota o expresión del tributo
+Alícuota o expresión del tributo: La alícuota o expresión correspondiente a la clasificación arancelaria o cualquier otro concepto que grave la importación / exportación. Dato de ítem.
+5.7
+Alícuota o expresión del beneficio
+Alícuota o expresión del beneficio: La alícuota o expresión correspondiente a la clasificación arancelaria o cualquier otro concepto. Dato de ítem.
+5.8
+Monto del tributo
+Monto del tributo: es el importe a extinguir resultante de aplicar la alícuota o expresión a la Base Imponible. Se expresará en la moneda que el Estado Parte establezca. Dato de ítem y de carátula.
+5.9
+Monto del beneficio
+Monto del beneficio: es el importe a percibir resultante de aplicar la alícuota o expresión a la Base Imponible. Se expresará en la moneda que el Estado Parte establezca. Dato de ítem y de carátula
+
+
+6
+VALORES PARA CONVERSION DE MONEDAS
+
+6.1
+Moneda de transacción
+Moneda de transacción; código ISO de la moneda en la que ha sido realizada la transacción.
+6.2
+Moneda de referencia común
+Moneda de referencia común; código ISO de la moneda a la cual se quiere hacer la conversión.
+6.3
+Fecha de la cotización del tipo de cambio
+Fecha de la cotización del tipo de cambio; fecha en que se realiza la conversión de la moneda.
+6.4
+Cotización del cambio
+Cotización del cambio; es la cotización directa de la unidad de moneda tomada como referencia comunitaria en términos de moneda de transacción.
+7
+EQUIPAMIENTO - CONTENEDORES
+
+7.1
+Identificación del Equipamiento
+Identificación del equipamiento; identificación o número consignado al equipamiento o contenedor.
+7.2
+Tipo y Tamaño
+Tipo y tamaño; identificación del tipo y tamaño del equipamiento.
+7.2.1
+Tipo
+
+7.2.2
+Tamaño
+
+7.3
+Marcas y números
+Marcas y números; aplicable para mercancías que vienen en carga suelta. Corresponderá consignar las marcas y números de identificación establecidas en los bultos en los cuales se acondiciona la mercancía que se declara.
+7.4
+Números de Precinto
+Número de Precinto; referido a la identificación del precinto (o precintos) que ha sido colocado en el contenedor.
+7.5
+Indicador de Contenido
+Indicador de contenido.
+8
+IDENTIFICACIÓN DE LA MERCANCÍA
+
+8.1
+Número de ítem (serie)
+Item: Es la agrupación de mercaderías que, teniendo el mismo sub régimen, la misma clasificación arancelaria, misma condición de venta, el mismo tratamiento tributario y normativo, procedencia, estado y se comercializan en la misma unidad de venta. Número de ítem (serie); corresponde a la secuencia numérica que diferencia cada ítem en el DUAM.
+8.2
+Número de subitem
+Sub Item: Es la desagregación de mercaderías que, cumpliendo las condiciones de un ITEM, posean al menos una de las siguientes características distintas: Marca, Modelo, Versión, Valores Unitarios u otras herramientas utilizadas por las administraciones aduaneras de los Estados Parte para distinguir mercaderías en ocasión de su declaración. Número de sub ítem; corresponde a la secuencia numérica que diferencia cada sub ítem de un mismo ítem.
+8.3
+Condición de Entrega (INCOTERM)
+Condición de Entrega (INCOTERM); Alcance de las cláusulas de una operación, que especifican las obligaciones respectivas de los intervinientes, según los términos internacionales de comercio especificados en la tabla UN/CEFACT-0003. Observación: deberá preverse el dato tanto a nivel de carátula como a nivel de ítem. Un mismo ítem no podrá tener más de un INCOTERM.
+8.4
+Clasificación Arancelaria
+Clasificación Arancelaria; la clasificación correspondiente a la mercadería en la Nomenclatura Común del Mercosur, vigente a la fecha del registro de la declaración.
+
+
+8.5
+Codificación complementaria (aperturas nacionales)
+Codificación complementaria (aperturas nacionales); Desdoblamientos nacionales del universo contenido en una posición NCM a los fines propios de cada Estado Parte.
+8.6
+Código adicional 1
+Código adicional 1; Campo previsto para su eventual uso en la identificación de tratamientos específicos aprobados por una normativa comunitaria.
+8.7
+Código adicional 2
+Código adicional 2; Campo previsto para su eventual uso en la identificación de tratamientos específicos definidos y generados por cada Estado Parte.
+8.8
+Código de acuerdo
+Código de acuerdo; Código de la Lista de Acuerdo solicitado (MERCOSUR, ALADI, GATT, SGPC).
+8.9
+Tipo y Nomenclatura de Negociación
+Tipo y Nomenclatura de Negociación; Referido al tipo e identificación de la nomenclatura de negociación (por ejemplo: NALADISA, NALADI, GATT etc.).
+8.9.1
+Tipo de Nomenclatura
+Tipo de Nomenclatura; Referido al tipo de la nomenclatura de negociación (por ejemplo: NALADISA, NALADI, GATT etc.).
+8.9.2
+Nomenclatura de Negociación
+Nomenclatura de Negociación; Referido a la identificación de la nomenclatura de negociación.
+8.10
+Estado de la mercancía
+Estado de la mercancía; identificador que registra el estado de la mercancía. Por ejemplo: nueva o usada.
+8.11
+Destino de la mercancía
+Destino de la mercancía; identificación del destino específico que se le dará a la mercadería. Por ejemplo: consumo, reventa etc.
+8.12
+Tipo de unidad estadística
+Tipo de unidad estadística; referido al tipo de unidad estadística asignada a la mercancía según la última recomendación del Consejo de Cooperación Aduanera (OMA) relativa al uso de unidades normalizadas de cantidad a nivel de subpartida armonizada seis (6) dígitos, para reportar estadísticas internacionales basadas en el SADCM (Sistema Armonizado de Designación y Codificación de Mercancías). Es un dato a nivel de ítem.
+8.13
+Cantidad en la unidad estadística
+Cantidad en la unidad estadística.
+8.14
+Tipo de unidad comercial
+Tipo de unidad comercial; referido al tipo de unidad comercial de la mercancía.
+8.15
+Cantidad en la unidad comercial
+Cantidad en la unidad comercial; referido a la magnitud de unidades comerciales.
+8.16
+Tipo de unidad específica
+Tipo de unidad específica; referido al tipo de unidad específica de la mercancía. Usada en general para Derechos Específicos u otros aspectos que requieran la declaración de una unidad adicional que no sea la comercial o la estadística.
+8.17
+Cantidad en la unidad específica
+Cantidad en la unidad específica; referido a la magnitud de unidades específicas.
+8.18
+País de origen
+País de origen; Código del país del cual resulta originaria la mercadería.
+8.19
+Descripción de las mercancías
+Descripción de las mercancías; Descripción de la naturaleza de las mercancías. Se pretende que este campo resulte de efectuar el ajuste a texto de nomenclatura con arreglo a la posición arancelaria consignada, así como de otros datos previamente codificados por el servicio aduanero, distintos a su posición arancelaria. Este ajuste a texto se efectuará separando el párrafo de ajuste del texto correspondiente a la NCM, de los nacionales. Se aguarda la confirmación de la Delegación de Venezuela acerca de ese entendimiento.
+8.19.1
+Descripción de las mercancías - NCM
+Descripción de acuerdo al NCM
+
+
+8.19.2
+Descripción de las mercancías
+Texto libre
+8.20
+Indicador del Certificado de Cumplimiento de la Política Arancelaria Común (CCPAC)
+Indicador del Certificado de Cumplimiento de la Política Arancelaria Común (CCPAC); indicador para registrar el cumplimiento o no de la política arancelaria común.
+8.21
+Nº do CCPAC
+Nº de CCPAC; identificador asignado al CCPAC.
+8.22
+Indicador del Certificado de Cumplimiento del Régimen de Origen MERCOSUR (CCROM)
+Indicador del Certificado de Cumplimiento del Régimen de Origen MERCOSUR (CCROM); indicador para registrar el cumplimiento o no del régimen de origen MERCOSUR.
+8.23
+Nº do CCROM
+Nº de CCROM; identificador asignado al CCROM.
+8.24
+Peso bruto
+Peso bruto; peso bruto de la mercancía declarada expresado en kilogramos.
+8.25
+Peso neto
+Peso neto; es el peso de la mercancía expresado en kilogramos, debiendo corresponder al peso de la mercancía sin incluir el peso de los envases, cubiertas, fardos, embalajes de todo género, sean exteriores o inmediatos, sin distinción de ninguna clase.
+8.26
+Tipo de embalaje
+Tipo de embalaje es el código, según tablas, del tipo de embalaje utilizado para el transporte de la mercancía que se declara en el ítem.
+8.27
+Cantidad de bultos
+Cantidad de bultos; referido a la cantidad de bultos en los que se encuentra contenida la mercancía declarada.
+9
+IDENTIFICACIÓN DE LAS DESCRIPCIONES MÍNIMAS
+
+9.1
+Código del dato
+Código del dato; nombre del concepto o del dato que se requiere una especificación. El nombre del dato son especificaciones adicionales de la mercancía que son requeridas como esenciales o mínimas para la Administración Aduanera. Una determinada mercancía puede tener una o muchas descripciones mínimas.
+9.2
+Valor (texto) de la descripción
+Valor del dato; referido al valor que puede adoptar el dato especificado en el numeral anterior.
+10
+IDENTIFICACIÓN DEL DOCUMENTO DE SOPORTE
+
+10.1
+Documentos a presentar
+Documentos a presentar: código que identifica al tipo de documento de soporte que se adjunta a la declaración aduanera. Algunos ejemplos de documentos de soporte son: documento de embarque, garantía, factura, certificado de origen, certificado sanitario, resolución ministerial, entre otros.
+10.2
+Identificador de documento
+Número de documento: es el número que identifica al documento de soporte. Cabe indicar que en el caso que la Administración de Aduanas disponga electrónicamente de la información de algún documento de soporte, se pueden incluir validaciones específicas respecto a la información contenida en el documento de soporte con la declara en el DUAM. Dato que está intrínsecamente relacionado al punto anterior, si fue definido el valor para el campo anterior, éste debe ser necesariamente el respaldo al mismo.
+10.3
+Emisor del documento
+Emisor del documento; código de la entidad que emitió o elaboró el documento soporte.
+
+
+10.4
+Fecha de expedición
+Fecha de expedición; fecha de expedición o emisión del documento de soporte, en el formato ddmmyyyy.
+10.5
+Fecha de vencimiento
+Fecha de vencimiento; fecha de vencimiento del documento de soporte, aplicable para los casos en los que el documento lo señale. Se registra en el formato ddmmyyyy.
+
+DECLARACION DEL VALOR
+
+11
+DATOS GENERALES DE LA DECLARACION DEL VALOR
+Esta parte contendrá la información general referida a una operación comercial amparada en una o varias facturas comerciales o documento similar.
+11.3
+Ciudad de Entrega
+Ciudad de Entrega: Lugar o punto geográfico de entrega de las mercaderías. Se debe indicar el nombre de la ciudad, pueblo, municipio o localidad donde estén ubicados la fábrica, el puerto, aeropuerto o zona franca, donde el proveedor entrega la mercadería según la condición de entrega establecida.
+11.4
+Forma de pago
+Forma de Pago: Forma de pago de la mercadería objeto de la transacción comercial entre el importador/adquirente y el proveedor.
+11.5
+Naturaleza de la transacción
+Naturaleza de la Transacción: código de la naturaleza de transacción que corresponda (compra - venta, donación, envío de suministros gratuitos, leasing, alquiler, entre otros).
+11.6
+Tipo de Negociación
+Tipo de Negociación: Se debe indicar si la negociación fue realizada de manera directa, por cuenta y orden conforme a la legislación, por comisión o con participación de algún intermediario (agente, comisionista u otro.) (generar tabla con las diferentes variables).
+11.7
+Consulta Clasificatoria
+Consignar si existe o no consulta clasificatoria.
+11.9
+Restricciones
+Restricciones 1) Existencia de restricción para la cesión o utilización de las mercaderías por el comprador (distintas de las que impongan o exijan la ley o las autoridades de los Estados Partes del MERCOSUR, que limiten la zona geográfica donde puedan revenderse las mercaderías o no afecten sensiblemente al valor de las mercaderías). Se debe marcar con "Si", si la respuesta es afirmativa o con "No" si la respuesta es negativa. 2) Tipo de restricción; especificar la naturaleza de la restricción si se ha contestado afirmativamente.
+11.10
+Condiciones o Contraprestaciones
+Condiciones o Contraprestaciones. 1) Existencia de condición o contraprestación; se debe marcar con "Si", si la respuesta es afirmativa o con "No" si la respuesta es negativa, según dependan la venta o el precio de condiciones o contraprestaciones, impuestas por el vendedor al comprador, cuyo valor no pueda determinarse con relación a las mercaderías a valorar. 2) Tipo de condición o contraprestación; especificar la naturaleza de las condiciones o contraprestaciones si se ha contestado afirmativamente.
+11.11
+Reversiones al Vendedor
+Reversiones al Vendedor; Se debe marcar con "Si" si la venta está condicionada por un acuerdo en los términos del cual una parte del producto de cualquier reventa, cesión o utilización posterior de las mercaderías que se están valorando, revierta directa o indirectamente el comprador al vendedor. Se debe marcar con "No" si tal reversión no existe. Nota: Si se puede determinar el valor de las reversiones indicar su importe en el campo producto de la reventa.
+11.12
+Vinculación entre el Comprador y Vendedor
+Vinculación entre el Comprador y Vendedor; Se debe marcar con "Si" si el comprador y el vendedor están vinculados en los términos del artículo 15, párrafo 4º del Acuerdo de Valoración de la OMC. En caso de no existir vinculación, se debe marcar con "No".
+
+
+11.13
+Influencia de la vinculación en el precio
+Influencia de la vinculación en el precio; Si en el numeral anterior se respondió afirmativamente, se debe marcar con "Si" si la vinculación influyó en el precio negociado entre el comprador y el vendedor y con "No" si la vinculación no influyó en el precio de las mercaderías.
+11.14
+Valores criterios
+Valores Criterios; En caso de estar vinculados, se debe marcar con "Si" si el valor de transacción de las mercaderías importadas se aproxima mucho a alguno de los valores criterios mencionados en el artículo 1º, párrafo 2, (b) del Acuerdo, y con "No" si dichos valores criterios no existieran. En caso de marcar "1" se deberán dar explicaciones detalladas.
+11.15
+Existencia de pagos indirectos
+Existencia de pagos indirectos; Se marca con "Si" si existieron pagos del comprador al vendedor o a un tercero en beneficio del vendedor, y con "No" si no los hubieron. Nota: En caso de marcar "Si" se deberán consignar los importes de los pagos indirectos en el campo total de pagos indirectos, descuentos retroactivos.
+11.16
+Existencia de cánones y derechos de licencia (regalías)
+Existencia de cánones y derechos de licencia (regalías); Se debe marcar con "Si", si existen cánones y derechos de licencia relativos a las mercaderías importadas que el comprador esté obligado a pagar, directa o indirectamente como condición de venta. Se marca con "No" si tales pagos no existen. En caso afirmativo la Administración Aduanera exigirá que se acompañe el contrato de licenciamiento que demuestre el porcentaje o importe a pagar por estos conceptos y la forma de cálculo. Nota: En caso de marcar "Si" se deberán consignar los importes correspondientes a cánones y derechos de licencia en el campo cánones y derechos de licencia (regalías).
+12
+DECLARACION DEL VALOR EN ADUANA
+En esta sección se declara el valor en aduana para el total de las mercaderías pertenecientes a una misma clasificación arancelaria contenidas en una o varias facturas comerciales. En la declaración del valor se debe partir de la sumatoria de los precios totales, según lo expresado en las facturas comerciales consideradas, para cada una de las clasificaciones arancelarias. La declaración del valor en aduana se hará en la moneda que el Estado Parte establezca (moneda nacional). De existir conversiones de la moneda extranjera a la moneda que el Estado parte establezca, las mismas son indicadas en el formato de conversiones de moneda.
+
+A - BASE DE CALCULO
+
+12.1
+Total de base de cálculo
+Total de base de cálculo: es la sumatoria de los conceptos especificados en los numerales Precio neto en la moneda de facturación y Total de pagos indirectos, descuentos retroactivos.
+12.2
+Precio neto en la moneda de facturación
+Precio neto en la moneda de facturación: se indica el resultado de la sumatoria de los importes totales para cada clasificación arancelaria que aparecen en las facturas comerciales expedidas por el vendedor, en la moneda y en la condición de entrega en que se ha efectuado la negociación entre el comprador y el vendedor.
+
+
+12.3
+Total de pagos indirectos, descuentos retroactivos
+Total de Pagos indirectos, descuentos retroactivos; se consigna el pago realizado por el comprador al vendedor o a un tercero en beneficio del vendedor, como condición impuesta para venderle las mercaderías que se están valorando, los cuales no aparecen en las facturas comerciales emitidas por las mercaderías. Asimismo, los descuentos retroactivos constituyen una forma de pago indirecto que debe ser también consignado en esta casilla, por tratarse de rebajas efectuadas por el vendedor al precio de la mercadería que se está valorando, para subsanar errores de envíos anteriores. Cuando la factura comercial no refleje los importes por pagos anticipados, dicho importe deberá consignarse en este concepto.
+
+B - ADICIONES
+Importes no incluidos en A y a cargo del comprador
+12.4
+Valor Total de adiciones
+Valor Total de adiciones; es la sumatoria de los conceptos especificados en los campos: Comisiones, corretajes, excepto las comisiones de compra; Envases y embalajes; Prestaciones; Cánones y derechos de licencia (regalías); Producto de la reventa; Gastos de manejo y entrega en el exterior hasta el lugar de embarque; Gastos de transporte desde el lugar de embarque hasta el lugar de importación; Gastos de carga, descarga y manipulación hasta el lugar de importación; y Costo del seguro.
+12.5
+Comisiones, corretajes, excepto las comisiones de compra
+Comisiones, corretajes, excepto las comisiones de compra; se consigna el importe de las comisiones de venta o de los gastos de corretaje, pagados por el comprador al agente o representante del vendedor extranjero, o al corredor, por haber intervenido en la compraventa de las mercaderías que se están valorando.
+12.6
+Envases y embalajes
+Envases y embalajes; se consigna el costo de los envases y embalajes que, a efectos aduaneros, se consideren como formando un todo con las mercaderías importadas. Se incluirán también los gastos incurridos para el embalaje, tanto por mano de obra como materiales.
+12.7
+Prestaciones
+Prestaciones; se consigna el valor debidamente repartido de los bienes y servicios suministrados por el comprador gratuitamente o a precio reducido, y utilizados en la producción y venta para la exportación de las mercaderías importadas. 1) Materiales, componentes, partes y elementos similares incorporados a las mercaderías importadas. 2) Herramientas, matrices, moldes y objetos similares utilizados para la producción de las mercaderías importadas. 3) Materiales consumidos en la producción de las mercaderías importadas. 4) Trabajos de ingeniería, de estudio, artísticos y de diseño, planos y croquis realizados fuera del MERCOSUR y necesarios para la producción de las mercaderías importadas.
+12.8
+Cánones y derechos de licencia (regalías)
+Cánones y derechos de licencia (regalías); se consigna el importe de los cánones o derechos de licencia.
+12.9
+Producto de la reventa
+Producto de la reventa; se consigna el importe del producto de cualquier reventa, cesión o utilización posterior que revierta directa o indirectamente al vendedor.
+12.10
+Gastos de manejo y entrega en el exterior hasta el lugar de embarque
+Gastos de manejo y entrega en el exterior hasta el lugar de embarque; se consignan los gastos de transporte, por concepto de acarreo, carga, estiba y manipulación, entre otros, a cargo del comprador, ocurridos en el exterior desde el lugar de entrega declarado hasta el lugar de importación, según las condiciones de entrega negociadas y declaradas.
+
+
+12.11
+Gastos de transporte desde el lugar de embarque hasta el lugar de importación
+Gastos de transporte desde el lugar de embarque hasta el lugar de importación; se consigna los gastos ocurridos por concepto de fletes, gastos conexos con el transporte y, en general, todos aquellos causados por el traslado de la mercadería desde el lugar de embarque hasta el lugar de importación, que corran por cuenta del comprador.
+12.12
+Gastos de carga, descarga y manipulación hasta el lugar de importación
+Gastos de carga, descarga y manipulación hasta el lugar de importación; se consignan los gastos de carga, descarga y manipulación ocasionados por el traslado de las mercaderías antes de su arribo al lugar de importación.
+12.13
+Costo del seguro
+Costo del seguro; se registra el importe pagado por el seguro relativo al transporte de la mercadería, en que haya incurrido el comprador, desde el lugar de entrega hasta el puerto o lugar de importación.
+
+C-DEDUCCIONES
+Importes incluidos en A. Únicamente podrán deducirse los elementos que estén contenidos en el precio realmente pagado o por pagar del comprador al vendedor, siempre que se distingan del mismo.
+12.14
+Total de deducciones
+Total de deducciones; es la sumatoria de los conceptos especificados en los campos: Gastos de construcción, armado, montaje, mantenimiento o asistencia técnica; Costo del transporte ulterior a la importación; Intereses de financiación; Derechos y otros impuestos aplicables en el MERCOSUR; y Otros gastos.
+12.15
+Gastos de construcción, armado, montaje, mantenimiento o asistencia técnica
+Gastos de construcción, armado, montaje, mantenimiento o asistencia técnica; se consignan los gastos por estos conceptos, si fueron realizados después de la importación y están relacionados con las mercaderías importadas, siempre que se distingan del precio realmente pagado o por pagar.
+12.16
+Costo del transporte ulterior al lugar de importación
+Costo del transporte ulterior a la importación; se consignan los gastos pagados por el comprador al vendedor por el transporte de las mercaderías que se están valorando, incluidos los acarreos, almacenamiento temporal de las mercaderías por razones inherentes al transporte y demás gastos relacionados con el transporte, ocurridos después de la importación.
+12.17
+Intereses de financiación
+Intereses de financiación; se deberán consignar los montos de los intereses devengados en virtud de un acuerdo de financiación concertado por el comprador y el vendedor y relativo a la compra de las mercaderías importadas, de acuerdo con lo establecido en el artículo 8 MERCOSUR/CMC/Decisión Nº 13/07.
+12.18
+Derechos y otros impuestos aplicables en el MERCOSUR
+Derechos y otros impuestos aplicables en el MERCOSUR; se indican los derechos y otros impuestos aplicados en el MERCOSUR como consecuencia de la importación o de la venta de las mercaderías, que hayan sido incluidos por el vendedor en el precio realmente pagado o por pagar, de acuerdo con las condiciones de entrega negociadas y declaradas, siempre que se distingan del mismo.
+12.19
+Otros gastos
+Otros gastos; se registra el importe de otros gastos, distintos a los anteriores, que no se consideran parte del valor en aduana y los haya incluido el vendedor en el precio realmente pagado o por pagar, siempre que se distingan del mismo.
+
+
+12.20
+Valor declarado
+Valor de transacción declarado; Es el valor en aduana declarado por el importador, obtenido a través de la aplicación la siguiente fórmula: Valor declarado = base de cálculo (A) + adiciones (B) - deducciones (C). El valor en aduana consignado para cada clasificación arancelaria, deberá ser trasladado a la casilla correspondiente de la declaración en aduana de las mercaderías, a efectos de la determinación de la base imponible y de la liquidación de los Derechos e Impuestos a la importación que sean pertinentes.
+12.21
+Ajustes a incluir
+Cantidad de ajustes que deban incluirse en el valor FOB del tema, de acuerdo con la legislación vigente (por ej., Ajuste de vinculación y valor de uso criterio).
+12.22
+Ajustes a deducir
+Cantidad de ajustes que se deducirá del valor FOB del tema, de acuerdo a la ley.
+12.23
+Precio Unitario de la Mercadería
+Valor unitario de las mercaderías por ítem o sub ítem, expresado en moneda, de acuerdo con la nómina de pago de una factura comercial.
+12.24
+Valor total de las mercaderías en divisa (moneda) (FOB)
+Suma de la cantidad de mercaderías a cada ítem o sub ítem, expresado en la divisa (moneda) de la factura comercial.
+12.25
+Valor total de las mercaderías en dólares (FOB)
+Suma de la cantidad de mercaderías a cada ítem o sub ítem, expresado en dólares.
+12.26
+Método de Valoración Utilizado
+Método declarado por el importador para la valoración en aduana de las mercancías importadas, de acuerdo con el Acuerdo sobre Valoración (AVA-GATT).
+12.27
+País de facturación / Destino de la factura
+En importación se consignará el país de emisión de la factura y en exportación al país al cual se encuentra consignada la factura.
+12.28
+Insumos importados temporariamente en moneda de referencia común
+Valor total en aduana (CIF) expresado en la moneda de referencia común, de aquellos insumos contenidos en el ítem que hubieran sido importados temporariamente.
+12.29
+Insumos importados a consumo en moneda de referencia común
+Valor total en aduana (CIF) expresado en la moneda de referencia común, de aquellos insumos contenidos en el ítem que hubieran sido importados a consumo en forma directa por el exportador.
+12.30
+Coeficiente
+En el caso de estar incluidos en el precio de venta los derechos y demás tributos correspondientes a la exportación se declarará el coeficiente de deducción que resultará del cociente entre la unidad como numerador y la unidad más la alícuota porcentual como denominador.
+12.31
+Precio oficial
+Valor unitario en moneda de referencia común del precio oficial o derecho específico que corresponda a la posición arancelaria declarada en el ítem.
+12.32
+Comisiones / Gastos de corretaje
+Se deberá consignar el importe de las comisiones y gastos de corretaje abonados por el exportador a su agente, o a un intermediario, por los servicios que le presta al representarlo en el extranjero en la venta de las mercancías objeto de valoración.
+12.33
+Declaración Jurada de Venta al Exterior
+Se deberá consignar el número de la Declaración Jurada de Venta al Exterior.
+12.34
+Fecha de Cierre de Venta
+Fecha en la que el exportador manifiesta haber concretado la venta con destino al exterior de las mercancías a exportar.
+
+
+ANEXO II
+
+
+DATOS A SER INCORPORADOS EN EL DUAM
+
+
+16
+
+
+1

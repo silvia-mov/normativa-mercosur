@@ -1,0 +1,1695 @@
+Resolución GMC N° 22/96
+Título: SISTEMA DE EVALUACIÓN DE PROCEDIMIENTOS PARA LA INSPECCIÓN DE INDUSTRIAS FARMOQUÍMICAS
+Fecha de aprobación: 21/06/1996
+Vigencia: Derogada (Será derogada por la Resolución GMC Nº 07/15, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: PT
+Archivo original: 26137_RES_022-1996_ES_InspIndFarmace.doc
+Conversión a texto: lectura directa del .doc
+Nota: el sitio lo publica como ES pero el texto está en PT
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1929).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 22/96
+
+
+SISTEMA DE EVALUACION DE PROCEDIMIENTOS PARA LA INSPECCION DE INDUSTRIAS FARMOQUIMICAS
+
+
+            VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 91/93 y 92/93 del Grupo Mercado Común y la Recomendación Nº 22/94 del SGT Nº 3 “Reglamentos Técnicos”.
+
+
+CONSIDERANDO:
+
+
+            Que la normativa armonizada relativa a farmoquímicos debe garantizar niveles adecuados de calidad que aseguren la preservación de la salud pública en los Estados Partes y la transparencia de los intercambios comerciales.
+
+
+            Que la Res Nº 92/93 GMC aprobó la Guía de inspección para industrias farmoquímicas.
+
+
+EL GRUPO MERCADO COMUN
+
+RESUELVE :
+
+
+Art 1 - Aprobar el “Sistema de calificación de la guía para inspección de industrias farmoquímicas” que consta como Anexo y forma parte de la presente Resolución.
+
+
+Art 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+
+            Argentina:
+
+Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT)
+
+
+            Brasil:
+
+Secretaria de Vigilância Sanitária do Ministério da Saúde
+
+
+            Paraguay:
+
+Dirección de Vigilancia Sanitaria del Ministerio de Salud Pública y Bienestar Social
+
+
+            Uruguay:
+
+Ministerio de Salud Pública
+
+
+Art 3 - La presente Resolución entrará en vigor el 1º de agosto de 1996.
+
+
+XXII GMC - Buenos Aires, 21/VI/1996
+
+
+ROTEIRO PARA INSPEÇÃO
+
+
+DE
+
+
+INDÚSTRIA FARMOQUÍMICA
+
+
+SISTEMA DE AVALIAÇÃO
+
+DO ROTEIRO PARA INSPEÇÃO
+
+INDÚSTRIA FARMOQUÍMICA
+
+
+1. INTRODUÇÃO
+
+
+O sistema de avaliação  dos resultados obtidos após inspeção de uma indústria farmoquímica, deve ser baseado na verificação do cumprimento ou não das Boas Práticas de Fabricação e de Controle.
+
+
+A inspeção/auditoria deve ser realizada por profissionais devidamente qualificados e experientes nas atividades e processos de uma indústria farmoquímica.
+
+
+Em todos os casos, os inspetores devem ser acompanhados por profissionais designados pela empresa.
+
+
+2. CLASSIFICAÇÃO DOS ITENS
+
+
+Os itens do Roteiro de Inspeção devem ser classificados como: ESSENCIAL, NECESSÁRIO, RECOMENDÁVEL e INFORMATIVO.
+
+
+As definições e os símbolos correspondentes às mesmas são:
+
+
+ESSENCIAL   -   E
+
+Considera-se como item ESSENCIAL aquele que fazendo parte das recomendações das Boas Práticas de Fabricação e de Controle, pode influir em grau crítico na qualidade e/ou segurança dos produtos ou trabalhadores, e também, aquele que atende às exigências jurídico-administrativas.
+
+
+NECESSÁRIO  -  N
+
+Considera-se como NECESSÁRIO, aquele item do Roteiro cujo não cumprimento pode afetar em grau significativo a qualidade do produto e/ou segurança dos trabalhadores.
+
+
+RECOMENDÁVEL  -  R
+
+Considera-se como item RECOMENDÁVEL, aquele cujo não cumprimento pode afetar em grau não significativo a qualidade do produto e/ou segurança dos trabalhadores.
+
+
+INFORMATIVO  -  I
+
+Considera-se como item INFORMATIVO aquele que expressa uma informação descritiva e/ou complementar.
+
+
+3.  CRITÉRIOS DE AVALIAÇÃO
+
+
+Os critérios para a avaliação das definições acima enunciadas são:
+
+
+ITEM                                                               AVALIAÇÃO
+
+
+ESSENCIAL                             Para obter a sua aprovação, deve ser cumprido de modo absoluto e inquestionável.  Avalia-se por SIM ou NÃO.
+
+
+NECESSÁRIO              Deverá ser explicitado seu grau de cumprimento.
+
+
+RECOMENDÁVEL                    Deverá ser explicitado seu grau de cumprimento.
+
+
+INFORMATIVO                         Serão avaliados por SIM ou NÃO, conforme o caso, e os conceitos serão registrados de forma descritiva.
+
+
+4.  SANÇÕES PREVISTAS
+
+
+As sanções previstas para o caso de não cumprimento dos itens classificados são:
+
+
+ITEM                                                               SANÇÃO
+
+
+ESSENCIAL                             As empresas novas não recebem autorização de funcionamento.
+
+                                               No caso de empresas já autorizadas, há suspensão das atividades do setor ou da empresa, conforme o caso.
+
+
+NECESSÁRIO                          As empresas novas não recebem autorização de funcionamento. No caso de empresas já autorizadas, há suspensão total ou parcial das atividades, conforme o caso, estabelecendo-se prazo para o cumprimento das exigências.
+
+
+RECOMENDÁVEL                    Não implica na suspensão das atividades, sendo estabelecidos prazos para cumprir as exigências de cada caso particular . A critério da Autoridade Sanitária, poderão ser aplicadas outras medidas.
+
+
+A EMPRESA DEVERÁ APRESENTAR OS DOCUMENTOS
+
+COMPROBATÓRIOS QUE SEJAM SOLICITADOS
+
+
+1.  INFORMAÇÕES GERAIS
+
+
+1.1.                  E                     Razão Social da Empresa.
+
+
+1.2.                  E                     Domicílio legal.
+
+
+1.3.                  E                     Domicílio Comercial.
+
+
+1.4.                  E                      Nome do Procurador legal ou equivalente.
+
+
+1.5.                  E                     Nome do Responsável Técnico.
+
+
+1.5.1                E                     Prova de sua inscrição no Órgão competente.
+
+
+1.6.                  E                     Autorização de Funcionamento.
+
+                                               Municipal
+
+                                               Estadual
+
+                                               Federal
+
+                                               Outras
+
+
+1.7.                  I                       Motivo da Inspeção.
+
+
+1.8.                  I                       Nome(s) do(s) Contato(s)                                  Cargo.
+
+
+1.9.                                          Produtos Farmoquímicos fabricados pela Empresa:
+
+
+                                               NOME GENÉRICO      CAS(*)                            USO
+
+                                                                                     Humano          Veterinário
+
+
+(*) Se não houver número CAS, fazer referência à Farmacopéia ou outra bibliografia adequada.
+
+
+1.10.                I                       A Empresa mantém contrato com terceiros?
+
+1.10.1.  I                       Para que atividade(s)?
+
+1.10.2. I                       Com quais empresas são mantidos contratos?
+
+
+2. PESSOAL
+
+
+2.1.                                          Qual é o número de funcionários pertencentes à Empresa?
+
+2.1.1.               I                       Administrativos.
+
+2.1.2.               I                       Profissionais.
+
+2.1.3.               I                       Técnicos.
+
+2.1.4.               I                       Operários.
+
+2.1.5.               I                       Outros.
+
+
+2.2.                  R                     Existe um Organograma da Empresa?
+
+
+2.3.                  R                     Existem descrições de cargos e funções?
+
+
+2.4.                                          R                     As responsabilidades para cada atividade estão                         claramente definidas?
+
+
+2.5.                  I                       O Responsável Técnico está presente?
+
+
+2.6.                  I                       Responsável pela Produção:
+
+                                               Nome.
+
+                                               Profissão                                                CR
+
+                                               Cargo
+
+
+2.7.                  I                       Responsável pelo Controle da Qualidade:
+
+                                               Nome.
+
+                                               Profissão                                                CR
+
+                                               Cargo
+
+
+2.8.                              R                     Existe programa de treinamento inicial e contínuo                                              para os funcionarios?
+
+
+2.9.                              R                     Existem registros e avaliações dos resultados do                                               treinamento?
+
+
+2.10.                            N                     A admissão dos funcionários é precedida de exames                             médicos?
+
+2.10.1.  R                     Existem registros?
+
+
+2.11.             R                        Existe plano  de  assistência  médica  permanente  e  de  emergência  para  os funcionários?
+
+
+2.12.                N                     Existe  exame  médico  periódico  para  funcionários                                                     que trabalham em áreas que propiciam o                                                                 aparecimento de doenças profissionais?
+
+
+2.13.                R                     Se o funcionário  apresentar  lesões  ou                                                                        enfermidades  que  possam  vir  a  afetar a                                                                    qualidade ou segurança dos produtos, é o mesmo                                                    afastado da atividade?
+
+
+2.13.1.           R                         Existe  norma  interna  que  defina  quem  decide  o  afastamento  temporário  do funcionário?
+
+
+2.14.                I                       Existe Ambulatório?
+
+
+                                               3.  INSTALAÇÕES E EDIFICAÇÕES
+
+
+3.1.                  I                       A unidade de fabricação tem finalidade                                                                          multipropósito?
+
+
+3.2.                  N                     O tipo de construção é adequado para a produção                                                         de farmoquímicos?
+
+
+3.3.                  I                       São fabricados produtos estéreis ou outros que                                                 necessitem de áreas isoladas  separadas?
+
+
+3.3.1.               E                     Estas áreas estão disponíveis?
+
+
+3.3.2.               N                     Estão disponíveis para o fim a que se destinam?
+
+
+3.3.3.               E                     Possuem sistema de fluxo de ar independente?
+
+
+3.4.                  I                       Qual é a área total do terreno?
+
+
+3.5.                  I                       Qual é a área total construída?
+
+
+3.6.                  R                     Os arredores da fábrica e as áreas descobertas                                                 estão limpos?
+
+
+3.7.                  R                     As vias de acesso são adequadas?
+
+
+3.8.                  R                     Existem sanitários em quantidade suficiente?
+
+
+3.8.1.               R                     Estão limpos e bem equipados?
+
+
+3.9.                  R                     Existem vestiários em quantidade suficiente?
+
+
+3.9.1.               R                     Estão limpos e bem equipados?
+
+
+3.10.                I                       Existe refeitório?
+
+3.10.1.  I                       Se não, onde as refeições são feitas?
+
+
+3.11.                R                     O(s) edifício(s) externamente apresenta(m) bom                                                 estado de conservação?
+
+
+3.12.             R                        As  paredes, pisos  e  tetos  estão  construídos  com  materiais  adequados  aos processos de fabricação?
+
+
+3.13.                R                     As paredes, pisos e tetos estão construídos com                                                          materiais facilmente laváveis?
+
+
+3.14.                R                     Os esgotos, canaletas e encanamentos estão em                                                         bom estado de conservação?
+
+
+3.15.                R                     Se existem ralos, os mesmos são sifonados?
+
+
+3.16.             R                          Estão as instalações de armanezamento e distribuição de água e outros fluidos adequadamente identificados e em bom estado de conservação?
+
+
+3.17.                R                     A qualidade e a intensidade da iluminação são                                                  adequadas?
+
+
+3.18.                R                     A ventilação das áreas produtivas e de circulação é                                                        adequada?
+
+
+3.19.                R                     A exaustão dos locais é adequada?
+
+
+3.20.                R                     A temperatura dos locais é condizente com as                                                  operações neles executadas?
+
+
+3.21.             R                         As instalações elétricas encontram-se em bom estado de conservação e segurança?
+
+
+3.22.                R                     A distribuição das áreas é adequada?
+
+
+3.23.             R                          A construção e a localização das áreas permitem adequada limpeza e manutenção das mesmas?
+
+
+3.24.              E                         Consegue-se evitar a possibilidade de contaminação cruzada de uma área para outra?
+
+
+3.25.              R                       As tubulações de água, vapor, gás, ar comprimido e eletricidade e outros estão    corretamente identificados?
+
+
+3.25.1.  R                     Estão em boas condições de limpeza e                                                            manutenção?
+
+
+3.26.                R                     A proteção contra a entrada de insetos, roedores,                                                          aves ou outros animais, é condizente com os tipos                                                        de materiais manuseados?
+
+
+                                               4.  EQUIPAMENTOS
+
+
+4.1.                                          Os equipamentos estão projetados, construídos e                                                          localizados de maneira que:
+
+4.1.1.               R                     Sejam apropriados para o uso a que se destinam.
+
+4.1.2.               R                     Sejam de fácil limpeza.
+
+4.1.3.               E                     Minimizem o risco de contaminação durante o                                                   processo.
+
+4.1.4.               R                     Possibilitem uma operação eficiente.
+
+
+4.2.                  I                       Os equipamentos de fabricação tem função                                                                   multipropósito?
+
+
+4.2.1.               E                     Em caso positivo, há procedimentos escritos,                                                               registros e limites de aceitação do processo de                                                   descontaminação?
+
+
+4.3.                  I                       Existem especificações para os equipamentos                                                  essenciais?
+
+
+4.4.                  R                     Existem procedimentos escritos para os                                                                       equipamentos de produção e controles referentes a:
+
+                                               a)  Limpeza;
+
+                                               b)  Esterilização, quando necessário;
+
+                                               c)  Uso;
+
+                                               d)  Manutenção?
+
+4.4.1.               R                     Esses procedimentos são seguidos?
+
+4.4.2.               R                     Existem registros?
+
+
+4.5.                  R                     Existem procedimentos escritos para a calibração                                                         dos equipamentos de medida, registros e controle?
+
+4.5.1.               R                     Esses procedimentos são seguidos?
+
+4.5.2.               R                     Existem registros?
+
+
+4.6.               R                         Se existirem equipamentos defeituosos, os mesmos encontram-se identificados como tais?
+
+
+                                               5.  HIGIENE E SANITIZAÇÃO
+
+
+5.1.                  R                     Existem procedimentos escritos referentes às                                                               práticas de higiene pessoal?
+
+5.1.1.               R                     Os procedimentos são cumpridos?
+
+5.1.2.               R                     Constam os mesmos dos programas de treinamento                                          periódico do pessoal?
+
+
+5.2.                  N                     Existe especificação para a qualidade da água a ser                                                      utilizada para a ingestão e higiene?
+
+5.2.1.               N                     Existem controles para esta água?
+
+5.2.2.               R                     Existem registros?
+
+
+5.3.                  R                     Os funcionários utilizam uniformes e calçados                                                   adequados para as tarefas que executam?
+
+
+5.4.                  R                     Estão os uniformes limpos e em boas condições de                                                       conservação?
+
+
+5.5.                  R                     Quando necessário, existe um programa de limpeza                                                      para esses uniformes?
+
+
+5.6.                  R                     Existem recipientes próprios para o lixo?
+
+5.6.1.               R                     Estão tampados, identificados e são esvaziados com                                         frequência?
+
+
+5.7.                  R                     Existe norma escrita e indicações de proibição de                                                         comer, beber e fumar nos setores produtivos?
+
+
+5.8.                  R                     Existem programas de sanitização?
+
+5.8.1.               R                     Com que freqüência são executados?
+
+5.8.2.               R                     Os materiais ou métodos usados são aprovados                                                            pelos Órgãos Sanitários?
+
+
+6.  DOCUMENTAÇÃO
+
+
+6.A.  FÓRMULA PADRÃO
+
+
+6.A.1.               E                     Existe uma Fórmula Padrão para cada produto                                                  fabricado?
+
+
+6.A.2.               N                     É esta Fórmula Padrão redigida, revisada, aprovada,                                          datada e assinada por pessoas qualificadas e                                                     autorizadas?
+
+
+6.A.3.               N                     Contém a Fórmula Padrão:
+
+                                               a) Nome do produto e o código referente à sua                                                   especificação;
+
+                                               b) Tamanho do lote;
+
+                                               c) Relação das matérias-primas e materiais a serem                                                      usados, suas especificações e quantidades;
+
+                                               d) Qualidade da água usada no processo de limpeza                                          e/ou produção;
+
+                                               e) Rendimento final esperado, com seus limites de                                                        aceitação, tanto do produto final como dos                                                                    intermediários relevantes;
+
+                                               f) Descrição dos equipamentos utilizados e os                                                   requisitos de sua preparação prévia, se necessário;
+
+                                               g) Procedimentos detalhados de fabricação;
+
+                                               h) Instruções sobre os controles em processo e seus                                         limites de aceitação;
+
+                                               i) Instruções para embalagem, identificação e                                                                armazenamento do produto obtido;
+
+                                               j)  Especificações do produto acabado?
+
+
+6.A.4.               R                     Existem procedimentos escritos para o caso de                                                            necessidade de modificar a Fórmula Padrão?
+
+
+6.A.4.1.            R                     As modificações e/ou correções das Fórmulas                                                  Padrão estão autorizadas e assinadas?
+
+
+6.A.4.2.            R                     São as Fórmulas Padrão corrigidas, rapidamente substituídas por uma nova Fórmula Padrão?
+
+
+6.A.5.               R                     São as fórmulas obsoletas identificadas como tais e                                                      arquivadas como referência?
+
+
+6.A.6.               R                     Existe um processo de cópia fiel da Fórmula Padrão                                                      que assegure sua exata reprodução?
+
+
+6.A.7.               R                     Existe arquivo ordenado e seguro para as matrizes                                                        da Fórmula Padrão?
+
+
+                                               6.B.  DOCUMENTAÇÃO DE LOTES
+
+
+6.B.1                E                     Existe uma Ordem de Fabricação para cada lote de                                                       produto farmoquímico?
+
+6.B.1.1.            I                       Quem é o responsável por sua emissão?
+
+6.B.1.2.            N                     Contém as partes relevantes da Fórmula Padrão?
+
+
+6.B.2.               N                     Contém a Ordem de Fabricação:
+
+                                               a) Nome do produto ou etapa de fabricação,                                                                  tamanho e número do lote;
+
+                                               b) Datas das diferentes etapas da fabricação;
+
+                                               c) Detalhes da fabricação, bem como, as referências                                         aos principais equipamentos usados e os                                                                   rendimentos;
+
+                                               d) O número do lote ou de referência (ou número do                                                       controle analítico) das matérias-primas, produtos                                                            intermediários e material de  embalagem utilizados                                                         na fabricação;
+
+                                               e) Registros dos controles efetuados e os resultados                                         obtidos com os limites de aceitabilidade;
+
+                                               f) Detalhe de qualquer desvio da Fórmula Padrão                                                           com sua autorização assinada;
+
+                                               g) Qualquer material recuperado e os procedimentos                                          adotados;
+
+                                               h) Rubrica dos funcionários e a assinatura do                                                                responsável pelas operações de fabricação assim                                                          como a data das assinaturas;
+
+                                               i) Todos os registros analíticos relativos ao lote, ou                                                        uma referência
+
+                                              para se ter acesso aos mesmos;
+
+                                               j) A decisão de aprovação ou reprovação do lote e a                                                       assinatura da pessoa responsável pela mesma;
+
+                                               k) Prazo de validade e/ou data de reanálise, quando                                                       aplicável?
+
+
+6.B.3.               N                     São feitas revisões dos registros de fabricação?
+
+
+6.B.4                N                     Qualquer desvio fortuito, divergência ou falha é                                                   cuidadosamente investigado?
+
+
+6.B.5                N                     A investigação, se necessária, é extendida a outros                                                       lotes do mesmo produto que possam estar                                                                    associados?
+
+
+6.B.6.               N                     Existem registros sobre os resultados das                                                                    investigações com as conclusões e providências                                                           tomadas?
+
+
+6.B.7.               R                     Existe registro na Ordem de Fabricação quando                                                            houver contrato  com terceiros para fabricação e/ou                                                      controle?
+
+
+6.B.8.               N                     Após finalização do processo de fabricação, toda a                                                        documentação sobre o lote produzido é arquivada?
+
+6.B.8.1.            I                       Por quanto tempo?
+
+
+                                               6.C.  ARQUIVO DE REGISTROS
+
+
+6.C.1.               E                     Existem registros que permitam rastrear as                                                                   atividades relativas à produção e controle da                                                                     qualidade dos produtos fabricados?
+
+
+6.C.2.               R                     São os registros dos produtos fabricados                                                                      conservados por pelo menos (1) um ano após o                                                 vencimento do prazo de validade?
+
+
+6.C.3.               R                     Quando não existe prazo de validade especificado,                                                        são conservados por um período não menor que (5)                                                  cinco anos?
+
+
+6.C.4.               I                       Quem é o responsável pelo arquivo de registros?
+
+
+7.  ALMOXARIFADOS
+
+
+7.1.                  N                     São os materiais manuseados, identificados e                                                   armazenados de modo a prevenir dano,                                                              contaminação, mistura e/ou perda?
+
+
+7.2.                  R                     Existem procedimentos escritos que descrevam                                                            quais as condições necessárias para o                                                                          armazenamento de materiais?
+
+
+7.3.                  R                     A disposição do armanezamento é correta e                                                                 racional?
+
+
+7.4.                  R                     Existem áreas ou sistemas, que delimitem ou                                                               restrinjam:
+
+                                               a) O uso de materiais ou produtos em quarentena;
+
+                                               b) Materiais ou produtos reprovados e/ou                                                                       devolvidos;
+
+                                               c) Materiais aprovados para o uso;
+
+                                               d) O armanezamento de material de embalagem                                                            impresso?
+
+
+7.5.                  E                     Existem dentro do almoxarifado, setores separados,                                                      trancados e com acesso restrito para substâncias                                                 narcóticas, psicotrópicas ou similares?
+
+
+7.5.1.               N                     O local ou setor oferece segurança?
+
+
+7.6.                  R                     Existem fichas ou sistemas de controles de estoque                                                     para cada material armazenado?
+
+
+7.7.                  R                     São os estoques reinspecionados e testados                                                                periodicamente?
+
+
+7.8.                  R                     Quando aplicável, existe controle da temperatura e                                                        umidade do local de armazenamento?
+
+7.8.1.               R                     Se existe, são mantidos registros?
+
+
+7.9.                  I                       Há necessidade de câmara frigorífica?
+
+7.9.1.               R                     Se houver, existem registros contínuos do controle                                                        da temperatura?
+
+
+7.10.                R                     Realiza-se inspeção visual durante a recepção dos                                                        materiais para verificar se sofreram dano durante o                                                           transporte?
+
+
+7.11.                R                     Nessa inspeção visual também é verificado se o                                                            material recebido está de acordo com a solicitação                                                        de compra, especificações e outros requisitos?
+
+
+7.12.                N                     Recebe cada lote de material um número de                                                                 controle?
+
+
+7.13.                R                     Esse número de controle ou outra identificação é                                                           facilmente visível nos materiais armazenados?
+
+
+7.14.                E                     Certifica-se que somente materiais aprovados sejam                                          utilizados?
+
+
+7.15.                R                     Quando aplicável, o uso dos materiais respeita a                                                           ordem de entrada, utilizando-se primeiramente os                                                 mais antigos?
+
+
+8.  PRODUÇÃO
+
+
+8.A.  MATÉRIAS-PRIMAS
+
+
+8.A.1.               R                     Existem procedimentos escritos em relação às                                                 matérias-primas, com respeito a:
+
+                                                a) Recebimento e colocação em quarentena;
+
+                                               b) Identificação;
+
+                                               c) Amostragem;
+
+                                               d) Análises;
+
+                                               e) Aprovação ou reprovação;
+
+                                               f) Armazenamento e expedição?
+
+
+8.A.2.               R                     São aprovadas matérias-primas, sem análise prévia,                                          em função da sua periculosidade?
+
+
+8.A.2.1.            I                       Quais?
+
+
+8.A.2.2.            R                     Nestes casos, estão disponíveis os Certificados de                                                        Análise do fornecedor e que devem estar arquivadas                                           no Controle da Qualidade?
+
+
+8.A.3.               I                       É a aquisição das matérias-primas feita mediante a                                                       certificação de  fornecedores?
+
+
+8.A.3.1.            R                     Existem registros dos mesmos?
+
+
+8.A.4                R                     Consta da especificação da matéria-prima, o nome                                                        do fornecedor aprovado?
+
+
+8.A.5.               R                     Se um recebimento de matéria-prima é composto de                                          diferentes lotes, cada lote é considerado                                                                       separadamente para amostragem, análise e                                                                  liberação?
+
+
+8.A.6.               E                     Somente as matérias-primas aprovadas pelo                                                                 Controle da Qualidade e que se encontram dentro                                                           do prazo de validade são usadas nos processos de                                                       fabricação?
+
+
+8.A.7.               R                     Existe procedimento escrito para a prática de                                                                mistura de solventes de entrada recente ou                                                                   recuperados, com o já existente armazenado?
+
+8.A.7.1.            R                     São os solventes analisados e liberados antes da                                                          mistura?
+
+8.A.7.2 R                     São feitas reanálises periódicas do material                                                                  misturado?
+
+8.A.7.3.            R                     Existem registros?
+
+
+8.B.  PROCESSOS
+
+
+8.B.1.               E                     É o processo realizado de acordo com a Fórmula                                                          Padrão do produto?
+
+
+8.B.2.               R                     Estão claramente definidas as etapas críticas do                                                           processo?
+
+8.B.2.1.            N                     São validados os procedimentos aplicados às                                                               mesmas?
+
+
+8.B.3.               N                     São os processos executados e supervisionados por                                         pessoal competente?
+
+
+8.B.4.               R                     Estão identificados durante o processo os                                                                     equipamentos principais envolvidos, assim como, os                                          materiais e os produtos a granel?
+
+
+8.B.4.1.            E                     Nessa identificação constam, quando aplicável, o                                                          nome do produto, o número do lote em fabricação e                                                         a etapa de fabricação?
+
+
+8.B.5.               R                     Além da documentação relativa ao lote em                                                                    fabricação, há registros sobre as atividades diárias                                                        de cada setor envolvido no processo?
+
+
+8.B.6.               R                     Toda manipulação de materiais como: recepção,                                                           quarentena, amostragem, armazenamento,                                                                   fabricação, embalagem e distribuição, é realizada de                                            acordo com procedimentos escritos e, quando                                                   necessário, registrada?
+
+
+8.B.7.               R                     Existe conferência de rendimentos e reconciliação                                                         de materiais após a execução do processo?
+
+
+8.B.7.1.            N                     Se houver discrepância em relação aos limites                                                  préestabelecidos, é o fato informado, investigado e                                                           registrado?
+
+
+8.B.8.               R                     Existe restrição quanto à entrada de pessoas                                                                estranhas às áreas de fabricação?
+
+
+8.B.9.               E                     Existe proibição de fabricação de produtos não                                                  farmoquímicos em áreas ou equipamentos                                                                   destinados à produção de produtos farmoquímicos,                                                        quando possam colocar em risco a qualidade e a                                                           segurança dos mesmos?
+
+
+8.B.A.  FARMOQUÍMICOS OBTIDOS POR FERMENTAÇÃO
+
+
+8.B.A.1.            E                     É o processo realizado de acordo com a Fórmula                                                          Padrão do produto?
+
+
+8.B.A.2.            I                       Quais são as principais etapas do processo?
+
+
+8.B.A.3.            I                       Quais são os principais equipamentos utilizados?
+
+
+8.B.A.4.            R                     Existem procedimentos escritos para a manutenção                                                      da cepa produtora?
+
+
+8.B.A.5.            R                     Existe procedimento escrito para a preparação do                                                         inóculo ao nível de laboratório?
+
+8.B.A.5.1.         I                       São realizados controles?
+
+8.B.A.5.2.         R                     Existem registros?
+
+
+8.B.A.6.            I                       Existe qualquer outra etapa de propagação do                                                   microorganismo que antecede a fermentação                                                                 propriamente dita?
+
+8.B.A.6.1.         R                     Em caso afirmativo, são realizados controles dessas                                         etapas?
+
+
+8.B.A.7.            I                       Quais são os parâmetros do processo controlados                                                        na fase de fermentação?
+
+8.B.A.7.1.         R                     Existem registros?
+
+
+8.B.A.8.            R                     Existem procedimentos escritos para as                                                                       transferências de inóculo, de nutrientes, de caldo                                                          fermentado, durante as diversas etapas?
+
+8.B.A.8.1.         R                     São todas essas etapas controladas e registradas?
+
+
+8.B.A.9.            R                     São todos os principais equipamentos devidamente                                                       identificados de acordo com a fase em que se                                                   encontram?
+
+
+8.B.A.10           N                     São os lotes de inóculo, nutrientes, caldo                                                                      fermentado devidamente identificados?
+
+
+8.B.A.11.          R                     Existem procedimentos para a limpeza e                                                                      esterilização quando aplicável?
+
+
+8.B.A.12.          R                     São efetuados controles indicadores de                                                             contaminação microbiana durante o processo?
+
+8.B.A.12.1        R                     Em caso de contaminação, existem procedimentos                                                       escritos para as providências a serem tomadas?
+
+
+8.B.A.13.          R                     Avalia-se o rendimento do processo?
+
+8.B.A.13.1.       R                     Existem registros?
+
+
+8.B.A.14.          I                       Após a fermentação, quais as principais operações                                                        realizadas?
+
+8.B.A.14.1        R                     Existem registros dos controles efetuados nas                                                              operações posteriores à fermentação?
+
+
+8.B.A.15           N                     Está especificado qual é o tipo de água utilizado no                                                       processo de fabricação de farmoquímicos obtidos                                                 por fermentação?
+
+8.B.A.15.1.       I                       Quais são os controles feitos nesta água?
+
+8.B.A.15.2.       R                     Existem registros?
+
+
+8.B.B.    FARMOQUÍMICOS OBTIDOS POR EXTRAÇÃO
+
+
+8.B.B.1.            I                       Tem a unidade de fabricação função multipropósito?
+
+
+8.B.B.2.            E                     Em caso positivo, há procedimentos, registros e                                                            limites de aceitação do processo de                                                                                descontaminação?
+
+
+8.B.B.3.            E                     É o processo realizado de acordo com uma Fórmula Padrão?
+
+
+8.B.B.4.            I                       Qual é o tipo de extração empregado?
+
+                                               - Aquoso           .................................
+
+                                               - Solvente Orgânicos .........................
+
+
+8.B.B.5.            I                       Qual é a origem da matéria-prima para extração?
+
+                                               - Animal        .........................
+
+                                               - Vegetal        ..........................
+
+
+8.B.B.6.            N                     São as matérias-primas de origem animal,                                                                    fornecidas por produtores autorizados pelos Órgãos                                                       Sanitários competentes?
+
+
+8.B.B.7.            R                     São efetuados controles junto aos produtores de                                                           matérias-primas de origem vegetal, seguindo                                                                   especificações estabelecidas?
+
+8.B.B.7.1.         I                       Quais controles?
+
+
+8.B.B.8 R                     Existe procedimento escrito em relação a como deve                                         ser feito o transporte dessas matérias-primas?
+
+
+8.B.B.9.            R                     Existem procedimentos de controle para o                                                                    recebimento dessas matérias-primas?
+
+
+8.B.B.10.          R                     É o pessoal responsável pelo recebimento                                                                     devidamente treinado?
+
+
+8.B.B.11.          R                     Existem locais devidamente separados e adequados                                          para o recebimento e armazenamento dessas                                                  matérias-primas?
+
+
+8.B.B.12.          I                       Quais são os parâmetros controlados durante o                                                 processo de extração?
+
+8.B.B.12.1.       R                     Existem registros?
+
+
+8.B.B.13           I                       Quais são as principais operações realizadas após o                                         processo de extração?
+
+
+8.B.B.14.          R                     Existem áreas adequadas para essas operações?
+
+
+8.B.B.15.          R                     Existem especificações para a aprovação de                                                                 produtos intermediários?
+
+8.B.B.15.1.       R                     Existem registros?
+
+
+8.B.B.16.          R                     Existe procedimento escrito para a mistura de vários                                          lotes intermediários, destinados a operações                                                             posteriores?
+
+8.B.B.16.1.       R                     Existem registros?
+
+
+8.B.B.17           R                     Avalia-se o rendimento da extração?
+
+
+8.B.B.18.          E                     Existem especificações para o produto acabado?
+
+
+8.B.B.19.          N                     Está especificado qual é o tipo de água utilizado no                                                       processo de fabricação de farmoquímicos obtidos                                                 por extração?
+
+8.B.B.19.1.       I                       Quais são os controles feitos nesta água?
+
+8.B.B.19.2.       R                     Existem registros?
+
+
+8.B.C.  FARMOQUÍMICOS OBTIDOS POR SÍNTESE QUÍMICA
+
+
+8.B.C.1.            E                     É o processo realizado de acordo com a Fórmula                                                          Padrão?
+
+
+8.B.C.2.            R                     Estão claramente definidas as etapas críticas do                                                           processo?
+
+
+8.B.C.3.            R                     São validados os procedimentos usados nessas                                                            etapas críticas?
+
+
+8.B.C.4.            I                       Tem a unidade de fabricação função multipropósito?
+
+
+8.B.C.5.            E                     Em caso positivo, há procedimentos, registros e                                                            limites de aceitação do processo de                                                                                descontaminação?
+
+
+8.B.C.6.            I                       Após a síntese, quais são as etapas principais do                                                         processo?
+
+
+8.B.C.7.            I                       Quando aplicável, qual é o tipo de equipamento de                                                         secagem utilizado?
+
+8.B.C.7.1.         I                       Quais os parâmetros controlados?
+
+8.B.C.7.2.         R                     Existem registros?
+
+
+8.B.C.8.            I                       Quando aplicável, como é feita a moagem do                                                                produto obtido?
+
+8.B.C.8.1.         I                       Quais os parâmetros controlados?
+
+8.B.C.8.2.         R                     Existem registros?
+
+
+8.B.C.9.            N                     Está especificado qual é o tipo de água utilizado no                                                       processo de fabricação de farmoquímicos obtidos                                                 por síntese química?
+
+8.B.C.9.1.         I                       Quais são os controles feitos nesta água?
+
+8.B.C.9.2.         R                     Existem registros?
+
+
+8.B.C.10.          R                     Avalia-se o rendimento do processo?
+
+
+8.B.D.  FARMOQUÍMICOS ESTÉREIS
+
+
+8.B.D.1.            E                     Existe uma área própria para a fabricação de                                                                 produtos farmoquímicos estéreis?
+
+
+8.B.D.2.            E                     É o processo realizado de acordo com uma Fórmula                                          Padrão?
+
+
+8.B.D.3.            I                       Tem a unidade de fabricação função multipropósito?
+
+
+8.B.D.4.            E                     Em caso positivo, há procedimentos, registros e                                                            limites de aceitação para o processo de                                                               descontaminação?
+
+
+8.B.D.5.            N                     Possui a área de fabricação instalações para a                                                  filtração de ar?
+
+
+8.B.D.6.            I                       Qual é a classificação desta área?
+
+
+8.B.D.7.            R                     Existem registros sobre os controles da filtração do                                                       ar?
+
+
+8.B.D.8.            N                     É o ar injetado na área filtrado por filtros HEPA?
+
+
+8.B.D.9.            R                     É verificado com frequência o estado dos filtros de                                                         ar de acesso à área?
+
+8.B.D.9.1.         R                     Existem registros?
+
+
+8.B.D.10.          N                     A área possui pressão positiva?
+
+
+8.B.D.11.          I                       Qual é a variação entre a área estéril e as áreas                                                            adjacentes?
+
+8.B.D.11.1.       N                     É controlada a diferença de pressão?
+
+
+8.B.D.12.          R                     Realiza-se a determinação de partículas por unidade                                          de volume na área?
+
+8.B.D.12.1.       R                     Existem registros?
+
+
+8.B.D.13.          N                     São feitos controles microbiológicos do ar e das                                                            superfícies?
+
+8.B.D.13.1.       R                     Existem registros?
+
+
+8.B.D.14.          N                     Existem vestiários específicos para esta área?
+
+
+8.B.D.15.          N                     Os uniformes usados (toucas, máscaras, sapatos,                                                        sobre-sapatos, luvas) estão esterilizados, e em                                                          número suficiente para o ciclo de produção?
+
+
+8.B.D.16.          R                     O tecido usado nos uniformes previne a liberação de                                          fibras ou partículas?
+
+
+8.B.D.17.          N                     São as luvas estéreis isentas de lubrificantes (como                                                      talco)?
+
+
+8.B.D.18.          R                     Existe procedimento escrito sobre os cuidados de                                                         higiene para entrada na área?
+
+
+8.B.D.19.          R                     Existem procedimentos escritos para a entrada de                                                        materiais na área estéril?
+
+
+8.B.D.20.          I                       Existe filtração dos produtos através de filtros                                                                esterilizantes?
+
+
+8.B.D.21.          R                     São feitos testes para determinar a integridade do                                                         filtro?
+
+8.B.D.21.1.       R                     Existem registros?
+
+
+8.B.D.22.          I                       Existem produtos que necessitem de áreas com                                                           umidade controlada?
+
+8.B.D.22.1.       N                     Em caso afirmativo, existe equipamento adequado?
+
+
+8.B.D.23.          I                       São fabricados farmoquímicos que necessitem                                                  tratamento de esterilização final?
+
+8.B.D.23.1.       I                       Existe área para esterilização?
+
+
+8.B.D.24.          I                       Qual é o método de esterilização empregado?
+
+
+8.B.D.25.          I                       Quais são os parâmetros controlados?
+
+8.B.D.25.1.       R                     Existem registros?
+
+
+8.B.D.26.          N                     Está validado o sistema de esterilização?
+
+8.B.D.26.1.       R                     Existem registros?
+
+
+8.B.D.27.          R                     Existe algum procedimento que identifique se o                                                 material foi esterilizado?
+
+
+8.B.D.28.          N                     Está especificado qual é o tipo de água utilizado no                                                       processo de fabricação de farmoquímicos estéreis?
+
+8.B.D.28.1.       I                       Quais são os controles feitos nesta água?
+
+8.B.D.28.2.       R                     Existem registros?
+
+
+8.C.  PRODUTOS INTERMEDIÁRIOS
+
+
+8.C.1.               R                     Existem especificações e métodos de análise para                                                        os produtos intermediários?
+
+
+8.C.2.               R                     Quando aplicável, são os mesmos analisados e                                                 somente liberados para uso pelo Controle da                                                                   Qualidade?
+
+8.C.2.1.            R                     Existem registros?
+
+
+8.C.3.               N                     São os produtos intermediários identificados                                                                  claramente como tais?
+
+
+8.C.4.               R                     São adequadamente armazenados?
+
+8.C.4.1.            R                     Existem registros de controle das condições de                                                 armazenamento?
+
+
+8.D.  PRODUTOS FARMOQUÍMICOS ACABADOS
+
+
+8.D.1.               E                     Permanece cada lote de produto farmoquímico                                                  acabado armazena         do em quarentena enquanto                                                      aguarda aprovação pelo Controle da             Qualidade.?
+
+
+8.D.1.1.            N                     São identificados e armazenados corretamente com                                                      rótulos atestando a quarentena, de maneira a evitar                                           a mistura ou expedição de produto sem aprovação                                                         final?
+
+
+8.D.2.               N                     É cada lote de produto farmoquímico acabado, após                                          embalado,             identificado corretamente com:
+
+                                               a) Nome do produto e código;
+
+                                               b) Número de lote;
+
+                                               c) Data de fabricação;
+
+                                               d) Prazo de validade e/ou Data de reanálise, quando                                          aplicável;
+
+                                               e) Condições de armazenamento;
+
+                                               f) Teor ou potência, quando aplicável;
+
+                                               g) Advertências, quando aplicável;
+
+                                               h) Em quarentena?
+
+
+8.D.3.               R                     Possui a área de quarentena condições adequadas                                                       de armazena         mento para todos os produtos                                                               farmoquímicos acabados armazenados?
+
+8.D.3.1.            R                     Existem registros de controle dessas condições?
+
+
+8.D.4.               E                     Existem especificações de qualidade e metodologia                                                      analítica para cada produto farmoquímico acabado?
+
+
+8.D.5.               N                     Recebe cada lote de produto farmoquímico                                                                    acabado, após análise e a aprovação pelo Controle                                                          da Qualidade, rótulo de aprovado?
+
+
+8.D.6.               N                     São os rótulos de aprovado preenchidos                                                                        corretamente com:
+
+                                               a) Nome do produto e código;
+
+                                               b) Número de lote;
+
+                                               c) Data de fabricação;
+
+                                               d) Prazo de validade e/ou Data de reanálise.
+
+                                               e) Condições de armazenamento;
+
+                                               f)  Teor ou potência, quando aplicável;
+
+                                               g)  Advertências, quando aplicável?
+
+
+8.D.7.               R                     Após aprovação pelo Controle da Qualidade, é o                                                produto farmo-químico acabado armazenado no                                                          almoxarifado de produtos acaba dos, em condições                                                       adequadas de temperatura e umidade, se aplicável?
+
+
+8.D.8.               E                     Se o lote for reprovado, é o mesmo identificado                                                  como tal?
+
+
+8.D.9.               R                     Existe área específica para produto farmoquímico                                                          acabado reprovado?
+
+
+8.D.10. R                     Existe procedimento de como tratar o produto                                                   farmoquímico acabado que está           reprovado?
+
+
+8.D.11. R                     Se o produto for reprocessado, existe procedimento                                                       para esta operação?
+
+8.D.11.1.          R                     Se houve reprocesso, existem registros?
+
+
+8.E.  EMBALAGEM E ROTULAGEM
+
+
+8.E.1.               N                     São os materiais de embalagem adequados para a                                                        proteção dos produtos farmoquímicos?
+
+
+8.E.2.               E                     É o material que fica em contato com o produto                                                 isento de qualquer ação contaminante em relação                                                            ao produto farmoquímico?
+
+
+8.E.3.               R                     Existem especificações escritas para os materiais de                                        embalagem?
+
+
+8.E.4.               R                     Existem instruções escritas para a correta rotulagem                                         dos recipientes?
+
+
+8.E.5.               R                     Existem instruções escritas para a correta rotulagem                                         dos recipientes?
+
+
+8.E.6.               R                     São os materiais impressos armazenados de                                                                maneira adequada e segura?
+
+
+8.E.7.               R                     São os materiais impressos somente manipulados                                                        por pessoa autorizada?
+
+
+8.E.8.               N                     São as embalagens identificadas com as seguintes                                                       informações:
+
+                                               a) Nome do produto;
+
+                                               b) Teor ou potência, quando especificado;
+
+                                               c) Número do lote;
+
+                                               d) Prazo de validade e/ou Data de reanálise;
+
+                                               e) Condições de armazenamento, quando aplicável;
+
+                                               f) Advertências, quando aplicável;
+
+                                               g) Nome do fabricante e do fornecedor, se aplicável;
+
+                                               h) Peso bruto/peso líquido?
+
+
+8.E.9.               R                     É o material de embalagem, primário ou secundário,                                                      destruído quando possa conduzir a confusão?
+
+8.E.9.1.            R                     Existem registros?
+
+
+8.F. ARMAZENAMENTO E DISTRIBUIÇÃO
+
+
+8.F.1.               R                     São as condições de armazenamento de produtos                                                         farmoquímicos estabelecidas pelos estudos de                                                  estabilidade?
+
+8.F.2.               I                       Existem produtos que necessitam de condições de                                                       armazenamento especiais?
+
+8.F.2.1. R                     Em caso afirmativo, existem áreas equipadas para                                                        manter essas condições?
+
+8.F.2.2. R                     Existem registros?
+
+
+8.F.3.               R                     São os documentos usados para a recepção dos                                                          produtos farmoquímicos acabados adequados?
+
+
+8.F.4.               R                     Existem sistemas de registro de controle de estoque                                         de produto farmoquímico acabado?
+
+
+8.F.5.               R                     Quando aplicável, estão os produtos armazenados,                                                       dentro do seu prazo de validade?
+
+
+8.F.6.               R                     O sistema de distribuição, salvo razões justificadas e                                         registradas,             assegura que os lotes mais antigos                                                      sejam expedidos primeiro?
+
+
+8.F.7.               E                     Certifica-se que somente produtos aprovados sejam                                                       expedidos?
+
+
+8.F.8.               N                     Existem registros e procedimentos de distribuição de                                         produtos farmoquímicos acabados?
+
+
+8.F.8.1.            N                     Esses registros especificam:
+
+                                               a) Nome e endereço;
+
+                                               b) Número de lote;
+
+                                               c) Quantidade;
+
+                                               d) Data de expedição?
+
+
+9.  CONTROLE DA QUALIDADE
+
+
+9.A.  GERAL
+
+
+9.A.1.               E                     Existe na empresa um laboratório de Controle da                                                           Qualidade?
+
+
+9.A.2.               N                     É o Controle da Qualidade independente da                                                                   Produção?
+
+
+9.A.3.               I                       A quem se reporta o Responsável pelo Controle da                                                        Qualidade?
+
+
+9.A.4.               R                     Tem o laboratório de Controle da Qualidade a infra-                                                        estrutura adequada para executar os controles                                                    necessários?
+
+
+9.A.5.               I                       Existem ensaios efetuados por terceiros?
+
+9.A.5.1.            I                       Quais os ensaios?
+
+9.A.5.2.            R                     Existe contrato?
+
+
+9.A.6.               R                     Tem o laboratório de Controle da Qualidade pessoal                                           suficiente e qualificado para executar os controles                                                   necessários?
+
+
+9.A.7.               R                     São as instalações do laboratório adequadas às                                                            operações e ao volume de trabalho executados?
+
+
+9.A.8.               R                     Estão os equipamentos e aparelhos instalados de                                                         maneira adequada para corresponder às exigências                                                        de seu correto funcionamento?
+
+
+9.A.9.               R                     Existem procedimentos previamente definidos para                                                        calibrações e manutenção de instrumentos?
+
+9.A.9.1.            R                     Existem registros?
+
+
+9.A.10. R                     Tem o pessoal do Controle da Qualidade livre                                                    acesso às áreas de fabricação para amostragens e                                                  verificações?
+
+
+9.A.11. E                     É o Controle da Qualidade responsável por aprovar                                                         ou reprovar produtos que estejam sob contrato com                                                            terceiros?
+
+
+9.A.12. N                     Existem documentos impressos descrevendo as                                                           especificações e os métodos analíticos usados pelo                                            Controle da Qualidade, para todas as matérias-                                                  primas, produtos intermediários, produtos acabados                                                      e materiais de embalagem?
+
+
+9.A.13. N                     É o Controle da Qualidade responsável pela                                                                  aprovação ou reprovação de  matérias-primas,                                                            produtos intermediários, produtos acabados e                                                   materiais de embalagem?
+
+
+9.A.14. N                     Existem registros das análises?
+
+
+9.A.15. R                     Existem procedimentos escritos para a amostragem                                                      que descrevam:
+
+                                               a) O método e o critério de amostragem;
+
+                                               b) Os instrumentos de amostragem e equipamentos                                                      de proteção individual quando necessário;
+
+                                               c) Quantidade a ser amostrada;
+
+                                               d) Instruções para a subdivisão da amostra, quando                                                       necessário;
+
+                                               e) Tipo e condições de envase necessários;
+
+                                               f)  Identificação das unidades amostradas;
+
+                                               g) Precauções especiais quando da amostragem de                                                      materiais estéreis ou nocivos;
+
+                                               h) Instruções para a limpeza e o armazenamento                                                           dos materiais usados na amostragem;
+
+                                               i) Condições de armazenamento das amostras;
+
+                                               j) Destino das amostras remanescentes?
+
+
+9.A.16. R                     Existe um procedimento escrito para a definição e                                                         conservação de padrões de referência?
+
+
+9.A.17. E                     É garantido que cada lote do produto ou material                                                           somente seja liberado para venda ao consumo após                                        a verificação e cumprimento de todas as                                                                       especificações e, isto seja certificado pelo Controle                                                       da Qualidade?
+
+9.A.17.1.          N                     Existem registros?
+
+
+9.A.18. N                     São realizados ensaios microbiológicos, quando                                                            necessário?
+
+9.A.18.1.          N                     Existem registros?
+
+
+9.A.19. N                     São efetuados testes de esterilidade, quando                                                                necessário?
+
+9.A.19.1.          R                     Existem registros?
+
+
+9.A.20. N                     São efetuados ensaios biológicos, quando                                                                    necessário?
+
+9.A.20.1.          I                       Quais?
+
+9.A.20.2.          R                     Existem registros?
+
+
+9.A.21. R                     Mantém o Controle da Qualidade a documentação                                                         correspondente a cada lote, por um período de um                                                           ano do prazo de validade ou, por não menos que                                                           cinco anos quando não houver o estabelecimento                                                          desse prazo?
+
+
+9.A.22.                         As amostras de referência futura:
+
+
+9.A.22.1.          R                     Estão adequadamente identificadas em relação ao                                                        seu conteúdo, número de lote, data de amostragem                                                 e número de análise?
+
+
+9.A.22.2.          R                     Contém a quantidade suficiente para permitir no                                                 mínimo três análises completas?
+
+
+9.A.22.3.          R                     São as amostras de produto acabado mantidas em                                                        embalagens o mais próximo daquelas de venda e,                                                         são armazenadas nas condições especificadas?
+
+
+9.A.23.                         O tempo de armazenamento das amostras de                                                    referência futura:
+
+
+9.A.23.1.          R                     Para matérias-primas: é pelo menos até o término                                                         do estoque (exceto solventes, gases e água)?
+
+
+9.A.23.2.          R                     Para matérias-primas críticas: é de no mínimo um                                                         ano a partir do término do estoque do lote?
+
+
+9.A.23.3.          R                     Para produtos intermediários: até a aprovação do                                                           produto acabado?
+
+
+9.A.23.4.          R                     Para produtos com prazo de validade definido: até                                                         um ano após a expiração do mesmo?
+
+
+9.A.23.5.          R                     Para produtos que não possuem prazo de validade                                                         especificado: no mínimo por cinco anos?
+
+
+9.B.  ESTUDOS DE ESTABILIDADE
+
+
+9.B.1.               N                     Existe um programa escrito de estudo de                                                                      estabilidade para os produtos farmoquímicos?
+
+9.B.1.1.            N                     É cumprido?
+
+
+9.B.1.2.            R                     São usados modelos e métodos analíticos                                                                    indicadores de estabilidade?
+
+
+9.B.2.               R                     Existem no programa descritos:
+
+                                               a) Condições de envelhecimento;
+
+                                               b) Métodos analíticos usados;
+
+                                               c) Resultados;
+
+                                               d) Material de embalagem primário;
+
+                                               e) Periodicidade de análises;
+
+                                               f) Data de vencimento do produto?
+
+
+9.B.3.               N                     É o prazo de validade estabelecido para o produto                                                          farmoquímico acabado, respaldado por estudo de                                                          estabilidade?
+
+
+9.B.4.               R                     Existem instruções escritas especificando a data de                                                      reanálise dos produtos farmoquímicos?
+
+9.B.4.1.            R                     É o procedimento seguido?
+
+
+9.C.  AUTO-INSPEÇÃO E AUDITORIA DA QUALIDADE
+
+
+9.C.1.               R                     Existe um programa para a realização de auto-                                                  inspeção com as de-finições de freqüência e                                                                   participantes?
+
+9.C.1.1.            R                     Os responsáveis pela auto-inspeção são                                                                       independentes dos procedimentos controlados?
+
+
+9.C.2.               R                     São realizadas auto-inspeções com o objetivo de se                                                      verificar o cumprimento das Boas Práticas de                                                                   Fabricação, assim como, para recomendar as ações                                      corretivas?
+
+
+9.C.3.               R                     Encontram-se documentados os procedimentos e os                                         registros das auto-inspeções?
+
+9.C.3.1.            R                     Existem programações de seguimento das mesmas?
+
+9.C.3.2.            R                     Existem registros?
+
+
+9.C.4.               R                     São os resultados das auto-inspeções e/ou                                                                   auditorias informados aos responsáveis pela área                                                  envolvida?
+
+
+9.C.4.1.            R                     São colocados prazos para o cumprimento das                                                 exigências para os        itens não conformes?
+
+9.C.4.2.            R                     Verifica-se o cumprimento das ações corretivas                                                 recomendadas?
+
+9.C.4.3 R                     Existem registros?
+
+
+9.C.5.               R                     São feitas auditorias nas empresas com as quais                                                          são mantidos contratos, com o fim de verificar o                                                       cumprimento das Boas Práticas de Fabricação?
+
+9.C.5.1.            R                     Existem registros?
+
+
+10. RECLAMAÇÕES E DESVIOS DA QUALIDADE
+
+
+10.1.                R                     Existem procedimentos escritos descrevendo as                                                           ações a serem tomadas quanto a reclamações e                                                           desvios referentes à qualidade do produto                                                                      farmoquímico?
+
+
+10.2.                R                     São as reclamações e desvios devidamente                                                                  registrados?
+
+
+10.3.                R                     Existem meios que permitam ações rápidas                                                                  referentes a uma reclamação ou desvio?
+
+
+10.4.                R                     São todas as reclamações completamente                                                                    investigadas e registradas?
+
+
+10.5.                N                     Caso ocorra um erro repetitivo ou falha nos                                                                    procedimentos da empresa, existe algum sistema                                                         que permita investigação de todos os produtos que                                                           possam vir a ser afetados por tais fatos?
+
+
+10.6.                R                     São os desvios da qualidade do produto, motivo de                                                        reclamação,      investigados e registrados?
+
+
+10.7.                N                     É o responsável pelo Controle da Qualidade                                                                  informado das recla          mações referentes a desvio da                                                  qualidade do produto?
+
+
+10.8.                R                     São todas as medidas tomadas devidamente                                                                 registradas?
+
+                                               Estes registros contém:
+
+                                               a) Nome do produto;
+
+                                               b) Número do lote;
+
+                                               c) Nome do reclamante;
+
+                                               d) Motivo da reclamação;
+
+                                               e) Resposta à reclamação?
+
+
+10.9.                R                     São os registros das ações tomadas, como                                                                  consequência da reclamação, assinados, datados e                                                      anexados à documentação do lote correspondente?
+
+
+10.A.  RECOLHIMENTO DO MERCADO
+
+
+10.A.1. R                     Existe sistema que permita rápido e eficiente                                                                recolhimento de produtos com desvio da qualidade?
+
+
+10.A.2. R                     Existe pessoa responsável designada para a                                                                 coordenação e execução dos procedimentos de                                                           recolhimento?
+
+
+10.A.3. R                     Existem procedimentos escritos para o recolhimento                                                     de pro   dutos?
+
+
+10.A.4. R                     Se a pessoa responsável pelo recolhimento, não                                                           pertencer ao Controle da Qualidade, o mesmo é                                                        informado das operações efetuadas?
+
+
+10.A.5. R                     Os registros de distribuição dos produtos,                                                                     permanecem disponíveis para uma rápida ação de                                                     recolhimento do mercado, se necessário?
+
+
+10.A.6. R                     Existe área segura e, separada fisicamente ou por                                                         outros meios, para o armazenamento de produtos                                                       recolhidos?
+
+
+10.A.7. R                     É o produto recolhido identificado como tal?
+
+
+10.A.8. R                     São os relatórios conclusivos sobre o processo de                                                         recolhimento do mercado, anexados à                                                                           documentação do lote do produto?
+
+
+10.B.  MATERIAIS REPROVADOS
+
+
+10.B.1. R                     Existem instruções escritas relativas ao manuseio de                                        materi   ais reprovados?
+
+
+10.B.2. R                     Existe área segura e, delimitada fisicamente ou por                                                       outros meios, para o armazenamento de materiais                                                      reprovados?
+
+
+10.B.3. N                     Os materiais reprovados são identificados como                                                            tais?
+
+
+10.B.4. R                     Existem relatórios sobre o destino dos materiais                                                           reprovados?
+
+10.B.4.1.          R                     São estes relatórios anexados à documentação do                                                        lote do produto?
+
+
+10.C.  DEVOLUÇÕES
+
+
+10.C.1. N                     É o Controle da Qualidade informado sobre a                                                                recepção de             devoluções?
+
+
+10.C.2. N                     São todos os produtos devolvidos reanalisados?
+
+10.C.2.1.          R                     Existem registros?
+
+
+10.C.3. R                     São os registros anexados à documentação do lote                                                       do produto?
+
+
+10.C.4. R                     Existe área segura ou sistema que delimite ou                                                  restrinja produtos devolvidos?
+
+10.C.4.1.          N                     É o produto devolvido identificado como tal?
+
+
+10.C.5. I                       Quais são os destinos dos produtos devolvidos, de                                                        acordo com os resultados analíticos obtidos?
+
+10.C.5.1.          R                     Existem registros?
+
+10.C.5.2.          R                     São os mesmos anexados à documentação do lote?
+
+
+10.C.6. N                     Todas as decisões referentes às devoluções são                                                           aprovadas por pessoa autorizada?
+
+
+10.C.7. R                     São destruídos os produtos devolvidos por estarem                                                        como prazo de validade vencido?
+
+10.C.7.1.          R                     Existem registros?
+
+
+                                               11.  SEGURANÇA
+
+
+11.1.                R                     Existem normas escritas de segurança?
+
+
+11.2.                N                     Existe local para o armazenamento de produtos                                                            inflamáveis e explosivos que ofereça condições                                                  adequadas de segurança?
+
+11.2.1.  R                     Existem no local instruções para os casos de                                                               vazamento e/ou acidentes?
+
+
+11.3.                R                     Existem normas escritas de procedimento em caso                                                       de incêndio ou emergência?
+
+
+11.4.                R                     Estão os extintores e a rede de combate a incêndio                                                       localizados corretamante?
+
+
+11.5.                R                     É a quantidade e o tipo de extintor adequada para o                                                       risco de cada setor?
+
+
+11.6.                R                     Estão as instalações elétricas em bom estado de                                                          conservação e segurança?
+
+
+11.7.                R                     Está desimpedido o acesso aos extintores e                                                                 hidrantes?
+
+
+11.8.                R                     São os extintores verificados com a frequência                                                  determinada pelas normas específicas?
+
+11.8.1.  R                     Essas verificações são registradas?
+
+
+11.9.                R                     Existem instalações de segurança como duchas,                                                          lava-olhos, manta,    etc., em número suficiente,                                                       respeitando a correta localização, com                                                                          livre acesso para o uso nos casos de emergência?
+
+
+11.9.1.  R                     Há um programa de verificação do funcionamento                                                          desses equipamentos?
+
+11.9.2.  R                     Existem registros?
+
+
+11.10.               R                     Quando necessário, são usados os equipamentos                                                         de proteção individual ou coletiva?
+
+11.10.1.            R                     Se houver necessidade, os mesmos estão sendo                                                          usados?
+
+11.10.2.            R                     Estão os mesmos em boas condições de uso?
+
+
+11.11.               R                     Existem, quando aplicável, escadas externas de                                                            emergência?
+
+
+11.12.               R                     Existem, quando aplicável, saídas de emergência?
+
+
+                                               12.  TRATAMENTO DE EFLUENTES
+
+
+12.1.                E                     Cumpre a empresa com as normas ou legislações                                                         que regulam o controle da poluição do meio                                                             ambiente?
+
+12.1.1.  I                       Quais?
+
+12.1.2.  R                     Existe registro do cumprimento das normas?
+
+
+12.2.                I                       São gerados efluentes líquidos?
+
+12.2.1.  I                       Qual é a natureza dos efluentes?
+
+12.2.2.  R                     São tratados?
+
+12.2.3.  I                       Qual é o tipo de tratamento utilizado?
+
+12.2.4.  R                     São realizados controles do tratamento?
+
+                        I                       Quais?
+
+                        R                     Com que freqüência?
+
+                        R                     Existem registros?
+
+12.2.5.  I                       Onde é efetuado o lançamento dos efluentes                                                                 líquidos tratados?
+
+
+12.3.                I                       São gerados efluentes gasosos?
+
+12.3.1.  I                       Qual é a natureza dos efluentes?
+
+
+12.3.2.  R                     São tratados?
+
+12.3.3.  I                       Qual é o tipo de tratamento utilizado?
+
+12.3.4.  R                     São realizados controles do tratamento?
+
+                        I                       Quais?
+
+                        R                     Com que freqüência?
+
+                        R                     Existem registros?
+
+12.3.5.  I                       Onde é efetuado o lançamento dos efluentes                                                                 gasosos tratados?
+
+
+12.4.                I                       São gerados efluentes sólidos?
+
+12.4.1.  I                       Qual é a natureza dos efluentes?
+
+12.4.2.  R                     São tratados?
+
+12.4.3.  I                       Qual é o tipo de tratamento utilizado?
+
+12.4.4.  R                     São realizados controles do tratamento?
+
+                        I                       Quais?
+
+                        R                     Com que freqüência?
+
+                        R                     Existem registros?
+
+12.4.5.  I                       Onde é efetuado o lançamento dos efluentes sólidos                                          tratados?
+
+
+1
+
+
+1

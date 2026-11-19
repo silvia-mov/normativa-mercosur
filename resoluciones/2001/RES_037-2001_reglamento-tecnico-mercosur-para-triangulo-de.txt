@@ -1,0 +1,665 @@
+Resolución GMC N° 37/01
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA TRIANGULO DE SEÑALIZACIÓN DE EMERGENCIA (DEROGACIÓN DE LA RES. GMC Nº 37/94)
+Fecha de aprobación: 10/10/2001
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 13354_RES_037-2001_ES_RTM_Triángulo_Señal-Emergencia_Acta 3_01.pdf
+Conversión a texto: OCR (Windows)
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1102).
+----------------------------------------------------------------------
+[página 1]
+MERCOSUR/GMC/RES. NO 37101
+REGLAMENTO TÉCNICO MERCOSUR PARA TRIANGULO DE SEÑALIZACIÓN DE
+EMERGENCIA (DEROGACIÓN DE LA RES GMC NO 37/94).
+VISTO: EI Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones NO
+91 /93, NO 37/94, 152/96 y 38/98 del Grupo Mercado Común y el Proyecto de Resolución
+NO 23/99 del SGT N03 "Reglamentos Técnicos y Evaluación de la Conformidad"
+CONSIDERANDO:
+Que el mercado interior implica un espacio sin fronteras interiores en el que está
+garantizada la libre circulación de mercancías, personas, servicios y capitales; que es
+importante adoptar medidas para tal fin;
+Que con el objetivo de garantizar la seguridad de los pasajeros, es importante que los
+vehículos cumplan requisitos de triángulo de senãlización de emergencia;
+Que para tal fin, los Estados Partes acordaron adecuar sus legislaciones, de modo de
+hacer posible el libre intercambio de vehículos, sus partes y sus piezas.
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+Art. 1.- Aprobar el "Reglamento Técnico MERCOSUR sobre Triángulo de Señalización
+de Emergencia", que consta como anexo y forma parte de la misma presente
+Resolución.
+Art. 2.- EI presente Reglamento Técnico regirá para la circulación, homologación,
+certificación, patentamiento, licenciamiento y registro de los vehículos automotores en
+los Estados Partes, no pudiéndose imponer en dichas actividades requisitos técnicos
+adicionales a los establecidos por el mismo.
+Art. 3.- En caso de divergencia de interpretación del Reglamento Técnico, la misma se
+dirimirá tomando como referencia el Reglamento ECE R 27 de 18 de enero de 1998 en
+la versión en idioma inglés.
+Art. 4.- Los Estados Partes pondrán en vigencia las disposiciones legislativas
+reglamentarias y administrativas necesarias para dar cumplimiento a la presente
+Resolución, a través de los siguientes organismos:
+[página 2]
+Argentina:
+Brasil:
+Paraguay:
+Uruguay:
+qoco
+Secretaría de Industria
+Secretaría de Transporte
+Ministério da Justiça
+Conselho Nacional de Trânsito
+Departamento Nacional de Trânsito
+Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+Ministerio de Transporte y Obras Públicas
+Ministerio de Industria, Energía y Minería
+Art. 5.- EI presente Reglamento Técnico se aplicará en el territorio de los Estados
+Partes, al comercio entre ellos y a las importaciones extrazona.
+Art. 6.- Derógase la Resolución GMC NO 37/94.
+Art. 7 — Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución
+a sus ordenamientos jurídicos nacionales antes del 10/IV/02; debiendo entrar en
+vigencia el presente Reglamento Técnico antes del 10/X/2003.
+XLIII GMC -
+Montevideo, 10/X/01
+[página 3]
+CLOQ-
+REGLAMENTO TÉCNICO MERCOSUR PARA TRIANGULO DE SEÑALIZACION DE
+1
+2.
+3,
+4.
+5.
+EMERGENCIA
+INDICE
+Ambito de aplicación
+Definiciones
+Especificaciones generales
+Especificaciones particulares
+Procedimientos de ensayo
+Anexos
+Anexo 1 Forma y dimensiones del triángulo de preseñalización y de su soporte
+Anexo 2 Determinación de la rugosidad del revestimiento de la carretera:
+Método de la superficie con arena
+Anexo 3 Procedimientos de ensayos
+Anexo 4 Método para medida del cil de dispositivo catadióptrico
+[página 4]
+1. Ambito de Aplicación.
+EE presente Reglamento se aplica a los dispositivos de preseñalización destinados a
+formar parte del equipamiento para emergencias de los vehículos para ser ubicados
+sobre la calzada, para señalar, de día y de noche, la presencia de vehículos detenidos.
+2. Definiciones.
+A los fines de la presente Resolución, se entiende por:
+2.1 "Triángulo de preseñalización", uno de los dispositivos previstos en el párrafo 1
+anterior y que tenga la forma de un triángulo equilátero;
+2.2 "Tipo de triángulo", los triángulos de preseñalización que no presentan entre sí
+diferencias esenciales, estas diferencias pueden, en particular, consistir:
+2.2.1 la marca de fábrica o comercial,
+2.2.2 las características ópticas,
+2.2.3 los elementos característicos geométricos y mecánicos de la construcción;
+2.3 "dispositivo catadióptrico", un conjunto dispuesto a ser utilizado y que comprende
+una o varias ópticas catadióptricas;
+2.4 "cara anterior del triángulo", la cara que contiene los elementos ópticos;
+2.5 "eje del triángulo de preseñalización", la recta perpendicular a la cara anterior del
+triángulo y que pasa por su centro;
+2.6 "material fluorescente", un material que, bien su masa, bien su superficie cuando
+son excitadas por la luz del día, presenta el fenómeno de fotoluminiscencia, cesando,
+en tiempo relativamente corto, después de la excitación;
+2.7 "factor de luminancia", la relación de la luminancia del cuerpo considerado, con la
+luminancia de un difusor perfecto en condiciones idénticas de iluminación y de
+observación.
+2.8 "coeficiente de intensidad luminosa" (CIL), el cociente de la intensidad luminosa
+reflejada, en la dirección considerada, por la iluminación del dispositivo catadióptrico por
+los ángulos de iluminación de divergencia y de rotación dados. La iluminación se medirá
+en un plano perpendicular a los rayos incidentes.
+[página 5]
+3. Especificaciones generales.
+3.1 EI triángulo de preseñalización, vacío en el centro, incluye un borde rojo compuesto
+de una banda catadióptrica exterior y de una banda fluorescente interior. Será
+soportado a una cierta altura respecto de la superficie de la calzada. EI vacío central y
+las bandas fluorescentes y catadióptricas están limitadas por contornos triangulares
+equilateros concéntricos.
+3.2 La construcción de los triángulos de preseñalización debe ser tal, que cuando se
+empleen normalmente (utilización en carretera y transporte en el vehículo), conserven
+las características impuestas y que quede asegurado su buen funcionamiento.
+3.3 Los elementos ópticos del triángulo de preseñalización no deben ser fácilmente
+desmontables. Las diferentes partes que constituyen el triángulo de preseñalización
+deben asegurar una buena estabilidad sobre la carretera, y no deben ser fácilmente
+desmontables. Si el triángulo debe plegarse para ser colocado en su estuche, las partes
+móviles, comprendido su soporte, no deben ser separables.
+3.4 En posición de utilización sobre la carretera, la cara anterior del triángulo debe estar
+vertical. Esta condición se considera satisfecha si la dirección del eje del triángulo de
+preseñalización, no forma, con el plano de base, un ángulo superior a 50
+3.5 la superficie anterior del triángulo de preseñalización debe ser fácil de limpiar; en
+particular, no debe ser rugosa y las protuberancias que pueda presentar no deben
+impedir su limpieza.
+3.6 EI triángulo de preseñalización y de su soporte, no deben presentar bordes
+cortantes o ángulos vivos.
+3.7 EI triángulo de preseñalización debe estar acompañado de su estuche de
+protección, si existe, contra el efecto de los agentes exteriores, particularmente en el
+transporte; No obstante, se permitirá suministrar el triángulo de preseñalización sin
+estuche, en los casos en los que la protección requerida esté asegurada por otros
+medios. Estos medios estarán indicados en la descripción mencionada en el párrafo 3.2
+y en la ficha de comunicación de acuerdo con el párrafo 5.3 de la presente Resolución.
+3.8 Cada triángulo estará obligatoriamente acompañado de un ejemplar de las
+instrucciones sobre el modo del montaje para su utilización.
+4. Especificaciones particulares.
+4.1 Especificaciones de formas y de dimensiones.
+4.1.1 Forma y dimensiones del triángulo. (ver ANEXO 1)
+4.1 . 1.1 Los lados del triángulo tendrán una longitud teórica de 500 +/- 50 mm
+[página 6]
+4.1.1.2 Los elementos catadióptricos estarán dispuestos a lo largo del borde, en el
+interior de una banda cuyo ancho deberá ser constante y estar entre 25 mm y 50 mm.
+4.1.1.3 Entre ei borde exterior del triángulo y la banda catadióptrica, puede existir un
+borde de 5 mm de ancho máximo cuyo color puede no ser necesariamente rojo.
+4.1 . 1.4 La banda catadióptrica puede ser continua o no. En este caso, la superficie libre
+det soporte debe ser de color rojo.
+4.1 .1.5 La superficie fluorescente será contigua a los elementos catadióptricos. Estará
+dispuesta simétricamente a 10 largo de los tres lados del triángulo y dispondrá una
+superficie mínima útil en servicio de 315 cm . No obstante puede haber, entre las
+superficies catadióptricas y la fluorescente, un borde, continuo o no, de 5 mm de ancho
+como máximo y cuyo color puede no ser necesariamente rojo.
+4.1.1.6 La parte vacía central del triángulo, tendrá un lado con longitud mínima de 70
+mm (fig. 1 del ANEXO 1).
+4.1.2 Forma y dimensiones del soporte.
+4.1.2.1 La distancia entre la superficie de apoyo y el lado inferior del triángulo de
+preseñalización, debe ser, como máximo, de 300 mm.
+4.2 Especificaciones colorimétricas.
+4 2.1 Dispositivo catadióptrico
+4 2.1.1 EI dispositivo catadióptrico debe estar coloreado en rojo en su masa.
+4.2.1.2 EI dispositivo catadióptrico, iluminado por el patrón A de la CIE, en un ángulo de
+divergencia de 1/3 0 y con un ángulo de iluminación o, si se produce una
+reflexión incolora sobre la superficie de entrada con V = +/-50 H = 00, las coordenadas
+tricromátricas del flujo luminoso reflejado rojo, deben estar situadas en el interior de los
+límites siguientes:
+Límite hacia el amarillo y 0,335
+Límite hacia el púrpura z 0,008
+4.2.1 EI color será ensayado según el método descrito en el párrafo 2.1 del anexo 3.
+[página 7]
+4 2.2 Materiales fluorescentes
+4.2.2.1 Los materiales fluorescentes deben estar, bien coloreados en la masa, bien
+constituidos por revestimientos independientes, aplicados sobre la superficie del
+triángulo.
+4.2.2.2 Cuando esté iluminado el material fluorescente por el iluminante normalizado C
+de la CIE, las coordenadas tricromátricas, de la luz reflejada y emitida por fluorescencia,
+deben situarse en una zona cuyos ángulos están determinados por las coordenadas
+siguientes [siendo el ángulo de iluminación de 450 y siendo observada la muestra desde
+un ángulo de 900 (geometría de medida 450/00)]:
+Punto
+x
+1
+0,690
+0,310
+2
+0,595
+0,315
+3
+0,569
+0,341
+4
+0,655
+0,345
+4.2.2.3 EI color será ensayado conforme al método descrito en el párrafo 2.2 del anexo
+3.
+4.3 Especificaciones fotométricas
+4.3.1 Dispositivo catadióptrico
+4.3.1.1 Los valores del CIL de la totalidad de las ópticas catadióptricas, deben, al
+menos, ser iguales a las de la tabla siguiente, expresadas en milicandelas por lux, para
+los ángulos de divergencia y los ángulos de iluminación "P" que se indican a
+continuación.
+V vertical l)
+1-1 horizontal (02)
+20'
+Angulo de
+l)ivergencia 10 30'
+Ángulo de iluminación "P"
+00
+00 0 ± 50
+8000
+600
+± 200
+00
+4000
+200
+00
+± 300
+1750
+100
+00
+400
+600
+50
+4.3.1.2 Los CIL, medidos sobre partes cualquiera del dispositivo catadióptrico, con 50
+mm de longitud, deben ser tales que la relación entre el valor máximo y el valor mínimo,
+no exceda de 3. Estas partes se tomarán de las zonas comprendidas entre las dos
+perpendiculares que descienden desde los vértices del triángulo interior, a los costados
+[página 8]
+del citado triángulo. Esta exigencia se aplica para la divergencia de 20' y para los
+ángulos de iluminación V=OO H=OO ó +/-50 y V=+/-200 y H=OO.
+4.3.1.3 Se permitirá una heterogeneidad de la iluminancia para los ángulos de
+iluminación de V=OO H=+/-300 y V=OO H=+/-400, a condición que la forma triangular
+permanezca netamente perceptible, para una divergencia de 20' y una iluminación de
+aproximadamente 1 lux.
+4.3.1.4 Las medidas citadas anteriormente, serán efectuadas de acuerdo con el método
+descrito en el párrafo 4 del anexo 3 del presente reglamento.
+4.3.2 Materiales fluorescentes
+4.3.2.1 EI factor de iluminancia, que comprende la iluminancia producida por reflexión y
+por fluorescencia, no deberá ser inferior al 30 %.
+4.3.2.2 EI factor de iluminancia se efectuará de conformidad al método descrito en el
+párrafo 3 del anexo 3.
+5. Procedimiento a seguir para los ensayos.
+Todo triángulo de preseñalización y su estuche, si existe, deberán satisfacer las
+verificaciones y ensayos descritos en el anexo 3 de la presente Resolución
+[página 9]
+Anexo IA Y DIMENSIONES DEL TRIÁNGULO DE PRESEÑALIZACIÓN Y DE SU
+SOPORTE
+EnrrJe de EI rr*ltTl t-nag. '-Je
+-25
+50
+catadióptricEI rct_iü
+70
+-•.arte tll]r-lresl-zente,
+Sijpetfltie total
+Dimensiones en mm
+Figura
+500 -t 50
+8
+[página 10]
+CIII/
+APARATO PARA EL ENSAYO DE SEPARACIÓN DEL SUELO
+so
+Agujero cuadrado
+300-600 (Serie 03)
+Figura 2
+[página 11]
+Anexo 2
+DETERMINACIÓN DE LA RUGOSIDAD DEL REVESTIMIENTO DE LA CARRETERA
+MÉTODO DE LA SUPERFICIE CON ARENA
+1. Objeto.
+1.1 Este método tiene por objeto describir y determinar, en cierta medida, la rugosidad
+geométrica de la parte del revestimiento de la carretera sobre el cual se sitúa el
+triángulo de preseñalización durante el ensayo de estabilidad al viento, como se
+prescribe en el párrafo 10 del ANEXO 3.
+2. Principio.
+2.1 Un volumen conocido "V" de arena, se distribuye uniformemente sobre la calzada
+formando una superficie circular. La relación del volumen empleado respecto a la
+superficie cubierta "S" se define como "profundidad media de la arena", HS, y se
+expresa en mm
+2.2 EI ensayo se efectúa con arena seca de granos redondeados con granulometría de
+0,160 0,315 mm. EI volumen de arena será de 25 ml +/-0,15 ml. La arena se distribuirá
+sobre la superficie de ensayo por medio de un disco plano de 65 mm de diámetro,
+revestido por una cara con una placa de caucho de 1,5 a 2,5 mm de espesor y provista
+de una empuñadura apropiada en la otra cara. Si el diámetro de la superficie circular
+recubierta de arena es D mm, la profundidad media de arena se calcula por medio de la
+fórmula siguiente:
+3. Ensayo.
+4
+25
+-.—z—..- 1 03 m m
+3.1 La superficie sobre la cual se realiza el ensayo debe estar seca y previamente
+cepillada por medio de un cepillo suave para eliminar toda irregularidad.
+3.2 La arena, que ha sido bien comprimida en un recipiente apropiado, a continuación
+se vuelca sobre la superficie de ensayo para formar un solo montón. Con el disco
+recubierto de caucho, se distribuye cuidadosamente la arena sobre la superficie por
+movimientos circulares repetidos, de forma que se obtenga una superficie circular 10
+más extensa posible. La arena deberá cubrir todas las depresiones y todos los huecos.
+[página 12]
+3.3 De la superficie así obtenida se miden dos diámetros, uno perpendicular al otro. EI
+valor medio se redondeará a los 5 mm más próximos y la profundidad de arena HS, se
+calcula por medio de la fórmula del párrafo 2.2.
+3.4 Se efectuarán seis ensayos sobre el revestimiento. Las zonas de ensayo estarán
+repartidas 10 mas uniformemente posible sobre la superficie de ensayo. La media
+aritmética de los resultados obtenidos se considerará como la profundidad media HS de
+arena sobre el revestimiento en el lugar donde se sitúe el triángulo de se alización.
+[página 13]
+Anexo 3
+PROCEDIMIENTOS DE ENSAYOS
+1. Ensayos generales.
+1.1 Después de la verificación respecto a las especificaciones generales (párrafo 3
+delpresente Reglamento) y de las especificaciones de forma y de dimensiones (párrafo
+4.1 del presente Reglamento), todas las muestras serán sometidas al ensayo de
+resistencia al calor (párrafo 7 del presente anexo 3) y examinadas, una hora después
+como mínimo.
+1.2 EI valor del CIL de las cuatro muestras de triángulos de señalización presentadas,
+se medirá en un ángulo de observación de 20' y un ángulo de iluminación de los
+componentes V = 00 H = +/-50; este ensayo se efectuará conforme al método descrito
+en et párrafo 4 siguiente.
+1.3 Dos triángulos que den los valores mínimo y máximo del CIL en el curso de los
+ensayos efectuados conforme al párrafo 1.2 anterior, serán comparados visualmente,
+en pleno día y a una distancia de 30 m, por un observador que tenga una visión normal
+de los colores. No debe existir una marcada diferencia en el color o en la iluminancia
+del material fluorescente entre las cuatro muestras.
+1 4 Las dos muestras que hayan dado los valores mínimo y máximo del CIL en los
+ensayos efectuados según el párrafo 1.3, se someterán a continuación a los ensayos
+siguientes:
+1 4.1 Medida de los valores del CIL, para los ángulos de observación y de iluminación
+mencionados en los párrafos 4.3.1.1 y 4.3.1.2 de la presente Resolución, por el método
+descrito en el párrafo 4 siguiente. A continuación también se puede proceder a la
+inspección visual que se indica en los párrafos 4.3.1.3 y 4.3.1.4 de la presente
+Resolución.
+1 4.2 Ensayo del color de la luz reflejada por efecto catadióptrico según el párrafo 2.1
+siguiente, sobre la muestra que, después de la inspección visual, parezca que tenga las
+características colorimétricas menos favorables o como alternativa, se examinará la
+muestra que tenga el CIL más elevado.
+1 4.3 Ensayo de separación del suelo conforme al párrafo 5 siguiente.
+1 4.4 Ensayo de resistencia mecánica conforme al párrafo 6 siguiente.
+1.5 Una muestra distinta a las que se citan en el párrafo 1.4 será sometida a los
+ensayos siguientes:
+[página 14]
+1.5.1 Ensayo de resistencia a la penetración del agua en el dispositivo catadióptrico,
+según el párrafo 11.1 del presente anexo 3 ó en su caso, de la cara posterior del espejo
+catadióptrico según el párrafo 11.2.
+1.6 La segunda muestra, distinta a las que se citan en el párrafo 1.4, será sometida a
+los ensayos siguientes:
+1.6.1 Ensayo de resistencia al agua, conforme al párrafo 8 del presente anexo 3.
+1 6.2 Ensayo de resistencia a los carburantes, conforme al párrafo 9 del presente anexo
+3.
+1.6.3 Ensayo de estabilidad al viento conforme al párrafo 10 del presente anexo 3.
+1 .7 Después de los ensayos especificados en el párrafo 1.4 anterior, las dos muestras
+presentadas serán sometidas a los ensayos siguientes:
+1 .7,1 Ensayo del color, conforme al párrafo 2.2 del presente anexo 3.
+1 .7.2 Determinación del factor de iluminancia, conforme al párrafo 3 del presente anexo
+3.
+1.7.3 Ensayo de la resistencia a la intemperie, conforme al párrafo 12 del presente
+anexo 3.
+2. Ensayos del color.
+2.1 Color de los dispositivos catadióptricos.
+2.1.1 EI color de los dispositivos catadióptricos sometidos a los ensayos conforme al
+párrafo 4.2.1 de la presente Resolución, puede ser verificado visualmente por
+observadores que tengan una visión normal de los colores, comparándolo con los
+dispositivos coloreados que tengan las coordenadas tricromáticas comprendidas entre
+los límites del color definidos en el párrafo 4.2.1.2 de la presente Resolución.
+2.1.2 Si, después de este ensayo, subsisten las dudas, se asegurará que se respetan
+las especificaciones colorimétricas determinando las coordenadas tricromáticas de la
+muestra más dudosa.
+2.2 Color del material fluorescente.
+2.2.1 EI color del material fluorescente sometido a los ensayos conforme al párrafo
+4.2.2 del presente Reglamento, puede ser verificado visualmente por observadores que
+tengan una visión normal de los colores, comparándolo con materiales fluorescentes
+que tengan coordenadas tricromáticas comprendidas entre los límites de color definidas
+en el párrafo 4.2.2.2 del presente Reglamento. La iluminación y la observación de las
+[página 15]
+muestras deben respetar la geometría de medida de 450/00, y la iluminación debe
+elegirse de manera que se asegure una visión fotóptica.
+2.2.2 Si, después del ensayo subsisten dudas, se asegurará que se respetan las
+especificaciones colorimétricas determinando las coordenadas tricromáticas de la
+muestra más dudosa.
+3. Determinación del factor de iluminancia del material fluorescente.
+3.1 Para determinar el factor de iluminancia, se iluminará la muestra por medio de una
+fuente constituida por el iluminante C de la CIE, con un ángulo de iluminación de 450
+respecto a la vertical, midiéndose la luz emitida por la luminosidad y la reflexión
+observada en la dirección de la vertical (geometría 450/00). EI factor de iluminancia
+puede obtenerse:
+3.1.1 comparando la iluminancia de la muestra L con la iluminancia Lo de un difusor
+perfecto que tenga un factor de iluminancia po conocido, en condiciones idénticas de
+iluminación y de observación; el factor de iluminancia de la muestra, se obtendrá por
+la fórmula:
+[30
+Lo
+3.1.2 Si el color del material fluorescente ha sido objeto de una medida colorimétrica
+conforme al párrafo 2.2.2 siguiente, el factor de iluminancia viene dado por la relación
+donde Y representa la componente tricromática de la muestra e Yo la del
+difusor perfecto.
+4. Medida del valor del CIL de los dispositivos catadiópticos.
+4.1 Se supone, para esta medida, que la iluminación H = V = 0 del triángulo de
+preseñalización en su posición de utilización tiene una dirección paralela al plano de
+base, y perpendicular al lado inferior del triángulo, el cual, a su vez es paralelo al citado
+plano de base.
+4.2 La medida se efectuará por el método citado en el anexo 4 del presente
+Reglamento.
+5. Ensayo de separación del suelo.
+5.1 EI triángulo de preseñalización debe satisfacer los requisitos siguientes:
+5.1.1 Para este ensayo, se utilizará el dispositivo representado en la figura 2 del
+ANEXO 1 del presente Reglamento, que tiene la forma de una pirámide truncada
+invertida, que se sitúa sobre un plano de base horizontal.
+[página 16]
+49
+5.1.2 Los diferentes puntos de apoyo del triángulo sobre el suelo, serán sucesivamente
+colocados en el centro 0 del dispositivo de ensayo. Durante el ensayo de cada punto de
+apoyo, es necesario encontrar una posición del dispositivo de ensayo relativa al
+triángulo de señalización y de su soporte, que sea favorable al triángulo y que asegure:
+5.1.2.1 Que todos los apoyos reposen simultáneamente sobre el plano de base,
+5.1.2,2 Que en el exterior de la superficie cubierta por el dispositivo de ensayo, la
+distancia entre el plano de base y las partes del triángulo o del soporte sea al menos
+igual a 50 mm (con la excepción de los apoyos propiamente dichos).
+6. Ensayo de resistencia mecánica.
+6.1 EI triángulo de preseñalización será instalado conforme a las prescripciones del
+fabricante y sus bases estarán sólidamente fijadas. Se ejercerá sobre el vértice del
+triángulo, paralelamente a la superficie de apoyo y perpendicularmente al lado inferior
+del triángulo, una fuerza de 2 N.
+6.2 EI vértice del triángulo no debe desplazarse en la dirección de la fuerza más de 5
+cm.
+6.3 Después del ensayo, la posición del dispositivo no debe haberse desviado
+sensiblemente de la posición de origen.
+7. Ensayo de resistencia al calor y a las bajas temperaturas.
+7.1 EI triángulo de preseñalización, situado en su estuche de protección, si existe, será
+mantenido durante 12 horas consecutivas en una atmósfera seca a la temperatura de
+60 oc +/-2 oc
+7.2. A continuación, no se constará, visualmente, ninguna deformación sensible o grieta
+en el triángulo, en particular, del dispositivo catadióptrico. EL estuche de protección
+debe poder abrirse fácilmente y no estará adherido al triángulo.
+7.3 Después del ensayo de resistencia al calor, seguido de un periodo de 12 horas
+consecutivas a una temperatura de 25 0C +/-50C, eI triángulo de preseñalización dentro
+de su estuche de protección, debe ser mantenido durante 12 horas más en una
+atmósfera seca a la temperatura de - 40 0C +/-2 0C
+7 4 Inmediatamente después de la salida de la cámara fría, no debe poder observarse
+en el dispositivo y particularmente sobre sus partes ópticas ninguna deformación visible
+ni rotura. Si dispone de estuche de protección este debe poder ser abierto normalmente
+sin desgarrarse, ni adherirse al triángulo de preseñalización.
+8. Ensayo de resistencia al agua.
+[página 17]
+Si el triángulo de preseñalización es plegable, será montado en su posición de
+utilización y sumergido durante dos horas tumbado sobre el fondo de un recipiente que
+contenga agua a 25 0C +/-50 C de forma que la cara activa, vuelta hacia arriba, este
+situada a 5 cm por debajo de la superficie del líquido. A continuación se retira y se pone
+a secar. Ninguna parte destinada a la señalización, debe presentar signos evidentes de
+deterioro susceptibles de influir sobre la efectividad del triángulo.
+9. Ensayo de resistencia a los carburantes.
+EI triángulo y su estuche de protección serán sumergidos separadamente en un
+recipiente que contenga una mezcla de 70% de n-heptano y 30% de tolueno. Después
+de 60 segundos, serán retirados del recipiente y escurridos ligeramente. EI triángulo se
+introducirá en su estuche y el conjunto se mantendrá plano en atmósfera tranquila. Una
+vez completamente seco, el triángulo no debe adherirse a su estuche, ni presentar
+modificaciones de superficie destacables visualmente, ni deterioros aparentes; se
+tolerará una ligera fisuración de la superficie.
+10. Ensayo de estabilidad al viento.
+10.1 EI triángulo instalará en un túnel de viento, sobre una base cuyas dimensiones
+sean aproximadamente 1,50 m por 1,20 m, constituida por un revestimiento de
+carretera del tipo normalmente utilizado por las autoridades competentes. Este
+revestimiento está caracterizado por su rugosidad geométrica HS = 0,5 mm +/-0,05 mm
+definida y determinada por el método de la superficie de arena, expuesta en el ANEXO
+2 de la presente Resolución.
+10.2 Instalado de esta forma, se someterá al triángulo, durante 3 minutos a un viento
+que ejerza una presión dinámica de 180 Pa (aproximadamente 60 Km/h en condiciones
+normales), paralelamente a la superficie de apoyo y en la dirección considerada como
+más desfavorable para la estabilidad.
+10.3 EI triángulo no debe,
+10.31 ni girarse.
+10.3.2 ni desplazarse. No obstante se admitirán ligeros desplazamientos de los puntos
+de contacto con ei revestimiento, que no excedan de 5 cm.
+10.4 La parte triangular del dispositivo no debe girarse más de 10 0 alrededor de un eje
+horizontal o de un eje vertical con respecto a su posición inicial.
+11. Ensayo de resistencia del dispositivo catadióptico.
+11.1 Ensayo de resistencia a la penetración de agua
+11.1 1 EI triángulo (después de montarse si se trata de un triángulo plegable) es
+sumergido durante 10 minutos en un recipiente de agua a 50 0C +/-5 0C, situando el
+[página 18]
+punto mas alto de la parte superior de la superficie reflectante, aproximadamente 20
+mm por debajo de la superficie del agua. Inmediatamente después, se sumergirá en las
+mismas condiciones en un recipiente de agua a 25 0C +/-5 0C
+11 1.2 Después de este ensayo, el agua no debe haber penetrado en la cara reflectante
+del dispositivo catadióptrico. Si un examen visual detecta sin ambigüedad la presencia
+de agua, el dispositivo se considera que no satisface el ensayo.
+11 1.3 Si el examen visual no permite detectar la presencia de agua, o en caso de
+duda, se medirá de nuevo el CIL en las mismas condiciones que las especificadas en el
+párrafo 1.2 anterior, después de haber sido ligeramente sacudido el dispositivo
+catadióptrico para eliminar el exceso de agua exterior. EI CIL medido de esta manera,
+no debe ser inferior en más del 40% de los valores obtenidos antes del ensayo.
+11.2 Ensayo de resistencia de la cara posterior accesible del espejo catadióptrico.
+Después de haber cepillado la cara posterior del espejo catadióptrico con un cepillo de
+nylon duro, se recubre esta cara para humedecerla fuertemente con una mezcla de
+70% de n-heptano y 30% de tolueno, durante un minuto. A continuación se limpia de la
+mezcla y se deja secar el espejo catadióptrico. Después de la evaporación, se cepilla la
+cara posterior con el mismo cepillo anterior. A continuación se mide el CIL como se
+especifica en el párrafo 1.2 anterior, después de haber recubierto de tinta china toda la
+superficie posterior del espejo. Medido de esta manera, el CIL no debe ser inferior en
+mas de un 40% de los valores obtenidos antes del ensayo.
+12. Ensayo de resistencia a la intemperie del factor de iluminancia y del color de
+los materiales fluorescentes.
+12.1 Una de las muestras de material fluorescente, será sometida al ensayo de
+resistencia a la temperatura y a la irradiación descrito en la norma ISO 105 de 1978,
+hasta que la muestra de referencia no 5 haya alcanzado el contraste no 4 de la escala
+de grises.
+12.2 Después de este ensayo, las coordenadas del color del material fluorescente
+deben satisfacer la especificación del párrafo 4.2.2.2 de la presente Resolución. Su
+factor de iluminancia (ver párrafo 3 del presente ANEXO 3) que debe ser al menos del
+30 0/0, no debe haber aumentado en más del 5 % respecto al valor obtenido conforme al
+párrafo 1.7.2.
+12.3 La muestra no debe presentar deterioros aparentes, tales como fisuras,
+raspaduras o despegues del material fluorescente.
+1
+[página 19]
+Anexo 4
+MÉTODO DE MEDIDA DEL CIL DE DISPOSITIVO CATADIÓPTRICO
+1. Definiciones.
+La terminología está explicada en las figuras 1 a 4 del presente ANEXO 4.
+2. Especificaciones dimensionales y físicas relativas a la fotometría de los
+retrorreflectores.
+2.1 Se utilizará el sistema angular de la CIE que se ilustra en la figura 1
+La figura 2 representa un soporte (goniómetro) apropiado.
+2.2 La distancia de medida se elegirá en un orden de una magnitud que permita
+respetar al menos los límites indicados para los ángulos b y en la figura 4, pero no
+debe ser inferior a 10 m o al equivalente óptico de esta distancia.
+2.3. Iluminación del retrorreflector.
+La iluminación de la superficie útil del retorreflector, medida perpendicularmente a la luz
+incidente, debe ser suficientemente uniforme. Para verificar esta uniformidad, se
+utilizará un elemento de medida cuya superficie sensible no exceda de la décima parte
+de la superficie a examinar. La variación entre los valores de iluminación debe
+satisfacer la condición siguiente:
+valor máximo
+1,05
+valor mínimo
+2.4 Temperatura de color y reparto espectral de la fuente
+La fuente utilizada para iluminar el retrorreflector debe representar 10 más fielmente
+posible el iluminante A de la CIE, tanto desde el punto de vista de la temperatura de
+color como de la repartición espectral.
+2.5 Cabeza fotométrica (elemento de medida).
+2.5.1 La cabeza fotométrica debe regularse a la efectividad luminosa espectral, para el
+observador de referencia fotométrica CIE en visión fotóptica.
+2.5.2 EI aparato no debe mostrar cambios perceptibles de la sensibilidad local en la
+zona de su abertura; en caso contrario, será necesario disponer de los dispositivos
+necesarios, por ejemplo una ventana difusora situada a una cierta distancia frente a la
+superficie sensible.
+2.5.3 La experiencia ha demostrado que la desalinización de las cabezas fotométricas
+puede resultar un problema, dadas las pequeñas cantidades de los que son normales
+[página 20]
+en la fotometría de los retrorreflectantes. Por ello se recomienda efectuar, sobre la
+cabeza fotométrica, una verificación a dos niveles de iluminación comparables.
+2.6 Influencia de una reflexión regular.
+La intensidad y el reparto de la reflexión regular de la superficie del dispositivo
+catadióptrico depende de la planitud y brillo de la superficie. En general, el mejor medio
+de evitar la reflexión regular, es situar el eje de referencia de forma que la reflexión
+regular esté dirigida hacia el lado de la fuente opuesta a la cabeza fotométrica (por
+ejemplo a 01 = 5)
+3. Precauciones a tomar para la medida de la fotometría de la retrorreflexión.
+3.1 Luz residual y difusa.
+3.1.1 Como se trata de medir niveles de luz muy bajos, son necesarias precauciones
+especiales para minimizar los errores debidos a la luz difusa. Las superficies del plano
+trasero de la muestra y del portamuestras deben ser negro mate y el campo de visión
+de la cabeza fotométrica, así como la anchura angular de la luz emitida tanto por la
+muestra como por la fuente, deben ser limitadas al máximo.
+3.1.2 Para proteger las muestras y la cabeza fotométrica de la luz relativamente larga,
+reflejada por el suelo y las paredes del recinto de ensayo, se utilizará una cámara o
+habitáculo. No debe darse demasiada importancia, si a partir de la cabeza fotométrica,
+se verifican fuentes de luz difusa.
+3.1.3 Un medio útil de reducir la cantidad de luz difusa en el laboratorio consiste en
+utilizar, como fuente un sistema óptico del tipo de proyector de diapositivas. Con este
+sistema, puede utilizarse un diafragma iris o con aberturas apropiadas, para reducir la
+zona iluminada de la muestra, a la superficie mínima necesaria para obtener una
+iluminación uniforme en su superficie.
+3.1.4 En las mediciones, siempre debe tenerse en cuenta la luz difusa residual cuando
+la muestra está recubierta, de un papel negro mate opaco plegado en acordeón y que
+tenga su mismo tamaño y forma, o de una superficie especular convenientemente
+orientada con una trampa de luz. EI valor obtenido, debe sustraerse del valor medido
+sobre ei dispositivo catadióptrico.
+3.2 Estabilidad del aparato.
+3.2.1 La fuente luminosa y la cabeza fotométrica deben permanecer estables durante
+toda la duración del ensayo. Dado que la sensibilidad y la adaptación a la función V (Z)
+de la mayoría de las cabezas fotométricas varían según la temperatura, la temperatura
+ambiente del laboratorio no debe cambiar significativamente durante este periodo.
+Deberá preverse un tiempo suficiente para permitir la estabilización del aparato antes
+del comienzo de las medidas.
+[página 21]
+3.2.2 La alimentación de la fuente de luz debe estar convenientemente estabilizada, con
+el fin de que la intensidad luminosa de la lámpara pueda mantenerse en los límites
+exigidos durante la duración del ensayo.
+3.2.3 Un medio útil de verificar la estabilidad general del fotómetro catadióptrico durante
+una serie de ensayos, consiste en medir periódicamente el CIL de una muestra de
+referencia
+3.2.4 Otra técnica consiste en incorporar al aparato un detector auxiliar para verificar o
+controlar el rendimiento de la fuente de luz. Pueden verificarse las indicaciones
+suministradas por este detector para controlar cualquier cambio en la lectura, pero una
+solución más perfeccionada consiste en utilizar estas indicaciones para modificar
+electrónicamente la sensibilidad de la cabeza catadióptrica principal de fotómetro y
+compensar automáticamente las variaciones del flujo luminoso emitido por la fuente.
+[página 22]
+Figura 1: Sistema angular de
+la CIE que permite especificar y medir los
+retrorreflectores. EI primer eje es
+perpendicular al plano que contiene eI eje de
+observación y el eje de iluminación. EI segundo eje es perpendicular a la vez al primer
+eje y al eje de referencia. Los ejes,
+ángulos y direcciones de rotación indicados, son
+todos positivos.
+Figura 1
+2
+Referencias de figura:
+R: Eje de referencia
+1 : eje
+0: Eje de observación
+l: Eje de iluminación
+2: Segundo eje (se desplaza con Bl)
+a: Angulo de observación
+PI, p: Angulo de entrada
+Eje de rotación
+[página 23]
+Referencias de la figura'
+1 : Eje fijo que asegura el movimiento alrededor del primer eje
+0: Cabeza fotométrica
+l: Fuente
+P: Dispositivo catadióptrico
+2: Eje móvil que asegura el movimiento alrededor del segundo eje
+Representación de mecanismo de un goniómetro para sistema angular CIE para
+especificación y medición de catadióptricos.
+Todos los ejes, ángulos y direcciones de rotación son positivos.
+[página 24]
+Eic de referencia:
+{vtpcndicular a la
+supctftcie
+retrorrcflcctantc
+F,jc dc
+retcrcncla
+Dispositivo
+catadióptrico
+I sposi tivo
+catadióptrico
+Iluminación
+(entrada)
+ángulo O
+Eje dc observación
+ángulo de observación
+Distribución de la intensidad
+retrorreflejada
+6
+Eje de iluminación
+cabeza fotométrica
+vista del conductor
+(ángulo dc divergencia
+indicado en cl presente
+Reglamento)
+Fuente.
+Faro de vehículo
+Cabeza
+fotométrica
+Fuente
+A los fines del prcscnte Rcglamento
+sc fijan los límites siguientes:
+10'

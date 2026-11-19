@@ -1,0 +1,89 @@
+Resolución GMC N° 23/14
+Título: FARMACOPEA MERCOSUR AJUSTES DE LAS CONDICIONES CROMATOGRÁFICAS EM SISTEMAS ISOCRÁTICOS DE CROMATOGRAFIA LÍQUIDA DE ALTA EFICIENCIA
+Fecha de aprobación: 27/07/2014
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 53315_RES_023-2014_ES_Farmacopea HPLC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2959).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 23/14
+
+
+FARMACOPEA MERCOSUR: AJUSTES DE LAS CONDICIONES CROMATOGRÁFICAS EN SISTEMAS ISOCRÁTICOS DE CROMATOGRAFÍA LÍQUIDA DE ALTA EFICIENCIA
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, la "Farmacopea MERCOSUR: ajustes de las condiciones cromatográficas en sistemas isocráticos de cromatografía líquida de alta eficiencia", que consta como Anexo y forma parte de la presente Resolución.
+
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 01/II/2015.
+
+
+      XLIII GMC EXT. - Caracas, 27/VII/14.
+
+ANEXO
+
+FARMACOPEA MERCOSUR: AJUSTES DE LAS CONDICIONES CROMATOGRÁFICAS EN SISTEMAS ISOCRÁTICOS DE CROMATOGRAFÍA LÍQUIDA DE ALTA EFICIENCIA
+
+Los métodos analíticos presentados en esta farmacopea fueron validados y en la mayoría de las aplicaciones se muestran plenamente aceptables en términos de especificidad, exactitud, precisión, linealidad, rango, robustez y cuando corresponde en límites de detección y cuantificación.
+
+Considerando que las técnicas deben ser verificadas en cuanto a su estado de validación, respecto a las formulaciones objeto de análisis, pueden existir circunstancias en que se torna necesaria la realización de alteraciones, teniendo en cuenta las necesidades específicas.
+
+De esta forma, se presenta un conjunto de parámetros que pueden ser modificados, aisladamente o en conjunto y sin la necesidad de someter el método a re-validación, siempre que la documentación generada con la utilización del método evidencie que los resultados son equivalentes a los obtenidos con el método oficial. A continuación se detallan las máximas variaciones permitidas, debiéndose siempre verificar los parámetros de aptitud del sistema especificados en la monografía individual.
+
+Composición de la fase móvil: ± 30% relativo o ± 2 % absoluto del componente minoritario (el que sea mayor). Ningún otro componente podrá superar el 10% absoluto.
+
+pH del componente acuoso de la fase móvil: ± 0.2 unidades y en caso de análisis de sustancias no ionizables ± 1.0 unidades, a menos que se especifique lo contrario en la monografía individual.
+
+Concentración de sal en un buffer: ± 10%, siempre que se cumpla con la variación de pH permitida.
+
+Volumen de inyección: se acepta una disminución del volumen de inyección hasta tanto lo permitan el límite de cuantificación y la precisión.
+
+Parámetros de la columna:
+
+Dimensiones de la columna:
+- Longitud : ± 70%
+- Diámetro interno: ± 25%, siempre que se mantenga constante la velocidad lineal. Para ello se deberá ajustar el flujo utilizando como orientación la formula F2 = F1 (l2d22)/l1d12
+
+Siendo:
+F1= Flujo establecido en la técnica validada
+F2= Flujo de trabajo
+d1= Diámetro interno de la columna establecido en la técnica validada
+d2 = Diámetro interno de la columna utilizada
+l1= Longitud de la columna establecida en la técnica validada
+l2 = Longitud de la columna utilizada
+
+
+Fase estacionaria:
+- Tamaño de partícula: Se podrá reducir hasta un 50%
+
+Temperatura: ± 10°C; sin exceder 60ºC a menos que en la monografía individual se especifique una temperatura mayor a 60°C, en cuyo caso la temperatura no podrá aumentarse.
+
+Flujo: ± 50% o de acuerdo a la fórmula F2 = F1 (l2d22)/l1d12 en caso de modificarse las dimensiones de la columna.
+
+En ningún caso se permite la modificación en la longitud de onda del detector, cambios en la composición cualitativa de la fase móvil, aumento del tamaño de partícula ni aumento del volumen de inyección.
+
+2

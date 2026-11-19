@@ -1,0 +1,46 @@
+Resolución GMC N° 45/20
+Título: DESPLIEGUE DE ESTACIONES TERRENAS DEL SERVICIO FIJO POR SATÉLITE (TIERRA-ESPACIO) PARA USOS DISTINTOS DE LOS ENLACES DE CONEXIÓN PARA EL SERVICIO DE RADIODIFUSIÓN POR SATÉLITE
+Fecha de aprobación: 26/01/2021
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 82666_RES_045-2020_ES_Despliegue Estaciones Terrenas.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3996).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 45/20
+
+
+DESPLIEGUE DE ESTACIONES TERRENAS DEL SERVICIO FIJO POR SATÉLITE (TIERRA-ESPACIO) PARA USOS DISTINTOS DE LOS ENLACES DE CONEXIÓN PARA EL SERVICIO DE RADIODIFUSIÓN POR SATÉLITE
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución Nº 90/94 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que existe demanda de servicios de comunicaciones por satélite, particularmente en el sentido Tierra-espacio (enlace de subida) en la banda de frecuencias de 13 a 17 GHz.
+
+Que, para atender parte de esta demanda, la Conferencia Mundial de Radiocomunicaciones 2015 (CMR-15) aprobó la Resolución 163 por la que se permite la explotación, en un conjunto específico de países entre los que se encuentran Argentina, Brasil y Uruguay, de la banda de frecuencias 14,5 a 14,75 GHz por parte de estaciones terrenas en el ámbito del servicio fijo por satélite geoestacionario, destinadas a usos distintos de los enlaces de conexión del servicio de radiodifusión por satélite, sujetas a las restricciones técnicas indicadas en las notas de pie 5.509B, 5.509C, 5.509D, 5.509E, 5.509F y 5.510 del Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones.
+
+Que la banda de frecuencias 14,50 a 14,75 GHz se encuentra atribuida en la Región 2 en carácter co-primario a los servicios fijo, móvil y fijo por satélite.
+
+Que, a efectos de obtener un uso adecuado y racional de la referida banda de frecuencias, es conveniente la adopción de un procedimiento simplificado de coordinación que tome en consideración la referida Resolución 163, el artículo 5 del Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones y contemple la actual y futura utilización que cada Estado Parte del MERCOSUR realiza de la misma a diversos servicios de radiocomunicaciones, en particular en zonas de frontera y aledaños.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Adoptar los siguientes criterios de coordinación para el despliegue de estaciones terrenas del Servicio Fijo por Satélite (que no sean enlaces de conexión del Servicio de Radiodifusión por Satélite - BSS) en la banda de frecuencias 14,5 a 14,75 GHz y exclusivamente para comunicación con satélites geoestacionarios, en zonas de fronteras entre los Estados Partes del MERCOSUR:
+
+a)  Las estaciones terrenas que se ubiquen a una distancia superior a 200 km de las fronteras no requieren de la obtención del acuerdo de coordinación de las correspondientes administraciones;
+b) Las estaciones terrenas que se ubiquen a una distancia igual o menor a 200 km de las fronteras requieren de la obtención del acuerdo de coordinación de las correspondientes administraciones;
+c) En cualquier caso el diámetro de antena mínimo será de 6 metros, la densidad espectral de potencia máxima no debe superar -44,5 dBW/Hz a la entrada de la antena y la densidad de flujo de potencia producida por la estación terrena no debe rebasar el valor de -151,5 dB (W/m2 - 4 kHz) producido a todas las altitudes de 0 a 19000 metros sobre el nivel de mar, en cualquier trayecto marítimo desde la costa hasta una distancia de 22 km del punto de la costa definido por la marca de baja mar reconocida oficialmente por cada Estado costero.
+
+Art. 2 - Las administraciones correspondientes deben comunicar anualmente entre si  la nómina de las estaciones terrenas que se desplieguen a distancias ubicadas entre los 200 km y 500 km de las fronteras, así como de aquellas que se coordinen en el marco del literal b) del artículo precedente.
+
+Art. 3 - Las administraciones a las que hace referencia la presente Resolución son aquellas establecidas en el numeral 1.2 del Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones.
+
+Art. 4 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 25/VII/2021.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 26/I/21.
+2

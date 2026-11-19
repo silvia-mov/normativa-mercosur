@@ -1,0 +1,110 @@
+Resolución GMC N° 66/97
+Título: DISPOSICIONES SOBRE SERVICIOS PÚBLICOS DE TELEFONÍA BÁSICA EN ZONAS FRONTERIZAS EN EL MERCOSUR
+Fecha de aprobación: 13/12/1997
+Vigencia: Vigente (Vigente desde el 12/12/2002 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 22351_RES_066-1997_ES_TelBasZonaFron.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1692).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 66/97
+
+
+DISPOSICIONES SOBRE SERVICIOS PUBLICOS DE TELEFONIA BASICA EN ZONAS FRONTERIZAS EN EL MERCOSUR
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº42/93 y 152/96 y la Recomendación Nº5/97 del SGT Nº1 "Comunicaciones".
+
+CONSIDERANDO:
+
+Que la intercomunicación fronteriza se rige por las legislaciones nacionales de los Estados Partes.
+
+La desactualización de la Resolución GMC Nº 42/93 Reglamento Técnico MERCOSUR "Interconexión de Sistemas de Telecomunicaciones de Zonas Limítrofes".
+
+EL GRUPO MERCADO COMUN
+RESUELVE :
+
+Art. 1- Aprobar las "Disposiciones sobre Servicios Públicos de Telefonía Básica en Zonas Fronterizas", que figuran como Anexo y forman parte de la presente Resolución.
+
+Art. 2- Derogar la Resolución GMC Nº42\93 Reglamento Técnico MERCOSUR "Interconexión de Sistemas de Telecomunicaciones de Zonas Limítrofes".
+
+Art. 3 - La presente Resolución entrará en vigencia el 15/I/98.
+
+
+XXVIII GMC - Montevideo, 13/XII/97
+
+
+DISPOSICIONES SOBRE
+SERVICIOS PUBLICOS DE TELEFONIA BASICA EN ZONAS FRONTERIZAS
+
+
+Cuando en el marco de sus atribuciones, las Administraciones y las prestadoras de servicios de telecomunicaciones de los Países Miembros del MERCOSUR negocien entre sí acuerdos relativos a los Servicios Públicos de Telefonía Básica en zonas fronterizas, deberán tener en cuenta los procedimientos, condiciones y demás aspectos referidos en este documento.
+
+
+1. OBJETIVO
+
+La presente Resolución tiene como objetivo definir:
+
+a) los Servicios Públicos de Telefonía Básica en zonas fronterizas así como los procedimientos y condiciones para su prestación.
+
+b) las características de interconexión de las respectivas Redes de Telefonía en zonas fronterizas.
+
+
+2. DEFINICIONES
+
+2.1. Se entiende por Servicio Público de Telefonía Básica Internacional Fronterizo aquél relativo a llamadas establecidas entre dos localidades de países limítrofes miembros del MERCOSUR, cuya distancia entre sí, en línea recta, no sea superior a 50 km.
+
+2.2. Se entiende por Servicio Público de Telefonía Básica Internacional Regional aquél relativo a llamadas establecidas entre regiones situadas en países limítrofes miembros del MERCOSUR, exceptuando las definidas en el numeral 2.1.
+
+2.3. Se entiende por Servicio Público de Telefonía Básica Internacional aquél relativo a cualquier llamada establecida entre dos localidades de países distintos que no esté contemplada en los numerales 2.1. y 2.2.
+
+2.4. Entiéndese por complejo, la unidad funcional que sirve de sede a por lo menos uno de los siguientes organismos gubernamentales que cumplen funciones en la frontera: lnmigración, Fuerza de Seguridad, Aduana, Control Sanitario y Organismos Especializados de Frontera, con las características de cada país, y que tengan una necesidad permanente de comunicación con su similar.
+
+
+3. ASPECTOS DE RED
+
+3.1. Los recursos de telecomunicaciones involucrados serán provistos por las prestadoras de servicios de telecomunicaciones que estén debidamente autorizadas a tal efecto por sus respectivas Administraciones, bajo las condiciones previstas por la normativa técnica vigente en cada País Miembro.
+
+3.2. Los procedimientos operacionales, el mantenimiento preventivo y correctivo y el prorrateo de los costos de implementación, operación y mantenimiento, así como otros aspectos relacionados con los recursos de telecomunicaciones, deberán ser objeto de negociación directa entre las partes involucradas y formalizados a través de acuerdos de interconexión aprobados por las respectivas Administraciones de los Países Miembros.
+
+3.3. En cada País Miembro deberán establecerse los procedimientos específicos que faciliten el transporte fronterizo de personal, material, equipamiento e instrumental destinado a la instalación y mantenimiento de los recursos de telecomunicaciones.
+
+
+4. ASPECTOS DE PRESTACION DE SERVICIOS
+
+4.1. La prestación de los servicios mencionados en estas disposiciones, solamente podrá ser efectuada a través de las prestadoras de servicios de telecomunicaciones que estén debidamente autorizadas, mediante acuerdos entre sí, aprobados por las respectivas Administraciones de los Países Miembros.
+
+4.2. Las prestadoras de los servicios mencionados en estas disposiciones, que estén debidamente autorizadas por las respectivas Administraciones para prestar los mismos, deberán respetar los acuerdos vigentes entre los Países Miembros a los que pertenecen.
+
+4.3. Para el Servicio Público de Telefonía Básica Internacional Fronterizo:
+
+4.3.1. Las prestadoras de servicios de telecomunicaciones que estén debidamente autorizadas por las respectivas Administraciones para prestar el Servicio Público de Telefonía Básica Internacional Fronterizo deberán definir en sus acuerdos la información a intercambiar.
+
+4.3.2. El cumplimiento del criterio de los 50 Km. de distancia entre origen y destino de las llamadas será responsabilidad de la prestadora de origen de la llamada.
+
+4.3.3. Mientras se respete el criterio de los 50 km., el encaminamiento y los medios a través de los cuales se cursen las llamadas será acordado por las prestadoras.
+
+
+4.3.4. Periódicamente, las partes involucradas, tanto Administraciones y prestadoras, realizarán evaluaciones conjuntas del servicio, en base a los aportes de datos de operación y mantenimiento, indicadores de calidad de servicio, medidas de tráfico, etc., con el objeto de detectar y solucionar eventuales inconvenientes.
+
+4.3.5. A los efectos de prestar el servicio e implementar en las centrales involucradas el acceso a las localidades a ser comprendidas en el acuerdo, las prestadoras intercambiarán planillas con los números nacionales significativos y las coordenadas geográficas de dichas localidades.
+
+4.3.6. La tarifa a ser aplicada al Servicio Público de Telefonía Básica Internacional Fronterizo en cada País Miembro, deberá ser la más económica posible de conformidad con las normas respectivas.
+
+4.3.7. Para el Servicio Público de Telefonía Básica Internacional Fronterizo, no habrá repartición del cobro de las tarifas entre las prestadoras, quedando éstas con lo cobrado en concepto de tráfico originado. En los casos en que se verificara un desequilibrio de tráfico cursado, por razones no tarifarias, podrán ser acordados criterios para la repartición del cobro de las tarifas.
+
+4.3.8. En cada País Miembro, la calidad de servicio con la que un prestador brinde el Servicio Público de Telefonía Básica Internacional Fronterizo no deberá ser inferior a aquella con que éste brinda el servicio de telefonía básica a nivel nacional.
+
+
+5. DE LAS EXCEPCIONES
+
+5.1. La prestación del servicio público de telefonía básica entre localidades de diferentes países, distantes entre sí más de 50 km., podrá ser tratado excepcionalmente como Servicio Público de Telefonía Básica Internacional Fronterizo, con la aprobación previa por parte de las Administraciones de los respectivos Países Miembros y mediante acuerdos entre prestadoras.
+
+5.2. Todo lo referido a las llamadas con cobro revertido en el Servicio Público de Telefonía Básica Internacional Fronteriza, deberá ser objeto de acuerdos bilaterales entre las prestadoras con la aprobación de las Administraciones de los respectivos Países Miembros.
+
+5.3. La conexión entre complejos deberá tener tratamiento específico en otro documento.
+
+1
+
+
+1

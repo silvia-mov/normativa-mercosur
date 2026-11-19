@@ -1,0 +1,587 @@
+Resolución GMC N° 04/95
+Título: BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS
+Fecha de aprobación: 31/03/1995
+Vigencia: Derogada (Será derogada por la Res. GMC Nº 20/11, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 25513_RES_004-1995_ES_BPF Prod Medic.DOC
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1864).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 4/95
+
+BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS
+
+
+	VISTO:  El Art. 13 del Tratado de Asunción, la Decisión Nº 4/91 del Consejo del Mercado Común, la Resolución Nº 91/93 del Grupo Mercado Común, y la Recomendación Nº 104/94 del SGT Nº 3 - "Normas Técnicas".
+
+CONSIDERANDO:
+
+	Que las Buenas Prácticas de Fabricación de Productos Médicos tienden a garantizar niveles de calidad, seguridad y eficacia en los productos comercializados en el ámbito de los Estados Partes.
+
+	Que su implementación asegurará que el fabricante ejerza una atenta vigilancia en los procedimientos de diseño, fabricación, inspección y ensayos, instalación y asistencia técnica de los productos médicos.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art 1 - Aprobar el documento "BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS" que consta como Anexo de la presente Resolución.
+
+Art 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+	Argentina:
+		ANMAT (Administración Nacional de Medicamentos, Alimentos y 			Tecnología Médica).
+
+	Brasil:
+		Secretaria da Vigilancia Sanitária do Ministério da Saúde.
+
+	Paraguay:
+		Dirección de Vigilancia Sanitaria del Ministerio de Salud Pública y 			Bienestar Social.
+
+	Uruguay:
+		Ministerio de Salud Pública.
+
+Art 3 - La presente Resolución entrará en vigor a partir del 1º de enero de 1996.
+
+XVII GMC - Asunción, 31/III/95
+
+
+BUENAS PRÁCTICAS DE FABRICACIÓN DE PRODUCTOS MÉDICOS
+
+CONTENIDO
+
+Parte A - Disposiciones Generales
+
+1. Alcance
+2. Definiciones
+3. Sistema de Calidad
+
+Parte B - Requisitos del Sistema de Calidad
+
+1. Responsabilidad gerencial
+2. Auditoría de calidad
+3. Personal
+
+Parte C - Controles de Proyecto
+
+Parte D - Controles de Documentos y Registros
+
+Parte E - Controles de Compras
+
+Parte F - Idenfificación y rastreabilidad
+
+1. Identificación y rastreabilidad
+2. Productos de alto riesgo (clase 3) - rastreabilidad
+
+Parte G - Controles de Proceso y Producción
+
+1. Controles de Proceso y Producción
+2. Procesos especiales
+
+Parte H - Inspección y Pruebas
+
+1. Inspección y Pruebas
+2. Inspección, medición y equipamientos de pruebas
+3. Resultado de inspección y pruebas
+
+Parte I - Componentes y Productos No-Conformes
+
+Parte J - Acción Correctiva
+
+Parte K - Manejo, Almacenamiento, Distribución e Instalación
+
+1. Manejo
+2. Almacenamiento
+3. Distribución
+4. Instalación
+
+Parte L - Control de Embalaje y Etiquetado
+
+1. Embalaje de productos
+2. Etiquetado de produtos
+3. Etiquetado de productos críticos
+
+Parte M - Registros
+
+1. Requisitos generales
+2. Registro maestro del producto (RMP)
+3. Registro histórico del producto
+4. Archivo de reclamaciones
+
+Parte N - Asistencia Técnica
+
+Parte O - Técnicas de Estadística
+
+
+Parte A - Disposiciones Generales
+
+1 - Alcance
+
+(a) Aplicabilidad. (1)  Esta norma establece requisitos aplicables a la fabricación de productos médicos. Estos requisitos describen las buenas prácticas de fabricación (BPF) para métodos y controles usados en el proyecto, compras, fabricación, embalaje, etiquetado, almacenamiento, instalación y asistencia técnica de todos los productos médicos. Los requsitos de esta norma se destinan a asegurar que los productos médicos sean seguros y eficaces.
+
+(2) Los requisitos de esta norma serán aplicables a cualquier producto médico que sea fabricado o importado para comercialización en cualquier Estado Parte del MERCOSUR.
+
+(b) Consecuencias del no cumplimiento de los requisitos - (1) el no cumplimiento de cualquiera de los requisitos aplicables de esta norma en cuanto a proyecto, compras, fabricación, embalaje, etiquetado, almacenamiento, instalación o asistencia técnica de un producto médico, le otorga la condición de adulterado. Tal producto, así como la persona responsable del no cumplimiento, están sujetos a las acciones regulatorias del MERCOSUR.
+
+(2) Si un fabricante que comercializa productos en el MERCOSUR se rehusa a programar una inspección en sus instalaciones para el cumplimiento de esta norma o se rehusa a permitir una inspección conjunta programada en sus instalaciones, estará configurando, a los efectos de la ley, que los métodos y controles utilizados en proyecto, compras, fabricación, embalaje, etiquetado, almacenamiento, instalación y asistencia técnica de cualquier producto elaborado en tales instalaciones no cumplen los requisitos de esta norma.
+
+
+2 - Definiciones
+
+(a) Asistencia técnica - mantenimiento o reparación de un producto médico a fin de devolverlo a sus especificaciones.
+
+(b) Auditoría de calidad - significa un examen establecido, sistemático e independiente de todo sistema de calidad de un fabricante, ejecutado en intervalos regulares y con frecuencia suficiente para asegurar que tanto las actividades del sistema de calidad como sus resultados satisfagan los procedimientos especificados en su sistema de calidad, que esos procedimientos sean implementados eficientemente y aún que sean adecuados para alcanzar los objetivos del sistema de calidad. La auditoría de calidad es diferente de, y un agregado a, otras actividades del sistema de calidad exigido por esta norma.
+
+(c) Componente - materia prima, sustancia, pieza, parte, software, hardware, embalaje o rótulo usados durante la fabricación de un producto médico, destinado a ser incluido como parte del producto acabado.
+
+(d) Dato de entrada de un proyecto - lista de los requisitos físicos y de desempeño de un producto médico que son utilizados como base de su proyecto.
+
+(e) Dato de salida de un proyecto - resultado del trabajo en cada etapa del proyecto y del esfuerzo total de finalización. El dato de salida del proyecto finalizado consiste en el producto, su embalaje y etiquetado, las especificaciones asociadas, los diseños, la producción y las especificaciones del sistema de calidad que están insertas en el registro maestro del producto (RMP).
+
+(f) Especificaciones - documentos que prescriben los requisitos a los cuales un producto, componente, actividad de producción o asistencia técnica o un sistema de calidad deben estar conformes.
+
+(g) Establecer - definir, documentar e implementar
+
+(h) Fabricante - cualquier persona que proyecta, fabrica, arma o procesa un producto acabado, incluyendo terceros autorizados/habilitados para esterilizar, etiquetar y/o embalar e importadores.
+
+(i) Gerencia ejecutiva - significa los empleados graduados del fabricante que tienen la autoridad para establecer o efectuar cambios en la política de calidad, exigencias del sistema de calidad o efectuar modificaciones en los procedimientos de proyecto del producto o su producción, distribución, asistencia técnica, mantenimiento o instalación.
+
+(j) Ley - reglamentación del MERCOSUR a elaborarse a partir de esta norma.
+
+(k) Lote o partida - cantidad de un producto elaborado en un ciclo de fabricación o esterilización, cuya característica principal es la homogeneidad.
+
+(l) Material de fabricación - material o sustancia, no incluido producto acabado, empleados en el proceso de fabricación o para facilitar este proceso, incluyendo agentes de limpieza, agentes para la liberación de moldes, aceites lubricantes, residuos esterilizantes como óxido de etileno entre otros, o aún otros subproductos del proceso de fabricación.
+
+(m) No-conformidad - componente, material de fabricación o producto acabado fuera de las especificaciones, antes o después de su distribución.
+
+(n) Número de control - combinación diferente de letras o números, o ambos, de los cuales puede ser determinada la historia completa de compras, fabricación, embalaje, etiquetado y distribución de un lote o partida de productos acabados.
+
+(o) Política de calidad - totalidad de las intenciones y de las directivas de una organización con respecto a la calidad, conforme expresadas formalmente por la gerencia ejecutiva.
+
+(p) Proceso especial - cualquier proceso cuyos resultados no pueden ser completamente verificados por pruebas e inspecciones subsiguientes.
+
+(q) Producción - todas las actividades subsiguientes a la transferencia del proyecto hasta el punto de distribución.
+
+(r) Producto acabado - cualquier producto o accesorio adecuado al uso, embalaje y etiquetado y aprobado para su comercialización por el fabricante.
+
+(s) Producto médico - producto para la salud tal como equipamiento, aparato, material, artículo o sistema de uso o de aplicación médica, odontológica o de laboratorio, destinado a la prevención, diagnóstico, tratamiento o rehabilitación.
+
+(t) Calidad - totalidad de aspectos y características que posibilitan a un producto médico atender las exigencias de adecuación al uso, incluyendo seguridad y desempeño.
+
+(u) Reclamación - comunicación escrita, oral o electrónica relativa a la no aceptación de la identidad, calidad, durabilidad, confiabilidad, seguridad, eficacia o desempeño de un producto.
+
+(v) Registro - documento escrito o automatizado, incluyendo especificaciones, procedimientos, protocolos, padrones, métodos, instrucciones, planes, archivos, notas, revisiones, análisis e informes.
+
+(w) Registro histórico del producto - compilación de registros conteniendo la historia completa de la producción de un producto acabado.
+
+(x) Registro histórico del proyecto - compilación de registros conteniendo la historia completa de un proyecto acabado.
+
+(y) Registro maestro del producto (RMP) - compilación de registros conteniendo los diseños completos del producto, su formulación y especificaciones, los procedimientos y especificaciones de fabricación y de compras, los procedimientos y requisitos del sistema de calidad, del producto acabado, su embalaje, etiquetado, asistencia técnica, mantenimiento e instalación.
+
+(z) Reprocesamiento - parte o totalidad de la operación de fabricación destinada a corregir la no-conformidad de un componente o de un producto acabado.
+
+(aa) Revisión del proyecto - examen sistemático y completo del proyecto para evaluar la adecuación del producto a sus requsitos a fin de evaluar la capacidad del proyecto en satisfacer esos requisitos, identificar problemas con el proyecto con respecto a los requisitos y para proponer soluciones a esos problemas.
+
+(bb) Sistema de calidad - la estructura organizativa, las responsabilidades, los procedimientos, las especificaciones, los procesos y los recursos necesarios para implementarse la gerencia de calidad.
+
+(cc) Validación - con respecto a un producto, significa establecer y documentar evidencia de que el producto está pronto para el uso pretendido. Con respecto a un proceso, significa establecer y documentar evidencia de que el proceso producirá consistentemente un resulatdo que satisfaga las especificaciones predeterminadas y los atributos de calidad.
+
+(dd) Verificación - confirmación y documentación, cuando es válida, de la evidencia objetiva de que los requisitos especificados fueron alcanzados. La verificación incluye el proceso de examinar los resultados de una actividad para determinar la conformidad con las especificaciones establecidas para aquella actividad y asegurar que el producto sea adecuado al uso pretendido.
+
+
+3 - Sistema de calidad
+
+Cada fabricante deberá establecer y mantener un sistema de calidad para asegurar que los requisitos de esta norma sean alcanzados y que los productos fabricados sean seguros, eficaces y de forma general adecuados al uso pretendido. Como parte de sus actividades en el sistema de calidad, cada fabricante deberá:
+
+(a) Establecer instrucciones y procedimientos eficaces del sistema de calidad de acuerdo a las exigencias de esta norma; y
+
+(b) Mantener las instrucciones y procedimientos establecidos para el sistema de calidad de manera eficaz.
+
+
+Parte B - Requisitos del Sistema de Calidad
+
+1 - Responsabilidad gerencial
+
+(a) Política de Calidad - La gerencia ejecutiva de cada fabricante deberá establecer su política y sus objetivos de compromiso con la calidad. La gerencia ejecutiva deberá mantener la política en todos los niveles de la organización. La gerencia ejecutiva deberá asegurar que esta política sea comprendida por todos los empleados que puedan afectar o influenciar la calidad de un producto.
+
+(b) Organización - Cada fabricante deberá establecer y mantener una estructura organizativa adecuada con personal suficiente para asegurar que los productos sean fabricados de acuerdo a los requisitos de esta norma.
+
+(1) Responsabilidad y autoridad - Con respecto a cada sección de esta norma, cada fabricante deberá establecer la responsabilidad, autoridad e interrelación de todo el personal que gerencia, ejecuta y verifica el trabajo relacionado a la calidad, en particular el personal que precisa de libertad organizativa y autoridad para:
+
+(i) Iniciar o implementar acciones para prevenir que ocurran o sean usados componentes, materiales de fabricación o productos acabados no-conformes;
+(ii) Identificar o documentar problemas de calidad con productos, con la producción o con el sistema de calidad;
+(iii) Iniciar, recomendar, providenciar o implementar soluciones o acciones correctivas para problemas de calidad;
+(iv) Verificar la adecuación o implementación de soluciones o acciones correctivas a problemas de calidad; y
+(v) Administrar o controlar el procesamiento, la distribución o la instalación adicionales de componentes, materiales de fabricación o productos acabados no-conformes.
+
+(2) Recursos y personal para verificación - Cada fabricante deberá establecer funciones de verificación y deberá providenciar recursos adecuados y delegación adecuada al personal entrenado para el desempeño de las actividades de verificación.
+
+(3) Representante de la gerencia - La gerencia ejecutiva de cada fabricaante deberá designar un individuo de esta gerencia ejecutiva que, independientemente de otras funciones, tendrá autoridad y responsabilidad establecida para:
+
+(i) Asegurar que los requisitos del sistema de calidad sean establecidos y mantenidos conforme esta norma; y
+(ii) Relatar el desempeño del sistema de calidad a la gerencia ejecutiva para revisión y suministro de informaciones sobre mejora del sistema de calidad. La designación de este funcionario deberá estar documentada.
+
+(c)  Revisión gerencial - La gerencia ejecutiva de cada fabricante deberá revisar la adecuación y la efectividad del sistema de calidad en intervalos definidos y con una frecuencia suficiente como para asegurar que el sistema de calidad satisfaga las exigencias de esta norma y que alcance los objetivos de la política de calidad establecida. La revisión de la gerencia deberá realizarse de acuerdo a los procedimientos de revisión establecidos y los resultados de cada revisión del sistema de calidad deberán documentarse.
+
+
+2 - Auditoría de calidad
+
+(a) Cada fabricante deberá realizar auditorías de calidad para verificar si el sistema de calidad está de acuerdo a los requisitos establecidos. Las auditorías de calidad deberán ser realizadas por personas adecuadamente entrenadas, de acuerdo a los procedimientos de auditoría establecidos, pero que no tengan responsabilidad directa en las materias que están siendo objeto de auditoría. Deberá hacerse un informe de cada auditoría de calidad y éste deberá ser revisado por el equipo de la gerencia que tenga responsabilidad sobre las materias auditadas. La acción correctiva que acompaña, incluyendo nueva auditoría de materias deficientes deberá efectuarse cuando sea necesario y deberá ser documentada en el informe de la auditoría.
+
+
+3 - Personal
+
+(a) Instrucciones Generales - Cada fabricante deberá contratar el número suficiente de personal con instrucción, experiencia, entrenamiento y práctica para asegurar que todas las actividades previstas en esta norma sean correctamente desempeñadas.
+
+(b) Entrenamiento - Cada fabricante deberá asegurar que todo el personal sea entrenado para ejecutar adecuadamente las tareas que le sean designadas. El entrenamiento deberá realizarse de acuerdo a los procedimientos establecidos por personas calificadas para garantizar que los empleados tengan una perfecta comprensión de sus funciones regulares y de los requisitos de esta norma aplicables a sus funciones. Como parte de su entrenamiento, todos los empleados deberán ser informados de los defectos en productos que podrán ocurrir como resultado del desempeño incorrecto de sus funciones específicas. Los empleados que ejecuten actividades de verificación deberán ser informados de los errores y defectos que podrán encontrarse como parte de sus funciones de verificación. El entrenamiento de empleados deberá ser documentado.
+
+(c) Consultores - (1) Cada fabricante deberá asegurar que cualquier consultor que oriente sobre métodos empleados o en los controles utilizados para proyecto, compras, fabricación, embalaje, etiquetado, almacenamiento, instalación o asistencia técnica de productos, tenga calificaciones suficientes (instrucción, entrenamiento y experiencia) para aconsejar sobre los temas para los cuales fue contratado.
+
+(2) Cada fabricante deberá mantener registros relativos a cada consultor. Estos registros deben incluir nombre, dirección, calificaciones, incluyendo copia del curriculum y una lista de empleos anteriores, así como una descripción específica de los temas en los que se desenvolvió como consultor.
+
+
+Parte C - Controles de Proyectos
+
+(a) Instrucciones Generales -  (1) Cada fabricante de producto médico enmarcado en las clases 2 (mediano riesgo) o 3 (alto riesgo), deberá establecer y mantener procedimientos de control y verificar el proyecto del producto a fin de asegurar que los requisitos especificados para el proyecto estén siendo obedecidos.
+
+(b) Planeamiento y desarrolo del proyecto - Cada fabricante deberá estabelcer y mantener planes que identifiquen cada actividad de desarrollo del proyecto y las personas responsables por cada actividad. Los planes deberán describir o hacer referencia a las actividades de desarrollo del proyecto, incluso cualquier interacción entre los diversos grupos organizativos y técnicos. Los planes deberán ser actualizados a medida que el desarrollo del proyecto progrese.
+
+(c) Dato de entrada de proyecto - Cada fabricante deberá establecer requisitos de dato de entrada del proyecto relativos al producto. Los requisitos deberán referirse enteramente al uso pretendido del producto, incluso las necesidades del usuario (paciente u operador) y deben ser revisados y aprobados por una persona designada calificada. La aprobación de los requisitos, incluso la fecha y la persona que los aprobaron, deberán ser documentados.
+
+(d) Verificación del proyecto - Cada fabricante deberá establecer y mantener procedimientos para la verificación del proyecto del producto y designar esas funciones a personal competente. La verificación de proyecto deberá ser ejecutada de manera oportuna y deberá confirmar que el dato de salida del proyecto satisfaga los requisitos del dato de entrada y que el proyecto sea adecuado para el uso pretendido. Los resultados de la verificación del proyecto, incluyendo la identificación del proyecto verificado, métodos de verificación, fecha y nombre de la persona encargada de la verificación, deberán ser documentados en el registro histórico del proyecto. La verificacion del proyecto deberá incluir la validación de software y análisis de riesgos, cuando corresponda.
+
+(e) Revisión del Proyecto - Cada fabricante deberá realizar una revisión formal del dato de salida del proyecto de acuerdo a los requisitos establecidos. Cada fabricante deberá designar la responsabilidad de la revisión del proyecto a personas calificadas que tengan responsabilidad directa por el desarrollo del proyecto. Las designaciones deberán ser documentadas. Los resultados de la revisión del proyecto deberán ser documentados en el registro histórico del proyecto.
+
+(f) Dato de salida del proyecto - Cada fabricante deberá definir y documentar el dato de salida del proyecto de manera de permitir la evaluación adecuada de la conformidad del proyecto a los requisitos del dato de entrada. El dato de salida del proyecto deberá satisfacer los requisitos del dato de entrada y deberá incluir características del proyecto que son esenciales para el uso pretendido del producto.
+
+(g) Transferencia del proyecto - Cada fabricante deberá establecer y mantener procedimientos para asegurar que la base del proyecto para un producto y sus componentes estén correctamente traducidos en términos de especificaciones de producción. Las especificaciones de producción deberán ser aprobadas por una persona nombrada por el fabricante. La aprobación, incluyendo identificación del proyecto, fecha y la persona que apruebe las especificaciones deberá estar documentada. Cada fabricante deberá seleccionar una muestra representativa del producto de los primeros tres lotes o partidas de producción y probar tales muestras bajo condiciones reales o simuladas. Cada fabricante deberá realizar tales pruebas de acuerdo a procedimientos establecidos y deberá mantener registros de todas las pruebas. Cada fabricante deberá también realizar tales pruebas cuando sean hechas modificaciones al producto o en el proceso de fabricación.
+
+(h) Liberación del proyecto - Cada fabricante deberá asegurar que el proyecto no sea liberado a la producción hasta que esté aprobado por las personas designadas a tales efectos por el fabricante. Las personas designadas deberán revisar todos los registros exigidos para el registro histórico del proyecto, a fin de asegurar que éste esté completo y que el proyecto final sea compatible con los planos aprobados, antes de su liberación. Esta liberación, incluyendo fecha y firma del responsable, deberá ser documentada.
+
+(i) Modificaciones del proyecto - Cada fabricante deberá establecer y mantener procedimientos para la identificación, documentación, validación, revisión y aprobación de las modificaciones del proyecto.
+
+(j) Registro de la historia del proyecto - Cada fabricante deberá establecer y mantener un registro de la historia del proyecto para cada producto. Cada uno de estos deberá contener o hacer referencia a todos los registros necesarios para demostrar que el proyecto fue desarrollado de acuerdo a los planos de proyectos aprobados y los requisitos de esta norma.
+
+
+Parte D - Controles de Documentos y Registros
+
+Cada fabricante deberá establecer y mantener procedimientos de control de documentos para asegurar que todos los documentos indicados en esta norma a establecerse y mantenerse, satisfagan los requisitos de esta norma y estén correctos y adecuados para el uso pretendido.
+
+(a) Aprobación y emisión de documentos - Cada fabricante deberá designar personas para examinar y aprobar todos los documentos establecidos en esta norma para la adecuación antes de su emisión. La aprobación, incluyendo fecha y firma del responsable de la aprobación de los documentos, deberá ser documentada.
+
+(b) Distribución de documentos - Todo fabricante deberá asegurar que todos los documentos estén actualizados y disponibles en todos los locales para donde sean designados y que todos los documentos innecesarios u obsoletos sean retirados de esos locales sin demora.
+
+(c) Modificación de documentos - Las modificaciones de especificaciones, métodos o procedimientos para componentes, productos acabados, materiales de fabricación, producción, instalación, asistencia técnica o relativas a sistemas de calidad deberán ser documentadas, revisadas y aprobadas por las personas que están en las mismas funciones o en la misma organización y que ejecutaron la revisión y la aprobación originales, a menos que sean designadas específicamente en contrario. Igualmente, cualquier cambio de especificaciones, métodos o procedimientos que puedan afectar la calidad deberán ser validados como adecuados para el uso pretendido antes de su aprobación y distribución. Los registros de validación deberán ser registrados. Las modificaciones aprobadas deberán ser oportunamente comunicadas al personal a su cargo. Cuando sean hechas modificaciones en las especificaciones, métodos o procedimientos, cada fabricante deberá evaluar las modificaciones siguiendo los procedimientos establecidos. Deberán mantenerse registros de esta evaluación y de este resultado.
+
+(d) Registros de modificaciones de documentos - Cada fabricante deberá mantener registros de modificación de documentos. Los registros de modificación de documentos deberán incluir una descripción de la modificación, identificación de los documentos modificados, la firma de la persona responsable, la fecha de aprobación y la fecha en que las modificaciones entrarán en vigor. Uma lista, índice o procedimientos equivalentes para control de documentos deben ser establecidos y mantenidos para identificar la situación actual de los documentos, a fin de asegurar que estén en uso sólo documentos actuales y aprobados.
+
+
+Parte E - Controles de Compras
+
+Cada fabricante deberá establecer y mantener procedimientos para asegurar que todos los componentes, materiales de fabricación y productos acabados fabricados, procesados, etiquetados o embalados por terceros o mantenidos por éstos bajo contrato, estén de conformidad con las especificaciones. Cada fabricante deberá también asegurar que los servicios ejecutados por terceros estén de acuerdo con las especificaciones.
+
+(a) Evaluación de proveedores y contratados - Cada fabricante deberá establecer y mantener criterios para evaluación de proveedores y contratados, que especifiquen los requisitos, incluso los requisitos de calidad que proveedores y contratados deben satisfacer. Cada fabricante deberá evaluar y seleccionar potenciales proveedores y contratados de acuerdo a su capacidad de atender los requisitos, incluso requisitos de calidad, y deberá establecer y mantener una lista de proveedores y contratados que satisfagan los criterios documentados de evaluación del fabricante. Deben mantenerse registros de evaluación, así como sus resultados.
+
+(b) Formularios de Compras - Cada fabricante deberá establecer y mantener formularios de compras que describan claramente o que hagan referencia a las especificaciones, incluso requisitos de calidad, para componentes, materiales de fabricación, productos acabados o servicios solicitados o contratados. Los formularios de compras deberán incluir un acuerdo en que los proveedores se comprometan a notificar al fabricante sobre cualquier modificación en el producto o servicio, de manera que el fabricante pueda determinar si la modificación afecta la calidad del producto acabado. Cada fabricante deberá revisar y aprobar los documentos de compras antes de su liberación. La aprobación de los formularios, incluyendo la fecha y la firma del responsable, deberá ser documentada.
+
+
+Parte F - Identificación y Rastreabilidad
+
+1 - Identificación y rastreabilidad
+
+Cada fabricante deberá establecer y mantener procedimientos para la identificación de componentes, materiales de fabricación y dispositivos acabados durante todas las etapas de producción, distribución e instalación para evitar confusión y para asegurar la correcta atención de los pedidos. Para ciertos productos, se aplican exigencias de rastreabilidad adicionales de acuerdo a las partes F-2 y L-3 de esta norma.
+
+
+2 - Productos de alto riesgo (clase 3) - rastreabilidad
+
+Cada fabricante deberá indentificar cada unidad, lote o partida de productos de alto riesgo (clase 3) con un número de control. Esa identificación deberá ser registrada en el registro histórico del producto.
+
+
+Parte G - Controles de Proceso y de Producción
+
+1 - Controles de proceso y producción
+
+(a) Instrucciones generales - Cada fabricante deberá proyectar, realizar y controlar todos los procesos de producción a fin de asegurar que el producto esté de acuerdo a sus especificaciones. Donde pueda ocurrir algún desvío en las especificaciones del producto, como resultado del proceso de fabricación, el fabricante deberá establecer y mantener procedimientos de control de proceso que describan todo control necesario para asegurar la conformidad a las especificaicones. Los controles de proceso deberán incluir:
+
+(1) Instrucciones documentadas, procedimientos patrones de operación y métodos que definan y controlen la forma de producción, instalación y asistencia técnica;
+
+(2) Monitoreamento y control de los parámetros de proceso y características de componentes y características de los productos durante la producción, instalación y asistencia técnica;
+
+(3) Conformidad con normas, patrones o códigos de referencia aplicados y procedimientos de control del proceso;
+
+(4) La aprobación de los procesos y equipos de los procesos; y
+
+(5) Criterios de trabajo que deberán ser expresados en normas o patrones documentados y a través de muestras representativas.
+
+(b) Control ambiental - Cada fabricante deberá establecer y mantener un sistema de control para prevenir la contaminación u otros efectos adversos sobre el producto y proveer condiciones de trabajo adecuadas para todas las operaciones. Las condiciones a considerar para este control incluyen: iluminación, ventilación, espacio, temperatura, humedad, presión barométrica, contaminación aérea, electricidad estática y otras condiciones ambientales. Cada fabricante deberá inspeccionar periódicamente sus instalaciones y revisar su sistema de control para verificar si el sistema es adecuado y si está funcionando correctamente. Deberá hacerse un registro y una revisión de los resultados de esas inspecciones.
+
+(c) Limpieza y saneamiento - Cada fabricante deberá establecer y mantener procedimientos de limpieza adecuados, así como una programación que satisfaga las exigencias de las especificaciones del proceso de fabricación. Cada fabricante deberá asegurar que los empleados involucrados comprendan esos procedimientos.
+
+(d) Salud e higiene del personal - Cada fabricante deberá asegurar que los empleados que estén en contacto con un producto o con su ambiente estén limpios, saludables y vestidos adecuadamente, pues de lo contrario la falta de higiene, salud y vestuario adecuado podrá tener un afecto adverso sobre el producto. Cualquier persona que aparente no estar aseada o esté con ropas inadecuadas deberá ser excluida de las operaciones hasta que esté limpio y vestido adecuadamente. Cualquier persona que, a través de un examen médico o por observación de supervisores, aparente estar en una condición que pueda afectar el producto, deberá ser excluida de las operaciones hasta que las condiciones sean corregidas. Cada fabricante deberá instruir a su personal para que reporte tales condiciones a los supervisores.
+
+(1)  Vestuario - Cuando sean necesarias ropas especiales para asegurar que un producto esté adecuado para el uso pretendido, cada fabricante deberá proveer ropas limpias a su personal.
+
+(2) Higiene - Cada fabricante deberá proveer instalaciones sanitarias adecuadas.
+
+(3) Hábitos del personal - Cuando el comer, beber, fumar y otras actividades de los empleados puedan tener un efecto adverso sobre un producto, cada fabricante deberá limitar esas prácticas a locales apropiados. Cada fabricante deberá asegurar que los empleados comprendan esos limites.  Cada fabricante deberá designar áreas seleccionadas para evitar cualquier efecto adverso sobre los productos.
+
+(e) Control de contaminación - Cada fabricante deberá establecer y mantener procedimientos para evitar la contaminación de equipos, materiales de fabricación y productos en proceso o acabados por el uso de raticidas, insecticidas, fungicidas, fumigaciones, materiales de limpieza y desinfección y sustancias peligrosas, incluyendo sustancias peligrosas o contaminantes generados por el proceso de fabricación.
+
+(f) Remoción de basura y resumidero químico - Cada fabricante deberá remover basura, efluentes químicos y subproductos de manera segura, oportuna e higiénica.
+
+(g) Equipos - Cada fabricante deberá asegurar que todos los equipos utilizados en el proceso de fabricación sean adecuados al uso pretendido y correctamente proyectados, construidos, colocados e instalados para facilitar el mantenimiento, ajustes, limpieza y uso.
+
+(1) Programación de mantenimiento - Cada fabricante deberá establecer y mantener una programación para el mantenimiento, ajustes y, cuando sea necesario, limpieza del equipo, para asegurar que todas las especificaciones de fabricación estén siendo cumplidas. El programa de mantenimiento deberá ser colgado en un lugar de gran visibilidad o cerca de cada equipo, o aún, entregado al personal encargado del mantenimiento. Deberá hacerse un registro por escrito documentando la fecha en que la programación fue ejecutada y los empleados encargados de las actividades de mantenimiento.
+
+(2) Inspección - Cada fabricante deberá realizar inspecciones periódicas de acuerdo a los procedimientos establecidos para asegurar la conformidad a la programación de mantenimiento de los equipos. Las inspecciones, incluyendo fecha y firma del responsable, deben ser documentadas.
+
+(3) Ajustes - Cada fabricante deberá asegurar que cualesquier tolerancias aceptables o limitaciones inherentes sean colgadas en lugar visible o cerca del equipo que necesite de ajustes periódicos o que estén fácilmente disponibles al personal encargado de esos ajustes.
+
+(4) Materiales de fabricación - Cada fabricante deberá establecer y mantener procedimientos para el uso y la remoción de materiales de fabricación, para asegurar que tales materiales sean removidos del producto o limitados a una cantidad especificada que no afecte adversamente la calidad del producto. La remoción de esos materiales de fabricación deberá ser documentada.
+
+(h) Procesos automatizados - Cuando se usen computadoras en la producción, en el sistema de calidad o en los sistemas de procesamiento de datos, las personas designadas por el fabricante deberán validar el software de acuerdo a un protocolo establecido. Los resultados deberán ser documentados. Todas las modificaciones de software deberán hacerse por personas designadas a través de validación establecida y procedimientos aprobados de acuerdo a la parte D-(c) de esta norma.
+
+
+2 - Procesos especiales
+
+(a) Cada fabricante deberá asegurar que los procesos especiales sean:
+
+(1) Validados de acuerdo al protocolo establecido, debiéndose realizar registros de los resultados de la validación, incluyendo la fecha y el responsable de la validación;
+
+(2) Realizados de acuerdo con los procedimientos establecidos que describen todos los controles de procesamiento necesarios para asegurar conformidad con las especificaciones;
+
+(3) Monitoreados de acuerdo a procedimientos establecidos para asegurar que los parámetros de proceso sean alcanzados; y
+
+(4) Ejecutados por personas calificadas y designadas para ello.
+
+(b) Los responsables de la ejecución de procesos especiales deberán registrar el término del proceso en el registro histórico del producto. Este registro deberá incluir identificación del proceso, la fecha de ejecución, las personas que ejecutaron el proceso especial y el equipo utilizado.
+
+
+Parte H - Inspección y Pruebas
+
+1 - Inspección y pruebas
+
+(a) Instrucciones generales - Cada fabricante deberá establecer y mantener las actividades de inspección y pruebas necesarios para asegurar que todos los requisitos especificados sean alcanzados. Los resultados de todas las inspecciones y pruebas deberán ser documentados.
+
+(b) Inspección y pruebas de recibo - Cada fabricante deberá establecer y mantener procedimientos para la aceptación de componentes, materiales de fabricación y productos acabados. Los componentes, materiales de fabricación y productos acabados recibidos no deberán ser usados o procesados hasta que se verifique su conformidad con los requisitos establecidos.
+Los empleados designados por el fabricante deberán aceptar o rechazar los componentes, productos acabados y los materiales de fabricación recibidos. La aceptación o rechazo deberán ser documentados.
+
+(c) Inspección y pruebas durante el proceso - Cada fabricante deberá establecer y mantener procedimientos para inspeccíon y pruebas de componentes, productos acabados y materiales de fabricación durante el proceso. Cada fabricante deberá establecer y mantener procedimientos para retener componentes, productos acabados y materiales de fabricación durante el proceso hasta que las inspecciones y pruebas exigidos hayan sido completados o que los informes necesarios hayan sido recibidos y verificados.
+
+(d) Inspección y pruebas finales - Cada fabricante deberá establecer y mantener procedimientos para la inspección de productos acabados para asegurar que un lote o partida esté dentro de las especificaciones. Los productos acabados deberán ser mantenidos en cuarentena o controlados adecuadamente de otra manera hasta que sean liberados por el responsable indicado por el fabricante. Los productos acabados no deberán ser liberados hasta que las actividades especificadas en el RMP hayan sido completadas y hasta que la documentación y los datos asociados hayan sido revisados para asegurar que todos los criterios de aceptación hayan sido atendidos. La liberación, incluyendo la fecha y firma del responsable de la liberación, deberá ser documentada.
+
+(e) Registros de inspecciones y pruebas - Cada fabricante deberá mantener un registro de los resultados de las pruebas e inspecciones exigidos por esta norma. Estos registros deben incluir los criterios de aceptación, las comparaciones de inspecciones realizadas, los resultados, el equipo usado y la fecha y firma del responsable de la inspección y de la prueba. Estos registros deberán formar parte del registro histórico del producto.
+
+
+2 - Inspección, medición y equipos de pruebas
+
+Cada fabricante deberá asegurar que todo el equipo de medición y prueba, incluyendo el equipo mecánico, automatizado o electrónico, sea adecuado para los fines a que se destina y sea capaz de producir resultados válidos. Cada fabricante deberá establecer y mantener procedimientos para asegurar que el equipo sea rutinariamente calibrado, inspeccionado y chequeado. Deberán mantenerse registros documentando estas actividades.
+
+(a) Calibración - Cada fabricante deberá establecer y mantener procedimientos de calibración que incluyan orientaciones específicas y límites de precisión y exactitud, así como prescripciones para acciones correctivas cuando los límites de precisión y exactitud no sean alcanzados. La calibración deberá ser ejecutada por personal que tenga instrucción, entrenamiento, práctica y experiencia necesarias.
+
+(b) Patrones de calibración - Cada fabricante deberá establecer y mantener patrones de calibración para los equipos de medición que se aproximen a los patrones nacionales. Si los patrones nacionales no son prácticos o no estuvieran disponibles, el fabricante deberá usar un patrón independiente reproducible. Si no hubiera ningún patrón aplicable, el fabricante deberá establecer y mantener un patrón propio.
+
+(c) Registros de calibración - Cada fabricante deberá asegurar que se mantengan registros de las fechas de calibración, del empleado encargado de esta tarea y de la fecha siguiente para esta operación. Los registros deben ser mantenidos por personas designadas por el fabricante y colocados en el equipo o cerca de él, debiendo estar disponibles para el personal que usa este equipo y para los funcionarios responsables de su calibración.
+(d) Mantenimiento - Cada fabricante deberá establecer y mantener procedimientos para asegurar que el manejo, la preservación y el cuidado de equipos de prueba, inspección y medición sean hechos de manera de preservar su precisión y adecuación al uso.
+
+(e) Instalaciones - Cada fabricante deberá proteger las instalaciones y los equipos de inspección, prueba y medición, incluyendo hardware y software de prueba, contra ajustes que puedan invalidar la calibración.
+
+
+3 - Resultados de inspección y pruebas
+
+(a) Cada fabricante deberá identificar los resultados de la inspección y de las pruebas de todos los componentes, materiales de fabricación y productos acabados. La identificación deberá ser visible, deberá indicar la conformidad o no-conformidad de estos items con respecto a los criterios de aceptación, fabricación, embalaje, etiquetado, instalación y asistencia técnica del producto para asegurar que solamente componentes, productos acabados y materiales de fabricación que hayan pasado por las inspecciones y pruebas exigidos sean distribuidos, usados o instalados.
+
+(b) Cada fabricante deberá aseguar que los registros indentifiquen la persona responsable de la liberación de componentes, materiales de fabricación y productos acabados.
+
+
+Parte I - Componentes y Productos No-conformes
+
+(a) Control de componentes y productos no-conformes - Cada fabricante deberá establecer y mantener procedimientos para asegurar  que los componentes, materiales de fabricación, productos acabados y productos devueltos que no estén de conformidad con los requisitos exigidos, no sean usados o instalados inadvertidamente. Los preocedimientos deben contener prescripciones para la identificación, documentación, investigación, separación y remoción de componentes, materiales de fabricación, productos acabados y productos devueltos no-conformes, y para notificación de las personas u organizaciones responsables de la no-conformidad.
+
+(b) Revisión de la no-conformidad y retiro - (1) La responsabilidad de la revisión y la autoridad para el retiro de componentes, materiales de fabricación, dispositivos acabados y productos devueltos no-conformes, deben ser definidas.
+
+(2) Cada fabricante deberá establecer y mantener procedimientos para el reprocesamiento, reinspección y renovación de pruebas de componentes y productos acabados no-conformes, para asegurar que satisfagan las especificaciones originales o las que fueren subsiguientemente modificadas y aprobadas. Los procedimientos deberán constar o citarse en el registro maestro del producto. Los productos o componentes reprocesados deberán ser claramente identificados como tal, y los resultados del reprocesamiento y de la reinspección deberán ser anotados en el registro histórico del producto. Los productos y componentes reprocesados estarán sujetos a una completa reinspección para identificar cualquier característica del producto que haya sido afectada adversamente por el referido reprocesamiento. Cuando haya un reprocesamiento repetido de un producto o componente, la identificación del efecto del reprocesaminto sobre el producto o componente deberá ser hecha y documentada.
+
+
+Parte J - Acción Correctiva
+
+(a) Cada fabricante deberá establecer y mantener procedimientos para:
+
+(1) Analizar todos los procesos, operaciones de trabajo, concesiones, informes de auditoría de calidad, registros da calidad, registros de asistencia técnica, reclamos, productos devueltos y otras fuentes de datos de calidad para identificar las causas existentes y potenciales de componentes y dispositivos acabados no conformes y otros problemas de calidad (el análisis deberá incluir análisis de tendencia para detectar problemas de calidad recurrentes);
+
+(2) Investigar la no-conformidad a las especificaciones de cualquier producto distribuido;
+
+(3) Identificar la acción necesaria para prevenir la causa y prevenir la recurrencia de componentes o productos acabados no-conformes o con algún otro problema de calidad;
+
+(4) Verificar o dar validez a la adecuación de una acción correctiva para asegurar que esta acción no afecte adversamente el producto acabado y que sea eficaz;
+
+(5) Implementar y registrar modificaciones en métodos y procedimientos necesarios como consecuencia de la identificación de problemas de calidad y de acción correctiva; y
+
+(6) Asegurar que toda información sobre un problema de calidad llegue a todos los responsables de asegurar la calidad y que la información sea revisada por la gerencia.
+
+(b) Todas las actividades exigidas en esta sección, así como sus resultados deben ser documentados.
+
+
+Parte K - Manejo, Almacenamiento, Distribución e Instalación
+
+
+1 - Manejo
+
+Cada fabricante deberá establecer y mantener procedimientos para asegurar que las alteraciones (cambios), daños, deterioros u otros efectos adversos que afecten los componentes, los productos acabados y los materiales de fabricación no ocurran durante ninguna etapa del manejo.
+
+
+2 - Almacenamiento
+
+(a) Cada fabricante deberá establecer y mantener procedimientos para el control de las áreas de stock de componentes, materiales de fabricación y productos acabados para evitar inversiones (cambios), daños, deterioro u otros efectos adversos en el período anterior a su distribución o uso.
+
+(b) Cada fabricante deberá establecer y mantener procedimientos para autorizar el recibo o retiro de las áreas de stock. Cualquier control numérico u otra forma de identificación deberá ser legible y claramente visible. Cuando la calidad de los componentes o de productos acabados se deteriore con el tiempo, tales productos deberán ser almacenados de manera de facilitar la rotatividad de los stocks, así como sus condiciones deberán ser evaluadas en intervalos adecuados. Cada fabricante debrá establecer y mantener procedimientos para asegurar que todos los materiales de fabricación, componentes y productos obsoletos, rechazados o deteriorados, almacenados en el stock, no sean inadvertidamente distribuidos o utilizados.
+
+
+3 - Distribución
+
+
+(a) Cada fabricante deberá establecer y mantener procedimientos para controlar la distribución de productos acabados a fin de asegurar que solamente los productos que estén aprobados para su liberación sean distribuidos. Cuando la calidad de un producto o su condición de adecuado al uso se deteriore a lo largo del tiempo, los procedimientos deberán asegurar que los productos más antiguos sean distribuidos en primer lugar y que los productos que estén fuera del plazo de validez no sean distribuidos.
+
+(b) Cada fabricante deberá mantener registros de distribución que incluyan o que hagan referencia a:
+
+(1) Nombre y dirección del consignatario;
+
+(2) Identificación y cantidad de productos embarcados, con fecha de embarque; y
+
+(3) Algún control numérico utilizado para la rastreabilidad.
+
+4 - Instalación
+
+Cada fabricante deberá establecer y mantener instrucciones y procedimientos adecuados para la correcta instalación de los productos. Las instrucciones y los procedimientos deberán incluir orientación para verificar el correcto desempeño de la instalación. Cuando el fabricante o su representante autorizado instale un producto, el fabricante o el representante deberán verificar si el producto funciona de acuerdo a lo planeado después de su instalación. Los resultados de esta verficiación deberán ser registrados. Cuando una persona que no es el fabricante o su representante instale un producto, el fabricante deberá asegurar que las instrucciones de instalación y los procedimientos sean distribuidos junto con el producto o que de otra manera estén disponibles para la persona que va a instalar el producto.
+
+
+Parte L - Control de Embalaje y Etiquetado
+
+
+1 - Embalaje de productos
+
+Cada fabricante deberá proyectar y elaborar el embalaje para sus productos y containers para proteger el producto de cualquier modificación o daño durante las condiciones habituales de procesamiento, almacenamiento, manejo y distribución.
+
+
+2 - Etiquetado de productos
+
+Cada fabricante deberá establecer y mantener procedimientos para mantener la integridad del etiquetado y para evitar cambio de etiquetas y/o rótulos identificadores.
+
+(a) Integridad de las etiquetas - Cada fabricante deberá asegurar que las etiquetas sean diseñadas, impresas y, cuando sea el caso, aplicadas para permanecer legibles y fijas al producto durante las condiciones normales de procesamiento, almacenamiento, manejo, distribución y uso.
+
+(b) Inspección de las etiquetas - Las etiquetas no deberán ser liberadas para stock o para uso hasta que una persona autorizada haya examinado su exactitud, incluyendo, cuando sea del caso, la fecha correcta de vencimiento, el número de control, instrucciones para almacenamiento, instrucciones de manejo e instrucciones adicionales de procesamiento. La liberación, incluyendo fecha, nombre y firma del responsable del examen, deberá estar documentada en el registro histórico del producto.
+
+(c) Almacenamiento de las etiquetas - Cada fabricante deberá almacenar y mantener las etiquetas de forma que ofrezcan una rápida identificación y eviten que se inviertan (cambios).
+
+(d) Control de las etiquetas - Cada fabricante deberá controlar las etiquetas y las operaciones de embalaje para evitar equivocaciones (cambios) de etiquetas.
+
+
+3 - Etiquetado de productos de algo riesgo (clase 3)
+
+El etiquetado de productos de alto riesgo (clase 3) deberá contener un número de control.
+
+
+Parte M - Registros
+
+
+1 - Requisitos generales
+
+Todos los registros deberán ser legibles y guardados de forma de minimizar su deterioro, prevenir pérdidas y proporcionar rápida búsqueda. Todos los registros archivados en sistemas automatizados de computación deberán tener una reproducción (back up). Todos los registros exigidos en esta norma deberán ser mantenidos en las instalaciones del fabricante o en otro lugar razonablemente accesible para los funcionarios responsables del fabricante e inspectores designados por la autoridad de salud competente. Los registros mencionados deberán estar disponibles para examen y copia por parte de los funcionarios e inspectores anteriormente citados. Excepto donde esté específicamente indicado, las siguientes prescripciones generales deberán aplicarse a todos los registros exigidos por esta norma.
+
+(a) Confidencialidad - Los registros considerados confidenciales por el fabricante podrán ser señalados para alertar a la autoridad de salud competente.
+
+(b) Período de retención de registros - Todos los registros necesarios relativos a un producto deberán ser guardados por un período de tiempo equivalente a la vida útil esperada para el producto, pero en ningún caso por menos de dos años de la fecha de distribución comercial por el fabricante. Podrán ser usadas fotocopias u otro tipo de reproducción de los registros requeridos por esta norma. Cuando sean utilizadas técnicas de reducción como microfilms, deberá estar a disposición de los interesados el equipo de lectura.
+
+
+2 - Registro maestro del producto (RMP)
+
+Cada fabricante deberá mantener los registros maestros de los productos (RMP's). Cada fabricante deberá asegurar que cada RMP sea elaborado, fechado y firmado por funcionario calificado designado por el fabricante. Cualquier modificación en un RMP deberá enmarcarse en los requisitos aplicables de la parte D. El RMP para cada tipo de producto deberá incluir o hacer referencia a la siguiente información:
+
+(a) Especificaciones del producto, incluyendo los respectivos diseños, composición, formulación, especificaciones de los componentes, especificaciones del proyecto de software y sus códigos de fuente;
+
+(b) Especificaciones del proceso de producción, métodos de producción, procedimientos de producción y especificaciones ambientales de producción;
+
+(c) Documentos del sistema de calidad, incluyendo comparaciones usadas y resultados de los protocolos de validación;
+
+(d) Especificaciones de embalaje y etiquetado, incluyendo métodos y procesos utilizados; y
+
+(e) Métodos y procedimientos de instalación, mantenimiento y asistencia técnica.
+
+
+3 - Registro histórico del producto
+
+Cada fabricante deberá mantener registros históricos de los productos. Cada fabricante deberá establecer y mantener procedimientos para asegurar que los registros históricos de los productos sean mantenidos para cada lote o unidad para demostrar que los productos fueron fabricados de acuerdo al registro maestro del producto y a los requisitos de esta norma. Los registros históricos de los productos deberán ser accesibles y mantenidos por un funcionario designado para ello. El registro histórico del producto deberá incluir o hacer referencia a la siguiente información:
+
+(a) Fecha de fabricación;
+
+(b) Cantidad fabricada;
+
+(c) Cantidad liberada para distribución;
+
+(d) Etiquetado;
+
+(e) Números de control utilizados.
+
+
+4 - Archivo de reclamos
+
+(a) Cada fabricante debrá mantener archivos de reclamos. Cada fabricante deberá establecer y mantener procedimientos para recibir, examinar, evaluar y archivar reclamos. Tales procedimientos deberán asegurar que:
+
+(1) Los reclamos sean recibidos, examinados, evaluados, investigados y archivados por una unidad formalmente designada;
+
+(2) Los reclamos orales sean documentados después de su recibo; y
+
+(3) Los reclamos sean examinados para verificar si una investigación es necesaria. Cuando no se haga una investigación, la unidad deberá mantener un registro que incluya el motivo por el cual la investigación no se realizó y el nombre de los responsables de la decisión de no investigar.
+
+(b) Cada fabricante deberá examinar, evaluar e investigar todos los reclamos involucrando la posible no-conformidad del producto, su etiquetado o embalaje atendiendo a sus especificaciones. Toda reclamación relativa a defunción, lesión o algún riesgo a la seguridad deberá ser inmediatamente examinada, evaluada e investigada por una persona responsable, debiendo ser mantenida en una sección especial del archivo de reclamos. Las investigaciones deberán incluir la verificación, si hubo del hecho, una falla en el desempeño o especificaciones del producto; si el producto estaba siendo usado para terapia o diagnóstico de un paciente; si hubo defunción, lesión o enfermedad grave involucrada; y la relación, si hubo, del producto con el incidente comunicado o el evento adverso.
+
+(c) Cuando se haga una investigación, deberá mantenerse un registro, por parte de una unidad formalmente designada, identificada en el párrafo (a) de esta sección. El registro de la investigación deberá incluir:
+
+(1) Nombre del producto;
+
+(2) Fecha del recibo de la reclamación;
+
+(3) Número de control utilizado;
+
+(4) Nombre, dirección y teléfono del reclamante;
+
+(5) Naturaleza de la reclamación; y
+
+(6) Resultados de la investigación.
+
+(d) Los resultados de la investigación deberán incluir:
+
+(1) Acción correctiva tomada;
+
+(2) Fechas de la investigación;
+
+(3) Detalles de la reclamación; y
+
+(4) Respuesta al reclamante.
+
+(e) Cuando no sea dada una respuesta al reclamante, el motivo deberá ser registrado.
+
+(f) Cuando la unidad formalmente designada para atender reclamos esté localizada en una dirección que no sea la de la unidad fabril y cuando la reclamación involucre a la fábrica, una copia de la reclamación y del registro de investigación de la queja deberá ser trasmitida y archivada en la fábrica, en archivo específico para reclamaciones sobre productos.
+
+(g) Si la unidad formalmente designada para atender los reclamos está localizada fuera del Estado parte del MERCOSUR, una copia de los registros exigidos en esta sección deberá mantenerse en el Estado Parte del MERCOSUR donde se esté comercializando el producto. Si el fabricante dispone de un local en un Estado Parte del MERCOSUR donde estos registros son guardados regularmente, las copias exigidas en este párrafo podrán ser mantenidas en ese local. Caso contrario, las copias exigidas por este párrafo deberán ser providenciadas para el agente o distribuidor y archivadas por éste.
+
+(h) Cada fabricante deberá establecer y mantener procedimientos para procesar reclamos a fin de asegurar que todas las reclamaciones sean procesadas de manera uniforme y en tiempo útil. Tales procedimientos deberán incluir prescripciones para decidir si la reclamación representa un hecho a ser informado a la autoridad de salud competente.
+
+
+Parte N - Asistencia Técnica
+
+Cada fabricante deberá establecer y mantener procedimientos para asegurar que los productos acabados sometidos a asistencia técnica del fabricante o su representante, satisfagan las especificaciones. Los procedimientos para la asistencia técnica deberán incluir prescripciones para determinar si las solicitudes de asistencia técnica representan un hecho que necesita ser informado a la autoridad de salud competente.
+
+(a) Registros de asistencia técnica - Cada fabricante deberá establecer y mantener procedimientos para asegurar que los registros de asistencia técnica sean mantenidos y que identifiquen el producto objeto de este servicio, incluyendo números de controles utilizados, servicio ejecutado y personas encargadas de este trabajo.
+
+(b) Evaluación de los registros de asistencia técnica - Cada fabricante deberá analizar los registros de asistencia técnica de acuerdo a la parte J de esta norma; a excepción de los casos en que el informe del registro de asistencia técnica involucre defunción, lesión grave o riesgo de la seguridad. En estos casos, este informe deberá ser considerado como reclamo y deberá ser investigado de acuerdo a los requsitos de la parte M-4 de esta norma.
+
+
+Parte O - Técnicas de estadística
+
+(a) Cuando corresponda, cada fabricante deberá establecer y mantener procedimientos para identificar técnicas estadísticas válidas necesarias para verificar la aceptabilidad de la capacidad de proceso y características del producto.
+
+(b) Deberán formalizarse planes de muestreo por escrito, basados en lógica estadística válida. Cada fabricante deberá establecer y mantener procedimientos para asegurar que los métodos de muestreo sean adecuados al uso pretendido y que sean revisados regularmente, especialmente ante eventos tales como, productos no-conformes, informes de auditoría de calidad adversos o reclamos.
+
+
+24

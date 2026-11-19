@@ -1,0 +1,168 @@
+Resolución GMC N° 28/94
+Título: CERRADURAS Y BISAGRAS DE PUERTAS LATERALES
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24373_RES_028-1994_ES_PuertaLateral.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1788).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 28/94
+
+CERRADURAS Y BISAGRAS DE PUERTAS LATERALES
+
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, las Resoluciones Nº 9/91 y Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 2/94 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los vehículos deben cumplir una serie de requisitos técnicos en virtud de las legislaciones nacionales respectivas, entre ellos los correspondientes a CERRADURAS Y BISAGRAS DE PUERTAS LATERALES.
+
+Que dichos requisitos difieren de un Estado Parte a otro, lo que puede crear obstáculos técnicos al intercambio comercial y a la libre circulación de vehículos, que podrían eliminarse a través de la adopción de los mismos requisitos técnicos por todos los Estados Partes ya sea como complemento o en reemplazo de su legislación actual.
+
+Que resulta necesario unificar los métodos de ensayo anteriormente adoptados en relación a CERRADURAS Y BISAGRAS DE PUERTAS LATERALES.
+
+Que para tal fin, los Estados Partes han acordado adecuar sus legislaciones, de modo de posibilitar el libre intercambio de vehículos, sus partes y piezas.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art. 1. Los Estados Partes no podrán limitar o prohibir la libre circulación, homologación, certificación, venta, importación, comercialización, matriculación o uso de los vehículos que cumplan con los requisitos establecidos en el Reglamento Armonizado "CERRADURAS Y BISAGRAS DE PUERTAS LATERALES" que figura como Anexo a la presente Resolución, por motivos relacionados con los aspectos técnicos armonizados en el mismo.
+
+Art. 2. Elimínase el punto 3.3 del Anexo I de la Resolución Nº 9/91 del GMC.
+
+Art. 3. La presente Resolución entrará en vigor a partir del 31 de diciembre de 1994.
+
+Art. 4. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos.
+
+Por Argentina:
+Secretaría de Transporte
+Secretaría de Industria
+Por Brasil:
+Ministerio de Justicia
+Secretaría de Tránsito. Departamento Nacional de Tránsito
+
+Paraguay:
+Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+
+Uruguay:
+Ministerio de Transporte y Obras Públicas
+Ministerio de Industria y Energía
+
+
+ANEXO
+REGLAMENTO ARMONIZADO
+CERRADURAS Y BISAGRAS DE PUERTAS LATERALES
+
+Objetivo. Establecer requisitos para cerraduras y bisagras de puertas laterales, a fin de reducir las posibilidades de que los pasajeros sean expedidos del vehículo.
+
+Aplicación. Este documento se aplica a cerraduras y bisagras de puertas laterales de vehículos categoría M1 y N1: automóviles y camionetas de uso mixto derivadas de automóviles, utilizadas para la entrada o salida de los ocupantes.
+
+3. Definiciones. A los efectos de este documento, se deben considerar: Puertas, aquellas con bisagras cuyos pernos están en posición sustancialmente vertical.
+
+Fuerza longitudinal, aquella cuya dirección es sustancialmente paralela al eje longitudinal del vehículo.
+
+Fuerza transversal, aquella cuya dirección es sustancialmente paralela al eje transversal del vehículo.
+
+4. Requisitos.
+4.1. Requisitos generales.
+
+4.1.1. Las cerraduras y bisagras deben ser proyectadas, construidas y montadas de modo tal que, en condiciones normales de utilización del vehículo, puedan satisfacer las prescripciones de este documento.
+4.1.2. Cada cerradura deberá tener una posición intermedia de cierre y una posición de cierre total.
+4.1.3. Cada cerradura debe ser equipada con una traba que accionada, debe dejar inoperante al menos los elementos externos de accionamiento de puerta.
+4.2. Requisitos para las cerraduras.
+
+4.2.1. Fuerza longitudinal.
+El conjunto de cerradura y tope debe ser capaz de resistir a una fuerza longitudinal de 453 kg en la posición intermedia de cierre y de 1.134 kg en la posición de cierre total, de acuerdo al documento "Método de ensayo de cerraduras y bisagras de puertas laterales".
+4.2.2. Fuerza transversal.
+El conjunto de cerradura y tope debe ser capaz de resistir una fuerza transversal de 453 kg en la posición intermedia de cierre y de 907 kg en la posición de cierre total, de acuerdo al documento "Método de ensayo de cerraduras y bisagras de puertas laterales".
+4.2.3. Resistencia a los efectos de la inercia.
+La cerradura no debe salir de la posición de cierre total cuando fuera aplicada una aceleración longitudinal o transversal de 30 g, en ambos sentidos a la cerradura y su mecanismo de accionamiento de acuerdo con el documento "Método de ensayo de cerraduras y bisagras de puertas laterales".
+4.3. Requisitos para bisagras.
+Cada conjunto de bisagras debe ser capaz de sostener la puerta y resistir a una fuerza longitudinal de 1.134 kg, así como una fuerza transversal de 907 kg, en ambos sentidos, de acuerdo al documento "Método de ensayo de cerraduras y bisagras de puertas laterales".
+
+
+METODO DE ENSAYO DE CERRADURAS Y BISAGRAS DE PUERTAS LATERALES
+
+DISPOSITIVO, MÉTODOS Y EQUIPAMIENTO PARA ENSAYO ESTÁTICO.
+1.1.Dispositivos
+
+1.1.1. Cerraduras.
+
+1.1.1.1. Los ensayos deben ser efectuados utilizando dispositivos rígidos que reproduzcan el montaje (1) en el vehículo de los dos elementos de la cerradura: la propia cerradura y su traba.
+1.1.1.2. La fuerza descripta será aplicada al citado dispositivo de manera tal que no genere momentos de flexión sobre la cerradura. Además será aplicada adicionalmente una carga (2) estática transversal de 90,7 kg, de modo tal, que tienda a separar la cerradura de su traba en la dirección de la abertura de puerta.
+1.1.1.3. Las figuras 1 y 2 muestran una ilustración de la secuencia de ensayo.
+1.1.2. Bisagras.
+
+1.1.2.1. Los ensayos deben ser efectuados utilizando dispositivos rígidos que reproduzcan las condiciones geométricas de montaje en el vehículo de una puerta completamente cerrada.
+(3) 1.1.2.2. En el citado dispositivo será aplicada, en el punto medio entre las bisagras.
+(4) (5)1.1.2.2.1. La fuerza longitudinal indicada, perpendicular al eje de los pernos de las bisagras y situada en un plano que pasa por este eje.
+1.1.2.2.2. La fuerza transversal indicada, perpendicular al plano definido por la fuerza longitudinal y el eje de los pernos de las bisagras y situada sobre el plano que pasa por este eje.
+1.1.2.3. Para cada ensayo deberá ser utilizado un nuevo juego de bisagras.
+1.1.2.4. La figura 3 muestra una ilustración de la secuencia de ensayo.
+1.2. Método y equipamiento de ensayo.
+
+Los dispositivos mencionados en los ítems 1.1.1. y 1.1.2. de este documento serán montados en una máquina de ensayo de tracción, de una capacidad mínima de 1.500 kg. Las fuerzas serán aplicadas de manera continua y progresivamente con una velocidad de traslación no superior a 5 mm/min hasta que sean cumplidos los valores prescriptos.
+
+2. Método para determinar la resistencia de las cerraduras a las aceleraciones (efecto de inercia).
+
+2.1. La resistencia a la abertura en ambas direcciones será determinada por ensayo dinámico o analíticamente (ver figura 4), salvo la acelaración de inercia longitudinal y transversal de 30 g, aplicada en ambos casos, sobre el comando de abertura, en la dirección de accionamiento, sin considerar:
+
+2.1.1. Las fuerzas de fricción.
+2.1.2. Los componentes de aceleración de gravedad que tiendan a conservar la cerradura en posición cerrada.
+2.2. Los dispositivos de traba de la cerradura no deben estar accionados ni tomados en consideración.
+Dado: Un sistema de cerradura de puerta lateral sometido a una desaceleración de 30 g.
+
+
+F1= 30 P1 - Fuerza media del resorte del botón
+= 30 x 0,16 - 0,454 = 0,026 kg
+
+F2 = 30 P2 = 30 x 0,023 = 0,690 kg
+
+
+(Mo = F1 d1 + F2 d2 + F3 d3 = 0,026 x 31,5 + 0,690 x 10,67 = 7,312 mm kg
+
+F6 = 30 P4 = 30 x 0,042 = 1,260 kg
+
+(MR = Momento del resorte de articulación R =
+
+= (F5 d5 + F6 d6) = 45,626 –
+ (0,232 x 37,59 + 1,260 x 1,90) =
+
+= 45,620 -11,114 = 34,506 mm kg.
+
+Métodos equivalentes de ensayo.
+
+Se admiten métodos de ensayos no destructivos equivalentes, siempre y cuando los resultados descriptos en los ítem 1.2. y 2 de este documento sean cumplidos, ya sea integralmente por el ensayo de sustitución o por cálculo basado en los resultados del ensayo de sustitución.
+
+En caso de utilizarse un método diverso al descripto en los ítem 1.2. y 2, su equivalencia debe ser comprobada.
+
+
+FIGURA 1
+
+
+FIGURA 2
+
+
+FIGURA 3
+
+
+FIGURA 4
+
+
+CERRADURAS Y BISAGRAS DE PUERTAS LATERALES
+
+FE DE ERRATAS
+
+Donde dice:                                                      Debe decir:
+(1) traba                                                            TOPE
+(2) traba                                                            TOPE
+(3) El citado dispositivo será aplicado               En el citado dispositivo será aplicada,
+(4) La fuerza longitudinal indicada                    La fuerza longitudinal indicada en 4.2.1
+(5) De las bisagras es situada                          De las bisagras y situada
+(6) Fuerza transversal indicada                        Fuerza transversal indicada en 4.2.2.
+(7) Bisagras, es situada                                    De las bisagras, y situada
+(8) Salvo la aceleración                                    Sobre una aceleración

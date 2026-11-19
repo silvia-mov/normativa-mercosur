@@ -1,0 +1,301 @@
+Resolución GMC N° 04/10
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE INTERRUPTORES PARA INSTALACIONES ELÉCTRICAS FIJAS
+Fecha de aprobación: 09/04/2010
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 21161_RES_004-2010_ES_RTM Interruptores Instal Eléct.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1525).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 04/10
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE INTERRUPTORES PARA INSTALACIONES ELÉCTRICAS FIJAS
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N 38/98, 56/02  y 35/08 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+Que la armonización de Reglamentos Técnicos MERCOSUR tiene por objeto eliminar los obstáculos al comercio que son generados por diferencias en las reglamentaciones nacionales vigentes, dando cumplimiento a lo establecido en el Tratado de Asunción.
+
+Que resulta necesario asegurar el cumplimiento del Reglamento Técnico MERCOSUR sobre Requisitos Esenciales de Seguridad para Productos Eléctricos de Baja Tensión.
+
+Que se debe garantizar a los consumidores la seguridad en la utilización de interruptores para instalaciones eléctricas fijas, en condiciones previsibles o normales de uso, en cumplimiento del RTM arriba citado.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Interruptores para Instalaciones Eléctricas Fijas", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los organismos nacionales competentes para la implementación de la presente Resolución, son:
+
+Argentina:	Ministerio de Economía y Finanzas Públicas - MEyFP
+Secretaría de Comercio Interior, SCI
+
+Brasil:	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO
+
+Paraguay:		Ministerio de Industria y Comercio - MIC
+
+Uruguay:		Unidad Reguladora de Servicios de Energía y Agua - URSEA
+
+
+Art. 3 - Los requisitos sobre los Interruptores para Instalaciones Eléctricas Fijas establecidos en la presente Resolución serán obligatorios a partir de los 365 días contados a partir de la fecha de su incorporación.
+
+Art. 4 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/X/2010.
+
+
+LXXIX GMC - Buenos Aires, 09/IV/10.
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE INTERRUPTORES PARA INSTALACIONES ELÉCTRICAS FIJAS
+
+
+I. REQUISITOS GENERALES PARA INTERRUPTORES PARA INSTALACIONES ELÉCTRICAS FIJAS
+
+
+1	A los fines de este Reglamento Técnico se entiende por interruptores para instalaciones eléctricas fijas, aquellos dispositivos diseñados para establecer o interrumpir la corriente en uno o varios circuitos eléctricos. Éste Reglamento Técnico se aplica solamente a los interruptores de mando manual para uso general con corriente alterna, de tensión nominal no mayor que 440 V y con corriente nominal de hasta 63 A, destinados a instalaciones eléctricas fijas, tanto interiores como exteriores. La corriente nominal se limita a un máximo de 16 A para interruptores con bornes sin tornillos.
+
+
+2	Para los interruptores para instalaciones eléctricas fijas alcanzados por el presente Reglamento Técnico, se exigirá la certificación obligatoria por marca de conformidad (Sistema ISO N 5) conforme lo detallado en el Punto II del presente Reglamento.
+
+
+3	Los interruptores para instalaciones eléctricas fijas deberán cumplir con lo establecido en el Reglamento Técnico MERCOSUR sobre Requisitos Esenciales de Seguridad para Productos Eléctricos de Baja Tensión y los Requisitos Específicos que se indican en la parte II del presente Reglamento Técnico.
+
+
+II. REQUISITOS ESPECÍFICOS PARA INTERRUPTORES PARA INSTALACIONES ELÉCTRICAS FIJAS
+
+
+Los requisitos específicos están establecidos en la Norma MERCOSUR NM 60669-1:2004 - Interruptores para instalaciones eléctricas fijas, domiciliarias y similares - Parte 1: Requisitos generales, de la Asociación MERCOSUR de Normalización, con las siguientes modificaciones:
+
+
+1. OBJETO
+
+A los fines del presente Reglamento Técnico, se aplica excluyendo todas las notas.
+
+
+2. REFERENCIAS NORMATIVAS
+
+A los fines del presente Reglamento Técnico se aplican las normas referenciadas, a excepción de las siguientes:
+
+NORMA REFERENCIADA
+NORMA APLICABLE AL PRESENTE REGLAMENTO TECNICO
+NM 00287-1:2003 - Cables aislados con compuestos elastoméricos termofijos, para tensiones nominales hasta 450/750 V, inclusive - Parte 1: Requisitos generales (IEC 60245-1, MOD)
+
+NM 287-1:2006 - Cables aislados con compuestos elastoméricos
+termofijos para tensiones nominales hasta 450/750 V, inclusive - Parte 1: Requisitos generales
+(IEC 60245-1:2003, MOD)
+IEC 60245-4 - Rubber insulated cables - Rated voltages up to and including 450/750 V - Part 4: Cords and flexible cables
+
+NM 287-4:2006 - Cables aislados con compuestos elastoméricos
+termofijos para tensiones nominales hasta 450/750 V, inclusive - Parte 4: Cordones y cables flexibles
+(IEC 60245-4:2004 MOD)
+
+A los fines del presente Reglamento Técnico la nota al pie de las páginas 2, 3 y 4 de la Norma MERCOSUR NM 60669-1: 2004 no se aplica.
+
+3. DEFINICIÓN
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo las notas.
+
+4. REQUISITOS GENERALES
+
+A los fines del presente Reglamento Técnico se aplica lo siguiente:
+
+Los interruptores y sus cajas estarán diseñados y construidos de manera tal que, en uso normal, su funcionamiento sea seguro y sin peligro para el usuario o para su entorno.
+
+La conformidad será verificada mediante la ejecución de todos los ensayos y el cumplimiento de todas las especificaciones.
+
+
+5. GENERALIDADES SOBRE ENSAYOS
+
+A los fines del presente Reglamento Técnico se aplica íntegramente, incluyendo todas las notas.
+
+
+6. TENSIONES Y CORRIENTES NOMINALES
+
+A los fines del presente Reglamento Técnico se aplica lo siguiente:
+
+6.1. Los interruptores deben tener tensiones nominales entre 120 V y 440 V, respetando las tensiones nominales utilizadas en cada Estado Parte.
+
+6.2. Los interruptores deben tener corrientes nominales entre 6 A y 63 A.
+
+La corriente nominal no debe ser menor que 6 A, pero se admiten corrientes nominales de 1 A, 2 A y 4 A para interruptores de contacto momentáneo, interruptores de comando electromagnético a distancia o interruptores de acción retardada.
+
+Para interruptores de corriente nominal no mayor que 16 A, excepto los de número de función 3 y 03 y los de contacto momentáneo, la corriente nominal para las lámparas fluorescentes debe ser igual a la corriente nominal del interruptor.
+
+Para interruptores de marcación AX y corriente nominal hasta 20 A inclusive, el ensayo con lámparas fluorescentes es obligatorio.
+
+El cumplimiento de los requisitos establecidos en los apartados 6.1 y 6.2 se verificará mediante examen del marcado.
+
+6.3. Los interruptores deben tener un grado de protección mínimo de IP 20.
+
+7. CLASIFICACIÓN
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+8. MARCADO
+
+A los fines del presente Reglamento Técnico se aplica lo siguiente:
+
+8.1. Los interruptores deben llevar las indicaciones siguientes:
+- la corriente nominal en ampere (AX) para aquellos interruptores utilizados para lámparas fluorescentes o la corriente nominal ampere (A) para los interruptores destinados para todas las demás aplicaciones; debiendo estos últimos llevar la leyenda en el envase: "NO APROPIADO PARA LÁMPARAS FLUORESCENTES"
+- la tensión nominal en volt (V);
+- el símbolo de la naturaleza de la corriente;
+- marca comercial, como fue declarado en el certificado otorgado al producto;
+- modelo, como fue declarado en el certificado otorgado al producto. El modelo   puede marcarse en el producto o en su envase;
+- el símbolo de pequeña abertura, si corresponde;
+- el símbolo de micro abertura, si corresponde;
+- el símbolo de sin abertura, si corresponde;
+- el símbolo del grado de protección contra el ingreso perjudicial de agua, si corresponde;
+- la primera cifra característica correspondiente al grado de protección contra los efectos perjudiciales debidos a la penetración de cuerpos sólidos extraños si el grado de protección declarado es mayor que 2, en cuyo caso también se debe marcar la segunda cifra característica;
+- la segunda cifra característica correspondiente al grado de protección contra los efectos perjudiciales debidos a la penetración del agua, si el grado de protección declarado es mayor que 0, en cuyo caso también se debe marcar la primera cifra característica.
+
+Además, los interruptores de bornes sin tornillo, deben marcarse con la indicación de la conveniencia de aceptar solamente conductores rígidos.
+
+8.2. A los fines del presente Reglamento Técnico, se aplica con las siguientes modificaciones:
+- Las NOTAS MERCOSUR 1, 2, 3, 4 y NOTA MERCOSUR no se aplican.
+- Construcción sin abertura, no se aplica.
+
+8.3. Las siguientes indicaciones deben marcarse en la parte principal del interruptor:
+- 	corriente nominal, tensión nominal y naturaleza de la corriente;
+- 	marca comercial, como fue declarado en el certificado otorgado al producto;
+- 	la longitud de la aislación del conductor a quitar antes de su inserción en el borne sin tornillo, si correspondiera;
+- el símbolo de "pequeña abertura", de "microabertura" o de "sin abertura", (semiconductor), si correspondiera;
+- 	modelo, como fue declarado en el certificado otorgado al producto. El modelo puede marcarse en el producto o en su envase;
+
+Las partes tales como las placas de recubrimiento, que son necesarios para la seguridad y están destinados a venderse separadamente, deben marcarse con la marca de fábrica o la marca de identificación del fabricante o del importador y la referencia del modelo (si fuera necesaria). Ambas marcaciones deben realizarse tal como fueran declaradas en el certificado otorgado para el producto.
+
+El código IP, si es aplicable, se debe marcar en la parte exterior de la envoltura, de manera que sea fácilmente visible cuando el interruptor esté instalado y conectado como en condiciones de uso normal.
+
+El marcado debe ser claramente visible con visión normal o corregida, sin aumento adicional. Cualquier indicación sobre la parte frontal, o sobre el interior de su envoltura asociada, o sobre la parte principal del interruptor, debe ser fácilmente legible al quitar cualquier tapa o placa de recubrimiento que esté colocada cuando el interruptor se encuentre instalado y conectado en condiciones de uso normal. Estas indicaciones no deben ser situadas en partes que puedan ser desmontadas sin el uso de una herramienta.
+
+En la parte principal o en la parte exterior o interior de la envoltura asociada, se aceptarán marcaciones de referencias de tipo suplementarias.
+
+La expresión "parte principal" designa la parte que contiene las piezas de contacto y cualquier otra pieza que forme cuerpo con ella. No comprende el botón pulsador, la perilla o los elementos análogos, ni las piezas destinadas a venderse por separado.
+
+8.4. A los fines del presente Reglamento Técnico, se aplica excluyendo la nota MERCOSUR.
+
+8.5. A los fines del presente Reglamento Técnico, se aplica con la siguiente modificación:
+NOTA MERCOSUR: Solamente se aceptará el símbolopara la designación de los bornes de tierra.
+
+8.6. A los fines del presente Reglamento Técnico, se aplica íntegramente.
+
+8.7. A los fines del presente Reglamento Técnico, se aplica íntegramente.
+
+8.8. A los fines del presente Reglamento Técnico, se aplica íntegramente.
+
+8.9.  A los fines del presente Reglamento Técnico, se aplica, con la modificación que el solvente a ser utilizado debe ser obligatoriamente el especificado en la Nota 2.
+
+9. VERIFICACIÓN DE LAS DIMENSIONES
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente.
+
+10. PROTECCIÓN CONTRA LOS CHOQUES ELÉCTRICOS
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+11. DISPOSICIONES PARA GARANTIZAR LA PUESTA A TIERRA
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+12 BORNES
+
+A los fines del presente Reglamento Técnico, se aplica, a excepción de la Nota del ítem 12.3.8, debiendo aplicarse para este ítem lo establecido en 8.3.
+
+13. REQUISITOS CONSTRUCTIVOS
+
+A los fines del presente Reglamento Técnico se aplica, con las siguientes modificaciones:
+- La NOTA 1 del ítem 13.3 no se aplica.
+- El ítem 13.15.2 es de carácter obligatorio y la NOTA no se aplica.
+
+
+14. MECANISMO
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+15. RESISTENCIA AL ENVEJECIMIENTO, PROTECCIÓN ASEGURADA POR LAS ENVOLTURAS Y RESISTENCIA A LA HUMEDAD
+
+A los fines del presente Reglamento Técnico, se aplica con la siguiente modificación:
+- La NOTA 1 del ítem 15.2.2 se aplica de la siguiente manera:
+
+NOTA 1: si se utiliza un material "sellador" para sellar la caja en la pared, este sellador no debe influir en las características de estanquidad de la muestra de ensayo.
+
+16. RESISTENCIA DE AISLAMIENTO Y RIGIDEZ DIELÉCTRICA
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+17. CALENTAMIENTO (ELEVACIÓN DE TEMPERATURA)
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+18. PODER DE CIERRE Y DE CORTE
+
+A los fines del presente Reglamento Técnico, se aplica incluyendo las notas, con las siguientes modificaciones:
+- La NOTA 1 del ítem 18.1 se aplica de la siguiente manera:
+
+NOTA 1: Se debe verificar que el aparato de ensayo actúe suavemente sobre el órgano de maniobra del interruptor y no interfiera con la acción normal del mecanismo del interruptor ni con el libre movimiento del órgano de maniobra.
+
+La NOTA 1 del ítem 18.2 no se aplica.
+
+19. FUNCIONAMIENTO NORMAL
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+20. RESISTENCIA MECÁNICA
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+
+21. RESISTENCIA AL CALOR
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+22. TORNILLOS, PARTES CONDUCTORAS DE CORRIENTE Y CONEXIONES
+
+A los fines del presente Reglamento Técnico, se aplica incluyendo las notas, con las siguientes modificaciones:
+
+- La NOTA 1 del ítem 22.4 se aplica de la siguiente manera:
+NOTA 1: Las arandelas de presión constituyen una protección suficiente.
+
+
+- La NOTA 2 del ítem 22.4 se aplica de la siguiente manera:
+NOTA 2 - En los remaches, una espiga no circular o una muesca apropiada, constituyen una protección suficiente.
+
+- El segundo párrafo del ítem 22.5 se aplica de la siguiente manera:
+La conformidad se verifica mediante inspección y, si es necesario, mediante el análisis químico.
+
+- El último párrafo del ítem 22.5 no se aplica.
+
+- La NOTA del ítem 22.7 no se aplica.
+
+23. LÍNEAS DE FUGA, DISTANCIAS EN AIRE, Y DISTANCIAS A TRAVÉS DEL MATERIAL DE RELLENO
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+24. RESISTENCIA DEL MATERIAL AISLANTE AL CALOR ANORMAL, AL FUEGO Y A LAS CORRIENTES SUPERFICIALES
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+25. PROTECCIÓN CONTRA LA OXIDACIÓN
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+
+26. PRESCRIPCIONES SOBRE COMPATIBILIDAD ELECTROMAGNÉTICA
+
+A los fines del presente Reglamento Técnico, se aplica íntegramente, incluyendo todas las notas.
+
+A los fines del presente Reglamento Técnico, las figuras 1 al 8 y 10 al 27 se aplican íntegramente.
+
+A los fines del presente Reglamento Técnico, los Anexos A (Especímenes necesarios para los ensayos) y B (Requisitos adicionales para interruptores con dispositivos de fijación y de salida para cables flexibles) se aplican íntegramente.
+
+9
+
+
+2

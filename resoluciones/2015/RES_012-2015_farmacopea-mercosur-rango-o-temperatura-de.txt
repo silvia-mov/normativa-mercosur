@@ -1,0 +1,133 @@
+Resolución GMC N° 12/15
+Título: FARMACOPEA MERCOSUR: RANGO O TEMPERATURA DE FUSIÓN
+Fecha de aprobación: 29/05/2015
+Vigencia: Vigente (Vigente desde el 07/06/2024 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 57357_RES_012-2015_ES_Farmacopea Rango Fusion.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3100).
+----------------------------------------------------------------------
+MERCOSUL/GMC/RES. Nº 12/15
+
+FARMACOPEA MERCOSUR: RANGO O TEMPERATURA DE FUSIÓN
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: rango o temperatura de fusión", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 1/XII/2015.
+
+
+      XCVIII GMC - Brasilia, 29/V/15.
+
+ANEXO
+
+RANGO O TEMPERATURA DE FUSIÓN
+
+La Temperatura o Punto de fusión de una sustancia se define como la temperatura en la cual ésta se encuentra completamente fundida. Es una propiedad intrínseca de las sustancias, la cual es utilizada, junto a otros ensayos, para la confirmación de identidad de la misma; así como indicador de pureza. En caso de sustancias que funden con descomposición la temperatura o punto de fusión será la temperatura a la cual comienza la fusión.
+
+Rango de fusión de una sustancia se define como el rango comprendido entre la temperatura en la cual la sustancia comienza a fluidificarse o a formar gotas en las paredes del tubo capilar y la temperatura en la cual la sustancia está completamente fundida.
+
+Una transición de fusión puede ser instantánea para un material altamente puro, pero por lo general se observa un intervalo desde el comienzo hasta el final del proceso. Hay distintos factores que influyen en esta transición y deben ser estandarizados cuando se describe el procedimiento. Estos factores incluyen: cantidad de la muestra, tamaño de partícula, eficiencia en la difusión del calor y la velocidad del calentamiento entre otros.
+
+Para fines farmacopeicos, el punto de fusión o rango de fusión se informa como la temperatura a la cual se observa la primer fase líquida y la temperatura a la cual no hay mas fase sólida aparente, excepto aquellas sustancias que funden con descomposición o se especifique de otra manera en la monografía individual.
+
+Método 1
+
+Para muestras que se reducen fácilmente a polvo.
+
+Aparato I
+
+Consta de un recipiente de vidrio (C) para un baño de líquido transparente, un dispositivo mezclador (D), un termómetro (A), y una fuente de calor adecuados (ver Figura). De acuerdo con la temperatura requerida el líquido del baño puede ser uno de los siguientes u otro que sea apropiado:
+
+* Agua para temperaturas hasta 60 ºC
+* Glicerina para temperaturas hasta 150 ºC
+* Parafina líquida de alto rango de ebullición para temperaturas hasta 250 ºC
+* Aceite de sésamo o un aceite siliconado de grado adecuado para temperaturas hasta 300 ºC
+
+Figura - Aparato I para determinación de punto de fusión
+
+El líquido del baño debe tener la suficiente profundidad para permitir la inmersión del termómetro a la profundidad especificada, de manera que el bulbo quede aproximadamente a 2 cm del fondo del baño. El calor puede ser suministrado por una llama o eléctricamente. El tubo capilar tiene aproximadamente 10 cm de largo y entre 0,8 y 1,2 mm de diámetro interno, con paredes de 0,1 a 0,3 mm de espesor y cerrado en uno de sus extremos, a no ser que se especifique de otra forma en la monografía individual. Se debe utilizar un dispositivo agitador que garantice la homogeneidad de la temperatura en el baño.
+
+Procedimiento
+
+A menos que se especifique de otro modo en la monografía individual, proceder según se indica a continuación:
+
+Reducir la muestra a polvo fino y secarla en un desecador al vacío sobre un agente desecante apropiado durante 24 horas.
+
+Cargar el tubo capilar seco con suficiente cantidad de polvo hasta formar una columna de 3 a 4 mm de altura, luego de haberlo comprimido golpeándolo moderadamente sobre una superficie sólida. Unir el tubo capilar al termómetro, ambos humedecidos con el líquido del baño. Ajustar su altura, de modo que la muestra contenida en el capilar quede junto al bulbo del termómetro (B).
+
+Adaptar un termómetro auxiliar (E) de modo que el centro del bulbo quede lo más cercano posible al vástago del termómetro principal (A) en un punto equidistante de la superficie del baño y de la división correspondiente al punto de fusión esperado.
+
+
+Calentar el baño hasta alcanzar una temperatura de 10 °C por debajo del punto de fusión esperado. Introducir el termómetro con el capilar adherido y continuar el calentamiento de manera tal que la temperatura se eleve a una velocidad de 1 a 2 ºC por minuto, dependiendo de la estabilidad de la sustancia.
+
+Registrar la lectura del termómetro auxiliar al terminar la fusión de la muestra, si fuera necesario, aplicar la corrección por columna emergente empleando la fórmula siguiente:
+
+
+en la cual:
+* tc es la corrección que debe agregarse a la temperatura de fusión observada
+* k es la constante de corrección por coeficiente de dilatación del líquido del termómetro. En el caso del mercurio el valor es 0,00016
+* N es el número de grados de la columna del termómetro principal entre el nivel del baño y la temperatura de fusión observada
+* T es la temperatura de fusión
+* t es la temperatura registrada por el termómetro auxiliar.
+
+Realizar la determinación al menos por triplicado. Para ello, dejar enfriar el baño hasta 10 ºC por debajo del punto de fusión o hasta una temperatura más baja y repetir el procedimiento empleando nuevas porciones de muestra.
+
+
+  Aparato II
+
+Consta de un bloque metálico que puede ser calentado a velocidad controlada, cuya temperatura puede ser monitoreada por un sensor o termómetro. El bloque permite colocar el tubo capilar que contiene la sustancia en ensayo y monitorear el proceso de fusión mediante control visual o automáticamente.
+
+  Procedimiento
+
+A menos que se especifique de otro modo en la monografía individual, proceder según se indica a continuación:
+
+Reducir la muestra a polvo fino y secarla en un desecador al vacío sobre un agente desecante apropiado durante 24 horas.
+
+Cargar el tubo capilar seco con suficiente cantidad de polvo hasta formar una columna de 3 a 4 mm de altura, luego de haberlo comprimido golpeándolo moderadamente sobre una superficie sólida.
+
+Calentar el bloque rápidamente hasta una temperatura de 10 ºC por debajo del punto de fusión esperado y continuar el calentamiento de manera tal que la temperatura se eleve a una velocidad de 1 a 2 °C por minuto. Introducir el capilar en el bloque y registrar la temperatura al inicio y fin de la fusión.
+
+
+Realizar la determinación al menos por triplicado. Para ello, dejar enfriar el bloque hasta 10 °C por debajo del punto de fusión o hasta una temperatura más baja y repetir el procedimiento empleando nuevas porciones de muestra.
+
+Método 2
+
+Para muestras que no se reducen fácilmente a polvo.
+
+Procedimiento
+
+Fundir cuidadosamente la muestra a la temperatura más baja posible e introducir el material fundido en un capilar abierto en ambos extremos, hasta formar una columna de unos 10 mm de altura. Enfriar el capilar cargado a una temperatura menor o igual a 10 ºC durante aproximadamente 24 horas. Unir el capilar al termómetro y ajustar su altura, de modo que la muestra contenida en el capilar quede junto al bulbo del termómetro. Introducir en un baño de agua y calentar según se indica en Método 1 Aparato I, excepto que al llegar a una temperatura aproximadamente de 5 ºC por debajo del punto de fusión esperado, se aumenta la temperatura a una velocidad de 0,5 °C por minuto. Se toma como punto de fusión la temperatura a la cual la muestra comienza a ascender dentro del tubo capilar. Realizar la determinación al menos por triplicado utilizando porciones diferentes de muestra.
+
+Método 3
+
+Para vaselina, sustancias grasas u otras de consistencia pastosa.
+
+Procedimiento
+
+Fundir la muestra, agitando hasta alcanzar una temperatura de 90 a 92 ºC y luego dejar enfriar la sustancia fundida hasta una temperatura de 8 a 10 ºC sobre el punto de fusión esperado. Enfriar hasta 5 ºC el bulbo del termómetro, secar y, mientras esté aún frío, sumergirlo en la muestra fundida hasta la mitad del bulbo aproximadamente. Retirar inmediatamente y sostener en posición vertical, hasta que la superficie de la muestra depositada sobre el bulbo solidifique. Introducir en un baño de agua a una temperatura que no exceda los 16 ºC durante 5 minutos aproximadamente.
+
+Adaptar el termómetro dentro de un tubo de ensayo, por medio de un tapón perforado, de modo que su extremo inferior quede 15 mm por encima del fondo del tubo. Suspender el tubo de ensayo en un baño de agua a una temperatura de 16 ºC y elevar la temperatura del baño hasta 30 ºC, a una velocidad de 2 ºC por minuto, y luego a una velocidad de 1 ºC por minuto hasta que la primera gota se desprenda del termómetro. La temperatura a la cual esto sucede es el punto de fusión. Para cada determinación emplear una porción recién fundida de la muestra. Realizar la determinación por triplicado. Si la máxima diferencia entre las determinaciones es menor de 1 ºC, promediar los valores obtenidos. De lo contrario, realizar dos determinaciones adicionales y promediar los cinco.
+2

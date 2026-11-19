@@ -1,0 +1,654 @@
+Resolución GMC N° 19/92
+Título: UTILIZACIÓN DE SISTEMAS DE CERTIFICACIÓN PROPUESTOS POR LA ORGANIZACIÓN INTERNACIONAL DE NORMALIZACIÓN (ISO)
+Fecha de aprobación: 25/06/1992
+Vigencia: Vigente (Vigente desde su aprobación el 02/10/1992 - Art. 5 a) y 9 ii) Decisión CMC Nº 023/2000)
+Idioma del texto: ES
+Archivo original: 34087_RES_019_1992_ES_SistCertificac.DOC
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2307).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES N° 19/92
+
+
+      VISTO: El Tratado  de Asunción suscripto el 26 de marzo de 1991 y la  Recomendación N°  9 del  Subgrupo de  Trabajo N°  3 -Normas Técnicas-, y
+
+CONSIDERANDO:
+
+Que está  ampliamente difundida  y experimentada  en  el mundo la  aplicación de los sistemas de certificación  de escritos en  el Manual  sobre Principios  y Prácticas de la Certificación, de la Organización Internacional de Normalización (ISO);
+
+Que los  sistemas de certificación propuestos por la ISO son un  instrumento necesario para las relaciones comerciales con terceros  países y  para los  reconocimientos  recíprocos requeridos en dichas relaciones;
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Recomendar a los Subgrupos de Trabajo y a las Comisiones del  MERCOSUR que  correspondan, la utilización de los sistemas  de certificación propuestos por la Organización Internacional de  Normalización  (ISO)  en  el  Manual  sobre Principios y  Prácticas de Certificación, para el tratamiento y  propuesta   de  resoluciones   sobre  las   actividades  y requerimientos de  certificación específicos  de sus áreas de trabajo. La  descripción de  dichos sistemas  se anexa  a  la presente.
+
+Art. 2 - Es responsabilidad  de la Comisión de Calidad del  Subgrupo  de  Trabajo  Nro.  3: -Normas  Técnicas-,  la difusión de los sistemas indicados en el Artículo 1, así como de las  actualizaciones que  realice la ISO, en los Subgrupos de Trabajo del MERCOSUR.
+
+Art. 3 - Con el objeto de adecuar el tratamiento de la certificación en  el ámbito  del MERCOSUR  a las  modalidades internacionales, antes de elevar propuestas sobre certificación de  productos y/o  procesos y/o  servicios  y/o sistemas de calidad, las Comisiones y  Subgrupos de Trabajo del MERCOSUR  deberán consultar  a la Comisión de Calidad del Subgrupo de Trabajo N° 3: -Normas Técnicas-.
+
+
+VI GMC- Las Leñas, 25/VI/1992.
+
+LOS DIFERENTES SISTEMAS DE CERTIFICACIÓN
+
+      Un sistema de certificación tiene que ser objetivo, fiable y aceptable por  todas las partes  interesadas. También debe ser eficaz y estar  administrado  de forma imparcial.
+
+      El  objetivo  esencial  de un sistema  de  certificación  es  proporcionar  ciertos  criterios  que  den al comprador la confianza de  que  el  producto  satisface  sus exigencias. La garantía ofrecida por el vendedor de  que  sus  productos están exactamente adaptados a las necesidades del comprador es  la  forma mas antigua de proporcionar esta confianza. Sin embargo, el  comprador  perspicaz no siempre acepta este género de garantía unilateral y busca otros  medios de apreciar la calidad de los productos. Puede establecer un  sistema  que le permita controlar él mismo los productos; esta forma de asegurarse de  la calidad es todavía, hoy en día, la más comúnmente utilizada en el  comercio  y la industria. Sin embargo, en una época en de  incesante  crecimiento  tecnológico, aún el comprador profesional siente algunas veces la  necesidad  de  recurrir  a  sistemas de certificación  administradas  por  autoridades   imparciales, no dominados por la influencia de una industria o de la imagen   de una marca de fábrica, para asegurarse de que lo que compra es conforme  a  sus especificaciones. De forma similar, tanto a nivel nacional como a nivel  internacional, aquellos que están encargados de velar por que se aplique  la  legislación,  buscan métodos acordados que garanticen que los productos  son  realmente conformes a los requerimientos de la ley.
+
+      La prueba de que el producto ha sufrido cierta verificación o ha obtenido  alguna  clase de refrendo, o bien, lo que se ha venido comúnmente en  llamar  como certificación, puede ser exhibido en una variedad de formas; una marca,  una  etiqueta, certificado o garantía, lista de productos aceptados o  lista  de  fabricantes  aprobados o licenciados. La definición  o  especificaciones  relativas  a un producto objeto de estos procedimientos deben ser  aceptadas  por todas las partes interesadas. Para lograr este objetivo, los requerimientos del producto son impresos en un documento publicado.
+
+      Este documento publicado puede tener diferentes nombres: "especificación", "norma", o "requerimientos técnicos". Puede ser  elaborado  por  los  compradores, por los vendedores, por los legisladores o  por  los   organismos de normalización utilizando el procedimiento del consenso.  Cualquiera que sea el autor del documento, cuanto más amplia sea su  aceptación,  mayor será la aceptación y reconocimiento potencial de certificación  subsecuente.
+
+      Todos  los sistemas de certificación están sujetos a ciertas  limitaciones prácticas. Una de las limitaciones es que normalmente no se puede lograr una conformidad del 100 por cien, es decir, artículo por artículo. Sin  embargo,  un sistema de certificación bien estudiado puede proporcionar una  garantía óptima  de que los productos han sido elaborados en las mejores  condiciones de  fabricación  realizables  prácticamente, compatibles  con  la  coyuntura comercial, legal  y social del momento y de esta manera puede  reducir  al mínimo la probabilidad o riesgo de obtener productos inferiores a las  normas.
+
+      Es evidente que los sistemas de certificación deben variar de acuerdo con el tipo de producto a certificar, las técnicas de fabricación disponibles al productor,  las diferentes necesidades de los compradores y  los  diferentes requerimientos  legislativos en el lugar de venta. Para acomodarse a estas  variadas circunstancias, se han desarrollado diferentes sistemas de certificación  y los principales tipos están descritos en este capítulo. Es  importante destacar que estos sistemas ofrecen diferentes grados de confianza de que  los productos cumplen las especificaciones. Para relacionar el  sistema  mas  conveniente  para  un producto determinado, se debe  tener  cuidado  en  elegir el sistema que mejor satisfaga los requerimientos prácticos y  económicos en cada caso particular.
+
+      Otra consideración importante es que si se aplican diferentes sistemas  de  certificación  nacionales al mismo producto, se pueden producir barreras  al  comercio internacional, aunque el contenido técnico de las  correspondientes  especificaciones nacionales sea idéntico. Se deben, pues, tomar en consideración la exigencia de otros países cuando se efectúen intercambios internacionales.
+
+      No se puede dar demasiada importancia a la elección del sistema de certificación apropiado, porque la decisión, una vez tomada, no es  necesariamente definitiva. La  experiencia  demuestra  que  los  sistemas de certificación evolucionan con el creciente conocimiento de los efectos de su  aplicación y con las circunstancias cambiantes. Muchas veces, un sistema que  ofrece un grado de confianza pequeño, es sustituido, mas tarde, por otro más  riguroso, por consentimiento mutuo entre todas las partes interesadas.
+
+      Todos  los sistemas de certificación por tercera parte, descritos en  este  capítulo, comprenden un elemento de ensayo como un medio necesario de probar  la  conformidad  a  la especificación. Es, por tanto,  fundamental  para  la  integridad de estos diferentes sistemas, que los laboratorios de ensayo sean  competentes. Esta cuestión será tratada detalladamente en el capítulo 6.
+
+    Los  diferentes sistemas de certificación por tercera parte  descritos  en  este capítulo son:
+
+ 1- Ensayo de tipo.
+
+ 2- Ensayo de tipo seguido de un control que consiste en ensayos de  verificación de muestras tomadas en el comercio.
+
+ 3- Ensayo de tipo seguido de un control que consiste en ensayos de verificación de muestras tomadas en el comercio y en la fábrica.
+
+ 5- Ensayo de tipo y evaluación del control de calidad de la fábrica y su aceptación, seguidos de un control que tiene en cuenta, a la vez, la auditoría del control de calidad de la fábrica y los ensayos de verificación  de muestras tomadas en el comercio y en la fábrica.
+
+ 6- Evaluación del control de calidad de la fábrica y su aceptación.
+
+ 7- Ensayo por lotes.
+
+ 8- Ensayo al 100 por cien.
+
+      Puede haber, claro está, otras variantes. Sin embargo, esta lista  permite al lector, desde el primer momento, darse cuenta de cuáles son las divergencias  existentes entre un sistema o grupo de sistemas y  los  otros, antes de proceder a unas descripciones más detalladas.
+
+      Se puede apreciar que los sistemas del 1 al 5 siguen una  progresión  de  orden  lógico,  y que cada uno de ellos comienza por "ensayo de  tipo".  Los  sistemas  6,7  y  8, por otro  lado, no tienen ninguna  conexión,  ni  entre  ellos, ni con los sistemas 1 al 5; cada uno de estos tres sistemas es  único  en su género.
+
+NOTA: Existen otros sistemas de ensayo de productos análogos a los  sistemas  de certificación. Por ejemplo, los sistemas de evaluación de la calidad de  un producto dado, que se aplica en algunos países socialistas, forman  parte  igualmente  de  estos sistemas de ensayo. Los productos  ensayados  de  esta  manera  pertenecen,  por ejemplo, a una de las tres  categorías  siguientes:  Calidad  excelente,  buena calidad, calidad suficiente.  En  principio,  los  productos  conformes a  las normas pertenecen a la  categoría  de  buena  calidad.  Los sistemas de ensayo de productos están asociados normalmente  a  factores de estímulo y de sanción determinados por el estado. Su objetivo es  el  de promover el incremento en calidad de los productos nacionales  y  los  procedimientos  y  consecuencias que comportan van más allá que los  de  los  sistemas de certificación. Sin embargo, se aplican algunos principios de los  sistemas de certificación.
+
+ Ensayo de tipo
+
+      El ensayo  de tipo constituye la base -elemento indispensable- de los cuatro sistemas sucesivos, numerados del 2 al 5. El orden en que  han sido enumerados está pues justificado, no sólo por las razones  apuntadas, sino también porque se pensó que los tres últimos sistemas de la lista se entenderían  más fácilmente a la luz del análisis de los otros descritos  en primer lugar. El orden adoptado está dictado por el deseo de presentar  cada uno de ellos según relaciones lógicas y no implica en absoluto una clasificación por orden de mérito.
+
+      Aunque el ensayo de tipo ha sido clasificado como  un  sistema, algunos sostienen que, en realidad, no es un sistema propiamente dicho y se oponen, por esa razón, a su inclusión en la lista de sistemas, a  pesar de  que  algunos organismos de normalización conceden su marca tan solo sobre la o por diferentes condiciones relativas a la aceptabilidad el  resultado  y por  consiguiente, su inclusión como un sistema puede estar justificada  por  tales razones. La justificación más importante para su inclusión al lado  de  otros  sistemas  es que para entender, no sólo todo el  concepto  de  certificación,  sino  también los otros sistemas, es esencial  entender  bien  el  ensayo de tipo, su valor y sus limitaciones.
+
+      Cualquier descripción de una certificación alberga la suposición de que el  producto  será ensayado: ensayo de conformidad a una especificación,  ensayo  respecto  a las condiciones técnicas exigidas previamente en  un  documento,  por  un método especificado se observa que el único sistema que no  contiene  específicamente  la  palabra ensayo en su enunciado o título es  el  sistema  núm.  6; pero aún aquí se podrá ver en los detalles que se ofrecen mas  adelante que el ensayo forma una parte esencial del sistema.
+
+      La desventaja de este sistema es que no proporciona, en  sí  mismo, una  prueba de primera mano o digna de confianza, de que la producción subsecuente normal de otros artículos fabricados, son conformes a las mismas  especificaciones. Los demás sistemas lo hacen en su mayor o menor grado.
+
+      Se puede pensar, naturalmente, en aquellos casos en los que se ha supuesto que la conformidad probada por los resultados de los ensayos, conduce a la  probabilidad de que los artículos subsecuentes sean también conformes; pero con un examen atento se puede decir que, o bien la suposición es injustificada  o que se ha tomado en consideración alguna otra cosa -otro factor que el ensayo propiamente dicho- para hacer esa suposición. El ensayo de tipo proporciona solamente la prueba de conformidad de un artículo en un  momento  dado. Esta es una operación única en su género, efectuada de una  vez  para  siempre.
+
+      Esto se puede ilustrar examinando el desarrollo del típico ensayo de tipo. Supongamos,  con  objeto de simplificar, que se trata de un ensayo  de  tipo hecho sobre una sola muestra por un ingeniero en su laboratorio de  ensayos.  Esta  puede ser la muestra de un material; sea una pieza metálica, o sea  un  aparato  complejo compuesto de varios elementos. Se le proporciona un  documento que describe los requerimientos que debe cumplir el modelo y el método  de  medir tales exigencias. El es competente y posee los equipos  apropiados  para realizar el trabajo: ensayar el modelo de acuerdo con el método descrito e informar de los resultados en términos de conformidad con los  requerimientos especificados en el documento. Entre los imperativos básicos de esta  operación,  no  necesita saber ni quien hizo este producto, ni  cuál  es  su  función, ni cuál será el uso que se hará de su informe. Se le requiere  para  un  trabajo  totalmente objetivo: el de expresar si el producto  cumple  los  requerimientos  precisados  en un documento, cuando estos se han  medido  de  acuerdo  con un método especificado. El es, por decirlo así, ajeno  a  todas  las circunstancias: el cómo, el cuándo, el dónde y el por qué de este asunto; de la misma manera tampoco se ocupa de las consecuencias posteriores  de  los  resultados que ha registrado en su informe. No queremos,  naturalmente,  insinuar que los ingenieros de ensayo son o deben ser como robots. Es posible  que tengan que tratar cuestiones éticas y de responsabilidad,  pero  se  debe subrayar la estrechez del campo de este sistema para hacer resultar sus  limitaciones.
+
+ 	De todos los métodos de certificación descritos, el ensayo de tipo solo no  permite ninguna declaración o afirmación sobre las producciones futuras y no  justifica  tales  deducciones. Deducciones de esta  naturaleza  sólo  pueden  estar  mantenidas  si  el sistema que incluye el  ensayo  de  tipo  presenta  ciertas pruebas o datos suplementarios que constituyen alguna conexión entre el ensayo de tipo y la producción ulterior basada en él.
+
+ Evaluación
+
+      La palabra "evaluación" es utilizada en la descripción de los sistemas 5 y 6. Se evalúan los productos sometiéndolos a ensayo, sin embargo, la palabra   es utilizada en relación con la inspección del control de calidad que se ha  establecido en la fábrica para los productos que vana ser certificados. El ingeniero que proceda a esta clase de evaluación tratará de averiguar si  el sistema de control de calidad efectuado en la fábrica es tal que los productos  van a ser conformes a la especificación de una forma  consistente,  que los  controles internos de calidad van a ser realizados  sistemáticamente  y que  los  productos no conformes van a ser detectados y la causa  del  fallo  aislada y suprimida. Se ha escrito ya mucho sobre los sistemas de control de  calidad en fábrica y no tenemos la intención de repetir aquí cuáles son  los objetivos  y  los criterios de un buen sistema de control  de  calidad.  Sin embargo,  el  ingeniero encargado de la inspección deberá hacer  un  informe para  el  organismo de certificación en el que explicará muchas  veces  los criterios según los cuales se hace la evaluación.
+
+Ensayo de verificación por tercera parte
+
+      Es necesario decir una palabra sobre el ensayo independiente. El uso de la  palabra  "independiente" implica que el ensayo está hecho con el mandato  y bajo la supervisión del organismo de certificación o de un agente designado por  él. Esto significará, generalmente, que el ensayo será efectuado en un  laboratorio independiente del fabricante (ver el capítulo 5). En este  caso  el ensayo no sólo es independiente, sino que se le puede juzgar como tal, y   puede tener la ventaja suplementaria de constituir un segundo control práctico del calibrado de los equipos de ensayo utilizados por el  fabricante,  además del ya efectuado por el fabricante como rutina. En pocas  palabras, constituirá una verificación.
+
+      Sin  embargo, se pueden presentar casos en los que no se disponen  de  los  medios  necesarios  para realizar un ensayo independiente o en  los  que  es  impracticable  trasladar el producto a ensayar a otro laboratorio. En estas  circunstancias, lo normal es utilizar los equipos de ensayos disponibles  en el  lugar y que los ensayos sean realizados por el agente del organismo de  certificación o en su presencia. Este es el sentido que hemos dado al término "ensayo independiente" en este capítulo. Naturalmente, habrá casos en los  que  el fabricante alegará tales razones de economía, rapidez  o  comodidad   que,  desde  el  momento en que esta solución de recambio  es  aceptable  en  circunstancias  excepcionales, se debería permitir más libremente de lo  que  es. Cada caso será considerado según sus méritos, pero no siempre es  verdad que los ensayos supervisados por los inspectores a costa de los  fabricantes resulten menos caros que los efectuados en los locales del  laboratorio  de  ensayos.
+
+ Vigilancia
+
+      Se debe hacer aquí la distinción entre los sistemas que ejercen un cierto nivel  de vigilancia sobre la producción continua y los que no. A este  respecto, debemos primero hacer una distinción entre los dos tipos o métodos de vigilancia.  Uno consiste en inspeccionar los procedimientos de  control  de calidad del fabricante (los cuales han sido previamente evaluados, registrados y considerados como satisfactorios para el fin que se persigue). El otro  consiste  en  efectuar ensayos independientes sobre muestras  tomadas  de  su producción.
+
+      Esta  distinción es importante, ya que se discute mucho sobre los  méritos relativos que presenta cada una y existe una tendencia creciente a  utilizar una combinación de las dos, tal y como está descrito en el  sistema  número 5. Esta  discusión esta sustentada fuertemente por la situación histórica.  Los organismos  de certificación, incluyendo aquellos que están alojados en  los organismos de normalización, han tenido una tendencia a practicar el sistema número 5,  el cual combina ambas formas de vigilancia, y parece  que  lo  han  defendido  tan fuertemente que han pretendido excluir los otros sistemas  en  el uso del término "certificación".
+
+      En otros tiempos, la atención ha estado principalmente concentrada en este tipo. Esta es la razón por la cual, cuando establecían principios y  códigos de práctica, la ISO/TC 73 (la cual primeramente tenía como título Marcas  de  conformidad  a  normas y era en la ISO el foro principal para  discutir los asuntos  de certificación) no hablaba más que de este tipo de  certificación  (ver la ISO GUIA 13 1). Aquellos que están a favor de efectuar una vigilancia a través de una combinación de los dos métodos, ensayos e  inspecciones, presentan  como argumentos que de esta manera se sirven de las ventajas  que ofrecen  cada uno de ellos y que las limitaciones de emplear un solo  método sólo pueden ser compensadas por el empleo del otro al mismo tiempo.
+
+      Los  defensores de efectuar una vigilancia solamente por medio de  ensayos independientes, sostiene que este método es el fundamental y la única manera  precisa  de juzgar la conformidad. Ellos dicen que el ensayo  es  indispensable; que utilizando este método se puede calcular minuciosamente el riesgo e no conformidad; y que todo aquello que va mas allá de los ensayos, tiende a  no  ser cuantificable y no merece la pena realizarse. En respuesta,  los partidarios de utilizar como vigilancia la auditoría del sistema de  control de calidad del fabricante, (el cual ha sido ya juzgado como  satisfactorio),  declaran que este método no es un sustituto de los ensayos de  verificación,  sino  un  auxiliar  que puede reducir la frecuencia de estos  ensayos  a  un  mínimo,  argumentando  que  los ensayos son muchas veces  el  elemento  más costoso de cualquier esquema de certificación.
+
+      Añaden también que este tipo de vigilancia supone una prueba total de  que el fabricante está poniendo la atención debida a todos aquellos aspectos del control de calidad que han sido previstos para evitar cualquier deterioro de
+ la calidad; sirve también para detectar el defecto allí donde se ha producido y, por tanto, permite identificar y suprimir la causa de no conformidad.
+
+      Existen también algunas consideraciones más. La dificultad de asegurar que una muestra de ensayo sea suficientemente representativa de la  producción;  el valor del producto a ensayar puede hacer poco práctico, desde un punto de vista económico, el ensayo de un número de unidades convenientemente representativo, especialmente si se trata de ensayos destructivos; el ensayo  es  un  indicador  de  lo que está ocurriendo en un punto  preciso  del  tiempo,  mientras que la auditoría del control de calidad es una operación  continua,  y, por consiguiente, cubre una situación entre dos ensayos de  verificación;  los  resultados de los ensayos, especialmente se el ensayo es un  método  de  referencia distinto a un indicador del control de la calidad, pueden  llevar  tiempo,  y el resultado puede ser conocido demasiado tarde para  evitar  que  los artículos no conformes sean puestos en el mercado.
+
+      Podemos observar que el sistema número 5 permite una flexibilidad completa en cuanto al énfasis que queramos dar a uno u otro tipo de verificación: la  de  los  ensayos de verificación y la de la auditoría del sistema de control de calidad del fabricante por medio de inspecciones independientes.
+
+	Una  de las actitudes, que frecuentemente se encuentra, ante el ensayo de  tipo,  es  la siguiente: en orden a reducir la necesidad  de  unos  costosos ensayo  e inspecciones, es deseable ser particularmente escrupulosos  en el  ensayo  de  tipo inicial. La línea de pensamiento podría seguirse de esta  manera: supongamos, por poner un ejemplo, que el producto en cuestión es  un artículo fabricado en masa o en serie, teniendo un valor relativamente bajo.
+Los  ensayos  -que van dirigidos, admitamos, a las características de  funcionamiento-  son costosos en relación con el valor del producto,  bien  por razón  del  método empleado, por el número de muestras utilizadas o  por el  tiempo  requerido. En estas condiciones es comprensible que  resulte  económicamente  prohibitivo efectuar, por ensayos de verificación, el  número  de ensayos necesarios para establecer un nivel de confianza requerido.
+
+      Los normalizadores han estimado que se puede reducir la cantidad de  ensayos de verificación regulares mediante los métodos siguientes:
+
+a) estableciendo,  para el ensayo de tipo, un nivel de  funcionamiento más  elevado que el requerido para los ensayos de verificación, de rutina, posteriores (y poco frecuentes).
+
+b) tomando  un  gran número de muestras de una producción  mayor,  para  el ensayo  de tipo inicial, de lo que normalmente es juzgado necesario, con  el fin de obtener una muestra representativa para el ensayo de tipo y  proporcionar,  por  así decirlo, pruebas más evidentes en esta etapa, de  que,  no sólo  el  modelo es válido, sino de que el fabricante es capaz  de  producir  artículos conformes a las prescripciones técnicas de una manera constante.
+
+      Estas dos nociones suscitan la pregunta de que si los ensayos de tipo  por si mismos,  proporcionan  una prueba válida de lo que  será  la  producción  futura. En  el caso a(se ha supuesto que existe alguna conexión entre el  ensayo  de tipo y la producción subsecuente. Sin embargo, esto es  algo  que  está todavía por demostrar. Si esta conexión no existe, entonces el objetivo de imponer una mayor severidad en el ensayo de tipo constituye, de hecho, una  clase de prueba de aptitud. Esto puede ser útil para el fabricante, el  cual  puede deducir, por ejemplo, que debería tender a obtener un modelo que tenga unos  valores  más elevados para ciertas características, de  forma  que,  a pesar  de  la  dispersión de los resultados en la  producción,  el  producto  alcance no obstante un nivel de funcionamiento que no sea inferior al requerido.
+
+      En el caso b) se ha hecho el mismo supuesto respecto  a  la  producción futura. Si en el curso de los ensayos de control hechos por el fabricante  y de los ensayos de verificación realizados por  el  certificador,  hacemos referencia a los resultados del ensayo de tipo, bien distinta de la referencia a las condiciones exigidas por la especificación, pueden existir  fundamentos para suponer que hay una conexión aceptable entre el ensayo de tipo y la producción subsecuente. De otra forma, no vemos como se puede  justificar la  opinión  según la cual, del solo hecho que el fabricante  ha  pasado  la prueba  del ensayo de tipo, se pueda deducir que él será capaz  de  producir conforme  a las prescripciones técnicas de una manera constante, o al  menos no  lo  consideraremos como suficientemente válido para garantizar  que  una  certificación por tercera parte puede ser decidida basándose tan solo en esa  suposición.
+
+      Por consiguiente, siguiendo este método de certificación, "por ensayo  de tipo únicamente", no existe vigilancia alguna por una tercera parte, ni del  fabricante ni de los procesos de fabricación. El método tiene algo que decir - ofrece alguna prueba- en lo que se refiere a la capacidad técnica, pero al no  realizarse ninguna vigilancia posteriormente, no proporciona evidencia alguna de si esa capacidad técnica a sido trasladada a la realidad.
+
+      Otros sistemas reconocen esta limitación: ellos contienen algo  adicional que permite comprobar que estas expectativas y estas aptitudes están  realmente  trasladadas  a  la realidad, y que la  evaluación  inicial  permanece  justificada durante un período de tiempo.
+
+      Otra manera de caracterizar estos sistemas consiste en distinguir aquellos que se ocupan de apreciar la organización y los métodos de control de  calidad  utilizados  por el fabricante, de los que no lo  hace.  Claramente,  el  ensayo de tipo cae dentro de la segunda categoría. Esto concierne también al sistema  núm.6  "evaluación  y aceptación del control de calidad hecho en fábrica".  Lo  mismo se puede decir de los sistemas números, 2,3,4  y  5. Pero  ninguno  de los otros dos métodos especiales -ensayo por lotes  y ensayo al  100  por  cien- están implicados en tal apreciación, si  bien  naturalmente, ellos  se  interesan esencialmente de las realidades de la producción y no  solamente  de  las aptitudes técnicas. Se pueden identificar  todavía  otras  diferencias: el origen de la muestra empleada para los ensayos de verificación  y la relación entre un sistema y una fábrica particular, entre  otras. Los títulos que sirven para describir los sistemas 2 al 5, ambos  inclusive, marcan esta diferencia, a la cual se hace poca alusión en lo que sigue. Esta es la razón por la que hemos preferido remarcarlo aquí mismo. Estamos  tratando  aquí  de la parte de un método de certificación con  vigilancia: la verificación de que si la aptitud inicial del fabricante está siendo mantenida. Una de las mejores formas de hacerlo - y algunos dirían  que el  elemento esencial- consiste en tomar una muestra de la producción real y someterla a ensayo, con el fin de juzgar si la conformidad esperada está  siendo alcanzada.
+
+Muestreo
+
+      Supuesto  que  este libro no se ocupa de la metodología  estadística,  no  vamos a tratar en profundidad la cuestión de saber cómo, cuándo, dónde y  en qué cantidad se deben tomar las muestras, comporta consideraciones  que  no son solamente de naturaleza estadística, sino también de naturaleza  práctica.
+
+      Estas consideraciones incluyen cuestiones tales como la relación entre  el tamaño  de  la muestra y la totalidad de la producción  que  representa; el  método  de  elegir  aleatoriamente las muestras para  asegurarse  que  ellas constituyen una representación de la totalidad tan válida como sea  posible; el  coste de la toma de muestras por un método u otro; los factores  concurrentes  en  una eventual desigualdad en la distribución  de  la  producción total entre las diferentes salidas al mercado; el grado con el que es deseable disponer información actualizada de la producción corriente; la cuestión de  saber  si el embalaje y las averías en la distribución o en  el  almacén deben tomarse en consideración y así sucesivamente.
+      De los sistemas de certificación enumerados al principio de este capítulo, algunos están esencialmente vinculados a una fábrica particular y otros  no. Los sistemas que no están esencialmente vinculados a una fábrica  particular son: el núm.1 "Ensayo de tipo", el núm.7 "Ensayo por lotes"  y  el  núm.8 "Ensayo al 100 por cien". Los sistemas 2 y 3 podrían caer también dentro de esta categoría, aunque más frecuentemente están vinculados a  una  fábrica  particular.
+
+ Ensayo por lotes
+
+	La  designación  "ensayo por lotes" indica que éste no es un  sistema  que requiera  esencialmente la identificación del fabricante. Aparte, fuera  del carácter  esencial del sistema, puede acontecer que tal o cual  cliente  requiera  de  un  lote o partida, en particular, haya sido  producido  por un fabricante determinado. Sin embargo, el sistema de ensayo por lotes consiste en  medir la conformidad de un lote o de una partida aplicando  técnicas de muestreo  estadísticas y en pronunciar su juicio sobre el lote de una forma que identifique el riesgo que tiene el cliente de encontrar en él  artículos no  conformes.  El responsable del ensayo, al dar una  respuesta,  sólo  alcanzará  su objetivo si puede establecer una conexión entre  los  resultados expuestos en el informe del ensayo y el lote, de tal manera que esta  conexión  entre  el  informe  y  el lote sea  mantenida  hasta  su  llegada al destinatario -el cliente- que ha encargado el ensayo. Una vez que el lote ha alcanzado  este  punto,  el objetivo está logrado y  la  responsabilidad  de mantener  cualquier  conexión entre el informe del ensayo y  el  lote  (bien considerado el lote en su conjunto total o bien cualquier lote particular  o artículo  de  tal  conjunto) se traslada al destinatario, el  cual  en  esta transmisión, se convierte en expedidor.
+
+	La parte esencial de esta descripción es que el autor antes del ensayo  no tiene  pruebas  de  primera mano y no tiene la  responsabilidad  para  poder establecer una conexión entre el lote o partida y un fabricante  particular. Se  le  requerirá que identifique el lote o los artículos  que  contiene  de alguna  forma, y esta forma podría, evidentemente, incluir la afirmación  de que  están marcados con tal o cual nombre, marca, código, etc.; pero estaría excediéndose  en cuanto a las exigencias mínimas de este sistema si  tuviera que certificar también que el lote fue producido por un determinado  fabricante. De esto se desprende que ninguna operación dada de ensayo por  lotes, tal y como la hemos definido, permite emitir un juicio acerca de la  aptitud de  un  fabricante en particular y que tal deducción no puede  ser  hecha  a menos que hagamos intervenir otros factores, métodos o técnicas que permiten justificar esta deducción. Sin embargo, si hay que establecer una  relación entre el fabricante y, digamos, una serie de ensayos por lotes, entonces la prueba  de  los resultados puede utilizarse legítimamente para apreciar la aptitud del fabricante.
+
+      No siempre se hace una declaración específica acerca del producto, aún  en  el  caso de que sea certificado por algún otro de los sistemas  por  tercera parte descritos en este capítulo. En la práctica, gran parte de las transacciones  comerciales  mundiales se efectúan sin que  el  suministrador tenga  que  aportar ningún tipo de certificación o garantía  específica  que vaya más allá de los términos del contrato, el cual cubre la eventualidad de una  observación  por diferentes medios. Sin embargo, se pueden imponer al  vendedor ciertas condiciones por medio de una ley. Esta ley puede obligar al vendedor, bien en términos generales aplicables a cualquier producto o  bien específicamente para ciertos productos particulares, a:
+
+i)   suministrar información:
+
+      a) sobre peligros eventuales;
+      b) sobre el uso del producto;
+
+ii)  alcanzar una calidad mínima:
+
+iii) proporcionar una declaración (equivalente a cierta formas de certificación) relativa a la calidad del producto, para:
+
+      a) la protección del consumidor;
+      b) favorecer el comercio;
+
+	La idea subyacente en el punto iii) es la que nos preocupa aquí: a  saber que la ley natural está mas dispuesta a penalizar una declaración falsa  que la ausencia total de una declaración. Se podría decir que la regla  impuesta al vendedor de proporcionar cierta forma de declaración, es un término medio situado en algún punto entre el principio de caveat emptor - dejen al comprador precaverse- asumiendo el comprador la responsabilidad de verificar él  mismo  la calidad del producto que compra, y la práctica de la certificación independiente. La idea de exigir una declaración cumple tres  funciones:
+
+a) asegurar que el vendedor suministra información al comprador;
+
+b) obligando  al  vendedor  a  hacer  una  declaración  susceptible de ser verificada, se disuade de hacer declaraciones falsas, ya que
+
+c) si el vendedor hace una declaración falsa o engañosa, es posible  obligar a  que  se  rindan cuentas por esta declaración, a través  de  la  acción normal de la justicia.
+
+      Los argumentos expuestos en los puntos b) y c) del párrafo anterior,  está acentuado y confirmado ya dado con las palabras "conformes a normas  específicas y  a especificaciones técnicas". La palabra  "específica" indica  claramente que no sirve una calidad indefinida, vaga o abstracta, si no  que la  certificación  debe ser hecha respecto a algo  específico: alguna cosa formulada con precisión. Como veremos más adelante, en uno de los  capítulos que  siguen,  la legislación hace uso algunas veces de la idea de  la  autocertificación. Con ella se sigue un camino intermedio entre  una  certificación  independiente por tercera parte y la ausencia de una garantía  digna de confianza.
+      Los lectores de este libro no sólo estarán interesados en responder a  la cuestión "¿Cuál es la mejor forma de certificación en estas circunstancias particulares?", sino también "¿Es requerida alguna forma de  certificación y  en  caso  afirmativo,  cuál es la más apropiada  para  este  producto  en particular  y en este momento preciso?". Estas cuestiones  pueden  suscitar respuestas  muy diferentes según el país, ya que los criterios pueden  variar en  función del interés particular puesto en juego o de que se contemple  el hecho a nivel nacional o internacional.
+      Habiendo revisado  ciertos  aspectos de los diferentes  tipos  de  certificación,  concluiremos este capítulo con una descripción objetiva de  todos ellos.  Los  argumentos en pro y en contra de la utilidad y  la  aptitud  al empleo de estos sistemas serán desarrollados en los capítulos posteriores.
+
+
+SISTEMA NUM.1 - ENSAYO DE TIPO
+
+1 Descripción
+
+	Este  es un sistema según el cual una muestra del producto es ensayada  de acuerdo  con  un  método de ensayo prescrito, con el  fin  de  verificar  la conformidad de un modelo a una especificación. Esta es la forma mas simple y mas  limitada  de una certificación independiente relativa  a  un  producto, tanto desde el punto de vista del fabricante como de la autoridad que da la aprobación.
+
+2 Método - generalidades
+
+a) Determinar cuál es la categoría de las especificaciones que pueden  ser aceptadas para un ensayo de tipo.
+
+b) Comprobar si  la especificación en vigor escogida así como el método  de ensayo  a utilizar son apropiados, antes de declararlos aceptables  para  el ensayo de tipo.
+
+      Elaborar reglas de procedimiento. Se deben de establecer un conjunto de reglas básico y reglas particulares de cada producto.
+
+      Determinar los laboratorios encargados de hacer los ensayos, los cuales deben ser aprobados por la autoridad competente de acuerdo con las reglas establecidas.
+
+      Redactar para cada especificación un tipo de informe de ensayo normalizado.
+
+      El organismo de aprobación establece claramente que el es solo responsable de los certificados de ensayo de tipo y de los informes de ensayos, que todas las declaraciones hechas por un fabricante sobre la base de estos certificados están hechos bajo su responsabilidad y en todo caso tales declaraciones deben de hacerse sobre los productos idénticos al modelo que fue ensayado. La aceptación por el fabricante de estas limitaciones y de las reglas de procedimiento es un requisito previo indispensable.
+
+      Determinar el período de validez del certificado.
+
+      Método - Productos particulares
+
+      Definir completamente el producto y el modelo real, por ejemplo por medio de una especificación escrita, en diseño del modelo, una fotografía, designación del modelo, su referencia o su número en el catálogo.
+
+      Determinar el número de elementos que debe tener la muestra que va a ser ensayada.
+
+      Determinar el punto de toma de muestras, por ejemplo, como producto final obtenido en la factoría o en el comercio o como producto intermedio en el curso de fabricación como  esto esté así requerido en la especificación.
+
+      En el caso de no existir en los laboratorios independientes las instalaciones o equipos necesarios para realizar el ensayo, este se podrá realizar utilizando las instalaciones o equipos del fabricante bajo supervisión independiente.
+
+4   Ventajas
+
+a)  Para cada modelo o tipo de producto se requiere solamente una serie de ensayos.
+
+b)  El fabricante puede declarar que el producto se ha mostrado pendiente conforme a la especificación.
+
+c)  Los costes son mínimos.
+
+d)  Es preferible que la ausencia de ensayo alguno.
+
+ 5 Inconvenientes
+
+a) Sólo se  ensaya, para  verificar  su conformidad a la especificación,  el prototipo o muestra del modelo real.
+
+b) En  lo  sucesivo  el  organismo  de  aprobación  no interviene más, y  en consecuencia no se puede saber si la producción subsecuente del mismo modelo es conforme a la especificación.
+
+c) El modelo ensayado podría muy bien haber sido producido especialmente,  y no  existe  evidencia  para afirmar que el fabricante  posee  las  aptitudes requeridas para asegurar la conformidad de una forma permanente.
+
+d) No se considera el control de calidad de la factoría.
+
+6 Marcaje
+
+      El  marcaje de los productos puede ser considerado engañoso o  fraudulento, al  menos  que las limitaciones del ensayo de tipo sean  bien  explicadas  y entendidas.  De todas formas, si se tiene lugar el marcaje, aun en el  caso de que sea requerido por la ley, la responsabilidad será del fabricante y el organismo  de  certificación  no se verá comprometido más  allá  de  lo  que constituye el ensayo de tipo en sí.
+
+7 Establecimiento de listas
+
+	Por la misma razón que indicamos en el punto anterior, se considera dudoso que la publicación de listas tenga algún valor.
+
+SISTEMA NUM.2 - ENSAYO DE TIPO SEGUIDO DE UN CONTROL QUE CONSISTE EN ENSAYOS DE VERIFICACIÓN DE MUESTRAS TOMADAS EN EL COMERCIO.
+
+1 Descripción
+
+Este  es  un  sistema basado en el ensayo de tipo  (sistema  num.1),  pero combinado  con  intervenciones posteriores para verificar si  la  producción continúa siendo conforme. Un ensayo de verificación de muestras obtenidas en
+ el comercio, significa un ensayo de los modelos iguales a los que  sufrieron el ensayo de tipo y que han sido tomados al azar de un distribuidor o de  un detallista.
+
+2 Método - ensayo de tipo
+
+      El mismo que ha sido descrito en los párrafos 2 y 3 del sistema núm.1.
+
+3 Método - control de mercado
+
+a) Determinar  la  frecuencia de los ensayos de verificación y el número  de elementos que debe tener la muestra que va a ser ensayada.
+
+b) El  ensayo  de verificación es llevado a cabo en un laboratorio  aprobado por  el organismo de certificación, pudiendo estar incluido  un  laboratorio del fabricante.
+
+c) Tener conocimiento de la distribución comercial del fabricante.
+
+d) El fabricante debe  informar al organismo de certificación de toda  modificación en el diseño del producto.
+
+e) El fabricante  se  compromete  a pagar el coste de los ensayos de verificación a un nivel de precio óptimo. Cualquier ensayo de verificación  llevado a  cabo por encima de ese nivel, sólo se cargará al fabricante  en  aquellos casos en que se descubra una falta de conformidad o un cambio en el diseño del producto que no haya sido autorizado.
+
+
+4 Ventajas
+
+a) Proporciona algún  control  de  la  continuidad en la conformidad de  los productos a un coste pequeño.
+
+b) El organismo  de  aprobación ejerce un control continuo de las normas  de producción del fabricante.
+
+c) La información  obtenida  cubre  también la influencia de los canales de distribución sobre el producto, dando un conocimiento de las condiciones  en que se encuentra el producto cuando el comprador lo recibe.
+
+5 Inconvenientes
+
+a) El coste para el fabricante es mayor que el que corresponde al ensayo de tipo.
+
+b) Una inspección que cubra los puntos de venta del mercado en la proporción necesaria para llegar a resultados indicativos, puede ser difícil de lograr.
+
+c) Las  medidas  tomadas por  el  organismo  de  aprobación, en  el caso  de descubrir  una  falta de conformidad, no tienen un carácter  preventivo. La retirada del certificado de ensayo de tipo, basada en un solo sondeo para un producto  que  es fabricado en grandes series,  resultaría  impracticable  e ilógico.
+
+d) No se considera el control de calidad de la factoría.
+
+e) Ver también sistema num.3, párrafo 6.
+
+6 Marcaje
+
+      Puede  haber  un marcaje de los productos individuales y el  organismo  de certificación  debe  estar  preparado para verse  implicado  y  ejercer  su  autoridad  en  este  aspecto, a pesar del limitado control  que  tiene;  sin embargo, la marca utilizada debe ser distinguible de la que se utilice en el sistema num.5.
+
+7 Establecimiento de listas
+
+      Si.
+
+SISTEMA NUM.3 - ENSAYOS DE TIPO SEGUIDO DE UN  CONTROL  QUE  CONSISTE  EN ENSAYOS DE VERIFICACION DE MUESTRAS TOMADAS EN LA FABRICA.
+
+1 Descripción
+
+	Este  es  un  sistema basado en el ensayo de tipo  (sistema  num.1),  pero combinado con  intervenciones posteriores para verificar si  la  producción continúa siendo conforme. Un ensayo de verificación de las muestras  tomadas en  la fábrica implica un control regular de las muestras del  mismo  modelo que sufrió el ensayo de tipo, seleccionadas de la producción del  fabricante antes de su explicación.
+
+2 Método - ensayos de tipo
+
+      El número que ha sido descrito en los párrafos 2 y 3 del sistema num.1.
+
+3 Método - ensayo de verificación
+
+a) Determinar la frecuencia  del  ensayo  de  verificación  y  el número  de elementos necesarios para el ensayo.
+
+b) El ensayo de verificación es efectuado en un laboratorio aprobado por  el organismo de certificación, pudiéndose incluir un laboratorio que pertenezca al fabricante.
+
+c) El  fabricante  debe informar  al organismo de certificación de cualquier cambio en el diseño del producto.
+
+d) El fabricante se compromete a pagar el coste de los ensayos de verificación de acuerdo con lo convenido en el párrafo 3a). Todo ensayo de control suplementario llevado por el certificador, no será facturado al fabricante.
+
+
+4 Ventajas
+
+a) Proporciona  algún  control  de  la  continuidad en la conformidad de los productos a un coste pequeño.
+
+b) El organismo de control ejerce una supervisión continua de los métodos de producción del fabricante.
+
+c) Las instalaciones y equipos de ensayo del fabricante pueden ser evaluados y los resultados de los ensayos controlados.
+
+5 Inconvenientes
+
+a) El coste para el fabricante es mayor que el que corresponde al ensayo  de tipo.
+
+b) Además del trabajo correspondiente a los ensayos, se necesita una inspección para la toma de muestras.
+
+6 Comparación entre  los  ensayos de verificación efectuados sobre  muestras tomadas de la factoría y las efectuadas sobre muestras tomadas del comercio.
+
+a) Las muestras para los ensayos de verificación son tomadas, en un caso, de los locales de la factoría y, en el otro, de los almacenes del  distribuidor o de los puntos de venta de los detallistas.
+
+b) Para los ensayos  sobre  muestras  tomadas  del  mercado, se necesita  un personal  de  inspección  más  numeroso y más  extendido,  para  cubrir  una multitud de puntos de venta, mientras que las muestras tomadas de la factoría pueden ser obtenidas con unos efectivos de inspección más reducidos.
+
+c) Los ensayos de verificación sobre muestras tomadas de la factoría, pueden ofrecer la oportunidad de ejercer cierta acción preventiva.
+
+7 Marcaje
+
+Puede  haber  un marcaje de los productos individuales y el  organismo  de certificación  debe  estar  preparado para verse  implicado  y  ejercer  su  autoridad  en  este  aspecto, aún en el caso en que sus  controles  son  más reducidos  que  los que se ejercen en el sistema num.5. Según  convenga,  se deberá  tomar la decisión de emplear o no la misma marca que en  el  sistema núm. 5.
+
+
+8 Establecimiento de lista
+
+      Sí
+
+SISTEMA NUM. 4 - ENSAYO DE TIPO SEGUIDO DE UN CONTROL QUE CONSISTE EN ENSAYOS DE VERIFICACIÓN DE MUESTRAS TOMADAS DEL COMERCIO Y DE LA FABRICA
+
+1 Descripción
+
+      Este es un sistema basado en el ensayo de tipo, pero  con  intervenciones posteriores que tratan de comprobar si la producción continúa siendo conforme. Los ensayos de verificación se efectúan a la vez sobre muestras  tomadas de la fábrica y sobre muestras compradas en el comercio.
+
+2 Método - ensayo de tipo
+
+	Se aplica el mismo método que el descrito para el sistema num.1  en  los párrafos 2 y 3.
+
+3 Método - ensayo de verificación
+
+a) Determinar la  frecuencia  de los ensayos de verificación, el  número  de elementos necesarios para el ensayo y la relación entre  las muestras  tomadas en la fábrica y las tomadas en el comercio.
+
+b) Tener cierto conocimiento de la salida comercial de los productos del fabricante.
+
+c) El  fabricante debe  informar al organismo de certificación de cualquier modificación realizada en el modelo.
+
+d) El fabricante se compromete a pagar los costes de los ensayos de  control que  se  han  acordado según el párrafo 3a). Cualquier  ensayo  de control  suplementario efectuado por el certificador, normalmente sólo se factura al fabricante en los casos de no conformidad o que se descubra una modificación del modelo no autorizada.
+
+4 Ventajas
+
+      Dependiendo del número de muestras sometidas a ensayo, este sistema deberá combinar las ventajas de ambos sistemas números 2 y 3. Los ensayos sobre las muestras tomadas del comercio representan, en cierto modo, una auditoría  de los ensayos efectuados sobre muestras tomadas en la fábrica. Ver también las notas del párrafo 6 del sistema núm.3.
+
+5 Inconvenientes
+
+      Es  necesario  recurrir  a una inspección para recoger  las  muestras  del
+comercio y de la fábrica. Ver párrafo 5b) del sistema núm.2.
+
+
+6 Marcaje
+
+      Puede  haber  un marcaje de los productos individuales y el  organismo de certificación debe estar preparado para verse implicado y ejercer su autoridad en este aspecto, aún en el caso que sus controles sean más reducidos que los  que  se  ejercen en el sistema núm.5. Se deberá tomar la decisión  de emplear o no la misma marca que en el sistema núm.5, según convenga.
+
+	Establecimiento de listas
+
+      Si.
+
+
+SISTEMA  NUM. 5 - ENSAYO DE TIPO Y EVALUACION DEL CONTROL DE CALIDAD  DE  LA FABRICA  Y SU  ACEPTACION, SEGUIDOS DE UN CONTROL QUE TIENE EN CUENTA  A  LA VEZ  LA VERIFICACION DEL CONTROL DE CALIDAD DE LA FABRICA Y LOS  ENSAYOS  DE VERIFICACION DE MUESTRAS QUE PROVIENEN DEL COMERCIO Y  DE LA FABRICA
+
+Descripción
+
+Este  es  un  sistema basado en el ensayo de  tipo  (sistema  núm. 1)  con  evaluación  y  aprobación de las medidas tomadas por el fabricante  para  el control  de la calidad de su producción, seguido de una vigilancia  regular, por  medio  de sus inspecciones, del control de calidad de la fábrica  y  de ensayos de verificación sobre muestras tomadas del comercio y de la fábrica.
+
+Método
+
+Ver en 7.
+
+Ventajas
+
+      Es un sistema fiable y completo para verificar, de una forma permanente,  si la producción es conforme. -Es un sistema flexible. Tiene, además, una cierta influencia en la eficacia industrial.
+
+
+Desventajas
+
+	Este sistema es más complejo que los anteriores.
+
+      Generalmente se emplea un organismo de inspección para la  supervisión  y control.
+
+
+Marcaje
+
+      El marcaje de los productos individualmente con la Marca, que es propiedad del organismo de certificación, es lo normal y, generalmente, es considerado como el aspecto más esencial de este sistema.
+
+6. Establecimiento de listas
+
+	Sí.
+
+7 Descripción detallada y método
+
+      Esta descripción es más detallada que las de los otros sistemas, ya que es el  más  comúnmente  empleado por los  organismos  de  normalización; es  más complejo que los otros, y parte de sus procedimientos quedan ya indicados en los otros sistemas.
+
+      Se  le conoce generalmente como sistema de certificación por marcado  para la  conformidad  a normas; algunos de sus principios están expuestos  en  la Guía ISO/CEI número 13 (ver anexo 4).
+
+	Los elementos de este sistema de certificación son los siguientes:
+
+a) Una especificación escrita.
+
+b) Un esquema de supervisión y control apropiado.
+
+c) Un procedimiento para la solicitud de la certificación.
+
+d) Una inspección inicial  de  la  factoría para verificar si su sistema  de control de calidad es el apropiado.
+
+e) Un ensayo de tipo del producto para verificar su conformidad a la especificación escrita.
+
+f) La aprobación del producto y factoría.  Aprobación del control de calidad de la factoría.
+
+g) Otorgación de la licencia.
+
+h) Inspecciones de  rutina  para  realizar  una  verificación del control de calidad efectuado en la factoría.
+
+i) Ensayos de verificación de las muestras.
+
+Cada  uno de estos elementos se describe a continuación con  más  detalle [con la excepción de a)].
+
+b)  Un esquema de supervisión y control
+
+      El "esquema de supervisión y control" precisa las obligaciones del fabricante  relativas a los medios con los cuales se debe asegurar que  su  producto permanece  conforme a las especificaciones y las obligaciones del  organismo de  certificación  de  velar por que el fabricante satisfaga  su  parte  del acuerdo.
+
+      Cuando  un organismo de certificación establece por primera vez un  "esquema de supervisión y control", debe discutir sus propuestas con los  fabricantes y  los  compradores  para asegurarse de que éstas son  factibles  desde  los puntos  de vista técnico y comercial. Posiblemente los comités  técnicos,  u otras  organizaciones  responsables de las normas,  mantengan  contacto  con representantes  de  los organismos interesados y su colaboración  tendrá  un valor considerable. Es importante que, en la medida de lo posible exista un esquema común para todos los fabricantes de un producto particular  conforme a una especificación dada.
+
+Un procedimiento para la solicitud de certificación
+
+      Es importante que el procedimiento de solicitud y los documentos correspondientes aseguren la identificación precisa del producto para el cual se requiere la certificación, la especificación respecto a la cual se concede, la fabrica responsable de la calidad final del producto. A este efecto, son esenciales un impreso de solicitud y un cuestionario bien concedidos.
+
+Inspección inicial.
+
+      El objeto de la inspección inicial es determinar si la fábrica es capaz de producir, de forma continua, los productos conforme a las especificaciones. El elemento esencial de esta apreciación es el sistema de control de calidad de la fábrica, aunque sin una actitud correcta de la dirección hacia la calidad de los productos, ningún sistema de control de calidad puede considerarse seguro. El control de calidad de las fábricas es desarrollado con detalle en diversas  publicaciones2. Tales publicaciones también proporcionan números consejos sobre la evaluación de la aptitud de las empresas industriales para garantizar la calidad. Los cuestionarios constituyen un aid-memorie para el inspector y puede servir como  medio de realizar procedimientos armonizados.
+
+Tiempo de ampliación de la inspección inicial.
+
+      Uno de los papeles de un inspector del organismo de certificación es examinar los siguientes elementos esenciales del sistema de control de calidad del fabricante y evaluar su actitud para cumplir su función:
+
+i) El personal del servicio de inspección del fabricante y en particular las atribuciones y reglamento del departamento de inspección del fabricante.
+
+ii) Los métodos y procedimientos de inspecciones general y los documentos correspondientes.
+
+iii) Equipos de ensayo
+
+iv) El control de calidad de materiales de aprovisionamiento, componentes y servicios.
+
+v) La identificación y control de lotes.
+
+vi) El destino de los productos rechazados en el curso de la inspección.
+
+vii) El marcaje de los productos.
+
+viii) Los procedimientos aplicados para modificar el producto y para desviar o sustraer ciertas producciones.
+
+ix) La documentación  de uso interno, incluyendo  registros  de  ensayos, registros de producción, certificados de materiales, quejas, etc.
+
+x) La disponibilidad de los requerimientos técnicos para el producto  (por ejemplo, la especificación), el esquema de supervisión y control, el  manual de  calidad  y otros documentos esenciales de la inspección  interna  de  la fábrica.
+
+xi) La actitud de la dirección general respecto al control de  calidad  en general y al esquema propuesto en particular.
+
+      Todos estos elementos son esenciales para un funcionamiento correcto de un sistema  eficaz de control de calidad, aunque puede haber diferencias  según el proceso de fabricación utilizado, la dimensión del fabricante y el tipo de producto fabricado. Por consiguiente, no es posible establecer un sistema de control  de calidad ideal para todas las situaciones y no es ni práctico  ni deseable  que el organismo de certificación insista en que  los  fabricantes adopten métodos idénticos para productos similares.
+
+Informe de las inspecciones iniciales
+
+      Es preciso conceder mucho crédito a la experiencia, formación,  integridad y honestidad del inspector, ya que el organismo de certificación depende de la  evaluación  que él aporta de la fábrica inspeccionada. El  organismo  de certificación  exige del inspector que emita un informe en el que defina el sistema  de control de calidad puesto en práctica por el fabricante  y  haga una  evaluación  de  su aceptabilidad. Este informe  de  inspección  inicial constituye una  de las bases sobre la que descansa este  tipo  de  sistema, tiene, pues, una importancia crítica para el procedimiento  de  vigilancia subsecuente. Para asegurarse de que este informe proporcione toda  la  información  necesaria, se debe tener cuidado con su forma y contenido,  tanto en los que concierne a factores generales aplicables a todos los  productos, como a informaciones particulares exigidas para los  productos  examinados (ver anexo 7).
+
+c) Ensayo de tipo
+
+      El  ensayo  de tipo, ensayo de conformidad el producto a todos  los  requerimientos de la norma, constituye el segundo elemento en importancia de este tipo de certificación. Las muestras tomadas al azar para el ensayo de  tipo pueden ser seleccionadas por el inspector durante su  visita  inicial,  o también, el organismo de certificación puede aceptar las muestras  presentadas por el fabricante; de tal manera el ensayo de tipo puede preceder a la inspección inicial o tener lugar al mismo tiempo que ella. Si se adopta esta última  forma de proceder, es importante que el inspector verifique que  los productos sometidos a ensayo son típicos de la producción del fabricante. El objetivo  es asegurarse de que la muestra elegida sea representativa  de  la aptitud a producir del fabricante en cuestión y que sea perfectamente  identificable cuando se proceda al ensayo independiente.
+
+Prototipos
+
+      Sucede  muchas veces que el fabricante no comienza su  ritmo  máximo de producción hasta que no ha sido concedida la aprobación. En tales casos, el ensayo  se puede realizar sobre muestras del  prototipo,  e  inmediatamente después  de  que la producción comience se realiza una  visita  adicional  a fábrica, en la que se toman muestras de la producción  para  someterlas  a ensayo.
+
+Número de muestras
+
+      El número de muestras necesarias para efectuar todos los ensayos, puede ser indicado en la especificación. En todo caso es preciso tener en cuenta la necesidad de disponer de una muestra representativa de la producción y la variabilidad inherente al método mismo de ensayo. El organismo de certificación tendrá que decidir el número óptimo necesario para obtener el nivel de garantía necesario.
+
+
+Donde se realizan los ensayos
+
+      En principio, el ensayo del tipo es llevado a cabo normalmente en laboratorios propios del organismo de certificación o en otros acreditados por el. Este modo operatorio no solo proporciona información esencial sobre la conformidad del producto a la especificación, sino también es una verificación muy útil de la precisión de los equipos y métodos de ensayo propios del fabricante. Sin embargo, sucede que debido al tamaño del producto examinado, o quizás a causa de una falta de instalaciones de ensayo independiente, es necesario que los ensayos sean efectuados por el fabricante. En este caso, todos los aspectos del ensayo, incluyendo la precisión de los equipos de ensayo del fabricante, deben ser controlados de forma independiente por un representante del organismo de certificación, perteneciente quizás, a un organismo de ensayo independiente. Sin embargo, no se recomienda utilizar esta solución alternativa para los ensayos de tipo, al menos que no exista verdaderamente otra posibilidad. Los procedimientos operativos y, si es necesario, los equipos convenientes para los ensayos de equipo, deben estar completamente descriptos en la especificación y, naturalmente, los equipos utilizados deben ser calibrados a intervalos de tiempo convenientes y deben estar mantenidos adecuadamente.
+
+Ideas a tomar en caso de fallo
+
+      Durante  el ensayo, se comprueba que el producto  no  satisface las exigencias de la especificación, es aconsejable informar al  fabricante. Para  evitar  gastos, el fabricante puede decidir detener el ensayo  en  ese punto, aunque esto puede tener como consecuencia que no se permita descubrir otros defectos, de forma que la modificación del producto que introduzca  el fabricante puede resultar insuficiente.
+
+Presentación de los informes de ensayo
+
+      El  Laboratorio debe presentar los resultados de los ensayos por medio  de informes.  Diferentes  laboratorios tienden a usar diferentes tipos  de  informes, pero existen claras ventajas si se racionalizan estos informes. Es imperativo que el informe debería identificar claramente el artículo ensayado, los ensayos  realizados, los resultados obtenidos y una valoración, indicando si las muestras han pasado o no los requerimientos de cada ensayo. El  informe  debe  incluir  un resumen de los  resultados  obtenidos  y  una apreciación  en  cuanto a la conformidad de las muestras a  las  especificaciones.  Este informe debe ser enviado al organismo de certificación que lo evaluará y dirigirá un ejemplar al fabricante.
+
+f) y a)  Aprobación del producto y factoría - Otorgamiento de la licencia
+
+      Sobre la base del informe de la visita inicial y del informe del ensayo de tipo,  el  organismo  de certificación determinará si el fabricante y su producto  pueden  ser aprobados. La licencia, algunas  veces designada  con nombre  de  aprobación, preferentemente toma la forma de  licencia otorgada concedida para un período de tiempo limitado o ilimitado; en cualquier caso, será una forma de contrato que debe ser firmada por ambas partes, acompañada del  esquema de supervisión y control y otros reglamentos que  formen  parte del acuerdo. Normalmente, se asocia una marca, administrada por el organismo de  certificación, a este tipo de certificación y se proporcionan listas  de fabricantes con licencia y de productos certificados.
+      Si  el  organismo de certificación no puede conceder  una  licencia,  debe informar  al  fabricante de las razones y, en cada caso,  dar  los  consejos oportunos  para conseguir la aprobación si la solicitud es mantenida  o  renovada.  Esto entrañará, casi con seguridad, otras inspecciones a fábrica  y otros ensayos.
+
+h) Inspecciones de rutinas
+
+
+Objetivos
+
+      El objetivo principal de las inspecciones de rutina, es verificar que los sistemas de control de calidad aprobados, puestos en práctica por el fabricante, están siendo mantenidos y mejorados. Con este propósito, el inspector  se sirve del informe de inspección inicial en fábrica como  criterio para juzgar el control de calidad de la fábrica, que fue aceptado en el momento de su aprobación. Así, durante la inspección de la fábrica, el inspector examinará, por ejemplo, los registros de ensayos para  asegurar  que  los ensayos exigidos han sido bien efectuados, a las frecuencias debidas y  que  se ha actuado  oportunamente en el caso de haberse producido algún fallo. Verificar también otros registros, incluyendo los de calibración y mantenimientos en el equipo de ensayo.
+
+Toma de muestras al azar para los ensayos de verificación.
+
+      Se recomienda que el inspector, cuando sea posible, haga la toma de muestras de la fábrica en presencia del personal de ésta. Igualmente se pueden también tomar muestras del comercio.
+
+Presentación del informe
+
+      El inspector presentará los resultados al organismo de certificación en un informe, normalmente redactado en una forma prescripta.
+
+Frecuencia de las inspecciones
+
+      La autoridad deberá probablemente estipular el número mínimo de inspecciones anuales a efectuar para cualquier producto sometido al sistema, de forma que su reputación quede a salvo. Se procede a examinar producto por producto, tomando en consideración factores tales como la importancia del producto en los sistemas reglamentarios del país, el grado con que están expuestos a un peligro la seguridad pública, la sensibilidad del producto a las variaciones de la producción y la reputación del sector industrial respecto a su calidad. La decisión será registrada en el esquema de supervisión y control, el cual deberá ser concebido de tal forma que, de acuerdo con los resultados de la fábrica, se puedan realizar visitas imprevistas en cualquier momento.
+
+Calendario de inspecciones
+
+      De una manera general, se recomienda que las visitas no sean anunciadas, con el fin de evitar que el personal del fabricante tome medidas especiales para preparar la visita del inspector.
+
+j) Ensayos de verificación
+
+      Durante las visitas de rutina, el inspector tomará muestras de la producción de la fábrica inspeccionada, con el fin de someterlas a los ensayos de verificación de conformidad a las especificaciones. El organismo de certificación deberá determinar si estos ensayos deben considerar todos los requerimientos del ensayo de tipo o solamente ciertos requerimientos críticos de la especificación.
+      La frecuencia y el objeto de los ensayos de verificación están sujetos a las mismas consideraciones que las de la frecuencia del ensayo de rutina indicadas en la sección anterior. Cuando sea posible, los ensayos de verificación deben tener lugar en un laboratorio independiente acreditado, tanto para apreciar si el producto es conforme a la especificación, como para ejercer un control sobre los ensayos practicados por el fabricante.
+      La frecuencia de los ensayos de verificación debe ser incluida en el "esquema de supervisión y control" , logrando con ello un acuerdo con el fabricante.
+      Para evaluar los resultados de los ensayos de verificación es importante, no sólo pasar revista a los resultados registrados individualmente por las diferentes empresas, sino también comparar los resultados registrados relativos a productos similares producidos por diferentes fabricantes. De esta manera se puede identificar la tendencia de un determinado sector industrial en su conjunto y revisarles los sistemas de certificación en consecuencia.
+
+Comentarios adicionales
+
+      Este sistema de certificación está bien probado y es apropiado, particularmente, a los productos en cadena o en grandes series. Tiene la ventaja de su gran flexibilidad en cuanto a la severidad de la vigilancia ejercida, pudiéndose poner el acento, bien en la inspección de rutina o bien en los ensayos de verificación. La parte principal en este sistema es la evaluación, la aprobación, el registro y la auditoría continua de los métodos de control de calidad propios de la empresa. La mayor parte de los organismos de normalización considera este sistema como el óptimo para la mejora y mantenimiento de la eficacia industrial al mínimo costo.
+
+SISTEMA Nº 6 - EVALUACIÓN DEL CONTROL DE CALIDAD DE LA FÁBRICA Y SU ACEPTACIÓN
+
+1. Descripción
+
+      Es conocido también como sistema de certificación por aprobación de la empresa o de la fábrica o como el de firmas aprobadas. Es un sistema mediante el cual se evalúa y aprueba la aptitud de una factoría para fabricar un producto conforme a una especificación determinada, incluyendo sus métodos de fabricación, organización del control de calidad e instalaciones y equipos para realizar ensayos de rutina, todo ello de acuerdo con una tecnología aceptable. Este sistema se puede aplicar particularmente en el caso en que la especificación cubra un tipo de fabricación, posiblemente un material, pero que el producto final pueda revestir diferentes formas para las cuales no existen especificaciones particulares.
+
+2. Método.
+
+a) La inspección, evaluación y aprobación del control de calidad de la fábrica, se llevan a cabo de la misma manera que en el sistema Nº 5. Esto cubre, no solamente la aptitud de un fabricante para producir, digamos, un material conforme a una especificación, sino también su aptitud para fabricar con este material un producto final. También se incluye una evaluación de las instalaciones y equipos de ensayo.
+
+b) Los productos finales son sometidos a ensayo en la medida que la especificación lo permita y los productos intermedios son ensayados de forma normal.
+
+c) Las inspecciones de rutina y ensayos de verificación son llevados a  cabo
+de la misma manera que en el sistema núm. 5.
+
+d) Se concede aprobación respecto a una sola o un conjunto de especificaciones, pero no es aplicable al producto final.
+
+e) Este sistema sigue las mismas reglas que las del sistema núm. 5, pero sin
+certificación del producto final.
+
+3  Ventajas
+
+a)  Se aprueba y reconoce la aptitud del fabricante y así lo puede reivindicar éste respecto a una gamma especificada de productos finales.
+
+b) El organismo de aprobación ejerce una supervisión del control de  calidad del fabricante.
+
+c) Este sistema es ampliamente utilizado por las organizaciones gubernamentales.
+4  Inconvenientes
+
+      El producto final no puede ser certificado por el organismo de certificación como conforme a una especificación.
+
+5  Marcaje
+
+En este sistema no hay marcaje de los productos individuales.
+
+6  Establecimiento de listas
+
+      Los  fabricantes aprobados o reconocidos pueden figurar en una lista como suministradores  de  una  determinada clase de  productos  aceptables; esto constituye  una  indicación  de la aptitud de un fabricante  en  un  sector industrial particular.
+
+SISTEMA NUM. 7 - ENSAYO POR LOTES
+
+1 Descripción
+
+      El ensayo por lotes es un sistema según el cual un lote de un producto  se somete a un muestreo para realizar sobre la muestra obtenida un  ensayo  a partir del cual se puede emitir un juicio sobre  la  conformidad a una especificación dada.
+
+2 Método
+
+a) Se define completamente el producto por medio de, por ejemplo, un diseño del modelo, una fotografía, una especificación escrita, el nombre y número de un modelo.
+
+b) El número de muestras sometidas a ensayo depende del nivel  de  calidad aceptable exigido y del tamaño del lote.
+
+c) Las muestras destinadas a los ensayos son tomadas al azar por un laboratorio acreditado de acuerdo con unas reglas establecidas.
+
+d) El  veredicto sobre la conformidad del lote em su conjunto, se hace de acuerdo a unos principios estadísticos establecidos y después que un  ensayo completo,  según lo requerido en la especificación, haya sido realizado  por un laboratorio debidamente acreditado.
+
+
+3 Comentario
+
+      En  la misma especificación se puede hacer una referencia especial a este tipo de certificación y, de hecho, así lo hacen muchos organismos de normalización. En estos casos se debe proporcionar una tabla que indique el tamaño de los lotes y el número de muestras a tomar, así como el número  de resultados  conformes  que  se deben obtener. De esta manera  se  puede establecer con precisión, en términos estadísticos, el nivel de calidad aceptable  de  los lotes de un determinado tamaño. no existe,  naturalmente, ni ensayo de tipo ni evaluación del control de calidad de la factoría. Todo  lo que  este método proporciona es una respuesta, mediante un sí o un no, a  la aceptación de un lote.
+      Cada  plan de muestreo establecido para un ensayo por lotes, no  afecta a una certificación concebida según el sistema núm. 5, si bien, naturalmente se debe poder, al menos, prever que el nivel de calidad  exigido con tal plan, se puede alcanzar. Estos dos sistemas pueden  ser  ofrecidos como alternativos respecto al mismo producto, aunque en general, el  sistema de ensayo por lotes si se aplica a la totalidad de la producción y  llevado a cabo por un organismo encargado para este propósito, resultaría más caro que toda la vigilancia que exige el sistema núm. 5.  Naturalmente, la  severidad de este sistema depende del plan de muestreo. Es discutible si el porcentaje máximo  permisible de artículos rechazados debe ser declarado  abiertamente; pero al menos, se debe declarar el plan de muestreo utilizado.
+
+4 Marcaje
+
+      El método normal utilizado en este sistema, es la emisión inmediata de  un certificado, que cubra un lote identificable.
+
+SISTEMA NUM. 8 - ENSAYO AL 100 %
+
+1 Descripción
+
+El  ensayo  al 100% es un sistema según el cual todos y cada  uno  de  los artículos certificados son sometidos a un ensayo para verificar su conformidad a una especificación técnica.
+
+2 Método
+
+a) Se establecen los requerimientos que se deben exigir al producto y el método que se debe aplicar para medir si tales requerimientos se cumplen.
+
+b) Se ensayan, separadamente, todos y cada uno de los artículos certificados.
+
+c) Los artículos que "pasan" son certificados y los artículos que "no pasan" no son certificados.
+
+
+3 Comentario
+
+   Las ventajas e inconvenientes son manifiestas. La  responsabilidad del certificador  es probablemente mayor en este sistema que en los otros, y  es obvio  que  asume  un riesgo respecto a todos y cada uno  de  los  artículos  certificados. Está claro que este sistema es completamente diferente de  los  descritos anteriormente y que no se realiza ninguna evaluación del fabricante, sino solamente del artículo.
+
+
+4 Marcaje
+
+      Lo normal es que los artículos sometidos a este sistema de  certificación lleven  una  marca que indique claramente que se ha  ensayado  artículo  por artículo.
+
+5 Establecimiento de listas
+
+Se  admite  que los fabricantes que se sometan a este sistema  puedan  ser relacionados en una lista.
+1 Reproducida en el Anexo 4.
+2 Entre otras, se pueden dar a título de ejemplo, las normas BS 5179, partes 1, 2 y 3; BS 4891 A guide to quality assurance, CSA Z 2991.1 - 1978 Quality assurance progranm requirements y NEX 50-102 Questionaire type d'énquête chez un fournisseur.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+2
+
+
+3

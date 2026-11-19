@@ -1,0 +1,259 @@
+Resolución GMC N° 36/01
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE INFLAMABILIDAD DE LOS MATERIALES
+Fecha de aprobación: 10/10/2001
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 13353_RES_036-2001_ES_RTM_Mat-Inflamables_Acta 3_01.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1101).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 36/01
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE INFLAMABILIDAD DE LOS MATERIALES
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones N° 91/93, 152/96 y 38/98 del Grupo Mercado Común y el Proyecto de Resolución N° 21/99 del SGT N°3 "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que el mercado interior implica un espacio sin fronteras internas en el que está garantizada la libre circulación de mercancías, personas, servicios y capitales; que es importante adoptar medidas para tal fin;
+
+Que con objeto de garantizar la seguridad de los pasajeros, es importante que los materiales utilizados en la fabricación del interior de la carrocería cumplan algunos requisitos mínimos para evitar, o al menos retrasar, la aparición de llamas, de forma que los ocupantes puedan evacuar el vehículo en caso de incendio;
+
+Que para tal fin, los Estados Partes acordaron adecuar sus legislaciones, de modo de hacer posible el libre intercambio de vehículos, sus partes y sus piezas.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1.- Aprobar el "Reglamento Técnico MERCOSUR sobre Inflamabilidad de los Materiales", que consta como anexo y forma parte de la presente Resolución.
+
+Art. 2.- El presente Reglamento Técnico regirá en los Estados Partes para la circulación, homologación, certificación, patentamiento, licenciamiento y registro de los vehículos automotores,  en los Estados Partes no pudiéndose aplicar en dichas actividades requisitos técnicos adicionales a los establecidos en el mismo.
+
+Art. 3.- Alternativamente se admitirá la homologación de vehículos que cumplan el Reglamento FMVSS 302 de 24 de septiembre de 1998, mientras el mismo no se armonice como Reglamento de las Naciones Unidas, conforme a lo dispuesto en la Dec. CMC Nº 70/00.
+
+Art. 4.- Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, a través de los siguientes organismos:
+
+
+Argentina:			Secretaría de Industria
+				Secretaría de Transporte
+
+Brasil:				Ministério da Justiça
+    Conselho Nacional de Trânsito
+    Departamento Nacional de Trânsito
+
+Paraguay:			Ministerio de Obras Públicas y Comunicaciones
+    Viceministerio de Transporte
+
+Uruguay:			Ministerio de Transporte y Obras Públicas
+    Ministerio de Industria, Energía y Minería
+
+
+Art. 5.-. El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 6.- Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 10/IV/02; debiendo entrar en vigencia el presente Reglamento Técnico antes del 10/X/2002.
+
+
+XLIII GMC - Montevideo, 10/X/01
+
+ANEXO
+
+RTM sobre INFLAMABILIDAD DE LOS MATERIALES
+
+1.	OBJETIVO
+
+1.1.	Prescripciones relativas a las características de inflamabilidad de los materiales empleados en los vehículos automotores.
+
+2.	CAMPO DE APLICACIÓN
+
+2.1.	El presente Reglamento tiene por finalidad suministrar las prescripciones relativas a las características de inflamabilidad de los materiales usados para la construcción de los vehículos en el revestimiento interior:
+
+2.1.1.	De los espacios interiores de los vehículos.
+
+2.1.2.	De los espacios interiores de los vehículos destinados al transporte de personas.
+
+2.1.3.	Del compartimiento del motor de los vehículos si estos están ubicados en el interior o en el habitáculo.
+
+2.1.4.	De la caja para equipajes (bodega) de los vehículos destinados al transporte de personas.
+
+2.1.5.	Del compartimiento de mercaderías de los vehículos utilitarios cuando éste está en comunicación con el espacio interior.
+
+3.	DEFINICIONES
+
+         A los efectos del presente Reglamento, se entiende por:
+
+3.1.	"Velocidad de propagación de llama": distancia recorrida en la unidad de tiempo, por un frente de llama durante su propagación bajo condiciones de ensayo determinadas. Unidad de "espacio": metro (m), unidad de "tiempo": segundo (s) y unidad de "velocidad de propagación de llama": metro por segundo (m/s).
+
+A los fines de este Reglamento, las unidades se expresarán: "espacio" en milímetros (mm), "tiempo" en minutos (min.) y la "velocidad de propagación de llama" en milímetros por minuto (mm/min.).
+
+"Propagación de llama": propagación de un frente de llama.
+
+"Frente de llama": límite de la zona de combustión en fase gaseosa en la superficie de un material.
+
+"Llama": zona de combustión en fase gaseosa de la cual se emite luz.
+
+3.2.	"Material compuesto": al material constituido de varias capas de materiales similares o diferentes, aglomerados por cementación, encolados, revestidos, soldados, etc.
+
+Los materiales no son considerados como compuestos, cuando el conjunto presenta discontinuidades (por ejemplo: costuras, puntos de soldadura con elevaciones frecuentes, remachado, etc.), que permiten la toma de muestras individuales conforme a lo indicado en el punto 5.
+
+3.3.	"Espacio interior": al espacio comprendido entre ciertas paredes del vehículo. Este espacio puede ser alguno de los indicados en los puntos 2.1.1. al 2.1.5.
+
+4.	ESPECIFICACIONES
+
+4.1.	Con las excepciones de lo dispuesto en el punto 4.2., ningún material debe ser utilizado en los espacios interiores de un vehículo si su velocidad de propagación de llama, medida según el procedimiento indicado en el punto 6, es mayor que cien milímetros por minuto (100 mm/min.).
+
+4.2.	Los materiales fabricados con una velocidad de propagación de llama mayor que cien milímetros por minuto (100 mm/min.) pueden ser utilizados:
+
+4.2.1.	Para el revestimiento de los pisos y de los asientos con la condición que la superficie total de estos materiales sea menor que trescientos centímetros cuadrados (300 cm2) y su volumen total menor que cien centímetros cúbicos (100 cm3).
+
+4.2.2.	Para cualquier otro revestimiento es condición que en toda superficie de recubrimiento que mida seiscientos veinticinco centímetros cuadrados (625 cm2), la superficie del material en cuestión sea menor que trescientos centímetros cuadrados (300 cm2) y su volumen total menor que cien centímetros cúbicos (100 cm3).
+
+5.	METODOLOGÍA DE ENSAYO
+
+5.1.	Principio
+
+Una muestra es colocada horizontalmente en un soporte en forma de "U" y expuesto a la acción de una llama definida como de débil energía durante quince segundos (15 s), en una cámara de combustión, donde la llama actúa sobre el borde libre de la muestra. El ensayo permite determinar si la llama se apaga y en qué momento, o el tiempo necesario para que la llama recorra una distancia medida.
+
+5.2.	Muestras.
+
+5.2.1.	Forma y medidas.
+
+5.2.1.1.	La forma y las medidas de las muestras están indicados en la Figura 6.
+
+El espesor de la muestra corresponde al espesor del producto a ensayar. Este no deberá sin embargo ser mayor que trece milímetros (13 mm). Cuando la muestra lo permita, su sección debe ser constante sobre toda la longitud.
+
+5.2.1.2.	Cuando las formas y las medidas de un producto no permiten reducir la muestra a las medidas indicadas, las medidas mínimas siguientes deben respetarse:
+
+5.2.1.2.1.	Para las muestras de un ancho comprendido entre tres milímetros (3 mm) y sesenta milímetros (60 mm), la longitud deberá ser de trescientos cincuenta y seis milímetros (356 mm). En este caso, el material será ensayado sobre el ancho del producto.
+
+5.2.1.2.2.	Para las muestras de un ancho comprendido entre sesenta milímetros (60 mm) y cien milímetros (100 mm), la longitud deberá ser más de ciento treinta y ocho milímetros (138 mm). En este caso, la distancia posible de propagación de llama corresponde a la longitud de la muestra, la medida inicial a la primera medición.
+
+5.2.1.2.3.	Las muestras de un ancho menor que sesenta milímetros (60 mm) y de un largo menor que trescientos cincuenta y seis milímetros (356 mm); así como las muestras de un ancho comprendido entre sesenta milímetros (60 mm) y cien milímetros (100 mm); pero de longitud menor que ciento treinta y ocho milímetros (138 mm); y las muestras de un ancho menor que tres milímetros (3 mm), no podrán ser ensayadas según el presente método.
+
+5.2.2.	Preparación de la muestra.
+
+5.2.2.1.	Por lo menos se deben preparar cinco muestras del material a ensayar. Cuando se trate de los materiales con velocidad de propagación de llama diferentes según la dirección de éste, las cinco muestras (o más) deben estar preparadas y colocadas en el aparato de ensayo de forma que permita la medición de la mayor velocidad de propagación de llama.
+
+5.2.2.2.	Cuando los materiales se suministran en anchos determinados, debe cortarse sobre todo el ancho, un largo de por lo menos quinientos milímetros (500 mm). Las muestras deben tomarse sobre la pieza a una distancia de por lo menos cien milímetros (100 mm) del borde del material y a igual distancia unas de otras.
+
+5.2.2.3.	Las muestras deben estar tomadas de la misma manera sobre los productos finales siempre que la forma del producto lo permita. Cuando el espesor del producto es mayor que trece milímetros (13 mm), se deberá reducir por un procedimiento mecánico del lado contrario al de la superficie en contacto con el espacio interior.
+
+5.2.2.4.	Los materiales compuestos (ver punto 3.2.) deben estar ensayados como una pieza homogénea.
+
+5.2.2.5.	En el caso de varias capas de materiales diferentes, no considerados como compuestos, todas las capas incluidas dentro de una profundidad de trece milímetros (13 mm), a partir de la superficie que da hacia el habitáculo, deben ensayarse separadamente.
+
+5.2.3.	Acondicionamiento.
+
+Las muestras deben mantenerse durante por lo menos veinticuatro (24) horas y a lo sumo siete (7) días a una temperatura de veintitrés grados Celsius más o menos dos grados Celsius (23º C ± 2º C) con una humedad relativa del cincuenta por ciento más o menos cinco por ciento (50% ± 5%) y mantenerse en estas condiciones hasta el momento del ensayo.
+
+5.3.	Equipamiento.
+
+5.3.1.	Cámara de combustión: (Figura 1), preferentemente de acero inoxidable, con las medidas de la Figura 2.
+
+5.3.1.1.	El frente de la cámara tiene una ventana de observación incombustible que puede cubrir todo el frente y puede servir de puerta de acceso.
+
+5.3.1.2.	La cara inferior de la cámara tiene aberturas con orificios de ventilación y en la parte superior tiene rendijas de aireación realizadas en todo el contorno.
+
+5.3.1.3.	La cámara se apoya sobre cuatro patas elevadas de diez milímetros (10 mm) cada una. En uno de los costados, la cámara puede tener un orificio para la introducción del portamuestra equipado, del otro lado, una abertura permite pasar el tubo de entrada de gas. La materia fundida es recogida dentro de una cubeta (ver Figura 3) colocada sobre el fondo de la cámara entre los orificios de ventilación pero sin taparlos.
+
+5.3.2.	Portamuestra: Compuesto de dos placas de metal en forma de "U" o de un bastidor en material resistente a la corrosión. Las medidas están dadas en la Figura 4.
+
+La placa inferior tiene los pernos y la placa superior los agujeros correspondientes, de manera que permita una fijación segura de la muestra.
+
+Los pernos sirven también de referencia de la medición del inicio y final de la distancia de propagación de llama.
+
+5.3.2.2. Deberá estar provisto de un soporte con filamentos resistentes al calor, de un diámetro de veinticinco centécimas de milímetro (0,25 mm), tendidos transversalmente en la placa inferior del portamuestra a intervalos de veinticinco milímetros (25 mm) (ver Figura 5).
+
+5.3.2.3.	La parte inferior del portamuestra deberá encontrarse a una distancia de ciento setenta y ocho milímetros (178 mm) por encima de la placa del fondo. La distancia entre el borde delantero del portamuestra y el extremo de la cámara de combustión debe ser de veintidós milímetros (22 mm); las distancias entre los bordes longitudinales del portamuestra y los costados de la cámara deben ser de cincuenta milímetros (50 mm) (todas las medidas del interior, están indicadas en las Figuras I y 2).
+
+5.3.3.	Mechero de gas: la llama es provista por un mechero Bunsen de diámetro interior de nueve con cinco décimas de milímetro (9,5 mm) situado dentro de la cámara de combustión de modo que el centro de la tobera está a diecinueve milímetros (19 mm.) por debajo del centro del borde inferior del costado abierto de la muestra (ver Figura 2).
+
+5.3.4.	Gas de ensayo: el gas suministrado por el mechero debe tener un poder calorífico real de alrededor de treinta y ocho megajoule por metro cúbico (38 MJ/m3) (por ejemplo, gas natural).
+
+5.3.5.	El peine de metal, debe tener una longitud de por lo menos ciento diez milímetros (110 mm) y tener siete u ocho dientes de punta redondeada, con veinticinco milímetros (25 mm) de largo cada uno.
+
+5.3.6.	Cronómetro: con una precisión de cinco décimas de segundo (0,5 s).
+
+5.3.7.	Campana de ventilación: la cámara de combustión puede ser instalada en una campana de ventilación siempre que el volumen de esta campana no sea menor a veinte (20) veces, y no mayor de ciento diez (110) veces que el volumen de la cámara de combustión y que ninguna de sus medidas (alto, ancho o profundidad) no sea mayor que dos con cinco décimas (2,5) veces, la una respecto de la cámara de combustión.
+
+5.3.7.1.	Antes del ensayo: la velocidad vertical del aire dentro de la campana de ventilación del laboratorio se mide a cien milímetros (100 mm) delante y detrás de la ubicación prevista para la cámara de combustión.
+
+Los valores de la velocidad de ventilación deben estar entre una décima y tres décimas de metros por segundo (0,1 y 0,3 m/s), de forma de evitar que al operador se le produzca un desacomodo eventual de los productos de combustión. Es posible utilizar una campana con ventilación natural con velocidad de aire apropiada.
+
+6.	PROCEDIMIENTO DEL ENSAYO
+
+6.1.	Las muestras deben estar situadas sobre una superficie plana y peinadas dos veces contra el pelo (con el peine de 5.3.5.).
+
+6.2.	La muestra es ubicada en el portamuestra (ver 5.3.2.) de forma de volver el lado expuesto hacia abajo.
+
+6.3.	La llama de gas estará regulada a una altura de treinta y ocho milímetros (38 mm) por medio de una marca indicada sobre la cámara, estando cerrada la toma de aire del mechero. La llama debe estar encendida durante por lo menos un minuto (1 min.) a los fines de su estabilización antes del comienzo de los ensayos.
+
+6.4.	El portamuestra es introducido dentro de la cámara de combustión de modo que el extremo de la muestra quede expuesto a la llama y, quince segundos (15 s) después se corta el suministro de gas.
+
+6.5.	La medición del tiempo de propagación de llama comienza en el instante que el punto de ataque de la llama pasa la primera referencia de la medición.  La propagación de la llama se observa por el lado más rápido (lado superior o inferior).
+
+6.6.	La medición de los tiempos de propagación de llama finaliza cuando la llama alcanza la última referencia de medición o cuando la llama se apaga antes de alcanzar el último punto.
+
+Cuando la llama no alcanza el último punto de medición, la distancia quemada se medirá hasta el punto de extinción de la llama. La distancia quemada es la parte descompuesta de la muestra, destruida por la combustión en la superficie o en el interior.
+
+6.7.	Cuando la muestra no se enciende o no continua quemándose después de la extinción del mechero, o aun cuando la llama se apague antes de haber alcanzado la primera referencia de medición, de forma tal que no es posible la medición de la duración de la propagación de llama, en el informe de ensayo debe indicarse que la velocidad de propagación de llama es de cero milímetros por minuto (0 mm/min.)
+
+6.8.	Durante la serie de ensayos y de sus repeticiones, se debe mantener a la cámara de combustión y al portamuestra con una temperatura máxima de treinta grados celsius (30° C) antes de comenzar los ensayos.
+
+7.	CÁLCULOS
+
+La velocidad de propagación de llama "B", en milímetros por minuto (mm/min.), está dada por la fórmula:
+
+B =	d x 60
+	 t
+
+Donde: "d": longitud en Milimetros (mm), de la distancia quemada;
+
+"t": duración de la propagación de la llama, en SEGUNDOS (s), para la distancia "d".
+
+8.	INFORME DEL ENSAYO
+
+El informe del ensayo debe contener las indicaciones siguientes:
+
+a)	Tipo, marca y color de la muestra;
+
+b)	Constitución de la muestra, simple o compuesta;
+
+c)	Medidas de la muestra con los valores máximos y mínimos del espesor;
+
+d)	Preparación de la muestra y particularmente el método utilizado para reducir el espesor (si supera los 13 mm), de acuerdo a 5.2.2.;
+
+e)	Posición de la muestra dentro del material (longitudinal, transversal);
+
+f)	Nombre de la muestra ensayada,
+
+g)	Resultado del ensayo:
+
+-	longitud quemada y duración de la propagación de llama;
+-	otras observaciones (auto-extinción, etc.).
+
+h)	Informar todos los valores obtenidos en el cálculo de cada velocidad de propagación de llama;
+
+i)	Condiciones especiales de ensayo (utilización de una campana de ventilacion, un ventilador, etc.);
+
+j)	Apartamientos del presente Reglamento;
+
+k)	Fechas de los ensayos.
+
+
+FIGURAS
+
+Medidas:	Dimensiones en milímetros
+				Tolerancias Js 12 según Norma ISO 2768
+
+
+FIGURA 1:	CÁMARA DE COMBUSTIÓN CON PORTAMUESTRA Y CUBETA
+
+
+FIGURA 4 - EJEMPLO DE PORTAMUESTRAS
+
+
+SECRETARÍA ADMINISTRATIVA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 10
+FE DE ERRATAS - ORIGINAL

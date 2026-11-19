@@ -1,0 +1,95 @@
+Resolución GMC N° 33/26
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE LOS GRUPOS MOTOPROPULSORES DE VEHÍCULOS ELÉCTRICOS
+Fecha de aprobación: 10/09/2026
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 114565_ATT02PXH.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/5413).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 33/26
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LOS GRUPOS MOTOPROPULSORES DE VEHÍCULOS ELÉCTRICOS
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 38/98, 45/17, 60/19 y 30/21 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario establecer un Reglamento Técnico MERCOSUR sobre los grupos motopropulsores eléctricos, aplicable a los vehículos que circulan en los Estados Partes, con el fin de garantizar su seguridad.
+
+Que el presente Reglamento Técnico se basa en el Reglamento N° 100 de Naciones Unidas (Reglamento ONU) y en la norma N° 305 de "Federal Motor Vehicle Safety Standards" (FMVSS).
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre los grupos motopropulsores de vehículos eléctricos", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 3 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 4 - Las disposiciones contenidas en el Reglamento aprobado por esta Resolución serán de aplicación obligatoria para todos los vehículos fabricados o importados a partir del 09/III/2029.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 09/III/2027.
+
+CXL GMC - Montevideo, 10/IX/26
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LOS GRUPOS
+MOTOPROPULSORES DE VEHÍCULOS ELÉCTRICOS
+
+I. OBJETIVOS
+
+El presente Reglamento Técnico MERCOSUR (RTM) tiene como objetivo establecer los requisitos técnicos que deben cumplir los vehículos con relación al grupo motopropulsor eléctrico, con el propósito de mejorar la seguridad vial en los Estados Partes del MERCOSUR.
+
+II. ALCANCE
+
+Este RTM se aplica a los vehículos automotores de las categorías M y N equipados con grupo motopropulsor eléctrico con una velocidad máxima de fábrica superior a 25 km/h, excepto aquellos vehículos permanentemente conectados a la red.
+
+III. TÉRMINOS Y DEFINICIONES
+
+* Categoría vehicular: la clasificación de vehículos automotores según está dispuesto en la Resolución GMC Nº 60/19 "Reglamento Técnico MERCOSUR sobre clasificación de vehículos automotores y remolques".
+* Grupo motopropulsor eléctrico: el circuito eléctrico que incluye el motor o los motores de tracción y puede incluir el sistema de acumulación de energía eléctrica recargable (SAEER), el sistema de conversión de energía eléctrica, los convertidores electrónicos, el juego de cables y los conectores correspondientes, así c omo el sistema de acoplamiento para cargar el SAEER.
+* Sistema de acumulación de energía eléctrica recargable (SAEER): el sistema de acumulación de energía recargable que suministra energía eléctrica para la propulsión eléctrica. No se considerará SAEER una batería cuyo uso principal consista en suministrar energía para poner en marcha el motor, las luces u otros sistemas auxiliares del vehículo. El SAEER podrá incluir los sistemas necesarios para el soporte físico, la gestión térmica, el control electrónico y la carcasa.
+
+IV. NORMAS Y DOCUMENTOS DE REFERENCIA
+
+● Resolución GMC N° 60/19 - Reglamento Técnico MERCOSUR sobre Clasificación de Vehículos Automotores y Remolques.
+● Reglamento ONU N° 100 - Disposiciones uniformes relativas a la homologación de vehículos en relación con los requisitos específicos del grupo motopropulsor eléctrico.
+● FMVSS N° 305 - "Electric-powered vehicles: electrolyte spillage and electrical shock protection".
+
+V. REQUISITOS GENERALES Y TÉCNICOS
+
+1. Las disposiciones que se incluyen en el Apéndice 1 del presente "Reglamento Técnico MERCOSUR sobre los grupos motopropulsores de vehículos eléctricos", utilizan como base la serie 02 de enmiendas (Revisión 2) del Reglamento ONU N° 100.
+
+2. Los requisitos establecidos en el numeral VI.1 del presente RTM se consideran satisfechos en caso de que los vehículos cumplan con las especificaciones técnicas dispuestas por la "Federal Motor Vehicle Safety Standards" (FMVSS) Nº 305.
+
+
+APÉNDICE 1
+
+1. Se adopta el Reglamento ONU N° 100 de las Naciones Unidas, en la versión correspondiente a la serie 02 de enmiendas (Revisión 2). A partir del 1° de enero de 2030 se deberá cumplir con la serie 03 de enmiendas (Revisión 3).
+
+2. No se aplican las disposiciones contenidas en los siguientes ítems y Anexos:
+
+Ítems:
+
+3. Solicitud de homologación
+4. Homologación
+7. Modificación y extensión de la homologación de tipo
+8. Conformidad de la producción
+9. Sanciones por la falta de conformidad de la producción
+10. Cese definitivo de la producción
+11. Nombres y direcciones de los servicios técnicos responsables de realizar los ensayos de homologación y de las autoridades de homologación de tipo
+12. Disposiciones transitorias
+
+Anexos:
+
+1. Parte 1 - Notificación relativa a la homologación o la extensión, denegación o retirada de la homologación o al cese definitivo de la producción de un tipo de vehículo por lo que se refiere a su seguridad eléctrica con arreglo al Reglamento ONU N° 100
+Parte 2 - Notificación relativa a la homologación o la extensión, denegación o retirada de la homologación o al cese definitivo de la producción de un tipo de SAEER como componente/unidad técnica independiente con arreglo al Reglamento ONU N° 100
+
+2.   Disposición de las marcas de homologación
+
+
+2

@@ -1,0 +1,1019 @@
+Resolución GMC N° 21/26
+Título: MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS PARA SISTEMAS DE TELECOMUNICACIONES MÓVILES INTERNACIONALES (IMT) (MODIFICACIÓN DE LA RESOLUCIÓN GMC N° 19/24)
+Fecha de aprobación: 28/06/2026
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 113279_ATT6YMFE.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/5342).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 21/26
+
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS PARA SISTEMAS DE TELECOMUNICACIONES MÓVILES INTERNACIONALES (IMT)
+(MODIFICACIÓN DE LA RESOLUCIÓN GMC N° 19/24)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 19/01 y 19/24 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que, por Resolución GMC N° 19/24, se aprobó el "Manual de procedimientos de coordinación de frecuencias para sistemas de Telecomunicaciones Móviles Internacionales (IMT)".
+
+Que es necesario mantener actualizado el Manual de Coordinación de Frecuencias para Sistemas IMT, contemplando los avances tecnológicos y las disposiciones internas aplicables en cada uno de los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Sustituir el texto del Apéndice II "Aspectos técnicos y operacionales de los Sistemas IMT vigentes" de la Resolución GMC N° 19/24 por el que consta como Anexo I y forma parte de la presente Resolución.
+
+Art. 2 - Sustituir el texto del Apéndice III "Bandas de frecuencias por Prestadora y lista de Administraciones" de la Resolución GMC N° 19/24 por el que consta como Anexo II y forma parte de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 27/VI/2027.
+
+LXVI GMC Ext. - Asunción, 28/VI/26
+
+
+ANEXO I
+
+APÉNDICE II
+
+ASPECTOS TÉCNICOS Y OPERACIONALES DE LOS SISTEMAS IMT VIGENTES
+
+1. BANDAS DE FRECUENCIAS
+
+1.1. En este Manual están definidos los procedimientos de coordinación previa para el uso de frecuencias en las bandas de 700 MHz hasta 3800 MHz.
+
+1.2. 700 MHz
+
+1.2.1. ARGENTINA, BRASIL, PARAGUAY y URUGUAY
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+703 a 748 MHz
+758 a 803 MHz
+
+1.3. 850 MHz
+
+1.3.1. ARGENTINA, BRASIL, PARAGUAY y URUGUAY
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+824 a 849 MHz
+869 a 894 MHz
+
+1.3.2. BRASIL
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+806 a 821 MHz
+851 a 866 MHz
+
+1.4. 900 MHz
+
+1.4.1. ARGENTINA
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+905 a 915 MHz
+950 a 960 MHz
+
+
+1.4.2. BRASIL
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+898,5 a 901 MHz
+943,5 a 946 MHz
+IMT (FDD)
+907,5 a 915 MHz
+952,5 a 960 MHz
+
+1.4.3. PARAGUAY
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+896 a 901 MHz
+941 a 946 MHz
+IMT (FDD)
+902 a 915 MHz
+947 a 960 MHz
+
+1.4.4. URUGUAY
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+899 a 915 MHz
+944 a 960 MHz
+
+1.5. 1.427 a 1.518 MHz, 1.710 MHz a 2.025 MHz, 2.100 MHz a 2.200 MHz, 2.300 a 2.400 MHz, 2.500 a 2.690 MHz y 3.300 MHz a 3.800 MHz
+
+1.5.1. ARGENTINA
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+1.710 a 1.770 MHz
+2.110 a 2.170 MHz
+IMT (FDD)
+1.850 a 1.910 MHz
+1.930 a 1.990 MHz
+IMT (FDD)
+2.500 a 2.570 MHz
+2.620 a 2.690 MHz
+IMT (TDD)
+2.570 a 2.620 MHz
+IMT (TDD)
+3.300 a 3.700 MHz*
+* En algunas localidades la banda 3.600 - 3700 MHz estará disponible hasta 3675 MHz.
+
+
+1.5.2. BRASIL
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+1.710 a 1.755 MHz
+1.805 a 1.850 MHz
+IMT (FDD)
+1.755 a 1.775 MHz
+1.850 a 1.870 MHz
+IMT (FDD)
+1.775 a 1.785 MHz
+1.870 a 1.880 MHz
+IMT (TDD)
+1.885 a 1.895 MHz
+IMT (FDD)
+1.920 a 1.980 MHz
+2.110 a 2.170 MHz
+IMT (TDD)
+2.300 a 2.400 MHz
+IMT (FDD)
+2500 a 2570 MHz
+2.620 a 2.690 MHz
+IMT (TDD)
+2.570 a 2.620 MHz
+IMT (TDD)
+3.300 a 3.800 MHz*
+ * 3.700 - 3.800 MHz destinado a redes privadas con utilización indoor o outdoor con características técnicas controladas y potencia limitada.
+
+1.5.3. PARAGUAY
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT
+1.427 a 1.518 MHz
+IMT (FDD)
+1.710 a 1.770 MHz
+2.110 a 2.170 MHz
+IMT (FDD)
+1.850 a 1.910 MHz
+1.930 a 1.990 MHz
+IMT (TDD)
+1.910 a 1.930 MHz
+IMT (componente satelital)
+1.990 a 2.025 MHz
+(enlace ascendente)
+2.170 a 2.200 MHz
+(enlace descendente)
+IMT (TDD)
+2.300 a 2.400 MHz
+IMT (TDD/FDD)
+2.500 a 2.690 MHz
+IMT (TDD)
+3.300 a 3.800 MHz
+
+1.5.4. URUGUAY
+
+ACCESO
+Transmisión de la Estación Móvil de Abonado (MHz)
+Transmisión de la Estación Radio Base (MHz)
+IMT (FDD)
+1.710 a 1.725 MHz
+1.805 a 1.820 MHz
+IMT (FDD)
+1.725 a 1.780 MHz
+2.125 a 2.180 MHz
+IMT (FDD)
+1.850 a 1.910 MHz
+1.930 a 1.990 MHz
+IMT (FDD)
+1.920 a 1.930 MHz
+2.110 a 2.120 MHz
+IMT (FDD)
+2.500 a 2.566 MHz
+2.626 a 2.690 MHz
+IMT (TDD)
+3.300 a 3.800 MHz
+
+ANEXO II
+
+APÉNDICE III
+
+BANDAS DE FRECUENCIAS POR PRESTADORA Y LISTA DE ADMINISTRACIONES
+
+1. BANDAS DE FRECUENCIAS POR PRESTADORA
+
+1.1. Argentina
+
+Banda 700 MHz
+Área de Prestación
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+Nacional
+703 MHz a 713 MHz
+758 MHz a 768 MHz
+Movistar
+Nacional
+713 MHz a 723 MHz
+768 MHz a 778 MHz
+Personal
+Nacional
+723 MHz a 738 MHz
+778 MHz a 793 MHz
+Claro
+
+738 MHz a 748 MHz
+793 MHz a 803 MHz
+Sin asignar
+Banda 850 MHz
+Área de Prestación
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+I
+824 MHz a 835 MHz
+869 MHz a 880 MHz
+Personal
+I
+835 MHz a 845 MHz
+880 MHz a 890 MHz
+Claro
+I
+845 MHz a 846,5 MHz
+890 MHz a 891,5 MHz
+Personal
+I
+846,5 MHz a 849 MHz
+891,5 MHz a 894 MHz
+Claro
+II
+824 MHz a 834 MHz
+869 MHz a 879 MHz
+Personal
+II
+834 MHz a 849 MHz
+879 MHz a 894 MHz
+Movistar
+III
+824 MHz a 835 MHz
+869 MHz a 880 MHz
+Movistar
+III
+835 MHz a 845 MHz
+880 MHz a 890 MHz
+Claro
+III
+845 MHz a 846,5 MHz
+890 MHz a 891,5 MHz
+Movistar
+III
+846,5 MHz a 849 MHz
+891,5 MHz a 894 MHz
+Claro
+Banda 900 MHz
+Área de Prestación
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+Localidad
+905 MHz a 915 MHz
+950 MHz a 960 MHz
+Personal
+
+
+Banda 1.900 MHz
+Área de Prestación
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+I
+1.850 MHz a 1.870 MHz
+1.930 MHz a 1.950 MHz
+Movistar
+I
+1.870 MHz a 1.880 MHz
+1.950 MHz a 1.960 MHz
+Claro
+I
+1.880 MHz a 1.892,5 MHz
+1.960 MHz a 1.972,5 MHz
+Personal
+I
+1.892,5 MHz a 1.895 MHz
+1.972,5 MHz a 1.975 MHz
+Claro
+I
+1.895 MHz a 1.905 MHz
+1.975 MHz a 1.985 MHz
+Sin asignar
+I
+1.905 MHz a 1.910 MHz
+1.985 MHz a 1.990 MHz
+Movistar
+II
+1.850 MHz a 1.875 MHz
+1.930 MHz a 1.955 MHz
+Claro
+II
+1.875 MHz a 1.885 MHz
+1.955 MHz a 1.965 MHz
+Movistar
+II
+1.885 MHz a 1.890 MHz
+1.965 MHz a 1.970 MHz
+Personal
+II
+1.890 MHz a 1.900 MHz
+1.970 MHz a 1.980 MHz
+Sin asignar
+II
+1.900 MHz a 1.910 MHz
+1.980 MHz a 1.990 MHz
+Personal
+III
+1.850 MHz a 1.862,5 MHz
+1.930 MHz a 1.942,5 MHz
+Movistar
+III
+1.862,5 MHz a 1.867,5 MHz
+1.942,5 MHz a 1.947,5 MHz
+Personal
+III
+1.867,5 MHz a 1.880 MHz
+1.947,5 MHz a 1.960 MHz
+Claro
+III
+1.880 MHz a 1.890 MHz
+1.960 MHz a 1.970 MHz
+Sin asignar
+III
+1.890 MHz a 1.910 MHz
+1.970 MHz a 1.990 MHz
+Personal
+Banda 1.700/2.100 MHz
+Área de Prestación
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+Nacional
+1.710 MHz a 1.720 MHz
+2.110 MHz a 2.120 MHz
+Movistar
+Nacional
+1.720 MHz a 1.730 MHz
+2.120 MHz a 2.130 MHz
+Claro
+Nacional
+1.730 MHz a 1.745 MHz
+2.130 MHz a 2.145 MHz
+Personal
+
+1.745 MHz a 1.770 MHz
+2.145 MHz a 2.170 MHz
+Sin asignar
+Banda 2.600 MHz
+Área de Prestación
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+Localidad
+2.500 MHz a 2.520 MHz
+2.620 MHz a 2.640 MHz
+Movistar
+Localidad
+2.520 MHz a 2.540 MHz
+2.640 MHz a 2.660 MHz
+Claro
+Localidad
+2.540 MHz a 2.550 MHz
+2.660 MHz a 2.670 MHz
+Personal
+Localidad
+2.550 MHz a 2.560 MHz
+2.670 MHz a 2.680 MHz
+Personal
+
+2.560 MHz a 2.570 MHz
+2.680 MHz a 2.690 MHz
+Sin asignar
+
+2.575 MHz a 2.615 MHz
+Sin asignar
+
+Banda 3.500 MHz
+Área de Prestación
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+Nacional
+3.300 MHz a 3.400 MHz
+Claro
+Nacional
+3.400 MHz a 3.500 MHz
+Personal
+Nacional
+3.500 MHz a 3.550 MHz
+Sin asignar
+Nacional
+3.550 MHz a 3.600 MHz
+Movistar
+
+Notas de la Tabla:
+
+1) El Área de Prestación I corresponde al Norte del país, el Área de Prestación II corresponde principalmente al Área Metropolitana de Buenos Aires extendida y el Área de Prestación III corresponde al sur del país.
+
+2) El contenido de la Tabla debe ser considerado solo de manera informativa sin perjuicio del estado actual de las adjudicaciones y asignaciones de frecuencias en dichas bandas realizadas por la administración.
+
+1.2. BRASIL
+
+Arreglos de bloques de sub-bandas de frecuencias del servicio móvil personal
+(Resolución Nº 454, de 11 de diciembre de 2006)
+Sub-Banda
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+Sub-Banda A
+824 a 835
+869 a 880
+VIVO/TIM (PR,SC)
+
+845 a 846,5
+890 a 891,5
+VIVO/TIM (PR,SC)
+Sub-Banda B
+835 a 845
+880 a 890
+CLARO/VIVO (PR/SC)
+
+846,5 a 849
+891,5 a 894
+CLARO/VIVO (PR/SC)
+Sub-Banda D
+910 a 912,5
+955 a 957,5
+TIM/CLARO (PR/SC)
+
+1.710 a 1.725
+1.805 a 1.820
+TIM/CLARO (PR/SC)
+Sub-Banda E
+912,5 a 915
+957,5 a 960
+TIM
+
+1.740 a 1.755
+1.835 a 1.850
+TIM /(VIVO, en RS)
+Sub-Banda F
+1.920 a 1.935
+2.110 a 2.125
+VIVO 1
+Sub-Banda G
+1.935 a 1.945
+2.125 a 2.135
+CLARO
+Sub-Banda H
+1.945 a 1.955
+2.135 a 2.145
+CLARO
+Sub-Banda I
+1.955 a 1.965
+2.145 a 2.155
+TIM
+Sub-Banda J
+1.965 a 1.975
+2.155 a 2.165
+VIVO
+Sub-Banda L
+1.975 a 1.980
+2.165 a 2.170
+VIVO
+Sub-Banda M
+1.755 a 1.765
+1.850 a 1.860
+VIVO
+Sub-Banda de Extensión
+898,5 a 901
+943,5 a 946
+VIVO
+
+907,5 a 910
+952,5 a 955
+CLARO/TIM (PR/SC)
+
+1.725 a 1.727,5
+1.820 a 1.822,5
+CLARO/TIM (PR/SC)
+
+1.727,5 a 1.730
+1.822,5 a 1.825
+CLARO/TIM (PR/SC)
+
+1.730 a 1.732,5
+1.825 a 1.827,5
+TIM
+
+1.732,5 a 1.735
+1.827,5 a 1.830
+TIM
+
+1.735 a 1.737,5
+1.830 a 1.832,5
+TIM
+
+1.737,5 a 1.740
+1.832,5 a 1.835
+TIM (PR/SC)
+
+1.765 a 1.770
+1.860 a 1.865
+VIVO (TIM, en  RS)
+
+1.770 a 1.775
+1.865 a 1.870
+-X-
+
+1.775 a 1.777,5
+1.870 a 1.872,5
+CLARO
+
+1.777,5 a 1.780
+1.872,5 a 1.875
+CLARO
+
+1.780 a 1.782,5
+1.875 a 1.877,5
+CLARO
+
+1.782,5 a 1.785
+1.877,5 a 1.880
+CLARO
+
+1.885 a 1.890
+-X-
+
+1.890 a 1.895
+-X-
+1- 1.920 a 1.925 / 2.110 a 2.115 MHz es utilizada por TIM, en el estado de Mato Grosso-MT.
+Siglas: RS- Rio Grande do Sul, SC - Santa Catarina, PR- Paraná
+
+
+Banda de 2,5 GHz
+(Resolución Nº 544, de 11 de agosto de 2010)
+Sub-Banda
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+Sub-Banda P*
+2.500 a 2.510
+2.620 a 2.630
+CLARO/LIGUE/TIM/VIVO
+Sub-Banda W
+2.510 a 2.530
+2.630 a 2.650
+CLARO
+Sub-Banda V1
+2.530 a 2.540
+2.650 a 2.660
+TIM
+Sub-Banda V2
+2.540 a 2.550
+2.660 a 2.670
+TIM
+Sub-Banda X
+2.550 a 2.570
+2.670 a 2.690
+VIVO
+Sub-Banda T*
+2.570 a 2.585*
+-X-
+Sub-Banda U*
+2.585 a 2.620*
+SKY/SUNRISE
+Banda de 700 MHz
+(Resolución Nº 625, de 11 de noviembre de 2013)
+Sub-Banda
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Prestadora
+1
+708 a 718
+763 a 773
+ALGAR/Sectores del PGO(3, 22, 25 y 33);
+Restante de Brasil WINITY
+2
+718 a 728
+773 a 783
+TIM/Brasil
+3
+728 a 738
+783 a 793
+VIVO/Brasil
+4
+738 a 748
+793 a 803
+CLARO/Brasil
+*Licencias regionales.
+
+
+1.3. PARAGUAY
+
+Prestadora
+Banda (MHz)
+Cobertura
+
+Transmisión de la Estación Móvil (MHz)
+Sub-Banda
+Transmisión de la Estación Radio Base (MHz)
+Ancho de Banda
+
+AMX PARAGUAY S.A.
+728 - 733
+F-F'
+783 - 788
+5 + 5
+NACIONAL
+
+733 - 738
+G-G'
+788 - 793
+5 + 5
+NACIONAL
+
+1.725 - 1.730
+D-D'
+2.125 - 2.130
+5 + 5
+NACIONAL
+
+1.730 - 1.735
+E-E'
+2.130 - 2.135
+5 + 5
+NACIONAL
+
+1.735 - 1.740
+F-F'
+2.135 - 2.140
+5 + 5
+NACIONAL
+
+1.850 - 1.865
+A-A'
+1.930 - 1.945
+15 + 15
+NACIONAL
+
+3.300 - 3.500
+200
+NACIONAL
+NUCLEO S.A.
+738 - 743
+H-H'
+793 - 798
+5 + 5
+NACIONAL
+
+743 - 748
+I-I'
+798 - 803
+5 + 5
+NACIONAL
+
+835 - 845
+B
+880 - 890
+10 + 10
+NACIONAL
+
+846,5 - 849
+B'
+891,5 - 894
+2,5 + 2,5
+Asunción    Ciudad del Este   Encarnación
+
+1.870 - 1.885
+B-B'
+1.950 - 1.965
+15 + 15
+NACIONAL
+TELECEL S.A.E.
+713 - 718
+C-C'
+768 - 773
+5 + 5
+NACIONAL
+
+718 - 723
+D-D'
+773 - 778
+5 + 5
+NACIONAL
+
+723 - 728
+E-E'
+778 - 783
+5 + 5
+NACIONAL
+
+825 - 835
+A
+870 - 880
+10 + 10
+NACIONAL
+
+824 - 825
+A''
+869 - 870
+1 + 1
+Asunción    Ciudad del Este   Encarnación
+
+845 - 846,5
+A'
+890 - 891,5
+1,5 + 1,5
+
+
+1.740 - 1.745
+G-G'
+2.140 - 2.145
+5 + 5
+NACIONAL
+
+1.745 - 1.750
+H-H'
+2.145 - 2.150
+5 + 5
+NACIONAL
+
+1.750 - 1.755
+I-I'
+2.150 - 2.155
+5 + 5
+NACIONAL
+
+1.895 - 1.910
+C-C'
+1.975 - 1.990
+15 + 15
+NACIONAL
+
+
+COPACO S.A.
+703 - 708
+A-A'
+758 - 763
+5 + 5
+NACIONAL
+
+824 - 825
+A''
+869 - 870
+1 + 1
+AREA RURAL
+
+845 - 846,5
+A'
+890 - 891,5
+1,5 + 1,5
+AREA RURAL
+
+846,5 - 849
+B'
+891,5 - 894
+2,5 + 2,5
+AREA RURAL
+
+1.710 - 1.715
+A-A'
+2.110 - 2.115
+5 + 5
+NACIONAL
+
+1.715 - 1.720
+B-B'
+2.115 - 2.120
+5 + 5
+NACIONAL
+
+1.720 - 1.725
+C-C'
+2.120 - 2.125
+5 + 5
+NACIONAL
+HOLA PARAGUAY S.A.
+910 - 915
+C-C'
+955 - 960
+5 + 5
+NACIONAL
+
+1.865 - 1.870
+D-D'
+1.945 - 1.950
+5 + 5
+NACIONAL
+
+1.885 - 1.890
+E-E'
+1.965 - 1.970
+5 + 5
+NACIONAL
+
+1.890 - 1.895
+F-F'
+1.970 - 1.975
+5 + 5
+NACIONAL
+NUBICOM PARAGUAY
+3.500 - 3.700
+200
+NACIONAL
+
+
+1.4. URUGUAY
+
+Banda (MHz)
+Prestadora
+Área de prestación
+Transmisión de la Estación Móvil (MHz)
+Transmisión de la Estación Radio Base (MHz)
+Ancho de Banda
+
+
+703 - 718
+758 - 773
+15 + 15
+Tigo
+Nacional
+718 - 728
+773 - 783
+10 + 10
+Claro
+Nacional
+728 - 748
+783 - 803
+20 + 20
+ANTEL
+Nacional
+824 - 835
+869 - 880
+11 + 11
+ANTEL
+Nacional
+835 - 845
+880 - 890
+10 + 10
+Tigo
+Nacional
+845 - 846,5
+890 - 891,5
+1,5 + 1,5
+ANTEL
+Nacional
+846,5 - 849
+891,5 - 894
+2,5 + 2,5
+Tigo
+Nacional
+910 - 915
+955 - 960
+5 + 5
+ANTEL
+Nacional
+1.710 - 1.725
+1.805 - 1.820
+15 + 15
+ANTEL
+Nacional
+
+1.820 - 1.850
+30 MHz
+ANTEL
+Nacional
+
+2.120 - 2.125
+5 MHz
+ANTEL
+Nacional
+1.725 -1.745
+2.125 - 2.145
+20 + 20
+ANTEL
+Nacional
+1.745 - 1.775
+2.145 - 2.175
+30 + 30
+Claro
+Nacional
+1.855 - 1.860
+1.935 - 1.940
+5 + 5
+Claro
+Nacional
+1.860 - 1.890
+1.940 - 1.970
+30 + 30
+Tigo
+Nacional
+1.890 - 1.910
+1.970 - 1.990
+20 + 20
+Claro
+Nacional
+2.510 - 2.535
+2.630 - 2.655
+25 + 25
+ANTEL
+Nacional
+2.535 - 2.555
+2.655 - 2.675
+20 + 20
+Tigo
+Nacional
+1.920 - 1.930
+2.110 - 2.120
+10 + 10
+ANTEL
+Nacional
+3.300 - 3.400
+100
+Claro
+Nacional
+3.600 - 3.700
+100
+ANTEL
+Nacional
+3.700 - 3.800
+100
+Tigo
+Nacional
+
+
+2. LISTA DE ADMINISTRACIONES
+
+2.1. ARGENTINA
+Ente Nacional de Comunicaciones
+Dirección Nacional de Ingeniería del Espectro Radioeléctrico y Servicios de Tecnologías de Información y Comunicaciones
+Subdirección de Gestión del Espectro Radioeléctrico
+Perú 103 Piso 17 - C.P. C1067AAC
+Ciudad Autónoma de Buenos Aires - República Argentina
+Tel.: + 54 11 4347 9472
+Correo electrónico: sgt1@enacom.gob.ar
+
+2.2. BRASIL
+Agência Nacional de Telecomunicações
+Superintendência de Outorgas e Recursos a Prestação
+Gerência de Espectro, Órbita e Radiodifusão
+SAS Quadra 6 Bloco E
+Brasília - DF - República Federativa do Brasil
+CEP: 70313-900
+Tel.: + 55 61 2312-2245
+Fax: + 55 61 2312-2965
+Correo electrónico: engenharia@anatel.gov.br
+
+2.3. PARAGUAY
+Comisión Nacional de Telecomunicaciones
+Gerencia Internacional e Interinstitucional
+Presidente Franco 780 y Ayolas - Edificio Ayfra, Piso 16
+Asunción - República del Paraguay
+Tel.: + 595 21 438-2620
+	Correo electrónico: gii@conatel.gov.py
+
+2.4. URUGUAY
+Unidad Reguladora de Servicios de Comunicaciones (URSEC)
+Departamento Administración del Espectro
+Av. Uruguay 988 - Montevideo - República Oriental del Uruguay
+Tel.: +598 29028082
+Correos electrónicos: frecuencias@ursec.gub.uy
+            		   CTRCom@ursec.gub.uy
+
+
+2

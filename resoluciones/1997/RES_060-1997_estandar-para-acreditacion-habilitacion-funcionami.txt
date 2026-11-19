@@ -1,0 +1,867 @@
+Resolución GMC N° 60/97
+Título: ESTÁNDAR PARA ACREDITACIÓN, HABILITACIÓN, FUNCIONAMIENTO, INSPECCIÓN, AUDITORIA Y PRUEBAS DE REFERENCIA DE LABORATORIOS DE ANÁLISIS DE SEMILLAS
+Fecha de aprobación: 13/12/1997
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 24/17. Estuvo vigente desde el 27/09/2002 - Art. 40 POP - hasta el 23/10/2020.)
+Idioma del texto: ES
+Archivo original: 22325_RES_060-1997_ES_Semillas.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1683).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES No. 60/97
+
+ESTÁNDAR  PARA ACREDITACIÓN,
+HABILITACIÓN, FUNCIONAMIENTO, INSPECCIÓN, AUDITORIA Y PRUEBAS DE REFERENCIA DE LABORATORIOS DE ANÁLISIS DE SEMILLAS
+
+	VISTO:   El Tratado de Asunción, el Protocolo de Ouro Preto, la Resolución N°91/93 del Grupo Mercado Común, y la Recomendación N°. 7/97 del SGT N°. 8 "Agricultura".
+
+CONSIDERANDO:
+
+Que a los efectos de facilitar el comercio de semillas entre los Estados Partes del MERCOSUR, es necesario establecer procedimientos armonizados para la Acreditación, Habilitación, Funcionamiento, Inspección, Auditoría y Prueba de Referencia de Laboratorios de Análisis de Semillas.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1. - Aprobar el "Estándar  para Acreditación, Habilitación, Funcionamiento, Inspección, Auditoría y Prueba de Referencia de Laboratorios de Análisis de Semillas" que se  adjunta y forma parte de la presente Resolución."
+
+Art. 2. - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	SAGPyA/INASE
+
+Brasil:	MA/SDA/DDIV/CLAV
+
+Paraguay:	MAG/DISE
+
+Uruguay:	INASE/MGAP
+
+Art. 3 - Los Estados Partes tendrán un plazo máximo de 4 años a partir de la fecha  de entrada en vigor de esta resolución para la efectiva aplicación de la misma.
+
+Art. 4 - La presente Resolución entrará en vigor en el MERCOSUR en  un plazo máximo de 90 (noventa) días a partir de su aprobación.
+
+
+XXVIII  GMC. Montevideo, 13 /XII/97
+
+
+ESTANDAR PARA ACREDITACION/HABILITACION,
+FUNCIONAMIENTO, INSPECCION, AUDITORIA Y PRUEBAS DE
+REFERENCIA DE LABORATORIOS DE ANALISIS DE SEMILLAS
+
+REVISIÓN
+
+Este estandar para Acreditación/habilitación, Funcionamiento, Inspección, Auditoría y Pruebas de Referencia de Laboratorios de Análisis de Semillas, está sujeto a revisiones y modificaciones periódicas.
+
+APROBACIÓN
+
+Este estándar para Acreditación/habilitación, Funcionamiento, Inspección, Auditoría y Pruebas de Referencia de Laboratorios de Análisis de Semillas, fue presentado y acordado en la 4º Reunión de la Comisión de Semillas SGT-8-Agricultura/MERCOSUR, Noviembre de 1997, Montevideo, Uruguay.
+
+REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este estandar serán numeradas y fechadas correlativamente.
+
+Los poseedores del estandar deben asegurarse de que todas las modificaciones serán anexadas y las páginas obsoletas serán desechadas.
+
+DISTRIBUCIÓN
+
+Este estándar es distribuido por la Coordinación del SGT-8 a:
+•	ABCSEM - ASOCIACIÓN BRASILEÑA DE COMERCIANTES Y DE SEMILLAS Y MUDAS. BRASIL
+•	ABRASEM - ASOCIACIÓN BRASILEÑA DE PRODUCTORES DE SEMILLAS. BRASIL.
+•	ABRATES -ASOCIACIÓN BRASILEÑA DE TECNOLOGIA DE SEMILLAS. BRASIL
+•	ANAPROSE -ASOCIACIÓN NACIONAL DE PRODUCTORES DE SEMILLAS -URUGUAY
+•	APROSEMP -ASOCIACIÓN DE PRODUCTORES DE SEMILLAS DEL PARAGUAY.
+•	ARPOV - ASOCIACIÓN ARGENTINA DE PROTECCION DE OBTENCIONES VEGETALES. ARGENTINA
+•	ASA - ASOCIACIÓN DE SEMILLEROS ARGENTINOS. ARGENTINA
+•	BRASPOV - ASOCIACIÓN BRASILEÑA PARA PROTECCION DE LOS 0BTENTORES VEGETALES
+•	C.E.S.M (COMISIÓN ESTADUAL DE SEMILLAS Y PLANTAS DE VIVERO) BRASIL
+•	C.S.B.C- CAMARA DE SEMILLERISTAS DE LA BOLSA DE CEREALES - ARGENTINA.
+•	C.S.S.M (CAMARA SECTORIAL DE SEMILLAS Y PLANTAS DE VIVERO) BRASIL
+•	CLAV - COORDINACIÓN DE LABORATORIOS VEGETALES. BRASIL
+•	COMISIÓN DE SEMILLAS DEL SGT Nº 8 - AGRICULTURA
+•	COMITE DE SEMILLAS ALADI - ASOCIACIÓN LATINOAMERICANA DE INTEGRACION
+•	COSAVE - COMITE SANIDAD VEGETAL
+•	CUS - CAMARA URUGUAYA DE SEMILLAS - URUGUAY
+•	DDIV - DEPARTAMENTO DE DEFENSA E INSPECCIÓN VEGETAL (SECRETARIA DE DEFENSA AGROPECUARIA) BRASIL.
+•	DDV - DIRECCIÓN DE DEFENSA VEGETAL - MINISTERIO DE AGRICULTURA Y GANADERIA - PARAGUAY
+•	DIA - DIRECCIÓN DE INVESTIGACIÓN AGRICOLA. PARAGUAY
+•	DIRECCIÓN DE SEMILLAS (DISE) - PARAGUAY
+•	DIRECCIÓN GENERAL DE SERVICIOS AGRÍCOLAS - DGSA - MINISTERIO DE AGRICULTURA, GANADERIA Y PESCA -URUGUAY
+•	DSPA - DIRECCIÓN DE SERVICIOS DE PROTECCIÓN AGRÍCOLA (DGSA-MGAP). MINISTERIO DE GANADERIA, AGRICULTURA Y PESCA URUGUAY
+•	EMBRAPA (BRASIL). EMPRESA BRASILERA DE INVESTIGACION AGROPECUARIA.
+•	FELAS (FEDERACIÓN LATINOAMERICANA DE SEMILLERISTAS)
+•	FIS (FEDERACIÓN INTERNACIONAL DE SEMILLAS)
+•	INASE (INSTITUTO NACIONAL DE SEMILLAS) - ARGENTINA
+•	INASE (INSTITUTO NACIONAL DE SEMILLAS) - URUGUAY
+•	INIA, INSTITUTO NACIONAL DE INVESTIGACIÓN AGROPECUARIA - URUGUAY.
+•	INTA (INSTITUTO NACIONAL DE TECNOLOGÍA AGROPECUARIA ARGENTINA)
+•	ISTA (ASOCIACIÓN INTERNACIONAL DE ANÁLISIS DE SEMILLAS)
+•	MINISTERIO DE AGRICULTURA DE BOLIVIA-
+•	SAG-SERVICIO AGRÍCOLA GANADERO. DEPARTAMENTO DE SEMILLAS - CHILE
+•	SECRETARÍA DE DESARROLLO RURAL - DEPARTAMENTO DE FISCALIZACIÓN Y FOMENTO DE LA PRODUCCIÓN VEGETAL COORDINACIÓN DE DESARROLLO VEGETAL - BRASIL
+•	SENASA - SERVICIO NACIONAL DE SANIDAD AGROALIMENTARIA - ARGENTINA
+•	SNPC - SERVICIO NACIONAL DE PROTECCIÓN DE CULTIVOS - BRASIL
+•	SPSB - SERVICIO DE PRODUCCIÓN DE SEMILLAS BÁSICAS - BRASIL
+•	URUPOV - ASOCIACIÓN URUGUAYA DE OBTENTORES DE VARIEDADES VEGETALES - URUGUAY
+
+I. INTRODUCCIÓN
+
+ÁMBITO
+	Este estandard establece las condiciones para la Acreditación/Habilitación, Emisión de Certificados/Boletines, Funcionamiento, Auditoría, Inspección y Test de Referencia de laboratorios de análisis de semillas con los países del MERCOSUR.
+
+REFERENCIAS/COLABORADORES
+	ISTA ( International Seed Testing Association)
+	Normas para acreditación de Laboratorios de Análisis de Semillas de Producción del Estado de San Pablo.
+	Normas para acreditación de Laboratorios de Análisis de Semillas de Producción del Estado de Paraná.
+	Decreto ministerial SNAD N 074 / 81 Normas para acreditación de Laboratorios de Análisis de Semillas de Producción.
+
+
+DESCRIPCIÓN
+	El presente estandar establece normas y procedimientos a ser seguidos por los Laboratorios de Análisis de Semillas que solicitan la acreditación/habilitación en el sistema laboratorial MERCOSUR.
+
+II. REQUISITOS GENERALES
+
+1. APLICACIÓN
+	Las presentes Normas se aplicarán a todos los laboratorios de análisis de semillas de los países partes, que constituyen el sistema laboratorial de análisis de semillas de MERCOSUR.
+
+2. DEFINICIONES Y ABREVIATURAS
+•	Sistema Laboratorial de Análisis de Semillas MERCOSUR: constituido por la Entidad Acreditadora y por los Laboratorios de Análisis de Semillas de los Estados Partes.
+•	Entidad Acreditadora-Organismo Oficial responsable de aplicar la legislación nacional que deberá reglamentar, acreditar/habilitar y auditar los Laboratorios de Análisis de Semillas.
+•	Laboratorio de Análisis de Semillas Supervisor -LAS Supervisor: aquel acreditado/habilitado para ejercer las actividades de supervisión, entrenamiento de recursos humanos, inspección y orientación de los laboratorios de análisis de semillas de acuerdo con las normas fijadas por la Entidad Acreditadora.
+•	Laboratorio de Análisis de Semillas - LAS: aquel acreditado/habilitado para proceder a la extracción y/o análisis de las muestras de semillas, de producción propia, de prestación de servicios a terceros y expedir boletines de análisis de semillas -BAS/CAS Certificados de Análisis de Semillas -.
+•	Responsable técnico: - Ingeniero Agrónomo o Forestal equivalente a quien compete la responsabilidad por los análisis de semillas.
+•	ISTA - Internacional Seed Testing Association.
+•	BAS/CAS - Boletín de Análisis de Semillas/Certificado de Análisis de Semilla. Documento emitido por una entidad pública o privada, acreditada/habilitada que certifica la calidad de un lote de semillas.
+•	Laudo/Informe de inspección - Documento emitido por el laboratorio acreditado/habilitado indicado por la entidad Acreditadora, en el cual consta las veracidades de las informaciones indicadas y las condiciones generales del laboratorio solicitante.
+
+3. DE LA ACREDITACIÓN/HABILITACIÓN
+	Pueden ser acreditados/habilitados, como laboratorio de análisis de semillas-LAS, aquellos pertenecientes a personas físicas o jurídicas de derecho público o privado, que cumplan las exigencias contenidas en las presentes Normas.
+
+4. DE LA SOLICITUD DE ACREDlTACIÓN/HABILITACIÓN
+4.1. La solicitud de acreditación/habilitación para Laboratorios de Análisis de Semillas debe ser efectuada ante la entidad Acreditadora/habilitadora de cada país, mediante la presentación de un formulario de solicitud (Anexo I).
+
+5. DE LAS DOCUMENTACIONES
+5.1. PARA LA ACREDITACIÓN/HABILITACIÓN
+	El proceso de acreditación/habilitación debe estar provisto de los siguientes documentos:
+
+5.1.1. Formulario de solicitud cuyo modelo se incluye en el Anexo I.
+
+5.1.2. Documento de constitución de la Entidad solicitante, de conformidad con los requisitos de registro en cada Estado Parte.
+
+5.1.3. Listado de los analistas, local y fecha del entrenamiento recibido, con comprobación del entrenamiento en el laboratorio indicado por la entidad Acreditadora.
+
+5.1.4. Término de Compromiso del Responsable Técnico (Anexo II): el Responsable Técnico debe firmar el término de compromiso, a través del cual se responsabiliza por todos los análisis efectuados, comprometiéndose a respetar las reglas de ISTA y las orientaciones del LAS/Supervisor. El Responsable Técnico titular puede, a su criterio, designar un sustituto legal, mediante la presentación de otro término de compromiso conforme Anexo II, firmado por el responsable técnico sustituto y endosado por el responsable técnico de la entidad solicitante.
+
+5.1.5. Datos de equipamiento (Anexo III) especificaciones, cantidad, marca, modelo, capacidad y/o sensibilidad, año de fabricación, otros.
+
+5.1.6. Plano o croquis con localización de sectores, indicando puntos de agua, mesadas e instalaciones eléctricas, descripción del tipo de piso y paredes.
+
+5.1.7. Croquis de localización del Laboratorio de Análisis de semillas.
+
+5.1.8. Laudo/Informe de inspección emitido por un laboratorio acreditado/habilitado indicado por la entidad acreditadora.
+
+5.2. PARA INCLUSIÓN DE NUEVAS ESPECIES
+	El laboratorio de análisis de semillas debe enviar a la entidad acreditadora datos conforme al modelo del Anexo IV.
+
+5.3. PARA CAMBIO DE RAZÓN SOCIAL
+	El laboratorio de análisis de semilla debe comunicar inmediatamente a la entidad acreditadora cualquier cambio de la razón social acompañado de las documentaciones conforme al ítem 5.1.2.
+
+5.4. PARA CAMBIO DE RESPONSABLE TÉCNICO
+	El laboratorio de análisis de semillas debe comunicar inmediatamente el cambio del Responsable Técnico a la entidad acreditadora y enviar el Término de Compromiso del nuevo Responsable Técnico.
+
+6. DE LAS EXIGENCIAS
+	El laboratorio de análisis de semillas acreditado/habilitado, debe cumplir los siguientes requisitos básicos.
+
+6.1. DE INSTALACIONES
+6.1.1. El área del laboratorio de análisis de semillas y cada una de las dependencias, debe ser compatible con el volumen de muestras y el personal a trabajar
+
+6.1.2. El Laboratorio debe disponer de instalaciones adecuadas y en áreas apropiadas al uso exclusivo a su finalidad con los siguientes sectores: recepción/protocolo de muestras, análisis (pureza, germinación, determinaciones adicionales), archivo de muestras, servicios administrativos, sector de limpieza y desinfección de materiales.
+
+6.1.3. Especificaciones para las instalaciones
+•	Las instalaciones deben ser suficientemente espaciosas y aireadas evitándose ruidos, polvos y otros contaminantes
+•	El revestimiento de las salas debe ser de material lavable.
+•	El piso debe ser de material de fácil limpieza y conservación, preferiblemente de color claro.
+•	Debe haber distribución adecuada de tomas eléctricas e interruptores en todos los sectores
+•	La iluminación debe ser natural, adecuadamente coadyuvada por la luz artificial tipo fluorescente.
+•	Las mesadas y mesas deben estar revestidas de cármica o similar de color claro uniforme.
+•	Las instalaciones hidráulicas deben tener como mínimo dos puntos de abastecimiento de agua, uno para limpieza del material y otro para la preparación de test en pileta separadas siendo colocadas en mesadas de fácil limpieza.
+
+7. DE LAS DEPENDENCIAS
+
+7.1. RECEPCIÓN/PROTOCOLO DE MUESTRAS:
+	La recepción/protocolo de muestras debe estar provista de estantes, mesas y otros muebles necesarios para la organización del protocolo y registros de muestras, y tener acceso externo que asegure la privacidad de las demás dependencias.
+
+7.2. SALA DEL RESPONSABLE TÉCNICO
+	La sala del responsable técnico debe, preferiblemente, presentar un acceso independiente y estar interligada a los demás ambientes
+
+7.3. SALA DE ANÁLISIS
+	La sala de análisis debe presentar buena aireación, iluminación y otras características que promuevan el bienestar y seguridad de sus ocupantes, tener acceso directo con la recepción, con la cámara de germinadores y con el archivo de muestras. En este local serán instalados muebles y equipos necesarios para la obtención de muestras de trabajos y la ejecución de los análisis.
+
+7.4. SALA DE GERMINADORES (optativo).
+	Constituye un anexo a la sala de análisis, construida con paredes que permitan aislamiento térmico, con revestimiento lavable, iluminación artificial fluorescente (luz fría), sistema de control de temperatura y puerta amplia con  suficiente ventilación, en este local son instalados los germinadores tipo simple dotados con sistemas de calentamiento y control de humedad. Germinadores dotados de calentamiento y refrigeración no necesitan de ambiente con tales especificaciones.
+
+7.5. SALA DE ARCHIVO DE MUESTRAS:
+	La sala de archivo de muestras debe estar localizada de manera de facilitar el mantenimiento de las condiciones ambientales adecuadas, con control de temperatura y cuando sea necesario también de humedad, con estantes compatibles con el número de muestras.
+
+7.6. CÁMARA SECA: (optativa)
+	Constituye un anexo a la sala de análisis de paredes con aislamiento térmico e impermeabilizadas, equipadas con iluminación artificial, sistema de control de humedad y temperatura, puerta amplia con suficiente ventilación y estantes adecuados al peso de las muestras (madera o metal).
+
+7.7. SECTOR ADMINISTRATIVO
+	El local para las actividades administrativas debe contar con acceso externo y de preferencias localizados próximo a la recepción de muestras, comunicado con el sector de análisis.
+
+7.8. DEPOSITOS DE MATERIALES
+	Todo laboratorio debe disponer de locales exclusivos para guardar materiales diversos: Sustratos, material de vidrio, productos químicos, etc. Este local debe presentar buena aireación y condiciones de higiene.
+
+8. DE LOS EQUIPAMIENTOS Y MOBILIARIOS
+	Los equipos y mobiliarios deben ser de uso exclusivo del laboratorio y compatibles con el número de muestras, tipo de especies y dotación de personal .
+
+8.1. EQUIPOS Y MOBILIARIOS OBLIGATORIOS
+	Los equipos y mobiliarios obligatorios dependen de las especies a ser analizadas y deben ser definidos por la Entidad Acreditadora y en conformidad con las Reglas de la ISTA, debiendo contar como mínimo de:
+
+8.1.1. Germinadores: de tipos adecuados a las especies a ser analizadas, de acuerdo con las Reglas de ISTA y en número compatible con el flujo de entrada de las muestras del Laboratorio de análisis de semillas.
+
+8.1.2. Divisor centrífugo tipo Gamet, modelo original o similar, o tipo divisor de suelo de aluminio o inoxidable de tamaño pequeño y medio de acuerdo con lSTA y orientado por la Entidad Acreditadota.
+
+8.1.3.  Balanza con capacidad compatible.
+
+8.1.4. Balanza de precisión con capacidad y sensibilidad que satisfaga las exigencias de las especies analizadas.
+
+8.1.5. Juegos de zaranda: tipo adecuado para las especies analizadas.
+
+8.1.6.  Sillas ajustables de acuerdo con el número de analistas.
+
+8.1.7. Mesa de trabajo compatible con el número de analistas.
+
+8.1.8. Lupa de mesa con aumento de 4 a 10 veces, preferentemente con iluminación.
+
+8.1.9.  Lámpara de mesa con tubos fluorescentes.
+
+8.1.10. Tableros contadores de semilla
+
+8.1.11. Termómetros de máximas y mínimas
+
+8.1.12. Estufa eléctrica de tipo gravitacional para determinación de humedad, con aislamiento térmico munido de control termostático y de termómetro de escala centesimal u otros requisitos conforme a ISTA.
+
+8.1.13. Determinadores de humedad (métodos rápidos) que se correlacionen con los métodos descriptos por la ISTA.
+
+8.2. EQUIPOS OPCIONALES
+	Son aquellos que complementan y facilitan la ejecución de los análisis que en algunos casos resultan obligatorios de acuerdo a las especies a ser analizadas con orientación de la Entidad Acreditadora.
+
+8.2.1. Descascarador o molino de prueba para determinación de arroz rojo para análisis de arroz.
+
+8.2.2. Ventilador (soplador): para semillas de forrajeras.
+
+8.2.3. Extractores de gases y polvo para análisis de semillas tratadas.
+
+8.2.4. Heladera con termostato regulado de 5 a 10"C, modelo doméstico o comercial de uso exclusivo para análisis.
+
+8.2.5. Destilador de agua, capacidad de acuerdo con las necesidades del Laboratorio.
+
+8.2.6. Diafanoscopio: para semillas pilosas o brazosas.
+
+8.2.7. Prensa de hierro para eliminación de exceso de humedad: para test de germinación en rollo de papel.
+
+8.2.8. Estufa o autoclave para esterilización de sustrato: arena, suelo u otros
+
+8.2.9. Balanza para peso hectolítrico: para trigo, triticale, avena y otros.
+
+8.2.10. Equipo de control de temperatura ambiente.
+
+8.2.11. Microscopio, estereoscópico: con aumento de 10 a 30 veces y amplio campo de observación.
+
+
+9. DE LOS MATERIALES, UTENSILIOS DIVERSOS Y REACTIVOS
+
+9.1. Cajas plásticas, incoloras, transparentes con tapa adecuada para los análisis de las especies a trabajar.
+
+9.2. Pinzas: varios tamaños y formas de puntas.
+
+9.3. Estiletes, láminas y espátulas.
+
+9.4. Material de vidrio: tubo de ensayo, Becker, Erlenmeyer, placas de vidrios, pipetas y probetas, recipientes para semillas y recipientes de vidrios oscuros para soluciones.
+
+9.5. Gomitas (bandas elásticas).
+
+9.6. Pincel atómico o marcador indeleble, lápiz de papel y lápiz de cera.
+
+9.7. Recipientes de aluminio con tapa para determinación del grado de humedad conforme ISTA.
+
+9.8. Desecadores.
+
+9.9. Sal de Tetrazolio, ácido sulfúrico, nitrato de potasio, alcohol, otros productos químicos y otros productos para desinfección y limpieza.
+
+9.10. Sustrato para germinación: papel toalla, papel de filtro, papel secante u otros.
+
+9 11. Embalajes para muestras, bolsa de papel, plásticos, cajas.
+
+9.12. Material de protección individual: guantes, guardapolvos, máscaras.
+
+10. MATERIAL DE REFERENCIA
+
+10.1. Colección de semillas cultivadas y de ser factible muestras patrón de diferentes cultivos de las especies analizadas.
+
+10.2. Colección de semillas silvestres y nocivas.
+
+10.3. Colección de fotos y diagramas de semillas.
+
+10.4. Literatura específica para análisis e identificación de semillas.
+
+11. DE LAS INSTRUCCIONES PARA EL FUNCIONAMIENTO DE LOS LABORATORIOS
+	Después de la acreditación/habilitación, el laboratorio pasa a integrar el Sistema Laboratorial de Análisis de Semillas MERCOSUR, con las siguientes exigencias.
+
+11.1. EJECUCIÓN DE LOS ANÁLISIS
+a)	Los laboratorios acreditados/habilitados deben utilizar las Reglas para análisis de semillas ISTA y de Instrucciones Oficiales complementarias.
+b)	Deben mantener registro de control y calibración de los equipos.
+
+11.2. LIBRO DE PROTOCOLO - REGISTRO DE MUESTRA:
+
+11.2.1. Utilizar libros de preferentemente protocolos/registros con hojas marcadas y numeradas en disposición horizontal escrita manualmente o en computadoras obedeciendo la misma disposición.
+
+11.2.2. Todas las muestras recibidas por el laboratorio deben ser registradas, en este libro tales como: análisis definitivos con emisión de boletín/certificado, análisis previo con o sin emisión de boletín/certificado, control interno de calidad, investigaciones, test de comparación, referencia, y entrenamiento.
+
+11.2.3. Las muestras deben ser registradas en secuencias numéricas, en orden cronológico de llegada, iniciada cada año.
+
+11.2.4. Los Registros mínimos obligatorios son los siguientes: número de muestras, fecha de entrada, remitente, procedencia, especie, cultivo, número de lotes, tamaño de lote, fecha y número del boletín/certificado de análisis y  observaciones, siendo factibles otros registros a criterio del laboratorio, exclusivamente con referencia a los análisis realizados.
+
+11.2.5. No debe tener borrones y si lo hubiere debe hacerse una salvedad, debiendo ser firmado por el responsable técnico y ser mantenido en archivo por 5 años.
+
+11.3. DE LAS MUESTRAS
+
+11.3.1. De la extracción de la muestra
+
+	Las muestras podrán ser extraídas por:
+a)	Personal acreditado del laboratorio
+b)	Por una persona acreditada para el muestreo
+c)	Personas no acreditadas (muestras recibidas en el laboratorio)
+
+11.3.2. Las muestras recibidas y las muestras de trabajos de ellas obtenidas, deben ser identificadas con su respectivo número de registro.
+
+11.3.3. Las muestras deben ser mantenidas, antes de la ejecución del análisis, por el menor tiempo posible en locales secos, ventilados, de manera que las eventuales alteraciones en la calidad de las mismas sean atenuadas.
+
+11.3.4. Las muestras analizadas con emisión de boletín/certificado deben tener su contra muestra en archivo correspondiente, almacenadas como mínimo por un año en locales aireados con control de temperatura y humedad. Esos locales de ser necesario deben reecibir tratamiento contra insectos, roedores y otros cuidados, para asegurar la conservación de las mismas.
+
+11.4. DE LA FICHA DE ANÁLISIS
+
+11.4.1. Para cada muestra recibida por el Laboratorio debe ser confeccionada una ficha de análisis, identificada con la misma numeración constante en el libro de registro/protocolo.
+
+11.4.2. La ficha debe contener informaciones indispensables a la ejecución del análisis tales como: especie, cultivar, año de cosecha, determinaciones solicitadas, número de lote y de muestra, y otras informaciones complementarias.
+
+11.4.3. En esta ficha deben ser registrados, como mínimo: los resultados obtenidos en los análisis, metodología utilizada, condiciones de realización de los tests, fecha e identificación del analista.
+
+11 4.4. Las informaciones deben ser registradas en forma clara y legible no pudiendo ser adulteradas; deben ser rubricadas por los analistas ejecutores de cada etapa del análisis con el visto bueno del Responsable Técnico. Eventuales borrones deben ser debidamente aclarados.
+
+11.4.5. Deben ser mantenidas en archivo o disket por un período mínimo de 5 (cinco) años.
+
+11.4.6. Las semillas contaminantes encontradas en el análisis de pureza o examen de semillas nocivas, pueden ser colocadas en bolsitas transparentes y adjuntadas a las fichas de análisis o al paquete de la contra muestra de archivo para disminuir dudas.
+
+11.5. BOLETIN/CERTIFICADO DE ANALISIS DE SEMILLAS
+
+•	Los resultados de análisis de semillas deben ser emitidos a través de BAS/CAS.
+
+•	Los BAS/CAS deben ser emitidos e impresos, de acuerdo con modelos y normas aprobados por el MERCOSUR.
+
+•	En el llenado de BAS/CAS no debe haber borrones.
+
+•	El laboratorio debe mantener los BAS/CAS en archivo, por un plazo mínimo de 5 (cinco) años.
+
+12. DE LAS INSPECCIONES Y AUDITORIAS
+	Son actividades desarrolladas por la Entidad Acreditadora o por los laboratorios indicados por ésta y/o auditando las instalaciones, el funcionamiento de los LAS acreditados o a ser acreditados, manteniendo la uniformidad de procedimientos y la reproductibilidad de los resultados.
+
+12.1. La inspección para fines de acreditación/habilitación o las inspecciones y las auditorías periódicas deben ser realizadas por técnicos del LAS -Supervisor, que emitirán los formularios correspondientes.
+
+12.2. Durante las inspecciones o auditorías se proporcionará libre acceso a las dependencias y a la documentación específica del laboratorio, como solicitar la ejecución de análisis para verificar las condiciones de los equipos y/o el desarrollo de los análisis.
+
+12 3. Deberán ser realizadas por lo menos una auditoría anual en cada LAS o LAS-Supervisor pudiéndose realizar cuantas auditorías se juzgue necesarias.
+
+12.4. Cualquier problema encontrado durante la inspección y/o auditoría debe ser solucionado dentro del plazo establecido por el inspector auditor, debiendo el laboratorio inspeccionado o auditado, informar por escrito la solución del problema, solicitando una nueva inspeccion o auditoría.
+
+12.5. La fecha de inspección a efectos de la acreditación debe ser anunciada. La fecha de auditoría puede ser o no anunciada con anticipación.
+
+12.6. El responsable técnico del laboratorio o su sustituto designado, debe estar presente en la oportunidad de inspección o auditoria, cuando la misma fuere avisada anticipadamente.
+
+13.	DE LOS FORMULARIOS DE INSPECCIÓN Y DE AUDITORIA
+
+13.1. El inspector auditor examinará la documentación de acuerdo al ítem 4.1., efectuando posteriormente la inspección comparando los datos y verificando si la información es procedente, adecuada y suficiente en los informes o formularios correspondiente (Anexo V).
+
+13.2. El inspector o auditor al detectar problemas debe solicitar la corrección de los mismos, sugiriendo soluciones y estipulando plazos.
+
+13.3. El Laboratorio inspeccionado o auditado debe recibir una copia del formulario de inspección o auditoría, firmado por el técnico designado y por el responsable técnico del laboratorio (Anexo V).
+
+13.4. En el formulario de inspección deben ser relatadas las condiciones del laboratorio y las instrucciones a ser observadas (Anexo V).
+
+14. DE LOS TESTS DE COMPARACIÓN O CONTROL Y DE REFERENCIA
+
+14.1. La Entidad acreditadora y los laboratorios indicados por éstas deben realizar análisis de comparación de resultados y evaluación del desempeño de los laboratorios acreditados /habilitados en su área.
+
+14.2. Las muestras para la realización de los tests de control pueden ser tomadas del archivo de muestras durante las inspecciones o su remisión al ser solicitadas a los Laboratorios, con indicación de una determinada numeración y/o especie. Puede inclusive haber una programación mensual de remisión de muestras.
+
+14.3. Las muestras enviadas deben estar acompañadas de las copias de los BAS/CAS o de las fichas de análisis.
+
+14.4. En el formulario de auditoría se debe hacer referencia a las muestras tomadas o solicitadas, justificando la retirada de las mismas del archivo.
+
+14.5. Puede también realizar tests de referencia con los Laboratorios acreditados/habilitados.
+
+14.6. Los resultados de los tests de control o referencia deben ser comunicados por escrito al laboratorio evaluado.
+
+15. DE LAS OBLIGACIONES
+
+15.1. DE LAS ENTIDADES ACREDITADORAS
+
+15.1.1. Establecer Normas y Procedimientos relativos al sistema laboratorial de Análisis, de cada país, en conformidad con este estandar MERCOSUR.
+
+15.1.2. Realizar directamente o por intermedio del LAS-Supervisor las inspecciones necesarias.
+
+15.1.3. Mantener una estrecha relación con las instituciones de investigación, asociaciones, productores de semillas, servicios de extensión y otros con fines de intercambio de informaciones de interés para el área de análisis de semillas.
+
+15.1.4. Divulgar a los Laboratorios, nuevas técnicas laboratoriales así como también Resoluciones y otros datos oficiales referentes a análisis de semillas.
+
+15.1.5. Estimular el entrenamiento del personal vinculado al Sistema a través de la promoción de cursos, talleres, jornadas, conferencias, etc., en el área de análisis de semillas.
+
+15.1.6. Acreditar/habilitar a los Laboratorios coordinando v orientando el funcionamiento de los mismos en todo el territorio nacional.
+
+15.2. Del LAS-Supervisor
+
+15.2.1. El LAS-Supervisor debe recibir y formalizar los pedidos de acreditación/habilitación para enviar a la Entidad Acreditadora.
+
+15.2 2. Prestar orientación y adecuar los documentos remitidos de acuerdo con las Normas establecidas.
+
+15.2.3. Inspeccionar las instalaciones del Laboratorio a ser acreditados/habilitados emitiendo los respectivos formularios de inspecclón .
+
+15.2.4. Auditar periódicamente los laboratorios acreditados/habilitados, emitiendo los respectivos formularios de auditoría.
+
+15.2.5. Proponer acreditación/habilitación de laboratorios o el cancelamiento de la acreditación.
+
+15.2.6. El LAS Supervisor podrá autorizar técnicos auxiliares para la realización de actividades de inspección y auditoria.
+
+15.2.7. Orientar a los responsables técnicos o analistas.
+
+15.2.8. Mantener la Entidad Acreditadora debidamente actualizada sobre las informaciones y/o alteraciones referente a los laboratorios- LAS.
+
+15.3. DE LOS LABORATORIOS
+
+15.3.1. Ejecutar los análisis de semillas atendiendo las Reglas para Análisis de Semillas oficializadas por el MERCOSUR.
+
+15.3.2. Asistir a las convocatorias de LAS-Supervisor dirigidas al responsable técnico y/o a analista para participar de reuniones técnicas, entrenamientos, cursos y pasantías.
+
+15.3.3. Emitir BAS/CAS de acuerdo con los modelos e instrucciones establecidos para el MERCOSUR.
+
+15.3.4. Enviar mensualmente al LAS-Supervisor los informes técnicos de las actividades desarrolladas.
+
+15.3.5. Mantener un libro de registro/protocolo.
+
+15.3.6. Mantener archivos de muestras.
+
+15.3.7. Mantener contacto permanente con LAS-Supervisor informando todos los cambios ocurridos (cambio de responsable técnico, razón social, dirección y/o local de las instalaciones, alteración en el número de analistas, capacidad operacional y otros).
+
+15.3.8. Comunicar al LAS-Supervisor el cambio del responsable técnico en un plazo máximo de 48 horas enviando el nuevo Término de Compromiso .
+
+15.3.9. Permitir al LAS-Supervisor y/o Entidad Acreditadora, libre acceso a las dependencias y a las documentaciones específicas del laboratorio, facilitando datos y copias de los documentos solicitados.
+
+15.3.10. Los laboratorios deben participar de los tests de control y de referencia programados por el LAS-Supervisor.
+
+15.3.11. Atender y cumplir las presentes Normas e instrucciones complementarias, emitidas por el LAS Supervisor y entidad acreditadora.
+
+15.3.12.  Mantener archivo de las documentaciones recibidas.
+
+15.4.  DEL RESPONSABLE TECNICO
+
+15.4.1. Responsabilizarse técnica y administrativamente de las actividades desarrolladas en el laboratorio.
+
+15.4.2. Garantizar el cumplimiento y la ejecución de los análisis de acuerdo a las metodologías validadas por el MERCOSUR.
+
+15.4.3. Coordinar, orientar y supervisar todas las actividades desarrolladas en el laboratorio.
+
+15.4.4. Comunicar al LAS-Supervisor cualquier ausencia prolongada en cuyo caso se designará un substituto.
+
+15.4.5. Enviar la documentación exigida al LAS-Supervisor en el plazo establecido.
+
+15.4.6. Estar domiciliado a una distancia compatible con sus responsabilidades en el Laboratorio.
+
+15.4.7. Atender a las convocatorias del LAS-Supervisor para participar de reuniones, pasantías, entrenamientos, cursos, etc.
+
+16. DE LOS ENTRENAMIENTOS
+
+16.1. El LAS-Supervisor debe promover entrenamientos del personal técnico.
+
+16.2. Los laboratorios pueden solicitar entrenamiento al LAS-Supervisor las veces que juzguen necesario.
+
+16.3. El entrenamiento debe ser realizado a través de pasantías o cursos prácticos administrados por el LAS Supervisor, o por la Entidad Acreditadora con la participación del equipo técnico e invitados dentro de las prioridades establecidas.
+
+16.4. El LAS-Supervisor debe mantener registro del personal entrenado, entregando a los mismos un certificado del curso o pasantía realizado, en el cual conste el tiempo de entrenamiento, número de horas de aulas, nivel de aprovechamiento, contenido programático y las especies en la que fue entrenado.
+
+16.5. El LAS-Supervisor podrá proponer a la Entidad Acreditadora la realización de cursos de análisis de semillas en convenio con las Universidades y otras entidades vinculadas al Sistema, de forma de atender las necesidades de entrenamiento, tanto en el sentido de perfeccionamiento, como en el de una mayor amplitud en divulgación de nuevas técnicas.
+
+16.6. Los analistas podrán ser entrenados en el laboratorio indicados por el Laboratorio Supervisor.
+
+17. DE LAS REUNIONES TECNICAS
+
+17.1. El LAS-Supervisor deberá convocar al Responsable Técnico de todos los Laboratorios para una reunión, como mínimo una vez al año.
+
+17.2. El LAS-Supervisor podrá convocar a otras reuniones cuando lo juzgue necesario.
+
+17.3. Las convocatorias deberán ser efectuadas por escrito con una anticipación mínima de dos semanas.
+
+18. DE LAS PROHIBICIONES
+	PARA LOS LABORATORIOS DE ANALISIS DE SEMILLAS ESTA PROHIBIDO:
+
+18.1.Emitir BAS/CAS y publicar su condición de credenciado/acreditado sin la respectiva acreditación/habilitación de la Entidad Acreditadora.
+
+18.2. Efectuar los análisis de semillas en desacuerdo con las Reglas ISTA y otras metodológicas recomendadas por el MERCOSUR.
+
+18.3. Efectuar los análisis de semillas de especies para los cuales no estén acreditados/habilitados.
+
+18.4. Cometer faltas que afecten a la credibilidad de los análisis efectuados.
+
+18.5. Realizar falsificaciones y adulteraciones de resultados.
+
+18.6.Impedir o dificultar por cualquier medio las acciones de inspecciones o auditoria.
+
+18.7. Incumplimiento a las legislaciones vigentes, a las presentes Normas y a las orientaciones técnicas y administrativas del LAS-Supervisor y de la entidad acreditadora.
+
+18.8. Emitir BAS/CAS/ donde se transcriban resultados de análisis efectuados por terceros, inclusive el caso de los tests de referencia.
+
+19. DE LAS PENALIDADES
+
+Las penalidades son aquellas establecidas en las legislaciones específicas de cada Estado Parte, pudiendo ser aplicadas desde advertencia hasta cancelación de la acreditación. La Entidad Acreditadora se reserva el derecho de publicar en la prensa oficial las irregularidades ocurridas.
+
+20. DISPOSICIONES GENERALES
+
+20.1. Las personas físicas o jurídicas a que pertenece el laboratorio se comprometen a cumplir estas Normas y proporcionar al Responsable Técnico y/o analista las condiciones necesarias para el buen desempeño de sus funciones.
+
+20.2. El responsable técnico y/o analista debe elevar a conocimiento del LAS Supervisor o entidad acreditadora los datos que comprometan los objetivos de estas Normas.
+20.3.Los casos no previstos serán resueltos por la Entidad Acreditadora.
+
+
+ANEXO I
+
+MODELO DE SOLICITUD
+
+
+Señor:
+Jefe de la Entidad Acreditadora
+
+Nombre del Laboratorio................................................ Razón Social
+
+Nombre del solicitante
+
+Nº de  Registro (s) de la empresa (de acuerdo a la normativa de cada Estado Parte)
+
+
+Dirección completa, teléfono y fax del solicitante,
+
+Dirección completa, teléfono y fax del laboratorio,
+Solicita que el Laboratorio de Análisis de Semillas señalado precedentemente sea acreditado para analizar semillas ( ) propia ( ) de terceros de las siguientes especies vegetales:
+
+
+	*Nombre Común	Nombre Científico
+
+
+Capacidad operacional del laboratorio:.........................................Muestras/año. Area .................m2
+Nombre del Responsable Técnico
+Documento de habilitación profesional
+
+
+Nº de Analistas:....................
+
+
+	Nombre 	Lugar de entrenamiento	Fecha
+
+........................................................................................................................................
+
+
+En estos términos se pide la aprobación correspondiente
+
+...............................de..............................de..............              .................................................................................
+	(Lugar y fecha) 	Sello y firma del solicitante
+
+
+Adjunto los siguientes documentos.
+
+I.	Copia del contrato social o acta de la constitución de la entidad.
+2.	Término de compromiso de un Ingeniero Agrónomo o Forestal, responsable técnico por el LAS (Anexo 2).
+3.	Detalle del equipamiento (Anexo 3).
+4.	Croquis de localización, planta baja con cortes, croquis de las instalaciones eléctricas, de agua y desagüe (así como memoria descriptiva)
+* 	De ser necesario continúe la lista de especies a ser analizadas en hoja aparte.
+
+
+ANEXO II
+
+TÉRMINO DE COMPROMISO
+
+
+El que suscribe,
+
+Ingeniero......  .............................................,Nº de documento de habilitación profesional (si corresponde)
+
+Domiciliado en la calle................................................ Nº........, de la ciudad de..........................................................,
+declaro asumir a partir del......../......./........./, la entera responsabilidad técnica por las orientaciones en todas las etapas del trabajo de análisis de semillas del Laboratorio de Análisis..................................................,
+comprometiéndome a ejecutarlas de acuerdo con las Reglas de Análisis de Semillas de la ISTA, metodología oficializadas por el MERCOSUR y Legislación complementaria, observando las orientaciones del LAS-Supervisor y de la Entidad Acreditadora. El Presente término expira en el momento en que el LAS-Supervisor reciba la Carta de Anulación por mí firmada y también por el Responsable de la Empresa.
+
+
+........................................,..........de.........................................de..........................................
+(Lugar y Fecha)
+
+
+................................................................................................................................................
+(Sello y firma del Responsable Técnico/Laboratorio)
+
+ANEXO III
+
+DETALLE DE LOS EQUIPOS
+
+
+Nombre del Laboratorio
+Discriminación de Equipos Existentes
+Especificación
+Cantidad
+Marca
+Modelo
+Capacidad
+Sensibilidad
+Observación
+
+
+........................................,..........de.........................................de..........................................
+(Lugar y Fecha)
+
+.............................................................................................................................................
+(Sello y firma del Responsable Técnico)
+
+
+ANEXO IV
+
+MODELO DE SOLICITUD PARA LA INCLUSIÓN DE NUEVAS ESPECIES
+
+Señor:
+Jefe de la Entidad Acreditadora ............................................................................................
+Nombre del laboratorio y Nª de Acreditación/Habilitación ....................................................
+Entidad a que pertenece (Razón Social) ..............................................................................
+
+Solicito que en la acreditación del Laboratorio de Análisis de Semillas sean incluidas las siguientes especies vegetales:
+
+*Nombre común	                                           Nombre Científico
+
+....................................                                          ....................................  ....................................
+....................................
+
+
+En estos términos se pide la aprobación correspondiente
+
+
+................................,..........de......................de..........              ................................................................................
+	(Lugar y Fecha)	Sello y firma del solicitante
+
+Adjunto los siguientes documentos.
+
+1. Detalles de los equipamientos específicos para las especies solicitadas
+2. Comprobante del entrenamiento de los analistas para la(s) especie(s) solicitada(s)
+
+
+ANEXO V
+
+NOMBRE DEL LAS-SUPERVISOR .....................................................................
+Dirección del LAS Supervisor ...............................................................................
+
+HOJA DE INSPECCIÓN / AUDITORÍA Nº.................
+
+Ciudad ..........................................................................En fecha:...../...../.............
+Del Auditor o Inspector .........................................................................................
+El LAS ...................................................................................................................
+Dirección: ..............................................................................................................
+Nº de Acreditación: ...............................................................................................
+Tema: ....................................................................................................................
+
+
+                                                                                  ................................................................................................................................................
+Auditor/Inspector                                                                     Responsable Técnico del LAS
+
+	1ra. Vía (Entidad Acreditadoras)
+	2da. Vía (LAS)
+	3ra. Vía (LAS-Supervisor )
+
+
+ANEXO Vl
+
+BOLETÍN MERCOSUR DE ANÁLISIS DE LOTES DE SEMILLAS
+LOGO, NOMBRE Y NÚMERO DE ACREDITACIÓN/HABILITACIÓN DEL LABORATORlO
+
+INFORMACIONES DEL REMITENTE
+
+Nombre del remitente: .................................................................................
+Especie, Cultivo (Variedad):.........................................................................
+Peso del Lote:..............................................................................................
+La identificación de la muestra es de exclusiva responsabilidad del remitente
+
+
+INFORMACIONES GENERALES
+
+Responsable de la extracción de muestras......................Nº de Credencial .................
+Identificación del Lote:...................................................................................................
+
+
+Nº y tipo Envases
+Fecha de Extracción de Muestra
+Fecha de Ingreso de muestra
+Fecha de Finalización del analisis
+Nº de Análisis
+del Análisis
+
+
+RESULTADOS DE ANALISIS
+
+Especie/Nombre Científico: ...................................................................................
+
+
+Pureza
+Germinación
+% de Humedad
+% Peso
+N de Días
+% Número
+
+Semillas Puras
+Materia Inerte
+Otras semillas
+
+Plántulas Normales
+Semillas Duras
+Semillas Frescas
+Plántulas anormales
+Semillas muertas
+%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+Naturaleza de la Materia Inerte
+Especies
+Nombre Científico
+
+Otras Semillas
+
+
+Otras Determinaciones:
+
+Substrato
+Tratamiento
+Temperatura
+
+
+Ciudad/País
+Fecha
+Firma
+
+
+DECLARACIÓN DEL RESPONSABLE TÉCNICO: Certifico que el muestreo y análisis del lote fueron hechos de acuerdo a las Reglas Internacionales de Análisis de Semillas de la ISTA, y que los tests fueron realizados en un laboratorio acreditado para emitir boletines MERCOSUR DE ANALISIS DE LOTES DE SEMILLAS.
+
+OBSERVAClONES ADICIONALES
+	...
+..........................................................................................................................................................................................................................................................................................
+
+..........................................................................................................................................................................................................................................................................................
+
+                                                .......................................................
+                                                            R.T. - LAS
+
+
+ANEXO VlI
+
+BOLETIN MERCOSUR DE ANALISIS DE MUESTRAS DE SEMILLAS
+LOGO, NOMBRE Y NUMERO DE ACREDITACION/HABILITACION DEL LABORATORlO
+
+INFORMACIONES DEL REMITENTE
+
+
+INFORMACIONES DEL REMITENTE
+
+Nombre del remitente: .................................................................................
+Especie, Cultivo (Variedad):.........................................................................
+Peso del Lote:..............................................................................................
+La identificación de la muestra es de exclusiva responsabilidad del remitente
+
+
+INFORMACIONES GENERALES
+
+Responsable de la extracción de muestras......................Nº de Credencial .................
+Identificación del Lote:...................................................................................................
+
+
+Nº y tipo Envases
+Fecha de Extracción de Muestra
+Fecha de Ingreso de muestra
+Fecha de Finalización del analisis
+Nº de Análisis
+del Análisis
+
+
+RESULTADOS DE ANALISIS
+
+Especie/Nombre Científico: ...................................................................................
+
+
+Pureza
+Germinación
+% de Humedad
+% Peso
+N de Días
+% Número
+
+Semillas Puras
+Materia Inerte
+Otras semillas
+
+Plántulas Normales
+Semillas Duras
+Semillas Frescas
+Plántulas anormales
+Semillas muertas
+%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+Naturaleza de la Materia Inerte
+Especies
+Nombre Científico
+
+Otras Semillas
+
+
+Otras Determinaciones:
+
+Substrato
+Tratamiento
+Temperatura
+
+
+Ciudad/País
+Fecha
+Firma
+
+
+DECLARACIÓN DEL RESPONSABLE TÉCNICO: Certifico que el muestreo y análisis del lote fueron hechos de acuerdo a las Reglas Internacionales de Análisis de Semillas de la ISTA, y que los tests fueron realizados en un laboratorio acreditado para emitir boletines MERCOSUR DE ANALISIS DE LOTES DE SEMILLAS.
+
+OBSERVAClONES ADICIONALES
+	...
+..........................................................................................................................................................................................................................................................................................
+
+..........................................................................................................................................................................................................................................................................................
+
+                                                .......................................................
+                                                            R.T. - LAS
+1
+
+
+1

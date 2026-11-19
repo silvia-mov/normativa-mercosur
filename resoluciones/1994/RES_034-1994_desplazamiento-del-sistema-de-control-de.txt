@@ -1,0 +1,157 @@
+Resolución GMC N° 34/94
+Título: DESPLAZAMIENTO DEL SISTEMA DE CONTROL DE DIRECCIÓN Y MÉTODO DE ENSAYO DE COLISIÓN CONTRA BARRERAS
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24491_RES_034-1994_ES_DesplSisConDir.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1811).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES 34/94
+
+DESPLAZAMIENTO DEL SISTEMA DE CONTROL DE DIRECCIÓN Y MÉTODO DE ENSAYO DE COLISIÓN CONTRA BARRERAS
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, las Resoluciones Nº 9/91 y Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 7/94 del Subgrupo de Trabajo Nº 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los vehículos deben cumplir una serie de requisitos técnicos en virtud de las legislaciones nacionales respectivas, entre ellos los correspondientes a DESPLAZAMIENTO DEL SISTEMA DE CONTROL DE DIRECCIÓN Y MÉTODO DE ENSAYO DE COLISIÓN CONTRA BARRERAS.
+
+Que dichos requisitos difieren de un Estado Parte a otro, lo que puede crear obstáculos técnicos al intercambio comercial y a la libre circulación de vehículos, que podrían eliminarse a través de la adopción de los mismos requisitos técnicos por todos los Estados Partes ya sea como complemento o en reemplazo de su legislación actual.
+
+Que resulta necesario unificar los métodos de ensayo anteriormente adoptados en relación a DESPLAZAMIENTO DEL SISTEMA DE CONTROL DE DIRECCIÓN Y MÉTODO DE ENSAYO DE COLISIÓN CONTRA BARRERAS.
+
+Que para tal fin, los Estados Partes han acordado adecuar sus legislaciones, de modo de posibilitar el libre intercambio de vehículos, sus partes y piezas.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art.1. Los Estados Partes no podrán limitar o prohibir la libre circulación, homologación, certificación, venta, importación, comercialización, matriculación o uso de los vehículos que cumplan con los requisitos establecidos en el Reglamento Armonizado "DESPLAZAMIENTO DEL CONTROL DE DIRECCIÓN Y MÉTODO DE ENSAYO DE COLISIÓN CONTRA BARRERA" que figura como Anexo a la presente Resolución, por motivos relacionados con los aspectos técnicos armonizados en el mismo.
+
+Art. 2. Elimínase el punto 3.10 del Anexo I de la Resolución Nº 9/91 del GMC.
+
+Art. 3. La presente Resolución entrará en vigor a partir del 1 de enero de 1995.
+
+Art. 4. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+
+Por Argentina:
+Secretaría de Transporte
+Secretaría de Industria
+
+Por Brasil:
+Ministerio de Justicia
+Secretaría de Tránsito. Departamento Nacional de Tránsito
+
+Por Paraguay:
+Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+
+Por Uruguay:
+Ministerio de Transporte y Obras Públicas
+Ministerio de Industria y Energía
+
+
+ANEXO
+REGLAMENTO ARMONIZADO
+DESPLAZAMIENTO DEL SISTEMA DE CONTROL DE DIRECCION
+
+1. Objeto. Establecer límites en el desplazamiento hacia atrás, dentro del compartimiento de pasajeros, de los sistemas de control de dirección, para reducir las posibilidades de lesiones en el pecho, cuello y cabeza del conductor.
+2. Aplicación. Este documento se aplica a los vehículos Categoría M1 y N1: automóviles y camionetas de uso mixto derivados de automóviles.
+3. Definiciones. A efectos de este documento, considérase como:
+Columna de dirección: Al conjunto estructural que incluye parcial o totalmente el árbol de dirección.
+Arbol de dirección: Al componente que transmite el momento de fuerza (torque) del volante de dirección a la caja de dirección.
+4. Requisitos. La extremidad superior de la columna y/o el árbol de dirección no debe desplazarse horizontalmente hacia atrás más de 127 mm, respecto de un punto no deformado del vehículo y paralelo al eje longitudinal, con movimiento del vehículo perpendicular a la barrera, con velocidad de 48 km/h, en un ensayo de colisión frontal contra barrera fija, conforme a lo indicado en el documento "Método de ensayo de colisión contra barrera" Anexo I del presente reglamento.
+El desplazamiento del árbol de dirección deberá ser determinado por medición dinámica.
+5. Observaciones.
+5.1. Para el ensayo de colisión frontal, permítese una tolerancia para la velocidad de impacto de modo que esté comprendida entre 48 km/h a 53 km/h debiéndose en ese caso el valor de desplazamiento de la extremidad superior de la columna y/o árbol de dirección ser corregido para la velocidad de 48 km/h, por la fórmula siguiente:
+
+
+Siendo:
+D1= Desplazamiento en el impacto a 48 km/h
+D2= Desplazamiento real obtenido con la velocidad de impacto
+V1= 48 km/h
+V2= Velocidad real en el momento del impacto.
+5.2. Para este ensayo está permitido el uso de un maniquí representando al conductor, sin que haya necesidad de observar los efectos debido a su presencia.
+METODO DE ENSAYO DE COLISION CONTRA BARRERA
+
+1. Objetivo. Este método de ensayo tiene por finalidad establecer un modelo patrón en los métodos de colisión contra barrera para que los ensayos realizados en distintos lugares sean comparables.
+2. Generalidades. La colisión contra barrera representa el tipo más severo de impacto de los vehículos automotores. Las condiciones de desaceleración durante colisiones contra barrera son más fácilmente reproducibles de aquellos que ocurren durante otros tipos de impactos.
+Los ensayos de colisión contra barrera son realizados con vehículos automotores a efectos de obtener información de valor, que permita reducir heridas de los ocupantes y con el fin de apreciar la integridad de la estructura.
+La finalidad de este método patrón es proveer simulación realista de las fuerzas que actúan sobre los vehículos y los ocupantes durante colisiones accidentales contra objetos fijos.
+Mediciones de cargas y deflexiones estructurales, determinación de la dinámica de los ocupantes, observaciones fotográficas y análisis posteriores a la colisión de los acontecimientos especiales pertinentes, pueden ser usados para establecer criterios de proyectos.
+3. Condiciones generales.
+3.1. Lugar de ensayo. El lugar de ensayo debe comprender un área suficiente para proveer espacios para la barrera, ubicación de varios equipos fotográficos, el área protegida para el observador y espacio para acelerar el vehículo a la velocidad deseada del ensayo.
+3.1.1. El lugar junto al punto de impacto debe ser plano.
+3.1.2. La vía de acceso a la barrera y la superficie junto a ésta deben ser pavimentadas.
+3.1.3. Debe haber medios para posicionar con precisión el equipo fotográfico.
+3.2. Barrera. Una barrera apropiada para ensayos de impacto de automóviles y utilitarios derivados debe tener las características descriptas a continuación:
+3.2.1. La barrera debe ser de concreto reforzado con por lo menos 3,00 m de ancho, 1,50 m de alto y 0,60 m de espesor.
+3.2.2. Un terraplén de aproximadamente 90.000 kg de tierra compactada, o su equivalente, debe estar hecho atrás de la barrera.
+3.2.3. La superficie de impacto de la barrera debe ser perpendicular a la dirección final de aproximación del vehículo y debe estar recubierta con madera compensada (aglomerado) de 20 mm de espesor.
+3.3.Vía de acceso del vehículo a la barrera. El tipo de vía de acceso requerido depende de la técnica empleada para obtener la velocidad de impacto deseada. Las formas prácticas de acceso a la barrera pueden ser las siguientes:
+3.3.1. Superficie inclinada con extensión suficiente para acelerar el vehículo de ensayo a la velocidad de impacto.
+3.3.2. Superficie horizontal de extensión suficiente para permitir cualquiera de las condiciones siguientes:
+3.3.2.1. El vehículo de ensayo puede ser remolcado hasta la velocidad de impacto.
+3.3.2.2. El vehículo de ensayo puede ser dirigido por control remoto u otro sistema de control hasta la velocidad de impacto.
+3.3.2.3. El vehículo de ensayo puede ser remolcado o dirigido por carriles guía.
+Nota: Otras maneras de acceso pueden ser utilizadas, siempre que contemplen las finalidades propuestas.
+3.4. Protección. Deben tomarse precauciones para asegurar la protección de las personas involucradas en los ensayos.
+4. Metodología.
+4.1. Los efectos de colisión de los vehículos son complejos por naturaleza, asimismo durante colisiones relativamente simples contra barrera, debe ser ejercido el control cuidadoso de los parámetros de impacto.
+
+Como procedimiento de evaluación patrón está recomendada una velocidad de impacto de 48 km/h; entre tanto, otras velocidades pueden ser escogidas para estudios especiales, cuando la velocidad es una variable independiente.
+Para que ni los efectos de inercia de la aceleración, ni los de la desaceleración puedan de alguna forma influenciar en las condiciones del vehículo o en sus características de rotura y las reacciones subsiguientes de los ocupantes, el vehículo debe impactar contra la barrera a velocidad esencialmente constante.
+
+El vehículo debe impactar contra el centro de la cara de impacto de la barrera de manera que su eje longitudinal sea perpendicular al plano de la barrera, con excepción de los casos en que la variable independiente en la investigación sea el ángulo de dirección de impacto en la barrera. La línea de centro longitudinal del vehículo de ensayo se debe alinear dentro de los + 305,0 mm del centro de la barrera, en el caso de una aproximación patrón de la barrera, de forma que el foco de una máquina fotográfica de alta velocidad, ajustado antes del ensayo, pueda mantenerse.
+
+Otros requisitos para una cobertura fotográfica aceptable serán iluminación adecuada y en fondo blanco, preferiblemente de textura uniforme y exento de objetos en movimiento.
+
+4.2. El control direccional del vehículo de ensayo puede ser obtenido usándose carriles guía o siguiendo un curso preensayado con control remoto u otra práctica segura similar que cumpla los objetos deseados.
+5. Instrumental y equipamiento.
+Para obtener información significativa del ensayo de colisión contra barrera es importante que estén provistos los medios adecuados para observar y registrar los resultados. Es necesario escoger el instrumental adecuado a los requisitos específicos del ensayo, ya que los objetivos de cualquier impacto son limitados. En este punto se da la orientación en cuanto al tipo de instrumental y equipamiento que pueden ser usados para obtener la información deseada sobre los movimientos y cargas experimentales para el vehículo, sus componentes o sus ocupantes durante el impacto.
+5.1. Aceleración del vehículo.
+Las aceleraciones globales del vehículo pueden ser medidas por acelerómetros, ubicados en el panel del suelo o extendidos lateralmente en línea con los elementos de anclaje del cinturón de seguridad, o en el umbral de la carrocería próximo a la columna central de la puerta (o atrás del respaldo del asiento delantero en el caso de vehículo sin columna central), pero no tan cerca del anclaje del cinturón de seguridad en el piso, que puedan ser influenciados por distorsión del panel del suelo.
+Para ángulos de dirección de impacto de la barrera no perpendiculares, se recomienda la colocación de acelerómetros en ambos lados del vehículo.
+5.2. Fuerzas sobre los ocupantes.
+Para obtener la información de las fuerzas sobre los ocupantes y sus movimientos durante el ensayo, pueden usarse maniquíes antropométricos. Estos maniquíes deben ser de un tipo que represente aproximadamente las características de tamaño, peso y articulaciones de un ser humano en posición sentada.
+Los acelerómetros pueden estar colocados en la cabeza, el pecho, y cuando sea posible, en la cavidad pélvica, para hacer registros de la aceleración en estos puntos. Aceleraciones significativas verticales y/o laterales acompañan generalmente a las fuertes desaceleraciones longitudinales de un vehículo que choca, por lo tanto estos acelerómetros deben ser de tipo biaxial o triaxial.
+5.3. Fuerzas en los dispositivos de retención de los ocupantes.
+Para medir las fuerzas dinámicas soportadas por los dispositivos de retención instalados en el vehículo, pueden ser usados equipos registradores. La cantidad de los equipos usados en cada ensayo de impacto debe ser suficiente para permitir el registro adecuado de las fuerzas impuestas a estos dispositivos.
+5.4. Registro de contactos.
+Las superficies transmisoras pueden ser instaladas en la cabeza, pecho y rodilla de manequíes adecuados de forma de registrar el contacto que se produzca con superficies como la visera, parabrisas, panel de instrumentos y volante de dirección, durante el tiempo de impacto del vehículo.
+
+5.5.Velocidades.
+Deben proveerse los medios para medir con precisión la velocidad del vehículo inmediatamente antes del impacto contra la barrera.
+5.6. Instrumental fotográfico.
+Es deseable proveer cobertura fotográfica total de cada ensayo de impacto contra barrera. Entre tanto, en los casos en que esto no sea posible, la recomendación que se sigue es una mínima cobertura para la obtención de informaciones significativas.
+5.6.1. Cámaras de alta velocidad: Dos cámaras de alta velocidad es lo mínimo necesario.
+5.6.1.1.Cámaras laterales: Por lo menos una cámara fotográfica de alta velocidad debe ubicarse de cada lado del lugar de impacto. Deben estar provistas líneas indicadoras para la ubicación precisa del equipamiento fotográfico. Estas cámaras deben estar ubicadas de forma que el campo de visión sea suficientemente grande para abarcar al menos al vehículo en ensayo en forma perpendicular al curso de ese vehículo en el instante de contacto con la barrera.
+Cada cámara debe estar provista con medios para registrar una señal de impulso de tiempo sobre la película y debe tener una relación de cuadros suficiente para facilitar el análisis rápido del micromovimiento de la película.
+Deben ser colocadas marcaciones adecuadas de calibración y de referencia de posición, tanto estacionarias como en el vehículo y ocupantes.
+Las informaciones que pueden ser obtenidas de esta película por medio del análisis del micromovimiento incluye desplazamiento total del vehículo, velocidades y desaceleración.
+Además de esto, podrán ser realizados estudios de micromovimiento de cinemática de varios ocupantes del vehículo con relación a los registros de los equipos en estos colocados.
+5.6.1.2. Cámara superior.
+Una cámara también puede ser colocada sobre el lugar de impacto. La cámara debe estar centrada en el vehículo y su campo de visión debe ser suficientemente grande para incluir por lo menos a dos tercios de la parte delantera del vehículo de ensayo. La información obtenida con esta cámara puede también ser usada para análisis de micromovimientos si las condiciones establecidas en 5.6.1.1. fuesen observadas.
+
+5.6.1.3. Cámara inferior.
+Una cámara puede ser colocada de manera tal que permita la observación de los fenómenos producidos por el impacto en la parte inferior del vehículo.
+
+5.6.1.4. Comportamiento de los ocupantes.
+Una cámara adecuada para elevada aceleración (g) puede ser instalada para observar el compartimiento de los ocupantes del vehículo de ensayo a fin de registrar la cinemática de los ocupantes de los asientos delanteros.
+5.7. Otras condiciones.
+5.7.1. Sincronización del instrumental electrónico y fotográfico.
+Deben existir medios para la sincronización del instrumental electrónico y fotográfico.
+5.7.2. Deformación del vehículo:
+Deben efectuarse las mediciones después del ensayo de impacto contra barrera para determinar la deformación permanente total.
+
+
+DESPLAZAMIENTO DEL SISTEMA DE CONTROL DE DIRECCIÓN
+
+
+Reemplazar el texto del punto 4 "REQUISITOS" por el que sigue.
+
+La extremidad superior de la columna y/o la barra de dirección no debe desplazarse horizontalmente hacia atrás más de 127 mm, respecto a un punto no deformado del vehículo y paralelo al eje longitudinal del mismo, en un ensayo de colisión frontal contra barrera fija moviéndose el vehículo a una velocidad de 48 km/h perpendicularmente a la barrera conforme a lo indicado en el documento "MÉTODO DE ENSAYO DE COLISIÓN CONTRA BARRERA".
+
+Donde dice:						Debe decir:
+(2) adecuada elevada "g"	adecuada para elevada aceleración (g)

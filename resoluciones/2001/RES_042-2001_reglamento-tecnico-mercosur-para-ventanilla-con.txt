@@ -1,0 +1,91 @@
+Resolución GMC N° 42/01
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA VENTANILLA CON ACCIONAMIENTO ELÉCTRICO
+Fecha de aprobación: 10/10/2001
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 13367_RES_042-2001_ES_RTM_Ventanilla_Accto-Electrónico_Acta 3_01.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1107).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N°  42/01
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA VENTANILLA CON
+ACCIONAMIENTO ELÉCTRICO
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 91/93,  152/96 y 38/98 del Grupo Mercado Común, y la Recomendación N° 18/99 del SGT N° 3 "Reglamento Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que el mercado interior implica un espacio sin fronteras interiores en el que está  garantizada la libre circulación de mercancías, personas, servicios y capitales; que es importante adoptar medidas para tal fin;
+
+Que con objeto de garantizar la seguridad de los pasajeros, es importante que los vehículos cumplan con el Reglamento Técnico MERCOSUR para Ventanilla con Accionamiento Eléctrico;
+
+Que para tal fin, los Estados Partes acordaron adecuar sus legislaciones, de modo de hacer posible el libre intercambio de vehículos, sus partes y sus piezas.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR para Ventanilla con Accionamiento Eléctrico", que consta como anexo y forma parte de la presente Resolución.
+
+Art. 2 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extra zona.
+
+Art. 3 - El presente Reglamento Técnico regirá en los Estados Partes para la circulación, homologación, certificación, patentamiento, licenciamiento y registro de los vehículos automotores, no pudiéndose aplicar en dichas actividades requisitos técnicos adicionales a los establecidos por el mismo.
+
+Art. 4 - Alternativamente se admitirá la homologación de vehículos que cumplan el Reglamento FMVSS 118 de marzo de 1995, mientras el mismo no se armonice como Reglamento de las Naciones Unidas. En cualquier caso la alternativa solo será admisible hasta el 31.12.2010.
+
+Art. 5 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimento a la presente Resolución, a través de los siguientes  organismos.
+
+
+Argentina:		Secretaría de Transporte
+                  Secretaría de Industria, Comercio y Minería
+
+
+Brasil:			Ministério da Justiça
+                  Conselho Nacional de Trânsito
+                  Departamento Nacional de Trânsito
+
+Paraguay:		Ministerio de Obras Públicas y Comunicaciones
+                   Viceministerio de Transporte
+
+Uruguay:		Ministerio de Transporte y Obras Públicas
+                  Ministerio de Industria y Energía
+
+
+Art. 6 - Los Estados Partes incorporarán la presente Resolución a sus respectivos ordenamientos jurídicos nacionales antes del 10/IV/2002.
+
+
+XLIII GMC - Montevideo, 10/X/01
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR PARA VENTANILLA CON
+ACCIONAMIENTO ELÉCTRICO
+
+1. Objetivo
+1.1 Prescripción relativa a las características de las ventanillas con accionamiento eléctrico.
+
+2. Campo de aplicación
+2.1 El presente Reglamento se aplicará a las ventanillas con accionamiento eléctricos, del techo solar y de paneles divisores en vehículos.
+
+3. Especificaciones
+3.1 Los requisitos a cumplir son:
+3.1.1 Con la llave de arranque encontrándose en la posición "parada" o removida del conmutador de arranque, ningún vidrio de ventanilla, panel divisor o techo solar podrá ser accionado, excepto:
+a) cuando la llave de arranque colocada en la posición "parada" o removida del conmutador de arranque, el sistema de accionamiento eléctrico podrá  operar por un intervalo de (un) minuto, después del cual el mismo se tornará  inoperante automáticamente.
+b) cuando la llave de arranque colocada en la posición "parada" o removida del conmutador de arranque, el propio accionador eléctrico podrá mover los vidrios de las ventanillas, techo solar y panel divisor siempre que cualquiera de las  puertas delanteras estuviera abierta. El sistema de accionamiento eléctrico se tornará inoperante después del cierre de las puertas.
+c) por el propio accionador eléctrico, después de haber sido colocada la llave en la posición "parada" o removida del conmutador de arranque antes de que una de las puertas delanteras sea abierta. El accionador eléctrico podrá todavía mover los vidrios de las ventanillas, techo solar o panel divisor en tanto que cualquiera de las puertas delanteras estén abiertas, pero deberá  tornarse  inoperante después de cerrar las puertas.
+d) por el propio accionador energizado activado a través de la cerradura de las puertas delanteras para el cierre automático total de los vidrios de ventanillas, accesibles externamente al vehículo.
+e) por el propio accionador energizado, activado a través de la cerradura de las puertas para apertura y/o cierre controlado de los vidrios de ventanillas, accesible externamente al vehículo.
+f) por  el accionador eléctrico activado  por medio de control remoto.
+g) por fuerza muscular, sin auxilio de una fuente de energía del propio vehículo.
+
+3.1.2 Dispositivo de seguridad
+a) los accionadores eléctricos activados por los dispositivos descriptos en los literales d) y f) del punto anterior podrán estar dotados de mecanismos que  causen el retroceso del vidrio un mínimo de 25 mm, cuando éste es sometido a una fuerza de compresión de 100 N como máximo, en la zona cuya luz de abertura esté comprendida entre 200 mm y 4 mm de la posición del vidrio totalmente cerrado. La medida de la fuerza de comprensión debe ser realizada con una relación fuerza-desplazamiento no mayor a 10N/mm.
+b) los controles para accionamiento de los vidrios que estén fuera del alcance manual del conductor, deben ser concebidos de forma que el conductor disponga de medios que los vuelvan inoperantes para la cerradura del vidrio, así como de medios que le permitan abrir estos vidrios cuando desee. Esta última condición  presupone que el control que esté fuera del alcance manual del conductor no esté siendo accionado simultáneamente.
+1
+
+
+1

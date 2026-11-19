@@ -1,0 +1,593 @@
+Resolución GMC N° 56/97
+Título: REGLAMENTO TECNICO MERCOSUR SOBRE LISTA POSITIVA PARA ENVASES Y EQUIPAMIENTOS CELULÓSICOS EN CONTACTO CON ALIMENTOS
+Fecha de aprobación: 13/12/1997
+Vigencia: Derogada (Derogada por la Res. GMC Nº 40/15. Estuvo vigente desde el 18/11/2006 - Art. 40 POP - hasta el 16/03/2022.)
+Idioma del texto: ES
+Archivo original: 22300_RES_056-1997_ES_RTMEnvEqCeluAl.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1677).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 56/97
+
+
+REGLAMENTO TECNICO MERCOSUR SOBRE LISTA POSITIVA PARA ENVASES Y EQUIPAMIENTOS CELULÓSICOS EN CONTACTO
+ CON ALIMENTOS
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº91/93 y 19/94 del Grupo Mercado Común y la Recomendación Nº30/97 del SGT Nº3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+Que habiéndose fijado en el apartado 2.2. del Anexo "Envases y equipamientos celulósicos en contacto con alimentos" de la Resolución 19/94 que " Para la fabricación de los envases a los que se refiere el presente documento, sólo podrán utilizarse las sustancias incluidas en la "Lista Positiva para Envases y Equipamientos Celulósicos en contacto con Alimentos", la "Lista Positiva de Resinas y Polímeros para Envases y Equipamientos Plásticos en contacto con Alimentos" y la "Lista Positiva de Aditivos para Materiales Plásticos destinados a la Elaboración de Envases y Equipamientos en contacto con Alimentos". Las sustancias utilizadas deben asimismo cumplir las restricciones de uso, los límites de migración y los límites de composición específicamente indicados en las Resoluciones MERCOSUR correspondientes.
+
+Que de acuerdo a este criterio, se considera conveniente disponer de una reglamentación común sobre la "Lista Positiva para Envases y Equipamientos Celulósicos en contacto con Alimentos".
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 Para la fabricación de envases y equipamientos celulósicos en contacto con alimentos que se comercialicen entre los Estados Partes del MERCOSUR, se deberán utilizar las sustancias incluídas en el Reglamento Técnico "Lista Positiva para Envases y Equipamientos Celulósicos en Contacto con Alimentos", que figura en el anexo y forma parte de la presente Resolución.
+
+Art. 2 Lo establecido en el Art. 1 no se aplicará obligatoriamente a los alimentos envasados destinados a la exportación a terceros países.
+
+Art. 3 Las autoridades competentes encargadas de adoptar las medidas necesarias para la implementación de la presente Resolución en los Estados Partes del MERCOSUR son:
+
+Argentina:	Ministerio de Economía y Obras y Servicios Públicos.
+Secretaría de Agricultura, Pesca y Alimentación.
+Servicio Nacional de Sanidad y Calidad Agroalimentaria.
+Instituto Nacional de Vitivinicultura (INV).
+
+
+Ministerio de Salud y Acción Social.
+Administración Nacional de Medicamentos, Alimentos y Tecnología Médica.
+Instituto Nacional de Alimentos.
+
+Brasil:		Ministério da Saúde
+
+Paraguay:	Ministerio de Industria y Comercio
+Instituto Nacional de Tecnología y Normalización (INTN).
+Ministerio de Salud Pública y Bienestar Social.
+Instituto Nacional de Alimentación y Nutrición (INAN).
+
+Uruguay:	Ministerio de Salud Pública (MSP).
+
+Art. 4. La presente Resolución entrará en vigencia el 1/VI/98.
+
+
+XXVIII GMC - Montevideo, 13/XII/97
+
+
+ANEXO
+
+
+REGLAMENTO TÉCNICO: LISTA POSITIVA PARA ENVASES Y EQUIPAMIENTOS CELULÓSICOS EN CONTACTO CON ALIMENTOS
+
+INTRODUCCIÓN:
+1. Para la fabricación de envases y equipamientos celulósicos en contacto con alimentos sólo podrán ser utilizadas las sustancias incluidas en la "Lista Positiva para Envases y Equipamientos Celulósicos en contacto con Alimentos", y en los casos específicos en que lo menciona esta Reglamentación la "Lista Positiva de Polímeros y Resinas para Envases y Equipamientos Plásticos en contacto con Alimentos" y la "Lista Positiva de Aditivos para Materiales Plásticos destinados a la elaboración de Envases y Equipamientos en Contacto con Alimentos", es decir en el caso de las fibras sintéticas utilizadas como materias primas fibrosas, de los materiales plásticos usados como recubrimientos y de los usados como agentes de encolado interno y superficial. En todos los casos deberán cumplirse los límites de composición y de migración específica correspondientes, así como las restricciones de uso indicadas.
+
+2. La presente Lista Positiva contiene todas las materias primas permitidas para la fabricación de papeles, cartulinas y cartones en contacto con alimentos (se incluyen dentro de los mismos a las pulpas moldeadas), indicando en cada caso las restricciones correspondientes.
+
+3. La verificación de los límites de composición y de migración específica se efectuará de acuerdo con los métodos establecidos en las Resoluciones MERCOSUR correspondientes. Cuando aún no se hayan fijado los métodos oficiales MERCOSUR, se podrán utilizar provisoriamente métodos analíticos confiables y reproducibles (en portugués validados), que posean el límite de detección adecuado.
+
+4. En los casos en que determinados auxiliares del proceso de fabricación, estén sujetos a restricciones, los valores indicados se refieren siempre a la materia fibrosa seca, a menos que se indique otra especificación.
+
+En el caso en que los valores indicados se refieran a producto (papel, cartulina o cartón) terminado se entenderá como producto terminado seco.
+
+Los porcentajes (%), salvo en el caso de grado de sustitución, se refieren a la relación masa sobre masa (% m/m).
+
+5. Cuando a los auxiliares del proceso de fabricación que se utilicen en la elaboración de papeles, cartulinas y cartones contemplados en estas exigencias se les ha asignado distintos límites según la función que
+6.
+desempeñen, los mismos no son acumulativos y cuando se usan para varias funciones, rige como valor máximo tolerable, el mayor de los límites indicados.
+
+
+7. El papel elaborado con fibra vegetal blanqueada tratado con ácido sulfúrico (tipo pergamino vegetal / papel vegetal) deberá cumplir además de los requisitos establecidos para todos los materiales celulósicos, los que figuran al final de la Lista Positiva como (XIV).
+
+8. El papel destinado a la fabricación de saquitos (en portugués saches) para infusiones o para filtración en caliente deberá cumplir con la Resolución MERCOSUR correspondiente.
+
+9. Los adhesivos utilizados para la unión de materiales celulósicos entre sí o con otro tipo de material, en la fabricación de envases y equipamientos en contacto con alimentos, deberán cumplir la Resolución MERCOSUR correspondiente.
+
+
+LISTA POSITIVA DE COMPONENTES PARA ENVASES Y EQUIPAMIENTOS CELULÓSICOS EN CONTACTO CON ALIMENTOS
+
+
+1. MATERIAS PRIMAS FIBROSAS:
+
+1.1. Fibras celulósicas de primer empleo, naturales (pastas celulósicas química, mecánica, semi-química, quimitermomecánica, termomecánica y quimimecánica, blanqueadas, semiblanqueadas o no blanqueadas) o artificiales.
+
+Se admite el empleo de antraquinona. No debe exceder en el producto terminado a 30 mg/kg (base seca).
+
+1.2. Fibras sintéticas de primer uso: deberán cumplir las Resoluciones MERCOSUR GMC Nº 87/93 y 95/94, correspondientes a envases y equipamientos plásticos en contacto con alimentos.
+
+1.3. Fibras celulósicas provenientes del descarte dentro del marco de la producción industrial de envases y equipamientos celulósicos destinados a entrar en contacto con alimentos.
+
+1.4. 	Fibras celulósicas provenientes de material reciclado, que cumplan con las exigencias descriptas en la Resolución MERCOSUR correspondiente a Material Celulósico Reciclado.
+
+
+2. MATERIAS PRIMAS NO FIBROSAS: (Cargas Minerales)
+
+Sustancias minerales naturales y sintéticas insolubles en agua, inocuas para la salud.
+
+2.1. Carbonato de calcio o magnesio.
+
+2.2. Dióxido de silicio.
+
+2.3. Silicatos de sodio, potasio, magnesio, calcio, aluminio y hierro y sus compuestos mixtos (incluso los minerales naturales como talco, caolín)
+
+2.4. Sulfato de calcio.
+
+2.5. Sulfoaluminato de calcio (blanco Satino).
+
+2.6. Sulfato de bario: Bario soluble en HCl 0,1 N, máximo 0,01 %.
+
+2.7. Dióxido de titanio.
+
+2.8. Óxido férrico.
+
+
+3. Sustancias auxiliares:
+
+3.1. Agentes de encolado interno y superficial:
+
+3.1.1. Colofonia y "tall oil" refinado, y sus derivados con ácido maleico y/o fumárico y/o formaldehído: máximo 3 % en relación al peso del producto terminado. (I)
+
+3.1.2. Caseína, gelatina, proteínas de soja o de maíz, exentos de conservantes a base de boro.
+
+3.1.3. Almidón: La suma de las impurezas mencionadas en (VII) y (VIII), no debe ser mayor a 50 mg/kg de almidón. Dentro del término almidón se incluyen las féculas.
+
+3.1.3.1. Almidones y almidones modificados alimenticios: almidones degradados, eterificados, esterificados (inclusive fosfatados) y otros almidones, excluidos los almidones y productos amiláceos modificados con ácido bórico o sus compuestos.
+
+3.1.3.2. Almidones y almidones alimenticios modificados (p.ej. catiónicos, anfotéricos), tratados con los reactivos abajo indicados y mientras que de dichos reactivos se utilicen cantidades menores que las especificadas o se cumplan los requisitos de composición del almidón establecidos:
+
+
+a. persulfato de amonio: no exceder de 0,3 % m/m. En almidones alcalinos no exceder de 0,6 % m/m.
+
+b. cloruro de (4-clorobuteno-2) trimetilamonio: no exceder de 5 % m/m. El almidón así tratado sólo podrá ser utilizado como agente de encolado interno.
+
+c. clorhidrato de  -dietilamina-cloroetano: no exceder de 4 % m/m.
+
+d. metacrilato de dimetilaminoetilo: no exceder de 3 % m/m.
+
+e. dimetilol etilen urea: no exceder de 0,375 % m/m. El almidón así tratado sólo podrá ser utilizado como agente de encolado interno.
+
+f. cloruro de 2,3-epoxipropiltrimetilamonio: no exceder 5 % m/m.
+
+g. óxido de etileno: no exceder de 3 % m/m el peso de unidades derivadas del óxido de etileno en el almidón modificado.
+
+h. ácido fosfórico (no exceder de 6 % m/m) y urea (no exceder de 20 % m/m). El almidón así tratado deberá usarse sólo como agente de encolado interno y para fabricar envases destinados a entrar en contacto con los siguientes alimentos: productos lácteos y sus modificaciones, emulsiones de agua en aceite con bajo o alto tenor graso, aceites y grasas de bajo contenido de humedad, productos de panificación y sólidos secos con sustancias grasas o no en su superficie.
+
+i. acetato de vinilo: para acetato de almidón, tratado además con este reactivo. Especificación del almidón: máximo 2,5 % de grupos acetilo.
+
+j. cloruro de 3-cloro-2-hidroxipropil-trimetilamonio o cloruro de glicidiltrimetilamonio. Especificación del almidón: Nitrógeno máximo 0,5 % m/m y epiclorhidrina máximo 1 mg/kg.
+
+k. óxido de propileno: para la obtención de éteres de almidón neutros. Especificación del almidón: contenido de propilenclorhidrina: máximo 1 mg/kg, grado de sustitución máximo 0,2 %.
+
+l. acetato monoclorado: éteres aniónicos de almidón. Especificación del almidón: glicolato de sodio máximo 0,4 %; grado de sustitución máximo: 0,08 %.
+
+3.1.4. Éteres de la celulosa.
+
+3.1.5. Sal sódica de la carboximetilcelulosa técnicamente pura. Los agregados de glicolato de sodio deben eliminarse completamente durante la fabricación de papeles, cartulinas y cartones.
+
+
+3.1.6. Alginatos, monogalactanos y éteres galactomanánicos (ver 4.4.9.). Los éteres galactomanánicos podrán contener como máximo 5,0 % de glicolato de sodio, siempre que el mismo sea totalmente eliminado en el proceso de fabricación de papeles, cartulinas y cartones.
+
+3.1.7. Silicato de sodio y gel de alúmina.
+
+3.1.8. Dispersiones de ceras microcristalinas y parafinas: máximo 2 % con respecto al producto terminado, en la masa del papel o en superficie. Deberán cumplir los requisitos para parafinas de la Resolución MERCOSUR correspondiente a Envases y Equipamientos en Contacto con Alimentos.
+
+3.1.9. Dispersiones de materiales plásticos (éstos deberán cumplir las reglamentaciones MERCOSUR GMC Nº 87/93 y 95/94): máximo 1 % en la masa y en superficie, referido a la sustancia seca de la dispersión, en relación al producto terminado. Para papeles estucados, máximo 4 %.
+
+3.1.10. Dímeros de alquilcetenos con longitud de cadena de los radicales alquílicos de C10 a C18: máximo en la masa, 0,5 % en relación al peso del producto terminado.
+
+3.1.11. Productos de condensación de urea, melamina y ácido omega - aminocaproico con formaldehído: máximo 1,0 % en el producto terminado. (I)
+
+3.1.12. Sales sódicas y amónicas de polímeros mixtos de éster monoisopropílico del ácido maleico (aprox. 29 %), ácido acrílico (aprox. 16 %) y estireno (aprox. 59 %): máximo 0,5 % en relación al peso del producto terminado seco.
+
+3.1.13. Sal amónica de un copolímero de anhídrido maleico, éster monoisopropílico de ácido maleico y diisobutileno: máximo 0,5 % en relación al peso del producto terminado seco.
+
+3.1.14. Sal amónica de un copolímero de estireno (aprox. 60 %), ácido acrílico (aprox. 23 %) y ácido maleico (aprox. 17 %): máximo 0,5 % en relación al peso del producto terminado seco.
+
+3.1.15. Sal disódica de un polímero mixto de estireno (50 %) y ácido maleico (50 %): máximo 0,7 % referido al peso del producto terminado seco.
+
+3.1.16. Poliuretanos catiónicos, solubles en agua, obtenidos a partir de monoestearato de glicerilo, toluilendiisocianato, y N-metil dietanolamina o poliuretanos aniónicos, solubles en agua, obtenidos a partir de monoestearato de glicerilo, toluilendiisocianato, ácido dimetilpropiónico y N-metil dietanolamina: Peso molecular medio 10000. Máximo 0,15 % en relación al peso de fibra seca. (XII)
+
+
+3.1.17. Poliuretano catiónico, soluble en agua, obtenido a partir de monoestearato de glicerilo, toluilendiisocianato, y N-metil dietanolamina y reticulado con epiclorhidrina. Peso molecular medio: 100.000. Máximo: 0,6 % en relación al peso de fibra seca. (II) (XII)
+
+3.2. Agentes de retención y drenaje:
+
+3.2.1. Poliacrilamida: máximo 0,1 %. La poliacrilamida empleada debe contener como máximo 0,1 % de monómero acrilamida.
+
+3.2.2. Polietilenimina: máximo 0,5 %. (IV)
+
+3.2.3. Ácidos lignosulfónicos, así como sus sales de amonio, calcio, magnesio y sodio, como máximo: 1 % en total.
+
+3.2.4. Polialquilenaminas y amidas catiónicas reticuladas: máximo en conjunto de los aditivos 3.2.4. a), b), c), d), e), f), g), h), i) y j): 4 %.
+
+a. Resina poliamina-epiclorhidrina sintetizada a partir de epiclorhidrina y diaminopropilmetilamina. (II)
+
+b. Resina poliamida-epiclorhidrina sintetizada a partir de epiclorhidrina, ácido adípico, caprolactama, dietilentriamina y/o etilendiamina. (II)
+
+c. Resina poliamida-epiclorhidrina sintetizada a partir de ácido adípico, dietilentriamina y epiclorhidrina o una mezcla de epiclorhidrina con amoníaco. (II)
+
+d. Resina poliamida-poliamina-epiclorhidrina sintetizada a partir de epiclorhidrina, éster dimetílico del ácido adípico y dietilentriamina. (II)
+
+e. Resina poliamida-epiclorhidrina sintetizada a partir de epiclorhidrina, dietilentriamina, ácido adípico y etilenimina. (III)
+
+f. Resina poliamida-poliamina-dicloroetano sintetizada a partir de dicloroetano y una amida del ácido adípico, caprolactama y dietilentriamina .
+
+g. Resina poliamida-epiclorhidrina sintetizada a partir del ácido adípico, dietilentriamina y una mezcla de epiclorhidrina y dimetilamina: máximo 0,2 %. (II)
+
+h. Resina poliamina-epiclorhidrina, sintetizada a partir de poliepiclorhidrina, dietilentriamina y una mezcla de epiclorhidrina y dimetilamina: máximo 0,2 %. (II)
+
+
+i. Resina poliamida-epiclorhidrina sintetizada a partir de epiclorhidrina, dietilentriamina, ácido adípico, etilenimina y polietilenglicol: máximo 0,2 %. (III)
+
+j. Resina poliamida-poliamina-epiclorhidrina sintetizada a partir de epiclorhidrina, éster dimetílico del ácido adípico, éster dimetílico del ácido glutámico, gluconato dimetílico, dietilentriamina: máximo 2 %. (II)
+
+k. Resina poliamida-poliamina-dicloroetano sintetizada a partir de ácido adípico, dietilentriamina y dicloroetano: máximo 0,2 %.
+
+l. Resina poliamida-poliamina-dicloroetano sintetizada a partir de ácido adípico, dietielentriamina y una mezcla de etilendiamina, dietilentriamina, trietilentetramina, tetraetilenpentamina, pentaetilenhexamina, aminoetilpiperazina y 1,2-dicloroetano : máximo 0,2 %.
+
+m. Resina poliamina-dicloroetano, sintetizada a partir de bis(3-aminopropil)-metilamina y 1,2-dicloroetano : máximo 0,2 %.
+
+n. Resina poliamida-poliéteramina-epiclorhidrina sintetizada a partir de dietilentriamina, caprolactama, ácido adípico, polietilenglicol y epiclorhidrina: máximo 0,2 %. (II)
+
+
+3.2.5. Poliamidamina catiónica de alto peso molecular sintetizada a partir de trietilentetramina y ácido adípico con 15 % de éter monometílico del dietilenglicol como diluyente o bien una mezcla de 70 partes de esta solución de poliamidamina con 30 partes de aceite de esperma sulfatado: máximo 0,2 % calculado como poliamidamina.
+
+3.2.6. a) Mezcla de:
+
+Resina poliamida-epiclorhidrina sintetizada a partir del ácido adípico, dietilentriamina y una mezcla de epiclorhidrina y dimetilamina: máximo 0,05 % referido al papel seco (II), polioxietilenos lineales y de alto peso molecular: máximo 0,015 % referido al papel seco y un producto de condensación de ácido xilolsulfónico, dihidroxidifenilsulfona y formaldehído (sales sódicas y amónicas): máximo 0,1 % referido al papel seco. (I)
+
+b) Mezcla de:
+
+Resina poliamida-epiclorhidrina, preparada a partir del ácido adípico, dietilentriamina y una mezcla de epiclorhidrina y dimetilamina: máximo 0,05 % referido al papel seco (II), polioxietilenos lineales y de alto peso molecular: máximo 0,015 % referido al papel seco y un producto de condensación del ácido beta-naftolsulfónico, fenol y formaldehído, como sal sódica: máximo 0,06 % referido al papel seco. (I)
+
+
+3.2.7. Producto de la reacción de poliacrilamida con formaldehído y dimetilamina: máximo 0,06 % referido al producto terminado seco. El contenido residual de acrilamida monómero no debe superar el 0,1 % en relación con el producto de la reacción de la poliacrilamida con formaldehído y dimetilamina. En el extracto acuoso del producto terminado no debe detectarse dimetilamina. Límite de detección : 0,002 mg/dm2. (I)
+
+3.2.8. Copolímero de N,N,N-trimetilamoniopropilacrilamida y acrilamida: máximo 0,05 %. Contenido residual de acrilamida 0,05 mg/kg en el producto terminado.
+
+3.2.9. Alquilarilsulfonatos: máximo 1,0 %. Deberán ser eliminados en el proceso de elaboración del papel.
+
+3.2.10. Dispersiones siliconadas de parafina: máximo 0,5 %, referido a la sustancia seca de la dispersión. La silicona deberá responder a los requisitos especificados en 3.4.1.
+
+3.2.11. Cloruro de polidimetildialilamonio: máximo 0,5 %. La resina terminada tiene un contenido de nitrógeno de 8,66  0,4 % sobre base seca y la viscosidad mínima en solución acuosa (40 % m/m) de 1000 centipoises, usando un viscosímetro de Brookfield, modelo LVF, usando espina o rotor N° 3 a 30 r.p.m. El monómero residual no debe exceder el 1 % m/m del polímero, base seca.
+
+3.2.12. Dicloruro de poli (oxietilendimetiliminio) etilen (dimetiliminio) etileno: la solución del polímero sólido en agua destilada a 25 °C tiene una viscosidad reducida no menor a 0,15 decilitros/gramo (FDA 176.170). Sólo como agente de retención y drenaje y como máximo 0,1 % m/m de las fibras secas del producto terminado. (XV)
+
+3.2.13. Resina poliamina-epiclorhidrina sintetizada por la reacción de epiclorhidrina con N,N,N,N-tetrametiletilendiamina y monometilamina, con un contenido de nitrógeno entre 11,6 y 14,8 %, un contenido de cloro entre 20,8 y 26,4 % y una viscosidad mínima en solución acuosa al 25 % m/m, de 500 centipoises a 25 °C, determinada con un viscosímetro Brookfield de la serie LV, usando espina o rotor N° 2 a 12 r.p.m. Como máx: 0,12 % en peso referido al peso de fibras secas del papel, cartón o cartulina terminados. (XV)
+
+3.2.14. Goma guar modificada por el tratamiento con clorhidrato de  -dietilamino-cloroetano: sólo debe emplearse como agente de retención y drenaje. (XV)
+
+3.2.15. Goma guar modificada por el tratamiento con cantidades inferiores al 25 % m/m de cloruro de 2,3-epoxipropilmetilamonio: el producto terminado deberá tener un contenido máximo de 4,5 % de cloro y 3 % de nitrógeno, una viscosidad mínima
+
+en solución acuosa al 1 % en peso de 1000 centipoises a 25 °C, usando un viscosímetro de Brookfield de la serie RV, usando espina o rotor N° 4 a 20 r.p.m. No debe exceder a 0,15 % en peso de las fibras secas. Se podrá utilizar un 0,3 % m/m para papeles, cartulinas o cartones destinados a entrar en contacto con alimentos no alcohólicos y no grasos, incluyendo: los alimentos acuosos ácidos y no ácidos (que pueden contener sal y azúcar), inclusive las emulsiones de aceite en agua; productos húmedos de panadería que no contengan grasas o aceites en su superficie y los alimentos sólidos secos que no contengan grasas o aceites en su superficie. (XV)
+
+
+3.3. Agentes dispersantes y de flotación.
+
+De los aditivos auxiliares 3.3.1. a 3.3.9. se podrá usar como máximo 1 % de cada uno pero el total no podrá exceder del 3 %.
+
+3.3.1. Polivinilpirrolidona: peso molecular mín. 11000.
+
+3.3.2. Alquilsulfonatos (de C10 a C20).
+
+3.3.3. Alquilarilsulfonatos: máximo 1,0 %. Deberán ser eliminados en el proceso de elaboración del papel.
+
+3.3.4. Sales alcalinas de ácidos fosfóricos predominantemente de condensación lineal (polifosfatos); el contenido de fosfatos condensados cíclicos (metafosfatos) no debe superar el 0,8 %.
+
+3.3.5. Éteres alquílicos de poliglicoles y/o éteres alquilfenólicos de poliglicoles con 6-12 grupos oxietilénicos.
+
+3.3.6. Aceite de ricino sulfonado. Aceite de ricino sulfatado.
+
+3.3.7. Productos de condensación de ácidos sulfónicos aromáticos con formaldehído. (I)
+
+3.3.8. Ácido lignosulfónico y sus sales de calcio, magnesio, sodio y amonio.
+
+3.3.9. Laurilsulfato de sodio.
+
+3.3.10. Poliacrilato de sodio: máximo 0,5 %.
+
+3.3.11. Dioctilsulfosuccinato de sodio.
+
+
+3.4. Antiespumantes:
+
+3.4.1. Organopolisiloxanos con grupos metilos y/o fenilos (aceites de siliconas): máximo 0,1 %. Viscosidad a 20º C no menor de 100 mm2.s-1.
+
+
+3.4.2. Tributilfosfato y/o triisobutilfosfato y/o trietilfosfato: máximo 0,1 %.
+
+3.4.3. Alcoholes alifáticos superiores (C8 a C26), incluso en forma emulsionada. Las soluciones acuosas con un contenido de 20-25 % de estos agentes antiespumantes pueden contener adicionalmente como emulsionantes un máximo del 2 % de parafinas líquidas y un total del 2 % de alquil- y alquilariloxietilatos y sus ésteres del ácido sulfúrico. Las parafinas líquidas deberán cumplir las exigencias MERCOSUR, como aditivos alimentarios.
+
+3.4.4. Ésteres de ácidos grasos con alcoholes mono y polivalentes (C1-C18) y ésteres de ácidos grasos con polietilenglicol y polipropilenglicol.
+
+3.4.5. Alquilsulfonamidas (C10 a C20).
+
+3.4.6. Parafinas líquidas: máximo 0,1 %. Deben cumplir las exigencias MERCOSUR como aditivos alimentarios.
+
+3.4.7. Sílice. (XIII)
+
+3.4.8. Triglicéridos grasos y los ácidos, alcoholes, dímeros, mono y diglicéridos derivados de:
+
+sebo bovino, grasa (manteca) de cerdo, aceites de: algodón, arroz, coco, maíz, maní, colza, linaza, palma, ricino, soja, mostaza , pescado y de esperma, y "tall oil". (XIII)
+
+3.4.9. Productos de reacción de dimetil y metilhidrógeno siloxanos y siliconas con polietilenglicol-polipropilenglicol monoaliléter. (XIII)
+
+3.4.10. Ceras de petróleo. Deberán cumplir las especificaciones de FDA 178. 3710 o 178.3720 (XIII)
+
+3.4.11. Aceite mineral. Deberá cumplir las especificaciones de FDA 178.3620 (XIII)
+
+3.4.12. Querosén. (XIII)
+
+
+3.5. Agentes antimicrobianos
+
+3.5.1. Hipoclorito de sodio, clorito de sodio, peróxido de sodio y de hidrógeno, sulfito ácido de sodio y ácido peroxiacético: máximo 0,1 % referido a la fibra seca. El extracto del producto terminado no debe dar reacción positiva de hipoclorito, clorito, peróxido o sulfito.(*)
+
+3.5.2. Se puede utilizar también una solución acuosa al 0,15 % de ésteres del ácido p-hidroxibenzoico (ésteres metílico, etílico y n-propílico así como sus sales de sodio)
+
+
+en peróxido de hidrógeno (35 % m/m): máx: 15 mg del éster por kg del envase terminado, el que no debe ejercer efecto conservante sobre el alimento envasado. No debe detectarse peróxidos en el extracto del producto terminado. (*)
+
+3.5.2. 1,4-Bis-(bromoacetoxi) buteno: en el extracto del producto terminado no debe detectarse más de 0,01 mg de bromo por dm2.
+
+3.5.3. Disulfuro de tetrametiltiuram. (V) (*)
+
+3.5.4. 3,5-dimetil- tetrahidro-1,3,5-tiodiazin-2-tiona. (V) (*)
+
+3.5.5. 2-bromo-4-hidroxiacetofenona. (V) (*)
+
+3.5.6. Cianoditioimidocarbonato disódico y/o N-metil-ditiocarbamato de potasio. (VI) (*)
+
+3.5.7. Metilen-bis-tiocianato. (V) (*)
+
+3.5.8. N-hidroximetil-N'-metil-ditiocarbamato de potasio y 2-mercapto-benzotiazol sódico: en el extracto del producto terminado no deben ser detectados ambos auxiliares así como sus productos de transformación en particular metiltiourea, N,N'-dimetil-tiourea y los ditiocarbamatos. (*)
+
+3.5.9. Hexafluorosilicato de sodio: en el extracto del producto terminado no se debe detectar iones fluoruro.(*)
+
+3.5.10. Cloruro del ácido 2-oxo-2-(4-hidroxi-fenil)-acethidroxámico. (V) (*)
+
+3.5.11. 1-Bromo-3-cloro-5,5-dimetilhidantoína: máximo 0,04 % respecto de fibra seca. No se debe detectar hipoclorito e hipobromito en el producto terminado.(*)
+
+3.5.12. 2-Bromo-2-nitropropanodiol-(1,3): máximo 0,003 % referido a la fibra seca. (V) (*)
+
+3.5.14. a) mezcla de 5-cloro-2-metil-4-isotiazolin-3-ona (aprox. 3 partes)
+y 2-metil-4-isotiazolin-3-ona (aprox. 1 parte): en total, máximo 0,0004 % referido a la fibra seca o
+
+b) Mezcla de N,N'-dihidroximetilencarbamida: máximo 0,0125 % referido a la fibra seca,
+1,6-dihidroxi-2,5-dioxahexano: máximo 0,029 % referido a la fibra seca,
+5-cloro-2-metil-4-isotiazolin-3-ona : máximo 0,00045 % referido a la fibra seca y
+2-metil-4-isotiazolin-3-ona: máximo 0,00015 % referido a la fibra seca.
+
+
+En el extracto del producto terminado no se deberá detectar más de 1,0 mg de formaldehído/dm2 y no más de 0,0005 mg/dm2 de isotiazolinonas.
+
+3.5.15. 2,2-Dibromo-3-nitrilo-propionamida: máximo 0,0045 %, referido a las fibras secas. (V) (*)
+
+3.5.16. Mezcla de fenil-(2-cloro-2-ciano vinil)sulfona (aprox. 80 %), fenil-(1,2-dicloro-2-ciano-vinil)sulfona (aprox. 10 %) y 2-fenil-sulfonilpropionitrilo (aprox. 10 %): máximo en total 0,001 %, referido a las fibras secas. Estas sustancias y el producto de descomposición fenilsulfonilacetonitrilo no deben ser detectables en el extracto del producto terminado. (*)
+
+3.5.17. 1,2-benzoisotiazolina-3-ona: máximo 0,15 mg/dm2. (V): límite de detección 5  g/dm2.
+
+3.5.18. 1,2-dibromo- 2,4-dicianobutano, máximo 0,005 %. (V): límite de detección del método 0,6  g/dm2.
+
+3.5.19. 4,5-dicloro-(3H)-1,2-ditiol-3-ona: máximo 0,004 %, referido a las fibras secas. (V): límite de detección 2,0 mg/kg.
+
+3.5.20.  -bromo- -nitroestireno, máximo 0,045 %, referido a las fibras secas. (V): límite de detección: 0,06 mg/kg de producto terminado.
+
+3.5.21. Glutardialdehído: máximo 2,5 %. En 1 kg de producto terminado no se debe detectar más de 2 mg de glutardialdehído.
+
+3.5.22. Cloruro de didecil-dimetil amonio: máximo 0,5 % respecto a la fibra seca
+
+3.5.23. N-hidroximetil-N'-metil-ditiocarbamato de potasio. (X)
+
+3.5.24. Cloruro de N-alquil (C12-C18) dimetilbencilamonio. (X)
+
+3.5.25. Dimetilditiocarbamato sódico o potásico. (X)
+
+3.5.26. 2-tiocianometilbenzotiazol. (X)
+
+
+3.6. Conservadores: Los conservadores 3.6.1. a 3.6.5. deben ser utilizados únicamente en las cantidades necesarias para proteger de su deterioro a las materias primas, los auxiliares de fabricación y los agentes de acabado del material de envasado. No se debe ejercer una acción conservadora sobre el alimento por el agregado de estas sustancias.
+
+3.6.1. Ácido sórbico.
+
+
+3.6.2. Ácido fórmico.
+
+3.6.3. Ésteres etílico y propílico del ácido p-hidroxibenzoico.
+
+3.6.4. Ácido benzoico.
+
+3.6.5. Aducto de 70 % de alcohol bencílico y 30 % de formaldehído. (I)
+
+3.6.6. Metaborato de Bario: Sólo para recubrimientos y para papeles, cartulinas y cartones destinados a entrar en contacto con alimentos sólidos secos.
+
+
+3.7. Agentes estabilizantes (precipitantes), de fijación, apergaminantes y los demás no clasificados en 3.1. a 3.6.
+
+1. Sulfato de aluminio
+2. Ácido sulfúrico.
+3. Formiato de aluminio.
+4. Oxicloruro de aluminio.
+5. Aluminato de sodio.
+6. Tanino.
+7. Productos de condensación de urea, diciandiamida y melamina con formaldehído: máximo 1,0 %. (I)
+8. Productos de condensación de ácidos sulfónicos aromáticos con formaldehído: máximo 1,0 %. (I)
+9. Sales sódicas del ácido etilendiaminotetracético, del ácido dietilentriaminopentacético y del ácido N-hidroxietiletilendiaminotriacético.
+10. Amoníaco.
+11. Carbonato, bicarbonato y fosfato de sodio.
+12. Anhídrido carbónico (dióxido de carbono ).
+13. Hidróxido de sodio.
+14. Ácido glucónico.
+
+4. Mejoradores especiales del papel:
+
+4.1. Agentes que mejoran las propiedades mecánicas del papel húmedo:
+
+4.1.1. Glioxal: en el extracto del producto terminado se podrá detectar como máximo 1,5 mg de glioxal/dm2.
+
+4.1.2. Resinas urea-formaldehído. (I)
+
+4.1.3. Resinas melamina-formaldehído. (I)
+
+4.1.4. Resinas urea-melamina-formaldehído. (I)
+
+
+4.1.4. Polialquilenaminas y amidas catiónicas reticuladas (ver 3.2.4.): máximo en total 4,0 % m/m.
+
+a. Resina poliamina-epiclorhidrina sintetizada a partir de epiclorhidrina y
+diaminopropilmetilamina (ver 3.2.4. a). (II)
+b. Resina poliamida-epiclorhidrina sintetizada a partir de epiclorhidrina, ácido adípico, caprolactama, dietilentriamina y/o etilendiamina (ver 3.2.4. b). (II)
+c. Resina poliamida-epiclorhidrina sintetizada a partir de ácido adípico, dietilentriamina y epiclorhidrina o una mezcla de epiclorhidrina y amoníaco (ver 3.2.4. c). (II)
+d. Resina poliamida-poliamina-epiclorhidrina sintetizada a partir de epiclorhidrina, éster dimetílico del ácido adípico y dietilentriamina (ver 3.2.4. d). (II)
+e. Resina poliamida-poliamina-epiclorhidrina sintetizada a partir de epiclorhidrina, una amida de ácido adípico y diaminopropilmetilamina. (II)
+f. Resina poliamida-epiclorhidrina, obtenida de epiclorhidrina, dietilentriamina, ácido adípico, etilenimina y polietilenglicol: máximo 0,2 % m/m. (III)
+
+
+4.2. Agentes de retención de la humedad: de los aditivos 4.2.1. a 4.2.9.: máximo en total 7 % m/m.
+
+4.2.1. Glicerina.
+
+4.2.2. Sorbitol, manitol, xilitol.
+
+4.2.3. Sacarosa, glucosa, jarabe de glucosa, jarabe de azúcar invertido (en portugués : xarope de açúcar invertido).
+
+4.2.4. Cloruro de sodio, cloruro de calcio.
+
+4.2.5. Polietilenglicol: contenido máximo de monoetilenglicol en el aditivo: 0,2 % m/m.
+
+4.2.6. Urea.
+
+4.2.7. Nitrato de sodio, solamente en combinación con urea.
+
+4.2.8. Polipropilenglicol.
+
+4.2.9. Propilenglicol
+
+4.2.10. Dioctilsulfosuccinato de sodio.
+
+
+4.3. Materias colorantes y blanqueadores ópticos:
+
+4.3.1. Colorantes ( en portugués : Pigmentos y Colorantes): se permitirán aquellos que cumplan con las Res. MERCOSUR GMC N° 56/92 y 28/93, en cuanto a límites de composición. No deben migrar al alimento y deberán cumplir con la reglamentación MERCOSUR específica.
+
+4.3.2. Blanqueadores ópticos: no deben migrar al alimento y deberán cumplir con la reglamentación MERCOSUR específica . En el caso de derivados sulfonados del estilbeno: en la masa o en superficie máximo 0,3 % m/m en relación al producto terminado.
+
+
+4.4. Agentes de recubrimiento y mejoradores de superficie.
+
+4.4.1. Materiales plásticos (películas, revestimientos por extrusión , soluciones, lacas, dispersiones) que cumplan con las Resoluciones MERCOSUR correspondientes. En el caso de papeles, cartulinas y cartones recubiertos con plásticos y que conforme al uso determinado los alimentos sólo están en contacto con el recubrimiento de plástico y no puede tener lugar la migración de aditivos provenientes de los papeles, cartulinas y cartones, deberán responder únicamente a las exigencias para envases y equipamientos plásticos.
+
+4.4.2. Parafinas, ceras microcristalinas, poliolefinas y politerpenos de bajo peso molecular: deberán cumplir los requisitos de las Resoluciones MERCOSUR correspondientes a Envases y Equipamientos en Contacto con Alimentos.
+
+4.4.3. Alcohol polivinílico: viscosidad de la solución acuosa al 4 % m/m a 20° C no menor de 5 centipoises.
+
+4.4.4. Fosfato de bis(N-etil-2-perfluoralquil-sulfonamido etil)-amonio con no más del 15 % de fosfato de mono(N-etil-2-perfluoralquil-sulfonamido etil)-amonio, cumpliendo las siguientes condiciones:
+* El contenido de grupos alquilo de C8 de ambos compuestos debe ser mayor de 95 %, referido al contenido total de grupos alquilo.
+* Los papeles, cartulinas y cartones tratados con estos compuestos no pueden ser puestos en contacto con alimentos alcohólicos.
+* Para papeles, cartulinas y cartones que se pondrán en contacto con alimentos no alcohólicos a temperaturas menores de 66° C, se permite como máximo 8,3 mg/dm2 (correspondiente a 4,4 mg de flúor/dm2).
+* Para papeles, cartulinas y cartones que se pondrán en contacto con alimentos no alcohólicos a temperaturas mayores de 66° C, se permite como máximo 4,3 mg/dm2 (correspondiente a 2,2 mg de flúor/dm2).
+
+
+4.4.5 Complejos de tricloruro de cromo con ácidos grasos saturados de cadena lineal de C14 y superiores: máximo 0,4 mg/dm2 expresado en cromo.
+En el extracto acuoso en frío de los productos terminados se podrá detectar como máximo 0,004 mg de cromo trivalente/dm2 y no se deberá detectar cromo hexavalente. (*)
+
+4.4.6 Sales de ácidos grasos (C12 a C20) de amonio, aluminio, calcio, potasio y sodio.
+
+4.4.7. Caseína (Ver 3.1.2.) y proteínas vegetales. La suma de las impurezas establecidas en (VII) no debe superar los 50 mg/kg. (IX)
+
+4.4.8. Almidones: se permitirán todos los almidones mencionados en 3.1.3., debiendo cumplir las especificaciones allí establecidas.
+
+4.4.9. Manogalactanos y éteres galactomanánicos (Ver 3.1.6.): La suma de las impurezas establecidas en (VII) y (VIII) no debe ser mayor de 50 mg/kg. (IX) (XI)
+
+4.4.10. Sal sódica de la carboximetilcelulosa, pura:
+
+
+La suma de las impurezas mencionadas en (VII) y (VIII) no debe ser mayor de 50 mg/kg. (IX) (XI)
+
+4.4.11. Metilcelulosa:
+
+La suma de las impurezas establecidas en (VII) y (VIII) no debe ser mayor de 50 mg/kg.
+
+4.4.12. Hidroxietilcelulosa:
+
+La suma de las impurezas establecidas en (VII) y (VIII) no debe ser mayor de 50 mg/kg.
+
+4.4.13. Alginatos:
+
+La suma de las impurezas establecidas en (VII) y (VIII) no debe ser mayor de 50 mg/kg.
+
+4.4.14. Goma xantan: Deberá cumplir las exigencias MERCOSUR como aditivo alimentario.
+
+4.4.15. Sustancias minerales naturales y sintéticas insolubles en agua inocuas para la salud: Ver 2.1. a 2.7.
+
+
+4.4.16. Agentes antiespumantes: ver ítem 3.4.
+
+4.4.17. Agentes dispersantes: ver ítem 3.3.
+
+
+Texto correspondiente a las llamadas
+
+(I)
+En el extracto del producto terminado se podrá detectar como máximo 1,0 mg de formaldehído/dm2.
+(II)
+No debe detectarse epiclorhidrina (límite de detección 0,1 mg/kg).
+(III)
+No debe detectarse etilenimina ni epiclorhidrina (límite de detección de ambas sustancias 0,1 mg/kg).
+(IV)
+No debe detectarse etilenimina (límite de detección: 0,1 mg/kg)
+(V)
+Esta sustancia auxiliar no debe detectarse en el extracto del producto terminado.
+(VI)
+Ambas sustancias auxiliares no deben ser detectadas en el extracto del producto terminado.
+(VII)
+Estas sustancias podrán contener como máximo
+Arsénico: 3 mg/kg
+Plomo: 10 mg/kg
+Mercurio: 2 mg/kg
+Cadmio: 2 mg/kg
+(VIII)
+Estas sustancias podrán contener como máximo:
+Zinc: 25 mg/kg
+Zinc y cobre sumados: 50 mg/kg
+(IX)
+Estas exigencias corresponden únicamente a los agentes para mejoramiento y recubrimiento de superficie.
+En el caso que estos agentes aparezcan en otro lugar de la presente reglamentación valen las exigencias allí establecidas.
+(X)
+Estos agentes deben ser agregados al agua de proceso usada en la producción de papel , cartulina y cartón y la cantidad utilizada no debe exceder la necesaria para lograr el efecto técnico deseado.
+(XI)
+Glicolato de sodio máximo 0,5 % m/m.
+(XII)
+En la elaboración de poliuretanos se admite la utilización de como máximo 0,03 % m/m de diacetato de butil estaño referido al agente de encolado. El papel podrá contener como máximo 0,3  g/dm2 de dicha sustancia. En el extracto del producto terminado no se deberán detectar aminas primarias aromáticas. (*)
+(XIII)
+La cantidad de agente antiespumante agregado durante el proceso de manufactura no deberá exceder la cantidad necesaria para lograr el efecto técnico deseado.
+
+
+Texto correspondiente a las llamadas
+
+(XIV)
+Requisitos especiales para papel elaborado con fibra vegetal blanqueada tratado con ácido sulfúrico: deberá responder a las siguientes características:
+a) Acidez expresada en ácido sulfúrico máximo 0,02 % m/m.
+b) Humedad máximo 10,0 % m/m.
+c) Cenizas máximo 0,60 % m/m.
+d) Extracto acuoso máximo 1,50 % m/m.
+e) Sustancias reductoras (expresada en glucosa) máximo 0,20 % m/m.
+f) Arsénico como As, límite de composición:máximo 2 mg/kg.
+Cobre total como Cu, límite de composición: máximo 30 mg/kg.
+Cobre soluble en agua como Cu, límite de migración específica: máximo 10 mg/kg.
+Hierro total como Fe, límite de composición: máximo 70 mg/kg.
+Hierro soluble en agua como Fe, límite de migración específica: máximo 15 mg/kg.
+Plomo como Pb, límite de composición: máximo 20 mg/kg.
+g) Formaldehído. (I)
+h) Ácido bórico y otros antisépticos, no detectables. (*)
+(XV)
+Debe ser empleado antes de la operación de la formación de la hoja.
+(*)
+Debe ser fijado el límite de detección.
+
+
+1
+
+
+1

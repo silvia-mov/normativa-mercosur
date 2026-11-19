@@ -1,0 +1,316 @@
+Resolución GMC N° 34/21
+Título: REGLAMENTO TÉCNICO MERCOSUR DE VÁLVULA PARA CILINDRO DE ALMACENAMIENTO DE GAS NATURAL VEHICULAR (GNV) (DEROGACIÓN DE LA RESOLUCIÓN GMC N° 33/10)
+Fecha de aprobación: 02/03/2022
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 88128_RES_034-2021_ES_ RTM_Válvula GNV.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4221).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 34/21
+
+
+REGLAMENTO TÉCNICO MERCOSUR DE VÁLVULA PARA CILINDRO DE ALMACENAMIENTO DE GAS NATURAL VEHICULAR (GNV)
+(DEROGACIÓN DE LA RESOLUCIÓN GMC N° 33/10)
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 19/92, 38/98, 03/08, 33/10 y 45/17 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario asegurar en los Estados Partes una protección efectiva para el consumidor contra los riesgos vinculados a la utilización segura del gas natural vehicular y de los componentes de los equipos asociados.
+
+Que es conveniente armonizar los requisitos esenciales de seguridad para la fabricación, comercialización y utilización de los componentes para gas natural vehicular.
+
+Que la Resolución GMC N° 33/10 aprobó el Reglamento Técnico MERCOSUR de válvula de cilindro para almacenamiento de gas natural comprimido (GNC) utilizado como combustible a bordo de vehículos automotores.
+
+Que se deben adecuar las especificaciones de las conexiones roscadas para aquellos cilindros aprobados de acuerdo con la reglamentación utilizada por cada Estado Parte hasta la entrada en vigor de la norma MERCOSUR que regule la materia.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR de válvula para cilindro de almacenamiento de Gas Natural Vehicular (GNV)", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Determinar los siguientes plazos contados a partir de la incorporación de esta Resolución al ordenamiento jurídico nacional de cada Estado Parte:
+
+* Hasta los veinticuatro (24) meses los fabricantes nacionales e importadores deberán fabricar o importar en los Estados Partes, válvulas para cilindros de almacenamiento de GNV solamente de conformidad con las disposiciones contenidas en esta Resolución.
+
+
+* Hasta los treinta (30) meses los fabricantes e importadores deberán comercializar en los Estados Partes, válvulas para cilindros de almacenamiento de GNV solamente de conformidad con las disposiciones contenidas en esta Resolución.
+
+* Hasta los treinta y seis (36) meses los proveedores que ejerzan la actividad de distribución o de comercio deberán comercializar, en los Estados Partes, válvulas para cilindros de almacenamiento de GNV solamente de conformidad con las disposiciones contenidas en esta Resolución.
+
+Art. 3 - La inobservancia de lo dispuesto en la presente Resolución acarreará a los infractores la aplicación de las penalidades previstas en la legislación vigente en cada Estado Parte.
+
+Art. 4 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 5 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3) los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 6 - Derogar la Resolución GMC N° 33/10.
+
+Art. 7 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 29/VIII/2022.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 02/III/22.
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR DE VÁLVULA PARA CILINDRO DE ALMACENAMIENTO DE GAS NATURAL VEHICULAR (GNV)
+
+1. OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR (RTM) establece los requisitos de seguridad y ensayos que se deben cumplir para la fabricación de válvulas para cilindro, como uno de los componentes para la instalación del sistema para gas natural vehicular (GNV) utilizado a bordo de vehículos automotores, a ser aplicados por toda la cadena proveedora del producto en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+
+2. DOCUMENTOS DE REFERENCIA
+
+ISO 724:1993/Cor 1:2009 - "ISO general-purpose metric screw threads -- Basic dimensions".
+
+ISO 11363-1:2018 "Gas cylinders -- 17E and 25E taper threads for connection of valves to Gas cylinders - Part 1: Specifications".
+
+ISO 11439:2013 "Gas cylinders - High Pressure cylinders for the on - board storage of natural gas as a fuel for automotive Vehicles".
+
+ISO 15500-1:2015 "Road Vehicles - Compressed natural gas (CNG) fuel system components - Part 1: General requirements and definitions".
+
+ISO 15500-2:2016 "Road Vehicles - Compressed natural gas (CNG) fuel system components - Part 2: Performance and general test methods".
+
+ISO 15500-5:2020 "Road Vehicles - Compressed natural gas (CNG) fuel system components - Part 5: Manual cylinder valve".
+
+ISO 15500-6:2020 "Road Vehicles - Compressed natural gas (CNG) fuel system components - Part 6 - Automatic valve".
+
+ISO 15500-13:2012, Amd 1:2016 "Road Vehicles - Compressed natural gas (CNG) fuel system components - Part 13 - Pressure relief device (PRD)".
+
+ISO 15500-14:2020 "Road Vehicles - Compressed natural gas (CNG) fuel system components - Part 14 - Excess flow valve".
+
+ISO 15245-1:2021 "Gas cylinders - Parallel threads for connection of valves to gas cylinders-Part 1: Specification".
+
+ECE R110 Rev3 - "Vehicles propelled by Compressed Natural Gas (CNG)".
+
+ABNT NBR 11353-4:2020 "Veículos rodoviários e veículos automotores - Sistema de gás natural veicular. Parte 4: Cilindro, válvulas, sistema de ventilação e linha de alta pressão".
+
+ANSI / ASME B1.1-2019 - Unified Inch Screw Threads (UN and UNR Thread Form).
+
+CGA V-1-2021 "Standard for Compressed Gas Cylinder Valve Outlet and Inlet Connections".
+
+
+3. SIGLAS
+
+Amd: Amendment (Enmienda)
+ANSI: American National Standards Institute
+ASME: American Society of Mechanical Engineers
+CGA: Compressed Gas Association
+DAP: Dispositivo de alivio de presión
+GNV: Gas natural vehicular
+ISO: International Organization for Standardization
+RTM: Reglamento Técnico MERCOSUR
+
+
+4. TÉRMINOS Y DEFINICIONES
+
+Para los efectos del presente RTM, se aplican los siguientes términos y definiciones, en complemento a los términos y definiciones de los documentos de referencia indicados en el numeral 2.
+
+4.1 Gas natural vehicular (GNV)
+Gas natural utilizado como combustible a bordo de vehículos automotores.
+
+4.2 Memoria descriptiva
+Conjunto de documentos que describe la válvula para cilindro de almacenamiento de GNV y la identifica sin ambigüedad, con el objetivo de explicitar el diseño de la válvula, contemplando sus detalles constructivos y funcionales.
+
+4.3 Válvula autoventilada
+Válvula que dispone de un sistema interno de ventilación, que permite el direccionamiento para la parte externa del vehículo de eventuales pérdidas de GNV.
+
+4.4 Presión de servicio
+Presión de 20 MPa a temperatura estabilizada a 15 °C.
+
+4.5 Presión de trabajo
+Presión máxima a la que un componente es diseñado para ser sometido, la cual sirve como referencia para determinar los esfuerzos del componente en cuestión.
+
+Nota: para los fines de la válvula para cilindro de almacenamiento de GNV, debe considerarse 26 MPa como presión de trabajo.
+
+
+5. REQUISITOS GENERALES
+
+5.1 La válvula para cilindro de almacenamiento de GNV debe ser diseñada y fabricada atendiendo las exigencias de seguridad, instalación y aptitud para su uso con GNV.
+
+5.2 La válvula para cilindro de almacenamiento de GNV debe ser diseñada y fabricada para operar de forma manual y eléctrica del tipo normal cerrada, de modo de permitir su abertura y cierre por cualquiera de estas dos maneras. El bloqueo manual debe ubicarse entre el cilindro y el bloqueo eléctrico. Todos los dispositivos deben ser incorporados dentro del cuerpo de la válvula, estando prohibida la unión de dispositivos con conexiones roscadas entre sí.
+
+5.3 Cada dispositivo de la válvula para cilindro de almacenamiento de GNV debe ser diseñado y fabricado de modo tal que sea imposible su montaje de forma incorrecta.
+
+5.3.1 La fabricación de cada elemento que conforma la válvula para cilindro de almacenamiento de GNV debe responder a criterios de resistencia, operación y seguridad. Asimismo, las características constructivas de esta válvula no se deben alterar cuando se manipule bajo condiciones normales de uso.
+
+5.4 La conexión de salida de la válvula para cilindro de almacenamiento de GNV a la tubería de alta presión debe ser especificada por el fabricante o importador de la referida válvula y debe contemplar la totalidad de las especificaciones requeridas para una conexión segura entre los componentes. Como mínimo, del sistema de conexión (virola y niple) debe especificar lo siguiente:
+
+* Material;
+* Dureza;
+* Tratamiento superficial;
+* Tratamiento térmico, cuando sea de aplicación; y
+* Geometría: roscas, conicidad, diámetros y demás dimensiones.
+
+5.5 La conexión de salida de la válvula para cilindro de almacenamiento de GNV a la tubería de alta presión se debe efectuar por medio de una rosca M12x1, de acuerdo con lo especificado en la norma ISO 724:1993/Cor 1:2009 para utilización con tubería de diámetro externo de 6 mm.
+
+5.5.1 Otras roscas métricas especificadas en la norma ISO 724:1993/Cor 1:2009 se pueden utilizar para conexiones con cañerías de mayores diámetros externos.
+
+5.6 Las partes de la válvula para cilindro de almacenamiento de GNV que se conectan con el sistema de venteo a la atmósfera deben asegurar la correcta fijación a dicho sistema de manera que las eventuales pérdidas sean completamente canalizadas a la atmósfera por medio de dicho sistema.
+
+5.7 La válvula para cilindro de almacenamiento de GNV debe operar de forma segura en el rango de temperaturas comprendido entre -40 ºC y 85 ºC.
+
+5.8 La válvula para cilindro de almacenamiento de GNV debe ser marcada de tal forma que permita su trazabilidad, de acuerdo con lo indicado en el numeral 4 de cada una de las siguientes normas: ISO 15500-5:2020, ISO 15500-6:2020, ISO 15500-13:2012 y su enmienda 1:2016 e ISO 15500-14:2020.
+
+5.8.1 Las marcaciones recomendadas dentro del capítulo 4 de las normas ISO 15500-5:2020, ISO 15500-6:2020 e ISO 15500-14:2020, deben considerarse como marcaciones obligatorias.
+
+5.8.2 Adicionalmente o sustituyendo a la referencia a la norma ISO 15500 establecida en el capítulo 4 de las normas ISO 15500-5:2020, ISO 15500-6:2020 e ISO 15500-14:2020, se debe hacer referencia en la válvula de cilindro a la siguiente marcación obligatoria: "RTM 34/21".
+
+5.8.3 Asimismo, la válvula para cilindro de almacenamiento de GNV debe indicar su posición abierta y su posición cerrada. También debe ser marcada claramente la identificación de la rosca de conexión al cilindro, de manera de evitar conexiones incompatibles con la de ese componente. Esta marcación debe efectuarse en alto o bajo relieve.
+
+5.9 La válvula para cilindro de almacenamiento de GNV debe poseer una válvula de exceso de flujo posicionada directamente en el interior del cilindro y que actúe en el caso de ruptura de un componente de la instalación.
+
+5.10 La válvula para cilindro de almacenamiento de GNV debe poseer un dispositivo de alivio de presión (DAP) activado únicamente por temperatura. No obstante, cada Estado Parte podrá establecer la incorporación a dicha válvula, de dispositivo/s de alivio de presión adicional/es.
+
+5.11 Las canalizaciones internas de la válvula para cilindro de almacenamiento de GNV relativas a la válvula de exceso de flujo y al/los DAP incorporado/s deben ser independientes.
+
+5.11.1 Cuando la válvula para cilindro de almacenamiento de GNV posea más de un DAP incorporado, estos deben disponer de canalizaciones independientes de salida de flujo de gas a la atmósfera.
+
+5.11.2 La salida del flujo de gas hacia el exterior debe ser independiente al canal de salida del tapón fusible del DAP activado por temperatura, luego de su activación.
+
+5.12 La válvula para cilindro de almacenamiento de GNV debe ser del tipo autoventilada, diseñada y fabricada de manera tal que las conexiones eléctricas de la electroválvula no queden incluidas dentro del sistema de venteo, y que permita la libre operación de la válvula manual. Un sistema interno de canalización debe permitir la conducción de eventuales fugas de gas hacia el sistema de venteo.
+
+
+5.13 Las instrucciones de instalación y mantenimiento de la válvula para cilindro de almacenamiento de GNV deben cumplir con los requisitos establecidos en el capítulo 6 de la norma ISO 15500-1:2015. Además, debe cumplir con los requisitos del numeral 5.4 y especificar el/los DAP descripto/s en el numeral 5.10 de este RTM. Dichas instrucciones deben estar redactadas en el idioma del Estado Parte donde serán comercializadas.
+
+5.14 En el caso de válvulas para cilindro de almacenamiento de GNV fabricadas con materiales no forjados en caliente, el fabricante de la válvula debe presentar documentos respaldatorios, como mínimo, de la siguiente información:
+
+a) Registros de colada del material utilizado en la fabricación (informe de análisis de la composición química); y
+
+b) Registros de ausencia de tensiones residuales (informe de análisis).
+
+5.14.1 No se permiten válvulas para cilindro de almacenamiento de GNV fabricadas en acero al carbono.
+
+5.15 En adición a lo indicado en el numeral 4.2 de este RTM, la memoria descriptiva debe contener, como mínimo la siguiente información:
+
+a)   Principio de funcionamiento, presión de servicio y presión de trabajo;
+b) Diferencial de presión y flujo máximo de la válvula de exceso de flujo;
+c) Tipo(s) de DAP incorporado(s), y su respectivo rango de presión y/o temperatura de activación;
+d) Instrucciones para la instalación, utilización y mantenimiento;
+e) Tipo de gas (GNV);
+f) Planos de conjunto, despiece y marcado, con sus cotas y tolerancias. Estos planos deben poseer datos y número de revisión.
+g) Hoja de datos con características técnicas: roscas, especificaciones de materiales y demás características constructivas.
+6. CONDICIONES ESPECÍFICAS
+
+6.1 Válvula de exceso de flujo
+
+6.1.1 El diferencial de presión y el flujo máximo deben ser especificados por el fabricante de la válvula para cilindro de almacenamiento de GNV y deben responder a los requisitos detallados en el numeral 7.3 de este RTM.
+
+6.1.2 Debe restringir automáticamente la eventual pérdida de gas, a menos del 10% de la pérdida volumétrica máxima, sin interrumpirlo totalmente, de manera que permita el rearme después de su activación.
+6.1.3 No debe restringir el caudal regular del consumo de GNV del motor cualquiera sea su capacidad volumétrica en cualquier régimen de operación.
+
+6.1.4 Debe cumplir con los requisitos especificados en la norma ISO 15500-14:2020.
+
+6.2 Rosca de la válvula para conexión con el cilindro de almacenamiento de GNV
+
+6.2.1 La rosca no debe presentar discontinuidades.
+
+6.2.2 La rosca de forma cónica debe cumplir con los requisitos técnicos establecidos en la norma ISO 11363-1:2018, con rosca 25E, teniendo en cuenta lo detallado en el numeral 6.2.4 de este RTM.
+
+6.2.3 La rosca de forma paralela (cilíndrica) debe cumplir con los requisitos técnicos establecidos en las normas ISO 15245-1:2001, con rosca M25x2 (25P) o M30x2 (30P), ANSI/ASME B1.1, con rosca 2-12 UN (nominal 2"), o ANSI/ASME B 1.1, con rosca 1 1/8-12 UNF.
+
+6.2.4 Las especificaciones de las roscas de conexión al cilindro de GNV vigentes en cada Estado Parte antes de la incorporación de esta Resolución, seguirán vigentes para las conexiones con aquellos cilindros aprobados con roscas diferentes de las establecidas por la presente Resolución.
+
+6.3. Dispositivo de alivio de presión (DAP)
+
+6.3.1 El DAP activado por temperatura debe:
+
+a) Cumplir con la norma ISO 15500-13:2012 y su enmienda 1:2016 y actuar satisfactoriamente en el ensayo de resistencia al fuego establecido en el Anexo A, numeral A15 de la norma ISO 11439:2013, a fin de prevenir la ruptura del cilindro donde será utilizado.
+
+b) Actuar cuando su temperatura alcance 110 ºC ±10 °C.
+
+c) Estar incorporado en la válvula para cilindro de almacenamiento de GNV.
+
+6.3.2 Si la válvula para cilindro de almacenamiento de GNV dispone adicionalmente de un DAP de configuración independiente para accionar por presión, este debe cumplir con lo establecido en la norma ISO 15500-13:2012 y su enmienda 1:2016, y romper el disco de estallido cuando la presión interna del cilindro alcance 34 MPa con una tolerancia de +3% y -10%.
+
+6.3.3 Si la válvula para cilindro de almacenamiento de GNV dispone adicionalmente de un DAP con configuración combinada (accionado por presión y por temperatura), este debe cumplir con lo establecido en la norma ISO 15500-13:2012 y su enmienda 1:2016, y actuar cuando la temperatura del dispositivo alcance 110 ºC ±10 °C y, por ruptura del disco de estallido, cuando
+
+la presión interna del cilindro alcance 34 MPa con una tolerancia de +3% y -10%.
+
+6.4 Torque para el accionamiento manual
+
+El torque necesario para el accionamiento manual de la válvula para cilindro de almacenamiento de GNV debe cumplir con lo especificado en la norma ISO 15500-5:2020.
+
+7. ENSAYOS
+
+7.1 Ensayos requeridos
+
+7.1.1 Los ensayos que deben ser realizados se encuentran establecidos en el capítulo 6 de cada una de las siguientes normas: ISO 15500-5:2020, ISO 15500-6:2020, ISO 15500-13:2012 y su enmienda 1:2016, ISO 15500-14:2020, considerando lo dispuesto en los numerales 6.1 y 7.1.2 de este RTM.
+
+7.1.2 Para la realización del ensayo de resistencia a la corrosión, el tiempo de exposición debe ser de 500 horas.
+
+7.2 Métodos generales de ensayos y criterio de aprobación.
+
+7.2.1 La realización de los ensayos indicados en el numeral 7.1 de este RTM debe adoptar la metodología presentada en la norma ISO 15500-2:2016 y lo detallado en el numeral 7.3 de este RTM.
+
+7.2.2 El criterio de aprobación de los ensayos son los detallados en la norma ISO 15500-2:2016 y en el numeral 7.3 de este RTM.
+
+7.3 Metodología de ensayo para la válvula de exceso de flujo
+
+7.3.1 Requisitos generales
+
+7.3.1.1 Se debe realizar el ensayo de impulso de presión según lo requerido en el numeral 6.8 de la norma ISO 15500-14:2020.
+
+7.3.1.2. Luego de realizado el ensayo requerido en el numeral 7.3.1.1, se debe realizar sobre la misma muestra el ensayo detallado en el numeral 7.3.2 de este RTM.
+
+7.3.1.3 Se debe utilizar aire, nitrógeno o GNV como fluido de ensayo.
+
+7.3.2 Procedimiento de ensayo para la determinación de la relación entre caudal máximo y caudal residual
+
+7.3.2.1 Para este ensayo debe ser utilizado un dispositivo con los componentes instalados conforme a lo indicado en la Figura 1.
+
+
+Figura 1 - Dispositivo de ensayo para la determinación de la relación entre caudal máximo y caudal residual
+
+Referencias:
+
+1. Fuente de presión (cilindro de alta presión con válvula de alta presión);
+2. Manómetro de 0,0 MPa - 31,5 MPa;
+3. Tubo de alta presión sin costura con diámetro nominal compatible con la válvula de cilindro;
+4. Manómetro 0,0 MPa - 1,6 MPa;
+5. Regulador de presión, con presión de entrada de 22,0 MPa y presión de salida de 1,0 MPa;
+6. Dispositivo con rosca de conexión compatible con la válvula de cilindro con dispositivo de exceso de flujo incorporado.
+
+Nota: se debe ejecutar un ensayo de hermeticidad en la instalación antes de realizar el ensayo en la muestra.
+
+7.3.2.2 Procedimiento
+
+7.3.2.2.1 Para la condición de caudal máximo, se debe proceder de la siguiente manera:
+
+a) Abastecer el cilindro con el fluido de ensayo con presión de 22,0 MPa ±0,1 MPa, indicada por el manómetro 2;
+
+b) Abrir totalmente la válvula de cilindro del conjunto 6 a ser ensayado. Abrir totalmente el regulador de presión 5 (0,0 MPa), cerrando la salida de gas;
+
+c) Abrir la válvula del cilindro de la fuente de presión. La presión indicada en el manómetro 2 debe ser 22,0 MPa;
+
+d) Con la válvula de cilindro de la fuente de presión 1 totalmente abierta, elevar lentamente la presión de salida del regulador de presión 5 hasta que ocurra el disparo del dispositivo de exceso de flujo 6, registrando la presión de disparo P1 indicada en el manómetro del regulador de presión 5;
+
+e) Calcular la presión P2 conforme a la siguiente ecuación y registrar el valor obtenido:
+
+P2 = 0,95 x P1
+
+Nota: el diferencial de presión P 1-2 debe ser considerado como el máximo diferencial de presión permitido por el dispositivo de exceso de flujo sin su accionamiento automático y, por lo tanto, es la condición de caudal máximo (CM);
+
+f) Reducir la presión en el regulador de presión 5 hasta "cero" y elevarla nuevamente hasta la presión P2;
+
+g) Observar la caída de presión indicada por el manómetro 2 hasta que llegue a 20,0 MPa, accionar el cronómetro hasta que la presión llegue a 18,0 MPa y registrar el intervalo de tiempo T1 transcurrido.
+
+7.3.2.2.2 Para la condición de caudal residual, se debe proceder de la siguiente manera:
+
+a) Reabastecer el cilindro con el fluido de ensayo hasta la presión de 22,0 MPa ±0,1 MPa;
+
+b) Reinstalar los componentes conforme a la Figura 1;
+
+c) Con la válvula del cilindro de la fuente de presión 1 totalmente abierta, elevar lentamente la presión de salida del regulador de presión 5 hasta que ocurra el disparo del dispositivo de exceso de flujo 6. Observar la caída de presión indicada por el manómetro 2 hasta que llegue a 20,0 MPa, accionar el cronómetro hasta que la presión llegue a 18,0 MPa y registrar el intervalo de tiempo T2 transcurrido.
+
+7.3.2.2.3 Aceptación o rechazo
+
+Para el ensayo dado en el numeral 7.3.2.1 de este RTM, el dispositivo de exceso de flujo se considera aprobado si:
+
+a) Fue activado con un diferencial de presión de hasta 1,0 MPa desde la presión atmosférica; y
+
+b) T2 ≥ 10 x T1

@@ -1,0 +1,1233 @@
+Resolución GMC N° 32/94
+Título: ESPEJOS RETROVISORES
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24489_RES_032-1994_ES_EspejoRetrovis.pdf
+Conversión a texto: OCR (Windows)
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1809).
+----------------------------------------------------------------------
+[página 1]
+NO 32/94
+ESPEJOS RETROVISORES
+VISTO :EI Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión NO 4/91 del Consejo
+del Mercado Común, la Resolución NO 9/91 y NO 91/93 del Grupo Mercado Común y la
+Recomendación NO 9/94 del Subgrupo de Trabajo NO 3 " Normas Técnicas"
+CONSIDERANDO:
+Que los vehículos deben cumplir una serie de requisitos técnicos en virtud de las
+legislaciones nacionales respectivas, entre ellos los correspondientes a ESPEJOS
+RETROVISORES.
+Que dichos requisitos difieren de un Estado Parte a otro 10 que puede crear obstáculos
+técnicos al intercambio comercial y a la libre circulación de vehículos, que podrían eliminarse a
+través de la adopción de los mismos requisitos técnicos por todos los Estados Partes ya sea
+como complemento o en reemplazo de su legislación actual.
+Que resulta necesario unificar los métodos de ensayo anteriormente adoptados en
+relación a ESPEJOS RETROVISORES.
+Que para tal fin, los Estados Partes han acordado adecuar sus legislaciones, de modo de
+posibilitar el libre intercambio de vehículos, sus partes y piezas;
+EL GRUPO MERCADO COMUN
+RESUELVE .
+Art 1 - Los Estados Partes no podrán limitar o prohibir la libre circulación, homologación,
+certificación, venta, importación, comercialización, matriculación o uso de los vehículos
+que cumplan con los requisitos establecidos en el Reglamento Armonizado "ESPEJOS
+RETROVISORES" que figura como Anexo a la presente Resolución, por motivos
+relacionados con los aspectos técnicos armonizados en el mismo.
+Art 2 - Elimínase el Punto 3.13 del Anexo I de la Resolución NO 9/91 del GMC.
+Art 3 - La presente Resolución ntrará en vigor a partir del 1 de enero de 1995.
+[página 2]
+'f
+19
+Art 4 - Los Estados Partes pondrán en vigencia las disposiciones legislativas,
+reglamentarias y administrativas necesarias para dar cumplimiento a la
+presente Resolución a través de los siguientes organismos.
+Por Argentina : Secretaría de Transporte
+Secretaría de Industria
+Por Brasil: Ministerio de Justicia
+Secretaría de Tránsito. Departamento Nacional de Tránsito
+Por Paraguay: Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+Por Uruguay: Ministerio de Transporte y Obras Públicas
+Ministerio de Industria y Energía
+[página 3]
+1.
+2.
+3.
+3.1.
+3.2.
+3.3.
+3.4.
+REC Ng 9/94
+REGLAMENTO ARMONIZADO
+ESPEJOS RETROVISORES
+OBJETIVO
+Establecer los requisitos para el desempeño y la fijación de espejos retrovisores, de forma
+tal que proporcionen prevención contra impactos y al conductor una retrovisión clara y
+desobstruida
+APLICACION
+Esta normativa es aplicable a los espejos retrovisores a ser instalados en los vehículos
+categoría M y N.
+DEFINICIONES
+Para tal efecto considérase como :
+Espejo retrovisor significa cualquier dispositivo cuyo propósito es dar, dentro del campo
+(D de visión definido en 5.4., una nítida vista trasera excluyendo complejos sistemas ópticos
+tales como periscopios.
+C) Espejo retrovisor interior significa un dispositivo como el definido en 3.1. que puede ser
+(2) ajustado en el compartimiento de pasajeros de un vehículo.
+Espejo retrovisor exterior es un dispositivo como el definido en el párrafo 3.1 el cual
+(3) puede ser montado sobre la superficie externa de un vehículo.
+Espejo. retrovisor adicional es otro dispositivo como el definido en el párrafo 3.1 que
+(4) puede ser ajustado entro o fuera del vehículo con la condición de acatar las cláusulas de los
+(4/0,3/ párrafos 4., 4.1.1., 4.2. , y 4.3.4.
+3.5.
+3.6.
+3.7.
+3.8.
+Espejo retrovisor tipo es un dispositivo que no difiere respecto a las características
+principales siguientes :
+Las dimensiones y radios de curvatura de la superficie de reflexión del espejo retrovisor.
+EI diseño, aspecto o materiales de los espejos retrovisores, incluyendo la conexión con la
+carrocería.
+Clases dc espejos: todos los dispositivos que tienen una o más características o funciones
+en común, Los espejos retrovisores interiores se agrupan en la CLASE I. Los espejos
+retrovisores interiores adicionales se agrupan en la clase Is.
+Los espejos retrovisores exteriores se agrupan en las clases II y III, y los exteriores
+adicionales se agrupan en las clases Ils y Ills.
+(5) "R" significa el promedio de la medida de radio de curvatura sobre la superficie de
+reflexión, de acuerdo al método que se describe en 6.3.
+(6) Principal radio de curvatura en un punto obtenido sobre la superficie de reflexión (RI).
+[página 4]
+3.9.
+3.10.
+3.11.
+3.12.
+3.13.
+3.14.
+4.
+4.1.
+4.1.1.
+4.1.2.
+4.1.3.
+Valores! obtenidos utilizando los aparatos definidos en el párrafo 6., medidos sobre el arco
+de la superficie de reflexión pasando a través del centro del espejo paralelo al Segmento B,
+como se define en el párrafo 4.2.2. I y sobre el arco perpendicular a este segmento;
+Radio de curvatura es un punto sobre la superficie de reflexión (rpt) es el pronvedio
+aritmético del principal radio de curvatura ri y rit, es decir:
+Cen.tr.Q-del....esp.ej-Q: es el centro de gravedad del área visible de la superficie de reflexión.
+Radio de curvatura de las partes componentes del espejo retrovisor es el radio "c" del arco
+del círculo de mayor aproximación a la forma curvada de la parte en cuestión.
+significan dos puntos a 65 mm. de distancia y 635 mm
+ubicados verticalmente sobre el punto "r" del asiento del conductor como se define en la
+Sección 3.
+La línea directa de unión de estos puntos corre perpendicular al plano medio longitudinal y
+vertical del vehículo.
+EI centro del segmento de unión de los dos puntos oculares está en el plano
+longitudinal/vertical que pasará por el centro del asiento del conductor diseñado por el
+fabricante del vehículo.
+'-!.y-is.ió.n-amhi.n.Q.gular-!!; significa el campo total de visión obtenida por la superposición de
+los campos de vista monoculares del ojo derecho y del ojo izquierdo (Ver Figura 3).
+Categorías de vehículos M y N aquellas definidas en el Reglamento Armonizado
+Clasificación de los Vehículos.
+REQUISITOS GENERALES
+Todos los espejos retrovisores se ajustarán.
+EI borde de la superficie de reflexión será incrustado en una carcaza cuyo perímetro tendrá
+un valor "c" que sea mayor o igual a dos con cinco décimas de milímetro (2,5 mm.) en todos
+los puntos y direcciones.
+Si la superficie de reflexión proyecta mas allá de la carcaza, el radio de curvatura "c" del
+borde de la parte de proyección no será menor de dos con cinco décimas de milímetro (2,5
+rnm.) y retornará a la carcaza bajo una fuerza de cincuenta newton (50 N) aplicada al punto
+de mayor proyección relativa a la carcaza en una dirección horizontal aproximadamente
+paralela al plano longitudinal medio del vehículo.
+Cuando el espejo retrovisor se monta sobre una superficie pfana, todas sus partes, sin
+considerar la posición de ajuste del dispositivo, incluyendo aquellas salientes que se
+adjuntan a la carcaza después de la prueba de demostración en 4.4.2. que están en potencial
+contacto estático con la esfera, tanto de ciento sesenta y cinco milímetros (165 mm.) de
+[página 5]
+34
+1
+diámetro en el caso del espejo retrovisor interior o cien milímetros (100 mm.) de diámetro
+en el caso del espejo retrovisor exterior , tendrán un radio de curvatura "c" no inferior a dos
+con cinco décimas de milímetros (2,5 mm.).
+4.1.3.1. (q) Los bordes de las carcazas fijas o huecos, que tiefien menos de doce milímetros (12 mm.) de
+4.1.4.
+4.1.5.
+4.1.6.
+4.2.1.
+4.2.2.1.
+4.2.2.2.
+ancho se exceptúan de los requisitos de radio de 4.1.3..
+Q0) EI dispositivo de fijación al vehículo será diseñado con forma de cilindro con cincuenta
+milímetros (50 mm.) de radio, teniendo sus ejes o uno de ellos de pivot o rotación que
+asegure la deflexión del espejo retrovisor en la dirección de impacto concerniente, pasando
+al menos por la parte de la superficie a la cual se une el dispositivo.
+En el caso de los espejos retrovisores exteriores, las partes referidas en 4,1 ,2, y 4.1.3.,
+fabricadas de un material con una dureza SHORE A no mayor de sesenta (60), se exceptúan
+de las provisiones correspondientes.
+Q)) En el caso de los espejos retrovisores interiores, cuando las partes referidas en 4.12. y 4.1.3.
+estén fabricadas con un material blando de una dureza de 50 SHORE A montadas sobre un
+soporte rígido, las prescripciones se aplican sólo a este último.
+Dimensiones
+ESPECIFICACIONES ESPECIALES.
+Espejos retrovisores interiores (CLASE I).
+Las dimensiones de la superficie de reflexión serán tales que sea posible grabar sobre ella un
+rectángulo siendo el largo de uno de sus lados de cuatro centímetros (4 cm.) y el otro un
+largo "a":
+1
+a = 15 cm. x
+r
+teri re
+tr vi ore
+1
+Las dimensiones de la superficie de reflexión serán tales que posibilite grabar sobre ella:
+un rectángulo de cuatro centímetros (4 cm.) de ancho y de base, un largo en centímetros,
+un segmento paralelo al ancho y largo del rectángulo en centímetros
+Los valores mínimos de "a" y "b" están dados en la siguiente tabla:
+CLASE DE ESPEJOS
+RETROVISORES
+11
+111
+CATEGORIA DE VEHICULOS
+PARA LOS QUE FUERON
+DISEÑADOS LOS ESPEJOS
+a
+17
+13
+b
+20
+7
+[página 6]
+4.3.
+4.3. l.
+4.3.2.
+4321
+4.3.2.2.
+4.3.2.3.
+4.3.3.
+4.3.5.
+4.4.
+4.4.1.
+4.4.1.1.
+4.4.2.1.1.
+SUPERFICIE DE REFLEXION Y COEFICIENTE DE REFLEXION
+La superficie de reflexión de un espejo retrovisor o bien será plana o esféricamente convexa.
+Diferencia entre los radios de curvatura.
+La diferencia entre ó q' y rp en cada punto de referencia no excederá quince centésimos
+(0,15) r.
+La diferencia entre cualquiera de los radios de curvatura (Q1, Q2, Q3) y r no excederá
+quince centésimos de (0, 15) r.
+Cuando "r" no es menor de tres mil milímetros (3.000 mm.), el valor de quince centésimos
+0,15 r citado en los párrafos 4.3.2.1. y 4.3.2.2. es reemplazado por veinticinco centésimos
+(0,25) r.
+EI valor "r" no será menor que:
+Mil ochocientos milímetros (1.800 mm.) para los espejos retrovisores CLASE II.
+Mil doscientos milímetros (l .200 mm.) para los espejos retrovisores CLASE I y III.
+EI valor del coeficiente normal de reflexión se determina de acuerdo al método descripto cn
+la Sección I de este Reglamento. No será menor de un cuarenta por ciento (40%).
+Si el espejo tiene dos posiciones (día y noche), la posición "día" permitirá que se
+reconozcan los colores de las señales utilizadas para el tránsito.
+EI valor del coeficiente normal de reflexión en la posición "noche" no será menor del cuatro
+por ciento (4%).
+La superficie de reflexión conservará las características especificadas en el párrafo 4.3.4. a
+pesar de la exposición prolongada a condiciones climáticas adversas, en condiciones
+normales de uso.
+Los espejos retrovisores estarán sujetos a las pruebas descriptas en los párrafos 4.4.2. y
+4.4.3. para determinar su reacción bajo impacto y flexión de la carcaza fijada al vástago o
+soporte.
+La prueba prescripta en el párrafo 4.4.2. no será requerida para los espejos retrovisores
+exteriores de CLASE II y CLASE Ils de los cuales ninguna parte se encuentra a menos de 2
+m. del suelo siempre que la posición de ajuste sea posible cuando el vehículo se halla ba_jo la
+carga correspondiente a su peso máximo técnicamente permitido.
+Prueba de impacto
+Descripción del dispositivo de la prueba.
+La prueba del dispositivo consistirá en un péndulo capaz de oscilar entre dos ejes
+horizontales que forman entre sí un ángulo recto, uno de los cuales es perpendicular al plano
+frontal conteniendo la trayectoria de "liberación" del péndulo. EI final del péndulo
+il
+[página 7]
+4.4.2.1.2.
+4.4.2.2.2.
+contendrá un martillo formado por una esfera rígida con un diámetro de ciento sesenta y
+cinco más o menos un milímetro (165 ± I mm.) y una cobertura de gonia de cinco
+milímetros (5 nun.) de espesor y una dureza de SHORE A 50. Se proveerá un dispositivo
+que permita la determinación del ángulo máximo tomado por el brazo en el plano de
+liberación. Allí habrá un soporte fijado firmemente a la estructura sosteniendo al péndulo
+que sirve para sujetar las muestras accediendo a los requerimientos de impacto estipulados
+en el párrafo 4.4.2.2.6.
+La figura I de las dimensiones de la facilidad de la prueba y las especificaciones de diseño
+especial.
+EI centro de percusión del péndulo coincidirá con el centro de la esfera que forma el
+martillo. Este se encuentra a una distancia " I " del eje de oscilación en el plano de liberación
+que es igual a un metro más o menos cinco milímetros (l m. ± 5 mm).
+La masa reducida del péndulo a su centro de percusión es masa mo igual a seis con ocho
+décimas más o menos cinco centésimas de kilogramao (mo = 6,8 ± 0,05 Kg.) la relación
+entre el cenfro de gravedad del péndulo y su eje de rotación se expresa en la ecuación:
+mo = m .d
+Descripción de la prueba.
+EI procedimiento utilizado para empalmar el espejo retrovisor al soporte será aquel
+recomendado por el fabricante del dispositivo o, cuando fuere apropiado, por el fabricante
+del vehículo.
+Posicionamiento del espejo retrovisor para la prueba.
+4.4.2.2.2.1. Los espejos rúovisores deben estar posicionados sobre el equipo de impacto del péndulo
+de tal manera que los ejes horizontales y verticales cuando se instalen en un vehículo de
+acuerdo a las instucciones de montaje del fabricante de espejos o vehículos, estén en una
+posición similar,
+4.4.2.2.2.2. Cuando un espejo retrovisor es ajustable en relación a la base, la prueba de posición será
+favorable para cualquier dispositivo de soporte para operar dentro de los límites provistos
+por el fabricante de espejos, o de vehículos.
+4.4.2.2.2.3. Cuando el espejo retrovisor tiene un dispositivo para ajustar su distancia, desde la base, el
+dispositivo se ubicará en la posición donde la distancia entre la carcaza y la base es menor.
+4.4.2.2.2.4. Cuando la superficie de reflexión es móvil dentro de la carcaza, se ajustará de manera que el
+ángulo superior que es el extremo del vehículo se encuentre en la posición donde la
+distancia enfre la carcaza y la base es menor.
+4.4.2.2.3. Excepto para la Prueba 2 para los espejos retrovisores interiores (párrafo 4.4.2.2.6. l.)
+cuando el péndulo se encuentra en una posición vertical, los planos horizontal longitudinal y
+vertical pasantes a través del centro del espejo como se define en el párrafo 3.10.. La
+[página 8]
+4.4.2.2.5.
+4.4.2.2.6.
+[37
+dirección longitudinal de oscilación del péndulo estará paralelo al plano longitudinal del
+vehículo.
+Cuando bajo las condiciones reguladoras del ajuste prescriptas en los párrafos 4.4.2.2.2. l. y
+4.4.2.2.2.2., las partes del espejo retrovisor limitan el retorno del martillo, el punto de
+impacto se desplazará en una dirección perpendicular al eje de rotación en cuestión, Este
+desplazamiento será el estrictamente necesario para la implementación de la prueba. Estará
+limitado de tal manera que:
+La esfera que delimita el martillo intersecte el cilindro definido en el pálTafo 4.1.4. o
+permanezca al menos tangencial a él.
+Y el punto de contacto del martillo se ubica como mínimo a diez milímetros (10 mm.) de la
+periferia de la superficie de reflexión.
+La prueba consiste en permitir un impacto del martillo, desde una altura corrcspondicnlc a
+un ángulo del péndulo de sesenta grados (600) desde la vertical, de manera que el martillo
+choque con el espejo retrovisor en el momento que el péndulo alcanza la posición vertical.
+Los espejos retrovisores se sujetan a impacto en las diferentes condiciones siguientes:
+4.4.2.2.6.1. Espejos..refroxiso-rss-inter-inr.es•
+EI punto de impacto será como el definido en los párrafos 4.4.2.2.3. y 4.4.2.2 4.. EI impacto
+será tal que el martillo golpee al espejo del lado de la superficie de reflexión.
+Sobre el borde de la carcaza de tal manera que el impacto producido forme un ángulo de 450
+con el plano del espejo y se ubique en el plano horizontal pasando a través del centro del
+espejo.
+EI impacto es dirigido hacia el lado de la superficie de reflexión.
+4.4.2.2.6.2. Espejos r.etr.QYisor.çs exteriores.
+4.4.30
+4.4.3.1.
+Pr.ugba_l: EI punto de impacto será como el definido en los párrafos 4.4.2.2.3. y 4 4 2 2 4
+EI impacto será tal que el martillo golpee al espejo del lado opuesto a la superficie de
+reflexión.
+Prueba 2: EI punto de impacto será como el definido en 4.4.2.2.3. y 4.4.2.2.4.. EI impacto
+será tal, que el martillo golpee al espejo del lado de la superficie de refleción.
+Prueba de flexión sobre la carcaza fijada al vástago,
+Descripción de la prueba.
+La carcaza estará ubicada horizontalmente en un dispositivo tal que las partes de ajuste del
+montaje puedan ser engrampadas en forma segura. En la dirección de mayor dimensión de la
+carcaza, el exfremo de ajuste más cercano al punto de fijación estará inrnovilizado por
+[página 9]
+4.4.3.2.
+4.5.
+4.5.1.
+4.5.2.
+4.5.30
+5.
+5.1.
+5.1.1.
+5.1.1.1.
+p'
+medio de un acople fijo de quince milímetros (15 mm.) de ancho, cubriendo completamente
+la amplitud de la carcaza.
+En el ofro extremo, un tope idéntico al descripto se ubicará sobre la carcaza de manera que
+pueda aplicársele la prueba específica de carga (Fig. 2).
+EI extremo de la carcaza opuesto a aquel en el cual se aplica la fuerza puede engramparse en
+lugar de conservar su posición como se muestra en la Fig. 2.
+La carga aplicada para la prueba será de veinticinco kilogramos por minuto (25
+Kg,/minuto).
+Resultados de las pruebas.
+En los ensayos descriptos en el párrafo 4.4.2., el péndulo formará de tal manera que la
+proyección en el plano de liberación de la posición tomada por el brazo forme un ángulo de
+veinte grados (200) como mínimo con la vertical.
+La precisión de la medida del ángulo será más o menos un grado (± | 0).
+Este requerimiento no es aplicable a espejos retrovisores adheridos al parabrisas; respecto
+de aquellos requisitos estipulados en el párrafo 4.5.2. serán aplicados después del ensayo.
+Debería haber allí una ruptura de montaje del espejo retrovisor durante las pruebas
+descriptas en el párrafo 4.4.2. para los espejos retrovisores adheridos al parabrisas, la partc
+restante no proyectará más de un centímetro desde la base y la configuración remanente
+después de la prueba cumplirá con las condiciones prescriptas en el párrafo 4. I .3..
+EI espejo no se romperá durante los ensayos descriptos en los párrafos 4.4.2. y 4.4.3.. Sin
+embargo, la ruptura del espejo se permitirá si se cumple una de las siguientes condiciones:
+Los fragmentos de vidrio aún pennanecen adheridos al fondo de la carcaza o a una
+superficie firmemente unida a ella, excepto aquella separación parcial de vidrio que se
+permite desde el refuerzo, siempre que no exceda de dos con cinco centésimas de milímetros
+(2,5 mm.) de cada lado de la grieta.
+EI espejo está hecho con vidrio de seguridad.
+Instalación: Requisitos
+EI vehículo deberá responder a los siguientes requerimientos:
+Los espejos retrovisores instalados en el vehículo estarán aprobados bajo este Reglamento.
+Los espejos retrovisores estarán fijados de tal manera que el espejo no se mueva tan
+significativamente como para cambiar el campo de visión graduado o vibrar hasta tal punto
+que causara al conductor una mala interpretación de la naturaleza de la imagen recibida.
+Las condiciones prescriptas en el párrafo 5.1.1. se mantendrán cuando el vehículo se mueva
+a velocidades de hasta el ochenta por ciento (80%) de la velocidad máxima de diseño, pero
+no excediendo ciento cincuenta kilometros por hora (150 Km/h).
+[página 10]
+5.1.2.
+5.2.
+5.2.1.
+5.2.2.
+5.2.2.1.
+5.2.2.2.
+5,2.3.
+5,2.4.
+5.2.5.
+5.2.6.
+5.2.7.
+5.2.8.
+5.2.9
+[37
+Los espejos retrovisores exteriores adecuados en los vehículos de categoría M2, M3, N2 y
+N3 serán espejos Clase II y aquellos adaptados a los vehículos de categoría MI •y NI serán
+espejos Clase II o Clase III.
+Número Y posición
+Los espejos retrovisores entonces, se ubicarán de tal manera que el conductor, al sentarse en
+la posición normal, tenga una clara visión de la ruta detrás del vehículo.
+Todos los vehículos de categoría MI y NI, se adaptarán con ambos espejos; interior y
+exterior. Este último estará colocado del lado izquierdo del vehículo.
+Si el espejo interior no cumple los requisitos prescriptos en el párrafo 5.4.1., se ajustará al
+vehículo un espejo exterior adicional. Este último se fijará al lado derecho del
+vehículo.
+Si el espejo retrovisor interior no proporciona ninguna visión hacia atrás, no se requerirá su
+presencia.
+Todos los vehículos de categoría M2, M3 y N3 estarán provistos de dos espejos retrovisores
+exteriores, uno de cada lado del vehículo.
+Los espejos exteriores serán visibles a través de las ventanillas laterales o la porción de
+Iparabrisas que es despejada por el limpiaparabrisas.
+En el caso de cualquier vehículo que se prueba en una cabina cuando se mide el campo de
+visión, el ancho máximo y mínimo de la carrocería debe estar declarado por el fabricante, y
+si fuera necesario un simulador de cabecera.
+No será permitido un "doble espejo" o de dos planos si éstos son necesarios para cumplir
+con los requisitos sobre el campo de visión.
+Sin embargo, si el vidrio principal cumple todos los requerimientos para espejos Clase II o
+Clase III, será aceptado. EI vidrio auxiliar será tomado en cuenta al estimar la altura desde el
+nivel del suelo y la proyección de acuerdo al párrafo 5.2.10..
+La inclusión del vidrio auxiliar cumplirá además con las condiciones especificadas en el
+párrafo 4. I .2..
+EI espejo refrovisor prescripto del lado del conductor se ubicará forrnando un ángulo de no
+más de 550 entre el plano medio vertical que pasa a través del centro del espejo retrovisor y
+a través de el centro de la línea directa de 65 mm. que une los dos puntos oculares del
+conductor.
+EI (los) espejo(s) retrovisor(es) ó soportes deben sobresalir de la parte más saliente de la
+carrocería del vehículo -10 necesario para cumplir con los requisitos correspondientes al
+campo de visión expuestos en el párrafo 5.4. o excederlo.
+Donde el borde inferior de un espejo retrovisor exterior se encuentre a menos de 2 m. sobre
+el nivel del suelo, cuando el vehículo está cargado, este espejo no proyectará más de 0,20 m.
+más allá del ancho de vehículo cuando no se ajusta con el espejo.
+[página 11]
+5.2.10.
+5.3.
+5.3.1.
+5.3.2.
+5.3.3.
+5.4.
+5.4.1.
+5.4.2.
+5.4.2.1.
+5.4.3.
+5.4.3.1.
+5.4.4.
+5441
+Supeditados a los requisitos de los Párrafos 5.2.8. y 5.2.9. los espejos pueden proyectarse
+más allá del ancho máximo permitido del vehículo.
+EI espejo retrovisor interior estará de tal manera que el conductor pueda ajustarlo cuando se
+encuente en la posición de manejo.
+EI espejo refrovisor exterior deberá ser capaz de ajustarse desde adentro del vehículo,
+estando la puerta cerrada, aunque la ventanilla pueda hallarse abierta. Sin embargo puede
+posicionarse desde afuera.
+Los requerimientos del párrafo 5.3.2. no se aplicarán a los espejos retrovisores exteriores,
+los cuales después de ser replegados pueden retornar a la posición extendida sin ajustes.
+CAMPO DE VISION
+Los campos de visión definidos abajo, serán establecidos utilizando visión ambinocular; los
+ojos, estando en "los puntos oculares del conductor" como se define en el párrafo 3.12.
+Ellos se establecerán a través de las ventanillas que tienen un factor de transmisión total dc
+luz de; como mínimo un 70 % de la medida normal de la superficie.
+Espejo retrovisor interior.
+EI campo de visión será tal que el conductor pueda ver como mínimo una porción horizontal
+plana de 20 m. de ancho del camino centrado sobre el plano medio vertical/longitudinal del
+vehículo, desde 60 m. detrás de los puntos oculares del conductor (VER FIGURA 7) al
+horizonte.
+EI campo de visión puede ser reducido por la presencia de apoyacabezas y dispositivos tales
+como, en particular, parasoles, limpiaparabrisas traseros y elementos de calefacción sic:nprc
+que no oscurezcan más del 15 % el campo de visión prescripto proyectado sobre el plano
+vertical, perpendicular al plano medio longitudinal del vehículo.
+Espejos retrovisores exteriores lado iz,quierdo
+EI campo de visión será tal que el conductor pueda ver como mínimo una amplitud de 2,50
+m. vertical perpendicular al plano medio llanos sobre la porción horizontal de su ruta, la
+cual es circunscripta, a la derecha por el plano paralelo al plano medio longitudinal/vertical
+del vehículo pasando a través del punto más saliente del vehículo a la izquierda y extenderse
+hasta 10 m, detrás de los puntos oculares del conductor hacia el horizonte (VER FIGURA
+8).
+Los espejos retrovisores exteriores lado derecho.
+EI campo de visión será tal que el conductor pueda ver como m•Jpimo una amplitud de 3,50
+m. llanos sobre la porción horizontal de su ruta, la cual es circunscripta a la derecha por eI
+plano paralelo al plano medio longitudinal/vertical del vehículo que pasa a través del punto
+más saliente del vehículo a la derecha y que se extiende a 30 m. detrás de los puntos
+oculares del conductor al horizonte.
+[página 12]
+5.4.4.2.
+5.4.5.
+5.4.6.
+6.
+6.1.
+6.2.
+6.2.1.
+6.2.2.
+6.3.
+Además, la ruta será visible para el conductor sobre una amplitud dc 0,75 III. dcsdc un punto
+de 4 m. ubicado detrás del plano vertical que atraviesa los puntos oculares del conductor
+(VER FIGURA 8).
+Obstrucciones
+Los campos de visión especificados no toman en cuenta las obstrucciones causadas por las
+manivelas de las puertas, balizas, indicadores de dirección, extremidades de los paragolpes y
+obstrucciones de carrocería similares a aquellas causadas por los elementos mencionados.
+Procedimiento de ensayo
+EI campo de visión estará determinado por la ubicación de la fuente de iluminación en los
+puntos oculares y examinamos la luz reflejada sobre una pantalla vertical de monitorco.
+Pueden utilizarse otros métodos equivalentes.
+Procedimiento para determinar eI radio de curwatura "R" de la superficie de reflexión
+de un espejo
+MEDICIONES
+EquipamientQ.• Se utiliza el esferómetro descripto en FIGURA 9.
+Puntos de medición.
+EI radio de curvatura principal se medirá a 3 puntos ubicados tan cerca como sea posible de
+las posiciones 1/3; 1/2; 2/3 de la distancia a 10 largo del arco de la superficie de reflexión
+pasando a través del centro del espejo y paralelo al segmento b, o del arco pasando a través
+de la curva del espejo la cual es perpendicular a él si el arco es más largo.
+Donde, debido a la medida del espejo, es imposible obtener mediciones en las direcciones
+definidas en el párrafo 6.2. l, los departamentos técnicos responsables de los ensayos pueden
+tomar mediciones en este punto en dos direcciones perpendiculares 10 más cercanas posiblc.s
+a las prescriptas anteriormente.
+EI cálculo del radio de curvatura (R) donde "R" se expresa en milímetros se calcula
+utilizando la fórmula
+R = rpl + rp2 +
+3
+donde rpl es el radio de curvatura del primer punto de medición, rp2 en el segundo y rp3 del
+tercero.
+[página 13]
+SECCION 1
+ME.T.QDOS DE PRIJEBAS PARA DETERMINAR LA REFLECTIVIDAD
+DEFINICIONES
+CIE iluninador standard A: l/
+1.
+1.1.
+1.2.
+1.3.
+1.4.
+1.5.
+2.
+2.1
+2.1.2.
+2.2.
+2.2.1.
+2.2.2.
+600
+620
+650
+1,062
+0.854
+0,283
+2
+4
+5
+CIE fuente de iluminación A: l/ una lámpara con filamento de tungsteno con gas con una
+temperatura correlacionada de calor T 68 Í 2855,6 k.
+Observador calorimétrico patrón CIE 1931 **.
+Receptor de radiación cuya características calorimétricas corresponden a valores
+friestimulus espectrales x ( ), y ( ), z ( ) (ver tabla).
+Valores triestímulus espectrales CIE 1/Valores triestimulus de los componentes espcctrales
+de un especfro equienergético en el sistema CLE (x, y, z)
+VISION FOTOPICA: l/ visión por ojo normal cuando éste se adapta a nivelcs dc
+luminancia, de por 10 menos varias candelas por metro cuadrado.
+APARATOS
+Generalidades
+EI aparato constará de una fuente de luz, un soporte para la muestra de ensayo, una unidad
+receptora con un fotodetector y un indicador (VER FIGURA 4) y un medio para eliminar
+los efectos de luces parásitas.
+EI receptor puede incorporar una esfera integrada de luz para facilitar la mediación de la
+reflectancia de los espejos no planos (VER FIGURA 5) convexos.
+**(Definiciones dadas por publicaciones CIE 50 (45). Vocabulario de electrónica
+internacional, grupo 45: iluminación).
+Características espectrales de la fuente de iluminación y el receptor.
+La fuente de luz constará de una fuente patrón d CIE A y ópticas asociadas para proveer un
+haz de luz casi colimado. Se recomienda un estabilizador de voltaje, para mantener un
+voltaje fijo en la lámpara durante la operación.
+EI receptor tendrá un fotodetector con una respuesta espectral? proporcional a la función
+luminosidad fotópica CIE (1931) del observador colorimétrico d61 patrón (ver tabla).
+Cualquier otra combinación de iluminante filtro receptor que dé el equivalente total de
+iluminante patrón CIE A y visión fotópica, puede ser usado cuando una esfera integradora
+[página 14]
+2.3.
+2.3.1
+2.3.2.
+2.4.
+2.5.
+3.
+3.1.
+3.1.1.
+es usad4 en el receptor, la superficie interior de la esfera estará recubierta con una capa
+blanca mate (difusora) espectralmente no selectiva.
+EI ángulo del haz incidente debería preferentemente de 0.44 ± 0,09 rad (25 ± 50) con
+respecto a la perpendicular a la superficie de prueba y no excederá el límite superior de
+tolerancia (es decir 0,53 rad. 0 300).
+EI eje del receptor formará un ángulo @ con esta perpendicular, igual a aquel del haz
+incidente.(VER FIGURA 4).
+EI haz incidente, al llegar a la superficie de prueba tendrá un diámetro no menor de 19 mm.
+EI haz reflejado no será más ancho que el área sensible del fotodetector, •no cubrirá lilenos
+del 50 % de dicha área, y cubrirá tanto como sea posible el mismo segmento de área que se
+usa durante la calibración del instrumento.
+Cuando se utiliza una esfera integrada en la sección del receptor, la esfera tendrá un
+diámetro mínimo de 127 mm. Las aberturas para la muestra y para el haz incidente en la
+área de la esfera tendrán un tamaño tal que admita la totalidad de los hazes incidentes y
+reflejados.
+EI fotodetector estará ubicado de manera tal que no reciba luz directa, ni del haz incidente,
+ni el reflejado. Como receptor directo de la luz tanto de los rayos de incidencia como de
+reflexión.
+CARACTERISTIChS ELECTRICAS DE LA UNIDAD FOTODETECTOR-
+INDICADOR
+La salida del fotodetector tal como se de en el indicador, será una función lineal de la
+intensidad de la luz sobre el área fotosensible. Se proveerán medios eléctricos y/u ópticos
+para facilitar los ajustes de uso y calibración.
+Tales medios no afectarán las características lineales y espectrales del instrumento. La
+exactitud de la receptor-indicador será de ± 2 % de plena escala, o ± 10 % del valor
+de la lectura, dependiendo de cual sea la menor.
+Porta muestra
+EI mecanismo será capaz de ubicar la muestra de ensayo de manera tal que los ejes del brazo
+de la fuente y del receptor se intersecten en la superficie reflectada.
+La superficie reflectora puede hallarse tanto dentro o sobre una de las caras de la
+espejo, dependiendo de que sea de primera superficie, de segunda superficie, etc. o espejo
+prismático tipo "FLIP".
+Método de calibración directa
+En el método de calibración directa, se usa aire como patrón de referencia.
+[página 15]
+3.1.2.
+3.2.
+3.3.
+3,4,
+Este método es aplicable para aquellos instrumentos que se construyen con una finalidad dc
+permitir una calibración en el punto del 100 % moviendo el receptor a una posición ubicada
+directamente sobre el eje de la fuente de iluminación (VER FIGURA 4)
+Puede ser deseado en algunos casos (como en la medición de las superficies de baja
+reflectividad) utilizar un punto de calibración intermedio (entre 0 y 100 % sobre la escala)
+con este método. En estos casos se insertará en la trayectoria óptica un filtro de densidad
+neutra, de tansmitancia conocida, y el control de calibración se ajustará entonces hasta que
+el indicador lea el porcentaje de transmisión del filtro de densidad neutra.
+Este filtro se extraerá antes de tomar las medidas de reflectividad.
+Método dp calibración indirecta.
+EI método de calibración indirecta se aplica a aquellos instrumentos con geometrías fijas y
+de fuente y receptor.
+Se requiere un patrón de referencia correctamente calibrado y mantenido.
+Este patrón de referencia será preferentemente un espejo plano con valor de reflectancia 10
+más cercano posible a aquel de las muestras de ensayo.
+Medición del espejo plano.
+La reflectancia de las muestras del espejo plano puede medirse en instrumentos que emplean
+métodos de calibración directa o indirecta. EI valor de reflectancia se lee directamente sobre
+el indicador.
+Medición del espejo, no plano (convexo).
+La medición de la reflectancia de los espejos no planos requiere el uso de instrumentos que
+incorporan una esfera integradora en la unidad receptora (VER FIGURA 6).
+Si el insüumento indicador indica ne divisiones con un espejo patrón de referencia dc E %
+de reflectancia, entonces con un espejo de reflectancia desconocida, nx divisiones
+corresponderá a una reflectancia de X %, dada por la fórrnula:
+[página 16]
+1
+mm.
+380
+390
+400
+410
+420
+430
+440
+450
+460
+470
+480
+490
+500
+510
+520
+530
+540
+550
+560
+570
+580
+590
+600
+610
+620
+630
+640
+650
+660
+670
+680
+690
+700
+no
+720
+730
+740
+750
+760
+770
+780
+00014 0000 0
+0 004 2
+00143
+0 043 5
+0 134 4
+0 283 9
+0 348 3
+0 3362
+0 290 8
+0 195 4
+0 095 6
+0 032 0
+0 004 9
+0 063 3
+0 165 5
+0 290 4
+0 594 5
+0 762 1
+09163
+1 026 3
+1 062 2
+1 002 6
+0 642 4
+0 447 9
+0 283 5
+0 164 9
+0 0468
+0 022 7
+00114
+0 005 8
+0 002 9
+0 001 4
+0 000 7
+0 000 3
+0 000 2
+0 000 1
+0 000 0
+0 000 1
+0 000 4
+0001 2
+0 004 0
+00116
+0 023 0
+0 038 0
+0 060 0
+0091 0
+0 1390
+0 208 0
+0 323 0
+0 503 0
+07100
+0 862 0
+0 954 0
+0 995 0
+0 995 0
+0 952 0
+0 870 0
+0 7570
+0 503 0
+03810
+0 265 0
+0 1750
+0 1070
+0061 0
+0 032 0
+00170
+0 008 2
+0 004 1
+0 002 1
+0001 0
+0 000 5
+0 0002*
+0 000 1
+0 000 1
+0 000 0
+0 000 0
+0 006 5
+0 020 1
+0 067 9
+0 207 4
+0 645 6
+1 3856
+1 747 1
+1 772 1
+1 669 2
+1 287 6
+08130
+0 465 2
+0 272 0
+0 1582
+0 0782
+0 042 2
+0 020 3
+0 008 7
+0 003 9
+0 002 1
+0001 7
+0001 1
+0 000 8
+0 000 3
+0 000 2
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+0 000 0
+[página 17]
+1.
+1.1.
+1.2.
+1.2.1.
+1.2.2.
+1.3.
+1.5.
+1.5.1.
+1.5.2.
+1.5.3.
+2.
+2.1.
+2.1.1
+2.1.2
+2.2.
+SECCION 111
+PROCEDIMIENTO PARA DETERMINAR EL PUNTO Y EL ANGULO
+DORSAL REAL Y. VERIFICACION DE SU RELACION CON EL PUNTO "R"
+DEFINICIONES
+EI punto que indica la posición ocupante en el compartimiento del pasajero es el
+trazado, en el plano longitudinal/vertical del eje teórico de rotación entre las piernas y el
+torso de un cuerpo humano representado por el maniquí que se describe en el párrafo 3.
+EI punto "R" o punto de "referencia de asiento" es el punto de referencia especificado por el
+fabricante el cual:
+Tiene coordenadas determinadas en relación a la estructura del vehículo.
+Corresponde a la posición teórica del punto de rotación torso/piernas (punto "H") para la
+posición de conducción más normal a la posición de uso dada para cada asiento. por el
+fabricante del vehículo.
+"Angulo de asentamiento" significa la inclinación del dorso en relación a la vertical.
+"Angulo dorsal real" significa el ángulo prescripto por la vertical a través del punto "I I" con
+la línea de referencia del torso del cuerpo humano representado por el maniquí.
+"Angulo dorsal de diseño" significa el ángulo prescripto por eI fabricante el cual:
+Determina el ángulo dorsal para la posición normal de conducción o la posición de uso dada
+para cada asiento por el fabricante del vehículo.
+Se forma al punto 'IR" por la línea de referencia vertical y del torso
+Corresponde teóricamente al ángulo dorsal real.
+DETERMINACION DE LOS PUNTOS "H" Y ANGULOS DORSALES EAIJES.
+Se detenninará un punto "H" y un ángulo dorsal real para cada asiento provisto por el
+fabricante. Si los asientos en la misma fila puede considerarse similares (idénticos asientos,
+etc.) se determinará sólo un punto "H" y un ángulo dorsal real para cada fila de asientos; el
+maniquí se ubicará en un lugar considerado como representativo para la fila. Este lugar será:
+En el caso de la fila de adelante, el asiento del conductor;
+En el caso de fila (s) trasera (s), un asiento exterior.
+Cuando están siendo detenninados por un punto "H" y el ángulo dorsal real, el asiento
+considerado estará ubicado en la posición normal de conducci6p o de uso provisto por el
+fabricante.
+EI dorso será trabado según 10 especificado por el fabricante si su inclinación es ajustable o.
+en ausencia de cualquier especificacíon a un ángulo dorsal real 10 más cercano posible a 250
+de la vertical.
+[página 18]
+3.
+3.1.
+3.2.
+3.2.1.
+3.2.2.
+3.2.3.
+3.2.4.
+3.3.
+3.4.
+4.1.
+4.2.
+4.3.
+4.4.
+4.4.1.
+4.4.2.
+DESCRIPCION MANIQUI
+Se utilizará un maniquí tridimensional con un peso y contorno correspondiente a un honlbrc
+adulto con altura mediana. Tal maniquí está representado en las FIGURAS 10 y I I
+EI maniquí contendrá:
+Dos componentes, uno simulando la espalda y el otro, el asiento del cuerpo girando sobrc
+un eje que representa el eje de rotación entre el torso y el muslo. EI trazo de este eje sobre el
+lado del maniquí es el punto "H" del maniquí.
+Dos componentes que simulan las piernas y se adjuntan al componente simulador dcl
+asiento.
+Dos componentes que simulen los pies y se conectan a las piernas por uniones pivotantes
+simulando tobillos.
+Además, el componente que simula el asiento del cuerpo deberá proveerse con un nivel que
+permita su orientación transversal para ser verificada.
+Se adjuntarán pesas de segmentos de cuerpos a los puntos apropiados que representan los
+correspondientes centros de gravedad a fin de originar el peso total del maniquí hasta
+aproximadamente 75,6 kg. En la tabla de la FIGURA I I dan detalles de varios pesos.
+La línea de referencia del torso del maniquí está tomada en consideración por una línea
+directa que pasa a través de la unión entre la pierna y la pelvis y la unión teórica entre el
+cuello y ei tórax (VER FIGURÁ 10).
+EI maniquí tridimensional estará instalado de la siguiente manera:
+EI vehículo se ubicará sobre un plano horizontal y los asientos ajustados de acuerdo a 10
+prescripto en el párrafo 2.2.
+Para ser aprobado el asiento estará cubierto con una pieza de tela para facilitar la ubicación
+correcta del maniquí.
+EI maniquí será ubicado sobre el asiento concerniente estando su eje de rotación
+perpendicular al plano longitudinal de simetría del vehículo.
+Los pies del maniquí estarán ubicados del siguiente modo:
+En los asientos delanteros, de tal manera que el nivel de verificación de la orientación
+transversal del asiento del maniquí esté dirigida a la horizontal.
+En los asientos traseros, 10 más alejado posible, de tal manera de poder tomar contacto con
+los asientos delanteros. Si los pies entonces se apoyan sobre )las partes del piso que se
+encuenfren en diferentes niveles, el pie que primero se contaCte con el asiento delantero
+servirá como punto de referencia, y el otro se acomodará tal que el nivel permita la
+orientación transversal del asiento del maniquí para ser verificado si se dirige a la
+horizontal.
+[página 19]
+4.4.30
+4.5.
+4.6
+4.7.
+4.8.
+4.9.
+4.10.
+5.
+5.1.
+5.2.
+6.
+6.1.
+6.2.
+Si está siendo determinado en punto "H" en un asiento central, los pies cstarán ubicados a
+cada lado del túnel.
+Las pesas se ubicarán sobre los muslos, el nivel de verificación transversal del asiento del
+maniquí estará dirigida a la horizontal y otras pesas serán ubicadas sobre los componentes
+que representan el asiento del maniquí.
+EI maniquí será apartado del asiento trasero por medio de una barra de rotación de las
+rodillas, y la espalda del maniquí se balanceará hacia adelante.
+EI maniquí será reubicado sobre el asiento del vehículo por el deslizamiento en retroceso
+sobre su asiento hasta que encuentre resistencia siendo entonces reubicada la espalda del
+maniquí contra el asiento trasero.
+Se aplicará dos veces una carga de aproximadamente 10 ± daN al maniquí. La dirección- y
+punto de aplicación de la carga están señalados por una flecha en la FIGURA I I.
+Las pesas serán instaladas sobre los lados derecho e izquierdo y las pesas del torso entonces,
+se ubicarán en posición.
+EI nivel transversal del maniquí se mantendrá horizontal.
+Permaneciendo el nivel transversal del maniquí en forma horizontal, la espalda del nvaniquí
+rotará hacia adelante. Hasta que las pesas del torso estén sobre el punto "H", a fin dc
+eliminar cualquier fricción con el asiento trasero.
+La espalda del maniquí se moverá suavemente hacia atrás para completar la operación de
+seteo. EI nivel transversal del maniquí estará horizontal. Si así no fuere se repetirá el
+procedimiento descripto.
+RESULTADOS.
+Cuando el maniquí ha sido seteado según 10 descripto en el Párrafo l, el punto "H" y el
+ángulo dorsal real del asiento del vehículo considerado están constituidos por el punto "H" y
+el ángulo de inclinación de la línea de referencia del torso del maniquí.
+Las coordenadas del punto "H" en relación a los tres planos recíprocamente perpendiculares.
+y el ángulo dorsal real del asiento, se medirán por comparación con los datos provistos por
+el fabricante del vehículo.
+ANGULO DORSAL REAL.
+1
+L IV DE L
+L
+D
+DI E -
+Los resultados de las mediciones llevadas a cabo en conformidad con el párrafo 5.2. para cl
+punto "Htt y el ángulo dorsal real serán comparados con las coor.denadas del punto "R" y el
+ángulo dorsal de diseño provisto por el fabricante del vehículo.
+Las posiciones relativas de los puntos "R" y "H" y la relación entre el ángulo dorsal dc
+diseño y el ángulo dorsal real, se considerarán satisfactorias para el asiento en cuestión si el
+punto "Htt definido por sus coordenadas, se ubica dentro de un cuadrado de cincuenta
+[página 20]
+6.2.1.
+6.3.
+6.4.
+6.5.
+milímegos (50 mm.) de lado cuyas diagonales intersectan al punto "R", y si el ángulo dorsal
+real está dentro de los cinco grados (50) del ángulo dorsal de diseño.
+Si se satisfacen estas condiciones, se utilizarán para la prueba el punto "R" y el ángulo
+dorsal real. Si fuese necesario se ajustará el maniquí de manera que coincidan el punto "H"
+con el punto "R" y los ángulos dorsales real y de diseño.
+Si el punto "H" ó el ángulo dorsal real no satisfacen los requerimientos del párrafo 6.2.,
+ambas medidas se tomarán dos veces más (tres en total). Si los resultados de dos de estas
+tres operaciones satisfacen los requisitos, el resultado de la prueba será considerado
+satisfactorio.
+A menos que, como mínimo, dos de las tres pruebas satisfagan los requerimientos del
+párrafo 6.2., el resultado de la prueba no se considerará satisfactorio.
+Si aparece la situación descripta en el párrafo 6.4., o si no puede efectuarse porque el
+fabricante ha cometido errores en la provisión de información teniendo en cuenta la posición
+del punto "R" o el ángulo dorsal de diseño, puede utilizarse el promedio de los resultados de
+las tres determinaciones y además aplicarse en todos los casos aludidos en esta norma para
+el punto "R" o el ángulo dorsal de diseño.
+[página 21]
+FIGURA I
+Dimensiones en mm
+200
+500
+1.200
+80
+[página 22]
+DIMENSIONES
+PESO DEL MANIOUINI
+Componentes que simulan la
+espalda y asiento del cuerpo.
+Pesas det dorso
+Pesas del asiento
+Pesas det muslo
+Pesas de la pierna
+Total
+DIRECCION Y PUNTO DE
+APLICACION DE CARGA
+VARIABLE DE
+10,8 a 42,4 cm
+Y PESOS
+Kg.
+16,6
+312
+13,2
+75,6
+39-31 cm
+/ 52
+DEL MANIQUINI
+39,47 cm.
+41,7 cm
+F I CAJ RA
+II
+[página 23]
+COMPONENTS
+TRIDIMENSIONAL
+ESPALDA
+SOPORTE DE PESAS DEL
+TORSO
+NIVEL
+LONGITUDINAL
+PUNTO
+ASIENTO
+COJINETE DE PESAS
+DEL MUSLO
+BARRA DE ROTA -
+CION DE RODILLAS
+DEC MANI Ul
+LINEA DE REFE-
+RENCIA DEL
+TORSO
+1
+o
+EJE DE ROTACION
+NIVEL TRANSVERSAL
+FIGURA
+10
+[página 24]
+/ 53
+Fl GURA
+18
+9
+COMPARADOR
+18
+80
+PUN TO
+RM 5x08
+MOVIL
+[página 25]
+4
+ESPEDS
+FIGURA 7
+RATOS OCU-
+LARES DEL
+CONDUCTOR
+RETROVISORES
+60 mt.
+INTERIORES
+ZONA DE /
+DEL SUELO
+ESPEJOS RETROVISORES EXTERIORES
+( MUESTRAS DE VEHICULOS QUE aRWLAN SOBRE MANO DERECHA )
+ESPEJO RETROVISOR
+4mt
+PUNTOS OW-
+LARES DEL
+CONDUCTOR
+10 mt.
+ESPEJO
+RETROVISOR
+EXTERIOR DERECHO
+30 mt.
+ZONA DE VISION AL NI-
+VEC DEL SUELO
+ZONA DE VISION AL NIVEL DEL SUELO
+EXTERIOR
+FIGURA 8
+IZQUIERDO
+[página 26]
+FIGURA EXPLICATIVA
+EJEMPLO DE MUSTRA DE DISPOSITIVO PARA MEDICION
+FLECCION DE ESPEJOS ESFERICOS
+c
+E:
+L:
+M:
+s:
+DEL
+FACTOR
+RE —
+GURA 6
+RECEPTOR
+DIAGRAMA
+VENTANA DE ENTRADA
+VENTANA DE MEDICION
+LENTES
+VENTANA DEL OBJETO
+FUENTE
+ESFERA
+DE ILUMINACION
+INTEGRANTE
+[página 27]
+METODOS DE PRUEBAS
+A USTE CERO
+FUENTES DE
+LUZ Y OPTICAS
+COLIMARALES
+FIGURA 4
+FOTORECTOR ENPOSfClON
+PARA MEDICION Y CALI-
+BRACION INDIRECTA
+pARA
+DETERMINAR
+IETANC(A -
+MEDIDOR
+AJUSTES
+JUSTE DE
+CALIBRACION
+/ BRAZO
+RECEPTOR E
+POSICION DE
+/CA-IBRACION
+/ -RECTA
+REFLECTOMETRO GENERALIZADO QUE
+TRIAS PARA LOS DO
+FUENTE DE LUZ
+Y OPTICAS COLIMA-
+DORA
+FIGURA 5
+MUESTRA CAS GEOME-
+METODOS DE CALIBRACION FIG 4.-
+MEDIDOR CON AJUSTES
+50
+AJUSTE DE
+CALIBRACION
+AJUSTE CERO
+FOTODETECTOR
+SUJETADOR DE MUESTRA
+REFLECTOMETRO GENERAC(ZADO INCORPORANDO UNA SFERA
+INTEGRANTE EN EC RECEPTOR FIG. 5
+[página 28]
+I
+A
+B
+FIGURA 3
+VISION AMBINOCULAR
+4
+Espejo retrovisor interior
+Ojos del conductor
+Imagenes virtuales monoculares
+- Imagen virtual ambinocular
+- Angulo de visibilidad del ojo izquierdo
+Angulo de visibilidad del ojo derecho
+Angulo de visibilidad binoculqr
+Angulo de visibilidad ambinocylar.
+[página 29]
+ESPEJOS RETROVISORES
+DE ERRATAS
+( l) ijlitninar :
+excluyendo complejos sistemas ópticos tales como periscopios
+73021 dc dicc:
+(2) ajustado
+(3) sobre la superficie externa
+(4) entro
+(4bis) de los párrafos 4,4.11,4.2 y 4.3.4
+(7) del centro del espejo paralelo
+wgrncnt() B
+dc distancia y
+; 4.1.3.1 Los bordes
+( con forma de cilindro
+fli l) 4.12
+al
+Dcbc dccir :
+instalado
+sobre un elemento de la superficie externa
+dentro
+del párrafo 4, con excepción de los párrafos 4.1. I,
+4.2 y 4.3.4
+ri
+del centro del espejo y es paralelo al segmento B
+de distancia uno del otro y
+las condiciones establecidas para el radio del párrafo
+4.I.3 no se aplican a los bordes de los agujeros o
+ranuras de fijación cuyo diámetro o cuya diagonal
+mayor sean inferiores a 12 mm luego de ser
+escareadas
+de forma que un cilindro
+4.I.2
+la posición de ensayo debe ser aquella más
+i ( 12) la prueba de posición será favorable
+! para cualquier dispositivo de soporte para
+; operar dentro de los límites previstos por
+t:' fabricante de espejos, o de vehículos
+{ (l .3) cs mcnor
+, 4) quc cs cl cxtrcmo
+-5) horizontal longitudinal y vertical
+• ( : O) del centro del espejo
+7) de rotación en cuestión
+( I 4.4.2.2.3 Y 4.4.2.2.4
+$ i 9) dcl lado opuesto a la
+: 20) del lado de la
+(2 1 ) por Ininuto
+; (22) Debería haber allí una
+i 23)
+; {2'1) vchículo
+La inclusión del vidrio
+desfavorable al desplazamiento del dispositivo
+dentro de los límites de regulación indicados por el
+fabricante del vehículo
+sca la Incnor posiblc
+nlás distante del vehículo se encuentre en la posición
+más saliente en relación a la carcaza
+horizontal y longitudinal vertical
+del centro del martillo deberán pasar por el centro del
+espejo
+de rotación o articulación en cuestión
+4.4.2.2.3
+del lado de la
+del lado opuesto a la
+y deberá ser mantenida por un minuto
+En caso de
+Agregar
+Esta disposición no se aplica a 15? vehículos de
+categorías M2 y M3 a los retrovisores externos
+colorados del lado derecho de los mismos
+vehículo incompleto
+EI borde del espejo
+Agregar
+Estos se calculan estando el vehículocon peso en
+orden de marcha, conductor, y un pasajero de 75 kg
+± 1% en el banco delantero
+[página 30]
+FCURA
+Carcaza
+peso p
+2
+gjustQbJe-—
+So orte
+Ajustable
+Mecanismo de su ectón

@@ -1,0 +1,186 @@
+Resolución GMC N° 30/94
+Título: SISTEMAS DE LIMPIAPARABRISAS
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24371_RES_030-1994_ES_SisLimpiaparab.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1787).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 30/94
+
+SISTEMAS DE LIMPIAPARABRISAS
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10de la Decisión Nº 4/91 del Consejo del Mercado Común, las Resoluciones Nº 9/91 y Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 4/94 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los vehículos deben cumplir una serie de requisitos técnicos en virtud de las legislaciones nacionales respectivas, entre ellos los correspondientes a SISTEMAS LIMPIAPARABRISAS DE AUTOMÓVILES Y MÉTODO PARA LA DETERMINACIÓN DEL LUGAR GEOMÉTRICO DE LOS OJOS.
+
+Que dichos requisitos difieren de un Estado Parte a otro lo que puede crear obstáculos técnicos al intercambio comercial y a la libre circulación de vehículos, que podrían eliminarse a través de la adopción de los mismos requisitos técnicos por todos los Estados Partes ya sea como complemento o en reemplazo de su legislación actual.
+
+Que resulta necesario unificar los métodos de ensayo anteriormente adoptados en relación a SISTEMA LIMPIAPARABRISAS DE AUTOMÓVILES Y MÉTODO PARA LA DETERMINACIÓN DEL LUGAR GEOMÉTRICO DE LOS OJOS.
+
+Que para tal fin, los Estados Partes han acordado adecuar sus legislaciones, de modo de posibilitar el libre intercambio de vehículos, sus partes y piezas.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. Los Estados Partes no podrán limitar o prohibir la libre circulación, homologación, certificación, venta, importación, comercialización, matriculación o uso de los vehículos que cumplan con los requisitos establecidos en el Reglamento Armonizado "SISTEMA LIMPIAPARABRISAS DE AUTOMÓVILES Y MÉTODO PARA LA DETERMINACIÓN DEL LUGAR GEOMÉTRICO DE LOS OJOS" que figura como Anexo a la presente Resolución, por motivos relacionados con los aspectos técnicos armonizados en el mismo.
+
+Art. 2. Elimínase el punto 3.7 del Anexo I de la Resolución Nº  9/91 del GMC.
+
+Art. 3. La presente Resolución entrará en vigor a partir del 1 de enero de 1995.
+
+Art. 4. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+
+Por Argentina:
+
+Secretaría de Transporte
+Secretaría de Industria
+
+Por Brasil:
+
+Ministerio de Justicia
+
+Secretaría de Tránsito. Departamento Nacional de Tránsito
+
+Por Paraguay:
+Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+
+Por Uruguay:
+Ministerio de Transporte y Obras Públicas
+Ministerio de Industria y Energía
+
+
+ANEXO
+REGLAMENTO ARMONIZADO
+SISTEMA LIMPIAPARABRISAS PARA AUTOMOVILES
+
+Objetivo. Proporcionar al conductor las condiciones mínimas de visibilidad por medio del barrido de la superficie externa del parabrisas.
+Esta norma establece los requisitos mínimos a cumplir por el Sistema Limpiaparabrisas.
+
+Aplicación. Esta norma se aplica a vehículos categorías M1 y N1: automóviles y camionetas de uso mixto derivadas de automóviles.
+
+3. Definiciones. A los efectos de este documento se considera como:
+3.1. Abertura de luz: la máxima área desobstruida del parabrisas.
+3.2. Ancho total: el ancho máximo total del vehículo, excluyendo cualquier saliente, como por ejemplo el espejo retrovisor externo, etc.
+
+4. Requisitos. El vehículo será dotado de un sistema de limpieza de la superficie externa del parabrisas, sistema éste que tendrá una eficiencia igual o superior al indicado más abajo.
+4.1. Sistema de escobillas: Este sistema deberá ser energizado por un dispositivo adecuado teniendo características tales, que las velocidades de operación exigidas más abajo sean alcanzadas bajo cualquier condición de velocidad del vehículo. El sistema limpiaparabrisas estará diseñado para funcionar en por lo menos 2 velocidades.
+4.1.1. Velocidad de las escobillas: Con el parabrisas mojado la primera de las velocidades será mayor o igual a 20 ciclos/minutos continuos. La segunda velocidad deberá ser igual o superior a 45 ciclos/minutos continuos y deberá diferir de la primera en por lo menos 15 ciclos/minutos.
+4.1.2. Area barrida por las escobillas: Las cuatro tablas siguientes, numeradas como Tabla I, II, III y IV, corresponden respectivamente a vehículos con ancho total inferior a 1525 mm, de 1525 mm inclusive y hasta 1625 mm exclusive, de 1625 mm inclusive y hasta 1725 mm exclusive y de 1725 mm o más; establecen los porcentajes de áreas a ser barridas por las escobillas. Son porcentajes mínimos de barrido en las ubicaciones del parabrisas definidas como regiones A, B y C. Las regiones A, B y C son áreas determinadas sobre la superficie externa del parabrisas, cada una por la intersección de cuatro planos tangentes al lugar geométrico de los ojos. Dos de estos planos son verticales y tangentes a los bordes externos derecho e izquierdo del lugar geométrico de los ojos, formando ángulos con la línea de referencia de la vista en planta, conforme a las tablas arriba citadas. Los dos planos restantes son tangentes a los bordes externos superior e inferior del lugar geométrico de los ojos en vista lateral, formando ángulos con la línea de referencia del parabrisas, conforme a las tablas arriba citadas.
+Los lugares geométricos de los ojos del conductor y la localización de estos lugares geométricos son definidos en el documento "LUGAR GEOMÉTRICO DE LOS OJOS DE LOS CONDUCTORES", Anexo I del presente reglamento.
+A los efectos de la determinación de las áreas A, B y C del parabrisas, en este documento será considerado siempre el lugar geométrico del 95° percentil.
+Las áreas así definidas serán limitadas por una línea perimetral de 25,0 mm en el contorno interior de la "abertura de luz" determinándose de esta forma el 100% de las áreas, debiendo las escobillas barrer los porcentajes indicados en las tablas anexas.
+
+5. Ensayos.
+5.1. Ensayo del sistema limpiador del parabrisas.
+5.1.1. Condiciones de ensayo:
+5.1.1.1. La temperatura ambiente deberá estar comprendida entre 10°C y 38°C.
+5.1.1.2. La temperatura del agua deberá ser de 38°C como máximo.
+5.1.1.3. Rociadores de agua: deberán estar dispuestos dos rociadores de manera de que provean un flujo de agua simétricamente distribuido sobre la superficie transparente del parabrisas, a un caudal no menor de 820 cm3/min.
+5.1.1.4. Dureza del agua: no debe ser mayor de 200 mg de carbonato de calcio (CaCO3) por litro de agua.
+5.1.2. Panel de ensayo: consiste en una estructura capaz de mantener durante el ensayo, la relación apropiada de la superficie transparente del sistema limpiaparabrisas y sus componentes, según lo establecido por el fabricante del vehículo (figura 1).
+5.1.3. Durabilidad: Usando el equipamiento y las condiciones de ensayo descriptas en los ítem 5.1.1 y 5.1.2, el sistema limpiaparabrisas, excepto el elemento limpiador, funcionará correctamente después de operar 1.500.000 ciclos. La escobilla limpiaparabrisas funcionará correctamente después de operar 500.000 ciclos, debiendo limpiar todavía el 75% del patrón de barrido efectivo.
+
+TABLA I
+AUTOMOVILES DE PASAJEROS CON ANCHO TOTAL INFERIOR A 1.525 MM
+
+
+PORCENTAJE MINIMO DE		ANGULOS DE GRADOS
+AREA
+BARRIDO
+IZQUIERDA
+DERECHA
+SUPERIOR
+INFERIOR 		A	80	16	49	7	5		B	94	13	46	4	3		C	99	7	15	3	1
+
+
+TABLA II
+AUTOMOVILES DE PASAJEROS CON ANCHO TOTAL
+DE 1.525 MM O SUPERIOR, PERO INFERIOR A 1.625 MM
+
+PORCENTAJE MINIMO DE 		ANGULOS EN GRADOS 					AREA	BARRIDO	IZQUIERDA	DERECHA	SUPERIOR	INFERIOR		A	80	17	51	8	5		B	94	13	49	4	3		C	99	7	15	3	1
+
+
+TABLA III
+AUTOMOVILES DE PASAJEROS CON ANCHO TOTAL DE 1.625 MM O SUPERIOR, PERO INFERIOR A 1.725 MM
+							PORCENTAJE MINIMO DE 		ANGULOS EN GRADOS 					AREA	BARRIDO	IZQUIERDA	DERECHA	SUPERIOR	INFERIOR		A	80	17	53	9	5		B	94	14	51	5	3		C	99	8	15	4	1
+TABLA IV
+AUTOMOVILES DE PASAJEROS CON ANCHO TOTAL DE 1.725 MM O SUPERIOR
+							PORCENTAJE MINIMO DE 		ANGULOS EN GRADOS 					AREA	BARRIDO	IZQUIERDA	DERECHA	SUPERIOR	INFERIOR		A	80	18	56	10	5		B	94	14	53	5	3		C	99	10	15	5	1
+
+
+ANEXO I
+LUGAR GEOMETRICO DE LOS OJOS DE LOS CONDUCTORES
+
+Objetivo. Determinar el lugar geométrico de los ojos de los diversos tipos antropométricos de conductores, a ser utilizados para su localización en el vehículo por medio de coordenadas cartesianas.
+
+Aplicación. Este documento se aplica a vehículos en que los sistemas de regulación del asiento del conductor tiene una dirección principal en sus movimientos, la que será hacia adelante y hacia atrás. En los casos que el asiento disponga de otros grados de libertad, serán regulados a las respectivas posiciones medias.
+
+
+3. Definiciones.
+3.1. Lugar geométrico de los ojos. Análisis estadísticos determinan que existe un lugar geométrico representativo de la posición de los ojos del conductor para cada vehículo, en función de la localización del asiento (L 17). En este documento se establecen seis posiciones de localización (L 17) partiendo de un mínimo de 100 mm y un máximo de 162,5 mm, escalonados a través de incrementos de 12,5mm (100; 112,5; 125; 137,5; 150; 162,5).
+Cada uno de estos lugares geométricos es representado por una vista en planta y una vista lateral. En la vista en planta aparecen tres elipses correspondiente al ojo izquierdo en 90°, 95º y 99° percéntiles; y tres elipses correspondientes al ojo derecho en los mismos 90°, 95° y 99° percéntiles.
+En la vista lateral existirán solamente tres elipses correspondientes a los tres ángulos percéntiles anteriores, dado que las elipses del ojo izquierdo y derecho coinciden en esta vista. La figura 2 ilustra los seis lugares referidos.
+Los diagramas en estos lugares geométricos en escala 1:1 y en papel indeformable están disponibles en la entidad normalizadora del país signatario.
+3.2. Línea de referencia del parabrisas. Es la línea resultante de la intersección de la superficie externa del parabrisas en un plano horizontal 625 mm por encima del punto de referencia del asiento, de acuerdo con lo mostrado en la figura 5.
+3.3. Línea de referencia en la vista en planta. Es aquella definida como línea X-X, determinada en el ítem 4.4.
+3.4. De acuerdo a lo ilustrado en la figura 6.
+
+4. Localización de los lugares geométricos de los ojos. La localización de los lugares geométricos de los ojos de los conductores para los diseños debe ser efectuada de la siguiente manera:
+4.1. Determinar en el proyecto el "punto de referencia del asiento", de forma tal que:
+4.1.1.Simule el punto de articulación entre el torso humano y la cadera, en el respaldo del asiento en posición vertical.
+4.1.2. Tenga las coordenadas que establecen la relación con la estructura del vehículo, determinada en el proyecto.
+4.1.3. Determine la posición normal más desplazada hacia atrás, para cada uno de los asientos previstos para el conductor o pasajero.
+4.1.4. Sirva como base para la construcción del asiento.
+4.2. Localizando el asiento en la máxima posición hacia atrás y en la máxima posición hacia (9) adelante, determínese la localización en proyección horizontal, llamada valor (L17).
+4.3. En la vista lateral: Con el asiento en la máxima posición hacia atrás, trazar una línea (Z-Z) vertical a partir del punto de referencia del asiento, trazar una línea (X-X) horizontal conforme a la figura 3. Posicionar el diagrama del lugar geométrico de los ojos haciendo coincidir las líneas (X-X) y (Z-Z) de este diagrama con las líneas (X-X) y (Z-Z) trazadas conforme a lo descripto y posteriormente trazar el contorno especificado.
+4.4. En la vista en planta:
+4.4.1.En vehículos con asientos enterizos: Trazar una línea (Y-Y) perpendicular a la línea del eje longitudinal del vehículo pasando por el punto de referencia del asiento.
+También trazar una línea (X-X) externamente al eje del volante de dirección paralela a la línea del eje longitudinal del vehículo localizada a 15% de la dimensión entre el eje de la superficie externa del volante hacia el conductor y la moldura de la puerta izquierda. Esta dimensión del 15% puede ser determinada tomándose la mitad de la distancia entre las molduras de las puertas (W3) por debajo de los vidrios, y la línea perpendicular a la línea del eje longitudinal del vehículo que contiene el eje de la superficie externa del volante hacia el conductor restando de W 3/2 la distancia entre el eje de la superficie externa del volante de dirección y la línea del eje longitudinal del vehículo (W7) y multiplicando el resultado de dicha sustracción por 0,15, en la vista en planta.
+Una fórmula para determinar la distancia de la línea (X-X) en relación con la línea del eje longitudinal del vehículo está dada por:
+0,85 W 7 + 0,075 W3
+Colocar el diagrama del lugar geométrico de los ojos coincidiendo las líneas (X -X) y (Y - Y) y trazar el contorno especificado conforme a la figura 5.
+4.4.2. En vehículos con asientos individuales:
+4.4.2.1. Trazar una línea (X - X) paralela a la línea del eje longitudinal del vehículo, pasando por el eje del asiento del conductor y una línea (X -Y) perpendicular a la línea del eje longitudinal del vehículo, pasando por el punto de referencia del asiento en la posición de máximo desplazamiento hacia atrás. Colocar el diagrama del lugar geométrico de los ojos coincidiendo las líneas (X - X) y (Y - Y) y trazar el contorno especificado conforme a la figura 4.
+4.4.2.2. La línea (X - X) paralela a la línea del eje longitudinal del vehículo, de modo que el eje geométrico de los ojos del conductor se sitúe en la línea del eje longitudinal del asiento definido para el conductor.
+4.5. El lugar geométrico a ser utilizado, deberá ser aquel que el diseño indica el valor L 17, más próximo a la posición del punto de referencia del asiento, conforme a lo determinado en el parágrafo 4.2.
+
+NOTA: Las figuras 5, 6 y 7 muestran como ejemplo una localización de la vista lateral de la elipse, lugar geométrico de los ojos del 95° percéntil, la vista en planta de la misma localización, y una vista de un parabrisas con las intersecciones de los planos superior, inferior, izquierdo y derecho que determinan las áreas A, B, C, usadas en el documento referido al sistema limpiaparabrisas.
+
+FIGURA 1
+
+
+FIGURA 2
+
+FIGURA 3
+
+FIGURA 4
+
+
+FIGURA 5
+
+
+FIGURA 6
+
+FIGURA 7
+
+
+SISTEMAS DE LIMPIAPARABRISAS
+
+FE DE ERRATAS
+
+Donde dice:							Debe decir:
+(1) Esta norma						Este reglamento
+Esta norma						Este reglamento
+(3)superficie transparente					parabrisa
+(4) sistema limpiaparabrisa	sistema limpiaparabrisa con paletas limpiadoras
+(5) el elemento limpiador	lámina limpiadora
+(6) de la localización	del desplazamiento
+(7) se establecen 6 posiciones de localización	especifican 6 largos de desplazamiento
+(8) percentiles	por ciento
+(9) localización	el desplazamiento

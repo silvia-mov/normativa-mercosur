@@ -1,0 +1,62 @@
+Resolución GMC N° 09/21
+Título: MODELO DE DATOS DE LAS DECLARACIONES ADUANERAS DEL MERCOSUR (DEROGACIÓN DE LA RESOLUCIÓN GMC N° 39/15)
+Fecha de aprobación: 26/08/2021
+Vigencia: Vigente (Vigente desde su aprobación el 26/8/2021 - Articulo 5 a) Decisión CMC Nº 23/00.)
+Idioma del texto: ES
+Archivo original: 85761_ATT1Z0TQ.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4114).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 09/21
+
+MODELO DE DATOS DE LAS DECLARACIONES
+ADUANERAS DEL MERCOSUR
+ (DEROGACIÓN DE LA RESOLUCIÓN GMC N° 39/15)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, el Acuerdo sobre Facilitación del Comercio del MERCOSUR, las Decisiones N° 50/04, 54/04, 17/10, 27/10, 56/10 y 29/19 del Consejo del Mercado Común y la Resolución N° 39/15 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que por Decisión CMC N° 17/10 se estableció el "Documento Único Aduanero del MERCOSUR" (DUAM) como el modelo de datos comunes para integrar las declaraciones de las destinaciones y operaciones aduaneras en el MERCOSUR como paso indispensable para la armonización de los procedimientos de gestión aduanera.
+
+Que el DUAM debe contemplar lo establecido en la Recomendación del Consejo de Cooperación Aduanera de fecha 27 de junio de 2009, relativa al uso del Modelo de Datos de la Organización Mundial de Aduanas (OMA), por lo que corresponde tener presente en esta etapa, la alineación de sus datos con los del Modelo de Datos de la OMA, en materia de nombres, definiciones e identificaciones, previsión esta que permitirá iniciar nuevas etapas en la adopción gradual del lenguaje universal establecido en el Modelo de Datos de la OMA, facilitando el intercambio de información entre los usuarios de la misma.
+
+Que el 12 de junio de 2015, los Directores de Aduana de los Estados Partes del MERCOSUR, aprobaron el proyecto "Armonización Modelo de Datos de las Declaraciones Aduaneras del MERCOSUR (MODDA)"; cuyo principal objetivo consistió en evaluar los datos de las declaraciones aduaneras de los Estados Partes y avanzar hacia su identificación común, tomando en consideración los estándares internacionales y el Modelo de Datos de la OMA.
+
+Que el desarrollo del proyecto incluyó el asesoramiento de expertos de la OMA en el transcurso de los trabajos, la participación de los integrantes del Grupo de Trabajo (GT MODDA) en el ámbito del Data Model Project Team (DMPT) de la OMA y la aprobación por parte de la OMA de requerimientos de adecuación del Modelo de Da-
+tos en función de las necesidades específicas de la región.
+
+
+Que dicho proyecto se desarrolló en el ámbito del Comité Técnico N° 2 "Asuntos Aduaneros y Facilitación del Comercio" habiéndose alcanzado los objetivos establecidos para una interpretación unívoca del modelo de datos del MERCOSUR respecto del Modelo de Datos de la OMA, los que se encuentran alineados con los compromisos asumidos en el Acuerdo de Facilitación del Comercio del MERCOSUR.
+
+Que, en virtud de los trabajos realizados, los datos que fueron acordados para el Modelo de Datos de las Declaraciones Aduaneras del MERCOSUR se encuentran alineados con el Modelo de Datos de la OMA.
+
+Que teniendo en cuenta la dinámica del comercio exterior y la necesidad de capitalizar el esfuerzo realizado para su uso como referencia en las necesidades de intercambio de información entre los Estados Partes del MERCOSUR y eventualmente con terceros países y grupos de países, resulta recomendable establecer métodos de actualización que contemplen el mapeo de los procesos de gestión aduanera vinculados a las operaciones comerciales.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco del artículo 1 de la Decisión CMC Nº 17/10, el "Modelo de Datos de las Declaraciones Aduaneras del MERCOSUR" (MODDA), armonizado con el Modelo de Datos de la Organización Mundial de Aduanas (OMA), que consta como Anexo y forma parte de la presente Resolución. Dicho Anexo se encuentra en los idiomas español, portugués e inglés.
+
+Art. 2 - Instruir a la Comisión de Comercio del MERCOSUR (CCM) para que, a través del Comité Técnico N° 2 "Asuntos Aduaneros y Facilitación del Comercio" (CT N° 2), elabore actualizaciones del MODDA cuando:
+
+a) resulte necesario en virtud de modificaciones en los estándares internacionales que fueron tomados como referencia del mismo;
+
+b) surjan necesidades de intercambio de información de datos de las declaraciones aduaneras de los Estados Partes que no estén consideradas en el modelo;
+
+c) resulte necesario para la armonización e interpretación uniforme de los datos del modelo;
+
+d) se susciten otras situaciones que lo ameriten, en función a la evolución del comercio exterior.
+
+
+Art. 3 - Los Estados Partes utilizarán el MODDA aprobado por la presente Resolución en todos aquellos proyectos que impliquen el intercambio de información e implementación de sistemas vinculados con los datos de las declaraciones aduaneras de los Estados Partes, y de los Estados Partes con terceros países o grupos de países.
+
+Art. 4 - La CCM podrá realizar los ajustes al Anexo de la presente Resolución que fueren necesarios, mediante Directivas.
+
+Art. 5 - Derogar la Resolución GMC N° 39/15.
+
+Art. 6 - Esta Resolución no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 26/VIII/21.
+
+3

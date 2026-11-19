@@ -1,0 +1,138 @@
+Resolución GMC N° 26/99
+Título: Reglamento Técnico MERCOSUR sobre Muestreo y Tolerancias de Productos Premedidos Comercializados en Unidades de Masa de Valor Nominal Desigual
+Fecha de aprobación: 10/06/1999
+Vigencia: Derogada (Vigente desde el 19/11/2006 - Art. 40 POP. Será derogada por la Resolución GMC Nº 16/10, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 17718_RES_026-1999_ES_RTM_Muestreo_Toler-Premedidos_Acta 2_99.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1400).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N°26/99
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE MUESTREO Y TOLERANCIAS DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE MASA DE VALOR NOMINAL DESIGUAL
+
+
+      VISTO: El Artículo 13 del Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones N°152/96 y 38/98 del Grupo Mercado Común y la Recomendación N°19/98 del SGT N°3 "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que resulta necesario complementar el Sistema de Tolerancias y muestreo que deberá ser aplicado a los productos premedidos.
+
+Que tal sistema de control está destinado a facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción, y a eliminar barreras técnicas que sean obstáculo a la libre circulación de productos premedidos.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Muestreo y Tolerancias de Productos Premedidos Comercializados en Unidades de Masa de Valor Nominal Desigual", en sus versiones en español y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	Ministerio de Economía y Obras  y Servicios Públicos
+
+Brasil:		Instituto Nacional de Metrología, Normalizaçäo e Qualidade Industrial
+
+Paraguay:	Instituto Nacional de Tecnología y Normalización
+
+Uruguay:	Ministerio de Industria, Energía y Minería.
+
+
+Art. 3 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del día 10 de setiembre de 1999.
+
+
+XXXIV GMC - Asunción,10/VI/99
+
+ANEXO
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE
+MUESTREO Y TOLERANCIA DE PRODUCTOS PREMEDIDOS COMERCIALIZADOS EN UNIDADES DE MASA CON CONTENIDO NOMINAL DESIGUAL
+
+1. OBJETIVO
+
+Este Reglamento Técnico Metrológico establece los criterios para la verificación del contenido neto de productos premedidos comercializados en unidades de masa con contenido nominal desigual.
+
+2. APLICACIÓN
+
+Se  aplicará al control metrológico de productos premedidos, que por su naturaleza no pueden tener su contenido neto igual, comercializados en unidades de masa.
+
+3. DEFINICIONES
+
+3.1. Lote
+	A los efectos de este Reglamento Técnico Metrológico, se considerará lote a la cantidad del mismo tipo de producto, procesado por un mismo fabricante, fraccionador o responsable por la indicación cuantitativa, de contenido nominal desigual, envasado y medido sin la presencia del consumidor y en condiciones de comercialización.
+
+3.2. Tolerancia individual ( T )
+	Es la diferencia tolerada para menos, entre el contenido efectivo y el contenido nominal, que se encuentra establecido en la Tabla I de este Reglamento.
+
+4. TOMA DE MUESTRAS
+
+La muestra será tomada de acuerdo con la Tabla II de este Reglamento.
+
+5. TOLERANCIA INDIVIDUAL
+
+De acuerdo con la Tabla I de este Reglamento.
+
+6. DETERMINACIÓN DEL CONTENIDO NETO
+
+Será efectuado por control destructivo.
+
+
+7. CRITERIOS DE ACEPTACIÓN
+
+El producto sometido a control es aceptado cuando se cumple con lo establecido en el item 7.1.
+7.1. Criterio Individual.
+Es admitido un máximo de "c" unidades abajo de Qn-T, que se encuentra establecido en la Tabla II.
+
+
+TABLA I
+
+Tolerancia
+Individual
+Contenido declarado ( en gramos ) Qn
+Errores máximos tolerados (en gramos) T
+Hasta 500
+5
+mayor de 500 a 5000
+10
+mayor de 5000
+20
+
+
+TABLA II
+
+Tamaño del lote
+
+Tamaño de la muestra
+
+Criterio de aceptación individual ( c )
+hasta 13
+Todos
+0
+14 a 50
+13
+1
+51 a 90
+20
+1
+91 a 150
+32
+2
+151 a 280
+50
+3
+281 a 500
+80
+5
+501 a 1200
+125
+7
+mayor de 1200
+200
+10
+
+1
+
+
+1

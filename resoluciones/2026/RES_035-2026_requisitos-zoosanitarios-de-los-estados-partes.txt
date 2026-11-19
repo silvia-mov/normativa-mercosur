@@ -1,0 +1,373 @@
+Resolución GMC N° 35/26
+Título: REQUISITOS ZOOSANITARIOS DE LOS ESTADOS PARTES PARA LA IMPORTACIÓN DE OVOCITOS Y EMBRIONES PORCINOS CONGELADOS
+Fecha de aprobación: 10/09/2026
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 114564_RES_035-2026_ES_Req Zoo import embrion y ovocitos porcinos congel.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/5412).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 35/26
+
+REQUISITOS ZOOSANITARIOS DE LOS ESTADOS PARTES PARA LA IMPORTACIÓN DE OVOCITOS Y EMBRIONES PORCINOS CONGELADOS
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión N° 06/96 del Consejo del Mercado Común y las Resoluciones N° 07/17 y 05/24 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario establecer requisitos zoosanitarios para la importación de ovocitos y de embriones porcinos congelados destinados a los Estados Partes, de conformidad con las normas internacionales de referencia de la Organización Mundial de Sanidad Animal (OMSA), así como un modelo de Certificado Veterinario Internacional (CVI) para acompañar el envío de estos ovocitos y embriones hasta el lugar de destino en los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art 1 - Aprobar los "Requisitos zoosanitarios de los Estados Partes para la importación de ovocitos y embriones porcinos congelados" y el "Modelo de Certificado Veterinario Internacional" que constan como Anexos I y II, respectivamente, y forman parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 8 "Agricultura" (SGT Nº 8), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes de 05/IX/2027.
+CXL GMC - Montevideo, 10/IX/26
+
+
+ANEXO I
+
+REQUISITOS ZOOSANITARIOS DE LOS ESTADOS PARTES PARA LA IMPORTACIÓN DE OVOCITOS Y EMBRIONES PORCINOS CONGELADOS
+
+
+CAPÍTULO I
+DEFINICIONES
+
+Art. 1 - A efectos de la presente Resolución, se entiende por:
+
+1.1. Autorizado: oficialmente autorizado, aprobado, acreditado, certificado o registrado por la autoridad veterinaria o por la autoridad competente del país exportador.
+
+1.2. Centro de Colecta y Procesamiento de Embriones y Ovocitos (CCPEO): el establecimiento aprobado del país exportador en el cual se realizan los procedimientos de colecta, procesamiento y almacenamiento de embriones y ovocitos, ya sea que posean animales dadores de embriones y ovocitos, o que estos sean provistos por el equipo de colecta para su procesamiento. En todos los casos, deben reunir las condiciones estipuladas en el Código Terrestre.
+
+1.3. Certificado Veterinario Internacional (CVI): el documento emitido oficialmente por la autoridad veterinaria del país exportador en el cual se certifica el cumplimiento de los requisitos zoosanitarios establecidos en la presente Resolución, de manera integral o equivalente al modelo que figura en el Anexo II.
+
+1.4. Código Terrestre: el Código Sanitario para los Animales Terrestres de la OMSA.
+
+1.5. Congelado: el producto sometido al proceso de preservación mediante congelación o vitrificación según los términos del Manual de la IETS.
+
+1.6. Donante: la hembra de la cual se colectan los ovocitos y embriones, y el macho dador del cual se origina el semen utilizado en la producción de los embriones.
+
+1.7. Embrión: la fase inicial de desarrollo de un animal en la cual es posible transferirlo a una hembra receptora, colectado in vivo o producido in vitro.
+
+1.8. Equipo de colecta: el equipo de colecta de embriones in vivo y ovocitos o el equipo de producción de embriones in vitro, es un grupo de técnicos, capacitados para proceder a la colecta y al tratamiento de ovocitos y embriones, así como a la producción y a la manipulación, autorizados por la autoridad veterinaria del país exportador, de acuerdo con las condiciones establecidas en el Código Terrestre. El equipo de colecta incluye por lo menos un veterinario responsable técnico.
+
+1.9. Establecimiento: toda instalación, construcción o, en el caso de la cría al aire libre, todo entorno o lugar donde se mantienen las donantes de los ovocitos y los embriones.
+
+1.10. IETS: la Sociedad Internacional de Tecnología de Embriones, por su sigla en inglés.
+
+1.11. Manual de la IETS: el manual técnico publicado por la IETS con directrices para procedimientos generales de tecnología embrionaria, normas mínimas para el manejo higiénico de embriones, resumen actualizado de los resultados sobre interacciones embrión-patógeno y métodos de estandarización recomendados para el etiquetado de los recipientes de ovocitos y embriones congelados.
+
+1.12. Manual Terrestre: el Manual de Pruebas de diagnóstico y Vacunas para los Animales Terrestres de la OMSA.
+
+1.13. OMSA: la Organización Mundial de Sanidad Animal.
+
+1.14. Ovocitos: las fases haploides de la ovogénesis, incluidos los ovocitos secundarios y los óvulos.
+
+1.15. País exportador: el país en el cual se recolectan, producen almacenan y envían los ovocitos y embriones.
+
+1.16. Porcino: el animal ungulado de la especie Sus scrofa.
+
+1.17. Rebaño: el grupo de animales de la misma especie criados bajo control humano. Se considera que un rebaño constituye una unidad epidemiológica.
+
+1.18. Responsable técnico: la persona con formación adecuada, registrada o licenciada por el organismo veterinario competente del país exportador para ejercer la medicina veterinaria en dicho país, y autorizada por la autoridad veterinaria o por la autoridad competente del país exportador, responsable de las actividades realizadas por el CCPEO o equipo de colecta conforme con la presente Resolución.
+
+1.19. Servicio Veterinario Oficial (SVO): la combinación de personas y organismos gubernamentales responsables de la supervisión, reglamentación y ejecución de las actividades relacionadas con la sanidad animal, la seguridad de los productos de origen animal, el control de enfermedades y el cumplimiento de las normas veterinarias nacionales, internacionales y del Código Terrestre.
+
+Art. 2 - Las definiciones contenidas en los glosarios del Código Terrestre y del Manual Terrestre y en las disposiciones del Manual de la IETS se aplican, de forma complementaria, a la presente Resolución.
+
+
+CAPÍTULO II
+DEL PAÍS EXPORTADOR
+
+Art. 3 - El país exportador debe ser un país miembro de la OMSA.
+
+
+CAPÍTULO III
+DEL RECONOCIMIENTO DEL ESTATUS ZOOSANITARIO
+
+Art. 4 - El reconocimiento oficial por la OMSA o el cumplimiento con las condiciones del Código Terrestre para ser considerado como libre de las enfermedades exigidas en la presente Resolución debe contar con el reconocimiento por el Estado Parte importador, según lo establecido por la Resolución GMC Nº 05/24, que aprueba los criterios generales para la evaluación y el reconocimiento del estatus sanitario de los países exportadores, y sus modificaciones.
+
+Art. 5 - La enfermedad para la cual se requieran pruebas de diagnóstico o vacunaciones podrá ser exceptuada de la realización de dichas pruebas cuando exista reconocimiento de la condición de libre por el Estado Parte importador, y tales certificaciones deberán estar incluidas en el CVI.
+
+
+CAPÍTULO IV
+DEL USO DE SEMEN
+
+Art. 6 - El semen utilizado para la producción de los embriones debe cumplir con la Resolución GMC N° 07/17, que aprueba los requisitos zoosanitarios de los Estados Partes para la importación de semen porcino congelado, y sus modificaciones.
+
+
+CAPÍTULO V
+DE LAS PRUEBAS DIAGNÓSTICAS Y LAS VACUNAS
+
+Art. 7 - Las pruebas diagnósticas exigidas en la presente Resolución deben realizarse de acuerdo con lo dispuesto en el Manual Terrestre y en un laboratorio autorizado.
+
+Art. 8 - Las vacunas exigidas en la presente Resolución deben ser producidas de acuerdo con lo dispuesto en el Manual Terrestre y estar autorizadas.
+
+Art. 9 - Las tomas de muestras para la realización de las pruebas diagnósticas exigidas en la presente Resolución deben ser supervisadas por el responsable técnico del CCPEO o por personal del SVO.
+
+
+CAPÍTULO VI
+DEL CENTRO DE COLECTA Y PROCESAMIENTO DE EMBRIONES Y OVOCITOS
+
+Art. 10 - El CCPEO, ya sea un equipo de recolección o un equipo de producción, debe estar previamente autorizado por la autoridad veterinaria del país exportador.
+
+Art. 11 - En el proceso de autorización se deben considerar las condiciones establecidas en los capítulos pertinentes del Código Terrestre y la autorización debe ser suspendida si el SVO del país exportador determina cualquier restricción zoosanitaria relacionada con enfermedades que afecten a los porcinos y que incluyan la ubicación del animal, del rebaño, del establecimiento o del CCPEO.
+
+Art. 12 - La recolección, el procesamiento y el almacenamiento de los ovocitos y embriones deben realizarse bajo la supervisión del responsable técnico de CCPEO.
+
+
+CAPÍTULO VII
+DE LA DONANTE
+
+Art. 13 - La donante debe haber permanecido en el país exportador por un período mínimo de sesenta (60) días antes de la recolección de los ovocitos y embriones.
+
+Art. 14 - La donante debe haber sido aislada, por un período mínimo de quince (15) días previos a la recolección de los ovocitos y embriones, en un establecimiento en el cual ningún animal residente haya presentado signos clínicos de enfermedad infectocontagiosa y en el cual durante los ciento ochenta (180) días previos a la recolección de los ovocitos y embriones, no se notificaron oficialmente casos de:
+
+14.1. Síndrome Reproductivo y Respiratorio Porcino (PRRS).
+
+14.2. Gastroenteritis Transmisible Porcina (TGE).
+
+14.3. Diarrea Epidémica Porcina (PED).
+
+Art. 15 - Durante los treinta (30) días posteriores a la recolección de los ovocitos y embriones no deben haberse notificado oficialmente en el establecimiento casos de las enfermedades infectocontagiosas mencionadas en la presente Resolución.
+
+Art. 16 - La donante debe haber sido sometida a un examen clínico previo a la recolección de los ovocitos y embriones y debe estar libre de cualquier signo clínico de enfermedad infectocontagiosa en el momento de la recolección.
+
+Art. 17 - La donante no debe haber sido utilizada para reproducción o monta natural durante al menos los treinta (30) días previos a la fecha de la recolección de los ovocitos y embriones ni durante el período comprendido entre la fecha de la primera toma de muestra para los análisis diagnósticos y la recolección de los ovocitos y embriones.
+
+
+CAPÍTULO VIII
+DE LA RECOLECCIÓN, EL PROCESAMIENTO Y EL ALMACENAMIENTO DE LOS OVOCITOS Y EMBRIONES
+
+Art. 18 - Los procedimientos de recolección, procesamiento y almacenamiento de los ovocitos y embriones deben cumplir con las recomendaciones establecidas en los capítulos pertinentes del Código Terrestre y, si corresponde, en el Manual de la IETS.
+
+Art. 19 - Los ovocitos y embriones deben almacenarse congelados en ampolla o pajuela estéril conteniendo ovocitos y embriones de una única donante y único dador, y deben ser etiquetadas, conforme a las indicaciones del Manual de la IETS, identificadas individualmente, incluyendo, al menos, la fecha de recolección, el lote y la donante o, en caso de embriones, ambos donantes.
+
+Art. 20 - Todos los insumos y equipamientos utilizados en los procedimientos de recolección, procesamiento o almacenamiento deben estar libres de contaminantes físicos, químicos y biológicos.
+
+Art. 21 - Los ovocitos y embriones deben ser almacenados congelados en el país exportador durante, por lo menos, treinta (30) días antes del envío al Estado Parte importador.
+
+Art. 22 - El contenedor debe ser preferentemente de primer uso, nuevo, o estar limpio y desinfectado, y el nitrógeno líquido no debe haber sido utilizado previamente.
+
+Art. 23 - El contenedor debe ser precintado bajo supervisión del responsable técnico del CCPEO o por personal del SVO y el número del precinto debe constar en el CVI.
+
+
+CAPÍTULO IX
+DE LA INFORMACIÓN ZOOSANITARIA
+
+Art. 24 - Con relación a la Fiebre Aftosa (FA):
+
+24.1. La donante debe haber permanecido en un país o zona reconocida por la OMSA como libres de FA, o en un compartimento reconocido por el Estado Parte importador como libre de FA, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones.
+
+24.2. La donante no debe haber manifestado ningún signo clínico de FA en el día de la recolección de los ovocitos y embriones.
+
+Art. 25 - Con relación a la Peste Porcina Africana (PPA):
+
+25.1. La donante debe haber permanecido en un país, zona o compartimento libre de PPA, conforme al Código Terrestre, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones.
+
+25.2. La donante no debe haber manifestado ningún signo clínico de PPA en el día de la recolección de los ovocitos y embriones.
+
+Art. 26 - Con relación a la Peste Porcina Clásica (PPC):
+
+26.1. La donante debe haber permanecido en un país, zona o compartimento libre de PPC, conforme al Código Terrestre, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones.
+
+26.2. La donante no debe haber manifestado ningún signo clínico de PPC en el día de la recolección de los ovocitos y embriones.
+
+Art. 27 - Con relación al Síndrome Reproductivo y Respiratorio Porcino (PRRS):
+
+27.1. La donante no debe haber manifestado ningún signo clínico de PRRS en el día de la recolección de los ovocitos y embriones, y
+
+o bien,
+
+27.2.1. La donante debe haber permanecido en un país, zona o compartimento libre de PRRS, conforme al Código Terrestre, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones, o
+
+27.2.2. La donante debe haber sido sometida a dos (2) tomas de muestras para pruebas serológicas para la detección de la infección por el virus del PRRS, ambas con resultados negativos, realizadas con un intervalo de al menos veintiún (21) días entre ellas, y la segunda muestra debe haberse tomado dentro de los quince (15) días previos a la recolección de los ovocitos y embriones.
+
+Art. 28 - Con relación a la Enfermedad de Aujeszky (EA):
+
+28.1. La donante no debe haber manifestado ningún signo clínico de EA en el día de la recolección de los ovocitos y embriones, y
+
+o bien,
+
+28.2.1. La donante debe haber permanecido en un país o zona libre de EA, conforme al Código Terrestre, en el día de la recolección de los ovocitos y embriones, o
+
+28.2.2. La donante debe haber permanecido en un establecimiento libre de EA, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones, y debe haber sido sometida a una (1) toma de muestra para la realización de prueba serológica ELISA o de aglutinación por látex para la detección de anticuerpos contra el virus completo de EA, con resultado negativo, realizada dentro de los quince (15) días previos a la recolección de los ovocitos y embriones.
+
+Art. 29 - Con relación a la Brucelosis Porcina (infección por Brucella suis):
+
+29.1. La donante no debe haber manifestado ningún signo clínico de infección por Brucella suis en el día de la recolección de los ovocitos y embriones.
+
+29.2. La donante no debe haber sido vacunada contra la infección por Brucella suis durante los tres (3) últimos años previos a la recolección de los ovocitos y embriones.
+
+29.3.1. La donante debe haber permanecido en un país o zona libre de infección por Brucella suis, o,
+
+29.3.2. La donante debe haber permanecido en un rebaño libre de infección por Brucella suis y haber sido sometida a pruebas de I-ELISA, de fluorescencia polarizada o de antígeno acidificado tamponado (AAT), con resultados negativos, realizadas a intervalos de seis (6) meses.
+
+
+CAPÍTULO X
+DE LA CERTIFICACIÓN
+
+Art. 30 - El modelo de CVI debe ser previamente acordado entre el país exportador y el Estado Parte importador y debe estar redactado en los idiomas de ambos países, en caso de controversia, prevalecerá el idioma del Estado Parte importador.
+
+Art. 31 - El original del CVI debe ser completado y firmado por un veterinario oficial de la autoridad veterinaria del país exportador.
+
+31.1. El color de la firma y de los sellos debe ser diferente al de los caracteres impresos, excepto los sellos en seco o marcas de agua; o, en caso de emisión digital o electrónica, las medidas de seguridad serán acordadas bilateralmente entre el país exportador y del Estado Parte importador.
+
+31.2. El original de cada CVI debe consistir en una única hoja de papel, anverso y reverso, o, si se necesitara más espacio, en varias hojas que constituyan un conjunto indivisible.
+
+Art. 32 - El original del CVI debe acompañar el envío hasta el punto de ingreso del Estado Parte importador.
+
+Art. 33 - El país exportador podrá solicitar al Estado Parte importador, en términos de equivalencia, alternativas que ofrezcan garantías sanitarias para dar cumplimiento a las exigencias de la presente Resolución. Para tal fin, el país exportador deberá brindar la información que respalda y sustenta su solicitud. Las mencionadas alternativas deberán ofrecer garantías sanitarias equivalentes a la original.
+
+Art. 34 - El CVI tendrá una validez máxima de sesenta (60) días corridos a partir de su fecha de emisión.
+
+
+CAPÍTULO XI
+DEL INCUMPLIMIENTO
+
+Art. 35 - En caso de indicios de incumplimiento de los términos de la presente Resolución, la autoridad veterinaria del Estado Parte importador podrá retener la remesa, hasta que dichos indicios o dudas sean aclarados, rechazarla o destruirla, cuyos costos serán asumidos por el importador.
+ANEXO II
+MODELO DE CERTIFICADO ZOOSANITARIO PARA LA IMPORTACIÓN DE OVOCITOS Y EMBRIONES PORCINOS CONGELADOS
+
+Nº de Referencia del Certificado(*): ....................
+(*) Repetir el número en todas las páginas.
+
+PARTE I. IDENTIFICACIÓN DE LA REMESA
+País exportador:
+
+Nombre de la autoridad veterinaria:
+
+Estado Parte importador:
+
+Nº de Autorización de Importación(*):
+
+(*) De corresponder.
+
+I. ORIGEN
+País de origen:
+
+Nombre y dirección del exportador:
+
+Nombre y dirección del Centro de Colecta y Procesamiento de Embriones y Ovocitos (CCPEO):
+
+Nº de registro del CCPEO:
+
+Cantidad de contenedores criogénicos (en números y letras):
+
+Nº de los precintos de los contenedores criogénicos:
+
+En caso de cambio de precinto, indicar en este campo nuevo número y justificar(*):
+
+(*) Uso exclusivo de la autoridad veterinaria del país exportador.
+
+II. DESTINO
+Estado Parte de destino:
+
+Nombre y dirección del importador:
+
+
+III. TRANSPORTE
+Medio de transporte:
+
+País de tránsito(*):
+
+Punto de salida del país exportador:
+
+Punto de ingreso al Estado Parte:
+
+(*) De corresponder.
+
+IV. IDENTIFICACIÓN
+Nº de identificación de la donante
+
+Raza de la donante
+Nº de identificación
+del dador(1)
+
+Raza del dador(1)
+
+Fecha de colecta(2) o cultivo(3)
+
+Cantidad de embriones u ovocitos
+
+Identificación
+de la ampolla o pajuela
+
+
+(1) Tachar lo que no corresponda.
+(2) Para embriones y ovocitos colectados in vivo
+(3) Para embriones producidos in vitro
+
+PARTE II. INFORMACIÓN SANITARIA
+El veterinario oficial abajo firmante certifica que:
+1. Con relación a la Fiebre Aftosa (FA):
+1.1. La donante permaneció en un país o zona reconocida por la OMSA como libres de FA, o en un compartimento reconocido por el Estado Parte importador como libre de FA, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones.
+1.2. La donante no manifestó ningún signo clínico de FA en el día de la recolección de los ovocitos y embriones.
+2. Con relación a la Peste Porcina Africana (PPA):
+2.1. La donante permaneció en un país, zona o compartimento libre de PPA, conforme al Código Terrestre, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones.
+2.2. La donante no manifestó ningún signo clínico de PPA en el día de la recolección de los ovocitos y embriones.
+3. Con relación a la Peste Porcina Clásica (PPC)
+3.1. La donante permaneció en un país, zona o compartimento libre de PPC, conforme al Código Terrestre, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones.
+3.2. La donante no manifestó ningún signo clínico de PPC en el día de la recolección de los ovocitos y embriones.
+4. Con relación al Síndrome Reproductivo y Respiratorio Porcino (PRRS):
+4.1. La donante no manifestó ningún signo clínico de PRRS en el día de la recolección de los ovocitos y embriones, y
+o bien,
+4.2.1. La donante permaneció en un país, zona o compartimento libre de PRRS, conforme al Código Terrestre, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones, (1) o
+4.2.2. La donante fue sometida a dos (2) tomas de muestras para pruebas serológicas para la detección de la infección por el virus del PRRS, ambas con resultados negativos, realizadas con un intervalo de al menos veintiún (21) días entre ellas, y la segunda muestra se tomó dentro de los quince (15) días previos a la recolección de los ovocitos y embriones. (1)
+
+Prueba
+Fecha
+1º test
+
+
+2º test
+
+
+(1) Tachar lo que no corresponda.
+5. Con relación a la Enfermedad de Aujeszky (EA):
+5.1. La donante no manifestó ningún signo clínico de EA en el día de la recolección de los ovocitos y embriones, y
+o bien,
+5.2.1. La donante permaneció en un país o zona libre de EA, conforme al Código Terrestre, en el día de la recolección de los ovocitos y embriones, (1) o
+5.2.2. La donante permaneció en un establecimiento libre de EA, desde su nacimiento o durante, al menos, los tres (3) meses previos a la recolección de los ovocitos y embriones, y fue sometida a una (1) toma de muestra para la realización de prueba serológica ELISA o de aglutinación por látex para la detección de anticuerpos contra el virus completo de EA, con resultado negativo, realizada dentro de los quince (15) días previos a la recolección de los ovocitos y embriones. (1)
+
+Prueba
+Fecha
+Test
+
+
+(1) Tachar lo que no corresponda.
+6. Con relación a la Brucelosis Porcina (infección por Brucella suis):
+6.1.  La donante no manifestó ningún signo clínico de infección por Brucella suis en el día de la recolección de los ovocitos y embriones.
+6.2. La donante no fue vacunada contra la infección por Brucella suis durante los tres (3) últimos años previos a la recolección de los ovocitos y embriones.
+6.3.1. La donante permaneció en un país o zona libre de infección por Brucella suis, (1) o,
+6.3.2. La donante permaneció en un rebaño libre de infección por Brucella suis y fue sometida a pruebas de I-ELISA, de fluorescencia polarizada o de antígeno acidificado tamponado (AAT), con resultados negativos, realizadas a intervalos de seis (6) meses. (1)
+(1) Tachar lo que no corresponda.
+7. En el caso de embriones, el semen utilizado para su producción cumple con la Resolución GMC Nº 07/17, que aprueba los requisitos zoosanitarios de los Estados Partes para la importación de semen porcino congelado, y sus modificaciones.
+8. Las pruebas diagnósticas exigidas en el presente CVI se realizaron de acuerdo con lo dispuesto en el Manual Terrestre y en un laboratorio autorizado.
+9. Las vacunas exigidas en el presente CVI fueron producidas de acuerdo con lo dispuesto en el Manual Terrestre y se encuentran debidamente autorizadas.
+10. Las tomas de muestras para la realización de las pruebas diagnósticas exigidas en el presente CVI fueron supervisadas por el responsable técnico del Centro de Colecta y Procesamiento de Embriones y Ovocitos (CCPEO) o por personal del Servicio Veterinario Oficial (SVO).
+11. La recolección, el procesamiento y el almacenamiento de los ovocitos y embriones se realizaron bajo la supervisión del responsable técnico del CCPEO.
+12. La donante permaneció en el país exportador por un período mínimo de sesenta (60) días antes de la recolección de los ovocitos y embriones.
+13. La donante fue aislada, por un período mínimo de quince (15) días previos a la recolección de los ovocitos y embriones, en un establecimiento en el cual ningún animal residente presentó signos clínicos de enfermedad infectocontagiosa y en el cual, durante los ciento ochenta (180) días previos a la recolección de los ovocitos y embriones, no se notificaron oficialmente casos de:
+13.1. Síndrome Reproductivo y Respiratorio Porcino (PRRS);
+13.2. Gastroenteritis Transmisible Porcina (TGE);
+13.3. Diarrea Epidémica Porcina (PED).
+14. Durante los treinta (30) días posteriores a la recolección de los ovocitos y embriones no se notificaron oficialmente en el establecimiento casos de las enfermedades infectocontagiosas mencionadas en el presente CVI.
+15. La donante fue sometida a un examen clínico previo a la recolección de los ovocitos y embriones y no presentó signos clínicos de enfermedades infectocontagiosas en el momento de la recolección.
+16. La donante no fue utilizada para reproducción o monta natural durante al menos los treinta (30) días previos a la fecha de la recolección de los ovocitos y embriones ni durante el período comprendido entre la fecha de la primera toma de muestra para los análisis diagnósticos y la recolección de los ovocitos y embriones.
+17. Los procedimientos de recolección, procesamiento y almacenamiento de los ovocitos y embriones cumplieron con las recomendaciones establecidas en los capítulos pertinentes del Código Terrestre y, si corresponde, en el Manual de la IETS.
+18. Los ovocitos y embriones se almacenaron congelados en ampolla o pajuela estéril conteniendo ovocitos y embriones de una única donante y único dador, fueron etiquetadas, conforme a las indicaciones del Manual de la IETS, identificadas individualmente, incluyendo la fecha de recolección, el lote y la donante o, en caso de embriones, ambos donantes.
+19. Todos los insumos y equipamientos utilizados en los procedimientos de recolección, procesamiento o almacenamiento están libres de contaminantes físicos, químicos y biológicos.
+20. Los ovocitos y embriones se almacenaron congelados en el país exportador durante, por lo menos, treinta (30) días antes del envío al Estado Parte importador.
+21. El contenedor es de primer uso, nuevo o está limpio y desinfectado, y el nitrógeno líquido no fue utilizado previamente.
+22. El contenedor fue precintado bajo supervisión del responsable técnico del CCPEO o por personal del SVO y el número del precinto consta en el CVI.
+23. Este CVI tiene una validez de sesenta (60) días corridos a partir de la fecha de su emisión.
+
+Lugar de emisión: ....................
+Fecha: ....................
+Nombre completo y Firma del Veterinario Oficial: ....................
+Sello del Servicio Veterinario Oficial:
+1

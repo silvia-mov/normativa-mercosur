@@ -1,0 +1,258 @@
+Resolución GMC N° 07/26
+Título: REQUISITOS DE BUENAS PRÁCTICAS PARA LA ORGANIZACIÓN Y EL FUNCIONAMIENTO DE CENTRALES DE PROCESAMIENTO DE MATERIALES Y ESTERILIZACIÓN
+Fecha de aprobación: 20/05/2026
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 112192_RES_007-2026_ES_Req Buenas Practicas Central Materiales Esterilizacion.DOCX
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/5298).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 07/26
+
+REQUISITOS DE BUENAS PRÁCTICAS PARA LA ORGANIZACIÓN Y EL FUNCIONAMIENTO DE CENTRALES DE PROCESAMIENTO DE MATERIALES Y ESTERILIZACIÓN
+
+      VISTO: el Tratado de Asunción y el Protocolo de Ouro Preto.
+
+CONSIDERANDO:
+
+Que es necesario armonizar requisitos mínimos de Buenas Prácticas para la organización y el funcionamiento de las Centrales de Procesamiento de Materiales y Esterilización (CPME), promoviendo la seguridad del paciente, la eficacia de los procesos y la calidad asistencial en los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar los "Requisitos de Buenas Prácticas para la organización y el funcionamiento de Centrales de Procesamiento de Materiales y Esterilización", que constan como Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Los Requisitos de Buenas Prácticas establecidos en la presente Resolución deben orientar la reglamentación de la organización y del funcionamiento de Centrales de Procesamiento de Materiales y Esterilización (CPME) en los Estados Partes, pudiendo agregarse requisitos complementarios por la autoridad nacional competente conforme a las necesidades de cada ordenamiento jurídico nacional.
+
+Art. 3 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo N° 11 "Salud" (SGT Nº 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 4 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes, antes de 16/XI/2026.
+
+CXXXIX GMC - Asunción, 20/V/26
+
+
+ANEXO
+
+REQUISITOS DE BUENAS PRÁCTICAS PARA LA ORGANIZACIÓN Y EL FUNCIONAMIENTO DE CENTRALES DE PROCESAMIENTO DE MATERIALES Y ESTERILIZACIÓN
+
+CAPÍTULO I
+ DISPOSICIONES INICIALES
+
+1 - OBJETIVO
+
+1.1. La presente Resolución tiene por objetivo establecer requisitos de buenas prácticas para la organización, la operación y el control de calidad de las Centrales de Procesamiento de Materiales y Esterilización (CPME), abarcando las etapas del procesamiento de productos médicos, con foco en la reducción de riesgos y en la seguridad del paciente.
+
+2 - ÁMBITO DE APLICACIÓN
+
+2.1. La presente Resolución se aplica a prestadores de servicios públicos y privados que realicen alguna de las etapas del procesamiento de productos médicos, incluso cuando dichas etapas estén tercerizadas parcial o íntegramente.
+
+2.2. Siempre que la presente Resolución haga referencia a requisitos legales o regulatorios, debe entenderse conforme a la legislación nacional vigente en cada Estado Parte y a las directrices de la autoridad sanitaria competente.
+
+CAPÍTULO II - CONDICIONES ORGANIZATIVAS
+
+3 - SISTEMA DE GESTIÓN DE LA CALIDAD
+
+3.1. La CPME debe implementar y mantener un Sistema de Gestión de la Calidad (SGC) acorde a la complejidad y al riesgo, asegurando la estandarización de procesos, la trazabilidad y la mejora continua.
+
+3.2. El flujo físico y funcional debe obedecer a la lógica unidireccional (área sucia → área limpia), con barreras físicas y/o técnicas para prevenir la contaminación cruzada.
+
+3.3. Solo deben procesarse dispositivos compatibles con la capacidad instalada y con las instrucciones de uso del fabricante, conforme a la legislación nacional vigente en cada Estado Parte.
+
+4 - TERCERIZACIÓN
+
+4.1. La tercerización está permitida, siempre que la organización contratada se encuentre habilitada ante la autoridad competente del respectivo Estado Parte y posea un SGC compatible.
+
+4.2. La tercerización del procesamiento de productos médicos para el servicio de salud debe formalizarse mediante un contrato de prestación de servicios. El contrato debe definir de forma expresa: el alcance, responsabilidades, logística de distribución, criterios de aceptación y devolución, indicadores de desempeño, manual de procedimiento o especificaciones técnicas, niveles de servicio, requisitos de trazabilidad y auditorías, conforme a la legislación nacional vigente en cada Estado Parte.
+
+4.3. El prelavado en el punto de uso permanece bajo responsabilidad del servicio de salud de origen. Los protocolos de prelavado deben ser acordados entre el servicio de salud y la empresa tercerizada.
+
+4.4. El contratante tiene corresponsabilidad por el procesamiento y debe auditar periódicamente al contratado.
+
+5 - RESPONSABILIDADES Y ATRIBUCIONES
+
+5.1. La CPME debe contar con un:
+
+5.1.1. Responsable legal, que debe asegurar recursos, infraestructura, conformidad normativa, y garantizar el acceso de las autoridades competentes a las instalaciones y a los registros.
+
+5.1.2. Responsable Técnico (RT), que es un profesional habilitado conforme a la legislación nacional vigente en cada Estado Parte, con autoridad para aprobar procedimientos, interrumpir actividades inseguras y liberar o retener cargas procesadas.
+
+5.1.2.1. El RT debe coordinar validaciones y calificaciones, gestión de cambios, calificación de proveedores y aprobación de indicadores.
+
+6 - COMITÉ DE PROCESAMIENTO
+
+6.1. Se instituye un comité de procesamiento que actuará cuando existan tecnologías de alta complejidad, dispositivos implantables o críticos, tercerización de etapas críticas, cambios relevantes de proceso, o por determinación de la autoridad competente del Estado Parte.
+
+6.2. Debe estar constituido por el Responsable Técnico de la CPME y representantes de las siguientes áreas: control de infecciones, epidemiología; ingeniería clínica o biomédica; enfermería de unidad consumidora; calidad, gestión de riesgos; invitados ad hoc cuando sea necesario, con calificación conforme a la legislación nacional vigente en cada Estado Parte.
+
+6.3. Las competencias del comité son: aprobar políticas y alcance; evaluar validaciones o calificaciones y cambios; definir y acompañar indicadores; analizar no conformidades y eventos; evaluar servicios tercerizados; emitir dictámenes y reportar cuando sea solicitado.
+
+6.4. El comité debe realizar reuniones periódicas y extraordinarias cuando sea necesario y redactar actas y registros conforme a la legislación nacional vigente
+en cada Estado Parte.
+
+7 - EQUIPO TÉCNICO
+
+7.1. El equipo técnico de la CPME debe ejecutar actividades conforme a los protocolos vigentes, registrando evidencias y comunicando eventuales desvíos del proceso.
+
+8 - GESTIÓN DE PROGRAMA DE EDUCACIÓN PERMANENTE DE LA CPME
+
+8.1. La CPME debe capacitar al personal técnico de manera teórico‑práctica y basada en riesgo, sobre seguridad del paciente; bioseguridad; tecnologías de limpieza, desinfección, esterilización; y trazabilidad. Dicha capacitación debe ser inicial y continua, con una frecuencia mínima anual.
+
+8.2. La CPME debe registrar contenidos, carga horaria, evaluación y comprobación de competencia.
+
+9 - GESTIÓN DE TECNOLOGÍAS
+
+9.1. La CPME debe gestionar el ciclo de vida de los dispositivos a procesar y de los equipos (selección, instalación, operación, mantenimiento, calibración y descarte), conforme a la legislación nacional vigente en cada Estado Parte.
+
+9.2. La CPME debe utilizar únicamente insumos, sanitizantes, indicadores y embalajes regulados en cada Estado Parte.
+
+9.3. La CPME debe realizar Calificación de Instalación (CI), Calificación de Operación (CO) y Calificación de Desempeño (CD) de equipos de limpieza, desinfección y esterilización, con recalificaciones definidas por análisis de riesgo.
+
+9.4. La CPME debe mantener un listado actualizado de los dispositivos procesados, incluida la clasificación por riesgo y los requisitos específicos, como lúmenes, materiales sensibles al calor y/o a la humedad.
+
+10 - GESTIÓN DE LOS PROCESOS DE TRABAJO
+
+10.1. La CPME debe elaborar y mantener Procedimientos Operativos Estándar (POE) para todas las etapas, con base en evidencias y en la legislación nacional vigente de cada Estado Parte.
+
+10.2. La CPME debe garantizar la técnica correcta de higiene de manos, correcto uso de Elementos de Protección Personal (EPP) y vestimenta exclusiva del área correspondiente para evitar contaminación cruzada, así como garantizar la limpieza y desinfección ambiental conforme a un plan validado.
+
+10.3. La CPME debe establecer gestión de cambios para alteraciones de insumos, equipos, métodos o configuraciones de carga.
+10.4. La CPME debe establecer criterios de recepción, almacenamiento, validez, trazabilidad, distribución y liberación.
+
+11 - GESTIÓN DE DOCUMENTOS
+
+11.1. La CPME debe contar con habilitación sanitaria correspondiente, organigrama, relación de actividades, caracterización de cargas, informes de calificación o validación y registros de proceso.
+
+11.2. La CPME debe conservar registros por el plazo mínimo definido conforme a la legislación nacional vigente en cada Estado Parte, el cual nunca será inferior al necesario para garantizar la trazabilidad clínica.
+
+12 - GESTIÓN DE LA INFRAESTRUCTURA E INSUMOS
+
+12.1. La CPME debe dimensionar las áreas conforme a la demanda y a la complejidad, diferenciando el circuito "sucio", "limpio" y "de almacenamiento", a fin de prevenir la contaminación cruzada.
+
+12.2. La CPME debe implementar climatización y presión diferencial compatibles con el riesgo y con normas técnicas reconocidas, conforme a la legislación nacional vigente en cada Estado Parte.
+
+12.3. La CPME debe contar con los insumos e instalaciones acordes (agua, vapor, aire comprimido/gases, entre otras) con especificaciones y monitoreo.
+
+12.3.1. El monitoreo de la calidad del agua debe considerar el agua potable como mínimo; purificada cuando sea requerido por la legislación nacional vigente en cada Estado Parte y conforme a las instrucciones de uso del fabricante.
+
+13 - GESTIÓN DE PROVEEDORES
+
+13.1. La CPME debe calificar a los proveedores con requisitos de calidad definidos, manteniendo evidencias de evaluación y desempeño, conforme a la legislación nacional vigente en cada Estado Parte.
+
+14 - ACCIONES PREVENTIVAS, CORRECTIVAS Y DE MEJORA CONTINUA
+
+14.1. La CPME debe establecer y mantener procedimientos documentados para gestionar acciones correctivas y preventivas, que incluyan el análisis de datos de calidad, la identificación e investigación de no conformidades, la implementación y verificación de la efectividad de las acciones adoptadas, el mantenimiento de registros, la comunicación de información relevante y la adopción de medidas en campo, incluyendo el retiro de productos cuando corresponda.
+
+14.2. La CPME debe implementar una investigación de causa raíz, acciones correctivas y/o preventivas, auditorías internas y análisis de tendencias.
+
+14.3. La CPME debe mantener un canal y un procedimiento para la gestión de reclamaciones, incluida la evaluación de riesgo y la comunicación a las autoridades competentes cuando corresponda.
+
+15 - GESTIÓN DE RESIDUOS
+
+15.1. La CPME debe tratar y descartar residuos conforme a la legislación nacional vigente en cada Estado Parte.
+
+16 - GESTIÓN DEL REÚSO DE PRODUCTOS MÉDICOS
+
+16.1. En ningún caso se permite el procesamiento de un producto médico regularizado como de reúso prohibido.
+
+16.2. La CPME debe definir y controlar el número máximo de reúsos, cuando corresponda, inutilizar y/o descaracterizar el material antes de su disposición final, a fin de evitar su recuperación y reutilización.
+
+CAPÍTULO III
+ REQUISITOS SANITARIOS PARA LAS ETAPAS DEL PROCESAMIENTO
+
+17 - PRELAVADO
+
+17.1. La CPME debe implementar prelavado inmediato en el punto de uso para evitar el secado de residuos o adherencia visible de restos biológicos y la formación de biopelícula, así como definir dispositivos que requieren intervención específica.
+
+18 - RECEPCIÓN
+
+18.1. La CPME debe verificar la integridad, la identificación, la conformidad con la lista aprobada y condiciones de transporte, así como rechazar los ítems no conformes con el registro y la devolución.
+
+19 - LAVADO Y SECADO
+
+19.1. La CPME debe desmontar y exponer todas las superficies, así como priorizar la limpieza automatizada cuando esté indicada (por ejemplo: ultrasónica con flujo en los lúmenes).
+
+19.2. La CPME debe enjuagar con agua de calidad especificada, secar con aire seco y filtrado, exento de aceite o gas inerte, conforme a las instrucciones de uso del fabricante.
+
+19.3. La CPME debe verificar la eficacia de la limpieza, incluso en puntos críticos, antes de las etapas subsecuentes.
+
+
+20 - INSPECCIÓN, MANTENIMIENTO, REPARACIONES Y ENSAYOS
+
+20.1. La CPME debe realizar inspección visual del instrumental, utilizando magnificación adecuada y verificar su funcionamiento e integridad cuando corresponda.
+
+20.2. Los elementos que no cumplan con los criterios deben segregarse y enviarse a mantenimiento o reparación por el personal calificado.
+
+21 - PREPARACIÓN, MONTAJE Y ACONDICIONAMIENTO, EMBALAJE, Y ROTULADO
+
+21.1. La CPME debe estandarizar el tipo de carga y asegurar que el peso y el volumen no superen los límites establecidos durante la validación del proceso de esterilización.
+
+21.2. La CPME debe utilizar sistemas de embalaje compatibles con el método de esterilización, manteniendo sistema de barrera estéril y apertura aséptica.
+
+21.3. El rotulado debe contener como mínimo: identificación del producto, carga/lote, fecha de procesamiento, fecha límite de uso, método de procesamiento, identificación de la CPME y del responsable por la liberación, y control de reúso, cuando corresponda.
+
+22 - DESINFECCIÓN
+
+22.1. En caso de requerir desinfección, se deben seleccionar las tecnologías adecuadas, dependiendo del nivel de desinfección requerido y del tipo de dispositivo a tratar.
+
+22.2. La sala de desinfección química debe ser exclusiva y con control ambiental.
+
+22.3. Debe realizarse monitoreo de los parámetros críticos de la tecnología como concentración, pH, temperatura, tiempo de exposición, conforme a las instrucciones de uso del fabricante.
+
+23 - ESTERILIZACIÓN
+
+23.1. La CPME debe seleccionar la tecnología conforme a las instrucciones de uso de los fabricantes y a la compatibilidad del dispositivo/embalaje.
+
+23.2. La CPME debe validar el proceso y revalidarlo cuando haya cambios relevantes, así como estandarizar configuraciones de carga.
+
+23.3. La CPME debe monitorear cada ciclo con indicadores físicos, químicos y, cuando corresponda, biológicos, con tratamiento de desvíos.
+
+
+24 - CALIFICACIONES Y CALIBRACIONES
+
+24.1. La CPME debe ejecutar las etapas de calificación del equipo: Calificación de Instalación (CI), Calificación de Operación (CO) y Calificación de Desempeño (CD), conforme a la legislación nacional vigente en cada Estado Parte.
+
+24.2 Las recalificaciones deben programarse periódicamente en función del análisis de riesgo.
+
+24.3. Las calibraciones deben ser trazables a patrones reconocidos conforme a la legislación nacional vigente en cada Estado Parte.
+
+25 - MONITOREO Y CONTROL CONTINUO
+
+25.1. La CPME debe definir indicadores clave y límites de acción, así como analizar tendencias e implementar mejoras.
+
+26 - LIBERACIÓN
+
+26.1. La CPME debe establecer los siguientes criterios objetivos de liberación por carga: conformidad de parámetros de proceso, integridad, rotulado y plazo de validez.
+
+26.2. La liberación es un acto formal del Responsable Técnico o profesional designado y debe seguir el principio Primero que Vence, Primero que Sale (PVPS).
+
+27 - ALMACENAMIENTO DEL MATERIAL PROCESADO
+
+27.1. La CPME debe garantizar las condiciones que preserven la integridad del embalaje, el sistema de barrera estéril y la esterilidad, así como organizar el almacenamiento por PVPS, el control del stock y plazo de validez del material procesado.
+
+27.2. La CPME debe realizar el control de la temperatura y evitar la exposición a la luz solar.
+
+28 - TRANSPORTE Y DISTRIBUCIÓN
+
+28.1. La CPME debe utilizar recipientes que eviten daños y/o contaminación, así como asegurar la trazabilidad entre la CPME y las unidades usuarias.
+
+28.2. Cuando se realice un transporte fuera del servicio de salud, debe utilizarse un vehículo exclusivo para ese fin.
+
+28.2.1. Cuando el vehículo de transporte sea el mismo para los productos médicos procesados y los productos médicos aún no procesados, el área de carga del vehículo debe estar físicamente dividida en compartimentos separados, con accesos independientes y debidamente identificados.
+
+29 - VALIDACIÓN DEL PROCESAMIENTO
+
+29.1. La CPME debe mantener el estado validado de todas las etapas del procesamiento mediante controles de rutina, calificación periódica y revalidaciones por cambio o desvío crítico.
+
+30 - TRAZABILIDAD
+
+30.1. La CPME debe implementar un sistema de trazabilidad que registre el dispositivo procesado, el número de carga/lote, la fecha del ciclo, la tecnología de procesamiento utilizada, el responsable del procesamiento y la unidad asistencial usuaria.
+
+30.1.1. Para dispositivos implantables, la CPME debe asegurar el registro en la Historia Clínica del paciente.
+
+30.2. La CPME debe realizar auditorías a fin de monitorear los procesos y el sistema de gestión de calidad.
+
+31 - DISPOSICIONES FINALES
+
+31.1. La CPME debe mantener evidencias del cumplimiento de estos requisitos y presentarlas, cuando se solicite, a la autoridad competente de cada Estado Parte.
+
+2

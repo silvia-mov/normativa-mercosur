@@ -1,0 +1,117 @@
+Resolución GMC N° 10/21
+Título: MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 26/08/2021
+Vigencia: Vigente (Vigente desde el 16/08/2024 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 85762_RES_010-2021_ES_Modif NCM y AEC.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4115).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 10/21
+
+MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N° 07/94, 22/94 y 31/04 del Consejo del Mercado Común y la Resolución Nº 26/16 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que se hace necesario ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera, teniendo en cuenta que la VII Enmienda del Sistema Armonizado entrará en vigor el 1° de enero de 2022.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, que constan como Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, aprobadas por la presente Resolución entrarán en vigor a partir del 01/IX/2021, debiendo los Estados Partes asegurar su incorporación a su respectivo ordenamiento jurídico nacional previo a esa fecha.
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 26/VIII/21.
+
+
+ANEXO
+
+SITUACIÓN ACTUAL
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC %
+NCM
+DESCRIPCIÓN
+AEC %
+3204.15.10
+"Índigo blue" según Colour Index 73.000
+14
+3204.15.10
+"Índigo blue" según Colour Index 73000
+2
+8525.80.1
+Cámaras de televisión
+
+8525.80.1
+Cámaras de televisión
+
+
+8525.80.11
+
+Con tres o más captores de imagen
+0 BK
+
+8525.80.11
+
+Con tres o más captores de imagen
+0 BK
+
+8525.80.12
+
+Con sensor de imagen basado en semiconductores tipo CCD, de más de 490 x 580 pixeles activos, sensibles a intensidades de iluminación inferiores a 0,20 lux
+0 BK
+
+8525.80.12
+
+Con sensor de imagen basado en semiconductores tipo CCD, de más de 490 x 580 pixeles activos, sensibles a intensidades de iluminación inferiores a 0,20 lux
+0 BK
+
+8525.80.13
+
+Las demás para captar imágenes exclusivamente en el espectro infrarrojo con longitud de onda superior o igual a 2 micrómetros pero inferior o igual a 14 micrómetros
+0 BK
+
+8525.80.13
+
+SUPRIMIDO
+
+
+8525.80.19
+
+Las demás
+
+20
+
+8525.80.14
+
+Con sensor de imagen basado en semiconductores tipo CMOS, de más de 490 x 580 pixeles activos, sensibles a intensidades de iluminación inferiores a 0,20 lux
+14 BK
+
+
+8525.80.15
+
+Las demás para captar imágenes exclusivamente en el espectro infrarrojo con longitud de onda superior o igual a 2 micrómetros
+(micras, micrones)* pero inferior o igual a 14 micrómetros (micras, micrones)*
+
+
+0 BK
+
+
+8525.80.19
+
+Las demás
+
+20
+
+
+Incluir en la tabla de ABREVIATURAS Y SÍMBOLOS la siguiente línea:
+
+CMOS
+Complementary Metal Oxide Semiconductor (Semiconductor de Metal-Óxido Complementario)
+
+
+3

@@ -1,0 +1,266 @@
+Resolución GMC N° 19/95
+Título: ADECUACION DEL ARANCEL EXTERNO COMUN
+Fecha de aprobación: 03/08/1995
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 25677_RES_019-1995_ES_AdecuacionAEC.DOC
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1877).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 19/95
+
+ADECUACION DEL ARANCEL EXTERNO COMUN
+
+	VISTO: El Tratado de Asunción, las Decisiones Nº 9/94 y 22/94 del Consejo del Mercado Común y la Directiva Nº 7/95 de la Comisión de Comercio del MERCOSUR.
+
+CONSIDERANDO:
+
+	Que es necesario perfeccionar la Nomenclatura Común del MERCOSUR con miras a la eficacia del Arancel Externo Común como instrumento de política comercial común;
+
+	Que con tal motivo la Comisión de Comercio del MERCOSUR aprobó la Directiva CCM Nº 7/95,
+
+EL GRUPO MERCADO COMUN
+RESUELVE :
+
+Art. 1 - Ratificar la Directiva CCM Nº 7/95 por la cual se aprueban adecuaciones puntuales a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, aprobados por la Decisión CMC Nº 22/94.
+
+
+XVIII GMC - Asunción, 03/VIII/95
+
+
+1.  ELIMINACION DE CODIGO
+
+2918.90.7
+2918.90.71
+2918.90.72
+2918.90.73
+2918.90.79
+2918.90.92
+2922.50.91
+8501.64.10
+8501.64.90
+8517.30.70
+
+2. SUSTITUCION DE CODIGO
+
+
+DONDE DICE:					DEBE DECIR:
+
+2932.90.80						2932.90.8
+5404.10.10						5404.10.1
+5407.10.10						5407.10.1
+5407.10.20						5407.10.2
+5503.10.00						5503.10
+5509.12.00						5509.12
+5512.91.00						5512.91
+5512.99.00						5512.99
+5601.22.10						5601.22.1
+5601.30.00						5601.30
+5603.00.10						5603.00.1
+5603.00.90						5603.00.9
+7220.20.00						7220.20
+7225.40.00						7225.40
+7226.20.00						7226.20
+7604.29.10						7604.29.1
+8501.64						8501.64.00
+8517.81.20						8517.81.2
+8521.90.00						8521.90
+8523.20.00						8523.20
+9021.30.10						9021.30.1
+
+
+3. MODIFICACION/INCORPORACION DE A.E.C.
+
+2821.10.30		10%
+2850.00.20		10 %
+2916.20.12		12%
+3301.25.10		12%
+3301.29.70		12%
+3906.90.92		14%
+8501.64.00		14%	BK
+9018.32.20		  2%
+9018.90.50		14%	BK
+9022.11.32		  0%	BK
+
+
+4. SUSTITUCION DE TEXTO
+
+2821.10.11	Con un contenido de Fe2O3 superior o igual al 85%, en peso
+2918.90.94	Tiratricol  (Triac) y su sal sódica
+2922.19.92	Fumaratos de Benciclano
+2931.00.46	Sales de dimetilestaño, de dibutilestaño y de dioctilestaño, de los
+		ácidos carboxílicos o tioglicólicos y de sus ésteres
+2932.90.60	Ivermectina; Abamectina
+2932.90.70	Tiocolchicósido; Moxidectina
+2932.90.8	Acido lactobiónico, sus sales y sus ésteres; derivados de estos productos
+2934.90.36	Clormezanona
+3003.90.35	A base de Tiratricol (Triac), de su sal sódica o de Lactofosfato de calcio
+3003.90.65	A base de Nitrovin o de Moxidectina
+3004.90.25	A base de Tiratricol (Triac), de su sal sódica o de Lactofosfato de calcio
+3004.90.55	A base de Nitrovin o de Moxidectina
+3301.29.50	De palo de rosa; de palma rosa
+3301.29.70	De eucalipto
+3808.30.22	A base de Atrazina, de Alaclor o de Diurón
+3811.21.50	Peptizantes o detergentes
+3811.90.10	Dispersantes sin cenizas, para aceites de petróleo combustibles, con un
+		contenido de aceites minerales o solventes aromáticos superior o igual al
+		30%, en peso
+8445.19.27	Para el estirado de lana y de otras fibras de longitud similar
+8471.20.13	De peso inferior a 3,5 kg, con teclado alfanumérico de por lo menos
+		70 teclas y con una pantalla ("display") de área superior a 140 cm2 e
+		inferior a 560 cm2 ("notebook")
+8471.92.30	Las demás impresoras, con velocidad de impresión superior o igual a
+		30 páginas por minuto
+8473.30.24	Cabezales de impresión, excepto los térmicos y los de chorro de tinta
+8473.30.25	Cabezales de impresión, térmicos o de chorro de tinta
+8517.81.2	Aparatos concentradores
+8527.90.11	Con presentación  alfanumérica del mensaje en pantalla ("display")
+
+8537.10.11	Con procesador y bus de 32 bits o superior, incorporando recursos
+		gráficos y ejecución de macros, resolución inferior o igual a 1
+		micrómetro y capacidad de conexión digital para servoaccionamientos,
+		con monitor policromático
+8541.10.2 	Montados, aptos para montaje en superficie ("SMD-Surface Mounted
+		Device")
+8542.11.2 	Montados, aptos para montaje en superficie ("SMD-Surface Mounted
+		Device")
+8706.00.10	De los vehículos de la partida 87.02
+8706.00.20	De los vehículos de las subpartidas 8701.10; 8701.30; 8701.90 o del ítem
+		8704.10.00
+8707.90.10	De los vehículos de las subpartidas 8701.10; 8701.30; 8701.90 o del ítem
+		8704.10.00
+8708.29.1	De los vehículos de las subpartidas 8701.10; 8701.30; 8701.90 o del ítem
+		8704.10.00
+8708.31.10	De los vehículos de las subpartidas 8701.10; 8701.30; 8701.90 o del ítem
+		8704.10.00
+8708.40.10	De los vehículos de las subpartidas 8701.10; 8701.30; 8701.90 o del ítem
+		8704.10.00
+8708.50.10	De los vehículos de las subpartidas 8701.10; 8701.30; 8701.90 o del ítem
+		8704.10.00
+8708.60.10	De los vehículos de las subpartidas 8701.10; 8701.30; 8701.90 o del ítem
+		8704.10.00
+8708.70.10	De ejes propulsores de los vehículos de las subpartidas 8701.10; 8701.30;
+		8701.90 o del ítem 8704.10.00
+8708.94.1	De los vehículos de las subpartidas 8701.10; 8701.30; 8701.90 y del ítem
+		8704.10.00
+
+5. INCORPORACIONES
+
+1302.19.30	De Ginkgo biloba, seco                                                  	            2%
+2309.90.40	Preparaciones que contengan Diclazuril				 2%
+2926.90.95	Cianoacrilatos de etilo                                                           	12%
+2932.90.81	Acido lactobiónico                                                               		12%
+2932.90.82	Lactobionato de calcio                                                          	12%
+2932.90.83	Bromolactobionato de calcio                                              		12%
+2932.90.89	Los demás                                                                             	  	2%
+2932.90.98	Lactogluconato de calcio                                                     		12%
+5404.10.11	Reabsorbibles                                                                           	  2%
+5404.10.19	Los demás                                                                               	16%
+5407.10.11	De aramida (poliamida aromática)                                       	  	2%
+5407.10.19	Los demás                                                                                 	18%
+5407.10.21	De aramida (poliamida aromática)                                         	  2%
+5407.10.29	Los demás                                                                                  	18%
+5503.10.10	De aramida (poliamida aromática)                                              	  2%
+5503.10.90	Los demás                                                                           		16%
+5509.12.10	De aramida (poliamida aromática)                                         	  2%
+5509.12.90	Los demás                                                                              	16%
+5512.91.10	De aramida (poliamida aromática)                                      	  	  2%
+5512.91.90	Los demás                                                                                   	18%
+5512.99.10	De aramida (poliamida aromática)                                          	  2%
+5512.99.90	Los demás                                                                                 	18%
+5601.22.11	De aramida (poliamida aromática)                                             	  2%
+5601.22.19	Los demás                                                                                 	18%
+5601.30.10	De aramida (poliamida aromática)                                          	  2%
+5601.30.90	Los demás                                                                                  	18%
+5603.00.11	De gramaje superior o igual a 37 g/m2 pero inferior o igual
+		a 115 g/m2                                                                              	  2%
+5603.00.19	Los demás                                                                            		18%
+5603.00.20	De aramida (poliamida aromática)                                            	  2%
+5603.00.91	De gramaje superior o igual a 90 g/m2 pero inferior o igual
+		a 650 g/m2                                                                                	  2%
+5603.00.99	Los demás                                                                                   	18%
+6909.19.30	Colmena de cerámica a base de alúmina (Al2O3), sílice
+		(SiO2 ) y óxido de magnesio (MgO), de depuradores catalíticos
+		de gases de escape de vehículos                                             	 2%
+7220.20.10	De anchura inferior o igual a 23 mm.y espesor inferior
+		o igual a 0,1mm							 2%
+7220.20.90	Los demás 								14%
+7225.40.10	De acero, según normas AISI D2 ; D3  o D6 , de espesor
+		inferior o igual a 7mm 						 2%
+7225.40.90	Los demás 								14%
+7226.20.10	De espesor superior o igual a 1mm pero inferior o igual
+		a 4mm									 2%
+7226.20.90	Los demás 								14%
+7604.29.11	Forjadas, de sección transversal circular, de diámetro
+		superior o igual a 400mm pero inferior o igual a 760mm		 2%
+7604.29.19	Las demás 								12%
+8517.81.21	De líneas de abonados (terminal de central o terminal
+		remota)							16%	I
+8517.81.22	De circuitos numéricos (digitales) (DCME-Digital
+		Circuits Multiplication Equipment)				 2%	I
+8517.81.29	Los demás 							16%	I
+8521.90.10	Grabador-reproductor de discos de video regrabables por
+		proceso óptico u óptico-magnético  				0%   BK
+8521.90.90	Los demás 								20%
+8523.20.10	Del tipo de los utilizados en unidades de discos rígidos 	0%	I
+8523.20.90	Los demás 								16%
+8541.10.9 	Los demás
+8541.10.91	Zener 								0%	I
+8541.10.92	De intensidad de corriente inferior o igual a 3A		6%	I
+8541.10.99	Los demás 							6%	I
+8542.11.9 	Los demás
+8542.11.91	Memorias 							8%	I
+8542.11.92	Microprocesadores 						0%	I
+8542.11.93	Microcontroladores 						0%	I
+8542.11.94	Coprocesadores 						0%	I
+8542.11.95	Circuitos del tipo "chipset"					0%	I
+8542.11.99	Los demás 							6%	I
+8543.80.35	Mezclador digital, en tiempo real, con ocho o más entradas 0%	I
+8543.80.50	Simulador de antena para transmisores con potencia igual o
+		superior a 25 kW ("carga fantasma")	        		     	0%     I
+9002.11.20	Lentes de aproximación (lentes "Zoom") para cámaras de
+		televisión, de 20 o más aumentos 				0%    BK
+9018.19.24	Cámaras Gamma                                                                 	 0%    BK
+9021.30.11	Mecánicas                                                                              	0%
+9021.30.19	Las demás                                                                                 	14%
+9021.30.20	Prótesis de arterias vasculares revestidas                                 	  0%
+9022.11.33	Para densitometría ósea,  computarizados 			0%    BK
+9030.20.22	Vectorscopio 							2%    I
+9030.81.40	De medida de parámetros característicos de señales de televisión
+		o video 							2%    I
+9031.80.50	Aparatos para análisis de textiles, computarizados 		0%    BK
+
+
+6. REESTRUCTURACION DE SUBPARTIDA
+
+8471.92.2	Las demás impresoras, con velocidad de impresión inferior a
+		30  páginas por minuto
+8471.92.21	A chorro de tinta líquida, con ancho de impresión
+		inferior o igual a 420 mm                                                        16%	I
+8471.92.22	De transferencia térmica de cera sólida (por ejemplo: "Solid Ink"
+		y "Dye Sublimation")                                                              2%	I
+8471.92.23	A laser, "LED" (Diodos Emisores de Luz) o "LCS" (Sistema
+		de Cristal Líquido), monocromáticas, con ancho de impresión
+		superior a 230 mm y resolución superior o igual a 600 x 600
+		puntos por pulgada                                                                    2%	I
+8471.92.24	A laser, "LED" (Diodos Emisores de Luz) o "LCS" (Sistema
+		de Cristal Líquido), policromáticas                                           2%	I
+8471.92.25	Las demás, a laser, "LED" (Diodos Emisores de Luz) o "LCS"
+		(Sistema de Cristal Líquido), monocromáticas, con ancho de
+		impresión inferior o igual a 420 mm                                       12%	I
+8471.92.26	Las demás, con ancho de impresión superior a 420 mm            2%	I
+8471.92.29	Las demás                                                                                 16%	I
+8525.10.2	De radiodifusión
+8525.10.21	En AM con modulación por ancho  de pulso, totalmente a
+	           	semiconductores, y potencia de salida superior a 10 kW	0%	I
+8525.10.22	En FM con etapa de salida valvular y potencia superior a
+            	30 kW                                                                                  	 0%	I
+8525.10.29	Los demás                                                                           	12%	I
+8525.10.3	De televisión
+8525.10.31	De frecuencia superior a 7 GHz                                              0%	I
+8525.10.32	En banda de UHF de 2.0 a 2.7 GHz, con potencia de salida
+             	de 10 a 100 W                                                                     	 0%	I
+8525.10.33	En banda de UHF con potencia de salida superior a 10 kW   0%	I
+8525.10.34	En banda de VHF con potencia de salida superior  o igual
+              	a 20 kW                                                                                	 0%	I
+8525.10.39	Los demás                                                                             	12%	I

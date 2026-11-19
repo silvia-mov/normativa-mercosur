@@ -1,0 +1,6303 @@
+Resolución GMC N° 14/96
+Título: VERIFICACIÓN DEL CUMPLIMIENTO DE LAS BUENAS PRÁCTICAS DE FABRICACIÓN Y CONTROL EN ESTABLECIMIENTOS DE LA INDUSTRIA FARMACÉUTICA
+Fecha de aprobación: 19/04/1996
+Vigencia: Derogada (Derogada por la Resolución GMC N° 15/09)
+Idioma del texto: ES
+Archivo original: 26056_RES_014-1996_ES_BuenasPractFabricIndFarmaceutica.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1921).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 14/96
+
+
+VERIFICACIÓN DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACIÓN Y CONTROL EN ESTABLECIMIENTOS DE LA INDUSTRIA FARMACEUTICA
+
+
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 4/92, 59/92 y 91/93 del Grupo Mercado Común y la Recomendación Nº 64/94 del SGT Nº 3 "Reglamentos Técnicos".
+
+
+CONSIDERANDO :
+
+
+Que la inspección de establecimientos farmacéuticos es uno de los principales instrumentos de regulación y control en el área de productos para la salud.
+
+
+Que por Res. Nº 4/92 GMC se aprobaron las reglas sobre "Prácticas adecuadas para la fabricación y la inspección de la calidad de los medicamentos".
+
+
+Que por Res. Nº 59/92 GMC se aprobó la "Guía para inspecciones de establecimientos de la industria farmacéutica", que es un instrumento idóneo para el ejercicio de las funciones de fiscalización sanitaria que compete a las autoridades de los Estados Parte.
+
+
+Que el referido documento es una norma en proceso de permanente revisión y en consecuencia la Comisión de Productos para la Salud del SGT Nº 3 ha armonizado modificaciones en los textos y en la denominación del documento, como así también un sistema de calificación para cada uno de los item.
+
+
+Que una norma armonizada para inspecciones de establecimientos farmacéuticos, con su respectiva calificación y evaluación, garantizará la uniformidad de las mismas asegurando niveles de calidad, seguridad y eficacia de los medicamentos elaborados.
+
+
+EL GRUPO MERCADO COMUN
+
+RESUELVE :
+
+
+Art 1 - Aprobar el documento "Verificación del cumplimiento de las buenas prácticas de fabricación y control en establecimientos de la industria farmacéutica" que consta como Anexo y forma parte de la presente Resolución.
+
+
+Art 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+
+Argentina:
+
+Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT)
+
+
+Brasil:
+
+Secretaria de Vigilância Sanitária do Ministério da Saúde
+
+
+Paraguay:
+
+Dirección de Vigilancia Sanitaria del Ministerio de Salud Pública y Bienestar Social
+
+
+Uruguay:
+
+Ministerio de Salud Pública
+
+
+Art 3 - Este documento será actualizado siempre que los Estados Parte acuerden la adopción de nuevas reglamentaciónes sobre Buenas Prácticas de Fabricación y Control recomendadas por la OMS, producto del desarrollo científico y tecnológico del sector.
+
+
+Art 4 - La presente Resolución deberá entrar en vigor en el Mercosur antes del 1º de agosto de 1996.
+
+
+XXI GMC, Buenos Aires, 19 de abril de 1996
+
+
+VERIFICACIÓN DEL CUMPLIMIENTO
+
+DE LAS BUENAS PRACTICAS DE
+
+FABRICACIÓN Y CONTROL (BPF Y C)
+
+EN ESTABLECIMIENTO DE LA
+
+INDUSTRIA FARMACEUTICA
+
+
+CALIFICACIÓN DE LA GUIA DE INSPECCIÓNES
+
+
+I. Calificación y evaluación
+
+
+El criterio establecido para la calificación está basado en el riesgo potencial inherente a cada item en relación a la calidad y seguridad del producto y a la seguridad del trabajador en su interacción con los productos y procesos durante la fabricación.
+
+
+Imprescindible (I)
+
+
+Se considera item Imprescindible aquel que atiende las recomendaciones de buenas prácticas de fabricación y control (BPFC), que puede influir en grado crítico en la calidad o seguridad de los productos y en la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+Se define por Si o No.
+
+
+Necesario (N)
+
+
+Se considera item Necesario aquel que atiende las recomendaciónes de las BPFC, que puede influir en grado menos crítico en la calidad o seguridad de los productos y en la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+Se define por Si o por No.
+
+El item Necesario, no cumplido en la primera inspección será automáticamente tratado como Imprescindible en las inspecciónes siguientes.
+
+
+Recomendable (R)
+
+
+Se considera item Recomendable aquel que atiende las recomendaciones de BPFC que puede influir en grado no crÍtico en la calidad o seguridad de los productos y en la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+Se define por Si o por No.
+
+El item Recomendable no cumplido en la primera inspección será automáticamente tratado como Necesario en las inspecciones siguientes. No obstante nunca será tratado como Imprescindible.
+
+
+Informativo ( INF)
+
+
+Se considera item Informativo aquel que presenta una información descriptiva, que no afecta la calidad o seguridad de los productos y la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+
+Podrá ser respondido opcionalmente por Si o No ó bajo forma de concepto descriptivo.
+
+
+INDICE
+
+
+1.
+ ADMINISTRACIÓN E INFORMACIÓN GENERAL
+
+2.
+ DEPOSITOS
+
+2.A.
+ CONDICIÓNES EXTERNAS
+
+2.B.
+ CONDICIONES INTERNAS
+
+2.C.
+ CONDICIONES GENERALES
+
+2.D.
+ RECEPCIÓN Y ALMACENAMIENTO DE MATERIAS PRIMAS
+
+2.E.
+ RECEPCIÓN Y ALMACENAMIENTO DE MATERIALES DE ENVASE Y EMPAQUE
+
+2.F.
+ RECEPCIÓN Y ALMACENAMIENTO DE PRODUCTOS TERMINADOS
+
+3.
+ DEVOLUCIONES
+
+4.
+ RECOLECCIÓN DE PRODUCTOS DEL MERCADO
+
+5.
+ SISTEMAS E INSTALACIONES DE AGUA
+
+5.A.
+ AGUA POTABLE
+
+5.B.
+ AGUA PURIFICADA
+
+5.C.
+ AGUA PARA INYECTABLES
+
+6
+ PRODUCCIÓN
+
+6.A.
+ ORGANIZACIÓN
+
+6.A.1.
+ FORMULA PATRON
+
+6.A.2.
+ ORDEN DE FABRICACIÓN
+
+6.B.
+ AREAS DE PESADAS Y MEDIDAS
+
+6.C.
+ AREAS PRODUCTIVAS
+
+6.C.1.
+ CONDICIÓNES EXTERNAS
+
+6.C.2.
+ CONDICIÓNES GENERALES
+
+7.
+ PRODUCTOS SOLIDOS Y SEMI-SOLIDOS
+
+7.A.
+ PRODUCTOS ANOVULATORIOS Y HORMONALES
+
+7.B
+ PRODUCTOS PSICOTROPICOS
+
+7.C.
+ PRODUCTOS ANTIBIOTICOS EN GENERAL
+
+7.D.
+ PRODUCTOS CONTENIENDO PENICILANICOS/CEFALOSPORINICOS
+
+7.E.
+ PRODUCTOS CITOSTATICOS U ONCOLOGICOS
+
+8.
+ PRODUCTOS INYECTABLES
+
+8.A.
+ AREA DE LAVADO
+
+8.B.
+ AREA DE PREPARACIÓN
+
+8.C.
+ AREA DE ENVASE - PRODUCTOS CON ESTERILIZACIÓN FINAL
+
+8.D.
+ AREA DE PREPARACIÓN ASEPTICA
+
+8.E.
+ AREA DE ENVASE ASEPTICO - PRODUCTOS NO ESTERILIZABLES TERMINALMENTE.
+
+8.F.
+ AREA DE ESTERILIZACIÓN
+
+8.G.
+ AREA DE INSPECCIÓN
+
+8.H.
+ COLIRIOS SIN ESTERILIZACIÓN FINAL
+
+9.
+ PRODUCTOS LIQUIDOS
+
+10.
+ ENVASADO
+
+11.
+ ROTULADO
+
+12.
+ CONTROL DE CALIDAD
+
+13.
+ GARANTIA DE CALIDAD
+
+14.
+ ACTA DE INSPECCIÓN
+
+
+1- ADMINISTRACIÓN E INFORMACIÓN GENERAL
+
+
+La Empresa deberá presentar la documentación que le sea requerida por el Inspector.
+
+
+1.1.
+ ¿Cuál es la razón social de la empresa?
+ I
+
+
+1.2.
+ ¿Con quién fue hecho el contacto inicial?
+ INF
+
+
+1.3.
+ El farmacéutico responsable está presente?
+ I
+
+
+1.4.
+ ¿Existe prueba de su inscripción en el Organismo Nacional competente?
+ I
+
+
+1.5.
+ ¿Existe autorización del funcionamiento del establecimiento por el Organismo Sanitario competente?
+ I
+
+
+1.6.
+ La empresa posee autorización por Organismos competentes para funciónamiento referente a la localización, protección ambiental y seguridad de instalaciones?
+ I
+
+
+1.7.
+ ¿Fueron exhibidos los planos de los edificios?
+ N
+
+
+1.8.
+ ¿Cuál es la superficie de terreno ocupado por la empresa?
+ INF
+
+
+1.9.
+ ¿Cuál es la superficie total ocupada por la empresa?
+ INF
+
+
+1.10.
+ ¿De cuántos edificios esta compuesta la planta?
+ INF
+
+
+1.11.
+ ¿Cuál es la superficie ocupada por cada edificio?
+ INF
+
+
+1.12.
+ ¿Cuál es el numero de empleados que pertenecen a la empresa?
+ INF
+
+
+1.13.
+ ¿Cuál es el número de empleados que están directamente ligados a operaciones de producción?
+ INF
+
+
+1.14.
+ ¿Fue verificado el cumplimiento del control médico?
+ R
+
+
+1.15.
+ ¿Fue exhibida la lista de los productos de propiedad de la firma que están en comercialización y de los que no lo están?
+ I/R
+
+
+1.16.
+ ¿Todos esos productos están debidamente registrados en el Organismo Sanitario Naciónal competente?
+ I
+
+
+1.17.
+ ¿Cuál es la capacidad de producción del establecimiento por forma farmacéutica?
+ INF
+
+
+1.18.
+ ¿Cuál es la capacidad de producción propia para cada producto fabricado en la empresa
+ INF
+
+
+1.19.
+ ¿Cuál es la capacidad contratada a terceros para cada producto?
+
+OBSERVACIÓN: Como parte de la inspección, deben ser incluídas las empresas con las cuáles se mantienen contratos de producción, los productos involucrados y los volumenes respectivos.
+ INF
+
+
+1.20.
+ ¿Importa materia prima?
+ INF
+
+
+1.21.
+ ¿Importa producto terminado?
+ INF
+
+
+1.22.
+ ¿Exporta materia prima?
+ INF
+
+
+1.23.
+ ¿Exporta producto terminado?
+ INF
+
+
+2- DEPOSITOS
+
+
+(Una evaluación para cada Deposito)
+
+
+2.A. Condiciones externas
+
+
+2.A.1.
+ En cuanto al aspecto externo, el edificio presenta buena conservación (ausencia de rajaduras, pintura descascarada, filtraciónes, etc)?
+ R
+
+
+2.A.2.
+ Dentro de las dependencias de la empresa, los alrededores del edificio están limpios?
+ R
+
+
+2.A.3
+ Existe protección contra la entrada de roedores, insectos, aves u otros animales?
+ R
+
+
+2.A.4.
+ Existen fuentes de polución o contaminación ambiental cercanas al edificio
+ INF
+
+
+2.A.5.
+ Las condiciónes fisicas y estado de conse vación de los depósitos en su estructura paredes y techos, son adecuadas?
+ R
+
+
+2.A.6.
+ Las vias de acceso a los depósitos, son aptas?
+ R
+
+
+2.B. Condiciónes internas (Pisos-Paredes-Techos)
+
+
+2.B.1.
+ El piso es apropiado?
+ R
+
+
+2.B.2.
+ El estado de higiene y conservación del piso es bueno, sin roturas, agujeros y rajaduras?
+ R
+
+
+2.B.3.
+ Es de fácil limpieza?
+ R
+
+
+2.B.4.
+ Las paredes estan bien conservadas?
+ R
+
+
+2.B.5.
+ Su estado higienico es adecuado?
+ N
+
+
+2.B.6.
+ Las paredes no presentan pinturas descascaradas?
+ R
+
+
+2.B.7.
+ Los techos estan en buenas condiciónes?
+ R
+
+
+2.B.8.
+ Su estado de conservación e higiene (ausencia de grietas, rajaduras, pintura descascarada, goteras, etc.), es adecuado?
+
+
+2.B.9.
+ Los desagues y cañerías estan en buen estado?
+ R
+
+
+2.C. Condiciónes Generales
+
+
+2.C.1.
+ La calidad e intensidad de la iluminación son adecuadas?
+ R
+
+
+2.C.2.
+ La ventilación del local es adecuada?
+ R
+
+
+2.C.3.
+ El sector se encuentra limpio?
+ N
+
+
+2.C.4.
+ Las instalaciónes electricas se encuentran en buen estado de conservación, seguridad uso?
+ R
+
+
+2.C.5.
+ La temperatura del local condice con las condiciones necesarias de almacenamiento de insumos y productos terminados?
+ N
+
+
+2.C.6.
+ Se controla y registra la temperatura de depósito?
+
+Verificar los registros en el momento de la la inspección.
+ R
+
+
+2.C.7.
+ No fueron notados indicios de presencia de roedores, insectos, aves, u otros animales?
+ N
+
+
+2.C.8.
+ Existe un sistema de combate a los mismos?
+ R
+
+
+2.C.9.
+ Es utilizado dicho sistema o procedimiento?
+ R
+
+
+2.C.10.
+ Quién es el responsable del mismo?
+ INF
+
+
+2.C.11.
+ Existe equipamiento de seguridad para combatir incendios?
+ N
+
+
+2.C.12.
+ El acceso a extintores y mangueras se encuentra libre?
+ R
+
+
+2.C.13.
+ Existen servicios sanitarios en cantidad suficiente?
+ INF
+
+
+2.C.14.
+ Están limpios?
+ R
+
+
+2.C.15.
+ Existe un salón restaurante independiente ?
+ INF
+
+
+2.C.16.
+ Está limpios?
+ R
+
+
+2.C.17.
+ Existen vestuarios en cantidad suficiente?
+ INF
+
+
+2.C.17.1.
+ Estan dentro del deposito?
+ INF
+
+
+2.C.18.
+ Estan limpios y en adecuadas condiciónes?
+ R
+
+
+2.C.19.
+ El personal esta vestido con el uniforme correspondiente?
+ N
+
+
+2.C.19.1
+ Los uniformes estan limpios y en buenas condiciones?
+ R
+
+
+2.C.20.
+ Hay necesidad de cámara frigorifica?
+ INF
+
+
+2.C.21.
+ De necesitarse, las hay?
+ I
+
+
+2.C.22
+ Es controlada y registrada la temperatura de la cámara frigorífica?
+ N
+
+
+2.C.22.1
+ Cuál es la temperatura en el momento de la Inspección?
+ INF
+
+
+2.C.23.
+ Las balanzas son certificadas regularmente y calibradas periódicamente ?
+ N
+
+
+2.C.23.1.
+ Con que frecuencia?
+ INF
+
+
+2.C.24.
+ Se registran dichas calibraciones?
+ R
+
+
+2.C.25.
+ La disposición de almacenamiento es correcta y racional, a fin de preservar la integridad e identidad de los materiales?
+ R
+
+
+2.C.26.
+ Existen áreas o sistemas fisicamente separados que garanticen la separación de insumos, producto semielaborado y producto elaborado?
+ R
+
+
+2.C.27.
+ Existe un área o sistema que delimite o restrinja el uso de insumos en cuarentena?
+ N
+
+
+2.C.28.
+ Existe un área o sistema que delimite o restrinja el uso de insumos rechazados?
+ N
+
+
+2.C.29.
+ Existe un área o sistema que delimite o restrinja el almacenamiento de etiquetas o rótulos?
+ R
+
+
+2.C.30.
+ Existe un local para almacenamiento de productos inflamables y explosivos, habilitado por el organismo de seguridad competente de su país ?
+ I
+
+
+2.C.31.
+ Esta situado en un sector o área externa?
+ INF
+
+
+2.C.32.
+ Ofrece condiciones de seguridad?
+ N
+
+
+2.C.33.
+ Existen dentro del Deposito, sectores separados cerrados con llave y con acceso restricto, para substancias narcóticas, psico tropicos o similares?
+ I
+
+
+2.C.34.
+ El local o sector ofrece seguridad?
+ N
+
+
+2.C.35.
+ Existe necesidad en controlar la humedad y temperatura en los Depósitos?
+ INF
+
+
+2.C.36.
+ De existir esa necesidad, hay aparatos indicadores de humedad y temperatura?
+ R
+
+
+2.C.37
+ Existen registros?
+ R
+
+
+2.C.38.
+ Existen recipientes para recolectar la basura?
+ R
+
+
+2.C.38.1.
+ Estan bien tapados e identificados?
+ R
+
+
+2.C.38.2.
+ Son vaciados frecuentemente?
+ R
+
+
+2.D.- RECEPCIÓN Y ALMACENAMIENTO DE MATERIAS PRIMAS
+
+
+2.D.1.
+ Se realiza un examen visual a la recepción de las Materias Primas para verificar si sufrieron daño durante el transporte?
+ R
+
+
+2.D.2.
+ Son adecuados los documentos utilizados para su recepción?
+ R
+
+
+2.D.3.
+ La identificación (rotulo o etiqueta) es completa y esta debidamente adherida?
+ N
+
+
+2.D.4.
+ A su recepción se le asigna un numero de registro a cada lote de materia prima?
+ N
+
+
+2.D.5.
+ Su empleo es correcto, usando ese número para identificar a la materia prima durante su total utilización?
+ N
+
+
+2.D.6.
+ Antes de su liberación por Control de Calidad, la materia prima permanece en cuarentena y debidamente rotulada como tal?
+ N
+
+
+2.D.7.
+ Se documenta su identificación adhiriendo el rótulo de aprobado al envase que contiene la Materia Prima y no a la tapa?
+ N
+
+
+2.D.8.
+ Todas las Materias Primas sin excepción, son muestreadas por Control de Calidad de acuerdo a sistemas apropiados y confiables?
+ N
+
+
+2.D.9.
+ Una materia prima ya aprobada es etiquetada como tal y transferida al Depósito correspondiente?
+ N
+
+
+2.D.10.
+ El plazo de validez (Fecha de Vencimiento) y la fecha de reanalisis esta indicado en el rótulo?
+ R
+
+
+2.D.11.
+ Las materias primas rechazadas, son debidamente identificadas y aisladas?
+ N
+
+
+2.D.12.
+ La disposición del almacenamiento es buena y racional a fin de preservar la identidad e integridad de las materias primas?
+ R
+
+
+2.D.13.
+ Existe un sistema adecuado para el control de stock?
+
+- ¿Cuál?
+
+- ¿Es funcional?
+ INF
+
+
+2.D.14.
+ Los embalajes y envases conteniendo insumos (tambores, barricas, cajas, etc) están bien cerrados?
+ N
+
+
+2.D.15.
+ El uso de las materias primas respeta el orden de entrada utilizando primero el mas antiguo?
+ INF
+
+
+2.D.16.
+ Existen recipientes para recolectar basura y se encuentran debidamente identificados?
+ R
+
+
+2.D.16.1.
+ Dichos recipientes están bien tapados?
+ R
+
+
+2.D.16.2.
+ Son vaciados frecuentemente?
+ R
+
+
+2.E.- RECEPCIÓN Y ALMACENAMIENTO DE MATERIALES DE
+
+
+ENVASE Y EMPAQUE
+
+
+2.E.1.
+ Se realiza un examen visual a la recepción de los Materiales para verificar si sufrieron daño durante el transporte?
+ R
+
+
+2.E.2.
+ Son adecuados los documentos utilizados para su recepción?
+ R
+
+
+2.E.3.
+ La identificación (rótulo o etiqueta) es completa y está debidamente adherida?
+ N
+
+
+2.E.4.
+ Antes de su liberación por Control de Calidad, los materiales permanecen en cuarentena y debidamente rotulados como tales?
+ N
+
+
+2.E.5.
+ Todos los materiales sin excepción, son muestreados por Control de Calidad de acuerdo a sistemas apropiados y confiables?
+ N
+
+
+2.E.6.
+ Un material ya aprobado es etiquetado como tal y transferido al Depósito correspondiente?
+ N
+
+
+2.E.7.
+ Los materiales rechazados, son debidamente identificados y aislados?
+ N
+
+
+2.E.8.
+ Existen recipientes debidamente identificados para recolectar basura?
+ R
+
+
+2.E.8.1.
+ Están bien tapados?
+ R
+
+
+2.E.8.2.
+ Son vaciados frecuentemente?
+ R
+
+
+2.E.9.
+ Existe un sistema adecuado para el control de stock?
+
+¿Cuál?
+
+¿Es funcional?
+ INF
+
+
+2.E.10.
+ No existen embalajes (tambores, cajas, etc) abiertos o parcialmente abiertos?
+
+Están adecuadamente identificados?
+ R
+
+
+2.E.11.
+ No existen envases (cajas) que fueron dejadas abiertas o semiabiertas o mal acondicionadas?
+ R
+
+
+2.E.12.
+ Existe un área o sector exclusivo y cerrado para almacenar etiquetas o rotulos?
+ R
+
+
+2.E.13.
+ Se permite el ingreso al área solamente a las personas autorizadas?
+ N
+
+
+2.F.- RECEPCIÓN Y ALMACENAMIENTO DE PRODUCTOS TERMINADOS
+
+
+2.F.1.
+ Este deposito es exclusivo para producto terminado?
+ N
+
+
+2.F.2.
+ Existe un area de cuarentena para producto terminado perfectamente identificado como tal de manera que evite toda confusión o despacho de producto sin aprobación final?
+ N
+
+
+2.F.3.
+ El depósito se encuentra debidamente ordenado?
+ R
+
+
+2.F.3.1
+ Con adecuada limpieza?
+ N
+
+
+2.F.3.2.
+ Con adecuada iluminación?
+ R
+
+
+2.F.3.3.
+ Con adecuada ventilación?
+ R
+
+
+2.F.4.
+ Si existe necesidad de mantener valores prefijados de humedad y temperatura, se controla y registra debidamente el mantenimiento de esos parametros?. Verificar los registros durante la inspección.
+ R
+
+
+2.F.5.
+ Se mantiene un sistema de registro de ingreso y control de existencias de Producto Terminado?
+ R
+
+
+2.F.6.
+ El sistema de registro y control de los despachos de producto terminado contempla la correspondiente correlación secuencial de lotes fecha ingreso/fecha egreso y la observación de la fecha de vencimiento?
+ R
+
+
+2.F.7.
+ El almacenamiento del Producto Terminado, se realiza con el debido orden y seguridad evitando posibles confusiones en su control y despacho, asi como accidentes en su manipuleo?
+ R
+
+
+2.F.8.
+ Los productos estan colocados apilados con seguridad?
+ R
+
+
+2.F.9.
+ El Producto Terminado almacenado se encuentra debidamente separado (aislado) del piso y paredes para facilitar la realización de las tareas de limpieza e higiene y su conservación?
+ R
+
+
+2.F.10.
+ El depósito esta protegido contra la entrada de aves, insectos, roedores u otros animales?
+ R
+
+
+2.F.11.
+ Existe un programa de sanitización (desratización, desinsectación, etc.) así como un registro de su ejecución?
+ R
+
+
+2.F.12.
+ Existen dentro del depósito sectores separados cerrados con llave y con acceso restricto, para sustancias narcoticas psicotrópicos o similares?
+ I
+
+
+2.F.13.
+ Existe un sector en el depósito, para almacenar a temperaturas bajas?
+ INF
+
+
+2.F.13.1.
+ Si existe se llevan los registros? Verificar los registros durante la inspección.
+ R
+
+
+2.F.14.
+ Existe equipamiento de seguridad (extintores, mangueras, etc.) en cantidad suficiente para combatir incendios?
+ R
+
+
+2.F.14.1.
+ Están bien localizados, delimitados con marcaciones y con libre acceso a ellos?
+ R
+
+
+2.F.14.2.
+ Se verifica con frecuencia su correcto funcionamiento?
+ R
+
+
+2.F.14.3.
+ Esas verificaciones están debidamente registradas?
+ R
+
+
+2.F.15.
+ La superficie de pisos, paredes y techos es de fácil limpieza?
+ R
+
+
+2.F.16.
+ Los productos vencidos son retirados del depósito, posteriormente destruidos y debidamente registrado tal procedimiento?
+ N
+
+
+2.F.17.
+ Cuál es la política de la empresa con respecto al envío de productos próximos a vencer su vida útil?
+ INF
+
+
+2.F.17.1.
+ Esta política o procedimiento es cumplida?
+ INF
+
+
+2.F.17.2.
+ Existen registros de ellos?
+ INF
+
+
+2.F.18.
+ Todos los medicamentos almacenados están dentro de su plazo de validez?
+ N
+
+2.F.19.
+ Se realizan inventarios periódicamente?
+ INF
+
+
+2.F.19.1.
+ Existen los correspondientes registros?
+ INF
+
+
+2.F.20.
+ Existe un control de distribución de Productos Terminados?
+ R
+
+
+3- DEVOLUCIÓNES
+
+
+3.1.
+ Existe un área que delimite o restrinja el almacenamiento de medicamentos devueltos?
+ R
+
+
+3.2.
+ Esos productos son identificados como tales?
+ N
+
+
+3.3.
+ Participan personas responsables en la toma de decisiones para su debido tratamiento?
+ N
+
+
+3.4.
+ Se informa al Departamento de Control de la recepción de estas devoluciónes?
+ N
+
+
+3.5.
+ Son registrados los análisis realizados, sus resultados y las decisiones adoptadas como consecuencia de ello?
+ N
+
+
+3.6.
+ Luego de analizado, se procede a su destrucción o reprocesado según lo que corresponda?
+ N
+
+
+3.7.
+ Los resultados de las inspecciones y análisis son registrados?
+ N
+
+
+3.8.
+ Todas las decisiones tomadas son debidamente registradas?
+ N
+
+
+3.9.
+ Los registros son anexados o se hace alguna referencia de ellos en la documentación de cada lote?
+ INF
+
+
+4- RECOLECCIÓN DE PRODUCTOS DEL MERCADO
+
+
+NOTA: - Se define como distribución a nivel primario, a aquella entrega en forma directa en la cadena de comercialización, promoción e investigación aplicada desde la firma propietaria del producto al ler receptor del mismo.
+
+- Todo el esquema de preguntas involucradas en este capítulo, contempla responsabilidad de la firma propietaria, en la distribución a nivel primario y el correspondiente rescate del producto desde este nivel del mercado.
+
+
+4.1.
+ La Empresa establece y mantiene procedimientos de retiro de productos del Mercado?
+ R
+
+
+4.2.
+ Establece y mantiene un sistema que garantiza la correcta aplicación de dichos procedimientos?
+ R
+
+
+4.3.
+ Existe una persona responsable designada para la coordinación y ejecución del procedimiento del retiro?
+ R
+
+
+4.4.
+ Si la persona responsable designada no pertenece al departamento de Control de Calidad, este departamento, es informado de las operaciones efectuadas?
+ R
+
+
+4.5.
+ Son mantenidos informes de los retiros de productos del mercado, así como de sus causas?
+ R
+
+
+4.6.
+ En caso de retiro de productos, por desvios de calidad, las autoridades competentes de los demás países, son informadas inmediatamente?
+ I
+
+
+4.6.1.
+ Son tomadas las providencias inmediatas para el retiro del producto, en todo el territorio en el cual fue distribuido?
+ N
+
+
+4.6.2.
+ Existe documentación y su debido registro?
+ N
+
+
+4.7.
+ Los registros de distribución a nivel primario, de los productos, quedan disponibles para una pronta acción de retiro del mercado?
+ R
+
+
+4.7.1.
+ Esos registros contienen información que permitan el rastreo y determinación de cuales son los destinatarios resultantes de la distribución primaria?
+ R
+
+
+4.7.2.
+ Cuáles son las informaciones de estos últimos?
+ INF
+
+
+4.8.
+ Esta prevista un área apropiada y segura para el almacenamiento de los productos retirados del mercado, mientras aguardan su destino ?
+ N
+
+
+4.8.1.
+ Esta área esta delimitada físicamente y administrativamente, así como los productos retirados están debidamente identificados?
+ N
+
+
+4.9.
+ Existen informes concluyentes sobre todo proceso para cada producto retirado del mercado?
+ R
+
+
+4.10.
+ Existen informes sobre el destino de los productos retirados del mercado?
+ R
+
+
+5- SISTEMA E INSTALACIONES DE AGUA
+
+
+1.
+ La empresa utiliza agua potable?
+ INF
+
+
+2.
+ La empresa utiliza agua purificada?
+ INF
+
+
+3.
+ La empresa utiliza agua para inyectables?
+ INF
+
+
+5.A. AGUA POTABLE
+
+
+5.A.1.
+ Cuál es la procedencia del agua utilizada en la empresa?
+
+Red pública
+
+Pozos Artesianos
+
+Semi Artesianos
+
+Otros. ¿Cuáles?
+ INF
+
+
+5.A.2.
+ La empresa posee tanques de agua?
+
+Cuántos?
+
+De qué materiales?
+
+Cuál es la capacidad de estos tanques?
+
+Cuál es el consumo medio?
+ INF
+
+
+5.A.3.
+ Se hace algún tratamiento antes de ser almacenada el agua?
+
+Cuál?
+ INF
+
+
+5.A.4.
+ Se hace limpieza de los tanques de agua?
+ N
+
+
+5.A.4A.
+ Cuál es la frecuencia?
+ INF
+
+
+5.A.4B.
+ Existen registros?
+ R
+
+
+5.A.5.
+ Existen procedimientos escritos para la limpieza de los tanques de agua?
+
+Son utilizados?
+ R
+
+
+5.A.6.
+ Se hacen controles físico-químicos?
+ N
+
+
+5.A.6A.
+ Cuáles?
+ INF
+
+
+5.A.6B.
+ Con qué frecuencia?
+ INF
+
+
+5.A.6C.
+ Existen registros?
+ R
+
+
+5.A.7A.
+ Se hacen controles bacteriológicos?
+ N
+
+
+5.A.7B.
+ Con qué frecuencia?
+ INF
+
+
+5.A.7C.
+ Existen registros?
+ R
+
+
+5.A.8A.
+ Son recogidas muestras de agua en diversos puntos de la fábrica, inclusive en los bebederos, para efectuar un recuento microbiano?
+ R
+
+
+5.A.8B.
+ Existen registros?
+ R
+
+
+5.A.9A.
+ Las cañerías utilizadas para el transporte del agua potable externamente están en buen estado de conservación y limpieza ?
+ R
+
+
+5.A.9B.
+ Cuál es el material de las cañerías?
+ INF
+
+
+5.A.10.
+ La provisión de agua potable se hace bajo continua presión positiva en un sistema libre de defectos?
+ R
+
+
+5.B. AGUA PURIFICADA
+
+
+ El agua potable es utilizada como fuente de alimentación para sistemas de producción de agua purificada?
+ INF
+
+
+ Cuál es el sistema utilizado?
+
+
+5.B.1.
+ DEIONIZACIÓN
+
+
+5.B.1.1.
+ La industria posee equipo deionizador para la producción de agua purificada?
+
+Cuál es la capacidad en litros/hora?
+ INF
+
+
+5.B.1.2.
+ El agua que abastece al deionizador es tratada?
+
+Cómo?
+
+Cuál es la procedencia de este agua?
+ INF
+
+
+5.B.1.3A
+ Existe personal capacitado para operar el sistema?
+ R
+
+
+5.B.1.3B
+ El responsable para la operación está presente?
+ INF
+
+
+5.B.1.4A
+ Existe manual de operaciones para el sistema?
+ R
+
+
+5.B.1.4B
+ Es utilizado?
+ R
+
+
+5.B.1.5A
+ Las resinas son regeneradas con frecuencia?
+ N
+
+
+5.B.1.5B
+ Cuál?
+ INF
+
+
+5.B.1.5C
+ Existen registros?
+ R
+
+
+5.B.1.6.
+ Si el agua que abastece el deionizador es clorada, existe un sistema para retirar el cloro antes del deionizador?
+
+Cuál?
+ INF
+
+
+5.B.1.7.
+ Existe depósito para agua deionizada?
+
+Cuál es la capacidad?
+
+Cuál es el material utilizado?
+ INF
+
+
+ Existe algún tratamiento para evitar la contaminación bacteriológica (radiación UV filtración, ozonización, etc.)?
+
+
+ Cuál es el consumo medio?
+
+
+5.B.1.8A
+ Se hacen controles físico-químicos?
+ N
+
+
+5.B.1.8B
+ Cuáles?
+ INF
+
+
+5.B.1.8C
+ Con qué frecuencia?
+ INF
+
+
+5.B.1.8D
+ Existen registros?
+ R
+
+
+5.B.1.9A
+ Se hacen controles bacteriológicos?
+ N
+
+
+5.B.1.9B
+ Con que frecuencia?
+ INF
+
+
+5.B.1.9C
+ Existen registros?
+ R
+
+
+5.B.1.10A
+ El transporte o circulación de agua deionzada se hace por cañería?
+ INF
+
+
+5.B.1.10B
+ Cuál es el material de la cañería?
+ INF
+
+
+5.B.1.11.
+ El agua producida es utilizada como materia prima para productos no estériles?
+ INF
+
+
+5.B.1.12.
+ Es liberada por Control de Calidad antes de ser utilizada?
+ R
+
+
+5.B.1.13.
+ El agua producida es utilizada como fuente de alimentación para sistema de producción de agua para inyectables?
+ INF
+
+
+5.B.1.14.
+ Es liberada por Control de Calidad antes de ser utilizada?
+ R
+
+
+5.B.1.15A.
+ Se hace la sanitización del sistema?
+ R
+
+
+5.B.1.15B
+ Cómo?
+ INF
+
+
+5.B.1.15C
+ Cuál es la frecuencia?
+ INF
+
+
+5.B.1.15D
+ Existen registros?
+ R
+
+
+5.B.1.16A
+ Existen procedimientos escritos para la sanitización del sistema?
+ R
+
+
+5.B.1.16B
+ Son utilizados?
+ R
+
+
+5.B.1.17A
+ Se hace mantenimiento preventivo en los equipamientos del sistema?
+ INF
+
+
+5.B.1.17B
+ Cuál es la frecuencia?
+ INF
+
+
+5.B.1.17C
+ Existen registros?
+ R
+
+
+5.B.1.18A
+ Existe algún tipo de filtro en el sistema?
+ INF
+
+
+5.B.1.18B
+ Cuál?
+ INF
+
+
+5.B.1.19A
+ Se hace sanitización de los medios filtrantes ?
+ R
+
+
+5.B.1.19B
+ Cuál es la frecuencia?
+ INF
+
+
+5.B.1.19C
+ Existen registros?
+ R
+
+
+5.B.1.20A
+ Existen procedimientos escritos de sanitización de los medios filtrantes ?
+ R
+
+
+5.B.1.20B
+ Son utilizados?
+ R
+
+
+5.B.1.21.
+ Existen registros de cambio de los medios filtrantes ?
+ R
+
+
+5.B.1.22.
+ El sistema de purificación está validado?
+
+Existen registros?
+ R
+
+
+5.B.2.
+ OSMOSIS INVERSA
+
+
+5.B.2.1.
+ La industria posee equipamiento productor de agua por ósmosls inversa para producción de agua purificada?
+
+Cuál es la capacidad en litros/hora?
+ INF
+
+
+5.B.2.2.
+ El agua que abastece al sistema es tratada
+
+Cómo?
+
+Cuál es la procedencia de este agua?
+ INF
+
+
+5.B.2.3A
+ Existe personal capacitado para operar el sistema?
+ R
+
+
+5.B.2.3B
+ El responsable para la operación está presente?
+ INF
+
+
+5.B.2.4.
+ Existe manual de operación del sistema?
+
+Es utilizado?
+ R
+
+
+5.B.2.5.
+ Existe depósito para este agua?
+
+Cuál es el consumo medio?
+
+Cuál es el material utilizado?
+
+Cuál es la capacidad del depósito?
+
+Existe algún tratamiento para evitar la contaminación bacteriológica (radiación UV filtración, ozonización, etc.)?
+ INF
+
+
+5.B.2.6A
+ Se hacen controles físico-químicos?
+ N
+
+
+5.B.2.6B
+ Cuáles?
+ INF
+
+
+5.B.2.6C
+ Con qué frecuencia?
+ INF
+
+
+5.B.2.6D
+ Existen registros?
+ R
+
+
+5.B.2.7A
+ Se hacen controles bacteriológicos?
+ N
+
+
+5.B.2.7B
+ Con qué frecuencia?
+ INF
+
+
+5.B.2.7C
+ Existen registros?
+ R
+
+
+5.B.2.8.
+ El transporte o circulación de este agua se hace por cañeria?
+
+Cuál es el material de la cañeria?
+ INF
+
+
+5.B.2.9.
+ El agua producida es utilizada como materia prima para productos no estériles?
+ INF
+
+
+5.B.2.10.
+ Es liberada por Control de Calidad antes de ser utilizada?
+ R
+
+
+5.B.2.11.
+ El agua producida es utilizada como fuente de alimentación para el sistema de producción de agua para inyectables?
+ INF
+
+
+5.B.2.12.
+ Es liberada por Control de Calidad antes de ser utilizada?
+ R
+
+
+5.B.2.13A
+ Se hace la sanitización del sistema?
+ R
+
+
+5.B.2.13B
+ Cómo?
+ INF
+
+
+5.B.2.13C
+ Cuál es la frecuencia?
+ INF
+
+
+5.B.2.13D
+ Existen registros?
+ R
+
+
+5.B.2.14.
+ Existen procedimientos escritos para la sanitización del sistema?
+
+Son utilizados?
+ R
+
+
+5.B.2.15.
+ Se hace mantenimiento preventivo en los equipos del sistema?
+
+Cuál es la frecuencia?
+
+Existen registros?
+ INF
+
+
+5.B.2.16.
+ Existe algún tipo de filtro en el sistema?
+ INF
+
+
+ Cuál?
+
+
+5.B.2.17A
+ Se hace la sanitización de los medios filtrantes ?
+ R
+
+
+5.B.2.17B
+ Cuál es la frecuencia?
+ INF
+
+
+5.B.2.17C
+ Existen registros?
+ R
+
+
+5.B.2.18.
+ Existe procedimiento escrito para la sanitización de los medios filtrantes?
+
+Es utilizado?
+
+
+ R
+
+
+5.B.2.19.
+ Existen registros de cambio de los medios filtrantes ?
+
+
+ R
+
+
+5.B.2.20.
+ El sistema de purificación está validado?
+
+Existen registros?
+
+
+ R
+
+
+5.C. AGUA PARA INYECTABLES
+
+
+5.C.1.
+ La industria posee un sistema para la producción de agua para inyectables según las metodologias establecidas por las ediciones vigentes de la Farmacopea Europea y Farmacopea de EE.UU. de Norteamérica?
+
+Cuál es el sistema?
+
+Cuál es la capacidad en litros/hora?
+ I
+
+
+5.C.2.
+ El agua que abastece el sistema es purificada?
+
+Cuál es el sistema de purificación?
+ INF
+
+
+5.C.3A
+ Existe personal capacitado para operar el sistema?
+ INF
+
+
+5.C.3B
+ El responsable de la operación está presente?
+ INF
+
+
+5.C.4.
+ Existe manual de operaciones para el sistema?
+
+Es utilizado?
+ R
+
+
+5.C.5.
+ Existe depósito de agua para inyectables?
+
+Cuál es la capacidad del depósito?
+
+Cuál es el material utilizado?
+
+Cuál es el consumo medio?
+ INF
+
+
+5.C.6.
+ El agua producida es utilizada inmediatamente?
+
+Sino, por cuánto tiempo ella está almacenada?
+
+A qué temperatura?
+
+Existe recirculación de ese agua?
+ R
+
+
+5.C.7A
+ Existe algún procedimiento para evitar la contaminación?
+ N
+
+
+5.C.7B
+ Cuál?
+ INF
+
+
+5.C.8A
+ Se hacen controles físico-químicos?
+ N
+
+
+5.C.8B
+ Cuáles?
+ INF
+
+
+5.C.8C
+ Con qué frecuencia?
+ INF
+
+
+5.C.8D
+ Existen registros?
+ R
+
+
+5.C.9A
+ Se hacen controles bacteriológicos?
+ N
+
+
+5.C.9B
+ Con qué frecuencia?
+ INF
+
+
+5.C.9C
+ Existen registros?
+ R
+
+
+5.C.10A
+ Se hace control de piretógenos?
+ N
+
+
+5.C.10B
+ Con qué frecuencia?
+ INF
+
+
+5.C.10C
+ Existen registros?
+ R
+
+
+5.C.11A
+ El transporte o circulación de este agua se hace por cañeria?. Caso contrario cuál es el material y el sistema utilizado?
+ INF
+
+
+5.C.11B
+ De qué material es la cañería?
+ INF
+
+
+5.C.12
+ El agua producida es utilizada como materia prima para inyectables y colirios?
+ I
+
+
+5.C.13
+ Es liberada por Control de Calidad antes de ser utilizada?
+ N
+
+
+5.C.14A
+ Se hace sanitización del sistema?
+ R
+
+
+5.C.14B
+ Cómo?
+ INF
+
+
+5.C.14C
+ Cuál es la frecuencia?
+ INF
+
+
+5.C.14D
+ Existen registros?
+ R
+
+
+5.C 15.
+ Existen procedimientos escritos de sanitización del sistema?
+
+Son utilizados?
+ R
+
+
+5.C.16A
+ Se hace mantenimiento en los equipamientos del sistema?
+ R
+
+
+5.C.16B
+ Cuál es la frecuencia?
+ INF
+
+
+5.C.16C
+ Existen registros?
+ R
+
+
+5.C.17A
+ El sistema de producción de agua para inyectables está validado de forma de garantizar el cumplimiento de las especificaciones establecidas por las ediciones vigentes de la Farmacopea Europea y Farmacopea de EE.UU. de Norteamerica?
+ N
+
+
+5.C.17B
+ Existen registros?
+ R
+
+
+6‑ PRODUCCIÓN
+
+
+6.1.
+ Quién es el responsable de dirigir la producción?
+ INF
+
+
+6.2.
+ Cuál es su formación profesional?
+ INF
+
+
+6.3.
+ Posee adecuados conocimientos para ejercer sus funciones?
+ R
+
+
+6.4.
+ Existe un organigrama?
+ R
+
+
+6.5.
+ El personal técnico y especializado es suficiente?
+ INF
+
+
+6.6.
+ Existe un plan de entrenamiento para el personal?
+ R
+
+
+6.7.
+ La admisión del personal es precedida de un control médico?
+ N
+
+
+6.8.
+ El personal es sometido a control médico periódico?
+ R
+
+
+6.9.
+ Existe un plan de asistencia médica permanente y de atención a emergencias en caso de enfermedad brusca o accidente?
+ R
+
+
+6.10.
+ Si el personal manifiesta lesiones o enfermedades que puedan afectar a la calidad o seguridad de los productos es excluído del contacto con éstos?
+ I
+
+
+6.A.‑ ORGANIZACIÓN
+
+6.A.1. FORMULA PATRON
+
+
+6.A.1.1.
+ Existe una fórmula patrón para cada producto fabricado?
+ I
+
+
+6.A.1.2.
+ Esa fórmula patrón está preparada, revisada y aprobada por personas competentes responsables y firmada por otra persona también responsable y competente?
+ I
+
+
+6.A.1.3.
+ Existen procedimientos escritos sobre forma de proceder en casos donde es necesario modificar la fórmula patrón?
+ R
+
+
+6.A.1.4.
+ La fórmula patrón contiene:
+ N
+
+
+6.A.1.4.1.
+ Nombre, forma farmacéutica, dósis del producto y período de validez.
+ N
+
+
+6.A.1.4.2.
+ Fórmula centesimal o por unidad posológica.
+ N
+
+
+6.A.1.4.3.
+ Cantidad teórica del producto a ser fabricado.
+ N
+
+
+6.A.1.4.4.
+ Nombre, código, cantidad y unidades de cada ingrediente.
+ N
+
+
+6.A.1.5.
+ Existen instrucciónes detalladas de todas y cada una de las etapas de fabricación, sector donde debe efectuarse y equipos a ser utilizados?
+ N
+
+
+6.A.1.6.
+ Existe un procedimiento para limpieza de equipos?
+ R
+
+
+6.A.1.7.
+ Existe un responsable en la verificación de ejecución de limpieza en los equipos empleados?
+ R
+
+
+6.A.1.8.
+ Existen instrucciones claras y detalladas de que etapa de la elaboración requiere la intervención de Control de Calidad para control del proceso con indicación del responsable y fecha?
+ R
+
+
+6.A.1.9.
+ Existen exigencias de anexar al registro de elaboración, registros gráficos de temperatura, presión y humedad cuando el procedimiento requiere control de los mismos?
+ R
+
+
+6.A.1.10.
+ Existen exigencias de anexar al registro de elaboración el rótulo de identificación de las materias primas y materiales empleados, cuándo no exista otro sistema de seguridad equivalente?
+ R
+
+
+6.A.1.11.
+ Existe la exigencia de anexar al registro de elaboración un rótulo del producto final, con el número de lote o partida y el vencimiento?
+ R
+
+
+6.A.1.12.
+ Existe el cálculo de rendimiento real obtenido en las diversas etapas de la elaboración y relación con el rendimiento teórico?
+ N
+
+
+6.A.1.13.
+ Existen instrucciones adecuadas para rotular y embalar el producto y condiciones de conservación.
+ N
+
+
+6.A.1.14.
+ Existe una descripción de los envases, estuches y otros materiales utilizados para el fraccionamiento con códigos, cantidades y unidades de medida.
+ N
+
+
+6.A.1.15.
+ Todos los envases,líneas, equipos usados durante la producción están identificados para indicar claramente su contenido o la etapa de procesamiento del lote?
+ N
+
+
+6.A.1.16.
+ Los equipos, utensilios y envases estan localizados y/o almacenados en lugar adecuado?
+ R
+
+
+6.A.2. Orden de Fabricación:
+
+
+6.A.2.1.
+ Existe un proceso de copia fiel de la fórmula patrón que asegure su exacta reproducción?
+ I
+
+
+6.A.2.2.
+ Contiene el número de lote?
+ I
+
+
+6.A.2.3.
+ Contiene los números, de código, de lote y análisis de materias primas y materiales involucrados?
+ N
+
+
+6.A.2.4.
+ El cálculo de las materias primas es correcto en base a la fórmula unitaria o centesimal?
+ N
+
+
+6.A.2.5.
+ Está firmado por el responsable del cálculo?
+ N
+
+
+6.A.2.6.
+ Esta firma es refrendada por otra persona?
+ N
+
+
+6.A.2.7.
+ Si es necesario modificar las instrucciones de fabricación,equipos, ambiente y/u otra condición, la modificación está firmada por un responsable competente y autorizado?
+ N
+
+
+6.A.2.8.
+ Después de finalizar el proceso de fabricación, toda la documentación sobre el lote producido (registro de la producción, rótulos, resultado analítico de los controles de proceso y producto terminado) se archivan?
+ N
+
+
+6.A.2.8.1.
+ Por cuánto tiempo?
+ INF
+
+
+6.A.2.8.2.
+ Quién es el responsable de ese archivo?
+ INF
+
+
+6.B.‑ AREAS DE PESADAS Y MEDIDAS
+
+
+6.B.1.
+ ¿Está el área físicamente separada de las demás dependencias, por paredes u otro tipo de separación?
+ N
+
+
+6.B.2.
+ ¿Está limpia el área?
+ N
+
+
+6.B.3.
+ ¿Los materiales usados para las pesadas y medidas (recipientes, espátulas, pipetas, etc.) están limpios?
+ N
+
+
+6.B.4.
+ ¿ Estos materiales son guardados como tal, en lugar adecuado?
+ R
+
+
+6.B.5.
+ Las balanzas y recipientes de medidas son calibrados periódicamente, así como las balanzas son certificadas regularmente ?
+ N
+
+
+6.B.6.
+ ¿Existen registros de esas calibraciones?
+ R
+
+
+6.B.7.
+ ¿Son usados los equipamientos de protección (anteojos, gorros, máscaras etc.), cuándo son necesarios, durante las pesadas y/o medidas?
+ N
+
+
+6.B.8.
+ ¿Los recipientes que contienen una materia prima a ser pesada o medida son limpiados antes de ser abiertos?
+ N
+
+
+6.B.9.
+ Después de ser realizada esa pesada o medida ¿esos recipientes son bien cerrados?
+ N
+
+
+6.B.10.
+ Los materiales, después de ser pesados o medidos ¿son etiquetados inmediatamente a fin de evitar confusiones?
+ N
+
+
+6.B.11.
+ ¿En esa etiqueta, consta:
+ N
+
+
+6.B.11.1.
+ ¿Nombre del producto a qué se destina el insumo?
+ N
+
+
+6.B.11.2.
+ ¿Nombre del insumo?
+ N
+
+
+6.B.11.3.
+ ¿Número de análisis del insumo?
+ N
+
+
+6.B.11.4.
+ ¿Número del lote del producto?
+ N
+
+
+6.B.11.5.
+ ¿Cantidad que fue pesada o medida?
+ N
+
+
+6.B.11.6.
+ ¿Peso bruto?
+ N
+
+
+6.B.11.7.
+ ¿Control de pesada o medida con presencia de funcionario que pesa y/o verifica la pesada con las respectivas firmas?
+ R
+
+
+6.B.12..
+ Los operarios, ¿están con los uniformes limpios y en buenas condiciones?
+ N
+
+
+6.B.13.
+ El área tiene:
+ N
+
+
+6.B.13.1.
+ Ventilación adecuada?
+ N
+
+
+6.B.13.2
+ Iluminación adecuada?
+ INF
+
+
+6.B.13.3.
+ Controles de humedad y temperatura?
+ N
+
+
+6.B.14.
+ ¿Posee algún sistema de extracción?
+ N
+
+
+6.B.15.
+ Las materias primas de un lote, ya pesadas medidas ¿son separadas físicamente de las del otro lote ya pesado?
+ N
+
+
+6.B.16.
+ El área posee un lugar para el lavado de utensilios utilizados?
+ INF
+
+
+6.B.17.
+ Los recipientes usados en la pesada o medición de materias primas ¿son utilizados nuevamente?
+ INF
+
+
+6.B.17.1.
+ En este caso, ¿están bien limpios y libres de cualquier identificación anterior?
+ N
+
+
+6.B.18.
+ Las materias primas mas viejas, ¿son usadas en primer lugar?
+ INF
+
+
+6.B.19.
+ ¿Existen recipientes para la recolección de residuos?
+ R
+
+
+6.B.19.1.
+ ¿Están bien tapados?
+ R
+
+
+6.B.19.2.
+ ¿Son vaciados y limpiados con frecuencia?
+ R
+
+
+6.B.20.
+ Existe un sistema de prevención de contaminación cruzada durante las pesadas y medidas?
+ N
+
+
+6.B.21.
+ Se evita el riesgo de contaminación del medio ambiente a través de los sistemas de extracción u otro modo?
+ R
+
+
+6.C. AREAS PRODUCTIVAS
+
+
+6.C.1. Condiciones externas:
+
+
+6.C.1.1.
+ El edificio está en buen estado?
+ R
+
+
+6.C.1.2.
+ Necesita reparación?
+ INF
+
+
+6.C.1.3.
+ Las vías de acceso están pavimentadas y construídas de manera que el polvo no sea fuente de contaminación?
+ R
+
+
+6.C.1.4.
+ Existen industrias cercanas que sean fuente de polución?
+ INF
+
+
+6.C.1.5.
+ Los alrededores del edificio están limpios?
+ INF
+
+
+6.C.1.6.
+ Sus techos, paredes y ventanas están en buen estado?
+ R
+
+
+6.C.1.7.
+ Existe protección contra entrada de roedores, insectos, aves u otros animales?
+ N
+
+
+6.C.2. Condiciones Generales:
+
+
+6.C.2.1.
+ Las áreas productivas están limpias?
+ N
+
+
+6.C.2.2.
+ Existe un programa de limpieza por escrito?
+ R
+
+
+6.C.2.3.
+ Esta prohibido comer, beber y fumar en sectores productivos?
+ I
+
+
+6.C.2.4.
+ La prohibición se cumple?
+ N
+
+
+6.C.2.5.
+ Existen vestuarios en cantidad suficiente?
+ INF
+
+
+6.C.2.6.
+ Existen sanitarios próximos al área de producción en cantidad suficiente?
+ INF
+
+
+6.C.2.7.
+ Los sanitarios están limpios y provistos de agua fría y caliente, jabón y toallas individuales o secadores?
+ N
+
+
+6.C.2.8.
+ La eliminación de aguas servidas, desperdicios y otros desechos, dentro y fuera del edificio y de las inmediaciones se hace en forma segura y sanitaria?
+ N
+
+
+6.C.2.9.
+ Existe un salón restaurante?
+ INF
+
+
+6.C.2.10.
+ Si no, dónde come el personal?
+ INF
+
+
+6.C.2.11.
+ Existen normas de seguridad escritas?
+ INF
+
+
+6.C.2.12.
+ Estas, son cumplidas?
+ INF
+
+
+6.C.2.13.
+ El personal utiliza ropa adecuada a las tareas que realiza?
+ N
+
+
+6.C.2.14.
+ Existen bebederos de agua potable en lugares adecuados y en cantidades suficientes?
+ INF
+
+
+6.C.2.15.
+ El personal utiliza calzado adecuado?
+ N
+
+
+6.C.2.16.
+ A las áreas de producción se prohibe el acceso de personas vestidas con ropa inadecuada?
+ N
+
+
+6.C.2.17.
+ Los pisos son adecuados a cada área de trabajo?
+ R
+
+
+6.C.2.18.
+ Existe protección contra entrada de insectos, aves, roedores u otros animales ?
+ N
+
+
+6.C.2.19.
+ Existe algún procedimiento para combatir roedores, insectos, aves y otros animales?
+ R
+
+
+6.C.2.20.
+ Se describe en ellos la frecuencia, métodos y materiales utilizados, y el responsable de la ejecución?
+ R
+
+
+6.C.2.21.
+ Los materiales utilizados son aprobados por Salud Pública?
+ N
+
+
+6.C.2.22.
+ Se ha verificado previamente que su empleo y forma de aplicación no significan un riesgo de contaminación de equipos y productos?
+ R
+
+
+6.C.2.23.
+ La circulación interna es adecuada?
+ R
+
+
+6.C.2.24A
+ En las áreas productivas se efectúan controles de presión de aire, microbiológicos partículas, humedad y temperatura?
+ INF
+
+
+6.C.2.24B
+ Existen registros?
+ R
+
+
+6.C.2.25.
+ La distribución de las áreas es adecuada?
+ R
+
+
+6.C.2.26.
+ Se logra minimizar la posibilidad de contaminación de una a otra área?
+ N
+
+
+6.C.2.27.
+ Se evita la contaminación cruzada de un producto con partículas o polvo proveniente del almacenaje, manufactura o manipuleo de otro producto?
+ N
+
+
+6.C.2.28.
+ Las áreas están distribuídas y acondicionadas para proveer las condiciones de estabilidad adecuadas a los componentes, materiales en proceso y productos terminados?
+ R
+
+
+6.C.2.29.
+ Existe plan de seguridad contra incendios en caso de emergencias?
+ R
+
+
+6.C.2.30.
+ Los extintores y red para combate de incendio están ubicados correctamente?
+ R
+
+
+6.C.2.31.
+ La cantidad y tipo de extintores es adecuada al riesqo de cada sector?
+ R
+
+
+6.C.2.32.
+ La iluminación de las áreas de producción y circulación es suficiente?
+ R
+
+
+6.C.2.33.
+ Las dimensiones de las áreas son adecuada
+ INF
+
+
+6.C.2.34.
+ Su construcción y ubicación permite la adecuada limpieza, mantenimiento, elaboración y procesamiento de los productos?
+ R
+
+
+6.C.2.35.
+ Los equipos y materiales se identifican correctamente?
+ N
+
+
+6.C.2.36.
+ La ventilación de las áreas de producción y circulación es adecuada?
+ R
+
+
+6.C.2.37.
+ Las instalaciones eléctricas están en buenas condiciones?
+ R
+
+
+6.C.2.38.
+ Las tuberías de agua, vapor, gas, aire comprimido y electricidad están debidamente identificadas?
+ R
+
+
+6.C.2.39.
+ Existen líneas muertas?
+ INF
+
+
+6.C.2.40.
+ Las paredes, pisos y techos están construídos con materiales facilmente lavables?
+ R
+
+
+6.C.2.41.
+ Las paredes, techos y pisos no presentan rajaduras o descascaramientos de pintura
+ R
+
+
+6.C.2.42.
+ Los recipientes colectores de resíduos están correctamente identificados, ubicados y tapados?
+ R
+
+
+6.C.2.42.1.
+ Se vacían con frecuencia?
+ R
+
+
+6.C.2.43.
+ Cuántos m2 cubiertos se destinan a la producción excluido depósitos?
+ INF
+
+
+6.C.2.44.
+ Cuál es el número de personas en el área productiva?
+ INF
+
+
+6.C.2.45.
+ Cuál es la relación de personas/m2 de área
+ INF
+
+
+6.C.2.46.
+ Existe un procedimiento para controlar la entrada de personas ajenas a las áreas de fabricación?
+ R
+
+
+7- PRODUCTOS SOLIDOS Y SEMISOLIDOS (Polvos, comprimidos, Pomadas y otros)
+
+
+7.1.
+ Existen locales apropiados para la fabricación de polvos, comprimidos, grageas, cápsulas, y para pomadas, cremas y otros ?
+ N
+
+
+7.2.
+ El área ocupada condice con el volumen de las operaciones?
+ INF
+
+
+7.3.
+ La distribución es ordenada y racional?
+ R
+
+
+7.4.
+ El área de circulación se encuentra libre de obstáculos?
+ R
+
+
+7.5.
+ El personal se encuentra adecuadamente uniformado?
+ N
+
+
+7.6.
+ Utiliza el personal la indumentaria de trabajo unicamente dentro de las dependencias de la fábrica?
+ R
+
+
+7.7.
+ Los uniformes se encuentran limpios y en buenas condiciones?
+ N
+
+
+7.8.
+ Utilizan todos cubrecabezas?
+ N
+
+
+7.9.
+ Utilizan cuando es necesario los elementos de seguridad (máscaras, protectores oculares, guantes, etc.)?
+ N
+
+
+7.10.
+ Se encuentra limpio el local?
+ N
+
+
+7.11.
+ Existen recipientes para la recolección de residuos en el local?
+ R
+
+
+7.12.
+ Se encuentran bien tapados e identificados
+ R
+
+
+7.13.
+ Son vaciados frecuentemente?
+ R
+
+
+7.14.
+ Es adecuada la iluminación del local?
+ R
+
+
+7.15.
+ Están las paredes y techos recubiertos por materiales facilmente lavables?
+ R
+
+
+7.16.
+ Las paredes y/o techos no presentan rajaduras o pinturas descascaradas
+ NN
+
+
+7.17.
+ Es el piso adecuado?
+ R
+
+
+7.18.
+ Están en buenas condiciones las instalaciones eléctricas?
+ R
+
+
+7.19.
+ Están todas las instalaciones de servicios adecuadamente identificadas (electricidad, agua, vapor, etc)?
+ R
+
+
+7.20.
+ Son adecuados los sistemas de desagüe?
+ R
+
+
+7.21.
+ Poseen las rejillas sifón?
+ N
+
+
+7.22.
+ Son desinfectadas frecuentemente?
+ R
+
+
+7.23.
+ Cuál es la superficie en m2 ocupada por el sector?
+ INF
+
+
+7.24.
+ Cuál es el N° de operarios del sector?
+ INF
+
+
+7.25.
+ Cuál es la relación área/operario?
+ INF
+
+
+7.26.
+ Existe un organigrama?
+ R
+
+
+7.27.
+ La ventilación del local es suficiente?
+ R
+
+
+7.28.
+ Se encuentran las aberturas protegidas contra la entrada de aves, insectos, roedores u otros animales?
+ N
+
+
+7.29.
+ Existen locales que requieran de aire acondicionado?
+ INF
+
+
+7.30.
+ De ser así, existen registradores de temperatura y humedad?
+ R
+
+
+7.31.
+ Existen registros de los datos de temperatura y humedad?
+ R
+
+
+7.32.
+ Existen sistemas de aspiración de polvo ?
+ N
+
+
+7.33.
+ Son buenas las condiciones de seguridad de los locales?
+ R
+
+
+7.34.
+ Existen extinguidores y mangueras contra incendio en número suficiente?
+ R
+
+
+7.35.
+ Se encuentran bien localizados y de libre acceso?
+ R
+
+
+7.36.
+ Los balanzas y recipientes de medidas son calibradas periódicamente, así como las balanzas son certificadas regularmente ?
+ N
+
+
+7.37.
+ Existen registros de esas calibraciones?
+ R
+
+
+7.38.
+ Existe una fórmula de fabricación a ser seguida que sea una copia fiel de la fórmula patrón?
+ I
+
+
+7.39.
+ Las instrucciones allí contenidas son seguidas con exactitud?
+ I
+
+
+7.40.
+ Cada fase crítica de producción lleva el visado del operador y del superior inmediato?
+ N
+
+
+7.41.
+ Todos los recipientes usados en la producción de un lote, están identificados de acuerdo con su contenido, N° de lote, etc, a fin de evitar mezclas?
+ N
+
+
+7.42.
+ Todos los equipos utilizados en la producción de un lote, están identificados por etiquetas conteniendo las indicaciones necesarias ?
+ N
+
+
+7.43.
+ Luego de su uso, todos los utensilios, recipientes y equipamientos son bien lavados y conservados hasta su próximo uso?
+ N
+
+
+7.44.
+ Son identificados como tales?
+ R
+
+
+7.45.
+ Existe una adecuada separación flsica entre los equipos para evitar mezcla o contaminación cruzada, cuando se fabrican simultáneamente lotes de productos diferentes?
+ N
+
+
+7.46.
+ Las cámaras de secado de granulado no reciben lotes de diferentes productos simultámeamente?
+ N
+
+
+7.47.
+ Existen registros de temperaturas y tiempo de secado de las estufas?
+ R
+
+
+7.48.
+ Si existe otro sistema de secado, por ej., lecho fluído existen registros por escrito de las condiciones del aparato?
+ R
+
+
+7.49.
+ Son efectuados controles durante el proceso de fabricación, a fin de garantizar la uniformidad del lote?
+ N
+
+
+7.50.
+ Existen registros?
+ R
+
+
+7.51.
+ Existen en el área de compresión aparatos para testear, desintegración, dureza, friabilidad y peso de los comprimidos?
+ INF
+
+
+7.52.
+ Existen registros de estos controles?
+ R
+
+
+7.53.
+ Por quién son firmados?
+ INF
+
+
+7.54.
+ Verifica Control de Calidad periódicamente esos controles ?
+ N
+
+
+7.55.
+ Existe registro de limpieza fijado a cada recipiente y a cada máquina?
+ R
+
+
+7.56.
+ Los recipientes usados que contenían Materias Primas u otro material son reutilizados en producción?
+ INF
+
+
+7.57.
+ De ser así, son limpiados adecuadamente y liberados de cualquier identificación anterior?
+ N
+
+
+7.58.
+ No existe en el área cualquier material extraño a los procesos de fabricación?
+ R
+
+
+7.59.
+ Existe un sistema de cuarentena para los productos semi-terminados ?
+ N
+
+
+7.60.
+ Los recipientes que contienen esos productos están bien cerrados y conteniendo la siguiente identificación:
+
+- Nombre del producto.
+
+- Concentración.
+
+- N° de lote y/o sub-lote.
+
+- Fase de fabricación.
+
+- Volumen o peso total contenido en el recipiente.
+
+- N° de recipiente/N° total de recipientes que componen el lote.
+ N
+
+
+7.61.
+ El área esta limpia y libre de resíduos?
+ N
+
+
+7.62.
+ Los recipientes están limpios?
+ N
+
+
+7.63.
+ Están las máquinas de comprimir dispuestas de manera de evitar la contaminación cruzada?
+ N
+
+
+7.64.
+ Poseen las máquinas sistema de aspiración de polvos?
+ N
+
+
+7.65.
+ Existe un área especial para la cobertura de comprimidos (grageado, film-coating, u otros)?
+ INF
+
+
+7.66.
+ Esta el sector adecuadamente equipado para tal tarea (aire comprimido, aire caliente, aspiración, vapor, etc.)?
+ N
+
+
+7.A.- PRODUCTOS ANOVULATORIOS Y HORMONALES
+
+
+7.A.1.
+ El laboratorio produce anovulatorios o medicamentos con hormonas?
+ INF
+
+
+7.A.2.
+ La fabricación de esos productos es realizada de forma de evitar contaminación cruzada?
+ I
+
+
+7.A.3.
+ Son realizados controles analíticos en productos no hormonales o anovulatorios, para determinar la posibilidad de una contaminación cruzada?
+ R
+
+
+7.A.4A
+ Existe control de humedad relativa y temperatura del área?. ¿Son registrados?
+ INF
+
+
+7.A.4B
+ ¿ Son registrados?
+ R
+
+
+7.A.4.1A
+ Existen controles ambientales periódicos?
+ INF
+
+
+7.A.4.1B
+ Son registrados?
+ R
+
+
+7.A.5.
+ Existen sistemas de aspiración de aire que eviten descargar contamitantes al medio ambiente?
+ N
+
+
+7.A.6.
+ Este sistema de aspiración posee una instalación independiente (ductos) de otros planta?
+ R
+
+
+7.A.7.
+ Usan los operarios equipos especiales de protección durante todo el proceso de fabricación?
+ N
+
+
+7.A.8A
+ Son realizados periódicamente exámenes médicos específicos a los que manipulan las drogas y sus productos ?
+ N
+
+
+7.A.8B
+ Existen registros ?
+ R
+
+
+7.A.9A
+ Se realiza rotación periódica entre los Operarios?
+ R
+
+
+7.A.9B
+ Con qué periodicidad?
+ INF
+
+
+7.A.10.
+ Existen reglas escritas de higiene para los operarios?
+ N
+
+
+7.A.11.
+ Son esas reglas seguidas?
+ N
+
+
+7.A.12A
+ Tienen los operarios uniformes limpios y en buenas condiciones?
+ N
+
+
+7.A.12B
+ ¿Con qué frecuencia se cambian?
+ INF
+
+
+7.A.13.
+ El área esta limpia?
+ N
+
+
+7.A.13.1.
+ Cómo se efectúa la limpieza?
+ INF
+
+
+7.A.13.2.
+ Con qué frecuencia?
+ INF
+
+
+7.A.14.
+ Son los equipos limpiados al término de cada producción?
+ N
+
+
+7.A.14.1.
+ Existe procedimiento de limpieza para cada equipo?
+ N
+
+
+7.A.14.2.
+ Existen registros?
+ R
+
+
+7.A.15.
+ Existe un programa de limpieza y registro de su cumplimiento?
+ R
+
+
+7.A.16.
+ Es evitado o controlado el ingreso de personal extraño al área?
+ N
+
+
+7.A.17.
+ Rigen para el personal contratado y/o visitante las mismas instrucciones de higiene y seguridad que para el personal del área?
+ N
+
+
+7.B.- PRODUCTOS PSICOTROPICOS
+
+
+7.B.1.
+ El laboratorio produce psicotrópicos?
+ INF
+
+
+7.B.2.
+ La fabricación de esos productos se efectúa de forma tal que evita la contaminación cruzada?
+ I
+
+
+7.B.3.
+ Son realizados controles analíticos en productos no psicotrópicos, para determinar la posibilidad de una contaminación cruzada?
+ R
+
+
+7.B.4.
+ Existe control de humedad relativa y temperatura del área?
+ INF
+
+
+7.B.4.1A
+ Existen controles ambientales periódicos?
+ INF
+
+
+7.B.4.1B
+ Son registrados?
+ R
+
+
+7.B.5.
+ Existen sistemas de aspiración de aire que eviten descargar contaminantes al medio ambiente?
+ N
+
+
+7.B.6.
+ Es este sistema de aspiración independiente (ductos) de otros sistemas de aspiración de la planta?
+ INF
+
+
+7.B.7.
+ Usan los operarios equipos especiales de protección durante todo el proceso de fabricación?
+ R
+
+
+7.B.8A
+ Son realizados periódicamente exámenes médicos a los que manipulan las drogas y sus productos?
+ N
+
+
+7.B.8B
+ Existen registros?
+ N
+
+
+7.B.9A
+ Se realiza rotación periódica entre los operarios?
+ R
+
+
+7.B.9B
+ ¿Con qué periodicidad?
+ INF
+
+
+7.B.10.
+ Existen reglas escritas de higiene para los operarios?
+ N
+
+
+7.B.11.
+ Son esas reglas seguidas?
+ N
+
+
+7.B.12A
+ Tienen los operarios uniformes limpios y en buenas condiciónes?
+ N
+
+
+7.B.12B
+ ¿ Con qué frecuencia se cambian?
+ INF
+
+
+7.B.13.
+ El área esta limpia?
+ N
+
+
+7.B.13.1.
+ Cómo se efectúa la limpieza?
+ INF
+
+
+7.B.13.2.
+ Con qué frecuencia?
+ INF
+
+
+7.B.14.
+ Son los equipos limpiados al término de cada producción?
+ N
+
+
+7.B.14.1
+ Existe procedimiento de limpieza para cada equipo?
+ N
+
+
+7.B.14.2.
+ Existen registros?
+ R
+
+
+7.B.15.
+ Existe un programa de limpieza y registro de su cumplimiento?
+ R
+
+
+7.B.16.
+ Es evitado o controlado el ingreso de personal extraño al área?
+ N
+
+
+7.B.17.
+ Rigen para el personal contratado y/ visitante las mismas instrucciones de higiene y seguridad que para el personal del área?
+ N
+
+
+7.C.- PRODUCTOS ANTIBIOTICOS EN GENERAL
+
+
+7.C.1.
+ Son manipulados productos que contienen antibióticos?
+ INF
+
+
+7.C.2.
+ La fabricación de esos productos se realiza en forma tal que evite la contaminación, cruzada?
+ I
+
+
+7.C.3.
+ Se utiliza el mismo equipamiento para la fabricación de productos con o sin antibióticos?
+ INF
+
+
+7.C.4.
+ Son realizados controles analíticos en productos no antibióticos para determinar la posibilidad de una contaminación cruzada?
+ R
+
+
+7.C.5.
+ Existe control de humedad relativa y temperatura del área?
+ INF
+
+
+7.C.5.1A
+ Existen controles ambientales periódicos?
+ INF
+
+
+7.C.5.1B
+ Son registrados?
+ R
+
+
+7.C.6.
+ Existen sistemas de aspiración de aire que eviten descargar contaminantes al medio ambiente?
+ N
+
+
+7.C.6.1
+ Es este sistema de aspiración independiente (ductos) de otros sistemas de aspiración de la planta?
+ INF
+
+
+7.C.7.
+ Usan los operarios equipos especiales de protección durante todo el proceso de fabricación?
+ N
+
+
+7.C.8A
+ Son realizados periodicamente exámenes médicos especifícos a los que manipulan las drogas y sus productos ?
+ N
+
+
+7.C.8B
+ Existen registros?
+ R
+
+
+7.C.9A
+ Se realiza rotación periódica entre los operarios?
+ R
+
+
+7.C.9B
+ ¿Con qué periodicidad?
+ INF
+
+
+7.C.10
+ Existen reglas escritas de higiene para los operarios?
+ N
+
+
+7.C.11.
+ Son esas reglas seguidas?
+ N
+
+
+7.C.12A
+ Tienen los operarios uniformes limpios y en buenas condiciones?
+ N
+
+
+7.C.12B
+ ¿Con qué frecuencia se cambian?
+ INF
+
+
+7.C.13.
+ El área está limpia?
+ N
+
+
+7.C.13.1.
+ Cómo se efectúa la limpieza?
+ INF
+
+
+7.C.13.2.
+ Con qué frecuencia es efectuada la limpieza?
+ INF
+
+
+7.C.14.
+ Son los equipos limpiados al término de cada producción?
+ R
+
+
+7.C.14.1.
+ Existe procedimiento de limpieza para cada equipo?
+ N
+
+
+7.C.14.2.
+ Existen registros?
+ R
+
+
+7.C.15.
+ Existe un programa de limpieza y registro de su cumplimiento?
+ R
+
+
+7.C.16.
+ Es evitado o controlado el ingreso de personal extraño al área?
+ N
+
+
+7.C.17.
+ Rigen para el personal contratado y/o visitante las mismas instrucciones de higiene y seguridad que para el personal del área?
+ N
+
+
+7.D.- PRODUCTOS CONTENIENDO PENICILANICOS/CEFALOSPORINICOS
+
+
+7.D.1.
+ Son manipulados productos que contienen penicilanicos?
+ INF
+
+
+7.D.2.
+ Son manipulados productos que contienen cefalosporínicos?
+ INF
+
+
+7.D.3.
+ Existe un área completamente aislada para esas fabricaciones?
+ I
+
+
+7.D.4.
+ Es segura?
+ N
+
+
+7.D.5.
+ Se utiliza equipamiento diferente para la fabricación de productos con o sin penicilanicos/cefalosporínicos .
+ N
+
+
+7.D.6.
+ Son realizados controles analíticos de productos no penicilánicos ni cefalosporínicos, para determinar la posibilidad de una contaminación cruzada?
+ N
+
+
+7.D.7A
+ Existe control de humedad relativa y temperatura del área?
+ INF
+
+
+7.D.7B
+ ¿Existen registros ?
+ R
+
+
+7.D.8.
+ Existen sistemas de aspiración de aire que eviten descargar contaminantes al medio ambiente?
+ N
+
+
+7.D.8.1.
+ Este sistema de aspiración es independiente (ducto) de otros sistemas de aspiración de planta?
+ N
+
+
+7.D.9.
+ Usan los operarios equipos especiales de protección durante todo el proceso de fabricación.
+ N
+
+
+7.D.10A
+ Son realizados periodicamente exámenes médicos específicos a los que manipulan las drogas y sus productos?
+ N
+
+
+7.D.10B
+ Existen registros?
+ R
+
+
+7.D.11
+ Se realiza rotación periódica entre los operarios?
+ R
+
+
+7.D.11B
+ Con qué periodicidad?
+ INF
+
+
+7.D.12.
+ Existe reglas escritas de higiene para los operarios?
+ N
+
+
+7.D.13.
+ Son esas reglas seguidas?
+ N
+
+
+7.D.14A
+ Tienen los operarios uniformes limpios y en buenas condiciones?
+ N
+
+
+7.D.14B
+ Con qué frecuencia se cambian?
+ INF
+
+
+7.D.15.
+ El área está limpia?
+ N
+
+
+7.D.15.1.
+ Cómo se efectúa la limpieza?
+ INF
+
+
+7.D.15.2.
+ Con qué frecuencia?
+ INF
+
+
+7.D.16.
+ Son los equipos limpiados al término de cada producción?
+ N
+
+
+7.D.16.1.
+ Existen procedimientos de limpieza para cada equipo?
+ N
+
+
+7.D.16.2.
+ Existen registros?
+ R
+
+
+7.D.17.
+ Existe un programa de limpieza y el registro de su cumplimiento?
+ R
+
+
+7.D.18.
+ Es evitado o controlado el ingreso de personal extraño al área?
+ N
+
+
+7.D.19.
+ Rigen para el personal contratado y/o visitante las mismas instrucciones de higiene y seguridad que para el personal del área?
+ N
+
+
+7.E.- PRODUCTOS CITOSTATICOS U ONCOLOGICOS
+
+
+7.E.1.
+ Son manipulados productos que contengan citostaticos u oncológicos?
+ INF
+
+
+7.E.2.
+ La fabricación de estos productos es realizada de forma de evitar contaminación cruzada?
+ I
+
+
+7.E.3.
+ Se utiliza equipamiento diferente para la fabricación de productos con o sin citostáticos u oncológicos?
+ R
+
+
+7.E.4.
+ Son realizados controles analíticos en productos no citostáticos u oncológicos, para determinar la posibilidad de una contaminación cruzada?
+ R
+
+
+7.E.5.
+ Existe control de humedad relativa y temperatura del área?
+ INF
+
+
+7.E.6.
+ Existen sistemas de aspiración de aire que eviten contaminantes al medio ambiente?
+ N
+
+
+7.E.6.1.
+ Este sistema de aspiración es independiente (ducto) de otros sistemas de aspiración de la planta?
+ N
+
+
+7.E.7.
+ Usan los operarios equipos especiales de protección durante todo el proceso de fabricación?
+ N
+
+
+7.E.8A
+ Son realizados periódicamente exámenes médicos específicos a los que manipulan las drogas y sus productos ?
+ N
+
+
+7.E.8B
+ Existen registros?
+ R
+
+
+7.E.9A
+ Se realiza rotación periódica entre los operarios?
+ R
+
+
+7.E.9B
+ Con qué periodicidad ?
+ INF
+
+
+7.E.10.
+ Existen reglas escritas de higiene para los operarios?
+ N
+
+
+7.E.11.
+ Son esas reglas seguidas?
+ N
+
+
+7.E.12A
+ Tienen los operarios uniformes limpios y en buenas condiciones?
+ N
+
+
+7.E.12B
+ Con qué frecuencia se cambian?
+ INF
+
+
+7.E.13.
+ El área está limpia?
+ N
+
+
+7.E.13.1.
+ Cómo se efectua la limpieza?
+ INF
+
+
+7.E.13.2.
+ Con qué frecuencia?
+ INF
+
+
+7.E.14.
+ Son los equipos limpiados al término de cada producción?
+ N
+
+
+7.E.14.1.
+ Existe un procedimiento de limpieza para cada equipo?
+ N
+
+
+7.E.14.2.
+ Existen registros?
+ R
+
+
+7.E.15.
+ Existe un programa de limpieza y registro de su cumplimiento?
+ R
+
+
+7.E.16.
+ Es evitado o controlado el ingreso de personal extraño al área?
+ N
+
+
+7.E.17.
+ Rigen para el personal contratado y/o visitante las mismas instrucciones de higiene y seguridad que para el personal del área?
+ N
+
+
+8- PRODUCTOS INYECTABLES
+
+
+8.A. AREA DE LAVADO
+
+
+8.A.1.
+ Existe un local separado para el lavado y esterilización de las ampollas y frascos ampolla vacíos?
+ N
+
+
+8.A.2.
+ El área ocupada es adecuada para el volumen de las operaciones?
+ INF
+
+
+8.A.3.
+ La existencia y distribución de los equipamientos es ordenada, racional y adecuada al volumen de operaciones?
+ INF
+
+
+8.A.4.
+ El área de circulación está libre de obstáculos?
+ R
+
+
+8.A.5.
+ Los uniformes utilizados son adecuados?
+ N
+
+
+8.A.6.
+ Los uniformes están limpios y en buenas condiciones?
+ N
+
+
+8.A.6.1.
+ Se usan solamente dentro de las dependencias de la fábrica ?
+ R
+
+
+8.A.7.
+ Todos usan cofia?
+ N
+
+
+8.A.7.1
+ Las cofias cubren totalmente los cabellos?
+ N
+
+
+8.A.7.2.
+ Si el operario tiene barba, está la misma cubierta?
+ N
+
+
+8.A.8.
+ Se utiliza equipamiento de protección individual?
+ N
+
+
+8.A.8.1.
+ Cuál?
+ INF
+
+
+8.A.9.
+ El local está limpio?
+ N
+
+
+8.A.10.
+ Existen recipientes para la recolección de resíduos en el local? Están identificados?
+ R
+
+
+8.A.10.1.
+ Si existen, están bien tapados?
+ R
+
+
+8.A.10.2
+ Se vacían frecuentemente?
+ R
+
+
+8.A.11.
+ La iluminación del local es suficiente?
+ N
+
+
+8.A.1.2.
+ Las paredes y techos están revestidos con material facilmente lavable?
+ R
+
+
+8.A.1.3.
+ Las paredes, techos y pisos no presentan rajaduras o pintura descascaradas ?
+ N
+
+
+8.A.14.
+ El piso es liso, impermeable y de fácil limpieza?
+ R
+
+
+8.A.15.
+ Las instalaciónes eléctricas, de agua potable, agua para inyectables, gas, aire comprimido y vapor están identificadas y en buenas condiciones?
+ R
+
+
+8.A.16.
+ Existen rejillas en el área?
+ INF
+
+
+8.A.16.1.
+ Las rejillas poseen sifón?
+ N
+
+
+8.A.16.2.
+ Son desinfesctados frecuentemente?
+ R
+
+
+8.A.17.
+ Si existen ventanas, y/o visores, están perfectamente sellados?
+ R
+
+
+8.A.18.
+ El área posee instalaciones para la filtración del aire?
+ INF
+
+
+8.A.18.1.
+ Cuál es la clasificación de ese área?
+ INF
+
+
+8.A.18.2.
+ Existen registros sobre los controles de filtración de aire?
+ INF
+
+
+8.A.19.
+ Las máquinas para lavado de ampollas y frascos-ampolla poseen presión suficiente para cumplir su finalidad?
+ R
+
+
+8.A.20.
+ Cuál es el tipo de agua utilizada en la alimentación de las máquinas de lavado de ampollas y frascos-ampolla?
+ INF
+
+
+8.A.21.
+ Existen algún tipo de filtro en el  sistema de lavado de ampollas y frascos-ampolla?
+ R
+
+
+8.A.22.
+ Las estufas de secado y esterilización funcionan perfectamente?
+ N
+
+
+8.A.23.
+ Poseen registradores de temperatura y tiempo de esterilización?
+ R
+
+
+8.A.24.
+ En estos casos existen registros por escrito de temperatura y tiempo?
+ N
+
+
+8.A.25.
+ Las ampollas y frascos-ampolla esteriliza dos son transferidos con seguridad dentro del área de envase a fin de evitar una posible contaminación.
+ N
+
+
+8.A.26.
+ Las estufas y bandejas conteniendo materiales ya esterilizados son adecuadamente identificadas?
+ N
+
+
+8.A.27.
+ Se emplean indicadores que permitan identificar si el material fue esterilizado?
+ N
+
+
+8.B.- AREA DE PREPARACIÓN
+
+
+8.B.1.
+ Existen locales para la fabricación de productos Inyectables?
+ N
+
+
+8.B.2.
+ Cuál es el área en m2 ocupados por el sector?
+ INF
+
+
+8.B.3.
+ Cuál es el N° de operarios existente en el sector?
+ INF
+
+
+8.B.4
+ Cuál es la relación área/operario?
+ INF
+
+
+8.B.5.
+ El área ocupada es adecuada para el volumen de las operaciones?
+ INF
+
+
+8.B.6.
+ Cuál es la formación profesional del responsable del sector?
+ INF
+
+
+8.B.7.
+ La existencia y distribución de los equipamientos es ordenada, racional y adecuada volumen de operaciones?
+ INF
+
+
+8.B.8.
+ Los uniformes utilizados son adecuados?
+ N
+
+
+8.B.8.1.
+ Los uniformes están limpios y en buenas condiciones?
+ N
+
+
+8.B.8.2.
+ Se utilizan unicamente dentro del área de inyectables?
+ N
+
+
+8.B.9.
+ Existen vestuarios específicos para este área?
+ INF
+
+
+8.B.10.
+ Todos usan cofia?
+ N
+
+
+B.10.1.
+ Las cofias cubren totalmente los cabellos.
+ N
+
+
+8.B.10.2.
+ Si el operario posee barba, está la misma cubierta?
+ N
+
+
+8.B.11.
+ Los operarios usan zapatos especiales?
+ INF
+
+
+8.B.12.
+ Cuándo es necesario usan guantes, barbijo y anteojos de protección?
+ N
+
+
+8.B.13.
+ El local está limpio?
+ N
+
+
+8.B.14.
+ Existen recipientes para la recolección de residuos en el área, debidamente identificados?
+ R
+
+
+8.B.14.1.
+ Si existen, están bien tapados?
+ R
+
+
+8.B.14.2.
+ Se vacían frecuentemente?
+ R
+
+
+8.B.15.
+ La iluminación del local es adecuada?
+ N
+
+
+8.B.16.
+ Las paredes y techos están revestidos con material facilmente lavable?
+ N
+
+
+8.B.17.
+ Las paredes, techos y pisos no presentan rajaduras o pintura descascarada?
+ N
+
+
+8.B.18.
+ El piso es liso, impermeable y de fácil limpieza?
+ N
+
+
+8.B.19.
+ Las instalaciones eléctricas, de agua potable, agua para inyectables, gas, aire comprimido y vapor están identificadas y en buenas condiciones?
+ R
+
+
+8.B.20.
+ Existen rejillas en el área?
+ INF
+
+
+8.B.20.1.
+ Las rejillas poseen sifón?
+ N
+
+
+8.B.20.2.
+ Son desinfectados frecuentemente?
+ N
+
+
+8.B.21.
+ Si existen ventanas y/o visores, están perfectamente sellados?
+ R
+
+
+8.B.22.
+ El área posee instalaciones para la filtración del aire?
+ R
+
+
+8.B.23.
+ Cuál es la clasificación de este área?
+ INF
+
+
+8.B.24.
+ Existe registro sobre los controles de filtración del aire?
+ R
+
+
+8.B.25.
+ El área posee control de temperatura y humedad?
+ INF
+
+
+8.B.25.1.
+ Existen registros?
+ R
+
+
+8.B.26.
+ Existe una planilla de fabricación a seguir que sea una copia fiel de la planilla master de producción?
+ I
+
+
+8.B.27.
+ Las instrucciones contenidas en la planilla de fabricación son seguidas con exactitud?
+ N
+
+
+8.B.28.
+ Cada fase crítica de producción lleva la firma del operador y supervisor a cargo?
+ N
+
+
+8.B.29.
+ Todos los recipientes usados en la producción de un lote están identificados con: denominación, Nº de Lote, Sublote, a fin de evitar confusión?
+ N
+
+
+8.B.30.
+ Todo los equipos utilizados en la producción de un lote, están identificados por etiquetas conteniendo las indicaciones necesarias ?
+ N
+
+
+8.B.31.
+ Después de usados, todos los utensilios, equipos y recipientes, son bien lavados y si es necesario esterilizados y conservados de este modo hasta ser utilizados?
+ N
+
+
+8.B.32.
+ Son identificados con etiquetas que certifican esta condición?
+ N
+
+
+8.B.33.
+ Las balanzas y recipientes de medidas son calibradas periódicamente, así como las balanzas son certificadas regularmente ?
+ N
+
+
+8.B.34
+ Existen registros?
+ R
+
+
+8.B.35.
+ Existe adecuada separación física entre los equipos, para así evitar su mezcla o contaminación cruzada cuando se fabrican simultáneamente lotes de productos diferentes?
+ N
+
+
+8.B.36.
+ El agua para inyectables usada en la fabricación es analizada y liberada por Control de Calidad?
+ N
+
+
+8.B.37.
+ Se efectúan controles durante el proceso d fabricación a fin de garantizar la integridad del lote?
+ N
+
+
+8.B.38.
+ Existen registros?
+ N
+
+
+8.B.39.
+ Los recipientes conteniendo el producto a ser envasado estan bien tapados y con las identificaciónes conteniendo los siquientes datos?
+
+- Nombre del Producto
+
+- Concentración del producto
+
+- N· de Lote y/o Sublote
+
+- Volumen total contenido en el recipiente
+
+- N de recipiente/Nº total de recipientes que componen el lote.
+ N
+
+
+8.C.- AREA DE ENVASE. PRODUCTOS CON ESTERILIZACIÓN FINAL
+
+
+8.C.1.
+ Existe un área separada, especifica y con instalación para la filtración del aire?
+ I
+
+
+8.C.2.
+ Cuál es la clasificación de esta área?
+ INF
+
+
+8.C.3.
+ Existen registros sobre los controles de filtración de aire?
+ R
+
+
+8.C.4.
+ El área ocupada es adecuada para el volumen de las operaciones?
+ INF
+
+
+8.C.5.
+ La existencia y distribución de los equipamientos es ordenada, racional y adecuada al volumen de operaciones?
+ INF
+
+
+8.C.6.
+ El área de circulación está libre de obstáculos?
+ R
+
+
+8.C.7.
+ Existen vestuarios específicos para esta área?
+ N
+
+
+8.C.8.
+ Los uniformes utilizados son adecuados?
+ N
+
+
+8.C.8.1.
+ Los uniformes están limpios y en buenas condiciones?
+ N
+
+
+8.C.8.2.
+ Se utilizan unicamente dentro de esta área?
+ N
+
+
+8.C.9.
+ El tejido utilizado en los uniformes previene la liberación de fibras o particulas.
+ N
+
+
+8.C.10.
+ Todos usan cofia?
+ N
+
+
+8.C.10.1.
+ Las cofias cubren totalmente los cabellos?
+ N
+
+
+8.C.10.2.
+ Si el operario posee barba, esta la misma cubierta?
+ N
+
+
+8.C.11.
+ Todos usan guantes, barbijos y anteojos de protección?
+ N
+
+
+8.C.12.
+ Los operarios usan zapatos especiales?
+ N
+
+
+8.C.13.
+ El local está limpio?
+ N
+
+
+8.C.14.
+ La iluminación del local es adecuada?
+ N
+
+
+8.C.15.
+ Las paredes y techos están revestidas con material facilmente lavable?
+ N
+
+
+8.C.16.
+ Las paredes, techos y pisos no presentan rajaduras o pinturas descascaradas ?
+ N
+
+
+8.C.17.
+ El piso es liso, impermeable y de fácil limpieza?
+ N
+
+
+8.C.18.
+ Las instalaciones, eléctricas, de gas, de aire comprimido están debidamente identificadas y en buenas condiciones?
+ R
+
+
+8.C.19.
+ Existen rejillas en el área?
+ INF
+
+
+8.C.19.1.
+ Las rejillas poseen sifón?
+ N
+
+
+8.C.19.2.
+ Son desinfectados frecuentemente?
+ N
+
+
+8.C.20.
+ La sala posee presión positiva de aire?
+ N
+
+
+8.C.21.
+ Se hacen controles frecuentes del volumen de llenado de los envases?
+ N
+
+
+8.C.22.
+ Quién los realiza?
+ INF
+
+
+8.C.23.
+ El volumen de los envases es controlado frecuentemente por Control de Calidad?
+ INF
+
+
+8.C.24.
+ Existen registros?
+ N
+
+
+8.C.25.
+ La entrada del personal en el área es controlada?
+ N
+
+
+8.C.26.
+ Los recipientes que contienen el material envasado están debidamente identificados conteniendo los siguientes datos.
+
+‑ Nombre del Producto.
+
+‑ Concentración del producto.
+
+‑ N° de lote y/o sub‑lote.
+
+‑ Volumen total contenido en el recipiente.
+
+‑ N de recipiente/N°total de recipientes que componen el lote.
+ N
+
+
+8.D.‑ AREA DE PREPARACIÓN ASEPTICA
+
+
+8.D.1.
+ Existe un área separada, específica y con instalación para la filtración de aire ?
+ I
+
+
+8.D.2.
+ Cuál es la clasificación de este área?
+ INF
+
+
+8.D.3.
+ Existen registros sobre los controles de filtración del aire?
+ R
+
+
+8.D.4.
+ Existen equipos de flujo laminar sobre el área de preparación?
+ I
+
+
+8.D.5.
+ El área ocupada es adecuada para el volumen de las operaciones?
+ INF
+
+
+8.D.6.
+ La existencia y distribución de los equipamientos es ordenada, racional y adecuada al volumen de las operaciones?
+ INF
+
+
+8.D.7.
+ El área de circulación está libre de obstáculos?
+ R
+
+
+8.D.8.
+ Existen vestuarios especlficos para este área?
+ I
+
+
+8.D.9.
+ Los uniformes utilizados son cofias, barbijos, vestimenta, calzado, cubrecalzado y guantes. Están esterilizados y en número suficiente para el ciclo de producción?
+ I
+
+
+8.D.10.
+ El tejido utilizado para los uniformes previene la liberación de fibras o particulas?
+ N
+
+
+8.D.11.
+ Los guantes estériles están excentos de lubricantes (talco)?
+ N
+
+
+8.D.12.
+ Para entrar en el área aséptica los operarios tienen cuidados higiénicos?
+ N
+
+
+8.D.13.
+ El local está limpio?
+ N
+
+
+8.D.14.
+ La iluminación es adecuada?
+ N
+
+
+8.D.15.
+ Las paredes, techos están revestidos con material facilmente lavable?
+ N
+
+
+8.D.16.
+ Las paredes, techos y pisos no presentan rajaduras, o pinturas descascaradas ?
+ N
+
+
+8.D.17.
+ El piso es liso, impermeable y de fácil limpieza?
+ N
+
+
+8.D.18.
+ Las instalaciones eléctricas están en buenas condiciones?
+ N
+
+
+8.D.19.
+ Están debidamete identificados?
+ INF
+
+
+8.D.20.
+ No existen rejillas en el área?
+ I
+
+
+8.D.21.
+ El aire inyectado en el área es filtrado por filtros HEPA?
+ I
+
+
+8.D.22.
+ El aire inyectado sobre el flujo laminar es filtrado por filtros HEPA?
+ I
+
+
+8.D.23.
+ El estado de los filtros de ingreso de aire al área es verificado con frecuencia?
+ N
+
+
+8.D.24.
+ Existen registros?
+
+
+8.D.25.
+ El estado de los filtros de los equipos de flujo laminar es verificado con frecuencia?
+ N
+
+
+8.D.26.
+ Existen registros?
+ N
+
+
+8.D.27.
+ El área posee presión positiva?
+ I
+
+
+8.D.28.
+ Existe una antecámara?
+ I
+
+
+8.D.29.
+ La presión de aire en esta antecámara es inferior a la de la sala aséptica pero superior a las de las otras dependencias?
+ I
+
+
+8.D.30.
+ Se realizan controles para determinar recuento de particulas?
+ R
+
+
+8.D.30.1.
+ Por qué procedimiento?
+ INF
+
+
+8.D.30.2.
+ Existen registros?
+ R
+
+
+8.D.31.
+ Se llevan a cabo controles microbiologicos del aire y de las superficies?
+ I
+
+
+8.D.31.1.
+ Por qué procedimientos?
+ INF
+
+
+8.D.31.2.
+ Existen registros
+ N
+
+
+8.D.32.
+ Existen procedimientos escritos de las actividades que garanticen que la entrada de materias primas, materiales y equipos esteriles en el área de preparación aséptica, se realiza con la debida seguridad?
+ N
+
+
+8.D.33.
+ Las materias primas y utensilios que ingresan al área están debidamente esterilizados?
+ I
+
+
+8.D.34.
+ Existen filtración de los productos a través de filtros esterilizantes?
+ I
+
+
+8.D.35.
+ De que porosidad son los filtros?
+ INF
+
+
+8.D.36.
+ Se realizan ensayos para verificar la integridad de los filtros?
+ N
+
+
+8.D.36.1.
+ Cuáles?
+ INF
+
+
+8.D.36.2.
+ Existen registros?
+ N
+
+
+8.D.37.
+ Existen lámparas ultravioletas en las áreas?
+ INF
+
+
+8.D.38.
+ Si existen los operadores están protegidos contra sus rayos?
+ N
+
+
+8.D.39.
+ Existe sistema de control de eficacia de la radiación?
+ R
+
+
+8.D.39.1.
+ Existen registros?
+ R
+
+
+8.D.40.
+ Existe una planilla de fabricación a seguir que sea copia fiel de la fórmula patrón?
+ I
+
+
+8.D.41.
+ Las instrucciones contenidas en la planilla de fabricación son seguidas con exactitud?
+ N
+
+
+8.D.42.
+ Cada fase crítica de producción lleva la firma del operador y supervisor a cargo?
+ N
+
+
+8.D.43.
+ Todos los recipientes usados en la producción de un lote están identificados con: Denominación, N° de Lote, Sublote, a fin de evitar confusión?
+ N
+
+
+8.D.44.
+ Todo equipamiento usado en la fabricación de un lote está etiquetado exactamente como los recipientes?
+ N
+
+
+8.D.45.
+ Después de usados, todos los utensilios equipos y recipientes, son bien lavados y si es necesario esterilizados y conservados de este modo hasta ser utilizados?
+ N
+
+
+8.D.46.
+ Son identificados con etiquetas que certifican esta condición?
+ R
+
+
+8.D.47.
+ Las balanzas y recipientes de medidas son calibradas periodicamente, así como las balanzas son certificadas regularmente ?
+ N
+
+
+8.D.48.
+ Existen registros?
+ R
+
+
+8.D.49.
+ Existe adecuada separación física entre los equipos, para así evitar su mezcla o contaminación cruzada cuando se fabrican simultáneamente lotes de productos diferentes?
+ N
+
+
+8.D.50.
+ Se efectúan controles de proceso?
+ N
+
+
+8.D.51.
+ Existen registros?
+ N
+
+
+8.D.52.
+ Los recipientes conteniendo el producto a ser envasado están bien tapados y con las identificaciones conteniendo los siguientes datos?
+
+- Nombre del Producto.
+
+- Concentración del Producto
+
+- N de Lote y/o Sublote.
+
+- Volumen total contenido en el recipiente
+
+- N de recipiente/N total de recipientes que componen el lote.
+ N
+
+
+8.D.53.
+ La entrada de personal al área es controlada?
+ N
+
+
+8.E.‑ AREA DE ENVASE ASEPTICO
+
+(PRODUCTOS NO ESTERILIZABLES TERMINALMENTE)
+
+
+8.E.1.
+ Existe un área separada especlfica y con instalaciones para la filtración del aire?
+ I
+
+
+8.E.2.
+ Cuál es la clasificación de este área?
+ INF
+
+
+8.E.3.
+ Existen registros sobre los controles de filtración del aire?
+ N
+
+
+8.E.4.
+ Existen equipos de flujo laminar sobre el área de envase?
+ I
+
+
+8.E.5.
+ El área ocupada es adecuada para el volumen de las operaciones?
+ INF
+
+
+8.E.6.
+ La existencia y distribución de los equipamientos es ordenada, racional y adecuada al volumen de las operaciones?
+ INF
+
+
+8.E.7.
+ El área de circulación está libre de obstáculos?
+ R
+
+
+8.E.8.
+ Existen vestuarios específicos para este área?
+ I
+
+
+8.E.9.
+ Los uniformes utilizados son cofias, barbijos, vestimenta, calzado, cubrecalzado y guantes. Están esterilizados y en número suficiente para el ciclo de producción?
+ I
+
+
+8.E.10.
+ El tejido utilizado para los uniformes previene la liberación de fibras o partículas?
+ N
+
+
+8.E.11.
+ Los guantes estériles están excentos de lubricantes (talco).
+ N
+
+
+8.E.12.
+ Son cumplidas las normas escritas sobre cuidados higiénicos del personal para entrar en el área aséptica ?
+ I
+
+
+8.E.13.
+ El local está limpio?
+ N
+
+
+8.E.14.
+ La iluminación es adecuada?
+ N
+
+
+8.E.15.
+ La iluminación es adecuada?
+ N
+
+
+8.E.16.
+ Las paredes, techos y pisos no presentan rajaduras o pinturas descascaradas ?
+ N
+
+
+8.E.17.
+ El piso es liso, impermeable y de fácil limpieza?
+ N
+
+
+8.E.18.
+ Las instalaciones eléctricas están en buenas condiciones?
+ N
+
+
+8.E.19.
+ Están debidamente identificadas?
+ INF
+
+
+8.E.20.
+ No existen rejillas en el área?
+ I
+
+
+8.E.21.
+ El aire inyectado en el área es filtrado por filtros HEPA?
+ I
+
+
+8.E.22.
+ El aire inyectado sobre el flujo laminar es filtrado por filtros HEPA?
+ I
+
+
+8.E.23.
+ El estado de los filtros de ingreso de aire al área es verificado con frecuencia?
+ N
+
+
+8.E.24.
+ Existen registros?
+ N
+
+
+8.E.25.
+ El estado de los filtros de los equipos de lujo laminar es verificado con frecuencia
+ N
+
+
+8.E.26.
+ Existen registros?
+ N
+
+
+8.E.27.
+ El área posee presión positiva?
+ I
+
+
+8.E.28.
+ Existe una antecámara?
+ I
+
+
+8.E.29.
+ La presión de aire en esta antecámara es inferior a la de la sala aséptica pero superior a las de las otras dependencias?
+ I
+
+
+8.E.30.
+ Se realizan controles para determinar recuento de particulas?
+ R
+
+
+8.E.30.1.
+ Por qué procedimiento?
+ INF
+
+
+8.E.30.2.
+ Existen registros?
+ R
+
+
+8.E.31.
+ Se llevan a cabo controles microbiológicos del aire y de las superficies?
+ I
+
+
+8.E.31.1.
+ Por qué procedimientos?
+ INF
+
+
+8.E.31.2.
+ Existen registros?
+ N
+
+
+8.E.32.
+ Existen procedimientos escritos de las actividades que garanticen que la entrada de materias primas, materiales y equipos estériles en el área de envase aséptico, se realiza con la debida seguridad?
+ N
+
+
+8.E.33.
+ Los envases, tapones y utensilios que ingresan al área están debidamente esterilizados?
+ I
+
+
+8.E.34.
+ Existe filtración de los productos a través de filtros esterilizantes?
+ I
+
+
+8.E.35.
+ De qué porosidad son los filtros?
+ INF
+
+
+8.E.36.
+ Se realizan ensayos para verificar la integridad de los filtros?
+ N
+
+
+8.E.36.1.
+ Cuáles?
+ INF
+
+
+8.E.36.2.
+ Existen registros?
+ N
+
+
+8.E.37.
+ Existen lámparas ultravioletas en las áreas?
+ INF
+
+
+8.E.38
+ Si existen los operadores están debidamente protegidos contra sus rayos?
+ N
+
+
+8.E.39.
+ Existe sistema de control de eficacia de la radiación?
+ R
+
+
+8.E.39.1.
+ Existen registros?
+ R
+
+
+8.E.40.
+ Se hacen controles frecuentes del volumen o peso en el material envasado?
+ N
+
+
+8.E.41.
+ Con qué frecuencia?
+ INF
+
+
+8.E.42.
+ Quién lo realiza?
+ INF
+
+
+8.E.43.
+ El volumen o el peso es controlado frecuentemente por Control de Calidad?
+ INF
+
+
+8.E.44.
+ Existen registros?
+ N
+
+
+8.E.45
+ Se llevan a cabo a intervalos regulares, pruebas de llenado con medio de cultivo estéril en las condiciones normales de trabajo?
+ R
+
+
+8.E.46.
+ Existen registros?
+ R
+
+
+8.E.47.
+ La entrada de personal al área está debidamente controlada?
+ N
+
+
+8.F.‑ AREA DE ESTERILIZACIÓN
+
+
+8.F.1.
+ El área ocupada por los autoclaves es adecuada al volumen de las operaciones?
+ INF
+
+
+8.F.2.
+ La existencia y distribución de los equipamientos es ordenada, racional y adecuada al volumen de las operaciones?
+ INF
+
+
+8.F.3.
+ El área de circulación está libre de obstáculos?
+ R
+
+
+8.F.4.
+ Los uniformes utilizados son adecuados?
+ N
+
+
+8.F.5.
+ Los uniformes están limpios y en buenas condiciones?
+ N
+
+
+8.F.5.1.
+ Son usados unicamente dentro de ésta área?
+ R
+
+
+8.F.6.
+ Todos usan cofia?
+ N
+
+
+8.F.6.1.
+ Las cofias cubren totalmente los cabellos
+ N
+
+
+8.F.7.
+ Cuándo es necesario, usan guantes especiales?
+ N
+
+
+8.F.8.
+ El local está limpio?
+ N
+
+
+8.F.9.
+ Existen recipientes para la recolección de residuos en el local? Están identificados?
+ R
+
+
+8.F.9.1.
+ Si existen están bien tapados?
+ R
+
+
+8.F.9.2.
+ Se vacían frecuentemente?
+ R
+
+
+8.F.10.
+ La iluminación del local es adecuada?
+ N
+
+
+8.F.11.
+ Las paredes y techos están revestidos con material facilmente lavables?
+ R
+
+
+8.F.12.
+ Las paredes, techos y pisos no presentan rajaduras o pinturas descascaradas ?
+ N
+
+
+8.F.13.
+ El piso es liso, impermeable y de fácil limpieza?
+ R
+
+
+8.F.14.
+ Las instalaciones eléctricas, de vapor condensado, agua potable, aire y gases auxiliares están bien identificadas y en buenas condiciones?
+ R
+
+
+8.F.15.
+ Existen rejillas en el local?
+ INF
+
+
+8.F.15.1.
+ Las rejillas poseen sifón?
+ N
+
+
+8.F.15.2.
+ Son desinfectados frecuentemente?
+ R
+
+
+8.F.16.
+ La ventilación del local es adecuada?
+ R
+
+
+8.F.17.
+ Existe sistema de extracción adecuado?
+ R
+
+
+8.F.18.
+ Los autoclaves para esterilización están identificados adecuadamente?
+ R
+
+
+8.F.19.
+ Existen registradores de temperatura y tiempo y de presión cuando es necesario?
+ N
+
+
+8.F.20.
+ Existen registros de presión, temperatura y tiempo?
+ N
+
+
+8.F.21.
+ Existen por escrito instrucciones sobre tiempo y temperatura de autoclavado?
+ N
+
+
+8.F.22.
+ Se realizan periodicamente ensayos flsicos y biológicos para verificar el funcionamiento de los autoclaves?
+ N
+
+
+8.F.23.
+ Existen registros?
+ R
+
+
+8.F.24.
+ Después del autoclavado se realiza algún ensayo para verificar si las ampollas están bien cerradas?
+ R
+
+
+8.F.25.
+ Existe algún procedimiento que identifique si los productos fueron esterilizados?
+ N
+
+
+8.F.26.
+ En caso de haber división de un lote la esterilización se realiza por cargas perfectamente identificadas?
+ N
+
+
+8.F.27.
+ Existen procedimientos seguros que permitan separar los materiales ya esterilizados de los no esterilizados?
+ N
+
+
+8.G.‑ AREA DE INSPECCIÓN
+
+
+8.G.1.
+ Existe una sala especial para la inspección de material ya envasado?
+ N
+
+
+8.G.2.
+ El área ocupada es adecuada para el volumen de las operaciones?
+ INF
+
+
+8.G.3.
+ La existencia y distribución de los equipamientos es ordenada, racional y adecuada al volumen de operaciones?
+ INF
+
+
+8.G.4.
+ El área de circulación está libre de obstáculos?
+ R
+
+
+8.G.5.
+ Los uniformes utilizados son adecuados?
+ N
+
+
+8.G.6.
+ Los uniformes están limpios y en buenas condiciones?.
+ N
+
+
+8.G.7.
+ Todos usan cofia?
+ N
+
+
+8.G.7.1.
+ Las cofias cubren totalmente los cabellos?
+ N
+
+
+8.G.8.
+ El local está limpio?
+ N
+
+
+8.G.9.
+ Existen recipientes para la recolección de residuos en el local? Están identificados?
+ R
+
+
+8.G.9.1.
+ Si existen están bien tapados?
+ R
+
+
+8.G.9.2.
+ Son vaciados con frecuencia?
+ R
+
+
+8.G.10.
+ La iluminación del local es adecuada?
+ N
+
+
+8.G.11.
+ Las paredes, techos, están revestidos con material facilmente lavable?
+ R
+
+
+8.G.12.
+ Las paredes, techos y pisos no presentan rajaduras o descascaramientos de pintura
+ R
+
+
+8.G.13.
+ El piso es liso, impermeable y de fácil limpieza?
+ R
+
+
+8.G.14.
+ Las instalaciones eléctricas están en buen estado?
+ R
+
+
+8.G.15.
+ Están debidamente identificadas?
+ R
+
+
+8.G.16.
+ Existen rejillas en el local?
+ INF
+
+
+8.G.16.1.
+ Las rejillas poseen sifón?
+ N
+
+
+8.G.16.2.
+ Son desinfectados frecuentemente?
+ R
+
+
+8.G.17.
+ La ventilación del local es adecuada?
+ R
+
+
+8.G.18
+ Los recipientes que contienen el material ya inspeccionado son debidamente identificados?
+ N
+
+
+8.G.19
+ La inspección es visual?
+ INF
+
+
+8.G.20
+ Existen condiciones adecuadas y controladas de iluminación y contraste para la inspección?
+ N
+
+
+8.G.21
+ Los inspectores son sometidos a examenes oftalmológicos regularmente?
+ N
+
+
+8.G.21.1
+ Existen registros?
+ R
+
+
+8.G.22
+ Se mantienen intervalos periódicos de descanso para los inspectores?
+ N
+
+
+8.G.22.1.
+ Durante qué periódo?
+ INF
+
+
+8.G.23
+ Existe inspección no visual (por equipos)?
+ INF
+
+
+8.G.24
+ Se calibran los equipos periodicamente?
+ N
+
+
+8.G.25
+ Que destino tiene el material descartado?
+ INF
+
+
+8.G.25.1.
+ Existe un procedimiento escrito para la destrucción o recuperación del material descartado?
+ N
+
+
+8.H.- COLIRIOS SIN ESTERILIZACIÓN FINAL
+
+
+8.H.1.
+ Existe una sala especial para el llenado
+ I
+
+
+8.H.2.
+ Existe un equipamiento especial (flujo laminar) para el llenado de los colirios?
+ N
+
+
+8.H.3.
+ Los cuidados tomados durante el llenado aséptico de las ampollas, también son toma dos para el llenado de los colirios?
+ N
+
+
+8.H.4.
+ Las condiciones ambientales son las mismas que existen en un área aséptica para el llenado de las ampollas?
+ N
+
+
+8.H.5.
+ Las técnicas usadas en la preparación del material a ser envasado son las mismas que se utilizan en la preparación de productos destinados a llenado aséptico?
+ N
+
+
+8.H.6.
+ Los cuidados que toman los operarios son los mismos que se adoptan para la manipulación aséptica?
+ N
+
+
+8.H.7.
+ Existen procesos especiales para la esterilización de los frascos, goteros y tapas a ser usadas?
+ N
+
+
+8.H.8.
+ Cuáles?
+ INF
+
+
+8.H.9.
+ Son eficientes?
+ N
+
+
+8.H.10.
+ El agua para inyectables usada en la fabricación es analizada y liberada por Control de Calidad?
+ N
+
+
+9- PRODUCTOS LIQUIDOS (Jarabes, Suspensiones, Gotas, etc.)
+
+
+9.1.
+ El área ocupada es adecuada para el volumen de las operaciones?
+ INF
+
+
+9.2.
+ Es ordenada y racional la distribución de equipos?
+ INF
+
+
+9.3.
+ Está libre el área de circulación?
+ R
+
+
+9.4.
+ Está el personal adecuadamente uniformado?
+ N
+
+
+9.5.
+ Están limpios los uniformes y en buenas condiciones?
+ N
+
+
+9.6.
+ Todos usan cofia?
+ N
+
+
+9.7.
+ Usan guantes especiales, cuándo es necesario?
+ N
+
+
+9.8.
+ Está limpio el local?
+ N
+
+
+9.9.
+ Existen recipientes para la recolección de residuos en el local?
+ R
+
+
+9.10.
+ Están bien tapados e identificados?
+ R
+
+
+9.11.
+ Se vacían con frecuencia?
+ R
+
+
+9.12.
+ Es adecuada la iluminación?
+ N
+
+
+9.13.
+ Están recubiertos pisos y paredes por material facilmente lavable?
+ R
+
+
+9.14.
+ Es adecuado el piso?
+ R
+
+
+9.15.
+ El techo, piso y paredes están libres de grietas y pintura descascarada?
+ N
+
+
+9.16.
+ Están debidamente identificadas y en buenas condiciones las instalaciones eléctricas, de vapor, agua potable, agua desionizada y aire comprimido?
+ N
+
+
+9.17.
+ Existen líneas muertas?
+ INF
+
+
+9.18.
+ Es adecuado el sistema de desagüe?
+ INF
+
+
+9.19.
+ Poseen sifón las rejillas de desagüe?
+ N
+
+
+9.20.
+ Se desinfectan frecuentemente?
+ R
+
+
+9.21.
+ Es adecuada la ventilación del local?
+ R
+
+
+9.22.
+ Cuál es el área en metros cuadrados ocupada por el sector?
+ INF
+
+
+9.23.
+ Cuál es el número de empleados que trabajan en el sector?
+ INF
+
+
+9.24.
+ Cuál es la relación área/empleado?
+ INF
+
+
+9.25.
+ Hay un organigrama disponible?
+ INF
+
+
+9.26.
+ Si existen ventanas, están protegidas contra la entrada de polvo, insectos, aves y roedores u otros animales?
+ N
+
+
+9.27.
+ Son buenas las condiciones de seguridad del local?
+ R
+
+
+9.28.
+ Existen extintores de incendio o mangueras en cantidad suficiente?
+ R
+
+
+9.29.
+ Están bien ubicadas y accesibles?
+ R
+
+
+9.30.
+ Existe una fórmula de elaboración que sea copia fiel de la fórmula patrón?
+ I
+
+
+9.31.
+ Se siguen con exactitud las instrucciones contenidas en esa fórmula de elaboración?
+ N
+
+
+9.32.
+ Cada etapa de la elaboración ejecutada y firmada por el operario es aprobada por su superior inmediato ?
+ N
+
+
+9.33.
+ A fin de prevenir contaminación con restos del producto anterior, existen normas de limpieza por escrito, de los recipientes usados en la elaboración?
+ N
+
+
+9.34.
+ Están debidamente identificados como tales los recipientes limpios?
+ N
+
+
+9.35.
+ Los recipientes conteniendo el producto envasado están debidamente identificados conteniendo los siguientes datos:
+
+- Nombre del producto.
+
+- Concentración del producto.
+
+- No de lote y/o sub-lote.
+
+- Volumen total contenido en el recipiente.
+
+- N de recipiente/N total de recipientes que componen el lote.
+ N
+
+
+9.36.
+ Los conductores (mangueras y tubos) usados para líquidos se limpian y se conservan así hasta ser usados?
+ N
+
+
+9.37.
+ Están en buen estado de conservación y limpieza los reactores, filtros, agitadores, bombas y recipientes para fabricación?
+ N
+
+
+9.38.
+ Las balanzas y recipientes de medidas sor calibradas periódicamente, así como las balanzas son certificadas regularmente ?
+ N
+
+
+9.39.
+ Existe registro de las calibraciones?
+ R
+
+
+9.40.
+ Se verifica verdaderamente la relación entre rendimiento real y teórico?
+ R
+
+
+9.41.
+ Se explica por escrito cualquier discrepancia que exista?
+ R
+
+
+9.42.
+ Se efectúan controles de proceso a fin de garantizar la uniformidad del lote?
+ N
+
+
+9.43.
+ Es liberado por Control de Calidad el producto semi-terminado a granel para pasar la fase de envasado?
+ N
+
+
+10- ENVASADO
+
+
+10.1.
+ Existe un local especial de envasado final de los productos?
+ N
+
+
+10.2.
+ El área ocupada es adecuada al volumen de las operaciones?
+ INF
+
+
+10.3.
+ Es ordenada y racional la distribución de los equipos?
+ INF
+
+
+10.4.
+ Se evita la mezcla de productos diferentes o de lotes distintos del mismo producto mediante suficiente separación entre las lineas de envasado?
+ N
+
+
+10.5.
+ Existe separación física o virtual entre las líneas de envasado?
+ R
+
+
+10.6.
+ El área de circulación esta libre de obstáculos?
+ R
+
+
+10.7.
+ Está el personal debidamente uniformado?
+ N
+
+
+10.8.
+ Los uniformes están limpios y en buenas condiciones?
+ N
+
+
+10.9.
+ Todos usan cofias?
+ N
+
+
+10. 10
+ Usan guantes, barbijos o anteojos de protección, de ser necesario?
+ N
+
+
+10.11.
+ Está limpio el local?
+ N
+
+
+10.12.
+ Existen recipientes para la recolección de residuos de en el local?
+ R
+
+
+10.13.
+ Están bien tapados e identificados?
+ R
+
+
+10.14.
+ Se vacían con frecuencia?
+ R
+
+
+10.15.
+ Es adecuada la iluminación?
+ N
+
+
+10.16.
+ Es adecuado el piso?
+ R
+
+
+10.17.
+ Están cubiertas paredes y techos por material facilmente lavable?
+ R
+
+
+10.18.
+ El techo, piso y paredes están libres de grietas y pintura descascarada?
+ N
+
+
+10.19.
+ Están en buenas condiciones las instalaciones eléctricas?
+ R
+
+
+10.20.
+ Están debidamente identificadas?
+ R
+
+
+10.21.
+ Está debidamente identificada la instalación de aire comprimido?
+ R
+
+
+10.22.
+ Es adecuado el sistema de desagüe?
+ INF
+
+
+10.23.
+ Poseen sifon las rejillas de desagüe?
+ N
+
+
+10.24.
+ Se desinfectan frecuentemente?
+ R
+
+
+10.25.
+ Cuál es el área en metros cuadrados ocupada por el sector?
+ INF
+
+
+10.26.
+ Cuál es el número de empleados que trabajan en el sector?
+ INF
+
+
+10.27.
+ Cuál es la relación área/empleado?
+ INF
+
+
+10.28.
+ Es suficiente la ventilación del local?
+ R
+
+
+10.29.
+ De existir ventanas, están éstas protegidas contra la entrada de aves, insectos, roedores u otros animales?
+ N
+
+
+10.30.
+ Existen locales que requieran aire acondicionado?
+ INF
+
+
+10.31.
+ En tal caso existen aparatos que registren temperatura y humedad?
+ INF
+
+
+10.32.
+ Se registran tales datos?
+ R
+
+
+10.33.
+ Son buenas las condiciones de seguridad de los recintos?
+ R
+
+
+10.34.
+ Existen extintores de incendio y/o mangueras en número suficiente?
+ R
+
+
+10.35.
+ Están bien ubicados y accesibles?
+ R
+
+
+10.36.
+ Se inician las operaciones de envasado luego de la aprobación del semi-terminado por Control de Calidad?
+ N
+
+
+10.37.
+ Se verifican, antes de comenzar las operaciónes, las líneas de envasado en relación con la presencia de material remanente de productos anteriores?
+ N
+
+
+10.38.
+ Los recipientes que contienen los productos a ser envasados están debidamente identificados?
+ N
+
+
+10.39.
+ Se mantienen tapados dichos recipientes, durante el proceso para ser abiertos solo cuando es necesario?
+ N
+
+
+10.40.
+ Se mantienen separados los recipientes que contienen productos diferentes?
+ N
+
+
+10.41.
+ Tiene aprobación por Control de Calidad todo el material de envase que se va a usar?
+ N
+
+
+10.42.
+ Está identificado en forma visible cada equipo y llnea de envasado, de acuerdo con el producto que se esta envasando?
+ N
+
+
+10.43.
+ Se verifica si las suspensiones o emulsiones son mantenidas homogéneas durante todo el proceso de envase?
+ N
+
+
+10.44.
+ Se verifica verdaderamente la relación entre rendimiento teórico y real?
+ R
+
+
+10.45.
+ Se deja constancia escrita de cualquier discrepancia entre los mismos?
+ R
+
+
+10.46.
+ Esperan en cuarentena su liberación por Control de Calidad los productos una vez envasados?
+ N
+
+
+10.47.
+ Se devuelve el material de envase no utilizado?
+ INF
+
+
+10.48.
+ Se destruye el material de envase sobrante que ha sido impreso con número de lote y/o fecha de vencimiento?
+ N
+
+
+11- ROTULADO
+
+
+11.1.
+ Sólo se permite a personas debidamente autorizadas el acceso a los rótulos?
+ N
+
+
+11.2.
+ Se inspeccionan los rótulos antes de entreqarse a la línea de empaque?
+ N
+
+
+11.3.
+ Se verifican las máquinas rotuladoras antes de usarlas, con respecto a la no existencia de rótulos de productos anteriores?
+ N
+
+
+11.4.
+ Se verifican las líneas de empaque, antes de su uso para verlficar que no existan rótulos, estuches u otros elementos de productos anteriormente envasados?
+ N
+
+
+11.5.
+ Se examinan los rótulos antes o durante el proceso para verificar si se refieren realmente al producto a empacar, así como que figuren el número de lote y la fecha de vencimiento?
+ N
+
+
+11.6.
+ Se destruyen al terminar el empaque, los rótulos sobrantes y grabados con número de lote y/o vencimiento?
+ N
+
+
+11.7.
+ Se mantienen registros de rótulos recibidos usados y destruídos?
+ R
+
+
+11.8.
+ Se investiga y registra toda discrepancia entre el número de envases rotulados, número de rótulos recibidos y número de rótulos usados, incluyendo los dañados y destruídos?
+ R
+
+
+11.9.
+ Si los rótulos sobrantes no son grabados con el número de lote o fecha de vencimiento devolvieron al depósito, existe personal responsable de esa devolución?
+ R
+
+
+11. 10.
+ Verifica el responsable de la existencia de rótulos la cantidad devuelta, y la guarda cuidadosamente a fin de evitar confusiones?
+ N
+
+
+11. 11.
+ Se registran debidamente por escrito las operaciones arriba mencionadas?
+ R
+
+
+12- CONTROL DE CALIDAD
+
+
+12.1.
+ Existe en la empresa laboratorio de Control de Calidad?
+ I
+
+
+12.2.
+ Existe un organigrama?
+ R
+
+
+12.3.
+ Control de Calidad es independiente de la producción?
+ N
+
+
+12.4.
+ El responsable de Control de Calidad a quién reporta?
+ INF
+
+
+12.5.
+ Cuál es la formación profesional del responsable de Control de Calidad?
+ INF
+
+
+12.6.
+ Qué cantidad de funcionarios posee Control de Calidad y cual es la formación de cada uno de ellos?
+ INF
+
+
+12.6.1.
+ Hay una descripción de función para cada cargo?
+
+
+12.7.
+ Existen controles efectuados por Laboratorios contratados?
+ INF
+
+
+12.7.1.
+ Qué controles?
+ INF
+
+
+12.7.2.
+ Existen contratos?
+ INF
+
+
+12.8.
+ Control de Calidad es responsable de aprobar o rechazar productos elaborados, acondicionados o mantenidos bajo contrato por terceros?
+ I
+
+
+12.9.
+ Las instalaciones edilicias del (de los) Laboratorio (s) son adecuadas al volumen de trabajo?
+ INF
+
+
+12.10.
+ Existen instalaciones de seguridad como ducha, lava-ojos, matafuegos adecuados, respetando la correcta localización y número?
+ R
+
+
+12.10.1.
+ Existe un programa de verificación del funcionamiento de estos equipos?
+ INF
+
+
+12.10.2.
+ Existen registros?
+ R
+
+
+12.11.
+ Control de Calidad está equipado con aparatos adecuados para llevar a cabo los controles que efectúan?
+ I
+
+
+12.12.
+ Cuáles son los equipos con que cuenta el Laboratorio de Control de Calidad?
+ INF
+
+
+12.12.1.
+ Los equipos y aparatos están instalados de manera adecuada según las exigencias para su correcto funcionamiento?
+ R
+
+
+12.13.
+ Hay un programa de mantenimiento preventivo y calibraciones claramente definido?
+ R
+
+
+12.13.1.
+ El programa es cumplido?
+ R
+
+
+12.13.2.
+ Hay registros?
+ R
+
+
+12.14.
+ Control de Calidad es responsable de aprobar o rechazar materias primas, productos intermedios y sus contenedores, productos terminados, material de envase y empaque?
+ I
+
+
+12.15.
+ Existen procedimientos escritos con la de cripción detallada del muestreo, análisis aprobación o rechazo de materias primas, productos terminados y materiales de embalaje?
+ N
+
+
+12.15.1.
+ Estos procedimientos se siguen?
+ N
+
+
+12.16.
+ Control de Calidad tiene escritas las especificaciones y metodos analíticos seguidos para el control de todas las materias primas, material de envase y empaque, productos intermedios y productos terminados?
+ N
+
+
+12.16.1.
+ Los metodos analíticos se consultan y siguen para la ejecución de los análisis?
+ N
+
+
+12.16.2.
+ Control de Calidad mantiene registros de los análisis efectuados?
+ I
+
+
+12.17.
+ Existen procedimientos escritos para la toma de muestras para análisis de materias primas, productos semi-elaborados, material de envase y empaque, productos terminados, que aseguren ser representativos de la totalidad del lote o partida?
+ N
+
+
+12.17.1.
+ Los métodos son consultados y seguidos para realizar los análisis?
+ N
+
+
+12.18.
+ El muestreo estadístico se efectúa por persona calificada de Control de Calidad.
+ N
+
+
+12.19.
+ Son reservadas contra-muestras de las materias primas empleadas?
+ N
+
+
+12.19.1.
+ Está definido el tiempo de conservación?
+ R
+
+
+12.20.
+ Se conservan muestras de cada lote de producto terminado?
+ I
+
+
+12.20.1.
+ Está definido el tiempo de conservación?
+ R
+
+
+12.21.
+ Existe procedimiento escrito detallando el plazo de re-control de materias primas?
+ R
+
+
+12.21.1.
+ Se sigue el procedimiento?
+ R
+
+
+12.22.
+ La empresa patrones y materiales de referencia?
+ N
+
+
+12.22.1.
+ Son conservados y utilizados de acuerdo a procedimientos previamente establecidos?
+ R
+
+
+12.23.
+ Hay personal de Control de Calidad destinado a inspeccionar los procesos de fabricación?
+ R
+
+
+12.24.
+ Control de Calidad o persona autorizada verifica toda la documentación del proceso de cada producto para certificar la correcta ejecución del mismo, así como la correcta investigación de cualquier desvío del proceso ?
+ I
+
+
+12.25.
+ Control de Calidad verifica si cada lote elaborado cumple con las especificaciones establecidas antes de ser liberado?
+ I
+
+
+12.25.1.
+ Existen registros?
+ N
+
+
+12.26.
+ Son efectuados ensayos microbiológicos?
+ R
+
+
+12.26.1.
+ Existen registros?
+ N
+
+
+12.27.
+ Se efectúan test de esterilidad?
+ INF
+
+
+12.27.1.
+ Existen registros?
+ N
+
+
+12.28.
+ Las áreas para ensayos microbiológicos y test de esterilidad son adecuadas?
+ R
+
+
+12.29.
+ Son efectuados ensayos biológicos?
+ INF
+
+
+12.29.1.
+ Cuáles?
+ INF
+
+
+12.29.2.
+ Existen registros?
+ N
+
+
+12.30.
+ Existe un bioterio?
+ INF
+
+
+12.31.
+ Está ubicado fuera del predio?
+ INF
+
+
+12.32.
+ Si está dentro del predio: las instalaciones de ventilación y aire acondicionado están debidamente separadas de cualquier otro sistema?
+ N
+
+
+12.33.
+ En caso de que la empresa no tenga bioterio existe un área de cuarentena para animales?
+ N
+
+
+12.34.
+ Se realizan controles para liberación de animales en cuarentena? Existen registros?
+ N
+
+
+12.35.
+ Existen normas y registros de condiciones ambientales, higiene, alojamiento, alimentación y salud de los animales de bioterio?
+ N
+
+
+12.36.
+ El bioterio está limpio?
+ N
+
+
+12.37.
+ Existen procedimientos escritos sobre la limpieza del bioterio?
+ R
+
+
+12.38.
+ Cuál es la frecuencia de limpieza?
+ INF
+
+
+12.39.
+ Existen áreas de experimentación animal?
+ INF
+
+
+12.40.
+ Este área es separada del bioterio?
+ N
+
+
+12.41.
+ Existe separación de los animales sometidos a ensayos previamente, de los que están en ensayo y de los que aún no han sido utilizados?
+ N
+
+
+12.42.
+ Los animales en ensayo están identificados?
+ N
+
+
+ Cómo?
+ INF
+
+
+12.43.
+ Existen registros de historia y uso de animales utilizados?
+ R
+
+
+13- GARANTIA DE CALIDAD
+
+
+13.1.
+ Existe en la empresa un programa de garantia de calidad?
+ INF
+
+
+13.1.1.
+ Se divulga a todos los niveles?
+ INF
+
+
+13.2.
+ Existen normas escritas para la divulgación y cumplimiento de buenas prácticas de fabricación?
+ R
+
+
+13.2.1.
+ Se siguen éstas normas?
+ R
+
+
+13.3.
+ Existe en la empresa un área que coordine las actividades de Garantía de Calidad?
+ INF
+
+13.4.
+ Están claramente definidas las responsabilidades por la gestión de calidad?
+ R
+
+13.5.
+ Existen procedimientos escritos o sistemas para avalar la efectividad y aplicabilidad de las normas y sistemas de Garantía de Calidad?
+ INF
+
+
+13.6.
+ Existe un programa de entrenamiento del personal?
+ R
+
+
+13.6.1.
+ Se llevan registros del entrenamiento de cada funcionario?
+ R
+
+
+13.7.
+ Se desarrollan y proyectan los productos farmacéuticos de acuerdo con requisitos de buenas prácticas de fabricación?
+ N
+
+
+13.8.
+ Las operaciones de producción y control están claramente definidas y escritas?
+ N
+
+
+13.9.
+ Se entrenan los funcionarios de modo de garantizar una correcta y completa ejecución de los procesos y procedimientos definidos?
+ R
+
+
+13.10.
+ Los nuevos conocimientos adquiridos en los procesos o las adaptaciones y mejoras se implementan solo después de una completa evaluación y aprobación?
+ R
+
+
+13.11.
+ Se realizan autoinspecciones periódicas para verificar el cumplimiento de buenas prácticas de fabricación?
+ R
+
+
+13.11.1.
+ Existen registros?
+ R
+
+
+13.12.
+ Existe un programa escrito de estudio de la estabilidad de los productos con condiciones de los ensayos, registros de los resultados, métodos analíticos usados, condiciones de conservación de las muestras, envases primarios, periodicidad de análisis y fecha de vencimiento?
+ N
+
+
+13.12.1.
+ Se sigue el programa?
+ N
+
+
+13.13.
+ Existe un sistema de seguimiento que permita verificar que, si se cumplen las condiciones de almacenamiento, el producto mantiene su calidad durante su plazo de validez?
+ N
+
+
+13.13.1.
+ Se sigue el procedimiento?
+ N
+
+
+13.14.
+ Se llevan registros de las quejas recibidas sobre la calidad de los medicamentos o cualquier modificación de sus características físicas así como de las resoluciones tomadas?
+ R
+
+
+13.15.
+ Existe en la empresa un programa de verificación documentada para los ciclos de esterilización por calor húmedo?
+ N
+
+
+13.15.1.
+ Se cumple?
+ N
+
+
+13.15.2.
+ Se verifica documentadamente?
+ N
+
+
+13.15.3.
+ Existen protocolos preestablecidos?
+ N
+
+
+13.16.
+ Existe en la empresa un programa de verificación documentada para los ciclos de esterilización por calor seco?
+ N
+
+
+13.16.1.
+ Se cumple?
+ N
+
+
+13.16.2.
+ Se verifica documentadamente?
+ N
+
+
+13.16.3.
+ Existen protocolos preestablecidos?
+ N
+
+
+13.17.
+ Existe en la empresa un programa de verificación documentada para llenado aséptico de productos?
+ N
+
+
+13.17.1.
+ Se cumple?
+ N
+
+
+13.17.2.
+ Se verifica documentadamente?
+ N
+
+
+13.17.3.
+ Existen protocolos preestablecidos?
+ R
+
+
+13.18.
+ Existe en la empresa un programa de verificación documentada para métodos analíticos de control no codificados?
+ R
+
+
+13.18.1.
+ Se cumple?
+ R
+
+
+13.18.2.
+ Se verifica documentadamente?
+ R
+
+
+13.18.3
+ Existen protocolos preestablecidos?
+ R
+
+
+13.19.
+ Se realiza una nueva verificación documentada toda vez que se efectúe un cambio que pueda afectar la calidad o la reproducibilidad de un proceso o de un método analítico de control?
+ N
+
+
+14‑ ACTA DE INSPECCIÓN
+
+
+14.1.
+ Nombre de la Empresa.
+
+
+14.2.
+ Nombre del/los Inspector/es.
+
+
+14.3.
+ Motivo de la inspección.
+
+
+14.4.
+ Nombre, cargo y formación profesional de las personas entrevistadas.
+
+
+14.5.
+ Se recogieron muestras de productos?
+
+
+14.6.
+ Cuáles y cuántas?
+
+
+14.7.
+ Diferencias y prácticas no adecuadas detectadas e informadas a la Dirección de la Empresa.
+
+
+14.8.
+ Plazo recomendado por el Inspector a las Autoridades Sanitarias para implementar las medidas correctivas.
+
+
+14.9.
+ Comentarios sobre las observaciones del Inspector, por parte del responsable de la firma.
+
+
+1
+
+
+4

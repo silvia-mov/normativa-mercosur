@@ -1,0 +1,90 @@
+Resolución GMC N° 13/15
+Título: FARMACOPEA MERCOSUR: PÉRDIDA POR SECADO
+Fecha de aprobación: 29/05/2015
+Vigencia: Vigente (Vigente desde el 07/06/2024 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 57366_RES_013-2015_ES_Farmacopea Perdida Secado.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3102).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 13/15
+
+FARMACOPEA MERCOSUR: PÉRDIDA POR SECADO
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Pérdida por secado", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 1/XII/2015.
+
+      XCVIII GMC - Brasilia, 29/V/15.
+
+
+ANEXO
+
+PÉRDIDA POR SECADO
+
+Este ensayo se destina a determinar la cantidad de sustancia volátil de cualquier naturaleza eliminada en las condiciones especificadas en la monografía individual. Para sustancias que tienen agua como único constituyente volátil es apropiado aplicar el procedimiento que se indica en el capítulo Determinación de Agua. El resultado se expresa en porcentaje p/p, calculado de la siguiente manera:
+
+
+Siendo:
+Pm:	peso de la muestra (g)
+Pu:	peso del pesa-filtro conteniendo la muestra antes del secado (g)
+Ps:	peso del pesa-filtro conteniendo la muestra luego del secado (g).
+
+Procedimiento
+
+1. Gravimetría
+
+A menos que se especifique de otra manera en la monografía individual proceder según se indica a continuación:
+
+En caso de ser necesario, reducir la sustancia a polvo fino triturando rápidamente.
+
+Pesar una cantidad aproximada entre 1 - 2 g de sustancia, de forma exacta, en un pesa-filtro previamente secado durante 30 minutos, en las mismas condiciones que son empleadas en el ensayo de la muestra, y enfriado a temperatura ambiente en un desecador.
+
+Distribuir la muestra lo más uniformemente posible, agitando suavemente el pesa-filtro de modo que se forme una capa de 5 mm de espesor aproximadamente y no más de 10 mm en el caso de materiales voluminosos. Colocar el pesa-filtro conteniendo la muestra, destapado, junto con la tapa en la cámara de secado. Secar la muestra en las condiciones especificadas en la monografía. (Nota: la temperatura especificada en la monografía debe considerarse comprendida en el intervalo de ± 2 ºC). Abrir la cámara de secado, tapar el pesa-filtro rápidamente, retirarlo y permitir que llegue a temperatura ambiente en un desecador antes de pesarlo.
+
+Cuando en la monografía individual se especifica secar hasta peso constante el secado deberá continuarse hasta que dos pesadas consecutivas no difieran en más de 0,50 mg por gramo de sustancia tomada, realizando la segunda pesada después de una hora adicional de secado.
+
+Si la sustancia funde a una temperatura inferior a la que se especifica para la determinación de la pérdida por secado mantener el pesa-filtro con su contenido durante 1 a 2 horas a una temperatura de 5 a 10 ºC inferior a la temperatura de fusión y luego secar a la temperatura especificada.
+
+Para el análisis de cápsulas utilizar una porción de contenido homogeneizado de no menos de 4 unidades. En el caso de comprimidos utilizar el polvo de no menos de 4 unidades.
+
+Cuando en la monografía individual indique:
+* secado al vacío se deberá utilizar un desecador al vacío, una estufa de secado al vacío u otro aparato adecuado;
+* secar al vacío en un frasco con tapón provisto de perforación capilar, se deberá utilizar un frasco o tubo con un tapón capilar de 225 ± 25 μm de diámetro y mantener la cámara de calentamiento a una presión de 5 mm de mercurio o menor. Al final del período de calentamiento, dejar entrar aire seco a la cámara, retirar el frasco y con el tapón con perforación capilar todavía en su sitio, permitir que se enfríe a temperatura ambiente en un desecador antes de pesar;
+* secado en un desecador, se deberán tener las precauciones necesarias para asegurar que el agente desecante se mantenga activo. Dentro de los agentes desecantes más frecuentes se encuentran cloruro de calcio, sílica gel y pentóxido de fósforo.
+
+2. Termogravimetría
+
+En caso que la monografía individual especifique que la pérdida por secado debe realizarse por análisis termogravimétrico, proceder como especifica el capítulo Análisis Térmico.
+
+3. Balanza infrarrojo o con lámpara halógena
+
+En caso que la monografía individual especifique que la pérdida por secado debe realizarse con balanza infrarrojo o con lámpara halógena proceder según se indica a continuación:
+* Retirar la humedad del equipo.
+* Pesar la cantidad de sustancia a ser analizada y distribuir uniformemente el material en el colector de muestra y colocarlo dentro del aparato.
+* Definir el tiempo y la temperatura de secado según lo establezca la monografía individual. Registrar el valor de humedad obtenido.
+
+3

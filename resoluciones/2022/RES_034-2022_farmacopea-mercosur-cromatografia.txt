@@ -1,0 +1,417 @@
+Resolución GMC N° 34/22
+Título: FARMACOPEA MERCOSUR: CROMATOGRAFIA
+Fecha de aprobación: 03/12/2022
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 92157_RES_034-2022_ES_FARMACOPEA Cromatografia.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4439).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 34/22
+
+FARMACOPEA MERCOSUR: CROMATOGRAFIA
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 31/11, 22/14 y 23/14 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente los medicamentos, apoyando las acciones de regulación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, los requisitos mínimos para el control de la seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos y utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluido el registro de medicamentos, inspecciones y análisis laboratoriales.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen el desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de dependencia de proveedores extranjeros y promoviendo la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respeto internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea del MERCOSUR.
+
+Que la Resolución GMC Nº 23/14 aprobó la "FARMACOPEA MERCOSUR: Ajuste de las condiciones cromatográficas de sistemas isocráticos de la cromatografía líquida de alta eficacia".
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Cromatografía", que consta como Anexo y forma parte de la presente Resolución
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes de 01/VI/2023.
+
+LIX GMC Ext. - Montevideo, 03/XII/22.
+
+
+ANEXO
+
+FARMACOPEA MERCOSUR: CROMATOGRAFIA
+
+CROMATOGRAFIA
+
+La cromatografía es un método por el cual las sustancias se separan mediante un proceso de migración diferencial en un sistema que consta de dos fases. Una fase que fluye continuamente en una dirección dada (fase móvil) y otra que permanece fija (fase estacionaria). En estos sistemas los componentes de una mezcla pueden presentar diferentes movilidades debido a diferencias en la capacidad de adsorción, partición, solubilidad, presión de vapor, tamaño molecular o carga. Los mecanismos de separación son: adsorción, disolución y partición, filtración y permeación o tamices moleculares, intercambio iónico.
+
+DEFINICIONES E INTERPRETACIÓN DE LOS CROMATOGRAMAS
+
+Cromatograma: un cromatograma es una representación gráfica (o de otro tipo) de la respuesta del detector, de la concentración del o los analitos en el efluente u otra cantidad usada como una medida de concentración en el efluente en función del volumen de efluente o del tiempo. En la cromatografía planar se puede usar el término cromatograma para referirse al papel o capa con las zonas separadas.
+
+La Figura 1 representa una separación cromatográfica típica de dos sustancias, 1 y 2. tR1 y tR2 son los tiempos de retención respectivos, h es la altura, h/2 la mitad de la altura y Wh/2 el ancho del pico a la mitad de la altura. W1 y W2 son los anchos de los picos 1 y 2, respectivamente, en la línea base. Los picos de aire son una característica de los cromatogramas de gases y corresponden al frente de la fase móvil en la cromatografía de líquidos. El tiempo de retención de estos picos de aire o componentes no retenidos se denomina tM. (Nota: emplear las mismas unidades de medida en las diferentes determinaciones).
+
+
+Figura 1. Separación cromatográfica de dos sustancias
+
+Pico: el pico es la porción del cromatograma que registra la respuesta del detector cuando un componente individual eluye de la columna. El pico puede ser definido por su área, altura y ancho a la mitad de la altura, o altura y ancho en la línea de base. Si la separación es incompleta, se puede registrar la elución de dos o más componentes como un pico no resuelto.
+
+Volumen de Residencia (D): el volumen de residencia (también conocido como volumen de demora en elución a gradiente) es el volumen entre el punto en el que se encuentran los eluyentes y la entrada de la columna.
+
+Tiempo Muerto (tM): el tiempo muerto es el tiempo requerido para la elución de un componente no retenido (ver la Figura 1, mostrado como un pico de aire o de componente no retenido, con la escala de la línea base en minutos).
+
+Volumen Muerto (VM): el volumen muerto es el volumen de fase móvil requerido para eluir un componente no retenido. Se puede calcular a partir del tiempo muerto y la velocidad de flujo F, en ml/min:
+
+En la cromatografía de exclusión por tamaño se usa el símbolo VO.
+
+Tiempo de Retención (tR): en cromatografía líquida y cromatografía de gases, el tiempo de retención, tR, se define como el tiempo transcurrido entre la inyección de la muestra y la aparición de la respuesta máxima. Se puede usar tR como un parámetro para identificación. Los tiempos de retención cromatográficos son característicos de los compuestos que representan, pero no son únicos. La coincidencia de los tiempos de retención de una muestra y de una sustancia de referencia puede usarse como un criterio parcial en la construcción de un perfil de identidad, pero es insuficiente por sí misma para establecer la identidad. Los tiempos de retención absolutos de un compuesto dado varían de un cromatograma al siguiente.
+
+Volumen de Retención (VR): es el volumen de fase móvil requerido para la elución de un componente. Se puede calcular a partir del tiempo de retención y de la velocidad de flujo en ml/min:
+
+
+Número de Platos Teóricos (N): es una medida de la eficiencia de la columna. Para los picos gaussianos, se calcula por la ecuación:
+
+
+en donde tR es el tiempo de retención de la sustancia y W es el ancho del pico en su base, que se obtiene extrapolando los lados relativamente rectos del pico hasta la línea de base. El valor de N depende de la sustancia cromatografiada así como de las condiciones operativas, tales como la velocidad de flujo y la temperatura de la fase móvil o gas transportador, la calidad del relleno, la uniformidad del relleno dentro de la columna y, para columnas capilares, el espesor de la película de fase estacionaria, el diámetro interno y la longitud de la columna.
+
+Cuando se usan integradores electrónicos, puede ser conveniente determinar el número de platos teóricos por la ecuación:
+
+donde Wh/2 es el ancho del pico a la mitad de la altura. Sin embargo, en caso de discrepancias, sólo se deben usar las ecuaciones basadas en el ancho del pico en la línea base.
+
+Relación Pico/Valle (p/v): la p/v se puede emplear como un criterio de aptitud del sistema en una prueba de sustancias relacionadas cuando no se logra la separación entre dos picos en la línea base. La Figura 2 representa una separación incompleta de dos sustancias, donde Hp es la altura del pico menor por encima de la línea base extrapolada y Hv es la altura en el punto más bajo de la curva que separa los picos menor y mayor por encima de la línea base extrapolada:
+
+p/v = Hp/Hv
+
+
+Figura 2. Determinación de la relación pico/valle.
+
+Retardo Relativo (Rret): es el cociente de la distancia (b) recorrida por el analito y la distancia (c) recorrida simultáneamente por un compuesto de referencia (ver la Figura 3) y se usa en una cromatografía planar.
+
+
+Rret = b / c
+
+
+Figura 3. Cromatografía planar típica
+
+Retención relativa (r): es el cociente entre el tiempo de retención ajustado de un componente y el de otro usado como referencia obtenido en condiciones idénticas:
+
+r = (tR2 - tM)/(tR1 - tM)
+
+donde tR2 es el tiempo de retención medido desde el punto de inyección del compuesto de interés; tR1 es el tiempo de retención medido a partir del punto de inyección del compuesto usado como referencia; y tM es el tiempo muerto, todos determinados en condiciones experimentales idénticas en la misma columna.
+
+Tiempo de Retención Relativo (RRT): también conocido como tiempo relativo no ajustado, es la relación entre los tiempos de retención de un pico (tR2) con respecto a otro (tR1) en un mismo cromatograma.
+
+RRT = tR2/tR1
+
+El símbolo rG también se usa para designar los valores de retención relativa no ajustados.
+
+Factor de Retardo (Rf): el factor de retardo es el cociente entre la distancia (b) recorrida por el centro de la mancha y la distancia (a) recorrida simultáneamente por la fase móvil y se usa en cromatografía planar. Usando los símbolos de la Figura 3:
+
+Rf = b/a
+
+Factor de Retención (k): al factor de retención también se le conoce como el factor de capacidad (k´). Se define como:
+
+
+El factor de retención de un componente se puede determinar a partir del cromatograma:
+k = (tR - tM)/tM
+
+Resolución (Rs): la resolución es la separación de dos componentes en una mezcla, calculada por:
+Rs = 2(tR2 - tR1)/(W1 + W2)
+
+Donde tR2 y tR1 son los tiempos de retención de los dos componentes; y W2 y W1 son los anchos correspondientes en las bases de los picos obtenidos extrapolando los lados relativamente rectos de los picos hasta la línea de base.
+
+Cuando se usan integradores electrónicos, puede ser conveniente determinar la resolución, mediante la ecuación:
+
+Rs= 1,18(tR2 - tR1)/(W1,h/2 + W2,h/2)
+
+Factor de Separación (α): el factor de separación es la retención relativa calculada para dos picos adyacentes (por convención, el valor del factor de separación siempre es >1):
+α= k2/k1
+
+Factor de Simetría (T): el factor de simetría (también conocido como factor de asimetría o factor de cola) de un pico (ver la Figura 4) se calcula por:
+
+T= W0,05/2f
+
+donde W0,05 es el ancho del pico al 5% de la altura y f es la distancia del máximo del pico hasta el borde inicial del pico, midiendo la distancia en un punto ubicado al 5% de la altura desde de la línea base.
+
+
+Figura 4. Pico cromatográfico asimétrico
+
+CROMATOGRAFÍA EN COLUMNA
+
+La cromatografía en columna se emplea para la separación de sustancias en escala preparativa.
+
+Cromatografía de adsorción
+
+Preparación de la columna:  emplear un tubo cromatográfico, cilíndrico, de vidrio o del material especificado en la monografía correspondiente, generalmente de 10 a 30 mm de diámetro interno y de 150 a 400 mm de largo. En su extremo inferior, el tubo se angosta formando un tubo de salida que generalmente posee un diámetro interno de 3 a 6 mm, pudiendo incluir un robinete para el control exacto del caudal. Generalmente, se emplea una varilla de vidrio u otro material para colocar un trozo de lana de vidrio o algodón, en la base del tubo, y si fuera necesario, compactar el adsorbente o una suspensión del mismo uniformemente dentro del tubo. En algunos casos, en la base del tubo se encuentra soldado un disco de vidrio poroso que actúa como soporte del contenido del tubo. Colocar el adsorbente especificado en la monografía correspondiente, de manera que se forme una columna compacta, homogénea y sin fisuras. Los adsorbentes más empleados son alúmina, gel de sílice activado y tierra de diatomeas.
+
+Procedimiento:  disolver la muestra en una cantidad apropiada de solvente y agregarla por el extremo superior de la columna. Dejar que esta solución se adsorba y luego agregar nuevas porciones de solvente, de manera que fluya a través de la columna espontáneamente, por aplicación de vacío en la base o ejerciendo presión en el extremo superior. En algunos casos, puede modificarse el procedimiento de carga de la muestra en la columna. Si el producto es sólido (como por ejemplo, comprimidos pulverizados) se lo mezcla íntimamente con una porción del adsorbente empleado para rellenar la columna, sin necesidad de separarlo de su excipiente y se agrega esta mezcla al extremo superior de la columna. El paso posterior de solvente hace progresar la sustancia a través de la columna. La separación y aislamiento puede mejorarse haciendo circular mayores cantidades de fase móvil o un solvente de mayor poder eluyente, a través de la columna y recolectando distintas fracciones del eluato que contienen los componentes de la muestra. La eficiencia de la separación suele controlarse realizando un cromatograma en capa delgada de las fracciones individuales.
+
+Cromatografía de partición
+
+Preparación de la columna: emplear un tubo cromatográfico de aproximadamente 22 mm de diámetro interno y 200 a 300 mm de largo, sin disco de vidrio poroso en su extremo inferior, al que se ajusta un tubo de salida, sin robinete, de aproximadamente 4 mm de diámetro interno y 50 mm de largo, a menos que se especifique de otro modo en la monografía correspondiente. Adaptar un trozo de lana de vidrio en la base del tubo. Transferir el volumen de fase estacionaria y la cantidad de soporte sólido especificados en la monografía correspondiente a un vaso de precipitados de 100 a 250 ml y mezclar hasta obtener una mezcla homogénea y espesa. Transferir esta mezcla al tubo cromatográfico y apisonar presionando suavemente, hasta obtener una masa uniforme. Si la cantidad de soporte sólido especificada es mayor de 3 g, transferir la mezcla al tubo en porciones de aproximadamente 2 g y apisonar cada porción.
+
+Procedimiento: la muestra se puede agregar a la parte superior de la columna disuelta en un volumen apropiado de fase móvil o empleando una solución de la muestra en un volumen apropiado de fase estacionaria mezclada con una parte adicional del soporte sólido y transferida a la parte superior de la columna como una capa extra de soporte. La muestra puede también ser incorporada en la fase estacionaria, completando la transferencia cuantitativa al tubo cromatográfico, lavando el vaso de precipitados, empleado para la preparación de la muestra, y agregando una mezcla de aproximadamente 1 g de soporte sólido y varias gotas del solvente empleado para preparar la solución muestra. Colocar un trozo de lana de vidrio fina por encima del soporte de la fase estacionaria para completar la columna. Dejar que se adsorba completamente en la fase estacionaria y luego agregar fase móvil en varias porciones, permitiendo que cada una penetre en la columna completamente, antes de comenzar la elusión. Como fase móvil emplear el solvente o la solución especificada en la monografía correspondiente. Equilibrar la fase móvil con agua si la fase estacionaria es una solución acuosa o si la fase estacionaria es un líquido orgánico polar, equilibrar con ese líquido. Cuando la valoración o el ensayo requieren el empleo de varias columnas cromatográficas colocadas en serie, cuando se especifique el agregado de la fase móvil en porciones o el cambio en la composición de la misma, dejar que cada porción drene completamente a través de la columna y lavar el vástago con fase móvil antes del agregado de cada porción.
+
+CROMATOGRAFÍA EN PAPEL
+
+El mecanismo predominante en cromatografía en papel es la partición, esto se debe a que el papel posee un contenido natural de agua que puede ser considerada como fase estacionaria. Sin embargo, en la práctica, las separaciones frecuentemente son el resultado de la combinación de efectos de adsorción y partición.
+
+Fase estacionaria: la fase estacionaria es una hoja de papel de textura y espesor adecuados. El desarrollo puede ser ascendente, en cuyo caso el solvente se desplaza hacia arriba por el papel mediante fuerzas de capilaridad, o descendente en cuyo caso el flujo del solvente se produce por acción de la fuerza de gravedad. La orientación de las fibras del papel con respecto al flujo del disolvente se debe mantener constante en una serie de cromatogramas.
+
+Aparato: el equipo esencial para cromatografía en papel comprende una cámara hermética para permitir la saturación con los vapores de la fase móvil (generalmente construida de vidrio, acero inoxidable o porcelana) provista de entradas para agregar el solvente y una gradilla de material resistente a la corrosión, aproximadamente 5 cm más corta que la altura interior de la cámara.
+
+La gradilla sirve como soporte para la cubeta de solvente y para las varillas antisifón que, a su vez, sostienen las hojas cromatográficas. El fondo de la cámara está cubierto con la mezcla de solventes o fase móvil indicada. La saturación de la cámara con el vapor del solvente se facilita revistiendo las paredes del interior con un papel humedecido con la fase móvil indicada.
+
+Siembra: disolver la sustancia o sustancias en ensayo en un solvente adecuado. Aplicar volúmenes apropiados de las soluciones que contengan entre 1-20 µg de la sustancia o sustancias, en puntos de 3 a 8 mm de diámetro y con una separación de no menos de 3 cm.
+
+Cuando el volumen de la muestra es grande, aplicar en varias dosis sucesivas de pequeño volumen sobre la misma superficie, secando después de cada aplicación, para mantener el diámetro de la mancha pequeño. En ocasiones la muestra es aplicada en forma de banda a lo largo de la línea de origen.
+
+Procedimiento para Cromatografía Descendente en Papel
+
+(1) Suspender la hoja cromatográfica sembrada en el aparato, usando la varilla antisifón para sostener el tramo superior de la hoja en la cubeta de solvente (Nota: asegurar que la porción de la hoja que queda por debajo de las varillas esté suspendida libremente en la cámara, sin tocar la gradilla o las paredes de la cámara ni el líquido que está en el interior de la cámara.)
+(2) La cámara se sella para permitir su equilibrio (saturación) y el del papel con el vapor del solvente. Liberar cualquier exceso de presión, si fuera necesario.
+(3) Después de equilibrar la cámara, la fase móvil previamente preparada se introduce en la cubeta a través de la entrada.
+(4) Cerrar la entrada y dejar que la fase móvil se desplace hacia abajo hasta la distancia deseada sobre el papel.
+(5) Retirar la hoja de la cámara, marcar rápidamente la ubicación del frente de la fase móvil y secar la hoja.
+(6) Observar el cromatograma y medir directamente o después del revelado apropiado la localización de las manchas.
+Procedimiento para Cromatografía Ascendente en Papel
+
+(1) Introducir la fase móvil en la cámara.
+(2) La cámara se sella para permitir su equilibrio (saturación) y el del papel con el vapor del solvente. Liberar cualquier exceso de presión, si fuera necesario.
+(3) Sumergir el borde inferior de la fase estacionaria en fase móvil para permitir que ésta ascienda por capilaridad de forma de evitar que la línea de siembra quede sumergida.
+(4) Cuando la fase móvil haya alcanzado la altura deseada, abrir la cámara y retirar la hoja, marcar rápidamente la ubicación del frente de la fase móvil, y secar la hoja.
+(5) Observar el cromatograma y medir directamente o después del revelado apropiado para la localización de las manchas.
+
+
+CROMATOGRAFÍA EN CAPA DELGADA
+
+La cromatografía en capa delgada, CCD, (habitualmente denominada TLC por su sigla en inglés) es comúnmente empleada para la separación e identificación de sustancias. El mecanismo de separación predominante es la adsorción pero dependiendo del adsorbente empleado pueden observarse también fenómenos de partición.
+
+Esta técnica presenta varias ventajas sobre la cromatografía en papel: se pueden emplear mayores cantidades de muestra; el tiempo requerido es menor, por lo tanto, los riesgos de alteración de la muestra por oxidación o por acción de los solventes disminuyen y permiten el uso de adsorbentes minerales que hacen posible el empleo de reveladores agresivos, como por ejemplo, ácido sulfúrico.
+
+Fase Estacionaria: la fase estacionaria es una capa relativamente delgada y uniforme de material seco y reducido a polvo fino que se aplica sobre una lámina o placa de vidrio, plástico o metal (generalmente conocida como placa). La fase estacionaria para CCD tiene un tamaño de partícula promedio de 10 a 15 µm y la de CCD de alta resolución tiene un tamaño de partícula promedio de 5 µm. Se puede usar placas disponibles comercialmente con una zona preadsorbente si se especifica en una monografía. La muestra es aplicada a la región preadsorbente, se desarrolla en forma de bandas estrechas y definidas en la interfase entre el preadsorbente y el sorbente. Las separaciones logradas pueden basarse en la adsorción, la partición o una combinación de ambos efectos, según el tipo específico de fase estacionaria.
+
+Sílica gel
+
+La sílica es preparada por polimerización espontánea y deshidratación del ácido silícico. Las sílicas comerciales poseen tamaño de poro variable entre 40 y 150 Å. Los tamaños de partículas varían entre 5 y 40 µm dependiendo del fabricante. Es comúnmente utilizada para la separación de compuestos lipofílicos como aldehídos, cetonas, fenoles, ácidos grasos, aminoácidos, alcaloides, terpenos y esteroides.
+
+Alúmina
+
+El tamaño de partícula y diámetro medio de poro son similares a los de la sílica. Se dispone comercialmente de alúmina ácida (pH 4,0 - 4,5), neutra (pH 7,0 - 8,0) y básica (pH 9,0 - 10,0). Es comúnmente utilizada para la separación de vitaminas liposolubles, alcaloides, ciertos antibióticos e hidrocarburos policíclicos.
+Kieselguhr
+
+Es una tierra de diatomea térmicamente tratada, su principal constituyente es SiO2. El tamaño de partícula puede variar entre 5 a 40 µm. Es comúnmente utilizada para la separación de azúcares, aminoácidos y otras sustancias polares similares.
+
+Celulosa
+
+Es un polisacárido altamente polimerizado por monómeros de celobiosa. Es comúnmente utilizada para la separación de sustancias hidrofílicas, tales como carbohidratos y aminoácidos.
+
+Poliamida
+
+Es una resina sintética. Se utilizan dos tipos de poliamidas (6 y 11). Es comúnmente utilizada para la separación de compuestos polares, tales como aminoácidos y derivados, benzodiazepínicos, ácidos carboxílicos, ciclodextrinas, ácidos grasos, flavonoides, conservantes y plaguicidas.
+
+Silicato de magnesio
+
+Es comúnmente utilizada para la separación de azúcares, antraquinonas, flavonas, glicósidos, esteroides lípidos, residuos de plaguicidas, vitaminas, carbazoles y acetato de hidrocortisona.
+
+Aparato: usar una cámara cromatográfica de material inerte y transparente con las siguientes especificaciones: cubeta de fondo plano o cubetas gemelas, una tapa que cierre herméticamente y un tamaño adecuado para las placas. Revestir como mínimo una pared de la cámara cromatográfica con papel de filtro. Agregar una cantidad suficiente de fase móvil a la cámara cromatográfica de modo que proporcione, después de impregnar el papel de filtro, un nivel de profundidad apropiado a la dimensión de la placa utilizada. Cerrar la cámara cromatográfica y dejar que se equilibre. (Nota: a menos que se indique algo diferente, las separaciones se realizan en una cámara saturada.)
+
+Detección/Visualización: a menudo se usa una fuente de luz ultravioleta (UV) adecuada para observaciones bajo la luz UV de longitud de onda corta (254 nm) y larga (365 nm) así como una variedad de soluciones reveladoras para visualizar las manchas.
+
+Siembra: aplicar las soluciones sobre la fase estacionaria (placa), en el volumen establecido y en porciones lo suficientemente pequeñas para obtener manchas circulares de 2 a 5 mm de diámetro (1 a 2 mm las de CCDAE Cromatografía en capa delgada de alta eficiencia) o bandas de 10 a 20 mm x 1 a 2 mm (5 a 10 mm x 0,5-1 mm sobre placas de CCDAE), a una distancia adecuada del borde inferior y de los bordes laterales de la placa. (Nota: durante el desarrollo, la posición de la aplicación debe estar por lo menos 5 mm (CCD) o 3 mm (CCDAE) por encima del nivel de la fase móvil) Aplicar las soluciones sobre una línea paralela al borde inferior de la placa con una separación mínima de 10 mm (5 mm en placas de CCDAE) entre los centros de las manchas o 4 mm (2 mm en placas de CCDAE) entre los bordes de las bandas. Dejar secar.
+
+Procedimiento
+
+(1) Colocar la placa en la cámara, asegurando que la siembra esté por encima del nivel de la fase móvil.
+(2) Cerrar la cámara y dejar que la fase móvil ascienda en la placa hasta que haya recorrido tres cuartos de la longitud de la placa o la distancia indicada en la monografía correspondiente.
+
+(3) Retirar la placa, marcar rápidamente el frente de la fase móvil y dejar secar la placa.
+(4) Visualizar los cromatogramas según se indica en la monografía correspondiente.
+(5) Determinar los valores del factor de retardo cromatográfico (Rf) para las manchas indicadas en la monografía correspondiente.
+
+Se puede realizar una identificación presuntiva mediante la observación de las manchas o zonas con valores de Rf idénticos y de magnitud similar, obtenidas cromatografiando una muestra desconocida y un estándar en la misma placa.
+
+Una comparación visual del tamaño o intensidad de las manchas o zonas puede servir para una estimación semicuantitativa. Las mediciones cuantitativas se pueden efectuar mediante densitometría (mediciones de absorbancia o fluorescencia).
+
+CROMATOGRAFÍA DE GASES
+
+Cromatografía de gases (CG) es una técnica de separación cromatográfica basada en la diferencia de distribución de componentes de una mezcla entre dos fases no miscibles, en la cual la fase móvil es el gas transportador moviéndose a través de la fase estacionaria contenida en una columna. CG está basada en mecanismos de adsorción, distribución o partición de masa o exclusión por tamaño. Es aplicada a sustancias o sus derivados que se volatilizan a las temperaturas empleadas y es utilizada para identificación, ensayo de pureza y determinación cuantitativa.
+
+La cromatografía gaseosa de espacio libre (headspace) es una técnica particularmente adecuada para la separación y determinación de compuestos volátiles presentes en muestras sólidas y líquidas. Este método está basado en el análisis de una fase gaseosa en equilibrio con una fase sólida o líquida.
+
+Pueden emplearse los siguientes sistemas:
+
+Cromatografía gas-líquido: la fase estacionaria puede estar contenida en columnas rellenas o capilares. En las columnas rellenas, la fase líquida se deposita sobre un soporte sólido finamente dividido e inerte en una columna de 1 a 3 m de longitud y de 2 a 4 mm de diámetro interno. Los soportes más comúnmente empleados son tierra de diatomeas, polímeros porosos o carbono grafito. En las columnas capilares, que no contienen soporte, la fase líquida se deposita en la superficie interna de la columna o puede unirse químicamente a ella.
+
+Cromatografía gas-sólido: se emplea como fase estacionaria alúmina, sílice, carbono o resinas porosas poliaromáticas.
+
+
+Aparato:
+
+Consta de:
+
+Un reservorio de gas transportador constituido por un gas comprimido, como por ejemplo: helio, nitrógeno, hidrógeno, argón o mezclas (como por ejemplo, 95% de argón y 5% de metano) según el tipo de detector y columna empleados.
+
+Inyectores
+
+Un sistema de inyección constituido por una jeringa o un inyector automático.
+
+Los inyectores pueden ser:
+
+- Inyectores de caudal dividido: son inyectores capaces de dividir la muestra en dos fracciones, una pequeña que se introduce en la columna y una grande que se desecha. También pueden emplearse en modo normal sin desechar ninguna porción de la muestra para el análisis de trazas o componentes minoritarios.
+
+- Inyectores de purga y trampa: están equipados con un dispositivo por el cual las sustancias volátiles de la solución se capturan en una trampa de baja temperatura. Una vez que se completa la retención de las sustancias, se liberan en el gas transportador mediante la calefacción rápida de la trampa, la cual posee un dispositivo programable de temperatura.
+
+- Inyectores de espacio libre superior (headspace): poseen un sistema de temperatura programable. Las muestras líquidas o sólidas se colocan en envases perfectamente cerrados y se calientan durante un período de tiempo fijo, lo que permite que los componentes volátiles de la muestra alcancen un equilibrio entre las fases no gaseosa y gaseosa (espacio libre superior del envase). Una vez establecido el equilibrio, el inyector introduce automáticamente una cantidad determinada del espacio libre superior del envase en el cromatógrafo de gases.
+
+Columnas
+
+Las columnas pueden ser capilares o rellenas.
+
+- Las columnas capilares, generalmente fabricadas con sílice fundida, poseen un diámetro interno de 0,10 a 0,53 mm (estas últimas también llamadas macrocapilares) y 5 a 60 m de longitud. El espesor de la fase estacionaria, que a veces se une químicamente a la superficie interna, es de 0,1 a 5,0 μm. Valores cercanos al límite superior son usados en fases estacionarias no polares.
+
+- Las columnas rellenas, de vidrio o metal, poseen un diámetro interno de 2 a 4 mm y una longitud de 1 a 3 m. Las fases estacionarias consisten, generalmente, en polímeros porosos o soportes sólidos impregnados con la fase líquida llegando a, aproximadamente, 5% (p/p). Para compuestos de bajo peso molecular como el agua, son utilizadas columnas de alta capacidad, con una fase líquida llegando a 20% (p/p) aproximadamente.
+
+Fase móvil
+
+El tiempo de retención y la eficiencia dependen de la temperatura, del gas transportador y su flujo. El tiempo de retención es también directamente proporcional a la longitud de la columna, mientras que la resolución es proporcional a la raíz cuadrada de la longitud de la columna. Para las columnas rellenas, el flujo del gas transportador se expresa generalmente en mL por minuto a presión atmosférica y temperatura ambiente y se mide a la salida del detector con un caudalímetro mientras la columna está a la temperatura de trabajo. Para un flujo determinado, la velocidad lineal a través de una columna rellena es inversamente proporcional al cuadrado del diámetro de la columna. Para las columnas capilares habitualmente se emplea velocidad lineal en lugar de flujo.
+
+A menos que se especifique de otro modo en la monografía individual, son generalmente empleados los gases transportadores helio o nitrógeno para columnas rellenas, mientras que los gases nitrógeno, helio e hidrógeno son utilizados en columnas capilares.
+
+Detectores
+
+Seleccionar un detector de acuerdo a las características de la muestra. El detector debe mantenerse a una temperatura superior a la de la columna para impedir la condensación de las sustancias eluidas. Para los análisis cuantitativos los detectores deben brindar una respuesta que debe ser directamente proporcional a la cantidad de la sustancia presente en el detector para un intervalo amplio de concentraciones. El detector más comúnmente empleado es el de ionización a la llama, pero también son empleados el de conductividad térmica, captura electrónica, nitrógeno-fósforo y espectrometría de masa.
+
+- Detector de ionización a la llama: posee un intervalo lineal, amplio y es sensible a la mayoría de los compuestos orgánicos. La respuesta de los detectores depende de la estructura y la concentración del compuesto y del flujo del gas de combustión, del aire, del gas de compensación y del gas transportador.
+- Detector de conductividad térmica: posee un alambre a una temperatura determinada, colocado en la corriente del gas transportador. Mide la diferencia de conductividad térmica entre el gas transportador junto con la muestra y el gas transportador sólo cuando atraviesan el detector. Este detector responde en forma uniforme a las sustancias volátiles cualquiera sea su estructura, sin embargo, es considerablemente menos sensible que el detector de ionización a la llama.
+- Detector de ionización a la llama alcalino: a veces llamado NP o detector de nitrógeno-fósforo, contiene una fuente termoiónica, constituida por una sal de un metal alcalino o un elemento de vidrio que contiene rubidio u otro metal, que produce la ionización de compuestos con nitrógeno y fósforo orgánicos. Es un detector selectivo que muestra poca respuesta a los hidrocarburos.
+- Detector de captura electrónica: contiene una fuente de radiación ionizante. Presenta una respuesta sumamente alta con sustancias que contienen halógenos y grupos nitro, pero pequeña con hidrocarburos. La sensibilidad aumenta con el número y peso atómico de los átomos de halógeno.
+- Detector de espectrometría de masa: se fundamenta en la separación de los fragmentos iónicos obtenidos del analito según su relación masa/carga. Es detector sensible y selectivo a la mayoría de los compuestos orgánicos e inorgánicos.
+
+Registrador
+
+El registrador recibe la señal del detector y calcula las respuestas de los picos y almacena los datos informáticos del cromatograma con sus parámetros y los picos.
+Los datos obtenidos y almacenados pueden reprocesarse, con cambios en la integración y otras variables de cálculo según sea necesario.
+
+Procedimiento:
+
+Equilibrar la columna, el inyector y el detector a las temperaturas y el flujo del gas transportador especificados en la monografía, hasta obtener una línea de base estable. Preparar las soluciones estándar y muestra como se describen. Las soluciones deben estar libres de partículas sólidas.
+
+Muchos fármacos son moléculas polares reactivas. En ese caso, puede ser necesaria la transformación en derivados menos polares y más volátiles por tratamiento de estos fármacos con reactivos apropiados.
+
+Adecuar el sistema de acuerdo a las consideraciones generales del presente capítulo y lo especificado en la monografía correspondiente.
+
+Inyectar por separado las soluciones estándar y muestra, registrar los cromatogramas y medir las respuestas de los picos según se especifica en la monografía correspondiente.
+
+Una fuente importante de error es la de irreproducibilidad en la cantidad de muestra inyectada, en particular cuando se hacen inyecciones manuales con una jeringa. Para reducir esta variabilidad, se agrega un estándar interno, compuesto que no interfiere en el cromatograma, en la misma concentración en las soluciones muestra y estándar. El cociente entre la respuesta de la sustancia ensayada y la respuesta del estándar interno se compara de un cromatograma a otro. El estándar interno debe ser sometido a todo el proceso de preparación de la muestra para controlar además otros aspectos del análisis cuantitativo. Los inyectores automáticos mejoran la reproducibilidad de las inyecciones y reducen la necesidad del estándar interno.
+
+A partir de los resultados obtenidos calcular el contenido de la o las sustancias analizadas.
+
+
+APTITUD DEL SISTEMA
+
+Aptitud del sistema en CLAE y CG
+
+La verificación de la aptitud del sistema es una parte integral de los métodos de cromatografía de líquidos y de gases. Estas pruebas tienen por objeto verificar que el sistema cromatográfico resulta adecuado para el análisis que se pretende efectuar.
+
+Las pruebas se basan en el concepto de que el equipo, los sistemas electrónicos, las operaciones analíticas y las muestras analizadas constituyen un sistema integral que se puede evaluar como tal.
+
+Los parámetros de aptitud del sistema se determinan para el pico de la sustancia ensayada, a menos que se especifique de otro modo en la monografía correspondiente.
+
+Los factores que pueden afectar el comportamiento cromatográfico incluyen lo siguiente:
+* Composición, fuerza iónica, temperatura y pH aparente de la fase móvil.
+* Velocidad de flujo, dimensiones de la columna, temperatura de la columna y presión.
+* Características de la fase estacionaria, incluyendo el tipo de soporte cromatográfico (basado en partículas o monolítico), tamaño de partícula, tamaño de poro y área específica.
+* En fase reversa y otras modificaciones superficiales de las fases estacionarias, el grado de modificación química (según se expresa mediante recubrimiento exhaustivo (end-capping), carga de carbono, etc.)
+
+La resolución R es una función de la eficiencia de la columna N, y se especifica para asegurar que las sustancias que eluyan muy cercanas se resuelvan entre sí y para asegurar que los estándares internos se resuelvan de las sustancias a ensayar. La eficiencia de la columna puede especificarse también como un requisito de aptitud del sistema, especialmente si hay un solo pico de interés en el cromatograma, sin embargo, el valor aislado de eficiencia no puede asegurar la resolución para el sistema en estudio. La eficiencia de la columna es una medida de la agudeza de los picos, importante para detectar componentes en baja concentración.
+
+Las inyecciones repetidas de una preparación estándar u otras soluciones estándar se comparan entre sí para determinar si se cumplen los requisitos de precisión. A menos que se especifique de otro modo en la monografía correspondiente, para calcular la desviación estándar relativa, SR (RSD), se emplean los datos de cinco inyecciones repetidas del estándar si el requisito es 2,0% o menor, y seis inyecciones repetidas si el requisito de la desviación estándar relativa es mayor de 2,0%. La desviación estándar relativa SR se calcula según la fórmula siguiente:
+
+Para la valoración en una monografía de un fármaco donde el valor es 100% para la sustancia pura, y no se especifica una desviación estándar relativa máxima, se calcula la desviación estándar relativa máxima permitida para una serie de inyecciones de la solución de referencia como:
+
+
+donde K es una constante (0,349), obtenida a partir de la expresión K = (0,6/√2) ×(t 90%,5/√6), en la que 0,6/√2 representa la desviación estándar relativa porcentual después de seis inyecciones para B = 1,0; B es el límite superior provisto en la definición de la monografía individual menos 100%; n es el número de inyecciones repetidas de la solución de referencia (3 ≤n≤6); y t 90%, n −1  es el valor t de Student al 90% del nivel de probabilidad (dos colas) con n −1grados de libertad.
+
+A menos que se indique de otro modo, la desviación estándar relativa máxima permitida no excede del valor apropiado provisto en la tabla de requisitos de repetibilidad. Este requisito no se aplica a las pruebas para sustancias relacionadas.
+
+
+Requisitos para Desviación Estándar Relativa
+
+
+Número de Inyecciones Individuales
+
+3
+4
+5
+6
+B (%)
+RSD Máxima Permitida
+2,0
+0,41
+0,59
+0,73
+0,85
+2,5
+0,52
+0,74
+0,92
+1,06
+3,0
+0,62
+0,89
+1,10
+1,27
+
+Resulta indispensable a lo largo de todo el procedimiento cromatográfico cumplir con los criterios de adecuabilidad del sistema. El diseño del esquema de verificación del sistema se hará con base en la frecuencia de uso del procedimiento, experiencia con el sistema cromatográfico, etc.
+
+El factor de asimetría T, una medida de la simetría del pico, es 1 para los picos perfectamente simétricos y su valor aumenta a medida que la asimetría es más pronunciada (ver Figura 4).  En algunos casos, pueden observarse valores menores de la unidad. Como consecuencia de la asimetría del pico, la integración y la precisión se tornan menos confiables.
+
+
+      Figura 5. Ruido y pico cromatográfico, componentes de la relación S/N
+
+La relación señal-ruido (S/N) es un parámetro útil de aptitud del sistema. La S/N se calcula según la fórmula:
+
+S/N = 2H/h
+
+donde H es la altura del pico medido a partir del ápice del pico hasta la línea base extrapolada sobre una distancia ≥5veces el ancho del pico a su altura media; y h es la diferencia entre el valor de ruido más grande y más pequeño observados sobre una distancia ≥5 veces el ancho del pico a su altura media y, si fuera posible, igualmente distribuida a ambos lados del pico de interés (ver la Figura 5).
+
+Estas pruebas de aptitud del sistema se realizan recolectando datos a partir de inyecciones repetidas del estándar u otras soluciones según se especifica en la monografía individual.
+La especificación de parámetros definidos en una monografía no excluye el uso de otras condiciones de operación aptas. Se permiten ajustes únicamente cuando:
+* se encuentran disponibles estándares adecuados (incluyendo estándares de referencia) para todos los compuestos usados en la prueba de aptitud; y
+* esos estándares muestran que los ajustes mejoraron la calidad de la cromatografía con respecto a los requisitos de aptitud del sistema.
+
+No se deben realizar ajustes a los parámetros cromatográficos a fin de cumplir con los requisitos de aptitud del sistema para compensar fallas en la columna o mal funcionamiento del sistema.
+
+Aptitud del Sistema en Cromatografía en capa delgada
+
+Los criterios de aptitud del sistema se indican en las monografías individuales para verificar que la separación y detección necesarias en los ensayos de identificación, ensayos límites de sustancias relacionadas y/o cuantificación son alcanzadas para un desempeño satisfactorio.
+
+
+Identificación
+Verificación del poder de separación para identificación.
+
+En caso de que sea necesario la monografía individual indicará un criterio de resolución entre dos manchas de Rf similar, a fin de garantizar la identificación de la sustancia en ensayo.
+
+Generalmente la verificación del poder de separación es lograda a través del uso de reactivos que cumplen con lo descripto en el capítulo de Reactivos, indicadores y soluciones.
+
+Ensayo de sustancias relacionadas
+Las manchas secundarias en el cromatograma de la solución muestra son visualmente comparadas con las manchas obtenidas de la solución de impurezas o la mancha obtenida de la solución de referencia indicada en la monografía individual.
+
+Verificación del poder de separación
+En caso de que sea necesario la monografía individual indicará un criterio de resolución entre dos manchas de Rf similar.
+
+Verificación del poder de detección
+El poder de detección es adecuado si la mancha o la banda es claramente visible en el cromatograma obtenido con la solución de referencia más diluida.
+
+
+20

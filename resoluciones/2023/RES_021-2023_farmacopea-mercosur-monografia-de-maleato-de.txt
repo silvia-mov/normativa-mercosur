@@ -1,0 +1,111 @@
+Resolución GMC N° 21/23
+Título: FARMACOPEA MERCOSUR: MONOGRAFIA DE MALEATO DE CLORFENIRAMINA
+Fecha de aprobación: 02/07/2023
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 102929_ATT9F1DE.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4563).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 21/23
+
+FARMACOPEA MERCOSUR:
+MONOGRAFIA DE MALEATO DE CLORFENIRAMINA
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, la monografia "Farmacopea MERCOSUR: Monografía de maleato de clorfeniramina", que consta como Anexo y forma parte de la presente Resolución.
+
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes de 29/XII/2023.
+
+
+LX GMC EXT. - Puerto Iguazú, 02/VII/23.
+
+
+ANEXO
+
+MALEATO DE CLORFENIRAMINA
+
+
+		C16H19ClN2.C4H4O4       PM: 390,86         113-92-8
+
+Definición - Maleato de Clorfeniramina es Maleato de 2-[(p-cloro)-α-[2-dimetilaminoetil] bencil]piridina o (2Z)-2-butanodioato de γ-(4-clorofenil)-N,N-dimetil-2-piridinapropamina (1:1).  Debe contener no menos de 98,0 % y no más de 100,5 % de C16H19ClN2.C4H4O4, calculado sobre la sustancia seca y debe cumplir con las siguientes especificaciones:
+
+Caracteres generales - Polvo cristalino blanco o casi blanco.
+
+Solubilidad - Fácilmente soluble en agua; soluble en etanol.
+
+Sustancia de referencia - Maleato de Clorfeniramina SQR.
+
+CONSERVACIÓN
+
+En envases protegidos de la luz y bien cerrados.
+
+ENSAYOS
+
+Identificación
+A - Absorción infrarroja: en fase sólida.
+B - Punto de fusión: entre 130 y 135 ºC.
+C - El espectro de absorción ultravioleta entre 230 y 350 nm de una solución de muestra de 0,0003 % en ácido clorhídrico 0,1 M, presenta un máximo a 265 nm.
+
+Determinación de la rotación óptica
+Entre - 10° y + 10°; determinada a 20°C
+Solución muestra: 100 mg/mL en agua R.
+
+Determinación del residuo de ignición (cenizas sulfatadas)
+No más de 0,2 %.
+
+Sustancias relacionadas
+Fase estacionaria - Emplear una placa para cromatografía en capa delgada recubierta con gel de sílice para cromatografía con indicador de fluorescencia, de 0,25 mm de espesor.
+Fase móvil - Acetato de etilo R, metanol R y ácido acético 6 % p/p (50:30:20).
+Solución muestra - Disolver 500 mg de Maleato de Clorfeniramina en cloroformo R y diluir a 10,0 mL con el mismo solvente.
+Solución estándar - Diluir 1 mL de solución muestra a 50 ml con cloroformo R y mezclar.  Transferir 1 mL de esta solución a un matraz aforado de 10 ml, completar a volumen con cloroformo R y mezclar.
+Procedimiento - Aplicar por separado sobre la placa 10 µL de la Solución muestra y 10 µL de la Solución estándar.  Dejar secar las aplicaciones y desarrollar los cromatogramas hasta que el frente del solvente haya recorrido aproximadamente tres cuartas partes de la longitud de la placa.  Retirar la placa de la cámara, marcar el frente del solvente, secar al aire y examinar bajo luz ultravioleta a 254 nm: a excepción de las dos manchas principales en el cromatograma obtenido a partir de la Solución muestra, ninguna mancha debe ser más intensa que la mancha principal obtenida con la Solución estándar (0,2 %).
+
+Pérdida por secado
+Secar a 105 °C durante 3 horas: no debe perder más de 0,5 % de su peso.
+
+VALORACIÓN
+
+Pesar exactamente alrededor de 170 mg de Maleato de Clorfeniramina, disolver en 25 mL de ácido acético glacial R y titular con ácido perclórico 0,1 M (SV) determinando el punto final potenciométricamente. Alternativamente, es posible realizar la detección del punto final empleando 2 gotas de cristal violeta (SR), como indicador. En ese caso, la cantidad de muestra exactamente pesada debe ser alrededor de 500 mg.
+Realizar una determinación con un blanco y hacer las correcciones necesarias. Cada mL de ácido perclórico 0,1 M equivale a 19,54 mg de C16H19ClN2.C4H4O4.
+
+
+SECRETARIA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 04/11/24
+
+B. Hugo Saguier Caballero
+Director SM
+
+
+2
+
+
+SECRETARIA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 04/11/24
+
+B. Hugo Saguier Caballero
+Director SM

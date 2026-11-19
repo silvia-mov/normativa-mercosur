@@ -1,0 +1,187 @@
+Resolución GMC N° 11/15
+Título: FARMACOPEA MERCOSUR: ESPECTROFOTOMETRIA INFRARROJO
+Fecha de aprobación: 29/05/2015
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 57351_RES_011-2015_ES_Farmacopea Infrarrojo.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3099).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 11/15
+
+FARMACOPEA MERCOSUR: ESPECTROFOTOMETRÍA INFRARROJO
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Espectrofotometría infrarrojo", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 1/XII/2015.
+
+      XCVIII GMC - Brasilia, 29/V/15
+
+ANEXO
+
+ESPECTROFOTOMETRÍA INFRARROJO
+
+Introducción
+
+La radiación electromagnética es una forma de energía que se propaga como ondas y puede ser subdividida en regiones de longitudes de onda características. Asimismo, puede ser considerada también como un flujo de partículas denominadas fotones (quanto). Cada fotón contiene determinada energía cuya magnitud es proporcional a la frecuencia e inversamente proporcional a la longitud de onda. La longitud de onda (λ) es generalmente especificada en nanómetros, nm (10-9 metros) y en algunos casos en micrómetros, µm (10-6 metros). En caso del infrarrojo la radiación electromagnética puede ser también descrita en términos de número de onda y expresada en cm-1. Los rangos de longitud de onda de energía electromagnética de interés para el infrarrojo se describen en Tabla 1.
+
+Infrarrojo cercano (NIR)
+780 nm - 2500 nm (12800 cm-1 - 4000 cm-1)
+Infrarrojo medio (MIR)
+2,5 µm - 25 µm (4000 cm-1 - 400 cm-1)
+Infrarrojo lejano
+25 µm - 400 µm (400 cm-1 - 25 cm-1)
+Tabla 1. Rangos de longitud de onda de espectrofotometría infrarrojo
+
+La espectrofotometría infrarroja es un método de medida de la absorción de la radiación en un rango de longitudes de onda, cuando ésta pasa a través de una capa delgada de sustancia.
+
+La espectrofotometría de infrarrojo es un ensayo de identificación por excelencia siendo capaz de distinguir sustancias con diferencias estructurales. De las tres regiones de infrarrojo (cercano, medio y lejano), la región comprendida entre 4000 a 400 cm-1 es la más empleada para fines de identificación. Sin embargo, en algunos casos es utilizado con fines cuantitativos. El espectro de infrarrojo (IR) es único para cualquier compuesto químico con excepción de los isómeros ópticos que tienen espectros idénticos. En algunas ocasiones, el polimorfismo puede ser responsable de diferencias en el espectro IR de un compuesto en estado sólido.
+
+Debido al gran número de valores máximos en un espectro de absorción IR, a veces es posible medir cuantitativamente los componentes individuales de una mezcla con una composición cualitativa conocida sin separación previa.
+
+Cuando los ensayos por absorción infrarroja se aplican sobre una muestra resultante de la extracción a partir de una formulación, puede que no sea siempre posible una estricta concordancia con el espectro de referencia. Sin embargo, el espectro del material extraído y el espectro de referencia deberían alcanzar una similitud cercana. El índice de concordancia deberá ser establecido en cada caso particular, con su correspondiente verificación.
+
+
+Equipo
+
+Los espectrofotómetros utilizados para la obtención del infrarrojo medio y cercano consisten de una fuente de luz, monocromador o interferómetro y detector, los cuales permiten la obtención de espectros en la región comprendida entre 780 nm a 25000 nm (12800 cm-1 a 400 cm-1). Actualmente, los espectrofotómetros de infrarrojo utilizan un interferómetro en lugar de un monocromador en cuyo caso la radiación policromática incide sobre la muestra y los espectros son obtenidos en el dominio de la frecuencia con ayuda de la transformada de Fourier.
+
+Verificación de desempeño del equipo
+
+Escala de número de onda
+La escala de número de onda puede ser verificada registrando el espectro de un film de poliestireno que presente máximos de absorción a los números de onda que se detallan a continuación:
+
+Transmisión mínima (cm-1)
+Criterios de aceptación (cm-1)
+
+
+Instrumentos con monocromador
+Instrumentos con Transformada de Fourier
+3060,0
+ ± 1,5
+ ± 1,0
+2849,5
+ ± 2,0
+ ± 1,0
+1942,9
+ ± 1,5
+ ± 1,0
+1601,2
+ ± 1,0
+ ± 1,0
+1583,0
+ ± 1,0
+ ± 1,0
+1154,5
+ ± 1,0
+ ± 1,0
+1028,3
+ ± 1,0
+ ± 1,0
+
+Resolución
+1- Para instrumentos que utilicen monocromador registrar el espectro de un film de poliestireno certificado de 35 µm de espesor.
+2- Para instrumentos con Transformada de Fourier seleccionar una resolución adecuada con una apodisación apropiada según indicación del fabricante. Registrar el espectro de un film de poliestireno certificado de 35 µm de espesor.
+
+Especificaciones
+Instrumentos con monocromador:
+- La diferencia entre el porcentaje de transmitancia en el máximo de transmisión a 2870 cm-1 (3,48 μm) y en el mínimo de transmisión a 2849,5 cm-1 (3,51 μm) debe ser mayor a 18.
+- La diferencia entre el porcentaje de transmitancia en el máximo de transmisión a 1589 cm-1 (6,29 μm) y en el mínimo de transmisión a 1583 cm-1 (6,32 μm) debe ser mayor a 10.
+
+Instrumentos con transformada de Fourier:
+
+- La diferencia entre las absorbancias en el mínimo de absorción a 2870 cm-1 y en el máximo de absorción a 2849,5 cm-1 debe ser mayor a 0,33.
+- La diferencia entre las absorbancias en el mínimo de absorción a 1589 cm-1 y en el máximo de absorción a 1583 cm-1 debe ser mayor a 0,08.
+
+Preparación de muestras y modos de medición
+
+a) Método por medida de transmitancia o absorbancia
+Se debe utilizar la muestra secada bajo las condiciones descritas en el ensayo Perdida por secado, a no ser que se especifique de otra forma en la monografía.
+Se debe preparar la muestra de acuerdo a uno de los siguientes procedimientos, según se indica en la monografía individual, de modo que la transmitancia de la mayoría de las bandas se encuentre en el rango de 5 a 80 %.
+
+- Método de disco de bromuro de potasio o cloruro de potasio (método en fase sólida)
+Pulverizar 1 - 2 mg de la muestra sólida en un mortero de ágata, triturar con 0,30 a 0,40 g de bromuro de potasio o cloruro de potasio para espectrofotometría de infrarrojo, tomando precauciones respecto a la absorción de humedad y comprimir la mezcla en un molde adecuado con forma de disco. Si la sustancia a analizar es un clorhidrato, es recomendable utilizar cloruro de potasio. Aplicar una presión de 50 a 100 kN por cm2 durante por lo menos 1 minuto, con ayuda de vacío en caso de ser necesario, a fin de obtener un disco transparente de aproximadamente 13 mm de diámetro.
+
+El disco debe desecharse si no está uniformemente transparente cuando se lo examina visualmente o si la transmitancia a 2.000 cm-1 (5 µm), en ausencia de una banda de absorción específica, es menor de 75 % sin emplear compensación en el haz de referencia.
+
+La humedad presente en la sustancia a analizar y/ o en la matriz provocará apariencias irregulares en los discos de haluros de potasio, tales como manchas y/ u opacidades.
+
+Asimismo, y junto a la humedad aportada por el sistema analítico, ésta contribuirá a la aparición de bandas en la región del IR cercano.
+
+Por ello, es conveniente secar la sustancia a analizar bajo las condiciones descriptas en el ensayo Pérdida por secado, a no ser que se especifique de otra forma en la monografía.
+
+Método para películas
+Analizar una película delgada tal cual es o preparada como se describe en la monografía individual.
+
+
+Método en solución para sólidos
+Preparar la solución por el método indicado en la monografía individual, en una celda para líquidos de material transparente a la radiación infrarroja, y realizar la medida del espectro contra el solvente de referencia utilizado para preparar la solución de la sustancia a analizar. Normalmente, se obtienen resultados óptimos al utilizar concentraciones en el rango de 10-100 g/L para caminos ópticos de 0,1 mm a 0,5 mm. El solvente utilizado en este método no debería exhibir interacciones o reacciones químicas con la sustancia a analizar así como tampoco dañar la celda. Aquellas regiones del espectro en las que el solvente presenta una fuerte absorción no deben tenerse en cuenta.
+
+Los solventes orgánicos a utilizar deben estar exentos de agua.
+
+Método en suspensión para sólidos
+Triturar 5 a 10 mg de la sustancia sólida a analizar con 2 gotas de vaselina líquida u otro líquido apropiado hasta obtener una mezcla cremosa homogénea. Colocar una porción de la mezcla así obtenida entre dos placas de cloruro de sodio, bromuro de potasio u otro material transparente a la radiación infrarroja y presionar suavemente las placas para formar una película fina.
+
+Método en película fina para líquidos
+Colocar 1 o 2 gotas de la sustancia líquida a analizar entre dos placas de cloruro de sodio, bromuro de potasio u otro material transparente a la radiación infrarroja y presionar suavemente las placas para formar una película fina.
+
+Método en celda para líquidos
+Puede emplearse una celda del mismo material descrito en Método en película fina para líquidos y de paso óptico apropiado.
+
+Método para gases
+Introducir la sustancia gaseosa a analizar en una celda para gases, previamente evacuada y llenando a la presión que se especifica en la monografía; analizar su espectro de absorción. La longitud del camino óptico de la celda es usualmente 10 cm, pero si es necesario podría exceder 1 m.
+Para evitar interferencias de absorción debido al vapor de agua, dióxido de carbono u otros gases atmosféricos, colocar en el haz de referencia una celda idéntica evacuada o llenada con un gas transparente a la radiación infrarroja, por ej. nitrógeno o argón. Si es necesario, ajustar la presión en la celda a la presión atmosférica usando un gas transparente a la radiación infrarroja (nitrógeno, o argón).
+
+b) Método de reflectancia difusa (DRIFT)
+
+Método para sólidos
+Preparar una mezcla compuesta por la sustancia a analizar y bromuro de potasio o cloruro de potasio finamente pulverizados y secados, con una concentración aproximada al 5 %, a menos que se especifique de otro modo en la monografía individual. Triturar en mortero de ágata con la precaución de evitar la absorción de humedad, colocar la mezcla en el accesorio correspondiente para sólidos, y registrar el espectro de reflectancia.
+Se recomienda que tanto la muestra como la matriz tengan un tamaño de partícula menor a 50 µm.
+
+El espectro de reflectancia es tratado con el algoritmo de Kubelka - Munk a fin de obtener el espectro en unidades de absorbancia.
+
+c) Método reflectancia total atenuada (ATR)
+
+Método para líquidos, geles, polvos, pastas, sólidos, películas y recubrimientos
+
+Colocar la sustancia a ser analizada en estrecho contacto con un elemento de reflectancia interna como diamante, germanio, seleniuro de cinc, bromuro de talio-ioduro de talio (KRS-5) u otro material apropiado de alto índice de refracción. Asegurar que el contacto entre la sustancia a analizar y la totalidad de la superficie del elemento de reflectancia interna sea uniforme, aplicando presión o disolviendo la sustancia en un solvente apropiado mediante distribución sobre la superficie del cristal y posterior evaporación hasta sequedad. Examinar el espectro de ATR.
+
+Criterios de identificación
+
+Una sustancia puede ser identificada cuando presente únicamente máximos de absorción en los mismos números de onda y con intensidades relativas similares al espectro de una sustancia de referencia o al espectro de referencia de la sustancia. Además cuando en la monografía son especificadas absorciones a varios números de onda, la identificación de la sustancia comparada con la sustancia esperada puede ser confirmada por la presencia de las bandas de absorción a los números de onda especificados.
+A menos que se especifique de otra forma en la monografía individual, se debe proceder mediante Identificación por uso de sustancia de referencia.
+
+1. Identificación por sustancia de referencia
+Los máximos de absorción en el espectro obtenido con la muestra deben corresponder en posición e intensidad relativa a los obtenidos concomitantemente con la sustancia de referencia. En el caso de no haber concordancia en los espectros de la muestra sólida y de la sustancia de referencia, disolver porciones iguales de la muestra y de la sustancia de referencia en volúmenes iguales de un solvente apropiado, evaporar las soluciones hasta sequedad bajo condiciones idénticas y repetir el ensayo con los residuos.
+2. Identificación por espectro de referencia Farmacopea MERCOSUR
+Preparar la muestra en condiciones similares a las indicadas para la obtención del espectro de referencia y registrar el espectro de la sustancia a analizar. Los máximos de absorción en el espectro obtenido con la muestra deben corresponder en posición e intensidad relativa a los exhibidos en el espectro de referencia.
+
+En el caso de no haber concordancia entre el espectro obtenido con la muestra sólida y el espectro de referencia, disolver la muestra en un solvente apropiado, evaporar la solución hasta sequedad y repetir el ensayo con el residuo.
+Comparar los espectros y los máximos del poliestireno indicados en Verificación de desempeño del equipo.
+
+3. Identificación por máximos de absorción
+Los máximos de absorción en el espectro obtenido con la muestra deben corresponder en posición a todos los indicados en la monografía individual.
+7

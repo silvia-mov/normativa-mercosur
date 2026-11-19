@@ -1,0 +1,2675 @@
+Resolución GMC N° 02/12
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE LISTA POSITIVA DE MONÓMEROS, OTRAS SUSTANCIAS DE PARTIDA Y POLÍMEROS AUTORIZADOS PARA LA ELABORACIÓN DE ENVASES Y EQUIPAMIENTOS PLÁSTICOS EN CONTACTO CON ALIMENTOS (DEROGACIÓN DE LAS RES. GMC Nº 47/93, 86/93, 13/97, 14/97 y 24/04)
+Fecha de aprobación: 19/04/2012
+Vigencia: Vigente (Vigente desde el 11/05/2019 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 44028_RES_002-2012_ES_RTM Polimeros.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2582).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 02/12
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LISTA POSITIVA DE MONÓMEROS, OTRAS SUSTANCIAS DE PARTIDA Y POLÍMEROS AUTORIZADOS PARA LA ELABORACIÓN DE ENVASES Y EQUIPAMIENTOS PLÁSTICOS EN CONTACTO CON ALIMENTOS
+(DEROGACIÓN DE LAS RES. GMC Nº 47/93, 86/93, 13/97, 14/97 y 24/04)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 56/92, 47/93, 86/93, 13/97, 14/97, 38/98, 56/02 y 24/04 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que los Estados Partes acordaron actualizar la Lista Positiva de Polímeros y Resinas para Envases y Equipamientos Plásticos en Contacto con Alimentos.
+
+Que la actualización mencionada se fundamenta en la evaluación de la seguridad del uso de los monómeros, otras sustancias de partida y polímeros autorizados para la elaboración de envases y equipamientos plásticos en contacto con alimentos y contribuirá a la inserción de los productos de los Estados Partes en el marco del comercio internacional.
+
+Que la armonización de los Reglamentos Técnicos tiende a eliminar los obstáculos al comercio que generan las diferentes reglamentaciones nacionales vigentes, dando cumplimiento a lo establecido en el Tratado de Asunción.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Lista Positiva de Monómeros, otras Sustancias de partida y Polímeros autorizados para la elaboración de Envases y Equipamientos Plásticos en Contacto con Alimentos", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los organismos nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina: Ministerio de Salud
+Secretaría de Políticas, Regulación e Institutos (SPReI)
+Administración Nacional de Medicamentos, Alimentos y Tecnología
+Médica (ANMAT)
+Ministerio de Agricultura, Ganadería y Pesca (MAGyP)
+Secretaría de Agricultura, Ganadería y Pesca (SAGyP)
+
+Brasil:       Ministério da Saúde (MS)
+Agência Nacional de Vigilância Sanitária (ANVISA)
+
+
+Paraguay: Ministerio de Salud Pública y Bienestar Social (MSPyBS)
+Instituto Nacional de Alimentación y Nutrición (INAN)
+Ministerio de Industria y Comercio (MIC)
+Instituto Nacional de Tecnología, Normalización y Metrología (INTN)
+
+Uruguay:  Ministerio de Salud Pública (MSP)
+Ministerio de Industria, Energía y Minería (MIEM)
+Laboratorio Tecnológico del Uruguay (LATU)
+
+Art. 3 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Derogar las Resoluciones GMC Nº 47/93, 86/93, 13/97, 14/97 y 24/04.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 01/XI/2012.
+
+
+LXXXVII GMC - Buenos Aires, 19/IV/12.
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LISTA POSITIVA DE MONÓMEROS, OTRAS SUSTANCIAS DE PARTIDA Y POLÍMEROS AUTORIZADOS PARA LA ELABORACIÓN DE ENVASES Y EQUIPAMIENTOS PLÁSTICOS EN CONTACTO CON ALIMENTOS
+
+1. El presente Reglamento Técnico contiene la lista de los monómeros, otras sustancias de partida y polímeros permitidos para la fabricación de envases y equipamientos plásticos en contacto con alimentos, con las restricciones de uso, límites de composición y de migración específica. También se aplica a los revestimientos poliméricos en contacto directo con alimentos, aplicados sobre soportes de otro material.
+
+2. Este Reglamento esta compuesto por las siguientes partes:
+
+- PARTE I: Lista positiva de monómeros y otras sustancias de partida con las restricciones de uso, límites de composición y de migración específica
+
+- PARTE II: Productos obtenidos por medio de fermentación bacteriana
+
+- PARTE III: Especificaciones generales
+
+- PARTE IV: Notas que aparecen en la columna de "RESTRICCIONES Y/O ESPECIFICACIONES"
+
+- PARTE V: Lista de polímeros obtenidos a partir de los monómeros listados en la PARTE I y/o los polímeros incluidos en la PARTE II y/o otros polímeros incluidos en esta parte.
+
+3. La lista positiva de monómeros, polímeros y otras sustancias de partida comprende:
+
+- Sustancias destinadas a ser sometidas a reacciones de polimerización, como policondensación, poliadición o cualquier otro proceso similar, para producir macromoléculas de materiales plásticos;
+
+- Polímeros naturales o sintéticos utilizados en la fabricación de macromoléculas modificadas, siempre que los monómeros y las otras sustancias de partida necesarias para la síntesis de aquéllas no estén incluidos en la lista;
+
+- Sustancias utilizadas para modificar los compuestos macromoleculares naturales o sintéticos ya existentes.
+
+4. Las sustancias indicadas a continuación no están incluidas en esta lista positiva, sin embargo, están autorizadas:
+
+a) sales (incluidas las sales dobles y sales ácidas) de aluminio, amonio, bario, calcio, cinc, cobalto, cobre, hierro, litio, magnesio, manganeso, potasio y sodio de los ácidos, fenoles o alcoholes autorizados; las sustancias que constan en la lista cuya denominación contiene la expresión "sales del ácido..." están autorizadas, aunque el correspondiente ácido libre no se mencione. En tales casos, el significado del término "sales" es "sales de aluminio, amonio, bario, calcio, cinc, cobalto, cobre, hierro, litio, magnesio, manganeso, potasio y sodio".
+
+b) sales (incluidas  las sales dobles y sales ácidas) de  cinc (Zn) de los ácidos, fenoles o alcoholes autorizados. A estas sales se les aplica un límite de migración específica grupal LME (T) = 25 mg/kg (expresado como cinc). La restricción aplicable al cinc se aplica también a:
+i) las sustancias cuyo nombre contenga la expresión "sales del ácido...", aunque el correspondiente ácido libre no se mencione,
+ii) las sustancias mencionadas en la nota (23) de la PARTE IV del presente Reglamento.
+
+c) sales (incluidas  las sales dobles y sales ácidas) de litio (Li) de los ácidos, fenoles o alcoholes autorizados. A estas sales se les aplica un límite de migración específica grupal LME (T) = 0,6 mg/kg (expresado como litio). La restricción aplicable al litio se aplica también a:
+i) las sustancias cuyo nombre contenga la expresión "sales del ácido...", aunque el correspondiente ácido libre no se mencione,
+ii) las sustancias mencionadas en la nota (24) de la PARTE IV del presente   Reglamento.
+
+5. La lista positiva tampoco incluye las siguientes sustancias que podrían encontrarse en el producto terminado:
+
+a) Sustancias residuales:
+     - impurezas de las sustancias utilizadas,
+     - productos intermedios de reacción,
+     - productos de descomposición.
+
+b) Oligómeros y sustancias macromoleculares naturales o sintéticas, así como sus mezclas, si los monómeros y/o sustancias de partida necesarios para sintetizarlos están ya incluidos en la lista.
+
+c) Mezclas de las sustancias autorizadas.
+
+6. Las sustancias utilizadas en la fabricación de materiales plásticos deberán cumplir criterios de pureza compatibles con su utilización.
+
+7. La verificación del cumplimiento de los límites de migración específica y de los límites de composición, se realizará mediante los distintos métodos descriptos en las Normas EN Serie 13130 o con técnicas analíticas instrumentales de sensibilidad adecuada (por ejemplo espectrometría de absorción o emisión atómica, cromatografía gaseosa, cromatografía líquida de alta eficacia, etc.).
+
+7.1 Cuando para una sustancia se establezca un límite de composición (LC) y un límite de migración específica (LME), podrá verificarse la conformidad del material plástico con sólo uno de los límites.
+7.2 Cuando para un grupo de sustancias se establezca un límite de composición grupal (LC(T)) y un límite de migración específica grupal (LME(T)), podrá verificarse la conformidad del material plástico con sólo uno de los límites.
+7.3 En caso de discrepancia entre dos partes se verificará la conformidad del material plástico con ambos límites.
+
+8. Si una sustancia que aparece en la lista positiva como compuesto aislado también está incluida con un nombre genérico, las restricciones aplicables a esta sustancia serán las correspondientes al compuesto aislado.
+
+9. En caso de desacuerdo entre el número CAS (Chemical Abstract Service) del registro CAS y el nombre químico, este último prevalecerá frente al primero. Si existe desacuerdo entre el número CAS del EINECS (European Inventory of Existing Commercial Substances) y el del registro CAS, se aplicará el número  del registro CAS.
+
+10. Criterios de inclusión y de exclusión de sustancias en la lista positiva.
+
+10.1. La lista de sustancias podrá ser modificada:
+
+10.1.1 Para la inclusión de nuevos componentes, cuando se demuestre que no representan un riesgo significativo para la salud humana y se justifica la necesidad tecnológica de su utilización.
+
+10.1.2.  Para la modificación de las restricciones de componentes, cuando nuevos conocimientos técnicos-científicos lo justifiquen.
+
+10.1.3. Para la exclusión de componentes, cuando nuevos conocimientos técnicos-científicos indiquen un riesgo significativo para la salud humana.
+
+10.1.4. Para la inclusión o exclusión de componentes, así como para la modificación de las restricciones, serán utilizadas como referencias las listas positivas de las Directivas y Reglamentos de la Unión Europea y, subsidiariamente, las listas positivas de la Food and Drug Administration-FDA (Título 21 del Code of Federal Regulations). Excepcionalmente podrán ser consideradas las listas positivas de otras legislaciones debidamente reconocidas. En caso de inclusión de nuevos componentes, deberán ser respetadas las restricciones de uso y los límites de composición y de migración específica establecidos en las legislaciones de referencia.
+
+11. A los efectos del presente Reglamento, se entiende por:
+
+LC: límite de composición (cantidad máxima residual permitida) de la sustancia en el material u objeto terminado.
+
+LC (T): límite de composición grupal (cantidad máxima residual permitida), expresado como total del grupo o sustancias indicados, en el material u objeto terminado.
+
+LD: límite de detección del método de análisis.
+
+LME: límite de migración específica (cantidad máxima transferida permitida) en alimentos o sus simulantes.
+
+LME (T): límite de migración específica grupal  (cantidad máxima transferida permitida) en alimentos o sus simulantes, expresado como total de los grupos o sustancias indicados.
+
+ND: no detectable.
+
+NUMERO CAS: es el número de registro del CAS (Chemical Abstracts Service) de la sustancia;
+
+NT: significa que la sustancia no tiene número de registro de CAS.
+
+PT: material u objeto terminado.
+PARTE I
+LISTA DE MONÓMEROS Y OTRAS SUSTANCIAS DE PARTIDA AUTORIZADOS.
+
+Los polímeros autorizados corresponden a aquellos obtenidos a partir de los monómeros listados en la PARTE I  y/o los polímeros listados en la PARTE  II y/o en la PARTE V.
+Las sustancias no están listadas por orden alfabético, sino por orden creciente del número de referencia.
+
+NÚMERO DE REFERENCIA
+NÚMERO CAS
+SUSTANCIA
+RESTRICCIONES Y/O ESPECIFICACIONES
+10030
+000514-10-3
+Ácido abiético
+Sin restricciones.
+10060
+000075-07-0
+Acetaldehído
+LME(T) = 6 mg/kg (expresado como acetaldehído) (1)
+10090
+000064-19-7
+Ácido acético
+Sin restricciones.
+10120
+000108-05-4
+Acetato de vinilo
+(= ácido acético, vinil éster)
+
+
+1) En el caso del copolímero de etileno y acetato de vinilo (EVA), LME = 12 mg/kg
+
+2) Si se utiliza como monómero precursor en la producción de polímeros hidrofílicos, a saber:
+
+-homopolímeros: poli(alcohol vinílico), poli(acetato de vinilo);
+
+- copolímeros: EVOH (copolímero de etileno-alcohol vinílico) y copolímeros con poli(alcohol vinílico) como  uno de los constituyentes;
+
+ se aplican las siguientes restricciones:
+- LME = 12 mg/kg
+
+- no autorizado para contacto directo con alimentos acuosos.
+10150
+000108-24-7
+Anhídrido acético
+Sin restricciones.
+10210
+000074-86-2
+Acetileno
+Sin restricciones.
+10599/90A
+061788-89-4
+Dímeros destilados de los ácidos grasos insaturados (C18)
+LME(T) = 0,05 mg/kg (2)
+10599/91
+061788-89-4
+Dímeros sin destilar de los ácidos grasos insaturados (C18)
+LME(T) = 0,05 mg/kg (2)
+10599/92A
+068783-41-5
+Dímeros hidrogenados destilados de los ácidos grasos insaturados (C18)
+LME(T) = 0,05 mg/kg (2)
+10599/93
+068783-41-5
+Dímeros hidrogenados sin destilar de los ácidos grasos insaturados (C18)
+LME(T) = 0,05 mg/kg (2)
+10630
+000079-06-1
+Acrilamida
+LME = ND (LD = 0,01 mg/kg)
+10660
+015214-89-8
+Ácido 2-acrilamido-2-metilpropanosulfónico
+LME = 0,05 mg/kg
+10690
+000079-10-7
+Ácido acrílico
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+10750
+002495-35-4
+Acrilato de bencilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+10780
+000141-32-2
+Acrilato de n-butilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+10810
+002998-08-5
+Acrilato de sec-butilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+10840
+001663-39-4
+Acrilato de terc-butilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+11005
+012542-30-2
+Acrilato de diciclopentenilo
+LME = 0,05 mg/kg
+11245
+002156-97-0
+Acrilato de dodecilo
+LME = 0,05 mg/kg (4)
+11470
+000140-88-5
+Acrilato de etilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+11500
+000103-11-7
+Acrilato de 2-etilhexilo
+LME = 0,05 mg/kg
+
+
+11530
+00999-61-1
+Acrilato de 2-hidroxipropilo
+LME = 0,05 mg/kg para la suma de acrilato de 2-hidroxipropilo y acrilato de 2-hidroxi isopropilo y con arreglo a las especificaciones establecidas en la Parte III.
+11590
+000106-63-8
+Acrilato de isobutilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+11680
+000689-12-3
+Acrilato de isopropilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+11710
+000096-33-3
+Acrilato de metilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+11830
+11510
+000818-61-1
+Monoacrilato de etilenglicol
+(=Acrilato de hidroxietilo)
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+11890
+002499-59-4
+Acrilato de n-octilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+11980
+000925-60-0
+Acrilato de propilo
+LME(T) = 6 mg/kg (expresado como ácido acrílico) (3)
+12100
+000107-13-1
+Acrilonitrilo
+LME = ND (LD = 0,01 mg/kg)
+12130
+000124-04-9
+Ácido adípico
+Sin restricciones.
+12265
+004074-90-2
+Adipato de divinilo
+LC = 5 mg/kg en PT o LME = ND (LD = 0,01 mg/kg) Para uso sólo como comonómero
+12280
+002035-75-8
+Anhídrido adípico
+Sin restricciones.
+12310
+266309-43-7
+Albúmina
+Sin restricciones.
+12340
+NT
+Albúmina coagulada por formaldehído
+Sin restricciones.
+12375
+NT
+Monoalcoholes alifáticos saturados, lineales, primarios (C4 - C22)
+Sin restricciones.
+
+
+12670
+002855-13-2
+1-Amino-3-aminometil-3,5,5-trimetilciclohexano
+LME = 6 mg/kg
+12761
+000693-57-2
+Ácido 12-aminododecanoico
+LME = 0,05 mg/kg
+
+12763
+000141-43-5
+2-Aminoetanol
+LME = 0,05 mg/kg. Sólo para estructuras multicapas en contacto con alimentos no grasos. La capa en que se use esta sustancia debe estar separada del alimento por una capa de PET.
+12765
+084434-12-8
+N-(2-Aminoetil)-beta-alaninato de sodio
+LME = 0,05 mg/kg
+12786
+000919-30-2
+3-Aminopropiltrietoxisilano
+El contenido residual extraíble de 3-aminopropiltrietoxisilano debe ser inferior a 3 mg/kg de carga cuando se utilice para el tratamiento reactivo de la superficie de cargas inorgánicas y LME = 0,05 mg/kg cuando se utilice para el tratamiento de superficie de materiales y objetos.
+12788
+002432-99-7
+Ácido 11-aminoundecanoico
+LME = 5 mg/kg
+12789
+007664-41-7
+Amoníaco
+Sin restricciones.
+12820
+000123-99-9
+Ácido azelaico
+Sin restricciones.
+12970
+004196-95-6
+Anhídrido azelaico
+Sin restricciones.
+13000
+001477-55-0
+1,3-Bencenodimetanamina
+(= metaxililendiamina)
+LME = 0,05 mg/kg
+13060
+004422-95-1
+Tricloruro del ácido 1,3,5-bencenotricarboxílico
+LME = 0,05 mg/kg (determinado como ácido 1,3,5-bencenotricarboxílico).
+13090
+000065-85-0
+Ácido benzoico
+Sin restricciones.
+13150
+000100-51-6
+Alcohol bencílico
+Sin restricciones.
+13180
+22550
+000498-66-8
+Biciclo[2.2.1]hept-2-eno
+(= norborneno)
+LME = 0,05 mg/kg
+13210
+001761-71-3
+Bis(4-aminociclohexil)metano
+LME = 0,05 mg/kg
+
+
+13317
+132459-54-2
+N,N′-Bis[4-(etoxicarbonil)fenil]-1,4,5,8-naftalenotetracarboxidiimida
+LME = 0,05 mg/kg. Pureza > 98,1 % (m/m). Sólo debe utilizarse como comonómero (máximo 4 %) para poliésteres (PET, PBT).
+13323
+000102-40-9
+1,3-Bis(2-hidroxietoxi)benceno
+LME = 0,05 mg/kg
+13390
+14880
+000105-08-8
+1,4-Bis(hidroximetil)ciclohexano
+(=1,4-Ciclohexanodimetanol)
+Sin restricciones.
+13395
+004767-03-7
+Ácido 2,2-bis(hidroximetil)propiónico
+LME = 0,05 mg/kg
+13480
+13607
+000080-05-7
+2,2-bis(4-hidroxifenil) propano
+(= bisfenol A)
+(=4,4´-isopropilidendifenol)
+(=4,4´-(1-metiletiliden) bisfenol)
+LME(T) = 0,6 mg/kg  (5)
+
+No autorizado para polímeros utilizados en la fabricación de biberones o artículos similares destinados a la alimentación de lactantes (niños de hasta doce meses de edad).
+
+
+13510
+13610
+001675-54-3
+2,2-Bis(4-hidroxifenil)propano bis(2,3-epoxipropil) éter
+(= BADGE)
+(= diglicidil éter de bisfenol A)
+(=Éter bis(2,3-epoxipropílico) de bisfenol A)
+
+La suma de los valores de las migraciones específicas de BADGE, BADGE.H2O (CAS 076002-91-0) y BADGE.2H2O (CAS 005581-32-8) no debe exceder los siguientes límites:
+
+- LME(T) = 9 mg/kg
+
+La suma de los valores de las migraciones específicas de BADGE.HCl (CAS 013836-48-1), BADGE.2 HCl (CAS 004809-35-2) y BADGE.H2O.HCl (CAS 227947-06-0), no debe exceder los siguientes límites:
+- LME(T) = 1 mg/kg
+Las restricciones de migraciones específicas de BADGE  y derivados no se aplican ni a los contenedores de capacidad superior a 10000 l ni a las tuberías integradas o conectadas a éstos.
+13530
+13614
+038103-06-9
+Bis(anhídrido ftálico) de 2,2 -bis(4-hidroxifenil)propano
+(=Bis (anhídrido ftálico) de bisfenol A)
+LME = 0,05 mg/kg
+13600
+047465-97-4
+3,3-Bis(3-metil-4-hidroxifenil)2-indolinona
+LME = 1,8 mg/kg
+13620
+010043-35-3
+Ácido bórico
+LME(T) = 6 mg/kg  (expresado como boro) (6), sin perjuicio de lo dispuesto en los requisitos relativos a la calidad de las aguas destinadas al consumo humano
+13630
+000106-99-0
+Butadieno
+LC = 1 mg/kg en PT o LME = ND (LD = 0,01 mg/kg)
+13690
+000107-88-0
+1,3-Butanodiol
+(=butilenglicol)
+Sin restricciones.
+13720
+000110-63-4
+1,4-Butanodiol
+LME(T) = 5 mg/kg (expresado como 1,4-butanodiol)(7)
+13780
+002425-79-8
+1,4-Butanodiol bis(2,3-epoxipropil)éter
+LC = 1 mg/kg en PT (expresado como grupo epoxi) o LME = ND (LD = 0,01 mg/kg). Peso molecular = 43 Da
+13810
+21821
+000505-65-7
+
+1,4-Butanodiolformal
+(=1,4-(Metilendioxi)butano)
+LME = ND (LD = 0,01 mg/kg)
+13840
+000071-36-3
+1-Butanol
+Sin restricciones.
+13870
+000106-98-9
+1-Buteno
+Sin restricciones.
+13900
+000107-01-7
+2-Buteno
+Sin restricciones.
+13932
+000598-32-3
+3-Buten-2-ol
+LME = ND (LD = 0,01 mg/kg)
+Únicamente para utilizar como
+comonómero para la preparación de aditivos poliméricos.
+14020
+000098-54-4
+4-terc-Butilfenol
+LME = 0,05 mg/kg.
+14110
+000123-72-8
+Butiraldehído
+Sin restricciones.
+14140
+000107-92-6
+Ácido butírico
+Sin restricciones.
+14170
+000106-31-0
+Anhídrido butírico
+Sin restricciones.
+14200
+000105-60-2
+Caprolactama
+LME(T) = 15 mg/kg (expresado como caprolactama) (8)
+14230
+002123-24-2
+Caprolactama, sal de sodio
+LME(T) = 15 mg/kg (expresado como caprolactama) (8)
+14260
+000502-44-3
+Caprolactona
+(= 2-oxepanona)
+(=6-hexanolactona)
+(=ε-caprolactona)
+LME (T) = 0,05 mg/kg (9)
+14320
+000124-07-2
+Ácido caprílico
+Sin restricciones.
+14350
+000630-08-0
+Monóxido de carbono
+Sin restricciones.
+14380
+23155
+000075-44-5
+Cloruro de carbonilo
+(= fosgeno)
+LC = 1 mg/kg en PT
+14411
+008001-79-4
+Aceite de ricino
+(= castor oil)
+(=aceite de mamona)
+Sin restricciones.
+14500
+009004-34-6
+Celulosa
+Sin restricciones.
+14530
+007782-50-5
+Cloro
+Sin restricciones.
+14627
+000117-21-5
+Anhídrido 3-cloroftálico
+LME = 0,05 mg/kg (expresado como ácido 3-cloroftálico).
+14628
+000118-45-6
+Anhídrido 4-cloroftálico
+LME = 0,05 mg/kg (expresado como ácido 4-cloroftálico).
+14650
+000079-38-9
+Clorotrifluoretileno
+LME = ND (LD = 0,01 mg/kg).
+14680
+000077-92-9
+Ácido cítrico
+Sin restricciones.
+14710
+000108-39-4
+m-Cresol
+Sin restricciones.
+14740
+000095-48-7
+o-Cresol
+Sin restricciones.
+14770
+000106-44-5
+p-Cresol
+Sin restricciones.
+14800
+003724-65-0
+Ácido crotónico
+LME = 0,05 mg/kg (10)
+14841
+000599-64-4
+4-Cumilfenol
+LME = 0,05 mg/kg
+14876
+001076-97-7
+Acido ciclohexano-1,4-dicarboxílico
+LME = 5 mg/kg. Sólo debe utilizarse para la producción de poliésteres.
+14950
+003173-53-3
+Isocianato de ciclohexilo
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+15030
+000931-88-4
+Cicloocteno
+LME = 0,05 mg/kg. Para uso solamente en polímeros en contacto con alimentos para los cuales está establecido el simulante A, definido en el RTM específico.
+15070
+001647-16-1
+1,9-Decadieno
+LME = 0,05 mg/kg
+15095
+000334-48-5
+Ácido n-decanoico
+Sin restricciones.
+15100
+000112-30-1
+1-Decanol
+Sin restricciones.
+15130
+000872-05-9
+1-Deceno
+LME = 0,05 mg/kg
+15180
+0018085-02-4
+3,4-Diacetoxi-1-buteno
+
+
+LME = 0,05 mg/kg.
+En este LME está incluido el producto de hidrólisis 3,4-dihidroxi-1-buteno.
+Para uso solamente como comonómero en copolímeros de alcohol etilvinílico.
+15250
+000110-60-1
+1,4-Diaminobutano
+Sin restricciones.
+15267
+000080-08-0
+4,4′-Diaminodifenilsulfona
+LME = 5 mg/kg
+15310
+13075
+000091-76-9
+2,4-Diamino-6-fenil-1,3,5-triazina
+(=Benzoguanamina)
+LME = 5 mg/kg
+15404
+000652-67-5
+1,4:3,6-dianhidrosorbitol
+LME = 5 mg/kg. Para uso sólo como comonómero en el tereftalato de
+poli(etilen-coisosorbida).
+15565
+000106-46-7
+1,4-Diclorobenceno
+LME = 12 mg/kg
+15610
+000080-07-9
+4,4′-Diclorodifenilsulfona
+(= 1,1´-sulfonilbis(4-clorobenceno))
+LME = 0,05 mg/kg
+15700
+13560
+005124-30-1
+4,4′-Diisocianato de diciclohexilmetano
+(=Bis(4-isocianatociclohexil)metano)
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+15760
+13326
+000111-46-6
+Dietilenglicol
+(=Eter bis(2-hidroxietílico))
+LME(T) = 30 mg/kg (expresado como etilenglicol) (12)
+15790
+000111-40-0
+Dietilentriamina
+LME = 5 mg/kg
+15820
+000345-92-6
+4,4′-Difluorobenzofenona
+LME = 0,05 mg/kg
+15880
+24051
+000120-80-9
+1,2-Dihidroxibenceno
+(=Pirocatecol)
+LME = 6 mg/kg
+15910
+24072
+000108-46-3
+1,3-Dihidroxibenceno
+(=Resorcinol)
+LME = 2,4 mg/kg
+15940
+18867
+000123-31-9
+1,4-Dihidroxibenceno
+(=Hidroquinona)
+LME = 0,6 mg/kg
+15970
+000611-99-4
+4,4′-Dihidroxibenzofenona
+LME(T) = 6 mg/kg (13)
+16000
+000092-88-6
+4,4′-Dihidroxidifenilo
+LME = 6 mg/kg
+16090
+13617
+000080-09-1
+4,4′-Dihidroxidifenilsulfona
+(=bisfenol S)
+(= 4,4´-sulfonilbis(fenol))
+(=1,1´-sulfonilbis(4-hidroxibenceno))
+(=hidroxi-p-fenilensulfonil-p-fenileno)
+LME = 0,05 mg/kg
+16150
+000108-01-0
+Dimetilaminoetanol
+LME = 18 mg/kg
+16210
+006864-37-5
+3,3'-Dimetil-4,4'-diaminodiciclohexilmetano
+(= bis(4-amino-3-metilciclohexil)metano)
+LME = 0,05 mg/kg (14). Para utilizar sólo en poliamidas.
+16240
+000091-97-4
+4,4′-Diisocianato de 3,3′-dimetilbifenilo (=ditoluilen diisocianato)
+(=TODI)
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+16360
+000576-26-1
+2,6-Dimetilfenol
+LME = 0,05 mg/kg
+16390
+22437
+000126-30-7
+2,2′-Dimetil-1,3-propanodiol
+(=Neopentilglicol)
+LME = 0,05 mg/kg
+16450
+000646-06-0
+1,3-Dioxolano
+LME = 5 mg/kg
+16480
+000126-58-9
+Dipentaeritritol
+Sin restricciones.
+16540
+000102-09-0
+Carbonato de difenilo
+(= difenilcarbonato)
+LME = 0,05 mg/kg
+16570
+004128-73-8
+4,4′-Diisocianato del éter difenílico
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+16600
+005873-54-1
+2,4′-Diisocianato de difenilmetano
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+16630
+000101-68-8
+4,4′-Diisocianato de difenilmetano
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+16650
+000127-63-9
+Difenilsulfona
+LME = 3 mg/kg (15)
+16660
+13550
+000110-98-5
+Dipropilenglicol
+(=Eter bis(hidroxipropílico))
+Sin restricciones.
+16690
+001321-74-0
+Divinilbenceno
+LME = ND (LD = 0,01 mg/kg) para la suma de divinilbenceno y etilvinilbenceno y de acuerdo con las especificaciones establecidas en la Parte III.
+16694
+013811-50-2
+N,N′-Divinil-2-imidazolidinona
+LME = 0,05 mg/kg
+16697
+000693-23-2
+Ácido n-dodecanodioico
+Sin restricciones.
+16704
+000112-41-4
+1-Dodeceno
+LME = 0,05 mg/kg
+16750
+14570
+000106-89-8
+Epiclorhidrina
+(=1-cloro-2,3-epoxipropano)
+LC = 1 mg/kg en PT o LME = ND (LD = 0,01 mg/kg).
+16780
+000064-17-5
+Etanol
+Sin restricciones.
+16950
+000074-85-1
+Etileno
+Sin restricciones.
+16955
+000096-49-1
+Carbonato de etileno
+LME = 30 mg/kg (expresado como etilenglicol), y de acuerdo con las especificaciones establecidas en la Parte III.
+16960
+15272
+000107-15-3
+Etilendiamina
+(=1,2-diaminoetano)
+LME = 12 mg/kg
+
+16990
+000107-21-1
+Etilenglicol
+LME(T) = 30 mg/kg (expresado como etilenglicol) (12)
+17005
+000151-56-4
+Etilenimina
+LME = ND (LD = 0,01 mg/kg)
+17020
+000075-21-8
+Óxido de etileno
+LC = 1 mg/kg en PT o LME = ND (LD = 0,01 mg/kg)
+17050
+000104-76-7
+2-Etil-1-hexanol
+LME = 30 mg/kg
+17110
+016219-75-3
+5-etilidenbiciclo[2.2.1]hept-2-eno
+(= 5-etiliden-2-norborneno)
+(= 5-etilidenciclo-2,2,1-hept-2-eno)
+LME = 0,05 mg/kg. La relación (área de superficie de contacto/masa de alimento) (= S/V) real de uso, deberá ser inferior a 2 dm2/kg.
+17160
+000097-53-0
+Eugenol
+LME = ND (LD = 0,01 mg/kg)
+17170
+061788-47-4
+Ácidos grasos del aceite de coco
+Sin restricciones.
+17200
+068308-53-2
+Ácidos grasos del aceite de soja
+Sin restricciones.
+17230
+061790-12-3
+Ácidos grasos de aceite de pino ("tall oil")
+Sin restricciones.
+17260
+000050-00-0
+Formaldehído
+LME(T) = 15 mg/kg (expresado como formaldehído) (16)
+17290
+000110-17-8
+Ácido fumárico
+Sin restricciones.
+17530
+000050-99-7
+Glucosa
+Sin restricciones.
+18010
+000110-94-1
+Ácido glutárico
+Sin restricciones.
+18070
+000108-55-4
+Anhídrido glutárico
+Sin restricciones.
+18100
+000056-81-5
+Glicerol
+Sin restricciones.
+18117
+000079-14-1
+Acido glicólico
+Sólo para ser usado en contacto indirecto con alimentos, en una capa plástica separada de los mismos por una capa de PET.
+18220
+068564-88-5
+Ácido N-heptilaminoundecanoico
+LME = 0,05 mg/kg (4)
+18250
+000115-28-6
+Ácido hexacloroendometilentetrahidroftálico
+LME = ND (LD = 0,01 mg/kg)
+18280
+000115-27-5
+Anhídrido hexacloroendometilentetrahidroftálico
+LME = ND (LD = 0,01 mg/kg)
+18310
+036653-82-4
+1-Hexadecanol
+Sin restricciones.
+18430
+000116-15-4
+Hexafluoropropileno
+LME = ND (LD = 0,01 mg/kg)
+18460
+15274
+000124-09-4
+Hexametilendiamina
+(=1,6-diaminohexano)
+LME = 2,4 mg/kg
+18640
+000822-06-0
+Diisocianato de hexametileno
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+18670
+000100-97-0
+Hexametilentetramina
+LME(T) = 15 mg/kg (expresado como formaldehído) (16)
+18700
+000629-11-8
+1,6-Hexanodiol
+LME = 0,05 mg/kg
+18820
+000592-41-6
+1-Hexeno
+LME = 3 mg/kg
+18880
+000099-96-7
+Ácido p-hidroxibenzoico
+Sin restricciones.
+18896
+001679-51-2
+4-(Hidroximetil)-1-ciclohexeno
+LME = 0,05 mg/kg
+18897
+016712-64-4
+Ácido 6-hidroxi-2-naftalenocarboxílico
+LME = 0,05 mg/kg
+18898
+000103-90-2
+N-(4-hidroxifenil) acetamida
+LME = 0,05 mg/kg
+19000
+000115-11-7
+Isobuteno
+Sin restricciones.
+19060
+000109-53-5
+Éter isobutilvinílico
+LME = 0,05 mg/kg
+19110
+004098-71-9
+1-Isocianato-3-isocianatometil-3,5,5-trimetilciclohexano
+(= diisocianato de isoforona)
+(=IPDI)
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+19150
+000121-91-5
+Ácido isoftálico
+LME(T) = 5 mg/kg (expresado como ácido isoftálico) (17)
+19180
+000099-63-8
+Dicloruro del ácido isoftálico
+LME(T) = 5 mg/kg (expresado como ácido isoftálico) (17)
+19210
+001459-93-4
+Isoftalato de dimetilo
+LME = 0,05 mg/kg
+19270
+000097-65-4
+Ácido itacónico
+Sin restricciones.
+19460
+000050-21-5
+Ácido láctico
+Sin restricciones.
+19470
+000143-07-7
+Ácido láurico
+Sin restricciones.
+19480
+002146-71-6
+Laurato de vinilo
+Sin restricciones.
+19490
+000947-04-6
+Laurolactama
+LME = 5 mg/kg
+19510
+011132-73-3
+Lignocelulosa
+Sin restricciones.
+19540
+000110-16-7
+Ácido maleico
+LME(T) = 30 mg/kg (expresado como ácido maleico) (18)
+19960
+000108-31-6
+Anhídrido maleico
+LME(T) = 30 mg/kg (expresado como ácido maleico) (18)
+
+
+19965
+006915-15-7
+Acido málico
+Sólo debe utilizarse como comonómero en poliésteres alifáticos (máximo 1%, en moles).
+19990
+000079-39-0
+Metacrilamida
+LME = ND (LD = 0,01 mg/kg)
+20020
+000079-41-4
+Acido metacrílico
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+20050
+000096-05-9
+Metacrilato de alilo
+LME = 0,05 mg/kg
+20080
+002495-37-6
+Metacrilato de bencilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+20110
+000097-88-1
+Metacrilato de butilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+20140
+002998-18-7
+Metacrilato de sec-butilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+20170
+000585-07-9
+Metacrilato de terc-butilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+20260
+000101-43-9
+Metacrilato de ciclohexilo
+LME = 0,05 mg/kg
+20410
+002082-81-7
+Dimetacrilato de 1,4-butanodiol
+LME = 0,05 mg/kg
+20440
+000097-90-5
+Dimetacrilato de etilenglicol
+LME = 0,05 mg/kg
+20530
+002867-47-2
+Metacrilato de 2-(dimetilamino)etilo
+LME = ND (LD = 0,01 mg/kg)
+20590
+000106-91-2
+Metacrilato de 2,3-epoxipropilo
+LME = 0,02 mg/kg
+20890
+000097-63-2
+Metacrilato de etilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+21010
+000097-86-9
+Metacrilato de isobutilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+21100
+004655-34-9
+Metacrilato de isopropilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+21130
+000080-62-6
+Metacrilato de metilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+21190
+000868-77-9
+Monometacrilato de etilenglicol
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+21280
+002177-70-0
+Metacrilato de fenilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+21340
+002210-28-8
+Metacrilato de propilo
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+21370
+010595-80-9
+Metacrilato de 2-sulfoetilo
+LME = ND (LD = 0,01 mg/kg)
+21400
+054276-35-6
+Metacrilato de sulfopropilo
+LME = 0,05 mg/kg
+21460
+000760-93-0
+Anhídrido metacrílico
+LME(T) = 6 mg/kg (expresado como ácido metacrílico) (19)
+21490
+000126-98-7
+Metacrilonitrilo
+LME = ND (LD = 0,01 mg/kg)
+21498
+002530-85-0
+Metacrilato de 3-trimetoxisililpropilo
+LME = 0,05 mg/kg. Sólo debe ser utilizado como agente de tratamiento de superficie de cargas inorgánicas
+21530
+NT
+Sales del ácido metalilsulfónico
+LME = 5 mg/kg
+21550
+000067-56-1
+Metanol
+Sin restricciones.
+21640
+19243
+000078-79-5
+2-Metil-1,3-butadieno
+(=isopreno)
+LC = 1 mg/kg en PT o
+LME = ND (LD = 0,01 mg/kg)
+21730
+000563-45-1
+3-Metil-1-buteno
+LME = ND (LD = 0,01 mg/kg). Para uso solamente en polipropileno.
+21765
+106246-33-7
+4,4´-Metilenbis(3-cloro-2,6-dietilanilina)
+LME = 0,05 mg/kg
+21940
+000924-42-5
+N-Metilolacrilamida
+LME = ND (LD = 0,01 mg/kg)
+21970
+000923-02-4
+N-metilolmetacrilamida
+LME = 0,05 mg/kg
+22074
+004457-71-0
+
+
+3-Metilpentano-1,5-diol
+
+
+LME = 0,05 mg/kg
+Para su uso en materiales en contacto con alimentos con una relación (área de superficie de contacto/masa de alimento) de hasta 0,5 dm2/kg
+22150
+000691-37-2
+4-Metil-1-penteno
+LME = 0,05 mg/kg
+22210
+000098-83-9
+Alfa-metilestireno
+LME = 0,05 mg/kg
+22331
+025513-64-8
+Mezcla de (35-45 % m/m) 1,6-diamino-2,2,4-trimetilhexano y (55-65 % m/m) 1,6-diamino-2,4,4-trimetilhexano
+LME = 0,05 mg/kg
+22332
+NT
+Mezcla de (40 % m/m) 1,6-diisocianato de 2,2,4-trimetilhexano y (60 % m/m) 1,6-diisocianato de 2,4,4-trimetilhexano
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+22350
+000544-63-8
+Ácido mirístico
+Sin restricciones.
+22360
+001141-38-4
+Ácido 2,6-naftalendicarboxílico
+LME = 5 mg/kg
+22390
+000840-65-3
+2,6-Naftalendicarboxilato de dimetilo
+LME = 0,05 mg/kg
+22420
+003173-72-6
+1,5-Diisocianato de naftaleno
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+22450
+009004-70-0
+Nitrocelulosa
+Sin restricciones.
+22480
+000143-08-8
+1-Nonanol
+Sin restricciones.
+22570
+000112-96-9
+Isocianato de octadecilo
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+22600
+000111-87-5
+1-Octanol
+Sin restricciones.
+22660
+000111-66-0
+1-Octeno
+LME = 15 mg/kg
+22763
+000112-80-1
+Ácido oleico
+Sin restricciones.
+22775
+000144-62-7
+Ácido oxálico
+LME  = 6 mg/kg (20)
+22778
+007456-68-0
+4,4′-oxibis(bencenosulfonil azida)
+LME = 0,05 mg/kg
+22780
+000057-10-3
+Ácido palmítico
+Sin restricciones.
+22840
+000115-77-5
+Pentaeritritol
+Sin restricciones.
+22870
+000071-41-0
+1-Pentanol
+Sin restricciones.
+22900
+000109-67-1
+1-Penteno
+LME = 5 mg/kg
+22932
+001187-93-5
+Éter perfluorometilperfluorovinílico
+LME = 0,05 mg/kg. Sólo debe utilizarse para recubrimientos antiadherentes.
+22937
+001623-05-8
+Éter perfluoropropilperfluorovinílico
+LME = 0,05 mg/kg
+22960
+000108-95-2
+Fenol
+Sin restricciones.
+23050
+000108-45-2
+1,3-Fenilendiamina
+(= m-fenilendiamina)
+LME = ND (LD = 0,01 mg/kg)
+23070
+000102-39-6
+Ácido (1,3-fenilendioxi)diacético
+LME = 0,05 mg/kg
+23170
+007664-38-2
+Ácido fosfórico
+Sin restricciones.
+23175
+000122-52-1
+Fosfito de trietilo
+LC = 1 mg/kg en PT
+23200
+000088-99-3
+Ácido o-ftálico
+Sin restricciones.
+23230
+000131-17-9
+Ftalato de dialilo
+LME = ND (LD = 0,01 mg/kg)
+23380
+000085-44-9
+Anhídrido ftálico
+Sin restricciones.
+23470
+000080-56-8
+alfa-Pineno
+Sin restricciones.
+23500
+000127-91-3
+beta-Pineno
+Sin restricciones.
+23590
+025322-68-3
+Polietilenglicol
+Sin restricciones.
+23651
+025322-69-4
+Polipropilenglicol
+Sin restricciones.
+23740
+000057-55-6
+1,2-Propanodiol
+(=propilenglicol)
+Sin restricciones.
+23770
+000504-63-2
+1,3-Propanodiol
+LME = 0,05 mg/kg
+23800
+000071-23-8
+1-Propanol
+Sin restricciones.
+23830
+000067-63-0
+2-Propanol
+(=isopropanol)
+(=propan-2-ol)
+(=alcohol isopropílico)
+Sin restricciones.
+23860
+000123-38-6
+Propionaldehído
+Sin restricciones.
+23890
+000079-09-4
+Ácido propiónico
+Sin restricciones.
+23920
+000105-38-4
+Propionato de vinilo
+LME(T) = 6 mg/kg (expresado como acetaldehído) (1)
+23950
+000123-62-6
+Anhídrido propiónico
+Sin restricciones.
+23980
+000115-07-1
+Propileno
+Sin restricciones.
+24010
+000075-56-9
+Óxido de propileno
+LC = 1 mg/kg en PT o LME = ND (LD = 0,01 mg/kg)
+24057
+000089-32-7
+Anhídrido piromelítico
+LME = 0,05 mg/kg (expresado como ácido piromelítico)
+24070
+073138-82-6
+Ácidos resínicos y ácidos de la colofonia
+Sin restricciones.
+24073
+000101-90-6
+Éter diglicidílico del resorcinol
+LME = ND (LD = 0,01 mg/kg). Sólo para estructuras multicapas en contacto con alimentos no grasos. La capa en que se use esta sustancia debe estar separada del alimento por una capa de PET.
+24100
+24130
+24190
+008050-09-7
+Colofonia
+(= Goma de colofonia)
+(= Colofonia de madera)
+(= Rosin)
+Sin restricciones.
+24160
+008052-10-6
+Colofonia de aceite de pino
+(= Rosin tall oil)
+Sin restricciones.
+24250
+009006-04-6
+Caucho natural
+Sin restricciones.
+24270
+000069-72-7
+Ácido salicílico
+Sin restricciones.
+24280
+000111-20-6
+Ácido sebácico
+Sin restricciones.
+24430
+002561-88-8
+Anhídrido sebácico
+Sin restricciones.
+24475
+001313-82-2
+Sulfuro de sodio
+Sin restricciones.
+24490
+000050-70-4
+Sorbitol
+Sin restricciones.
+24520
+008001-22-7
+Aceite de soja
+Sin restricciones.
+24540
+009005-25-8
+Almidón, calidad alimentaria
+Sin restricciones.
+24550
+000057-11-4
+Ácido esteárico
+Sin restricciones.
+24610
+000100-42-5
+Estireno
+Sin restricciones.
+24760
+026914-43-2
+Ácido estirenosulfónico
+LME = 0,05 mg/kg
+24820
+000110-15-6
+Ácido succínico
+Sin restricciones.
+24850
+000108-30-5
+Anhídrido succínico
+Sin restricciones.
+24880
+000057-50-1
+Sacarosa
+Sin restricciones.
+24888
+003965-55-7
+5-Sulfoisoftalato de dimetilo, sal monosódica
+LME = 0,05 mg/kg
+24889
+NT
+Sales del ácido 5-sulfoisoftálico
+LME = 5 mg/kg
+24903
+068425-17-2
+Jarabes de almidón hidrolizado hidrogenados
+De acuerdo con las especificaciones establecidas en la Parte III.
+24910
+000100-21-0
+Ácido tereftálico
+LME(T) = 7,5 mg/kg (expresado como ácido tereftálico) (21)
+24940
+000100-20-9
+Dicloruro del ácido tereftálico
+LME(T) = 7,5 mg/kg (expresado como ácido tereftálico) (21)
+24970
+000120-61-6
+Tereftalato de dimetilo
+Sin restricciones.
+25080
+001120-36-1
+1-Tetradeceno
+LME = 0,05 mg/kg
+25090
+000112-60-7
+Tetraetilenglicol
+Sin restricciones.
+25120
+000116-14-3
+Tetrafluoretileno
+LME = 0,05 mg/kg
+25150
+000109-99-9
+Tetrahidrofurano
+LME = 0,6 mg/kg
+25180
+000102-60-3
+N,N,N′,N′-Tetrakis(2-hidroxipropil)etilendiamina
+Sin restricciones.
+25187
+003010-96-6
+2,2,4,4-Tetrametilciclobutan-1,3-diol
+LME = 5 mg/kg
+Sólo para objetos de uso repetido para almacenamiento por períodos prolongados a temperatura ambiente o inferior a la misma, y llenado en caliente.
+25210
+000584-84-9
+2,4-Diisocianato de tolueno
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+25240
+000091-08-7
+2,6-Diisocianato de tolueno
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+25270
+026747-90-0
+2,4-Diisocianato de tolueno dimerizado
+LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+25360
+NT
+Trialquil(C5-C15)acetato de 2,3-epoxipropilo
+LC = 1 mg/kg en PT (expresado como grupo epoxi) o LME = ND (LD = 0,01 mg/kg, expresado como grupo epoxi). Peso molecular = 43 Da
+25380
+NT
+Trialquil(C7-C17)acetato de vinilo
+ (= versatato de vinilo)
+LME = 0,05 mg/kg
+25385
+000102-70-5
+Trialilamina
+
+De acuerdo con las especificaciones establecidas en la Parte III.
+25420
+19975
+000108-78-1
+2,4,6-Triamino-1,3,5-triazina
+(=Melamina)
+LME = 2,5 mg/kg
+25450
+026896-48-0
+Triciclodecanodimetanol
+LME = 0,05 mg/kg
+25510
+000112-27-6
+Trietilenglicol
+Sin restricciones.
+
+25540
+000528-44-9
+Ácido trimelítico
+LME(T) = 5 mg/kg (expresado como ácido trimelítico) (22)
+25550
+000552-30-7
+Anhídrido trimelítico
+LME(T) = 5 mg/kg (expresado como ácido trimelítico) (22)
+25600
+13380
+000077-99-6
+1,1,1-Trimetilolpropano
+(= 2,2-Bis(hidroximetil)-1-butanol)
+LME = 6 mg/kg
+25840
+003290-92-4
+Trimetacrilato de 1,1,1-trimetilolpropano
+LME = 0,05 mg/kg
+25872
+002416-94-6
+2,3,6-Trimetilfenol
+LME = 0,05 mg/kg
+25900
+000110-88-3
+Trioxano
+LME = 5 mg/kg
+25910
+024800-44-0
+Tripropilenglicol
+Sin restricciones.
+25927
+027955-94-8
+1,1,1-Tris(4-hidroxifenol)etano
+LME=0,05 mg/kg. Para uso solamente en policarbonatos.
+25960
+000057-13-6
+Urea
+Sin restricciones.
+26050
+000075-01-4
+Cloruro de vinilo
+LC = 1 mg/kg en PT o LME = ND (LD = 0,01 mg/kg)
+26110
+000075-35-4
+Cloruro de vinilideno
+LME = ND (LD = 0,01 mg/kg)
+26140
+000075-38-7
+Fluoruro de vinilideno
+LME = 5 mg/kg
+26155
+001072-63-5
+1-Vinilimidazol
+LME = 0,05 mg/kg
+26170
+003195-78-6
+N-Vinil-N-metilacetamida
+LME = 0,02 mg/kg
+26305
+000078-08-0
+Viniltrietoxisilano
+LME = 0,05 mg/kg. Para uso solo como agente de tratamiento de superficie.
+26320
+002768-02-7
+Viniltrimetoxisilano
+LME = 0,05 mg/kg
+26360
+007732-18-5
+Agua
+Debe responder a los criterios de calidad del agua destinada a consumo humano.
+
+
+PARTE II
+PRODUCTOS OBTENIDOS POR MÉTODOS DE FERMENTACIÓN BACTERIANA
+
+Los polímeros autorizados corresponden a aquellos obtenidos a partir de los monómeros listados en la PARTE I  y/o los polímeros listados en la PARTE  II y/o en la PARTE V.
+NÚMERO DE REFERENCIA
+NUMERO CAS
+SUSTANCIA
+RESTRICCIONES Y/O ESPECIFICACIONES
+18888
+ 080181-31-3
+Copolímero de los ácidos 3-hidroxibutanoico y 3-hidroxipentanoico (PHB/PHV)
+
+De acuerdo a la especificaciones establecidas en la Parte III.
+
+PARTE III
+ ESPECIFICACIONES
+
+Las sustancias no están listadas por orden alfabético, sino por orden creciente del número de referencia.
+NÚMERO DE REFERENCIA
+SUSTANCIA Y ESPECIFICACIONES
+11530
+Acrilato de 2-hidroxipropilo
+Puede contener hasta un 25 % (m/m) de acrilato de  2-hidroxiisopropilo (CAS 002918-23-2).
+16690
+Divinilbenceno
+Puede contener hasta un 45 % (m/m) de etilvinilbenceno.
+16955
+Carbonato de etileno
+Contenido residual de 5 mg/kg de hidrogel, con un máximo de 10 g de hidrogel en contacto con 1 kg de alimento.
+18888
+
+
+Copolímero de los ácidos 3-hidroxibutanoico y 3-hidroxipentanoico.
+
+Definición:	Estos copolímeros se producen por fermentación controlada de Alcaligenes eutrophus, que utiliza mezclas de glucosa y ácido propanoico como fuentes de carbono. El organismo utilizado no ha sido manipulado genéticamente y procede de un único organismo natural Alcaligenes eutrophus, cepa HI6 NCIMB 10442. Se almacenan cepas maestras de este organismo en ampollas liofilizadas. A partir de la cepa maestra se prepara una cepa secundaria de trabajo que se conserva en nitrógeno líquido y se emplea para preparar inóculos para el fermentador. Las muestras del fermentador se examinan diariamente al microscopio y se observa cualquier cambio en la morfología colonial en una serie de agares a diferentes temperaturas. Los copolímeros se aíslan de las bacterias tratadas con calor mediante digestión controlada de los demás componentes celulares, lavado y secado. Estos copolímeros se presentan normalmente como gránulos formados por fusión que contienen aditivos tales como agentes nucleantes, plastificantes, cargas, estabilizantes y pigmentos, todos los cuales se ajustan a las requisitos generales y específicos.
+Nombre químico:	Poli(3-D-hidroxibutanoato-co-3-D-hidroxipentanoato)
+Número CAS:	080181-31-3
+Fórmula estructural
+
+donde n/(m+n) > 0 y n/(m + n) ≤  0,25
+
+Peso molecular medio: no inferior a 150 000 dalton (medido por cromatografía de permeación en gel (GPC)).
+Composición: no inferior al 98 % de poli(3-D-hidroxibutanoato-co-3-D-hidroxipentanoato) analizado tras hidrólisis como mezcla de ácidos 3-D-hidroxibutanoico y 3-D-hidroxipentanoico.
+Descripción: polvo blanco o blanqueado tras aislamiento.
+Características:
+Pruebas de identificación:
+Solubilidad	Soluble en hidrocarburos clorados como el cloroformo o el diclorometano, pero prácticamente insoluble en etanol, alcanos alifáticos y agua
+Restricción	El LME para el ácido crotónico es de 0,05 mg/kg.
+Pureza	Antes de la granulación, el polvo de copolímero bruto debe tener un contenido de:
+- nitrógeno	       ≤ 2 500 mg/kg de plástico
+- cinc                   ≤ 100 mg/kg de plástico
+- cobre	       ≤ 5 mg/kg de plástico
+- plomo	       ≤ 2 mg/kg de plástico
+- arsénico	       ≤ 1 mg/kg de plástico
+- cromo	       ≤ 1 mg/kg de plástico
+24903
+Jarabes de almidón hidrolizado, hidrogenados
+Conforme a los criterios de pureza establecidos para el jarabe de maltitol.
+25385
+Trialilamina
+40 mg/kg de hidrogel, en la proporción de 1 kg de producto alimenticio por un máximo de 1,5 g de hidrogel. Deberá utilizarse únicamente en hidrogeles no destinados a entrar en contacto directo con los alimentos.
+
+
+PARTE IV
+Notas sobre la columna "restricciones y/o especificaciones"
+
+A los efectos de facilitar su intercomparación, los números de referencia de las sustancias mencionadas en las notas corresponden a los del Reglamento (UE) 10/2011 de la Comisión Europea del 14 de enero de 2011 relativa a los materiales y objetos plásticos destinados a entrar en contacto con alimentos.
+
+En el caso de los números de referencia que en el Reglamento (UE) 10/2011  corresponden a aditivos de materiales plásticos, se indican en la Tabla siguiente los nombres químicos y los números CAS correspondientes (si poseen) para su identificación.
+
+Sólo se pueden utilizar en la fabricación de materiales plásticos destinados a entrar en contacto con alimentos, los aditivos que figuren en la Resolución MERCOSUR sobre Lista Positiva de Aditivos para Materiales Plásticos. Por lo que si un aditivo mencionado en las notas no se encuentra en dicha Resolución MERCOSUR, su uso no está autorizado.
+
+
+Tabla: Notas sobre la columna "restricciones y/o especificaciones".
+
+(1)
+
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 10060 y 23920 no debe superar la restricción indicada.
+(2)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 10599/90A, 10599/91, 10599/92A y 10599/93 no debe superar la restricción indicada.
+(3)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 10690, 10750, 10780, 10810, 10840, 11470, 11590, 11680, 11710, 11830/11510, 11890, 11980, 31500 (copolímero de ácido acrílico y acrilato de 2-etilhexilo, CAS 025134-51-4) y 76463 (sales del ácido poliacrílico) no debe superar la restricción indicada.
+(4)
+Advertencia: existe el riesgo de superar el LME o el límite de migración total en simulantes de alimentos grasos.
+(5)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 13480/13607 y 39680 (2,2-bis(4-hidroxifenil)propano CAS 000080-05-7) no debe superar la restricción indicada.
+(6)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 13620 y 40320 (ácido bórico CAS 010043-35-3), 36840 (tetraborato de bario, CAS 012007-55-5) y 87040 (tetraborato de sodio, CAS 001330-43-4) no debe superar la restricción indicada.
+(7)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 13720 y 40580 (1,4-butanodiol CAS 000110-63-4) no debe superar la restricción indicada.
+(8)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 14200 y 41840 (caprolactama CAS 000105-60-2)  y 14230 no debe superar la restricción indicada.
+
+(9)
+LME(T) significa en este caso que la suma de la migración de caprolactona y ácido 6-hidroxihexanoico, provenientes de las sustancias con los números de referencia 14260 y 76845 (poliéster de 1,4-butanodiol con caprolactona (=2-Oxepanona, polímero con 1,4-butanodiol)), no debe superar la restricción indicada.
+(10)
+LME significa en este caso que la migración de  la sustancia con los números de referencia 14800 y 45600 (ácido crotónico CAS 003724-65-0) no debe superar la restricción indicada.
+(11)
+LC (T) significa en este caso que la suma de las cantidades residuales de las sustancias con los números de referencia 14950, 15700/13560, 16240, 16570, 16600, 16630, 18640, 19110, 22332, 22420, 22570, 25210, 25240 y 25270 no debe superar la restricción indicada. Del mismo modo, LME(T) significa en este caso que la suma de las migraciones específicas de las anteriores sustancias no debe superar la restricción indicada.
+(12)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia 15760/13326 y 47680 (dietilenglicol CAS 000111-46-6), 16990 y 53650 (etilenglicol CAS 000107-21-1) y 89440 (ésteres de ácido esteárico con etilenglicol) no debe superar la restricción indicada.
+(13)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia 15970 y 48720 (4,4´-dihidroxibenzofenona CAS 000611-99-4), 48640 (2,4-dihidroxibenzofenona CAS 000131-56-6), 48880 (2,2´-dihidroxi-4-metoxibenzofenona CAS 000131-53-3), 61280 (2-hidroxi-4-n-hexiloxibenzofenona CAS 003293-97-8), 61360 (2-hidroxi-4-metoxibenzofenona CAS 000131-57-7), y 61600 (2-hidroxi-4-n-octiloxibenzofenona CAS 001843-05-6) no debe superar la restricción indicada.
+(14)
+Cuando se prevea su uso en contacto con alimentos grasos, la conformidad se evaluará utilizando isoctano como simulante D.
+(15)
+LME significa en este caso que la migración de la sustancia con los números de referencia 16650 y 51570 (difenil sulfona CAS 000127-63-9) no debe superar la restricción indicada.
+(16)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia 17260 y 54880 (formaldehído CAS 000050-00-0) y 18670 y 59280 (hexametilentetramina CAS 000100-97-0) no debe superar la restricción indicada.
+(17)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia 19150 y 19180 no debe superar la restricción indicada.
+(18)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia  19960, 19540 y 64800 (ácido maleico CAS 00110-16-7) no debe superar la restricción indicada.
+(19)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia 20020, 20080, 20110, 20140, 20170, 20890, 21010, 21100, 21130, 21190, 21280, 21340, 21460 y la del metacrilato de 2-hidroxipropilo (CAS 000923-26-2) no debe superar la restricción indicada.
+(20)
+LME significa en este caso que la migración de la sustancia con los números de referencia 22775 y 69920 (ácido oxálico CAS 000144-62-7) no debe superar la restricción indicada.
+
+(21)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia 24910 y 24940 no debe superar la restricción indicada.
+(22)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia 25540 y 25550 no debe superar la restricción indicada.
+(23)
+
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia  81515 ( poli(glicerolato de cinc), CAS 087189-25-1), 96190 (hidróxido de cinc, CAS 020427-58-1), 96240 (óxido de cinc, CAS 001314-13-2) y 96320 (sulfuro de cinc, CAS 001314-98-3), así como de las sales (incluidas sales dobles y sales ácidas) de cinc de los ácidos, fenoles o alcoholes autorizados, no debe superar la restricción indicada. La restricción prevista para el cinc se aplicará igualmente a las sustancias cuyos nombres contengan la expresión "sales del ácido..."  aunque el correspondiente ácido libre no se mencione.
+(24)
+LME(T) significa en este caso que la suma de la migración de las sustancias  con los números de referencia 38000 (sal de litio del ácido benzoico, CAS 000553-54-8), 42400 (sal de litio del ácido carbónico, CAS 010377-37-4), 62020 (sal de litio del ácido 12-hidroxiesteárico, CAS 007620-77-1), 64320 (ioduro de litio CAS 010377-51-2), 66350 (fosfato de 2,2´-metilenbis(4,6-di-terc-butilfenil) litio, CAS 085209-93-4), 67896 (sal de litio del ácido mirístico, CAS 020336-96-3), 73040 (sales de litio del ácido fosfórico, CAS 013763-32-1), 85760 (silicato de litio aluminio (2:1:1), CAS 012068-40-5), 85840 (silicato de litio magnesio sodio, CAS 053320-86-8), 85920 (silicato de litio, CAS 012627-14-4) y 95725 (vermiculita, producto de reacción con citrato de litio; CAS 110638-71-6),   así como de las sales (incluidas sales dobles y sales ácidas) de litio de los ácidos, fenoles o alcoholes autorizados, no debe superar la restricción indicada. La restricción prevista para el litio se aplicará igualmente a las sustancias cuyos nombres contengan la expresión "sales del ácido..." aunque el correspondiente ácido libre no se mencione.
+
+
+PARTE V
+LISTA DE POLÍMEROS AUTORIZADOS
+
+Los polímeros autorizados corresponden a aquellos obtenidos a partir de los monómeros listados en la PARTE I  y/o los polímeros listados en la PARTE  II y/o en la PARTE V.
+NÚMERO CAS
+SUSTANCIA
+RESTRICCIONES
+ 009004-35-7
+Acetato de celulosa
+Para ser usada en recubrimientos poliméricos y resinosos.
+261716-94-3
+Copolímero de dimetil tereftalato, 1,4-ciclohexanodimetanol, y 2,2,4,4-tetrametil- 1,3-ciclobutanodiol
+
+
+Conteniendo hasta un 40% molar de 2,2,4,4-tetrametil- 1,3- ciclobutanodiol (expresado como porcentaje molar del componente glicólico del copoliéster terminado) y conteniendo no menos que el 60 % molar de 1,4-ciclohexanodimetanol.
+El copolímero se usará como componente en la fabricación de artículos de uso repetido en contacto con todos los tipos de alimentos a temperaturas menores o iguales que 100°C.
+
+Copolímeros de etileno, propileno y diciclopentadieno  (CAS 000077-73-6)
+Sin restricciones.
+
+Copolímeros de etileno, propileno y 1,4-hexadieno (CAS 000592-45-0)
+Con no más del 4,5 % (m/m) de unidades poliméricas derivadas del 1,4-hexadieno.
+009004-57-3
+Etilcelulosa
+Sin restricciones.
+009002-89-5
+098002-48-3
+Poli (alcohol vinílico)
+Ver "acetato de vinilo", número de referencia 10120,  en la Parte I.
+025038-54-4
+Poliamida 6
+Ver "caprolactama", número de referencia 14200,  en la Parte I.
+025035-04-5
+Poliamida 11
+Ver "ácido 11-aminoundecanoico", número de referencia 12788 ,  en la Parte I.
+024937-16-4
+Poliamida 12
+Ver "laurolactama", número de referencia 19490 ,  en la Parte I.
+
+
+032131-17-2
+Poliamida 6,6
+(= polímero de  hexametilendiamina y ácido adípico)
+(= Poliamida 66)
+Ver "hexametilendiamina", número de referencia 18460, y  "ácido adípico", número de referencia 12130,en la Parte I.
+009008-66-6
+Poliamida 6,10
+(= polímero de  hexametilendiamina y  ácido sebácico)
+(=Poliamida 610)
+Ver "hexametilendiamina", número de referencia 18460, y  "ácido sebácico", número de referencia 24280,en la Parte I.
+NT
+Poliamida 6/11 (= polímero de  caprolactama y   ácido 11-aminoundecanoico)
+Ver " caprolactama ", número de referencia 14200 y  " ácido 11-aminoundecanoico ", número de referencia 12788,  en la Parte I.
+024936-74-1
+Poliamida 6,12
+(= polímero de  hexametilendiamina y  ácido n-dodecanodioico)
+(=Poliamida 612)
+Ver "hexametilendiamina", número de referencia 18460, y  "ácido n-dodecanodioico", número de referencia 16697, en la Parte I.
+024993-04-2
+Poliamida 6/66
+(=copolímero de hexametilendiamina,  ácido adípico y caprolactama)
+Ver "hexametilendiamina", número de referencia 18460, "ácido adípico", número de referencia 12130, y "caprolactama", número de referencia 14200, en la Parte I.
+025191-04-2
+Poliamida 6/12
+(= copolímero de  caprolactama y laurolactama)
+Ver "caprolactama", número de referencia 14200,  y "laurolactama", número de referencia 19490,  en la Parte I.
+025776-72-1
+Poliamida 66T
+(=copolímero de hexametilendiamina, ácido adípico y ácido tereftálico)
+(= Poliamida 6/6T)
+Ver "hexametilendiamina", número de referencia 18460, "ácido adípico", número de referencia 12130, y "ácido tereftálico", número de referencia 24910, en la Parte I.
+025750-23-6
+Poliamida 6I/6T
+(= copolímero de hexametilendiamina, ácido tereftálico y ácido isoftálico)
+Ver "hexametilendiamina", número de referencia 18460, "ácido tereftálico", número de referencia 24910, y "ácido isoftálico", número de referencia 19150,en la Parte I.
+NT
+Poliamida 6/6T/6I
+(= copolímero de caprolactama; ácido adípico; 1,6-diamino-2,2,4- trimetilhexano; 1,6-diamino-2,4,4-trimetilhexano; y 1-amino-3-aminometil-3,5,5-trimetil-ciclohexano)
+Ver "caprolactama", número de referencia 14200,"ácido adípico", número de referencia 12130, "mezcla de (35-45 % m/m) 1,6-diamino-2,2,4-trimetilhexano y (55-65 % m/m) 1,6-diamino-2,4,4-trimetilhexano", número de referencia 22331, y "1-amino-3-aminometil-3,5,5-trimetilciclohexano", número de referencia 12670, en la Parte I.
+NT
+Poliamida 12 T
+(= poliamida obtenida por reacción de laurolactama, ácido isoftálico y 3,3'-dimetil-4,4'-diaminodiciclohexilmetano
+(= bis(4-amino-3-metilciclohexil)metano)
+Ver "laurolactama", número de referencia 19490,  "ácido isoftálico", número de referencia 19150, y "3,3'-dimetil-4,4'-diaminodiciclohexilmetano
+(= bis(4-amino-3-metilciclohexil) metano)", número de referencia 16210, en la Parte I.
+025718-70-1
+Poliamida  MXD-6
+(= poliamida obtenida por reacción de ácido adípico y 1,3-benceno dimetanamina
+(= metaxililendiamina)
+Ver "ácido adípico", número de referencia 12130, y  "1,3-benceno dimetanamina (=metaxililendiamina)", número de referencia  13000, en la Parte I.
+059655-05-9
+Poliamida MXD-6 modificada para impacto
+(= poliamida obtenida por reacción de ácido adípico, 1,3-benceno dimetanamina y alfa-(3-aminopropil)-omega-(3-amino-propoxi) poli-oxietileno)
+Ver "ácido adípico", número de referencia 12130,  y "1,3-benceno dimetanamina", número de referencia  13000, en la Parte I.
+
+Para alfa-(3-aminopropil)-omega-(3-amino-propoxi) poli-oxietileno:
+LC = 7 % en PT
+
+
+025766-59-0
+025037-45-0
+Policarbonato
+(= polímero obtenido por reacción de 2,2-bis(4-hidroxifenil) propano
+(= bisfenol A)
+(=4,4'-isopropilidendifenol) y cloruro de carbonilo (= fosgeno) ó carbonato de difenilo (=difenil carbonato)
+(= poli(bisfenol A-co-ácido carbónico))
+Ver "2,2-bis(4-hidroxifenil) propano
+(= bisfenol A)
+(=4,4'-isopropilidendifenol)", número de referencia 13480, "cloruro de carbonilo (=fosgeno)", número de referencia  14380,  y "carbonato de difenilo (=difenil carbonato)", número de referencia 16540, en la Parte I.
+
+
+Poliésteres: polímeros, inclusive resinas alquídicas, obtenidos por esterificación de uno o más ácidos orgánicos o de los anhídridos, con uno o más alcoholes o poliepóxidos, y entrecruzados o no con agentes entrecruzantes,  listados a continuación:
+De acuerdo con las buenas prácticas de manufactura, los objetos fabricados con poliésteres termorrígidos entrecruzados, deben ser cuidadosamente lavados antes de su primer uso.
+
+
+1) Acidos:
+
+
+- acético (CAS 000064-19-7)
+Sin restricciones.  (Referencia 10090,  en la Parte I).
+
+- acrílico (CAS 000079-10-7)
+Ver "ácido acrílico", número de referencia 10690,  en la Parte I.
+
+- adípico (CAS 000124-04-9)
+Sin restricciones. (Referencia 12130,  en la Parte I).
+
+- aducto terpeno-ácido maleico
+(CAS 977186-57-4)
+Para su uso sólo en recubrimientos. Ver "ácido maleico", número de referencia 19540, en la Parte I.
+
+- azelaico (CAS 000123-99-9)
+Sin restricciones. (Referencia 12820,  en la Parte I).
+
+- benzoico (CAS 000065-85-0)
+Sin restricciones. (Referencia 13090,  en la Parte I).
+
+- 4,4-bis(4´-hidroxifenil)-pentanoico
+(= ácido 4,4-bis(4´-hidroxifenil)-pentanoico)  (CAS 000126-00-1)
+Para su uso sólo en recubrimientos.
+
+
+- caprílico (CAS 000124-07-2)
+Sin restricciones. (Referencia 14320,  en la Parte I).
+
+- 1,4-ciclohexanodicarboxílico
+(CAS 001076-97-7)
+Ver "ácido ciclohexano-1,4-dicarboxílico", número de referencia 14876,  en la Parte I.
+
+- colofonia (=rosin) (CAS 008050-09-7)
+Sin restricciones. (Referencias 24100, 24130 y 24190,  en la Parte I).
+
+- colofonia maleica
+Ver "ácido maleico", número de referencia 19540, y/o  "anhidrido maleico", número de referencia 19960, en la Parte I.
+
+- crotónico (CAS 003724-65-0)
+Ver "ácido crotónico", número de referencia 14800,  en la Parte I.
+
+- esteárico (CAS 000057-11-4)
+Sin restricciones. (Referencia 24550,  en la Parte I).
+
+- fumárico (CAS 000110-17-8)
+Sin restricciones. (Referencia 17290,  en la Parte I).
+
+- glutárico (CAS 000110-94-1)
+Sin restricciones. (Referencia 18010,  en la Parte I).
+
+- grasos de grasa bovina y dímeros
+Sin restricciones.
+
+- grasos de aceite de coco y dímeros
+Sin restricciones.
+
+- grasos de aceite de girasol y dímeros
+Sin restricciones.
+
+- grasos de aceite de soja y dímeros
+Sin restricciones.
+
+- grasos de aceite vegetal y dímeros
+Sin restricciones.
+
+- grasos de aceite de pino ("tall oil") y dímeros
+Sin restricciones.
+
+- isoftálico (CAS 000121-91-5)
+Ver "ácido isoftálico", número de referencia 19150,  en la Parte I.
+
+- itacónico (CAS 000097-65-4)
+Sin restricciones. (Referencia 19270,  en la Parte I).
+
+- láctico (CAS 000050-21-5)
+Sin restricciones. (Referencia 19460,  en la Parte I).
+
+- láurico (CAS 000143-07-7)
+Sin restricciones. (Referencia 19470,  en la Parte I).
+
+- maleico (CAS 000110-16-7)
+Ver "ácido maleico", número de referencia 19540,  en la Parte I.
+
+- metacrílico (CAS 000079-41-4)
+Ver "ácido metacrílico", número de referencia 20020, en la Parte I.
+
+- mirístico (CAS 000544-63-8)
+Sin restricciones. (Referencia 22350,  en la Parte I).
+
+2,6-naftalendicarboxilato de dimetilo
+(CAS 000840-65-3)
+Ver "2,6-naftalendicarboxilato de dimetilo", número de referencia 22390, en la Parte I.
+
+- 2,6-naftalendicarboxílico
+(CAS 001141-38-4)
+Ver "ácido 2,6-naftalendicarboxílico", número de referencia 22360, en la Parte I.
+
+- oleico (CAS 000112-80-1)
+Sin restricciones. (Referencia 22763,  en la Parte I).
+
+- ortoftálico (CAS 000088-99-3)
+Sin restricciones. (Referencia 23200,  en la Parte I).
+
+- palmítico (CAS 000057-10-3)
+Sin restricciones. (Referencia 22780,  en la Parte I).
+
+- sebácico (CAS 000111-20-6)
+Sin restricciones. (Referencia 24280,  en la Parte I).
+
+- succínico (CAS 000110-15-6)
+Sin restricciones. (Referencia 24820,  en la Parte I).
+
+- ter-butilbenzoico  (CAS 000098-73-7)
+Para su uso sólo en recubrimientos.
+
+- tereftálico (CAS 000100-21-0)
+Ver "ácido tereftálico", número de referencia 24910,  en la Parte I.
+
+- trimelítico (CAS 000528-44-9)
+Ver "ácido trimelítico", número de referencia 25540,  en la Parte I.
+
+2) Anhídridos
+
+
+- acético (CAS 000108-24-7)
+Sin restricciones. (Referencia 10150,  en la Parte I).
+
+- azelaico (CAS 004196-95-6)
+Sin restricciones. (Referencia 12970,  en la Parte I).
+
+- ftálico (CAS 000085-44-9)
+Sin restricciones. (Referencia 23380,  en la Parte I).
+
+- maleico (CAS 000108-31-6)
+Ver "anhídrido maleico", número de referencia 19960,  en la Parte I.
+
+- piromelítico (CAS 000089-32-7)
+Ver "anhídrido piromelítico", número de referencia 24057,  en la Parte I.
+
+- sebácico (CAS 002561-88-8)
+Sin restricciones. (Referencia 24430,  en la Parte I).
+
+- succínico (CAS 000108-30-5)
+Sin restricciones. (Referencia 24850,  en la Parte I).
+
+
+3) Alcoholes y poliepóxidos
+
+
+- alfa-metil glucósido (CAS 000097-30-3)
+Sin restricciones.
+
+- bisfenol A
+(=2,2-bis(4-hidroxifenil) propano)
+(=4,4-isopropilidendifenol)
+(CAS 000080-05-7)
+Ver "bisfenol A", número de referencia 13480, en la Parte I.
+
+
+-2,2-Bis(4-hidroxifenil)propano bis(2,3-epoxipropil) éter
+(= diglicidil éter de bisfenol A)
+(=BADGE)
+(CAS 001675-54-3)
+Ver "BADGE", número de referencia 13510, en la Parte I.
+
+- 1,3-butanodiol (=butilenglicol)
+(CAS 000107-88-0)
+Sin restricciones. (Referencia 13690,  en la Parte I).
+
+
+- 1,4-butanodiol (CAS 000110-63-4)
+Ver "1,4-butanodiol ", número de referencia 13720, en la Parte I.
+
+- cetílico (=hexadecan-1-ol)
+(CAS 036653-82-4)
+Sin restricciones. (Referencia 18310,  en la Parte I).
+
+-1,4-ciclohexanodimetanol (=1,4-bis(hidroximetil)ciclohexano)
+ (CAS 000105-08-8)
+Sin restricciones. (Referencia 13390,  en la Parte I).
+
+
+- decílico (= 1-decanol) (CAS 000112-30-1)
+Sin restricciones. (Referencia 15100,  en la Parte I).
+
+
+- dietilenglicol (CAS 000111-46-6)
+Ver "dietilenglicol", número de referencia 15760, en la Parte I.
+
+- 2,2´-dimetil-1,3-propanodiol
+  (=neopentilglicol)(CAS 000126-30-7)
+Ver "2,2´-dimetil-1,3-propanodiol", número de referencia 16390, en la Parte I.
+
+- dipropilenglicol  (CAS 000110-98-5)
+Sin restricciones. (Referencia 16660,  en la Parte I).
+
+- esteárico (= alcohol 1,3-octadecanoico) (CAS 000112-92-5)
+Para su uso sólo en recubrimientos.
+
+- etilenglicol  (CAS 000107-21-1)
+Ver "etilenglicol", número de referencia 16990, en la Parte I.
+
+- glicerol  (CAS 000056-81-5)
+Sin restricciones. (Referencia 18100,  en la Parte I).
+
+- 1,6-hexanodiol  (CAS 000629-11-8)
+Ver "1,6-hexanodiol", número de referencia 18700, en la Parte I.
+
+- laurílico (CAS 000112-53-8)
+Para su uso sólo en recubrimientos.
+
+- manitol (CAS 000069-65-8 y 000087-78-5)
+Sin restricciones.
+
+- mirístico  (CAS 000112-72-1)
+Para su uso sólo en recubrimientos.
+
+-1-nonanol (CAS 000143-08-8)
+Sin restricciones. (Referencia 22480,  en la Parte I).
+
+-1-octanol (CAS 000111-87-5)
+Sin restricciones. (Referencia 22600,  en la Parte I).
+
+-1-pentanol  (CAS 000071-41-0)
+Sin restricciones. (Referencia 22870,  en la Parte I).
+
+-1-propanol (CAS 000071-23-8)
+Sin restricciones. (Referencia 23800,  en la Parte I).
+
+-2-propanol (CAS 000067-63-0)
+Sin restricciones. (Referencia 23830,  en la Parte I).
+
+-pentaeritritol  (CAS 000115-77-5)
+Sin restricciones. (Referencia 22840,  en la Parte I).
+
+-dipentaeritritol (CAS 000126-58-9)
+Sin restricciones. (Referencia 16480,  en la Parte I).
+
+-polietilenglicol  (CAS 025322-68-3)
+Sin restricciones. (Referencia 23590,  en la Parte I).
+
+-polipropilenglicol (CAS 025322-69-4)
+Sin restricciones. (Referencia 23651,  en la Parte I).
+
+-polioxipropilen éteres de 4,4´-isopropilidendifenol
+Ver "bisfenol A", número de referencia 13480, y  "óxido de propileno", número de referencia 24010, en la Parte I.
+
+-propilenglicol (=1,2-propanodiol)
+(CAS 000057-55-6)
+Sin restricciones. (Referencia 23740,  en la Parte I).
+
+
+-sorbitol (CAS 000050-70-4)
+Sin restricciones. (Referencia 24490,  en la Parte I).
+
+-trietilenglicol  (CAS 000112-27-6)
+Sin restricciones. (Referencia 25510,  en la Parte I).
+
+-trimetiloletano  (CAS 000077-85-0)
+Sin restricciones.
+
+-1,1,1-trimetilolpropano (CAS 000077-99-6)
+Ver "1,1,1-trimetilolpropano", número de referencia 25600, en la Parte I.
+
+-2,2,4-trimetil-1,3-pentanodiol
+(CAS 000144-19-4)
+Sin restricciones.
+
+
+4) Agentes entrecruzantes
+
+
+- acrilato de n-butilo (CAS 000141-32-2)
+Ver "acrilato de n-butilo", número de referencia 10780 , en la Parte I.
+
+- acrilato de 2-etilhexilo
+  (CAS 000103-11-7)
+Ver "acrilato de 2-etilhexilo", número de referencia 11500, en la Parte I.
+
+- acrilato de etilo (CAS 000140-88-5)
+Ver "acrilato de etilo", número de referencia 11470, en la Parte I.
+
+- acrilato de metilo (CAS 000096-33-3)
+Ver "acrilato de metilo", número de referencia 11710, en la Parte I.
+
+- alfa-metilestireno (=viniltolueno)
+  (CAS 000098-83-9)
+Ver "alfa-metilestireno", número de referencia 22210, en la Parte I.
+
+- estireno (CAS 000100-42-5)
+Sin restricciones. (Referencia 24610, en la Parte I).
+
+- metacrilato de butilo (CAS 000097-88-1)
+Ver "metacrilato de butilo", número de referencia 20110, en la Parte I.
+
+- metacrilato de metilo (CAS 000080-62-6)
+Ver "metacrilato de metilo", número de referencia 21130, en la Parte I.
+
+- triglicidil isocianurato (CAS 002451-62-9)
+Para uso sólo como recubrimiento en contenedores de alimentos sólidos secos a granel.
+
+
+Polímeros de uno o más de los siguientes monómeros, con uno o más de los monómeros que figuran en la Parte I:
+
+
+- metacrilato de 2-hidroxipropilo
+(CAS 000923-26-2).
+LME(T) = 6 mg/kg (19)
+
+- 5-metilidenbiciclo[2.2.1]hept-2-eno
+(=5-metilen-2-norborneno)
+(=5-metilidendiciclo-2,2,1-hept-2-eno)
+(CAS 000694-91-7).
+En proporción molar no superior al 5 % de 5-etiliden-2-norborneno y/o 5-metilen-2-norborneno en el  polímero.
+000092-71-7
+Poli(óxido de fenileno)
+Ver "2,6-dimetilfenol", número de referencia 16360, en la Parte I.
+
+
+Poliuretanos obtenidos por reacción de los siguientes compuestos:
+
+
+a) poliésteres autorizados por el presente Reglamento;
+
+
+b) alcoholes, isocianatos y otros compuestos autorizados por el presente Reglamento.
+Para isocianatos LC(T) = 1 mg/kg en PT o LME(T) = ND (LD = 0,01 mg/kg) (expresado como grupo isocianato) (11)
+009003-39-8
+Polivinilpirrolidona
+Para su uso sólo en adhesivos.
+063393-89-5
+Resina de cumarona-indeno
+Para su uso sólo en adhesivos y recubrimientos.
+
+Resina de melamina-formaldehído, modificada o no con n-butanol.
+Ver   "formaldehído", número de referencia 17260, y "2,4,6-triamino-1,3,5-triazina (=melamina)", número de referencia 25420,   en la Parte I.
+068002-18-6
+Resina de urea-formaldehído isobutilada
+Para su uso sólo en adhesivos y recubrimientos.
+Ver "formaldehído", número de referencia 17260, en la Parte I.
+
+Resinas de urea-formaldehído, modificadas o no con una o más de las siguientes sustancias:
+Para su uso sólo en recubrimientos.
+Ver "formaldehído", número de referencia 17260, en la Parte I.
+
+
+- ácido dodecilbencenosulfónico
+(CAS 027176-87-0)
+Sin restricciones adicionales.
+
+- aminas mencionadas en el ítem "Resinas epoxi"
+- 1-butanol (CAS 000071-36-3)
+Ver las restricciones correspondientes a las aminas mencionadas en la Parte V, ítem "Resinas epoxi".
+Sin restricciones adicionales. (Referencia 13840, en la Parte I).
+
+- etanol (CAS 000064-17-5)
+Sin restricciones adicionales. (Referencia 16780, en la Parte I).
+
+- isobutanol (=2-metil-1-propanol)
+(CAS 000078-83-1)
+Sin restricciones adicionales.
+
+- metanol (CAS 000067-56-1)
+Sin restricciones adicionales. (Referencia 21550, en la Parte I).
+
+- 1-propanol (CAS 000071-23-8)
+Sin restricciones adicionales. (Referencia 23800, en la Parte I).
+
+- 2-propanol (=isopropanol) (= propan-2-ol) (CAS 000067-63-0)
+Sin restricciones adicionales. (Referencia 23830, en la Parte I).
+
+
+Resinas epoxi derivadas de:
+
+
+Sólo para su uso en recubrimientos, salvo que se indique lo contrario.
+
+Las restricciones de migraciones específicas de BADGE  y derivados no se aplican ni a los contenedores de capacidad superior a  10.000 l ni a las tuberías integradas o conectadas a éstos.
+
+Los recubrimientos derivados de glicidil éteres de novolacas (compuestos derivados de fenol-formaldehído) (=NOGE) sólo podrán ser usados en contenedores de capacidad superior a 10.000 l y en las tuberías integradas o conectadas a éstos.
+
+- (alcoxi C10-C16)-2,3-epoxipropano
+(CAS 097707-52-4)
+Para ser usada sólo en recubrimientos destinados a entrar en contacto con alimentos sólidos secos.
+
+- epiclorhidrina (CAS 000106-89-8 ) y 4,4´-isopropilidendifenol (=bisfenol A) (CAS 000080-05-7)
+Ver "epiclorhidrina", número de referencia 16750, y  "bisfenol A", número de referencia 13480, en la Parte I.
+
+- epiclorhidrina (CAS 000106-89-8 ) y 4,4´-isopropilidendifenol (=bisfenol A) (CAS 000080-05-7) reaccionadas con aceites vegetales secantes y sus ácidos grasos descritos en la Lista Positiva de Aditivos para Materiales Plásticos en Contacto con Alimentos.
+Ver "epiclorhidrina", número de referencia 16750, y  "bisfenol A", número de referencia 13480, en la Parte I.
+
+
+- epiclorhidrina (CAS 000106-89-8 )  y 4,4´-isopropilidendifenol (=bisfenol A) (CAS 000080-05-7), modificadas con uno o más de los compuestos mencionados a continuación:
+Para su uso sólo en recubrimientos y en artículos termorrígidos.
+Ver  "bisfenol A", número de referencia 13480, "epiclorhidrina", número de referencia 16750, "formaldehído", número de referencia 17260 , y "2,4,6-triamino-1,3,5-triazina (=melamina)", número de referencia 25420,   en la Parte I.
+
+ a) alil glicidil éter (CAS 000106-92-3)
+
+
+ b) anhídrido tetrahidroftálico (=THPA) (CAS 000085-43-8)
+
+
+ c) 1,2-epoxi-3-fenoxipropano
+         (CAS 000122-60-1)
+
+
+ d) éter alílico de mono-, di-, o
+     trimetilolfenol
+
+
+ e) 1,3-fenilendiamina (=m-fenilendia-     mina) (CAS 000108-45-2)
+
+
+ f) fenol-formaldehído
+
+
+ g) glioxal (=oxalaldehído) (=diformal)    (CAS 000107-22-2)
+
+
+ h) 4,4´-isopropilidendifenol               (CAS 000080-05-7)
+
+
+ i) 4,4´-isopropilidendifenol-formaldehído
+
+
+ j) melamina-formaldehído
+
+
+ k) 4,4´-metilendianilina (CAS 000101-77-9)
+
+
+l) mezcla de di- y tri-glicidil ésteres,
+obtenida por reacción de la epiclorhidrina (CAS 000106-89-8 ) con   dímeros y trímeros de ácidos grasos no saturados monobásicos de C18, derivados de aceites y grasas animales y vegetales.
+En concentración no superior al 50% en masa de la resina base de epiclorhidrina/4,4´-isopropilidendifenol; sólo para uso en recubrimientos de contenedores de bebidas alcohólicas con contenido alcohólico inferior o igual al 8% (v/v).
+
+
+m) 2,2´-[(1-metiletiliden)bis[4,1-fenilen
+-oxi[1-(butoximetil)-2,1-etanodiil]
+oximetilen]]bisoxirano
+(CAS 071033-08-4)
+Para uso sólo en recubrimientos para contacto con alimentos sólidos secos a temperatura por debajo de 38°C.
+
+
+n) 4,4´-sec-butilidendifenol-formaldehído
+
+
+o) urea-formaldehído
+
+
+- epiclorhidrina (CAS 000106-89-8 ) y 4,4´-isopropilidendifenol (=bisfenol A) (CAS 000080-05-7), condensadas con resinas de xileno-formaldehído, con o sin agregado de resinas obtenidas por condensación de éter alílico de mono-, di-, o trimetilol fenol y alcohol caprílico
+Ver   "bisfenol A", número de referencia 13480, "epiclorhidrina", número de referencia 16750, y "formaldehído", número de referencia 17260,  en la Parte I.
+Xileno: LME=1,2 mg/kg.
+En el caso de agregado de resinas obtenidas por condensación de éter alílico de mono-, di-, o trimetilol fenol y alcohol caprílico, sólo podrá ser usado como recubrimiento en contacto con:
+a) alimentos acuosos no ácidos; acuosos ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; bebidas con un contenido alcohólico de hasta el 8% (v/v); bebidas no alcohólicas; y alimentos sólidos secos sin grasa ni aceite en superficie; a temperaturas menores o iguales a 71°C;
+b) bebidas con un contenido alcohólico mayor que 8% (v/v), a temperatura ambiente o inferiores.
+
+- epiclorhidrina  (CAS 000106-89-8 ) y 4,4´-isopropiliden-di-o-cresol (= bisfenol C) (=2,2-(bis(4-hidroxi-3-metilfenil)propano)(CAS 000079-97-0)
+Ver "epiclorhidrina", número de referencia 16750, en la Parte I.
+
+
+-  epiclorhidrina (CAS 000106-89-8 ) y 4,4´-sec-butilidendifenol (=bisfenol B) (=2,2-bis(4-hidroxifenil)butano) (=4,4´-(1-metilpropiliden) bisfenol) (CAS 000077-40-7)
+Para su uso sólo en adhesivos.
+Ver "epiclorhidrina", número de referencia 16750, en la Parte I.
+
+
+- epiclorhidrina (CAS 000106-89-8 ) y 4,4´-sec-butilidendifenol (=bisfenol B) (=2,2-bis(4-hidroxifenil)butano) (=4,4´-(1-metilpropiliden) bisfenol) (CAS 000077-40-7) reaccionados con aceites vegetales secantes y sus ácidos grasos descriptos en la Lista Positiva de Aditivos para Materiales Plásticos en Contacto con Alimentos.
+Ver "epiclorhidrina", número de referencia 16750, en la Parte I.
+
+
+- epiclorhidrina (CAS 000106-89-8 ) y 4,4´-sec-butilidendifenol (=bisfenol B) (=2,2-bis(4-hidroxifenil)butano) (=4,4´-(1-metilpropiliden) bisfenol) (CAS 000077-40-7), modificadas con uno o más de los compuestos mencionados a continuación:
+     a) éter alílico de mono-, di-, o
+         trimetilolfenol
+     b) fenol-formaldehído
+     c) 4,4´-isopropilidendifenol-
+         formalehído
+     d) melamina-formaldehído
+     e) 4,4´-sec-butilidendifenol-
+         formalehído
+     f) urea-formaldehído
+Ver   "epiclorhidrina", número de referencia 16750, "formaldehído", número de referencia 17260 , y "2,4,6-triamino-1,3,5-triazina (=melamina)", número de referencia 25420,   en la Parte I.
+
+
+- glicidil éteres formados por la reacción de fenol novolacas  con epiclorhidrina (CAS 000106-89-8 )
+Ver   "epiclorhidrina", número de referencia 16750, y "formaldehído", número de referencia 17260, en la Parte I.
+
+
+- polibutadieno epoxidado
+Ver "butadieno", número de referencia 13630, en la Parte I.
+
+Productos de reacción de las resinas epoxi anteriormente mencionadas con:
+
+
+Para su uso sólo en recubrimientos.
+Se deben cumplir las restricciones de las resinas base epoxi antes mencionadas, además de las específicas para cada tipo de producto de reacción.
+
+- 3-(aminometil)-3,5,5-trimetilciclohexilamina (= 1-amino-3-aminometil-3,5,5-trimetilciclohexano) (CAS 002855-13-2)  reaccionada con fenol (CAS 000108-95-2) y formaldehído (CAS 000050-00-0)  en una relación 2.6:1.0:2.0
+Ver "1-amino-3-aminometil-3,5,5-trimetilciclohexano", número de referencia 12670 y "formaldehído", número de referencia 17260, en la Parte I.
+
+
+- N-beta-(aminoetil)-gamma-aminopropiltrimetoxisilano (CAS 001760-24-3)
+
+Para uso sólo en recubrimientos de contenedores de capacidad mayor que 2.000.000 l.
+Para ser usado como recubrimiento en contacto con: a) alimentos acuosos no ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; alimentos acuosos ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; y alimentos acuosos ácidos y no ácidos conteniendo grasa o aceite, incluyendo emulsiones de agua en aceite de bajo o alto contenido de grasa; en las siguientes condiciones de elaboración y almacenamiento: llenado en caliente;  pasteurización; llenado y almacenamiento a temperatura ambiente; y almacenamiento en condiciones de refrigeración.
+ b) grasas y aceites con bajo contenido de humedad; bebidas alcohólicas y no alcohólicas; productos de panadería; y alimentos sólidos secos; en las siguientes condiciones: llenado y almacenamiento a temperatura ambiente, y almacenamiento en condiciones de refrigeración (en todos los casos sin tratamiento térmico dentro del contenedor).
+El N-beta-(aminoetil)-gamma-aminopropiltrimetoxisilano no debe usarse en cantidades mayores que el 1,3% en masa de la resina.
+
+- alcohol bencílico (CAS 000100-51-6)
+Sin restricciones adicionales. (Referencia 13150,  en la Parte I).
+
+- 3-(aminometil)-3,5,5-trimetilciclohexilamina (= 1-amino-3-aminometil-3,5,5-trimetilciclohexano) (CAS 002855-13-2)
+Ver "1-amino-3-aminometil-3,5,5-trimetilciclohexano", número de referencia 12670, en la Parte I.
+
+- cianoguanidina (=dicianodiamida) (CAS 000461-58-5)
+Sin restricciones adicionales.
+
+
+- ftalato de dibutilo (CAS 000084-74-2)
+LME= 0,3 mg/kg.
+No para uso en recubrimientos en contacto con alimentos grasos.
+
+- 3-dietilaminopropilamina (CAS 000104-78-9)
+Para uso sólo en recubrimientos de contenedores de capacidad mayor que 2.000.000 l.
+Para ser usado como recubrimiento en contacto con: a) alimentos acuosos no ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; alimentos acuosos ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; y alimentos acuosos ácidos y no ácidos conteniendo grasa o aceite, incluyendo emulsiones de agua en aceite de bajo o alto contenido de grasa; en las siguientes condiciones de elaboración y almacenamiento: llenado en caliente;  pasteurización; llenado y almacenamiento a temperatura ambiente; y almacenamiento en condiciones de refrigeración.
+ b) grasas y aceites con bajo contenido de humedad; bebidas alcohólicas y no alcohólicas; productos de panadería; y alimentos sólidos secos en las siguientes condiciones: llenado y almacenamiento a temperatura ambiente, y almacenamiento en condiciones de refrigeración (en todos los casos sin tratamiento térmico dentro del contenedor).
+La 3-dietilaminopropilamina no debe usarse en cantidades mayores que el 6% en masa de la resina.
+
+- dietilentriamina (CAS 000111-40-0)
+ Ver "dietilentriamina", número de referencia 15790, en la Parte I.
+
+- difenilamina (=N-fenilanilina) (CAS 000122-39-4)
+Sin restricciones adicionales.
+
+
+- etilendiamina (=1,2-diaminoetano)
+(CAS 000107-15-3)
+Ver "1,2 diaminoetano", número de referencia 15272, en la Parte I.
+
+- isoftalil dihidrazida (CAS 002760-98-7)
+Sin restricciones adicionales.
+
+
+- 4,4´-metilendianilina (CAS 000101-77-9)
+
+Para ser usado como recubrimiento en contenedores de capacidad igual o superior a 3785 l para bebidas alcohólicas con contenido alcohólico igual o inferior a 8% (v/v).
+
+- N-oleil-1,3-propanodiamina (=N-oleil-1,3-diaminopropano) (CAS 007173-62-8)
+El contenido de dietilaminoetanol no debe ser mayor que 10% en masa.
+
+- mezcla de 3-pentadecenil fenol (=cardanol) (CAS 037330-39-5) (obtenida del extracto de cáscara de castaña de cajú) reaccionada con formaldehído (CAS 000050-00-0) y etilendiamina (CAS 000107-15-3) en una relación 1:2:2.
+Ver "1,2 diaminoetano", número de referencia 15272, y "formaldehído", número de referencia 17260, en la Parte I.
+
+
+- poliamina obtenida por reacción en condiciones dehidrohalogenantes del clorohidrin diéter del polietilenglicol 400 con la N-octadeciltrimetilendiamina en relación molar 1:2
+Para ser usado como recubrimiento en contacto con alimentos a temperatura no superior a la ambiente.
+
+- polietilenpoliamina (CAS 068131-73-7)
+Para ser usado como recubrimiento en contacto con alimentos a temperaturas no superiores a 82°C.
+
+- ácido salicílico (CAS 000069-72-7)
+Sin restricciones adicionales. (Referencia 24270, en la Parte I).
+
+- 2-etilhexanoato de estaño (=octoato de estaño) (CAS 000301-10-0)
+
+
+Para ser utilizado hasta el 1% (m/m) del recubrimiento en contacto con alimentos en las siguientes condiciones: llenado en caliente o pasteurización por debajo de los 66°C; llenado y almacenamiento a temperatura ambiente, o almacenamiento en condiciones de refrigeración o congelación (en todos los casos sin tratamiento térmico dentro del contenedor).
+
+- óxido de estireno (CAS 000096-09-3)
+
+
+Para ser usado como recubrimiento en contenedores de capacidad igual o superior a 3785 l para bebidas alcohólicas con contenido alcohólico inferior o igual a 8% v/v.
+
+- tetraetilenpentamina (=TEPA) (CAS 000112-57-2)
+Sin restricciones adicionales.
+
+
+- tetraetilenpentamina (=TEPA) (CAS 000112-57-2) reaccionada con cantidades equimolares de ácidos grasos mencionados en este Reglamento Técnico.
+Sin restricciones adicionales.
+
+
+- tri(dimetilaminometil) fenol (CAS 000090-72-2) y sus sales obtenidas de los grupos ácidos de las siguientes sales de ácidos grasos: caprato, caprilato, de aceite de pino "tall oil", de aceite de soja, estearato, isodecanoato, linoleato, naftenato, neodecanoato, octoato (=2- etilhexanoato), oleato, palmitato, resinato y ricinoleato
+Sin restricciones adicionales.
+
+- trietilentetramina (=TETA) (CAS 000112-24-3)
+Sin restricciones adicionales.
+
+- anhídrido trimelítico (CAS 000552-30-7)
+Ver "anhídrido trimelítico", número de referencia 25550, en la Parte I.
+
+- aducto de anhídrido trimelítico (CAS 000552-30-7) con etilenglicol (CAS 000107-21-1) y glicerol (CAS 000056-81-5)
+Ver "anhídrido trimelítico", número de referencia 25550, "etilenglicol", número de referencia 16990, y "glicerol", número de referencia 18100 en la Parte I.
+
+
+- metaxililendiamina (=1,3-bencenodimetanamina) (CAS 001477-55-0)
+Ver "1,3-bencenodimetanamina", número de referencia 13000, en la Parte I.
+
+
+- para-xililendiamina (=1,4-bencenodimetanamina) (CAS 000539-48-0)
+
+
+Para uso sólo en recubrimientos de tanques de capacidad mayor que 2.000.000 l.
+
+Para ser usado como recubrimiento en contacto con: a) alimentos acuosos no ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; alimentos acuosos ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; y alimentos acuosos ácidos y no ácidos conteniendo grasa o aceite, incluyendo emulsiones de agua en aceite de bajo o alto contenido de grasa; en las siguientes condiciones de elaboración y almacenamiento: llenado en caliente;  pasteurización; llenado y almacenamiento a temperatura ambiente; y almacenamiento en condiciones de refrigeración.
+ b) grasas y aceites con bajo contenido de humedad; bebidas alcohólicas y no alcohólicas; productos de panadería; y alimentos sólidos secos; en las siguientes condiciones: llenado y almacenamiento a temperatura ambiente, y almacenamiento en condiciones de refrigeración (en todos los casos sin tratamiento térmico dentro del contenedor).
+La para-xililendiamina no debe usarse en cantidades mayores que el 0,6% en masa de la resina.
+
+- butilato de aluminio (=butóxido de alumínio) (CAS 003085-30-1)
+Sin restricciones adicionales.
+
+
+- ácido benzoico (CAS 000065-85-0)
+Ver "ácido benzoico", número de referencia 13090,  en la Parte I)
+
+- poliamidas obtenidas a partir de aceites vegetales dimerizados y de las aminas mencionadas en el ítem: "Productos de reacción de las resinas epoxi anteriormente mencionadas con:"
+Ver las restricciones existentes para  las aminas correspondientes.
+
+
+- silica silanizada, obtenida por reacción de cuarzo microcristalino con N-beta-(N-vinilbencilamino)-etil-gamma-aminopropiltrimetoxi silano, monocloruro de hidrógeno.
+Para usar sólo en recubrimientos en contacto con alimentos acuosos no ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; y alimentos sólidos secos; a temperaturas no superiores a 88°C.
+
+
+- anhídrido succínico (CAS 000108-30-5)
+Sin restricciones adicionales. (Referencia 24850, en la Parte I).
+
+Resinas fenólicas (novolacas y resoles) derivadas de formaldehído y de:
+Para su uso en recubrimientos.
+Ver "formaldehído", número de referencia 17260, en la Parte I.
+
+
+- alquil (metil, etil, propil, isopropil, butil) fenoles
+Sin restricciones adicionales.
+
+
+- fenil o-cresol (=2-hidroxidifenilmetano) (=2-bencilfenol) (=2-(fenilmetil)fenol) (CAS 028944-41-4)
+Sin restricciones adicionales.
+
+
+- fenol (CAS 000108-95-2)
+Sin restricciones adicionales. (Referencia 22960, en la Parte I).
+
+- 4,4´-isopropilidendifenol (=bisfenol A)
+(CAS 000080-05-7)
+Ver "bisfenol A", número de referencia 13607, en la Parte I.
+
+- m-cresol (CAS 000108-39-4)
+Sin restricciones adicionales.
+
+- mezcla de 3-pentadecenil fenol (=cardanol) (CAS 037330-39-5) obtenida del extracto de cáscara de castaña de cajú
+Sin restricciones adicionales.
+
+
+- o-cresol (CAS 000095-48-7)
+Sin restricciones adicionales.
+
+- p-ciclohexilfenol (CAS 001131-60-8)
+Sin restricciones adicionales.
+
+- p-cresol (CAS 000106-44-5)
+Sin restricciones adicionales.
+
+- p-fenilfenol  (CAS 000092-69-3)
+Sin restricciones adicionales.
+
+- p-nonilfenol (CAS 068152-92-1)
+Sin restricciones adicionales.
+
+- p-octilfenol (CAS 001806-26-4)
+Sin restricciones adicionales.
+
+- p-terc-amilfenol (CAS 000080-46-6)
+Sin restricciones adicionales.
+
+- p-terc-butilfenol (CAS 000098-54-4)
+Ver "4-terc-butilfenol", número de referencia 14020, en la Parte I.
+
+-4,4´-sec-butilidendifenol (=bisfenol B) (=2,2-bis(4-hidroxifenil)butano) (=4,4´-(1-metilpropiliden) bisfenol) (CAS 000077-40-7)
+Sin restricciones adicionales.
+
+
+- xilenol (CAS 001300-71-6)
+Sin restricciones adicionales.
+
+Resinas fenólicas antes mencionadas reaccionadas con:
+Para su uso en recubrimientos. Se deberán cumplir las restricciones correspondientes a las resinas fenólicas antes mencionadas.
+
+- alcohol isopropílico (= propan-2-ol)  (CAS 000067-63-0)
+Sin restricciones adicionales. (Referencia 23830,  en la Parte I).
+
+- 1-butanol (CAS 000071-36-3)
+Sin restricciones adicionales. (Referencia 13840,  en la Parte I).
+
+- butilato de aluminio (=butóxido de alumínio) (CAS 003085-30-1)
+Sin restricciones adicionales.
+
+
+- etanol (CAS 000064-17-5)
+Sin restricciones adicionales. (Referencia 16780, en la Parte I).
+
+- metanol (CAS 000067-56-1)
+Sin restricciones adicionales. (Referencia 21550,  en la Parte I).
+
+- 1-propanol (CAS 000071-23-8)
+Sin restricciones adicionales. (Referencia 23800,  en la Parte I).
+
+Resinas gliceroftálicas derivadas de glicerina (=glicerol) (CAS 000056-81-5), isómeros del ácido ftálico y de aceites vegetales mencionados en este Reglamento Técnico, modificadas o no con sustancias mencionadas en el item "Poliésteres" de la Parte V o en la Parte I de este Reglamento Técnico.
+Ver "ácido isoftálico", número de referencia 19150, y "ácido tereftálico", número de referencia 24910, en la Parte I.
+
+Ver las restricciones correspondientes a otras sustancias en la Parte I y en la Parte V.
+
+
+Resinas maleicas, derivadas de anhidrido maleico (CAS 000108-31-6) o de ácido maleico (CAS 000110-16-7)  con colofonia (CAS 008050-09-7), modificadas o no con ácidos de colofonia (ácidos abiéticos y ácidos pimáricos) (CAS 073138-82-6),  y/o con otras sustancias mencionadas en el ítem "Poliésteres" de la Parte V o en la Parte I de este Reglamento Técnico.
+Ver "ácido maleico", número de referencia 19540, y "anhídrido maleico", número de referencia 19960, en la Parte I.
+Ver las restricciones correspondientes a otras sustancias en la Parte I y en la Parte V.
+
+
+Resinas poliacetálicas:
+
+024969-25-3
+
+
+- copolímero de trioxano (= trímero cíclico del formaldehído) y de óxido de etileno (=poli(óxido de etileno-co-trioxano))
+Ver "óxido de etileno", número de referencia 17020, y "trioxano", número de referencia 25900, en la Parte I.
+
+
+009002-81-7
+-poli(oximetileno) (=POM)
+Ver "formaldehído", número de referencia 17260, en la Parte I.
+
+Resinas terpénicas, derivadas de una o más de la siguientes sustancias:
+Para su uso en recubrimientos.
+
+-dipenteno (= limoneno) (CAS 000138-86-3)
+Sin restricciones adicionales.
+
+
+- copolímero hidrogenado de alfa-pineno, beta-pineno y dipenteno (CAS 106168-37-0)
+Para uso sólo en recubrimientos en contacto con alimentos acuosos no ácidos y acuosos ácidos.
+
+- alfa-pineno (CAS 000080-56-8)
+Sin restricciones adicionales.
+
+- beta-pineno (CAS 000127-91-3)
+Sin restricciones adicionales.
+
+- resina de dipenteno hidrogenada (CAS 106168-39-2)
+Para uso sólo en recubrimientos en contacto con alimentos acuosos no ácidos y acuosos ácidos.
+
+
+Siliconas:
+
+
+a) de uso general:
+
+
+- polisiloxanos (Si) con grupos metilo
+Sin restricciones.
+
+- polisiloxanos (Psi) con grupos metilo y fenilo
+Sin restricciones.
+
+- polisiloxanos (Vsi) con grupos metilo y vinilo
+Sin restricciones.
+
+- polisiloxanos (Fsi) con grupos metilo y fluor
+Sin restricciones.
+
+
+- polisiloxanos (PVsi) con grupos fenilo, metilo y vinilo
+Sin restricciones.
+
+
+b) para uso en adhesivos:
+
+
+- poli(dietilsiloxano)
+(=dietil polisiloxano)
+Sin restricciones adicionales.
+
+- poli(difenilsiloxano)
+(=difenil polisiloxano)
+Sin restricciones adicionales.
+
+- poli(dihidrógenosiloxano)
+ (=dihidrógeno polisiloxano)
+Sin restricciones adicionales.
+
+009016-00-6
+- poli(dimetilsiloxano)
+ (=dimetil polisiloxano )
+Sin restricciones adicionales.
+
+
+-poli(etilfenilsiloxano)
+ (= etil fenil polisiloxano)
+Sin restricciones adicionales.
+
+- poli(etilhidrógenosiloxano)
+(=etil hidrógeno polisiloxano)
+Sin restricciones adicionales.
+
+- poli(fenilhidrógenosiloxano)
+(=fenil hidrógeno polisiloxano)
+Sin restricciones adicionales.
+
+- poli(metiletilsiloxano)
+(=metil etil polisiloxano)
+Sin restricciones adicionales.
+
+002116-84-9
+-poli(metilfenilsiloxano)
+(=metil fenil polisiloxano)
+Sin restricciones adicionales.
+063148-57-2
+- poli(metilhidrógenosiloxano)
+(=metil hidrógeno polisiloxano)
+Sin restricciones adicionales.
+
+c) para uso en recubrimientos:
+
+009016-00-6
+- poli(dimetilsiloxano)
+ (=dimetil polisiloxano )
+
+Sin restricciones adicionales.
+002116-84-9
+-poli(metilfenilsiloxano)
+(=metil fenil polisiloxano)
+Sin restricciones adicionales.
+063148-57-2
+- poli(metilhidrógenosiloxano)
+(=metil hidrógeno polisiloxano)
+Sin restricciones adicionales.
+
+
+- polisiloxanos obtenidos a partir de la reacción con catalizador de platino de: dimetil metilvinil polisiloxano con grupos vinilo terminales (CAS 068083-18-1) y dimetil polisiloxano con grupos vinilo terminales (CAS 068083-19-2)
+con metil hidrógeno polisiloxano (CAS 063148-57-2) y dimetil metil hidrógeno polisiloxano (CAS 068037-59-2).
+Se podrán usar opcionalmente como inhibidores de polimerización las siguientes sustancias:
+
+El contenido de platino no debe ser superior a 150 mg/kg.
+
+
+a) bis(metoximetil)etil maleato (CAS 102054-10-4), en concentración no superior al 1% (m/m);
+
+
+b) 3,5-dimetil-1-hexin-3-ol (CAS 000107-54-0), en concentración no superior al 0,53 % (m/m);
+
+
+c) 1-etinilciclohexeno (CAS 000931-49-7) en concentración no superior al 0,64 % (m/m);
+
+
+d) metilvinil ciclosiloxano (CAS 0068082-23-5);
+
+
+e) tetrametiltetravinilciclotetrasiloxano (CAS 002554-06-5)
+
+
+- polisiloxanos obtenidos a partir de la reacción con catalizador de platino de: dimetil metilvinil polisiloxano con grupos vinilo terminales (CAS 068083-18-1) y dimetil polisiloxano con grupos vinilo terminales (CAS 068083-19-2) con metil hidrógeno polisiloxano (CAS 063148-57-2).
+Se podrán usar opcionalmente como inhibidores de polimerización las siguientes sustancias:
+a) dimetil maleato (CAS 000624-48-6)
+b) vinil acetato (CAS 000108-05-4)
+
+El contenido de platino no debe ser superior a 100 mg/kg.
+Para ser usados como recubrimientos de poliolefinas:
+a) en contacto con alimentos acuosos no ácidos; acuosos ácidos, incluyendo emulsiones de aceite en agua de bajo o alto contenido de grasa; bebidas alcohólicas y no alcohólicas; y productos de panadería húmedos sin grasa ni aceite en su superficie; sin tratamiento térmico dentro del envase, y almacenados a temperatura ambiente o en condiciones de refrigeración o de congelación.
+b) en contacto con alimentos acuosos no ácidos o acuosos ácidos, conteniendo grasa o aceite, incluyendo emulsiones de agua en aceite de bajo o alto contenido de grasa; con alimentos lácteos y modificados (emulsiones de agua en aceite, o de aceite en agua, de alto o bajo contenido de grasa); con alimentos grasos de bajo contenido de humedad; con productos de panadería húmedos con grasa o aceite en su superficie; y con alimentos sólidos secos con o sin grasa o aceite en su superficie; en las siguientes condiciones: esterilización a temperaturas de 100°C o superiores; pasteurización; llenado en caliente; almacenamiento a temperatura ambiente, de refrigeración o de congelación; calentamiento en el envase previo a su consumo.
+
+- polisiloxanos obtenidos a partir de la reacción con catalizador de platino de: dimetil metilvinil polisiloxano con grupos vinilo terminales (CAS 068083-18-1) y dimetil polisiloxano con grupos vinilo terminales (CAS 068083-19-2) con metil hidrógeno polisiloxano (CAS 063148-57-2), pudiendo contener olefinas de C16-C18 (CAS 068855-60-7) como agentes de control de despegado.
+Se podrán usar opcionalmente como inhibidores de polimerización las siguientes sustancias:
+a) dialil maleato (CAS 000999-21-3)
+b) dibutil maleato (CAS 000105-76-0)
+c) dimetil maleato (CAS 000624-48-6)
+d) vinil acetato (CAS 000108-05-4)
+El contenido de platino no debe ser superior a 100 mg/kg.
+Para ser usados sólo como recubrimiento de despegue en adhesivos sensibles a la presión.
+
+
+57

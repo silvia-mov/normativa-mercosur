@@ -1,0 +1,626 @@
+Resolución GMC N° 05/06
+Título: MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS EN LA BANDA DE 1.710 MHz a 1.990 Y DE 2.100 MHz A 2.200 MHz
+Fecha de aprobación: 22/06/2006
+Vigencia: Vigente (Vigente desde el 12/06/2008 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 5343_RES_005-2006_ES_Manual Frecuencias 1710 MHZ.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/390).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 05/06
+
+
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS EN LA BANDA DE 1.710 MHz a 1.990 Y DE 2.100 MHz A 2.200 MHz
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 19/01 y Nº 32/04 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que para el cumplimiento de los objetivos del Tratado de Asunción con respecto a la integración de los Estados Partes, los servicios de telecomunicaciones cumplen con una tarea importante.
+
+Que la adopción de disposiciones comunes contribuye al proceso de integración de las telecomunicaciones en el MERCOSUR, la cual es necesaria para facilitar los objetivos deseados.
+
+Que es necesaria la coordinación previa  para el uso de frecuencias, en regiones fronterizas de cada Estado Parte, por los prestadores del servicio de telefonía móvil, por los prestadores de servicios de telefonía fija que utilicen sistemas de acceso fijo inalámbrico y otros prestadores de servicios de telecomunicaciones, para evitar cualquier tipo de interferencia perjudicial.
+
+ Que una de esas Pautas Negociadoras del SGT Nº 1, se denomina ahora "Manual de Procesamientos de Coordinación de Frecuencias en la Banda de 1.710 MHz a 1.990 MHz y de 2.100 MHz a 2.200 MHz".
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Manual de Procedimientos de Coordinación de Frecuencias en la Banda de 1.710 MHz a 1.990 MHz y de 2.100 MHz a 2.200 MHz", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Encargar al SGT Nº 1 "Comunicaciones" a mantener actualizado el contenido del presente Manual, acorde a los avances que surjan en materia tecnológica u otros aspectos.
+
+Art. 3 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos  jurídicos nacionales antes de 22/XII/2006.
+
+
+LXIII GMC -Buenos Aires, 22/VI/06
+
+
+ANEXO
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS EN LA BANDA DE 1.710 A 1.990 MHz Y DE 2.100 A 2.200 MHz
+
+SUMARIO
+
+	1.	PREÁMBULO
+	2.	DEFINICIONES
+	3.	PRINCIPIOS BÁSICOS GENERALES
+	4.	PROCEDIMIENTO DE COORDINACIÓN
+	4.1.	SOLICITUD DE COORDINACIÓN
+	4.2.	INFORMACIONES PARA LA COORDINACIÓN
+	4.3.	ACUSE DE RECIBO DE LA INFORMACIÓN PARA LA COORDINACIÓN
+4.4.		ANÁLISIS DE LA INFORMACIÓN PARA LA COORDINACIÓN, ACUERDO ENTRE PRESTADORES Y PLAZOS
+	4.5.	RESULTADO DE LA COORDINACIÓN
+	4.6	SOLUCIÓN DE CONTROVERSIAS
+4.7.	DISPOSICIONES FINALES
+	5.	ASPECTOS TÉCNICOS Y OPERACIONALES
+5.1. BANDAS DE FRECUENCIAS
+5.1.1 ARGENTINA
+5.1.2 BRASIL
+5.1.3 PARAGUAY
+5.1.4 URUGUAY
+5.2.	NIVEL DE SEÑAL DE REFERENCIA
+5.3. MÉTODO DE CÁLCULO
+5.4. FORMULARIO DE COORDINACIÓN
+5.4.1	DATOS COMPLEMENTARIOS PARA LA COORDINACIÓN
+	5.4.2.	INSTRUCCIONES PARA EL LLENADO DEL FORMULARIO DE    COORDINACIÓN
+	5.5.	LISTA DE  PRESTADORES
+5.6.	CRITERIOS PARA LA IMPLEMENTACIÓN DE LOS SERVICIOS EN REGIONES DE FRONTERA
+5.6.1.	NIVEL DE SEÑAL EN EL PAÍS LIMÍTROFE
+5.6.2.	CANALIZACIÓN DE FRECUENCIAS EN CELDAS PRÓXIMAS A LAS FRONTERAS
+5.6.3. RELACIONES DE PROTECCIÓN
+5.6.4. DISPOSICIONES GENERALES
+5.6.5. ESTACIONES DE RADIOCOMUNICACIONES EXISTENTES, OPERANDO EN LAS BANDAS DE FRECUENCIAS DE 1.710 A 1.990 MHz Y 2.100 A 2.200 MHz, LOCALIZADAS PRÓXIMAS A LA FRONTERA DE LOS ESTADOS PARTES
+
+1.	PREÁMBULO
+1.1.	Este Manual define las situaciones donde hay necesidad de coordinación previa para el uso de frecuencias en las bandas detalladas en el ítem 5.1., en regiones fronterizas de cada Estado Parte, y establece los procedimientos a seguir por los Prestadores de los Servicios Móviles Celulares, por los Prestadores de los Servicios de Telefonía Fija que utilicen Sistemas de Acceso Fijo inalámbrico y por otros prestadores de servicios de radiocomunicaciones.
+1.2.	Los procedimientos descritos en el ítem 4 indican cuándo un Prestador debe iniciar el proceso de coordinación.
+1.3.	Las Administraciones no efectuarán nuevas asignaciones o modificaciones de asignaciones existentes para Estaciones Radio Base de Servicios Móviles Celulares,  de Sistemas de Acceso Inalámbrico para Telefonía Fija o de otros servicios de comunicaciones, en frecuencias de las bandas mencionadas en el numeral 5.1., para las cuales las situaciones definidas en este Manual la coordinación previa sea obligatoria, hasta haber observado todos los procedimientos descritos en este Manual.
+1.4. La responsabilidad primaria de la coordinación es de las Administraciones Nacionales de cada Estado Partes. La metodología de trabajo se basará en la interacción directa entre los Prestadores involucrados en cada caso, salvo en los casos que se trate la coordinación del uso de la banda de 1.910 a 1.930 MHz para Sistemas Fijos de Acceso Inalámbrico al Servicio Telefónico Fijo. El avance y los resultados de las coordinaciones deben ser comunicados a las respectivas Administraciones Nacionales por las partes involucradas.
+2.	 DEFINICIONES
+2.1. ACCESO MÚLTIPLE POR DIVISIÓN DE CÓDIGO (CDMA): Técnica de transmisión digital utilizada en sistemas de radiocomunicaciones. Consiste en la transmisión de señales por espectro ensanchado en que los usuarios utilizan la misma banda de frecuencias durante todo el intervalo de tiempo. En sistemas que emplean Técnica Celular con patrón CDMA un gran número de usuarios acceden simultáneamente a un único canal de la Estación Radio Base sin interferencias.
+2.2.  ACCESO MÚLTIPLE POR DIVISIÓN DE FRECUENCIAS (FDMA): Técnica de transmisión en la que cada canal ocupa una frecuencia portadora distinta, mientras dure la comunicación designada para aquel canal.
+2.3. ACCESO MÚLTIPLE POR DIVISIÓN DE TIEMPO (TDMA): Técnica de transmisión digital utilizada en sistemas de radiocomunicaciones. En sistemas que emplean Técnica Celular patrón TDMA varios móviles se turnan, en el tiempo, en la transmisión/recepción sobre la misma frecuencia compartida.
+2.4. ÁREA DE COBERTURA: Área geográfica en la cual una Estación Móvil o una Estación Fija de Abonado puede ser atendida por el equipamiento de radio de una Estación Radio Base.
+2.5. ÁREA DE PRESTACIÓN: Área geográfica delimitada por la Administración del Estado Parte, en la cual el Prestador del Servicio Móvil Celular, del Servicio Telefónico Fijo, o de otros servicios de radiocomunicaciones por medio del Sistema de Acceso Inalámbrico debe proveer el servicio, observando la reglamentación pertinente.
+2.6. ASIGNACIÓN DE FRECUENCIA: Autorización otorgada por una Administración para que una Estación Radio Base o a una Estación Terrestre utilice una determinada frecuencia en condiciones específicas.
+2.7.       DECT ("Digital European Cordless Telephony"): Sistema  de acceso inalámbrico y de movilidad restringida, operando en la banda de 1.900 MHz, normalizado en Europa por el Instituto Europeo de Normalización de Telecomunicaciones (ETSI).
+2.8. ESTACIÓN BASE (EB) o ESTACIÓN RADIO BASE (ERB) o ESTACIÓN TERRESTRE (ET): Estación radioeléctrica fija utilizada para las radiocomunicaciones con las Estaciones Móviles, con las Estaciones Fijas de Abonado o con otras estaciones terrestres (incluye las estaciones repetidoras).
+2.9.        ESTACIÓN FIJA DE ABONADO: Estación radioeléctrica fija que posibilita el acceso del Abonado al Servicio Telefónico.
+2.10.      ESTACIÓN MÓVIL (EM): Estación radioeléctrica del Servicio Móvil Celular que puede operar en movimiento o detenida en un lugar no especificado.
+2.11.   FRECUENCIAS COORDINADAS: Son las frecuencias asignadas a una Estación Radio Base o a una Estación Terrestre por la Administración del país del Prestador, luego de coordinadas entre los Prestadores involucrados y ratificadas por las demás Administraciones de los países limítrofes.
+2.12.  GSM ("Global System for Mobile communications"): Servicio Móvil Celular de segunda generación, originado en Europa, que permite comunicaciones de voz, datos y mensajes de texto, utilizando tecnología de acceso en TDMA.
+2.13.   IMT 2000: Sistema de telecomunicaciones móviles internacionales de tercera generación definido por la Unión Internacional de Telecomunicaciones - UIT, que permite comunicaciones de voz y datos en banda ancha.
+2.14.  MMDS ("Multichannel Multipoint Distribution Service"): Servicio de Distribución de Señales Multipunto Multicanal
+2.15.  PCS ("Personal Communications Services"): Servicios de Comunicaciones Personales
+2.16.   PHS ("Personal Handyphone System"): Sistema  de acceso inalámbrico y de movilidad restringida con arquitectura microcelular, normalizado en el Japón.
+2.17.	PRESTADOR: Persona jurídica autorizada a proveer el Servicio Móvil Celular o con autorización para la instalación de Sistemas de Acceso Inalámbrico para Telefonía Fija o de otros servicios de radiocomunicaciones, en los términos de la reglamentación de cada Estado Parte.
+2.18.   SERVICIO MÓVIL CELULAR (SMC): Servicio que, mediante las radiocomunicaciones, permite las comunicaciones entre EM y entre éstas y la Red Telefónica Publica (RTP) Fija, utilizando la Técnica Celular.
+2.19.   SISTEMA DE ACCESO FIJO INALÁMBRICO PARA TELEFONÍA FIJA: Sistema de telecomunicaciones que posibilita el acceso de un abonado fijo a la red que da soporte al Servicio Telefónico Fijo Conmutado por medio de Estaciones Fijas de Abonados, asociadas a una ERB.
+2.20.    ZONA DE COORDINACIÓN: Franja geográfica, dentro de cada país, con un ancho de 5 (cinco) kilómetros, teniendo como referencia la línea fronteriza de cada país. En caso de límite lacustre, fluvial o marítimo, se considerará como limite de referencia el margen o costa del país que solicita la coordinación.
+ 3. PRINCIPIOS BÁSICOS GENERALES
+3.1 	El Área de Cobertura de cada Estación Radio Base del Servicio Móvil Celular, del Sistema de Acceso Inalámbrico para Telefonía Fija o de otro servicio de radiocomunicaciones, debe limitarse al máximo a su Área de Prestación, minimizando la penetración de su señal en territorios de países vecinos.
+3.2 	Cualquier interferencia perjudicial debe ser evitada y en caso de existir, debe ser inmediatamente subsanada.
+3.3 	Para los servicios que utilizan técnica celular, la instalación de ERB sectorizadas debe prevalecer en detrimento de ERB con antenas omnidireccionales, a fin de confinar al máximo la señal dentro del Área de Prestación.
+3.4 	Estudios de ingeniería acompañados de predicciones de cobertura y/o mediciones en campo, deben ser considerados para orientar la selección del equipamiento de transmisión, incluyendo los sistemas irradiantes, de forma de confinar las Áreas de Cobertura a los límites del Área de Prestación.
+3.5 	Los estudios de ingeniería y las mediciones o ajustes posteriores en campo deben ser realizados con la participación de los Prestadores interesados y, siempre que sea posible, con la participación de sus proveedores de infraestructura.
+3.6 	A fin de facilitar el proceso de coordinación, las Administraciones deben incentivar que las prestadoras realicen estudios previos de ingeniería de forma que, cuando se le solicite, puedan poner a disposición de los otros interesados la información necesaria para la planificación de sus estaciones, tales como mapas topográficos en escalas adecuadas e informaciones morfológicas, preferentemente en forma de  base de datos geo-referenciadas para facilitar herramientas informáticas de predicción y análisis, que puedan facilitar el proceso de coordinación.
+3.7 	Las condiciones acordadas para la compartición de las frecuencias durante el proceso de coordinación deben ser íntegramente cumplidas. La necesidad de alteración de cualquiera de las condiciones acordadas debe motivar el inicio de un nuevo proceso de coordinación.
+3.8 	Las Administraciones y Prestadores deben realizar todos los esfuerzos, facilitando el planeamiento y buscando una rápida solución de los casos de coordinación, compartición del espectro y solucionando interferencias, buscando siempre el objetivo común de prestar el servicio a todos los usuarios, con la calidad adecuada.
+4.	PROCEDIMIENTO DE COORDINACIÓN
+4.1.	SOLICITUD DE COORDINACIÓN
+4.1.1.	Todo Prestador antes de poner en operación o efectuar una modificación a una asignación de frecuencias, de una ERB o de una ET situada en el interior de la Zona de Coordinación, o que estando fuera de la misma sus características técnicas provoquen en la línea de frontera un nivel de señal superior al establecido en el numeral 5.2., deberá coordinar la asignación proyectada con los prestadores que pudieran resultar afectados, salvo en los casos descriptos en el numeral 4.1.2.
+4.1.2.	La coordinación establecida en el numeral 4.1.1. no es necesaria cuando un Prestador se propone:
+4.1.2.1	poner en operación una ERB o una ET que se encuentra situada fuera de la Zona de Coordinación y que sus características no generen en la línea de frontera un nivel de señal superior al establecido en el numeral 5.2.;
+4.1.2.2.		modificar las características de una asignación de frecuencia existente o que ya fue coordinada, de modo que no aumente el nivel de señal presente anteriormente en el Área de Cobertura  de las ERB o ET  de otros Prestadores. En este caso, el prestador debe notificar estas modificaciones a los Prestadores.
+4.1.3.	Cuando un Prestador pretenda modificar las características técnicas de una asignación durante el proceso de coordinación deberá reiniciar el mismo solamente si las nuevas características de emisión resultantes de la modificación acarreasen un aumento del nivel de señal interferente en las Áreas de cobertura de las ERB o ET de los Prestadores involucrados. En este caso, todos los plazos establecidos relativos al proceso de coordinación se contarán a partir del acuse de recibo del nuevo envío de información que incluya las modificaciones efectuadas.
+4.1.4.	Cuando la coordinación fuera necesaria, los Prestadores solicitantes deben considerar los radio enlaces existentes del Servicio Fijo punto a punto y deben incluir en la negociación del proceso de coordinación a los usuarios autorizados a operar tales enlaces.
+4.2.	INFORMACIÓN PARA LA COORDINACIÓN
+4.2.1	Para iniciar los procedimientos de coordinación, el Prestador solicitante enviará a cada uno de los Prestadores afectados, los cuales constan en el listado que se aporta en el numeral 5.5 y otros que sean incluidos por las Administraciones, el pedido de coordinación junto con la información contenida en el Formulario de Coordinación del numeral 5.4. Los Prestadores involucrados comunicarán a sus respectivas Administraciones el pedido de coordinación efectuado dentro de un plazo máximo de 10 (diez) días de iniciada dicha coordinación.
+
+
+4.3.	ACUSE DE RECIBO DE LA INFORMACIÓN PARA LA COORDINACIÓN
+4.3.1.	Al recibir una solicitud de coordinación, los Prestadores deberán acusar recibo de inmediato, y tendrán un plazo máximo de 10 (diez) días para verificar si las informaciones están completas, en caso contrario devolver el pedido de coordinación para complementar las informaciones. La fecha de re-envío será considerada a los efectos del control de los plazos establecidos en este Manual.
+4.3.2.	No habiendo manifestación del Prestador al cual se solicita la coordinación en el plazo máximo arriba establecido el pedido deberá ser reiterado, debiendo esta reiteración ser respondida en un plazo máximo de 7 (siete) días.
+4.3.3.	Si una vez más no hubiera alguna manifestación por parte de los Prestadores solicitados, el Prestador interesado en la coordinación de frecuencias deberá notificar a su Administración el envío de la solicitud de coordinación y la ausencia de respuesta.
+4.4.	ANÁLISIS DE LA INFORMACIÓN PARA LA COORDINACIÓN, ACUERDO ENTRE PRESTADORES Y PLAZOS
+4.4.1.	Al recibir los detalles referentes a la coordinación, el Prestador con el cual se trata de efectuar la coordinación los examinará en el menor tiempo posible, a fin de determinar la interferencia que se produciría en sus asignaciones de frecuencias de las ERB  y ET existentes, ya coordinadas o en proceso de coordinación.
+4.4.2.	El método de cálculo y los criterios que se deben emplear para evaluar la interferencia están tratados en los numerales 5.3. y 5.6. No obstante, durante el proceso de coordinación, los Prestadores involucrados podrán adoptar otros criterios y métodos más precisos para superar los problemas de interferencia que surgieran. Tales acuerdos se realizarán sin perjudicar a los otros Prestadores.
+4.4.3.	Tanto el Prestador que solicita la coordinación como cualquier otro Prestador involucrado, podrán solicitar la información adicional que juzguen necesaria para evaluar la interferencia causada a las asignaciones de frecuencias de las ERB y ET en cuestión.
+4.4.4.	Las Administraciones involucradas, los Prestadores afectados, así como el Prestador que desea la coordinación harán todos los esfuerzos posibles para superar las dificultades, de forma aceptable para las partes interesadas.
+4.4.5.	Todos los Prestadores pueden utilizar para la correspondencia, todo medio apropiado de telecomunicaciones y/o reuniones bilaterales o multilaterales, en caso que sea necesario, para efectuar la coordinación.
+4.4.6.	Los Prestadores consultados dispondrán de un plazo máximo de 30 (treinta) días, contados a partir de la fecha de acuse de recibo, para formular su oposición técnicamente fundada a la nueva coordinación, pudiendo efectuar las sugerencias que juzguen necesarias para solucionar el problema. En caso que la cantidad de ERB o ET a coordinar sea mayor a 6 (seis), el Prestador dispondrá de una prórroga de 15 (quince) días para formular su oposición.
+4.4.7.	El proceso de coordinación tendrá prioridad para las ERB o ET en servicio que ya hubiesen sido coordinadas y requieran una nueva coordinación, sobre las estaciones proyectadas. En estos casos, los Prestadores que pudieran resultar afectados dispondrán de un plazo máximo de 15 días para formular su oposición técnicamente fundada.
+4.4.8.	Si existiera oposición formulada en el plazo correspondiente, no podrán realizarse las instalaciones en las condiciones requeridas en la coordinación, hasta tanto se llegue a un acuerdo con los Prestadores que se opusieran. Los Prestadores se comprometerán a resolver el conflicto en un plazo adicional no mayor a los 15 (quince) días contados a partir de la fecha de formalización de la oposición.
+4.4.9.	En caso de no existir oposición o haber transcurrido los plazos mencionados en los numerales 4.4.6. y 4.4.7., la Administración del Prestador interesado quedará habilitada para realizar la asignación o autorizar la modificación de que se trata.
+4.4.10. 	En el caso en que los Prestadores involucrados en un proceso de coordinación no llegaran a concretar la misma por falta de acuerdo dentro de los plazos establecidos en este Manual, podrán notificar de tal circunstancia a las respectivas Administraciones, solicitando su intervención para alcanzar una solución satisfactoria a la situación.
+4.4.11. 	Si uno de los Prestadores recurre a su Administración, ésta deberá notificar a las demás Administraciones involucradas. A partir de la fecha de esa notificación, las Administraciones dispondrán las acciones necesarias para resolver la situación planteada, en el menor tiempo posible.
+4.4.12. Cuando un Prestador no responde en los plazos establecidos para el acuse de recibo (numerales 4.3.1. y 4.3.2.) o para comunicar su decisión con respecto al análisis de la información para la coordinación (numerales 4.4.6. y 4.4.7.) el Prestador consultado se compromete a:
+4.4.12.1.	no formular ningún reclamo con respecto a interferencias perjudiciales que afecten el servicio prestado por sus estaciones y que puedan ser causadas por la utilización de las asignaciones de frecuencias para la cual se buscó la coordinación;
+4.4.12.2.	no causar interferencia perjudicial a la asignación de frecuencias para la cual se busca coordinación.
+4.4.13. Para toda asignación de frecuencias de una ERB o ET que estuviera coordinada, pero que no fue puesta en operación en un plazo máximo de 1 (un) año contado a partir de la fecha de conclusión de la coordinación, el procedimiento debe ser reiniciado como si se tratase de una nueva coordinación. El período mencionado anteriormente podrá ser prorrogado por acuerdo entre los Prestadores interesados.
+4.4.14. Los plazos establecidos en días, serán considerados días corridos.
+4.5.	RESULTADO DE LA COORDINACIÓN
+4.5.1.	Una vez finalizada una coordinación, los Prestadores involucrados comunicarán en el plazo de 10 (diez) días el resultado de la misma a sus respectivas Administraciones, indicando el proyecto inicial y la solución alcanzada, con toda la información necesaria sobre los Prestadores intervinientes, las estaciones o celdas consideradas y las frecuencias utilizadas.
+4.5.2.	En caso de comprobarse que una estación previamente coordinada se encuentre sufriendo interferencias perjudiciales de estaciones de otro(s) Prestador(es), según los criterios establecidos en este Manual, el Prestador afectado podrá notificar al (los) otro(s) Prestador(es) a fin de buscar  una solución al problema. En este caso, se deberá aplicar el mismo procedimiento de coordinación arriba establecido. Si no se llega a un acuerdo entre Prestadores, se dará intervención a las Administraciones correspondientes.
+4.6 SOLUCIÓN DE CONTROVERSIAS
+4.6.1. Si ocurriera una controversia entre alguna de las Partes, las mismas deberán buscar una solución mediante los procedimientos de negociación directa. El Prestador que se considere perjudicado debe notificar a su Administración el inicio y la causa de esta negociación. Si no se obtiene un acuerdo por negociación directa entre las partes dentro de los plazos establecidos, el Prestador que se considere perjudicado podrá solicitar, por intermedio de su Administración, la mediación de las Administraciones de los otros Prestadores involucrados. Si mediante tales procedimientos, dentro de un plazo máximo de 30 (treinta) días, no se llegara a un acuerdo o si la controversia fuera solucionada sólo parcialmente, se aplicará el procedimiento de Solución de Controversias vigente entre los Estados Partes.
+4.7	DISPOSICIONES FINALES
+4.7.1.	Todo Prestador que tenga en servicio ERB o ET con asignaciones de frecuencias en las bandas mencionadas en el numeral 5.1. con fecha anterior a la aprobación del presente Manual, que se encuentren en el interior de la Zona de Coordinación, o que estando fuera de la misma sus características técnicas ocasionen en la línea de frontera un nivel de señal superior a lo establecido en el numeral 5.2., deberán encuadrarse en los siguientes casos:
+4.7.1.1.	las coordinaciones de frecuencias ya efectuadas entre Prestadores y ratificadas por las Administraciones, permanecerán vigentes;
+4.7.1.2.	las coordinaciones de frecuencias ya efectuadas entre Prestadores y no ratificadas por las Administraciones, deberán ser encaminadas a las respectivas Administraciones para su ratificación;
+4.7.1.3.	las coordinaciones de frecuencias en proceso, en aquellas que corresponda, deberán adecuarse a los procedimientos y reglas del presente Manual;
+4.7.1.4.	las actuales asignaciones de frecuencias, cuyo proceso de coordinación no fue efectuado, permanecerán vigentes a menos que sean objeto de reclamaciones técnicamente fundadas formuladas por los Prestadores afectados antes de la vigencia de este Manual o formuladas dentro de los 90 (noventa) días luego de la fecha de su entrada en vigor. En esta hipótesis, deben ser iniciados los procedimientos de coordinación entre el Prestador responsable por la ERB o ET interferente, de acuerdo a lo establecido en este Manual.
+4.7.2 En el caso de posibles interferencias perjudiciales que surjan de situaciones o tipos de interferencias no contempladas en el presente Manual, las Administraciones y los Prestadores involucrados harán todos los esfuerzos posibles para superar las mismas de forma aceptable para las partes interesadas.
+4.7.3.	Este Manual deberá ser periódicamente actualizado con las nuevas alternativas de servicios de radio comunicaciones y/o los nuevos estándares tecnológicos que vayan surgiendo.
+5.	ASPECTOS TÉCNICOS Y OPERACIONALES
+5.1. BANDAS DE FRECUENCIAS
+Utilización actual de las Bandas de 1.710 a 1.990 MHz y 2.100 a 2.200 MHz en los Estados Partes:
+
+
+5.1.1   ARGENTINA
+
+
+Servicio
+Transmisión de la EM o de la Estación Fija de Abonado
+(MHz)
+Transmisión de la ERB
+(MHz)
+Sistemas Multicanales
+1.706,50 MHz a 1.850 MHz
+Sistemas de Comunicaciones Personales - PCS
+1.850 MHz a 1.910 MHz
+1.930 MHz a 1.990 MHz
+Acceso Fijo Inalámbrico a Telefonía y Telefonía por medios Inalámbricos
+1.910 MHz a 1.930 MHz
+Sistemas Multicanales
+1.990 MHz a 2.220 MHz
+5.1.2.  BRASIL
+Servicio
+Transmisión de la EM o de la Estación Fija de Abonado
+(MHz)
+Transmisión de la ERB
+(MHz)
+Servicio Móvil Personal
+1.710 MHz a 1.755 MHz
+1.805 MHz a 1.850 MHz
+Servicio Móvil Personal
+1.775 MHz a 1.785 MHz
+1.870 MHz a 1.880 MHz
+Servicio Telefónico Fijo Conmutado - Acceso Inalámbrico
+1.710 MHz a 1.755 MHz (1)
+1.805 MHz a 1.850 MHz (1)
+Servicio Telefónico Fijo Conmutado - Acceso Inalámbrico
+1.895 MHz a 1.910 MHz (4)
+1.975 MHz a 1.990 MHz (4)
+IMT-2000 (TDD) (3)
+1.885 MHz a 1.895 MHz
+Servicio Telefónico Fijo Conmutado - Acceso Inalámbrico
+1.910 MHz a 1.920 MHz (2)
+IMT-2000 (FDD) (3)
+1.920 MHz a 1.975 MHz
+2.110 MHz a 2.165 MHz
+	Notas:
+(1) Estas bandas de frecuencias son destinadas, en carácter primario, para prestación del Servicio Móvil Personal y para uso en carácter secundario por Sistemas de Acceso Fijo Inalámbrico para prestación del Servicio Telefónico Fijo Conmutado, destinado al uso del público en general.
+(2) Queda a criterio del Prestador la definición del plano de canalización y el tipo de tecnología a ser empleado en la transmisión de la ERB para las Estaciones Fijas de Abonados y de las Estaciones Fijas de Abonados para la ERB.
+(3) Para el futuro Servicio IMT-2000 fueron destinadas las bandas de frecuencias indicadas en la tabla.
+(4) Estas bandas son utilizadas de acuerdo con la Resolución de la Anatel N° 314 del 19 de septiembre de 2002.
+
+5.1.3.  PARAGUAY
+
+Servicio
+Transmisión de la EM o de la Estación Fija de Abonado
+(MHz)
+Transmisión de la ERB
+(MHz)
+IMT-2000 (GSM 1800)
+1.710 MHz a 1.755 MHz
+1.805 MHz a 1.850 MHz
+IMT-2000 (FDD)
+1.755 MHz a 1.795 MHz
+2.110 MHz a 2.150 MHz
+IMT-2000 (TDD)
+1.795 MHz a 1.805 MHz
+Sistemas de Comunicaciones Personales - PCS
+1.850 MHz a 1.910 MHz
+1.930 MHz a 1.990 MHz
+Servicio Telefónico Fijo - Acceso Inalámbrico
+1.910 MHz a 1.930 MHz
+IMT-2000 (componente de enlace vía satelite)
+1.990 MHz a 2.025 MHz
+(enlace ascendente)
+2.170 MHz a 2.200 MHz
+(enlace descendente)
+MMDS (Canal de retorno)
+2.150 MHz a 2.162 MHz
+
+Nota: 	Para el futuro Servicio IMT-2000 fueron destinadas las bandas de frecuencias indicadas en la tabla.
+
+
+5.1.4. URUGUAY
+Servicio
+Transmisión de la EM o de la Estación Fija de Abonado
+(MHz)
+Transmisión de la ERB
+(MHz)
+Sistemas de Telecomunicaciones Móviles Terrestres
+1.710 MHz a 1.765 MHz
+1.805 MHz a 1.860 MHz
+Sistemas de Telecomunicaciones Móviles Terrestres
+1.850 MHz a 1.910 MHz
+1.930 MHz a 1.990 MHz
+Servicio Telefónico Fijo Conmutado - Acceso Inalámbrico
+1.910 MHz a 1.930 MHz
+Sistemas de Telecomunicaciones Móviles Terrestres (1)
+1.930 MHz a 1.980 MHz
+2.120 MHz a 2.170 MHz
+Sistemas multicanales terrestres
+1.990 MHz a 2.200 MHz.
+
+Nota: (1) identificadas para el eventual futuro uso de tecnologías IMT-2000.
+
+
+5.2. NIVEL DE SEÑAL DE REFERENCIA
+5.2.1.	El nivel de referencia, en la línea de frontera, a partir del cual se debe coordinar una estación EB, ERB, o ET, debe ser de 102 dBm; salvo en los casos de coordinación entre Sistemas Fijos Punto a Punto y móviles, para los cuales este nivel deberá ser calculado de modo que permita compatibilizar las aplicaciones Móviles con un valor de Potencia Interferente Máxima (PIM) admisibles para los enlaces Punto a Punto existentes.
+5.2.2.	A los efectos de los cálculos del nivel de señal en la línea de frontera, se emplearán los procedimientos establecidos en el numeral 5.3.
+5.3.	MÉTODO DE CÁLCULO
+Cada Prestador podrá utilizar su propio método de cálculo. Si no existiera acuerdo entre los Prestadores sobre la base de los cálculos teóricos presentados se adoptará como referencia las Recomendaciones UIT-R P.1546 - "Métodos de predicción de punto a zona para servicios terrenales en la gama de frecuencias de 30 a 3.000 MHz"; ITU-R P.452 - "Procedimiento de predicción para evaluar la interferencia en microondas entre estaciones situadas en la superficie de la Tierra a frecuencias superiores a unos 0,7 GHz" y, para distancias menores a 1 Km, ITU-R P.1411 - "Datos de propagación y métodos de predicción para la planificación de los sistemas de radiocomunicaciones de exteriores de corto alcance y redes de radiocomunicaciones de área local en la gama de frecuencias de 300 MHz a 100 GHz" o también, como referencia, resultados de mediciones de campo efectuadas por los Prestadores. Cuando sea necesario, las mediciones serán coordinadas por las Administraciones.
+5.4	FORMULARIO DE COORDINACIÓN
+Nº
+DATOS
+
+SÍMBOLO
+
+VALOR A CONSIGNAR
+1
+PAÍS
+
+ADM
+
+
+2
+SITUACIÓN
+
+A
+
+
+3
+BANDA DE TRANSMISIÓN
+
+SUB
+
+ Ver ítem 5.1
+4
+CANALES DE CONTROL, para TDMA
+
+CC
+
+
+5
+CANALES DE VOZ, para TDMA
+
+CV
+
+
+6
+CÓDIGO DE COLOR DIGITAL, para TDMA
+
+DCC
+
+0 ... 3
+7
+CÓDIGO DE VERIFICACIÓN DE COLOR DIGITAL, para TDMA
+
+DVCC
+
+1 ... 255
+8
+PATRÓN DE REUSO
+
+PR
+
+
+9
+PATRÓN CELULAR
+
+PC
+
+
+10
+NÚMEROS DE PORTADORAS, para CDMA
+
+NCP
+
+
+11
+SEPARACIÓN DE CANALES, para CDMA
+
+SR
+
+SR 1o SR 3
+12
+NÚMERO DE CANAL PREFERENCIAL, para CDMA
+
+CP
+
+
+13
+PSEUDO NUMERO/SECUENCIA PN DEL PILOTO, para CDMA
+
+PSN
+
+0 ... 511
+14
+CÓDIGO DE IDENTIFICACIÓN DE LA ERB, para GSM
+
+BSIC
+
+0 ... 63
+15
+LOCALIDAD
+
+LOC
+
+
+16
+NOMBRE E INDICATIVO DE LA ESTACIÓN
+
+SIG
+
+
+17
+LONGITUD OESTE
+
+LON
+
+
+18
+LATITUD SUR
+
+LAT
+
+
+19
+POTENCIA
+
+POT
+
+
+20
+GANANCIA DE LA ANTENA
+
+G
+
+
+21
+POLARIZACIÓN
+
+POL
+
+V, H, L o C
+22
+TILT ELÉCTRICO
+
+TE
+
+
+23
+TILT MECÁNICO
+
+TM
+
+
+24
+AZIMUT MÁXIMA DE RADIACIÓN
+
+ACU
+
+
+25
+ABERTURA HORIZONTAL
+
+AH
+
+
+26
+COTA SOBRE EL NIVEL DEL MAR
+
+CT
+
+
+27
+ALTURA DE LA ANTENA EN RELACIÓN AL SUELO
+
+HA
+
+
+28
+FECHA
+
+FE
+
+
+5.4.1	DATOS COMPLEMENTARIOS PARA LA COORDINACIÓN
+29
+PRESTADOR
+
+PS
+
+
+30
+CONTACTO
+
+NOM
+
+
+31
+TELÉFONO
+
+TEL
+
+
+32
+FAX
+
+FAX
+
+
+33
+E-MAIL
+
+EM
+
+
+Nota 1:	Deben ser presentadas las informaciones de cada sector.
+Nota 2: 	En los casos que se justifique, los Prestadores deben presentar como información adicional los gráficos de predicción de cobertura e interferencia (Co-Canal y Canal Adyacente).
+
+5.4.2.	INSTRUCTIVO PARA EL LLENADO DEL FORMULARIO DE COORDINACIÓN
+1. - 	PAÍS (ADM)
+Símbolo indicativo del país solicitante de coordinación:
+Argentina:
+ARG
+Brasil:
+B
+Paraguay:
+PRG
+Uruguay:
+URG
+
+2. - 	SITUACIÓN (A)
+Se indicará ADD, MOD o SUP si se refiere a una nueva asignación, una modificación o una supresión total de una asignación, respectivamente. Si se trata de una asignación existente, de acuerdo a lo establecido en el numeral 4.5.2., se indicará EXI.
+3. - 	BANDA DE TRANSMISIÓN (SUB)
+Se indicará la banda de frecuencias de operación de acuerdo al numeral 5.1.
+4. -	CANALES DE CONTROL, para TDMA (CC)
+Se indicarán los números de los Canales de Control utilizados en cada sector de la ERB.
+5. - 	CANALES DE VOZ, para TDMA (CV)
+Se indicarán los números de los Canales de Voz utilizados en cada sector de la ERB.
+6. -	CÓDIGO DE COLOR DIGITAL, para TDMA (DCC)
+Se indicará el Código de Color Digital, valores 0 ... 3.
+* La coordinación del mismo eventualmente será realizada por las Administraciones.
+7. -	CÓDIGO DE VERIFICACIÓN DE COLOR DIGITAL, para TDMA (DVCC)
+		Se indicará el Código de Verificación de Color Digital, valores 1 ... 255.
+* La coordinación del mismo eventualmente será realizada por las Administraciones.
+8. - 	PATRÓN DE REUSO
+		Se indicará el Patrón de Reuso de frecuencias utilizado (por ejemplo: 4/12; 4/24; 7/21; .. )
+9. - 	PATRÓN CELULAR (PC)
+		Se indicará el Patrón Celular adoptado (por ejemplo: GSM, TDMA,  CDMA).
+10. - 	NÚMEROS DE PORTADORAS para CDMA (NCP)
+Se indicarán los números de las Portadoras utilizadas en cada sector de la ERB (solamente para CDMA).
+11. -	SEPARACIÓN DE CANALES, para CDMA (SR)
+	Se indicará la Tasa de Separación de Canales utilizada, SR 1 o SR 3.
+12. -	NÚMERO DEL CANAL PREFERENCIAL, para CDMA
+		Se indicará el Número del Canal CDMA Preferencial que está siendo usado, o que se pretende usar.
+13. -	PSEUDO NUMBER / SECUENCIA PN DEL PILOTO para CDMA (PSN)
+		Se indicará el Pseudo Numero/Secuencia PN del Piloto.
+14. -	CÓDIGO DE IDENTIFICACIÓN DE LA ERB, para GSM (BSIC)
+		Se indicará el Código de Identificación de la ERB.
+15. -	LOCALIDAD (LOC)
+Se indicará el nombre de la localidad en que se encuentra la ERB correspondiente, o el nombre de la localidad más próxima.
+16. -	NOMBRE E INDICATIVO DE LA ESTACIÓN (SIG) (opcional)
+		Se indicará el Nombre e Indicativo de la ERB.
+17. -	LONGITUD OESTE (LON)
+		Este dato se expresará en grados, minutos y segundos sexagesimales.
+18. -	LATITUD SUR (LAT)
+		Este dato se expresará en grados, minutos y segundos sexagesimales.
+19. -	POTENCIA (POT)
+Se indicará el producto de la potencia suministrada a la entrada de la antena por su ganancia con relación al dipolo de media onda, expresado en dBW (Potencia Radiada Aparente).
+
+
+20. -	GANANCIA DE LA ANTENA (G)
+Se indicará la ganancia de antena en la dirección de máxima radiación, expresado en dBd. Además,  acompañará a este formulario el diagrama de radiación correspondiente.
+21. -	POLARIZACIÓN (POL)
+		Se indicará de acuerdo al siguiente detalle:
+      	Lineal Vertical - V
+      	Lineal Horizontal - H
+      	Lineal Inclinada - L
+      	Circular - C
+22. -	TILT ELÉCTRICO (TE)
+		Se indicará el valor en grados (+ o -).
+23. -	TILT MECÁNICO (TM)
+		Se indicará el valor en grados (+ o -).
+24. -	ACIMUT DE MÁXIMA RADIACIÓN (ACU)
+Es el ángulo formado entre la dirección del norte geográfico y la dirección de máxima radiación de antena, en el sentido de las agujas del reloj. Se indicará en grados. Si la antena de la estación tiene características de radiación omnidireccional, se indicará el valor de 360º.
+25. -	APERTURA HORIZONTAL (AH)
+		Se indicará el ángulo de potencia media del diagrama de radiación horizontal.
+26. -	COTA SOBRE EL NIVEL DEL MAR (CT)
+		Se expresará en metros.
+27. -	ALTURA DE LA ANTENA SOBRE EL SUELO (HA)
+	Se expresará en metros.
+28. -	FECHA (FE)
+		Se indicará la fecha de llenado del formulario en el formato dd/mm/aa.
+29. -	PRESTADOR (PS)
+		Indicar el nombre del Prestador.
+30. -	CONTACTO (NOM)
+Se indicará el nombre y apellido de la persona con la cual se podrán efectuar las coordinaciones.
+31. -	TELEFONO (TEL)
+		Se indicará el teléfono de la persona de contacto.
+32. -	FAX (FAX)
+		Se indicará el fax de la persona de contacto.
+33. -	CORREO ELECTRÓNICO (EM)
+		Se indicará la dirección de correo electrónico de la persona de contacto.
+5.5.	 LISTA DE PRESTADORES
+Las Administraciones mantendrán el listado actualizado de Prestadores de su país, debiendo responder las consultas realizadas por otras Administraciones en un plazo de 2 días hábiles, estableciéndose las siguientes direcciones de Contacto y/o E-Mail:
+5.5.1. ARGENTINA
+      Comisión Nacional de Comunicaciones
+      Gerencia de Ingeniería
+      Área Asignación de Frecuencias
+      Perú 103 - Piso 13 -C1067AAC
+      Buenos Aires - República Argentina
+      TEL: + 54 11 4347-9573 / 9678
+      FAX: + 54 11 4347-9685
+      E-Mail: jjvalorio@cnc.gov.ar CC: jsonsino@cnc.gov.ar
+5.5.2. BRASIL
+Agência Nacional de Telecomunicações
+Superintendência de Serviços Privados
+Gerência Geral de Comunicações Pessoais Terrestres
+Gerência de Normas e Padrões
+SAS Quadra 6 Bloco E 8o Andar
+Brasília - DF - Brasil
+CEP: 70313-900
+TEL + 55 61 2312-2443 / 2152
+FAX + 55 61 2312-2793
+E-Mail :ctrc.mercosul@anatel.gov.br
+5.5.3. PARAGUAY
+      Comisión Nacional de Telecomunicaciones
+      Gerencia Internacional e Interinstitucional
+      Yegros 437 y 25 de Mayo - Edif. San Rafael - Piso 3
+      Asunción - República del Paraguay
+      TEL: + 595 21 440-020
+      TEL/FAX: + 595 21 451-029
+			E-Mail: gii@conatel.gov.py CC : die@conatel.gov.py
+5.5.4. URUGUAY
+Unidad Reguladora de Servicios de Comunicaciones - URSEC
+Departamento Frecuencias Radioeléctricas
+Uruguay 988 - Montevideo - República Oriental del Uruguay
+TEL: + 598 2 902 8082
+FAX: + 598 2 902 4120 / 902 5708
+      E-Mail	: frecuencias@ursec.gub.uy o hbude@ursec.gub.uy
+5.6.	CRITERIOS PARA LA IMPLEMENTACIÓN DE LOS SERVICIOS EN REGIONES DE FRONTERA
+En toda situación que la coordinación lo requiera, y cuando la características del servicio lo permita, se instalarán celdas sectorizadas con antenas con características directivas que permitan efectuar "downtilt" mecánico y/o eléctrico, después de agotados los demás recursos.
+
+5.6.1.	NIVEL DE SEÑAL EN EL PAÍS LIMÍTROFE
+Debe ser inferior al nivel de señal del Prestador local en su región. Este nivel a ser considerado por los Prestadores durante el proceso de coordinación, será el definido por la Relación de Protección (Numeral 5.6.3). De lo contrario se procederá de acuerdo a lo estipulado en el numeral 4.4.10, de acuerdo al nivel de referencia establecido en el Numeral 5.2.1.
+5.6.2.	CANALIZACIÓN DE FRECUENCIAS EN CELDAS PRÓXIMAS A LAS FRONTERAS (Para servicios que emplean técnica celular):
+5.6.2.1.		Para fines de orientación del proyecto, los Prestadores involucrados establecerán secuencias de utilización de frecuencias.
+5.6.2.2.		En el caso de que los Prestadores utilicen tecnología de acceso y/o agrupamientos de canales diferentes, las mismas deberán definir las sub-divisiones de espectro o los canales que serán utilizados por las partes involucradas.
+5.6.2.3.		Para fines de coordinación, cada Prestador informará a las demás partes involucradas el conjunto de canales que comenzará a utilizar.
+5.6.2.4.		Cada Prestador podrá utilizar más de un conjunto de canales, siempre que su utilización no produzca interferencia perjudicial a los Prestadores de los Estados Partes vecinos.
+	5.6.3.	RELACIONES DE PROTECCIÓN
+5.6.3.1.		La relación entre la señal de cobertura del Prestador local y la señal del mismo canal (co-canal) del otro Prestador debe ser mayor o igual  a 17 dB.
+5.6.3.2 	Relaciones de Protección para los Sistemas de Acceso Fijo Inalámbrico al Servicio Telefónico Fijo que operan en la Banda Frecuencias de 1.910 MHz a 1.930 MHz:
+5.6.3.2.1. 	Para los sistemas que emplean tecnología de espectro ensanchado por salto de frecuencia con acceso múltiple TDMA y duplexado en el tiempo, el nivel máximo de señal interferente en la banda de la portadora modulada  (1 MHz) es de - 90 dBm (el valor de la sensibilidad es de - 80 dBm).
+5.6.3.2.2.  Para los sistemas que emplean tecnología DECT (EM 300 175 de la ETSI, con 10 portadoras moduladas por 12 canales TDMA, de selección dinámica) el nivel máximo admisible de señal interferente (BER = 0,001) en un ancho de banda de 1,728 MHz es de - 83 dBm medido con una señal útil de - 73 dBm (BER = 0,00001).
+5.6.3.2.3. Para sistemas que operan con tecnología de la norma PHS, el nivel máximo admisible de la  señal interferente es de - 95 dBm (en un canal de 300 kHz).
+5.6.3.2.4. En los casos que se desplieguen tecnologías distintas en la misma banda de frecuencias, las relaciones de protección serán evaluadas oportunamente siguiendo el criterio establecido en el numeral 4.7.2.
+
+
+5.6.4.	DISPOSICIONES GENERALES
+5.6.4.1. En caso de ser constatada interferencia perjudicial a consecuencia de la utilización de frecuencias objeto de coordinación, las nuevas frecuencias interferentes deben ser inmediatamente desactivadas y los Prestadores deben implementar los sistemas y técnicas adecuadas para eliminarlas.
+5.6.4.2. Las instalaciones existentes deben ser tratadas conforme a los casos establecidos en el numeral 4.7.1.
+5.6.4.3.  Otras soluciones podrán también ser negociadas entre los Prestadores involucrados, de forma de facilitar la coordinación y permitir la convivencia entre los sistemas.
+5.6.5.	ESTACIONES DE RADIOCOMUNICACIONES EXISTENTES, OPERANDO EN LAS BANDAS DE FRECUENCIAS DE 1.710 A 1.990 MHz Y DE 2.100 MHz A 2.200 MHz, UBICADAS EN LAS PROXIMIDADES DE LAS FRONTERAS DE LOS ESTADOS PARTES.
+La lista de las Estaciones de Radiocomunicaciones existentes, operando en las Bandas de Frecuencias de 1.710 a 1.990 MHz y de 2.100 MHz a 2.200 MHz, ubicadas en las proximidades de las fronteras de los Estados Partes, será intercambiada entre las Partes antes de los 90 (noventa) días luego de la aprobación del presente manual.
+
+
+21

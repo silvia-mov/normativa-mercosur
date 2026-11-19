@@ -1,0 +1,915 @@
+Resolución GMC N° 30/95
+Título: ADECUACION ARANCEL EXTERNO COMUN
+Fecha de aprobación: 10/11/1995
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 25781_RES_030-1995_ES_AdecuacionAEC.DOC
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1887).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 30/95
+
+ADECUACION ARANCEL EXTERNO COMUN
+
+
+	VISTO: El Tratado de Asunción, las Decisiones Nº 9/94 y 22/94 del Consejo del Mercado Común y la Propuesta Nº 9/95 de la Comisión de Comercio del MERCOSUR.
+
+
+CONSIDERANDO :
+
+	Que la Decisión Nº 22/94 del Consejo del Mercado Común aprobó el Arancel Externo Común del MERCOSUR, compuesto por la Nomenclatura Común del MERCOSUR y sus respectivas alícuotas.
+
+	Que es necesario realizar ajustes para mejorar la aplicación del AEC, instrumento esencial de la Unión Aduanera.
+
+EL GRUPO MERCADO COMUN
+RESUELVE :
+
+Art. 1 - Adecuar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, de acuerdo a lo establecido en los Anexos I, II y III que forman parte de la presente Resolución.
+
+Art. 2 - La presente Resolución entrará en vigor el 1º de enero de 1996.
+
+
+XIX GMC - Montevideo, 10/XI/95
+
+CT Nº 1/REC Nº11/95
+
+ANEXO I
+
+(VERSION EN ESPAÑOL)
+
+1. ELIMINACION DE CODIGOS
+
+
+2102.10.10
+2102.10.90
+2102.20.1
+2102.20.11
+2102.20.19
+2102.20.90
+2707.99.10
+2707.99.90
+2835.31.10
+2835.31.90
+2907.29.10
+2907.29.90
+2909.49.60
+2914.70.22
+2915.90.20
+2918.90.14
+2921.30.3
+2921.30.31
+2921.30.39
+2921.59.2
+2921.59.21
+2921.59.29
+2922.29.30
+2922.50.93
+2932.29.40
+2932.90.50
+2933.39.36
+2933.39.43
+2933.90.94
+2934.90.12
+2934.90.13
+2937.29.11
+2937.29.12
+2937.29.19
+2937.29.2
+2937.29.21
+2937.29.29
+2937.29.3
+2937.29.31
+2937.29.39
+3003.90.24
+3003.90.91
+3004.90.14
+3004.90.91
+3402.11.10 (Sólo en versión en español)
+3906.90.93
+4804.31.10
+4804.31.90
+4811.90.10
+4811.90.90
+4902.90.10
+4902.90.90
+5601.21.91
+5601.21.99
+5902.10.20
+6805.10.10
+6805.10.90
+
+2. SUSTITUCION DE CODIGOS
+
+DONDE DICE
+DEBE DECIR
+
+
+2102.10
+2102.10.00
+2102.20
+2102.20.00
+2707.60.00
+2707.60
+2707.99
+2707.99.00
+2835.31
+2835.31.00
+2907.29
+2907.29.00
+2915.60.20
+2915.60.2
+2925.19.00
+2925.19
+2937.22.00
+2937.22
+2937.29.1
+2937.29.10
+2937.29.40
+2937.29.20
+2937.92.90
+2937.92.9
+2940.00.90
+2940.00.9
+3402.11.20
+3402.11.10 (Sólo en versión en español)
+3402.11.30
+3402.11.20 (Sólo en versión en español)
+3402.11.40
+3402.11.30 (Sólo en versión en español)
+4005.10.00
+4005.10
+4804.31
+4804.31.00
+4811.90
+4811.90.00
+4902.90
+4902.90.00
+5601.21.9
+5601.21.90
+6805.10
+6805.10.00
+7104.20.00
+7104.20
+7108.13.10
+7108.13.1
+7108.13.90
+7108.13.9
+7219.90.00
+7219.90
+7607.19.00
+7607.19
+8481.20.00
+8481.20
+9021.30.20 (Res.19/95)
+9021.30.30
+9021.30.90
+9021.30.9
+
+
+3. MODIFICACION/INCORPORACION DE A.E.C.
+
+
+AEC
+%
+
+
+2102.10.00
+14
+
+2102.20.00
+14
+
+2707.99.00
+0
+
+2835.31.00
+10
+
+2907.29.00
+2
+
+2937.29.10
+2
+
+3206.50.29
+2
+
+3907.30.21
+2
+
+3920.62.11
+2
+
+4804.31.00
+12
+
+4811.90.00
+12
+
+4902.90.00
+0
+
+5402.10.20
+2
+
+5601.21.90
+18
+
+6805.10.00
+10
+
+8207.30.00
+14
+BK
+8505.20.10
+0
+BK
+
+
+4. SUSTITUCION DE TEXTO
+
+
+2208.30.10
+De graduación alcohólica superior a 50% vol., en recipientes con capacidad superior o igual a 50 L.
+2831.10.21
+Estabilizados con formaldehído
+2841.50.11
+Cromato de amonio; Dicromato de amonio
+2908.90.1
+Derivados solamente nitrados y sus sales
+2915.39.70
+Diacetato de etilenglicol (diacetato de etileno)
+2915.39.94
+Bis (p-acetoxifenil)ciclohexilidenmetano (Ciclofenil)
+2921.49.2
+Xilidinas y sus derivados; sales de estos productos
+2922.19.92
+Fumarato de Benciclano
+2932.90.70
+Dibencilideno-sorbitol; Moxidectina
+2933.39.24
+Acido isonicotínico
+2934.90.23
+Nimorazol; Timolol
+2934.90.33
+Tioconazol
+2934.90.34
+Tebutiurón
+2934.90.35
+Levamisol y sus sales; Tetramisol; 9-(N-Metil-4-piperidinilideno)tioxanteno
+2934.90.37
+Clorhidrato de Tizanidina
+2934.90.93
+Citarabina; Zidovudina (AZT)
+3003.90.23
+A base de deoxirribonucleasa
+3004.90.13
+A base de deoxirribonucleasa
+3808.30.22
+A base de Atrazina, de Alaclor, de Diurón o de Ametrina
+3907.30.21
+Copolímero de tetrabromobisfenol A y epiclorhidrina (resina epoxibromada)
+3920.62.11
+De espesor inferior a 5 micrómetros
+4416.00.10
+De encina, roble, alcornoque y demás belloteros (Quercus spp.) (Sólo en versión en español)
+4811.39.11
+De polietileno o polipropileno, en ambas caras, base para papel fotográfico
+5902.10.10
+Impregnadas, recubiertas o revestidas con caucho
+8104.11.00
+Con un contenido de magnesio, en peso, superior o igual a 99,8% (Sólo en versión en español)
+8473.30.25
+Cabezales de impresión térmicos o a chorro de tinta incluso con depósito de tinta incorporado
+8505.20.10
+Frenos que actúan por corriente de Foucault, del tipo de los utilizados en vehículos de las partidas 87.01 a 87.05
+8521.90.10
+Grabador - reproductor y editor de imagen y sonido, en disco, por medio magnético, óptico u óptico - magnético
+9021.30.9
+Partes y accesorios
+
+
+5. INCORPORACIONES
+
+
+A.E.C.
+%
+
+
+1302.19.40
+Valepotriatos
+2
+
+1302.19.50
+De ginseng
+2
+
+2707.60.10
+Cresoles
+0
+
+2707.60.90
+Los demás
+0
+
+2914.50.20
+1,8-Dihidroxi-3-metil-9-antrona y su forma enólica (Crisarobina)
+12
+
+2915.60.21
+Acido piválico
+2
+
+2915.60.29
+Los demás
+2
+
+2918.90.96
+Acidos metilclorofenoxiacéticos, sus sales y sus ésteres
+12
+
+2921.49.3
+Tranilcipromina y sus sales
+
+
+2921.49.31
+Sulfato de Tranilcipromina
+14
+
+2921.49.39
+Los demás
+2
+
+2921.51.35
+N-Fenil-p-fenilendiamina (4-aminodifenilamina) y sus sales
+2
+
+2922.19.95
+Tamoxifeno y su citrato
+14
+
+2925.19.10
+Talidomida
+14
+
+2925.19.90
+Los demás
+2
+
+2925.20.50
+N-(3,7-Dimetil-7-hidroxioctiliden)antranilato de metilo
+12
+
+2932.19.50
+Diacetato de 5-nitrofurfurilideno (NFDA)
+12
+
+2932.90.5
+Carbofurano; Carbosulfan
+
+
+2932.90.51
+Carbofurano
+2
+
+2932.90.52
+Carbosulfan ((Dibutilaminotio)metilcarbamato de 2,3-dihidro-2,2-dimetilbenzofuran-7-ilo)
+2
+
+2933.39.98
+Isoniazida
+2
+
+2933.59.97
+Bisulfito de menadiona dimetilpirimidinol
+8
+
+2934.10.30
+Tiabendazol
+2
+
+2934.20.40
+2-(Tiocianometiltio)benzotiazol (TCMTB)
+14
+
+2934.90.27
+Maleato ácido de Timolol
+12
+
+2934.90.96
+Talniflumato
+14
+
+2935.00.70
+Piroxicam; Tenoxicam
+12
+
+2937.22.10
+Dexametasona y sus acetatos
+2
+
+2937.22.2
+Triamcinolona y sus derivados
+
+
+2937.22.21
+Acetónido de Triamcinolona
+2
+
+2937.22.29
+Los demás
+2
+
+2937.22.3
+Fluocortolona y sus derivados
+
+
+2937.22.31
+Valerato de Diflucortolona
+2
+
+2937.22.39
+Los demás
+2
+
+2937.22.90
+Los demás
+2
+
+2937.92.91
+Acetato de Etinodiol
+2
+
+2937.92.99
+Los demás
+2
+
+2940.00.91
+Tiocolchicósido
+14
+
+2940.00.99
+Los demás
+2
+
+3002.10.26
+Medicamento a base de plasmina (fibrinolisina)
+0
+
+3002.10.27
+Medicamento a base de uroquinasa
+0
+
+3002.10.28
+Medicamento a base de inmunoglobulina con clorhidrato de histamina
+8
+
+3809.92.90
+Los demás
+14
+
+3815.90.20
+Con isoprenilaluminio (IPRA) como la sustancia activa
+2
+
+3906.90.14
+Poliacrilato de sodio injertado con sustancias absorbentes
+2
+
+3907.30.28
+Los demás, en las formas previstas en la Nota 6a) de este Capítulo
+14
+
+3920.99.30
+De polímeros de fluoruro de vinilo
+2
+
+4002.99.20
+Caucho etileno propileno dieno no conjugado (EPDM) propileno
+2
+
+4005.10.10
+Caucho etileno propileno dieno no conjugado (EPDM) propileno, con sílice y plastificante, en gránulos
+2
+
+4005.10.90
+Los demás
+14
+
+5402.41.20
+De aramida (poliamida aromática)
+2
+
+7104.20.10
+Diamente
+2
+
+7104.20.90
+Las demás
+10
+
+7108.13.11
+De bullón dorado
+2
+
+7108.13.19
+Los demás
+12
+
+7108.13.91
+De bullón dorado
+2
+
+7108.13.99
+Los demás
+12
+
+7219.90.10
+De espesor inferior a 4,75 mm  y dureza superior o igual a 42 HRC
+2
+
+7219.90.90
+Los demás
+14
+
+7302.10.20
+De peso lineal superior o igual a 67,5 Kg/m e inferior o igual a 68,5 kg/m
+2
+
+7607.19.10
+Grabada, incluso con capa de óxido de aluminio, de espesor inferior o igual a 110 micrómetros y con un contenido de aluminio superior o igual a
+99,90 %, en peso
+2
+
+7607.19.90
+Las demás
+12
+
+8473.30.27
+Cartuchos de tinta
+0
+I
+8481.20.10
+Rotativas de cajas de dirección hidráulica
+0
+
+8481.20.90
+Las demás
+14
+BK
+9021.11.20
+Mioeléctricas
+0
+
+9021.30.80
+Los demás
+14
+
+9021.30.91
+Partes de prótesis modulares que reemplazan miembros superiores o inferiores
+0
+
+9021.30.99
+Los demás
+14
+
+
+CT Nº 1/REC Nº 14/95
+
+ANEXO II
+
+(VERSION EN ESPAÑOL)
+
+1. ELIMINACION DE CODIGOS
+
+1104.29.1
+1104.29.11
+1104.29.19
+1104.29.90
+
+
+2. SUSTITUCION DE CODIGOS
+
+DONDE DICE:
+DEBE DECIR:
+
+
+1104.29
+1104.29.00
+4802.30.00
+4802.30
+4804.31.00
+4804.31
+4804.39.00
+4804.39
+7606.12.00
+7606.12
+9022.90.80
+9022.90.8
+
+
+3. MODIFICACION/INCORPORACION DE A.E.C.
+
+
+AEC
+
+%
+1104.29.00
+10
+3204.19.12
+2
+3808.10.27
+14
+7112.20.00
+2
+
+
+4. SUSTITUCION DE TEXTO
+
+0406.90.10
+Con un contenido de humedad inferior a 36,0%, en peso (pasta dura)
+0406.90.20
+Con un contenido de humedad superior o igual a 36,0% e inferior a 46,0%, en peso (pasta semidura)
+0406.90.30
+Con un contenido de humedad superior o igual a 46,0% e inferior a 55,0%, en peso (pasta blanda)
+3204.19.12
+Preparaciones a base de beta - caroteno con aceites vegetales, almidón, gelatina, sacarosa o dextrina, aptas para colorear alimentos
+3808.10.10
+Presentados en formas o envases exclusivamente de uso directo en aplicaciones domésticas
+3808.10.27
+A base de aceite mineral
+3808.20.10
+Presentados en formas o envases exclusivamente de uso directo en aplicaciones domésticas
+3808.30.10
+Herbicidas presentados en formas o envases exclusivamente de uso directo en aplicaciones domésticas
+3808.30.21
+A base de 2,4-D, de 2,4-DB, de derivados de estos productos o de MCPA
+3808.30.25
+A base de pentaclorofenol o de sus sales, de Tebutirón o de Trifluralina
+3808.30.31
+Presentados en formas o envases exclusivamente de uso directo en aplicaciones domésticas
+3808.30.40
+Reguladores del crecimiento de las plantas presentados en formas o envases exclusivamente de uso directo en aplicaciones domésticas
+3808.40.10
+Presentados en formas o envases exclusivamente de uso directo en aplicaciones domésticas
+3808.90.10
+Presentados en formas o envases exclusivamente de uso directo en aplicaciones domésticas
+3808.90.21
+Acaricidas a base de Amitraz, de Clorfenvinfós, de Metamidofos o de Propargite
+3823.90.82
+Halquinol
+3920.20.11
+De anchura inferior o igual a 12,5 cm y de espesor inferior o igual a 10 micrómetros, metalizadas
+3921.90.30
+Películas de tereftalato de polietileno substratadas en ambas caras con capa antiestática a base de gelatina o látex, incluso con halogenuros de potasio
+8504.31.91
+Transformador de salida horizontal ("fly-back"), con tensión de salida superior a 18 kV y frecuencia de barrido horizontal superior o igual a 32 kHz
+8543.80.31
+Generadores de efectos especiales con manipulación en 2 ó 3 dimensiones, incluso combinados con dispositivo de conmutación de más de 10 entradas de audio o video
+
+
+5. INCORPORACIONES
+
+
+A.E.C.
+
+    %
+1901.90.20
+Dulce de leche
+16
+
+3005.10.40
+Apósitos con obturador, aptos para colostomía (conos obturadores)
+
+2
+
+3005.10.50
+Apósitos con dispositivo de cierre, aptos para cerrar heridas
+
+2
+
+3204.19.13
+Otras preparaciones aptas para colorear alimentos
+12
+
+3701.30.22
+De poliester
+2
+
+4802.30.10
+De gramaje inferior a 19 g/m2
+2
+
+4802.30.90
+Los demás
+12
+
+4804.31.10
+De rigidez dieléctrica superior o igual a 600 V (Norma ASTM D 202 o equivalente)
+
+2
+
+4804.31.90
+Los demás
+12
+
+4804.39.10
+De rigidez dieléctrica superior o igual a 600 V (Norma ASTM D 202 o equivalente)
+
+2
+
+4804.39.90
+Los demás
+12
+
+4823.90.30
+De rigidez dieléctrica superior o igual a 600 V (Norma ASTM D 202 o equivalente) y gramaje inferior o igual a 60 g/m2
+
+
+2
+
+6307.90.20
+Manga con tratamiento ignífugo, apta para salida de emergencia de personas, incluso con sus elementos de montaje
+
+
+2
+
+7606.12.10
+Con un contenido, en peso, de magnesio superior o igual a 4% e inferior o igual a 5%, manganeso superior o igual a 0,20% e inferior o igual a 0,50%, hierro inferior o igual a 0,35%, silicio inferior o igual a 0,20% y otros metales, en conjunto, inferior o igual a 0,75%, de espesor inferior o igual a 0,3 mm y ancho superior o igual a 1468 mm, barnizadas en ambas caras.
+
+
+2
+
+7606.12.90
+Las demás
+12
+
+8504.40.40
+Equipo de alimentación ininterrumpida de energía (UPS o "no break")
+
+14
+
+I
+8504.40.50
+Conversores electrónicos de frecuencia para variación de velocidad de motores eléctricos
+
+14
+
+BK
+8533.21.20
+Aptos para montaje en superficie (SMD - "Surface Mounted Device" )
+
+16
+
+I
+8543.80.36
+Ruteador-conmutador ("routing switcher"), de más de 20 entradas y más de 16 salidas, de audio o video
+
+0
+
+I
+9018.32.12
+De acero cromo-níquel y bisel de tres caras
+2
+
+9018.90.95
+Grampas y clipes, sus aplicadores y extractores
+2
+
+9022.90.81
+Intensificadores de imagen
+0
+BK
+9022.90.89
+Los demás
+14
+BK
+9031.80.60
+Celdas de carga
+14
+BK
+9032.89.84
+De velocidad de motores eléctricos por variación de frecuencia
+
+14
+
+BK
+
+
+CT Nº 1/REC Nº 17/95
+
+ANEXO III
+
+(VERSION EN ESPAÑOL)
+
+
+1. ELIMINACION DE CODIGOS
+
+5603.00.91
+5603.00.99
+9022.90.81
+9022.90.89
+
+
+2. SUSTITUCION DE CODIGOS
+
+DONDE DICE:
+DEBE DECIR:
+
+
+5603.00.9
+5603.00.90
+8408.90.00
+8408.90
+8538.90.00
+8538.90
+9021.90.10
+9021.90.1
+9022.90.8
+9022.90.80
+
+
+3. MODIFICACION/INCORPORACION DE A.E.C.
+
+
+AEC
+
+%
+3823.90.33
+14
+5603.00.90
+18
+8452.30.00
+14 BK
+8540.91.90
+2
+9022.90.80
+14 BK
+
+
+4. SUSTITUCION DE TEXTO
+
+2930.90.34
+Acido 2-hidroxi-4-(metiltio)butanóico y su sal cálcica
+3906.90.14
+Poliacrilato de sodio, con capacidad de absorción de una solución acuosa de cloruro de sodio al 0,9%, en peso, superior o igual a 20 veces su propio peso (Rec. N°12/95 CT N°1)
+9018.19.11
+Ecógrafos con análisis espectral Doppler
+
+
+5. INCORPORACIONES
+
+
+A.E.C.
+
+%
+
+
+8408.90.10
+Estacionarios, de potencia continua máxima superior o igual a 450 HP, a más de 1.000 rpm, según Norma DIN 6271 "A"
+
+
+0 BK
+8408.90.90
+Los demás
+14 BK
+8538.90.10
+Circuitos impresos con componentes eléctricos o electrónicos, montados
+
+12 I
+8538.90.90
+Las demás
+16
+8540.20.20
+Tubos convertidores o intensificadores de imagen, de rayos X
+
+0 BK
+8540.91.40
+Panel de vidrio, grilla y blindaje interno, ensamblados, para tubos tricromáticos
+
+16
+9018.39.22
+Catéter de policloruro de vinilo, para embolectomía arterial
+
+2
+9018.39.23
+Catéter de policloruro de vinilo, para termodilución
+2
+9021.19.9
+Partes y accesorios
+
+9021.19.91
+De artículos y aparatos de ortopedia, articulados
+0
+9021.19.99
+Los demás
+14
+9021.30.40
+Prótesis mamarias no implantables
+0
+9021.90.11
+Cardiodesfibrilador automático
+0
+9021.90.19
+Los demás
+14

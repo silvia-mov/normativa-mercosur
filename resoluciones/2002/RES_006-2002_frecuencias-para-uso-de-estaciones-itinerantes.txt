@@ -1,0 +1,45 @@
+Resolución GMC N° 06/02
+Título: FRECUENCIAS PARA USO DE ESTACIONES ITINERANTES
+Fecha de aprobación: 18/04/2002
+Vigencia: Vigente (Vigente desde el 26/05/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 19526_RES_006-2002_ES_FE_EstItinerantes.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1021).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 06/02
+
+FRECUENCIAS PARA USO DE ESTACIONES ITINERANTES
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución  N° 15/96 del Grupo Mercado Común.
+CONSIDERANDO:
+ Que la Resolución GMC N° 15/96 aprobó Pautas Negociadoras de los Subgrupos de Trabajo, Reuniones Especializadas y Grupos Ad-Hoc;
+
+Que dentro de las Pautas Negociadoras del SGT N° 1, la denominada "Frecuencias para Estaciones Itinerantes" tiene como objetivo armonizar el uso de frecuencias destinadas a usuarios que necesiten operar sistemas de radiocomunicaciones sin localización definida o cuyo cambio de localización sean frecuente;
+
+Que el uso de las mismas frecuencias por los Estados Partes, además de evitar interferencias perjudiciales en áreas de frontera permitirá la comercialización entre los Estados Partes de equipos fabricados para esta aplicación.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el documento sobre "Frecuencias para Uso de Estaciones Itinerantes" de las frecuencias 462,5625 - 462,5875 - 462,6125 - 462,6375 - 462,6625 - 462,6875 y 462,7125 MHz para uso de Estaciones Itinerantes en el MERCOSUR en carácter secundario, debiendo reunir las siguientes condiciones técnicas:
+a) Potencia Radiada Aparente Máxima: 500 (quinientos) mW
+b) Tolerancia de frecuencias: debe mantenerse dentro del  0,00025 %
+c) Tipo de emisión F3E, ancho de banda autorizado de cada canal 12,5 kHz
+
+Art. 2 - Las frecuencias listadas en el Artículo anterior deberán ser utilizadas en cada Estado Parte de acuerdo a la normativa que cada uno establezca para tal fin, y en las condiciones que establece el Artículo S5 del Reglamento de Radiocomunicaciones de la Unión Internacional de Comunicaciones:
+
+"S5.28		3)	Las estaciones de un servicio secundario:"
+"S5.29	a)	no deben causar interferencia perjudicial a las estaciones de un servicio primario a las que se les hayan asignado frecuencias con anterioridad o se les puedan asignar en el futuro;"
+"S5.30	b)	no pueden reclamar protección contra interferencias perjudiciales causadas por estaciones de un servicio primario a las que se les hayan asignado frecuencias con anterioridad o se les puedan asignar en el futuro;"
+
+
+Art. 3 - Las Administraciones deberán establecer procedimientos para facilitar el libre tránsito de los usuarios y sus equipos entre los Estados Partes.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 1/IX/2002.
+
+
+XLV GMC - Buenos Aires, 18/IV/02
+
+
+1

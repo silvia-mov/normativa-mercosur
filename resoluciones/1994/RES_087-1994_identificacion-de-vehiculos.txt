@@ -1,0 +1,95 @@
+Resolución GMC N° 87/94
+Título: IDENTIFICACIÓN DE VEHÍCULOS
+Fecha de aprobación: 15/12/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24494_Res_087_ES.DOC
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1814).
+----------------------------------------------------------------------
+MERCOSUL/GMC/RES. Nº 87/94
+
+IDENTIFICAÇÃO DE VEÍCULOS
+
+
+TENDO EM VISTA: O Art. 13 do Tratado de Assunção, o Art. 10 da Decisão Nº 4/91 do Conselho Mercado Comum, a Resolução Nº 91/93 do Grupo Mercado Comum e a Recomendação Nº 55/94 do SGT Nº 3 "Normas Técnicas".
+
+
+CONSIDERANDO:
+
+Que os veículos devem cumprir uma série de requisitos técnicos em virtude das regulamentações nacionais respectivas, entre elas a PLACA DE IDENTIFICAÇÃO DE VEÍCULOS - Código VIN.
+
+Que estes requisitos diferem de um Estado Parte a outro, o que pode criar obstáculos técnicos ao intercâmbio comercial e à livre comercialização de veículos, que poderiam ser eliminados através da adoção dos mesmos requisitos técnicos por todos os Estados Partes, seja como complemento ou em substituição de sua legislação atual.
+
+Que é conseqüentemente necessário unificar os métodos de ensaio anteriormente adotados em relação à IDENTIFICAÇÃO DE VEÍCULOS.
+
+Que é preciso então adotar as medidas necessárias destinadas ao estabelecimento progressivo da integração que implica em um espaço sem fronteiras interiores, no qual esteja garantida a livre circulação de bens com maior fluidez.
+
+Que para tal fim, os Estados Partes tenham acordado adequar suas legislações, a modo de possibilitar o livre intercâmbio de veículos, suas partes e suas peças.
+
+
+O GRUPO MERCADO COMUM
+RESOLVE:
+
+
+Art. 1º - Os Estados Partes não poderão limitar ou proibir a livre circulação, homologação, certificação, venda, importação, comercialização, matrícula e uso dos veículos que cumpram com os requisitos estabelecidos no documento relativo à IDENTIFICAÇÃO DE VEÍCULOS que consta no anexo à presente Resolução, por motivos relacionados com os aspectos técnicos harmonizados neste documento.
+
+Art. 2º - Os Estados Partes colocarão em vigência as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente Resolução através dos seguintes organismos:
+
+	Argentina:
+		Ministerio de Justicia
+	Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
+
+	Brasil:
+		Ministério da Justiça
+		Secretaria de Trânsito. Departamento Nacional de Trânsito.
+
+	Paraguai:
+		Ministerio de Obras Públicas y Comunicaciones,
+
+
+	Uruguai:
+		Ministerio de Transporte y Obras Públicas
+		Ministerio de Indústria, Energia y Mineria.
+
+Art. 3º - Além das condições impostas pelo Art. 1, outros códigos de identificação poderão ser gravados, conforme critérios de cada Estado Parte, segundo as normas regulamentares correspondentes.
+
+Art. 4º - A presente Resolução entrará em vigor em 1º de janeiro de 1995.
+
+ANEXO
+
+IDENTIFICACIÓN DE VEHÍCULOS (VIN)
+
+
+Artículo 1º - Queda instituido un criterio de identificación obligatorio para todos los vehículos automotores nacionales y extranjero.
+Parágrafo único Exceptuándose de lo dispuesto en este artículo las maquinarias viales y agrícolas, vehículos utilizados exclusivamente en competencias deportivas y los vehículos destinados a operaciones militares de características especiales.
+
+Artículo 2º . La grabación del número de identificación vehicular en chasis o monobloque, deberá ocurrir como mínimo en un punto de localización de acuerdo con las especificaciones vigentes y formatos establecidos por la norma ISO 3779 (o NBR nº 6066/80 de la ABNT) con profundidad mínima de DOS DÉCIMAS DE MILÍMETRO (0,2mm).
+
+Parágrafo 1º - Aparte de la grabación en el chasis o monobloque los vehículos serán identificados como mínimo, con  los caracteres VIS previstos por la norma ISO 3779 (o NBR Nº 6066/80 de la ABNT),  pudiendo ser, a criterio del fabricante, o grabación de profundidad mínima de DOS DÉCIMAS DE MILÍMETRO (0,2 mm) en la chapa, o por plaqueta pegada, soldada o remachada, destruible durante su remoción,  o aún por etiqueta autoadhesiva también destruible en caso de tentativa de remoción, en los siguientes compartimientos y componentes:
+
+a) En el piso del vehículo, bajo uno de los asientos delanteros;
+b) En el montante de la puerta delantera lateral derecha;
+c) En el comportamiento del motor;
+d) En el parabrisas, o al menos en uno si es dividido, y en la luneta si existiese;
+e) En por lo menos DOS (2) vidrios en cada lado del vehículo, cuando existiese, exceptuando los ventiletes.
+
+Parágrafo 2º - Las identificaciones previstas en las letras “d” y “e” del parágrafo anterior serán grabadas en forma indeleble, sin especificación de profundidad y de forma que si son adulteradas, deberán acusar señales de alteración a simple vista.
+
+Parágrafo 3º - Los vehículos semiterminados (sin cabina, con cabina incompleta, tales como los chasis para ómnibus), tendrán las identificaciones previstas en el Parágrafo 1º de este Artículo, implantadas por el fabricante que complemente el vehículo con la respectiva carrocería.
+
+Parágrafo 4° - Las identificaciones previstas en el Parágrafo 1° de este Artículo podrán ser hechas en la fábrica del vehículo o en otro local, bajo la responsabilidad del fabricante antes de su venta al consumidor.
+
+Parágrafo 5° - En el caso de chasis o monobloque no metálico la numeración deberá ser grabada en placas metálicas incorporadas o ser moldeadas en el material del chasis o del monobloque durante su fabricación.
+
+Parágrafo 6° - Para los fines de lo previsto ene l texto de este Artículo, el décimo dígito del VIN (número de identificación del vehículo) que prevee la norma ISO 3779 (o NBR N° 6066/80 de la ABNT) será obligatoriamente marcado con la identificación del año de fabricación del vehículo.
+
+Artículo 3° - En los vehículos remolques y semiremolques, las grabaciones serán hechas como mínimo en DOS (2) puntos, en la columna de soporte de la dirección o en el chasis.
+
+Artículo 4° - En los vehículos remolques y semiremolques, las grabaciones serán hechas como mínimo en DOS (2) puntos localizados en el chasis en lugar visible a criterio del fabricante.
+
+Artículo 5° - Las regrabaciones y las eventuales sustituciones o reposiciones de etiquetas y plaquetas cuando sean necesarias, dependerán de la previa autorización del organismo gubernamental correspondiente encargado de la registración de los vehículos y solamente serán procesados por establecimientos por ella acreditados, mediante la comprobación de la propiedad del vehículo.
+
+Parágrafo 1° - Las etiquetas o plaquetas referidas en el texto de este Artículo deberán ser provistas por le fabricante del vehículo.
+
+Parágrafo 2° - Lo previsto en el texto de este Artículo no se aplica a las identificaciones referidas en las letras “d” y “e” del Parágrafo 1° del Artículo 2° de esta Resolución cuya ausencia temporaria no constituirá infracción de tránsito.

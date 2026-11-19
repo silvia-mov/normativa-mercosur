@@ -1,0 +1,194 @@
+Resolución GMC N° 13/17
+Título: MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 08/06/2017
+Vigencia: Vigente (Vigente desde el 11/09/2019 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 65492_RES_013-2017_ES_ModifNCM y AEC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3399).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 13/17
+
+MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones N° 07/94, 22/94 y 31/04 del Consejo del Mercado Común y la Resolución N° 26/16 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que se hace necesario ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, que constan como Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, aprobadas por la presente Resolución entrarán en vigor a partir del 01/I/2018, debiendo los Estados Partes asegurar su incorporación a su respectivo ordenamiento jurídico nacional previo a esa fecha.
+
+
+CIV GMC - Buenos Aires, 08/VI/17.
+
+
+ANEXO
+
+
+SITUACIÓN ACTUAL
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC %
+NCM
+DESCRIPCIÓN
+AEC %
+3701.10.10
+Sensibilizadas en una cara
+
+14
+3701.10.10
+Sensibilizadas en una cara
+2
+3907.99.99
+Los demás
+14
+3907.99.93
+Copolímero de tereftalato de dimetilo, ciclohexanodimetanol y ácido isoftálico
+2
+
+
+3907.99.94
+Copolímero de tereftalato de dimetilo, ciclohexanodimetanol y tetrametil ciclobutanodiol
+2
+
+
+3907.99.95
+Copolímero de tereftalato de dimetilo, ciclohexanodimetanol y etilenglicol
+2
+
+
+3907.99.99
+Los demás
+14
+3920.91.00
+- - De poli(vinilbutiral)
+16
+3920.91.00
+- - De poli(vinilbutiral)
+2
+3921.90.19
+Las demás
+16
+3921.90.13
+De copolímeros de tetrafluoroetileno reforzadas con tejido de fibras de politetrafluoroetileno, de los tipos utilizados como membranas semipermeables en celdas de electrólisis
+2
+
+
+3921.90.19
+Las demás
+16
+8448.51.00
+- - Platinas, agujas y demás artículos que participen en la   formación de mallas
+
+
+0 BK
+8448.51
+- - Platinas, agujas y demás artículos que participen en la formación de mallas
+
+
+8448.51.10
+Platinas
+14 BK
+
+
+8448.51.90
+Los demás
+0 BK
+8532.23.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+16 BIT
+8532.23.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+2 BIT
+8532.24.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+16 BIT
+8532.24.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+2 BIT
+8532.25.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+16 BIT
+8532.25.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+2 BIT
+8532.29.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+16 BIT
+8532.29.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+2 BIT
+8532.30.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+16 BIT
+8532.30.10
+Aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+2 BIT
+8533.40.12
+Varistores
+16
+8533.40.12
+Varistores para una tensión inferior o igual a 1.000 V
+2
+
+
+8533.40.13
+Los demás varistores
+16
+8536.30.00
+- Los demás aparatos para protección de circuitos eléctricos
+
+
+16
+8536.30
+- Los demás aparatos para protección de circuitos eléctricos
+
+
+8536.30.10
+Centellador a gas
+2
+
+
+8536.30.90
+Los demás
+16
+8541.21.20
+Montados, aptos para montaje en superficie (SMD - "Surface  Mounted Device")
+
+
+6 BIT
+8541.21.20
+Montados, aptos para montaje en superficie (SMD - "Surface Mounted Device")
+
+
+0 BIT
+
+
+3

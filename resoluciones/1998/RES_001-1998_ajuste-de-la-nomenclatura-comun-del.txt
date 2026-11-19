@@ -1,0 +1,213 @@
+Resolución GMC N° 01/98
+Título: AJUSTE DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 08/05/1998
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 21637_RES_001-1998_ES_Ajuste_NCM_AEC_Acta 1_98.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1544).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº1/98
+
+
+AJUSTE DE LA NOMENCLATURA COMÚN DEL MERCOSUR
+ Y SU CORRESPONDIENTE AEC
+
+
+	VISTO:  El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 7/94, 22/94 y 15/97 del Consejo del Mercado Común, la Resolución Nº 36/95 del Grupo Mercado Común y las Propuestas Nº 1/98 y Nº 2/98 de la Comisión de Comercio del MERCOSUR.
+
+
+CONSIDERANDO:
+
+Que es necesario efectuar los ajustes en la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+
+Art. 1 - Aprobar el ajuste de la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común que figura como Anexo, en versiones en español y portugués, y forma parte de la presente Resolución, de conformidad con lo dispuesto en el Artículo 1 de la Decisión CMC Nº15/97.
+
+Art. 2 - La presente Resolución entrará en vigencia el día 15 de julio de 1998.
+
+
+XXIX GMC - Buenos Aires, 8/V/98
+
+
+1. SUSTITUCION DE CÓDIGOS
+
+
+DONDE DICE
+
+DEBE DECIR
+3402.90.20
+
+
+8517.50.90
+
+8528.12.10
+
+
+8543.89.90
+
+8708.99.00
+Soluciones o emulsiones de productos tensoactivos de las subpartidas nos 3402.11 a 3402.19, y otras preparaciones tensoactivas propiamente dichas
+
+Los demás
+
+Receptor-decodificador integrado (IRD)  de señales digitalizadas de video codificadas
+
+
+Los demás
+
+Los demás
+3402.90.2
+
+
+8517.50.9
+
+8528.12.1
+
+
+8543.89.9
+
+8708.99
+Soluciones o emulsiones de productos tensoactivos de las subpartidas nos 3402.11 a 3402.19, y otras preparaciones tensoactivas propiamente dichas
+Los demás
+
+Receptor-decodificador integrado (IRD)  de señales digitalizadas de video codificadas
+
+Los demás
+
+Los demás
+
+
+2. MODIFICACION DE AEC
+
+N.C.M.
+AEC Actual (%)
+ AEC Acordado (%)
+0302.50.00
+0303.60.00
+3604.90.90
+13
+13
+15
+3
+3
+17
+
+
+3. ELIMINACIONES
+
+N.C.M.
+
+AEC (%)
+2933.90.94
+Metenamina (Hexametilentetramina) y sus sales
+17
+8471.60.12
+Matriciales (por puntos), excepto las que operen línea a línea
+19 BIT
+
+
+4. INCORPORACIONES
+
+N.C.M.
+
+AEC (%)
+2933.69.92
+
+3402.90.21
+
+
+3402.90.29
+
+8471.60.13
+
+8471.60.14
+
+8517.50.91
+
+
+8517.50.99
+
+8528.12.11
+
+
+8528.12.19
+
+
+8543.89.91
+
+
+8543.89.99
+
+8708.99.10
+
+
+8708.99.90
+
+Metenamina y sus sales
+
+Soluciones o emulsiones hidroalcohólicas de            (1-perfluoroalquil-2-acetoxi)propil betaína
+
+Las demás
+
+De caracteres Braille
+
+Las demás matriciales (por puntos)
+
+Terminales de texto que operen con código de transmisión Baudot, provistas de teclado alfanumérico y pantalla ("display"), incluso con teléfono incorporado
+
+Los demás
+
+Sin salida de radiofrecuencia (RF) modulada en canales 3 ó 4, con salidas de audio balanceadas con impedancia de 600 Ohms, apto para montaje en "racks" y con salida de video con conector
+BNC
+
+Los demás
+
+
+Terminales de texto que operen con código de transmisión Baudot, provistas de teclado alfanumérico y pantalla ("display"), con acoplamiento exclusivamente acústico a teléfono
+
+Los demás
+
+Dispositivos para comando de acelerador, freno, embrague, dirección o caja de cambios, incluso los de adaptación de los preexistentes, del tipo de los utilizados por personas discapacitadas
+Los demás
+17
+
+5
+
+
+21
+
+3 BIT
+
+19 BIT
+
+3 BIT
+
+
+17 BIT
+
+3 BIT
+
+
+23
+
+
+3 BIT
+
+
+15 BIT
+
+
+3
+
+21
+
+
+1
+
+
+3

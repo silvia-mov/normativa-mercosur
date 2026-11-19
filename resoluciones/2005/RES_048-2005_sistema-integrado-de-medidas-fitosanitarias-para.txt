@@ -1,0 +1,273 @@
+Resolución GMC N° 48/05
+Título: SISTEMA INTEGRADO DE MEDIDAS FITOSANITARIAS PARA EL MANEJO DE RIESGO DE XANTHOMONAS AXONOPODIS PV. CITRI EN FRUTOS CÍTRICOS
+Fecha de aprobación: 25/11/2005
+Vigencia: Vigente (Vigente desde el 12/03/2009 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 10578_RES_048-2005_ES_MedidasFitosanitCancro-Citrico.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/738).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 48/05
+
+
+SISTEMA INTEGRADO DE MEDIDAS FITOSANITARIAS PARA EL MANEJO DE RIESGO DE XANTHOMONAS AXONOPODIS PV. CITRI  EN FRUTOS CÍTRICOS.
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Decisiones Nº 06/96 y 20/02 del Consejo del Mercado Común.
+
+CONSIDERANDO:
+
+Que sobre la base de las normas internacionales  pertinentes, se ha realizado la evaluación de riesgo de Xanthomonas axonopodis pv citri en frutos cítricos y se han evaluado las opciones de manejo del riesgo para evitar el establecimiento de esta plaga en un área libre.
+
+Que la aplicación de un sistema basado en puntos críticos de control de acuerdo a la Norma Internacional de Medidas Fitosanitarias Nº 14 "Aplicación de Medidas Integradas en un enfoque de Sistemas para el Manejo del Riesgo de Plagas", permite reducir y controlar el riesgo de introducción y establecimiento de esta plaga y representa una medida equivalente menos restrictiva para el comercio.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Sistema Integrado de Medidas Fitosanitarias para el manejo del Riesgo de Xanthomonas axonopodis pv. citri en Frutos Cítricos" que figura como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Organismos Nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina:	Secretaría de Agricultura, Ganadería, Pesca y Alimentos - SAGPyA
+Servicio Nacional de Sanidad y Calidad Agroalimentaria - SENASA
+
+Brasil:		Ministério da Agricultura, Pecuária e  Abastecimento - MAPA
+		Secretaria de Defesa Agropecuária - SDA
+
+Paraguay:	Ministerio de Agricultura y Ganadería - MAG.
+Servicio Nacional de Calidad y Sanidad Vegetal y de Semillas - SENAVE
+
+Uruguay:	Ministerio de Ganadería, Agricultura y Pesca - MGAP
+		Dirección General de Servicios Agrícolas - DGSA
+
+Art. 3 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 25/07/2006.
+
+
+LXI GMC - Montevideo, 25/XI/05
+
+
+ANEXO
+
+
+SISTEMA INTEGRADO DE MEDIDAS FITOSANITARIAS PARA EL MANEJO DEL RIESGO DE
+Xanthomonas axonopodis pv citri
+EN FRUTOS CITRICOS
+
+
+ÍNDICE
+
+
+INTRODUCCIÓN	5
+REFERENCIAS	5
+DEFINICIONES Y ABREVIATURAS	6
+1.	Objetivo	9
+2.	Relación entre la evaluación del riesgo de la plaga y las medidas de manejo de riesgo.	9
+Precosecha	9
+Postcosecha.	9
+3. Eficacia de medidas	9
+3.1 Precosecha	9
+3.1.1 Medidas de manejo del cultivo:	10
+3.1.2 Habilitación para la cosecha del sitio de producción .	10
+3.2 Poscosecha.	11
+3.2.1 Selección de frutos infectados 	11
+3.2.2 Tratamiento poscosecha	11
+3.2.3 Habilitación de envíos para exportación	11
+4. Puntos de Control	11
+5. Sistema de Certificación Fitosanitaria:	11
+
+
+INTRODUCCIÓN
+
+En base a las normas internacionales pertinentes para el ARP se ha realizado la evaluación de riesgo de Xanthomonas axonopodis pv citri en frutos cítricos y el manejo del riesgo para evitar el establecimiento de ésta plaga en un área libre. La aplicación de un sistema basado en puntos críticos de control en un enfoque de sistemas, de acuerdo a la NIMF Nº 14, permite reducir y controlar el riesgo de introducción y establecimiento de ésta plaga. Este enfoque de sistemas es una alternativa equivalente a otras medidas, pero menos restrictivas para el comercio.
+
+
+REFERENCIAS
+
+Acuerdo sobre la aplicación de medidas sanitarias y fitosanitarias, 1994. Organización Mundial del Comercio, Ginebra.
+Análisis de riesgo de plagas para plagas cuarentenarias, 2001. NIMF Pub. Nº 11, FAO, Roma.
+
+Aplicación de medidas integradas en un enfoque de sistemas para el manejo de riesgos de plagas. 2002. NIMF Pub. N° 14, FAO, Roma.
+Convención Internacional de Protección Fitosanitaria, 1997. FAO, Roma.
+Determinación de la situación de una plaga en un área, 1999. NIMF Pub. N° 8, FAO, Roma.
+Directrices para el análisis de riesgo de plagas, 1996. NIMF Pub. Nº 2, FAO, Roma.
+
+Directrices para la vigilancia, 1997.NIMF Pub. N° 6, FAO, Roma.
+Directrices para los programas de erradicación de plagas, 1998. NIMF Pub. N° 9, FAO, Roma.
+Glosario de términos fitosanitarios, 2002. NIMF Pub. Nº 5, FAO, Roma.
+Lineamientos para un sistema integrado de medidas para mitigación del riesgo de plagas (enfoque de sistemas), 1998. V 1.2. COSAVE, Asunción, Paraguay.
+Principios de cuarentena fitosanitaria en relación con el comercio internacional, 1995. NIMF Pub. Nº 1, FAO, Roma.
+Reportes de Evaluación y Manejo de riesgo de X. axonopodis pv. citri en fruta cítrica .COSAVE 2003.
+Sistema de certificación para la exportación, 1997. NIMF N° 7, FAO, Roma.
+
+
+DEFINICIONES Y ABREVIATURAS
+
+Análisis de Riesgo de Plagas:
+Proceso de evaluación de los testimonios biológicos, científicos y económicos para determinar si una plaga debería ser reglamentada y la intensidad de cualesquiera medidas fitosanitarias que han de adoptarse para combatirla [FAO, 1995; revisado CIPF, 1997]
+Área:
+Un país determinado, parte de un país, países completos o partes de diversos países, que se han definido oficialmente [FAO, 1990; revisado FAO, 1995; CEMF, 1999; definición basada en el Acuerdo sobre la Aplicación de Medidas Sanitarias y Fitosanitarias de la Organización Mundial del Comercio]
+área de ARP:
+Un área en relación con la cual se realiza un Análisis de Riesgo de Plagas [FAO, 1995]
+ARP:
+Análisis de riesgo de plagas [FAO, 1995; revisado CIMF, 2001]
+CIPF:
+Convención Internacional de Protección Fitosanitaria, depositada en 1951 en la FAO, Roma y posteriormente enmendada [FAO, 1990; revisado CIMF, 2001]
+Diseminación:
+Expansión de la distribución geográfica de una plaga dentro de un área [FAO, 1995]
+enfoque(s) de sistemas:
+Integración de diferentes medidas de manejo de riesgos de plagas de las cuales, al menos dos de ellas actúan independientemente logrando, como efecto acumulativo, el nivel apropiado de protección fitosanitaria [NIMF Pub. Nº 14, 2002]
+entrada (de una plaga):
+Movimiento de una plaga hacia el interior de un área donde todavía no está presente, o si está presente, no está extendida y se encuentra bajo control oficial [FAO, 1995]
+Envío:
+Cantidad de plantas, productos vegetales y/u otros artículos que se movilizan de un país a otro, y que están amparados, en caso necesario, por un solo Certificado Fitosanitario (el envío puede estar compuesto por uno o más productos básicos o lotes) [FAO, 1990; revisado CIMF, 2001]
+establecimiento:
+Perpetuación, para el futuro previsible, de una plaga dentro de un área después de su entrada [FAO, 1990; revisado FAO, 1995; CIPF, 1997; anteriormente Establecida]
+evaluación del riesgo de plagas (para plagas cuarentenarias):
+Evaluación de la probabilidad de introducción y diseminación de una plaga y de las posibles consecuencias económicas asociadas [FAO, 1995; revisado NIMF Pub. Nº 11, 2001]
+Introducción:
+Entrada de una plaga que resulta en su establecimiento [FAO, 1990; revisado FAO, 1995; CIPF, 1997]
+Inspección:
+Examen visual oficial de plantas, productos vegetales u otros artículos reglamentados para determinar si hay plagas y/o determinar el cumplimiento con las reglamentaciones fitosanitarias [FAO 1990; Revisado FAO 1995; anteriormente inspeccionar].
+Lote:
+Conjunto de unidades de un solo producto básico, identificable por su composición homogénea, origen, etc., que forma parte de un envío [FAO, 1990]
+manejo de riesgos de plagas (para plagas cuarentenarias):
+Evaluación y selección de opciones para reducir el riesgo de introducción y diseminación de una plaga [FAO, 1995; revisado NIMF Pub. Nº 11, 2001]
+medida fitosanitaria (interpretación convenida):
+Cualquier legislación, reglamento o procedimiento oficial que tenga el propósito de prevenir la introducción y/o diseminación de plagas cuarentenarias, o de limitar las repercusiones económicas de las plagas no cuarentenarias reglamentadas [FAO, 1995; revisado CIPF, 1997; CIN, 2001]
+La interpretación convenida del término medida fitosanitaria da cuenta de la relación entre las medidas fitosanitarias y las plagas no cuarentenarias reglamentadas. Esta relación no se refleja de forma adecuada en la definición que ofrece el Artículo II de la CIPF (1997).
+Oficial:
+Establecido, autorizado o ejecutado por una Organización Nacional de Protección Fitosanitaria [FAO, 1990]
+ONPF:
+Organización Nacional de Protección Fitosanitaria [FAO, 1990; revisado CIMF, 2001]
+Organización Nacional de Protección Fitosanitaria:
+Servicio oficial establecido por un gobierno para desempeñar las funciones especificadas por la CIPF [FAO, 1990; anteriormente Organización nacional de protección de las plantas]
+país de origen (de un envío de productos vegetales):
+País donde se han cultivado las plantas de donde provienen los productos vegetales [FAO, 1990; revisado CEMF, 1996; CEMF, 1999]
+Plaga:
+Cualquier especie, raza o biotipo vegetal o animal o agente patógeno dañino para las plantas o productos vegetales [FAO, 1990; revisado FAO, 1995; CIPF, 1997]
+plaga cuarentenaria:
+Plaga de importancia económica potencial para el área en peligro aun cuando la plaga no exista o, si existe, no está extendida y se encuentra bajo control oficial [FAO, 1990; revisado FAO, 1995; CIPF, 1997]
+procedimiento fitosanitario:
+Cualquier método prescrito oficialmente la aplicación de reglamentación fitosanitaria, incluida la realización de inspecciones, pruebas, vigilancia o tratamientos en relación con las plagas reglamentadas [FAO, 1990; revisado FAO, 1995; CEMF, 1999; CIMF, 2001]
+producto básico:
+Tipo de planta, producto vegetal u otro artículo que se moviliza con fines comerciales u otros propósitos [FAO, 1990; revisado CIMF, 2001]
+Prueba:
+Examen oficial, no visual, para determinar si  plagas presentes o para identificar tales plagas [FAO, 1990]
+punto de control:
+Una etapa en un sistema a la cual pueden aplicarse procedimientos específicos para lograr un resultado determinado que puede ser medido, verificado, controlado y corregido [NIMF Pub. N° 14, 2002]
+reglamentación fitosanitaria:
+Norma oficial para prevenir la introducción y/o diseminación de las plagas cuarentenarias o para limitar las repercusiones económicas de las plagas no cuarentenarias reglamentadas, incluido el establecimiento de procedimientos para la certificación fitosanitaria [FAO, 1990; revisado FAO, 1995; CEMF, 1999; CIMF, 2001]
+Tratamiento:
+Procedimiento autorizado oficialmente para matar o eliminar plagas o para esterilizarlas [FAO, 1990; revisado FAO, 1995]
+Trazabilidad: (*)
+Característica de un envío que permite conocer todos los pasos que ha cumplido el mismo al transitar la cadena producción-comercialización.
+Vía:
+Cualquier medio que permita la entrada o diseminación de una plaga [FAO, 1990; revisado FAO, 1995]
+
+(*) término nuevo
+
+1.	Objetivo
+
+Establecer un  enfoque de sistemas que combina medidas de manejo del riesgo de X.axonopodis pv. citri, para satisfacer el nivel de protección fitosanitaria requerido por la parte importadora para la cual ésta plaga es de importancia cuarentenaria. El enfoque de sistemas ofrece,  una alternativa al uso de un solo procedimiento o reemplaza medidas más restrictivas. El sistema considera procedimientos de precosecha y postcosecha  que contribuyen a la eficacia del manejo de riesgos de la plaga.
+
+2.	Relación entre la evaluación del riesgo de la plaga y las medidas de manejo de riesgo.
+
+En base a  las conclusiones de la evaluación de riesgos de X. axonopodis pv. citri para la fruta cítrica como única vía de ingreso, se analizo el manejo del riesgo de la plaga en frutas cítricas provenientes de áreas donde la plaga está presente, considerando una  combinación de medidas fitosanitarias que puedan aplicarse en el país exportador.
+
+Para poder implementar este sistema las ONPFs deberán poseer un sistema de vigilancia, a los efectos de evaluar la situación de la enfermedad en cada lugar y sitio de producción.
+
+A continuación se identifican las medidas fitosanitarias para el manejo del riesgo:
+
+      2.1 Precosecha
+
+* Medidas de manejo del cultivo: Elección de variedades de mejor comportamiento, tratamientos químicos preventivos, medidas en árboles infectados, remoción de frutos infectados, manejo integrado del minador de la hoja de los cítricos y medidas culturales.
+* Habilitación de cosecha.
+
+      2.2 Poscosecha
+
+* Selección de frutos infectados.
+* Tratamiento poscosecha.
+* Habilitación de envíos para exportación.
+
+3. Eficacia de Medidas
+
+El enfoque de sistema puede ser desarrollado o evaluarse de manera cuantitativa o cualitativa o una combinación de ambas. En este caso se evalúa la eficacia de las medidas en precosecha y poscosecha.
+
+      3.1 Precosecha
+
+Incluye las medidas que podrían ser implementadas por el país exportador hasta la cosecha de los frutos.
+
+         3.1.1 Medidas de manejo del cultivo
+
+	Sobre la base de la información obtenida a partir de los programas de vigilancia, desde donde se obtiene el nivel de la plaga en un área y teniendo en cuenta las condiciones climáticas durante los estados fenológicos mas favorables para la ocurrencia de la enfermedad, se determinan las medidas de manejo mas adecuadas para cada situación,  que pueden ser las siguientes o combinación de las mismas:
+
+Elección de variedades : Existen cultivares los cuales han demostrado diferencias significativas de susceptibilidad a la enfermedad tanto en follaje como en fruto, pudiendo a través de las mismas obtener una mejor condición fitosanitaria en el cultivo.
+
+Medidas en árboles infectados: Medidas tales como poda, defoliación o remoción de árboles y adicionalmente remoción de frutos  con síntomas, pueden ser aplicables según la situación de la plaga en un área, tendientes a reducir el inóculo disponible.
+
+Tratamientos químicos preventivos en el cultivo:
+Estos tratamientos pueden ser realizados a través de pulverizaciones con productos fitosanitarios adecuados, para proteger las brotaciones nuevas de las plantas  y los frutos de la infección de la plaga.
+
+Manejo integrado del minador de los cítricos:
+El manejo integrado del minador de la hoja se realiza a través del control  químico y biológico, a los efectos de bajar la cantidad de lesiones provocadas por el mismo, para evitar la entrada de la bacteria a través de esas lesiones..
+
+Medidas culturales: Medidas tales como cortinas rompeviento, poda, riego, fertilización adecuada para evitar gran cantidad de brotaciones , manejo de entrefila, medidas desinfección ( entra a los predios, personas, herramientas, equipos, etc) pueden ser aplicables con el objetivo de crear condiciones menos favorables para el desarrollo de la infección.
+
+3.1.2 Habilitación para la cosecha del sitio de producción
+
+Se realizará una inspección previa a la cosecha con el objetivo de determinar la incidencia de la fruta afectada en el sitio de producción. El índice de incidencia esta determinado por la cantidad de fruta afectada sobre la cantidad de fruta total estimada.
+
+Con una incidencia de fruta afectada menor o igual  al 1% se habilita la cosecha para el procesamiento en planta de empaque registrada para exportación.
+
+
+3.2 Postcosecha
+
+Incluye las medidas que podrían ser implementadas por el país exportador desde la cosecha de los frutos hasta el embarque.
+
+3.2.1. Selección de frutos infectados
+
+Esta actividad se verifica mediante la inspección oficial en todas las etapas de selección de la planta de empaque.
+
+3.2.2 Tratamiento poscosecha
+
+Se controla el cumplimiento del tratamiento requerido en los tiempos y en las dosis recomendadas. Las opciones son:
+
+Inmersión con Hipoclorito de Sodio a 200 ppm, pH 7.0 durante dos  minutos.
+o
+Inmersión en SOPP no jabonosa al 2% durante un minuto
+o
+Lavado por 45 segundos con una formulación jabonosa de SOPP.
+
+3.2.3  Habilitación de envíos para exportación
+
+Se realiza una inspección mediante un muestreo representativo de cajas de la partida a fin de determinar la ausencia de fruta sintomática en las mismas.
+
+La cantidad de cajas a evaluar es: una caja por pallet de fruta procesada. (1%).
+
+
+4. Puntos de Control
+
+Con el fin de controlar el cumplimiento de las medidas mencionadas se identifican como puntos de control: sitio de producción y la planta de empaque.
+
+5. Sistema de Certificación Fitosanitaria:
+
+El sistema de certificación se sustenta en la utilización de la trazabilidad como una herramienta necesaria para asegurar el origen de la fruta a comercializar, permitiendo conocer en las distintas etapas del proceso de producción, si la misma ha cumplido con las exigencias requeridas.
+
+
+Los componentes del sistema, enumerados secuencialmente son:
+
+1. Registro de productores, lugares y sitios de producción.
+2. Inspecciones precosecha para comprobar el cumplimiento de los niveles de incidencia exigidos para acceder a la habilitación de cosecha.
+3. Habilitación de Cosecha.
+4. Identificación de los envases de cosecha.
+5. Documento de transito / Remito.
+6. Registro de las plantas de empaque.
+7. Inspecciones en las plantas de empaque para habilitación de exportación de los envíos y certificación del tratamiento poscosecha.
+8. Identificación de pallets.
+9. Verificación de los envíos en el punto de egreso y emisión del
+Certificado Fitosanitario.
+10
+
+
+3

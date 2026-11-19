@@ -1,0 +1,6933 @@
+Resolución GMC N° 06/95
+Título: ACUERDO DE ASIGNACIÓN Y USO DE LAS ESTACIONES GENERADORAS Y REPETIDORAS DE TELEVISION
+Fecha de aprobación: 31/03/1995
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24515_RES_006-1995_ES_AcuEstaRepTV.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1817).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 06/95
+
+
+ACUERDO DE ASIGNACIÓN Y USO DE LAS ESTACIONES GENERADORAS
+Y REPETIDORAS DE TELEVISION
+
+     VISTO: El Art. 13 del Tratado de Asunción, la Decisión N° 4/91 del Consejo Mercado Común y la Recomendación N° 48/94 del SGT N° 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que es necesario contar con un instrumento MERCOSUR para el uso de las Estaciones generadoras y repetidoras de TV en la banda de VHF.
+
+EL GRUPO MERCADO COMÚN RESUELVE:
+
+Art. 1 - Aprobar el "Acuerdo entre los gobiernos de la República Argentina, de la República Federativa del Brasil, de la República del Paraguay y de la República Oriental del Uruguay para la coordinación a los efectos de la asignación y el uso de las estaciones generadoras y repetidoras de televisión en los canales de televisión atribuidos al servicio de radiodifusión en la ba
+nda de VHF" anexo a la presente Resolución.
+
+Art. 2 - Los Estados Partes adoptarán los medidas necesarias para la Protocolarización en ALADI del Acuerdo que consta en el Anexo de la presente, con la modalidad de Acuerdo de Alcance Parcial de Facilitación.
+
+
+XVII GMC - Asunción, 31/III/95
+
+
+CONTENIDO
+- ACUERDO
+- ANEXO I (ESPECIFICACIONES TÉCNICAS)
+
+- APÉNDICE 1 (LISTA DE CANALES)
+- APÉNDICE 2 (FORMULARIO)
+- APÉNDICE 3 (CURVAS DE PROPAGACIÓN)
+FIG. 1 - F (50,50) FIG.2-F(50,10)
+-ANEXO II (LISTADO DE ADMINISTRACIONES)
+
+ACUERDO PREAMBULO
+
+Los Gobiernos de la República Argentina, de la República Federativa del Brasil, de la República del Paraguay y de la República Oriental del Uruguay, considerando la necesidad de asegurar el desarrollo y la optimización en el uso del Espectro Radioeléctrico en zonas de Compartición Limítrofes, impulsando las nuevas tecnologías y criterios técnicos para el mayor bienestar común de los pueblos e integración de los mismos, DECIDEN celebrar el presente Acuerdo para el Servicio de Radiodifusión de Televisión en las bandas de VHF.
+
+ARTICULO I OBJETO DEL ACUERDO
+
+El presente Acuerdo tiene por objeto la coordinación y uso por las estaciones generadoras y repetidoras de televisión, de los canales atribuidos al Servicio de Radiodifusión en las zonas de coordinación establecidas en el presente Acuerdo.
+
+ARTICULO II DEFINICIONES
+
+1- Administración: Es el organismo gubernamental de telecomunicaciones de cada país responsable del cumplimiento de las obligaciones del Convenio Internacional  de Telecomunicaciones y competente  para  intervenir en  el presente Acuerdo.
+2-
+3- Zona de Coordinación: Area geográfica dentro de la cual, los firmantes se obligan a condicionar la instalación y operación de servicios de radiodifusión, al cumplimiento de las disposiciones de este Acuerdo.
+
+
+3- Estación   Generadora   o   Repetidora   de   Televisión:   es   la   estación  radioeléctrica capaz de generar o retrasmitir señales de televisión para su recepción por el público en general.
+
+4- Contorno   de   Protección:    Línea   que   delimita   la   zona   geográfica
+correspondiente al área primaria de servicio de una estación, cuyo centro se
+ubica en la posición de la antena transmisora y su radio en kilómetros (km), se
+determina por los parámetros técnicos de la estación.
+5-	Area Primaria de Servicio: Area geográfica en la cual la relación de
+protección es igualada o excedida.
+6. Relación de Protección: Valor mínimo, generalmente expresado en decibeles, de la relación entre la señal deseada y la señal no deseada a la entrada del receptor, que permite obtener una calidad de recepción especificada de la señal deseada a la salida del receptor.
+7- Potencia Radiada Efectiva (PRE): Es la potencia suministrada a la antena
+multiplicada por su ganancia en una dirección dada. Para su determinación
+deberán considerarse las pérdidas de la línea de transmisión y del sistema de
+adaptación del transmisor a la antena.
+8- Altura Media de la Antena (HMA): Es la que corresponde a la altura del
+centro de radiación sobre la alt
+9- ura media del terreno (HMT), ambas referidas a
+la cota cero (Ho).
+10- Los términos y símbolos utilizados en el presente Acuerdo no definidos en el
+mismo,   serán   interpretados   según   las   definiciones   del   Reglamento   de
+Radiocomunicaciones (RR) y demás disposiciones pertinentes de la Unión
+Internacional de
+11-  Telecomunicaciones (UIT).
+ARTICULO III ZONAS DE COORDINACIÓN
+1- A los efectos de este Acuerdo, se establecen zonas de coordinación constituidas por franjas geográficas según el tipo de límite, cuya anchura respecto al territorio de cada uno de los países, será medido en la dirección de cada país a partir del punto que se indicará según el límite que corresponda, conforme a cada clase de estación:
+
+- Límite terrestre: el ancho de la franja será medido desde dicho límite.
+- Límite lacustre, fluvial o marítimo: el ancho de la franja será medida desde la
+costa del país vecino.
+2- La ubicación de la estación se determinará por la localización de la antena transmisora.
+ARTICULO IV PROTECCIÓN
+A los efectos de la compartición de los canales objeto del presente Acuerdo, las Partes establecen los criterios de protección para cada clase de estación, que se detallan en el Anexo I.
+ARTICULO V CLASIFICACIÓN DE LAS ESTACIONES
+1- Las Partes establecen que la clasificación de las estaciones se hará según
+sus requisitos máximos equivalentes que constan en el Anexo I.
+2- Las asignaciones que figuran en el Apéndice 1 y que sobrepasen los límites
+máximos establecidos para la clase A se considerarán como excepciones
+reconocidas en este Acuerdo.
+
+3- Cualquier   nueva   asignación   o   modificación   dentro   de   la   zona   de
+coordinación no deberá sobrepasar los requisitos máximos establecidos para la
+clase A.
+4- Las eventuales  modificaciones de  las características técnicas de  las
+estaciones,  consideradas como excepciones en el  presente Acuerdo,  no
+significarán un aumento del nivel de la señal interferente, a menos que medie
+consentimiento expreso de los involucrados en la Coordinación.
+3-
+ARTICULO VI LISTA DE ASIGNACIÓN DE CANALES
+1-	Las Partes convienen en confeccionar las listas de canales de televisión
+asignados por cada país que se incorporan como Apéndice 1 al presente
+Acuerdo, en los cuales constará la mayor cantidad de datos que identifiquen a
+la estación, conforme al Apéndice 2.
+2-	Se   podrán   realizar   nuevas   asignaciones   o   modificaciones   de   las
+características técnicas de las estaciones incluidas en el Apéndice 1, de
+conformidad con las disposiciones del presente Acuerdo.
+3-	Las Partes, acuerdan respetar los contornos de protección de las estaciones
+que constan en el Apéndice 1, frente a las solicitudes de modificación de las
+mismas o incorporación de nuevas estaciones.
+Las peticiones que se realicen en este sentido, serán consideradas siempre y cuando no afecten lo previsto en el presente Acuerdo, a menos que medie consentimiento expreso de los involucrados en la Coordinación.
+ARTICULO Vil PROCEDIMIENTO DE NOTIFICACIÓN Y CONSULTA
+1- En la zona de coordinación cualquier nueva asignación o modificación de las
+características técnicas de una estación, deberá ser notificada a la o las
+Administraciones de los países que pudieran ser afectadas por la nueva
+asignación o modificación, enviando los datos requeridos en el Apéndice 2.
+2- Las Administraciones que pudieran resultar afectadas dispondrán de un
+plazo máximo de sesenta (60) días corridos,  para formular su oposición
+técnicamente fundada, a la nueva asignación o modificación. Este plazo se
+contará según el medio de comunicación empleado, desde la fecha de acuse
+de recibo.
+3- Si existiera oposición -formulada en el plazo correspondiente- no podrá
+realizarse la asignación o modificación, hasta tanto se llegue a un acuerdo con
+las Administraciones que se opusieran.
+
+Yo
+
+4-	En caso de no existir oposición o haber transcurrido el plazo mencionado en
+el punto 2 del presente artículo, la Administración interesada quedará habilitada
+para   realizar  la   nueva  asignación  o  modificación  de  que  se  trata,   de
+conformidad con lo establecido en el presente Acuerdo.
+Sin perjuicio de ello, la Administración notificante remitirá a los restantes países los datos requeridos en el Apéndice 2.
+5-	Si una estación perteneciente a alguna de las Administraciones causare
+interferencias  perjudiciales  dentro  del  área  primaria  de  servicio  de  otra
+estación,   la Administración  de  la  estación  que  se  considere  interferida,
+notificará tal hecho a la Administración de la estación interferente, indicando las
+características   técnicas   y   datos   establecidos   en   el   Reglamento   de
+Radiocomunicaciones (RR) en vigor.
+En este caso, la Administración responsable deberá adoptar inmediatamente las medidas necesarias para eliminar las interferencias perjudiciales.
+6-	A fin de facilitar la aplicación de los procedimientos las Partes interesadas
+podrán utilizar métodos alternativos, para acordar estaciones de la forma más
+equitativa posible.
+ARTICULO VIII SOLUCIÓN DE CONTROVERSIAS
+Las controversias que surjan entre los Estados Partes con motivo de la aplicación, interpretación o incumplimiento de las disposiciones contenidas en el presente Acuerdo serán resueltas mediante negociaciones directas.
+Si mediante tales negociaciones no se alcanzare un acuerdo o si la controversia fuera solucionada sólo en parte, se aplicarán los procedimientos previstos en el sistema de solución de controversias vigente entre los Estados Partes del Tratado de Asunción.
+
+ARTICULO IX COOPERACIÓN E INTERCAMBIO DE INFORMACIÓN
+1- Con el propósito de establecer un sistema de consulta permanente, las
+Partes se comprometen por intermedio de sus respectivas Administraciones, a
+intercambiar información y cooperar entre si con el objeto de reducir al mínimo
+las interferencias perjudiciales y obtener la máxima eficiencia en el uso del
+espectro radioeléctrico.
+2- A efectos de asegurar el cumplimiento del presente Acuerdo y a la vez
+optimizar la adecuación de las normas técnicas, las Administraciones de ser
+necesario, coordinarán la realización de   mediciones de campo de carácter
+conjunto.
+ARTICULO X REUNIONES PERIÓDICAS
+Con el objeto de analizar la evolución de la ejecución del presente Acuerdo, las Partes convienen que sus respectivas Administraciones realicen reuniones ordinarias, al menos una vez cada año, pudiéndose realizar reuniones extraordinarias cuando las circunstancias así lo aconsejasen o a pedido de una de ellas.
+La sede de las reuniones ordinarias será rotativa. El Estado Sede de la misma, tendrá a su cargo la organización y convocatoria de la reunión. Estas reuniones serán precedidas por el intercambio de información correspondiente, con una antelación mínima de treinta (30) días.
+                       ARTICULO XI NOTIFICACIONES E INTERCAMBIO DE CORRESPONDENCIA
+El intercambio de correspondencia y las notificaciones a que se refiere el Artículo Vil, que se realicen en virtud del presente Acuerdo, deberán ser dirigidas a las respectivas Administraciones y a las direcciones que se indican en el Anexo II, las cuales se considerarán válidas, en tanto no exista comunicación en contrario.
+
+ARTICULO XII ENTRADA EN VIGOR
+El presente Acuerdo entrará en vigor a partir de Ia fecha de su suscripción por los cuatro Estados Partes en el ámbito de Ia ALADI.
+ARTICULO XIII ADHESION
+El presente Acuerdo estará abierto a la adhesión mediante negociación, de los países miembros de ALADI.
+ARTICULO XIV
+Las enmiendas al presente Acuerdo y la reglamentación de los aspectos técnicos inherentes al acuerdo serán convenidas por consenso por los cuatro Estados Partes e instrumentados jurídicamente mediante la suscripción de Protocolos Adicionales.
+ARTICULO XV DISPOSICIONES TRANSITORIAS
+1- Las listas de canales que se incorporan como Apéndice 1, listas abiertas de estaciones coordinadas 1a) y listas cerradas de estaciones pendientes de coordinación 1b), pasarán a formar parte integrante del presente Acuerdo.
+Las nuevas asignaciones se notificarán, coordinarán y luego de coordinadas pasarán a formar parte del Apéndice 1a).
+Hecho,  en  	,  República  	  a  los
+	   días  del   mes  de  	   de  mil   novecientos  noventa  y
+	 en un ejemplar original, en los idiomas español y portugués,
+siendo ambos textos igualmente auténticos.
+
+ANEXO I
+ESPECIFICACroNFS'TECNiCAS
+
+
+y
+
+¿Mr
+
+I
+.- ZONAS DE COORDINACIÓN
+Ancho de la franja de coordinación para las distintas clases de estaciones:
+
+- clase A:
+- clase B:
+- clase C:
+
+376 km. 303 km. 241 km.
+
+NOTA: Las distancias indicadas en la zona de coordinación para las distintas clases de estaciones, se han determinado mediante el uso de las curvas 50/50 y 50/10, para calcular los contornos de protección e interferentes respectivamente.
+n CANALIZACIÓN
+Los canales de televisión comprendidos en las bandas de 54 a 88 MHz y 174 a 216 MHz. atribuidas al servicio de radiodifusión, están especificados en la Tabla 1.
+TABLA 1
+
+
+n
+n
+n
+n
+n
+n
+
+10
+11
+12
+13
+
+54-60
+60-66
+66-72
+76-82
+82-88
+174- 180
+180-186
+186- 192
+192- 198
+198-204
+204 - 210
+210-216
+
+55,25
+61,25
+67,25
+77,25
+83.25
+175,25
+181,25
+187,25
+193,25
+199,25
+205,25
+204,25
+
+59,75
+65,75
+71,75
+81,75
+87,75
+179,75
+185,75
+191,75
+197,75
+203,75
+209,75
+215,75
+
+
+10
+
+HI - PROTECCIÓN
+1.- Intensidad de campo minima a proteger
+Banda I: canales 2 al   6 : 47 dBjiV/m Banda II: canales 7 al 13 : 56 dBuV/m
+NOTA: Condiciones de Medición:    Los valores indicados se especifican sobre la base de una antena receptora ubicada a la altura de 9 m sobre el nivel del suelo.
+2.- Relaciones de Protección
+ Portadoras a 0 kHz      : 40 dB Portadoras a +/- 10 kHz : 26 dB
+Canal adyacente:
+Inferior y superior        : -10 dB.
+3.- Para fines de planificación de estaciones isocanales y a efectos de optimizar la compartición del espectro como un aspecto importante de la utilización eficaz del mismo, las Administraciones podrán de común acuerdo y en uso pleno de sus potestades soberanas, considerar el uso de osciladores de precisión, con las consiguientes mejoras en las relaciones de protección, basando sus criterios de aplicación en la Recomendación N° 655 de la Oficina de Radiocomunicaciones (ex-CCIR), de la Unión Internacional de Telecomunicaciones (U.I.T.) y sus actualizaciones.
+La futura planificación bajo estas condiciones, no implicará modificación de las situaciones existentes, salvo expreso acuerdo de las Partes.
+4.- Se considera una reducción de 10 dB en la relación de protección en el caso de utilizar polarización cruzada.
+5.- En el caso de utilizarse antenas direccionales, se considerará una relación frente-espalda de
+hasta 14 dB.		■■ -
+
+rV- CLASIFICACIÓN DI LAS ESTACIONES
+Las estaciones están clasificadas según sus requisitos máximos conforme se indican en la Tabla 2.
+
+■J
+
+
+11
+
+Mlif
+
+TABLA 2
+REQUISITOS MÁXIMOS EQUIVALENTES (BANDAIyU)
+
+
+Notas:
+1.- La potencia radiada efectiva (PRE) y la altura media de la antena (HMA) deberán ser seleccionadas de tal forma que en el contomo de protección de una estación se aseguren las relaciones de protección establecidas en el presente Anexo, respecto a un canal asignado a otro pais.
+2.- Podrán ser utilizados valores de potencias y alturas de antena diferentes de los aqui especificados, con la condición de que los contomos resultantes de estos valores no excedan los especificados en las columnas (4) y (6) de la Tabla 2.
+V- PREDICCIÓN DEL CONTORNO DE PROTECCIÓN Y DE INTERFERENCIAS
+I-Para la predicción de los contomos de protección y de interferencias serán utilizadas las curvas de las figuras 1 y 2 del Apéndice 3, las cuales permiten obtener la intensidad de campo de la señal. Las curvas de las referidas figuras fueron elaboradas en base a una potencia radiada efectiva (PRE) en el plano horizontal de 1 kW con polarización horizontal y con una antena receptora ubicada a 9 metros de altura .
+Cuando el contorno de protección sobrepase las fronteras de un pais, se considerará que la línea del contomo de protección coincide con el límite internacional establecido.
+2-Para obtener en los gráficos de las figuras 1 y 2 del Apéndice 3 la intensidad de campo que se produce a una determinada distancia, con una potencia radiada efectiva (PRE) diferente de 1 kW . se deberá calcular la relación en decibeüos, existente entre la potencia por considerar y la de 1 kW y luego sumarlas al valor de intensidad de campo en dBu,V/m para una altura media de antena (HMA) determinada.
+
+
+1 Ec + 10 log io Pu Pr
+
+E = Intensidad de campo resultante (dB^V/m) Ec = Intensidad de campo de referencia(dBu,V/m) Pr = Potencia de referencia (1 kW.) Pu = Potencia utilizada (en kW.)
+
+12
+
+■78
+{
+<
+3.- La altura media de la antena (HMA) transmisora a emplear en las predicciones descriptas en los párrafos anteriores, será la altura del centro de radiación de la antena sobre la altura media del terreno (HMT), ambas referidas a la cota cero (Ho).
+La altura media del terreno (HMT) se determinará en el área comprendida entre los circuios de 3 y 15 km de radio , con centro en la antena transmisora y calculando la media de las altitudes a lo largo de 8 radiales igualmente espaciados uno de los cuales estará dirigido hacia el norte geográfico. Deberá ser levantado el mayor número de cotas en cada radial (por lo menos doce), tomando como cota cero la que corresponde al nivel del mar.
+                          HMA " Ho + Ha - Hmt HMA = Altura media de la antena.
+Ho = Cota del terreno en el punto de emplazamiento de la antena transmisora.
+Ha = Altura del centro de radiación de la antena.
+Hmt = Altura media del terreno.	_a
+
+4.- En regiones cuyos radiales se extiendan sobre terreno irregular o a través de grandes superficies de agua y para el caso de estaciones que irradien con antena direccional, se tomarán en cuenta exclusivamente los radiales correspondientes a aquellas zonas donde se espera prestar el servicio de televisión.
+A este fin se considerará que los radiales están separados entre sí un ángulo de 30 grados. No se tomarán en cuenta aquellas direcciones donde la ganancia de la antena está atenuada en más de 6 decibelios con respecto al valor máximo.
+5- Cálculo de pérdida por obstrucción.
+Se realizarán,  en caso de que así corresponda, evaluaciones conjuntas entre las  partes
+involucradas.
+VI- SEPARACIÓN ENTRE ESTACIONES
+
+
+A efectos de compatibilizar la operación de los canales, se deberá verificar una separación minima entre las estaciones, calculada en cada caso, tomando en consideración las correspondientes PRE y HMA y las relaciones de protección establecidas en este Anexo.
+
+13
+
+
+         ANEXO I ESPECIFICAÇÕES TÉCNICAS
+I. ZONAS DE COORDENAÇÃO
+Largura da faixa de coordenação para as distintas classes de estação:
+- classe A: 376 km
+- classe B: 303 km
+- classe C: 241 km
+NOTA: As distâncias indicadas na zona de coordenação para as diferentes classes de estações foram determinadas mediante o uso das curvas 50/50 e 50/10, para calcular contornos de proteção e interferentes respectivamente.
+H. CANALIZAÇÃO
+Os canais de televisão compreendidos nas faixas de 54 a 88 MHz e 174 a 216 MHz, atribuídas ao serviço de radiodifusão, estão especificados na Tabela 1.
+TABELA 1
+
+BANDA
+CANAL
+. EKEQP&tffCrAS . ,EXIK&MAS'..'
+vJBHBStSíV-•
+>:cr.¡^UWit>'."/
+JPpftTADOHAJ&E  .
+I
+- 2
+54-60
+55,25
+59,75
+I
+3
+60-66
+61,25
+65,75
+I
+4
+66-72
+67,25
+71,75
+I
+5
+76-82
+77,25
+81,75
+I
+6
+82-88
+83,25
+87,75
+II
+7
+174-180
+175,25
+179,75
+n
+8
+180- 186
+181,25
+'     185,75
+n
+9
+186-192
+187,25
+191,75
+n
+10
+192- 198
+193,25
+197,75
+ii
+11
+198 - 204
+199,25
+203,75
+n
+12
+204 - 210
+205,25
+209,75
+n
+13
+210-216
+211,25
+215,75
+
+
+17
+
+III. PROTEÇÃO
+1. Intensidade mínima de campo a proteger Banda I:    canais 2 a 6 : 47 dBjiV/m Banda II:   canais 7 a 13:
+
+NOTA: Condições de medições: Os valores indicados se especificam sobre a base efe urna antena receptora localizada a urna altura de 9m sobre o nivel do solo.
+2.	Relações de Proteção
+"üocanal:
+Portadoras a 0 kHz: 40 dB Portadoras a ± 10 kHz: 26 dB Canal adjacente:
+Inferior e superior: -10 dB
+3.	Para fins de planificação de estações cocanais e com o propósito de qtimizar
+o compartilhamento do espectro como um aspecto importante da utilização
+eficaz do mesmo, as Administrações poderão, de comum acordo, e no uso
+pleno de seus poderes soberanos, considerar o uso de osciladores de
+precisão, com as consequentes melhorias nas relações de proteção, baseando
+seus critérios de aplicação na recomendação n° 655 do Escritório de
+Radiocomunicações (ex CCIR) da União Internacional de Telecomunicações
+(UIT) e suas atualizações.
+A   futura   planificação   com   base   nestas   condições   não   implicará   em modificações de situações existentes, salvo expresso acordo das partes.
+4. Considerar-se-á uma redução de 10 dB na relação de proteção quando for
+utilizada polarização cruzada.
+5. No caso de se utilizar antenas direcionais será considerada uma relação
+frente-costa de até 14 dB.
+
+
+18
+
+9\
+IV. CLASSIFICAÇÃO DAS ESTAÇÕES
+As estações estáo classificadas segundo seus requisitos máximos, conforme está indicado na Tabela 2.
+TABELA 2
+(BANDA I e II)
+
+
+Notas:
+1. A potência efetiya irradiada (ERP) e a altura média da antena (HMA)
+deverão ser selecionadas de tal forma que no contorno de proteção de uma
+estação sejam asseguradas as relações cie proteção estabelecidas no presente
+Anexo, com relação a um canal consignado a outro país.
+2. Poderão ser utilizados valores de potencias e alturas de antena diferentes dos
+aqui especificados, com a condição de que os contornos resultantes destes
+valores não excedam aos especificados nas colunas (4) e (6) da Tabela 2.
+1.
+
+
+19
+
+
+V. PREDIÇÃO DOS CONTORNOS PROTEGIDOS E INTERFERENTES
+1.	Para a predição dos contornos protegidos e interferentes serão utilizadas as
+curvas das figuras 1 e 2 do    APÊNDICE 3, as quais permitem obter a
+intensidade de campo do sinal. As curvas das  referidas  figuras foram
+elaboradas com base em uma potência efetiva irradiada (ERP) no plano
+horizontal de 1 kW, polarização horizontal e uma antena receptora localizada
+a 9ra de altura.
+Quando o contorno protegido ultrapassar as fronteiras de um país, será considerado que a finha do contorno protegido coincide com o limite internacional estabelecido.
+2.	Pará'se obter, nos gráficos das figuras 1 e 2 do APÊNDICE 3, a intensidade
+de campo que se produz a uma determinada distância, com uma potência
+efetiva irradiada (ERP) diferente de 1 kW, se deverá calcular a relação, em
+decibéis, existente entre a potência por considerar e a de 1 kW e somá-la do
+valor de intensidade de campo, em dBu, para uma determinada altura média
+da antena (HMA).
+E = Ec - 10 log (Pu / Pr)
+E = Intensidade de campo resultante. (dBu,V/m)
+Ec = Intensidade de campo de referencia, para uma potência de 1 Kw,.(dBji V/m)
+Pr = Potência de referência (1 Kw) Pu = Potência utilizada (Kw)
+3.	A altura média da antena transmissora (HMA) a ser empregada nas predições
+descritas nos parágrafos anteriores será a altura do centro de irradiação da
+antena sobre o nível médio do terreno (HMT), ambas referidas à cota zero.
+A altura média do terreno (HMT) se determinará na área compreendida entre dois círculos de 3 e 15 km de raio, com centro na antena transmissora, e calculando a média das altitudes ao longo de 8 radiais igualmente espaçadas, uma das quais estará dirigida para o norte geográfico. Deverá ser levantado o maior número possível ae cotas em cada radial (no mínimo 12), tomando como cota zero a correspondente à do nível do mar.
+HMA = Ho + Ha - Hmt
+HMA = Altura média da antena
+Ho = Cota do terreno no ponto de localização da antena transmissora
+Ha = Altura do centro "de irradiação da antena
+Hmt = Altura média do terreno
+4.	Em regiões cujas radiais se estenderem em  terreno irregular pu através de
+grandes superfícies de água e para o caso de estações que irradiem com
+antena  direcional,   seráo  levadas  em  conta,   exclusivamente,   as  radiais
+correspondentes àquelas zonas onde se espera prestar o serviço de televisão.
+
+Com este fim, será considerado que as radiais esteiam separadas entre si por um ângulo de 30°. Nâo se levarão em conta aquelas direções onde o ganho da antena está atenuado em mais de 6 dB com respeito ao valor máximo.
+
+20
+V
+
+5.   Cálculo de Perda por Obstrução
+Serão realizadas, quando for o caso, avaliações conjuntas entre as partes envolvidas.
+VI. SEPARAÇÃO ENTRE ESTAÇÕES
+Para compatibilizar a operação dos canais de VHF as estações deverão estar separadas por uma distância mínima, calculada em cada caso, considerando-se as correspondentes PRE e HMA, e as relações de proteção neste Anexo.
+
+
+I 3
+
+21
+
+APÉNDICE 1
+
+
+y/
+
+APÉNDICE 1
+PARTE. A
+
+
+Observaciones
+REDUCCIOX Pf J it P/AIECREIE
+REDUCCIOX DE t it P/T0UM6
+flOUCCIOX OE J dl KAflA ASl'KCIOK
+         APCKOICE I - USIA A ESIACIOHES "RCEXIIXAS Ot IV EK VHF EX /OKA DE COORDINACIÓN (OK 8AASII
+Verif.
+PioJni Ka. !S/04/94
+
+
+PRC WIA    latitud
+longitud              Estado
+localidad
+Canal
+("") (•)      (Sud)
+(Oeste)      Operativo/Piai
+" Provincia/Estado: CORRIENKS
+
+57! 20'     A   /
+HA MATE
+02
+1.000   iO 279 24•
+
+
+ESQUÍ HA
+OJ
+1.000   iO J09 00'
+51! JI' /•■*<-'¿
+57! S?"                ( 589 OJ'              X-TÇ
+"OCORETA
+OJ
+1.000   tO JO! J7'
+
+
+CURü/UCUAIIA
+03 •
+1.000   tO 79! 49'
+
+
+SAX ROQUf
+OJI
+1.000  (0 It! J5'
+Sí! 41'                /
+IA CRUÍ
+04
+1.000   tO 29! II'
+5ÜJ8'             /     /
+CORRIEXIES
+041
+S.OOO 120 279 28'
+SB! SI'           A,     ' 57! 20'                  ■<
+KA I8AIE
+OS
+1.000   tO 27g 2i'
+
+
+"OKIE CASEROS
+OS
+1.000   10 308 15'
+57! J8'                     *)
+CURU/U CUAtIA
+Oi
+1.000   tO 29g 49'
+58! 02'                      /
+IflU VISTA
+07
+J.OOO   tO 28? JS'
+SI! 02'                     /
+CO8ERXAOOR V1RAS0R0
+07
+1.000   tO 280 04'
+Si! 02'                  "7
+PASO DE IOS U8RES
+071
+1.000   ÍO 29! 42'
+57! 05'
+ROSARIO OE CAÁ CAI1
+07-
+J.OOO   tO 27! 45'
+57! J7*
+AlYEAR
+07-
+O.tSO   tO 29! Oi'
+Si! J2*
+/IERCEDES
+08 .
+J.OOO   tO 29! 11'
+58! OS'
+IIU/AINÍO
+081
+1.000   tO 27! Ji*
+St! 41'
+TAPEIU
+08*
+0.650   tO 299 28'
+Si! SO'
+COIOKIA CARLOS PEUECR1XI
+09-
+J.OOO   tO 28! 32'
+57! 01'
+PERUCORRIA
+09-
+J.OOO   tO 295 20'
+58! 37'
+SAX ROQUE
+10
+J.OOO   fO 28J JS'
+58Í 41'
+SAUCE
+101
+J.OOO   tO JO! 04'
+589 "'
+InKIO Idllf
+101
+o.ioo "o ;to JO*
+M "'
+COKÜPCIOK
+til
+J.OOO  tO 21! 14*
+j;g J]1
+ESQUINA
+11-
+J.OOO   tO JO! 09'
+59! J2'
+COTA
+12
+S.OOO 100 29! 09'
+599 11'
+CORRIEXIES
+IJ
+100.000 120 27! 28'
+589 48'
+•< Provincia/Estado: EXIRE RIOS
+
+
+V1UACUAT
+02
+1.000 120 JI! 52'
+599 02*
+COKCOROIA
+02-
+1.000   tO JI! 23"
+58! 01'
+COKCORDIA
+04
+20.000 120 Jig 21'
+58! 04'
+PARAKA
+04)
+20.000 120 318 44'
+iO! 21'
+COKCOROIA
+OS
+1.000   tO JI! 23'
+589 01'
+FEDERAI
+07
+J.OOO   iO JO! 57'
+58! U"
+ÇOKCEPCION OEl URUGUAI
+07
+J.OOO IJO J2! 29'
+58! 18'
+PAlUKA
+09
+40.000 120 JI! 44'
+tO9 29'
+CKAIARI
+/
+01*
+10.000   75 JO! 47'
+57! 59'
+IA PAI
+lOf
+J.OOO   iO JO! <i'
+59! J8'
+LA Hl
+12
+J.OOO   ÍO J09 46"
+59! 38'
+MANA
+12-
+40.000 170 Ji9 44'
+10! 71'
+W l"Wlil"MMI
+li
+70 000 170 100 ¡V
+JH W      ':
+'< Provincia/Estado: FORHOSA
+
+
+C1OR1KOA
+07
+40.000 120 25! 17'
+57! 4J"
+
+41-
+in nnn  pn no II'
+
+
+tíi'itti Ko.   2 15/04/94
+
+APCHOfCE I - USÍA A fSlACtOKCS "P.CCXUKAS Of IV CX Yllf fH ÍOXA O£ CP9R01NÍCIOX COK BRASH
+
+
+\
+
+
+PRC
+HflA lit i("d
+longitud     (itido     Viril.
+locilldid
+Cmil
+((-)
+(•)  (MJ
+(Outi)  Opiri(lvo/Plinl(ic"do Pindltoli
+" Província/Estado: "ISIOHES
+
+
+PUERIO ICUA7U
+o;
+1.000
+. <0 259 14*
+548 15'
+POSAOAS
+02
+10.000
+120 271 17'
+SS8 54'
+PUCRIO RICO
+02
+1.000
+ÍO 2" 46'
+SS9 01'
+Cl S08ERH0
+0]
+o.soo
+60 270 18*
+548 16'
+PUCRIO ICUflíU
+04
+10.000
+120 259 16'
+S48 IS'
+POSAOAS
+04
+20.000
+120 271 17'
+S5Í 54'
+PUCRIO PIRflr
+OS
+o.soo
+tO 26? 28'
+S4B "*
+AllA POSSE
+05*
+1.000
+(0 278 14*
+548 41'
+SAX JAVIER
+Oi
+O.iOO
+ÍO 27Í 52'
+SS8 06'
+flOKfCCARlO
+06
+O.iOO
+tO 2" 14'
+548 4S'
+SAN AMOXIO
+06-
+O.iOO
+tO 268 04'
+S18 44'
+PUCRIO ESPERARIA
+Oí-
+1.000
+tO 268 01'
+548 14'
+IC8XAR00 OC IRIGOrCK
+0?
+o.soo
+tO 268 17'
+SM 19"
+Cl CORADO
+07
+i.OOO
+tO 268 2S'
+S48 17'
+P. VIUA U1ERIA0
+07-
+O.IOO
+tO 258 Si'
+548 14'
+puaio icuA/u
+0"
+1.000
+tO 25? U'
+5(8 JS'
+00! OC "ATO
+0)
+8. SOO
+180 270. 02'
+54" 41'
+JAROIX AKERICA
+09"
+1.000
+tO 278 01'
+SS8 IS'
+C. OC IA SIERRA
+09-
+i.OOO
+tO 278 59"
+558 11*
+ICAKORO N. AICH
+10
+O.iOO
+tO 278 37'
+SS8 If
+OSERA
+101
+O.IOO
+fO 278 29'
+SS8 08'
+AKORESIIO
+II
+O.IOO
+tO 258 15'
+S18 59'
+ClOORAOO
+II
+i.OOO
+tO 268 25'
+548 37*
+PUERIO RICO
+11
+i.OOO
+tO 268 46*
+SS8 01'
+CAPIOVl
+II
+i.OOO
+tO 268 57"
+558 08'
+POSAOAS
+12
+40.000
+170 278 29'
+558 58'
+ALHIKANÍC IRO"K
+II
+i.OOO
+,60 258 40'
+548 01'
+I0SUKA/ C. CA8AUCR0
+lit
+10.000
+160 2(9 12'
+518 SI'
+ã
+
+
+REDUCCIÓN DC I dl P/f!AICU"OIA OIRCCMVO KC • 1108 A 1158 RCO. t dl
+PCOOCCIOH DC t dl P/KCDIAXCIRA RCDUCCIOX OC t dl P/PORIO XAVIER
+RCOUCCIOX OC 10 dl OC 759 A 1808
+
+
+\
+
+Pijini Ho. 15/04/94
+
+AfEHOKE I - LISTA A
+ESIACIOHES ARCEHIIXAS Of (V (N VHf
+fH ¡OKA Of C00R8MACIOX COK TAPACUAT
+
+
+\
+
+
+PP.E
+HflA     latitud
+longitud
+
+Estado              Veril.
+localidad
+Canal
+O)
+(i)       (Sud)
+(Otste)
+
+Jptfativo/Plani(¡ca<(o Pendiente
+>• Provincia/Estado: CORRIENTES
+
+
+r\
+IIAII
+02
+O.SOO
+(0 279 !('
+589 14'
+
+9   /
+HA I8ATE
+02-
+1.000
+(0 279 26"
+579 20'
+
+9    /2   ■
+nOCOREIA
+03
+1.000
+(0 309 37'
+579 57'
+
+P   /<x.s
+CORRIENTES
+04
+s.ooo
+120 279 28'
+589 SI'
+
+P                  j
+8ERON OE ASIRAOA
+OS
+1.000
+(0 279 34'
+579 32'
+
+p            _X---~
+BEtlA VISTA
+07
+2.000
+110 289 35'
+599 02'
+
+D
+CO8EÍKAOOR VIRASORO
+07
+1.000
+(0 289 04'
+5(9 02'
+
+P                   S~\
+1. 01 CAÁ CAII
+o/-
+i. 000
+10 27" <V
+ÍÍ9 ])'
+
+f              /    I
+IIUÍAINCO
+08"
+1.000
+(0 279 34'
+5(9 41'
+
+'        J7*sf J
+EHPEORAOO
+08"
+3.000
+(0 279 51'
+589 23'
+
+
+COLONIA CARIOS PEUECRINI
+09-
+3.000
+(0 289 32'
+579 09'
+
+}          *)
+EMPEORADO
+10
+3.000
+(0 279 51'
+589 23'
+
+?           )
+SANIO IOHE
+10"
+0.(00
+(0 289 30'
+5(9 02'
+
+1         /
+CONCEPCIÓN
+II"
+3.000
+(0 289 24'
+579 S3*
+
+f       /
+COTA
+12
+S.OOO
+100 299 09*
+599 11'
+
+j       (■
+CORRIENTES
+'I.
+85.000
+120 279 28'
+S89 48'
+
+i
+" Provincia/Estado: CHACO
+
+
+CORIUEIA
+02
+O.SOO
+(0 2(9 Sí'
+(09 58'
+
+
+HACAltE
+02"
+2.000
+(0 279 12'
+599 17'
+
+
+CHARAOAI
+03
+1.000
+(0 279 38'
+599 S3'
+1
+
+CHARATA
+03"
+1.000
+(0 279 13'
+(19 11'
+
+
+IRES ISIEIAS
+03"
+O.SOO
+(0 2(9 21'
+(09 2í'
+
+
+PRESIOENCIA ROWE SAEM/ PEÍA
+04
+4.000
+95 2(9 48'
+(09 23'
+(
+
+SANIA SUMA
+04
+3.000
+(0 279 49'
+(19 09'
+í
+
+VICIA AXCEIA
+OS
+10.000
+100 279 35'
+(09 43'
+C
+
+HfftnOSO CMPO
+Oi
+1.000
+(0 219 11'
+di 20'
+t
+
+RESISTENCIA
+06*
+20.000
+120 279 27'
+5Í9 59'
+P
+
+MSIOH N. POHPETA
+07
+J.OOO
+(0 249 Si'
+(19 31'
+P
+
+P. DE IA PIAIA
+07
+s.ooo
+100 279 03'
+599 42'
+a
+
+CHARATA
+08
+3.000
+(0 279 13'
+(19 II'
+p
+
+FORTÍN UYAUE
+08
+3.000
+(0 2S9 40'
+(09 10'
+p
+
+IAS IREiAS
+08"
+3.000
+(0 279 06"
+(19 OS'
+0
+
+CANCEOO
+09"
+3.000
+(0 279 29'
+(19 42'
+p
+
+RESISTENCIA
+09"
+40.000
+120 279 27'
+565 SI'
+0
+
+~")CASI£UI }. }.
+10
+3.000
+(0 259 57'
+(09 38'
+p
+
+1 CENERAl PINEOO
+10
+3.000
+(0 279 20'
+(19 17'
+0
+
+PRESIOENCIA ROQUE SACK/ PEÍA
+II
+100.000
+ISO 2(9 4('
+(09 28'
+0
+
+SANIA SHYINA
+11
+3.000
+(0 279 49'
+(19 09'
+p
+
+CHARAIA
+12
+3.000
+(0 279 13'
+(19 II'
+p
+
+J. OE SAN KARIIN
+12-
+3.000
+(0 2(9 32'
+599 20'
+p
+
+miA IERIHEI
+13
+3.000
+(0 279 17'
+(09 25' •,
+p
+
+f. OEl IXriERNO
+13-
+3.000
+(0 2(9 31'
+(19 10'  '
+p
+
+•• Provincia/Estado: fORKOSA
+
+
+IACIINA TUA
+02
+1 000
+¿0 ?<9 IS'
+(l" IS'
+t
+e
+
+
+SUJEIO A HEOfCIOK
+AMKUt 1505 A 209 ¿S/129
+
+
+Piqini lo.       J
+
+r.tr.i\
+
+tU  NUA      Utitud
+
+(O(ite)
+
+APtWICC I • IISIA A
+(S(ACIOX(S ARCCNdMS Pt IV (" 1X1
+(N {ORA O( COOKnriCACIOK CO" PARACIAT
+ (5tldo	Veril.
+ 0p:rili>o/P|jni(iC4<f'i
+
+
+I.SOO 180 2/V 01' l.OOO tO 2/? 5"' 1 W1> l.l) 7/0 J7'
+^
+
+MS lOAlIAl tSPIHIUO INCfNICM JlíARf/ (("(Ml   CU((l(S IACUKA IIAKCA IAS lOflMAS P. C.  IHICOrfK IKCtNKRO JUARU COIAMOAHrC
+MMRAI
+CAIO PRIMRO lUCOHCS
+UOOITOA
+PAIRA SOIA OÍS1E
+fORIIOSA
+I ACUNA T(HA
+IfMlNlt CCKCItAl FRACA
+(I COIODAOO
+CÍRJMl 1ÍICMR0
+t. C. SAM/AI
+p. SARCturo PRIHCRO arts
+ÍORKOSA
+OR. RAMS NCJIA COMNOANIC rOKIAHA tACUKA U"A
+'< Provincii/Cstjtfo: MSIOKS PU(RfO 1CUA/U PMRfQ RICO SAN ICNACIO (I 508EMI0 PUfRfO ICUA/U POSAOAS PU(fllO fCUA/V AHA POSSC SAN JAVIER flOKfCCAfilO
+;MOIK MÍIICA
+JAR "MOMO PWRlO (SPtMK/A I. 0( IJtlCOTfA (100RA0O UIÍRIAO
+oos Of mro
+C. 0( IA SlfRRA
+KAKfltfl  "    Min
+
+OJ
+"J
+04
+04
+04-
+OM
+OS-
+05-
+04"
+07-
+07-
+OJ-
+08)
+01-
+01
+IOI
+IO"
+IO-
+IO-
+II'
+II-
+II-
+IJ-
+U-
+0? O?
+o;
+OJ OJ 04 04 OS" M
+os
+01
+Cl-
+"4-
+0)
+0/
+0/
+01
+ou II
+
+
+20.000 J.O00 1.000 1.000 1.000 I.OOO 10.000 1.000 70.000 1.000 10.000 1.000 1.000 40.000 1.000 40.000 10.000 10.000 1.000 40.000 1.000 1.000
+;so.ooo
+1.000 1.000 1.000
+1)0 749 H'
+10 ?<0 41' (O ?<? S8* (O 719 54' 40 24" 46' "O 259 OS' ÍS 240 41' 40 ?J9 II' 120 21? 54' 40 259 2f 'S 2" ||* W 25" 44' iO 24" |f 120 25? I?1 tO 2" 38' 120 2t" II' JS 240 15' /5 21" 45' iO 2(9 If 1)0 ?<" V 10 24" |]'
+tO 24" 14*
+i/o 2t" o;'
+iO 24" Of tO 25? 21' 40 24" 15*
+1.000 40 259 U' 0.450 (O ?í<" 48' 0.100 45 2í" 14'
+".500 to 2;? ia'
+1.000 0.10O 0.100 "."0 O.JOO 0.500
+o.soo
+1.000 "504
+10.OW 170 25? 41' ?0 000 120 279 if 8.000 10 25? U' tO 27? 14' tO 2/9 52' tO 2t" 14'
+41 ;;J oí*
+(O ?"9 04'  249 01" 40 2i9 ir tO 2t" 25' 40 75? 55'
+
+Slí 10' (09 15' 58" 14' 419 51' S?9 11' 589 15' 109 15' 419 45' tl9 51' 519 41' 179 It' 519 04' 579 41' 5/9 41' (19 21' 589 10' (If 15' (29 01' S19 72' W Jl" (05. li' 51" 21' 58? II" 41" 27' 51" 41' 419 15'
+54" 15' 55" 01' J5? 12' 549 W 549 II' 559 54' 549 15' 54" 4|' 55" 08' 549 U" W II' )]0 W W ii' $19 IV 54" i;§ 54" 15' 54? 41' 559 II' 5" n'
+
+O P P P P P t P P O P P
+r
+o p p
+o
+o
+f
+o
+o
+o
+o
+t
+>
+f
+o
+p
+t
+o
+r
+p
+
+RIOMflO" III t i* HÍCU KlIflílU t |0 i\ Híflí
+RfOUCCION 0( S dl
+REtUCCIOH 0( 1 d8 XACIA
+RCOUCCIOR Ot 1 dl P/ "ICtAKPIA. SWf 10 A (KD1CI0N.
+otRCcnvo suRtsic. siwro A "rcicio".
+RCOUCCION Of 648 P/PORIO WUf
+RfOUCCION Of 4 dl P/H(OIAN(IPA. SWUP A nfflftOK
+"OUCCION 0( 10 dl 0( 159 A 1809
+
+
+lijl'iU lío.
+IS/04/94
+
+
+"f"Tt:. :     USI.
+
+
+tSIAClOIIU fiC€£.:¡IHAS OC
+
+
+f" W-* 0' tf!v!l>""A/"IOI( P
+
+
+PR£
+WtA
+latitud
+longitud
+Estado        .    Veri
+localidad
+Canal
+(>-)
+(•)
+(Sud)
+(Oeste)
+Operativo/Planificado Pent
+U00RAO0
+II
+1.000
+(0
+269 25'
+549 17'
+0
+CAPIOVI
+II
+1.000
+(0
+269 57'
+559 08'
+0
+POSADAS
+12
+40.000
+170
+279 29'
+559 52*
+0
+AlMUAKff IROKN
+11
+1.000
+(0
+259 40'
+549 01'
+f
+XAHOA
+11
+0.100
+(0
+259 51*
+549 14'
+f
+IO8UKA/C. CAIAUIXO
+ID
+10.000
+uo
+269 12'
+519 Si'
+0
+•• Provincia/Cslado: SAHIA f(
+
+
+MCOXOUISIA
+02
+S.000
+75
+299 09'
+599 40'
+0
+RECOKQVISIA
+06-
+1.000
+(0
+299 09'
+599 19'
+0
+US FOSCAS
+11-
+1.000
+90
+289 21"
+599 17'
+0
+
+
+ (.*<
+
+Obífr"acioies
+
+ Ho.
+15/04/14
+        APfHPICt I • U5IA A (SIAC10KCS ARCfKIlHAS Of IV (K VHf (N ¿OKA OC CCnRniMriON COP
+
+
+Obsef""iii>"
+■y"
+
+
+Pfif MIA     lltltu
+i      longitud
+
+fslido
+loe-ll ¡did
+Cinil
+
+(Oeite)
+Optr
+ilivo/Plin
+<• Ptovincij/fstjlo:
+
+
+"-otnr
+.-U.UUU 100 J49 3i'~
+
+- P.
+/
+CAPIIAl f£O£RAl
+07
+200.000 200 349 Si1
+S89 23'
+0
+
+CAPIIAI fCDCRAl
+09
+200.000 200 349 36'
+589 23'
+0
+
+
+CAPIIAI rtocRAi
+II
+200.000 200 349 Si'
+589 23'
+0
+
+CANTAI ffOfSAt
+13
+200.004 200 349 36'
+589 1i'
+0
+
+•• rtovincii/fsUdo: SUCKOS
+AlPtS
+
+
+-/
+IA PIAIA
+021
+100.000 150 349 55'
+579 57'
+0
+
+OOIOR(S
+031
+20.000 120 3(9 20'
+579 40'
+0
+
+SÍU0
+04
+10.000   75 J49 11'
+(09 15'
+0
+
+IAS flORfS
+OS)
+1.000 100 359 59'
+519 07*
+0
+
+MR Of AJO
+06
+5.000   75 3(9 43'
+5(9 41'
+0
+
+cHiviicor
+Od
+20.000 120 349 54'
+£09 02'
+0
+
+)     IARAIC
+08-
+40.000 120 349 06"
+599 01'
+0
+
+SAX CtCKEXIt Ofl lUtU
+09
+40.000 120 3(9 22'
+5(9 44'
+0
+
+JUKIK
+101
+SO.000 ISO 349 37'
+(09 SB'
+0
+
+SAR CUM NIC
+13 '
+40.000 120 3(9 27'
+5(9 44'
+0
+/
+" Provincil/£sll*>: CORRIfKIES
+
+
+A,
+(30VI.1A
+03
+1.000   (0 399 00'
+519 11'
+0
+
+KOCORdA
+03
+1.000   (0 309 37'
+579 5?'
+0
+<
+CURU/U CUAIIA
+031
+1.900   (0 219 49'
+589 03'
+0
+
+IA CRU!
+04
+1.000   (0 299 II'
+5(9 38'
+9
+i
+flONlf CASfROS
+041
+1.000   (0 309 17'
+579 J8'
+0
+/
+"OKIf CASEROS
+05
+1.000   (0 309 17'
+579 38'
+0
+
+CURU/U CUAIIA
+06
+1.000   (0 219 49'
+589 02'
+0
+
+PASO Of IOS IIMCS
+Od
+0.(50   (0 299 41'
+579 07'
+0
+
+KllA VISM
+07
+J.OOO 120 289 35'
+599 02*
+0
+
+PASO Of IOS lííífJ
+071
+S.OOO   75 219 42'
+579 OS'
+0
+
+At MAR
+07-
+0.(50   (0 299 06'
+5(9 32'
+0
+
+IIERtfOfS
+08
+3.COO   (0 299 II'
+589 05'
+0
+
+TAPÍTU
+081
+0.(50   (0 219 28'
+5(9 50'
+0
+
+COIOXIA CARIGS PfllfiPIKI
+01-
+3.COO   (0 ?89 32'
+579 09'
+0
+
+PCRUGORRIA
+01-
+3.000   (0 299 20'
+589 37'
+0
+
+'TSAUCf
+101
+3.000   (0 309 04'
+5!9 4(*
+0
+
+■ SAsro TORE
+101
+3.000   (0 289 30'
+5(9 02'
+0
+
+fSOUIXA
+II-
+3.000   (0 309 07'
+579 3J'
+0
+
+COTA
+12
+5.000 I00 27? 01'
+599 II'
+0
+
+" Frovincw/fsUdo: £"IRC RIO:
+
+
+VIUACUAT
+02
+1.000 120 319 !<•'
+579 02'
+0
+
+CUAlEGUArCHU
+02"
+1.000   (0 339 01'
+589 31'
+0
+
+CONCOROIA
+02-
+1.000   "9 319 23'
+589 01'
+0
+
+CONCORDIA
+04
+20.000 120 119 23'
+589 01'
+0
+
+PARANA
+04"
+20.000 120 319 44'
+(09 29'
+0
+
+CONCORDIA
+05
+1 ü.in   61 tip n'
+suo or
+0
+
+
+ Vftil.
+
+IIKIIACIOK If AÇU IAM* qilMAI 0( 1,79. RiMKCION Of ] it POPA
+ 3 it WCIA IWHUtt
+r£ot'ccio.i Of 4 a n" WK.
+
+: V   ' '    ••'
+
+PÍJÍni No. 15/04/94
+
+ i • USÍA A
+tS'ACIOMS ARC(Xffl(AS 0( If (K VHf (H 1PM Oí COOROIXItCtON COX Vt.VMI
+
+
+li
+
+\
+
+
+fR(
+MIA    latitud
+longitud
+
+locilidid
+Unit
+(I.)
+(')      (Sud)
+(Oeste)
+0
+KOCOTA
+Oil
+1.000
+<0 320 24'
+5J9 47'
+0
+VIUA PAP.AMCIIO
+06-
+1.000
+Í0 iSt 40'
+595 01'
+0
+ffOtfifll
+07
+J.000
+(0 J05 V
+S89 W
+0
+COKCfPCIOH 0(1 URUÍUAr
+o;
+J.000
+130 ¡29 29'
+589 18'
+0
+VIllAGVAr
+08
+1.000
+(0 Jlf S2*
+599 02'
+0
+CUAICÍUAICHU
+081
+3.000
+(0 Ut 01'
+589 31a
+0
+PARAM
+09
+40.000
+120 310. 44'
+"09 29'
+0
+coHCtPciOH od vmwm
+0?
+J.000
+(0 32? 25*
+589 18'
+0
+CHAJARI
+091
+10.000
+;S 309 47"
+S79 59'
+0
+CUAKCUArCKU
+10
+70.000
+120 ¡19 01'
+589 31'
+0
+VICIORIA
+14
+J.000
+(0 329 37'
+"09 IO'
+0
+IA PAI
+!"•
+3.000
+(0 309 4f
+599 38'
+0
+COLON
+10-
+1.000
+(0 329 14'
+589 08'
+0
+ROSARIO OU (AIA
+III
+3.000
+Í0 329 19'
+599 09'
+0
+VIUACUAT
+II-
+3.000
+(0 319 S2'
+599 02'
+0
+CUAUCUAr
+II-
+4.000
+(0 339. 09'
+599 22'
+0
+COtON
+12
+3.000
+(0 329 14'
+589 Of
+0
+f(O(RACIOK
+12 '
+1.000
+(OJIO 01'
+5?" 53'
+0
+PARAM
+ti-
+40.000
+1" JIO 44'
+(00 21'
+0
+IOS COMQUIsrAOORCS
+ll
+20.000
+120 309 25'
+Sí? 28*
+0
+CMRAl SAIARÍA
+IJl
+3.000
+(0 329 44'
+5?9 74*
+0
+•' Provincia/Cstido: SANIA ff
+
+
+"OSARIO
+03
+100.000
+200 329 S4*
+"09 44'
+0
+ROSARIO.
+OS
+so.ooo
+210 329 S7*
+"09 39'
+0
+SANIA re
+o;
+40.000
+120 319 39'
+"09 42'
+0
+ROSARIO
+oe
+40.000
+120 329 5?'
+(09 44'
+0
+SABIA ff.
+u-
+ISO.000
+220 319 2>*
+(09 43'
+0
+
+
+liUáo
+
+ Veril.  Pendirnt;
+
+RtDUCClOX M 3 49 HACIA UBWWY
+F.trUCCIOH 1>C 3 48 HACIA VSWM
+PfOUCCIOh i 41 P/KU* I'NION t I 4! P/$*IW
+
+
+Pijim Ko. IS/04/N
+
+localidad
+
+Canal
+
+PRC KflA    latitud M (")      (Sud)
+
+APCnOICC I - LISIA A
+CSIACIOKCS (RASIICRAS OC IV CR VHf
+CX WM OC "flí"I"ACIflX CO" AW'MIM
+longitud	Cstado	Veril.
+(Oeste)      Operativo/Planificado Pen-iiente
+
+
+\
+
+" Provincia/Cstado: PARAXA
+CVARAPOAVA	02
+FRAKCISCO ICIIRAO	021
+CUAIRA	02<
+CAKPO KOURAO	02-
+DAKIAXOM	07-
+CASCAm	0)
+C0I0-HC	05
+PALOIIXA	05
+DOIS rinxKos	031
+10XPRIM	031
+SAXIA HCUXA	031
+IAUUCIRAS 00 SVl	03-
+MlflAS	04
+PATO IRAXCO	04
+CAJ1P0 ROURAO	0(1
+CUARAPUAVA	041.
+NCOIAXCIRA	04<
+AMPARE	04-
+HARCCXAI CAXOIOO ROKOOK	04-
+ASSIS CXAICUBRIAKO	05
+10X0RIKA	05
+ARCCIMl CAKOIOO ROKOOK	05
+PAIO IRAXCO	OS
+(IKUARAHA	05*
+CAKPO KOUXAO	"V
+ÍOÍ DO ICVAÇV	05-
+LOAXDA .	04
+"AXOCl RUAS	Oi
+CASCAVEL	Oil
+PALHAS	04-
+PCROLA	04-
+lOLCDO	07
+lOKORIXA	O/1
+PAIO IRAXCO	0)1
+UHUARAKA	07-
+IPORA	08
+SI. AXIOXIO DO SVOOCSIE	08
+KARCCHAl CAKOIOO AOKOOK	081
+CASCAVEL	08-
+ALIOXIA	09
+PAIO IRAXCO	09
+CA.1P0 ROURAO	091
+(OAKOA	071
+CAPAKIM	Oí
+
+10.000 120 259 24' 4.000   75 2(9 04' 0.(50   (O 249 04' U.OOO 120 249 05' 0.(50   (O 759 15' 1.000 170 749 W' 1.(00   75 749 II' t.000   75 249 17' 0.(50   (O 259 45' 24.000 120 239 18' 0.(50   (O 249 52* 4.000   75 259 74* 4.000   75 2(" 21' 2.000 120 2(9 13' U.OOO 120 249 OC 5.000 120 259 24' 1.2(4   75 259 18' 0.(50   (O 259 55' 4.000   75 249 34' 1.2(4   75 249 25' U.OOO 120 239 18' 10.000 120 249 34' 1.500   75 2(9 13' U.OOO 120 239 4C 7.000 170 7(9 01' U.OOO 120 259 32' 4.000   75 229 54' 4.000   75 249 50' 52.000 120 249 57' 4.000   75 2(9 21' 1.2(4   75 259 48' t.000   75 249 40' 50.000 120 259 18' 50.000 120 2(9 15' 10.000 120 239 44' 4.000   75 249 00' 0.(50   (O 2(9 02' 10.000 120 249 54' 10.000 120 249 57' 4.000   J5 2J9 52' 10.000 120 24? 13' 10.000 120 249 05' 2.000   <0 229 54'
+j.ooo to n" 31'
+
+519 27' 539 04' 549 IS* 529 22' 539 SI' >59 II' 559 01' 539 SO' 539 OS* 519 01' 549 21'• 529 24' 519 51' 529 42' S29 22* 519 27' 549 OC 519 21' 549 04' 539 Jl* 519 01' 549 04' 529 "' 539 18' 179 7i" 549 J5* 539 II* 519 40' 539 27* 519 51' 539 41* 559 44' 519 01' 529 42' 539 18' 559 42' 559 44' 549 04' 539 27' 539 54' 529 43' 529 22" 5J5 II' H" 50'
+
+RCOUCdOX PC 3 dl ti SAL IO? 9C CHAIPA
+Ripuccinx or J di ti no.
+
+•f-
+i
+
+Ugini Ko.       2 IS/04/14
+
+       APCKMCC I • IISIA A CSIACIOKCS 8RASIURAS Of IV U VKf fu 741KA Of CPflfWiWtOH COK
+
+
+\
+
+
+tU KflA    Ulllmf
+longitud
+locilidid
+CJMI
+(U) (•)      (Sod)
+(Oeste)
+IARAKJUP.AS 00 SUl
+10
+10.000 120 2S9 24'
+S29 24'
+fo; oo ICUACU
+101
+10.000 120 259 37'
+549 JS'
+COIO-fRE
+101
+10.000 170 249 11"
+S39 01'
+SAICAOO rilHO
+lO-
+0.(50   (0 2(9 12'
+539 23'
+APVCAMXA
+ll
+SO.OOO 120 239 33'
+S19 71'
+ffiANCISCO ÍCURA0
+II
+10.000 120 2(9 04'
+539 01*
+UmiARAflA
+II
+4.000   75 239 U'
+S39 II'
+CUAIRA
+III
+10.000 120 249 04'
+549 IS'
+QUCOAS 00 ICUAÇU
+in
+4.000   75 259 27'
+529 U'
+UKIAO DA WIORIA
+nt
+10.000 120 2(9 14'
+519 OS'
+CtU AM
+ii-
+2.140   75 255 09'
+S39 Si'
+MIMIM.
+ii-
+0.(50  (0 249 52'
+S29 li'
+CAflPO BOURAO
+12
+2.000   (0 249 03'
+S29 22'
+10AK0A
+12
+2.000   (0 229 55'
+S39 08'
+PAlOriXA
+12
+2.400   ÍS 749 IÍ*
+539 51'
+CAtAKOUVAS
+Ml
+0.450   tO 259 U'
+J39 Of
+fOI 00 ICUAÇU
+12-.
+10.000 120 259 12'
+549 JS'
+GUARAPUAVA
+12-
+10.000 120 2S9 24'
+S19 27*
+FRANCISCO KUM0
+U
+2.000   (0 2(9 OS'
+S39 OJ'
+PfROlA
+U
+4.000   75 239 48'
+SJ9 41'
+UMUARAMA
+13
+2.000   75 239 4(*
+S39 20'
+UKIAO OA rtlORIA
+13
+10.000 120 2(9 14'
+SI9 OS'
+CASCAVCl
+in
+SO.OOO 120 249 57'
+S39 27'
+10X0RIM
+131
+10.000 170 239 It'
+S19 10'
+SAI10 00 lOKIRA
+IJ-
+2.000   7S 259 47'
+S39 If
+" Provincii/fstado: RIO "RAKPC
+00 SUl
+
+
+SAK1A ROSA
+02
+4.000   75 279 52'
+549 30'
+SAKÍAKA 00 lURAHCKIO
+02
+4.000 120 309 52'
+S59 J2'
+URUCUAIAKA (8ARRA 00 OUARAI)
+02
+1.000   (0 309 12'
+579 33'
+IOSSOROCA
+021
+0.351   (0 289 44'
+549 SS'
+URUCUAIAKA
+02"
+4.000   75 2" 4('
+S79 OS'
+ERECHIrt
+02-
+14.000 120 279 31'
+529 14"
+PIKKdRO JIACXAOO
+02-
+1.000   (0 JI9 J5'
+539 W
+3A0 IORJA
+07-
+3.000 170 709 40'
+Hi 00'
+BARROS CASAI
+05
+l'.OOO   75 219 Oí'
+529 35'
+CAKPIKA OAS MSSOtS
+OJ
+4.000   75 279 Sí'
+549 50'
+CfRRO IARCO
+01
+1.2(4   75 289 OV
+549 44'
+IMOUt
+0]
+4.000   J5 2?t Oí'
+5(9 34'
+JACUAAl
+OS
+3.160   75 219 21"
+549 42*
+ROOUC COK/AUS
+01
+4.000   75 28? 08'
+559 02'
+SAO PAUIO OAS Í1ISS0ES
+OJ
+0.(00   ÍO 28( 01'
+549 54'
+CRM AHA
+on
+14.000 120 28J 38"
+539 34"
+HCOCRICO KSIPKAKK
+Oil
+0.325   60 275 11'
+539 24'
+SAKIO CRISTO
+
+3.000 120 27? 41'
+549 40'
+ROOCIO (OKITO
+03-
+<ooo  ;s 27? 21'
+539 11'
+
+(tildo	Viril.
+Optrttivo/Phniticido renuente
+
+
+REDUCCIÓN Pf 3 de P/MlÍOS PC (UAIftA
+
+-SS
+
+      Ko. /04/94
+
+
+i
+O?
+is
+i
+fe
+
+\
+
+
+PR(
+WIA    UUtvd
+lonjil
+lOCJlidKi
+Canil
+
+(•)     (M
+(Oeitc
+PODIO MICR
+04
+2.000
+15 í?í 54'
+558 08'
+3A"lA MUI*
+0<
+K.OOO
+120 ítí 42'
+JJ8 SO'
+mes ot "AIO
+0<
+2.000
+(0 2/5 4Í'
+S48 14'
+UWCÜAIAXA
+0(
+2.000
+75 2ft 4í'
+549 OS'
+PASSO fUHOO
+04)
+4.000
+75 2S9 IC
+S28 25'
+PfLOTAS
+041
+25.000
+120 3IÍ 4(*
+528 20'
+PlAKAUO
+041
+2.000
+75 279 20'
+S19 04'
+SAKÍAKA 00 UY"AlffXIO
+041
+K.OOO
+120 309 52'
+SS9 12'
+SANIO AXCCIO
+041
+J.000
+120 2M It'
+548 14'
+SAO IOSJA
+04-
+4.000
+75 289 40'
+548 00'
+IRfS PASSOS
+04-
+4.000
+7$ 271 28'
+SU S7*
+CRUI AllA
+05
+4.000
+75 289 18'
+539 14'
+CIRIM
+05
+4.000
+75 2" 02'
+S48 "'
+CUARAKI OAS "ISSOES
+05
+4.000
+7$ 2" Of
+S4S 18'
+KUIHA KECRA
+05
+1.000
+40 119. 24'
+S1I 52'
+PftOIAS
+05
+1.2(4
+75 III 4("
+S2Í 20'
+PIMPO
+".
+1.000
+(0 2Í9 01'
+SS8 12'
+PAIMIRA OAS IIISSOCS
+05t
+4.000
+75 278 54'
+538 19'
+PJXKfIRO flACHMO
+OS"
+0.(50
+(0 118 IS'
+S1Í 22'
+UPUCUAIAKA (PlAKO AUO)
+OSI
+4.000
+120 2" 4í'
+548 II'
+AIKJIM
+"s-
+I.JÍ4
+n in is*
+Sit OJ'
+BARAU
+05-
+2.500
+75 288 27'
+S28 12'
+PASSO rUKOO
+05-
+1.200
+75 288 W
+S29 2Sf
+SAO I0UA
+OS-
+K.OOO
+120 288 40'
+5(8 00'
+IRES PASSOS
+05-
+4.000
+75 278 21'
+SIB 55'
+80A VISIA 00 IMICA
+04
+0.300
+<0 278 40'
+S48 07*
+UU1
+06
+4.000
+75 288 21'
+518 SS'
+QUARAI
+04
+1.000
+(0 109 2S'
+548 27'
+SAKIA "ADIA
+Oí
+4.000
+75 2"8 42'
+S18 SO'
+CAÍAÍIKKO
+0(1
+S.000
+120 288 17'
+528 47'
+SAKIA ROSA
+0(1
+20.000
+ISO 278 52'
+S48 10'
+AUGRCIE
+0(-
+14.000
+120 2J8 48'
+558 48'
+SAO "COIAU
+04-
+2.000
+75 288 II"
+SS8 14'
+SAO VAIEXIM
+Oí-
+10.000
+120 278 11'
+528 11'
+AUCRM
+<7
+2.000
+75 278 3?"
+548 44'
+AUMEIE
+o;
+10.000
+120 299 48'
+558 48'
+fOHIAUZA DOS VAKS
+o;
+1.000
+(0 288 48'
+538 11'
+IIAOUI {HASSAÍIBAIIA)
+0?
+2.000
+75 2" 09'
+S49 04'
+PAKAXIl
+07
+OJOO
+(0 789 18'
+SJO JO'
+JAKIO AKCllO
+07
+50.000
+170 ?8t 17'
+5<t 14'
+URUCUAIAKA (IAIt"A 00 0UA8A1)
+07
+(.000
+75 309 12'
+578 SS'
+CAflpo "oyó
+071
+4.000
+7S ¿79 41'
+539 48'
+PAlNltMHO
+0)1
+4.000
+75 279 21'
+539 11'
+?mmo HACHAOO (CAKOI)
+071
+0.650
+(0 319 It'
+539 40'
+fRVAl SfCO
+07-
+2.000
+75 278 SI'
+538 JO'
+PASSO fUKOO
+07-
+64.000 ¡
+Ü0 285 16'
+529 25'
+
+APfKOICf I • IISIA A
+CSIAClOKtS 8HASUERAS 0( IV (I VHf
+(K /OKA DC COOOTMACION COK AFEMINA
+iiUia	Veril.
+Opífitivo/PIiniíiciiJo Pendiente
+Ob!t(nc¡cnes
+RCWCIOH 1/40 I. r/WKff CASIPOS
+RÍOUCCIOM P/SAK JAVUR 0.1/(0
+RfOUCCIOK P/ PASO 0£ (OS LieUCS 1/(0
+
+,0 Oí
+
+lljlni Xa. 15/04/M
+
+I
+
+locilidid
+
+Cinil
+
+PRC MIA    latitud
+
+APCnOICC I - USÍA A
+(SIACIOXCS "RAS1UPAS DC ÍY CK VKf
+ÍH W. "f COnPOIXACIOX COX ARÍfMMA
+longitud	Cstido	Verif.
+(Oesti)      Operativo/PUdificido Pendiente
+
+
+!}<fc"<SHi>íjí?S<
+
+1:
+.11 i:
+
+
+CAIUIPC
+08
+1.000
+40 289 IS'
+$49 01'
+CRU/ AlIA
+OS
+10.000
+120 289 J8*
+SJ9 J4'
+PIXKC1RO "ACHADO
+08
+4.000
+75 119 JS'
+SJ9 ?Jf
+SAO flAXCISCO OC ASSIS
+C8
+1.000
+(0 259 J2'
+SS9 07'
+PAIHHRA DAS MlSSOCS
+081
+4.000
+75 779 54'
+SJ9 17'
+SAKIA "ARIA
+081
+10.000
+170 7f9 47'
+SJ9 SO'
+SAO UM2 tOXIACA
+08*
+2.000
+40 789 74*
+S49 $7'
+metílico xcstPNAicx
+08-
+7.000
+(0 279 If
+5JÍ 24'
+IIIRUIA
+08-
+2.500
+75 J89 Jl'
+539 04'
+SAUAMPOUVÍAIIÍXIO
+os-
+10.000
+170 J09 57'
+J5" SI'
+SAO IOIJA
+08-
+10.000
+120 289 40'
+Sit 00'
+IMS Of "AIO
+08-
+4.000
+7$ 779 44'
+$49 14'
+CAxoioo cooor
+07
+J.000
+170 279 $7'
+549 4$'
+COROKl 8ICACO
+Of
+O.JOO
+"0 279 4J*
+539 42'
+(lAURICtO CARDOSO
+Of
+O.JOO
+tfl 289 47'
+529 10'
+XCDCItORA
+Of
+1.000
+<0 279 40'
+539 U'
+URUCVAIAKA
+Of .
+5.000
+120 2f9 44'
+579 OS*
+Aieciteie
+Ofl
+10.000
+170 2f9 48'
+559 48'
+SAKIA USA
+Of*
+4.000
+75 279 S2'
+S49 JO'
+ammo
+Of-
+50.000
+120 289 17'
+S29 47'
+turn sue
+Of-
+7.000
+75 279 JJ*
+SJ9 JO'
+SAO ricexie DO sut
+Of-
+1.000
+fO 25? 41'
+$49 40'
+fRCDCRICO XtsrPHAlCX
+10
+7.000
+10 279 If
+SJ9 24'
+CARRUCHOS
+10
+7.000
+75 2J9 II'
+SS9 58'
+I1AOÚI
+10
+1.000
+40 295 08'
+54? 34'
+JUUO DC CASIUHOS
+10
+J.200
+75 2f9 IJ'
+$J9 41*
+PORIO VCRA CRUI
+10
+1.000
+40 779 43"
+549 SJ'
+SAKIIACO
+10
+2.000
+75 2?9 12'
+549 JJ'
+SAO IOIJA (1'"HUYAS |
+10
+J.000
+<0 219 JJ'
+559 OJ'
+CAílPO "HO
+101
+1.000
+40 279 41'
+539 48'
+CRISSIWMl
+10*
+4.000
+75 779 JO*
+549 08'
+CRCCXIX
+10"
+10.000
+170 779 J8*
+529 14'
+PIXXEIRO "ACKAOO (CAKOI)
+101
+2.000
+40 JI9 24'
+S39 40'
+OUARM
+101
+4.000
+75 309 23'
+549 27'
+SAXIA IMRIA
+101
+4.000
+75 2f9 42"
+539 SO'
+StXIO AXCÍIO
+10-
+10.000 1
+120 289 17'
+549 14'
+CIÍ1APHA
+II
+2.000
+75 279 55'
+SJ9 54'
+181 RUIA
+II
+2.000
+40 289 38'
+539 07'
+HAOUI (IORORO
+II
+2.000
+7S 2f? 01'
+559 SJ'
+PIXXC1RO AACHAOO
+11
+2.000
+40 319 35'
+5J9 72'
+PORIO turn
+II
+1.000
+40 279 35"
+549 40'
+SAUO DO JACUI
+II
+0.300
+40 25? 05'
+539 13'
+SAO LUIS COX2ACA
+11
+2.000
+75 28? 24'
+549 57'
+IUPARCKOI (POSTO ÑAUA)
+11
+3.000
+75 279 35'
+549 40'
+URUGUAIANA
+11
+5.000 120 2f9 44'
+579 OS'
+PASSO fUKOO
+111
+10.000 170 289 16'
+529 2S"
+
+RCOUCCIOX J d8 Oí 300 A J'O
+
+        Ko. IS/0</'4
+
+
+KO DPfPfítfO
+í".
+
+\
+
+
+AHXOICC 1 - tfSTA A
+
+
+tSíÁClOKfS IRASIKRAS U IV (N VHf
+
+
+ra /OKA oc COOROIKACÍOK COM ARC(KIIKA
+
+
+w
+KM     Ulilvtf
+lOAfilud            (ttitfo           Yeiil.
+loc.lltf.4
+Cifltl
+[(•)
+(")       (]i"S|
+(OtiU)     Ofxrilltro/Muilflcitfo frndl"nlr
+CCIUUO YARCAS
+li-
+2.000
+(0 279 55'
+579 14'           /"")
+fAt"IRA DAS IIISSOCS
+li-
+2.000
+(0 Vi 54'
+538 19'     '   Á   J
+ltK£HI{ fORKlA
+II-
+4.000
+JS 278 25'
+$38 45'      .^o/
+CfRÍO lARCO
+17
+2.000
+40 789 09'
+548 45'      '          "S 558 15'                      ) 558 71"                 _/--'-
+SAKIAKA OO HYRAn(KI0(PAHP(|RO 12
+4.000
+75 509 79'
+
+
+ÍIAKOCl VIAM
+17
+5.000
+75 799 55'
+
+
+SAO PAUtO OAS "ISSOfS
+17
+0.300
+(0 289 01'
+$49 $<'                   /)
+KOfiO OSÓRIO
+17)
+7.000
+75 319 57'
+579 SO'              /  /
+SAKI" HARM
+17"
+50.000
+170 799 47'
+539 SO'            /    /
+SARAKOI
+12*
+7.000
+(0 779 55'
+579 55'        >£/ 539 57'     /**?
+IR(S PASSOS
+12"
+7.000
+(0 779 28"
+
+
+URUCUAIAHA (J. AAR(CUI)
+12"
+2.000
+75 799 78'
+5(8 4i'      -a
+IJUI
+17-
+10.000
+170 789 23'
+558 $5'             /
+SAO IORJA
+12-
+5.000
+120 289 40'
+5<8 00'            f^-
+IIKUXOVYA
+17-
+7.000
+(0 779 39'
+548 11'          1
+(It. IMVRICIO CAPOOSO
+13
+0.(00
+(0 278 30'
+549 25*
+CUAPORf
+13
+10.000
+170 719 54'
+519 55*
+IIAOVI -(HA5S/UIIAM)
+•13
+".000
+IS 29( 01'
+5(9 04'
+PIKKUO IMCKAOfl(PtORAS At IAS) 13
+3.000
+(0 319 43'
+558 55'
+POÍIO lUCCKA
+13
+7.000
+75 779 51'
+558 01'
+SAKIAKA OO UVMHCKIO
+13
+4.000
+170 308 57'
+5S8 57'                                                           "1
+SAKIS AUCUSrO
+13
+7.000
+75 779 SI*
+538 47'
+IIIRUIA
+I3<
+7.000
+(0 789 57'
+$38 07'
+P£IO(AS
+13)
+50.000
+170 519 44'
+$28 70'
+SAO IUI7 COKIACA
+15)
+10.000
+170 289 24'
+548 57'
+CMPAOA
+13-
+4.000
+75 789 05'
+538 07'
+("CKIH
+13-
+10.000
+170 779 58'
+578 14'
+SAKIO CilStO
+13-
+4.000
+75 778 49'
+548 40*
+VRVCVAIAKA
+13-
+50.000
+170 799 44'
+578 05'
+" heiiacitlliliit: SANIA CAIARIKA
+
+
+CAIAK8V 00 SUl
+02
+0.300
+40 779 10'
+578 53'
+CAIAH8U OO SUl
+02
+0.300
+(0 779 10'
+579 53'
+"RYAl O'OCSTE
+021
+4.000
+170 779 II'
+519 79'
+JOACAIA               ■
+021
+4.000
+120 279 10'
+SI9 50*
+flOKOAl
+021
+1.7(4
+75 279 04'
+539 7<"
+J"0 SOU 00 CfOflO
+01
+e.joo
+(0 ?4J W
+510. 30'
+HIIIIÍ
+t)i
+4.000
+120 7(9 S3'
+570 74'
+SAO lOORfKÇO O'OCSff
+041
+7.000
+75 7(9 21*
+529 SI'
+COKCOROIA
+0<-
+1.000
+JS 7/9 14'
+529 03'
+oiomsio C(P.OU(IP.A
+o<-
+0.450
+40 24? 14'
+539 37'                                                               KO
+J0ACA8A
+04-
+4.000
+75 2J? II"
+519 50'
+MKAVIIHA
+04-
+1.244
+•;S 7(? 44'
+539 10'
+CUM PORA
+05
+1.000
+75 240 54'
+S3? 10'
+IPUItlRlfl
+05
+0.300
+(0 27? 05'
+529 08'
+SAO HIÇUU O'OÍSIE
+06
+1.2(4
+75 24? 44*
+538 34'
+IAM(R(
+05<
+4.000
+" 24? 53'
+529 24'
+
+AC
+
+TC    1 TO    1 ' *
+<Tn AI*
+
+ n
+
+
+Pijim Ho. IS/04/N
+
+AP(KOI" i - nsrr-A-
+  (SIACIOMS IIASIUIAS 0( IV (K W (K /OKA OC CPOP.OIKACIOK COK ARCÍKlMA
+
+
+51
+m
+
+
+PRC
+HIM     latitud
+longitud               Citado             Verif.
+loca I¡did
+Cinil
+(I.)
+(•)          (S(Kf)
+(Oeste)      Optativo/Planificado Pendiente
+KAKI
+05-
+O.JOO
+"0 279 01'
+Sit 54'            /O
+CHAPCCO
+04
+4.000
+75 27" 04'
+521 17'          Z, /
+OIOHIÍIO CCMVCIM
+04
+O.iSO
+(0 249 U'
+SJt 17'     >^t4
+CVAIACIAIA
+04
+O.JOO
+(0 249 Si'
+SJt II*                    ]  ■
+SAO CARLOS
+04
+O.JOO
+(0 279 OS*
+Sil 00'                   /
+JOACAtA
+041
+10.000
+120 279 10'
+Slt "'                   /,
+CUAIMA 00 JUl
+04-
+O.JOO
+10 2<t IJ'
+SJO 12'              A\
+MMAl O'O(SI(
+01
+4.000
+75 271 II'
+Slt 21'        /    )
+KAMVItXA
+o;
+2.000
+(0 249 44'
+Slt 10'      A? J
+SAO (llCUfl D'OCSIC
+07
+2.000
+(0 249 44'
+SJ1 14' /<L/
+MUCK
+07-
+4.000
+IS 249 SI'
+S2! 24'•       <-C
+CHAPCCO
+oa
+10.000
+120 27t OS'
+529 17'             1
+ftOIOAI ((PODA O'OCSIC)
+01
+O.JOO
+(0 249 SI'
+Slt 12'             i
+PAWIIOS
+01
+O.JOO
+(0 279 "4*
+Slt 10'            1
+CAKPO CM
+on
+2.000
+(0 249 24'
+Slt 04'         f
+COKCOROIA
+on
+10.000
+120 271 14'
+S21 02'
+POXÍC SdtRAOA
+01-
+4.000
+75 2(1 52'
+529 01'
+SAO MfllCl O'OCSIC
+01
+2.000
+75 249 44'
+Sil 14'
+CAÇAO0I
+011
+10.000
+120 249 44'
+Slt 01'
+010IIISI0 CCHOUCIM
+Oil
+1.000
+(0 249 14'
+Sil 17'
+MMCK
+on
+4.000
+7S 7(1 SI'
+529 24'
+IIAPIIAXGA
+01-
+2.000
+IS 279 10'
+Slt 42'
+CIMPCCO
+I0-
+11.000
+120 279 04*
+S2t 17'
+COKCOROIA
+II
+10.000
+120 271 14'
+S21 02*
+JOACAtA
+III
+2.000
+(0 279 10'
+Sil 10'
+POIIO UXIAO  '
+III
+10.000
+120 249 14'
+Slt OS'
+SAO MCUtl O'OfJK
+III
+2.000
+(0 211 4(*
+Slt Jl1
+OIOKIJIO CCHUCIIA
+II-
+2.000
+(0 2(t It"
+Slt \Y
+"AMVIIKA
+II-
+2.000
+(0 2(1 44'
+Slt 10'
+CHAPECO
+12
+50.000
+120 279 04*
+S2t 17'
+IIA
+I2
+O.JOO
+(0 279 17'
+521 19'
+"ARAYllHA
+U
+2.000
+(0 2(1 44'
+Sil 10'
+POÍIO UKIAO
+IJ
+10.000
+120 2(1 14'
+Sil OS'
+A8CIAR00 11"
+IJl
+4.000
+75 249 IS'
+S2t 21*
+JOACAtA
+IJ-
+4.000
+75 279 10'
+511 21'
+
+KO OPdUtlYO. OJO! OPERA AK (K CAKAl S.
+10 OPCMdVO.
+OPERAIIVO 0(.
+
+
+Pifia! Ka. 15/04/H
+
+
+siu
+(Oeste)
+Cinil
+CROSSO 00
+n
+"2
+iU
+021
+02-
+01
+Oí
+OH
+tita-"■
+04 041
+' 04-04-04-OS OS OSl OS-Oít Oil 06-Oí-07
+07
+o; or
+071
+on
+071
+07-
+07-
+01-
+07-
+08 OS 08 Oi 08< 08-08-01
+Sí" 22' SS" 57' 565 47' 54Í 22' 54" 52' 5í" 01' 54" 27' 55" 01' 566 24' 548 54' SS" 45' 545 52' 558 4J* 578 38' 548 11" 558 47' 578 49" S78 49' S48 17' 558 41'
+548 SI*
+549 54"
+
+
+•hut
+
+ HAÍO
+•• Pro"¡nc¡j/(stjdo: KIOAOUt CORNIJA
+'pom* POM
+(TAPORA "AMCAM AKAMAI (IAÍUÍU) AOUIOAVAM CIDRIA Of OOVRAOOS
+um oo no PAROO Amonio JOAO
+IMNIMI PONTA POM RIO IftllKAMC
+DOUMO0S
+KAYIRAI
+POKÍA POM (f. [TAAAMJI)
+CARACOL
+CORWIIA
+C0RWI8A IRAOOS 'J1IMXOA
+ROCKCOO
+P. "ORÍIKKO (CH. CAUCHOS)
+IflA VISTA
+ARAI ftORCIM
+lOOOÍÜfKA
+"RAKOA
+SAO CAIRICl O'OESTC
+CM"C0[
+fAMílA 00 JUl
+"ARACAJU
+10*110
+POKÍA POM SIOROIAKOIA
+AMSIACIO
+IAOARIO
+MIRAI
+K1OAQUE
+P. KURUKHO (f.
+PORfO
+ftOORAOO
+AQUIOAUAKA
+CAARAPO
+DIO
+
+
+PRf KHA
+Iit¡tv4 ÍS"t"ÍJ
+SUL
+4.000 4.000 4.000 0.(50 0.(50 0.(50
+0.450 0.(50 4.000 4.000 0.(50 0.(50
+0.(50 0.(50 0.(50 0.(50 0.(50 4.000 0.(50 O.iSO
+0.(50
+J.000 0.450 0.(50 0.4S0 0.450 0.450 4.000 0.450 ? 000
+75 711 01' 75 118 00' 75 228 52' (O 228 04' (O 218 57' (O 759 04' 10.000 170 709 21' 4.000 75 729 24' 10.000 I70 209 27* 4.000 75 729 15" O.ÍJO (O 2" W 4.000 75 229 52' (O 219 48' (O 219 04' 75 229 15' 75 259 09' (O 228 OS' (O 228 01' 14.000 120 118 00' 4.000 7S 119 00' 14.000 120 229 (2* O.(S0 (O 209 14' (O 119 54* (O 219 42' (O 229 06' (O 220 SI' (O 208 OS' 75 209 14' (O 119 55' (O 779 O!' 10.000 120 229 11' (.(50 (O 219 57' 0.(50 (O 219 04' 10.000 75 258 51' 10.000 120 228 52' 0.(50 (O 208 55' (O 208 21' 75 118 01' (O ?Í8 04' 60 218 09' 60 118 S7' 40 119 57' 40 2J9 47' 75 209 21' 60 229 J7" 60 719 48'
+
+APfKOICf I • USIA A
+CStACIOKfS IRASIURAS O£ IV fu \Hf
+U Í0XA Of COiWIKACIOK CO) PAPAMW
+Csllio	Vifif.
+Opera(ivo/PUnilici<lo fendiente
+
+Ot'"rr"cioo*"
+
+
+Pijini Ko. IS/04/94
+APCKOIC£ I - USÍA A
+KfAClOKS IRASU£RA5 P£ IV £K VKf
+£X ÍO"A 0£ COORHMCI0K CO" PARACUAf
+
+locilidid
+
+Ciml
+
+rue
+
+ iJtitu<i  (su<f)
+
+(O"teJ
+
+ Vtiil.  Opcrjtivo/riinilicidt) Prntfieotc
+
+
+011
+01-
+01-
+01-
+10
+10
+10)
+10)
+10-
+10-
+10-
+II II II II III ' III III II-II-
+12 12 12 . .12) 12-
+/
+u  u
+13-
+u-
+
+\-r>
+
+
+OOUUOOS (IIAU1I)
+tOOOWEXA
+JASOtfl
+AWIOAUAKA
+OOURAOOS
+KAYIHAl
+"VAS 00 MO PAROO
+SAO CAIRltl O'OfSIE
+SCtC OUCOAS      .
+CAKACOl
+RtUXOA
+AKAMAI
+AKIOKIO JOAO
+"£IA VISTA
+KARACAJ"
+HOYA AtfOMOA
+CIORIA Of WKHAOOS
+CAAMPO
+JAROI/t
+". RUItrtKKO (r. COlftSRAj
+MM* PORA
+lOOOQUHA
+KI0A8UE "O.MllKAHIf AKAMAI (PASAMOS) CAARAPO (Ml)
+f"riM oo sui
+P0R10 RURIIXXO
+AKASfACIO
+AQUIOAUAKA    .   •
+  UArdll (IIAÍUfJAI) SAO CA8RIEL O'OfSIf OOURAOOS IAOARIO
+MSfltAI (CU. SAPUCAIA) "flA VISIA
+
+
+0.(50
+0.Í50
+0.450
+0.(50
+4.450
+0.(50
+0.(50
+J.000
+0.(50
+0.(50
+0.(50
+0.(50
+0.150
+0.(50
+10.000 170 |!i 0|' ".(SO   (0 ?K 12' 16.000 120 7it tí' 0.450   (0 70! 05' 0.650   (0 219 21' 10.000 120 20fl n' 10.000 120 22" 12' O.ÍSO   (0 25" Oí* "0 200 27' Í0 199 1]' (0 2" SI' "0 221 01' "0 209 14' <0 2JÍ 04' Í0 22( U' n 221 Oí' (0 218 ¡V (0 2tf 21* (0 22t 24' (O JJÍ 37' (0 JI9 J71 "0 Mi 57'
+10.000 120 22Í
+0.(50- (O 2I9-09'¿ O.ÍSO 40 2I^"'¿' O.ítf, (O 2J8 9tü-': 0.(50 (O 228 37' 0.(50 (O 228 19' 2.000 75 218. 42'. O.ÍSO 40 208 29' '*. '".I.Í.Í0O0 120 208 29* ~?-0.450 40 238 J9' "-■" 0.450 40 198 JJ' 14.000 120 228 12' 2.000 75 198 01' 0.450 (O 238 04" O.ÍSO 10 228 07*
+
+57Í JI'
+549 53' 559 14' 5(9 47' 5(9 08' 559 48' 549 Si' 529 12' 539 45' 549 32' S49 48' 570. 01* 569 23'
+559 14'
+559 54'
+SÍ9 22*
+SS8 01*
+549 23'
+S4Í Hf
+549 SI*
+HP. Of
+578 49'
+559 41'
+5(9 47'
+549 14'
+559 47'
+549 14'
+559 14'
+549 SI'
+548 27'
+579 SJ'
+559 48'
+558 48'
+549 J4'
+549 52'  . 549 SJ* 539 38' 558 14' 5<8 JI'
+
+"tPUCCIO* DE J if P/tAP. (AM
+
+
+" fro"lndi/£itjiio: Htm
+CUARAPUAVA >OVA 10K0RIM
+runctsco iftiwo
+CUAIRA 1AKUK0IA CAflPO nOURAO COIO-fRf
+
+0? 02 OH OH 02-0?-05
+
+10.000 120 259 24"
+0650	60. 229 44"
+4.000	75 269 04'
+0.(50	tO 249 04'
+0.650	60 259 IS'
+16 000	120 2<9 03"
+1 '00	)5 ?<0 H1
+
+SI8 27'
+S38 00' 538 04' 549 15* 538 59* 529 22' 5J5 01'
+
+Pljini Ko. 15/04/94
+
+        m MA    latitud Cinil       (L) (■)      (Sud)
+
+AP(KO{(( I - HSU A
+(SIACIOKCS 1RASIUP-W PC IV ÍK VKf
+(X /OKA M COOROIXACIOH COK MfACl.WV
+lonjiUd     (sl"do     Vciil. (Oestt)  Operttivo/PUnificido Prndicnle
+
+
+\
+^V
+J^
+•;*
+: liiii-i
+
+PAIOIIKA CASCAVd
+oois tumos
+SAXIA "UKA IAAAMUÍAS 00 SVl fORIO 11(0 PAIO MAKCO CUARAPUAVA
+CAKPO "OURAO MUCMl CAKOIOO Í0K0OK A"PAR£
+IWRfCKAt CAKOIOO ROX80K PAIO IRAftCO ASSIS CKAKAUtRIAXO UHOARAIU FOI 00 ICUAÇV CAMPO "OURAO lOAKOA CASCAVd PCROIA
+\\-/ IOKÍO \      PAIO IRAKCO IWtUARAHA IPORA
+Ji. JMIOXIO oo juoomr
+"AAÍCHAI CAXOIOO "OXOOX
+CASCAVd
+PAIO IRAXCO
+AUOKIA
+lOAKOA
+CAKPO IIOURAO
+CUARAPUAVA
+IXOIAKOPOIIS
+CAPAHIM
+IARAKJURAS 00 SUl
+CASCAVd
+fOt 00 1CUAÇU
+COIO-(R(
+SAICAOO fllHO   .
+fAAKCISCO Id IRAO
+UflUAMflA
+APUCARAKA
+CUAIRA
+OÚfOAJ 00 ICUAÇU
+C(U AM
+OWCAfKCIA 00 KORK
+
+01	1.000   75 2(9 17'
+01	1.000 120 2(9 57'
+01)	0.(50   (0 259 45'
+031	0.(50   (0 249 52'
+01-	4.000   75 259 24'
+91-	0.(59   (9 7)9 41'
+"4	2.000 120 2(9 II*
+041	1.000 120 259 24'
+041	1.7(4   75 259 11'
+041	14.000 120 249 01'
+04-	4.000   75 249 14'
+04-	0.(50   (0 259 55'
+05	10.000 120 249 14'
+05	1.100   75 2(9 II'
+05	1.2(4   7$ 249 2$'
+051	14.000 120 2(9 44'
+  05-	14.000 120 259 12'
+• 05-	2.000 120 249 01'
+04	4.000   7$ 229 $4*
+0(1	12.000 120 2(9 $7'
+04-	1.2(4   7$ 219 "'
+07	1.000   7$ 249 40'
+071	50.000 120 2(9 II'
+7- 10.000 120 219 44'
+01	(.000   75 2(9 00'
+01	0.450   (0 ?i" 0}'
+OH	10.000 120 2(9 W
+8- 10.000 120 2(9 57"
+0?	10.000 120 2(9 II'
+09	4.000   75 219 52'
+091	7.000   (0 229 S('
+091	10.000 120 2(9 01'
+09-	10.000 170 259 24'
+09-	0.450   (0 219 29*
+09-	7.000   40 259 19'
+10	10.000 120 259 24'
+10	10.000 120 249 57'
+101	10.000 120 259 12'
+101	10.000 0 2(9 II'
+10-	0.(50 40 2(9 12'
+11	10.000 120 2(9 04'
+II	4.000 75 219 4('
+II 50.000 120 219 ii'
+III 10.000 170 2(9 04*
+III	(.000 15 759 77*
+11-	2.(10 15 259 09'
+II-	0.4" 40 719 04'
+
+$49 04• $79 22' $49 14' $19 29* $49 04' $29 42' $19 11* $39 12' $49 1$' $2i 22' $" II' 5" 27' $19 41' $19 44' $29 42' $19 II' 5J9 42' JJ" "' 5(9 0(' 519 27' 529 (2' $19 $(' $19 II' $29 22" $19 27' 529 42" 519 50' 529 24' 519 27' S49 15' 519 01' 519 21* 519 04' 519 19* 519 28' 5(9 15* 52" 5C 519 $1* 539 29'
+
+RfWCCIOH 1 <f8 P/SAtTOS M "AMA
+REDUCCIÓN 0( 1 <JP P/fWRIO ICl'AÍU
+
+O
+
+I "4.	4
+I5/O4/Í4
+        APIHWCt I • IISIA A CSIACIOXCS IRASIURAS 0( If CK VHf
+m ;O"A o( (QOFoiMciflx ron nutmt
+
+loc"lid"d
+
+PR£ KfIA    latitud     longitud	(stido	Veril.
+Cinal      ((>) (•}      (Sod)        (Oeste)      Opentivo/Plinificidi Pendiente
+
+
+\
+
+
+12
+12
+121
+12-
+12-
+13
+11
+IJi
+13-
+PAIOIIKA CAflPO HOU"AO CAfAKOWAS fO/ 00 ICUAfU "UAHAPUAM flAKClSCO ICUMO PHOIA CASCAYtl SALTO 00 lOXIXA
+" Proriiicii/Cilido: "10 CPAKOf 00 SUl
+ 02  021  02- 03  031  01- ' 03-
+ 04
+ 04  0<  041  0<- 04- OS*  05- 05- Oi  Oít  OÍ- 06- OJ
+ o;-
+ OK
+ 01-
+ OS-
+ ti
+ 0?
+ OI
+ 10
+ ID
+ 10)
+ 10-
+ 11
+ II
+SANIA ROS*
+URUCVAIAM
+SAO tORJA
+"O0H( COKIAK!
+SAXIO CIISIO
+100(10 lOKlIO
+SIO. AKIOilO OAS IIISSOCS
+POSIO mid
+IKS DE XAIO URUCUAIAXA
+SAX(O AKCIO
+SAO lOBJfl
+mi PASSOS
+VRUCVAIAKA (PIAKO "110)
+SAO IOHJA
+IUS PASSOS
+OUAIAI
+SAKfA POS*
+SAO XICOIAU
+SAO VAtmill
+SAKIO AKCdO
+SAO [Vil COK/ACA 5W I0OA }tii 01 "AIO StOfldORA UllKUAIAKA SAffA "OSA PODIO Un C"U/ SAKUACO DVADAI
+SAXIO AKCUO POfllO ""US Sífl IUIÍ CO*"tA
+
+2.400   7S 249 W        S" $f
+S2Í 22' S39 01' S49 JS' Sit 27' 539 03' Si" "' Hi 27' S39 If
+2.000	(0 249 03'
+0.450	"O 2SI 13'
+10.000	120 259 12'
+10.000	120 2S! 24'
+2.000	(O 249 OS'
+4.000	7S 21? 41'
+SO.OOO	120 24Í 5?"
+2.000	75 255 47'
+549 30" 579 OS' SÍÍOO' 5Sff"' S4Í 40' 539 U' SS9 IS' 5S9 Of S49 II' 579 OS' S4t 14' Sífl 00' S3! 57' 5Í9 31' 549 00' 539 55' Sí! 27' 549 30'
+52! SI' S4" 14' 549 27' S4t 57' Sit 00' 549 14' 539 38' 579 05* S4! 30' 549 53' 549 32' 549 27'
+549 40' 549 57'
+0.200 2.000 2.000 2.000
+4.000   IS 27t S2* 4.000   7i 215 4(' 3.000 120 784 40' 4.000   ;$ 210 01* 3.000 170 270 41" 4.000   75 270 2?" (0 285 30' 75 27S S4* (0 271 4Í' 75 2fg 46* 3.000 120 28! II' 4.000   7S 285 40' 4.000   7S 275 21' 4.000 120 295 44" 14.000 120 2" 40' 4.000   75 279 21' 1.000   40 305 23' 70.000 ISO 27} 57' 2.O00   75 2"0 II" 10.000 120 279 31' 50.000 120 289 17' 2.000   75 309 22' 7.000   40 719 24' 10.000 I" 7JÍ <0* 4.OO0   75 279 44" 1.000   40 279 40' 5.000 120 719 44* 4.000   75 279 52' 1.000   40 219 43' 7.000   75 219 12' 4.000   75 309 23' 10.000 l?0 289 17' 1.000   40 279 35' 2.000   75 789 74"
+
+RfOOCCIJK 1 it H SílfOS Kl C'WUA
+fiCWCUOX I/SO (> P/MiKtC CASfCOS
+P.COUCC10X PARA SA" JAVUR 0.3/40
+KtOUCCIOK Of 3 dS PC 3009 A 340?
+Á;
+
+      Ka.         5 15/04/94
+
+iocttHid
+
+Ciml
+
+PRC KNA     Latitud ('") (•)      (S"<IJ
+
+APCKOICC I - USÍA A
+CSIAC10KCS IHASIURAS OC IV CK VHf
+CX /OKA DC COOP.OIXACIOX CON PAMC-UAT
+lonjitod	Cstido	Veri I.
+(Oeste)     Operjlivo/Plmiíkilo Pendiente
+
+Ot!rr"<cionf"
+
+
+Í9
+I i:
+• I;
+m
+
+ICXCXIC fosrtiA	ii-
+11(1 MJJ05	1)1
+(MVCMIAXA (J. ARÍtíUI)	121
+SAO I0MA	12-
+IUCVXOOYA	|2-
+PORIO IDCCXA	|J
+SAXIO AIKVSIO	|J
+SAO lüll C0NIA6A	IJl
+SAXIO CX1SI0	1J-
+UÜIKVAIAXA	|J-
+'> Prcrincii/Cstiifo.- SANIA CAIARIKA
+JWHOAI	021
+SAO JOSC 00 "ORO	OJ
+XAXXCRC	OJ
+CAÇAOOR	OJ
+COXC0RO1"	OJ)
+SAO lORCXfO O'OCSIC	•   04)
+COKCOSOIA	04-
+OIOXISIO "ROtltlRA	04-
+IMIAYIIXA	04-
+IPWIIIIII	os
+SAO MCUU O'OCSIC	05
+XAXXCRC	05<
+COXCOROIA	05-
+IRAXI	05-
+CXAPCCO	06
+CUXKA PORA	06
+OIOXISIO CCROVCIRA	06
+CUARACIAIA	06
+SAO CARIOS	06
+ÍVARtMA 00 SVl	06-
+lUKAVUKA	07
+SAO iticua o'ocsic	oí
+CAÇAOOR	07<
+OIOKISIO CCROUCIRA	tl-
+XAXICDC	07-
+CXAPCCO	09
+(lOKOAI (IPORA O'OCSIC)	01
+pufino]	oí
+3(0 MCVÍl D'OUK	01
+CACADOS	O? i
+{AKICRC	O?i
+IMCIIANCA	09-
+CKflPCCO	10-
+COHCOAOIA	II
+SAO XICUCl O'OCSIC	111
+
+4.000 75 779 77* 7.000 10 7/(71' 7.000 75 2*9 it' $.000 170 289 40' 2.000 (O 279 "' 2.000 7$ 279 $1' 1.000   "O 279 SI'
+10.000 120 789 74' 4.000   75 279 44'
+50.000 170 249 46'
+1.000 0.(50 l.}(4 O.JOO 1.2(4 4.000 1.2(4 O.JOO 4.000 O.JOO 0.650 O.JOO O.JOO O.JOO 2.000 2.000 2.000 2.000 4.000
+1.7(4   7$ 779 OC O.JOO   (O 7(9 2í' 4.000 170 7(9 S3' 1.7(4   75 7(9 4í' 10.000 170 779 14' 7.000   75 7(9 71' 7S 779 14' (O 7(9 U' 15 7(0 U' (O 7" 05' 7$ 7(9 46' 7$ 7(9 $J' 7$ 779 14' (O 779 01' 75 779 06' (O 2(9 $4' (O 2(9 l(' (O 2(9 J(* (O 279 OS' (O 2(9 2J* (O 2(9 44' (O 269 46' (O 2(9 4(* (O 2(9 16' 75 2(9 5J' 10.000 120 279 05' O.JOO   (O 7(9 57' O.JOO   (O 779 04' 2.000   I) 7í? <(' 10.000 120 2(9 46' 4.000   J5 269 53' 2.000   75 279 10" 11.000 120 279 06' 10.000 120 279 14' 2.000   (O 269 46' 1 nno    M 71-1 It'
+
+
+4%'
+5/' 41'
+00'
+5J9 JJÍ 569 5(9
+$59
+47' $7' 40'
+5J9 $49 $49
+539 24' SJ9 JO' 579 74" $19 01' $79 O?1 $79 Sí* 579 07' SJ9 J7' 5J9 10' 52J 01' SJ9 J4' $29 24' $79 02' 519 54' 529 J7" SJ9 10' 5J9 J7' 5J9 Jl' 535 00' 5J9 J2' 535 10' 5J9 J4' 519 01' SJ9 J7' $29 24' 529 J7" 5J9 J2' SJ9 10' JJ9 ]<' 519 01' 529 2<" 5J9 43' 579 J7' 529 02' 5J{ J4'
+
+OJO! XO CORRCSPOIIOC. XO VA. OPCSA Í.OC IRHOrC" C.7 "CCU85
+
+
+OÍ
+
+"((Al "0.
+
+
+1 •■•"•!
+
+\
+
+PÍOKISIO CCMUUM
+mmm
+CHWCCO
+ir"
+IMMVIIM "KMMO tU(
+
+
+m
+WM
+UtiUd
+lOftJttvd
+Canil
+(..)
+(•)
+
+($"d)
+(Otile)
+II-
+2.000
+(0
+2tt
+It'
+SJt Jí'
+II-
+7.000
+to
+7tt
+4í'
+SJt 10'
+12
+S0.000
+120
+27t
+Oi'
+S2I Jí'
+12
+0.J00
+to
+270
+17"
+S2t If
+IJ
+2.000
+to
+2tt
+4í'
+SJt 10'
+IJl
+4.000
+75
+2ft
+JS1
+S2Í 2f
+
+
+mmtt i - asi* A
+ KIACI0WJ UKlltm K I" fK VKf fll UH Of COOSOIIWCIOK COK
+t$U<fo
+OPfBAUVO 0(.
+
+Pijlni Xo.       I 15/O4/J4
+
+
+RCOUCCIOX 1/(0 U PARA KOXIC CA£C"OS
+Hi!
+
+l
+
+
+APEXOICE 1 - 1ISIA A
+
+
+(SIAC10XES ISAS 11 ERAS Of IV EX W
+
+
+(x IOM p( (OORAixAriflx rnx (IRIICHAT
+
+
+m WA   iititud
+loajilttd               {jtido             rerif.
+locilidtd
+Cmil       ((■) (•)       (Svd)
+(Oeste)      Operitivo/PliMficKfo Pendiente
+" Provincil/istida: RIO C1AKOC 00 SUl
+
+URUCUAIAKA (8ARRA 00 OUAAAI|
+02
+1.000   (0 J09 12'
+579 JJ'         /O
+RIO CRAXOE
+02
+4.000   7SJ29 0I'
+S29 0C      A     1
+SAXIAKA 00 UttAMMIO
+07
+4.000 120 309 52'
+559 J2"   /*<S
+ACUOO
+02
+2.000   75 2" J9'
+SJ9 H'"           "Zj
+URIKUAIAXA
+021
+4.000   7S 2)9 44'
+579 OS'                 1
+SAO IORJA
+02-
+J.OOO 120 219 40'
+S4" 00'             ^^■""^
+SAO CAIRICl
+02-
+0.(50   (0 J09 20'
+549 If                >1
+PIXHURO flACXAOO
+02-
+I.000   (0 JI9 JS'
+SJO 22'           A  1
+SAXIA VUORIA 00 PAIMR
+02-
+1.(00   75 JJ! it'
+SJ9 22'      /C   /
+CACHOEIRA 00 SUl
+OJ
+J.OOO 120 J09 02'
+529 55' /*(/
+IÍAOVI
+OJ
+4.000   75 299 07'
+5(9 J4'            \ 54t 42'          / 54" 07'      -f--J1Í Ji1       '
+MCUARI
+OJ
+1.1(0   75 299 29'
+
+
+1AC(
+OJl
+4.000   75 Jit If
+
+
+mi "i IA
+OH
+K.OOO 170 ?J9 11"
+
+
+CAflAWA
+OJ-
+5.000   75 J09 SI'
+5IÍ 4"'
+URUCUAIAKA
+04
+2.000   75 299 44'
+5(1 05'                                                         I
+110 CRAXO£(C. OUAIRO IRJIAOS)'
+04
+1.000   (0 J2S Id'
+529 J4'
+SAXIA HARM
+04
+K.OOO 120 299 42'
+SJt SO*
+AUCRCtUilXCAO Of SAO IIICUU
+104
+1.000   (3 279 24'
+559 41'
+0011 K0RII0 (I. SEVERO)
+04
+0.(50   (0 JI9 01'
+549 II'
+SAKIO AKCEIO
+041
+J.OOO 120 269 II'
+549 14'
+PEIOIAS
+041
+25.000 120 Jit 4('
+529 20'
+SAXIAXA 00 lIVRAIKKtO
+041
+K.OOO 120 JOt 52'
+559 J2'
+SAO IORJA
+04-
+4.000   75 289 40'
+5(t 00'
+PElOiflS
+05
+1.2(4   75 Jit 44'
+529 20*
+RIO CRAKOE (C. OUAIRO IPJIAOS)
+05
+1.000   (0 J29 K*
+529 J4"
+cm AHA
+05
+4.000   75 219 Jl'
+5J{ Ji"
+KUIKA XCCRA
+05
+1.000   (0 Jit 24'
+SJ9 52'
+SAO SEPE
+051
+J.500   75 J09 Of
+5J9 J4*
+UflUCUAIAKA (PIAXO AltO)
+OS"
+4.000 120 299 4('
+5(9 Jl'
+PINHEIRO IIACXAOO
+OS"
+0.(50   (0 Jit JS'
+SJ9 22'
+SAXIA VITORIA 00 PAUAR
+OS"
+1.000   (0 JJt Jl'
+5J" 22'
+CAKCUCU
+051
+4.000   75 Jit 7J"
+579 41'
+3A0 Km
+05-
+K.OOO 120 219 40'
+549 00'
+"AAAU
+05-
+2.500   75 219 27'
+529 12'
+JAtUARAO
+05-
+4.000   75 J29 JJ'
+5J9 2J'
+SAO 10UREXÇ0 00 SUl
+Oi
+4.000   75 JI9 22'
+519 59'
+OUARAI
+OS
+1.000   (0 JOO 2J'
+549 27'
+SAXIA "ARIA
+Oí
+4.000   75 299 42'
+5J9 50'
+CAÍ1AÍUA
+Oí
+0.(50   (0 J09 51'
+519 47'
+RIO CRANOf
+Oil
+4.000   75 J79 01'
+529 04'
+IACE
+061
+K.OOO t?0 JI9 19'
+549 07'
+SAKIA CRUI 00 SUl
+06-
+J7.000 120 299 4J'
+529 24'
+AlECREIE
+0Í-
+K.OOO 120 799 48'
+559 48'
+ARROIO CRAKOE
+0£-
+I.JOO   75 J29 14'
+5J9 05'
+CKUI
+05-
+0.JOO   Í0 JJ9 41'
+5J9 V
+
+O
+O)
+
+Pljiiu No. IS/04/14
+
+loci liii id
+
+Oml
+
+PRC "KA     lltitwf
+
+APCKOICC I - (ISIA A
+CSMCIOXCS IAASIURAS OC IV CU U(
+CX 7OKA OC COOROIXACIOX COK WMM
+UajiUÍ	CsUío	Veril.
+(Oeste)      Ofwrativo/Piinificj<fo Pen4ie"t;
+
+0(>!"rv"uoii;s
+
+
+VRUeUAIAXA (IARAA 00 QVAMIJ
+07
+4.000   75 JO? 12'
+S70 JJ'
+SAKIA VIIORIA 00 PAIRAR
+07
+2.000   tO JJt 11'
+SJ0 22'
+AtCCHHC
+07
+10.000 120 21? 48'
+S59 48'
+lítf (ACCCtfA)
+07
+2.000   75 Jl? 52"
+54? 10'
+IIAOVI (flASJAKIARAj
+07
+2.000   75 219 01'
+Si? 04'
+'IIKUIO MCKAOO (CANO!)
+07)
+0.(50  tO Jl? 2Í'
+SJt 40'
+RIO CRAKOC (CAS51K0)
+07)
+4.000   75 J2? li*
+529 10'
+CAÇAPAVA 00 SUt
+07)
+10.000 120 JOt JO'
+SJt 29'
+JACUARAO
+07)
+2.000   tO J2? 11'
+SJt 2J'
+PCtOIAS
+07-
+10.000 120 Jl? 4f*
+529 20'
+OUARAI
+07-
+2.000   75 JO? 22'
+Sit 27'
+CACCOUl
+07-
+0.104   tO 21? SJ'
+$49 SO'
+OOA PCORIIO
+07-
+2.000   tO JO? SI'
+54? 40'
+SAO fRAKCISCO OC ASSIS
+08
+1.000   tO 21? J2*
+SS? 07*
+PIKHCIRO HACHADO
+08
+4.000   75 32? JS'
+SJt 22'
+CRVI AltA
+08
+10.000 120 28? 38'
+SJt W
+SAO IUU COXÍACA
+08)
+2.000   iO 28? 24'
+S4? S/'
+SAKIA RADIA
+08)
+10.000 120 21? 42'
+SJ? SO'
+S.Y.MUIAR(AIIARAIIAO/CII.HIRIH)
+08)
+O.tOO   tO 339 OJ'
+SJt 12'
+CAXCUCU
+08)
+2.000   tO Jit 2J"
+529 41'
+SAO 80RJA
+08-
+I0.000 120 289 40'
+Si? 00'
+SAKIA C"V{ 00 SUt
+08-
+10.000 120 29? 43'
+S20 25'
+SAKIAXA 00 IIYMHCKIO
+08-
+10.000 120 JO? 52'
+SSÍ 12'.
+CAMOUA
+08-
+10.000 120 J09 SI'
+SU 41'
+SAO CAMKt
+01
+2.000  (0 JOÍ 20'
+J4Í 11'
+UÍUCUAIAJA
+01
+5.000 120 21? 4f
+S79 05'
+DIO CRAKOC
+01
+50.000 120 329 01'
+529 04'
+SAKIA VIIORIA 00 PAIRAR
+01)
+2.000   tO JJ9 10'
+SJ? 22'
+AICSRtIC
+OD
+10.000 120 21? 48'
+SS? 48'
+CACKOCIRA 00 SUt
+OD
+10.000 120 JOt OJ'
+52? 54'
+SAO VICCXIC 00 SUl
+09-
+1.000   (0 290 41'
+54? 40'
+8ACC
+OI-
+10.000 120 JIt 19'
+54? 07'
+SANIIACO
+IO
+2.000   75 290 12'
+54? J2"
+SAO IOSJA (I1IHAUYAS)
+10
+1.000   (0 289 JJ'
+SS? 08'
+DOfl PCORHO
+10
+1.000   (0 JO? 59"
+549 40'
+IIAOUI
+10
+1.000   (0 299 08'
+5(? 33'
+PIKHCIRO HACHADO (CAKOI)
+10"
+2.000   tO JI9 24"
+SI? 40'
+OUARAI
+10)
+4.000   75 J09 23"
+Sit 27'
+SAKIA HARÍA
+10)
+(.000   75 299 42'
+519 50'
+CAKCUCU
+IO<
+7.000   (0 31? 23"
+52? 41'
+SAKIO AHCCIO
+10-
+10.000 120 289 17'
+54? If
+JAMIARAO
+10-
+2.O00   75 S29 33'
+519 23'
+SAO IU17. COIIACA
+II
+2.000   75 289 24'
+549 57"
+URVCUAIAXA
+II
+5.000 120 719 H'
+579 OS'
+PIKXCIRO HACHAOO
+II
+2.000   (0 319 35'
+539 22'
+CACHOCIRA 00 SUl
+II
+10.000 170 30? 02'
+529 SJ"
+(RVAl
+II
+I.OOO   (0 129 02'
+5J9 24"
+IIAOUI  (BOflORf)
+II
+7 000    J5 719 01'
+5SP SJ'
+
+"COUCCIOK P/PASO OC IOS II8RCS 1/(0
+
+Pijtna It. I5/O4/H
+               I • (ISM A CSlACtOMS 8MSIUPAS H (V (" VHf fX /OKA 0( CMSOMACIOX CO" mWM
+
+
+m
+
+_
+
+
+m
+KM
+lililuJ
+[      lonjltud                £i(jdo              Vtfil.
+loci1¡did
+Cjful
+(t-J
+(•)
+
+is*)
+(Otjte)      Ofxrilifo/Plinilicjdo Ptndidile
+"10 ÍSAÍO£
+III
+10.000
+170
+529
+01'
+579
+04'
+ROSARIO 00 SM
+lit
+7.000
+"0
+309
+14*
+549
+Si*
+S.V.PA(IIAI!(PASIORIfRO/R.CRAKO[
+11-
+0.400
+(0
+359
+17'
+539
+or
+AUCfldf
+II-
+10.000
+120
+2?9
+48'
+559
+48'
+IACC
+II-
+10.000
+170
+319
+If
+549
+07'
+CAXAOUA
+II-
+7.000
+(0
+J09
+SI'
+SI9
+4f
+CXU1
+II-
+3.000
+IS
+559
+41'
+539
+77'
+SAX1AXA 00 UYRAMXIO(PAIIPUAO
+12
+4.000
+;s
+309 5f
+559
+IS*
+ARROIO ÍRAKO£(CJAXJA IRHAXXA)
+12
+0.(00
+(0
+528
+50'
+539
+04*
+VHKtMIMM {]. ARRfCUl)
+121
+2.000
+;s
+111
+28'
+5(9
+41'
+nono osoaio
+121
+2.000
+"
+Jit
+S2'
+S29
+SO'
+MUM HMlA
+l?l
+50.000
+120
+w
+"'
+JJ8
+J4'
+SAO IORJA
+12-
+5.000
+120
+288
+40'
+5(9
+00'
+00)1 PfORlIO
+12-
+2.500
+IS
+J08
+$f
+549
+40*
+SAO rRAKISCO Of "SSIS(OIAXA
+13
+1.000
+(0
+218
+JS'
+5S8
+if
+PUHHRO MCXA00(K0"AS AtlASI
+13
+5.000
+(0
+JI9
+45'
+538
+55*
+S4XIA CSV/ 00 SVl
+13
+10.000
+120
+218
+42'
+528
+24'
+SAXIAXA 00 UVRAMXtO
+13
+4.000
+170
+J09
+S2'
+558
+52'
+ARROIO CMKOC (S0U0A0)
+13
+0.(00
+(0
+579
+2*'
+579
+54'
+IAC£
+13
+10.000
+120
+518
+If
+549
+07'
+IIA9VI (XASSAMAU)
+13
+8.000
+75
+7"
+Of
+549
+04*
+SAO CA1RIU
+in
+2.800
+IS
+309
+20'
+548
+If
+SAO IUÜ COIIACA
+13*
+10.000
+120
+788
+74'
+549
+SI'
+PUOÍAS
+I3t
+50.000
+120
+511
+4<*
+528
+20*
+S.i.PAUAIt (CUMA flAKCVfIRA)
+131
+0.(00
+(0
+538
+05'
+529
+S2'
+URUCVAIAXA
+13-
+50.000
+120
+719
+<4'
+S79
+OS'
+CAÇAPAVA 00 Sill
+13-
+10.000
+120
+309
+50'
+iSV
+
+
+KOUCCIOK p/IACMRfMO (•£ 1/(0
+
+
+-.'   i
+
+o
+
+W   W   "a*  >""
+ a.
+I5/O</14
+        AfiltOICC [ • 11SIA A CJÍACIOICJ MMÍÜATAS 0( IT ft VKf (" KM Of COflftOIKACIOtl (tK
+
+
+ni
+RIA
+litlIW
+lOAfiltfl
+
+IKIliM
+CIMI
+
+(•1
+
+(SWI
+(OfJttJ
+C
+M/O coi HAM
+47
+(4.044
+IS
+7J9
+W
+}l" "y
+I
+C("tMt ÍK("|O ". CAIAI
+Oí
+M.404
+M
+708
+
+42" 11 ,
+"
+fOIIK C(A(IA( (MI
+07
+1.444
+"4
+218
+w
+408 14^
+f
+CIUOAft Ofl (SI(
+02
+5.000
+"0
+259
+Si'
+548 St''
+t
+ASUKIOII
+02
+20.040
+120
+2S9
+14"
+578 If*
+t
+SAIÍ1ACO
+o;"
+4.144
+- 40
+278
+M"
+5(8 41'/
+t
+HÚMICA
+07-
+10.040
+129
+258
+4Í'
+548 27V
+t
+ruuuriA
+01
+14.040
+75
+228
+IIs
+40" 01''
+f
+SAIU IIIA
+01
+1.040
+40
+25"
+41'
+558 01''
+1
+SAD KM*
+01
+10.040
+75
+249
+04'
+5Í8 04'/
+t
+CAAtWf
+01
+".(00
+40
+258
+24'
+578 14'/
+t
+rw
+01
+I.O00
+(4
+25"
+or
+558 SSV
+t
+CAA7AH
+41
+5.044
+75
+2(8
+ir
+S48 22'/
+t
+IfllA VISTA SU(
+o:
+0.100
+45
+27"
+02*
+SS" J2'>
+r
+HWAIK
+OH
+0.S04
+(0
+27"
+04'
+SI" "V
+"
+TAidrir
+01-
+1.044
+(0
+27"
+20'
+S79 0$V
+t
+IlAWrir
+41-
+1.444
+4*
+24"
+SI'
+SS" 04V
+t
+ctflwcwir
+44 '
+10.040
+75
+24"
+27*
+SS" JlV
+*
+OH. K"M f. K"A
+04
+10.044
+75
+22"
+25'
+"2" itV
+t
+MIAIJAl
+44
+1.440
+(1
+H"
+U'l*
+SS" lO'-f
+f
+A5UKI0II
+(4
+11.040
+114
+75"
+W
+S7" 11'^
+t
+SAI MI KdltuCQ
+441
+1.404
+(0
+24"
+Si'
+57" $4*/
+t
+SAI JUAI H'OAUCtnO
+04 "
+t.404
+44
+2"f
+01'
+55" SC*
+t
+SAI csriitsuo
+04-
+1.404
+40
+74"
+14*
+S"" 27V
+r
+SAn SAUAOOI
+04-
+1.444
+(1
+25!
+57'
+54" 25V
+r
+MIÕI OIAÍO
+04-
+1.404
+(4
+24"
+20*
+S4" 42V
+f
+ATOIAS
+04-
+10.444
+(5
+27"
+2J'
+S4ÍS0V
+t
+MIAt
+os
+1.044
+75
+24"
+SI*
+51" 17V
+t
+r. MU ASVKIOI
+os
+4.044
+(0
+24"
+42'
+41" SI*'
+t
+MIISCAl (JIICAIIIIIA
+05
+14.444
+
+22"
+04'
+40" "V
+t
+COKCKIM
+05
+14.444
+75
+21"
+25'
+579 21V
+t
+CAACUAIU
+05
+14.444
+75
+258
+27'
+54" 04'"
+t
+(XCAIIUCIOI
+OS
+40.404
+120
+278
+21'
+55" 52'/
+t
+Asuncioi
+OS
+40.044
+120
+758
+14*
+57" St'/
+t
+AlKKOI
+os"
+5.444
+75
+2(8
+12'
+5" V
+t
+KOW 1. CAIAIUM
+os<
+1.004
+75
+228
+12'
+55" SlV
+0
+SAK ICftACIO ÍMS.
+os<
+2.044
+<(
+2(8
+U'
+S7" IIV
+r
+SAI IOS 0(1 OMIM
+05-
+5.044
+75
+7<8
+41'
+54" líV
+0
+"osmio
+,05-
+1.444
+(0
+249
+27'
+57" 0SV
+t
+"010 i. (AHUMO
+04
+4.000
+170
+Ui
+JJ*
+5J" il'-^
+f
+m "a
+Oi
+5.000
+(0
+2J8
+54'
+55" 27V
+t
+tvttit HHsa
+Oi
+S.004
+40
+229
+44'
+SJ8 54V
+f
+mm n". CSIHAI MWM
+Oi
+1.000
+iO
+748
+01*
+i"4f-*r
+t
+lows mm num
+Oi
+1.400
+U
+749
+21'
+558 \V*
+r
+roKii IA"AC"IA-I
+041
+I.OM
+(1
+2OÍ
+04'
+418 42V
+t
+Adoros r fsitnos
+Oil
+0.540
+(0
+2S"
+04'
+SJ8 44'/
+t
+roiru i("it"i( (. ocHOA
+0)
+4.000
+iO
+719
+41'
+408 54*•
+t
+
+ tiU*i
+
+ Veril.
+ ffMi""lr
+
+•irucciox M i 4t t/rvi'tt awn: iw.\t k "CPICIO".
+"IWCCIOli (•( 1 it HH
+StfJOO A (1C0IC1OÍ.
+
+sumo A nrttictOM.
+((OUCCIOI 0( 1 U U UHUl CvflltS
+KWCCI0K 0E 14 41 tf
+ItDOCCIO" 0( J it MM ((OUCCIOK 0( 1 41 tm AI((KIKA.
+KOVCCIOX 0( 1 41 tl Ml. CAXPIM "OH'OI
+"(Micción or) n nu on
+
+ "0.
+15/04/M
+                   • tISU * tSTACIOWS MKACUA1AS M IV f" W:
+
+
+1
+
+
+PM KM     Ittitud
+(SttdO	Vtfif.
+local¡¿id
+CJAJ]
+(0"5t;|
+Optritifo/Pljiii ficado
+
+fUAOUflA
+07
+44.400
+144
+22f
+17'
+449
+OJ'/
+f
+C0IKPC1OI
+47
+2.544
+44
+2J9
+25'
+579
+71'/
+0
+COfWItl OVK00
+07
+1.544
+75
+259
+74'
+54"
+77'/
+o
+ÍKCA.MACIOI
+07
+54.040
+174
+279
+72'
+55"
+S7'/
+o
+CAAPÜCU
+07
+10.004
+IS
+7(9
+IJ*
+57"
+oiv
+t
+MUI
+071
+10.000
+75
+749
+sr
+58"
+nV
+o
+SAI CAUOS
+01
+70.004
+171
+779
+ir
+57"
+"/
+r
+IAI iUAl lAUIISIA
+01
+70.000
+1"
+7("
+<7'
+Sit
+osv
+0
+CIWAÍ 0(1 ÍSK
+01
+25.444
+JS
+7St
+JO'
+54"
+"V
+0
+VIUA AUIl
+0(1
+4.544
+44
+779
+01'
+57"
+SS'/
+f
+IA COIMIA
+OK
+4.444
+44
+259
+SJ'
+549
+"••
+t
+CAPUA* MM
+01-
+1.444
+44
+749
+57'
+559
+17V
+p
+P(0"0 1. rAIAlUM
+41
+5.004
+75
+229
+J?'
+55"
+51V
+0
+couros cmisti
+41
+0.450
+44
+249
+OJ'
+54"
+so'/
+t
+ASUICIOI*
+01
+145.004
+244
+259
+14'
+571
+Jl'"
+0
+COICÍPC1O"
+Oil
+24.044
+124
+239
+75'
+57"
+71"/
+p
+i. R. rttiios
+Oil
+4.444
+75
+259
+21"
+55"
+Jl'/
+0
+SAI KOM D£l PAIAM
+OH
+4.044
+44
+2(9
+"'
+54"
+O*V
+t
+fOHII KXKRK (. AMU
+01-
+• 1.044
+44
+734
+05*
+41"
+J7'/
+f
+ruir
+41-
+J.944
+44
+249
+35'
+54"
+IIV
+r
+Arous
+01-
+14.044
+44
+779
+23'
+54"
+SOV
+t
+OOMItCO H. IMIA
+01-
+1.044
+44
+75!
+54*
+54"
+JS''
+p
+CAPITAI IAOO
+10
+74.044
+124
+7J9
+II"
+SS"
+JS'/
+p
+RAIISCAl (SUCAUMIA
+10
+14.444
+75
+229
+44'
+44"
+U'S
+p
+conoKti oruM
+to
+14.444
+75
+259
+24'
+54"
+
+p
+(KAIIACIOI
+10
+34.044
+17*
+279
+22'
+55"
+57V
+0
+$AI ItlACIO OKI.
+10
+24.044
+100
+2(9
+$('
+5)9
+01'/
+0
+01. 1. I. "AltOIWII
+to
+4.CÍO
+IS
+m
+ii'
+sst
+IIV
+p
+SAI UfAU
+10
+I.JOO
+4S
+2(9
+31'
+54"
+52'/
+f
+C0K(PC!0l
+11
+40.444
+174
+739
+25'
+S7I
+jl V
+0
+1. I. O'KAIT
+11
+4.444
+75
+259
+23'
+55"
+71V
+0
+PllAI
+17
+14.444
+75
+2(9
+51*
+51"
+17V
+r
+P020 C010MM
+12
+14.444
+75
+239
+24'
+•   519
+ssv
+p
+01. MM P. Hi*
+12
+14.044
+7$
+22!
+25'
+429
+20 V
+p
+SAI PtOAO
+12
+24.444
+124
+249
+H'
+579
+04'-'
+p
+rinuw/u
+12
+2.444
+75
+250
+SO'
+549
+IS*'
+0
+roim id. £ST(IAI muni
+13
+3.444
+40
+2(9
+or
+519
+41'-'
+p
+ElKCIIO A. CAMT
+13
+14.444
+JS
+20!
+32'
+479
+10V
+p
+RAIISai (STICAMHIA
+13
+34.444
+75
+229
+44'
+444
+J41'
+0
+1. t. O'UAAi
+15
+10.404
+75
+259
+23'
+559
+21'/
+p
+ASUKIH
+13
+344.044
+244
+259
+Ii'
+579
+31' *
+0
+PIAAPO
+13
+0.504
+45
+2(4
+S41
+559
+35V
+p
+PMAIO iiiuifo
+13
+4.SM
+<5
+lit
+"'
+SS9
+01'"
+p
+C(I(Ml CdCAM
+I3<
+14.440
+75
+279
+41'
+549
+71'"'
+0
+SAKIA MSA D£l KmOAT
+IJi
+0.144
+40
+259
+41'
+549
+S|V
+p
+SAI IOS 0(1 CUA1M
+13-
+14.444
+JS
+7(1
+"3'
+549
+11'*^
+0
+
+ÍM'iV'tIC'-tS
+{{(■UCdOl P£ 4 dc PM li BC&UCCIOH MM S >" (4 Oil mi
+"(DUCCION o( io a m
+"WJCCIOI K it 41 tf IIUIMNÍ0
+F((HCCIOI oc J"! nn
+KCXCIOR H 4 d! (AM """TIM •(WCCIOK (•( 1 "I H ICI (■( !i"A(U
+"ÍOWCI0" (<( J 41 r/|CUAHtl
+
+ t 3 <fl tl K'OU
+
+IS/04/14
+"pfroict t - USÍA A
+(St*CIO"$ PARACVAIAS H IV (" Vi
+
+
+1
+
+
+m
+WlA     lllltvd
+lO(vgit"d                tltiio              if Ml.
+loctlMi*
+
+("")
+(•)
+Hoi)
+(Ofllt)      O""riUvo/rilMfield" PcodllAtl
+
+
+•• Prov¡iK¡"/(tti4o:
+
+
+'    \                            \
+CIUOAO od csu
+42
+5.044
+40 259
+J4'
+sun'/    \    c.¿*~-    \
+ASUKIOI
+42
+24.444
+124 254
+14'
+S79JI'-'      I           ^=^^\
+PO/0 (0101*00
+47
+14.044.
+JS219
+74'
+519 $5'^   P ~*\
+rvciit ottitro
+02
+14.444
+IS 219
+05'
+$79 SO'-;           \
+TIUAHICA
+
+
+B4-2S9
+tl'lXC
+•549 27'+               V
+SAKtIKO
+42*
+4.144
+44 279
+04'
+549 41'^              />-)
+SAK P(PIU)
+41
+14.044
+75 249
+44'
+$74 04'^          /     I
+TKU
+01
+1.044
+40 259
+"I*
+559 55*'     /¿S/
+CUJAPA
+01
+$.444
+75 749
+II*
+549 22' '   '       *S
+mu risiA-mxK
+01
+14.444
+75 779
+01'
+544 10*•*              )
+404 01V               (
+$$9 Of •            4
+fllAOUfIA
+01
+14.040
+75 779
+11'
+
+
+SAKU IIIA
+01
+1.044
+44 759
+41'
+
+
+HORWtA
+OH
+1.004
+W 719
+70'
+$79 "2* '
+CAPIM 1AM
+Oil
+10.900
+75 7"
+IS*
+$$9 1$' '
+TAICITItr
+01-
+1.440
+40 779
+20'
+$79 0$' •>
+mcum
+01-
+1.000
+Í0 244
+$r
+$59 04' •*
+fomu MOMJIM
+01-
+1.000
+"0 709
+U'
+w $o'.-
+ASVICIOI
+04
+U.OOO
+170 759
+if
+$79 11"s
+CVKUCVAIT
+04
+10.044
+75 749
+27'
+559 Jl'^
+HATO" PAIIO lAtttfllA
+04
+14.444
+75 119
+$"'
+409 45' •
+MAAHAl
+04
+1.444
+to tn
+S4'2*>*
+SS9 "'+
+SAI JUAI "CP0nUC(M
+041
+1.404
+44 749
+or
+559 $4'^
+PIO. SASIK
+04<
+1.404
+44 229
+07'
+519 44' •
+lotcto
+44-
+1.044
+44 219
+12'
+579 17V
+SAI CSIAIISIM
+04-
+1.040
+44 244
+14'
+54" 22'-'
+SAI SAIYAOOI
+44-
+1.444
+44 259
+57*
+549 2S" "/
+HATO* OtAtO
+44-
+1.444
+44 249
+2"'
+549 "'•
+ATOtAS
+44-
+14.044
+45 779
+21'
+$49 $4' "
+COK(PCIOI
+45
+It.OOO
+75 719
+75'
+$79 21*^
+CAASUA1U
+45
+10.004
+75 759
+27*
+$49 44'*'
+CKAMtttOa
+45
+44.444
+174 279
+21'
+554 $2'-'
+ASUKIOI
+45
+40.144
+124 259
+It'
+$79 Jl'*'
+PUAI
+05 I-
+
+H* 249
+SI* *á
+519 I7M-
+AlUtSI
+051
+5.040
+75 749
+17*
+SI9 07'-'
+P(OIO J. CAIAIKH
+451
+1.040
+75 729
+1?'
+559 "V
+"OIAIIO
+15-
+1.(00
+(4 241
+IV
+$>• "' '
+SAI 10] 0(1 WAIM
+05-
+5.094
+75 749
+01'
+$49 11V
+PCOIO 1. CAMIUM
+44
+4.044
+171 729
+12'
+559 SI''
+TM THJ
+0(
+5.044
+(4 239
+54'
+55" 27'*
+MO. PIMSCQ
+Oi '
+S.0C4
+(0 229
+40*
+Si" 54' "
+UKIA ((CU
+04
+l".0O4
+JS 209
+IS'
+Sí" I4V
+IOKAS "MM PÍMIU
+04
+I.CM
+to 2(1
+21'
+SS9 12'"
+COICtKIOl
+I)
+2.504
+40 219
+2S'
+S/9 21* *
+("C""MC|0"
+01
+S4.0O0
+120 2)9
+n'
+5S9 S2'"
+CMPVCU
+01
+It.OOO
+n 2t9
+ii'
+si9 or s
+FUtRTf Ollliffl
+o;
+10.004
+120 219
+OS"
+SI" SO* ^
+(UAOtiriA
+0)
+U.OOO
+100 229
+ij'
+409 01' v
+
+
+ ICU410
+MPUCCION O( 1 41 */ CtDVCCtOC K 1 ". t*n
+SCtKICCIOR Oí 4 dl MM HíS
+KWXCJOK DC t d) HH
+icoucciOK Pt) di nnfi.tn tuditJ
+MOUCCtOl O£ 4 dl PAU f0S*MS KMKCI0K DC 10 dl P/ HVIAtKO
+KWCCI0" PC l dl tiU AICCKUKA KDUCCIOX DC 1 dl PMA ARCÍHIW
+"(SUCCIÓN M 1 dl P/flM. OKOII'0 "PUPO" MOUCCIOa 0( 1 dl PAU AUl
+"tWCCIO" D( i "I PAIA ADCOIIM
+
+o
+
+figim í. I S/04/14
+fAtAWATAS Cf  IV Ik *-•
+
+
+."..'•I
+■ t
+11 .-i ■
+h-:
+
+\
+
+locilidjá
+IIM
+KUA YISIA-XOÍIf
+SAX CAKIOS
+SA" JVAX IAUIISIA
+CIUOAO 0(1 (SIC
+IA COIMXA
+CAPIIAA "IA
+ASUXCIOI
+KOÍO J. CAIAUdtO
+CORPUS CMKISII
+COKCffCIOK
+J. A. ÍWÍ0S
+SAK PfOdO 0(1 FAIAM
+tUIt
+ATOLAS
+ClOnlKtO II. IIAIA
+VAU Cd!
+(XC""XAC10"
+SAX ICXACIO MfS.
+01. J. I. "AUOKOUII
+CAPItAX IAOO
+IAXIA X((IA COXCCKIOX
+1. t. O'KAIT
+"ATO" MHO IACÍMXIA
+SAX now nriuwiu
+PIIAI
+mo COIOKAOO
+}. I. O'UAIT ASUKIOI C(X(1AI 0UCAO0 SALIOS OCl CUAIU
+
+
+PK
+KflA
+Klitiri
+to
+ft4Í(v4
+tain
+1      (l"l
+(•1
+
+(Srtl
+(Ofil;|
+OH
+1.000
+(0
+2JÍ
+sr
+St"
+2SV
+Oil
+s.ooo
+IS
+Vi
+Oi'
+Si"
+JO'^
+08
+20.000
+120
+225
+II"
+SI"
+IIV
+01
+20.000
+120
+2ti
+42'
+SI"
+OS'-'
+08
+25.000
+IS
+2SÍ
+JO'
+549
+J8'-'
+Oil
+4.000
+to
+25Í
+SI'
+S6Í
+41'-'
+Oi-
+1.000
+to
+2(0
+SI'
+SS9
+!;••
+01
+145.000
+200
+25"
+u'
+570
+Jl'-'
+01
+S.OOO
+IS
+220
+J2"
+SS"
+58''
+01
+o.tso
+to
+24"
+OJ'
+54"
+SO'-'
+on
+20.000
+120
+2J"
+2S'
+SIf
+21' "
+on
+t.000
+IS
+25"
+21"
+SS"
+Ji'-'
+on
+4.000
+to
+2("
+
+S("
+•+<T"i
+01-
+J.000
+to
+2("
+JS'
+S4Í
+II*"
+01-
+10.000
+to
+2IÍ
+2J*
+Sti
+SO*"
+01-
+1.000
+to
+25"
+S4'
+$4"
+JS"**
+10
+J.000
+to
+22"
+l"*
+SI"
+58' *
+10
+J0.000
+120
+210
+22'
+SS"
+SX'J
+10
+20.000
+104
+2("
+$4*
+SIf
+01* f
+10
+4.000
+IS
+259
+2J'
+SSf
+18'^
+10
+20.000
+120
+2J9
+18'
+SSí
+JS'"'
+10
+10.000
+IS
+20"
+IS*
+SI"
+10' </
+II
+40.000
+120
+2"
+ÍS'
+1)0
+21'"
+11
+4.000
+IS
+25"
+2J'
+SSf
+21V
+II
+10.000
+IS
+11"
+SI"
+too
+45* -
+12
+20.000
+120
+24"
+Ot'
+SIf
+04*"
+12
+2.000
+IS
+25"
+SO'
+Stf
+IS'-'
+
+m
+2(t
+Si'"a
+S8i
+17*^
+12
+10.000
+IS
+21"
+24*
+51"
+SS*^
+13
+10.000
+is
+25"
+2J'
+SSf
+28'-'
+13
+JOO.OOO
+200
+25"
+It'
+579
+Jl'"'
+13'
+10.000
+IS
+27"
+08'
+Stf
+28' "
+U-
+10.000
+IS
+24"
+OJ'
+S4f
+11* f
+
+(il"io
+
+ "tíil.
+
+0M'--"cion""
+"tourciOK PC io di r"M t""coi
+ÍCWCCIOk PARA S l" (( Jé I P'M
+
+•(OUCCIQK 0( I"
+
+                il FtPUCCIOK Of IS 41 *l
+ AH(1tl">
+(COUCCIOK U I di
+"crmcciOK pc i a t¡ roí te "fpuccion DC I "i rm
+"COUCCIO" oc i a r/içvAt(nt(li*ou(r"n t M i " H rttou
+
+■kj
+
+m
+
+ Ko.
+
+
+•i i
+
+Iocili4i4
+
+ i - uric A
+  (SIACIOKfS UROAK5 U If (K VHf IK UM Of C00"f'IK4CI(>it (OH
+fU MIA     (Kitu4      lonjUud	í'Axia	Veril,
+(u) (■)      (?id)        (fl;ste)      0peritivo/Pli<iificj4o Prnlitn
+
+
+<< Provincii/Estido:
+
+
+PUNIA 0(1 ÍSIf
+02
+40.000 120 J49 SS'
+S"9 56'
+0
+SAN JOSE
+o;i
+1.000   60 J<9 72'
+56<J 42'
+0
+8IASS1NI
+07<
+1.000   60 JI9 16'
+579 07'
+0
+PASO 0( IOS I0R0S
+02-
+70.000 120 J29 43'
+Sit 12'
+0
+NIEVA PAlfllRA
+02-
+J.OOO   60 JJ9 SJ'
+5119 25*
+0
+IfRIMS OEl AP.APIÍ
+02-
+1.000   60 J09 56'
+579 34'
+p
+CO! OKU
+OJ
+100.000 ISO ¿49 28'
+S79 SI'
+0
+i. i. r opooia
+OJI
+70.000 120 JJ9 28'
+559 Oí'
+0
+ARI1CAS
+03-
+10.000 120 309 25'
+Sit 32'
+0
+PAtSAKOU
+01-
+10.000 120 329 17'
+S89 06'
+0
+"OMEVIOEO
+04
+100.040 ISO 349 SJ'
+569 19'
+0
+PAftPA
+04
+1.000   60 J29 IS'
+Sit 14'
+p
+ftiX 8EXI0S
+0(
+1.000   60 JJ9 07'
+S89 20'
+p
+ooiosa
+0"
+J.OOO   60 JJ9 Jl'
+589 17'
+0
+I0UKC
+Ot-
+1.000   60 J24 42'
+579 J3'
+0
+KOHIEYIOEO
+05
+200.000 200 J49 52'
+S69 10'
+0
+PAm
+05l'
+0.200   60 J19 40'
+S79 "1*
+p
+(I EUCAUPIVS
+051
+O.500   60 JI9 SS'
+579 IS*
+p
+RlrEDA
+OS-
+8.000 120 J09 S4*
+S59 Jl'
+0
+
+OS-
+20.000 120 JJt IS'
+S79 S8'
+0
+rCiKFA
+C4
+1.000   60 J29 16'
+569 14'
+p
+fRAr acmes
+06
+1.000   60 JJ9 07'
+589 70'
+p
+010*1.1
+OSI
+104.000 ISO J4t 29'
+S79 51'
+0
+R:.'CHA
+OH
+20.009 120 J<9 39"
+5<3 75'
+0
+PAfSAKOU
+OA-
+10.000 120 J<t I/'
+S89 OS*
+0
+IERMS oti Awrr
+04-
+1.000   60 JOt 56'
+579 J4'
+p
+OliRA/NO
+07
+10.000   75 JJ9 22'
+S69 Jl'
+0
+HUH
+07*
+1.000   60 J09 (8'
+57? SO'
+p
+M100KA00 (PAK Of MUCM)
+07-
+316.000 JOO J49 48'
+559 IS'
+0
+Pt.lMSI
+C3
+0.500   60 JJ9 04"
+579 78'
+p
+COSARIO
+OV
+150.000 120 J<9 16'
+579 1?"
+0
+SAI 70
+05-
+20.000 120 JI9 2J'
+S79 57*
+0
+SARANOI OEl ARIIfr
+07
+0.100   60 JOt 59'
+5<9 16'
+p
+PASO Of IOS I0R05
+09*
+<0.000 120 J29 <"'
+569 J2*
+0
+IRIKI010
+07-
+1.000   60 J39 J2*
+569 SJ'
+0
+nOKKIflDEO
+10
+200.400 200 J<9 54'
+569 10'
+0
+8>'UA UKlUN
+10
+3.POO   ÍO J09 15'
+579 J<*
+0
+Cl'KHOH
+10*
+3.000   Í0 i2t 22'
+5/9 M'
+p
+SAUO
+II
+20.000 120 JI9 2<*
+5/9 57'
+0
+fUHIA Pfl CSIf
+II*
+40.000 120 J<9 57'
+549 56'
+0
+ruun
+II*
+J.OOO   Í0 329 <2"
+579 J8*
+0
+OURA/KO
+II-
+3.000   Í0 339 22'
+569 Jl*
+0
+noHifvtoro
+12
+200.000 200 3<5 5<'
+569 10"
+0
+"RUCAS
+12
+10.000 120 305 25"
+569 S\'
+0
+8EIIA UNION
+12i
+I.COO   60 305 15'
+579 J41
+r
+<nni "fHIO""
+111
+1A   *n*    tAn    Jig   fl J'
+<an in'
+n
+
+fifPUCCIOI ("ICC 2509 A J4G9 * 4/75 (-7 -51.
+ Pf io a PAPA APÍCMIÜL
+ICDUCUOK DC 10 48 HACIA MttillM
+SCO'JCCIOH OE 10 d8 A PIAHO "110. Ktl'UCCIO.H Cf 10 i" HACIA CCCtKIl.M.
+PfOl'C. 10 48 P/A". SUJf 10 A "91(1!"! T Yti.lfKlKI?".
+HfK'C.  10 4¡ P/ACC. PPORIfl Pf"n. COK 5- (S : OOSJK.
+I t
+KIN'C. A (0/130 ClIRr J.'":9 4 6M. SD.'dO > Mf-KltlH I V|P|f
+Rfouccio" OE io it HiciA ifPPiicno
+RÍMCCIOÜ Oí 10 it HACIA rf"IIO"l(l Afr.fmil"i
+rtfC'CCION OE 10 <f8
+ffCUCClOK Of 10 48 AMM'I J:P9 4 |<o?. PfPUCUON HACIA ARIIIAS. rrp'icrlnir t\e   if>  49  tMrirt  rtor.fnfli'i
+
+Pigina Ko. I5/O</14
+
+AMHOICf i - IISIA A
+CSfACtOKfS URVGUATAS PC 11 IX YHf
+(K {OKA D( COOSOIKACIOM (OX AKfMIKA
+
+
+lOCj|¡<ÍJlf
+CA800KA SA" JAVttB IHKAS OWMACHO SAHO
+
+
+PKf
+HflA
+litltvl
+1      longitud
+(](l<<0
+Vrrlf.
+CMJI
+M
+(.)
+
+(Sud)
+(Oeste)
+Operitivo/Plinificido
+Peniifole
+U
+i.000
+IS
+JJt
+52'
+5" 22'
+0
+
+a
+1.000
+to
+J2t
+"'
+589 08'
+0
+
+IJ1
+40.000
+120
+Ut
+11'
+55? 18'
+0
+
+til
+1.000
+to
+lit
+iV
+5ÍÍ 54*
+P
+
+IJ-
+J.OOO
+iO
+11?
+11'
+5Í0 5?'
+P
+
+
+OMffvicionfi
+RtdUCCIOtl Of 10 di H0CIA ARCTNIIH4
+P.(PUCCIOH Of i 4% HACIA
+
+Pi]¡M  NO.
+IS/04/14
+
+Af(K01C( I - ttSt." A (SUCI0KS "RWMrAS 0( If (X VXf (X I0KA Oí COORPIXAUOX C01 8PASII
+
+
+HI MM     (Jtltoi
+
+[              (sddo             Vtfil.
+iactlUit
+Cuiil      (I.) (■}      (S"<f)
+(Oeite)
+Opcriliro/Pliaificaiio PiMi;
+HCMOERO
+07
+1.000   40 lit 44'
+549 40*
+
+PUXIA 0(1 till
+021
+40.000 170 149 55'
+549 Si*
+/    j
+81ASSIII
+071
+1.000   40 lit It'
+579 07*
+'J"
+PASO Of IOS IOROS
+07-
+20.000 170 129 18'
+S49 32*
+
+AXSIXA
+0!
+0.100   tO lit 52'
+S59 77'
+\
+i. t. r ORPO"('
+OH
+70.000 170 159 78'
+559 Ot'
+]
+PAISAXOU
+01-
+50.000 ISC 379 17'
+589 04'
+/    _
+"RUCAS
+01-
+10.000 120 109 25'
+S49 37'
+
+RIO 8RAKC0
+01-
+1.000   tO 179 IS'
+S39 23'
+/   -
+"0XIWDÍ0
+04
+700.000 200 149 S3'
+549 10'
+I
+PADPA
+04
+1.000   fO 179 IS'
+549 14'
+
+
+CHUT
+04
+1.000   tO 119 41'
+519 77'
+
+VERCARA
+041
+0.100   tO 179 57'     •
+539 58*
+(
+IA PAlOltA (OVRAZXO)
+041
+O.SOO   tO 379 <2'
+559 K'
+L-
+I0OXC
+04-
+1.000   fO 129 42'
+579 38".
+/
+1. XOIUA
+04-
+0.100   tO 319 52'
+549 12*
+
+KOXIEYIOEO
+•OS
+200.000 200 149 52'
+549 10'
+
+SAX CRECORIO
+OS
+1.000   fO 379 Si'
+S59 "'
+
+PATYA
+051
+0.200   fO lit 40'
+579 01'
+
+RIVERA
+05-
+8.000 120 309 54'
+559 SI'
+
+PAItP"
+04
+1.000   tO 179 It'
+5S9 W
+
+YERURA
+04
+1.000   tO 379 S7*
+
+
+ROCXA
+041
+20.000 170 349 11'
+549 75*
+
+HUMS 0(1 ARAPET
+04-
+1.000   tO 309 Si'
+579 34*
+
+PATSAXOU
+04-
+10.000 ISO 129 17'
+589 OS*
+
+SARAK01 0(1 TI
+04-
+O.SOO   tO 339 21'
+5S9 38'
+
+OURA/XO
+0)
+10.000   75 339 77*
+549 31*
+
+lACUAfifftiO
+OM
+40.000 170 119 44"
+559 54'
+
+SUEX
+OH
+1.000   40 119 48'
+579 50'
+
+"AlOOXAOO (PAX DC A'UCAI)
+OJ-
+114.OOO 100 149 48'
+559 IS'
+
+USCAKO
+OS
+1.000   40 319 40'
+549 13'
+
+SAI 10
+08-
+80.000 150 319 73'
+579 57'
+
+"10                   '    .
+OJ-
+10.000   75 179 74'
+
+
+XIXAS 0( CORRAIES
+09
+1.000   40 119 40'
+SS9 71'
+
+ROCXA
+09
+20.000 120 149 3""
+549 7S'
+
+SARAXOI 0(1 ARAP(T
+09
+0.100   40 109 SI'
+549 14'
+
+PASO OE IOS IOROS
+OH
+40.000 170 129 4"'
+549 32'
+
+IKiXIA T IKS
+OI-
+J.OOO   40 11? 13'
+549 23'
+
+SAKIA KRÍSA
+IO
+0.500   40 119 S?"
+S39 33'
+
+nOKKVlOiO
+10
+200.000 200 149 54'
+549 10'
+
+OtlflAR
+10
+1.000   40 129 54'
+5<9 54'
+
+aciu UKIQK
+10
+1.000   40 109 15'
+S79 34'
+
+CUICHOX
+101
+1.000   40 129 2?"
+579 12'
+
+RIVfRA
+lO-
+S.000   )S 309 S4"
+SS9 34'
+
+lit I"IA T IRÍS
+ll
+40.000 120 119 U'
+549 71'
+
+SAU0
+11
+80.000 ISO 119 74'
+S79 57'
+
+
+" t
+
+
+RUUCCIOX IKIK 2509 A 1(09 A </>< |-/18|
+RfOUCriUK DC 10 it A PIANO fit 10
+R10WCICX 0( 3 tí tí MR(CC!?X " R(PUCCIOX A 10/120 (1IP( W? A
+RtntK.CIQK (XIRE 109 A *-K (<( 70/150 RÍP'KCIC" A f. ItAÍXaOO " 4 at
+R((Ki(CiOX A I/&0 (X!P( l.'?Ot 4 H09I REDUCCIOX P( 4 di (1 PlitCflO" \ CM I RfOUCClOK (XIR( 109 * '09 M 70/ISO
+
+Pijini to. 15/04/94
+
+mmti i - USÍA A
+tSIACIONfS UfiUGl'ATAS Of ÍV [N VHf f" JOHA f'C (OOWIMCICH COK f?A?ll
+
+
+\
+
+localidad
+wn" on (sit
+PUDM SOLA
+BOKUVIOÍO
+ASIKAS
+Bftt* UNIOH
+CASIUIOS
+IRAiQUfRAS
+ífAr 6ÍNÍGS
+mo
+(I (UCAIIP10
+CHUT
+lACUARttlBO S!0 IRANCO
+
+
+PRÍ
+KflA
+tJlilud
+longitud               Citado             Venl.
+Canal
+M
+(>}
+
+(Sod)
+(Oeste)      Operalivo/rlaaifica'fo Pr"4itnl¡
+II*
+49.000
+170
+34{
+sr
+S49
+54'
+III
+0.100
+to
+329
+05'
+SÍ9
+18'
+17
+700.000
+200
+349
+54'
+5Í9
+10'
+17
+10.000
+170
+309
+25'
+549
+31'
+12>
+1.000
+to
+309
+15'
+579
+U\
+121
+3.000
+éO
+349
+ir
+
+
+I2i
+1.090
+to
+319
+12'
+359
+45'
+121
+40.000
+120
+339
+07"
+5S9
+20'
+12-
+10.000
+?5
+379
+74"
+5<9
+12*
+1?-
+0.100
+43
+Jl!
+55'
+579
+IS'
+IJ
+3.000
+\\
+339
+41'
+539
+71'
+Ut
+40.000
+120
+3(9
+23'
+559
+18'
+III
+10.000
+75
+319
+44'
+559
+54'
+13-
+3.000
+ÍO
+329
+25"
+539
+23'
+/■)
+
+
+/
+f
+
+
+Obi
+DfOt'CClON [NIFE 3?0Ç A M05 H 10 <i8 RlDUCdON HACIA APMGÍS
+Sfl'UCCIOK ÍKTRÍ 3309 P ll->9 H i Ü
+"DUCCIOH P/ S.lIVWSfHlO DC 5 ¿8 Mi'UCCIQH EHIFÍ 309 A "J09 [•[ 4 d8
+
+
+APÉNDICE 1
+PARTE B
+
+
+.	,	xx      x	/
+
+
+ Ko.       I
+OlffCIIVO HACIA MM"UM
+í
+
+APCHPICf I - USÍA I
+CSMCIOKCS MUHUXAÍ Of IV (1 Vllf
+(K {OKA Pf COORDIPACIdK COC !<(:lCWr
+ V"ii(.  r;Xitr,t{
+ {judo
+Ctnil
+Iocilí<fi4
+PAC K.1.4     (Jti(u4      longitud  (t") i")       (Sv<()        (O-slf)
+ ffDtRAl
+041     100.000 150 Sit Si'        S"9 2J"
+<• frorincij/fiUtfo: "/f"OS flICfS
+U PUIA	O?)     I20.Í00 190 J(9 55"        5ÍS S7'        O
+U flfllA	OS-      ".900 120 JIP 55'        5.'í 5/'        f
+
+
+ ij. • 15/0</f<
+
+
+£SfAC(0"S
+"ptwict t - (i$i" e
+ P( K (X Vfff
+ S P( K (X Vfff
+(X /OKA Of COOROIRACIOK COK ARCfHtlHA
+Ml KM    (KIM     lonjltuí	(sti4o	ITfilf.
+Canal       ((") (")      (Su<J)        (Otjli)      Operjtivo/Pliaifica^o Ptríientt
+
+
+11 ffovincú/fsÍJiío:
+
+
+"<      200.000 200 HI $2-        sif "•
+
+■Í}í
+I
+'■if.
+
+
+APÉNDICE
+
+NOTIFICACIÓN  DE  ASIGNACIONES   O   MODIFICACIONES DE CARACTERÍSTICAS   TÉCNICAS   DE  ESTACIONES
+
+áí-ssirrana mmmi
+
+
+ MlCRftCIOfl
+
+Hm nimio*	L-J
+
+
+7SQU
+
+ í Kl I
+
+ceeoimcioíf COHI   iw
+
+ w
+
+ []   IM
+
+
+CARACTERÍSTICAS DE LA ASIGNACIÓN
+tXUJMí
+
+
+mi
+(N)
+di"
+
+
+LÍMITÍCICW
+(U)
+IIIftfT 1 "XIWT
+
+Of
+OBDMCION
+
+
+t
+
+
+Mill M MtMá
+
+0?i
+
+í:
+
+APÉNDICE 3
+CURVAS DE PROPAGACIÓN
+I fé
+
+    FIG. 1 CURVAS 50/50
+
+S3V13U0 !
+Hi   NI    3DHV1SI0
+■5   2 X
+■IIIIIIII mini mi. min >ii'iiiiiiiiiiiMiiii.iiiiiiiiiiiiiiiriiiiiitiiiiii'ii'i>ii.'iiitikikiiiiiti.intiiiiiiiiiiiiiiiiiiiiiii
+■ ■'■■■■"laia !■■■ •'■■■! ■■* lãiiiKiiiikiiiBiaiatiiBkiãitliifXiaisifiauiiBi ■■>"■•■■* ■■*>• ■••■■•■•"■•■".•■. an •■■■•■■•■■■■■■■■■
+lUiiilWiliiilíH^
+
+iiiiiiii
+
+
+itUtitlitMiti
+ ■•   "ft '•■■•••••a
+HiiiitrlHniaihUiiCil'iiiiUiíiiiitUtilitMitii
+
+
+Si
+u
+
+
+c o
+E
+
+
+                                                              iaitlliiiaiiBllillati	i
+i ■> li •IIIIIIII'lie II'••'•■II ■■•■•■•
+                                                                                           I	llllllIIlllillll
+iiFXiiiiiiiiii.iiiiiiMiiiiiiiiiuiiiiiiiiiiiiUiiiiiiiiiiiiiiiiiiikiiiitiiiiiiiiiiiii.iiiii.iiiiiiiii.iiiiiiiiiii.iiiiiin iiLSiiiiiiiiiiiiiiiiiiiiiiiiiiiiti.'iiiiii.'iiiitiiiiiniiiiiiiiiiiiiii.'iiKiiiiiiiiimiiiii.iiiiiiiiiiiiiiiiiMiiifiiiniiiiii
+IlLJlllll.lllllillll.illllUUI.UUUIIIIUIIIiillllli.illll.'llll'lllUIII.'llL'ilKiaillllll.l'lllMllllUiU.ll'lllHIIIIII
+ilQiiülI-IIHiililIJIíitíj^MlWl'IiililMillHilllfilHilMIiyiilliIiliilIíIliílhirli^
+
+
+JO
+"5
+JJ"
+I
+
+
+ **■ iBiava" ■••■•fft#aAB)t#"flijfiaftffjaia ■■■é"Afl"fl#a]Bil4iB)a"iBi*ia4<**i>ti"B""AvBa)a""#]#tiaaBfji""i ABaéivi "*• mt *■• tint ■
+■}■*■■■•••■■■••■ ■••••(•••■••■•••"■■■"■••••■•(•■•■I'	iiti.iii*ii<i>*i"iaiui<"iiaiaiaii'aiiti
+ • ••"! uta   i<atiii|ii)iai",fit(s <■!■•■■ "•••■••••■■*■•■•■•■■■■■••■ ••"•"••(■•■i "■"••••■i ■■ ■••■■■ ■•■■■ 11 111 !*   l'MM"*lfj|HMM*jtJ*"J|èiH"i>i<i"if)"|inii"-"ti""i*)i*Bt"i"|iin""ii" ■■iata"iitBi*ii
+ "ti""i)i*t"i"|iin""ii" ■■iata"iitiii
+
+
+JWJ AX | UOi U/AA I 3A08W 80 H. HIONSVIC 013IJ
+
+ÍJ*!i3W0"l|X   NI   33HV1SI0
+■■■unit iiifiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiirrliiiiliiiiiii<iiliiiitiilii|t1<>iiililklisiiitlt(l>i|>iiiiiiiiiiiiiiiiiiiii Illllllll lililí III Mllllllllllllllllllllllllllllll llllli'llllMlItlIlllItlIltlI.'IMttKI II ■l.'aillItlIlll.KIIIIIIIIIIIIIIIIIIII lllllllll.lllllllllllllllllllllllllllllllllllllilllllllitMIIIIIIIIIliMIKIlllUIIIUiItlkUllUliiliil.'U'lllllllllllllllllllll UIIIIIIIIIIIIIIIIIIIIIHIIillllll'llllllll'lllllllllllllUItlIlilllllllillklll.'IMMIilil'iilll.'irtMT.iMIIIIIIIIIIIIIIIIII
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiii.iiiiiiiiiiiiiiiiiiiii.'iiiuiíiiiniiuiiitiiMiiiirir.iiii.'i'i.'i.'iiiini.'UM'iiiiiiiiiiiiiiiiu
+lllllllIfillIUMilINIIlIlIIlllllílllIflItlIlllllllllHillUfriIfflf'lllUllIlUI'IMI'iUilUflTallK-ftiJIlllIltllllIllll
+
+
+1
+j
+
+
+iàâ*ã"ãããZaaiãa'Zãâã ¡á> aã ■ aã Z'm'im*mm*t'ZmZmm1*22ZZtZZ2Z?mZZ"*mZm*%Zmm*Zm*" "âãá*aãa*ãSã*ãaimt2á"ãa*ãa*ã.*Bá aa'a/a'a a-*ã #• m Ja •?•'•>*••■ Sã■?•■!•• taaataaialaia aaaaa"ai*aa*a* aaaaiaalaaiaat aaaai"aaalaaaal"aia<laaliaaa aa aa* paaliaaliaa "a* aai a#* aaaaaliaai aaa a"a*a> -av *Bmm**m09mm*mm9* lataaaiiaMianaia "■•amua" ■■"aiaaittaiíààitià*'iàa".iiti" ■••■■■atllaaf'aaa.fia "•("••(■••"••■•a *"aiaa '••.••ia]ia"i"*a(ainai*a • ataaiaiaiiaanaia •■"■uitiitiatiitiai*   aiiiii"i""tiial1*ii>i>i*iiMktill1i*li*"la"i>fíiii>*iiiial*ia   aiiB|iaua>iaia""iiiiiiiati
+iiiliiíiiijiiiiiíiiíiffi^
+•a•■aaa *mm asa* 'm*t aaaa i"ia"i< aaaaas* "*aa* "■aa"a#a*a"H" aaa* aaaaavaaaa "*aa aaia (aaai a""* aaaiaaia aa' m aa " ta aa " •*"** aiaB' mm* "a aaaaaiaaaa ^| ' laiaaia •■" laaai ""a aa a*""a 'aiaafaaaaaaaaaitaaaaaaiaaaaataiaivaaaaiaaaaMiaiaaaa   aaaia*a|#aa 'mm aaa aiaiat ai 'a aia itaiaaiiaaialaaaaaataat ^|
+	atitã iaiaitaiaiiM"iaii"   aaiaaiaaatiaiaaa* 'a]iai<iaaiia"*aii"aaidaat"ataliia*iailia*i"*ia"iiii"iiia iaa" aa ••"■ laaiaaiiiaaaiaaaal
+laaaiaaiaáiaaaiaaaaa iMii.atiiaaaa aiaa >aa"aafl taaaai aa"a.aaaai*aaaiaata<aaatiaaaiaaa •aaiatiaiaaaitiia allin*iia'iaiiitaai"ai"il lanai! ia tf laiaiaaaaat "a aaaa a iiiaaaaiaaaalaaaaaailiaaaliaaaiiaiintaaiiiaaiaaia tataaa aaaliaa ian> ia *m 'a "aaa a ia a iialia"iaiiaiiaa*iill ^| inaniu  "aa* "aã •■• aaianai m f aaa a a iaaai|iiaiai<i aaa a iiaii taaaa aaaaaaavaaaaa ai aaaa aaa* (""••■. a>a*taa a •"•• a ■• a   •••taiiaiiaiaiMii*il
+iHj""	(iiiiiaiiiiaiaiaiiiiiii	.fniaiitaiiiiiiin^tiiiaiKiiiaiiMitiii*  "if  aiiiiatitiiaiiauiiaii a a* aa. ""a a a iaaa"aaaa pi
+• aajMakva ■•■Kllllllillia  aiaianaia	amn.nianatmaiaaailaaiiiiiilnlii. aialiaalialialumiiliiam'laiHiiaiiaLiíaaiaai.'
+ "iiiiiiii"tit*i"< #aa"iaaa""iaJ"aa""aaa"(ta"ia"ai*"aa"aaiataiÉ""iaa •• a"iaanfl"a*aaat
+■ ••aV ■•"■•HUli'li'IlIalillt.
+iaaiBiiaiiaa.cataiiiaatiiiiaiaafatBialiaiiiaaaiiaatfiitatiktaiii. ■ tía la ■•■••■! ua ti ai ••■aatiU
+ . ■•if.aiiiitkitiiiititfftaiaatiiiiiatia'iiíiMif.aii'a*.aaiaiaitfia<aiiaiiaii"a."aiiaiaia"ifli|
+ iiiiiaiiMiif.aMiiiiiiiuiiiiiiiiuiiisiiitiiiiiiiàiiMf' •- •'■ mi •" ■'••"•■ lian ai. IIIIII iB
+ iMiiliii iiim	iiliiiini iiianiitiiiiiiii
+ MIHiimMi/niii
+  lili     til iiiiuiiiiiij'iui
+ iiiiiiifiiiiiiiiiiiiiii|iíikfiiiiiiiifiiifi9Íiiii|ii|ti|iíiiiiiii
+ /iiit.iiiKiiit.iiil'jiikiifitil.'itiiutii, aiii'!!!!!. ■■•liliifiaiiiii
+i'iiiriiiriiii'inriiKiiriniiiriiiiiiiiiiiiiiiiuiinuiiiii
+Ja]   /U    I    VOj   U/AO    I    3A08V   "0   NI   H19N3U1S   0131J
+     ;ir:z:;si:;. =;;;:=:ir zz.ziziz. err:; z.zzzz:zzzzzz^zzzz:zzzzttzzztzzzz it :zzizz:izs^^zziz:z :=:::: = ;: 2:tr:s=.zr¿ ==::=::==:=:
+
+
+35
+ii
+
+
+    FIG. 2 CURVAS 50/10
+
+
+Hi in
+
+MEIO    STftEHCTH    IN   OB    A8OVÊ    I    U.V/it   FOR    1    KV   ERT
+•U	-	-	M	".<	o	W
+i u
+iii tiiitiiniiiiiiiii iiiitiitiiiuii'iiuiMliUiiii'iil.inliilitlftUHiUlllilllHIIH  n i1iiivi*if t        iiiiitiiiiiiiifiiniifii        iii
+iiiiiiiiiiittrriiiiii.iiiiiiUiiiii tiiitiiniiiiiiiii iiiitiitiiiuii'iiuiMliUiiii'iil.inliilitlftUHiUlllilllHIIHI iiiitiiiiiviiiiiiiit'iiiifi um mil tu iif taima un ■i*1iiivit|*>'v<iiif i tit iiiiiiiiitiiiiiiiiifiiniifiiti iiiiiiiiiiiiiii
+llllllMlllllllllM'llllt.lll!-II";il>lff ill* IIII'IIIIIIIP ■UllllBIIIIiniMMIM.IIt'llt.lllIltlllll'IIIIUlMlllltlllll
+iiiiiiiiiiiiiiiiiviiiii iitBtiivtiBiiBiiafiitaiiiiv'atiifiiiiiitiiiiiiiiiiii'iiititviiivtiiiiRiiiiiitiliiiviiifliiititiiin
+lltllf>lt*l>llllllll"*ailll"IIIBttlBU"lliatl*   ■!■*(■> ■Illltl* •■!■!■   Ill ■I*IIIII1>*   ■!■<■■"   •■tfl >■■■■• •■■■■"■■■■fRIiailfl
+t"is"aBBitB*"t*'■••■•• ••■•••••"••■it* it ■mi* *••■ • !■ tan •■ •i""l"l"i""t"i""1t"i""l""""ii"iii" •••■•. •■"!>• •iiiiiiiiiiiiimi
+•	■••"•■■•••■ mi "#••■• ■■••■*!■•• "i •• •••••■> tfiiaiatkBt ■"■■•nata i> •■•■■•iit""l"a"i*atB •i"iiii>iiiiiiiiiiiiniii|. ••"••■••■•■■
+■ ■•••■*■••••>••••■■• ii •■••■ ft"* ■■• •• ■•>••■• i"f|" •■>■•■ ")•(■•! •• m *■ i"ta. •■■>•••■■*■! ••■iiiiimiiii"<iiiiiiiiiiMiiii(iiiiii
+!••••■■•••••••••••*• ••••■• ■&••■ •■>•••>   ■•..."■•■■••IÍMII*>Í<IM>1|>IR*	"■••■•■■•"■•••■••"•■■•It.irxl*.,.,"
+• ••■■■"••"■•••••••il"a"l   lW"   ••• ••*•!"•■"••• ■•■ •• ••• *■••*<■• ••■•■"■"••p ••■•■■••• ■•"!••■	•■••••    ■■>•>••••***■••■•■•••*
+• •■■•■•■••••"•••••!■■■• •#••••!■•■     ••••"■"■••■•■■■■"■■■l"ll"l">*lll"IBIIiaB   ■•■'■■l*""l"ll**"l*ll""Ittl"ll"l     ■■•#">•■>■•••■■
+• ••••••■••■"•a •• "t ■!•• ■* •"■•t*La*t**-a*   •"*B">S"H<" •(■¡■(■(■•••laiaia   ■itiliilRi"l">iil"NI"nlHi(|Hi"lMi*. Ill	!•
+•
+í ■•'•■('*>aíããitail•■■■!•■
+ .■•!"■•"■>"•■■ '■■■ ••■•■ "■  HII, •••■•■*•***"• ••■■■(•
+!•••■••••••• •|&*ti"Bl|l"*l9 'tiltiailftiiiiiiliiitfifia
+■ *•■■   "•••! •!!•■   ■■•*iail"ll"   Itllillllll'IIIIIIIIMll
+■ IM-llltl'llllillllMUt  ••!"  •!•• •■!■■!■• •'• l*l*   "t i
+•	•!••••••   ••■|ll*"lil"ltMlllllll"iB"l"-illlltUit>llll
+*"■■•■•*■ ••*•"•■■•••■•    ••• ■*! *!■■••>    **"". *!•*•"• •■"•"•
+• •■■•■• -• ••• •••••• •"•••>••■ <4"> •* *MOP> >••"•> * ••■■■■•ri *
+• ••"***•■•>"• •*'■•>/■ "I-"i" "I'S •ll****Z"*2ts"/£" IT* ••>"••" a"
+i{{Í}jijii{{fli}i^jgM£H^
+iiiiiiiiiiiiiiiiu^viu^i^iViViWiiffi iiiiiiiiiiiiiiiiiiii.tuvtuinivi?;iuuni.iniitintif>iuftiMi'(iU'iiiiuni^
+iiiHiiiiiiiiiiiiiiinuvtiivMiT.n.irti.iviiuf.ivili.iiiiii.ifictiiiiiiiiii.iiiririiii.iiiMiiMriuiiiiiiiiiit
+IIIIIIIIIIIIUIIIIIIII-tlli'illl.'tlTllT^TiiniUTll.'lillilltlUI.-lilUUll'ltll'IMIIIIimillilllllillillllll.llllllllllllllllll
+llíllñVttlVlli'tliItl'il'tVI'lht'll'iui-llUlltIlUllillllllll'll'llllllllll'IIMIIIIIIII	lili
+tltiiit
+0I3TAMCE   IN   KILOflETftES
+
+£3Xl3U01ia   NI   33MV1S10
+
+ iiiittv>i|t.itiiiiiiiiiiiiiiiiiiiiiiiir imiitil'.tliijiiiiiiiiiiiiiiHiiiiii* .'tliil'.illVifiiiiiiiiiiiiiiiiiiiiiiil  iiu'iiVUtP'iiiiitiiiiiiiiiiiiiiil
+■■ninai •iiiiiiita'tiiiiiiiiitiiiiiiaiiiiiiia*titiiMi<a'"<aui.iiit.'iu|.'tiii;aiiitii/tiiiiiittv>i|t.i iiuiiiii IIIIIIIIII 111111111111 'ii'ii•■i.iii>itiiiii>it|iuiif.(it|.'iiif'inf'"ii'ii.'ti'iimiitil'.tl iiiiiiiiiiiiiiiiiiif.iiiiii'ii'iiiiiiiiiiiiiiiiii'ii.-iiiiiitiil.'aui.titf.'tui.'litrtT.iiili.'tliil'.illV IIIIIIIIIIII    iiiiiiiii'iiiiiiiiuuiii'i'iuiiifi'tifiMiuiV
+
+                                                                              aiiiatiaiua'ill"
+
+
+i.ill ii ■■■  iiiaiit''•<>••>•'■••> itiiiiiiiliiiiiuiiiaiimiiiii
+ÍII.'lllltilllKllllllllllllllll I'illiilllllliilllllllllllllll nu IIIIIIIIII iiiliiiiiiiinl iillillillilll
+iiiilliiilli/iiilliiiliiiliiil llillllllMllllill IIIIIIIIII^
+■ ■• '■a"aaiiia!aia*4llliaia).4l|lla) aiièiiãualiiai -aititiaaal-iailiai iiaiiiiiiiiiiiiiiiiiiaiiiliiailiiaiatiaiil-aa'iiiiiiiiiilailrjiaillii
+"itiiaiiiiaiiiiiif.a aiaillipiiiir IIIIIIIIII i.iiliiiii|iiiiiili.'> in an aila aint niK.iiilili aililáiii.li il 1.1II h II ii lull l u nu ■>lllillliiiliif.'ai|iill|iliiiil.iiliiãiiiii|i,iíii.'iii|tiiiiiiiliii iliii.'iKiillliilliilllllllillillfiiili'irillilll'ihiuilllliillll iiiiuiiiiiiiiiiiiiiii/iliifiiiiiiiijiililiiiiiiill IIIIIIIIII ni
+Illlll'IIIIilillllilllllll'l   l.llil[illj.l|iijjlliii!llillMllllli|
+lllllllll.llllllfil Illl lll.'llil.lllllllllllll llllllll IMIIIIill
+■ ■■■■■■■■II.IMI. nun mi. in, in. am auiiia.ua tiiiaiiiuii. a ailill
+iiiiiiiiiiiiaiiiiiiiiiiiiiiiiaiiiiiiiKiiiaiiiiuciBiiBalB.'aiaiaiiiiv.'iiai
+IIIIIIIIIIIIIIIIIIIIIIII. ■iiliilliliiiiiliiliillllllliiiiiif.aiiiiliiili
+Illllll	IIIIIIIIIIIIHIIIItlllilllllllUIIIII.'illllllllilllilllllljl
+iiiiiuiiiiiiiiiiuiiiiiiiiiiniiiiiiMiiiiiiiiuiiiiiiiiiiiiiiir'ilii
+IIIIIIIIIIIIIMIIMIIIII.'llll,'lll,lll<llllllllll'IIIIilillllÍ|llll|l'l Illllllllllllll.'illlUIIIUUIIIilllillllllllllllllllillllllIilIIII lil.
+
+
+     ¡íiiliiíiiiiiiiiilfiilii
+JV3 AS I MOJ U/AO I 3AO8H 90 NI H1DH3W1S 013IJ
+
+          ANEXO II LISTA DE ADMINISTRACIONES
+
+a- Administración de Ia República Argentina
+Comisión Nacional de Telecomunicaciones
+Gerencia de Asuntos Internacionales
+Perú 103 -Piso 9-
+1067-CapitaJ Federal - República Argentina
+Tel.:    (541)-331-6412/334-0048
+Fax:    (541)-334-6204
+
+M     ■""	^
+
+b- Administración de la República Federativa del Brasil
+Ministerio de Comunicaciones
+Secretaría de Servicios de Comunicaciones
+Esplanada dos Ministerios Bloco R .Anexo Sala 302 L
+70.044-900-Brasilia-DF-Brasil
+Tel:    (5561)2232147
+Télex:   61 11 75
+Fax:    (5561)2233916
+c- Administración de la República del Paraguay
+Administración Nacional de Telecomunicaciones
+Dirección de Radiocomunicaciones y Administración de Frecuendas
+Edifício Grai.Bemandino Caballero
+Alberdi y Oliva 4to Piso
+Asunción - Paraguay
+Tel.:    (59521)200093
+Télex:   ANTELCO - 22027PY
+Fax:     (59521)210887	.    "
+d- Administración de la República Oriental del Uruguay
+Dirección Nacional de Comunicaciones
+Bulevar Artigas 1520
+Montevideo - Uruguay
+Tel.:    (598)2 773662/69
+Télex:   23213 DINACO UY
+
+
+Fax:    (598) 2 773591/92
+
+10
+
+ANEXOU
+
+a.	Administração da República Argentina
+Comisión Nacional de Telecomunicaciones
+Gerencia de Asuntos Internacionales
+Perú, 103, 90.
+1.067 - Capital Federal - República Argentina
+Tel. (541)3316412/3120958
+Fax: (541)3346204
+b.	Administração da República Federativa do Brasil
+Ministério das Comunicações
+Secretaria de Serviços de Comunicações
+Esplanada dos Ministérios, Bloco R -ANEXO - Sala 302 L
+70:044-900 Brasilia - DF - Brasil
+Telefone: (5561) 223-2147
+TELEX: (5561) 1175
+FAX: (55061) 2233916
+c.	Administração da República do Paraguai
+Administración Nacional de Telecomunicaciones
+Edificio Geral Bernardino Caballero
+Alberdi y Oliva 4° Piso
+Telefone: 595 21200093
+TELEX: Antelco-001UY
+FAX: 595 21210887
+Asunción - Paraguay
+d.	Administração da República Oriental do Uruguai
+
+Dirección Nacional de Comunicaciones Boulevard Artigas 1520 Montevideo - Uruguay Telefone: (598) 2 773662/69 TELEX: 23213 DINACO UY FAX: (598) 2773591/92
+
+
+I
+:&.
+
+22
+
+
+12

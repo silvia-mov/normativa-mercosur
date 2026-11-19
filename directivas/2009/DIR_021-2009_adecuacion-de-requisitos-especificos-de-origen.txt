@@ -1,0 +1,111 @@
+Directiva CCM N° 21/09
+Título: ADECUACIÓN DE REQUISITOS ESPECÍFICOS DE ORIGEN
+Fecha de aprobación: 19/11/2009
+Vigencia: Derogada (Derogada por la Directiva CCM Nº 007/2011.)
+Idioma del texto: ES
+Archivo original: 14984_DIR_021-2009_ES_Adecuacion REOS.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1145).
+----------------------------------------------------------------------
+MERCOSUR/CCM/DIR. N° 21/09
+
+ADECUACIÓN DE REQUISITOS ESPECÍFICOS  DE ORIGEN
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 08/03 y 01/09 del Consejo del Mercado Común, la Resolución Nº 34/08 del Grupo Mercado Común y la Directiva Nº 10/07 de la Comisión de Comercio del MERCOSUR.
+
+
+CONSIDERANDO:
+
+Que el Régimen de Origen MERCOSUR faculta a la Comisión de Comercio del MERCOSUR a modificar dicho Régimen por medio de Directivas.
+
+Que resulta necesario adecuar los requisitos específicos de origen del Régimen de Origen del MERCOSUR a las modificaciones en la Nomenclatura Común del MERCOSUR.
+
+Que de acuerdo a lo establecido en el Artículo 2 de la Decisión CMC Nº 08/03, "mientras una norma que derogue una o más normas anteriores no entre en vigencia de acuerdo con el Artículo 40 del Protocolo de Ouro Preto, continuarán vigentes las normas anteriores que pretendan derogarse, siempre que hubieren sido incorporadas por los cuatro Estados Partes".
+
+Que en función de ello, resulta conveniente adoptar medidas transitorias con vistas a agilizar la entrada en vigencia de los requisitos de origen para  facilitar la operativa comercial entre los Estados Partes.
+
+
+LA COMISIÓN DE COMERCIO DEL MERCOSUR
+APRUEBA LA SIGUIENTE DIRECTIVA:
+
+Art. 1 - Modifícase el Apéndice I de la Decisión CMC Nº 01/09 conforme consta en el Anexo que forma parte de la presente Directiva.
+
+Art. 2- Hasta tanto la Decisión CMC Nº 01/09 entre en vigencia, las modificaciones establecidas en el Artículo 1º se aplicarán al Anexo I de la Directiva CCM Nº 10/07.
+
+Art. 3- Los Estados Partes deberán instruir a sus respectivas Representaciones ante la Asociación Latinoamericana de Integración (ALADI) a los efectos de la  protocolización de la presente Directiva en el marco del Acuerdo de Complementación Económica N° 18, en  los términos establecidos en la Resolución GMC N° 43/03.
+
+Art. 4- Esta Directiva deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 01/VII/2010.
+
+
+CXI CCM - Montevideo, 19/XI/09
+
+
+ANEXO
+a) Reemplazar en el listado:
+
+NCM2007
+DONDE DICE
+DEBE DECIR
+
+REQUISITO DE ORIGEN
+REQUISITO DE ORIGEN
+8443.99.11
+CIRCUITOS IMPRESOS MONTADOS CON COMPONENTES ELÉCTRICOS O ELECTRÓNICOS.
+
+REQUISITO: Montaje y soldadura en las placas de circuito impreso de todos los componentes, siempre que estos no partan de la subpartida 8473.30.
+REQUISITO: Cumplir con el siguiente proceso productivo: A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos:
+1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11.
+Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+8443.99.21
+REQUISITO: Cumplir con el siguiente proceso productivo:
+A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos: 1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11. Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+REQUISITO: Cambio de partida y que cumpla con el siguiente proceso productivo: A - Montaje como mínimo del 80% de las placas de circuito impreso por producto;B - Montaje y soldadura de todos los componentes en las placas de circuito impreso; C - Montaje de las partes eléctricas y mecánicas totalmente desagregadas a nivel básico de componentes; y D - Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final.
+
+
+b) Incorporar al listado:
+
+NCM2007
+REQUISITO DE ORIGEN
+8443.31.11
+60% de valor agregado regional
+8443.31.13
+60% de valor agregado regional
+8443.31.19
+60% de valor agregado regional
+8443.31.91
+60% de valor agregado regional
+8443.31.99
+60% de valor agregado regional
+8443.99.12
+Cumplir con el siguiente proceso productivo: A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos: 1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11. Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+8443.99.60
+CIRCUITOS IMPRESOS MONTADOS CON COMPONENTES ELÉCTRICOS O ELECTRÓNICOS. REQUISITO: Montaje y soldadura en las placas de circuito impreso de todos los componentes, siempre que estos no partan de la subpartida 8473.30.
+
+
+c) Eliminar del listado:
+
+NCM2007
+REQUISITO DE ORIGEN
+8443.31.00
+60% de valor agregado regional
+8443.32.11
+Cumplir con el siguiente proceso productivo: A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos: 1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11. Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+8443.32.12
+Cumplir con el siguiente proceso productivo: A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos: 1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11. Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+8443.32.13
+Cumplir con el siguiente proceso productivo: A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos: 1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11. Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+8443.32.19
+Cumplir con el siguiente proceso productivo: A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos: 1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11. Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+8443.32.35
+Cumplir con el siguiente proceso productivo: A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos: 1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11. Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+8443.99.13
+Cambio de partida y que cumpla con el siguiente proceso productivo:A - Montaje como mínimo del 80% de las placas de circuito impreso por producto;B - Montaje y soldadura de todos los componentes en las placas de circuito impreso; C - Montaje de las partes eléctricas y mecánicas totalmente desagregadas a nivel básico de componentes; y D - Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final.
+8443.99.19
+Cambio de partida y que cumpla con el siguiente proceso productivo:A - Montaje como mínimo del 80% de las placas de circuito impreso por producto;B - Montaje y soldadura de todos los componentes en las placas de circuito impreso; C - Montaje de las partes eléctricas y mecánicas totalmente desagregadas a nivel básico de componentes; y D - Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final.
+8443.99.24
+ Cumplir con el siguiente proceso productivo: A. Montaje y soldadura de todos los componentes en las placas de circuito impreso;  B. Montaje de las partes eléctricas y mecánicas, totalmente desagregadas, a nivel básico de componentes; y  C. Integración de las placas de circuito impreso y de las partes eléctricas y mecánicas en la formación del producto final de acuerdo con los ítem "A" y "B" anteriores. Están exentos del montaje los siguientes módulos o subconjuntos: 1) Mecanismos del ítem 8473.30.22 para impresoras de las subpartidas 8471.49.3 y 8471.60.2;  2) Mecanismos del ítem 8517.90.91 para aparatos de "facsímil" de los ítem 8517.21.10 y 8517.21.20; y  3) Banco de martillos de los subítem 8473.30.23 y 8473.50.31 para impresoras de línea de los ítem 8471.49.21 y 8471.60.11. Se admitirá la utilización de subconjuntos montados en los Estados Partes por terceros, siempre que la producción de los mismos atienda lo establecido en los ítem "A" y "B". No desnaturaliza el cumplimiento del régimen de origen definido, la inclusión en un mismo cuerpo o gabinete de unidades de discos magnéticos, ópticos y fuentes de alimentación.
+8443.99.31
+60% de valor agregado regional
+8443.99.39
+60% de valor agregado regional

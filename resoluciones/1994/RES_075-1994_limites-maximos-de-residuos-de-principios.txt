@@ -1,0 +1,1257 @@
+Resolución GMC N° 75/94
+Título: LÍMITES MÁXIMOS DE RESIDUOS DE PRINCIPIOS ACTIVOS DE MEDICAMENTOS VETERINARIOS EN PRODUCTOS DE ORIGEN ANIMAL
+Fecha de aprobación: 04/11/1994
+Vigencia: Derogada (Será derogada por la Res. GMC Nº 54/00, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 29345_RES_075_1994_ES_LimMaximos Residuos.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2146).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 75/94
+
+LÍMITES MÁXIMOS DE RESIDUOS DE PRINCIPIOS ACTIVOS DE MEDICAMENTOS VETERINARIOS EN PRODUCTOS DE ORIGEN ANIMAL
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión No. 4/91 del Consejo del Mercado Común, la Resolución No. 91/93 del Grupo Mercado Común y la Recomendación No. 45/94 del SGT No. 3  "Normas Técnicas".
+CONSIDERANDO:
+      La necesidad de fijar Límites Máximos de Residuos (LMR), Metodología Analítica, Substracto y Límite de Detección correspondientes a cada especie animal para los residuos de principios activos de los medicamentos veterinarios en productos de origen animal.
+      Que la armonización de este Reglamento Técnico tendrá por objetivo la eliminación de los obstáculos que generan las diferencias nacionales existentes al respecto.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Artículo 1 - Aprobar el "Reglamento Técnico MERCOSUR de Residuos de Principios Activos de Medicamentos Veterinarios en Productos de Origen Animal" (RMV) que consta en el Anexo a la presente Resolución.
+
+Artículo 2 - El presente Reglamento será utilizado como referencia para el establecimiento de los Programas de Control de Residuos de Medicamentos Veterinarios.
+
+Artículo 3 - Los valores y metodologías que fija el Anexo a la presente Resolución serán actualizados periódicamente de acuerdo a los avances científicos y la información toxicológica del momento.
+
+Artículo 4 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, por intermedio de los siguientes organismos:
+Argentina:
+Secretaría de Agricultura, Ganadería y Pesca
+Servicio Nacional de Sanidad Animal (SENASA)
+Brasil:
+Ministério da Agricultura, do Abastecimento e da Reforma Agrária
+Ministério da Saúde (MS)
+Paraguay:
+      Ministerio de Agricultura y Ganadería (MAG)
+      Subsecretaría de Ganadería
+Uruguay:
+      Ministerio de Ganadería, Agricultura y Pesca
+Dirección General de los Servicios Ganaderos (MGAP/DGSG)
+
+Artículo 4 - La presente Resolución entrará en vigencia el 1º de enero de 1995.
+
+
+XV GMC - Brasília, 4/XI/1994
+
+
+ANEXO
+
+REGLAMENTO TECNICO MERCOSUR: LIMITES MAXIMOS DE RESIDUOS, METODOLOGIAS ANALITICAS Y LIMITES DE DETECCION PARA RMV
+
+
+METODOLOGIA ANALITICA
+                                     L M R  (µg/kg)
+GRUPO
+DROGA
+SUSTRATO
+METODO
+LD (µg/kg)
+ESPECIE/ SUSTRATO
+H
+R
+M
+G/O
+L
+HUE
+FUENTE
+Antibióticos
+Estreptomicina
+  R - H - M
+FSIS-USDA
+SWABTES +
+BIOENSAYO
+
+600
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+0
+-
+0
+-
+0
+0
+-
+0
+-
+0
+0
+-
+0
+-
+0
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0
+-
+-
+A - B
+--------
+A - B
+--------
+A - B
+
+
+Neomicina (1)
+
+
+  R - H - M
+FSIS-USDA
+SWATES  +
+BIOENSAYO
+750
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+  500
+1250
+  750
+------
+  750
+  750
+1250
+1000
+------
+1000
+250
+250
+250
+-----
+250
+-----
+-----
+-----
+-----
+-----
+150
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+A - B
+A
+A
+---
+A
+
+
+Entromicina
+
+
+  R - H - M
+FSIS-USDA
+SWATES +
+BIOENSAYO
+150
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+0
+-----
+125
+-----
+100
+0
+-----
+125
+-----
+100
+0
+-----
+125
+-----
+100
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+25
+-----
+-----
+A
+---
+A - B
+---
+A
+
+
+Penicilina
+
+
+  R  H  M
+FSIS - USDA
+SWATES +
+BIOENSAYO
+ 75
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+50
+  0
+  0
+------
+  0
+50
+  0
+  0
+------
+  0
+50
+  0
+  0
+-----
+  0
+-------------------------
+0
+-----
+-----
+-----
+-----
+-----
+-----
+0
+-----
+-----
+A - B
+A - B
+A - B
+----
+A - B
+
+El limite máximo de residuos "0" no significa necesariamente prohibición de uso.
+En aquellos casos que el LD supere al LMR, los países miembros deberán mejorar su metodología tendientes a disminuir su LD.
+
+H:     Hígado				1:        Nivel de acción
+R:     Riñón				2:        LMR corresponde a total de sulfas
+M:    Músculo				3:        LMR expresado para el metabolito
+G/O: Grasa Ovina				2. Amino sulfona
+Hue: Huevo				4:        Sulfona de oxfendazzi considerando la suma de los tres
+					5:        Corresponde a 22-23  dihydroavermectina B 1a
+					6:        Método de confirmación
+L:      Leche
+A:     USDA
+B:     CFR
+C:     CODEX
+D:     CE
+
+* La metodología analítica para leche y huevos no ha sido evaluada a la fecha de la presente Resolución.
+
+
+METODOLOGIA ANALITICA
+                                     L M R  (µg/kg)
+GRUPO
+DROGA
+SUSTRATO
+METODO
+LD (µg/kg)
+ESPECIE/SUSTRATO
+H
+R
+M
+G/O
+L
+HUE
+FUENTE
+
+Tetraciclina
+  R - H - M
+FSIS-USDA
+SWABTES +
+BIOENSAYO
+
+240
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+ 250
+ 250-
+ 250
+-----
+ 250
+250
+250
+250
+-----
+250
+250
+250
+250
+-----
+250
+--------------------
+------
+------
+100
+------
+------
+------
+------
+-------
+-------
+200
+-------
+-------
+A - B - D
+A - B
+A - B -D
+--------
+A - B
+
+
+Oxietraciclina
+
+
+  R - H - M
+FSIS-USDA
+SWATES  +
+BIOENSAYO
+100
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+ 100
+ 100
+1000
+------
+ 100
+  100
+  100
+3000
+------
+ 100
+100
+100
+1000
+-----
+100
+-----
+-----
+-----
+-----
+-----
+100
+-----
+-----
+-----
+-----
+-----
+-----
+200
+-----
+-----
+A - C
+A
+A - C
+---
+A
+
+
+Clortetraciclina
+
+
+  H - R - M
+FSIS-USDA
+SWATES +
+BIOENSAYO
+100
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+ 100
+500
+1000------
+2000
+  100
+1000
+4000
+-------
+4000
+100
+100
+1000
+------
+1000
+-----
+-----
+-----
+-----
+-----
+     0
+-----
+-----
+-----
+-----
+-----
+-----
+     0
+-----
+-----
+A - B
+A
+A - B
+---
+A
+
+
+Cloranfenicol
+
+
+ORINA
+MUSCULO
+ELISA (EZ-SCREEN)
+5022-CG
+CG
+   5
+
+   2
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+-------
+-------
+-------
+-------
+-------
+-------
+-------
+-------
+-------
+-------
+      0
+      0
+      0
+-----0
+      0
+     0
+     0
+------
+------
+      0
+      0
+-----
+-----
+-----
+-----
+-----
+-----
+      0
+-----
+-----
+A
+A
+A
+A
+A - B
+
+El limite máximo de residuos "0" no significa necesariamente prohibición de uso.
+En aquellos casos que el LD supere al LMR, los países miembros deberán mejorar su metodología tendientes a disminuir su LD.
+
+H:     Hígado				1:        Nivel de acción
+R:     Riñón				2:        LMR corresponde a total de sulfas
+M:    Músculo				3:        LMR expresado para el metabolito
+G/O: Grasa Ovina				2. Amino sulfona
+Hue: Huevo				4:        Sulfona de oxfendazzi considerando la suma de los tres
+					5:        Corresponde a 22-23  dihydroavermectina B 1a
+					6:        Método de confirmación
+L:      Leche
+A:     USDA
+B:     CFR
+C:     CODEX
+D:     CE
+
+* La metodología analítica para leche y huevos no ha sido evaluada a la fecha de la presente Resolución.
+
+
+METODOLOGIA ANALITICA
+                                     L M R  (µg/kg)
+GRUPO
+DROGA
+SUSTRATO
+METODO
+LD (µg/kg)
+ESPECIE/SUSTRATO
+H
+R
+M
+G/O
+L
+HUE
+FUENTE
+Sulfonamidas
+
+(2)
+Sulfametazina
+   H - M
+FSIS-5010
+USDA
+
+
+     70
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+100
+100 100
+100
+100
+------
+------------
+------
+------
+100
+100
+100
+100
+100
+------------------------
+------
+   50
+------
+------
+------
+------
+------ ------
+------------
+------
+C - D
+D
+D
+D
+D
+
+
+Sulfadimetoxina
+
+
+    H - M
+FSIS-USDA
+5010 HPLC
+     70
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+100
+100
+100
+100
+100
+------------------------------
+100
+100
+100
+100
+100
+------
+------
+------
+------
+------
+   10
+------
+------
+------
+------
+-----
+-----
+-----
+-----
+-----
+A -D
+D
+D
+D
+D
+
+
+Sulfaquinoxalins
+Sulfatiaxol
+
+
+    H - M
+FSIS-USDA
+5010 HPLC
+     70
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+100
+100
+100
+100
+100
+------
+------
+------
+------
+------
+100
+100
+100
+100
+100
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+D
+D
+D
+D
+D
+Antiparasitarios
+
+Albendazol ( 3 )
+
+
+      H
+HPLC
+     50
+
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+200
+------------
+------------
+------------
+------------
+------
+------------------------------
+------------------------------
+100
+-----
+-----
+-----
+-----
+------
+------
+------
+------
+------
+A-B-C-D
+
+El limite máximo de residuos "0" no significa necesariamente prohibición de uso.
+En aquellos casos que el LD supere al LMR, los países miembros deberán mejorar su metodología tendientes a disminuir su LD.
+
+H:     Hígado				1:        Nivel de acción
+R:     Riñón				2:        LMR corresponde a total de sulfas
+M:    Músculo				3:        LMR expresado para el metabolito
+G/O: Grasa Ovina				2. Amino sulfona
+Hue: Huevo				4:        Sulfona de oxfendazzi considerando la suma de los tres
+					5:        Corresponde a 22-23  dihydroavermectina B 1a
+					6:        Método de confirmación
+L:      Leche
+A:     USDA
+B:     CFR
+C:     CODEX
+D:     CE
+
+* La metodología analítica para leche y huevos no ha sido evaluada a la fecha de la presente Resolución.
+
+
+METODOLOGIA ANALITICA
+                                     L M R  (µg/kg)
+
+
+GRUPO
+DROGA
+SUSTRATO
+METODO
+LD (µg/kg)
+ESPECIE/SUSTRATO
+H
+R
+M
+G/O
+L
+HUE
+FUENTE
+
+
+Fenbendazol
+Oxifendazol
+Febantel( 4 )
+      H
+   HPLC
+
+
+    50
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+500
+500- ------
+------
+500
+------
+------------
+------
+------
+------------------------------
+------------------------
+------
+ 100
+------
+------
+------
+------
+------------
+------------
+------
+C
+C
+---
+---
+C
+
+
+Levamisol
+
+
+      H
+   HPLC
+    GC
+     15
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+100
+  15
+  15
+------
+  15
+------------------------------
+------------------------------
+------
+------
+------
+------
+------
+   10
+------
+------
+------
+------
+-----
+-----
+-----
+-----
+-----
+C - A
+A
+A
+---
+A
+
+
+Ivermectina
+
+ ( 5  )
+
+
+      H
+  HPLC
+     10
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+  15
+  30
+------
+------
+  20
+------
+------
+------
+------
+------
+-----------------------------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+------
+A
+A
+---
+---
+A
+
+El limite máximo de residuos "0" no significa necesariamente prohibición de uso.
+En aquellos casos que el LD supere al LMR, los países miembros deberán mejorar su metodología tendientes a disminuir su LD.
+
+H:     Hígado				1:        Nivel de acción
+R:     Riñón				2:        LMR corresponde a total de sulfas
+M:    Músculo				3:        LMR expresado para el metabolito
+G/O: Grasa Ovina				2. Amino sulfona
+Hue: Huevo				4:        Sulfona de oxfendazzi considerando la suma de los tres
+					5:        Corresponde a 22-23  dihydroavermectina B 1a
+					6:        Método de confirmación
+L:      Leche
+A:     USDA
+B:     CFR
+C:     CODEX
+D:     CE
+
+* La metodología analítica para leche y huevos no ha sido evaluada a la fecha de la presente Resolución.
+
+
+METODOLOGIA ANALITICA
+                                     L M R  (µg/kg)
+
+
+GRUPO
+DROGA
+SUSTRATO
+METODO
+LD (µg/kg)
+ESPECIE/SUSTRATO
+H
+R
+M
+G/O
+L
+HUE
+FUENTE
+Beta
+Bloqueantes
+
+
+Clembuterol
+Salbutamol
+ Orina
+ RIA
+GCMS ( 6 )
+
+
+1
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+---------------------------------------
+------
+------------
+------
+------
+------------------------------
+    0
+    0
+------------
+------
+------------
+------
+------
+------
+------------
+------------
+------
+D
+D
+---
+---
+---
+Estilbenos
+Des
+Dienestrol
+Hexestrol
+
+
+ Orina
+ Hígado
+ RIA
+GMC ( 6 )
+2
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+------
+     0
+     0
+     0
+------
+------
+------
+------
+-----
+-----
+     0
+-----
+-----
+D
+D
+D
+D
+D
+Estrogénicos
+
+Zeranol
+
+
+   Orina
+   Hígado
+ RIA
+GCMS ( 6 )
+2
+Bov.
+Ovi.
+Ave.
+Equ.
+Por.
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+     0
+------
+     0
+     0
+     0
+------------------------
+------
+------
+     0
+------
+------
+D
+D
+D
+D
+D
+
+
+El limite máximo de residuos "0" no significa necesariamente prohibición de uso.
+En aquellos casos que el LD supere al LMR, los países miembros deberán mejorar su metodología tendientes a disminuir su LD.
+
+H:     Hígado				1:        Nivel de acción
+R:     Riñón				2:        LMR corresponde a total de sulfas
+M:    Músculo				3:        LMR expresado para el metabolito
+G/O: Grasa Ovina				2. Amino sulfona
+Hue: Huevo				4:        Sulfona de oxfendazzi considerando la suma de los tres
+					5:        Corresponde a 22-23  dihydroavermectina B 1a
+					6:        Método de confirmación
+L:      Leche
+A:     USDA
+B:     CFR
+C:     CODEX
+D:     CE
+
+* La metodología analítica para leche y huevos no ha sido evaluada a la fecha de la presente Resolución.
+
+
+METODOLOGIA ANALITICA
+                                     L M R  (µg/kg)
+
+
+GRUPO
+DROGA
+SUSTRATO
+METODO
+LD (µg/kg)
+ESPECIE/SUSTRATO
+H
+R
+M
+G/O
+L
+HUE
+FUENTE
+Androgénicos
+
+
+Trembolona
+Nortestoesterona
+  Orina
+  Bilis
+RIA
+HPTLC
+GC-MS ( 6 )
+
+2
+Bov.
+Ovi.
+Equ.
+Por.
+     0
+     0
+     0
+     0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+     0
+     0
+     0
+     0
+     0
+------
+------
+------
+------------
+------
+------
+D
+D
+D
+D
+Gestagénicos
+
+Medroxiprogesterona
+
+
+ Grasa
+
+
+ RIA
+
+
+2
+Bov.
+Ovi.
+Equ.
+Por.
+     0
+     0
+     0
+     0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+      0
+     0
+     0
+     0
+     0
+     0
+------
+------
+------
+-----
+-----
+-----
+-----
+D
+D
+D
+D
+
+
+Acetato de
+Melengestrol
+
+
+ Grasa
+  GC
+ HPLC
+5
+Bov.
+Ovi.
+Equ.
+Por.
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+------
+------
+------
+------
+------
+------
+------
+D
+D
+D
+D
+
+Acetato de
+Clormadinona
+
+
+ Grasa
+HPLC
+2
+Bov.
+Ovi.
+Equ.
+Por.
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+.....0
+------------------
+---------------------------
+D
+D
+D
+D
+
+El limite máximo de residuos "0" no significa necesariamente prohibición de uso.
+En aquellos casos que el LD supere al LMR, los países miembros deberán mejorar su metodología tendientes a disminuir su LD.
+
+H:     Hígado				1:        Nivel de acción
+R:     Riñón				2:        LMR corresponde a total de sulfas
+M:    Músculo				3:        LMR expresado para el metabolito
+G/O: Grasa Ovina				2. Amino sulfona
+Hue: Huevo				4:        Sulfona de oxfendazzi considerando la suma de los tres
+					5:        Corresponde a 22-23  dihydroavermectina B 1a
+					6:        Método de confirmación
+L:      Leche
+A:     USDA
+B:     CFR
+C:     CODEX
+D:     CE
+
+* La metodología analítica para leche y huevos no ha sido evaluada a la fecha de la presente Resolución.

@@ -1,0 +1,114 @@
+Resolución GMC N° 13/97
+Título: MODIFICACIÓN DE LA RESOLUCIÓN GMC Nº 47/93
+Fecha de aprobación: 17/06/1997
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 02/12 Estuvo vigente el 09/10/2011 - Art. 40 POP - hasta el 11/05/2019.)
+Idioma del texto: ES
+Archivo original: 21990_RES_013-1997_ES_ModifiRes47-93.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1634).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 13/97
+
+
+MODIFICACION DE LA RES No 47/93 GMC.
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones No 47/93 y 91/93 del Grupo Mercado Común y la Recomendación Nº 11/97 del SGT Nº 3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+Que los Estados Partes acordaron subsanar los errores detectados en la citada Resolución.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art .1. Modificar la Res No 47/93 GMC "Determinación de Monómero de Cloruro de Vinilo" en los siguientes item :
+
+Item 5.4.4.
+
+Donde dice:
+
+a= n xy - (x) (y)
+
+nx2 - (x2)
+
+b= (y) (x2) - (x) (xy)
+
+nx2- (x2)
+
+Debe decir
+
+a= n S xy- (S x) (S y)
+
+n S x2- (S x)2
+
+b= (S y ) (S x2) - (S x) (S xy)
+
+n S x2 - (S x2)
+
+
+Item 5.4.6.
+
+Donde dice
+
+n
+
+(yi - zi)2
+
+i=1
+
+S= ___________
+n-1
+
+_ n
+
+Y= 1 yi
+
+n i=1
+
+Debe decir
+S=
+
+
+Item 5.8.2.
+
+Donde dice
+contenido de cloruro de vinilo (m g/g)=
+
+Debe decir
+contenido de cloruro de vinilo (m g/g)=
+
+Art. 2. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+
+Argentina:
+Ministerio de Economía y Obras y Servicios Públicos.
+Secretaría de Agricultura, Ganadería, Pesca y Alimentación
+Servicio Nacional de Sanidad y Calidad Agroalimentaria .
+Instituto Nacional de Vitivinicultura (INV)
+Ministerio de Salud y Acción Social
+Administración Nacional de Medicamentos , Alimentos y Tecnología Médica.
+Instituto Nacional de Alimentos.
+
+Brasil:
+Ministério da Saúde
+
+Paraguay:
+Ministerio de Industria y Comercio
+Instituto Nacional de Tecnología y Normalización (INTN)
+Ministerio de Salud Pública y Bienestar Social.
+Instituto Nacional de Alimentación y Nutrición
+
+Uruguay:
+Ministerio de Salud Pública (MSP)
+Art.3. La presente Resolución entrará en vigencia el 14/XII/97.
+
+
+XXVI GMC - Asunción, 17/VI/97
+
+1
+
+
+1

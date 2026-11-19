@@ -1,0 +1,606 @@
+Resolución GMC N° 02/21
+Título: CRITERIOS MÍNIMOS PARA LA APLICACIÓN DE ANÁLISIS DE RIESGO EN LA CLASIFICACIÓN DE DEFICIENCIAS EN BUENAS PRÁCTICAS DE FABRICACIÓN DE MEDICAMENTOS
+Fecha de aprobación: 26/07/2021
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 85144_RES_002-2021_ES_ Criterios Aplic. Clas. Deficiencias.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4085).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 02/21
+
+CRITERIOS MÍNIMOS PARA LA APLICACIÓN DE ANÁLISIS DE RIESGO EN LA CLASIFICACIÓN DE DEFICIENCIAS EN BUENAS PRÁCTICAS DE FABRICACIÓN DE MEDICAMENTOS
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución GMC Nº 15/09 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que el resultado de las inspecciones realizadas por los Estados Partes en establecimientos farmacéuticos debe basarse en criterios comunes, a la luz de la normativa actualizada y armonizada en el MERCOSUR.
+
+Que las Buenas Prácticas de Fabricación de productos farmacéuticos requiere que el sistema de inspecciones se base en el análisis de riesgo.
+
+Que es necesario contar con requisitos mínimos para armonizar los criterios de clasificación de deficiencias que surgen de las inspecciones de establecimientos farmacéuticos en el MERCOSUR.
+
+Que dichos requisitos resultan convenientes como complemento del mecanismo de intercambio de informes/actas de inspección de los establecimientos farmacéuticos en los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar los "Criterios mínimos para la aplicación de análisis de riesgo en la clasificación de deficiencias en Buenas Prácticas de Fabricación de medicamentos", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo N° 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 22/I/2022.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 26/VII/21.
+
+
+ANEXO
+
+CRITERIOS MÍNIMOS PARA LA APLICACIÓN DE ANÁLISIS DE RIESGO EN LA CLASIFICACIÓN DE DEFICIENCIAS EN BUENAS PRÁCTICAS DE FABRICACIÓN DE MEDICAMENTOS
+
+OBJETIVO
+
+Los criterios mínimos establecidos en la presente Resolución tienen como objetivo:
+
+- Clasificar de acuerdo con un análisis de riesgo las deficiencias detectadas durante una inspección;
+- Proporcionar transparencia en el modo de clasificar las deficiencias para asegurar uniformidad de criterio entre los inspectores de salud pública al momento de evaluar la actividad en la industria inspeccionada; e
+- Informar a la industria sobre los principios usados para clasificar las deficiencias relacionadas con el análisis de riesgo que será aplicado, dependiendo de los tipos de productos fabricados o procesados.
+
+Las deficiencias están clasificadas como críticas, mayores y otras.
+
+DEFINICIONES
+
+A los fines de la presente Resolución se entiende por:
+
+Deficiencias críticas: actividades o procesos que pueden resultar en un riesgo inmediato o latente en la salud del consumidor. Aplica a toda deficiencia que pueda afectar en forma directa la calidad del producto. Incluye actividades que involucran fraude, falsificación de productos o datos.
+
+Un conjunto de "deficiencias mayores" puede conducir a una deficiencia crítica cuando involucre a fallas graves del sistema de calidad o de fabricación.
+
+Deficiencias mayores: actividades o procesos que, sin clasificarse como críticos, puedan derivar en un producto que no cumple con su autorización de comercialización o que indican una falla en los procedimientos de liberación de lotes.
+
+Un conjunto de "otras deficiencias", que por sí solas no se clasifican como mayores, pero que juntas pueden conducir a una deficiencia mayor.
+
+Ciertas deficiencias mayores pueden ser clasificadas como críticas, lo que se indica con (↑).
+
+Otras deficiencias: aquellas no críticas ni mayores pero que se apartan de las buenas Prácticas de Fabricación.
+
+Todas las otras deficiencias pueden incrementarse a deficiencia mayor si involucran la calidad del producto.
+GLOSARIO
+
+BPF	 	Buenas Prácticas de Fabricación
+CAPA 	Acciones correctivas y acciones preventivas
+POE 		Procedimiento operativo estándar
+RAP		Revisión anual de producto
+PERSONA CUALIFICADA  Individuo en el cual la persona autorizada (director técnico) ha delegado algunas funciones específicas en virtud de su formación profesional, pericia y entrenamiento.
+
+RIESGOS RELACIONADOS CON PRODUCTOS
+
+Algunos sitios de fabricación poseen procesos y productos que involucran mayor riesgo que otros. Se considera la siguiente clasificación de productos, en la que no están citados en forma completa y exhaustiva todos los productos con autorización de comercialización, solo se incluyen ejemplos para comprender mejor la clasificación.
+
+Producto de Alto Riesgo: cualquier producto que puede ocasionar un riesgo en la salud aun en bajos niveles. Productos que son altamente susceptibles a la contaminación (microbiológica o química) durante el proceso de manufactura, incluyendo su estabilidad. Se entenderá como producto de alto riesgo aquel que cumple cualquiera de los siguientes criterios:
+
+1. Estrecha ventana terapéutica
+2. Alta toxicidad
+3. Productos estériles con llenado aséptico
+4. Productos biológicos/biotecnológicos
+5. Procesos de manufactura complejos: aquellos en los que pequeñas desviaciones en los parámetros de control pueden resultar en un producto no uniforme o fuera de especificación. Por ejemplo: mezcla o granulación de formas farmacéuticas sólidas con concentración muy baja de activo.
+
+Productos de Riesgo Medio: productos que pueden ser susceptibles de contaminación durante el proceso de manufactura, incluyendo su estabilidad. Por ejemplo, productos estériles con esterilización terminal, productos no estériles en forma farmacéutica semisólidos o líquidos o con activos sensibilizantes.
+
+Productos de Bajo Riesgo: productos que pueden tener una baja probabilidad de contaminación durante el proceso de manufactura, incluyendo su estabilidad. Por ejemplo, productos con activos generales no sensibilizantes ni altamente activos.
+
+ASIGNACIÓN DE RIESGO A UNA DEFICIENCIA
+
+El riesgo asignado tiene relación con la naturaleza de la desviación y con el número de ocurrencia. Generalmente, cuando el producto es de bajo riesgo, no será asignada una deficiencia crítica excepto por situaciones extremas como fraude, falsificación, contaminación cruzada o condiciones no sanitarias de manufactura.
+
+Una deficiencia mayor u otra deficiencia puede ser elevada a crítica o mayor respectivamente si:
+
+- se repiten las deficiencias detectadas en una inspección previa,
+- se detectan numerosas deficiencias de la misma categoría de riesgo y combinadas (deficiencias relacionadas a un mismo sistema, actividad o proceso) que demuestran prácticas alejadas de las exigencias de BPF o,
+- el sistema de calidad del fabricante no posee la suficiente aptitud para identificar y tomar las medidas necesarias para reducir el riesgo del paciente a un nivel aceptable para los productos distribuidos y/o para evitar la repetición de deficiencias en producciones futuras.
+
+Una deficiencia crítica o mayor puede ser categorizada a un nivel inferior (mayor u otra respectivamente) si:
+
+- la empresa asegura en forma consistente y efectiva que se toman las medidas para reducir el riesgo paciente y producto a niveles aceptables o,
+- las acciones correctivas y preventivas tomadas por el fabricante (Plan de CAPAs) reducen el riesgo de la(s) deficiencia(s).
+
+Deficiencias repetidas o recurrentes: Son aquellas que fueron identificadas en una inspección previa, la empresa oportunamente presentó el Plan de CAPAs y las acciones correctivas no han resuelto la deficiencia o no se implementaron en tiempo y forma.
+
+Se considerará incrementar el riesgo de la deficiencia cuando:
+
+- existan fallas en el Sistema de Calidad para identificar la potencial causa raíz de la deficiencia o no se detecten otros factores de riesgo para contener y solucionar la causa raíz,
+- aplicación injustificadamente prolongada de las acciones correctivas.
+
+DEFICIENCIAS
+
+A continuación se citan ejemplos de las deficiencias más comúnmente encontradas, en las que no están citadas, en forma completa y exhaustiva, todas las deficiencias posibles. Las deficiencias que no se encuentran citadas deben ser clasificadas en función del riesgo asociado al producto y al paciente utilizando el árbol de decisión que se encuentra en el Apéndice.
+
+SISTEMA DE CALIDAD FARMACÉUTICO
+
+Críticas
+
+* Ausencia de autorización del funcionamiento del establecimiento por la autoridad sanitaria competente.
+* Uso de las instalaciones para fines no autorizados por la autoridad sanitaria competente.
+* Ausencia de registro (autorización de comercialización) de productos comercializados en el país.
+* Falta de inscripción de la(s) persona(s) autorizada(s) (director técnico y codirector técnico, cuando lo hubiere), ante la autoridad sanitaria competente.
+* Ausencia del director técnico/del codirector técnico o de un profesional responsable según organigrama, estando la planta en actividad.
+
+Otras
+
+● Ausencia de planos de distribución de áreas aprobados por la autoridad sanitaria.
+● Falta de concordancia entre la estructura edilicia observada y el plano de distribución de área aprobado por la autoridad sanitaria competente.
+● Ausencia de responsable designado (perteneciente a la empresa o contratado) de higiene y seguridad industrial o trámite de habilitación/permiso por autoridad competente en la materia.
+
+GARANTÍA/ASEGURAMIENTO DE CALIDAD
+
+Críticas
+
+● Inexistencia en la empresa de un Programa de Garantía de Calidad.
+
+Mayores
+
+● Incumplimiento no justificado de los Programas de Garantía de Calidad de la empresa.
+● Listado de POEs incompleto de modo que todos los procesos de fabricación no se encuentran definidos (↑).
+● Falta de procedimientos de análisis de riesgo y su aplicación a actividades BPF relevantes.
+● Desvíos no investigados ni documentados de conformidad con procedimientos escritos.
+● Falta de programa de autoinspecciones o falta de cumplimiento. / El programa no abarca a todos los sectores BPF relevantes. / Registro incompleto o no mantenido.
+● Falta de revalidación de cualquier proceso que haya sufrido un cambio crítico que pueda influir en la reproducibilidad del mismo y/o en la calidad del producto final (↑).
+● Revalidación no incluida en el plan de validaciones.
+● Ausencia de / Inadecuado sistema de control de cambios.
+● Ausencia de un sistema para el manejo de quejas y reclamos. / Falta de registros de reclamos relacionados con la calidad del producto o registros incompletos.
+● Reproceso o retrabajo realizados sin estar sustentados por un análisis de riesgo. / Falta de POE de reproceso o retrabajo.
+● Falta de Programa de Calificación de proveedores. / Calificación incompleta.
+● Documentación de los proveedores no enviada en tiempo y forma. / Falta de disponibilidad de documentos asociados a los servicios prestados.
+● Falta de implementación de revisiones periódicas del Sistema de Calidad Farmacéutico incluyendo registros de controles en procesos, parámetros críticos de procesos, resultados de análisis de productos (↑).
+● Falta de implementación de CAPA cuando se detectan tendencias negativas.
+● Falta de Plan Maestro de calificación o validación. / Falta de cumplimiento del programa (↑).
+● Falta de Programa de calibración de instrumentos y equipos o Programa incompleto/ Falta de cumplimiento del programa (↑).
+● Correcciones en los registros, realizadas sin fecha y firma (↑).
+
+Otras
+
+● Falta de revisión anual de producto (RAP) (↑).
+● Datos incompletos o estudios de tendencias inexactos en la RAP.
+● Falta de POE para el manejo de productos devueltos.
+● Documentación incompleta de revisiones periódicas del Sistema de Calidad Farmacéutico.
+● Tiempo de retención de evidencias y registros insuficiente.
+● Implementación incompleta de CAPAs en tiempo y forma.
+● Productos aprobados para la venta sin la adecuada verificación de la documentación de manufactura y acondicionamiento.
+
+CONTROL DE CALIDAD
+
+Críticas
+
+● Falta de personal con formación profesional, entrenamiento y experiencia atinente al cargo de Control de Calidad.
+● Evidencia de decisiones de Control de Calidad revocadas por el departamento de Producción o Garantía/Aseguramiento de Calidad.
+● Falta de independencia entre Control de Calidad y Producción.
+● Evidencia de adulteración de datos y/o resultados analíticos.
+● Falta de control de calidad, según especificaciones, antes de la liberación de los productos terminados para la venta.
+● Falta de control de calidad de materias primas y de materiales de envases y empaque.
+● Falta de sustancias o materiales de referencia que garanticen la calidad de los resultados obtenidos.
+
+Mayores
+
+● Áreas, personal y equipos de control insuficientes.
+● Falta de autorización para ingresar a áreas productivas (↑).
+● Falta de POEs aprobados y en vigencia para muestreo, inspección y control de materiales.
+● Falta de programa de validación de métodos analíticos y microbiológicos. / Incumplimiento del programa (↑).
+● Falta de programa y/o procedimiento de reanálisis de materiales de partida incluyendo semiterminados y graneles, de corresponder (↑).
+● Falta de programa de preparación y sistema de mantenimiento para estándares, para soluciones y/o medios de cultivo y cepas patrones. / Falta de registros del cumplimiento de estos programas (↑).
+● Uso de estándares, soluciones y/o medios de cultivo y cepas patrones vencidos (↑).
+● Estándares secundarios no desarrollados de acuerdo a los requisitos establecidos por la autoridad sanitaria competente por lo que no se garantiza la calidad de los resultados obtenidos (↑).
+● Para ensayos microbiológicos cuantitativos (valoración), uso de cepas de referencia más allá del quinto repique (↑).
+● Productos liberados para la venta sin aprobación de Control de Calidad (↑).
+● Resultados fuera de especificaciones (OOS), resultados fuera de tendencia (OOT) y desvíos no completamente investigados y documentados de conformidad con el procedimiento operativo estándar (↑).
+● Material de partida/material de empaque usado en producción sin previa autorización de Control de Calidad (↑).
+● Reproceso o retrabajo realizado sin autorización de Control de Calidad (↑).
+● Quejas o reclamos sin participación de Control de Calidad, de corresponder.
+● Ingreso de productos de devoluciones al stock sin aprobación de Control de Calidad.
+● Evidencia no adecuada para demostrar que las condiciones de almacenamiento de las muestras y su transporte son apropiadas.
+● Falta de programa de calificación o calibración o mantenimiento de equipos. / Falta de un programa de preparación y sistema de mantenimiento para estándares y soluciones. / Falta de registros del cumplimiento de estos programas (↑).
+● Para laboratorios de control, propios y contratados, los sistemas o programas y controles realizados en el laboratorio para calificación, calibración y mantenimiento de equipos, estándares, soluciones y registros no aseguran que los resultados y conclusiones generados son confiables y precisos (↑).
+● Ensayo de esterilidad no realizado en un área clasificada como Grado A con un entorno Grado B o en un aislador clasificado Grado A en un ambiente apropiado.
+● Ausencia de unidad manejadora de aire independiente para el sector de controles microbiológicos.
+
+Otras
+
+● Falta de contrato entre la empresa y el laboratorio tercerizado de Control de Calidad.
+● Investigaciones de no conformidades no realizadas en tiempo y forma.
+
+
+PERSONAL
+
+Críticas
+
+● Persona a cargo de Control de Calidad o de Garantía de Calidad, o de liberar productos o de producción, en todos los casos para fabricación de productos de alto riesgo, que no posea título universitario relacionado al trabajo que lidera y que no posea suficiente experiencia en el área bajo su responsabilidad.
+
+Mayores
+
+● Falta de organigrama u organigrama que comprometa la aprobación o liberación de productos.
+● Los puestos claves no están ocupados por personal de tiempo completo. No existe delegación explícita de la función en personal con calificación comprobable en caso de ser necesario.
+● El personal clave no posee formación profesional, entrenamiento y experiencia relacionado al trabajo que lidera.
+● El personal cuyas actividades puedan afectar la calidad del producto no posee formación, entrenamiento o experiencia adecuada.
+● Falta de programa y/o registro de capacitación del personal en BPF.
+● Número insuficiente de personal o entrenamiento insuficiente del personal de Garantía de Calidad, Control de Calidad o Producción resultando en una alta probabilidad de desvíos en BPF.
+● Falta de programas de higiene y salud del personal. / Requerimientos de salud no implementados o no cumplidos.
+
+Otras
+
+● Falta de organigrama actualizado/revisado.
+● Falta de descripción de responsabilidades de los puestos claves, descripción incompleta o inadecuada (↑).
+● Registros de entrenamiento incompletos.
+● Programa de entrenamiento insuficiente, incompleto o no cumplido.
+● Falta de descripción de responsabilidades de los puestos de trabajo o descripción incompleta.
+
+LOCALES/ÁREAS
+
+Críticas
+
+● Inexistencia de un sistema de filtración de aire para eliminar los contaminantes del ambiente que se generan durante la producción o acondicionamiento.
+● Mal funcionamiento del sistema de ventilación con posible contaminación cruzada para productos de medio y alto riesgo.
+● Segregación inadecuada de áreas de fabricación o de control de productos de medio y alto riesgo de otros sectores del establecimiento.
+● Producción de productos diferentes, en forma simultánea en un mismo ambiente, que pueda conducir a mezclas o contaminación cruzada entre productos.
+● Ausencia de áreas y/o equipamiento destinados a Control de Calidad en el establecimiento titular de una autorización de fabricación.
+
+Mayores
+
+● Clasificación de áreas no acorde a los requerimientos de limpieza de acuerdo a las actividades de producción (↑).
+● Mal funcionamiento del sistema de ventilación lo que puede originar una posible contaminación cruzada (↑).
+● Falta o incompleto mantenimiento o verificación periódica de cambios de filtros, monitoreos de presión diferencial entre áreas. (↑).
+● Falta de medidas para asegurar el sentido de flujo de aire. / Medidas incorrectas para asegurar el sentido de flujo.
+● Servicios tales como vapor, aire comprimido, nitrógeno, extracción localizada, etc. no calificados (↑).
+● Sistema de tratamiento de aire no calificado (↑).
+● Temperatura y humedad no controladas o monitoreadas cuando se requiere (por ejemplo, depósitos que no cumplen con los requerimientos de insumos almacenados, áreas de producción con producto expuesto) (↑).
+● Daños (agujeros, descascaramiento de pintura) en paredes/techos inmediatamente adyacentes o sobre las áreas de manufactura o equipos donde el producto está expuesto (↑).
+● Pisos, paredes y cielorrasos con evidencia de falta de limpieza.
+● Instalación inadecuada de equipos, ductos, accesorios o cañerías que dificultan o impiden la limpieza.
+● Terminación de las superficies (piso, paredes, techos) que no permiten una efectiva limpieza.
+● Superficies porosas de las áreas de fabricación con evidencia de contaminación (mohos, polvos de producciones anteriores, etc.) (↑).
+● Espacio insuficiente en el área que puede conducir a una confusión o mezcla (↑).
+● Cuarentena física o informática, accesible a personal no autorizado o no respetada (↑).
+● Área no separada o insuficientes precauciones para prevenir la contaminación y la contaminación cruzada durante el muestreo de materiales de partida o de acondicionamiento primario o de productos intermedios o graneles (↑).
+● Ausencia de vestuarios generales de planta separados de las áreas de producción y control y/o falta de provisión de la vestimenta de trabajo (↑).
+● Falta de área físicamente separada para central de pesadas. / Insuficientes precauciones para prevenir la contaminación y la contaminación cruzada durante el fraccionamiento de materiales de partida (↑).
+● Falta de adecuación de la temperatura, humedad, iluminación especial en central de pesadas si lo requieren los materiales manipulados (↑).
+● Actividades no productivas realizadas en áreas productivas (↑).
+● Evidencia de falta de condiciones adecuadas de almacenamiento y/o embalaje de productos terminados (por ejemplo, cadena de frío) (↑).
+
+Otras
+
+● Uso por parte del personal de las puertas del área de fabricación o de acondicionamiento que comunican directamente con áreas externas y de las puertas de emergencia del área de fabricación o de acondicionamiento que comunican directamente con áreas externas.
+● Desagües no sanitarios o sin la correspondiente trampa/sifón.
+● Salidas de líquidos o gases no identificadas.
+● Daños en las superficies no directamente adyacentes o sobre los productos expuestos.
+● Sectores inadecuados de cambios de ropa, descanso y lavado.
+● Falta de orden y/o higiene en baños y vestuarios.
+● Falta de programa de mantenimiento preventivo para áreas. / Falta de registros (↑).
+● Medicamentos vencidos no segregados de aquellos disponibles para la venta.
+
+EQUIPAMIENTO
+
+Críticas
+
+● Equipamiento utilizado para actividades de fabricación de productos de alto riesgo no calificados. / Evidencia de mal funcionamiento o falta de monitoreo apropiado. / Falta de instrumentos calibrados para el monitoreo de puntos críticos de control.
+● Presencia de más de un producto en equipos como estufas, autoclaves, liofilizadores (posibilidad de contaminación cruzada o mezcla).
+
+Mayores
+
+● Equipos que no operan dentro de sus especificaciones (↑).
+● Equipos usados durante pasos críticos de fabricación, acondicionamiento o etiquetado/codificado y control de calidad, incluyendo sistemas informatizados no calificados (↑).
+● Equipos y accesorios para la fabricación de líquidos o semisólidos que no poseen diseño/material sanitario (↑).
+● Equipos o partes de equipos almacenados en estado limpio no protegidos para evitar la contaminación (↑).
+● Equipamiento con superficies inadecuadas tales como: porosas, absorbentes, reactivas, de difícil limpieza o con desprendimiento de partículas (↑).
+● Evidencia de contaminación de productos por materiales extraños como grasas, aceites, óxido o partículas provenientes del equipamiento (↑).
+● Falta de tapas para tanques, tolvas o equipos similares de fabricación.
+● Funcionamiento de diferentes equipos dentro de una misma área con la posibilidad de contaminación cruzada o mezcla (↑).
+● Fugas en las juntas con potencial impacto en la calidad del producto (↑).
+● Falta de registros de calibración. / Incumplimiento del programa de calibración de los equipos (automáticos, mecánicos, electrónicos o de medida) (↑).
+● Falta de programa de mantenimiento preventivo para equipos críticos. / Falta de registros (↑).
+● Falta de bitácoras (logbooks) de equipos que permitan trazar la historia de los procesos de manufactura.
+
+Otras
+
+● Distancia insuficiente entre los equipos y paredes para permitir una limpieza eficiente / Instalación de los equipos fijos incorrectamente asegurados en los puntos de contacto.
+● Uso de equipos o instrumentos no críticos que requieren reparación (↑).
+● Equipos defectuosos o fuera de uso no retirados del sector o no apropiadamente rotulados / Equipos menores no calificados empleados en la fabricación de productos de bajo riesgo (↑).
+
+SANITIZACIÓN/DESINFECCIÓN
+
+Críticas
+
+● Evidencia de acumulación generalizada de residuos/materiales extraños indicando inadecuada limpieza en áreas de fabricación.
+● Evidencia de presencia de plagas en áreas con producto expuesto.
+
+Mayores
+
+● Ausencia de Programa de sanitización y/o falta de registros en áreas que se observan limpias.
+● Falta de POE para monitoreo microbiológico o monitoreo de partículas no viables, temperatura y humedad relativa / Falta de especificación de límites de alerta y acción para áreas de productos no estériles susceptibles a la contaminación.
+● Procedimiento de limpieza para equipos de producción no validados incluyendo los métodos analíticos para la detección de trazas (↑).
+● Instalaciones y servicios con evidente falta de limpieza, ubicadas directamente encima de productos expuestos o de los equipos de manufactura (↑).
+
+Otras
+
+● Procedimiento de sanitización incompleto / Registros de sanitización incompletos de acuerdo con el programa.
+● Incompleta implementación del programa de sanitización.
+
+CONTROL DE CALIDAD DE MATERIAL DE PARTIDA
+
+Críticas
+
+● Evidencia de falsificación o tergiversación de resultados analíticos.
+● Falta de control de calidad de los materiales en el establecimiento sin previa autorización de la autoridad sanitaria.
+● Uso de materia prima después de la fecha de vencimiento.
+
+Mayores
+
+● Falta de certificado de análisis del proveedor/elaborador.
+● Control de calidad ausente o incompleto de materias primas. / Especificaciones incompletas (↑) / Especificaciones no aprobadas por Control de Calidad (↑).
+● Métodos de control de materias primas activas no validados (↑).
+● No se asegura la identidad del contenido de cada recipiente de materia prima antes de su uso (↑).
+● Uso de materia prima luego de la fecha de reanálisis sin realizar el control adecuado (↑).
+● Diferentes lotes de materias primas recibidos al mismo tiempo sin considerarlos en forma separada para el muestreo, análisis y liberación (↑).
+● Falta de POE para condiciones de almacenamiento y transporte.
+
+● Certificación de proveedores o intermediarios (brokers) sin la documentación apropiada.
+● Lotes de materias primas con ensayos de identificación realizados, usadas en producción, sin la aprobación correspondiente de Control de Calidad (↑).
+
+Otras
+
+● Validación incompleta de métodos de análisis para materiales de partida no activos (↑).
+● Falta de ensayos de identificación, realizados por el titular del producto, sobre remanentes de materia prima luego de su uso por terceros (↑).
+
+PRODUCCIÓN
+
+Críticas
+
+● Falta de documento maestro de producción.
+● Fórmula maestra que demuestra significativas desviaciones o cálculos erróneos.
+● Ausencia de registros de fabricación de lotes (batch records).
+● Evidencia de adulteración o falsificación de registro de elaboración o de acondicionamiento.
+● Realización de actividades de fabricación en áreas ajenas a ese fin.
+● Falta de número de lote y fecha de vencimiento en los envases primarios de los productos terminados.
+● Uso de vestimenta no exclusiva para la fabricación de productos segregados.
+● Falta de limpieza de áreas entre el procesamiento de distintos productos.
+● Falta de identificación de materiales en proceso/ áreas productivas resultando en una alta probabilidad de mezcla/confusión.
+● Rotulado o almacenamiento inadecuado de materiales y/o productos rechazados que podrían generar una mezcla/confusión.
+● Materiales recibidos (graneles, productos en proceso, materia prima y material de empaque) no mantenidos en cuarentena hasta su liberación por Control de Calidad.
+
+Mayores
+
+● Documento maestro de producción incompleto.
+● Fórmula maestra que no coincide con la de autorización de comercialización del producto (↑).
+● Registros de fabricación que demuestran desvíos o errores de cálculo significativos (↑).
+● Información impresa o codificada en los envases primarios del lote de producción no legible y/o que se destiña y/o que se borre con facilidad por manipulación (↑).
+● Orden de fabricación preparada/verificada por personal no cualificado.
+● Falta de validación de procesos críticos de fabricación. / Validación incompleta. / Falta de la evaluación final y la aprobación en el reporte (↑).
+● Cambios en los procesos sin la adecuada validación (↑).
+
+● Cambios mayores no aprobados o no documentados en comparación con los documentos maestros de producción (↑).
+● Falta de verificación de limpieza de áreas y equipos, cuando no ha sido validada (↑).
+● Falta de limpieza entre el procesamiento de distintos lotes o de diferente concentración del mismo producto elaborados en días sucesivos / lapso de tiempo no avalado por una validación de limpieza.
+● Falta de medidas para garantizar la limpieza de los envases primarios antes del llenado o medidas insuficientes.
+● Falta de implementación de medidas para garantizar la trazabilidad de cada lote, en caso de fabricarse diferentes lotes del mismo producto en una misma área.
+● Reproceso y/o retrabajo sin autorización de una persona cualificada.
+● Desvíos de las instrucciones de producción no documentados y no aprobados por Control de Calidad/Garantía de Calidad (↑).
+● Discrepancias en el rendimiento o conciliación no investigadas.
+● Liberación de líneas productivas no documentadas y no incluidas en el POE (↑).
+● Falta de controles para instrumentos de medición o falta de registros (↑).
+● Uso de materiales (materia prima, material de empaque, graneles, productos en proceso) en producción sin la autorización previa de Control de Calidad (↑).
+● Rotulado inadecuado o inexacto de productos a granel, productos en proceso, materia prima y material de empaque.
+● Fraccionado/pesaje de materias primas no realizado por persona calificada acorde al POE.
+● Cambios en el tamaño de lote no aprobados/no verificados por personal calificado.
+● Información inexacta o incompleta en los registros de producción/ acondicionamiento.
+● Transferencia inadecuada de productos a granel/semielaborados entre etapas de producción de forma de evitar la contaminación.
+● Existencia de recipientes abiertos, fuera de las áreas de producción, conteniendo producto semielaborado (↑).
+● Falta de POE para operaciones de acondicionamiento.
+● Falta de mantenimiento homogéneo de las suspensiones y/o emulsiones durante todo el proceso de fraccionamiento (↑).
+● Falta de monitoreo microbiológico / de partículas no viables / temperatura / humedad relativa en áreas donde se elaboran productos no estériles cuando el producto lo requiere.
+● Control inadecuado de material impreso codificado o no (incluyendo almacenamiento, distribución, impresión y eliminación).
+● Existencia de envases sobrantes codificados con número de lote y/o fecha de vencimiento no aislados ni identificados.
+● Actividades de fabricación realizadas sin la correspondiente autorización nacional (inclusive ampliación de actividades o áreas) (↑).
+● Falta de contratos entre las partes intervinientes en la fabricación de un lote (por ejemplo, titular de la autorización de comercialización y elaborador o acondicionador o distribuidor).
+● Ausencia de documentación que certifique la autorización de fabricación (habilitación) otorgada por la autoridad sanitaria competente de los fabricantes tercerizados contratados.
+● Combinación de lotes que se realiza sin autorización de Garantía de Calidad, aunque se encuentre documentada y/o falta del POE correspondiente.
+● Falta de registros de distribución primaria de productos terminados o registros incompletos. / Registros de distribución no mantenidos o no disponibles (↑).
+● Falta de POE de retiro de productos incluyendo registro de distribución que no permite realizar un adecuado retiro del mercado.
+● Cuarentena y destrucción inadecuadas que permiten el retorno a stock o a la venta de las unidades afectadas a retiro del mercado / rechazadas / devueltas por defecto de calidad.
+
+Otras
+
+● POEs incompletos para manejo de materiales y productos.
+● Acceso a áreas productivas no restringido a personal autorizado únicamente.
+● Verificación incompleta de materiales de partida recibidos.
+● Falta dentro del depósito de sectores con separación física real, seguridad y acceso restringido para sustancias psicotrópicas y estupefacientes.
+● Manejo inadecuado de material de empaque vencido u obsoleto.
+● POEs incompletos para operaciones de acondicionamiento.
+● POE de retiro del mercado incompleto, o no actualizado a la normativa vigente. / POE de retiro del mercado que no contempla la obligación de comunicación inmediata a la autoridad sanitaria competente.
+● No se detallan en los contratos las responsabilidades de cada una de las partes intervinientes en la fabricación de un lote (por ejemplo, titular de la autorización de comercialización y elaborador, acondicionador o distribuidor).
+● Desvíos en operaciones de acondicionamiento no investigados por personal calificado (↑).
+
+CONTROL DE CALIDAD - MATERIAL DE EMPAQUE
+
+Mayores
+
+● Programa de control reducido implementado sin certificación de proveedores/fabricantes.
+● Falta de control de material de empaque o insuficiente control.
+● Muestreo no representativo de material de acondicionamiento primario.
+● Especificaciones incompletas.
+● Especificaciones no aprobadas por Control de Calidad.
+● Falta de ensayos de identificación de material de empaque/etiquetas.
+● Certificación o calificación de proveedores o intermediarios (brokers) sin la apropiada documentación.
+
+Otras
+
+● Procedimientos incompletos o inadecuados para transporte y almacenamiento.
+● Condiciones ambientales inapropiadas o falta de precauciones para prevenir la contaminación del material durante el muestreo (↑).
+● Falta de rotulación del material de empaque/etiquetas luego de la recepción.
+
+CONTROL DE CALIDAD - PRODUCTO TERMINADO
+
+Críticas
+
+● Falta de evidencia disponible del certificado de análisis del establecimiento elaborador. / Falta de Control de Calidad completo de productos importados antes de liberarlos al mercado para distribución (según legislación local vigente).
+● Evidencia de falsificación o adulteración de certificado de análisis.
+
+Mayores
+
+● Producto terminado liberado para su uso con control de calidad incompleto. / Resultados de análisis que no se ajustan a las especificaciones establecidas (↑).
+● Productos terminados liberados para su uso y elaborados con materias primas vencidas (↑).
+● Productos disponibles para su comercialización sin previa certificación de la persona autorizada (Dirección Técnica) o de la persona cualificada para liberar (↑).
+● Productos no conformes disponibles para la venta (↑).
+● Productos terminados liberados para su uso y elaborados con materias primas con fecha de reanálisis vencida.
+● Especificaciones incompletas o no coincidentes con lo codificado en farmacopeas internacionales vigentes y/o lo aprobado en el registro sanitario (↑).
+● Especificaciones no aprobadas por Control de Calidad.
+● Falta de control de calidad individual de sub-lotes de producción, cuando corresponda (↑).
+● Métodos de control no validados o validación incompleta (↑).
+● Falta de POE con descripción de las condiciones de almacenamiento y transporte.
+
+Otras
+
+● Transferencia incompleta de métodos analíticos validados.
+● Reportes de validación de métodos que no especifican el método analítico de referencia usado para la validación.
+
+MUESTRAS
+
+Mayores
+
+● Falta de muestras de retención de productos terminados.
+Otras
+
+● Muestras de retención de materiales de partida no disponibles. / Cantidad insuficiente de muestras retención de productos terminados. / Cantidad insuficiente de muestras de retención de ingredientes farmacéuticos activos (IFAs).
+● Condiciones de almacenamiento inadecuadas.
+
+ESTABILIDAD
+
+Críticas
+
+● Fecha de vencimiento en los productos comercializados diferente a la establecida en la autorización de comercialización.
+● Ausencia de datos del estudio de estabilidad que avalen la vida útil del producto.
+● Evidencia de falsificación o adulteración de datos de estabilidad. / Falsificación de certificado de análisis.
+
+Mayores
+
+● Falta de acciones cuando los datos obtenidos demuestran que no se cumplen las especificaciones de calidad antes del vencimiento en un estudio de estabilidad en curso. (↑)
+● Falta de programa de estabilidad en curso o programa inadecuado.
+● Falta de estudios de estabilidad frente a cambios en el proceso de manufactura (formulación/material de empaque primario/métodos de elaboración).
+● Métodos de control para el estudio de estabilidad en curso no validados (↑).
+● Falta de realización de todos los controles que se indican para el estudio de estabilidad del producto (↑).
+● Falta la inclusión de lotes - peores casos productivos (por ejemplo, reprocesos/retrabajos, desvíos) en el programa de estabilidad.
+● Condiciones inapropiadas de almacenamiento de muestras para estudios de estabilidad.
+
+Otras
+
+● Realización de controles de estabilidad a tiempos diferentes a los programados.
+● Revisión de datos de estabilidad no realizada en tiempo y forma.
+
+SISTEMA DE TRATAMIENTO DE AGUA PARA USO FARMACÉUTICO
+
+Críticas
+
+● Inexistencia de un sistema de obtención de agua de calidad farmacéutica adecuado a los productos que se fabrican en la empresa.
+● Ausencia de validación de los sistemas de obtención, almacenamiento y distribución de agua para uso farmacéutico.
+
+Mayores
+
+● Para el caso de productos estériles, los sistemas de obtención de agua para uso farmacéutico no son mantenidos u operados para garantizar la provisión de agua de calidad adecuada (↑).
+● Los materiales utilizados en el almacenamiento y distribución no son de características sanitarias (↑).
+● Falta de registros de calibración de los instrumentos críticos del sistema de agua para uso farmacéutico.
+● No se utiliza agua purificada para alimentar el sistema de obtención de agua para inyectables y al generador de vapor puro.
+● Uso de agua en la formulación sin cumplir los parámetros de calidad requeridos en la fórmula maestra del producto.
+● Falta de realización o insuficientes ensayos microbiológicos y fisicoquímicos de agua para uso farmacéutico. / Insuficiente volumen de agua muestreada (↑).
+● El agua para inyectables no se distribuye hasta los puntos de uso mediante recirculación constante y de manera que se asegure la inhibición del crecimiento de microorganismos (↑).
+● Revalidación inadecuada de los sistemas de agua para uso farmacéutico debido a cambios, mantenimientos o tendencias fuera de especificación que pueden afectar la calidad de la misma.
+● Utilización de agua para uso farmacéutico reiteradamente fuera de las especificaciones (↑).
+● No se realiza el enjuague final de los equipos y accesorios utilizados en la fabricación de productos parenterales con agua para inyectables.
+
+Otras
+
+● No se realizan controles sobre el agua potable.
+● Los puntos de muestreo y/o uso no están debidamente identificados.
+● Cañerías de agua no correctamente identificadas.
+● Falta de plan y evidencia de limpieza y sanitización del sistema de almacenamiento y distribución de agua potable.
+● Falta de diagramas o planos actualizados del sistema de obtención, almacenamiento y distribución incluyendo puntos de muestreo y uso.
+● No se realiza el enjuague final de los equipos y accesorios utilizados en la fabricación de productos no parenterales con agua de la calidad requerida.
+
+PRODUCTOS ESTÉRILES
+
+Críticas
+
+● Falta de validación de procesos críticos de esterilización o validación incompleta.
+● Falta de realización de la prueba de simulación de proceso de llenado aséptico para demostrar la validez de las operaciones de llenado aséptico.
+● Operaciones de llenado aséptico realizadas luego de obtener resultados de la prueba de simulación de proceso de llenado aséptico no satisfactorios.
+● Falta de monitoreo ambiental de partículas viables y no viables durante el proceso de llenado aséptico. / Condiciones ambientales de llenado aséptico inadecuadas.
+● Liberación de lotes con resultados de no cumplimiento de esterilidad basada en un segundo control sin una investigación exhaustiva.
+● Falta de realización del test de integridad/fuga para el 100% de las ampollas de un lote.
+● Falta de esterilización o despirogenado de los envases primarios para productos sin esterilización final.
+● No se realiza el enjuague final de envases primarios con agua para inyectables.
+
+Mayores
+
+● Clasificación de áreas no acordes a las buenas prácticas para las operaciones de procesamiento y llenado (↑).
+● Áreas de manufactura asépticas con presión negativas vs. áreas lindantes (C-D) (↑).
+● Áreas limpias (C-D) con presión negativa vs. áreas no calificadas.
+● Cantidad insuficiente de muestras tomadas para el control ambiental. / Método de muestreo no adecuado (↑).
+● Falta de monitoreo de partículas no viables y/o viables en áreas donde se elaboran productos estériles o monitoreo incompleto (↑).
+● Programa de simulación del proceso de llenado aséptico no adecuado (por ejemplo: no simula operaciones reales, número insuficiente de unidades para realizar la prueba, frecuencia de realización inadecuada, etc.)
+● Interpretación errónea de los resultados de la prueba de simulación del proceso de llenado aséptico.
+● Liberación de lotes elaborados en la misma línea antes de obtener una resolución favorable de la prueba de simulación de proceso de llenado aséptico cuando no se trate de la validación inicial.
+● Diseño de áreas y equipos que no permite reducir la contaminación o generación de partículas. / Mantenimiento inadecuado para reducir la contaminación o generación de partículas (↑).
+● Entrenamiento inadecuado del personal.
+● Personal involucrado en el proceso de llenado aséptico sin haber participado de una prueba de simulación de proceso de llenado aséptico con resultado satisfactorio.
+● Prácticas inadecuadas de vestimenta para áreas asépticas y/o limpias.
+● Programas de sanitización o desinfección no adecuados para áreas limpias. / Detección de desvíos microbiológicos sostenidos.
+● Prácticas inadecuadas o precauciones insuficientes para minimizar la contaminación o prevenir mezclas/confusiones.
+● Lapso de tiempo no validado entre limpieza, esterilización y uso de componentes, contenedores y equipos.
+● Lapso de tiempo no validado entre inicio de manufactura y esterilización o filtración.
+● Falta de estudio de carga biológica (bioburden) antes de la esterilización.
+● Falta demostrar la aptitud de medios de cultivos para el desarrollo de un amplio espectro de microorganismos.
+● Cantidad insuficiente de muestras para realizar el test de esterilidad. / Muestras no representativas del total de lote elaborado.
+● Cada carga del esterilizador no se considera como un lote separado para la realización del ensayo de esterilidad.
+● Falta de determinación de endotoxinas en el agua para inyectables utilizada para el enjuague final de contenedores y componentes para la elaboración de productos parenterales cuando los mismos no son despirogenados.
+● Ambiente inapropiado o controles ambientales inadecuados para el área de precintado luego de un llenado aséptico.
+● Inspección inadecuada de partículas y defectos o no realizada sobre el 100% de las unidades (↑).
+● Falta de filtros esterilizantes en los puntos de uso de gases usados para purgar soluciones o para proteger el producto (↑).
+● Falta de test de integridad de filtros esterilizantes y de venteo o test inadecuado (↑).
+● Existencia de lavaderos y/o sumideros en áreas de grado A-B para la manufactura de productos asépticos.
+● Equipamiento o instalaciones no diseñados o mantenidos para minimizar la contaminación o la generación de partículas (↑).
+● El agua utilizada en los autoclaves para el enfriamiento de las soluciones parenterales de gran volumen mediante lluvia no es de la calidad adecuada.
+● La cantidad de personal autorizado en las áreas en operación supera lo especificado según la calificación realizada.
+● Falta de garantía de que la calidad del gas que entra en contacto con el producto sea la adecuada.
+
+Otras
+
+● Falta de monitoreo que garantice la calidad de vapor utilizado en la esterilización (↑).
+● Control inadecuado del máximo número de personas presentes en áreas asépticas o limpias.
+
+
+APÉNDICE
+
+ÁRBOL DE DECISIÓN PARA LA APLICACIÓN DE ANÁLISIS DE RIESGO PARA LA CLASIFICACIÓN DE DEFICIENCIAS DE BUENAS PRÁCTICAS DE FABRICACIÓN Y DE MEDICAMENTOS
+
+
+Figura 1 - Proceso de Clasificación
+
+
+Figura 2 - Proceso de Clasificación - Evaluación Detallada Paso 1
+
+
+Figura 3 - Proceso de Clasificación - Evaluación Detallada Paso 2
+
+
+Figura 4 - Proceso de Clasificación - Evaluación Detallada Paso 3
+
+
+Figura 5 - Proceso de Clasificación - Evaluación Detallada Paso 4
+
+
+Referencias:
+
+- Risk classification guide for drug good manufacturing practices observations GUI-0023. Health Canada. February 28, 2018.
+- PIC/S GUIDANCE ON CLASSIFICATION OF GMP DEFICIENCIES, PI 040-1, 3 Appendices, 1 January 2019
+
+
+2

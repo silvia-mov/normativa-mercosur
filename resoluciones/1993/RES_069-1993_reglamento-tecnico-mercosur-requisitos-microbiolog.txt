@@ -1,0 +1,225 @@
+Resolución GMC N° 69/93
+Título: REGLAMENTO TÉCNICO MERCOSUR REQUISITOS MICROBIOLOGICOS PARA QUESOS.
+Fecha de aprobación: 14/01/1994
+Vigencia: Vigente (Vigente desde el 09/02/2001 - Art. 9 iii) Decisión CMC Nº 023/2000)
+Idioma del texto: ES
+Archivo original: 37804_RES_069-1993_ES_RequisiQuesos.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2391).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 69/93
+
+
+REQUISITOS MICROBIOLOGICOS DE QUESOS
+
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común y la Resolución Nº 18/92 del Grupo Mercado Común, la Recomendación Nº 42/93 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los Estados Parte acordaron establecer los "Requisitos Microbiológicos para Quesos".
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. Aprobar el Reglamento Técnico General MERCOSUR para la fijación de los "Requisitos Microbiológicos de Quesos", que figura como Anexo a la presente Resolución.
+
+Art. 2. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución y comunicarán el texto de las mismas al Grupo Mercado Común, a través de la Secretaría Administrativa.
+
+Art. 3. La presente Resolución entrará en vigor el 31 de enero de 1994.
+
+REGLAMENTO TECNICO GENERAL MERCOSUR PARA LA FIJACION DE LOS REQUISITOS MICROBIOLOGICOS DE QUESOS
+
+
+1. Alcance.
+
+1.1. Objetivo.
+
+Fijar los requisitos microbiológicos que deberán cumplir los quesos.
+
+1.2. Ambito de aplicación.
+
+La presente norma se refiere a los diferentes tipos de quesos destinados al consumo humano, a ser comercializados en el MERCOSUR.
+
+2. Definición.
+
+Los requisitos microbiológicos definidos en esta norma han sido establecidos conforme a los criterios y planes de muestreo para aceptación de lotes de la Comisión Internacional de Especificaciones Microbiológicas de los Alimentos (ICMSF).
+
+Los métodos analíticos especificados responden a la metodología internacionalmente aceptada.
+
+Los quesos fueron clasificados según el contenido de humedad de la pasta, otras características distintivas y tecnologías de fabricación.
+
+3. Requisitos.
+
+3.1. Quesos de baja humedad (humedad < 36%).
+
+Microorganismos
+Criterio de Aceptación
+Categoría ICMSF
+Método de Ensayo
+Coliformes/g (30ºC)
+n=5 c=2 m=200 M=1000
+5
+Fil 73A: 1995
+Coliformes/g (45ºC)
+n=5 c=2 m=100 M=1000
+5
+APHA 1992 c.24(1)
+Estafilococos coag. pos. /g
+n=5 c=2 m=100 M=1000
+5
+Fil 145: 1990
+Salmonella spp/25g
+n=5 c=0 m=0
+10
+Fil 93A: 1995
+Coliformes/g (30ºC)
+n=5 c=2 m=1000 M=5000
+5
+Fil 73A: 1905
+Coliformes/g (45ºC)
+n=5 c=2 m=100 M=500
+5
+APHA 1992 c.24(1)
+Estafilococos coag. pos. /g
+n=5 c=2 m=100 M=1000
+5
+Fil 145: 1990
+Salmonella spp/25g
+n=5 c=0 m=0
+10
+Fil 93A: 1995
+Listería monocyto genes/25g
+n=5 c=0 m=0
+10
+Fil 143A: 1990
+
+
+3.2. Quesos de alta humedad (46%<humedad<55%) exceptuando los quesos cuartirolo, cremoso, criollo y Minas Frescal:
+
+Coliformes/g (30ºC)
+n=5 c=2 m=5000 M=10.000
+5
+Fil 73A: 1985
+Coliformes/g (45ºC)
+n=5 c=2 m=1000 M=5000
+5
+APHA 1992 c.24(1)
+Estafilococoscoag. pos. /g
+n=5 c=2 m=100 M=1000
+5
+Fil 145: 1990
+Salmonella spp/25g
+n=5 c=0 m=0
+10
+Fil 93A: 1965
+Listería monocyto genes/25g
+n=5 c=0 m=0
+10
+Fil 143A: 1990
+
+3.3. Quesos cuartirolo, cremoso, criollo y Minas Frescal (46%<humedad<55%):
+
+Coliformes/g (30ºC)
+n=5 c=2 m=10.000 M=100.000
+5
+Fil 73A: 1985
+Coliformes/g (45ºC)
+n=5 c=2 m=1000 M=5000
+5
+APHA 1992 c.24(1)
+Estafilococos coag. pos. /g
+n=5 c=2 m=100 M=1000
+5
+Fil 145: 1990
+Salmonella spp/25g
+n=5 c=0 m=0
+10
+Fil 93A: 1965
+Listería monocyto genes/25g
+n=5 c=0 m=0
+10
+Fil 143A: 1990
+
+3.4. Quesos de muy alta humedad con bacterias lácticas en forma viable y abundantes (humedad > 55%):
+
+Coliformes/g (30ºC)
+n=5 c=3 m=100 M=1000
+4
+Fil 73A: 1985
+Coliformes/g (45ºC)
+n=5 c=2 m=10 M=100
+5
+APHA 1992 c.24(1)
+Estafilococoscoag. pos. /g
+n=5 c=2 m=10 M=1000
+5
+Fil 145: 1990
+Salmonella spp/25g
+n=5 c=0 m=0
+10
+Fil 93A: 1985
+Listería monocyto Genes/25g
+n=5 c=0 m=0
+10
+Fil 143A: 1990
+3.5. Quesos de muy alta humedad sin bacterias lácticas en forma viable y abuntes (humedad > 55%):.
+Coliformes/g (30ºC)
+n=5 c=2 m=100 M=1000
+5
+Fil 73A: 1985
+Coliformes/g (45ºC)
+n=5 c=2 m=50 M=500
+5
+APHA 1992 c.24(1)
+Estafilococos coag. pos. /g
+n=5 c=1 m=100 M=500
+8
+Fil 145: 1990
+Hongos y levaduras/g
+n=5 c=2 m=500 M=5000
+2
+Fil 94B: 1990
+Salmonella spp/25g
+n=5 c=0 m=0
+10
+Fil 93A: 1985
+Listería monocyto genes/25g
+n=5 c=0 m=0
+10
+Fil 143A: 1990
+3.6. Queso rallado:
+Coliformes/g (30ºC)
+n=5 c=2 m=200 M=1000
+5
+Fil 73A: 1985
+Coliformes/g (45ºC)
+n=5 c=2 m=100 M=1000
+5
+APHA 1992 c.24(1)
+Estafilococos coag. pos. /g
+n=5 c=2 m=100 M=1000
+5
+Fil 145: 1990
+Hongos y levaduras/g
+n=5 c=2 m=500 M=5000
+2
+Fil 94B: 1990
+Salmonella
+n=5 c=0 spp/25g
+10 m=0
+Fil 93A: 1985
+3.7. Quesos fundidos o reelaborados y quesos procesados por UHT o UAT:
+Coliformes/g (30ºC)
+n=5 c=2 m=10 M=100
+5
+Fil 73A: 1985
+Coliformes/g (45ºC)
+n=5 c=2 m<3 M=10
+5
+APHA 1992 c.24(1)
+Estafilococos coag. pos. /g
+n=5 c=2 m=100 M=1000
+5
+Fil 145: 1990
+(1) Compendium of Methods for the Microbiological Examinations of Food. 3º Edición. Editado por Carl Vanderzant y Don F. Splittstoesser.

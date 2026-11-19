@@ -1,0 +1,212 @@
+Directiva CCM N° 47/23
+Título: MODELO PARA EL SUMINISTRO Y TRATAMIENTO UNIFORME DE LOS DATOS ESTADÍSTICOS SOBRE LOS RECLAMOS DE CONSUMO EN EL MERCOSUR
+Fecha de aprobación: 22/06/2023
+Vigencia: Vigente (Vigente desde su aprobación el 22/06/2023 - Articulo 5 a) Decisión CMC Nº 23/00.)
+Idioma del texto: ES
+Archivo original: 95389_DIR_047-2023_ES_Modelo Datos Estadisticos Reclamos Consumo.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4527).
+----------------------------------------------------------------------
+MERCOSUR/CCM/DIR. N° 47/23
+
+
+MODELO PARA EL SUMINISTRO Y TRATAMIENTO UNIFORME DE LOS DATOS ESTADÍSTICOS SOBRE LOS RECLAMOS DE CONSUMO EN EL MERCOSUR
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nº 64/10 y 32/17 del Consejo del Mercado Común y la Resolución N° 20/18 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+La importancia de las estadísticas sobre defensa del consumidor como instrumento para la toma de decisiones y análisis de los Estados Partes del MERCOSUR.
+
+Que resulta conveniente contar con una Base de Datos Estadísticos sobre Defensa del Consumidor del MERCOSUR a fin de disponer de información estadística actualizada de los Estados Partes para su difusión.
+
+Que resulta oportuno disponer de un formato unificado para el intercambio de datos estadísticos relativos a los reclamos de consumo en los Estados Partes.
+
+
+LA COMISIÓN DE COMERCIO DEL MERCOSUR
+APRUEBA LA SIGUIENTE DIRECTIVA:
+
+Art. 1 - Aprobar el "Modelo para el suministro y tratamiento uniforme de los datos estadísticos sobre los reclamos de consumo en el MERCOSUR", que consta como Anexo y forma parte de la presente Directiva.
+
+Art. 2 - Los Estados Partes, a través de las Coordinaciones Nacionales del Comité Técnico N° 7 "Defensa del Consumidor" (CT Nº 7), deben dar tratamiento y suministrar los datos estadísticos sobre los reclamos de consumo en el MERCOSUR de acuerdo con lo previsto en el Anexo de la presente Directiva. Dicha información debe ser enviada a la Secretaría del MERCOSUR (SM) de conformidad con los procedimientos y códigos establecidos en dicho Anexo.
+
+Art. 3 - Esta Directiva no necesita ser incorporada al ordenamiento jurídico de los Estados Partes por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+
+CXCVI CCM - Montevideo, 22//VI/23.
+
+
+ANEXO
+
+MODELO PARA EL SUMINISTRO Y TRATAMIENTO UNIFORME DE LOS DATOS ESTADÍSTICOS SOBRE LOS RECLAMOS DE CONSUMO EN EL MERCOSUR
+
+
+1. Objetivo:
+
+El objetivo de crear una Base de Datos estadísticos en materia de defensa del consumidor en el MERCOSUR es contar con un registro estadístico actualizado de los Estados Partes, a fin de facilitar el acceso a la referida información por parte de los usuarios interesados.
+
+2. Responsables del suministro de datos
+
+Las Coordinaciones Nacionales del CT N° 7 indicarán un responsable titular y un responsable alterno para el suministro de los datos de defensa al consumidor del MERCOSUR e informarán a los demás Estados Partes y a la Secretaría del MERCOSUR cualquier modificación en la mencionada designación.
+
+Dichos datos deben ser suministrados de acuerdo con lo previsto en el presente Anexo. Las comunicaciones entre los responsables designados y la SM/UTECEM deberán ser remitidas con copia a los responsables designados por los demás Estados Partes.
+
+3.   Definición de las variables y atributos cuyos datos son intercambiados
+
+Las variables definidas a continuación deben ser incluidas a los efectos del suministro de datos básicos de defensa al consumidor del MERCOSUR.
+
+1) País informante: se debe indicar el Código del Estado Parte del MERCOSUR que suministra el dato de defensa al consumidor (Tabla N° 1).
+
+2) Año informado: se debe indicar con la decena y la unidad correspondiente al año de referencia de los datos (Tabla N° 2).
+
+3) Código del Rubro MERCOSUR: se debe indicar el "Código del Rubro MERCOSUR" definido por los Estados Partes para la clasificación de los datos estadísticos de defensa al consumidor del MERCOSUR (Tabla N° 3).
+
+4) Cantidad: se debe indicar la cantidad de reclamos de consumo expresada en números.
+
+
+4. Diseño uniforme para el suministro de datos básicos y cuadros de control de integridad
+
+El suministro de los datos aportados por los responsables designados por cada Estado Parte debe ajustarse a las variables indicadas en el presente Anexo.
+
+4.1. Diseño uniforme de los archivos
+
+El archivo de transferencia debe contener los datos de las variables definidas en el numeral 3, en formato "hoja de cálculo (tipo Excel)" y presentado según el esquema que figura a continuación:
+
+Campo
+Columna
+Concepto
+Primer Caracter
+Último Caracter
+N°. de Caracteres
+Tipo
+1
+Código País Informante
+1
+2
+2
+A
+2
+Año informado
+3
+6
+4
+N
+3
+Código Rubro MERCOSUR
+7
+9
+3
+N
+4
+Cantidad (n° de reclamos)
+10
+15
+6
+N
+
+
+* Tipo:  A = alfabético
+            N = numérico
+
+Ejemplo: UY2022001000150 (Uruguay; año 2022; 001 "alimentos y bebidas"; 000150 reclamos).
+
+4.2. Especificaciones de grabación. Soporte de transferencia de datos
+
+Los responsables designados por cada Coordinación Nacional del CT N° 7 determinarán el medio que les resulte más conveniente, a través de upload, download, transferencia vía FTP o correo electrónico, para la remisión de los datos básicos de los reclamos de consumo en el MERCOSUR a la SM/UTECEM.
+
+La SM/UTECEM debe almacenar todos los archivos enviados por cada responsable en su versión original.
+
+Especificaciones de grabación
+
+Formato de archivo: hoja de cálculo (tipo Excel)
+Longitud de campos (columnas): 4
+Longitud de caracteres: 15
+
+
+Nombre del archivo de datos
+
+A efecto de estandarizar y facilitar la identificación del contenido y procedencia de los archivos de datos, el nombre de los archivos surgirá de la concatenación de la siguiente información:
+
+Construcción del nombre del archivo de datos
+
+      Posiciones
+      1-2: Dos letras según el país (AR, BR, PY, UY)
+		3: Guion (-)
+		4-7: Años de referencia de los datos
+		8: Guión bajo (_)
+		9-16: día+ mes + año de la generación de los datos
+
+Ejemplos:
+
+AR-2019_04032020
+Envío de datos de Argentina, año 2019, archivo generado el día 04 de marzo de 2020
+BR-2019_24012020
+Envío de datos de Brasil, año 2019, archivo generado el día 24 de enero de 2020
+PY-2020_23032021
+Envío de datos de Paraguay, año 2020, archivo generado el día 23 de marzo de 2021
+UY-2021_03022022
+Envío de datos de Uruguay, año 2021, archivo generado el día 03 de febrero de 2022
+
+El envío de los datos estadísticos de los reclamos de consumo en el MERCOSUR se debe realizar con una periodicidad anual. Dichos datos deben ser remitidos a la SM/UTECEM según lo establecido en el presente Anexo antes del 31 de marzo del año subsiguiente al cierre de los datos relevados.
+
+
+Tablas de Códigos
+
+Tabla N° 1: País Informante
+
+Código
+País
+AR
+Argentina
+BR
+Brasil
+PY
+Paraguay
+UY
+Uruguay
+
+
+Tabla N° 2: Año Informado
+Se indica con el número de año (4 dígitos) correspondiente.
+
+Tabla N° 3:  Rubro MERCOSUR
+
+Código
+Rubro MERCOSUR
+001
+Alimentos y Bebidas
+002
+Educación
+003
+Salud
+004
+Energía y Combustibles
+005
+Transporte
+006
+Inmueble
+007
+Servicios Financieros y Seguros
+008
+Telecomunicaciones
+009
+Turismo
+010
+Productos de Telefonía
+011
+Productos Informáticos
+012
+Productos Electrodomésticos y Electrónicos
+013
+Juguetes
+014
+Automotor
+015
+Vestimenta
+099
+Otros Rubros
+
+
+2

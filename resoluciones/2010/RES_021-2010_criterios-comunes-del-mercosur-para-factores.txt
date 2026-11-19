@@ -1,0 +1,82 @@
+Resolución GMC N° 21/10
+Título: CRITERIOS COMUNES DEL MERCOSUR PARA FACTORES DE CONVERSIÓN PARA SUSTANCIAS CONTROLADAS NACIONALMENTE POR LOS ESTADOS PARTES QUE NO SON OBJETO DE CONTROL INTERNACIONAL
+Fecha de aprobación: 15/06/2010
+Vigencia: Vigente (Vigente desde el 20/12/2014 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 25278_RES_021-2010_ES_Criterios Comunes.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1827).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 21/10
+
+CRITERIOS COMUNES DEL MERCOSUR PARA FACTORES DE CONVERSIÓN PARA SUSTANCIAS CONTROLADAS NACIONALMENTE POR LOS ESTADOS PARTES QUE NO SON OBJETO DE CONTROL INTERNACIONAL
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución Nº 29/02 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la estandarización de procedimientos entre los Estados Partes fortalece el sistema regional de control y fiscalización de las sustancias psicotrópicas, estupefacientes y precursoras no sujetas a control internacional.
+
+La necesidad de armonización de los factores de conversión referentes a sustancias no sujetas a control internacional, controladas por el Estado Parte importador/ exportador, de forma de evitar diferencias entre los documentos emitidos por las autoridades competentes de cada Estado Parte.
+
+Que los factores de conversión de sustancias controladas internacionalmente son números enteros, conforme Listas de Sustancias preparadas por la Junta Internacional de Fiscalización de Estupefacientes (JIFE).
+
+La relevancia y la necesidad de definición de fuente bibliográfica fidedigna y accesible a los Estados Partes, para consulta de masa molecular de las sustancias para la formulación del factor de conversión.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar los "Criterios Comunes del MERCOSUR para Factores de Conversión para sustancias Controladas Nacionalmente por los Estados Partes que no son objeto de control internacional", que constan como Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Los criterios descriptos en la presente Resolución serán aplicados a los factores de conversión referentes a las sustancias no sujetas a control por la Junta Internacional de Fiscalización de Estupefacientes (JIFE) pero controladas por el Estado Parte Importador/ Exportador.
+
+Art. 3 - Los organismos nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina:  	Administración Nacional de Medicamentos, Alimentos y  Tecnología Médica (ANMAT)
+Brasil:          	Agência Nacional de Vigilância Sanitária (ANVISA/MS)
+
+Paraguay: 	Ministerio de Salud Pública y Bienestar Social  (MSPyBS) Dirección Nacional de Vigilancia Sanitaria (DNVS)
+
+Uruguay:     	Ministerio de Salud Pública (MSP)
+
+Art. 4 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes de 15/XII/2010.
+
+
+LXXX GMC - Buenos Aires, 15/VI/10.
+
+
+ANEXO
+CRITERIOS COMUNES DEL MERCOSUR PARA FACTORES DE CONVERSIÓN PARA SUSTANCIAS CONTROLADAS NACIONALMENTE POR LOS ESTADOS PARTE QUE NO SON OBJETO DE CONTROL INTERNACIONAL
+
+CAPÍTULO I
+ÁMBITO DE APLICACIÓN
+1- Los criterios descriptos serán aplicados a los factores de conversión referentes a las sustancias no sujetas a control por la Junta Internacional de Fiscalización de Estupefacientes (JIFE), pero controladas por el Estado Parte importador/exportador.
+2- Los criterios presentados deberán ser aplicados al comercio regional e internacional de sustancias sujetas a control especial, incluidos psicotrópicos, estupefacientes y precursores, cuyo monitoreo es responsabilidad de las Autoridades Sanitarias de los Estados Partes.
+
+CAPÍTULO II
+DEFINICIONES
+1- A los efectos de esta Resolución y para su adecuada aplicación, son adoptadas las siguientes definiciones:
+a. Derivado: Compuestos que contienen los elementos esenciales de la sustancia que les dio origen.
+b. Factor de Conversión: porcentaje de sustancia base anhidra presente en un derivado químico.
+c. IUPAC: Unión Internacional de Química Pura y Aplicada.
+d. Masa atómica: masa relativa media de los átomos de un elemento químico calculada a partir de la proporción relativa de sus isótopos existentes en la naturaleza.
+e. Masa Molecular: suma de las masas atómicas de todos los átomos de la molécula.
+
+
+CAPÍTULO III
+CÁLCULO DEL FACTOR DE CONVERSIÓN
+1- Para el cálculo del factor de conversión de un derivado se considera la siguiente fórmula:
+	FC%= (MMD/ MMS) x 100
+Donde:
+FC%: Factor de conversión en porcentaje
+MMD: Masa Molecular del Derivado
+MMS: Masa Molecular de la Sustancia Original
+
+2- El Factor de Conversión será siempre un número entero.
+3- El redondeo seguirá el siguiente criterio de aproximación:
+a. Cuando la primera cifra decimal sea igual o menor a 5, el valor será redondeado al número entero inmediato inferior a él.
+b. Cuando la primera cifra decimal sea mayor a 5, el valor será redondeado al número entero inmediato superior a él.
+4- Queda definida como fuente bibliográfica para consulta de las definiciones de derivado y peso atómico el Diccionario Multilingüe de Sustancias Estupefacientes y Sicotrópicas sometidas a fiscalización Internacional de la ONU. La fuente bibliográfica para consulta de los valores de las masas atómicas y moleculares de las sustancias de esta Resolución es el Reglamento Técnico de IUPAC.
+
+
+4

@@ -1,0 +1,324 @@
+Resolución GMC N° 44/01
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE IDENTIFICACIÓN DE MANDOS MANUALES, LUCES TESTIGOS E INDICADORES
+Fecha de aprobación: 10/10/2001
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 13/19.)
+Idioma del texto: ES
+Archivo original: 13373_RES_044-2001_ES_RTM_Mandos_Luces_Indicadores_Acta 3_01.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1109).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 44/01
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE IDENTIFICACIÓN DE MANDOS MANUALES, LUCES TESTIGOS E INDICADORES
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 91/93, 152/96 y 38/98 del Grupo Mercado Común y el Proyecto de Resolución N° 20/99 del SGT N°3 "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que el mercado interior implica un espacio sin fronteras interiores en el que está garantizada la libre circulación de mercancías, personas, servicios y capitales; que es importante adoptar medidas para tal fin;
+
+Que con objeto de garantizar la seguridad de los pasajeros, es importante que los vehículos cumplan algunos requisitos de identificación de comandos manuales, luces piloto e indicadores;
+
+Que para tal fin, los Estados Partes acordaron adecuar sus legislaciones, de modo de hacer posible el libre intercambio de vehículos, sus partes y sus piezas.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Identificación de Mandos Manuales, Luces Testigos e Indicadores", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - El presente Reglamento Técnico regirá para la circulación, homologación, certificación, patentamiento, licenciamiento y registro de los vehículos automotores, en los Estados Partes, no pudiéndose aplicar en dichas actividades requisitos técnicos adicionales a los establecidos por el mismo.
+
+Art. 3 - Alternativamente se admitirá la homologación de vehículos que cumplan el Reglamento FMVSS 101 de 24 de setiembre de 1998, mientras el mismo no se armonice como Reglamento de las Naciones Unidas, conforme lo dispuesto en la Dec. CMC Nº 70/00.
+
+Parrafo único: cuando se adopte la descripción de mandos en idioma extranjero en lugar de los símbolos, se tomará obligatório el hacer constar en el manual del usuario la descripción de la identificación de los mandos en idioma del país Estado Parte donde se comercialice el vehículo o bien en el mismo dispositivo indicador.
+
+Art. 4 - En caso de divergencia de interpretación del Reglamento Técnico, la misma se dirimirá tomando como referencia el Reglamento EEC 78/316 en la versión en idioma inglés.
+
+
+Art. 5 - Los Estados Partes pondrán en vigencia las disposiciones, legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, a través de los siguientes organismos:
+
+Argentina:		Secretaría de Industria
+			Secretaría de Transporte
+
+Brasil:			Ministério da Justiça
+Conselho Nacional de Trânsito
+Departamento Nacional de Trânsito
+
+Paraguay:		Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+
+Uruguay:		Ministerio de Transporte y Obras Públicas
+Ministerio de Industria, Energía y Minería
+
+Art. 6 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 7 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 10/IV/02; debiendo entrar en vigencia el presente Reglamento Técnico antes del 10/X/2002.
+
+
+XLIII GMC - Montevideo, 10/X/01
+
+
+ANEXO I
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE IDENTIFICACIÓN DE MANDOS MANUALES, LUCES TESTIGOS E INDICADORES
+
+Sección I:	Ámbito de aplicación, definiciones y especificaciones.
+
+Sección II:	Mandos, luces testigo e indicadores cuya identificación, si existieran, es obligatoria y símbolos que se deben utilizar con este fin.
+
+Sección III:	Mandos, luces testigo e indicadores cuya identificación, si existieran, es facultativa, y símbolos que deberán utilizarse obligatoriamente para su identificación cuando ésta esté prevista.
+
+Sección IV:	Construcción del modelo de base de los símbolos que figuran en las secciones II y III.
+
+SECCIÓN I
+
+IDENTIFICACIÓN DE MANDOS MANUALES, LUCES TESTIGOS E INDICADORES
+
+1.	Ambito de aplicación.
+El presente Reglamento se aplicará a los vehículos a motor en lo que se refiere a la identificación de mandos manuales, luces testigo e indicadores.
+
+2.	Definiciones.
+2.1 Tipo de vehículo: Por "tipo de vehículo" se entiende los vehículos a motor que no se diferencien entre sí respecto a los aspectos que pueda afectar a la identificación de los símbolos de los mandos, de las luces testigo y de los indicadores.
+
+2.2 Mando: Por "mando" se entiende el elemento de un dispositivo que permite al conductor provocar un cambio en el estado o funcionamiento del vehículo.
+
+2.3 Indicador: Por "indicador" se entiende el elemento de un dispositivo que proporciona una información relativa al funcionamiento o a la situación de un sistema o de una parte del mismo, por ejemplo, el nivel de un fluido.
+
+2.4 Luz testigo: Por "luz testigo" se entiende una señal óptica que indica la puesta en marcha de un dispositivo, un funcionamiento o un estado correcto o defectuoso, o la no entrada en funcionamiento.
+
+2.5	Símbolo: Por "símbolo" se entiende un dibujo que permite identificar un mando, una luz testigo o un indicador.
+2.6	Dispositivo visual de información: Por dispositivo visual de información se entiende el dispositivo visual capaz de mostrar más de un tipo de información o mensaje.
+
+
+3 Especificaciones.
+
+3. 1	Especificaciones generales
+
+3.1.1 En caso de estar instalados, los mandos, luces testigo e indicadores enumerados en la Sección II deberán estar identificados mediante símbolos. Esta identificación deberá realizarse mediante símbolos que se ajusten a los que se representan en la citada Sección.
+
+3.1.2	Si se utilizan símbolos para identificar los mandos, luces testigo e indicadores que figuran en la Sección III, deberán aquellos conformarse a los de dicha Sección.
+
+3.1.2 Podrán utilizarse símbolos diferentes de los que figuran en las Secciones II y III para identificar los mandos, luces testigo e indicadores que no figuren en el presente Reglamento, siempre que no haya peligro de confusión con los de dichas Secciones.
+
+3.1.4	Se entenderá que los símbolos se ajustan al modelo cuando respeten las proporciones de éste, conforme a la Sección IV.
+
+3.1.5 El dispositivo visual de información podrá utilizarse para mostrar mensajes procedentes de cualquier fuente que cumplan los siguientes requisitos:
+
+3.1.5.1 Las luces testigo de los frenos, las luces de carretera y los indicadores de dirección no aparecerán en el mismo dispositivo visual de información.
+
+3.1.5.2 Las luces testigo e indicadores de un dispositivo visual de información deberán proporcionar la información pertinente siempre que se dé la situación que los pone en funcionamiento.
+
+3.1.5.3 En caso de mostrarse dos o más mensajes, se repetirán estos automáticamente el uno detrás del otro o se mostrarán de forma que el conductor pueda verlos e identificarlos.
+
+3.1.5.4	Los requisitos de la Sección III referentes al color no se aplicarán a las luces testigo e indicadores que aparezcan en un dispositivo visual de información.
+3.2 Características de los símbolos.
+
+3.2.1	Los símbolos a los que se hace referencia en el número 3.1.1 deberán ser identificables, desde su asiento, por un conductor que tenga una visión normal.
+3.2.2 Los símbolos mencionados en los números 3.1.1 y 3.1.2 deberán figurar sobre los mandos, luces testigo e indicadores, o inmediatamente al lado de ellos.
+
+3.2.3 Los símbolos deberán visualmente destacarse claramente del fondo.
+
+3.2.4 El color utilizado en las luces testigo será el exigido en las Secciones II y III.
+
+3.2.5	En caso de que un mando, indicador o luz testigo estén combinados, se utilizará un símbolo común para esa combinación.
+
+
+SECCIÓN II
+MANDO, LUCES-TESTIGO E INDICACIONES CUYA IDENTIFICACIÓN, SI EXISTIERAN, ES OBLIGATORIA, Y SÍMBOLOS QUE SE DEBEN UTILIZAR CON ESTE FIN
+(Los símbolos se ajustan a la norma ISO 2575, cuarta edición, 1982-11-15)
+
+Figura 1 Interruptor general de alumbrado
+ISO 2575 nº 4.23 Color de la luz testigo: verde
+
+
+Figura 2 Luces bajas
+ISO 2575 nº 4.2 Color de la luz testigo: verde
+
+Las áreas perfiladas podrán estar rellenas. En caso de que el mando no sea independiente, será identificado por el símbolo de la figura 1 El número de líneas podrá ser de cuatro.
+
+
+Figura 3 Luces altas.
+ISO 2575 nº 4.1 Color de la luz testigo: azul
+
+Las áreas perfiladas podrán estar rellenas. El número de líneas podrá ser de cuatro.
+
+
+Figura 4 Luces de posición
+ISO 2575 nº 4.33 Color de la luz testigo: verde
+
+Las áreas perfiladas podrán estar rellenas. En caso de que el mando no sea independiente, será identificado por el símbolo de la figura 1.
+
+Figura 5 Luces antiniebla delanteras
+ISO 2575 nº 4.21 Color de la luz testigo: verde
+
+Las áreas perfiladas podrán estar rellenas.
+
+Figura 6 Luz antiniebla trasera
+ISO 2575 nº 4.22 Color de la luz testigo: amarillo
+
+Las áreas perfiladas podrán estar rellenas.
+
+
+Figura 7 Dispositivo nivelador de faros
+ISO 2575 nº 4.27
+
+Las áreas perfiladas podrán estar rellenas. El número de filas podrá ser de cinco.
+
+
+Figura 8 Luces de estacionamiento
+ISO 2575 nº 4.9 Color de la luz testigo: verde
+
+
+Figura 9 Indicadores de dirección
+ISO 2575 nº 4.3 Color de la luz testigo: verde
+
+Las áreas perfiladas podrán estar rellenas.
+
+Figura 10 Luces de emergencia
+ISO 2575 nº 4.4 Color de la luz testigo: rojo
+
+Las áreas perfiladas podrán estar rellenas.
+
+Observaciones a las figuras 9 y 10: Si las luces testigo de los indicadores derecho e izquierdo de dirección están separadas, podrán utilizarse las dos flechas, una independientemente de la otra. En tal caso, ambas flechas podrán utilizarse simultáneamente como luz testigo de las luces de emergencia, junto con o en el lugar del símbolo exigido en la figura 10.
+
+Figura 11 Limpiaparabrisas
+ISO 2575 nº 4.5
+
+
+Figura 12 Lavaparabrisas
+ISO 2575 nº 4.6
+
+
+Figura 13 Limpiaparabrisas y lavaparabrisas
+ISO 2575 nº 4.7
+
+
+Figura 14 Dispositivo limpiafaros (con mando de funcionamiento independiente)
+ISO 2575 nº 4.19
+
+
+Figura 15 Antihielo y antivaho del parabrisas (cuando sea independiente)
+ISO 2575 nº 4.24 Color de la luz testigo: amarillo
+
+
+Figura 16 Antihielo y antivaho de la luneta trasera (cuando sea independiente)
+ISO 2575 nº 4.25 Color de la luz testigo: amarillo
+
+
+Figura 17 Ventilador (aire caliente/ frío)
+ISO 2575 nº 4.8
+
+Se autoriza el empleo de la silueta sola.
+
+Figura 18 Precalentamiento diésel
+ISO 2575 nº 4.34 Color de la luz testigo: amarillo
+
+
+Figura 19 Cebador (Dispositivo de arranque en frío)
+ISO 2575 nº 4.12 Color de la luz testigo: amarillo
+
+
+Figura 20 Avería en los frenos
+ISO 2575 nº 4.31 Color de la luz testigo: rojo
+
+En caso de que una luz testigo indique diversos estados del sistema de frenado, a excepción del fallo del sistema antibloqueo de los frenos, deberá utilizarse el símbolo indicador de avería en los frenos de la figura 20.
+
+
+Figura 21 Nivel de combustible
+ISO 2575 nº 4.14 Color de la luz testigo: amarillo
+
+Se autoriza el empleo de la silueta sola.
+
+Figura 22 Carga de la batería
+ISO 2575 nº 4.16 Color de la luz testigo: rojo
+
+
+Figura 23 Refrigerante del motor
+ISO 2575 nº 4.15 Color de la luz testigo: rojo
+
+
+SECCIÓN III
+MANDOS, LUCES TESTIGO E INDICADORES CUYA IDENTIFICACIÓN, SI EXISTIERAN, ES FACULTATIVA, Y SÍMBOLOS QUE DEBERÁN UTILIZARSE OBLIGATORIAMENTE PARA SU IDENTIFICACIÓN CUANDO ÉSTA ESTÉ PREVISTA
+(Los símbolos se ajustan a la norma internacional ISO 2575, cuarta edición, 1982-11-15)
+
+
+Figura 1Freno de estacionamiento
+ISO 2575 nº 4.32 Color de la luz testigo: rojo
+
+En caso que una luz testigo indique diversos estados del sistema de frenado, deberá utilizarse el símbolo indicador de avería en los frenos de la figura 20 de la Sección II.
+
+
+Figura 2 Limpiaparabrisas trasero
+ISO 2575 nº 4.28
+
+
+Figura 3 Lavaparabrisas trasero
+ISO 2575 nº 4.29
+
+
+Figura 4 Limpiaparabrisas y lavaparabrisas traseros
+ISO 2575 nº 4.30
+
+
+Figura 5 Limpiaparabrisas intermitente
+ISO 2575 nº 4.45
+
+
+Figura 6 Bocina
+ISO 2575 nº 4.13
+
+
+Figura 7 Capó delantero
+ISO 2575 nº 4.10
+
+Se autoriza el empleo de la silueta sola.
+
+
+Figura 8 Capó (trasero)
+ISO 2575 nº 4.11
+
+Se autoriza el empleo de la silueta sola.
+
+
+Figura 9 Cinturón de seguridad
+ISO 2575 nº 4.18 Color de la luz testigo: rojo
+
+Se autoriza el empleo de la silueta sola.
+
+
+Figura 10 Presión del aceite del motor
+ISO 2575 nº 4.17 Color de la luz testigo: rojo
+
+
+Figura 11 Nafta sin plomo
+ISO 2575 nº 4.26
+
+
+SECCIÓN IV
+
+CONSTRUCCIÓN DEL MODELO DE BASE DE LOS SÍMBOLOS QUE FIGURAN EN LAS SECCIONES II Y III.
+
+Modelo de base
+El modelo de base comprende:
+1. un cuadrado fundamento de 50 mm de lado, siendo el lado "a" igual a la dimensión nominal "a" del original;
+
+2. un círculo fundamental de 56 mm de diámetro que tenga aproximadamente la misma superficie que el cuadrado fundamental (1);
+
+3. un segundo círculo de 50 mm de diámetro inscrito en el cuadrado fundamental (1);
+
+4. un segundo cuadrado cuyos vértices están situados sobre el círculo fundamental (2) y cuyos lados son paralelos a los del cuadrado fundamental (1);
+
+
+5. y 6. dos rectángulos que tienen la misma superficie que el cuadrado fundamental (1); sus lados son respectivamente perpendiculares y cada uno de ellos está construido de forma que corte los lados opuestos del cuadrado fundamental en puntos simétricos;
+
+6. un tercer cuadrado cuyos lados pasan por los puntos de intersección del cuadrado fundamental (1) y del círculo fundamental (2) y tienen una inclinación de 45º, alcanzan a mayores dimensiones horizontales y verticales del modelo de base;
+
+7. un octógono irregular, formado por las líneas inclinadas 30º respecto a los lados del cuadrado (7).
+
+El modelo de base se superpondrá sobre un área cuadrículada cuyos cuadrados básicos tengan 12,5 mm de lado y que coincidan con los cuadros fundamentales (1).
+
+
+1

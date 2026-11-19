@@ -1,0 +1,96 @@
+Resolución GMC N° 42/93
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE INTERCONEXIÓN DE SISTEMAS DE TELECOMUNICACIONES EN ZONAS LIMÍTROFES
+Fecha de aprobación: 24/09/1993
+Vigencia: Derogada (Derogada por la Res. GMC Nº 66/97.)
+Idioma del texto: ES
+Archivo original: 29799_RES_042-1993_ES_RTM Interconexión Sist.Telec.en zonas limítrofes_Acta_03_93.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2234).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 42/93
+
+REGLAMENTO TECNICO MERCOSUR INTERCONEXION DE SISTEMAS DE TELECOMUNICACIONES EN ZONAS LIMITROFES
+
+
+VISTO : El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común y la Recomendación Nº 32/93 del Subgrupo de Trabajo Nº 3 "Normas Técnicas".
+
+
+CONSIDERANDO :
+
+Los Objetivos del Tratado de Asunción y que la intercomunicación fronteriza se contempla en la legislación específica de cada país.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art. 1- Aprobar el Reglamento Técnico MERCOSUR "INTERCONEXION DE SISTEMAS DE TELECOMUNICACIONES EN ZONAS LIMITROFES", que consta como Anexo a la presente Resolución.
+
+
+XI GMC - Montevideo, 24/IX/1993.
+
+
+REGLAMENTO TECNICO MERCOSUR
+
+INTERCONEXION DE SISTEMAS DE TELECOMUNICACIONES EN ZONAS
+LIMITROFES
+1 OBJETIVO
+
+El presente reglamento tiene por objetivo definir los procedimientos y condiciones para Interconexión de Sistemas de Telecomunicaciones en zonas limítrofes.
+
+2 CONCEPTOS Y DEFINICIONES
+
+2.1 Cuando en el ejercicio de su soberanía, las Administraciones de los países miembros del MERCOSUR negocien entre si acuerdos relativos a los Servicios de Telecomunicaciones Internacional, Servicios de Telecomunicaciones Internacional Regional y Servicio de Telecomunicaciones Internacional  Fronterizo, deberán tener en cuenta las siguientes definiciones:
+
+1) Los enlaces fronterizos de telecomunicaciones podrán ser utilizados para dar soporte a Servicios de Telecomunicaciones Internacional y/o Servicios de Telecomunicaciones Internacional Regional y/o Servicios de Telecomunicaciones Internacional Fronterizo.
+
+2) Se entiende por Servicio de Telecomunicaciones Internacional Fronterizo como aquellos prestados entre dos localidades de distintos países, cuya distancia entre si no sea superior a 50km, a través de un conjunto de instalaciones que permitan el flujo de este tráfico. Específicamente para servicios telefónicos conmutados, las centrales locales deben estar ubicadas dentro de la distancia geodésica no superior a 50 km, debiendo el tráfico resultante de esas interconexiones ser restringido a estas localidades.
+
+3) La prestación del Servicio de Telecomunicaciones Internacional Fronterizo entre localidades más alejadas serán evaluadas por las respectivas Administraciones con la participación de las Empresas prestadoras que se encuentran debidamente autorizadas, y podrán ser objeto de acuerdos bilaterales.
+
+4) Se entiende por Servicio de Telecomunicaciones Internacional aquel prestado entre cualquier  localidad de dos países distintos.
+
+5) Se entiende por Servicio de Telecomunicaciones Internacional Regional aquel prestado a través de un conjunto de instalaciones entre regiones del País y otras situadas en países limítrofes en común acuerdo entre las prestadoras que se encuentren debidamente autorizadas para brindar el referido servicio.
+
+6) Se entiende por complejo la unidad funcional que sirve de sede a por lo menos uno de los siguientes organismos gubernamentales que cumplen funciones en la frontera: Inmigración, Fuerza de seguridad, Aduana, Control sanitario y Organismos especializados de frontera con las características propias de cada país, y que  tengan una necesidad permanente de comunicación con su similar.
+
+3. CARACTERISTICAS Y PROVISION DE LOS ENLACES FRONTERIZOS
+
+3.1 Los enlaces fronterizos entre los países miembros del MERCOSUR deben ser aptos para transmisión de servicios de telefonía, datos, telex y facsímil. Deben ser de buena calidad, altamente confiables y deben permitir la validez de la información cursada.
+
+3.2 Dichos enlaces será provistos por las empresas prestadoras que se encuentren debidamente autorizadas a tal efecto por sus respectivas Administraciones, y bajo las condiciones previstas por la normativa técnica vigente en cada país- miembro.
+
+3.3 Los costos de implantación de los enlaces fronterizos deberán ser prorrateadas individualmente para cada proyecto y negociada la forma de ratio entre las partes.
+
+3.4 Los costos de operación y mantenimiento deben ser objeto  de negociación directa entre las partes.
+
+3.5 La contratación del conjunto de instalaciones necesarios al establecimiento  de los enlaces fronterizos deberá observar las mejores condiciones técnicas y económicas, para ambas partes independientemente de los reglamentos  internos  de cada país miembro.
+
+3.6 Deberán ser establecidos procedimientos específicos que faciliten el transporte fronterizo de personal, material, equipamiento e instrumental, destinados a la instalación y el mantenimiento del conjunto de instalaciones  que dan soporte al Servicio de Telecomunicaciones Internacional Fronterizo, debiendo las Empresas prestadoras que se encuentren debidamente autorizadas para la prestación del servicio y provisión de enlaces, acordar los procedimientos operacionales  preventivos y correctivos a ser adoptados, para el debido mantenimiento.
+
+4. SERVICIOS DE TELECOMUNICACION INTERNACIONAL FRONTERIZO
+
+4.1 La prestación de los Servicios de Telecomunicación Internacional Fronterizo, se efectuará a través de las Empresas prestadoras que se encuentren debidamente autorizadas para ello, de acuerdo a las reglamentaciones internas de cada país miembro.
+
+4.2 La Empresa prestadora que se encuentre debidamente autorizada para prestar el Servicio de Telecomunicaciones Internacional Fronterizo del país de origen, deberá suministrar a su similar del país de destino todas las informaciones sobre el tráfico fronterizo cursado.
+
+4.3 Los Estados Partes del Mercado Común del Sur, o en su caso, las Empresas prestadoras que se encuentren debidamente autorizadas para prestar el Servicio de Telecomunicaciones Internacional fronterizo, se comprometen a respetar los acuerdos vigentes entre los países miembros a los  que representen.
+
+
+5. TARIFACION DEL SERVICIO DE TELECOMUNICACIONES INTERNACIONAL FRONTERIZO
+
+5.1 La tarifa a ser establecida para el Servicio de Telecomunicaciones Internacional Fronterizo deberá ser la más económica posible, siguiendo las normas de cada país miembro.
+
+5.2 Para el Servicio Público Conmutado Internacional Fronterizo, no habrá  repartición del cobro de las tarifas entre las Empresas prestadoras que se encuentren debidamente autorizadas, quedando las Empresas originales de la  llamada con el producto total de la aplicación de las referidas tarifas.
+
+5.3 En casos donde hubiere un desequilibrio de tráfico cursado, podrán ser acordados criterios para la repartición del cobro de las tarifas.
+
+5.4 Para  los servicios cursados en líneas privadas será cobrado de acuerdo a las condiciones que se pacten entre las partes.
+
+6. INDICADORES OPERACIONALES
+
+Deben ser definidos entre las Administraciones de los países miembros un elenco de indicadores operacionales que posibiliten la evaluación de la calidad de servicio.
+
+7. OTROS SERVICIOS INTERNACIONALES
+
+El Servicio de Telecomunicaciones Internacional y el Servicio de Telecomunicaciones Internacional Regional y la conexión entre complejos deberán tener tratamiento específico en otros documentos.

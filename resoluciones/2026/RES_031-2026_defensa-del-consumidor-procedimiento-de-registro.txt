@@ -1,0 +1,80 @@
+Resolución GMC N° 31/26
+Título: DEFENSA DEL CONSUMIDOR - PROCEDIMIENTO DE REGISTRO Y USO DE DOMINIOS DE INTERNET PARA EL COMERCIO ELECTRÓNICO EN LOS ESTADOS PARTES
+Fecha de aprobación: 10/09/2026
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 114562_ATTS0HMR.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/5410).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 31/26
+
+DEFENSA DEL CONSUMIDOR -
+PROCEDIMIENTO DE REGISTRO Y USO DE DOMINIOS DE INTERNET PARA EL COMERCIO ELECTRÓNICO EN LOS ESTADOS PARTES
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, el Acuerdo sobre Comercio Electrónico del MERCOSUR y las Resoluciones N° 34/11, 37/19 y 17/26 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que resulta importante profundizar la armonización de las legislaciones nacionales de los Estados Partes sobre comercio electrónico a fin de mejorar la protección de los consumidores.
+
+Que en el artículo 1 de la Resolución GMC N° 37/19 se establece que el comercio electrónico debe garantizarse a los consumidores, durante todo el proceso de la transacción, el derecho a información clara, suficiente, veraz y de fácil acceso sobre el proveedor, el producto y/o servicio y la transacción realizada.
+
+Que, en ese sentido, resulta pertinente regular las condiciones para las operaciones realizadas por medio del comercio electrónico en dominios de internet registrados que pertenezcan a titulares no residentes en los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Establecer los requisitos para el procedimiento de registro y uso de dominios de internet para el comercio electrónico en los Estados Partes.
+
+Art. 2 -  A los efectos de la presente Resolución, se entiende por:
+
+Centro de Información de la Red (Network Information Center, NIC por su sigla en inglés): la autoridad (Operador) que administra el registro de nombres de dominio de nivel superior geográfico (ccTLD) y asegura el funcionamiento del Sistema de Nombres de Dominio (DNS por su sigla en inglés) para ese dominio.
+
+Consumidor: toda persona física o jurídica que adquiere o utiliza productos o servicios como destinatario final en una relación de consumo o en función de ella. Se equiparan a consumidores a las demás personas, determinables o no, expuestas a las relaciones de consumo.
+
+No se considera consumidor o usuario a aquel que, sin constituirse en destinatario final, adquiere, almacena, utiliza o consume productos o servicios con el fin de integrarlos en procesos de producción, transformación, comercialización o prestación a terceros.
+
+
+Protocolo de Internet (Internet Protocol, IP por su sigla en inglés): es el conjunto de reglas que regulan la transmisión de paquetes de datos a través de internet.
+
+Proveedor: toda persona física o jurídica, pública o privada, nacional o extranjera, así como los entes despersonalizados en los Estados Partes cuya existencia esté contemplada en su ordenamiento jurídico, que utiliza un sitio web de comercio electrónico para desarrollar de manera profesional actividades de producción, montaje, creación seguida de ejecución, construcción, transformación, importación, distribución y comercialización de productos y/o servicios en una relación de consumo.
+
+Registrador (Registra): el ente que comercializa dominios de internet y provee el servicio de registro.
+
+Relación de Consumo: el vínculo que se establece entre el proveedor que, a título gratuito u oneroso, provee un producto o presta un servicio y quien lo adquiere o utiliza como destinatario final.
+
+Sistema de Nombres de Dominio (Domain Name System, DNS por su sigla en inglés): la tecnología cuya función es la de resolver nombres en las redes, para traducir el dominio a la dirección IP que le corresponde.
+
+Solicitante: la persona humana o jurídica que adquiere la titularidad de un registro de nombres de dominio de internet.
+
+Art. 3 - Previo a otorgar el registro, el operador de registro de dominios de internet local de los Estados Partes debe informar al solicitante las condiciones de la presente Resolución y las establecidas en la Resolución GMC Nº 37/19, sus modificatorias y/o complementarias, las que se deben cumplir para el registro de dominio.
+
+Art. 4 - Para la utilización de sitios web de comercio electrónico que operen en el DNS de cualquiera de los Estados Partes, el proveedor debe informar en forma clara y fácilmente localizable, y hacer constar en su sitio web, lo siguiente:
+
+I.  La normativa de protección de datos personales y derecho de consumo del Estado Parte en el que se efectúa el registro;
+
+II.  El domicilio físico, de poseer, y el domicilio electrónico dentro del Estado Parte del registro, los cuales se considerarán válidos y constituidos para practicar comunicaciones y notificaciones por parte de los consumidores y de las autoridades administrativas y judiciales competentes;
+
+III.  La disponibilidad de un mecanismo online de recepción de reclamos y resolución de disputas, en el idioma del Estado Parte de registro;
+
+IV.  La autorización previa de la autoridad administrativa, informando su número de habilitación, inscripción o registro, cuando la práctica comercial que desarrolle el proveedor lo requiera para operar;
+
+
+V.  La información al consumidor sobre si la transacción del pago electrónico se procesará desde el exterior y advertir, en su caso, que ello podría generar cargos o comisiones por compras en el exterior.
+
+Art. 5 - El incumplimiento de la presente Resolución por parte del proveedor será sancionado con base en el régimen previsto para tal fin por cada Estado Parte.
+
+Sin perjuicio de lo previsto en el párrafo anterior, el incumplimiento de los requisitos enunciados en el artículo 3, podrá acarrear al proveedor la baja de la conexión al DNS,  por requerimiento fundado de autoridad administrativa competente o judicial que podrá actuar de oficio o por requerimiento del consumidor.
+
+Art. 6 - Establecer un plazo de seis (6) meses, contado a partir de la fecha de incorporación de esta Resolución al ordenamiento jurídico de cada Estado Parte, para la adecuación a los términos de la presente Resolución de aquellos proveedores que estén realizando operaciones de comercio electrónico en sitios web con DNS nacional de cualquiera de los Estados Partes, salvo regímenes especiales.
+
+Art. 7 - Cada Estado Parte podrá mantener en la materia regulada por esta Resolución disposiciones más rigurosas para garantizar un nivel de protección del consumidor más elevado en su territorio.
+
+Los Estados Partes deben mantener disposiciones que garanticen, como mínimo, el mismo nivel de protección del consumidor en la materia regulada por esta Resolución.
+
+Art. 8 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 09/III/2027.
+
+CXL GMC - Montevideo, 10/IX/26
+
+2

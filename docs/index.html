@@ -4,14 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>silv[ia] · normas del MERCOSUR</title>
-<meta name="description" content="Preguntale a un asistente sobre las decisiones del Consejo del Mercado Común del MERCOSUR (1991–2026). Responde solo con el texto de las normas y cita la fuente.">
+<meta name="description" content="Preguntale a un asistente sobre las decisiones del CMC, las resoluciones del GMC y las directivas de la CCM del MERCOSUR (1991–2026). Responde solo con el texto de las normas y cita la fuente.">
 <link rel="icon" href="logo.svg" type="image/svg+xml">
 <link rel="canonical" href="https://silvia-mov.github.io/normativa-mercosur/">
 <meta property="og:image" content="https://silvia-mov.github.io/normativa-mercosur/social.png">
 <meta property="og:url" content="https://silvia-mov.github.io/normativa-mercosur/">
 <meta name="twitter:card" content="summary_large_image">
 <meta property="og:title" content="Consultas sobre normas del MERCOSUR">
-<meta property="og:description" content="Asistente que responde solo con el texto de las decisiones del CMC y cita la fuente.">
+<meta property="og:description" content="Asistente que responde solo con el texto de las decisiones del CMC, resoluciones del GMC y directivas de la CCM, y cita la fuente.">
 <style>
 :root { --bg:#fffafb; --panel:#ffffff; --text:#1d1a1c; --text2:#5c5459; --line:#f3dde4; --accent:#1f7f68;
   --btn:#39b89a; --btntext:#08261f; --yo:#fec9d7; --yotext:#4a1626; --bot:#eefaf6; --pink:#ff5883; --hero1:#b9eee1; --hero2:#fec9d7; }
@@ -46,6 +46,9 @@ button:disabled { opacity:.6; cursor:wait; }
 .ejemplos { display:flex; flex-wrap:wrap; gap:8px; margin:4px 0 14px; }
 .ejemplos button { background:var(--panel); color:var(--text); border:1px solid var(--line); font-weight:500; font-size:14px; padding:6px 12px; }
 .estado { font-size:14px; color:var(--text2); }
+.filtro { display:flex; align-items:center; gap:8px; flex-wrap:wrap; font-size:14px; color:var(--text2); margin:0 0 6px; }
+.filtro select { font:inherit; color:var(--text); background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:5px 10px; }
+.deroga { display:inline-block; font-size:12px; font-weight:600; color:var(--yotext); background:var(--yo); border-radius:99px; padding:0 8px; margin-left:4px; }
 footer { border-top:1px solid var(--line); margin-top:24px; padding:18px 0 32px; font-size:14px; color:var(--text2); }
 a { color:var(--accent); }
 .hero { padding:36px 0 30px; }
@@ -85,18 +88,22 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
   <div class="wrap">
     <div class="marca"><img src="logo.svg" alt=""><span><b>Normas MERCOSUR</b><br><small>Asistente de consultas · proyecto independiente</small></span></div>
     <div class="heroflex"><div><h1>Hola, soy <em>silv[ia]</em>: tu asistente para la normativa MERCOSUR</h1>
-    <p class="lead">Preguntá y obtené respuestas basadas solo en el texto de las 1.130 decisiones del Consejo del Mercado Común (1991–2026), con la norma citada.</p></div><img class="mascota" src="silvia.svg" alt="silv[ia], la asistente"></div>
+    <p class="lead">Preguntá y obtené respuestas basadas solo en el texto de las normas del MERCOSUR (1991–2026), con la norma citada: 1.130 decisiones del Consejo del Mercado Común, 2.181 resoluciones del Grupo Mercado Común y 1.933 directivas de la Comisión de Comercio.</p></div><img class="mascota" src="silvia.svg" alt="silv[ia], la asistente"></div>
   </div>
 </header>
 
 <main class="wrap">
   <div class="aviso">Orientativo y <b>no oficial</b>: puede equivocarse al interpretar. Revisá siempre el texto de la norma (enlace en cada respuesta). No escribas datos personales: las preguntas se procesan con un servicio de IA de Google (Gemini) y pueden usarse para mejorarlo.</div>
-  <p class="estado" id="estado">Cargando las 1.130 decisiones…</p>
+  <p class="estado" id="estado">Cargando las normas…</p>
   <div class="ejemplos" id="ejemplos" hidden>
     <button type="button">¿Qué dice el Régimen de Origen del MERCOSUR?</button>
     <button type="button">¿Qué es el FOCEM y cómo se financia?</button>
     <button type="button">¿Qué decisiones tratan sobre el arancel externo común?</button>
+    <button type="button">¿Qué exige el reglamento técnico de rotulado nutricional?</button>
+    <button type="button">¿Qué directivas redujeron aranceles por razones de abastecimiento?</button>
   </div>
+  <div class="filtro"><label for="tipo">Buscar en</label>
+    <select id="tipo"><option value="">todas las normas</option><option value="dec">Decisiones del CMC</option><option value="res">Resoluciones del GMC</option><option value="dir">Directivas de la CCM</option></select></div>
   <form id="form">
     <textarea id="pregunta" rows="2" maxlength="500" placeholder="Preguntale a silv[ia] sobre la normativa del MERCOSUR…" aria-label="Tu pregunta" disabled></textarea>
     <button id="enviar" disabled>Preguntar</button>
@@ -106,14 +113,14 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
   <section class="info">
     <div class="rasgos">
       <div><h3 class="v">Trazabilidad directa</h3><p>Cada respuesta enlaza al texto exacto de la norma en el repositorio.</p></div>
-      <div><h3 class="r">Solo con las normas</h3><p>silv[ia] responde únicamente con el texto de las decisiones; si no lo encuentra, lo dice.</p></div>
+      <div><h3 class="r">Solo con las normas</h3><p>silv[ia] responde únicamente con el texto de las normas; si no lo encuentra, lo dice.</p></div>
     </div>
     <div class="ejemplo"><div class="ej-in"><b>silv[ia] responde:</b><p>Según la <b>Decisión CMC N° 44/10</b>, el Régimen de Origen MERCOSUR fija los requisitos para que un producto sea considerado originario y reciba la preferencia.</p><a href="https://github.com/silvia-mov/normativa-mercosur/tree/main/decisiones/2010">decisiones/2010/DEC_044-2010 → Ver fuente</a></div></div>
   </section>
 
   <h2 class="sec">Cómo funciona</h2>
   <ol class="flujo">
-    <li><span class="i i1">1</span><b>Repositorio</b><p>1.130 decisiones en texto, en GitHub.</p></li>
+    <li><span class="i i1">1</span><b>Repositorio</b><p>Decisiones, resoluciones y directivas en texto, en GitHub.</p></li>
     <li><span class="i i2">2</span><b>Búsqueda</b><p>Encuentra los fragmentos que hablan de tu pregunta.</p></li>
     <li><span class="i i3">3</span><b>Lectura</b><p>La IA lee solo esos fragmentos.</p></li>
     <li><span class="i i4">4</span><b>Respuesta</b><p>Síntesis breve con la norma citada y su enlace.</p></li>
@@ -122,8 +129,8 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
   <h2 class="sec">Descargá las normas completas</h2>
   <div class="dl">
     <div class="dlc c1"><h3>Decisiones</h3><p>Las 1.130 decisiones del CMC en texto, con índice en Excel.</p><a href="https://github.com/silvia-mov/normativa-mercosur/archive/refs/heads/main.zip">Descargar</a></div>
-    <div class="dlc c2"><h3>Resoluciones</h3><p>Resoluciones del Grupo Mercado Común.</p><span>Próximamente</span></div>
-    <div class="dlc c3"><h3>Directivas</h3><p>Directivas de la Comisión de Comercio.</p><span>Próximamente</span></div>
+    <div class="dlc c2"><h3>Resoluciones</h3><p>Las 2.181 resoluciones del GMC (1991–2026): archivos originales por década, en texto y con índice en Excel.</p><a href="https://github.com/silvia-mov/normativa-mercosur/releases/tag/resoluciones_gmc">Descargar</a></div>
+    <div class="dlc c3"><h3>Directivas</h3><p>Las 1.933 directivas de la CCM (1994–2026): archivos originales por década, en texto y con índice en Excel.</p><a href="https://github.com/silvia-mov/normativa-mercosur/releases/tag/directivas_ccm">Descargar</a></div>
   </div>
 </main>
 
@@ -140,21 +147,43 @@ const N_FRAGMENTOS = 6;
 
 const $ = (id) => document.getElementById(id);
 const sinTildes = (t) => t.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
-const VACIAS = new Set("el la los las un una unos unas de del al a en y o u que se por para con sin sobre su sus es son lo le les como mas pero este esta estos estas ese esa cual cuales quien donde cuando qué cuál dice dicen hay ser fue sido mercosur decision decisiones".split(" ").map(sinTildes));
+const VACIAS = new Set("el la los las un una unos unas de del al a en y o u que se por para con sin sobre su sus es son lo le les como mas pero este esta estos estas ese esa cual cuales quien donde cuando qué cuál dice dicen hay ser fue sido mercosur decision decisiones resolucion resoluciones directiva directivas".split(" ").map(sinTildes));
 const escapar = (t) => t.replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-let DATOS, buscador;
+// Todas las normas y fragmentos en una sola lista. Las decisiones cargan primero; resoluciones y
+// directivas se suman al buscador en segundo plano.
+const DATOS = { normas: [], fragmentos: [] };
+const buscador = new MiniSearch({
+  fields: ["texto", "titulo"], storeFields: [],
+  processTerm: (t) => { const s = sinTildes(t); return s.length < 2 || VACIAS.has(s) ? null : s; },
+  searchOptions: { boost: { titulo: 3 }, fuzzy: 0.15, prefix: true, combineWith: "OR" },
+});
+let cargadas = 0;
 
-fetch("datos/fragmentos.json").then((r) => r.json()).then((d) => {
-  DATOS = d;
-  buscador = new MiniSearch({
-    fields: ["texto", "titulo"], storeFields: [],
-    processTerm: (t) => { const s = sinTildes(t); return s.length < 2 || VACIAS.has(s) ? null : s; },
-    searchOptions: { boost: { titulo: 3 }, fuzzy: 0.15, prefix: true, combineWith: "OR" },
+function sumar(d) {
+  const base = DATOS.normas.length, primero = DATOS.fragmentos.length;
+  DATOS.normas.push(...d.normas);
+  const docs = d.fragmentos.map(([n, texto], i) => {
+    DATOS.fragmentos.push([base + n, texto]);
+    return { id: primero + i, texto, titulo: d.normas[n][1] + " " + d.normas[n][0] };
   });
-  buscador.addAll(d.fragmentos.map(([dec, texto], id) => ({ id, texto, titulo: d.decisiones[dec][1] + " " + d.decisiones[dec][0] })));
-  $("estado").textContent = ASISTENTE_URL ? "Listo. Escribí tu pregunta." : "Listo. Por ahora funciona como buscador: muestra los fragmentos de las normas que responden a tu pregunta.";
+  buscador.addAll(docs);
+}
+
+function avisar() {
+  const listo = ASISTENTE_URL ? "Listo. Escribí tu pregunta." : "Listo. Por ahora funciona como buscador: muestra los fragmentos de las normas que responden a tu pregunta.";
+  $("estado").textContent = cargadas < 3 ? listo + " (Sumando resoluciones y directivas…)" : listo;
+}
+
+const cargar = (archivo) => fetch(archivo).then((r) => { if (!r.ok) throw new Error(archivo); return r.json(); });
+cargar("datos/fragmentos.json").then((d) => {
+  sumar(d); cargadas++;
   $("pregunta").disabled = $("enviar").disabled = false;
   $("ejemplos").hidden = false;
+  avisar();
+  for (const archivo of ["datos/fragmentos_res.json", "datos/fragmentos_dir.json"]) {
+    cargar(archivo).then((x) => { sumar(x); cargadas++; avisar(); })
+      .catch(() => { $("estado").textContent = "Listo, pero no se pudieron cargar todas las normas. Recargá la página para buscar en todas."; });
+  }
 }).catch(() => { $("estado").textContent = "No se pudieron cargar las normas. Probá recargar la página."; });
 
 document.querySelectorAll("#ejemplos button").forEach((b) => b.addEventListener("click", () => { $("pregunta").value = b.textContent; $("form").requestSubmit(); }));
@@ -163,7 +192,7 @@ $("pregunta").addEventListener("keydown", (e) => { if (e.key === "Enter" && !e.s
 function agregar(clase, html) { const d = document.createElement("div"); d.className = "msg " + clase; d.innerHTML = html; $("chat").appendChild(d); d.scrollIntoView({ block: "end", behavior: "smooth" }); return d; }
 
 function fuentesHTML(frags) {
-  const items = frags.map((f, i) => `<li><a href="${f.url}" target="_blank" rel="noopener">${escapar(f.codigo)}</a>: ${escapar(f.titulo)}
+  const items = frags.map((f, i) => `<li><a href="${f.url}" target="_blank" rel="noopener">${escapar(f.codigo)}</a>: ${escapar(f.titulo)}${f.vigencia === "Derogada" ? ' <span class="deroga">derogada</span>' : ""}
     <details class="frag"><summary>Ver fragmento</summary><pre>${escapar(f.texto)}</pre></details></li>`).join("");
   return `<div class="fuentes"><b>Fuentes</b><ol>${items}</ol></div>`;
 }
@@ -175,23 +204,25 @@ function formatear(t) {
 $("form").addEventListener("submit", async (e) => {
   e.preventDefault();
   const pregunta = $("pregunta").value.trim();
-  if (!pregunta || !buscador) return;
+  if (!pregunta || !cargadas) return;
   agregar("yo", escapar(pregunta));
   $("pregunta").value = "";
-  const porDec = {}, res = [];
-  for (const r of buscador.search(pregunta)) {   // como mucho 2 fragmentos por decisión, para variar las fuentes
-    const dec = DATOS.fragmentos[r.id][0];
-    if ((porDec[dec] = (porDec[dec] || 0) + 1) <= 2) res.push(r);
+  const tipo = $("tipo").value;
+  const filtro = tipo ? { filter: (r) => DATOS.normas[DATOS.fragmentos[r.id][0]][4] === tipo } : {};
+  const porNorma = {}, res = [];
+  for (const r of buscador.search(pregunta, filtro)) {   // como mucho 2 fragmentos por norma, para variar las fuentes
+    const n = DATOS.fragmentos[r.id][0];
+    if ((porNorma[n] = (porNorma[n] || 0) + 1) <= 2) res.push(r);
     if (res.length >= N_FRAGMENTOS) break;
   }
   if (!res.length) { agregar("bot", "<p>No encontré normas que hablen de eso. Probá con otras palabras.</p>"); return; }
-  const frags = res.map((r) => { const [dec, texto] = DATOS.fragmentos[r.id]; const [codigo, titulo, anio, url] = DATOS.decisiones[dec]; return { codigo, titulo, anio, url, texto }; });
+  const frags = res.map((r) => { const [n, texto] = DATOS.fragmentos[r.id]; const [codigo, titulo, anio, url, , vigencia] = DATOS.normas[n]; return { codigo, titulo, anio, url, vigencia, texto }; });
   if (!ASISTENTE_URL) { agregar("bot", "<p>Estas son las normas que mejor coinciden con tu pregunta:</p>" + fuentesHTML(frags)); return; }
   const caja = agregar("bot", "<p>silv[ia] está leyendo las normas…</p>");
   $("enviar").disabled = true;
   try {
     const r = await fetch(ASISTENTE_URL, { method: "POST", headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ pregunta, fragmentos: frags.map((f, i) => ({ n: i + 1, codigo: f.codigo, titulo: f.titulo, texto: f.texto })) }) });
+      body: JSON.stringify({ pregunta, fragmentos: frags.map((f, i) => ({ n: i + 1, codigo: f.codigo, titulo: f.titulo + (f.vigencia === "Derogada" ? " (DEROGADA)" : ""), texto: f.texto })) }) });
     const j = await r.json();
     caja.innerHTML = (r.ok ? formatear(j.respuesta || "") : `<p>${escapar(j.error || "El asistente no pudo responder.")}</p>`) + fuentesHTML(frags);
   } catch {

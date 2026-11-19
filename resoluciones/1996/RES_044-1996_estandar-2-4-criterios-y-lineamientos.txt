@@ -1,0 +1,403 @@
+Resolución GMC N° 44/96
+Título: ESTÁNDAR 2.4 - CRITERIOS Y LINEAMIENTOS PARA LA ELABORACIÓN DE ESTÁNDARES DE CERTIFICACIÓN FITOSANITARIA
+Fecha de aprobación: 21/06/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 26329_RES_044-1996_ES_EstCertFitosan.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1953).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 44/96
+
+Estándar 2.4 - Criterios y Lineamientos para la Elaboración de Estándares de Certificación Fitosanitaria
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº6/93 del Consejo del Mercado Común, y la Recomendación Nº 16/95 del SGT Nº8 "Agricultura".
+
+CONSIDERANDO:
+
+	Que a los efectos de facilitar el comercio de materiales de propagación vegetal entre los Estados Partes del MERCOSUR, es necesario armonizar los criterios y lineamientos para la elaboración de estándares de certificación fitosanitaria.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art. 1.- Aprobar el Estándar que a continuación se detalla y forma parte de la presente: "Estándar 2.4 - Criterios y Lineamientos para la Elaboración de Estándares de Certificación Fitosanitaria".
+
+Art. 2.- Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	SAPYA/IASCAV/INASE
+
+Brasil:	MAA/SDA/SDR
+
+Paraguay:	MAG/DDV/DISE
+
+Uruguay:	MGAP/DGSA/SPA/Unidad de Semillas
+
+
+Art. 3º.- La presente Resolución entrará en vigor en el MERCOSUR en un plazo máximo de 90 (noventa) días a partir de su aprobación.
+
+
+XXII GMC - Buenos Aires, 21/VI/1996
+
+
+ESTANDAR FITOSANITARIO MERCOSUR
+
+SECCION II - REFERENCIA
+
+
+2.4 - CRITERIOS Y LINEAMIENTOS PARA LA ELABORACION DE ESTANDARES DE CERTIFICACION FITOSANITARIA
+
+COMITE DE SANIDAD DE MERCOSUR
+
+
+INDICE
+
+I.- 	REVISION
+II.- 	APROBACION
+III.-	RATIFICACION
+IV.- 	REGISTRO DE MODIFICACIONES
+V.- 	DISTRIBUCION
+
+VI.- 	INTRODUCCION
+
+1. AMBITO
+2. REFERENCIAS
+3. DEFINICIONES Y ABREVIATURAS
+4. DESCRIPCION
+
+VII.- 	REQUISITOS GENERALES
+
+1. Aplicación de los Estándares de certificación fitosanitaria.
+
+1.1. En Materiales de propagación vegetal.
+1.2. Esquemas Oficiales de Certificación de Semillas.
+
+2 Criterios fitosanitarios a considerar para la inclusión de plagas en los Estándares de Certificación Fitosanitaria.
+
+3. Condiciones de producción de materiales de propagación dentro de un ECF.
+
+3.1 Aislamiento. Espacial Temporal Artificial
+
+3.2 Tratamientos Fitosanitarios
+a - Materiales de propagación
+b - Herramientas y maquinarias
+c - Suelos y sustratos artificiales
+
+Procedimientos a considerar en los ECF
+
+4.1 Inspecciones
+4.2 Extracción de muestras
+4.3 Diagnóstico de plagas
+
+5. Definición de categorías de Bloques de Producción.
+
+6 Niveles de tolerancia.
+
+7.Implementación de Estándares.
+
+I.- REVISION
+
+Este estándar sobre Criterio y Lineamientos Fitosanitarios para la elaboración de ECF de MERCOSUR está sujeto a revisiones y modificaciones periódicas.
+
+II.- APROBACION
+
+Este estándar sobre Criterio y Lineamientos Fitosanitarios para la elaboración de ECF de MERCOSUR fue aprobado en la Reunión del Comité de Sanidad de MERCOSUR ( mes, año, ciudad, país).
+
+
+III.- RATIFICACION
+
+Este estándar sobre Criterio y Lineamientos Fitosanitarios para la elaboración de ECF de MERCOSUR fue ratificado en la version correspondiente a su lra.Revisión, en la Reunión del Comité de Sanidad MERCOSUR. (Mes,año), (Sede: Ciudad y País)
+
+
+IV- REGISTRO DE MODIFICACIONES
+
+Las modificaciones a este estándar serán numeradas y fechadas correlativamente.
+
+Los poseedores del estándar deben asegurarse que todas las modificaciones sean insertadas y las páginas obsoletas sean removidas.
+
+V.- DISTRIBUCION
+
+Este estándar es distribuido por la Secretaría Administrativa del MERCOSUR a:
+
+a. Organizaciones Nacionales de Protección Fitosanitaria ONPFs integrantes de MERCOSUR:
+
+- Instituto Argentino de Sanidad y Calidad Vegetal, Argentina.
+- Instituto Nacional de Semilla. INASE - Argentina.
+- Secretaría de Defesa Agropecuária - Brasil.
+- Secretaría de Desenvolvimento Rural / CGDV / SSM Brasil.
+- Dirección de Defensa Vegetal - Paraguay.
+- Servicio de Protección Agrlcola - Uruguay.
+
+b. Organizaciones Regionales de Protección Fitosanitaria - ORPFs
+
+c. Secretaría de la Convención Internacional de Protección
+Fitosanitaria - CIPF de la FAO
+
+d. Comité de Sanidad del MERCOSUR
+
+e. Unidad de Semillas del MERCOSUR
+
+f. Secretaría del Acuerdo SPS de la OMC
+
+
+VI - INTRODUCCION
+
+1. AMBITO
+
+Este estándar contiene criterios y lineamientos fitosanitarios básicos para la elaboración de Esquemas de Certificación Fitosanitario para todo material de propagación. Estos ECF serán considerados para la elaboración de los Esquemas Oficiales de Certificación de Semillas.
+
+2. REFERENCIAS
+
+- Glosario - FAO de Términos fitosanitarios, FAO Plant Protection Bulletin 38(1), 1990. Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma - ITALIA.
+
+- Convención Internacional de Protección Fitosanitaria, Organización de las Naciones Unidas para la Agricultura y la Alimentación, Roma, Italia. 1992
+
+- Estándar COSAVE 1.1 sobre Orientación y Lineamientos para la Elaboración y Adopción de Estándares Regionales en el Ambito de la Protección Fitosanitaria.
+
+- Estándar COSAVE 2.2 sobre Principios para la Reglamentación de las Plagas de Calidad (nocivas) en el Comercio Regional.
+
+Acta IV Reunión GTP-SMPV del COSAVE - Junio 1995 Porto Alegre - Brasil.
+
+- Certificación SCHEME - VIRUS - FREE OR VIRUS - TESTED FRUIT TREES AND ROOTSTOCKS. PART I. Basic scheme and its elaboration. Bulletin OEPP/EPPO 21,267-278-1991.
+
+- Estándar de Certificación de Materiales Cítricos de Propagación. Dirección de los Servicios de Protección Agricola. Dirección Semillas - Uruguay -Octubre 1994.
+
+3. DEFINICIONES Y ABREVIATURAS
+
+
+Aislamiento
+Separación mínima en tiempo y/o espacio que debe existir entre el campo de multiplicación y cualquier campo o vegetación contaminante.
+
+Area
+País, parte de un país, o parte de varios países definidos oficialmente.
+
+Bloques de Producción
+Conjunto de plantas originadas por multiplicación del Material Inicial y mantenidas en condiciones fitosanitarias y de aislamiento tales que permiten garantizar la condición sanitaria y la identidad genética.
+Los materiales que en ellos se producen responden a los niveles de tolerancia determinados.
+
+Bulbos y Tubérculos
+Organos vegetales subterráneos latentes destinados a plantación.
+
+Calidad de Semilla
+Término gue involucra cuatro componentes genético (genotipo), físico (aspecto general), fisiológico (germinación y/o vigor) y sanitario (carencia de enfermedades transmisibles por semilla)
+
+Calidad Sanitaria
+Condición Sanitaria de un material vegetal en relación a los niveles de tolerancia establecidos.
+
+Certificación
+Proceso técnico de supervisión y verificación, realizado por la Entidad Certificadora, destinado a certificar la Condición Sanitaria, identidad genética y calidad de los materiales de propagación, en función de los estándares acordados.
+
+Certificado
+Documento Oficial que certifica la condición de los materiales de propagación de acuerdo al estándar.
+
+Certificador
+Organismo que realiza Certificación de conformidad.
+
+Condición Sanitaria
+Ausencia, presencia o nivel en que las plagas se presentan en un individuo o conjunto de individuos
+
+
+Dispersión
+Expansión de la distribución geográfica de una plaga dentro de un área.
+
+ECF
+Abreviatura de Esquema de Certificación Fitosanitaria.
+
+Entidad Certificadora
+Organización encargada de conducir el proceso de Certificación.
+
+Esquema de Certificación Fitosanitaria
+Sistema de certificación para materiales vegetales de propagación en el que se aplica un mismo estándar y que considera los aspectos fitosanitarios. Los ECF se consideran en la elaboración de los EOCS.
+
+EsCF
+Estándares de Certificación Fitosanitaria
+
+Estándar
+Documento establecido por consenso y aprobado por un cuerpo reconocido, que suministra, para uso común y repetido, reglas, lineamientos o caracterlsticas para las actividades o sus resultados, con el propósito de alcanzar el grado óptimo de orden en un contexto.
+
+EOCS
+Abreviatura de Esquema Oficial de Certificación de Semillas.
+
+Esquema oficial de certificación de semillas
+Sistema de Certificación relacionado a productos especificos, procesos o servicios, para el cual se aplica un mismo Estándar, reglas o procedimientos, incluyendo los sistemas de producción de semillas
+
+Esquemas de certificación
+Sistema de Certificación relacionado a productos específicos, procesos o servicios para el cual se aplica un mismo estándar, reglas o procedimientos.
+
+Identidad Genética
+Identificación de los caracteres cualitativos y cuantitativos de un cultivar, que conduce a una diferenciación segura con otras semillas.
+
+Inspección
+Examen visual oficial de vegetales, productos vegetales u otros articulos regulados para determinar si las plagas están presentes y/o para determinar el cumplimiento de las reglamentaciones fitosanitarias.
+
+Lugar de Producción
+Cualquier establecimiento o conjunto de campos operados como una sola unidad de producción o cultivo.
+
+Material de Propagación
+Todo órgano vegetal y sus partes (semillas, yemas, etc.) que se destinan a la multiplicación de los vegetales.
+
+Material Certificado
+Material producido a partir de material de propagación en el marco de un ECF y que cumple los requisitos establecidos, lo que está oficialmente avalado.
+
+Material Inicial
+Material de propagación proveniente de un Programa de Saneamiento y debidamente identificado y descrito.
+
+Niveles de Tolerancia
+Establecen los valores máximos admitidos de infección/infestación que un material vegetal puede presentar, en sus diferentes categorías, dentro de un ECF.
+
+Oficial
+Establecido, autorizado o realizado por una organización oficial.
+
+Plaga
+Cualquier especie, raza o biotipo de vegetales, animales, o agentes patogénicos, nocivos para los vegetales o productos vegetales.
+
+Plaga Cuarentenaria
+Una plaga de importancia económica potencial para el área en peligro por la misma y donde aún no se encuentra presente, o si presente, no se encuentra ampliamente distribuida y está siendo oficialmente controlada.
+
+Plaga de Calidad
+Plaga no-cuarentenaria que afecta directamente el uso propuesto de los vegetales o productos vegetales.
+
+Programa de Saneamiento
+Conjunto de actividades conducentes a la eliminación de plagas trasmisibles en los materiales de propagación, y a la confirmación de los resultados, en función de los estándares correspondientes.
+
+Rango de Hospederos
+Las especies de vegetales capaces, bajo condiciones naturales, de sostener una plaga específica.
+
+Semillas
+Toda estructura botánica destinada a propagación sexual o asexual de una especie.
+
+Testaje
+Comprobación del estado sanitario, mediante técnicas de diagnóstico internacionalmente reconocida.
+
+Uso propuesto
+Destino final del vegetal, o su parte, que puede ser la propagación, el consumo, la transformación o la industrialización.
+
+
+4 DESCRIPCION
+
+El presente estándar precisa los criterios básicos a considerar en la elaboración de ECF, lo que implica la multiplicación del material inicial en forma controlada con el objetivo de obtener material certificado que cumpla con una determinada condición sanitaria.
+
+Las condiciones que se establecen para las sucesivas etapas de multiplicación, permiten dar garantías en cuanto al mantenimiento de la identidad genética del material de propagación producido.
+
+
+VII. REQUISITOS GENERALES
+
+Para la elaboración de los Esquemas de Certificación Fitosanitaria se definen etapas de multiplicación a las que se somete el material inicial y las condiciones en que se realiza esa multiplicación.
+
+Se definen las diferentes categorías de Bloques de Producción, las multiplicaciones que en cada uno de ellos se realiza y las condiciones de producción de los mismos. Así mismo, se establecen las diversas categorías de Materiales de Propagación que resultan de cada Bloque de Producción.
+
+Lo anterior se presenta en un diagrama de flujo que ejemplifica todo el proceso.
+
+Aplicación de los Estándares de Certificación Fitosanitaria.
+
+1.1 En Materiales vegetales de propagación.
+
+Los Estándares de Certificación Fitosanitaria se aplican para la obtención del material certificado de los materiales vegetales incluidos dentro de la categoría 4 del Listado único de Productos Agrícolas por Categoria de Riesgo Fitosanitario (Resolución N° 8 del Comité Directivo de COSAVE, diciembre de 1992, Buenos Aires - Argentina) que se detallan a continuación:
+
+CATEGORIA 4: Semillas, plantas vivas y otros materiales de origen vegetal destinados a la propagación y/o reproducción.
+
+CLASE 1. Plantas: Plantas vivas y partes de plantas, destinadas a la propagación, excepto las partes subterráneas y semillas.
+
+CLASE 2. bulbos, tubérculos y raíces: Porciones subterráneas destinadas a la propagación
+
+CLASE 3. Semillas: Semillas verdaderas en su definición botánica destinadas a la propagación. Semillas hortícolas, frutícolas, cereales, forrajeras, oleaginosas, leguminosas, forestales, florales y de especies.
+
+1.2 En Esquemas Oficiales de Certificación de Semillas
+
+Los Esquemas Oficiales de Certificación de Semillas se realizan considerando los ECF elaborados para el material vegetal en cuestión.
+
+
+2. Criterios a considerar para la inclusión de Plagas en los Estándares de Certificación Fitosanitaria.
+
+Para la inclusión de plagas en los ECF, se tienen en consideración los siguientes contenidos:
+
+- La forma de asociación de la plaga con el material de propagación;
+
+- La capacidad de la transmisión a través del material de propagación.
+
+- La capacidad de sobrevivencia de la plaga.
+
+- La posibilidad de acompañar al material de Propagación como contaminante.
+
+- La existencia de vectores u otros medios de transmisión eventualmente eficientes.
+
+- La incidencia directa sobre la calidad sanitaria del material de propagación.
+
+- Los daños de importancia económica verificable y cuantificable que puede ocasionar.
+
+3.- Condiciones de Producción de Materiales de Propagación dentro de un ECF.
+
+Los ECF, establecen las condiciones en que los Materiales de Propagación deben ser producidos con el propósito de alcanzar o mantener la Condición Sanitaria de los mismos en las diferentes categorías.
+
+Las condiciones de producción que establecen los ECF pueden variar de un área a otra en función de:
+
+a.- su situación fitosanitaria.
+
+b.- sus particularidades locales en cuanto a clima, suelo, aislamiento, etc.
+
+Las condiciones de producción que se definan para las diferentes áreas de producción son equivalentes en cuanto a que se pueda cumplir con la calidad sanitaria requerida de los materiales de propagación que se produce.
+
+3.1 - Aislamiento
+
+3.1.1 - Especial.- Se establecen las distancias mínimas a otros cultivos o plantas pertenecientes al rango de hospederos de las plagas consideradas en el ECF.
+Se considera barreras naturales existentes (ej: cortinas rompeviento o accidentes geográficos) que inciden en las condiciones de aislamiento.
+
+3.1.2 - Temporal.- Estableciendo los cultivos en momentos en que no existan otros que puedan actuar como fuente de inóculo de las plagas consideradas o fijando plazos para la autorización de establecer Bloques de Producción en los lugares donde se cultivaron anteriormente vegetales pertenecientes al Rango de hospederos de las plagas consideradas.
+
+3.1.3 - Artificial.- Mediante el establecimiento de estructuras (mallas antiinsectos, cortinas plásticas, etc.) que actúen como barrera frente a la diseminación de determinadas plagas.
+
+3.2.- Tratamientos Fitosanitarios.- En los casos que se requiere, se describe el Tratamiento Fitosanitario que se debe realizar.
+
+a) De Materiales de Propagación
+
+b) De Herramientas y Maquinaria
+
+c) De suelos y sustratos artificiales.
+
+3.3.- Manejo de Cultivo.- Los ECF establecen, cuando corresponde, manejos de cultivos que propendan al cumplimiento de lo establecido, en cuanto a la Calidad Sanitaria de los Materiales de propagación que se producen en los Bloques de Producción ( Ej. Distanciamiento entre plantas/filas, cultivo individual de plantas en contenedores, tipo de sustrato a utilizar, rotaciones, etc. ) .
+
+
+4. Procedimientos a considerar en los ECF
+
+Los ECF contienen y definen los procedimientos para establecer y garantizar la Condición Sanitaria de los materiales de propagación y están definidos para cada uno de los Bloques de Producción y para los materiales de propagación que en cada uno de ellos se produce.
+
+4.1.- Inspecciones
+
+Los Esquemas de Certificación establecen los momentos en que se deben realizar las Inspecciones para cada categoría de Bloques de Producción considerado, haciendo referencia, cuando corresponda, al estado fenológico del cultivo a inspeccionar.
+
+4.2.- Extracción de muestras
+
+En los ECF se señalan los momentos en los que se procede a la Extracción de Muestras con el objetivo de establecer o confirmar la Condición Sanitaria de los Materiales de Propagación que se producen en las distintas categorías .
+
+Las metodologías de muestreo serán las reconocidas por el Comité de Sanidad Vegetal del Mercosur.
+
+4.3.- Diagnóstico de Plagas
+
+Se definen las metodologías de Diagnóstico que se aplican para el testaje de las distintas categorías de Material de Propagación, debiendo éstas ser las reconocidas por el Comité de Sanidad Vegetal de Mercosur .
+
+
+5.- Definición de Categorías de Bloques de Producción
+
+Para la definición de las diIerentes categorías de Bloques de Producción que integren los ECF, se consideran los siguientes criterios:
+
+a) Las condiciones de producción y niveles de tolerancia para las plagas de calidad de los materiales producidos, son delerminados para cada categoría de Bloques de Producción.
+
+b) Un Bloque de Producción puede abarcar más de una multiplicación en tanto no se modifiquen, ni las condiciones de producción, ni los niveles de tolerancias de los materiales producidos.
+
+c) El no cumplimiento de las condiciones de producción o de los niveles de tolerancia especificados, determina un cambio en la categoría del Bloque de Producción a una de menor rango, e inclusive puede determinar la exclusión del mismo del ECF.
+
+d) El material de Propagación producido en una determinada categoría de Bloque de Producción, es apto sólo para ser utilizado en Bloques de Producción de categoría inferior.
+
+
+6.- Niveles de Tolerancia
+
+Los materiales de propagación producidos dentro de un ECF, provenientes de un Bloque de Producción de una determinada categoría, cumplen con los niveles de tolerancia establecidos y aquellos que se producen en el Bloque de Producción de menor rango dentro del ECF, no podrán superar los niveles de tolerancia máximos establecidos para Plagas de Calidad de Materiales de Propagación.
+
+
+7.- Implementación de estándares
+
+La implementación de los Estándares de Certificación Fitosanitaria para cada especie considerada, será de responsabilidad de las ONPFs.
+
+
+4

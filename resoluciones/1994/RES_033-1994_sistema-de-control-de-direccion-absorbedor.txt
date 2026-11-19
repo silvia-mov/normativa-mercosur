@@ -1,0 +1,187 @@
+Resolución GMC N° 33/94
+Título: SISTEMA DE CONTROL DE DIRECCIÓN, ABSORBEDOR DE ENERGÍA Y REQUISITOS DE OPERACIÓN
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24490_RES_033-1994_ES_SistContDirec.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1810).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 33/94
+
+SISTEMA DECONTROL DE DIRECCIÓN, ABSORBEDOR DE ENERGÍA Y REQUISITOS DE OPERACIÓN
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, las Resoluciones Nº 9/91 y Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 8/94 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los vehículos deben cumplir una serie de requisitos técnicos en virtud de las legislaciones nacionales respectivas, entre ellos los correspondientes a SISTEMA DE CONTROL DE DIRECCIÓN, ABSORBEDOR DE ENERGÍA Y REQUISITOS DE OPERACIÓN.
+
+Que dichos requisitos difieren de un Estado Parte a otro, lo que puede crear obstáculos técnicos al intercambio comercial y a la libre circulación de vehículos, que podrían eliminarse a través de la adopción de los mismos requisitos técnicos por todos los Estados Partes ya sea como complemento o en reemplazo de su legislación actual.
+
+Que resulta necesario unificar los métodos de ensayo anteriormente adoptados en relación a SISTEMA DE CONTROL DE DIRECCIÓN ABSORBEDOR DE ENERGÍA Y REQUISITOS DE OPERACIÓN.
+
+Que para tal fin, los Estados Partes han acordado adecuar sus legislaciones, de modo de posibilitar el libre intercambio de vehículos, sus partes y piezas.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art.1. Los Estados ParteS no podrán limitar o prohibir la libre circulación, homologación, certificación, venta, importación, comercialización, matriculación o uso de los vehículos que cumplan con los requisitos establecidos en el Reglamento Armonizado "SISTEMA DE CONTROL DE DIRECCIÓN, ABSORBEDOR DE ENERGÍA Y REQUISITOS DE OPERACIÓN" que se incluye como Anexo I a la presente Resolución, por motivos relacionados con los aspectos técnicos armonizados en el mismo.
+
+Art. 2. Elimínase el punto 3.12 del Anexo I de la Resolución Nº 9/91 del GMC.
+
+Art. 3. La presente Resolución entrará en vigor a partir del 1 de enero de 1995.
+
+Art. 4. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Por Argentina:
+Secretaría de Transporte
+Secretaría de Industria
+Por Brasil:
+Ministerio de Justicia
+Secretaría de Tránsito. Departamento Nacional de Tránsito.
+Por Paraguay:
+Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+Por Uruguay:
+Ministerio de Transporte y Obras Públicas
+Ministerio de Industria y Energía
+
+
+ANEXO
+REGLAMENTO ARMONIZADO
+SISTEMA DE CONTROL DE DIRECCION ABSORBEDOR DE ENERGIA Y REQUISITOS DE Operación
+
+1. Objetivo. Establecer requisitos para el sistema de control de dirección que reduzcan al mínimo lesiones de pecho, cuello y cara del conductor, como consecuencia del impacto y reduzcan los riesgos provenientes del enriedo o enganche de ropas y adornos.
+2. Aplicación. Este documento se aplica a los vehículos Categorías M1 y N1: automóviles y camionetas de uso mixto, de ellos derivados.
+3. Definiciones. Para efectos de este documento, se considera como:
+3.1. Sistema de dirección: El mecanismo básico de control de la dirección y los elementos a él asociados, incluyendo cualquier porción del conjunto de la columna de dirección que posibilite absorción de energía en el caso de impacto.
+3.2. Columna de dirección: El conjunto estructural que envuelve parcial o totalmente el árbol de dirección.
+4. Requisitos
+4.1. Cuando el sistema de control de dirección sufre un impacto de un bloque representando un cuerpo humano, conforme a lo especificado en el documento "Método de ensayo del sistema de control de la dirección absorbedor de energía", Anexo I del presente Reglamento, o una representación equivalente a velocidad relativa de 24 km/h, la fuerza de impacto desarrollada en el pecho del bloque, transmitida al sistema de control de dirección no puede exceder de 1.134 kg.
+4.2. El sistema de control de dirección debe ser construido de tal forma que sus componentes o accesorios, incluyendo el mecanismo de actuación de la bocina, adornos y herrajes, no ofrezcan posibilidad de que partes del vestuario (relojes, anillos, pulseras, etc.) sean enganchados, durante las maniobras normales de la conducción de vehículos, dado que estos objetos no posean partes salientes.
+
+METODO DE ENSAYO DEL SISTEMA DE CONTROL DE LA DIRECCION, ABSORBEDOR DE ENERGIA
+
+1. Objetivo. Este método establece el procedimiento para determinar las características del sistema de control de la dirección absorbedor de energía bajo condiciones simuladas de impacto sobre el conductor. Este método emplea un bloque con la forma del torso humano, el cual es arrojado contra el sistema de control de la dirección
+2. Definiciones. A los efectos de este documento se considera como:
+2.1. Sistema de dirección: El mecanismo básico de control de la dirección y los elementos a él asociados, incluyendo cualquier porción del conjunto de la columna de dirección que posibilite absorción de energía en el caso de impacto.
+2.2. Punto de referencia del asiento: El punto de referencia establecido en proyecto por el fabricante del vehículo y que:
+2.2.1. Simule el punto de articulación entre el torso humano y el muslo, con el respaldo del asiento en la posición más vertical.
+2.2.2. Posea las coordenadas que establecen la relación con la estructura del vehículo, determinada en el proyecto.
+2.2.3. Determine la posición normal más retirada para cada asiento previsto para el conductor o pasajero, y
+2.2.4. Sirva como base para la construcción del asiento.
+3. Requisitos.
+3.1. Referencia.
+Emplear el instrumental constante del documento "Conjunto de instrumentos para Ensayos de Impacto en Laboratorio", en lo que fuese aplicable.
+3.2. Parámetros a ser verificados:
+
+3.2.1. Velocidad de impacto del bloque representativo del cuerpo humano.
+3.2.2. Valor máximo de la fuerza resultante del impacto.
+4. Equipamiento de ensayo y conjunto de instrumentos
+4.1. El bloque completo representando el cuerpo humano deberá tener las siguientes características:
+
+4.1.1. Razón o relación de deflexión: La razón de deflexión deberá ser de 10,7 a 14,3 kg/mm cuando sobre el pecho es colocado un perfil U de acero, conforme norma ABNT P-PB-127 (que será estudiada para la armonización), de 100 mm de altura y 380 mm de largo, a 90° del eje longitudinal del bloque, y paralelo a la placa base (FIG.1).
+El centro del perfil U es colocado 457 + 6,3 mm de la parte superior de la cabeza, centrada lateralmente y con una precarga de 2,26 kg., incluyendo el peso del perfil U, para establecer la línea básica. La velocidad del ensayo es de 250 + 50 mm/min. La carga es medida cuando el perfil U se desplaza 12,7 mm hacia adentro del bloque representativo del cuerpo, medidos a partir de la línea básica, siendo la razón de la deflexión obtenida, doblándose el valor de esta carga.
+
+4.1.2. Peso: el bloque representativo del cuerpo deberá pesar de 34,00 a 36,25 kg.
+4.1.3. Centro de gravedad del bloque: El centro de gravedad del bloque completo deberá estar a 551,2 + 6,3 mm del tope de la cabeza.
+4.1.4. Momento de inercia: El momento de inercia alrededor del eje lateral que pasa por el centro de gravedad del bloque completo deberá ser de 0,23 + 0,023 km/m/s2.
+4.1.5. La configuración del bloque representativo del cuerpo humano es mostrada en las figuras 2,3 y 4.
+4.2. Instrumental.
+Cualquier instrumental que permita determinar los ítem mencionados en 3.2. y que esté de acuerdo con los requisitos del documento citado en 3.1. es aceptable, con la siguiente excepción:
+Los canales medidores de fuerza deben tener una respuesta de frecuencia plana dentro de 5% desde 0,1 Hz hasta 500 Hz.A 1.500 Hz la atenuación máxima deberá ser de 3 db.
+4.3. Cualquier equipamiento de ensayo es satisfactorio si produce la velocidad deseada de impacto entre el bloque y el sistema de control de dirección y asegura que el bloque se mueva paralelamente a la referencia horizontal del vehículo, con movimiento de traslación (no de rotación) en vista lateral en el instante del impacto (VER FIGURA 5). La dirección del movimiento del bloque en el instante del impacto, en la vista de planta debe ser paralela al eje longitudinal del vehículo.
+4.4. El sistema de control de la dirección debe ser montado en el propio vehículo dispositivo simulador del vehículo, o en una estructura que sea por lo menos tan rígida en cuanto a las condiciones de montaje real en el vehículo.
+4.5. Si un dinamómetro fuera usado, éste debe ser montado entre la columna y el volante de la dirección (o equivalente).
+5. Método de ensayo.
+5.1. La relación vertical entre el volante de la dirección y el bloque representativo del cuerpo humano debe ser establecida de la manera siguiente:
+
+5.1.1. Usando los diseños del vehículo en el cual el sistema de control de la dirección será usado, se determina la dimensión vertical entre el borde inferior del arco del volante y un punto situado a 19,0 mm verticalmente encima del punto de referencia del asiento del conductor.
+5.1.2. El bloque representativo del cuerpo humano, en el instante del impacto, debe estar en la posición mostrada en la fig. 19. El bloque es centrado, lateralmente, en relación al plano limitado por el aro del volante de la dirección. La dimensión vertical, como está definida en el ítem 5.1.1. es la distancia entre el borde inferior del volante de la dirección y la línea de referencia del bloque.
+5.2. El volante de la dirección o el conjunto formado por el volante de la dirección y columna de la dirección a ser ensayado, es montado a un ángulo dentro de + 1% en relación al ángulo determinado en el proyecto del vehículo en la vista lateral y de planta.
+5.3. Todas las piezas bajo ensayo deberán ser instaladas usándose los puntos de fijación conforme proyectos y piezas normales de producción o piezas que los simulen, observándose, incluso los momentos de fuerza (torque) especificado.
+5.4. Todas las muestras y el bloque deberán ser estabilizados a la temperatura ambiente entre 20° y 30º C durante 4 horas inmediatamente antes del ensayo
+
+
+INSTRUMENTAL PARA ENSAYOS DE IMPACTO EN LABORATORIO
+
+1. Objetivo. Este método describe los requisitos básicos de instrumental para uso solamente en aquellos ensayos de impacto que lo citen específicamente. Procedimientos individuales de ensayos de impacto pueden indicar desvíos de las especificaciones contenidas en este método.
+Las dimensiones a ser medidas en ensayos de impacto en laboratorio pueden incluir cualquiera o todas las siguientes aceleraciones, velocidades, penetraciones, distancias, fuerzas y tiempo de los eventos.
+2. Requisitos mínimos de los canales medidores. Un canal medidor incluye transductores y todos los elementos hasta los equipos de lectura.
+2.1. Aceleración de la masa de impacto u otra masa:
+Los canales medidores de aceleración deben tener las siguientes propiedades:
+2.1.1. Respuesta de frecuencia: De 0,1 Hz o abajo, hasta por lo menos 1000 Hz.
+2.1.2. Precisión: La lectura debe ser dentro de 5% del valor real.
+2.1.3. Sensibilidad transversal: Abajo de 5% de la escala total.
+2.2. Velocidad de la masa de impacto u otra masa:
+Los canales medidores de velocidad deben tener las siguientes propiedades:
+2.2.1. Precisión: La lectura debe estar dentro de 2,5 % del valor real.
+2.2.2. Resolución: 0,5 km/h.
+2.3. Penetración de la masa de impacto hacia dentro de la muestra bajo ensayo, u otra distancia requerida:
+El canal medidor deberá tener las siguientes propiedades:
+2.3.1. Resolución:1,0 mm.
+2.3.2. Precisión: La lectura debe estar dentro de 5% del valor real a menos que esta exigencia sea más severa que lo requerido en cuanto a la resolución.
+2.4. Fuerza desarrollada durante el impacto.
+Los canales medidores de fuerza deben tener las siguientes propiedades:
+2.4.1. Respuesta en frecuencia: De 0,1 Hz o debajo hasta por lo menos 1000 Hz.
+2.4.2. Precisión: La lectura debe estar dentro de 5% del valor real.
+2.5. Tiempo de los eventos:
+Se deben tomar providencias para marcar el siguiente evento:
+Instante del contacto inicial de la masa de impacto con la muestra bajo ensayo.
+
+2.6. Especificaciones generales:
+2.6.1. Velocidad de la cinta del Registrador Gráfico - 1.500 mm/s mínimo.
+2.6.2. Líneas de tiempo del registrador gráfico - Espaciamiento de 0,01 seg. con error de +1,5 %
+
+
+FIGURA 1
+
+
+FIGURA 2
+
+
+FIGURA 3
+
+
+FIGURA 4
+
+
+FIGURA 5
+
+
+SISTEMA DE CONTROL DE DIRECCIÓN, ABSORBEDOR DE ENERGÍA Y REQUISITOS DE OPERACIÓN
+
+FE DE ERRATAS
+
+Donde dice:
+vestidos
+salientes
+retirada
+desvía
+5%
+eliminar “se determina la dimensión será usado”,
+fig. 19
+es montado al ángulo
+
+
+fuerzas
+porpiedades
+2,5%
+siguinetes
+1,5%
+	Debe decir:
+Ropas
+Colgantes
+Desplazada hacia atrás
+Desplazada
+( 5%
+
+
+fig. 5
+es montado a un ángulo dentro de ( 1% en relación al ángulo determinado en el proyecto del vehículo en la vista lateral y de planta
+piezas
+propiedades
+( 2,5%
+siguientes
+( 1,5%

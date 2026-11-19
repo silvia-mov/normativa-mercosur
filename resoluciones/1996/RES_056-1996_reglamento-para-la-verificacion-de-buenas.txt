@@ -1,0 +1,987 @@
+Resolución GMC N° 56/96
+Título: REGLAMENTO PARA LA VERIFICACIÓN DE BUENAS PRÁCTICAS DE FABRICACIÓN Y CONTROL (BPFyC) PARA INDUSTRIAS DE PRODUCTOS DOMISANITARIOS
+Fecha de aprobación: 21/06/1996
+Vigencia: Derogada (Derogada por la Resolución GMC N° 10/15)
+Idioma del texto: ES
+Archivo original: 26441_RES_056-1996_ES_ReglBPFyCDomis.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1965).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 56/96
+
+
+REGLAMENTO PARA LA VERIFICACION DE LAS BUENAS PRACTICAS DE FABRICACION Y CONTROL (BPF y C) PARA INDUSTRIAS DE PRODUCTOS DOMISANITARIOS
+
+
+	VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto, la Resolución Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 24/96 del SGT Nº 3.- "Reglamentos Técnicos"
+
+CONSIDERANDO:
+
+	Que es necesario contar con una reglamentación para la Verificación de las Buenas Prácticas de Fabricación y Control de Establecimientos de Productos Domisanitarios
+
+	Que es necesario definir la clasificación y los criterios de evaluación para la Verificación de las Buenas Prácticas de Fabricación y Control
+
+	Que el nuevo documento permitirá dar mejor cumplimiento a los objetivos propuestos en cuanto a los requisitos que deberán cumplir las empresas elaboradoras de productos domisanitarios
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Aprobar el documento "REGLAMENTO PARA LA VERIFICACIÓN DE LAS BUENAS PRACTICAS DE FABRICACION Y CONTROL (BPFy C) PARA INDUSTRIAS DE PRODUCTOS DOMISANITARIOS" que corresponde a "Criterios de clasificación, evaluación y sanciones" que consta como Anexo I y "Verificación de Cumplimiento de las Buenas Prácticas de Fabricación y Control" que consta como Anexo II y forman parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina	:	ANMAT (Administración Nacional de Medicamentos, 				Alimentos y Tecnología Médica)
+
+Brasil		:	Secretaría de Vigilancia Sanitaria del Ministerio de la Salud
+
+Paraguay	:	Ministerio de Salud Pública y Bienestar Social
+
+Uruguay	:	Ministerio de Salud Pública
+
+Art. 3 - El período de adecuación para la implementación de lo dispuesto en esta Resolución será el establecido por Res Nº 97/94 GMC.
+
+
+Art. 4 - La presente Resolución entrará en vigor en el MERCOSUR a partir del 1º de julio de 1997.
+
+
+XXII GMC - Buenos Aires, 21/VI/1996.-
+
+ANEXO I
+
+CRITERIOS DE CLASIFICACIÓN, EVALUACIÓN Y SANCIONES PARA LA VERIFICACIÓN DE BUENAS PRACTICAS DE FABRICACION Y CONTROL (BPEYC) PARA INDUSTRIAS DE PRODUCTOS DOMISANITARIOS
+
+
+Durante la inspección la empresa está obligada a presentar las informaciones acompañadas de los documentos comprobatorios que le sean solicitados
+
+
+Los criterios de clasificación, evaluación y sanciones en relación a las BPF y C según se indica a continuación:
+
+A) CLASIFICACIÓN :
+
+Basado en el riesgo potencial inherente a cada item en relación a la calidad o seguridad del producto, y a la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+
+Imprescindible (I) :
+Es el item que cumple las BPF y C, que puede influir en un GRADO CRITICO en la calidad o seguridad de los productos y en la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+
+Necesario (N) :
+Es el item que cumple las BPF y C, que puede influir en un GRADO MENOS CRITICO en la calidad o seguridad de los productos y en la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+
+Recomendable (R)
+Es el item que cumple las BPF y C, que puede influir en un GRADO NO CRITICO en la calidad o seguridad de los productos, y en la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+
+Informativo (INF) :
+Es el item que representa una información descriptiva, que NO AFECTA la calidad o seguridad de los productos, ni a la seguridad de los trabajadores en su interacción con los productos y procesos durante la fabricación.
+
+
+B) EVALUACIÓN :
+Durante el proceso de inspección los inspectores deberán juzgar el cumplimiento a lo propuesto para cada item en las BPF y C. El criterio de evaluación tendrá en cuenta la clasificación como sigue:
+
+ITEMS
+EVALUACIÓN
+Imprescindible, Necesario y Recomendable
+SI, cuando el requisito está siendo cumplido
+NO, cuando el requisito no está siendo cumplido
+
+Informativo
+Podrá ser registrado opcionalmente por SI o por NO o bajo forma de concepto por escrito.
+La empresa está obligada a suministrar la información.
+
+Todos los items podrán tener observaciones o explicaciones cuando sea requerido
+
+C) SANCIONES :
+
+Tomando como base la evaluación de los Ítems previamente clasificados, las sanciones previstas en los casos de no cumplimiento de lo propuesto son:
+
+ITEM IMPRESCINDIBLE: Deberá suspenderse inmediatamente con carácter temporario la habilitación del establecimiento, o la actividad del sector afectado, o la certificación de las BPF y C hasta su integral cumplimiento
+
+ITEM NECESARIO: Después de realizada la inspección inicial deberá establecerse un plazo de acuerdo a la magnitud de las modificaciones para cumplir con las exigencias.
+Vencido este primer plazo, el (los) item(s) necesario(s) que no hayan sido cumplidos, tendrán un segundo plazo y se hará una advertencia formal estableciendo que el (los) ítem(s) será(n) considerados en la próxima inspección (tercera) como Inprescindibles
+
+ITEM RECOMENDABLE: Deberá orientarse a la empresa en vista a su mejora, pudiendo el ítem tratado ser considerado como Necesario en la próxima inspección, en el caso que su grado de influencia en la seguridad del producto y de los trabajadores así  como su interacción con los productos y procesos durante la fabricación así lo requiera.
+Los ítems Recomendables no pasarán de la clasificación de Necesario a Imprescindible
+
+
+Los Establecimientos nuevos deberán cumplir todos los items Imprescindibles y Necesarios para que les sea concedida la habilitación de funcionamiento
+
+
+ANEXO II
+
+VERIFICACION DE CUMPLIMIENTO DE LAS BUENAS PRÁCTICAS DE FABRICACIÓN Y CONTROL PARA INDUSTRIAS DE PRODUCTOS DOMISANITARIOS
+
+Durante la inspección la empresa está obligada a presentar las informaciones acompañadas de los documentos comprobatorios que le sean solicitados
+											P1
+ITEM 1
+Descripción
+ADMINISTRACIÓN E INFORMACIÓN GENERAL
+
+Evaluación
+1.1
+Razón social de la Empresa
+I
+1.2
+Dirección/Domicilio de la Planta
+I
+1.3
+Dirección/Domicilio de la Administración
+I
+1.4
+Está presente el Responsable Técnico?
+I
+1.5
+Nombre del Responsable Técnico
+I
+1.6
+Profesión
+inf
+1.7
+Número de matrícula
+I
+1.8
+La Empresa tiene la Autorización de Funcionamiento (RNE)?
+I
+1.8.1
+Indicar el número
+inf
+1.9
+La Empresa tiene la Habilitación Municipal(Alvará de funcionamiento)?
+I
+1.9.1
+Indicar el número
+inf
+1.10
+Planos de edificio e instalaciones
+N
+1.11
+Area total del terreno
+inf
+1.12
+Area de edificios o instalaciones
+inf
+1.13
+Número de edificios
+inf
+1.14
+Tipo de construcciones
+inf
+1.15
+Número total de empleados
+inf
+1.16
+Nº de empleados en producción
+inf
+1.17
+Se hace exámen médico de ingreso?
+I
+1.18
+Existen registros de los controles médicos?
+I
+1.19
+Están actualizados los registros de controles médicos?
+N
+1.20
+Se hacen exámenes médicos periódicos?
+N
+1.21
+La empresa tiene lista de los productos fabricados?
+N
+1.22
+Todos los productos que se comercializan, están registrados?
+I
+1.23
+Productos que se elaboran:
+inf
+
+(  ) productos para limpieza en general
+
+
+(  ) desinfestantes
+
+
+(  ) productos con actividad antimicrobiana
+
+
+(  ) productos con otras finalidades afines
+
+
+Observaciones.
+
+
+1.24
+La Empresa trabaja con terceros?
+inf
+1.25
+Nombre de los terceros
+inf
+1.26
+Tiene contrato con los terceros?
+R
+1.27
+Importa
+inf
+
+	(  ) Materia prima?
+
+
+	(  ) Producto terminado?
+
+1.28
+Exporta
+inf
+
+	(  ) Materia prima?
+
+
+	(  ) Producto terminado?
+
+1.29
+Existen areas separadas para:
+R
+
+	(  ) Depósitos de mp y producto terminado
+
+
+	(  ) Sala de pesaje
+
+
+	(  ) Envasado
+
+
+	(  ) Control de calidad
+
+
+	(  ) Embalaje
+
+
+	(  ) Fabricación
+
+
+	(  ) Salón comedor
+
+1.30
+La Empresa dispone de sistema de control de plagas?
+N
+1.31
+Contrata empresa especializada en control de plagas?
+inf
+1.32
+La Empresa dispone de sanitarios y vestuarios en Nº suficiente?
+N
+1.33
+Las condiciones sanitarias de las mismas son adecuadas?
+N
+1.34
+Existen normas de seguridad por escrito?
+N
+1.35
+Esas normas se cumplen?
+N
+1.36
+Los empleados reciben uniformes y EPI adecuados al trabajo?
+N
+
+
+Observaciones
+
+
+2
+DEPÓSITO DE MATERIAS PRIMAS
+
+2.1
+Area en m2
+inf
+2.2
+El revestimiento de piso es adecuado?
+R
+2.3
+El revestimiento de paredes es adecuado?
+R
+2.4
+El revestimiento de techo es adecuado?
+R
+2.5
+Las condiciones de ventilación son adecuadas?
+N
+2.6
+Las condiciones de iluminación son adecuadas?
+N
+2.7
+Las condiciones de las instalaciones eléctricas son adecuadas?
+N
+2.8
+Las condiciones de circulación son adecuadas?
+N
+2.9
+Condiciones de personal: Uniforme y EPI son adecuados?
+N
+2.10
+La disposición de depósito es adecuada?
+N
+2.11
+Las condiciones de higiene son adecuadas?
+N
+2.12
+El equipamiento de seguridad es adecuado?
+N
+2.13
+Existen areas separadas o señalizadas para:
+N
+
+(  ) Recepción
+
+
+(  ) Aprobado
+
+
+(  ) Cuarentena
+
+
+(  ) Rechazado
+
+2.14
+Las mp están identificadas?
+I
+2.15
+Están localizadas adecuadamente para evitar mezclas?
+N
+2.16
+Existen areas separadas p/mp con riesgos de incendio o explosión, cuando fuese necesario?
+N
+2.17
+Toda la mp es analizada o tiene certificado de calidad antes de ser usada?
+N
+2.18
+Toda mp en análisis está debidamente y mantenida en reserva hasta su liberación por CC?
+N
+2.19
+Se sigue un orden cronológico de uso de mp de acuerdo con su ingreso a depósito?
+R
+
+
+Observaciones
+
+
+3
+DEPOSITO DE MATERIAL DE ENVASE
+
+3.1
+Area en m2
+inf
+3.2
+El revestimiento de piso es adecuado?
+R
+3.3
+El revestimiento de paredes es adecuado?
+R
+3.4
+El revestimiento de techo es adecuado?
+R
+3.5
+Las condiciones de ventilación son adecuadas?
+R
+3.6
+Las condiciones de iluminación son adecuadas?
+R
+3.7
+Las condiciones de las instalaciones eléctricas son adecuadas?
+R
+3.8
+Las condiciones de circulación son adecuadas?
+R
+3.9
+Condiciones de personal: Uniforme y EPI son adecuados?
+N
+3.10
+La disposición de depósito es adecuada?
+R
+3.11
+Las condiciones de higiene son adecuadas?
+N
+3.12
+El equipamiento de seguridad es adecuado?
+N
+3.13
+Existen areas separadas o señalizadas para:
+N
+
+(  ) Recepción
+
+
+(  ) Aprobado
+
+
+(  ) Cuarentena
+
+
+(  ) Rechazado
+
+3.14
+El material de envase está identificado y localizado aecuadamente?
+N
+3.15
+El material de envase es analizado por CC o tiene certificado de calidad?
+R
+3.16
+Todo m.e. en análisis está debidamente identificado y mantenido en reserva hasta su liberación por CC?
+R
+
+
+Observaciones
+
+
+4
+DEPOSITO DE PRODUCTO TERMINADO
+
+4.1
+Area en m2
+inf
+4.2
+El revestimiento de piso es adecuado?
+R
+4.3
+El revestimiento de paredes es adecuado?
+R
+4.4
+El revestimiento de techo es adecuado?
+R
+4.5
+Las condiciones de ventilación son adecuadas?
+N
+4.6
+Las condiciones de iluminación son adecuadas?
+R
+4.7
+Las condiciones de las instalaciones eléctricas son adecuadas?
+N
+4.8
+Las condiciones de circulación son adecuadas?
+R
+4.9
+Condiciones de personal: Uniforme y EPI son adecuados?
+N
+4.10
+La disposición de depósito es adecuada?
+R
+4.11
+Las condiciones de higiene son adecuadas?
+N
+4.12
+El equipamiento de seguridad es adecuado?
+N
+4.13
+El almacenamiento es adecuado?
+N
+4.14
+Existen registros de todos los productos recibidos?
+R
+4.15
+Existen registros de todos los productos expedidos?
+R
+4.16
+Se observa un orden cronológico de salida de acuerdo a la entrada a depósito?
+R
+4.17
+Existe un procedimiento adecuado que posibilite la recuperación de los productos del mercado?
+N
+4.18
+Existe un area separada o un sistema que permita recibir en depósito productos devueltos y/o recolectados con problemas de calidad?
+N
+4.19
+Las medidas tomadas para los productos devueltos y/o recolectados por problemas de calidad son adecuadas?
+R
+
+
+Observaciones
+
+
+5
+INSTALACIONES DE AGUA
+
+5.1
+La empresa usa agua:
+inf
+
+(  ) potable
+
+
+(  ) desionizada
+
+
+(  ) destilada
+
+5.2
+Se hacen ensayos:
+inf
+
+(  ) físicos
+
+
+(  ) bacteriológicos
+
+
+(  ) químicos
+
+5.3
+Con que frecuencia?
+inf
+5.4
+Cual es la fuente de agua potable?
+inf
+
+(  ) Municipalidad, Empresa potabilizadora
+
+
+(  ) pozos artesianos o semi-artesianos
+
+
+(  ) otras fuentes (ríos, lagos, u otros)
+
+5.5
+Existe algún tratamiento antes del depósito?
+inf
+5.6
+Cual?
+inf
+5.7
+Si usa agua desionizada:
+inf
+
+(  ) existe depósito?
+
+
+(  ) cuál es su capacidad?
+
+
+(  ) está equipado para evitar contaminación bacteriológica?
+
+
+(  ) qué tipo de equipamiento se usa?
+
+
+(  ) cómo se transporta el agua?
+
+5.8
+Si usa agua destilada:
+inf
+
+(  ) se usa inmediatamente después de su destilación?
+
+
+(  ) se usa un sistema especial de depósito?
+
+5.9
+Cual?
+inf
+5.10
+El tipo de agua que se usa en cada aplicación es adecuada?
+N
+
+
+Observaciones
+
+
+6 SECTOR DE FABRICACIÓN
+
+6.1
+Area ( en m2)
+inf
+6.2
+El revestimiento de piso es adecuado?
+R
+6.3
+El revestimiento de paredes es adecuado?
+R
+6.4
+El revestimiento de techo es adecuado?
+R
+6.5
+Las condiciones de ventilación son adecuadas?
+N
+6.6
+Las condiciones de iluminación son adecuadas?
+N
+6.7
+Las condiciones de las instalaciones eléctricas son adecuadas?
+N
+6.8
+Las condiciones de circulación son adecuadas?
+N
+6.9
+Condiciones de personal: Uniforme y EPI son adecuadas?
+N
+6.10
+La disposición de depósito de la fabricación del día es adecuada?
+N
+6.11
+Las condiciones de higiene son adecuadas?
+N
+6.12
+El equipamiento de seguridad es adecuado?
+N
+6.13
+Existe una fórmula patrón de cada producto a ser fabricado?
+I
+6.14
+Existe una fórmula de fabricación que sea una reproducción de la fórmula patrón?
+N
+6.15
+Todo el equipamiento y recipientes usado en la fabricación de un lote es identificado con claridad respecto a:
+N
+
+(  ) el nombre del producto
+
+
+(  ) la fase de fabricación
+
+
+(  ) el número de lote
+
+6.16
+a) Los equipos usados para pesar y medir son calibrados periódicamente?
+N
+
+b) En los equipos usados para pesar y medir se realizan controles internos de calibración/aferição periódicamente?
+I
+6.17
+Existen normas para el lavado de los equipos, maquinarias y recipientes?
+N
+6.18
+El sistema de desagote, desague y efluente, es adecuado?
+I
+6.19
+Existe area separada o señalizada para los productos semielaborados?
+N
+6.20
+Los recipientes están debidamente cerrados e identificados?
+N
+
+
+Observaciones
+
+
+7
+SALA DE PESAJE
+
+7.1
+Area ( en m2)
+inf
+7.2
+El revestimiento de piso es adecuado?
+R
+7.3
+El revestimiento de paredes es adecuado?
+R
+7.4
+El revestimiento de techo es adecuado?
+R
+7.5
+Las condiciones de ventilación son adecuadas?
+N
+7.6
+Las condiciones de iluminación son adecuadas?
+N
+7.7
+Las condiciones de las instalaciones eléctricas son adecuadas?
+N
+7.8
+Las condiciones de circulación son adecuadas?
+N
+7.9
+Condiciones de personal: Uniforme y EPI son adecuadas?
+N
+7.10
+La disposición de depósito de la fabricación del día es adecuada?
+N
+7.11
+Las condiciones de higiene son adecuadas?
+N
+7.12
+El equipamiento de seguridad es adecuado?
+N
+7.13
+Existe un sistema de extracción apropiado de acuerdo al producto elaborado?
+I
+7.14
+Las mp pesadas para la fabricación de un producto están debidamente separadas de las mp para la fabricación de otros productos?
+I
+7.15
+a) Las balanzas y recipientes de medida son calibrados periódocamente?
+N
+
+b) En las balanzas y recipientes de medida se realizan controles internos de calibración/aferição periódicamente?
+I
+7.16
+Cuando es necesario, durante el pesaje y/o medidas, se usan equipos de protección( antiparras, gorros, máscaras, etc.?)
+I
+7.17
+Los recipientes para basura están debidamente tapados?
+R
+
+
+Observaciones
+
+
+8
+ENVASADO
+
+8.1
+Area ( en m2)
+inf
+8.2
+El revestimiento de piso es adecuado?
+R
+8.3
+El revestimiento de paredes es adecuado?
+R
+8.4
+El revestimiento de techo es adecuado?
+N
+8.5
+Las condiciones de ventilación son adecuadas?
+N
+8.6
+Las condiciones de iluminación son adecuadas?
+N
+8.7
+Las condiciones de las instalaciones eléctricas son adecuadas?
+N
+8.8
+Las condiciones de circulación son adecuadas?
+N
+8.9
+Condiciones de personal: Uniforme y EPI son adecuadas?
+N
+8.10
+La disposición de depósito de la fabricación del día es adecuada?
+N
+8.11
+Las condiciones de higiene son adecuadas?
+N
+8.12
+El equipamiento de seguridad es adecuado?
+N
+8.13
+Existe área especial para el envasado de producto?
+N
+8.14
+Existe identificación visible, de los equipos y de cada línea de envasado, de acuerdo con el producto que se está envasando?
+N
+
+
+Observaciones
+
+
+9
+SECTOR DE ROTULADO Y EMBALADO
+
+9.1
+Area ( en m2)
+inf
+9.2
+El revestimiento de piso es adecuado?
+R
+9.3
+El revestimiento de paredes es adecuado?
+R
+9.4
+El revestimiento de techo es adecuado?
+R
+9.5
+Las condiciones de ventilación son adecuadas?
+N
+9.6
+Las condiciones de iluminación son adecuadas?
+N
+9.7
+Las condiciones de las instalaciones eléctricas son adecuadas?
+N
+9.8
+Las condiciones de circulación son adecuadas?
+N
+9.9
+Condiciones de personal: Uniforme y EPI son adecuadas?
+N
+9.10
+La disposición de depósito de la fabricación del día es adecuada?
+N
+9.11
+Las condiciones de higiene son adecuadas?
+N
+9.12
+El equipamiento de seguridad es adecuado?
+N
+9.13
+El numero de lote se indica en los productos?
+I
+9.14
+Las líneas de embalaje son verificadas en cuanto a la presencia de restos de otros productos antes de iniciar las operaciones?
+N
+9.15
+Los productos embalados son mantenidos en indisponibilidad hasta su liberación por CC?
+N
+9.16
+Los procedimientos de los ítems 9.13, 9.14 y 9.15 arriba mencionados son registrados por escrito?
+N
+
+
+Observaciones
+
+
+10
+SECTOR DE CONTROL DE CALIDAD
+
+10.1
+Area ( en m2)
+inf
+10.2
+El revestimiento de piso es adecuado?
+R
+10.3
+El revestimiento de paredes es adecuado?
+R
+10.4
+El revestimiento de techo es adecuado?
+R
+10.5
+Las condiciones de ventilación son adecuadas?
+N
+10.6
+Las condiciones de iluminación son adecuadas?
+N
+10.7
+Las condiciones de las instalaciones eléctricas son adecuadas?
+N
+10.8
+Las condiciones de circulación son adecuadas?
+N
+10.9
+Condiciones de personal: Uniforme y EPI son adecuadas?
+N
+10.10
+Las condiciones de higiene son adecuadas?
+N
+10.11
+El equipamiento de seguridad es adecuado?
+N
+10.12
+Está equipado para efectuar todos los test de control necesarios?
+R
+10.13
+Se efectúan todos los test de control necesarios?
+I
+10.14
+Cuáles se efectúan en laboratorio propio?
+inf
+10.15
+Cuáles se efectúan en laboratorios contratados?
+inf
+10.16
+a) Los aparatos usados son calibrados periódicamente?
+N
+
+b) En los aparatos usados se realizan controles internos de calibración/aferição periódicamente?
+I
+10.17
+Existen registros por escrito de todos los tests y métodos de análisis efectuados?
+N
+10.18
+Existen especificaciones escritas para todos los insumos que tengan incidencia en la calidad y/o seguridad de los productos?
+N
+10.19
+En el lanzamiento de los productos que se comercializan, fueron efectuados tests de estabilidad?
+N
+10.20
+Se conservan muestras de cada lote de producto producido en su embalaje final o en uno con las mismas características?
+N
+10.21
+Por cuanto tiempo?
+inf
+10.22
+Existen registros de reclamos hechos por consumidores?
+N
+10.23
+Las acciones tomadas en relación a los reclamos y devoluciones de productos, son registradas y enviadas al Responsable Técnico?
+N
+10.24
+Todos los muestreos son hechos por CC?
+R
+10.25
+El Responsable Técnico tiene la decisión final para la aprobación o rechazo del lote de un producto?
+I
+10.26
+Existen instalaciones de seguridad como ducha, lava ojos, extintores, entre otros, respetando la correcta ubicación y cantidad?
+N
+10.27
+Existen procedimientos escritos de muestreo, análisis de aprobación o rechazo de mp, productos terminados y materiales de embalaje?
+N
+10.28
+Los resultados y anotaciones de los análisis son archivados?
+N
+10.29
+Hay personal de CC responsable por la inspección de los procesos de fabricación?
+inf
+10.30
+Se verifica que cada lote del producto elaborado se ajusta a las especificaciones?
+I
+
+
+Observaciones
+
+
+11
+SISTEMA DE GARANTIA DE CALIDAD
+
+11.1
+Existe en la empresa programa de Garantía de Calidad?
+inf
+11.2
+El programa se conoce a todos los niveles?
+inf
+11.3
+Existen normas escritas para divulgación y cumplimiento de BPFyC?
+N
+11.4
+Estas normas se aplican?
+N
+11.5
+Tiene la empresa un area que coordine las actividades de Garantía de Calidad?
+N
+11.6
+Las responsabilidades de la gestión de Calidad están claramente definidas?
+N
+11.7
+Existen procedimientos escritos o sistemas para evaluar la efectividad y aplicabilidad de las normas y sistemas de Garantía de Calidad?
+N
+11.8
+Existe un programa de entrenamiento de personal?
+N
+11.9
+Se registra el entrenamiento de cada empleado?
+N
+11.10
+Se realizan auto-inspecciones periódicas, con el fin de verificar el cumplimiento de las BPFyC?
+N
+11.11
+Existe un programa escrito de estudio de estabilidad de los productos con registros apropiados de: condiciones de ensayos, resultados, métodos analíticos usados, condiciones de conservación de muestras, en base primario, periodicidad de análisis y fecha de vencimiento?
+N
+
+
+Observaciones
+
+
+Observaciones generales:
+
+
+								Firma
+Nombre del Inspector:
+
+Nombre del Responsable Técnico:
+
+Fecha:
+
+
+12

@@ -1,0 +1,349 @@
+Resolución GMC N° 66/96
+Título: MANUAL DE BUENAS PRÁCTICAS DE FABRICACIÓN PARA PRODUCTOS COSMÉTICOS
+Fecha de aprobación: 21/06/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 26533_RES_066-1996_ES_BPProdCosmetic.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1995).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 66/96
+
+
+MANUAL DE BUENAS PRACTICAS DE MANUFACTURA PARA PRODUCTOS COSMETICOS
+
+
+	VISTO:  El Tratado de Asunción, el Protocolo de Ouro Preto, la Resolución Nº 91/93 y la Recomendación Nº 15/96 del SGT Nº 3 "Reglamentos Técnicos".
+
+
+CONSIDERANDO:
+
+	Que los productos de higiene, cosméticos y perfume deben ser seguros bajo las condiciones normales o previsibles de uso.
+
+	Que existe la necesidad de establecer procedimientos comunes a ser aplicados en los Estados Partes, usando uniformidad de criterios para la evaluación de las plantas de elaboración y empaque de estos productos.
+
+	Que es necesario para garantizar la calidad de los productos de higiene, cosméticos y perfumes que estos sean fabricados bajo normas específicas de Buenas Prácticas de Manufactura.
+
+	Que estas Buenas Prácticas de Manufactura deben reflejar los requisitos mínimos indispensables a ser utilizados por las industrias en la producción, envasado, almacenamiento, control de calidad y distribución de los referidos productos.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art. 1 - Aprobar el documento "Manual de Buenas Prácticas de Manufactura para la Industria Cosmética", que figura en el Anexo I de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+
+Argentina:	ANMAT (ADMINISTRACION NACIONAL DE MEDICAMENTOS,
+		 ALIMENTOS Y TECNOLOGÍA MEDICA)
+
+Brasil 		:SECRETARIA DE VIGILANCIA SANITARIA DEL MINISTERIO 			DE SALUD
+
+
+Paraguay: 	DIRECCION DE VIGILANCIA SANITARIA DEL MINISTERIO DE
+		SALUD PUBLICA Y BIENESTAR SOCIAL
+
+Uruguay	MINISTERIO DE SALUD PUBLICA
+
+Art. 3 - La presente Resolución entrará en vigor en el MERCOSUR en un plazo máximo de 90 (noventa) días a partir de la fecha de su aprobación.
+
+
+XXII GMC - Buenos Aires, 21/VI/1996
+
+
+MANUAL DE
+BUENAS PRACTICAS DE MANUFACTURA
+PARA PRODUCTOS COSMETICOS
+
+INTRODUCCION
+
+Se trata de una guía para la manufadura de productos cosméticos en el sentido de organizar y llevar a cabo la producción de los mismos en forma segura. De manera que los factores humanos, técnicos y administrativos, que influyen sobre la calidad de los productos, estén efectivamente bajo control. Los problemas deben ser reducidos, eliminados y lo más importante: anticipados.
+Si bien se limitan a formalizar el aspecto referido a la manufactura, se inspiran en un concepto de Calidad Total.
+
+Las mismas:
+
+* Alientan a las empresas a formalizar su aseguramiento de calidad proponiéndoles una metodología a seguir: Establecen una serie de pautas para las diferentes etapas del proceso de manufactura. Describen actividades que guían el aseguramiento de la calidad.
+
+Por su parte no deben obsolecer, ya sea por:
+
+* Desarrollos tecnológicos ligados a maquinarias, empaques o equipos de control.
+* Progresos en procesos de manufactura y técnicas de acondicionamiento.
+* Evoluciones en la organización de la producción.
+
+
+Cada empresa deberá implementar prácticas de manufactura de acuerdo a su realidad, tal que aseguren un nivel de garantía al menos igual al propuesto en estas recomendaciones.
+
+El directorio de las compañías tiene un rol protagónico relevante en que estas normas GMP se apliquen. Debe procurar que los recursos humanos, instalaciones y máquinas así lo permitan.
+
+Normas GMP
+
+1 DEFINICIONES
+
+Aseguramiento de la calidad: Todas aquellas acciones sistemáticas necesarias para proveer adecuada confianza de que un producto o servicio podrá satisfacer los requerimientos de calidad establecidos.
+
+Auditoría: Examen sistemático e independiente para determinar qué actividades ligadas a la calidad, deben modificarse y si esos arreglos han sido finalmente implementados. Según sea efectuada por personal interno o extemo a la empresa las mismas se denominan "auditorías internas" o "externas".
+
+Batch: Cantidad definida de un lote homogéneo de materia prima, ítem de acondicionamiento o producto obtenido luego de una serie de operaciones.
+En el caso de una producción continua, un batch puede ser una cantidad producida dentro de un determinado período de tiempo.
+
+Control de calidad: Operaciones técnicas usadas para verificar el cumplimiento de los requerimientos de calidad.
+
+Elaboración: Operaciones que permiten que materias primas preparadas a través de un proceso definido resulten en la obtención de un granel.
+
+Especificaciones: Documento que describe los requerimientos que un producto o servicio debe satisfacer.
+
+Identificación: Acción o serie de acciones que permite que durante la manufactura uno se asegure del uso de la materia prima o componente correcto.
+
+Inspección: Actividades tales como medición, examinación, testeo en el que se juzga una o varias características de un producto respecto de una especificación dada.
+
+Instrucciones de manufactura: Documento que describe en detalle las operaciones relacionadas con un producto específico.
+
+Inventario de especificaciones: Colección de especificaciones concerniente a un producto, una pieza o un equipo, entregadas por el cliente para orientación del proveedor.
+
+Llenado y acondicionamiento: Conjunto de operaciones por las cuales a partir de material de empaque y granel se llega a un producto terminado
+
+Manufactura: Operaciones de naturaleza técnica necesarias para la obtención de un producto determinado, así como cualquier operación económico-administrativa.
+
+Material de empaque: Cada uno de los elementos de acondicionamiento que estarán en el producto final. De acuerdo a que entren o no en contacto con el producto se dividen en "primarios" o "secundarios".
+
+Materia prima: Cualquier sustancia involucrada en la obtención de un producto a granel que termine formando parte del mismo en su forma original o modificada.
+
+Muestreo: Conjunto de operaciones de toma y preparación de muestras.
+
+Número de batch: Referencia numérica, alfabética o alfanumérica que identifica a un determinado batch.
+
+Procedimiento: Camino para realizar una actividad. El mismo debe ser acompañado de un documento.
+
+Procesamiento: Toda operación técnica involucrada en la producción de un granel.
+
+Producto a granel: Producto que sufrió todas las etapas referidas a la manufactura a excepción de llenado y acondicionamiento.
+
+Producto semi-terminado: Producto obtenido luego de un empaque primario, que necesita como mínimo de una operación posterior antes de ser considerado un producto terminado.
+
+Producto terminado: Producto listo para poner en el mercado.
+
+Reclamo: Información externa que alude a un defecto en el producto
+
+Registro de batch: Documentación relativa a una cantidad bien definida de un producto elaborado o manufacturado.
+
+Retiro de mercado: Decisión tomada por la compañía a través de la cual un producto completo puesto en el mercado vuelve a la empresa.
+
+Retorno: Movimiento de uno o algunos productos puestos en el mercado, los cuales vuelven a la planta industrial.
+
+Sistema de calidad: Estructura organizacional de procedimientos y recursos para implementar la Administración de Calidad.
+
+Tercerismo: Persona u organización externa con la cual se contrata una o más operaciones de la empresa.
+
+Validación: Acción conducente a establecer y demostrar que un proceso, procedimiento, instrumento, aparato o equipo, lleva necesaria y efectivamente al objetivo requerido.
+
+
+2. SISTEMA PARA EL MANEJO DE LA CALIDAD
+
+Debe establecerse, llevarse a la práctica y mantenerse, un sistema de calidad que se adapte a las actividades y naturaleza de los productos que una compañía tiene. A nivel producción esto consiste en un sistema completo que incluye: estructura organizacional, responsabilidades, recursos disponibles, procedimientos y procesos.
+
+a) Estructura organizacional y responsabilidades:
+
+La estructura organizacional debe estar claramente definida, a los efectos de comprender la organización y el funcionamientos de la compañía. Cada empleado debe conocer su responsabilidad y encontrar un lugar definido en la estructura.
+
+b) Recursos:
+
+Se refiere concretamente a:
+
+*Personal: Cada empresa debe tener personal con los conocimientos, experiencia, competencia y motivación que su puesto requiere.
+
+*Edilicias: La concepción, construcción y mantenimiento deben ser acordes a las necesidades propias de la actividad. La iluminación, temperatura, humedad, ventilación, no deben afectar directa o indirectamente la calidad de producto durante su manufactura o puesta en stock.
+
+* Equipos y máquinas: Deben estar dispuestos de manera que el movimiento de los materiales y de la gente no constituyan un riesgo a la calidad. Debe efectuarse un mantenimiento y una verificación documentada / validação periódica a equipos y máquinas a los efectos que éstos sirvan realmente a los propósitos, para los que están destinados.
+
+c) Procedimientos:
+
+Los fija cada empresa en función de la naturaleza de su producción y de su estructura organizacional. Los mismos deben describir detalladamente operaciones, precauciones y medidas a aplicar en las diferentes actividades productivas.
+
+d) Procesos:
+
+Los procesos usados en manufactura deben ser verificados documentalmente/validados antes de la puesta del producto en el mercado.
+
+3. MANUFACTURA
+
+En cada etapa de la producción, deben concebirse y llevase efectivamente a cabo medidas en el sentido de garantizar la seguridad de uso del producto. En todo momento debería poderse identificar la pieza de un equipo, un instrumento, una materia prima, un material de empaque, un producto de limpieza o un documento por ejemplo.
+Cualquier sustancia diferente a una materia prima o producto a granel no debe ni puede ser confundido con los items anteriormente citados, con el fin de evitar contaminación.
+Las empresas podrán efectuar las operaciones en su propia planta o acudir a terceros.
+
+a) Manufactura en la propia planta
+
+- Agua: Por su importancia dentro del conjunto de materias primas debe prestársele particular atención.
+
+1. Los equipos de producción de agua, así como otros sistemas que pudieran existir, deben garantizar una calidad de agua que garantice a su vez, la conformidad del producto terminado.
+
+2. Debe poder procederse a sistemas de desinfección, en conformidad a procedimientos bien definidos.
+
+3. Las cañerías deben construirse de manera de evitar corrosión, riesgos de contaminación y estancamiento.
+
+4. Los materiales deben ser elegidos de manera que la calidad del agua no se vea afectada.
+
+Deben poder idenficarse las cañerías de agua caliente, fría, desmineralizada y vapor. La calidad química y microbiológica debe ser monitoreada regularmente de acuerdo a procedimientos escritos, y cualquier anomalía debe ser seguida de una acción correctiva.
+
+- Recepción de materiales: La recepción de materiales para producción debe seguir procedimientos establecidos, cada despacho debe ser registrado y verificada su conformidad. Los registros deben contener información que permitan la identificación del producto. A modo de guía se da la siguiente información:
+
+1 ) Nombre comercial en el remito y en los contenedores.
+2)  Nombre dado al producto en la firma misma (por ejemplo un código),si este nombre es diferente del dado por el proveedor.
+3) Fecha de recepción.
+4) Nombre del proveedor y número de lote.
+5) Cantidad total y número de contenedores recibidos
+
+Deben establecerse procedimientos internos sobre la identificación, transporte de materias primas y material de empaque.
+
+El muestreo debe ser efectuado por personal competente, asegurando que el mismo sea representativo del lote enviado.
+
+- Puesta en stock: Los materiales, así como también el producto terminado, debe ser guardado en condiciones apropiadas a su naturaleza, de manera de garantizar una eficiente identificación de batch, así como también una correcta rotación.
+Deben existir un sistema que evite el uso de material rechazado, así como del material que aun no ha sido controlado.
+Para el caso de almacenamiento de graneles, deben establecerse procedimientos específicos.
+
+- Procesamiento:
+
+1) Pesada de materias primas: Las mismas deben ser identificadas y cuantificadas, acorde a la fórmula del producto a elaborar.
+Deben pesarse en recipientes limpios, balanzas verificadas documentalmente / validados y acordes al peso a determinar, o directamente, en la cuba de elaboración. Deberán tomarse las precauciones para evitar la contaminación cruzada y reposicionarse todos los contenedores de MP para eviitar cualquier riesgo de alteración de las mismas.
+
+2) Elaboraclón: Las instrucciones relativas a la elaboración, deben estar disponibles al comienzo del proceso. Antes de comenzar una nueva elaboración debe controlarse que la maquinaria se encuentra limpia y en buenas condiciones de operación. Por otro lado no deben existir elementos perteneciente a procesos anteriores.
+Cada producto a ser manufacturado debe ser identificado (nombre, número) de manera que en cada etapa del proceso, cada operador pueda encontrar la referencia para llevar a cabo los controles necesarios.
+Es esencial la posesión de una fórmula única con un modo operativo para un cantidad y máquina específica asociada al mismo.
+
+Resumiendo, es importante precisar:
+
+* Maquinaria necesaria para manufacturar.
+* Fórmula.
+* Tamaño del batch.
+* Lista de materias primas intervinientes con número de lote y cantidad pesada.
+*Modo operativo detallado: Secuencias de agregado, temperatura, velocidades de agitación, tiempos, proceso de transferencia.
+
+Si los procesos fueran continuos, las instrucciones se deberán adaptar a dichos procesos.
+
+- Operaciones de llenado y: empaque:
+1) Preparación: Consiste en identificar los materiales de empaque y el granel.
+2) Llenado y empaque: Antes de comenzar debe controlarse la correcta limpieza de los equipos, así como la ausencia de materiales correspondientes al llenado y empaque anterior. Debe verificarse además que las instrucciones de empaque, muestreo y controles estén disponibles antes de comenzar la operación.
+Los productos a ser empaquetados deben estar claramente etiquetados sobre la línea, para asegurar su identificación.
+3) Distribución: Deben existir procedimientos para el despacho, de manera de asegurar que la calidad del producto no se vea alterada.
+Antes de colocar el producto en el mercado, debe asegurarse que cumplen los estándares previamente fijados.
+
+bJ Manufacfura en terceros
+Cualquiera sea el contrato, ya sea por una manufactura parcial o total, un llenado y acondicionado parcial o total, todas las operaciones deben ser claramente definidas para obtener el producto de calidad acorde al estándar Por eso, entre ambas partes debe efectuarse un contrato en que se definan las responsabilidades de cada una de las mismas.
+
+La empresa que otorga el subcontrato: Es responsabilidad del titular evaluar la capacidad del tercerista para llevar a cabo una tarea y asegurar que cuenta con las facilidades suficientes en su compañía para hacerlo en lo que respecta a locales, personal, máquinas y aseguramiento de calidad. Si este es el caso, el titular deberá proveer al tercerista toda la información requerida por medio de un contrato escrito, detallando las respectivas responsabilidades.
+
+La empresa tercerista: Debe respetar lo preestablecido, particularmente en lo que respecta a los procedimientos técnicos. Debe facilitar las auditorías que la empresa titular del producto quiera realizarle a los efectos de asegurarse cumplen con las normas BPM (GMP *).
+Procedimientos y especificaciones: Los aspectos técnicos deben ser analizados y aprobados por personal competente y entrenado en normas BPM (GMP *).
+
+c) Autorización dei producto terminado
+Antes que el producto sea puesto en el mercado, deberá tener una visa de aceptación, ya sea que el producto se manufacture en la propia empresa o provenga de terceros. Esta aceptación se debe hacer mediante un proceso claramente definido. Si se comercializara directamente desde el tercerista, los términos de aceptación deben estar definidos con precisión en el contrato entre partes.
+
+
+4) REQUERIMIENTOS PARA EL ASEGURAMIENTO DE LA CALIDAD
+
+
+El aseguramiento de la calidad durante la manufactura, involucra a casi todas las operaciones de la compañía. Para poder reducir, eliminar y, lo que es más importante, prevenir alguna deficiencia en la calidad, un conjunto completo de actividades debe ser llevada a cabo por el departamento de manufactura y por otros ligados a él en forma directa o indirecta.
+
+a) Manufactura: Mencionamos los siguientes puntos relevantes:
+* Participar en la puesta a punto y respetar procedimientos e instrucciones establecidos por departamentos competentes.
+* Alentar al personal de manufactura a reportar anomalías e incidentes de no conformidad.
+* Analizar las anomalías de calidad, seguido por la implementación de una acción correctiva, mejora y monitoreo.
+
+b) Compras y abastecimiento: La actividad que es esencial en el sistema de calidad, consiste en manejar recursos que vienen de fuera de la empresa y que son claves para la manufactura.
+
+Se refiere a:
+- Compra de materias primas y componentes, así como de la maquinaria para la manufactura.
+- Contratos parciales o totales de manufactura, por ejemplo en una empresa especializada en el tema.
+- Contratos parciales o totales de manufactura, por ejemplo en una empresa especializada en el tema.
+Es esencial que las especificaciones de calidad sean establecidas en estrecha colaboración con los departamentos involucrados (I&D, manufactura, control de calidad). Las responsabilidades para las actividades principales deben ser claramente definidas. Por ejemplo:
+* Establecimiento de especificaciones de materias primas, componentes, etc * Aprobación del tercerista y de los proveedores, para asegurar la calidad.
+* Establecimiento de condiciones en la relación proveedor-consumidor (asistencia, auditorías).
+* Tener en cuenta controles realizados por el proveedor o tercerista.
+* Establecimiento qe cláusulas contractuales técnicas (como se llevarán a cabo las inspecciones, criterio de aceptación o rechazo, acciones a tomar en caso de no conformidad o modificaciones.
+* Otros requerimientos tales como precio, tiempos de entregas, instrucciones o servicio pos venta si fuera necesario.
+Documentos de Compras: Los mismos deben contener datos describiendo claramente el producto, además debe definirse en un procedimiento, las responsabilidades concernientes a la confección de la orden de compra, el tipo de información o de requisitos a ser mencionados.
+
+c) Control y mantenimiento de equipos y locales: Los equipos no deben presentar riesgos de contaminación ni deterioro para los productos.
+* Los locales deben estar limpios y ordenados.
+* La maquinaria de producción debe ser diseñada, instalada y mantenida de acuerdo a sus propósitos, de manera de no poner en riesgo la calidad de producto. Debe ubicarse teniendo en cuenta los desplazamientos, y ser limpiado de acuerdo a procesos definidos.
+* Las máquinas deben mantenerse en buenas condiciones de operación, de acuerdo a programas preestablecidos por departamentos competentes de la empresa, o bien por cumplimiento de un contrato de mantenimiento
+En las áreas de producción no deben haber personas ajenas a las mismas.
+* Los productos de limpieza deben estar claramente identificados, de manera de no entrar nunca en contacto con los productos cosméticos.
+
+Debe existir un registro de todas las operaciones de mantenimiento llevadas a cabo en los equipos.
+Para todos los equipos de pesada e instrumentos de medición se deberá realizar una calibración periódica.
+
+d) Puesta a punto y mantenimiento de los procesos: El departamento responsable del desarrollo del producto, fórmula y empaque, proveerá un proceso que tenga en consideración las normas GMP.
+Los procesos deben ser bien definidos y testeados. Debe formalizarse un proceso de acuerdo a la naturaleza del producto, el tamaño y estructura de la empresa. Finalmente debe verificarse documentalmente/validar y confirmar que el producto terminado responda a los estándares prefijados.
+Los procesos de verificación documentada/válidação deberán ser actualizados, a la luz de nuevas condiciones de operación.
+
+e) Higiene industrial: Un producto cosmético, no puede afectar la salud del consumidor, ni debe sufrir un deterioro debido a la presencia o multiplicación de microorganismos en el mismo. Para evitarlo es esencial respetar buenas prácticas de higiene.
+El riesgo a la contaminación varía de acuerdo a la naturaleza del producto; por ejemplo un perfume en relación a una emulsión que es un medio apropiado para el desarrollo bacteriano. Por lo tanto caga etapa productiva debe contemplar el potencial riesgo de contaminación.
+En todos los sectores de la fábrica es esencial mantener los ambientes, equipos, máquinas e instrumentos, así como materias primas, componentes, graneles y productos terminados en buenas condiciones de higiene.
+En manufactura las diferentes actividades deben ser organizadas de manera de prevenir riesgos de agua estancada, polvo en la atmósfera, presencia de insectos u otros animales. Los equipos de llenado y empaque deben ser limpiados y desinfectados de acuerdo a su diseño y uso. El personal debe respetar prácticas específicas de higiene y seguir instrucciones de como trabajar y llevar a cabo las operaciones que correspondan. Si hubiera contaminación es importante poder encontrar rápidamente la fuente y naturaleza de la misma y saber actuar para poder eliminarla.
+
+f) Operaciones de control de calidad: Se entiende como el conjunto de operaciones que se llevan a cabo para monitorear la calidad durante el proceso de manufactura. Estas operaciones pueden dividirse en dos grupos:
+* Control de bienes al ingreso y control final de los productos terminados. Estas son responsabilidades del personal de laboratorio.
+* Control en proceso durante la manufactura. Es conveniente que esta responsabilidad sea asignada al personal de manufactura.
+
+Para llevar a cabo estas operaciones en forma eficiente, es necesario que ambos: Laboratorio y personal de manufactura cuenten con la siguiente información:
+* Especificaciones
+* Métodos de muestreo * Métodos de control
+* Límites de aceptación
+
+Independientemente de hasta donde se quiera involucrar al personal de manufactura en los controles, hay algunos elementales a los que no puede escapar, como ser:
+* Identificación (nombre comercial, código interno) * Número de batch y fecha
+* Reactor y cantidad fabricada
+
+Los resultados deben ser registrados, visados y utilizados. Los registros deben poseer al menos, la siguiente información:
+* Resultado del control y comentarios si los hubiera
+* Decisión claramente señalada: ACEPTADO, RECHAZADO, PENDIENTE.
+
+Cualquier sistema de registro puede ser utilizado, bajo la condición que los documentos puedan consultarse rápidamente y se encuentren en buenas condiciones.
+En un área de acceso restringido deben guardarse muestras de las materias primas utilizadas en la elaboración del batch (cantidad suficiente por lote de MP), de manera de poder volver a controlarlas eventualmente, así como también unidades suficientes de producto terminado.
+
+g) Capacitación: Para asegurar el cumplimiento las Normas GMP, la empresa debe contar con personal con conocimientos suficientes, experiencia, competencia y motivación. A estos efectos es esencial identificar las necesidades de capacitación del personal, cualquiera sea su nivel dentro de la jerarquía y diseñar un plan adecuado para llevarlos a cabo.
+Los cursos de entrenamiento pueden ser realizados por la misma empresa o por empresas externas especializadas, de acuerdo a los recursos con que cuenta cada compañía.
+
+h) Documentación: Los documentos son indispensables para evitar errores provenientes de la comunicación verbal. La administración de estos documentos debe seguir un procedimiento en donde se indique:
+* Persona responsable de la emisión
+* Persona(s) a la que va dirigido
+* Lugar y sistema de archivo de la documentación
+Si hubiera modificaciones en los procedimientos, deben mencionarse los motivos y la fecha de realización de dichas modificaciones. La documentación debe ser revisada regularmente. En la empresa debe existir un inventario actualizado de la documentación existente.
+
+Entre los diferentes tipos de documentación que la empresa debe poseer se destacan:
+
+h.1) Procedimientos: Por ejemplo concernientes a:
+* Muestreo de materias primas y materiales de empaque
+* Procesos de manufactura: Métodos de llenado y empaque, métodos de inspección de máquinas y equipos
+* Limpieza y desinfección de máquinas utilizadas durante la manufactura
+* Acciones a llevar a cabo antes de comenzar una operación de producción
+* Medidas a tomar y métodos a seguir en caso de no conformidad de materias primas, componentes, graneles, productos terminados.
+* Calibración de instrumentos de medición
+* Reclamos
+
+h.2) Reglas de manufactura: Para una manufactura adecuada, es esencial reglas precisas para todas las operaciones. Estas deberían ofrecer una descripción detallada de las operaciones para elaborar un cierto producto.
+Deberían establecerse reglas de procesamiento y envasado para cada producto o grupo de productos.
+
+h.3) Especificaciones: Deben describir los requerimientos que deben cumplir las materias primas, materiales de empaque, graneles, semi-terminados y productos terminados.
+Las especificaciones deben marcar los siguientes detalles:
+* Número interno o identificación adoptada por la compañía
+* Requerimientos cualitativos (químico, físico, mict35@~ológico) y cuantitativos para la aceptación
+* Fecha de posibles recontroles
+* Referencia de métodos utilizados
+
+h.4) Rastreo del batch: Ante un incidente de calidad debe poder llevarse a cabo una investigación eficiente. Para ello es esencial registrar los datos de procesos y empaque de cada batch.
+Un sistema de asociación entre los documentos establecidos, concernientes a las diferentes operaciones de manufactura, así como las operaciones de control ligadas a todos los diferentes materiales, debería permitir el rastreo del batch.
+
+i) Monitoreo y uso de los resultados: Para el aseguramiento de la calidad, es muy importante el uso de los resultados. Esto permitirá un análisis de causas posibles de defectos y la consecuente decisión de una acción correctiva.
+El monitoreo de los defectos que necesitan de una acción inmediata y la síntesis periódica de los resultados obtenidos luego de las acciones emprendidas, son dos elementos esenciales en un sistema de calidad.
+Esto es responsabilidad del departamento de manufactura y de los departamentos involucrados en el aseguramiento de la calidad.
+Debe haber un sistema de evaluación de reclamos.
+
+j) Auditorías de calidad: De6en ser efectuadas en forma independiente y detallada regularmente o a pedido, por personas especialmente designadas y competentes. Pueden llevarse a cabo, ya sea en la empresa, en un proveedor o en un tercerista. Deben ser abarcativos del sistema de calidad en general. El objetivo es asegurar la conformidad con las normas BPM (GMP*) y proponer eventualmente acciones correctivas a emprender. Los resultados de las auditorías deben ser enviados a la dirección de la empresa y comunicados al personal auditado, de manera que el mismo pueda tomar parte en las acciones de mejora.
+Deben realizarse seguimientos de la auditoría para asegurarse que las acciones correctivas se llevaron a cabo.
+
+* GMP = Good Manufacturing Practices
+
+
+3

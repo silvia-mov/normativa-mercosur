@@ -1,0 +1,110 @@
+Resolución GMC N° 07/97
+Título: AJUSTE DE NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE AEC
+Fecha de aprobación: 25/04/1997
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 21962_RES_007-1997_ES_AjusteNCM-AEC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1625).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 7/97
+
+
+AJUSTE DE LA NOMENCLATURA COMUN DEL MERCOSUR Y SU CORRESPONDIENTE AEC
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº22/94 del Consejo del Mercado Común, las Resoluciones Nº 35/95 y 36/95 del Grupo Mercado Común, la Directiva N"8/96 y la Propuesta Nº 1/97 de la Comisión de Comercio del MERCOSUR.
+
+CONSIDERANDO:
+
+Que es necesario ajustar la Nomenclatura Común del Mercosur y su correspondiente Arancel Externo Común, instrumento esencial de la Unión Aduanera.
+
+EL GRUPO MERCADO COMUN:
+RESUELVE:
+
+Art. 1 Ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, conforme el estudio de solicitudes de apertura presentadas por los Estados Partes, que figura como anexo y forma parte de la presente Resolución.
+
+Art. 2 La presente Resolución entrará en vigencia el 1°/VII/97.
+
+
+XXV GMC - Asunción, 25/IV/97
+
+
+ANEXO (VERSION EN ESPAÑOL)
+
+
+1. SUSTITUCION DE CODIGOS
+
+DONDE DICE:
+
+DEBE DECIR:
+
+6815.99.10
+Electrofundidas
+6815.99.1
+Electrofundidas
+7118.10.00
+Monedas sin curso legal, excepto las de oro
+7118.10
+Monedas sin curso legal, excepto las de oro
+
+2. MODIFICACION DE A.E.C.
+
+NCM
+
+A.E.C. ACTUAL %
+A.E.C. ACORDADO %
+2921.51.12
+Diaminotoluenos
+(toluilendiaminas)
+2
+12
+3005.90.20
+Campos quirúrgicos de telas sin tejer
+2
+12
+
+3. SUSTITUCIONES DE TEXTO
+
+DONDE DICE:
+
+DEBE DECIR
+
+
+8517.50.22
+Sobre líneas de fibras ópticas, con velocidad de transmisión superior a 140 Mbits/s
+8517.50.22
+Sobre líneas de fibras ópticas, con velocidad de transmisión superior a 2,5 Gbits/s
+8525.10.21
+En AM con modulación por ancho de pulso, totalmente a semiconductores y potencia de salida superior a 10 kW.
+8525.10.21
+En AM con modulación por código o ancho de pulso, totalmente a semiconductores y potencia de salida superior a 10 kW.
+
+4. INCORPORACIONES
+
+
+A.E.C. ACORDADO %
+6815.99.11
+Con un contenido de alúmina (Al2O3) superior o igual al 90%, en peso
+2
+6815.99.12
+Con un contenido de sílice (SiO2) superior o igual al 90%, en peso
+2
+6815.99.13
+Con un contenido, en peso, de óxido de circonio (ZrO2) superior o igual al 50%, incluso con un contenido de alúmina inferior al 45%.
+2
+6815.99.14
+Constituidas por una mezcla o combinación de alúmina (Al2O3), sílice (SiO2) y óxido de circonio (ZrO2), con un contenido, en peso, de alúmina superior o igual al 45 %,pero inferior al 90% o con un contenido, en peso, de óxido de circonio (ZrO2) superior o igual al 20%, pero inferior al 50%.
+2
+6815.99.19
+Las demás
+14
+7118.10.10
+Destinadas a tener curso legal en el país importador
+16
+7118.10.90
+Las demás
+0
+
+
+3

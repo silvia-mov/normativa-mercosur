@@ -1,0 +1,155 @@
+Resolución GMC N° 08/02
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA DETERMINACIÓN DE PESO NETO EN PESCADOS, MOLUSCOS Y CRUSTÁCEOS GLASEADOS
+Fecha de aprobación: 18/04/2002
+Vigencia: Derogada (Derogada por la Res. GMC N° 39/05.)
+Idioma del texto: ES
+Archivo original: 12955_RES_008_2002_ES_RTM-Pesc-Molusc-Crustác_Acta 1_02.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1024).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 08/02
+
+REGLAMENTO TÉCNICO MERCOSUR PARA DETERMINACIÓN DE PESO NETO EN PESCADOS, MOLUSCOS Y CRUSTÁCEOS GLASEADOS
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 91/93, 152/96 y 38/98 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que resulta necesario definir claramente el peso neto en pescados, moluscos  y crustáceos glaseados a los efectos de facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción, eliminar barreras técnicas que sean obstáculos a la libre circulación de los mismos, así como garantizar la defensa del consumidor.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE :
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR para Determinación de Peso Neto en Pescados, Moluscos y Crustáceos Glaseados",  que consta en Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	Ministerio de la Producción, Secretaría de la Competencia, la            Desregulación y la Defensa del Consumidor (SCD y DC)
+
+Brasil: 	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial (INMETRO)
+
+Paraguay: 	Instituto Nacional de Tecnología y Normalización (INTN)
+
+Uruguay: 	Ministerio de Industria, Energía y Minería
+
+Art. 3 - La presente Resolución se aplicará en el  territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 1/VII/2002.
+
+
+XLV GMC - Buenos Aires, 18/IV/02
+
+ANEXO
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA DETERMINACIÓN DE PESO NETO EN PESCADOS, MOLUSCOS Y CRUSTÁCEOS GLASEADOS
+
+
+1. OBJETIVO
+
+ Este Reglamento  Técnico MERCOSUR establece la metodología para determinación de peso neto en pescados, moluscos y crustáceos glaseados.
+
+2. CAMPO DE APLICACIÓN
+
+ Este Reglamento Técnico MERCOSUR se aplica  al control  metrológico de pescados, moluscos y crustáceos glaseados premedidos.
+
+3. DEFINICIÓN
+
+- Serán considerados pescados, moluscos y crustáceos los organismos acuáticos   marinos o de agua dulce, capturados o cultivados .
+- Será considerado glaseado el producto congelado con cobertura de hielo.
+
+
+ SIGLAS USADAS EN LAS FORMULAS
+
+PB	Peso Bruto
+PPg	Peso del Producto Glaseado
+PE	Peso del Embalaje
+PPD	Peso del Producto Desglaseado
+Ph	Peso del Hielo
+PEF	Peso Efectivo Bruto
+PPgM	Peso Medio Absoluto del Producto Glaseado
+PPDM	Peso Medio Absoluto del Producto Desglaseado
+PGAR	Cantidad Relativa de Hielo en la Muestra
+MATERIAL BÁSICO
+
+Balanza, con división mínima 0,1g.
+Termómetro con precisión de 0,1ºC, cubriendo el rango - 30ºC a 50ºC.
+Recipiente paralelepípedo con un volumen mínimo de 10 litros de agua.
+Cernidor con malla de 1,4 mm en acero inoxidable.
+Freezer.
+Cronómetro.
+PROCEDIMENTO
+
+Identificar el producto.
+
+Identificar individualmente (numerar, posicionar  u otro método)  los embalajes, verificando si todos están en perfectas condiciones adecuadas para el examen.
+
+Separar aleatoriamente un grupo de (6) seis unidades de la muestra tomada, sin que pierda la cadena de frío hasta el momento de la inmersión del producto.
+
+Determinar Peso Bruto (PB)
+
+Pesar el producto ya identificado.
+
+Determinar Peso del Embalaje
+
+Pesar el embalaje y / o envoltorio totalmente limpios y sin residuos obteniéndose así el valor de (PE).
+
+Determinar el Peso Neto del Producto glaseado substrayéndose del Peso Bruto el peso del embalaje correspondiente.
+
+PPg = PB - PE
+
+Con el producto ya sin embalaje acomodarlo en un cernidor previamente tarado y sumergir el conjunto en el recipiente con agua.
+
+El conjunto de cernidor más el producto, deberá  permanecer inmerso en su totalidad por el tiempo de 20 segundos + 1 segundo.
+
+La  temperatura del baño antes de sumergir el producto, deberá estar en torno entre  20 ºC + 1 ºC .
+
+Durante el tiempo en que permanece inmerso debe ser agitado suavemente  el conjunto de cernidor más producto.
+
+Retirar el conjunto de cernidor más producto y dejar escurrir por 30 segundos + 1 segundo.
+
+Para facilitar el escurrido del cernidor deberá permanecer inclinado en un ángulo entre 15º  a 17º .
+
+Pesar el conjunto determinando con eso el peso del  producto desglaseado (PPD).
+
+Determinar el peso de hielo contenido en el producto (Ph) substrayéndose del peso producto glaseado (Ppg) el peso del producto desglaseado (PPD)
+
+Ph = PPg - PPD
+Proceder al examen de cada una de las seis unidades .
+
+
+Determinar el peso medio absoluto del producto glaseado usando la siguiente fórmula:
+
+(PPgM) =  PPg1 + PPg2 + PPg3 + PPg4 + PPg5 + PPg6.
+				 6
+
+Determinar el peso medio del producto desglaseado usando la siguiente fórmula:
+
+(PPDM) =  PPD1 + PPD2 + PPD3 + PPD4 + PPD5 + PPD6.
+                                         6
+
+Determinación de la cantidad relativa de hielo en la muestra:
+
+PGAR  =  PPgM -  PPDM.
+	      PPgM
+
+Cálculo para determinación del peso efectivo del producto:
+
+PEF  =  (PB-PE)  .  (1-PGAR).
+
+Obtenido el peso neto del producto se aplicará la Resolución GMC en vigor .
+
+
+CONSIDERACIONES GENERALES
+
+Durante el periodo de transporte y transferencia de las muestras hasta el laboratorio y durante su almacenaje, la temperatura  del producto no podrá ser superior a -18ºC (menos dieciocho grados centígrados).
+
+En el momento del examen, el producto seleccionado para el desglaseamiento debe  estar a una temperatura entre (-18ºC) y (-22ºC).
+
+El baño debe tener como mínimo la cantidad en volumen de 10 veces la cantidad del producto a desglasearse.
+
+3
+
+
+1

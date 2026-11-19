@@ -1,0 +1,400 @@
+Resolución GMC N° 73/94
+Título: REQUISITOS TECNICOS PARA LA EVALUACION Y EL REGISTRO DE SUSTANCIAS ACTIVAS Y PRODUCTOS FORMULADOS AGROQUIMICOS EN LA REGION DEL MERCOSUR
+Fecha de aprobación: 04/11/1994
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 24075_RES_073_1994_ES_RequiTecEvaluacSustan.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1777).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 73/94
+
+REQUISITOS TÉCNICOS PARA LA EVALUACIÓN Y EL REGISTRO DE SUSTANCIAS ACTIVAS Y PRODUCTOS FORMULADOS AGROQUÍMICOS EN LA REGIÓN DEL MERCOSUR
+
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión No 4/91 y la Decisión No. 1/93 del Consejo del Mercado Común, la Resolución No. 91/93 del Grupo Mercado Común y las Recomendaciones Nos. 7/94 y 15/94 del SGT Nº 8 "Política Agrícola".
+
+CONSIDERANDO:
+
+Que es de vital importancia garantizar el uso de insumos seguros, eficaces y económicos, con miras a una mayor competitividad de la producción agrícola de la región.
+
+Que es indispensable que los Estados Partes armonicen sus legislaciones nacionales vigentes en materia de evaluación y registro de productos fitosanitarios.
+
+Que es necesario avanzar en el establecimiento de acuerdos básicos anteriores a la implantación de un Sistema Regional de Registro, de acuerdo a las necesidades del área y del cronograma de Medidas del MERCOSUR.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - a) Adoptar para la evaluación y el registro de sustancias activas y productos formulados los requisitos establecidos en el Anexo de la presente Resolución.
+
+            b) La incorporación, la eliminación y la modificación de los requisitos establecidos en el Anexo serán aprobados por el Comité de Sanidad, debiendo la parte interesada fundamentar su solicitud con una antelación mínima de 45 días.
+            c) En el registro de sustancias activas y productos formulados podrá ser utilizada información técnica publicada a nivel nacional y/o internacional cuando la misma se ajuste a las condiciones que se establezcan.
+
+Art. 2 - Instruir al Comité de Sanidad a que proceda a la definición de:
+
+a) Condiciones que la información que se somete para fundamentar el registro de sustancias activas y productos formulados deba cumplir.
+b) Criterios y procedimientos armonizados de evaluación de datos para fines de registro que aseguren su confiabilidad.
+
+Art. 3 - Cuando existan normas y/o patrones internacionales en materia de calidad de sustancias activas o de productos formulados, los mismos serán adoptados por los Estados Partes después de la evaluación por el Comité de Sanidad. En los casos de inexistencia o inadecuación para la región de esas normas y patrones, el Comité las elaborará para su aprobación por el GMC.
+
+Art. 4 - Los Estados Partes pondrán en vigencia las disposiciones reglamentarias, legislativas y administrativas necesarias para dar cumplimiento a la presente Resolución por intermedio de los siguientes organismos:
+
+Argentina:
+Instituto Argentino de Sanidad y Calidad Vegetal / SAGyP
+
+Brasil:
+	Departamento de Defensa e Inspección Vegetal / MAARA
+
+Paraguay:
+Dirección de Defensa Vegetal
+Ministerio de Agricultura y Ganadería (MAG)
+
+Uruguay:
+Dirección de Protección Agrícola
+Dirección General de Servicios Agrícolas / MGAP
+
+Art. 5 - La legislación nacional vigente sujeta a modificaciones para la efectiva implementación de la presente Resolución es:
+
+Argentina: Res. SAGyP 895/88 y Disp. D.N.P. y CA 19/87
+
+Brasil: 	      Port. MAARA No 45 , 10/12/90
+Port. MS No 03, 16/01/92
+Port. IBAMA No 349, 14/03/90
+
+Paraguay:  Res. MAG 19/93
+
+Uruguay:    Decreto 149/77 y modificativos
+
+Art. 6 - La presente Resolución entrará en vigencia antes del 1º de enero de 1995.
+
+Art. 7 - Instruir al SGT No 8 a elevar a la brevedad una propuesta de sistema definitivo de registro de agroquímicos.
+
+
+XV GMC - Brasilia, 4/XI/1994
+
+SGT  Nº 8 / REC  Nº  15/94
+
+ANEXO
+
+
+REQUISITOS TÉCNICOS PARA LA EVALUACIÓN DE SUSTANCIAS ACTIVAS Y
+PRODUCTOS FORMULADOS AGROQUIMICOS PARA EL MERCOSUR
+
+
+REQUISITOS TÉCNICOS PARA LA EVALUACIÓN DE SUSTANCIAS ACTIVAS
+
+      A los efectos de su inclusión en un registro de Sustancias Activas Grado Técnico, aprobadas para Productos Fitosanitarios a ser fabricados, formulados, comercializados o utilizados en la región del MERCOSUR, se deberá evaluar información suficiente de dichas Sustancias Activas, en base a los siguientes datos:
+
+IDENTIDAD
+
+Solicitante
+Fabricante
+Nombre común: Aceptado por ISO, o propuesto, en su orden, por BSI, ANSI, WSSA o el fabricante, hasta su aceptación o denominación por ISO.
+Sinónimos
+Nombre químico: Aceptado o propuesto por IUPAC
+Fórmula empírica
+Fórmula estructural
+Número de código experimental (cuando corresponda)
+Grupo químico
+Grado de pureza
+Isómeros
+Impurezas
+Aditivos (eje.: estabilizantes)
+
+PROPIEDADES FISICOQUIMICAS
+
+Aspectos:-Estado físico
+               -Color
+               -Olor
+Punto de:-Fusión (1)
+         -Ebullición (2)
+-Densidad
+-Presión de vapor
+-Volatilidad
+-Espectro de absorción
+-Solubilidad en agua
+-Solubilidad en solventes orgánicos
+-Coeficiente de partición en n-octanol/agua
+-Estabilidad en agua
+-Inflamabilidad  (punto de ignición ) (3)
+-Tensión superficial (cuando aplicable)
+-Propiedades explosivas (cuando aplicable)
+-Propiedades oxidantes (corrosividad)
+-Reactividad con el material de envases PH
+-Constante de asociación en agua
+-Viscosidad (2)
+
+(1) Para sustancias grado técnico sólidas a temperatura ambiente
+(2) Para sustancias grado técnico líquidas a temperatura ambiente
+(3) En caso de líquidos combustibles o inflamables
+
+
+ASPECTOS RELACIONADOS A SU UTILIDAD
+
+-Aptitud
+-Efecto sobre los organismos-plagas (ej: Tóxico por inhalación, contacto, fungicida sistémico, u otras formas)
+-Organismos nocivos controlados
+-Modo de acción sobre los organismos nocivos y sobre las plantas
+-Ámbito de aplicación previsto (ej.: campo, invernáculo u otros)
+-Condiciones fitosanitarias y ambientales para ser usado
+-Resistencia (Información sobre desarrollo de resistencia y estrategias de monitoreo)
+
+MÉTODOS ANALÍTICOS
+
+1.- Método analítico para la determinación de la sustancia activa pura y, cuando corresponda, para la determinación de productos de degradación, isómeros e impurezas (de importancia toxicológica y/o ecotoxicológicas) y aditivos (ej. estabilizantes).
+
+2.- Métodos analíticos, incluida la tasa de recuperación y los límites de sensibilidad para la determinación de residuos en plantas tratadas, productos agrícolas, alimentos procesados, suelo y agua.
+
+3.- Métodos analíticos para aire y tejidos y fluidos animales o humanos, cuando estén disponibles.
+
+RESIDUOS EN PRODUCTOS TRATADOS
+
+1.- Identificación de los productos de degradación y la reacción de metabolismos en plantas o productos tratados.
+
+2.- Comportamiento de los residuos de la sustancia activa y sus metabolitos desde la aplicación a la cosecha, cuando relevante. Absorción, distribución o conjugación con los ingredientes de la planta y  la disipación del producto para el medio ambiente. Las correspondientes especificaciones de referencia serán tratadas en el futuro.
+
+3.- Datos sobre residuos, obtenidos mediante pruebas controladas.
+
+INFORMACIÓN CON RESPECTO A LA SEGURIDAD
+
+-Procedimientos para la destrucción de la sustancia activa y para la descontaminación
+-Posibilidades de recuperación  (si disponible)
+-Posibilidades de neutralización
+-Incineración controlada (condiciones)
+-Depuración de las aguas
+-Métodos recomendados y precauciones de manejo durante su manipulación, almacenamiento, transporte y en caso de incendio.
+-En caso de incendio  productos de reacción y gases de combustión
+-Información sobre equipos de protección individual.
+
+Toxicidad Aguda
+
+-Oral
+-Démica
+-Inhalatoria
+-Irritación cutánea y ocular (si corresponde) (1)
+-Sensibilización cutánea
+
+TOXICIDAD A CORTO PLAZO/ MEDIO PLAZO.
+
+-Oral acumulativa (estudio de 28 días)
+-Administración oral en roedores y en no roedores (90 días)
+-Otras vías (si procede):  inhalación dérmica
+
+Toxicidad crónica
+
+-Oral  a largo plazo
+-Carcinogenicidad
+-Mutagenicidad:                -Mutaciones genéticas (Test de Ames u otros)
+                  -Aberraciones cromosómicas
+                  -Perturbaciones del ADN
+
+Efecto sobre la Reproducción
+
+-Teratogenicidad (si corresponde)
+
+-Estudio sobre por lo menos 2 generaciones en mamíferos
+
+Metabolismo en Mamíferos
+
+Estudios de (luego de la administración oral y dérmica)
+-Absorción
+-Distribución
+-Excreción
+-Explicación de las rutas metabólicas
+
+(1) Requerido si el producto forma gases o es volátil o si es irritante para la piel o tiene un PH  mayor o igual  a 2.0 o un PH menor o igual a 11.5
+
+Información Médica Obligatoria
+
+Diagnóstico y síntomas de intoxicación
+tratamientos propuestos:	-primeros auxilios
+                        -tratamiento médico
+                        -antídotos
+
+Estudios Adicionales (cuando corresponda)
+
+Estudios de Neurotoxicidad o Neurotoxicidad retardada
+Efectos tóxicos de metabolitos procedentes de los vegetales tratados cuando estos sean diferentes de los identificados en los estudios sobre animales
+
+Información Médica complementaria (cuando se dispone)
+
+Diagnóstico de Intoxicación:
+-Observación directa de casos clínicos.
+-Observaciones sobre la exposición de la población en general y estudios epidemiológicos
+-Observaciones sobre sensibilización/alergización.
+
+EFECTOS SOBRE EL AMBIENTE
+
+
+Comportamiento en el Suelo. Datos para 3 tipos de suelos patrones.
+
+Tasa y vías de degradación (hasta 90 %) incluida la identificación de:
+Procesos que intervienen.
+Metabolitos y productos de degradación.
+Adsorción y desorción y movilidad de la sustancia activa y si relevante, de sus metabolitos.
+
+Magnitud y naturaleza de los residuos remanentes.
+
+Comportamiento en el Agua y en el Aire
+
+Tasa y vías de degradación en medio acuoso
+Biodegradación hidrólisis y fotolisis (si no fueron especificados en las propiedades fisicoquímicas)
+
+EFECTOS ECTOXICOLOGICOS
+
+Efectos sobre las Aves
+
+Toxicidad oral aguda
+Toxicidad a corto plazo (estudio en una especie /8 días)
+Efectos en la reproducción (si es procedente)
+
+Efectos sobre Organismos Acuáticos
+
+Toxicidad  aguda para peces
+Toxicidad crónica para peces
+Efectos en la reproducción y tasa de crecimiento de peces
+Bioacumulación en peces
+Toxicidad aguda para Daphnia sp
+Estudios crónicos en Daphnia sp
+Tasa de reproducción para Daphnia sp
+Ritmo de crecimiento para Daphnia sp
+Efectos sobre el crecimiento de las algas
+
+Efectos sobre Organismos Distintos al Objetivo
+
+Toxicidad aguda para abejas
+Toxicidad aguda para artópodos benéficos (ej: predatores)
+Toxicidad para lombrices de tierra
+Toxicidad para microorganismos del suelo
+
+II REQUISITOS TECNICOS PARA LA EVALUACIÓN DE PRODUCTOS FORMULADOS
+
+1. Descripción general del Producto formulado
+
+1.1.-Nombre del solicitante
+1.2.-Nombre del formulador
+1.3.-Nombre comercial
+1.4.-Número del registro de la sustancia activa, o carta del proveedor de la misma autorizándolo a que se utilice información en apoyo del registro del formulado
+1.5.-Clase de uso a que se destina (Herbicida, Insecticida, etc.)
+1.6.-Tipo de formulaciones (polvo mojable, conc. emulsionable, etc.)
+
+2. Composición
+
+2.1.-Contenido de sustancia(s) activa(s), grado técnico, expresado en % p/p o p/v Método de análisis para su determinación.
+2.2.-Contenido y naturaleza de los demás componentes incluidos en la formulación .
+
+3. Propiedades físicas y químicas
+
+3.1.-Aspecto: estado físico, color y olor
+3.2.-Estabilidad en el almacenamiento (respecto de su composición y a las propiedades físicas relacionadas con el uso)
+3.3.-Densidad relativa
+3.4.-Inflamabilidad:
+Para líquidos, punto de inflamación, para sólidos, debe aclararse si el producto es o no inflamable
+3.5.-Acidez/Alcalinidad y pH.
+3.6.-Explosividad.
+
+4. Propiedades físicas del Producto formulado, relacionadas con su uso.
+
+4.1.-Humectabilidad (mojabilidad)-(para los polvos dispersables)
+4.2.-Persistencia de espuma (para  los formulados que se aplican en agua)
+4.3.-Suspensibilidad para los polvos dispersables y los concentrados en suspensión
+4.4.-Análisis granulométrico en húmedo (tener de polvo)-(para los polvos dispersables  los concentrados en suspensión).
+4.5.-Análisis granulométrico  en seco (para gránulos y polvos)
+4.6.-Estabilidad de la emulsión (para los concentrados emulsionables)
+4.7.-Corrosividad
+4.8.-Incompatibilidad con otros productos, (ej. fitosanitarios y fertilizantes)
+4.9.-Densidad a 20º C en g/ml (para formulaciones líquidas)
+4.10.-Punto de inflamación (aceites y soluciones).
+4.11.-Viscosidad (para  suspensiones y emulsiones)
+4.12.-Índice de sulfonación (aceites)
+4.13.-Dispersión (para gránulos dispensables)
+4.14.-Desprendimiento de gas  (sólo para gránulos generadores de gas)
+4.15.-Soltura o fluidez para polvos secos
+4.16.-Índice de iodo e índice de saponificación (para aceites vegetales.
+
+5. Datos sobre la aplicación del producto formulado
+
+5.1.-Ámbito de aplicación
+5.2.-Efecto sobre las plagas y en los vegetales
+5.3.-Condiciones en que el producto puede ser utilizado
+5.4.-Dosis
+5.5.-Número y momentos de aplicación
+5.6.-Métodos de aplicación
+5.7.-Instrucciones de uso
+5.8.-Fecha de reingreso al área tratada, cuando proceda
+5.9.-Períodos de carencia
+5.10.-efectos sobre cultivos sucesivos
+5.11.-Fitotoxicidad
+5.12.-Usos propuestos y aprobados en otros países, especialmente en la región del MERCOSUR.
+5.13.-Estado de registro en la región del MERCOSUR y en otros países.
+
+6. Etiquetado del Producto formulado
+
+6.1.-Información General que deberá figurar en la etiqueta
+
+- Datos sobre la aplicación del producto
+- Ámbitos de aplicación
+- Efecto sobre las plagas y en los vegetales
+-.Condiciones en que el producto puede ser usado
+- Dosis
+- Número y momento de aplicación
+- Método de aplicación
+. Instrucciones de uso
+- Período de carencia
+- Posibles efectos en cultivos sucesivos
+- Fitotoxicidad
+
+6.2.- Se regirá por la Directriz General de FAO sobre "Etiquetado correcto de los plaguicídas"
+
+6.3.-Se adoptará el sistema de clasificación de los plaguicidas según sus riesgos, desarrollado por la OMS (1992/1993).
+
+6.4.-Se adoptarán los pictogramas para las etiquetas de los plaguicidas recomendado por FAO.
+
+6.5.-Se podrán adoptar símbolos pictográficos específicos (no contemplados por FAO, para incluir en el etiquetado).
+
+7. Envases propuestos para el Producto Formulado
+
+7.1.-Tipos de envases:
+material
+capacidad
+resistencia
+
+7.2.-Tipos de embalajes:
+material
+resistencia
+
+7.3.-Acción del producto sobre el material de los envases
+
+7.4.-Procedimientos para la descontaminación y destrucción de los envases
+
+8. Datos sobre el manejo del producto formulado
+
+8.1 Métodos de destrucción , eliminación, o inutilización del producto
+8.2 Identidad de los productos de combustión originados en caso de incendio
+8.3 Procedimiento de limpieza del equipo de aplicación
+
+9. Datos sobre la residualidad del producto formulado
+
+9.1.-Datos de residuos obtenidos en base a ensayos protocolizados, según las normas internacionales (directriz de FAO para el establecimiento de LMRs (Límites Máximos de Residuos).
+
+10. Datos toxicológicos sobre el producto formulado.
+
+10.1.- Toxicidad aguda para mamíferos
+10.1.1.- Oral
+10.1.2.- Dermal
+10.1.3.- Inhalatoria (Cuando corresponda).
+10.1.4.- Irritación cutánea, ocular (cuando los materiales en evaluación son  corrosivos, se omitirán estos estudios)
+10.1.5.- Sensibilización cutánea
+10.2.-Informaciones Médicas Obligatorias
+10.2.1.- Diagnóstico y síntomas de intoxicación , tratamientos propuestos
+primeros auxilios
+antídotos
+tratamiento médico
+10.3.-Observación directa de Casos Clínicos, Accidentales y deliberados
+
+11. Datos de los efectos de productos formulados sobre el ambiente.
+
+Al respecto se deberá adoptar una clasificación ecotoxicológica regional armonizada , aspecto que deberá ser desarrollado en futuras reuniones del Comité de Sanidad.
+
+
+2

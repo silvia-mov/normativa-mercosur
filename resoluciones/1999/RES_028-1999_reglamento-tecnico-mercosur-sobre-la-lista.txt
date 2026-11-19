@@ -1,0 +1,755 @@
+Resolución GMC N° 28/99
+Título: Reglamento Técnico MERCOSUR sobre La lista Positiva para Envases y Equipamientos Elastoméricos en Contacto con Alimentos
+Fecha de aprobación: 10/06/1999
+Vigencia: Vigente (Vigente desde el 09/10/2011 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 17752_RES_028-1999_ES_RTM_Lista Pos-Env-Equip_Elastom_Alimentos_Acta 2_99.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1402).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 28/99
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LA LISTA POSITIVA PARA ENVASES Y EQUIPAMIENTOS ELASTOMÉRICOS EN CONTACTO CON ALIMENTOS
+
+      VISTO: El del Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 28/93, 91/93, 152/96, 54/97 y 38/98 del Grupo Mercado Común y la Recomendación Nº 21/98 del SGT Nº 3 "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que habiéndose fijado en el artículo 3.2. de la Resolución N° 54/97 que "Para la fabricación de envases y equipamientos elastoméricos pueden ser utilizadas las sustancias o grupos de sustancias descriptas en la Lista Positiva para Elastómeros", cumpliendo con las restricciones establecidas en la misma.
+
+Que de acuerdo a este criterio, se considera conveniente disponer de un reglamento técnico común sobre la "Lista Positiva para Envases y Equipamientos Elastoméricos en Contacto con Alimentos".
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre la Lista Positiva para Envases y Equipamientos Elastoméricos en Contacto con Alimentos", en sus versiones en español y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes, pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	Ministerio de Economía y Obras y Servicios Públicos
+Secretaría de Agricultura, Ganadería, Pesca y Alimentación
+
+Servicio Nacional de Sanidad y Calidad Agroalimentaria
+Instituto Nacional de Vitivinicultura
+Ministerio de Salud y Acción Social
+Administración Nacional de Medicamentos, Alimentos y
+Tecnología Médica
+
+Brasil:		Ministério da Saúde
+
+
+Paraguay:	Ministerio de Industria y Comercio
+Instituto Nacional de Tecnología y Normalización (INTN)
+
+Ministerio de Salud Pública y Bienestar Social
+Instituto Nacional de Alimentación y Nutrición (INAN)
+
+Uruguay:	Ministerio de Salud Pública (MSP)
+
+Art. 3 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del día 10 de setiembre de 1999.
+
+
+XXXIV GMC - Asunción, 10/VI/99
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LA
+LISTA POSITIVA PARA ENVASES Y EQUIPAMIENTOS ELASTOMÉRICOS EN CONTACTO CON ALIMENTOS
+
+1.-	La presente lista positiva contiene todas las sustancias que pueden ser utilizadas para la fabricación de envases y equipamientos elastoméricos en contacto con alimentos.
+
+2.-	Para la fabricación de envases y equipamientos a base de elastómeros pueden ser utilizadas las sustancias incluidas en la "Lista positiva para envases y equipamientos elastoméricos en contacto con alimentos". En todos los casos deben ser cumplidos tanto los límites de composición como los de migración específica correspondientes, así como las restricciones de uso indicadas.
+
+3.-	La verificación de los límites de composición y de migración específica se efectuará de acuerdo con la metodología descripta en la reglamentación correspondiente.
+
+4.-	La presente Lista Positiva consta de cuatro partes:
+
+PARTE I:
+
+(a): Lista Positiva de polímeros elastoméricos
+Nota: en la lista positiva de polímeros elastoméricos están autorizados además de los ácidos mencionados en ella sus sales de amonio, potasio y sodio.
+
+ (b): Restricciones:
+
+PARTE II:
+
+(a): Lista Positiva de Agentes de Reticulación para Elastómeros
+
+(b): Restricciones
+
+PARTE III:
+
+(a): Lista Positiva de Aditivos para Elastómeros.
+
+Nota1: en la lista positiva de aditivos para elastómeros están autorizados además de los ácidos mencionados en ella sus sales (incluyendo sales dobles y sales ácidas) de aluminio, amonio, calcio, hierro, magnesio, potasio, sodio y zinc.
+
+Nota2: Además de los aditivos listados en esta parte se podrán utilizar los autorizados en la Resolución GMC Nº 95/94 y sus actualizaciones, no mencionados en la presente Lista Positiva, mientras se cumplan las restricciones fijadas en dicha reglamentación.
+
+
+(b): Restricciones.
+
+PARTE IV:
+
+Lista Positiva de Sustancias para ser utilizadas en la elaboración de adhesivos en contacto directo con los alimentos.
+
+Para la fabricación de adhesivos en contacto directo con los alimentos, sensibles a la presión, se podrá utilizar únicamente las sustancias listadas en esta Parte de la Lista.
+
+5.	Los números entre paréntesis indican restricciones, de la siguiente forma:
+
+Números romanos para restricciones de uso y especificaciones.
+Números arábigos para límites de migración específica y de composición.
+
+Cuando aparecen dos o más números (arábigos y/o romanos), además de la verificación del cumplimiento de cada límite, se deberán respetar todas las restricciones indicadas.
+
+6.	A los efectos de esta lista positiva se considera:
+
+LC = Límite de composición
+LME = Límite de migración específica
+
+7.	No deberán migrar de los envases y equipamientos elastoméricos, en cantidades superiores a las establecidas en este ítem, las sustancias listadas a continuación. Los ensayos de migración se realizarán utilizando simulantes de alimentos y de acuerdo a lo establecido en la Resolución GMC Nº 54/97.
+
+7.1. N-Nitrosaminas: 1,0 mg/dm2
+7.2. Aminas aromáticas primarias, calculadas como clorhidrato de anilina: 50 mg/kg de simulante del alimento.
+7.3. N-alquil-arilaminas, calculadas como N-etilfenilamina: 1 mg/kg de simulante del alimento.
+7.4. Aminas secundarias alifáticas o cicloalifáticas: 5 mg/dm2.
+
+Estos requerimientos no rigen para los adhesivos en contacto directo con alimentos.
+
+
+PARTE I (a)
+LISTA POSITIVA DE POLÍMEROS ELASTOMÉRICOS
+
+Caucho natural
+Caucho natural clorado
+Copolímeros butadieno-acrilonitrilo-dimetacrilato de etilenglicol (3) (4) (I) (II)
+Copolímeros butadieno-acrilonitrilo, hidrogenados (3) (4) (II)
+Copolímeros clorotrifluoretileno - fluoruro de vinilideno (15) (18) (II)
+Copolímeros epiclorhidrina y óxido de etileno (20) (21)
+Copolímeros etileno-propileno que no contengan más del 5 % en peso de las unidades poliméricas derivadas de 5-metilen-2-norborneno y/o 5-etiliden-2-norborneno (II)
+Copolímeros obtenidos de dos o más de los siguientes monómeros:
+·		acetato de vinilo (2)
+·		ácido acrílico
+·		ácido crotónico
+·		ácido fumárico
+·		ácido itacónico
+·		ácido maleico
+·		ácido metacrílico
+·		acrilamida (8)
+·		acrilato de n-butilo
+·		acrilato de etilo
+·		acrilato de isobutilo
+·		acrilato de metilo
+·		acrilato de sec-butilo
+·		acrilato de ter-butilo
+·		acrilonitrilo (3)
+·		butadieno (4)
+·		1-buteno
+·		2-buteno
+·		cloruro de vinilideno (5)
+ cloruro de vinilo (17)
+·		diciclopentadieno
+·		divinilbenceno (*)
+·		estireno
+·		etileno
+·		5-etiliden-2-norborneno (= 5-etiliden [2,2,1] hept-2-eno)
+·		fluoruro de vinilideno (18)
+·		1,4-hexadieno
+·		hexafluoropropileno (6)
+·		isobutileno
+·		2-metil-1,3-butadieno (= isopreno)
+·		metacrilamida (*)
+·		metacrilato de n-butilo
+·		metacrilato de etilo
+·		metacrilato de isobutilo
+·		metacrilato de metilo
+·		metacrilato de sec-butilo
+·		metacrilato de ter-butilo
+·	  N-metilol-acrilamida (11)
+·		1-penteno
+·		2-penteno
+·		propileno
+·		tetrafluoretileno (7)
+Elastómeros de siliconas (cauchos de siliconas)
+a) Organopolisiloxanos lineales o ramificados con grupos metilo solamente o grupos N-alquilo (C2-C32), fenilo y/o grupos hidroxilo sobre el átomo de silicio y sus productos de condensación con polietilen y/o polipropilenglicol. (V) (VI)
+b) Organopolisiloxanos lineales o ramificados como en a) con adición de 5 % de hidrógeno y/o grupos alcoxi (C2-C4) y/o carboalcoxialquil y/o hidroxialquil-(C1-C3) como máx. sobre el átomo de silicio.(V)
+c) Organopolisiloxanos con grupos vinilo en el átomo de silicio. (V)
+Poliacrilato de etilo
+Polibutadieno (4)
+Policloropreno (1)
+Poliésteres derivados de la transesterificación de uno o más de los ésteres con uno o más de los alcoholes abajo mencionados:
+	ésteres
+ftalato de dimetilo
+isoftalato de dimetilo
+tereftalato de dimetilo
+	alcoholes
+1,4-butanodiol
+a-hidro-W-hidroxipoli(oxitetrametileno) (= polioxitetrametilenglicol)
+Poliésteres derivados de la reacción de tereftalato de dimetilo, 1,4-butanodiol y a-hidro-W-hidroxipoli(oxitetrametileno) (= polioxitetrametilenglicol), con adición de trimelitato de trimetilo (II) (IV)
+Poliepiclorhidrina (20)
+Polietileno clorosulfonado (III)
+Poliisobutileno
+Poliisopreno
+Poliuretanos derivados de los compuestos abajo mencionados:
+·		ácido adípico
+·		ácido azelaico
+·		ácido fumárico
+·		ácido isoftálico
+·		ácido itacónico
+·		ácido maleico (14)
+·		ácido mirístico
+·		ácido o-ftálico
+·		ácido sebácico
+·		ácido tereftálico (16)
+·		anhídrido adípico
+·		anhídrido azelaico
+·		anhídrido maleico (14)
+·		anhídrido sebácico
+·		azelato de dimetilo
+·		1,3-butanodiol
+·		1,4-butanodiol
+·		caprolactona
+·		1,4-ciclohexanodimetanol (= 1,4-bis(hidroximetil)ciclohexano)
+·		dietilenglicol (9)
+·		4,4'-diisocianato de diciclohexilmetano (19)
+·		2,4'-diisocianato de difenilmetano (19)
+·		4,4'-diisocianato de difenilmetano (19)
+·		4,4'-diisocianato de dimetilfenilo (19)
+·		diisocianato de hexametileno (19)
+·		4,4'-diisocianato del éter difenílico (19)
+·		1,5-diisocianato de naftaleno (19)
+·		2,4-diisocianato de toluileno  (19)
+·		2,6-diisocianato de toluileno  (19)
+·		2,4-diisocianato de toluileno, dimerizado  (19)
+·		2,2-dimetil-1,3-propanodiol (neopentilglicol)
+·		etilenglicol (9)
+·		glicerina
+·		hexametilendiamina (13)
+·		1,6-hexanodiol
+·		isocianato de ciclohexilo (19)
+·		isocianato de octadecilo (19)
+·		isoftalato de dimetilo
+·		óxido de etileno (21)
+·		óxido de propileno (22)
+·		pentaeritritol
+·		polietilenglicol
+·		poli(etilen-propilen)glicol
+·		polioxitetrametilenglicol
+·		polipropilenglicol
+·		1,2-propanodiol
+·		1,3-propanodiol
+·		sorbitol
+·		tereftalato de dimetilo
+·		trietilenglicol
+·		trimetilolpropano (10)
+·		tripropilenglicol
+
+
+PARTE I (b)
+RESTRICCIONES
+
+(1) Cloropreno: LME = 0,05 mg/kg
+(2) Acetato de vinilo: LME= 12 mg/kg
+(3) Acrilonitrilo: LME = 0,02 mg/kg
+(4) Butadieno: LME = 0,02 mg/kg
+(5) Cloruro de vinilideno: LME = 0,05 mg/kg
+(6) Hexaflourpropileno: LME = 0,01 mg/kg
+(7) Tetrafluoretileno: LME = 0,05 mg/kg
+(8) Acrilamida: LME = 0,01 mg/kg
+(9)  Mono y dietilenglicol (solos o combinados): LME = 30 mg/kg
+(10)  trimetilolpropano: LME = 6 mg/kg
+(11) N-Metilolacrilamida: LME = 0,01 mg/kg
+(12) Etilendiamina: LME = 12 mg/kg
+(13) Hexametilendiamina: LME = 2,4 mg/kg
+(14) Anhídrido maleico/ácido maleico: LME = 30 mg/kg (expresado como ácido maleico)
+(15) Clorotrifluoretileno: LME = 0,01 mg/kg
+(16) Ácido tereftálico: LME = 7,5 mg/kg
+(17) Cloruro de vinilo: LC = 1 mg/kg
+(18) Fluoruro de vinilideno: LC = 5 mg/kg
+(19) Isocianatos: LC = 1 mg/kg (expresado como isocianato)
+(20) Epiclorhidrina: LC = 1 mg/kg
+(21) Óxido de etileno: LC = 1 mg/kg
+(22) Óxido de propileno: LC = 1 mg/kg
+
+(I) Con no más de 5 % en peso de unidades poliméricas derivadas de dimetacrilato de etilenglicol.
+(II) Sólo para la elaboración de artículos destinados a uso repetido.
+(III) deberá cumplir las especificaciones de FDA 177.2210.
+(IV) sólo para productos alimenticios no alcohólicos y condiciones de uso que no sobrepasen los 62 °C.
+(V) En el producto terminado se podrá detectar (resto de catalizador) como máximo:
+Platino: 50 mg/kg.
+(VI) No pueden contener polisiloxanos cíclicos, que lleven junto con un grupo fenilo un átomo de hidrógeno próximo o sobre el mismo átomo de silicio un grupo metilo.
+
+(*) Sustancias para las cuales deben ser establecidos límites.
+
+
+PARTE II(a)
+LISTA POSITIVA DE AGENTES DE RETICULACIÓN PARA ELASTÓMEROS
+
+Ácido benzoico
+Ácido salicílico
+Ácidos grasos de tall oil
+Ácidos grasos obtenidos a partir de grasas y aceites alimenticios animales o vegetales
+Ácido(s) y sus sales de zinc:
+esteárico
+láurico
+mirístico
+palmítico
+Anhídrido ftálico
+Azufre, molido
+2- Benzotiacil- N,N-dietilditiocarbamilsulfuro (I)
+1,3- Bis (2-benzotiazolilmercaptometil)urea (I)
+2,5-bis-(terbutilperoxi)-2,5-dimetilhexano.(VI) (VII) (2)
+N-ter-Butil-2-benzotiazol sulfenamida (I)
+Carbamato de etilendiamina (I)
+Carbamato de hexametilendiamina (III)
+Carbamato de 4,4' Bis(aminociclohexil)metano (IV) (*)
+Carbonato de calcio
+Carbonato de magnesio
+Carbonato de zinc
+Cianoguanidina (= diciandiamida)
+N-Ciclohexil-2-benzotiazol-sulfenamida (I)
+Ciclohexiletilamina
+Dibencilditiocarbamato de zinc (I)
+Dibutilamina
+Dibutilditiocarbamato de cinc, cobre y de sodio (I) (3)
+Dietilamina
+Dietilditiocarbamato de sodio, cobre y zinc (I) (3)
+Difenilguanidina (I)
+1,3 Difenil-2-tiourea (I)
+Dimetilditiocarbamato de sodio, cobre y cinc  (I) (3)
+2,6 Dimetilmorfolina tiobenzotiazol (I)
+Dipentametilenditiocarbamato de zinc (I) (3)
+Disulfuro de caprolactama (VIII) (IX)
+Disulfuro  de tetraetiltiuram (VIII) (3)
+Disulfuro de tetrametiltiuram (VIII) (3)
+Disulfuro de dimetildifeniltiuram (VIII) (3)
+2,2' Di tio Bis(benzotiazol) (= Disulfuro de benzotiazol) (I)
+N,N'-Di-o-tolilguanidina (I)
+Ésteres del ácido alquil (C1-C8) silícico y ácido ortosilícico con alcoholes alifáticos monovalentes (C2-C4) con el monometiléter del etanodiol (metilglicol) y sus productos de condensación (VII) (VIII)
+Etilfenilditiocarbamato de Sodio, Cobre y Cinc (I) (3)
+Etilxantogenato de sodio y de zinc (I) (3)
+Formaldehído (1)
+Ftalato de difenilguanidina (I)
+Hexasulfuro de pentametilen tiuram (I) (3)
+Hexametilentetramina (I)
+Isopropilxantogenato de sodio y de zinc (I) (3)
+Mercaptobenzoimidazol y su sal de zinc (I)
+2- Mercaptobenzotiazol y su sal de zinc (I)
+Metil-tris-butilaminosilano (VI) (VII)
+Metil-tris-ciclohexilaminosilano (VI) (VII)
+Metil-tris-acetoxisilano (VI) (VII)
+Metil-tris-butanonoxisilano (VI) (VII)
+Metilxantogenato de sodio y de zinc (I) (3)
+Monosulfuro de tetrametiltiuram (I) (3)
+Oleato de dibutilamonio (II)
+Oleato estannoso (I) (V)
+N-Oxidietilen- benzotiazol- 2- sulfenamida (I)
+Óxido de aluminio
+Óxido de calcio
+Óxido de magnesio,
+Óxido de zinc
+Pentametilen-amonio-N-pentametilen-ditiocarbamato (3)
+Pentametilenditiocarbamato de cobre, potasio, sodio y zinc (I) (3)
+Pentametilen xantogenato de sodio y de zinc (I) (3)
+Peróxido de 2,4 diclorobenzoílo (I) (VI) (2)
+Peróxido de Benzoílo (I) (VI) (2)
+Peróxido de ter-butil cumilo.(VI) (2)
+Peróxido de di-ter-butilo (I) (2)
+Peróxido de dicumilo (I) (VI) (2)
+Peróxido de (1,1,4,4 tetrametiltetrametilen) bis ter-butilo (I) (2)
+Tetrasulfuro de dipentametilentiuram (VIII) (3)
+Tetrasulfuro de pentametilentiuram (VIII) (3)
+o-Tolilbiguanida (I)
+Trietanolamina (II) (*)
+Trifenilguanidina (I)
+
+
+PARTE II(b)
+RESTRICCIONES
+
+(I) Acelerantes: en total no deben exceder 1,5 % en peso del producto de elastómero.
+(II) En total no deben exceder 5% en peso.
+(III) Solamente para uso como agente reticulante en la vulcanización de copolímero de fluoruro de vinilideno- hexafluoropropileno- tetrafluoroetileno y limitado su uso a niveles que no excedan 1,5 % en peso de los copolímeros antes citados.
+(IV) solamente para uso como agente reticulante en la vulcanización de copolímero de fluoruro de vinilideno-hexafluoropropileno y copolímero de fluoruro de vinilideno- hexafluoropropileno- tetrafluoroetileno y limitado su uso a niveles que no excedan 2,4 % en peso de los copolímeros antes citados.
+(V) para usar sólo como acelerante para elastómeros de silicona.
+(VI) Pueden ser urtilizados en elastómeros de siliconas como máximo 0,2 % en conjunto.
+(VII) Para elastómeros de siliconas solamente.
+(VIII) En total máx. 3 % en su conjunto.
+(IX) Máximo 1,0 %.
+
+
+(1) formaldehido  LME = 15 mg/kg.
+(2) Peróxidos LME = 0,5 mg/dm2 o 3 mg/kg (expresado como oxígeno activo)
+(3) Ditiocarbamatos, tiuramos y xantogenatos: LME = 0,2 mg/dm2 (expresado como disulfuro de carbono)
+
+(*) Sustancias para las cuales deben ser establecidos límites,
+
+
+PARTE III (a)
+LISTA POSITIVA DE ADITIVOS PARA ELASTÓMEROS
+
+
+Aceite de colza o de soja vulcanizado con donantes de azufre para caucho
+Aceite de ricino (castor)
+Aceite de ricino deshidratado
+Aceite de soja epoxidado (I)
+Aceite mineral convencional (II)
+Aceite mineral hidrogenado (II)
+Aceites alimenticios de origen animal o vegetal
+Aceites de siliconas (VIII)
+Ácido algínico.
+Ácido araquídico.
+Ácido araquidónico.
+Ácido behénico.
+Ácido benzoico.
+Ácido caprílico.
+Ácido n-decanoico.
+Ácido erúcico.
+Ácido esteárico.
+Ácido gadoleico.
+Ácido 12-hidroxiesteárico.
+Ácido láurico.
+Ácido lignocérico.
+Ácido linoleico.
+Ácido linolénico.
+Ácido mirístico.
+Ácido oleico.
+Ácido palmítico.
+Ácido palmitoleico.
+Ácido pirofosfórico.
+Ácidos alquil (C8-C22) sulfúricos lineales primarios con número par de átomos de carbono.
+Ácidos grasos de "tall oil"
+Ácidos grasos obtenidos a partir de aceites o grasas alimenticios animales o vegetales.
+Ácidos montánicos y/o sus ésteres con etilenglicol y/o 1,3-butanodiol y/o glicerol
+Ácidos resínicos.
+Acrilato de 2,4-Di-ter-pentil-6-[1-(3,5-di-ter-pentil-2-hidroxi-fenil)etil]fenilo (*)
+Adipato de di-2-etilhexilo (*)
+Alcoholes monovalentes alifáticos saturados, lineales, primarios (C4-C24)
+Alcohol polivinílico
+Alcohol polivinílico parcialmente acetilado (XXVI)
+Algodón (copos, fibra, tela)
+Alquilarilsulfonatos de amonio, sodio y potasio
+n-Alquil(C12-C20)sulfonatos de amonio, potasio y sodio (VIII)
+Alquiléteres del polietilenglicol.
+Alquilariléteres del polietilenglicol.
+Amoníaco
+Azodicarbonamida (III)
+Behenamida
+Benzolsulfohidrazida (III)
+Bentonita
+1,2-Benzoisotiazolinona (XVI)
+2,5-Bis(5-ter-butil-2-benzoxazolil)tiofeno (*)
+Bis-3-(3-ter-butil-4-hidroxi-fenil)propionato de trietilenglicol (*)
+Bis-3-(3,5-di-ter-butil-4-hidroxi-fenil) propionato de hexilo (VIII)
+N,N'-Bis-(3-(3,5-di-ter-butil-4-hidroxi-fenil)propionil)hidrazida (VIII)
+Bis-2-etil-hexil-tioglicolato de di-n-octil-estaño (VIII)
+2,6-Bis-(2-Hidroxi-3-nonil-5-metil-bencil) p-cresol (XXVIII) (XXX)
+2,4-Bis(octil-mercapto)-6-(4'-hidroxi-3',5'-diterbutilanilina)-1,3,5-triazina
+2,4-Bis(octil-tiometil)-6-metil-fenol (*)
+Butilhidroxianisol (= 2- y 3-terbutil-4-hidroxianisol = BHA)
+Butilhidroxitolueno (=2,6-diterbutil-p-cresol = BHT)
+4,4'-Butiliden-bis (6-terbutil-m-cresol) (V) (*)
+4-Ter-butil-o-tiocresol (XII)
+4-Ter-butiltiofenato de zinc (XII)
+Caolín
+Carbonatos de aluminio, amonio, calcio, hierro, magnesio, potasio, sodio y zinc y sus sales dobles y sales ácidas.
+Carboximetilcelulosa
+Carboximetilcelulosa sódica.
+Caseína
+Cera carnauba
+Cera ceresina
+Cera de parafina sintética (VIII)
+Cera de petróleo (VIII)
+Cera de petróleo sintética (VIII)
+Cera de polietileno oxidado (VIII)
+Cera de polietileno (VIII)
+Cera japonesa
+Cera montana
+Cera ozocerita
+N-Ciclohexil-N'-fenil-p-fenilendiamina (XXI)
+Colofonia y colofonia hidrogenada, isomerizada, polimerizada, descarboxilada
+Condensado formaldehído-toluensulfonamida (XXIV)
+Condensado formaldehído-naftalensulfonato de sodio (XIV) (XX)
+Copolímero anhídrido maleico-estireno
+Copolímero anhídrido maleico-estireno, ésteres parciales de metilo y sec- o iso-butilo (XXIII)
+Copolímeros estireno-acrilonitrilo (VI)
+Cresoles estirenados y butilados (VII)
+Dibenzamida difenil disulfuro (XIX)
+Dietilenglicol (VIII)
+Difenilamina estirenada (V) (XXX)
+N,N'-Di-b-naftil-p-fenilendiamina (XXI)
+Dioctilsulfosuccinato de sodio
+Dióxido de titanio
+3,5-diterbutil-hidroxibencilfosfonato de monoetilo, sal de calcio (= Ácido 3,5-di-ter-butil-4-hidroxibencilfosfónico, éster monoetílico, sal de calcio) (*)
+3-(3,5-diterbutil-4-hidroxi-fenil)propionato de octadecilo (VIII)
+1,4-Ditridecil sulfosuccinato de sodio (*)
+Dodecilbencenosulfonato de amonio, potasio y sodio
+Erucamida (= amida del ácido erúcico)
+Estearamida (= amida del ácido esteárico)
+Estearato de butilo
+Éster del ácido 3,5-diterbutil-4-hidroxi-fenil-propiónico con 1,3,5-tris(2-hidroxietil)-s-triazina-2,4,6-(1H,3H,5H) triona (VIII)
+Ésteres de ácidos grasos naturales con polietilenglicol
+Ésteres de colofonia con:
+4,4'-sec-butilidendifenol-epiclorhidrina (epoxi) (XX)
+dietilenglicol  (XX)
+etilenglicol (XX)
+glicerol
+4,4´-isopropilidendifenol-epiclorhidrina (epoxi) (XX)
+metanol (XX)
+pentaeritritol
+y sus modificaciones con:
+anhídrido maleico
+resinas fenólicas derivadas de los fenoles enumerados a continuación y formaldehído: (XX)
+p-ter-amilfenol
+p-ter-butilfenol
+			o-ter-butilfenol
+			o-, m- y p-cresol
+			p-ciclohexilfenol
+			p-nonilfenol
+			p-octilfenol
+			3-pentadecilfenol (mezcla) (XXV)
+			p-fenilcresol
+			p-fenilfenol
+			xilenol
+Éster de colofonia hidrogenada con:
+glicerol
+metanol
+	pentaeritritol
+N,N'-Etileno-bis-estearamida (= bis estearato de etilendiamina)
+N,N'-Etileno-bis-oleamida (= bis oleato de etilendiamina)
+N,N'-Etileno-bis-palmitamida (= bis palmitato de etilendiamina)
+Etileno-N-palmitamida-N'-estearamida
+Etiltoluensulfonamida (XXIV)
+o-Fenilfenol y su sal de sodio (VIII)
+p-Fenilfenol (*)
+N-Fenil-N'-(1,3-dimetibutil)-p-fenilendiamina (XXI)
+Fenoles y/o cresoles condensados con estireno y/o a-metilestireno y/o olefinas C3-C12 (V) (*)
+Fosfito de tris(2,4-di-terbutil-fenilo)
+Ftalato de dibutilo (VIII)
+Ftalato de didecilo (VIII)
+Ftalato de diisodecilo (VIII)
+Ftalato de diisooctilo (VIII)
+Ftalato de dioctilo (= ftalato de di-2-etilhexilo) (VIII)
+Goma arábiga
+Goma guar
+Goma karaya
+Goma tragacanto
+Goma xántica
+Grafito
+1,6-Hexametileno-bis-(3-(3,5-di-terbutil-4-hidroxi-fenil)propionamida) (*)
+Hidróxidos de aluminio, amonio, calcio, potasio, magnesio y zinc.
+2-(2'-Hidroxi-5'-metilfenil)benzotriazol (VIII)
+2-(2'-Hidroxi-3'-terbutil-5'-metilfenil)-5-cloro-benzotriazol (VIII)
+2-(2'-Hidroxi-5'-ter-octilfenil)benzotriazol (*)
+Lanolina
+Lecitina
+Lignosulfonato de sodio y calcio.
+Lignosulfonato de bario (X) (XX)
+Linoleamida (amida del ácido linoleico)
+Metilcelulosa
+2,2'-metilen bis(6-(1-metil-ciclohexil)-p-cresol (= 2,2'-metilen bis (4-metil-6-
+(1-metil-ciclohexil)fenol)) (XXX)
+2,2'-metilen bis(4-metil-6-ciclohexilfenol) (XXX)
+2,2'-metilen bis (4-metil-6-nonilfenol) (V) XXX)
+2,2'-metilen bis (4-metil-6-octilfenol) (XXX)
+2,2'-metilen bis (4-metil-6-terbutilfenol) (XXX)
+2,2'-metilen bis (4-etil-6-terbutilfenol) (XXX)
+Mica
+Monoacrilato de 2,2'-metilen bis (4-metil-6-terbutilfenol) (=2-terbutil-6-(3-terbutil-2-hidroxi-5-metilbencil)4-metilfenilacrilato) (V) (XXX)
+Monoestearato de polietilenglicol sorbitano
+Monolaurato de polietilenglicol sorbitano
+Monooleato de polietilenglicol sorbitano
+Monopalmitato de polietilenglicol sorbitano
+Mono y dioctildifenilamina (V) (*)
+Negro de humo (IX)
+Nitrato de amonio y de calcio
+Nitrito de sodio (XV)
+2-n-Octiltio-4,6-bis-((4'-hidroxi-3',5'-di-terbutil)fenoxi)-1,3,5-triazina (*)
+Oleamida
+2,2'-Oxamidobis-(etil-3-(3,5-di-ter-butil- 4-hidroxifenil)propionato)
+4,4'-Oxibis(bencen sulfonil hidracida) (XII) XX)
+Óxido de calcio
+Óxido de hierro
+Óxido de magnesio
+Óxido de zinc
+Palmitamida (amida del ácido palmítico)
+Pentaclorotiofenato de zinc (XXVII)
+Poliacrilato de amonio, sodio o potasio
+Poliésteres descriptos en la Lista Positiva de polímeros y resinas para envases y equipamientos plásticos en contacto con alimentos
+Polimetacrilato de amonio, sodio o potasio
+Poliamidas (copos, fibra, tela) (VI)
+Polibuteno
+Polidimetilsiloxano
+Poliestireno
+Polietilenglicol
+Polietileno
+Poli(etilen-propilen)glicol
+Polioxialquil (C2-C4)dimetilpolisiloxano
+Polipropilenglicol
+N,N-Propanediil-bis-(3,5-diterbutil-4-hidroxi-fenilpropionamida) (XIV)
+Productos de reacción de p-Cresol con isobutileno y diciclopentadieno (XXII)
+Propilenglicol
+Resina de hidrocarburos de petróleo, producida por la polimerización catalítica y la subsiguiente hidrogenación de estireno, viniltolueno e indeno de destilados de residuos de craqueo de petróleo. (XV)
+Resina de hidrocarburos de petróleo, hidrogenada (tipo ciclopentadieno)
+Resina maleica, modificada con colofonia y ácido abiético
+Resinas de copolímeros de a-metilestireno-viniltolueno (*)
+Resinas de copolímeros de a-metilestireno-viniltolueno, hidrogenadas (*)
+Resinas de cumarona-indeno (*)
+Resina de policloruro de vinilo (VI)
+Resinas fenólicas derivadas de los fenoles enumerados a continuación y formaldehído:
+fenol
+cresoles
+resorcina
+xilenol
+Resinas melamina-resorcina-formaldehído
+Resinas terpénicas de: (XV)
+dipenteno
+a-pineno
+b-pineno
+Resinas xileno-formaldehído (*)
+Sebacato de dibutilo (*)
+Sebacato de dioctilo (= sebacato de di-2-etilhexilo) (*)
+Silicatos y silicatos hidratados de aluminio, calcio y magnesio
+Silicatos naturales
+Sílice y sílice hidratada
+Sorbato de potasio
+Sulfato de bario (X)
+Sulfatos de aluminio, amonio, calcio, hierro, magnesio, potasio, sodio y zinc y sus sales dobles y sales ácidas.
+Sulfito de sodio
+Tetraestearato de polietilenglicol sorbitano
+Tetrakis-(3-(3,5-diterbutil-4-hidroxifenil)propionato) de pentaeritritol (= tetrakis[metilen(3,5-di-ter-butil-4-hidroxi-hidrocinamato)]-metano)
+4,4'-Tiobis (6-ter-butil-m-cresol) (= 4,4'-tio-bis(3-metil-6-ter-butil-fenol-1)) (XXIX)
+Tiodietanol bis (3(3,5-diterbutil-4-hidroxifenil)propionato (*)
+Tiodipropionato de dicetilo (XIII)
+Tiodipropionato de diestearilo (XIII)
+Tiodipropionato de dilaurilo (XIII)
+Tiodipropionato de dipalmitilo (XIII)
+Tioxilenoles(XI)
+Triestearato de polietilenglicol sorbitano
+Trietanolamina (*)
+1,3,5-Trimetil-2,4,6-tris-(3',5'-diterbutil-4'-hidroxibencil)benceno
+Trioleato de polietilenglicol sorbitano
+Trióxido de antimonio (*)
+1,3,5-Tris(3,5-di-terbutil-4-hidroxibencil)-1,3,5-triazina-2,4,6-(1H,3H,5H)
+triona (*)
+1,1,3-Tris(2-metil-4-hidroxi-5-terbutil-fenil)butano (*)
+Urea
+
+
+PARTE III (b)
+Restricciones
+(I)		Con número de iodo inferior a 8 y contenido de oxígeno oxiránico de 6 a 7 %.
+(II)	Deberá cumplir las especificaciones de FDA 178.3620
+(III)	Sólo como agente esponjante. Máximo 3,0 %.
+(IV)	Deberán cumplir las exigencias de las reglamentaciones MERCOSUR para ceras y parafinas en contacto con alimentos.
+(V)	Sólo para la fabricación de objetos de uso repetido y no en contacto con alimentos que contengan grasas o aceites.
+(VI)	Deberán cumplir las reglamentaciones MERCOSUR para materiales plásticos en contacto con alimentos.
+(VII)	Deberán cumplir las exigencias de FDA 178.2010 (b).
+(VIII)	Para alimentos con un contenido de grasas superior al 5 % sólo se permite su uso en cantidades inferiores al 5 % en peso del material elastomérico.
+(IX)	Deberá cumplir las exigencias de la Resolución MERCOSUR Nº 28/93.
+(X)	Bario soluble en ácido clorhídrico 0,1 N: como máximo 0,01 %.
+(XI)	Sólo como agente peptizante para objetos de uso repetido.
+(XII)	Como máximo 0,5 % en peso del material elastomérico.
+(XIII)	Para la elaboración de objetos de uso repetido y como máximo 0,6 % en peso
+(XIV)	Máximo 0,6 % y para la fabricación de objetos de uso repetido.
+(XV) Sólo para guarniciones anulares aplicadas en dispersiones acuosas para contenedores de capacidad mayor que 20 litros.
+(XVI) Máximo 0,2 % en peso.
+(XVII) Sólo para guarniciones y compuestos de cierre: máximo 0,05 %.
+(XVIII) Sólo para guarniciones y compuestos de cierre: 0,5 %
+(XIX) Sólo para cauchos naturales o sintéticos vulcanizados para guarniciones y compuestos de cierre.
+(XX) Sólo para guarniciones y compuestos de cierre.
+(XXI) Sólo para artículos de uso repetido, con un tiempo de contacto menor a 10 minutos con el alimento y como máximo 1,5 %.
+(XXII) Máximo 1,4 % y no para contacto con alimentos que contengan grasas o aceites.
+(XXIII) Sólo para cementos de costura lateral de envases metálicos y como máx. 3 % en peso.
+(XXIV) Sólo para cementos de costura lateral de envases metálicos.
+(XXV) Mezcla obtenida del líquido de cáscara de anacardo.
+(XXVI) Con menos de 20 % de grupos acetilo.
+(XXVII) Máximo 0,3 %.
+(XXVIII) Máximo 0,1 % en peso.
+(XXIX) Sólo para cauchos etileno-propileno y como máximo 0,25 %
+(XXX) Máximo 1,0 % en conjunto.
+
+(*) Sustancias para las cuales deben ser establecidos límites y/o restricciones.
+
+
+PARTE IV
+ADHESIVOS DESTINADOS AL CONTACTO DIRECTO CON LOS ALIMENTOS
+
+1.	Los adhesivos sensibles a la presión elaborados a partir de las sustancias mencionadas en este ítem pueden ser usados en la superficie de contacto de rótulos o autoadhesivos con aves de corral, alimentos secos y frutas o vegetales procesados, congelados, secos o parcialmente deshidratados.
+Se deberá cumplir con las restricciones indicadas con números romanos e indicadas en  el ítem 3.- de esta Parte.
+1.1. Sustancias de uso permitido en alimentos, siempre que cumplan con las exigencias correspondientes.
+1.2. Colorantes permitidos por las reglamentaciones MERCOSUR para uso en o sobre los alimentos.
+1.3.  Las siguientes sustancias
+	Ácido esteárico (III)
+4-[[4,6-Bis(octiltio)-s-triazina-2-il]amino]-2,6-di-tert-butilfenol (XI)
+Butilhidroxianisol (= 2- y 3-terbutil-4-hidroxianisol = BHA)
+Butilhidroxitolueno (=2,6-diterbutil-p-cresol = BHT)
+	Caucho butadieno-estireno (V)
+    Cera de salvado de arroz
+    Ceras de petróleo sintéticas (VII)
+	Ceras de petróleo. (VII)
+	Copolímero isobutileno-isopreno (caucho butilo) (V)
+  Estearato de sodio y potasio (III)
+Éster de colofonia de madera o goma de colofonia con pentaeritritol (III)
+Éster de colofonia de madera o goma de colofonia parcialmente hidrogenada con pentaeritritol (III)
+  Éster glicérido de colofonia de madera (III)
+Éster glicérido de colofonia de madera o goma de colofonia parcialmente hidrogenada (III)
+  Éster glicérido de colofonia parcialmente dimerizada (III)
+  Éster glicérido de colofonia polimerizada (III)
+Éster glicérido de goma de colofonia (III)
+Éster glicérido de "tall oil" (III)
+Éster metílico de colofonia parcialmente hidrogenada (III)
+Ésteres del ácido gálico  (III)
+	Parafina sintética (VII)
+Poliacetato de vinilo (X)
+Polietileno (VIII)
+Polietileno oxidado (I)
+Poliisobutileno (IX)
+Sustancias masticatorias naturales de origen vegetal (coaguladas o látices concentrados) (VI)
+
+	Lanolina
+	Sulfato de sodio
+
+2. Los adhesivos sensibles a la presión preparados a partir de una de las sustancias o de una mezcla de dos o más de las sustancias listadas en este ítem pueden ser usados en la superficie de contacto de rótulos y/o autoadhesivos aplicados sobre frutas y vegetales frescos y huevos in natura.
+Se deberá cumplir con las restricciones indicadas con números romanos en negrita e indicadas en  el ítem 3. de esta Parte de la Lista.
+2.1. Sustancias listadas en el ítem 1. de esta Parte de la Lista.
+2.2. Sustancias listadas a continuación:
+Aceite de colza, vulcanizado.
+Antioxidantes permitidos en los alimentos y cumpliendo con las restricciones que rigen para alimentos.
+Caucho butilo (V)
+Caucho natural (V)
+Caucho natural clorado (V)
+Clorhidrato de caucho (V)
+Copolímero butadieno-acrilonitrilo (V)
+Copolímero butadieno-acrilonitrilo-estireno (V)
+Copolímero butadieno-estireno (V)
+Copolímero isobutileno-estireno (V)
+Etilendiaminotetraacetato tetrasódico.
+Petrolato (IV)
+Polibuteno, hidrogenado (II)
+Polibuteno-1 (V)
+Poliestireno (V)
+Poliisobutileno (V)
+cis-1,4-Poliisopreno (V)
+Resinas colofonia y derivados (III)
+Resinas terpénicas (a- y b- pineno), homopolímeros, copolímeros, y condensados con fenol, formaldehído, cumarona y/o indeno.(*)
+Tris (mezcla de mono- y di-nonilfenil) fosfito (I)
+
+3. RESTRICCIONES:
+
+(I) Deberá cumplir las especificaciones de las Reglamentaciones MERCOSUR sobre aditivos para envases y equipamientos plásticos.
+(II) Deberá cumplir las especificaciones de FDA 178.3740 (b)
+(III) Deben cumplir las especificaciones de FDA 172.615
+(IV) Deberá cumplir las especificaciones de FDA 172.880
+(V) Los polímeros deberán cumplir las reglamentaciones MERCOSUR correspondientes a envases y equipamientos en contacto con alimentos.
+(VI) Se permitirán las descriptas en FDA 172.615.
+(VII) Deberán cumplir con las reglamentaciones MERCOSUR sobre ceras y parafinas.
+(VIII) PM entre 2000 y 21000. Deberán cumplir con las exigencias del Food Chemical Codex.
+(IX) PM mínimo 37000 (Flory). Deberán cumplir con las exigencias del Food Chemical Codex.
+(X) PM mínimo 2000. Deberán cumplir con las exigencias del Food Chemical Codex.
+(XI) Como antioxidante/estabilizador a un nivel que no exceda el 1,5 % en peso del adhesivo terminado.
+
+
+1

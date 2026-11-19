@@ -1,0 +1,31 @@
+Resolución GMC N° 25/94
+Título: INTERFACES DE TRANSMISION DIGITAL PDH
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 25386_RES_025-1994_ES_TransDigitPDH.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1855).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES N° 25/94
+
+INTERFACES DE TRANSMISION DIGITAL PDH
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, la Resolución N° 43/93 del Grupo Mercado Común y la Recomendación Nº 17/93 del Subgrupo de Trabajo N° 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que el Reglamento Técnico aprobado no contiene el numeral 4.5, el que sí consta en el Proyecto elevado por el SGT Nº 3 "Normas Técnicas.
+
+Que se hace necesario introducir en la redacción del numeral 3.3 del precitado Reglamento Técnico de la Resolución Nº 43/93 del GMC.
+
+EL GRUPO MERCADO COMUN
+RESUELVE
+
+Art.1. Incorporar al numeral 4 "Características da Interface de Transmissão Digital a 2.048 kbits/s" del Reglamento Técnico MERCOSUR "Especificaciones Generales de Interfaces de Transmisión Digital para Sistemas de Jerarquía Plesiócrona (PDH)", aprobado por Resolución Nº 43/93 del GMC el siguiente texto:
+
+"4.5 A estrutura de multiquadro e a alocação dos canais de sinalização devem atender o especificado no item 5 da Recomendação G-704 (Livro Azul)".
+
+Art. 2. Modificar el numeral 3.3, inciso e), el cual quedará redactado de la siguiente forma:
+
+“e) A deteção de falha é obrigatória para o sinal de relógio e opcional para o circuito de dados, neste caso resguardado o previsto no inciso b) acima".

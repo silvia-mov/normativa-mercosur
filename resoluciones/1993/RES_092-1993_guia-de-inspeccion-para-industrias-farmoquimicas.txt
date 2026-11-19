@@ -1,0 +1,719 @@
+Resolución GMC N° 92/93
+Título: GUÍA DE INSPECCIÓN PARA INDUSTRIAS FARMOQUÍMICAS
+Fecha de aprobación: 14/01/1994
+Vigencia: Derogada (Derogada por la Res. GMC Nº 13/96.)
+Idioma del texto: ES
+Archivo original: 37901_RES_092-1993_ES_Guía inspec.para ind.farmoquímicas_Acta_04_93.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2413).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 92/93
+
+
+GUIA DE INSPECCION PARA INDUSTRIAS FARMOQUIMICAS
+
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, la Resolución Nº 18/92 y Nº 58/92 del Grupo Mercado Común, y la Recomendación Nº 59/93 del Subgrupo de Trabajo Nº 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los Estados Partes armonizaron y aprobaron el contenido del Documento "Guía de Inspección para Industrias Farmoquímicas".
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. Aprobar el Reglamento Técnico sobre "Guía de Inspección para Industrias Farmoquímicas" que consta como Anexo I y II a la presente Resolución.
+
+Art. 2. Los Estados Partes utilizarán esta normativa para dar cumplimiento a la presente Resolución e informarán la forma en que la misma será aplicada al Grupo Mercado Común a través de la Secretaría Administrativa.
+
+
+XII GMC, Montevideo, 14/I/1994.
+
+
+INDICE
+
+1. INFORMACIONES GENERALES
+2. PERSONAL
+3. INSTALACION Y EDIFICIOS
+4. EQUIPOS
+5. HIGIENE Y SANITAZACION
+
+6. DOCUMENTACION
+6.A. FORMUALCION PATRON
+6.B. DOCUMENTACION DE LOTES
+6.C. ARCHIVO DE REGISTROS
+
+7.	DEPOSITOS
+
+8. PROCEDIMIENTOS DE PRODUCCION
+
+8.A.	MATERIAS PRIMAS
+8.B. 	PROCESOS
+	8.B.A.	FARMOQUIMICOS OBTENIDOS POR FERMENTACION
+	8.B.B.	FARMOQUIMICOS OBTENDIOS POR EXTACCION
+	8.B.C.	FARMOQUIMICOS OBTENIDOS POR SINTESIS QUIMICA
+	8.B.C.	FARMOQUIMICOS ESTERILES
+8.C.	PRODUCTOS INTERMEDIOS
+8.D.	PRODUCTOS FARMOQUIMICOS TERMINADOS
+8.E.	EMBALAJE Y ROTULACION
+8.F.	ALMACENAMIENTO Y DISTRIBUCION
+
+9. CONTROL DE CALIDAD
+9.A.	GENERAL
+9.B.	ESTUDIOS DE ESTABILIDAD
+9.C.	AUTOINSPECCION Y AUDITORIA DE CALIDAD
+
+10. RECLAMOS Y DESVIOS DE CALIDAD
+10.A.	RETIROS DEL MERCADO
+10.B.	MATERIALES RECHAZADOS
+10.C.	DEVOLUCIONES
+
+11. SEGURIDAD
+
+12.	TRATAMIENTO DE EFLUENTES
+
+LA EMPRESA DEBERÁ PRESENTAR LOS DOCUMENTOS COMPROBATORIOS QUE LE SEAN SOLICITADOS
+
+1. Informaciones Generales
+
+1.1. Razón social de la Empresa:
+1.2. Domicilio legal:
+1.3. Domicilio de la Planta:
+1.4. Nombre del Representante Legal o equivalente:
+1.5. Nombre del Responsable Técnico:
+1.5.1. Prueba de su inscripción en el organismo competente:
+1.6. Autorización de funcionamiento:
+Nacional:
+Provincial:
+Municipal:
+Otros:
+
+1.7. Motivo de la inspección:
+1.8. Nombre de la Persona entrevitada	Cargo
+
+.................................................................		.......................................................
+.................................................................		.......................................................
+.................................................................		.......................................................
+
+
+1.9 Productos farmoquímicos fabricados por la empresa:
+
+
+USO
+NOMBRE GENERICO
+CAS (*)
+VETERINARIO
+HUMANO
+
+
+1.10. ¿Posee la empresa contratos con terceros?
+1.10.1. ¿Para qué actividades?
+1.10.2. ¿Cuáles son estas empresas?
+
+(*) De no haber número CAS, hacer referencia a Farmacopea u otra bibliografía adecuada.
+
+
+2. Personal
+
+2.1.¿ Cuál es el número de empleados de la empresa?
+2.1.1. Administrativos ............................................................
+2.1.2. Profesionales ..............................................................
+2.1.3. Técnicos......................................................................
+2.1.4. Operarios ....................................................................
+2.1.5. Otros ..........................................................................
+
+2.2. ¿Existe un organigrama de la empresa?
+2.3. ¿Existe descripción de cargos y funciones?
+2.4. ¿Están claramente definidas las responsabilidades para cada actividad?
+2.5. ¿El responsable técnico se encuentra presente?
+2.6. Responsable de la producción:
+Nombre: ...................................................................
+Profesión: ................................................................
+Cargo: .....................................................................
+2.7. Responsable del Control de Calidad
+Nombre: ..................................................................
+Profesión: ...............................................................
+Cargo: ....................................................................
+2.8. ¿Existen programas de entrenamiento inicial y continuo para los empleados?
+2.9. ¿Existen registros y evaluaciones de los resultados de los entrenamientos?
+2.10. ¿Es precedida de exámenes médicos la admisión de los empleados?
+2.10.1. ¿Existen registros?
+2.11. ¿Existen previsiones de asistencia médica permanente y de emergencia para los empleados?
+2.12. ¿Existe examen médico periódico para empleados que actúan en áreas donde puedan contraer enfermedades profesionales?
+2.13. Si un empleado manifiesta lesiones o alguna enfermedad que pueda arriesgar la calidad o la seguridad de los productos, es excluido de la actividad?
+2.13.1. ¿Existe una norma interna que establezca quién decide la exclusión temporaria del empleado?
+2.14. ¿Existe enfermería?
+
+3. Instalaciones y Edificios.
+
+3.1. ¿La unidad de fabricación tiene finalidad multipropósito?
+3.2. ¿El tipo de construcción es adecuado para la producción de farmoquímicos?
+3.3. ¿Se elaboran productos estériles u otros que requieran áreas aisladas y separadas?
+3.3.1. Dispone de tales áreas?
+3.3.2. ¿Son adecuadas para su destino?
+3.3.3. ¿Poseen sistema de flujo de aire independiente?
+
+3.4. ¿Cuál es el área total del terreno?
+3.5. ¿Cuál es el área total construida?
+3.6. ¿Están limpios los accesos y áreas descubiertas?
+3.7. ¿Las vías de acceso son adecuadas?
+3.8. ¿Existen sanitarios en cantidad suficiente?
+3.8.1. ¿Están limpios y bien equipados?
+3.9. ¿Existen vestuarios en cantidad suficientes?
+3.9.1. ¿Están limpios y bien equipados?
+3.10. ¿Existe restaurante?
+3.10.1. Si no existe, ¿dónde se realizan las comidas?
+3.11. ¿Los edificios externamente se encuentran en buen estado de conservación?
+3.12. ¿Las paredes, pisos y techos están construidos con materiales adecuados a los procesos de fabricación?
+3.13. ¿Las paredes, pisos y techos están construidos con materiales fácilmente lavables?
+3.14. ¿Los desagües y cañerías se encuentran en buen estado de conservación?
+3.15. ¿Tienen sifón los desagües?
+3.16 ¿Están las instalaciones de almacenamiento y distribución de agua y otros fluidos adecuadamente identificados y en buen estado de conservación?
+3.17. ¿La calidad e intensidad de la iluminación son adecuadas?
+3.18. ¿La ventilación de las áreas productivas y de circulación es adecuada?
+3.19. ¿La extracción de aire de los locales es la adecuada?
+3.20. ¿La temperatura de los locales condice con las operaciones en ellos ejecutadas?
+3.21. ¿Las instalaciones eléctricas se encuentran en buen estado de conservación y seguridad?
+3.22. ¿La distribución de áreas es adecuada?
+3.23. ¿La construcción y la localización de las áreas permiten adecuada limpieza y mantenimiento de las mismas?
+3.24. ¿Se consigue evitar la posibilidad de contaminación cruzada de un área a otra?
+3.25. ¿Las cañerías de distribución de agua, vapor, gas, aire comprimido, electricidad y otros están correctamente identificadas?
+3.25.1. ¿Están en buenas condiciones de limpieza y mantenimiento?
+3.26. La protección contra la entrada de insectos, roedores, aves u otros animales, ¿se adecua con el tipo de materiales manipulados?
+
+4. Equipos
+
+4.1. ¿Están los equipos de fabricación diseñados, construidos y ubicados de manera que:
+4.1.1. sean apropiados para el uso al que están destinados?
+4.1.2. sean de fácil limpieza?
+4.1.3. minimicen el riesgo de contaminación durante el proceso?
+4.1.4. posibiliten una operación eficiente?
+
+4.2. ¿Los equipos de producción tienen función multipropósito?
+4.2.1. En caso afirmativo, ¿existen procedimientos, registros y criterios de aceptación del proceso de limpieza?
+
+4.3. ¿Existen especificaciones de los equipos esenciales?
+4.4. ¿Existen procedimientos escritos para los equipos de producción y control en lo referente a:
+a) limpieza?
+b) esterilización cuando fuera necesario?
+c) uso?
+d) mantenimiento?
+
+4.4.1. ¿Se cumplen?
+4.4.2. ¿Existen registros?
+
+4.5. ¿Existen procedimientos escritos para la calibración de los equipos de medición, registros y control?
+
+4.5.1. ¿Se cumplen?
+4.5.2. ¿Existen registros?
+4.6. De haber equipos defectuosos, ¿se encuentran identificados como tales?
+
+5. Higiene y Sanitización
+
+5.1. ¿Existen procedimientos escritos referidos a prácticas de higiene personal?
+5.1.1. ¿Se cumplen?
+5.1.2. ¿Están contemplados en el plan de entrenamiento periódico del personal?
+5.2. ¿Está especificada la calidad del agua empleada en la ingestión e higiene?
+5.2.1. ¿Es controlada?
+5.2.2. ¿Existen registros?
+5.3. ¿Tienen los empleados vestimenta acorde a las tareas que realizan?
+5.4. ¿Se encuentra la vestimenta limpia y en buenas condiciones de conservación?
+5.5. Cuando es necesario, ¿existe un programa de limpieza para esta vestimenta?
+5.6. ¿Existen recipientes destinados a desechos?
+5.6.1. ¿Están tapados, identificados y son vaciados con frecuencia?
+5.7. ¿Existen normas escritas e indicaciones de prohibición de comer, beber y fumar en las áreas de fabricación?
+5.8. ¿Existen programas de sanitización?
+5.8.1. ¿Con qué secuencia se ejecutan?
+5.8.2. ¿Los materiales o métodos usados son aprobados por los organismos sanitarios?
+
+
+6. Documentación.
+
+6.A. Fórmula Patrón
+6.A.1. ¿Existe Fórmula Patrón para cada producto que se fabrica?
+6.A.2. ¿Las Fórmulas Patrón son redactadas, controladas, aprobadas, fechadas y firmadas por personas calificadas y autorizadas?
+6.A.3. ¿Las Fórmulas Patrón contienen:
+a) nombre y/o código del patrón?
+b) tamaño del lote?
+c) listado de materias primas y materiales a emplearse, sus especificaciones y cantidades?
+d) la calidad del agua utilizada en el proceso de limpieza y producción?
+e) el rendimiento final esperado con sus límites aceptables, tanto del producto final como de los intermedios relevantes?
+f) descripción de los equipos utilizados y requisitos de su preparación previa, si fuera necesario?
+g) instrucciones de fabricación detallada paso a paso?
+h) instrucciones sobre controles de proceso y sus límites de aceptabilidad?
+i) instrucciones para embalaje, identificación y almacenamiento del producto obtenido?
+j) especificaciones del producto terminado?
+6.A.4. ¿Existen procedimientos escritos para la modificación de la Fórmula Patrón?
+6.A.4.1. ¿Las correcciones de las Fórmulas Patrón están autorizadas y firmadas?
+6.A.4.2. ¿Las Fórmulas Patrón corregidas son rápidamente reemplazadas por una nueva Fórmula Patrón?
+6.A.5. ¿Las Fórmulas obsoletas se identifican como tales y se archivan como documento de referencia?
+6.A.6. ¿Existe un proceso de copia fiel de la Fórmula Patrón que asegure su exacta reproducción?
+6.A.7. ¿Existe un archivo ordenado y seguro para las matrices de la Fórmula Patrón?
+
+6.B. Documentación de Lotes
+
+6.B.1. ¿Existe un registro de fabricación para cada lote?
+6.B.1.1. ¿Quién es el responsable de su emisión?
+6.B.1.2. ¿Contiene las partes relevantes de la Fórmula Patrón?
+6.B.2. ¿El registro de fabricación contiene:
+a) nombre del producto o etapa de la fabricación, tamaño y número del lote?
+b) fechas de las diferentes etapas de la producción?
+c) detalles de la producción, incluyendo referencias a los principales equipos utilizados y rendimientos?
+d) el número de lote o número de referencia (o número de control analítico) de las materias primas y productos intermedios utilizados en la producción y material de embalaje?
+e) un registro de los controles efectuados y de los resultados obtenidos con los límites de aceptabilidad?
+f) detalle de cualquier desvío de la Fórmula Patrón con su autorización firmada?
+g) cualquier material recuperado y los procedimientos aplicados?
+h) inicialización por los operarios y firma de la persona responsable de las operaciones de producción, con la fecha de la firma?
+i) todos los registros analíticos relativos al lote o una referencia para acceder a los mismos?
+j) la decisión para la aprobación o rechazo del lote con la fecha y firma de la persona responsable?
+k) plazo de validez y/o fecha de reanálisis, cuando es aplicable?
+6.B.3. ¿Son revisados los registros de fabricación?
+6.B.4. ¿Cualquier desvío fortuito, divergencia o falla es cuidadosamente investigada?
+6.B.5. ¿La investigación, si fuera necesaria, es extendida a otros lotes del mismo producto que puedan estar asociados?
+6.B.6. ¿Se registran los resultados de la investigación con las conclusiones y providencias tomadas?
+6.B.7. Si hubiere un convenio con terceros para el empleo de elementos de producción y control, ¿se asienta este hecho en el registro del lote?
+6.B.8. Una vez finalizado el proceso de fabricación, ¿la documentación del lote es archivada? Por cuanto tiempo?
+
+6.C. Archivo de Registros
+
+6.C.1. ¿Existen registros que permitan rastrear las actividades concernientes a la producción y el control de calidad de los productos que se elaboran?
+6.C.2. ¿Los registros de los productos elaborados se conservan hasta por lo menos un año después del período de validez?
+6.C.3. Cuando no hay período de validez especificado, ¿se conservan por un lapso no menor a cinco años?
+6.C.4. ¿Quién es el responsable del archivo de registros?
+
+7. Depósitos.
+
+7.1. ¿Los materiales utilizados son identificados y almacenados de modos de prevenir el daño, contaminación, mezcla o pérdida de los mismos?
+7.2. ¿Existen procedimientos escritos que describan las condiciones necesarias para el almacenamiento de materiales?
+7.3. ¿La disposición de los depósitos es correcta y racional?
+7.4. ¿Existen áreas o sistemas que delimiten o restrinjan:
+a) el uso de materiales o productos en cuarentena?
+b) materiales o productos rechazados y/o devueltos?
+c) materiales aprobados para su uso?
+d) material de embalaje impreso?
+7.5. ¿Existen dentro del depósito sectores separados con llave y con acceso restringido para sustancias narcóticas, psicotrópicas o similares?
+7.5.1. ¿El lugar o sector ofrece seguridad?
+7.6. ¿Existe un sistema de control para cada material almacenado?
+7.7. ¿Los materiales almacenados son reinspeccionados y testeados periódicamente?
+7.8. Existe control de temperatura y humedad cuando es necesario?
+7.8.1 Si existen, ¿se mantienen registros?
+7.9. ¿Necesita cámara frigorífica?
+7.9.1. Si hubiera, ¿existen registros continuos de control de temperatura?
+7.10. ¿Se realiza inspección visual durante la recepción de los materiales para verificar si sufrieron daño durante el transporte?
+7.11. ¿La inspección visual también certifica si el material recibido esta de acuerdo con el pedido de compra, especificaciones u otros requisitos?
+7.12. ¿Recibe cada lote de material un número de control?
+7.13. ¿El número de control u otra identificación empleada es visible en los materiales almacenados?
+7.14. ¿Se verifica que solamente los materiales aprobados sean utilizados?
+7.15. ¿El uso de los materiales respeta el orden de entrada, utilizándose primeramente el ingresado en primer lugar, cuando corresponda?
+
+8. Producción
+
+8.A. Materias Primas.
+8.A.1. En lo referente a materias primas, ¿existen instrucciones escritas respecto a:
+a) recepción y puesta en cuarentena?
+b) identificación?
+c) muestreo?
+d) análisis?
+e) aprobación o rechazo?
+f) almacenamiento y despacho?
+8.A.2. ¿Se aprueban materias primas sin análisis previos por los riesgos potenciales involucrados?
+8.A.2.1. ¿Cuáles?
+8.A.2.2. ¿Se dispone, en estos casos, de certificados de análisis del proveedor que se archivan en los registros de control de calidad?
+8.A.3. ¿Las materias primas se adquieren a proveedores previamente aprobados?
+8.A.3.1. ¿Se lleva un registro de los mismos?
+8.A.4. ¿Consta en la especificación de materias primas, el nombre del proveedor aprobado?
+8.A.5. Si una entrada de materia prima está compuesta por diferentes lotes de fabricación, ¿se muestrean y analizan separadamente?
+8.A.6. ¿Todas las materias primas usadas en los procesos están aprobadas por control de calidad y se encuentran dentro de su período de validez?
+8.A.7. ¿Existen procedimientos escritos para la mezcla de solventes frescos y recuperados en los tanques de almacenamiento?
+8.A.7.1. ¿Se analizan y aprueban los solventes antes de su mezcla?
+8.A.7.2. ¿Las mezclas de solventes se reanalizan a intervalos de tiempo preestablecidos?
+8.A.7.3. ¿Existen registros?
+
+8.B. Procesos.
+
+8.B.1. ¿Los procesos de producción son llevados a cabo en concordancia con la Fórmula Patrón?
+8.B.2. ¿Están definidas las etapas críticas del proceso?
+8.B.2.1. ¿Están validados los procedimientos aplicables a las mismas?
+8.B.3. ¿Son los procesos ejecutados y supervisados por personal competente?
+8.B.4. ¿Están adecuadamente identificados los equipos principales involucrados en el proceso así como los materiales y productos a granel?
+8.B.4.1. ¿En la identificación, están indicados el nombre del producto, el número del lote en proceso y la etapa de fabricación, cuando corresponda?
+8.B.5. Además de la documentación sobre los lotes, ¿quedan registradas las actividades diarias en cada sector de proceso?
+8.B.6. Toda manipulación de materiales y productos, como ser: recepción, cuarentena, muestreo, almacenamiento, fabricación, embalaje o distribución ¿se realiza de acuerdo con procedimientos escritos y, cuando sea necesario, se registran?
+8.B.7. ¿Se verifican los rendimientos de proceso?
+8.B.7.1. Si hubiera discrepancia con respecto a los límites preestablecidos, ¿este hecho se informa, investiga y registra?
+8.B.8. ¿El acceso a las áreas de fabricación está restringido a quienes están autorizados al ingreso de las mismas?
+8.B.9. Está prohibida la fabricación de productos no farmoquímicos en áreas o con equipamientos destinados a la producción de productos farmoquímicos, cuando puedan colocar en riesgo la calidad y la legitimidad de los mismos?
+8.B.A. Farmoquímicos obtenidos por fermentación
+8.B.A.1. ¿Los procesos de producción son llevados a cabo en concordancia con la Fórmula Patrón?
+8.B.A.2. ¿Cuáles son las principales etapas del proceso?
+8.B.A.3. ¿Cuáles son los principales equipos utilizados?
+8.B.A.4. ¿Existe procedimiento escrito para el mantenimiento de la cepa productora?
+8.B.A.5. ¿Existe un procedimiento escrito para la preparación del inóculo a nivel laboratorio?
+8.B.A.5.1. ¿Se realizan controles?
+8.B.A.5.2. ¿Existen registros?
+8.B.A.6. ¿Existe alguna otra etapa de propagación del microorganismo que anteceda a la fermentación propiamente dicha?
+8.B.A.6.1. En caso afirmativo, ¿se realizan controles de dichas etapas?
+8.B.A.7. ¿Cuáles son los parámetros del proceso controlado durante la fermentación?
+8.B.A.7.1. ¿Existen registros?
+8.B.A.8. ¿Existen procedimientos escritos para realizar las transferencias de inóculo, nutrientes y medios de fermentación, durante las diversas etapas?
+8.B.A.8.1. ¿Estas etapas son controladas y registradas?
+8.B.A.9. ¿Los principales equipos son debidamente identificados de acuerdo con la etapa en que se utilizan?
+8.B.A.10. Los lotes de inóculo, nutrientes y medio de fermentación ¿son debidamente identificados?
+8.B.A.11. ¿Existen procedimientos para la limpieza y la esterilización cuando sean aplicables?
+8.B.A.12. ¿Se realizan controles indicadores de contaminación microbiana durante el proceso?
+8.B.A.12.1. En caso de contaminación, ¿existen procedimientos escritos con las acciones a tomar?
+8.B.A.13. ¿Se evalúa el rendimiento del proceso?
+8.B.A.13.1. ¿Existen registros?
+8.B.A.14. ¿Cuáles son las principales operaciones realizadas después de la fermentación?
+8.B.A.14.1. ¿Existen registros de los controles efectuados a las operaciones posteriores a la fermentación?
+8.B.A.15. ¿Está especificada el agua utilizada en el proceso?
+8.B.A.15.1. ¿Cuáles son los controles realizados?
+8.B.A.15.2. ¿Existen registros?
+
+8.B.B. Farmoquímicos obtenidos por Extracción.
+
+8.B.B.1. ¿La unidad de fabricación tiene función multipropósito?
+8.B.B.2. En caso afirmativo, ¿existen procedimientos, registros y criterios de aceptación del proceso de limpieza?
+8.B.B.3. ¿Los procesos de producción son llevados a cabo en concordancia con la Fórmula Patrón?
+8.B.B.4. ¿Cuál es el tipo de extracción empleada?
+- Acuosa
+- Solventes orgánicos
+8.B.B.5. ¿Cuál es el origen de la materia prima para la extracción?
+- Animal
+- Vegetal
+8.B.B.6. ¿Son las materias primas de origen animal adquiridas a establecimientos autorizados por la autoridad competente?
+8.B.B.7. ¿Son efectuados controles junto con los productores de materias primas vegetales, siguiendo especificaciones establecidas?
+8.B.B.7.1 ¿Qué controles?
+8.B.B.8. ¿Existen procedimientos escritos con relación a cómo debe realizarse el transporte de materias primas?
+8.B.B.9. ¿Existen procedimientos de control para la recepción de las materias primas?
+8.B.B.10. ¿El personal responsable por la recepción se encuentra debidamente entrenado?
+8.B.B.11. ¿Existen sectores adecuados para la recepción y almacenamiento de las materias primas?
+8.B.B.12. ¿Cuáles son los parámetros controlados durante el proceso de extracción?
+8.B.B.12.1. ¿Existen registros?
+8.B.B.13. Después de la extracción, ¿cuáles son las principales operaciones realizadas?
+8.B.B.14. ¿Existen áreas adecuadas para estas operaciones?
+8.B.B.15. ¿Existen especificaciones para la aprobación de productos intermedios?
+8.B.B.15.1. ¿Existen registros?
+8.B.B.16. ¿Existe un procedimiento escrito para la mezcla de varios lotes de productos intermedios y para la realización de operaciones posteriores?
+8.B.B.16.1. ¿Existen registros?
+8.B.B.17. ¿Se evalúa el rendimiento de la extracción?
+8.B.B.18. ¿Existen especificaciones del producto terminado?
+8.B.B.19. ¿Está especificada el agua utilizada en el proceso?
+8.B.B.19.1. ¿Cuáles son los controles realizados?
+8.B.B.19.2. ¿Existen registros?
+8.B.C. Farmoquímicos obtenidos por síntesis química
+8.B.C.1. ¿Los procesos de producción son llevados a cabo en concordancia con la Fórmula Patrón?
+8.B.C.2. ¿Están claramente definidas las etapas críticas del proceso?
+8.B.C.3. ¿Se validan los procedimientos usados en las etapas críticas del proceso?
+8.B.C.4. ¿La unidad de fabricación tiene función multipropósito?
+8.B.C.5. En caso afirmativo, ¿existen procedimientos, registros y criterios de aceptación del proceso de limpieza?
+8.B.C.6. Después de la síntesis, ¿cuáles son las principales operaciones realizadas?
+8.B.C.7. Cuando sea aplicable, ¿cuál es el tipo de equipamiento usado para el secado?
+8.B.C.7.1. ¿Cuáles son los parámetros controlados?
+8.B.C.7.2. ¿Existen registros?
+8.B.C.8. Cuando sea aplicable, ¿cómo se realiza la molienda del producto obtenido?
+8.B.C.8.1. ¿Cuáles son los parámetros controlados?
+8.B.C.8.2. ¿Existen registros?
+8.B.C.9. ¿Está especificada el agua utilizada en el proceso?
+8.B.C.9.1. ¿Cuáles son los controles realizados?
+8.B.C.9.2. ¿Existen registros?
+
+8.B.D. Farmoquímicos Estériles
+
+8.B.D.1. ¿Existe un área destinada a la fabricación de productos farmoquímicos estériles?
+8.B.D.2. ¿Los procesos de producción son llevados a cabo en concordancia con la Fórmula Patrón?
+8.B.D.3. ¿La unidad de fabricación tiene función multipropósito?
+8.B.D.4. En caso afirmativo, ¿existen procedimientos, registros y criterios de aceptación del proceso de limpieza?
+8.B.D.5. ¿Posee el área de fabricación instalaciones para la filtración del aire?
+8.B.D.6. ¿Cuál es la clasificación del área?
+8.B.D.7. ¿Existen registros sobre los controles del aire filtrado?
+8.B.D.8. ¿El aire inyectado al área es filtrado por filtros HEPA?
+8.B.D.9. ¿Se verifica con frecuencia el estado de los filtros de aire?
+8.B.D.9.1. ¿Existen registros?
+8.B.D.10. ¿El área posee presión positiva?
+8.B.D.11. ¿Cuál es la diferencia de presión entre el área estéril y las áreas adyacentes?
+8.B.D.11.1. ¿Se controla la diferencia de presión?
+8.B.D.12. ¿Se realiza la determinación del número de partículas por unidad de volumen en el área?
+8.B.D.12.1. ¿Existen registros?
+8.B.D.13. ¿Se realizan controles microbiológicos del aire y de las superficies?
+8.B.D.13.1. ¿Existen registros?
+8.B.D.14. ¿Existen vestuarios específicos para el área?
+8.B.D.15. La vestimenta usada (tocas, máscaras, zapatos, guantes, etc.) ¿se esterilizan en un numero suficiente para un ciclo de producción?
+8.B.D.16. ¿El tejido usado en la vestimenta no libera fibras o partículas?
+8.B.D.17. ¿Los guantes estériles se encuentran exentos de lubricantes (como talco)?
+8.B.D.18. ¿Existen procedimientos escritos sobre los cuidados de higiene para la entrada al área?
+8.B.D.19. ¿Existen procedimientos escritos para el ingreso de materiales al área estéril?
+8.B.D.20. ¿Existe filtración de productos a través de filtros esterilizantes?
+8.B.D.21. ¿Se realizan análisis para determinar la eficiencia del filtro?
+8.B.D.21.1. ¿Existen registros?
+8.B.D.22. ¿Existen áreas de humedad controlada?
+8.B.D.22.1. En caso afirmativo, ¿existe el equipamiento adecuado?
+8.B.D.23. ¿Existe área para esterilización, para el tratamiento de farmoquímicos con tratamiento de esterilización final?
+8.B.D.24. ¿Cuál es el método de esterilización empleado?
+8.B.D.25. ¿Cuáles son los parámetros controlados?
+8.B.D.25.1. ¿Existen registros?
+8.B.D.26. ¿Está validado el sistema de esterilización?
+8.B.D.26.1. ¿Existen registros?
+8.B.D.27. ¿Existe algún procedimiento que identifique si el material fue esterilizado?
+8.B.D.28. ¿Está especificada el agua utilizada en el proceso?
+8.B.D.28.1. ¿Cuáles son los controles realizados?
+8.B.D.28.2. ¿Existen registros?
+
+8.C. Productos intermedios
+
+8.C.1. ¿Existen especificaciones y métodos analíticos para los productos intermedios?
+8.C.2. Cuando corresponde, ¿los mismos son analizados y aprobados solamente por Control de Calidad?
+8.C.3. ¿Los productos intermedios son identificados claramente como tales?
+8.C.4. ¿Son adecuadamente almacenados?
+8.C.4.1. ¿Existen registros de las condiciones de almacenamiento?
+
+8.D. Productos farmoquímicos terminados
+
+8.D.1. ¿Permanece cada lote de productos farmoquímicos terminado almacenado en cuarentena mientras espera la aprobación de Control de Calidad?
+8.D.1.1. ¿Son identificados y almacenados con rótulos que indiquen que se encuentra en cuarentena, de forma de evitar mezclas o despacho de producto sin aprobación final?
+8.D.2. ¿Cada lote de producto farmoquímico, después de embalado, se identifica correctamente con:
+a) código y nombre del producto?
+b) número del lote?
+c) fecha de elaboración?
+d) fecha de vencimiento o de reanálisis, si está especificada?
+e) condiciones de almacenamiento?
+f) título o potencia, cuando corresponda?
+g) advertencias, cuando corresponda?
+h) en cuarentena?
+
+8.D.3. ¿Posee el área de cuarentena condiciones adecuadas para el almacenamiento de los productos farmoquímicos terminados?
+8.D.3.1. ¿Existen registros del control de esas condiciones?
+8.D.4. ¿Existen especificaciones de calidad y metodología analítica para cada producto farmoquímico terminado?
+8.D.5. ¿Se rotula cada lote de producción farmoquímica terminado después del análisis y aprobación por Control de Calidad, con rótulo de aprobado?
+8.D.9. ¿El rótulo de aprobado contiene:
+a) código y nombre del producto?
+b) número del lote?
+c) fecha de elaboración?
+d) fecha de vencimiento o de reanálisis, si está especificada?
+e) condiciones de almacenamiento?
+f) título o potencia, cuando corresponda?
+g) advertencia, cuando corresponda?
+8.D.10. Después de la aprobación por Control de Calidad, ¿el producto farmoquímico terminado es almacenado en el depósito de productos terminados, en condiciones adecuadas de temperatura y humedad, si corresponde?
+8.D.11. Si el lote fue reprobado, ¿el mismo se identifica como tal?
+8.D.12. ¿Existe un área específica para productos farmoquímicos terminados rechazados?
+8.D.13. ¿Existe un procedimiento escrito de cómo tratar un producto farmoquímico terminado que fue rechazado?
+8.D.14. Si el producto fuera reprocesado, ¿existe un procedimiento escrito para esta operación?
+8.D.14.1. ¿Existen registros?
+8.D.15. ¿Los productos farmoquímicos estériles son fabricados siguiendo normas que aseguren su condición de tales?
+8.D.15.1 ¿Existen registros?
+
+8.E. Embalaje y rotulación
+8.E.1. ¿Son los materiales de embalaje adecuados para la protección de los productos farmoquímicos?
+8.E.2. ¿Está el material que se encuentra en contacto con el producto exento de cualquier acción contaminante del producto?
+8.E.3. ¿Existen especificaciones escritas para los materiales de embalaje?
+8.E.4. ¿Existen instrucciones escritas para el proceso de embalaje?
+8.E.5. ¿Existen procedimientos escritos para el correcto rotulado de los envases?
+8.E.6. ¿Los materiales impresos se almacenan de manera adecuada y segura?
+8.E.7. ¿Los materiales impresos son manipulados solamente por personas autorizadas?
+8.E.8. ¿Los productos embalados están claramente identificados con:
+a) nombre del producto?
+b) calidad, si está especificada?
+c) número del lote?
+d) fecha de vencimiento o de reanálisis si están especificadas?
+e) advertencias, si se requieren?
+f) condiciones de almacenamiento si están especificadas?
+g) Nombre del fabricante y del proveedor, si corresponde?
+8.E.9. ¿Los materiales de embalaje cuya identificación pueda conducir a confusión, se destruyen?
+8.E.9.1. ¿Existen registros?
+
+8.F. Almacenamiento y distribución
+8.F.1. ¿Las condiciones en las cuales se almacenan los productos farmoquímicos son establecidas en base a estudios de estabilidad?
+8.F.2. ¿Posee productos que requieran condiciones de almacenamiento especiales?
+8.F.2.1. En caso afirmativo, ¿posee áreas equipadas para mantener dichas condiciones?
+8.F.2.2. ¿Se llevan registros?
+8.F.3. ¿Los documentos usados para la recepción de productos farmoquímicos terminados son adecuados?
+8.F.4. ¿Existe un sistema de control de inventario de los productos farmoquímicos terminados?
+8.F.5. Cuando sea aplicable, ¿están los productos almacenados dentro de su plazo de validez?
+8.F.6. ¿El sistema de distribución opera de forma tal que se despachen en primer lugar, salvo razones fundadas y registradas, los lotes más antiguos?
+8.F.7. ¿Se asegura que solamente son expedidos productos aprobados?
+8.F.8. ¿Se mantienen registros sobre la distribución de cada lote? Dicho registro especifica:
+a) nombre y dirección del destinatario?
+b) número del lote?
+c) cantidad?
+d) fecha de expedición?
+
+9. CONTROL DE CALIDAD.
+
+9.A. General.
+9.A.1. ¿Existe en la empresa un laboratorio de control de calidad?
+9.A.2. ¿Es el control de calidad independiente de producción?
+9.A.3. ¿De quién depende el responsable de control de calidad?
+9.A.4. ¿Tiene el laboratorio de control de calidad la infraestructura adecuada para realizar los controles necesarios?
+9.A.5. ¿Existen análisis efectuados por terceros?
+9.A.5.1. ¿Qué tipo de análisis?
+9.A.5.2. ¿Existe contrato?
+9.A.6. ¿Tiene el laboratorio de control de calidad personal suficiente y calificado para realizar los controles necesarios?
+9.A.7. ¿Son las instalaciones del laboratorio adecuadas a las operaciones y volumen de trabajo que se ejecuta?
+9.A.8. ¿El equipamiento se encuentra instalado de manera adecuada de acuerdo con las exigencias de su correcto funcionamiento?
+9.A.9. ¿Existen procedimientos para la calibración y mantenimiento de instrumentos y equipos de control de calidad?
+9.A.9.1. ¿Existen registros?
+9.A.10. ¿Tiene el personal de control de calidad libre acceso a las áreas de producción para muestreo y/o verificaciones?
+9.A.11. ¿Es responsabilidad de control de calidad la aprobación o rechazo de productos que estén bajo contrato con terceros?
+9.A.12. ¿Están disponibles las especificaciones y los métodos analíticos usados por control de calidad para todas las materias primas, productos intermedios, productos terminados y materiales de embalaje?
+9.A.13. ¿El control de calidad es responsable por la aprobación o rechazo de las materias primas, productos intermedios, productos terminados y materiales de embalaje?
+9.A.14. ¿Existen registros de los análisis?
+9.A.15. ¿Se realiza el muestreo de acuerdo con procedimientos escritos que describan:
+a) el método o criterio de muestreo?
+b) los equipos de muestreo y elementos de protección personal cuando fueran necesarios?
+c) cantidad de muestra a tomar?
+d) instrucciones para la subdivisión de la muestra en caso necesario?
+e) tipo y condiciones del envase a utilizar?
+f) identificación de las unidades muestreadas?
+g) precauciones especiales a tener en cuenta con relación al muestreo de materiales estériles o nocivos?
+h) instrucciones para limpieza y almacenamiento de elementos de muestreo?
+i) condiciones de almacenamiento de las muestras?
+j) destino de las muestras sobrantes?
+
+9.A.16. ¿Existe un procedimiento escrito para la conservación de estándares de referencia?
+9.A.17. ¿Se garantiza que cada lote de producto o material liberado para su venta o consumo cumple todas las especificaciones y dicho cumplimiento es certificado por control de calidad?
+9.A.17.1. ¿Existen registros?
+9.A.18. ¿Se realizan ensayos microbiológicos, cuando es necesario?
+9.A.18.1. ¿Existen registros?
+9.A.19. ¿Se realizan ensayos de esterilidad, cuando es necesario?
+9.A.19.1. ¿Existen registros?
+9.A.20. ¿Se realizan ensayos biológicos, cuando es necesario?
+9.A.20.1. ¿Cuáles?
+9.A.20.2. ¿Existen registros?
+9.A.21. ¿Se mantiene la documentación de Control de Calidad correspondiente a cada lote, por un período de un año con posterioridad al período de validez o por cinco años cuando los productos no tengan asignado dicho período?
+9.A.22. Las muestras de retención para referencia futura:
+9.A.22.1. ¿Están adecuadamente identificadas respecto a su contenido, número de lote, fecha de muestreo y número de análisis?
+9.A.22.2. ¿Contiene la cantidad suficiente para permitir como mínimo la realización de tres análisis completos?
+9.A.22.3. ¿Son mantenidas las muestras de producto terminado en envases lo más semejante posible a los de venta, y son almacenados en las condiciones especificadas?
+9.A.23. ¿El tiempo de almacenamiento de las muestras para referencia futura:
+9.A.23.1. Para materias primas: ¿es de como mínimo hasta finalizar el lote (excepto solventes, gases y agua)?
+9.A.23.2. Para materias primas críticas: ¿es de como mínimo un año a partir de la fecha de agotamiento del lote?
+9.A.23.3. Para productos intermedios: ¿es como mínimo hasta la aprobación del producto terminado?
+9.A.23.4. Para productos terminados con período de validez especificado: ¿es como mínimo de un año a partir de la fecha de vencimiento del mismo?
+9.A.23.5. Para productos terminados que no posean período de validez especificado: ¿es como mínimo de cinco años?
+
+9.B. Estudios de estabilidad
+9.B.1. ¿Existe un programa escrito de estudio de estabilidad para los productos farmoquímicos?
+9.B.1.1. ¿Se cumple?
+9.B.1.2. ¿Se usan diseños y métodos analíticos indicadores de estabilidad?
+9.B.2. ¿El programa contiene:
+a) condiciones de envejecimiento?
+b) métodos analíticos usados?
+c) resultados?
+d) materiales de embalaje primario?
+e) periodicidad de análisis?
+f) fecha de vencimiento del producto?
+9.B.3. ¿Está el período de validez del producto terminado respaldado por el estudio de estabilidad?
+9.B.4. ¿Existen instrucciones especificando la fecha de reanálisis de los productos farmoquímicos?
+
+9.C. Autoinspección y Auditoría de Calidad
+9.C.1. ¿Existe un programa para la realización de autoinspecciones con definición de frecuencia y participantes?
+9.C.1.1. ¿Dichos expertos son independientes de los procedimientos que controlan?
+9.C.2. El programa de autoinspección está diseñado de tal forma que permita detectar defectos en la implementación de las buenas prácticas de fabricación, así como recomendar acciones correctivas?
+9.C.3. ¿Se encuentran documentados los procedimientos y registros de las auto inspecciones?
+9.C.3.1. ¿Existen programas de seguimiento de las mismas?
+9.C.3.2. ¿Existen registros?
+9.C.4. ¿Se ponen en conocimiento del área involucrada el resultado de las autoinspecciones y/o auditorías?
+9.C.4.1. ¿Se definen plazos para el cumplimiento de exigencias no cumplidas?
+9.C.4.2. ¿Se verifica el cumplimiento de las acciones correctivas recomendadas?
+9.C.4.3. ¿Existen registros?
+9.C.5. ¿Se realizan auditorías en empresas con las cuales existen contratos con el objeto de verificar el cumplimiento de las Buenas Prácticas de Fabricación?
+9.C.5.1. ¿Existen registros?
+
+10. Reclamos y Desvíos de Calidad
+
+10.1. ¿Existen instrucciones escritas para tratar los reclamos y defectos relativos a la calidad de los productos farmoquímicos?
+10.2. ¿Existen registros de los reclamos y desvíos de calidad?
+10.3. ¿Están previstos mecanismos que permitan acciones rápidas respecto de los reclamos?
+10.4. ¿Los reclamos son investigados a fondo y se mantienen registros de las acciones efectuadas?
+10.5. ¿Existe un sistema que permita investigar todos los productos que puedan haber sido afectados por un error repetitivo o una falla en los procedimientos?
+10.6. ¿Son investigados y registrados los desvíos de calidad del producto motivo del reclamo?
+10.7. ¿Se encuentra involucrado en estos problemas el responsable de Control de Calidad?
+10.8. ¿Existen registros de las actuaciones? ¿Dichos registros contienen:
+a) nombre del producto?
+b) número del lote?
+c) nombre del reclamante?
+d) motivo del reclamo?
+e) respuesta al reclamo?
+10.9. ¿Los registros de las acciones tomadas como consecuencia del reclamo, son firmados, fechados y anexados a la documentación del lote correspondiente?
+
+10.A. Retiros del Mercado
+
+Las preguntas de este capítulo contemplan la responsabilidad de la empresa productora en la distribución al primer destinatario y el correspondiente retiro del producto a este nivel.
+10.A.1. ¿Existe un sistema que permita el rápido y eficiente retiro del mercado del producto con desvío de calidad?
+10.A.2. ¿Existe una persona responsable de la coordinación y ejecución de los procedimientos de retiro del mercado?
+10.A.3. ¿Existen procedimientos escritos para el retiro de productos?
+10.A.4. ¿Se informa a Control de Calidad las operaciones efectuadas en relación con los productos retirados del mercado?
+10.A.5. ¿Los registros de distribución de productos se encuentran disponibles para una rápida acción de retiro del mercado, si es necesario?
+10.A.6. ¿Existe un área segura y delimitada, físicamente o por otros medios para el almacenamiento del producto retirado del mercado?
+10.A.7. ¿Se identifica el producto retirado del mercado como tal?
+10.A.8. ¿El informe sobre los procesos de retiro del mercado son anexados a la documentación del lote?
+
+10.B. Materiales Rechazados
+
+10.B.1. ¿Existen procedimientos escritos con respecto al destino final de los materiales rechazados?
+10.B.2. ¿Existe un área segura y delimitada físicamente o por otros medios para el almacenamiento de materiales rechazados?
+10.B.3. ¿Los materiales rechazados son identificados como tales?
+10.B.4. ¿Existen informes sobre el destino de los materiales rechazados?
+10.B.4.1. ¿Dichos informes se anexan a la documentación del lote?
+
+10.C. Devoluciones.
+
+10.C.1. ¿Control de Calidad es informado sobre la recepción de devoluciones?
+10.C.2. ¿Son reanalizados los productos devueltos?
+10.C.2.1. ¿Existen registros?
+10.C.3. ¿Son los registros anexados a la documentación del lote de producto?
+10.C.4. ¿Existe un área segura y delimitada físicamente o por otros medios para el almacenamiento de los productos devueltos?
+10.C.4.1. ¿El producto devuelto es identificado como tal?
+10.C.5. ¿Cuáles son los destinos asignados a dichos productos de acuerdo con los resultados analíticos obtenidos?
+10.C.5.1. ¿Existen registros?
+10.C.5.2. ¿Se anexan dichos registros a la documentación del lote?
+10.C.6. ¿Todas las decisiones referentes a las devoluciones son aprobadas por una persona autorizada?
+10.C.7. ¿Son destruidos los productos devueltos con plazo de validez vencido?
+10.C.7.1. ¿Existen registros?
+
+11. Seguridad
+
+11.1. ¿Existen normas escritas sobre seguridad?
+11.2. ¿Existe un sector destinado al almacenamiento de productos inflamables y/o explosivos? ¿Ofrece condiciones adecuadas de seguridad?
+11.2.1. ¿Existen en el sector instrucciones para casos de derrames y/o accidentes?
+11.3. ¿Existen normas escritas de procedimiento en caso de incendio o emergencia?
+11.4. ¿Están los extinguidores y la red contra incendio localizados correctamente?
+11.5. ¿La cantidad y el tipo de cada extinguidor son los adecuados para el tipo de riesgo de cada sector?
+11.6. ¿Se encuentran las instalaciones eléctricas en buen estado de conservación y seguridad?
+11.7. ¿El acceso a los extinguidores se encuentra libre?
+11.8. ¿Los extinguidores son controlados periódicamente según normas específicas?
+11.8.1. ¿Existen registros?
+11.9. ¿Existen equipos de seguridad, en número suficiente y de libre acceso para el uso inmediato (lavaojos, duchas, mantas, etc.)?
+11.9.1. ¿Existe un programa de control del funcionamiento de dichos equipos?
+11.9.2. ¿Existen registros?
+11.10. Cuando son necesarios ¿se usan equipos de protección individual o colectiva?
+11.10.1. Si es necesario, ¿los mismos están siendo usados?
+11.10.2. ¿Están los mismos en buenas condiciones para su uso?
+11.11. ¿Existen, cuando sea aplicable, escaleras externas de emergencia?
+11.12. ¿Existen, cuando sea aplicable, salidas de emergencia?
+
+12. Tratamiento de Efluentes
+12.1. ¿Cumple la planta con las normas o legislaciones que regulan el control de contaminación ambiental?
+12.1.1. ¿Cuáles?
+12.1.2. ¿Existe constancia de su cumplimiento?
+12.2. ¿Se generan efluentes líquidos?
+12.2.1. ¿Cuál es la naturaleza de dichos efluentes?
+12.2.2. ¿Son tratados?
+12.2.3. ¿Cuál es el tipo de tratamiento utilizado?
+12.2.4. ¿Se realizan controles de tratamiento? ¿Cuáles? ¿Con qué frecuencia?
+12.2.5. ¿Existen registros?
+12.2.6. ¿Dónde se vuelca el efluente líquido tratado?
+12.3. ¿Se generan efluentes gaseosos?
+12.3.1. ¿Cuál es la naturaleza de dichos efluentes?
+12.3.2. ¿Son tratados?
+12.3.3. ¿Cuál es el tipo de tratamiento utilizado?
+12.3.4. ¿Se realizan controles de tratamiento? ¿Cuáles? ¿Con qué frecuencia?
+12.3.5. ¿Existen registros?
+12.3.6. ¿Dónde se efectúa la descarga del efluente tratado?
+12.4. Se generan efluentes sólidos?
+12.4.1. ¿Cuál es la naturaleza de dichos efluentes?
+12.4.2. ¿Son tratados?
+12.4.3. ¿Cuál es el tipo de tratamiento utilizado?
+12.4.4. ¿Se realizan controles de tratamiento? ¿Cuáles? ¿Con qué frecuencia?
+12.4.5. ¿Existen registros?
+12.4.6. ¿Dónde se vuelcan los sólidos tratados?

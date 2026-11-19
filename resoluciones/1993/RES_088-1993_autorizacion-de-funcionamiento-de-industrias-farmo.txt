@@ -1,0 +1,414 @@
+Resolución GMC N° 88/93
+Título: AUTORIZACIÓN DE FUNCIONAMIENTO DE INDUSTRIAS FARMOQUÍMICAS
+Fecha de aprobación: 14/01/1994
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 37886_RES_088-1993_ES_Aut.func.indust.farmoquímicas_Acta_04_93.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2410).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 88/93
+
+AUTORIZACION DE FUNCIONAMIENTO DE INDUSTRIAS FARMOQUIMICAS
+
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, las Resoluciones Nº 19/92 y Nº 59/92 del Grupo Mercado Común, y la Recomendación Nº 50/93 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los Estados Partes armonizaron y aprobaron los contenidos del documento "Autorización de Funcionamiento de Industrias Farmoquímicas".
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. Aprobar el Reglamento Técnico sobre "Autorización de Funcionamiento de Industrias Farmoquímicas" que consta como Anexo.
+
+Art. 2. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución y comunicarán el texto de las mismas al Grupo Mercado Común a través de la Secretaría Administrativa.
+
+
+XII GMC, Montevideo, 14/I/1994.
+
+
+INDICE
+
+Introducción
+
+Definiciones
+
+Cap. 1		-	Consideraciones generales
+Cap. 2		-	Personal
+Cap. 3		-	Plantas y edificios
+Cap. 4		-	Equipos
+Cap. 5		-	Higiene
+Cap. 6		-	Documentación
+         6A	-	Formula patrón
+         6B	-	Documentación de lotes
+
+Cap. 7		-	Archivo de registros y muestras
+
+Cap. 8		-	Producción
+         8A	-	Procedimientos de proceso
+         8B	-	Materias primas
+         8C	-	Productos intermedios
+         8D 	-	Productos farmoquímicos terminados
+         8E 	-	Embalaje y rotulado
+
+Cap. 9		-	Control de Calidad
+Cap. 10	-	Estudios de estabilidad
+Cap. 11	-	Auto - inspección y autoridad de calidad
+Cap. 12	-	Almacenamiento y distribución
+Cap. 13	-	Reclamos y desvíos de calidad
+Cap. 14	-	Retiros del mercado
+Cap. 15	-	Materiales rechazados
+Cap. 16	-	Devoluciones
+
+
+ANEXO
+AUTORIZACION DE FUNCIONAMIENTO DE INDUSTRIAS FARMOQUIMICAS
+
+Introducción
+
+La presente Guía enmarca las prácticas y procedimientos de fabricación que se deben aplicar para asegurar que las instalaciones, métodos y controles usados en la elaboración de productos farmoquímicos sean adecuados para asegurar la calidad inocuidad y pureza de los mismos, permitiendo su uso como principios activos en la elaboración de productos farmacéuticos.
+
+Las recomendaciones de la presente Guía deben considerarse orientativas, puesto que deben adaptarse a los diversos procesos químicos, físicos y/o biológicos, (como ser: fermentación, extracción, síntesis química, etc.) que se aplican en la producción farmoquímica.
+
+Los Estados Partes podrán solicitar la actualización de la presente Guía con la finalidad de acompañar los avances tecnológicos.
+
+
+Definiciones
+
+Las definiciones siguientes se aplicarán a las palabras utilizadas en esta Guía. Pueden tener significados diferentes en otros contextos.
+
+Calidad: que tiene la identidad y pureza adecuadas para el uso al que está destinado, de acuerdo con los parámetros establecidos.
+
+Calibración: conjunto de operaciones que establece, con la mayor exactitud posible y bajo condiciones debidamente especificadas, la correspondencia entre los valores indicados por un instrumento de medida y los correspondientes a un material de referencia.
+
+Control de calidad: conjunto de medidas diseñado para asegurar y verificar, en todo momento, que los lotes de productos cumplen la calidad preestablecida.
+
+Contaminación cruzada: contaminación de una materia prima o de un producto, con otro material o producto.
+
+Control durante el proceso: controles realizados durante la producción con el objeto de monitorear  y, si fuese necesario, ajustar el proceso con el objeto de asegurar que el producto cumpla con sus especificaciones. El control ambiental o del equipo puede ser considerado también como parte de un control de proceso.
+
+Cuarentena: mantenimiento del producto (materia prima, intermedio, producto terminado, material de empaque, etc.) en aislamiento, a la espera de una decisión acerca de su uso o rechazo.
+
+Devoluciones: devolución al fabricante o distribuidor de un producto farmoquímico, por estar en desacuerdo con las especificaciones, condiciones comerciales u otros motivos.
+
+Embalaje: son todas las operaciones que implican transformar un producto a granel en producto terminado, incluyendo el envasado y rotulado.
+
+Especificaciones: descripción de requisitos que deben cumplir los productos y materiales empleados y/u obtenidos durante la fabricación.
+
+Estéril: ausencia de organismos vivos.
+
+Etapas finales: pasos que completan la fabricación, tales como purificación final, cristalización, filtración, secado, molienda, tamizado, mezclado, envasado y etiquetado.
+
+Fabricación: todas las operaciones y procesos necesarios para la obtención de un producto farmoquímico.
+
+Fecha de reanálisis: fecha más allá de la cual, un lote de un producto farmoquímico, intermedio o materia prima, no puede ser usado sin un adecuado reanálisis previo.
+
+Fórmula patrón: un documento o conjunto de documentos que especifican las materias primas a emplear, con sus respectivas cantidades, que incluye una descripción de los equipos, procedimientos y precauciones requeridos para producir y envasar una cantidad determinada de un producto farmoquímico y las instrucciones y controles que deberán cumplirse durante el proceso.
+
+Lote o partida: cantidad de producto producida en un ciclo de fabricación, cuya característica esencial es la homogeneidad.
+
+Número de lote: cualquier combinación de números y/o letras a través de la cual se puede rastrear la historia completa de la fabricación de ese lote de producto.
+
+Materia prima: sustancia activa o no, empleada en la fabricación de productos farmoquímicos; puede formar parte (inalterada o modificada) del producto final o desaparecer durante el proceso.
+
+Materia prima crítica: sustancia que interviene en la elaboración de un productos farmoquímicos, forma parte de su estructura molecular y es de importancia determinante en el proceso de fabricación.
+
+Material de embalaje: cualquier material empleado para el embalaje de productos farmoquímicos. Los materiales de embalaje pueden ser primarios o secundarios según tengan o no contacto directo con el producto.
+
+Período de validez: período después del cual un lote de producto farmoquímico no puede ser utilizado como tal.
+
+Persona autorizada: es toda persona calificada con responsabilidad asignada fehacientemente para llevar a cabo una o más funciones.
+
+Producto farmacoquímico: toda sustancia elaborada para ser usada como principio activo de productos farmacéuticos de uso humano y veterinario. Se considera sinónimo de "producto farmoquímico", a todos los efectos, la denominación "producto químico-farmacéutico".
+
+Procedimiento: conjunto de operaciones que deben ser realizadas, precauciones que deben ser adoptadas, o medidas que deben ser aplicadas directa o indirectamente, en relación con la fabricación de un producto farmoquímico.
+
+Producto terminado: producto farmoquímico que ha cumplido con todos las etapas de fabricación incluyendo su embalaje final.
+
+Capítulo 1
+
+Consideraciones Generales
+1.1. El fabricante debe elaborar los productos farmoquímicos de forma tal que pueda asegurarse que los mismos son adecuados para la finalidad pretendida y pueda garantizar, en base a política preestablecida, que están de acuerdo con los requisitos de identidad, seguridad y pureza que se derivan de políticas especificas de calidad.
+La política de control y garantía de calidad, y los conceptos de "Buenas Prácticas de Fabricación", están interrelacionados. Estos conceptos han sido descriptos para enfatizar sus relaciones y su importancia fundamental.
+Producto aprobado: producto que cumple con todos los requisitos de las especificaciones.
+Producto a granel: todo producto terminado antes de su fraccionamiento y embalaje definitivo.
+Producto intermedio: todo material parcialmente procesado que debe ser sometido a pasos posteriores de manufactura antes de convertirse en un producto farmoquímico.
+Producto rechazado: producto que no cumple con uno o más requisitos de las especificaciones.
+Registros: documentos escritos que proveen la historia de cada lote de producto y que acreditan la ejecución de procedimientos o acciones relacionados con la fabricación y destino.
+Recuperación: adición del total o parte de lotes anteriores de calidad comprobada a otro lote, en una etapa definida de fabricación.
+Reprocesamiento: reproceso de un producto de calidad inaceptable, a partir de una etapa definida de producción de forma que su calidad se torne aceptable como consecuencia de una o más operaciones adicionales.
+Rótulo: es la identificación impresa, litografiada, pintada, grabada a fuego, a presión o calcada, aplicada directamente sobre recipientes, contenedores, envoltorios o cualquier otro protector de envase primario. Los rótulos deben tener dimensiones adecuadas, deben ser de fácil lectura y comprensión por el usuario y deben estar colocados tanto en el embalaje primario como en el embalaje secundario, si lo hubiere.
+Validación: acción documentada de probar que un procedimiento, proceso, equipo, material, actividad o sistema, conduce realmente a los resultados esperados.
+
+Capítulo 2
+
+Personal
+2.1. El fabricante debe emplear personal con la calificación y competencia necesarias para la producción y el control de calidad de los productos farmoquímicos que elabora. Debe contar con la cantidad adecuada de personal, con una formación profesional, conocimientos técnicos y experiencia práctica apropiados para el trabajo que llevan a cabo.
+2.2. El fabricante debe tener una organización definida, representada en un organigrama. Las responsabilidades individuales deben estar claramente definidas registradas y defundadas con adecuada descripción de sus cargos, de manera de asegurarse de que no haya brechas o superposiciones. Las responsabilidades de cada persona no deben ser tan extensas como para que exista algún riesgo de afectar la calidad.
+2.3. Los funcionarios de todos los niveles jerárquicos, deben estar entrenados adecuadamente para las tareas y responsabilidades que se les ha asignado.
+2.4. Deben tomarse medias para asegurarse que ninguna persona afectada por una enfermedad contagiosa o con lesiones expuestas en la superficie corporal, participe en alguna etapa de producción que involucre contacto directo con el producto farmoquímico.
+
+Capítulo 3
+
+Plantas y Edificios
+3.1. Las plantas y edificios, incluida el área de tanques, deben ser de construcción apropiada. Los mismos deben proporcionar un entorno apropiado para las operaciones de fabricación y ser del tamaño adecuado para el uso al que están destinados. Los locales no deben contribuir a la confusión, ni a la contaminación cruzada, real o potencial, de los productos farmoquímicos. Su distribución debe proporcionar una secuencia lógica de trabajo.
+3.2. Para algunas finalidades especiales, tales como la producción de productos estériles y de ciertos antibióticos, hormonas y citostáticos, debe contarse con áreas aisladas y separadas entre sí con sistemas de flujos de aire completamente independientes, diseñados específicamente para estos fines.
+3.3. Para mantener condiciones higiénicas de trabajo, los locales deberán incluir las facilidades adecuadas para el cambio de ropa, lavado y toilette, asi como para comer, beber y fumar.
+3.4. La iluminación, temperatura, humedad, ventilación y extracción, deben ser adecuadas a fin de no afectar adversa, directa o indirectamente tanto los productos farmoquímicos durante su fabricación y almacenamiento, como el funcionamiento correcto de los equipos.
+3.5. Todas instalaciones deben ser proyectadas de modo de evitar lugares de difícil limpieza.
+3.6. Siempre que fuera posible el mantenimiento de las instalaciones debe hacerse fuera del área de fabricación.
+
+Capítulo 4
+
+ Equipos
+4.1. Los equipos de fabricación deben estar diseñados, construidos, ubicados y mantenidos de manera que:
+a) sean apropiados para el uso al que están destinados;
+b) faciliten su limpieza cuidadosa;
+c) minimicen el riesgo de contaminación de productos y recipientes durante la producción;
+d) posibiliten una operación eficiente y, de ser aplicable, confiable y validada.
+4.2. Los equipos de producción y los de control deben ser limpiados, esterilizados si fuera necesario, usados y mantenidos según instrucciones escritas especiíficas. Antes de comenzar la producción de otro producto, los equipos multipropósito deberán ser limpiados cuidadosamente y controlado su estado de limpieza. Deben guardarse registros apropiados de tales procedimientos.
+4.3. De ser necesario, deberá demostrarse que los equipos utilizados para la producción y control, son aptos para llevar a cabo los procesos para los cuales fueron asignados.
+4.4. Donde y cuando fuera necesario, debe haber sistema para medir las variables durante el proceso. Los equipos de medición, registro y control, deberán ser calibrados y controlados a intervalos definidos por métodos apropiados. Deberán guardarse registros de estos controles.
+4.5. Los equipos defectuosos deben rotularse inmediatamente como tales y ser reparados o eliminados lo antes posible. El mantenimiento y las reparaciones deberán documentarse.
+
+Capítulo 5
+
+Higiene
+5.1. Deben estar disponibles programas escritos de higienización. Los mismos deben incluir procedimientos escritos y validados para limpieza de los locales y equipos, un estándar de calidad para el agua, instrucciones de higiene para la fabricación y manejo de bienes, e instrucciones relativas a la salud, prácticas higiénicas y vestimentas del personal, así como procedimientos para deshacerse de materiales usados y residuos irrecuperables.
+5.2. Estos programas deben implementarse, insistiendo sobre ellos regularmente ante el personal involucrado, y enfatizarse especialmente durante el adiestramiento continuo del mismo.
+5.3. Deben utilizarse vestimentas y otros elementos protectores acordes con los procesos que se llevan a cabo.
+5.4. En las áreas de fabricación no se debe permitir comer, fumar ni realizar prácticas reñidas con la higiene.
+
+
+Capítulo 6
+
+Documentación
+
+Una buena documentación constituye parte esencial de un sistema de garantía de calidad y, claramente escrita, evita errores de comunicación verbal y permite rastrear la historia del lote.
+
+Las especificaciones, fórmulas de fabricación, instrucciones, procedimientos y registros no deben tener errores ni enmiendas no testadas y deben estar disponibles por escrito y firmados por los responsables que corresponda.
+
+6.A. Fórmula patrón.
+
+6.A.1. Deben estar disponibles instrucciones escritas que cubran cada etapa de producción, almacenamiento y control de calidad, y ser actualizadas cuando sea necesario.
+6.A.2. Debe haber una fórmula patrón donde estén asentados por escrito las materias primas y los materiales de embalaje (calidad y cantidad), así como los procedimientos detallados de producción y control de calidad para cada producto farmoquímico. En lo posible, la fórmula patrón deberá prepararse para un tamaño estándar de lote.
+6.A.3. Personal idóneo y calificado en producción y control de calidad, debe ser el responsable del contenido y distribución dentro de la empresa de las instrucciones y fórmulas patrón. Estas fórmulas deben estar debidamente fechadas y firmadas.
+6.A.4. Las fórmulas patrón obsoletas deben eliminarse como documento vigente, pero archivarse como referencia. Las copias de las fórmulas patrón deben prepararse de forma tal que se evite cualquier posibilidad de error de transcripción.
+6.A.5. Bajo ciertas circunstancias, por ejemplo, en los primeros lotes de producción posteriores al desarrollo piloto, la fórmula patrón podría necesitar correcciones. Cualquier corrección debe estar formalmente autorizada y firmada por personal competente. El documento corregido debe ser reemplazado lo antes posible por una nueva fórmula patrón.
+
+6.B. Documentación de lotes.
+
+6.B.1. Para cada lote de producto intermedio o producto farmoquímico final debe prepararse un registro de fabricación. El mismo debe contener las partes relevantes de la formula patrón y, luego de complementarse durante la producción, debe incluir lo siguiente:
+a) nombre del producto o etapa de la fabricación, tamaño y número del lote;
+b) fechas de las diferentes etapas de la producción;
+c) detalles de la producción, incluyendo referencias a los principales equipos utilizados y rendimientos;
+d) el número de lote o número de referencia (o el número del control analítico) de las materias primas y productos intermedios utilizados en la producción;
+e) un registro de los controles de proceso efectuados y de los resultados obtenidos;
+f) detalles de cualquier desvío de la formula patrón con su autorización firmada. Cualquier desvío fortuito deberá ser investigado y considerado en relación con la calidad del producto;
+g) cualquier material recuperado y los procedimientos aplicados;
+h) inicialización por los operarios y firma de la persona responsable de las operaciones de producción, consignando la fecha;
+i) todos los registros analíticos relativos al lote o una referencia para acceder a los mismos;
+j) la decisión para la aprobación o rechazo del lote, con la fecha y firma de la persona responsable de dicha decisión;
+k) los registros de fabricación y control deben ser revisados y cualquier divergencia o falla debe ser cuidadosamente investigada. La investigación, de ser necesaria, debe ser extendida a otros lotes del mismo producto o productos que pueden estar asociados a la falla o discrepancia. Debe realizarse un informe escrito sobre el resultado de la investigación e incluirse en el mismo las conclusiones y previsiones tomadas.
+6.B.2. Cuando las circunstancias requieren un convenio con terceros para el empleo de elementos de producción y/o de control, este hecho debe asentarse en el registro del lote. La información puede ser registrada mediante sistemas de procesamiento electrónicos, fotográficos u otros medios confiables, pero las fórmulas patrón y los procedimientos detallados de operación rutinaria relativos al sistema en uso, deben estar disponibles y la exactitud de los registros debe ser controlada. Si la documentación se maneja por métodos electrónicos de procesamiento, sólo el personal autorizado podrá modificar la información ingresada en el sistema. Debe haber un registro de los cambios introducidos en la fórmula patrón original. El acceso debe estar restringido por claves de acceso u otros medios y el resultado de la entrada de información crítica debe ser controlado en forma independiente. Los registros de lotes almacenados electrónicamente deben estar protegidos mediante copias de seguridad en cinta magnética, microfilme, impresión, sobre papel u otros medios. Es particularmente importante que, durante su período de conservación, sea fácil el acceso a la información
+
+
+Capítulo 7
+
+Archivo de Registros y Muestras
+
+7.1. Los registros deben llevarse de manera tal que permitan rastrear las actividades concernientes a la producción y al control de calidad de los productos farmoquímicos.
+
+7.2. Los registros y las muestras de referencia de los productos farmoquímicos y, donde sea necesario, de los productos intermedios, deben conservarse hasta por lo menos un año después del período de validez o por un lapso especificado no menor de cinco años si no se indica dicho período.
+
+
+Capítulo 8
+
+Producción
+
+Las operaciones de producción deben seguir procesos claramente definidos y deben estar de acuerdo con las "Buenas Prácticas de Fabricación", con el objeto de obtener productos dentro de la calidad especificada.
+
+8.A. Procedimientos de proceso.
+8.A.1. El proceso debe ser llevado a cabo en concordancia con la fórmula patrón.
+8.A.2. Deben definirse las etapas críticas para asegurar la calidad del producto farmoquímico y los procedimientos aplicados deben ser validados.
+8.A.3. El proceso debe ser supervisado y ejecutado por personas competentes.
+8.A.4. Durante el proceso, los recipientes y equipos importantes deben ser rotulados o identificados en forma inequívoca con el nombre del producto y el número de lote.
+8.A.5. Además de la documentación sobre el lote, debe estar disponible la información sobre las actividades diarias en cada departamento involucrado en el proceso.
+8.A.6. Toda manipulación de materiales y productos tales como recepción, cuarentena, muestreo, almacenamiento, identificación, movimiento, fabricación, embalaje y distribución, debe ser ejecutada de acuerdo con procedimientos o instrucciones escritos y, cuando sea necesario, registrados.
+8.A.7. Los deterioros en los recipientes o cualquier otro problema que pueda arriesgar la calidad de los materiales, deben ser evaluados, registrados e informados a Control de calidad.
+8.A.8. Deben efectuarse los balances de los materiales y verificarse los rendimientos obtenidos. Cualquier discrepancia con los límites preestablecidos debe informarse, investigarse y registrarse.
+8.A.9. Durante toda la fabricación, todos los materiales, productos a granel y equipos principales deben estar etiquetados e identificados en cuanto al producto, el material en proceso, el título cuando corresponda y el número de lote y, cuando corresponda esta indicación, debe mencionarse la etapa de la fabricación.
+8.A.10. El acceso a las áreas de fabricación debe restringirse a personas autorizadas.
+8.A.11. La fabricación de productos no farmoquímicos debe ser prohibida, tanto en áreas, como en equipos destinados a la fabricación de productos farmoquímicos cuando pueda colocar en riesgo la calidad, seguridad y pureza de estos últimos.
+
+
+8.B. Materias primas.
+
+8.B.1. Las materias primas deben ser recibidas, puestas en cuarentena, muestreadas, identificadas, examinadas para verificar el cumplimiento de las especificaciones establecidas, aprobadas o rechazadas, almacenadas, rotuladas y dispensadas para su uso, de acuerdo con instrucciones escritas.
+8.B.2. Algunas materias primas podrán no ser analizadas para su aceptación, por los riesgos potenciales involucrados, (por ejemplo, pentacloruro de fósforo, sulfato de dimetilo, etc.). Esto es aceptable si el lote posee un certificado de análisis provisto por el vendedor, el cual quedará archivado en los registros de control de calidad.
+8.B.3. La adquisición de materias primas es una operación importante que requiere un completo y específico conocimiento de los proveedores.
+8.B.4. Las materias primas deben ser adquiridas solamente a proveedores aprobados, de ser necesario los mismos constarán en la ficha de especificaciones. De ser posible, se adquirirán directamente del productor.
+8.B.5. Si una entrega de material está compuesta por diferentes lotes del proveedor, cada uno debe ser considerado separadamente para su muestreo, análisis y aprobación.
+8.B.6. Solamente las materias primas aprobadas por Control de Calidad y que estén dentro de su período de validez, pueden ser usadas para la fabricación de un producto farmoquímico.
+8.B.7. Debe haber un procedimiento escrito para la operación de mezcla de solventes frescos o recuperados, con los ya existentes en los tanques de almacenamiento. Los solventes deben ser previamente analizados y aprobados antes de su mezcla. El material mezclado deberá ser reanalizado a intervalos de tiempo preestablecidos.
+
+8.C. Productos intermedios.
+
+Los productos intermedios, cuando fuera necesario, deben ser analizados de acuerdo con las especificaciones y deben ser claramente rotulados, identificados y adecuadamente almacenados.
+
+8.D. Productos farmacoquímicos terminados.
+
+8.D.1. Cada lote de producto farmoquímico terminado tiene que cumplir las especificaciones establecidas sobre identidad, calidad, pureza y potencia, incluyendo donde sean aplicables ensayos y límites para residuos de solventes y reactivos.
+8.D.2. Los productos terminados deben ser mantenidos en cuarentena en las condiciones establecidas por el fabricante hasta su liberación final. Después de su liberación, el producto farmoquímico debe ser almacenado en el sector del depósito de productos terminados en las condiciones establecidas.
+8.D.3. Además de las recomendaciones anteriores, los productos farmoquímicos terminados estériles deben ser fabricados de acuerdo con las recomendaciones para productos farmacéuticos estériles en las etapas donde el proceso pueda tener influencia crítica en los atributos de calidad del producto terminado.
+
+8.E. Embalaje y rotulación.
+
+8.E.1. Los materiales de embalaje para productos farmoquímicos no deben tener efecto perjudicial sobre la sustancia, y deben brindar protección adecuada contra influencias externas y contaminaciones potenciales. Deben estar disponibles especificaciones escritas adecuadas.
+8.E.2. Debe prestarse atención en todas las etapas para prevenir errores de embalaje. Deben emplearse procedimientos seguros para proteger la calidad del producto cuando se lo embale y para asegurarse que los rótulos que se apliquen a los recipientes, sean los correctos.
+8.E.3. Debe prestarse especial atención en el manejo de los materiales impresos. Estos deben ser almacenados de manera segura e impedir el acceso a los mismos de personas no autorizadas.
+8.E.4. Los embalajes deben estar claramente identificados con la siguiente información:
+a) nombre del producto;
+b) título y/o potencia si esta especificada;
+c) número de lote;
+d) fecha de vencimiento o de reanálisis, si están especificadas;
+e) advertencias, si se requieren:
+f) condiciones de almacenaje, si están especificadas;
+g) nombre del fabricante y del proveedor si corresponde.
+8.E.5. Los materiales de embalaje, primario e secundario fuera de uso deben ser retirados de stock, y este hecho debidamente documentado.
+
+Capítulo 9
+
+Control de Calidad
+
+La función de control de calidad no se limita solamente a las operaciones de laboratorio sino que debe involucrarse en las actividades y decisiones que puedan afectar la calidad el producto.
+
+9.1. Cada fabricante debe tener una unidad de control de calidad independiente cuyo responsable debe responder directamente a la administración superior de la empresa. Entre sus deberes principales, la unidad "Control de calidad" debe:
+
+a) aprobar:
+II. las especificaciones y métodos de análisis para materias primas, productos intermedios, materiales de embalaje y productos farmoquímicos;
+II. especificaciones y metodología analítica de control durante el proceso;
+III. los procedimientos de muestreo;
+IV. las instrucciones referidas a sanidad e higiene;
+V. los procedimientos de reproceso para lotes rechazados o materiales recuperados;
+VI. otras instrucciones relacionadas con la calidad del producto.
+
+b) ser responsable de la liberación o rechazo de materias primas, de productos farmoquímicos, de materiales de embalaje y, si se requiere, de productos intermedios;
+c) asegurar el control y el seguimiento de la estabilidad de los productos farmoquímicos;
+d) ser responsable de la investigación de reclamos y devoluciones relacionados con la calidad de los productos farmoquímicos.
+
+9.2. Todo fabricante debe contar con un laboratorio de control propio. El laboratorio debe tener personal suficiente y calificado y estar equipado para realizar todos los ensayos de control de calidad necesarios. Los ensayos deben ser hechos de acuerdo a procedimientos escritos y validados. Los instrumentos deben ser calibrados a intervalos adecuados; los reactivos deben ser de calidad apropiada.
+
+9.3. Cuando las circunstancias requieran el uso de laboratorios externos, tal hecho debe estar asentado en los registros analíticos.
+9.4. El personal de Control de Calidad debe tener libre acceso a las áreas de producción para muestreo y verificaciones.
+9.5. La siguiente documentación vinculada al sector "Control de Calidad" debe estar fácilmente disponible en el sector:
+- especificaciones;
+- procedimientos de muestreo;
+- métodos de análisis y registros (incluyendo las hojas de cálculo o cuadernos de anotaciones);
+- protocolos y/o certificados analíticos;
+- registro del monitoreo ambiental donde fuera especificado;
+- registro de validación de métodos cuando corresponda;
+- procedimientos y registros de calibración y manutención de instrumentos y equipos.
+9.6. La documentación de Control de Calidad correspondiente a un lote debe ser mantenida por el lapso de año con posterioridad al período de validez o de cinco años cuando los productos no tengan asignado dicho período.
+9.7. El muestreo debe ser realizado de acuerdo con procedimientos escritos aprobados que describan:
+- el método o criterio del muestreo;
+- equipos de muestro y elementos de protección personal cuando fueran necesarios;
+- tamaño de la muestra;
+- instrucciones para la subdivisión de la muestra en caso necesario;
+- tipo y condiciones del envase a utilizar;
+- identificación de las unidades muestreadas;
+- precauciones especiales a tener en cuenta con relación al muestreo de materiales estériles o nocivos;
+- instrucciones para la limpieza y almacenamiento de los elementos de muestreo;
+- condiciones de almacenamiento de las muestras;
+- destino de las muestras sobrantes.
+9.8. Las muestras de retención para referencia futura deben:
+- tener etiqueta adecuada identificando su contenido, número de lote, fecha de muestreo y número de análisis;
+- tener la cantidad suficiente para permitir, como mínimo, la realización de dos análisis completos;
+- las muestras de productos terminados deben ser mantenidas en envases lo más semejantes posibles al envase de venta y ser almacenadas en las condiciones especificadas.
+9.9. Tiempo de almacenamiento de las muestras para referencia futura:
+- muestras de materias primas: como mínimo hasta finalizar el lote (excepto solventes, gases y agua); se exceptúan de este criterio las materias primas críticas de un proceso, las que deben ser mantenidas por un año, como mínimo, a contar de la fecha de agotamiento del lote;
+- muestras de productos intermedios: deben ser mantenidas, como mínimo, hasta la aprobación del producto terminado;
+- muestras de productos terminados con período de validez especificado: deben ser mantenidas por el lapso de un año, como mínimo, a contar de la fecha de expiración del mismo;
+- muestras de productos terminados que no poseen períodos de validez especificados: deben ser mantenidas por no menos de cinco años
+
+
+Capítulo 10
+
+Estudios de Estabilidad
+10.1. Debe establecerse un programa escrito de estudios de estabilidad para los productos farmoquímicos. Deben usarse planes y métodos analíticos indicadores de estabilidad.
+10.2. Las muestras de los productos sometidos al estudio de estabilidad deben almacenarse en recipientes adecuados, y en envases similares a los usados para su comercialización, a temperatura ambiente o la recomendada para su conservación y también en condiciones que aceleren su envejecimiento.
+10.3. Normalmente, no existe exigencia de asignación de fecha de vencimientos para los productos farmoquímicos. Si un estudio de estabilidad no indica un período de vida útil razonable, por ejemplo, dos años o más, bajo las condiciones de almacenamiento previstas, el producto debe ser rotulado con un período de validez apropiado no superior a cinco años y debe ser reanalizado antes de esa fecha
+
+
+Capítulo 11
+
+Autoinspección y Auditoría de Calidad
+
+11.1. Para mantener una estricta conformidad con las Buenas Prácticas de Fabricación y con todos los procedimientos de fabricación y controles prescriptos, es recomendable que la empresa designe a un experto o equipo de expertos para que realice inspecciones periódicas de sus procedimientos generales de producción y control. Tales expertos deberán ser tan independientes como fuera posible de los procedimientos de producción y control que inspeccionen.
+11.2. El objeto de las autoinspecciones es evaluar el cumplimiento por el fabricante de las Buenas Prácticas de Fabricación en todos los aspectos de la producción y del Control de Calidad. El programa de autoinspección debe estar diseñado para detectar cualquier defecto en la implementacion de las buenas prácticas de fabricación y para recomendar las acciones correctivas adecuadas. Los procedimientos y registros para la autoinspección deben estar documentados y debe haber un efectivo programa de seguimiento. Las autoinspecciones deben realizarse en forma rutinaria, y podrán, adicionalmente, efectuarse en ocasiones especiales, por ejemplo, en casos de retiros del mercado, rechazos repetidos, o cuando se anuncia una inspección por parte de las autoridades sanitarias. Puede ser útil suplementar las autoinspecciones con auditorías de calidad, que consiste en un examen y evaluación de todo o parte de un sistema con el objeto específico de mejorarlo. La auditoría generalmente es realizada por especialistas externos o independientes o por un equipo designado por la gerencia para tal fin. Las autoinspecciones y las auditorías deben quedar registradas.
+
+
+Capítulo 12
+
+Almacenamiento y Distribución
+
+
+12.1. Los productos farmoquímicos deben ser almacenados en condiciones establecidas por el fabricante en base a estudios de estabilidad.
+12.2. El sistema de distribución debe operar de forma tal que se despachen en primer lugar, salvo razones justificadas, los lotes más antiguos. Las condiciones de almacenamiento (temperatura, humedad, etc.) deben ser compatibles con las requeridas para el producto y coincidir con las indicadas en el rótulo del mismo. Para aquellos productos que requieran de condiciones de almacenamiento especiales (temperatura y/o humedad controladas) debe contarse con áreas equipadas para mantener tales condiciones y llevar los registros correspondientes.
+12.3. Deben mantenerse registros sobre la distribución de cada lote de un producto farmoquímico para facilitar, si fuera necesario, el retiro del mercado el lote, según procedimientos escritos.
+Los mismos deben contener:
+- nombre y dirección del destinatario;
+- número de lote, cantidad y fecha de provisión
+
+
+Capítulo 13
+
+Reclamos y Desvíos de Calidad
+
+13.1. El fabricante debe tener instrucciones escritas para tratar los reclamos y defectos relativos a la calidad de los productos farmoquímicos.
+13.2. Todas las acciones necesarias deben efectuarse rápidamente. Los reclamos deben ser investigados a fondo y todos los hechos deben quedar registrados.
+13.3. El fabricante debe tener un sistema que le permita investigar todos los productos que puedan haber sido afectados por un error repetitivo o una falla en los procedimientos de la empresa.
+13.4. Todo reclamo referente a desvío de calidad del producto deberá ser registrado e investigado. El responsable de Control de Calidad debe estar involucrado en el estudio de estos problemas y los registros deben incluir la siguiente información:
+- nombre del producto;
+- número de lote/partida;
+- nombre del reclamante;
+- motivo del reclamo;
+- respuesta al reclamo.
+
+13.5. Todas las decisiones y medidas tomadas como consecuencia de un reclamo, deben ser registradas, firmadas, fechadas y anexadas a los registros del lote correspondiente.
+
+Capítulo 14
+
+Retiros del Mercado
+
+Se debe disponer de un sistema capaz de retirar pronta y eficientemente del mercado, de ser necesario, productos que presenten desvíos de calidad o se sospeche de la calidad de los mismos.
+
+14.1. Debe ser designada una persona responsable para coordinar y ejecutar los procedimientos sobre retiros del mercado, con suficientes recursos para lograr este resultado con adecuado grado de urgencia.
+14.2. Deben existir procedimientos escritos apropiados y actualizados para proceder a cualquier actividad de retiro.
+14.3. La persona responsable de los retiros debe tener fácil acceso a los registros de distribución.
+14.4. Los productos retirados deben ser identificados y almacenados en áreas separadas y seguras hasta la resolución de su destino.
+
+
+Capítulo 15
+
+Materiales Rechazados
+
+El fabricante debe tener instrucciones escritas con respecto al destino final de los materiales rechazados, ya sean materias primas, productos intermedios, materiales de embalaje o productos farmoquímicos terminados. Los materiales rechazados deben ser identificados claramente como tales y almacenados en forma controlada mientras esté pendiente su destrucción, reprocesado o devolución a los proveedores.
+
+
+Capítulo 16
+
+Devoluciones
+16.1. Los productos devueltos del mercado por cualquier motivo deben ser reanalizados.
+16.2. Si el producto devuelto está dentro de su plazo de validez, de acuerdo con los resultados analíticos se le puede dar los siguientes destinos:
+- reembalaje y venta;
+- incorporación al proceso de fabricación de acuerdo con procedimientos escritos;
+- reproceso para su recuperación;
+- destrucción de acuerdo con procedimientos registrados.
+16.3. Cualquier decisión adoptada referente e devoluciones debe ser registrada y aprobada por personal autorizado. La documentación correspondiente debe ser anexada al registro del lote.
+16.4. Productos devueltos por estar fuera de su plazo de validez deben ser destruidos y el procedimiento empleado debe estar registrado.
+
+
+2

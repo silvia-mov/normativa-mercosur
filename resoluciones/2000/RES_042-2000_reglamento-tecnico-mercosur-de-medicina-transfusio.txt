@@ -1,0 +1,1927 @@
+Resolución GMC N° 42/00
+Título: REGLAMENTO TÉCNICO MERCOSUR DE MEDICINA TRANSFUSIONAL
+Fecha de aprobación: 28/06/2000
+Vigencia: Derogada (Será derogada por la Resolución GMC N° 07/14, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 16591_RES_042-2000_ES_RTM_Medicina Transfusional_Acta 2_00.doc.pdf
+Conversión a texto: OCR (Windows)
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1266).
+----------------------------------------------------------------------
+[página 1]
+MERCOSUR/GMC/RES. NO 42/00
+REGLAMENTO TECNICO MERCOSUR DE MEDICINA TRANSFUSIONAL
+VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto las
+Resoluciones NO 91/93, 130/96, 152/96 y 38/98 del Grupo Mercado Común y la
+Recomendación NO 12/99 del SGT NO 11 "Salud".
+CONSIDERANDO :
+La solicitud de revisión del Reglamento Técnico de Medicina Transfusional,
+Resolución GMC NO 130/96 presentada por los representantes de Brasil y
+Uruguay, la autorización del GMC para su revisión, se procedió conforme a los
+puntos en discusión lográndose un consenso en el documento.
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR de Medicina Transfusional"
+que consta como Anexo y forma parte de la presente Resolución.
+Art. 2 - Los Estados Partes, pondrán en vigencia las disposiciones legislativas,
+reglamentarias y administrativas necesarias para dar cumplimiento a la presente
+Resolución a través de los siguientes organismos:
+Argentina: Ministerio de Salud
+Agência Nacional de Vigilância Sanitária/Ministério da Saúde
+Brasil:
+Paraguay: Ministerio de Salud Pública y Bienestar Social
+Uruguay: Ministerio de Salud Pública
+Art. 3 — Al entrar en vigencia la presente Resolución queda derogada la Resolución
+GMC NO 130/96.
+Art. 4 - La presente Resolución se aplicará en el territorio de los Estados Partes,
+al comercio entre ellos y a las importaciones extrazona.
+Art. 5 - Los Estados Partes del MERCOSUR deberán incorporar la presente
+Resolución a sus ordenamientos jurídicos nacionales antes del 10 de enero de
+2001.
+XXXVIII GMC - Buenos Aires, 28/VI/00
+[página 2]
+REGLAMENTO TÉCNICO MERCOSUR DE MEDICINA TRANSFUSIONAL
+INTRODUCCIÓN
+Las necesidades terapéuticas de los pacientes en 10 relativo a la sangre,
+componentes y hemoderivados, son definidas, realizadas, controladas y sus
+resultados evaluados por la Medicina Transfusional. Esta cumple con sus finalidades
+y objetivos a través de distintos niveles de Servicios de Medicina Transfusional, que
+reciben los productos sanguíneos procesados por Bancos de sangre propios o
+externos y de las plantas productoras de hemoderivados industrializados,
+debidamente autorizados y habilitados por la Autoridad Sanitaria competente.
+A. PRINCIPIOS GENERALES
+A. 1. Las Unidades de Hemoterapia o Servicios de Medicina Transfusional estarán a
+cargo de un Jefe o un Director que deberá ser un médico especialista quien será
+responsable de todas las tareas técnicas y administrativas. Atento a la Legislación de
+cada país, en Argentina el Jefe deberá ser especialista en Hemoterapia, en Brasil
+deberá ser Hemoterapeuta o Hematólogo o Médico Calificado por el órgano
+competente, en Paraguay deberá ser Hemoterapeuta, Hematólogo o Médico
+Calificado por el órgano competente y en Uruguay debe ser especialista en
+Hemoterapia. Estas responsabilidades deberán incluir el cumplimiento de estas
+Normas y de la determinación de la conveniencia terapéutica de la indicación de la
+transfusión de sangre y/o componentes así como su recolección, estudios
+serológicos e inmunohematológicos, almacenamiento, procesamiento y distribución.
+La responsabilidad de la indicación terapéutica será compartida por el médico
+solicitante. Las actividades que no estén específicamente consideradas por estas
+Normas deberán ser aprobadas por el Jefe o Director Médico.
+Toda Institución que brinde Asistencia Sanitaria, que cuente con servicio de
+Emergencia o realice intervenciones clínicas y/o quirúrgicas de mediana o gran
+complejidad o brinden servicios de Obstetricia o posean unidades de Diálisis, debe
+contar con Servicios de Medicina Transfusional propios o contratados con capacidad
+de almacenamiento, conservación, transfusión de sangre y hemocomponentes.
+A. 2. Los Servicios de Medicina Transfusional o Unidades de Hemoterapia deben
+tener personal profesional, técnico, administrativo y auxiliar suficiente y competente,
+bajo la supervisión del Jefe o Director Médico. La constitución del equipo profesional
+que secunde al Jefe o Director Médico dependerá de las necesidades y complejidad
+de la Unidad de Hemoterapia o Servicio de Medicina Transfusional.
+A. 3. Las Unidades de Hemoterapia o Servicios de Medicina Transfusional deben
+contar con un programa para controlar las prácticas transfusionales incluyendo las
+indicaciones, el uso y el descarte de los componentes sanguíneos. La transfusión de
+[página 3]
+sangre y componentes debe ser indicada con criterio teniendo en cuenta que es un
+procedimiento que no está exento de riesgos.
+A. 4. Todas las Unidades de Hemoterapia o los Servicios de Medicina Transfusional
+deben implementar programas destinados a minimizar los riesgos para la salud y
+seguridad de los receptores, de los donantes y del personal.
+A. 5. Cada Unidad de Hemoterapia o Servicio de Medicina Transfusional deben
+mantener un detallado manual de procedimientos técnicos y administrativos, el cual
+debe ser accesible a todo el personal en todo momento.
+Será de cumplimiento obligatorio para todo el personal actuante. Su incumplimiento
+implicará responsabilidad personal.
+EI Jefe o Director Médico debe hacer por 10 menos una revisión anual de todos los
+procedimientos. Debe asegurar que • las normas y procedimientos sean
+apropiadamente ejecutados, y que los equipos, materiales y reactivos, funcionen
+correctamente. Las pautas establecidas en el Manual de Procedimientos estarán
+destinadas a minimizar los riesgos para la salud de los receptores, de los donantes y
+del personal.
+Se debe contar con dependencias, ambientes y equipos adecuados para que las
+diferentes prácticas que se puedan realizar en forma confortable para el donante,
+paciente y personal.
+A.6. Todos los materiales y sustancias que entran directamente en contacto con la
+sangre o componentes a ser transfundidos deben ser estériles, apirogénicos,
+descartables y elaborados de acuerdo a la normativa MERCOSUR
+Todos los materiales, sustancias e insumos: bolsas, equipos de transfusión, filtros,
+equipos de aféresis, jeringas, agujas y anticoagulantes usados para la preservación,
+procesamiento, almacenamiento y transfusión de la sangre y sus componentes y
+todos los reactivos empleados para analizar las muestras de sangre, deben
+satisfacer las normas vigentes y deben estar registrados y autorizados por la
+Autoridad Sanitaria competente.
+A. 7. Las Unidades de Hemoterapia o Servicios de Medicina Transfusional deben
+establecer un programa de control de calidad interno y participar de programas de
+control de calidad externo, para asegurar que las normas y procedimientos sean
+apropiadamente ejecutados, y que los equipos, materiales y reactivos, funcionan
+correctamente. Estos controles incluirán la evaluación de las indicaciones, el uso y
+que el descarte de la sangre y sus componentes, se hallen dentro de los patrones
+establecidos.
+A. 8. Previamente a cualquier donación se debe obtener un consentimiento escrito
+del donante, A cada donante se le debe explicar en términos sencillos las
+características del proceso de donación y se le debe dar información sobre los
+[página 4]
+riesgos del mismo y sobre las pruebas laboratoriales a realizar para detectar
+enfermedades infecciosas. Se debe ofrecer al donante la oportunidad de efectuar
+consultas sobre el procedimiento y de denegar su consentimiento. En el caso de un
+menor de edad, el consentimiento será dado por el responsable legal. Si se desea
+incorporar al donante a un fichero de donantes potenciales, se debe obtener
+previamente su consentimiento específico.
+A. 9. Se debe informar a todos los donantes potenciales sobre los riesgos de
+enfermedades infecciosas transmisibles por transfusión. EI donante debe dejar
+constancia escrita de haber comprendido dicha información, de que se le ha dado la
+oportunidad de efectuar consultas y de que ha provisto información adecuada de
+acuerdo a su leal saber y entender.
+A. 10. Todas las tareas realizadas e inscriptas en registros, planillas, rótulos, etc.,
+deben tener una firma o código personal que permita identificar al operador actuante.
+B. DONANTES DE SANGRE
+La donación de sangre debe ser voluntaria y altruista.
+Todo candidato a donar sangre con fines transfusionales debe dar previamente eI
+consentimiento escrito a la donación de sangre. A tales efectos se le debe explicar
+en términos sencillos las características del proceso de donación, los riesgos del
+mismo y las pruebas a realizar para detectar enfermedades infecciosas. Se le
+informará sobre la importancia de los riesgos de transmitir enfermedades infecciosas
+por las transfusiones de sangre o componentes. Se debe ofrecer al donante la
+oportunidad de efectuar consultas sobre el procedimiento y de denegar su
+consentimiento. Si se desea incorporar al donante a un fichero de donantes
+potenciales, se debe obtener previamente su consentimiento específico. EI donante
+debe dejar constancia escrita de haber comprendido dicha información, de que se le
+ha dado oportunidad de efectuar consultas y de que ha provisto información
+adecuada de acuerdo a su leal saber y entender. Se debe garantizar la
+confidencialidad del donante.
+B.l. Selección del donante
+B.l.l. Criterios para la protección del donante.
+EI día de la donación, bajo supervisión médica, un profesional de salud capacitado y
+conocedor de estas normas evaluará los antecedentes y el estado actual del
+donante para determinar si se le puede realizar la extracción sin causarle perjuicio.
+B.l .1.1. Enfermedades:
+Los donantes potenciales con enfermedad hematológica, dermatológica, psiquiátrica,
+cardíaca, renal, hepática, pulmonar, autoinmune, diabetes, hipertiroidismo, E. de
+Hansen, tuberculosis, cáncer, tendencia al sangrado anormal, convulsión epiléptica o
+pérdida del conocimiento, intervención quirúrgica en los últimos 12 meses, deben ser
+[página 5]
+convenientemente evaluados y pueden ser excluidos de la donación en forma
+temporal o definitiva.
+B.l.l .2. Medicamentos:
+La terapéutica con medicamentos debe ser evaluada para que la donación no sea
+perjudicial para el donante y/o para el receptor, por cuyo motivo debe ser evaluado
+el tipo de droga y el cuadro clínico que determinó la indicación. La ingestión de ácido
+acetilsalicílico dentro de las 36 horas previas a la donación excluirá la unidad para
+ser destinada a la preparación de concentrado de plaquetas.
+B.l.l .3. Frecuencia:
+Excepto circunstancias razonablemente justificadas, no se debe extraer a los
+donantes más de 500 ml de sangre en un período de 8 semanas. La donación de
+sangre total debe ser diferida durante por 10 menos 48 horas luego de una sesión de
+hemaféresis. En casos especiales, con consentimiento del donante, se puede
+establecer un programa para proveer transfusiones de un solo donante a un paciente
+determinado. EI donante debe cumplir con todos los requisitos exigidos en B.l para
+la donación inicial. Luego, la frecuencia de las donaciones puede ser programada y
+la concentración de hemoglobina o el hematocrito debe estar de acuerdo a 10
+indicado en B.l. 1 En caso de donante autólogo, la frecuencia de las donaciones
+puede ser programada de acuerdo al protocolo médico aprobado por el jefe o
+director médico.
+B.l .1.4. Edad:
+EI donante de sangre o componentes sanguíneos debe tener entre 18 y 65 años de
+edad. Los donantes no incluidos entre estos límites, para su aceptación, deben ser
+previamente evaluados por un médico hemoterapeuta, y en el caso de los menores
+de 18 años se exigirá una autorización escrita del responsable legal.
+B.l .1.5. Hemoglobina o hematocrito:
+Se determina la concentración de hemoglobina o el hematocrito en una muestra de
+sangre obtenida por punción digital o venopuntura. La concentración de hemoglobina
+no debe ser inferior a 12,5 g/dl o el hematocrito no debe ser menor de 38%.
+B.l.1.6. Pulso:
+EI pulso debe presentar características normales, ser regular y su frecuencia no
+debe ser menor de 50 ni mayor de 100 latidos por minuto. En los atletas con alta
+tolerancia al ejercicio, una frecuencia menor puede ser aceptable, sujeta a
+evaluación médica.
+B.l.1.7. Presión arterial:
+La presión sistólica no debe ser mayor de 180 mmHg y la presión diastólica no debe
+ser menor de 60 mmHg ni mayor de 100 mmHg.
+Los donantes potenciales con valores de presión arterial no comprendidos dentro de
+los valores mencionados sólo podrán ser aceptados con la aprobación de su médico.
+[página 6]
+3 20
+B.l.l .8. Embarazo y menstruación:
+No deben donar las mujeres embarazadas, y no pueden ser aceptadas hasta las 12
+semanas posteriores al parto o aborto. Serán aceptadas como donantes las mujeres
+durante el periodo de lactancia, con autorización del médico obstetra o
+hemoterapeuta.
+La donación autóloga será aceptada si se cuenta con la aprobación del médico
+obstetra de la gestante y del médico hemoterapeuta.
+Durante el período menstrual normal se puede donar sangre. La hipermenorrea u
+otras patologías de la menstruación deben ser evaluadas por el profesional médico.
+B.l.l .9. Peso:
+Las personas que pesan 50 kg. o más podrán donar 450 45 ml de sangre. La toma
+adicional para muestras no excederá los 30 ml. Quienes pesen menos de 50 kg.
+podrán donar sólo con autorización médica, una cantidad proporcionalmente inferior;
+no excediéndose los 8 ml/kg. para las mujeres o los 9 ml/kg. para los hombres.
+La pérdida de peso inexplicable de más de 10% del peso corporal en los últimos seis
+meses será motivo de rechazo.
+B.l.1.10. Ayuno:
+No es conveniente el ayuno total. Es aconsejable que el donante ingiera antes de la
+donación alguna bebida o alimento, sin contenido graso ni alcohólico.
+B.l .1.11. Alergia:
+EI donante alérgico solamente será aceptado si en el momento de la donación no
+tiene síntomas, exceptuando aquellos que padecen enfermedades atópicas graves,
+como asma bronquial o alergia severa a drogas, serán rechazados en todo
+momento. Los que están recibiendo tratamiento desensibilizante deben postergar la
+donación hasta 72 horas después de la última aplicación.
+B.l .2. Criterios para protección del receptor.
+EI día de la donación, bajo supervisión médica, un profesional de la salud capacitado
+y conocedor de estas normas evaluará los antecedentes y eI estado actual del
+donante para excluir provisoria o definitivamente a todo donante que presente alguna
+evidencia de estar en riesgo de transmitir infecciones por transfusión.
+B.l .2.1. Aspecto general:
+EI donante debe tener aspecto saludable y manifestar sentirse bien.
+B.l .2.2. Temperatura:
+La temperatura axilar no debe exceder los 370 C.
+B.l.2.3 Inmunizaciones y vacunaciones:
+La inhabilitación para donar es variable:
+[página 7]
+a) Inhabilitación por 24 horas: toxoides o vacunas a gérmenes muertos (difteria,
+tétanos, cólera, tifus, paratifus, influenza, coqueluche, poliomielitis Salk y hepatitis B
+no derivados del plasma).
+b) Inhabilitación por dos semanas: sueros de origen animal o vacunas a virus
+atenuados (sarampión, parotiditis, fiebre amarilla y poliomielitis Sabin).
+c) Inhabilitación por 1 (un) mes: rubéola.
+d) Inhabilitación por 1 (un) año: vacunas en fase experimental, globulina hiperinmune
+para hepatitis B, vacuna contra la rabia (con antecedente de mordedura de animal
+rabioso), inmunizaciones pasivas.
+B.12.4. Sitio de la venopuntura:
+La piel del donante en ei área de la punción venosa debe estar libre de lesiones.
+B.l .2.5. Transfusiones:
+Los donantes potenciales que hayan recibido transfusiones de sangre, componentes
+sanguíneos o hemoderivados en los últimos 12 meses deben ser excluidos.
+B.l .2.6 Enfermedades infecciosas:
+EI donante potencial no debe estar cursando una enfermedad infecciosa aguda ni
+debe tener antecedentes de enfermedades infecciosas transmisibles por sangre.
+B.l .2.6.1. Enfermedades virales: Serán excluidos permanentemente como
+donantes de sangre o componentes sanguíneos quienes:
+a) Tengan antecedentes de hepatitis viral después de los 10 años de edad.
+b) Tengan evidencia presente o pasada, clínica o de laboratorio, de infección con
+virus HCV, HIV, HTLV o HVB. En las regiones en las cuales la prevalencia de
+anti -HBc fuera superior al 20%, criterios regionales de selección podrán ser
+adoptados.
+B.l .2.6.2 Paludismo (malaria):
+EI Paludismo debe ser considerado de acuerdo a la endemia regional, de la siguiente
+forma:
+a) ÁREAS ENDÉMICAS
+Definidas como área de alto, mediano o bajo riesgo para malaria usando como
+criterio de referencia el índice parasitario anual (IPA), establecido por el órgano
+oficial.
+a-l)- Antecedentes de malaria
+Rechazar a los potenciales donantes con historia de malaria en los últimos 12
+meses.
+Rechazar a los potenciales donantes con fiebre en los últimos 30 días.
+Realizar una prueba de diagnóstico parasitológico en sangre a los potenciales
+donantes con sospecha de malaria en los últimos 30 días.
+Realizar una prueba de diagnóstico parasitológico en sangre a 10 potenciales
+donantes que tuvieron malaria entre 12 y 36 meses.
+[página 8]
+a-2) Estadía en área de riesgo
+• Rechazar a los potenciales donantes procedentes de áreas de alto riesgo de
+malaria de acuerdo con el IPA.
+• Realizar una prueba de diagnóstico parasitológico en sangre a los potenciales
+donantes procedentes de áreas de medio y bajo riesgo.
+a-3) Residentes en área de malaria
+• Rechazar a los potenciales donantes residentes en áreas de alto riesgo según
+IPA. Serán considerados aptos cuando el IPA 10 permita.
+Realizar una prueba de diagnóstico parasitológico en sangre a los potenciales
+donantes que residan en áreas de medio y bajo riesgo.
+b) ÁREAS NO ENDÉMICAS
+• Excluir donantes que en los últimos seis meses visitaron áreas endémicas con
+transmisión activa.
+Excluir donantes que en los últimos 3 años tuvieron malaria o residieron en áreas
+endémicas.
+c) FIEBRE CUARTANA
+Excluir definitivamente donantes que tuvieron infección por plasmodium malaria.
+B.l .2.6.3. Síndrome de Inmuno Deficiencia Adquirida (SIDA).
+Se debe interrogar a todos los donantes acerca de situaciones y conductas de riesgo
+para el SIDA, debiéndose rechazar a quienes estuvieron expuestos a los mismos. EI
+interrogatorio al donante debe incluir preguntas vinculadas a los síntomas y signos
+del SIDA, complejo relacionado al SIDA y sarcoma de Kaposi.
+B.l .2.6.4. Enfermedad de Chagas: Los donantes potenciales con antecedentes de
+diagnóstico clínico o serológico de enfermedad de Chagas deben ser excluidos en
+forma permanente.
+B.l.2.6.5. Enfermedad de Creutzfeldt-Jakob: Serán rechazados como donantes
+las personas que hayan recibido hormona hipofisaria de crecimiento de origen
+humano, transplante de dura madre o córnea, en caso de historia familiar de
+demencia que pueda ser relacionada con encefalopatía espongiforme.
+B.l .2.6.6. Enfermedades Bacterianas: Los donantes que padezcan enfermedades
+bacterianas agudas, serán excluidos temporariamente hasta su curación definitiva.
+B.l .2.7. Estilo de vida:
+B.l .2.7.1. Adicciones:
+• Cualquier evidencia de alcoholismo agudo o crónico será causa de rechazo
+transitorio o permanente.
+[página 9]
+Se debe inspeccionar ambos brazos para detectar evidencias de uso de drogas
+parenterales, esta u otra evidencia de uso de drogas determinará el rechazo
+definitivo del donante.
+La evidencia de uso de cualquier otro tipo de drogas debe ser evaluado.
+B.l .2.7.2. Enfermedades de transmisión sexual: Antecedentes repetidos de sífilis
+o gonorrea, o tratamiento para alguna de estas enfermedades, serán causas de
+rechazo permanente. En caso de primoinfección por sífilis o gonorrea la exclusión
+del donante debe ser de 12 meses luego de la comprobación del tratamiento
+adecuado y curación.
+B.l .2.7.3. Situación de riesgo:
+Serán inhabilitados como donantes de sangre y componentes en forma
+permanente:
+• Las personas con evidencias clínicas y de laboratorio de infección por HIV.
+• Las personas que padezcan enfermedades infecciosas transmisibles por
+transfusión.
+• Personas que hayan donado la única unidad de sangre o componente sanguíneo
+transfundida a un paciente que desarrolló evidencia clínica o de laboratorio de
+hepatitis asociada a transfusión o infección con HIV, HTLV I y II o cualquier otra
+infección transmisible por transfusión de sangre y que no recibió ningún otro
+componente o derivado sanguíneo capaz de transmitir estas infecciones y no
+tuvo ninguna otra causa probable de infección.
+Serán inhabilitados por un año como donantes de sangre y componentes, los
+candidatos que dentro de los 12 meses precedentes:
+Hombres y/o mujeres que hayan tenido sexo a cambio de drogas o dinero y las
+personas que han tenido sexo con ellos
+Hombres y/o mujeres con múltiples parejas sexuales.
+Hombres que hayan tenido relaciones sexuales con otros hombres y las parejas
+sexuales de ellos.
+Personas que hayan tenido relaciones sexuales con alguien con una prueba
+positiva para HIV, Hepatitis B, Hepatitis C u otra infección transmisible por sangre
+Personas que hayan estado detenidas en una institución carcelaria o policial.
+Personas que se hayan realizado tatuajes u otra exposición no estéril a sangre u
+otro material de riesgo biológico.
+Personas que sean parejas sexuales de hemodializados y de pacientes con
+historia de transfusión sanguínea.
+B.l.3 Información provista al donante:
+B.l .3.1. Autoexclusión:
+Se debe brindar a cada donante la oportunidad de indicar confidencialmente que la
+unidad colectada puede ser inadecuada para transfusión.
+[página 10]
+B.l.3.2. Recomendaciones:
+EI donante debe ser informado sobre los cuidados que deberá observar durante la
+colecta y alertado sobre las posibles reacciones adversas.
+B.l.3.3. Notificación de resultados:
+Será responsabilidad del Director Médico contar con un sistema de notificación al
+donante por medio del cual se le comunique toda anormalidad significativa
+encontrada en su sangre. Se le indicará consultar al especialista.
+B.2, Colecta de la sangre del donante:
+B.2.1. Método:
+La colecta de sangre debe ser realizada en condiciones asépticas mediante una sola
+venopuntura, con un sistema cerrado de bolsas plásticas, destinado a este fin,
+descartable, apirógeno y estéril bajo la supervisión de un profesional de acuerdo a la
+legislación de cada país.
+B.2.2. Protección contra la contaminación:
+La preparación de la piel para la venopuntura debe ser hecha de manera que
+asegure la asepsia. La vena a punzar no debe ser palpada luego de la preparación
+de la piel. Todo el material a utilizar debe ser estéril. Si fuera necesario efectuar más
+de una punción, debe ser usado un nuevo material de colecta.
+B.2.3. Muestras para pruebas de laboratorio:
+La tubuladura de la bolsa de colecta debe ser llenada con sangre anticoagulada y
+quedará sellada en segmentos para futuras pruebas de compatibilidad transfusional.
+Tales segmentos de la tubuladura deben ser separables de la bolsa sin pérdida de
+su esterilidad. Los tubos "piloto" para obtener sangre con destino a las pruebas de
+laboratorio, serán rotulados previa o simultáneamente a la colecta. Las muestras
+deben ser colectadas directamente del donante por el extremo de la tubuladura
+conectada a la vena, luego de haber sido separada la bolsa con sangre,
+corroborando los rótulos de bolsa y tubos que sean iguales.
+B.2.4. Atención de los donantes:
+La unidad de Hemoterapia o el Servicio de Medicina de Transfusional debe disponer
+de medicamentos, equipos e instrucciones específicas concernientes a los
+procedimientos a ser seguidos en cuanto a la prevención y tratamiento de las
+reacciones en donantes.
+EI donante debe recibir hidratación adecuada posteriormente a la donación y antes
+de retirarse del ámbito de la institución, de acuerdo a la legislación de cada Estado
+Parte.
+B.2.5. Anticoagulantes:
+Los anticoagulantes deben emplearse en las cantidades prescritas de acuerdo al
+volumen de sangre a ser colectado. Si se han colectado 300-405 ml de sangre en un
+volumen de anticoagulante calculado para 450 ml, los concentrados de glóbulos
+[página 11]
+rojos podrán ser usados para transfusión si se aplica un rótulo señalando: "Unidad
+ml de concentrado de glóbulos rojos".
+de bajo volumen•
+Un volumen de sangre inferior a 300 ml puede ser usado con fines transfusionales si
+fue obtenido en una cantidad de anticoagulante proporcionalmente reducida. No se
+deben preparar otros componentes a partir de unidades de bajo volumen.
+B.2.6 Temperatura:
+Inmediatamente después de la colecta, la sangre debe ser almacenada a 4+ 20C,
+excepto si va a ser usada como fuente de plaquetas. En este último caso, debe ser
+almacenada a 22 + 20C hasta que las plaquetas sean separadas, pero durante no
+más de 8 horas.
+B.2.7 Local:
+La sala de colecta debe ser un local limpio, confortable y agradable, que posibilite
+que el donante se sienta cómodo, a gusto, libre de aprensión por la donación.
+B.2.8 Identificación del donante:
+La ficha del donante, la unidad de sangre y los tubos "pilotos" conteniendo las
+muestras de sangre debe identificar adecuadamente al donante. EI nombre del
+donante no debe constar en la etiqueta de la unidad de sangre o hemocomponentes,
+con excepción de aquellas destinadas a transfusión autóloga.
+B.3. Extracciones terapéuticas de sangre:
+Las extracciones de sangre con fines terapéuticos sólo serán realizadas cuando el
+médico del paciente 10 solicite por escrito, y el médico de la Unidad de Hemoterapia
+o Servicio de Medicina Transfusional decida aceptar la responsabilidad del acto. La
+sangre extraída no podrá ser utilizada para transfusión homóloga. EI procedimiento
+debe utilizar un sistema de colecta cerrado y estéril.
+B.4. Preparación de componentes sanguíneos
+B.4.1. Principios generales:
+Los componentes sanguíneos son preparaciones obtenidas por separación a partir
+de unidades de sangre total o elaboradas mediante hemaféresis, y que son utilizados
+como productos finales para transfusión.
+La esterilidad del componente debe ser mantenida durante el procesamiento
+mediante el empleo de métodos asépticos, equipos y soluciones estériles, libres de
+pirógenos. La transferencia de componentes debe hacerse preferentemente con
+equipos de circuito cerrado. De esta manera, el período de almacenamiento estará
+limitado solamente por la viabilidad y estabilidad de los componentes.
+Si durante el procedimiento se abriera el circuito, incluyendo la preparación de "pool",
+los componentes conservados a 4 + 20 C tendrán un tiempo de validez de 24 horas,
+y los componentes conservados a 22 + 20 C tendrán un tiempo de validez de 4
+horas.
+Si los componentes van a ser criopreservados, deben ser colocados en el
+congelador dentro de las 4 horas a partir de la apertura del circuito; cuando tales
+[página 12]
+componentes sean descongelados, deberán ser transfundidos dentro de las 6 horas
+si son almacenados a 22 + 20 C. y dentro de las 24 horas si son almacenados a 4 +
+20 c.
+Las alícuotas de sangre o componentes y los "pool" de componentes deben cumplir
+las condiciones establecidas en este ítem.
+B.4.2. Componentes eritrocitarios:
+B.4.2.1 .Concentrados de glóbulos rojos.
+Son los glóbulos rojos remanentes luego de remover el plasma de una unidad de
+sangre total sedimentada o sometida a centrifugación. Los glóbulos rojos pueden
+ser separados del plasma en cualquier momento antes de la fecha de expiración
+de la sangre.
+B.4.2.2. Glóbulos rojos congelados, glóbulos rojos desglicerolizados.
+Son los glóbulos rojos que han sido conservados en estado de congelamiento a
+temperaturas óptimas y en presencia de un agente crioprotector, el cual es removido
+por medio de lavados antes de la transfusión.
+EI método de preparación debe asegurar la remoción adecuada del agente
+crioprotector, un nivel mínimo de hemoglobina libre en la solución sobrenadante, la
+recuperación de por 10 menos el 80% de los glóbulos rojos originales luego de la
+desglicerolización y la viabilidad de por 10 menos el 70% de los glóbulos rojos
+transfundidos 24 horas después de la transfusión.
+Los glóbulos rojos podrán ser congelados dentro de los 6 días a partir de la colecta
+de sangre, excepto cuando sean rejuvenecidos.
+En el momento de preparar el componente final destinado a transfusión, la
+tubuladura conectada a la bolsa debe ser llenada con una alícuota del componente y
+sellada de manera tal que resulte disponible para subsiguientes pruebas de
+compatibilidad.
+B.4.2.3. Glóbulos rojos lavados:
+Son los glóbulos rojos que se obtienen después de efectuar lavados con solución
+isotónica de cloruro de sodio, con la finalidad de eliminar la mayor cantidad posible
+de plasma. Según el método usado, la preparación puede contener cantidades
+variables de leucocitos y plaquetas de la unidad original.
+B.4.2.4. Glóbulos rojos leucoreducidos
+Son los glóbulos rojos preparados por un método que asegure la recuperación de
+por 10 menos el 85% de los glóbulos rojos originales. Deben ser preparados por un
+método que reduzca el número de leucocitos en el componente final a menos de 5 x
+106
+[página 13]
+30
+B.4.2.5 Glóbulos rojos rejuvenecidos:
+Son los glóbulos rojos tratados por un método que restablezca los niveles de 2,3-
+DPG y ATP a valores normales o superiores, después del almacenamiento a 4 + 20
+C durante hasta 3 días después del vencimiento. Luego del procedimiento de
+rejuvenecimiento, los glóbulos rojos pueden ser apropiadamente lavados y
+transfundidos dentro de las 24 horas, o glicerolados y congelados. Los rótulos deben
+indicar el uso de soluciones de rejuvenecimiento.
+B.4.3. Componentes plasmáticos:
+B.4.3.1. Plasma fresco congelado:
+Es el plasma obtenido de una unidad de sangre total separado en un sistema
+cerrado, cuyo proceso de congelamiento ha sido completado en un período inferior a
+las 8 horas, debiendo ser almacenado a una temperatura inferior a menos de -200 C
+Si se emplea un baño de congelamiento líquido, la bolsa plástica debe ser protegida
+de alteración química, derrames y contaminación.
+B.4.3.2. Plasma Congelado: Es el plasma obtenido de una unidad de sangre total,
+separado en un sistema cerrado cuyo proceso de congelamiento ha sido completado
+en un período superior a 8 horas, debiendo ser almacenado a una temperatura
+inferior a — 200 C.
+B.4.3.3. Plasma Remanente:
+Es el plasma obtenido a partir de plasma fresco, plasma fresco congelado o plasma
+congelado después de retirado los componentes, debiendo ser nuevamente
+congelado y almacenado a temperatura no superior a —200C.
+B.4.3.4. Plasma Recuperado:
+Es el que no reúne los requisitos de plasma fresco, plasma fresco congelado,
+plasma remanente y que se destina exclusivamente a la producción de
+hemoderivados, debiendo ser almacenados a una temperatura inferior a —200C.
+B.4.3.5. Crioprecipitado:
+Es la fracción de plasma insoluble en frío, obtenida a partir del plasma fresco
+congelado. Este debe ser descongelado a 4± 20 C. Inmediatamente después de
+completado el descongelamiento, el plasma debe ser centrifugado a la
+temperatura de 4 ± 20 C y separado del material insoluble en frío bajo condiciones
+estériles. EI crioprecipitado resultante debe ser recongelado dentro de la hora
+posterior a su obtención. EI producto final debe contener como mínimo 80 Ul de
+Factor VIII y 150 mg/dl de fibrinógeno en todas las unidades analizadas.
+B.4.4. Concentrados plaquetarios:
+EI concentrado de plaquetas es una suspensión de plaquetas en plasma preparada
+mediante centrifugación de una unidad de sangre total, colectada en tiempo no
+mayor de 15 minutos, o mediante citaféresis.
+[página 14]
+378
+EI concentrado obtenido a partir de sangre total debe contener como mínimo 5,5 x
+1010 plaquetas en cada unidad de plaquetas, en por lo menos el 75% de las
+unidades evaluadas al tiempo máximo de almacenamiento.
+EI concentrado obtenido por aféresis debe contener como mínimo 3 x 1011 plaquetas
+en cada unidad de plaquetas en por 10 menos el 75% de las unidades evaluadas.
+Las plaquetas deben estar suspendidas en suficiente cantidad de plasma, de
+manera tal que el pH determinado a la temperatura de conservación debe ser 6,2 0
+mayor en las unidades evaluadas al final del período permitido de almacenamiento.
+Las unidades con agregados plaquetarios groseramente visibles luego del
+almacenamiento no deben ser empleadas para transfusión.
+B.4.5. Concentrado de granulocitos:
+Es una suspensión de granulocitos en plasma preparada mediante citaféresis. EI
+componente debe contener como mínimo 1 ,0 x 1010 granulocitos en por 10 menos el
+75% de las unidades evaluadas.
+B.4.6. Componentes sanguíneos irradiados:
+B.4.6.1. La dosis de irradiación suministrada será de un mínimo de 2500 cGy sobre
+el plano medio de la unidad irradiada. La dosis mínima en cualquier punto de la
+unidad debe ser de 1500 cGy.
+Las unidades irradiadas deben ser adecuadamente rotuladas e identificadas. Se
+debe controlar la irradiación por lote de hemocomponente irradiado, utilizando
+indicadores de acuerdo a las normas de cada país,
+Para reducir el riesgo de enfermedad injerto versus huésped, se recomienda la
+irradiación de productos hemoterapéuticos, principalmente productos celulares,
+cuando son destinados a transfusiones intrauterinas, recién nacidos de bajo peso,
+pacientes inmunodeficientes y/o inmunosuprimidos, pacientes sometidos a
+transplante de médula ósea y cuando el receptor fuera familiar de primer grado del
+donante.
+B.4.6.2. Se deberá efectuar anualmente una verificación de la dosis de radiación
+liberada por los aparatos utilizados y documentada fehacientemente, de acuerdo a
+las normas de cada país.
+B.5. Investigaciones en la sangre del donante
+B.5.1. Determinación del grupo ABO
+Se debe determinar el grupo ABO investigando los glóbulos rojos con reactivos anti-
+A, anti-B y anti-AB. La prueba inversa debe ser realizada enfrentando el suero o
+plasma con suspensión de glóbulos rojos conocidos A1 y B.
+La unidad de sangre no deberá ser liberada para su utilización hasta que cualquier
+discrepancia haya sido resuelta.
+[página 15]
+B.5.2. Determinación del factor Rh (D)
+EI factor Rh (D) será determinado enfrentando los eritrocitos con suero anti-Rh (D)
+incluyendo uso de suero control del mismo fabricante. Si la reacción fuera negativa
+se deberá efectuar la técnica para la detección de D débil.
+Cuando la prueba para D o la prueba para D débil resulte positiva, la sangre será
+rotulada "Rh Positivo". Cuando ambas pruebas resulten negativas, la sangre será
+rotulada 'Rh Negativo".
+Se recomienda determinar el fenotipo del sistema Rh en todas las personas Rh
+negativo y en los individuos Rh positivo con la finalidad de disminuir
+aloinmunizaciones.
+B.5.3. Registros previos
+EI registro de una tipificación ABO y Rh (D) previa de un donante no servirá para la
+identificación de las unidades de sangre subsiguientemente donadas por eI mismo
+donante.
+Nuevas determinaciones deben ser realizadas en cada colecta. Si hubiera existido
+una donación previa, se debe comparar la tipificación ABO y Rh (D) con el último
+registro disponible. Cualquier discrepancia debe ser resuelta antes de rotular la
+unidad de sangre.
+B.5.4. Pruebas para la detección de anticuerpos irregulares
+Se debe realizar en los donantes la pesquisa de anticuerpos séricos irregulares,
+empleando métodos que demuestren anticuerpos clínicamente significativos. Esta
+determinación solamente podrá ser obviada si sistemáticamente se realiza la
+prueba de compatibilidad transfusional menor cuando se transfunde sangre total,
+concentrado de glóbulos rojos, concentrado de plaquetas o plasma. Las unidades
+de sangre que contengan tales anticuerpos podrán ser transfundidas a pacientes
+que no posean los antígenos correspondientes.
+B.5.5. Pruebas para enfermedades transmisibles
+B.5.5.1 En una muestra de sangre de cada donante se debe realizar las
+investigaciones serológicas para: sífilis, enfermedad de Chagas (Anti T cruzi)
+síndrome de inmuno deficiencia adquirida ( Anti HIV 1-2), hepatitis B (HBs Ag y
+Anti HBc), hepatitis C (Anti HCV) y HTLV I y II y otras enfermedades transmisibles
+por la sangre con significado epidemiológico en el Estado Parte.
+En el caso de infección por HIV se debe realizar obligatoriamente dos ensayos,
+basados en metodologías y/o antígenos diferentes.
+En el caso de la enfermedad de Chagas se debe hacer doble determinación
+serológica con metodologías distintas. En los países donde la enfermedad no es
+[página 16]
+330
+endémica se podrá realizar un solo ensayo serológico con buena sensibilidad y
+especificidad de acuerdo con las normas propias del país.
+No se debe usar sangre o sus componentes con fines transfusionales cuando la
+prueba para anti HBc resulta reactiva.
+En las regiones donde la prevalencia del Anti HBc fuera superior al 20% permítese la
+liberación de los hemocomponentes Anti HBc positivos que presenten
+concomitantemente Anti HBs reactivo, confiriendo inmunidad.
+B.5.5.2 La sangre total y los componentes sanguíneos sólo podrán ser usados para
+transfusión cuando las pruebas precedentes resulten no reactivas. Es obligación la
+realización de los estudios serológicos en todas las unidades de sangre colectadas,
+con técnicas de laboratorio de la más alta sensibilidad. Si cualquiera de las pruebas
+siguientes realizadas en el donante, resultasen reactivas, el médico solicitante y el
+receptor deben ser notificados al respecto.
+B. 5.5.3 Malaria, brucelosis, detección de hemoglobinas anormales y otras
+enfermedades.
+Cada país determinará los métodos requeridos para evitar la transmisión a través de
+la sangre de patologías de significancia regional. Los envíos de sangre y
+hemocomponentes, excepto plasma que se envía a fraccionamiento industrial deben
+cumplir con las normas del país destinatario y del país de origen de los productos.
+B.5.5.4 Citomegalovirus (CMV)
+Se realizará la determinación en todas las unidades de sangre o componentes
+destinadas a:
+a) Pacientes sometidos a transplantes de órganos y negativos para CMV.
+b) Recién nacidos de madres CMV negativas.
+c) Como alternativa se podrá obtener sangre con bajo riesgo de transmisión de
+CMV a través de la utilización de filtros de leucocitos de no menor de 4 logaritmos
+de eficiencia.
+B.5.5.5 Compete al órgano ejecutor de las actividades hemoterapéuticas:
+a) Realizar tamizaje serológico de los donantes a través de test de alta sensibilidad.
+b) Descartar convenientemente la sangre con resultados serológicos positivos para
+cualquiera de las reacciones antes mencionadas;
+c) Convocar, orientar y encaminar al donante con resultados serológicos anormales
+a servicios aSistenciales para su diagnóstico y tratamiento.
+d) Mantener los registros de los resultados de los exámenes realizados así como,
+las interpretaciones y disposiciones finales.
+e) Cada servicio deberá mantener una seroteca con muestras de cada unidad
+colectada como mínimo durante un año.
+[página 17]
+A. 5.5.6 No es obligatorio que el órgano ejecutor de las actividades de hemoterapia
+realice estudios confirmatorios de diagnóstico. Deberá entretanto ser respetado
+en su totalidad 10 manifestado en el punto anterior (B.5.5.5. c)
+B.6 Identificación de la unidad de sangre
+B.6.1 Normas generales:
+B.6.1.1. EI rótulo y las etiquetas de cada unidad de sangre o componentes deben
+estar firmemente adheridas a la bolsa plástica.
+B.6.1.2. Todas las anotaciones y modificaciones escritas a mano deben ser
+claramente legibles con tinta indeleble, atóxica y a prueba de agua.
+B.6,1.3. Las unidades de sangre y componentes pueden tener más de un rótulo
+desde que no se superpongan a rótulos preexistentes.
+B.6.1.4. Es obligatorio el control de cada unidad por una persona que no es la que
+efectuó la rotulación de la bolsa de sangre o componentes.
+B.6.2. Identificación específica.
+B.6.2.1. La identificación debe permitir el seguimiento de la unidad desde su
+obtención hasta terminar el acto transfusional, permitiendo inclusive la investigación
+de efectos adversos que eventualmente puedan ocurrir durante y después del acto
+transfusional.
+B.6.2.2, La identificación debe realizarse por sistema numérico o alfanumérico. En el
+momento de la colecta, el número o alfanúmero será puesto de manera legible y
+clara en las bolsas principales y satélites, no debiendo ser raspada, removida o
+cubierta posteriormente por sectores o individuos que puedan manipular el producto.
+B.6.2.3. Las instituciones, organismos y sectores intermediarios pueden usar para el
+procesamiento un sistema numérico o alfanumérico propio, rótulos suplementarios
+que identifiquen a la institución que recibió las unidades de sangre o componentes
+para su almacenamiento o transfusión.
+B.6.2.4. No deben constar en el rótulo más de dos números o alfanúmeros que
+identifiquen la unidad de sangre o componentes. En caso de necesidad de una
+tercer identificación, la numeración original no debe ser cubierta o removida.
+B.6.3. Datos incluidos en el rótulo en la fase de colecta y procesamiento
+B.6.3.1. Nombre y dirección de la institución colectora.
+B.6.3.2. Nombre y volumen aproximado del producto sanguíneo
+[página 18]
+39 z
+B.6.3.3. Identificación numérica o alfanumérica.
+B.6.3.4. Nombre y cantidad del anticoagulante (excepto los componentes obtenidos
+por aféresis).
+B.6.3.5. Fecha de la colecta si la donación es voluntaria, autóloga o dirigida.
+B.6.4. Datos que se agregan en el rótulo en la fase de liberación de la unidad
+B.6.4.1. Temperatura adecuada para la conservación.
+B.6.4.2. Fecha de vencimiento del producto y en los casos en que se aplique, el
+horario de vencimiento.
+B.6.4.3. EI grupo ABO y Rh, el resultado de las pruebas de anticuerpos irregulares
+cuando éstas fueran positivas. La pesquisa de anticuerpos irregulares no es
+necesaria para los concentrados de glóbulos rojos criopreservados, deglicerolados,
+rejuvenecidos o lavados.
+B.6.4.4. En el caso de que otras instituciones hayan sido responsables de una o más
+de las etapas siguientes a la colecta, su identificación debe también constar en el
+rótulo.
+B.6.4.5. En el rótulo se debe consignar "no agregar medicamentos".
+B.6.4.6. En el rótulo final debe consignar los resultados de la serologia conforme a
+las normas de cada país.
+B.6.5. Instrucciones para la transfusión
+B.6.5.1. Transfundir solamente por prescripción médica.
+B.6.5.2. Confirmar los datos que aparecen en el rótulo de la bolsa.
+B.6.5.3. Transfundir los componentes con glóbulos rojos solamente después de
+efectuar las pruebas de compatibilidad.
+B.6.5.4. Identificar adecuadamente al receptor.
+B.6.5.5. Utilizar únicamente equipo de infusión con filtro para transfusión.
+B.6.6. Contenido de los rótulos de las preparaciones especiales
+B.6.6.1. Componentes liberados en forma de "pool" (concentrados de plaquetas y
+crioprecipitados) además de las especificaciones descriptas deberán informar:
+[página 19]
+33 3
+B.6.6.1.1. Nombre del componente, indicación de que se trata de un "pool", NO de
+unidades y su correspondiente identificación.
+B.6.6.1.2. Nombre de la institución responsable de su preparación.
+B.6.6.1.3. Grupo ABO y Rh de las unidades del "pool", volumen aproximado ,fecha y
+horario de vencimiento,
+B.6.6.1.4. Si el componente fue irradiado o si es CMV negativo, debe estar señalado.
+B.6.6.1.5. EI rótulo debe indicar que el producto está liberado para uso y debe
+contener el resultado negativo de las pruebas serológicas.
+B.7. Conservación, transporte y vencimiento de la sangre y componentes
+B.7.1, Equipos para conservación
+B.7.1.1. Es necesario que de acuerdo con el nivel de complejidad de los servicios
+las heladeras y congeladoras en que se almacenan la sangre, los componentes
+sanguíneos y los hemoderivados deben ser de uso exclusivo. Todos los equipos
+deben estar perfectamente identificados o codificados para evitar confusiones.
+B.7.1.2. Las heladeras que se utilicen para conservar la sangre y sus componentes
+deben tener un sistema de ventilación para circulación de aire y tener una capacidad
+y diseño tales que permitan mantener la temperatura apropiada uniforme en todos
+los sectores.
+B.7.1.3. Los componentes sanguíneos deben ser almacenados a temperaturas que
+resulten óptimas para su función y seguridad, a saber:
+1) Sangre total y concentrado de glóbulos rojos: 4 + 20 C.
+2) Plasma congelado: < -200 C.
+3) Crioprecipitado: < -200 C.
+4) Glóbulos rojos congelados en glicerol 40%: < -650 C.
+5) Glóbulos rojos congelados en glicerol 20%: < -1200 C.
+6) Concentrados plaquetarios: 22 + 20 C 0 4 + 20 C.
+7) Concentrados granulocitos: 22 + 20 C.
+B.7.1.4. Las heladeras y los congeladores para hemocomponentes y las incubadoras
+de plaquetas deben tener un sistema que puede ser automático o manual para
+controlar la temperatura, debiendo registrar la temperatura al menos cada 4 horas.
+B.7.1.5. Cuando los glóbulos rojos congelados son almacenados en nitrógeno
+líquido, la temperatura en la fase gaseosa debe ser mantenida por debajo de
+1200 c.
+B.7.1.6. Las heladeras y congeladores para hemocomponentes y las inc adoras
+de plaquetas deben poseer sistemas de alarma con señal audible.
+[página 20]
+La alarma debe ser activada a una temperatura tal que sea posible tomar las
+conductas apropiadas antes de que la sangre o los componentes queden
+almacenados a temperaturas incorrectas.
+La alarma debe ser audible en un área con adecuada cobertura de personal para
+que las medidas correctivas puedan ser tomadas inmediatamente.
+EI sistema de alarma en las congeladoras de nitrógeno líquido debe ser activado
+cuando los niveles del mismo no sean los adecuados.
+B.7.1.7. Debe haber procedimientos escritos fácilmente disponibles que contengan
+directivas cómo mantener la sangre y sus componentes dentro de temperaturas
+permisibles, e instrucciones sobre cómo proceder en casos de corte de energía
+eléctrica o alteración en la refrigeración.
+B.7.2 Transporte
+La sangre total y todos los componentes eritrocitarios líquidos deben ser
+transportados en forma tal que se asegure el mantenimiento de una temperatura de
+1 a 100C. Los componentes regularmente conservados a 22 + 20C deben ser
+transportados a 22 + 20C, y los componentes almacenados congelados deben ser
+transportados de manera tal que se mantenga el congelamiento. Se debe garantizar
+la cadena de frío durante el transporte. Se debe inspeccionar la apariencia de cada
+unidad al momento de la recepción descartándose toda unidad que presente
+alteraciones.
+B.7.3. Vencimiento
+La fecha de vencimiento es el último día en el cual la sangre o un componente
+sanguíneo es considerado viable con fines transfusionales.
+B.7.3.1 Sangre total:
+La sangre total debe ser almacenada a 4 + 20 C en la bolsa original o en las bolsas
+satélites unidas a ella en circuito cerrado.
+La sangre total recogida en soluciones anticoagulantes ACD o CPD tendrá una fecha
+de vencimiento de 21 días a partir de la flebotomía. La sangre total recogida en
+solución anticoagulante CPDA-I tendrá una fecha de vencimiento de 35 días a partir
+de la flebotomía y la conservada en solución preservadora con: sorbitol, manitol,
+adenina de 42 días.
+B.7.3.2. Concentrado de Glóbulos Rojos
+Los glóbulos rojos separados en circuito cerrado deben ser almacenados a 4 + 20 C
+y tendrán la misma fecha de vencimiento que la sangre total de la cual se han
+derivado.
+B.7.3.3. Glóbulos rojos congelados:
+La fecha de vencimiento para los glóbulos rojos congelados a temper ra de -650 C
+o inferior será de 10 años a partir de la fecha de la flebotomía.
+[página 21]
+33S
+B.7.3.4. Glóbulos rojos lavados y glóbulos rojos desglicerolados:
+Su temperatura de almacenamiento será 4 + 20 C. Estos componentes expirarán a
+las 24 horas después de su obtención debido a que son preparados en circuito
+abierto.
+B.7.3.5. Glóbulos rojos pobres en leucocitos:
+Se almacenarán a 4 + 20 C vencerán a las 24 horas de haber abierto el circuito.
+B.7.3.6. Plasma fresco congelado:
+Debe ser almacenado a —200 C durante un año posterior a la fecha de colecta de la
+unidad de sangre.
+B.7.3.7. Plasma congelado, plasma remanente y plasma recuperado:
+Debe ser almacenado a —200 C con un plazo de validez de 5 años después de la
+fecha de colectada la unidad de sangre.
+B.7.3,8. Concentrados plaquetarios:
+Los concentrados plaquetarios podrán ser conservados a 22 + 20 C los concentrados
+plaquetarios obtenidos en circuito cerrado podrán ser mantenidos, en suave
+agitación continua, hasta 3 0 5 días luego de la flebotomía, dependiendo del tipo de
+bolsa plástica utilizada de acuerdo a las especificaciones del fabricante. Las
+plaquetas refrigeradas deben ser almacenadas por 24 hs a 4 20C.
+Las plaquetas obtenidas por aféresis usando procedimientos en circuito abierto
+deben ser almacenadas hasta 24 horas a 22 + 20 C; las obtenidas mediante
+procedimientos de aféresis en circuito cerrado, hasta 5 días a 22 + 20 C. En ambos
+casos, los concentrados plaquetarios deben ser mantenidos en suave agitación
+continua.
+B.7.3.9. Concentrado de granulocitos:
+La temperatura de almacenamiento para los granulocitos será de 22 + 20 C. Este
+componente debe ser administrado tan pronto como sea posible, y dentro de las 24
+horas de su colecta.
+B.7.3.10. Se permite la transfusión de concentrado de plaquetas y crioprecipitado en
+"pool", siempre que las técnicas de preparación garanticen la esterilidad del
+producto.
+B,7.3.11. Sangre irradiada:
+La sangre entera o concentrado de glóbulos rojos irradiados deben ser utilizados de
+nte utilizado, pero no más de 28 días después de la fecha
+acuerdo con el anticoa
+de irradiación.
+[página 22]
+C. PLASMAFÉRESIS EN DONANTES
+C.I. Definición
+Se denomina plasmaféresis a la colecta del plasma mediante extracción de sangre
+total seguida por separación del plasma y reinfusión de los elementos celulares. EI
+procedimiento puede ser realizado por métodos manual o automático.
+C.2. Indicaciones
+La plasmaféresis en donantes normales puede ser realizada para obtener plasma
+con fines transfusionales, o para procesar en componentes o derivados.
+C.3. Selección de donantes
+En un programa de plasmaféresis "ocasional", en eI cual los donantes son sometidos
+a plasmaféresis cuya frecuencia no supera a una vez cada 8 semanas, las normas
+que rigen la donación de sangre total (B.l.) deben ser aplicadas a la selección y
+atención del donante. En un programa de plasmaféresis "seriadas", en el cual se
+dona plasma más frecuentemente que una vez cada 8 semanas, se deben aplicar
+normas más exigentes. La plasmaféresis en donantes que no cumplen los
+requerimientos regulares sólo podrá ser efectuada si el plasma resulta de valor
+terapéutico especial y siempre y cuando el médico de cabecera del donante haya
+certificado por escrito que la salud del donante permite la plasmaféresis.
+C.4. Consentimiento
+Rige 10 establecido en A.9.
+C.5. Atención del donante
+C.5.1. Un médico hemoterapeuta será responsable del procedimiento de
+plasmaféresis, incluyendo la selección del donante, la colecta y procesamiento de la
+sangre y sus componentes y la apropiada reinfusión de los glóbulos rojos autólogos.
+EI donante debe ser cuidadosamente controlado durante el procedimiento.
+Deberá haber disponibilidad de cuidados médicos de emergencia para casos de
+reacciones adversas. Los técnicos que operan bajo la supervisión del médico deben
+estar entrenados en el reconocimiento y prevención de todos los riesgos potenciales
+inherentes al procedimiento.
+C.5.2. En un programa de plasmaféresis "seriadas", el procedimiento no debe ser
+realizado si las proteínas séricas totales son inferiores a 6 g/dl o si el resultado del
+dosaje de albúmina sérica fuera inferior a 4 g/dl. Las pruebas abajo mencionadas
+deben ser realizadas por 10 menos una vez cada 4 meses:
+1) Se debe efectuar electroforesis de proteínas séricas con determinación
+cuantitativa de IgG e IgM a cada donante.
+2) Deben ser revisados los antecedentes de colectas y de pruebas de laboratorio
+previamente realizadas a cada donación para determinar si sigue siendo apto. La
+[página 23]
+pérdida inexplicable de peso, según 10 establecido en B. 1.1.9, será motivo de
+exclusión.
+C.5.2.1. Si un participante de un programa de plasmaféresis "seriada" dona una
+unidad de sangre total, o si resultare imposible restituirle los glóbulos rojos durante
+un procedimiento de plasmaféresis, el donante debe ser marginado del programa
+durante 8 semanas, a menos que el requerimiento de hemoglobina o hematocrito
+(B.l ,1.5) sea cumplido y el médico hemoterapeuta considere aceptable al donante.
+C.6. Procedimiento
+C.6.1. EI sistema usado para realizar la flebotomía y el procesamiento de la sangre
+debe garantizar la reinfusión segura de los eritrocitos autólogos.
+C.6.2. Todos los insumos empleados durante la realización de la plasmaféresis
+deben ser estériles, apirogénicos, atóxicos y descartables. Antes de separar una
+bolsa de sangre del donante para su procesamiento, se deben usar dos formas
+independientes de identificación que posibiliten al donante, al receptor, como al
+operador la certeza de no haber ocurrido un cambio de material. La plasmaféresis
+debe ser realizada asépticamente y en condiciones que eviten una posible embolia
+gaseosa. Durante el tiempo en que los glóbulos rojos están separados del donante,
+deben ser mantenidos a una temperatura que no supere 22 + 20 C.
+C.6.3. Todos los glóbulos rojos resultantes de ta colecta deben ser restituidos al
+donante dentro de las 2 horas de efectuada la flebotomía. Si la pérdida eritrocitaria
+total excede los 25 ml por semana durante la realización de plasmaféresis
+"seriadas", un médico hemoterapeuta debe determinar el intervalo apropiado hasta la
+siguiente donación.
+C.6.4. La cantidad de sangre total, excluyendo al anticoagulante, removida de un
+donante durante un procedimiento de plasmaféresis manual , o en un período de 48
+horas, no debe exceder de 1.000 ml, a menos que el donante pese 80 Kg. o más,
+en cuyo caso la cantidad de sangre total removida durante un procedimiento de
+plasmaféresis, o en un período de 48 horas, no debe exceder de 1.200 ml por
+semana, 2.400 ml por mes y 14.400 ml por año. En la plasmaféresis automática la
+cantidad de sangre colectada no debe exceder los 10,5 ml/Kg de peso.
+Se debe estudiar al donante apropiadamente para detectar el desarrollo de citopenia.
+Los resultados anormales deben ser evaluados por un médico hemoterapeuta para
+determinar si resulta adecuado continuar con las donaciones.
+C,6.5. Dentro de un período de 7 días, la cantidad de plasma removida no debe
+exceder de 2.000 ml, a menos que el donante pese 80 Kg. o más, en cuyo caso no
+debe exceder de 2.400 ml.
+C.6.6. EI intervalo mínimo entre dos aféresis en cada donante debe ser de 48 horas.
+[página 24]
+336
+C.7. Investigaciones de laboratorio
+Las investigaciones de laboratorio en el donante para plasmaféresis deben ser
+idénticas a las que se deben efectuar al donante de sangre total.
+D. CITAFERESIS EN DONANTES
+D.l. Definiciones
+D.l.l. Citaféresis es la separación y colecta de elementos celulares de la sangre
+mediante hemaféresis.
+D.1.2. Plaquetaféresis es la separación por centrifugación de plaquetas de la sangre
+total, con retorno continuo o intermitente al donante, de los glóbulos rojos y el plasma
+pobre en plaquetas.
+D.1.3. Leucaféresis es la separación de leucocitos de la sangre total, con retorno
+continuo o intermitente al donante, de los glóbulos rojos y el plasma pobre en
+leucocitos y plaquetas.
+D.2. Selección de donantes
+En general las normas que se aplican a la donación de sangre total deben ser
+aplicadas a la selección y cuidado de los donantes para citaféresis. La
+plaquetaféresis o la leucaféresis en donantes que no cumplen los requerimientos
+ordinarios sólo podrán ser realizadas si las células a colectar tienen un valor especial
+para un receptor determinado, y si el médico del donante ha certificado por escrito
+que la salud del donante permite la hemaféresis.
+D.2.1. Se debe obtener un recuento de plaquetas previo al procedimiento de
+plaquetaféresis en todos los donantes que donan más frecuentemente que una vez
+cada 8 semanas. Un recuento de plaquetas es obligatorio antes del primer
+procedimiento. Un recuento posterior a la donación es recomendable para
+determinar si et donante es aceptable para un subsiguiente procedimiento. EI
+donante no debe ser sometido a una subsiguiente plaquetaféresis si el recuento
+plaquetario es inferior a 150 x 109 II.
+D.3. Consentimiento
+Rige 10 establecido en A.9.
+D.4. Cuidados al donante
+D.4.1. Rigen las previsiones para cuidados de emergencias establecidas en C.5.1.
+D.4.2. Si un donante para citaféresis dona una unidad de sangre total, o si resultare
+imposible restituirle los glóbulos rojos durante una plaquetaféresis o leucaféresis, se
+deben dejar transcurrir por 10 menos 8 semanas antes de un nuevo procedimiento de
+[página 25]
+citaféresis, a menos que el requerimiento de hemoglobina (B.l. 1.5) sea cumplido y el
+médico hemoterapeuta considere aceptable al donante.
+D.4.3. EI volumen sanguíneo extracorpóreo no debe superar el 15% de la volemia
+calculada para el donante.
+D.4.4. No se deben usar drogas que faciliten la leucaféresis en donantes cuyos
+antecedentes médicos sugieran que tales drogas pueden exacerbar una enfermedad
+previa o intercurrente. EI Jefe o Director Médico debe establecer una norma escrita
+que indique la dosis acumulativa máxima de cualquier agente sedimentante que se
+podrá administrar a un donante dentro de un lapso determinado.
+D.5. Procedimiento
+Se debe mantener un protocolo escrito de todos los procedimientos. EI mismo debe
+incluir criterios y dosis sobre el uso de cualquier agente auxiliar y todos los aspectos
+inherentes a la prevención y tratamiento de las reacciones en donantes. En cada
+procedimiento se debe registrar la siguiente información: identidad del donante,
+anticoagulantes empleados, duración, volumen del producto, drogas administradas,
+reacciones adversas ocurridas y su tratamiento.
+D.6 Investigaciones de laboratorio
+Las investigaciones de laboratorio en el donante para citaféresis deben ser idénticas
+a las que se efectúan al donante de sangre total.( B.5.1.,B.5.2.,B.5.4. y B.5.5.)
+D.6.1. En un donante para citaféresis destinado al soporte de un paciente
+determinado, las determinaciones requeridas en B.5 deben ser realizadas
+previamente a la transfusión del primer componente de aféresis y a partir de ambos
+por lo menos cada 10 días.
+E. HEMAFÉRESIS TERAPÉUTICA
+E.l. Selección de pacientes
+La hemaféresis terapéutica sólo debe ser efectuada bajo solicitud escrita del médico
+del paciente. EI médico hemoterapeuta responsable del procedimiento debe decidir
+si hacerlo o no, el recinto apropiado, y determinar la posible necesidad de cuidados
+especiales. Debe existir un protocolo escrito describiendo el método empleado y la
+operación del sistema de hemaféresis.
+E.2. Registros
+Se debe mantener registros que incluyan la siguiente información: identificación del
+paciente, diagnóstico, tipo de procedimiento terapéutico, método empleado, volumen
+sanguíneo extracorpóreo, calidad y cantidad del componente removido, calidad y
+cantidad de los líquidos usados en el recambio, cualquier reacción adversa ocurrida
+y medicación administrada.
+[página 26]
+640
+E.3. Consentimiento
+Se debe obtener un consentimiento escrito del paciente o de sus responsables
+legales.
+E.4. Atención a los pacientes
+Rigen las previsiones para atención de emergencia establecidas en C.5.1
+F. EL RECEPTOR
+F.l. Solicitudes transfusionales
+Las solicitudes para transfusión de sangre o componentes deben ser confeccionadas
+en formularios especiales que aporten la información suficiente para una correcta
+identificación del receptor.
+En el formulario impreso deben constar por 10 menos 10 siguiente: apellido y nombre
+del paciente, sexo, edad, NO de historia clínica, NO de cama, diagnóstico,
+antecedentes transfusionales, indicación transfusional y los datos de laboratorio que
+la justifiquen, tipo y volumen de la transfusión que se solicita, el carácter de la
+transfusión, fecha, la firma y el NO de matrícula del médico solicitante. Una solicitud
+incompleta, inadecuada o ilegible no debe ser aceptada por el Servicio de Medicina
+Transfusional o Unidad de Hemoterapia.
+F.l.l. EI carácter de la transfusión debe ser definido como:
+1) "programada", para determinado día y hora;
+2) "no urgente", a realizar dentro de las 24 horas;
+3) "urgente", a realizar dentro de las 3 horas;
+4) "de extrema urgencia", cuando el retardo en administrar la transfusión implica
+riesgo para la vida del paciente.
+La liberación de sangre o concentrado de glóbulos rojos sin pruebas de
+compatibilidad sólo será realizada por pedido expreso del médico solicitante.
+F.2. Muestras de sangre
+F.2.1. EI personal de la Unidad de Hemoterapia o Servicio de Medicina
+Transfusional debe extraer las muestras de sangre al receptor e identificarlas
+correctamente. EI servicio de hemoterapia podrá autorizar a otras personas para
+extraer las muestras del receptor.
+F.2.2. Se debe obtener una muestra de sangre del paciente para la realización de
+las pruebas de compatibilidad pretransfusionales.
+F.2.3. Todos los tubos empleados deben ser rotulados en el momento mismo de la
+colecta con apellido y nombre del receptor, número identificatorio o alfanumérico y
+fecha.
+F.2.4. Debe existir un mecanismo que permita identificar a la persona que realizó la
+colecta de sangre.
+[página 27]
+34.0/
+F.2.5. Antes de que una muestra de sangre sea utilizada para realizar tipificaciones
+o pruebas de compatibilidad, se debe confirmar que la identificación contenida en la
+solicitud transfusional concuerde con la del rótulo de la muestra. En casos de duda o
+discrepancia, se debe obtener una nueva muestra.
+G. COMPATIBILIDAD TRANSFUSIONAL
+La compatibilidad transfusional debe incluir:
+1) La retipificación ABO y Rh (D) de la unidad de sangre, para la transfusión de
+sangre total o concentrado de glóbulos rojos;
+2) La determinación del grupo ABO, del factor Rh (D) y la pesquisa de anticuerpos
+irregulares en la sangre del receptor;
+3) La realización de una prueba de compatibilidad entre los glóbulos rojos del
+donante y el suero del receptor (prueba de compatibilidad mayor);
+4) Prueba de compatibilidad menor, en el caso de no realizarse investigación de
+anticuerpos irregulares en el donante.
+G.l Repetición de investigaciones en la sangre del donante.
+La Unidad de Hemoterapia o el Servicio de Medicina Transfusional debe confirmar,
+usando una muestra obtenida de un segmento de la tubuladura de bolsa de colecta,
+el grupo ABO en todas las unidades de sangre total y de glóbulos rojos a transfundir
+y el factor Rh (D) solamente en las unidades rotuladas como "Rh Negativo"
+No será necesario repetir la prueba para D débil.
+No se requiere la repetición de otras pruebas.
+Cualquier discrepancia debe ser resuelta antes de emitir una transfusión.
+G.2 Investigaciones en la sangre del receptor
+En las muestras de sangre de los receptores de sangre total o de glóbulos rojos se
+debe realizar la determinación del grupo ABO y del factor Rh (D) y la investigación
+de anticuerpos irregulares.
+Si un paciente ha sido transfundido con sangre o componentes que contienen
+glóbulos rojos en el curso de los 3 meses precedentes, o si una mujer ha estado
+embarazada en idéntico lapso, o si tales antecedentes son inciertos o no disponibles,
+las muestras respectivas deben ser obtenidas dentro de las 72 horas previas al acto
+transfusional.
+Se recomienda la realización de test de anti-HiV-1-2, HBsAg y anti-HCV a todo
+posible receptor de sangre o componentes. Así como repetirlos anualmente en todo
+paciente politransfundido.
+G.2.1 Determinaciones del grupo ABO y del factor Rh (D)
+Deben ser realizadas como se especificó en B.5.1 y B.5.2, respectivamente. Para
+evitar la tipificación incorrecta de un receptor Rh negativo debido a la eventual
+presencia de autoanticuerpos o proteínas séricas anormales, se debe emplear un
+control apropiado para el reactivo anti-Rh (D) en uso.
+[página 28]
+31x2
+G.2.2 Detección de anticuerpos irregulares
+Los métodos usados para detectar anticuerpos irregulares en suero o plasma deben
+demostrar anticuerpos clínicamente significativos y deben incluir incubación a 370 C
+y una fase antiglobulínica.
+Para evitar resultados falsos negativos en las pruebas antiglobulínicas se debe
+instrumentar un sistema de control mediante el uso de glóbulos rojos sensibilizados
+con IgG. Se podrán utilizar métodos alternativos, siempre que exista apropiada
+documentación disponible.
+G.3 Prueba de compatibilidad
+Excepto para los requerimientos de "extrema urgencia", antes de la administración
+de sangre total o de glóbulos rojos se debe realizar una prueba de compatibilidad
+mayor usando glóbulos rojos del donante obtenidos de un segmento de la tubuladura
+de la bolsa de colecta y suero o plasma del receptor.
+La prueba de compatibilidad debe emplear métodos capaces de demostrar una
+incompatibilidad en el sistema ABO y la presencia de anticuerpos irregulares
+clínicamente significativos.
+Debe incluir incubación a 370 C y una fase antiglobulínica.
+Rige 10 establecido en G.2.2. Si la detección de anticuerpos irregulares fue negativa
+y no existen antecedentes de detección de tales anticuerpos, sólo se requerirá en la
+prueba de compatibilidad el método que demuestre una incompatibilidad ABO.
+G.3.1. La prueba de compatibilidad menor, usando suero o plasma del donante y
+glóbulos rojos del receptor, debe ser realizada antes de la administración de sangre
+total o de plasma si no se hubiera llevado a cabo la investigación sistemática de
+anticuerpos irregulares en los donantes.
+G.3.2. Transfusión masiva
+Si un paciente ha recibido una cantidad de sangre aproximadamente igual a su
+volemia en las últimas 24 horas, la compatibilidad puede ser abreviada según 10
+establezcan normas escritas elaboradas por el Jefe o Director Médico del Servicio de
+Hemoterapia.
+G.4. Cuando por los resultados de las pruebas de compatibilidad se verifica que no
+existe compatibilidad con el receptor, el Servicio de Medicina Transfusional o Unidad
+de Hemoterapia debe comunicar este hecho al médico solicitante, y en conjunto
+realizar una evaluación clínica del paciente.
+H. SELECCION DE SANGRE Y COMPONENTES PARA TRANSFUSION
+H.I. Todos los receptores deben recibir sangre total isogrupo en el sistema ABO o
+glóbulos rojos ABO compatibles. Los receptores Rh (D) positivo pueden recibir
+[página 29]
+sangre total o glóbulos rojos Rh (D) positivo o Rh (D) negativo. Los receptores Rh
+(D) negativo deben recibir sangre total o glóbulos rojos Rh (D) negativo excepto en
+circunstancias razonablemente justificadas y siempre que no presenten
+sensibilización previa.
+H.I.I. Cuando un receptor presenta anticuerpos irregulares clínicamente
+significativos en las pruebas referidas en G.2.2 0 tiene antecedentes de presencia de
+tales anticuerpos, la sangre total o los glóbulos rojos a transfundir deben ser
+compatibles y carecer de los antígenos correspondientes, excepto en circunstancias
+clínicas razonablemente, justificadas y aprobadas por un médico responsable del
+Servicio de Hemoterapia.
+H.2. Las transfusiones de plasma deben ser ABO compatibles con los glóbulos rojos
+del receptor.
+H.3. Las transfusiones de crioprecipitados no requieren pruebas de compatibilidad y
+recomienda que sea ABO compatibles, especialmente en niños.
+H.4. Se recomienda que el plasma de donante contenido en los concentrados
+plaquetarios sea ABO compatible con los glóbulos rojos del receptor, especialmente
+en neonatos.
+H.5. Los glóbulos rojos presentes en los concentrados de granulocitos deben ser
+ABO compatibles con el plasma del receptor.
+H.6. Los concentrados de plaquetas y granulocitos preparados mediante citaféresis
+deben ser compatibilizados como se establece en G.3, a menos que el componente
+haya sido preparado por un método del cual resulte una contaminación eritrocitaria
+inferior a 5 ml. Los glóbulos rojos del donante para la prueba de compatibilidad
+pueden ser obtenidos de una muestra apropiadamente identificada recogida en el
+momento de la flebotomía.
+H.7. Es responsabilidad del médico de la Unidad de Hemoterapia o Servicio de
+Medicina Transfusional evaluar la indicación de una transfusión solicitada. En caso
+de modificar dicha conducta, se debe dejar constancia en la historia clínica del
+paciente.
+Se recomienda la creación de un Comité Hospitalario de Transfusiones en las
+instituciones que realizan transfusión sanguínea.
+l. ASPECTOS PARTICULARES DEL RECEPTOR NEONATAL
+(Hasta los 4 meses de vida)
+1.1. En la muestra pretransfusional inicial se debe determinar el grupo ABO,
+solamente se requiere la tipificación con reactivos anti-A , anti-B y anti AB. EI factor
+Rh (D) debe ser determinado como se especificó en B.5.2 y G.2.1.
+[página 30]
+1.2. Si los glóbulos rojos seleccionados para transfusión no son de grupo 0, se debe
+investigar en suero o plasma del neonato la presencia de anti-A o anti-B mediante
+métodos que incluyan una fase antiglobulínica. Las pruebas para determinar anti-A
+se deben realizar frente a eritrocitos A1 ,
+1.2.1. Si no se detecta la presencia de anti-A o anti-B, no será necesario efectuar
+subsiguientes pruebas de compatibilidad durante el resto del período neonatal. Rige
+10 establecido en 1.3.2.
+1.2.2. Si se detecta la presencia de anti-A o anti-B, se deben transfundir glóbulos
+rojos de grupo 0 hasta que el anticuerpo deje de ser demostrable en el suero del
+neonato. Estas unidades no necesitan ser compatibilizadas. Rige 10 establecido en
+1.32.
+1.2.3. Si un neonato de grupo A, B o AB ha recibido componentes sanguíneos
+conteniendo anti-A y/o anti-B, y los subsiguientes glóbulos rojos seleccionados para
+transfusión no son de grupo 0, se deberá investigar en suero o plasma del neonato la
+presencia de anti-A y/o anti-B según 10 establecido en 1.2.
+1.3. En la muestra pretransfusional inicial se debe realizar la investigación de
+anticuerpos irregulares, como se especificó en G.2.2.
+Para tal fin se podrá emplear suero o plasma del neonato o de la madre.
+1.3.1. Si la detección inicial de anticuerpos irregulares es negativa, no será necesario
+compatibilizar los glóbulos rojos para la primera transfusión y las subsiguientes
+dentro del período neonatal, siempre y cuando sean de grupo 0.
+1.3.2. Si la detección inicial demuestra la presencia de anticuerpos irregulares
+clínicamente significativos, se deben preparar para transfusión unidades que no
+contengan los antígenos correspondientes y tales unidades deben ser
+compatibilizadas usando métodos que incluyan una fase antiglobulínica, hasta que
+los anticuerpos dejen de ser demostrables en el suero del neonato.
+1.4. Los neonatos no deben ser transfundidos con sangre total, plasma u otros
+componentes sanguíneos que contengan anticuerpos irregulares clínicamente
+significativos.
+1.5 Para reducir el riesgo de infección por Citomegalovirus (CMV) en los receptores
+recién nacidos cuyo peso al nacimiento sea menor de 1.200 g, o cuando eI recién
+nacido o la madre sean anti-CMV negativo o cuando esta información se
+desconozca, se deben transfundir sangre y componentes celulares serológicamente
+negativos para CMV o componentes leucorreducidos por medio de filtros (B.5.5.4).
+[página 31]
+1.6. Exsanguinotransfusión:
+1.6.1. La exsanguinotransfusión es la sustitución de la sangre de un paciente por
+sangre y hemocomponentes compatibles mediante colectas, reposiciones parciales y
+sucesivas con sangre y hemocomponentes.
+1.6.2. Indicaciones:
+1.6.2.1. La exsanguinotransfusión es usada principalmente en la terapia de la
+enfermedad hemolítica del recién nacido, en coagulación intravascular diseminada,
+septicemias, intoxicaciones exógenas, coma malárico, hemoglobinopatías.
+1.6.2.2. La frecuencia y el volumen de sangre o componentes a ser transfundidos
+dependerá en cada caso y será responsabilidad del Médico Hemoterapeuta en
+conjunto con el Médico tratante del caso.
+1.6.3. Selección del producto hemoterapéutico:
+1.6.3.1. Se recomienda la utilización de sangre y componentes sin alteraciones
+metabólicas importantes en relación a su período de conservación. Se recomienda el
+uso de sangre de no más de 5 días de almacenamiento.
+1.6.3.2. En los casos de enfermedad hemolítica de recién nacido por incompatibilidad
+materno-fetal en el sistema ABO es obligatorio el uso de plasma compatible con los
+glóbulos rojos del paciente. En los casos de incompatibilidad por el sistema Rh, los
+glóbulos rojos deben ser compatibles con el suero de la madre.
+1.6.3.3. En pacientes con hemoglobinopatías la sangre o componentes utilizados
+deben ser previamente estudiados para descartar hemoglobinopatías en los glóbulos
+rojos del donante.
+1.7. En todo recién nacido, para el cual se solicitó una transfusión sanguínea se
+debe determinar el grupo ABO, el factor Rh (D), el factor D débil en los
+aparentemente Rh (D) negativo y la prueba antiglobulínica directa. Estas
+determinaciones deben ser realizadas en muestras de sangre de cordón umbilical
+suficientemente lavadas o en la sangre capilar o venosa del recién nacido. Cuando la
+prueba antiglobulínica directa resultare positiva se deben llevar a cabo los estudios
+inmunohematológicos, con la finalidad de dilucidar la especificidad de los anticuerpos
+involucrados.
+1.8. Transfusión intra-uterina:
+1.8.1. Es utilizada para el tratamiento de casos graves de enfermedad hemolítica
+perinatal, cuando existe un sufrimiento fetal importante. La frecuencia y eI volumen
+de la sangre a ser transfundida es responsabilidad del equipo médico tratante, con la
+participación del médico hemoterapeuta.
+[página 32]
+34C
+1.8.2. Se recomienda el uso de glóbulos de grupo 0 que sean compatibles con el
+suero materno. Los componentes utilizados sean leucorreducidos e irradiados.
+J. EMISION DE SANGRE PARA TRANSFUSION
+J.l Identificación
+Se debe adherir a toda unidad a ser transfundida un rótulo que indique: apellido y
+nombre, identificación numérica o alfanumérica y grupo ABO y factor Rho (D) del
+receptor; número de identificación de la unidad; grupo ABO y factor Rho (D) del
+donante; la interpretación de la prueba de compatibilidad, y la fecha.
+J.2 Retención de muestras de sangre
+Se deben conservar a 4 + 20 C durante por lo menos 10 días después de la
+transfusión una muestra de sangre de cada donante (segmento de la tubuladura de
+bolsa de colecta) y de cada receptor.
+J.3. Inspección de la sangre a transfundir
+La unidad de sangre o componente debe ser evaluada en su aspecto y color
+inmediatamente antes de ser aprobada su salida de la Unidad de Hemoterapia o
+Servicio de Medicina Transfusional.
+Si la apariencia fuera anormal, no debe ser usada con fines transfusionales. Además
+se debe corroborar que las pruebas serológicas para enfermedades transmisibles
+hayan resultado no reactivas, y que la unidad no haya sobrepasado los límites de su
+vencimiento.
+J.4 Liberación de unidades de sangre reingresadas
+Las unidades de sangre que hayan retornado a la Unidad de Hemoterapia o
+Servicio de Medicina Transfusional sólo podrán ser nuevamente liberadas con fines
+transfusionales si se cumplen las siguientes condiciones:
+1) EI cierre de la bolsa no debe haber sido alterado.
+2) La sangre no debe haber alcanzado temperaturas por encima de 100 C o por
+debajo de 10 C durante el almacenamiento o transporte (controlada por termómetro
+de máxima o mínima u otro test).
+3) Los registros deben indicar la trayectoria de la unidad.
+4) Los requisitos que rigen la liberación de toda unidad de sangre deben haber sido
+nuevamente cumplidos.
+5) Las unidades de sangre no utilizadas deben retornar a la unidad de Hemoterapia
+o servicios de Medicina Transfusional.
+Toda unidad que ha sufrido alteración de la cadena de frío o de haberse violado el
+circuito cerrado debe ser inmediatamente descartada.
+La persona que recibe las unidades no utilizadas debe inspeccionarlas, retirar la
+identificación del receptor y registrar su devolución.
+[página 33]
+3kp
+J.5. Transfusión de extrema urgencia
+La transfusión con carácter de "extrema urgencia" es aquella cuya demora puede
+causar grave daño al receptor. En tal caso, la sangre puede ser liberada sin las
+exigencias establecidas en G.3.
+J.5.1. Los receptores cuyo grupo ABO es desconocido deben recibir glóbulos rojos
+de grupo 0.
+J.5.2. Los receptores cuyo grupo ABO fue determinado como se estableció en G.2.1
+sin prestar consideración a registros previos, pueden recibir sangre total "isogrupo"
+en el sistema ABO o glóbulos rojos ABO compatibles, antes de que las pruebas de
+compatibilidad hayan sido completadas.
+J.5.3. EI rótulo de la unidad transfundida en estas condiciones debe indicar
+claramente que la prueba de compatibilidad no ha sido completada en el momento
+de ser liberada de las Unidades de Hemoterapia o de los Servicios de Medicina
+Transfusional. Aún luego de comenzada la transfusión, se debe concluir la respectiva
+prueba de compatibilidad.
+J.5.4. EI médico que efectúa la indicación debe refrendar por escrito en la solicitud
+transfusional el carácter de la transfusión, dejando constancia de que el cuadro
+clínico del enfermo reviste suficiente gravedad como para requerir sangre sin que
+haya completado la prueba de compatibilidad. EI médico solicitante debe haber sido
+informado de los riesgos. EI será responsable de las consecuencias del acto
+transfusional si la emergencia hubiera sido creada por su olvido u omisión.
+K. ACTO TRANSFUSIONAL
+K.l. Indicación
+Toda transfusión de sangre o componentes sanguíneos debe ser prescrita por un
+médico. Rige 10 establecido en F. 1.
+K.2. Supervisión
+Las transfusiones de sangre y hemocomponentes deben ser realizadas por personal
+habilitado, bajo supervisión médica. EI paciente debe ser controlado durante la
+transfusión y durante un lapso apropiado a continuación de la misma para detectar
+precozmente eventuales reacciones adversas.
+K.3. Identificación del receptor
+Inmediatamente antes de la transfusión se deben verificar con especial atención la
+identidad del receptor, y repetir la determinación de su grupo ABO en todos los
+casos, o utilizar mecanismos validados por el organismo oficial de cada país que
+eviten la transfusión ABO incompatible.
+K.4 Condiciones generales de la transfusión
+Se debe mantener a la sangre o sus componentes en un medio controlado, a
+temperatura óptima, hasta el momento en que son liberados para transfusión. Todas
+[página 34]
+las transfusiones de sangre o componentes sanguíneos deben ser administradas a
+través de equipos estériles, libres de pirógenos y descartables, que incluyan un filtro
+capaz de retener las partículas potencialmente nocivas para el receptor. Una unidad
+de sangre o hemocomponentes no deben ser infundidas en un lapso mayor de 4
+horas.
+K.4.1 Protocolo para transfusión
+Debe existir un protocolo escrito sobre la administración de sangre o componentes y
+el uso de equipos de infusión y otros equipos auxiliares.
+K.4.2 Calentamiento
+EI calentamiento de la sangre puede ser apropiado en casos de transfusión rápida,
+transfusión masiva, exsanguinotransfusión o transfusión a pacientes portadores de
+potentes crioaglutininas.
+En tales circunstancias, la sangre debe ser calentada en forma controlada en el
+momento previo inmediato a la transfusión, o idealmente durante el acto
+transfusional, mediante su pasaje por un sistema de calentamiento específico
+equipado con termómetro visible y alarma audible. La sangre no debe ser calentada
+por encima de 380 C.
+K.4.3 Adición de drogas o soluciones
+Ni drogas ni medicamentos, aunque fueran destinados a uso intravenoso, podrán ser
+agregados a la sangre o componentes antes o durante la transfusión, a excepción de
+la solución de cloruro de sodio al 0,9%.
+K.5 Consideraciones especiales para componentes
+K.5.1 Plasma congelado
+Debe ser descongelado a temperaturas entre 300 y 370 C en un baño
+termostatizado. La unidad será protegida colocándola en una bolsa para evitar
+derrames y contaminaciones. Una vez completado el descongelamiento, deberá ser
+transfundido inmediatamente, o conservado a 4 + 20 C. En el caso del plasma fresco
+congelado, si va a ser administrado como fuente de factores lábiles de coagulación,
+debe ser transfundido dentro de las 24 horas luego del descongelamiento.
+K.5.2 Crioprecipitado
+Debe ser descongelado a temperaturas entre 300 y 370 C con los mismos
+procedimientos descriptos en el punto anterior. Una vez completado el
+descongelamiento, debe ser administrado dentro de las 6 horas, si va a ser usado
+como aporte de Factor VIII.
+K.5.3 Concentrado de granulocitos y plaquetas
+En su administración no se deben usar filtros para microagregados.
+[página 35]
+K.5.4 Mezcla de componentes
+Los componentes sanguíneos pueden ser mezclados. Cuando haya glóbulos rojos
+groseramente visibles, cualquier aloanticuerpo plasmático debe ser compatible con
+ellos. Rige 10 establecido en B.4.1.
+K.6 Transfusiones en pacientes ambulatorios
+Son las transfusiones que se efectúan a receptores no internados.
+Se podrán realizar en la Unidad de Hemoterapia o Servicio de Medicina
+Transfusional o en un sitio apropiado destinado a tal fin dentro del ámbito de la
+institución asistencial. Se deben cumplir las mismas normas que rigen para las
+transfusiones en pacientes internados.
+K.7 Transfusiones domiciliarias
+K.7.1 En casos especiales donde existiera una contraindicación formal al traslado del
+paciente a una institución asistencial, la transfusión podrá ser realizada en su
+residencia. Para ello es obligatoria la presencia de un médico durante el transcurso
+del acto transfusional. Es el responsable de garantizar el cumplimiento de todas las
+normas de medicina transfusional y debe contar con medicamentos, materiales y
+equipamientos disponibles para poder atender eventuales situaciones de
+emergencia derivadas del acto transfusional.
+L. GLOBULINA INMUNE ANTI-Rh (D)
+L.l EI factor Rh (D) de todas las mujeres que están embarazadas, que han dado a
+luz o que han tenido un aborto o han sido sometidas a amniocentesis
+recientemente, debe ser determinado como se especificó en B.5.2.
+L.l.l Se deben establecer criterios de interpretación destinados a prevenir la
+tipificación errónea de una madre Rh (D)negativo como Rh (D) positivo, cuando una
+gran hemorragia feto - materna de sangre Rh (D) positivo ocasiona una reacción de
+aglutinación en campo mixto en la prueba con reactivos anti-Rh (D).
+L.2 Toda mujer Rh (D) negativa, no inmunizada al antígeno D, debe recibir globulina
+inmune anti-Rh (D), después del parto o cesárea de un hijo Rh positivo, o después
+de un aborto. La administración debe ser hecha preferentemente dentro de las 72
+horas posteriores al parto, cesárea o aborto. La globulina inmune anti-Rh (D)
+también debe ser administrada en toda mujer Rh (D) negativa que haya sido
+sometida a una amniocentesis, o a cualquier otro procedimiento que pudiera causar
+hemorragia fetomaterna.
+L.2.1 En una muestra de sangre posparto de todas las mujeres Rh (D) negativo se
+recomienda investigar, que la hemorragia fetomaterna no haya tenido una magnitud
+tal como para que requiera la administración de más de una dosis de globulina
+inmune anti-Rh (D) para lograr una profilaxis efectiva.
+[página 36]
+L.2.2 Las mujeres que hubieran recibido globulina inmune anti-Rh (D) anteparto
+también deberán recibir la dosis postparto.
+L.3 EI tratamiento con globulina inmune anti-Rh (D) para la prevención de la
+inmunización al antígeno Rh (D) puede resultar apropiado en pacientes Rh (D)
+negativo que hubieran recibido glóbulos rojos Rh (D) positivo, incluyendo los
+contenidos en concentrados de plaquetas o granulocitos.
+M. COMPLICACIONES TRANSFUSIONALES
+M.I. Detección, notificación y evaluación
+Toda Unidad de Hemoterapia o Servicio de Medicina Transfusional debe tener un
+sistema para la detección, notificación y evaluación de las complicaciones
+transfusionales. En el caso de una aparente reacción transfusional, el personal que
+atiende al paciente debe notificar inmediatamente a la Unidad de Hemoterapia o al
+Servicio de Medicina Transfusional. Todas las aparentes reacciones transfusionales
+deben ser rápidamente evaluadas en la forma establecida por el Médico
+Hemoterapeuta, Jefe o Director Médico. La evaluación no debe retardar el manejo
+clínico adecuado al paciente.
+M.2. Complicaciones inmediatas
+Toda reacción adversa presentada por un paciente en asociación con una
+transfusión debe hacer sospechar una reacción transfusional. La sobrecarga
+circulatoria y las reacciones alérgicas no requieren ser evaluadas como posibles
+reacciones transfusionales hemolíticas.
+M.2.1. Si existen síntomas o signos sugestivos de una reacción transfusional
+hemolítica la transfusión debe ser interrumpida inmediatamente, procediéndose de la
+siguiente manera:
+M.2.1.1. Se deben examinar los rótulos de las unidades y todos los registros
+pertinentes a los efectos de detectar si ha habido algún error en la identificación del
+paciente o de las unidades transfundidas.
+M.2.1.2. Se debe tomar una nueva muestra de sangre del receptor. Tal muestra,
+apropiadamente rotulada, debe ser rápidamente remitida a la Unidad de
+Hemoterapia o Servicio de Medicina Transfusional junto con la unidad que se estaba
+transfundiendo (aunque no contuviera sangre residual) conjuntamente con el equipo
+de transfusión y las soluciones intravenosas que se estuvieran administrando.
+M,2.1.3. En las muestras postransfusionales del receptor se deben practicar al
+menos los siguientes ensayos, cuyos resultados deben ser confrontados con los que
+se obtengan simultáneamente usando la muestra pretransfusional conservada del
+paciente.
+[página 37]
+1.
+2.
+3.
+4.
+5.
+Inspeccionar visualmente el suero o plasma para detectar evidencia de hemólisis.
+Determinar grupo ABO y factor Rh(D).
+Realizar una prueba antiglobulínica directa.
+Repetir la prueba de compatibilidad con el remanente de la unidad.
+Investigar anticuerpos irregulares utilizando técnicas que aumenten la
+sensibilidad del método.
+M.2.1.4. En la unidad implicada en la complicación transfusional se debe repetir la
+determinación de grupo ABO y factor Rh (D) y realizar una prueba antiglobulínica
+directa. Igual procedimiento se deberá cumplir con la muestra de la unidad
+(segmento de la tubuladura de bolsa de colecta) que haya quedado conservada en
+la unidad de Hemoterapia o Servicio de Medicina Transfusional
+M.2.2. En los casos en los que se sospechara contaminación bacteriana de la
+sangre o componente transfundido, se deben enviar muestras del receptor y la
+unidad para bacteriología y cultivo. En el caso de haberse preparado más de un
+componente a partir de la misma unidad, se deben tomar tos recaudos pertinentes.
+M.2.3. Debe existir un protocolo escrito indicando en qué circunstancias se deben
+realizar investigaciones adicionales, y de qué tipo:
+a) pruebas de coagulación ,
+b) hemoglobina libre en orina
+c) cultivo de la bolsa de sangre para microorganismos aeróbicos, anaeróbicos y
+hongos;
+d) dosaje de bilirubinas 7 u 8 horas después de la reacción ,
+e) cualquier otro test o prueba que se considere necesario;
+f) como lo indica J.2.
+M.2.4. Todos los informes deben quedar registrados en la historia clínica del
+paciente, y cuando sean indicativos de una reacción hemolítica o de contaminación
+bacteriana, deben ser inmediatamente comunicados al médico del mismo.
+M.2.5 Toda unidad involucrada en una reacción transfusional debe ser descartada
+para uso transfusional.
+M.3 Complicaciones mediatas
+M.3.1 Reacciones antígeno-anticuerpo
+La existencia de débiles anticuerpos en el suero del receptor dirigidos contra
+antígenos presentes en los glóbulos rojos del donante puede ser no detectada en las
+pruebas pretransfusionales.
+La administración de eritrocitos no compatibles puede provocar un rápido incremento
+en la síntesis de tales anticuerpos, generándose una reacción hemolítica tardía. En
+tales casos, se deberán realizar las mismas pruebas que para las reacciones
+hemolíticas inmediatas, con el fin de establecer la causa de la reacción. EI informe
+correspondiente debe quedar registrado en la historia clínica del paci nte.
+[página 38]
+M.3.2 Enfermedades infecciosas
+Dado que la negatividad en las reacciones serológicas para enfermedades
+infecciosas no elimina totalmente el riesgo de transmisión, se deben evaluar todos
+los casos en que se sospeche una enfermedad adquirida por transfusión.
+Se debe convocar y estudiar nuevamente a los donantes de las unidades de sangre
+o componentes involucrados, debiendo:
+a)
+b)
+c)
+d)
+comunicar al médico asistente y al paciente los resultados de los
+exámenes realizados;
+notificar al órgano gubernamental competente;
+encaminar al donante para su tratamiento especializado y excluirlo
+temporaria o definitivamente del registro de donantes del servicio;
+registrar en las fichas del receptor y del donante las medidas efectuadas
+para el diagnóstico, notificación y derivación.
+N. TRANSFUSIÓN AUTÓLOGA
+N.l. Preoperatoria
+N.l.l. Principios generales
+N.l.l.l. La donación autóloga preoperatoria ("predepósito") se refiere a la colecta y
+almacenamiento de sangre o componentes sanguíneos de un individuo para
+transfusión destinada a ese mismo individuo ("donante-paciente").
+N.l .1.2. EI procedimiento de donación autóloga preoperatoria requiere la aprobación
+del médico hemoterapeuta y del médico del donante-paciente. Rige lo establecido en
+A.8.
+N.1.1.3. La unidad debe ser rotulada con la leyenda "Exclusivamente para
+Transfusión Autóloga", reservada y empleada sólo para este propósito, a no ser que
+el donante-paciente y la unidad donada cumplan con todos los requerimientos
+establecidos en la Sección B, excepto los referentes a frecuencia, edad, pulso,
+tensión arterial, embarazo y peso.
+N. 1.1 ,4. En casos excepcionales y a criterio de cada Unidad de Hemoterapia o
+Servicio de Medicina Transfusional, se podrán utilizar unidades de donaciones
+autólogas para transfundir a otro receptor, siempre y cuando se cumplan con todas
+las exigencias de estas normas para la donación de sangre y que el donante -
+paciente haya autorizado este proceder por escrito.
+N. 1.1.5. Los pacientes que posean serología positiva para cualquiera de las
+patologías testeadas podrán o no ser aceptados en los programas de auto-
+transfusión de acuerdo al criterio fijado por la Unidad de Hemoterapia o el Servicio de
+Medicina Transfusional, teniendo en cuenta el riesgo que el mantenimiento de
+unidades con serología positiva represente para su estructura. En caso de
+[página 39]
+aceptarse, es responsabilidad de los mismos contar con mecanismos especiales de
+identificación y control que eviten el uso homólogo de las unidades como así también
+el riesgo del personal técnico.
+N.1.2. Criterios para donación
+Debido a las circunstancias especiales inherentes a la transfusión autóloga, existen
+criterios flexibles para la selección del donante. En situaciones en que los
+requerimientos para la selección del dador (B.l) o la colecta de su sangre (B.2) no
+pueden ser aplicados, el Jefe o Director Médico debe establecer normas adecuadas,
+las que deben ser registradas en el manual de procedimientos.
+Toda desviación a tales normas requerirá la aprobación del médico hemoterapeuta,
+por 10 general en interconsulta con el médico del donante-paciente.
+N.1.2.1 EI volumen de la colecta de sangre debe respetar 10 establecido en B. 1.1.9.
+N.l .2.2 No hay límites de edad para las donaciones autólogas.
+N.1.2.3 La concentración de hemoglobina del donante-paciente no debe ser inferior
+a 11 g/dl, o el hematocrito no debería ser menor de 33%.
+N.1.2.4 La frecuencia de las colectas para transfusión autóloga debe ser
+determinada por el médico hemoterapeuta. Preferentemente, no se debe colectar
+sangre al donante-paciente dentro de las 72 horas previas a la fecha programada
+para la cirugía o transfusión.
+N.1.2.5 La colecta de sangre concurrente a la transfusión de unidades autólogas
+previamente recolectadas no debe ser emprendida más frecuentemente que cada 3
+días. La transfusión de las unidades autólogas debe ser efectuada bajo supervisión
+médica.
+N.1.2.6 No se deben realizar colectas para transfusiones autólogas si el donante-
+paciente presenta bacteriemia o está bajo tratamiento por bacteriemia.
+N.1.3 Investigaciones en las unidades colectadas
+N.l .3,1 Se deberá determinar el grupo ABO y el factor Rh (D) como se especificó en
+B.5.1 y B.5.2, respectivamente.
+N.l .3.2 En la sangre autóloga obtenida de un donante-paciente se debe realizar la
+detección de anticuerpos irregulares como se especificó en B.5.4 y las pruebas para
+enfermedades transmisibles como se especificó en B.5.5.1. Se debe notificar al
+donante-paciente y a su médico sobre el hallazgo de cualquier anormalidad
+clínicamente significativa.
+N.1.4 Además de 10 establecido en B.6, el rótulo de la unidad autóloga debe
+contener por 10 menos la siguiente información:
+[página 40]
+3511
+Nombre y apellido del donante-paciente.
+Número de historia clínica y número de registro alfanumérico.
+La leyenda 'Donante Autólogo" o la leyenda "Exclusivamente para Transfusión
+Autóloga", si corresponde 10 establecido en N. 1 ,1.3.
+N.1.5 Investigaciones pretransfusionales
+Previamente a la transfusión se deben practicar las determinaciones establecidas en
+G. 1 y K.3. La realización de la prueba de compatibilidad mayor, según se especifica
+en G.3, es optativa.
+N.2 Perioperatoria
+La sangre puede ser colectada del paciente inmediatamente antes de la cirugía
+(dilución normo-volémica) o recuperada intraoperatoriamente del campo quirúrgico o
+de un circuito extracorpóreo (intra-operatorio). En situaciones postquirúrgicas y
+postraumáticas, la sangre derramada puede ser colectada de cavidades corporales,
+espacios articulares u otros sitios operatorios o traumáticos cerrados. EI
+procedimiento puede variar desde la colección de sangre anticoagulada hasta el
+procesamiento más complejo de la sangre recuperada mediante equipos mecánicos
+de lavado y dispositivos para concentración y filtrado.
+No está permitida la recuperación intraoperatoria cuando ésta presente riesgos de
+vehiculizar o diseminar agentes infecciosos y/o células neoplásicas.
+N.2.1. Las unidades obtenidas en el preoperatorio inmediato, por hemodilución
+normo-volémica podrán ser utilizadas hasta 24 horas desde el inicio de la extracción,
+siempre que fueran colocadas a 4 ± 20C antes de las 8 horas de iniciado el
+procedimiento.
+N.2.2. La sangre rescatada intraoperatoriamente no debe ser transfundida a otros
+pacientes.
+N.2.3. Los métodos empleados para recuperación de sangre deben ser seguros,
+asépticos y permitirán una identificación precisa de la sangre colectada. EI campo
+utilizado debe estar libre de pirógenos, debe incluir un filtro capaz de retener
+partículas potencialmente nocivas para el receptor y debe impedir la embolia
+gaseosa. Si la sangre es calentada antes de su infusión, rige 10 establecido en K.4.2.
+Debe identificarse con el nombre y número de historia clínica y registro alfanumérico,
+la fecha de nacimiento del donante - paciente, las características del producto y su
+fecha y hora de vencimiento.
+N.2.4. Se debe mantener un completo protocolo escrito sobre tales procedimientos
+transfusionales, incluyendo la selección de anticoagulantes y soluciones usadas en
+el procesamiento, y los aspectos concernientes a la prevención y el tratamiento de
+reacciones adversas. Además, se debe establecer un programa de control de
+calidad. Se deben mantener procedimientos escritos, criterios para resultados
+aceptables y registros de resultados. Las medidas de control de calidad estarán
+destinadas a la seguridad del producto recuperado para el receptor.
+[página 41]
+3ss
+N.2.5. La sangre recogida intraoperatoriamente y no transfundida durante o
+inmediatamente después de la cirugía deberá ser manejada según 10 establecido en
+K.4. Si la sangre es alejada del receptor para su procesamiento o almacenamiento,
+se debe asegurar su apropiada identificación.
+N.2.6. La sangre recuperada intraoperatoriamente o en condiciones postquirúrgicas
+o postraumáticas no debe ser transfundida luego de las 4 horas de iniciada su
+colecta.
+N.2.7. Debe haber un médico de la Unidad de Hemoterapia o del Servicio de
+Medicina Transfusional responsable del programa de transfusión autóloga y de
+recuperación intra-operatoria.
+O. REGISTROS
+0.1. Las Unidades de Hemoterapia o los Servicios de Medicina Transfusional
+tendrán un sistema de registro apropiado que permita rastrear la unidad de sangre o
+componente sanguíneo, desde su obtención hasta su destino, y controlar los
+protocolos de laboratorio referidos a ese producto.
+0.2. Los registros se conservarán convenientemente durante 5 años.
+0.3. En los registros se indicará la persona que realiza el procedimiento.
+0.4. Registro de donantes y de la donación de sangre
+Se deberá registrar 10 siguiente:
+a) Número de donación correlativo, numérico o alfanumérico.
+b) Datos personales (documento de identidad) del donante que permitan su correcta
+identificación a los efectos de citaciones posteriores;
+c) Reacciones adversas durante la colecta, si hubieran ocurrido;
+d) Peso, pulso, presión arterial, temperatura y valor de hemoglobina o hematocrito;
+e) Firma-consentimiento de la veracidad de los datos suministrados y autorización
+de la colecta;
+f) Razones por las cuales se rechazó la donación;
+g) Resultados inmunohematológicos y serológicos;
+h) Preparación de componentes, si se hubiera efectuado;
+i) Si se tratara de sangre o hemocomponentes recibidos de otras Unidades de
+Hemoterapia o Servicios de Medicina Transfusional se debe registrar el origen junto
+con su numeración original.
+0.5 Registros de pacientes
+Se debe registrar 10 siguiente:
+a) Pedidos de transfusión;
+b) Tipificación ABO y Rh
+c) Dificultades en la tipificación sanguínea;
+d) Presencia de anticuerpos irregulares de significado clínico;
+[página 42]
+3cg
+e) Resultado de las pruebas de compatibilidad;
+f) Fecha, tipo, cantidad e identificación de las unidades transfundidas.
+g) Complicaciones de las transfusiones.
+h) Los números de las unidades transfundidas en las historias clínicas de los
+pacientes y número de registro alfanumérico.
+0.6 Se llevará los registros de:
+a) Procedimientos incluyendo hemaféresis, colectas terapéuticas de sangre, etc.;
+b) Controles bacteriológicos (conservar registros por un año);
+c) Controles de temperatura de las heladeras y congeladoras (conservar registros
+por 3 meses);
+0.7. Los registros podrán ser informatizados, debiendo tener un soporte impreso
+diario, eI cual será firmado por el responsable a cargo y archivado siguiendo el
+número correlativo de hojas pre-impresas. Todos los registros de la Unidad de
+Hemoterapia o Servicio de Medicina Transfusional son absolutamente confidenciales
+y sólo serán accesibles a los organismos oficiales de fiscalización.
+P. CELULAS PROGENITORAS HEMATOPOYETICAS
+P.l. Las células progenitoras hematopoyéticas de médula ósea, sangre periférica o
+sangre de cordón, son colectadas y transfundidas para proveer reconstitución
+hematopoyética transitoriamente o permanentemente en el receptor.
+P.2. Selección del donante
+P.2.1. La Unidad de Hemoterapia o Servicio de Medicina Transfusional es
+responsable de la selección del donante y el lugar del procedimiento tendrá el
+máximo de seguridad para el donante y el receptor.
+P.2.1.1. Para donantes de médula ósea o de células progenitoras hematopoyéticas
+de sangre periférica se debe evaluar la salud del donante y determinar previamente
+la conveniencia de que el receptor reciba quimioterapia ablactiva en el momento en
+que el donante es admitido para la donación.
+P.2.1.2. Los donantes de médula ósea alogénica o de células progenitoras
+hematopoyéticas deben cumplir con los criterios de elección para la donación
+(incluidos en la sección B).
+En determinadas circunstancias la selección del donante puede necesitar desviarse
+de estas normas. Para ello necesitará la aprobación escrita de los médicos del
+donante y del receptor.
+del juicio del médico del paciente,
+[página 43]
+P.2.1.4. La historia clínica personal y familiar del padre biológico y de la madre
+biológica si se conoce, debe ser documentada en el momento de la colecta de
+sangre de cordón y debe ser evaluada antes de la infusión de las células
+progenitoras hematopoyéticas de cordón.
+P.2.2. Pruebas de laboratorio
+La excepción de estas normas es permisible únicamente cuando exista aprobación
+documentada tanto del médico del donante como del médico del paciente.
+P.2,2.1 Preparación de médula ósea o células progenitoras hematopoyéticas
+alogénicas:
+P,2.2.1.1. Las pruebas de donantes anticipadas para el grupo ABO, factor Rh (D),
+anticuerpos irregulares deben estar incluidos en B.5.1, B.5.2 y B.5.4. Si hubo
+donación previa de médula ósea o de células progenitoras hematopoyéticas de
+sangre periférica se hará una comparación entre el grupo ABO y el factor Rh del
+último registro disponible.
+Si existiera discrepancia entre el registro anterior y el actual, el componente donado
+no podrá ser utilizado hasta no esclarecer dicha discrepancia.
+P.2.2.1.2. Dentro de los 30 días previos a la colecta de médula ósea o células
+progenitoras hematopoyéticas de sangre periférica se debe realizar pruebas para
+detectar HBsAg, anti-HBc, anti-HCV, anti-HIV-I, anti-HlV-2, anti-HTLV I y II y una
+determinación serológica para Sífilis, para anti-CMV, Chagas y enfermedades
+endémicas del país. Se recomienda la detección de anticuerpos para el EBV
+P.2.2.1.3. Para los componentes que deben ser almacenados en el congelador o
+freezer, los test para HBsAg, anti-HBc, anti-HCV, anti-HIV-I , anti-HlV-2, anti-HTLV I
+y II, chagas y enfermedades endémicas del país, serán realizados el día de la
+primera colecta y cada 10 días durante un período de colectas múltiples.
+P.2.2.1.4. Los resultados anormales para los tests de marcadores de enfermedades
+infecciosas, serán comunicados al donante. EI consentimiento del receptor y del
+médico del paciente debe ser documentado para el uso de cualquier preparación de
+un donante alogénico con marcadores anormales de enfermedades infecciosas.
+P.2.2.1.5. Donantes alogénicos con tests positivos confirmados para anti-HIV 1 y 2 0
+un test repetitivamente positivo para HIV-Ag, no podrá ser aceptado.
+P.2.2.2. Preparación autóloga de médula ósea o células progenitoras
+hematopoyéticas de sangre periférica
+P.2.2.2.1. EI grupo ABO y el factor Rh deben ser determinados como está escrito en
+ei B.5.1 y B.5.2.
+[página 44]
+P.2.2.2.2. Es aplicable ei P.2.2.1.3
+P.2.2.2.3. Los resultados anormales para tests de marcadores de enfermedades
+infecciosas deberán ser comunicados al médico del donante.
+P.2.2.3. Preparación de sangre de cordón.
+P.2.2.3.1. Dentro de las 48 horas antes o después de la colecta de sangre de
+cordón, una muestra de sangre de la madre o de la sangre del cordón donado debe
+ser testeado para HBsAg, anti-HBc, anti-HCV, anti-HIV-I , anti-HlV-2, anti-HTLV I y II,
+y tests serológicos para sífilis, también para anti-CMV, chagas y enfermedades
+endémicas del país. Se deben realizar dos pruebas basadas en metodologías y /o
+antígenos diferentes para HIV 1 y 2
+P.2.2.3.2. Anormales resultados de test de marcadores de enfermedades infecciosas
+deben ser comunicados a la madre o al médico de la madre.
+P.2.2.3.3. Los glóbulos rojos de la sangre de cordón colectados del donante
+pediátrico serán determinados para el grupo sanguíneo ABO con reactivo anti-A y
+anti-B. La determinación del factor Rh será realizada como se indica en B.5.2.
+P.2.2.3.4. Los tests de anticuerpos irregulares de antígenos eritrocitarios deben ser
+realizados como 10 indicado en B.5.4, usando ya sea suero o plasma de la madre o
+una muestra del donante pediátrico o de la sangre del cordón donado.
+P.2.2.3.5. Se debe determinar el antígeno HLA- del donante y receptor,
+recomendándose que la determinación se efectúe por medio de pruebas de biología
+molecular.
+P.2.3. Consentimiento del donante.
+Se debe obtener el consentimiento por escrito de la madre del donante de la sangre
+de cordón.
+P.3. Colecta y procesamiento de células progenitoras de sangre periférica.
+P.3.1. Principios generales.
+P.3.1.1. La colecta y el procesamiento de las células progenitoras hematopoyéticas
+de sangre periférica deben ser realizados de acuerdo a un protocolo escrito. Los
+protocolos de rutina deben ser parte del manual de procedimientos. Para protocolos
+de investigación, los registros deben incluir la aprobación de la Autoridad Sanitaria y
+legislación vigente de transplante de cada país.
+P.3.1.2. Antes de la colecta y procesamiento de la médula ósea o de la obtención de
+células progenitoras hematopoyéticas de sangre periférica debe existir un acuerdo
+escrito entre el Servicio colector y procesador y el médico del rece tor sobre los
+tiempos y los detalles del procedimiento de colecta.
+[página 45]
+359
+P.3.1.3. Los métodos de la colecta y procesamiento deben emplear técnicas
+asépticas y métodos conocidos que garanticen resultados aceptables en la viabilidad
+y recuperación de las células progenitoras. EI número de lote y la fecha de
+vencimiento de los reactivos y descartables deben ser registrados.
+P.3.1 La preparación de células progenitoras hematopoyéticas no podrá recibir
+irradiación gamma. Estas preparaciones no podrán ser expuestas a radiación X de
+los aparatos diseñados para la detección de objetos metálicos.
+P.3.2. Personal
+Se debe poder identificar correctamente al personal que realiza cada una de las
+etapas de manipulación de las células progenitoras hematopoyéticas de sangre
+periférica (colecta, procesamiento, testeo, distribución).
+P.3.2.1. EI personal que efectúa cada uno de estos pasos debe tener documentación
+actualizada de su capacitación, entrenamiento y acreditación profesional de acuerdo
+a 10 que determine la Autoridad Sanitaria y legislación vigente en cada país.
+P.3.3. Control de Calidad
+P.3.3.1. Cada establecimiento debe definir en su manual de procedimientos, las
+técnicas de laboratorio tendientes a evaluar la calidad y cantidad de las
+preparaciones de células progenitoras hematopoyéticas.
+P.3.3.1.1. EI director médico será responsable de indicar las circunstancias en las
+cuales estas técnicas serán realizadas, para asegurar que los protocolos han sido
+respetados y que los resultados han sido registrados y archivados.
+P.3.3.2. Una muestra representativa de cada proceso de colecta de células
+progenitoras hematopoyéticas de sangre periférica debe ser estudiada para evaluar
+la contaminación bacteriana y fúngica. EI director médico es responsable de la
+revisión de los resultados.
+P.4. Almacenamiento de células progenitoras hematopoyéticas de sangre
+periférica.
+P.4.1. La temperatura y la duración de almacenamiento deben estar definidos en el
+manual de procedimientos. Cuando una o mas unidades se deban transferir a otro
+establecimiento debe existir un mutuo acuerdo en relación a la temperatura y la
+duración del almacenamiento (formulado y documentado antes de la colecta).
+P.4.2. Los compartimientos del refrigerador o freezer donde son almacenadas las
+preparaciones de células progenitoras hematopoyéticas tendrán la capacidad y el
+diseño necesarios para asegurar el mantenimiento de la temperatura apropiada
+durante todo el almacenamiento.
+[página 46]
+360
+P.4.2.1. Los refrigeradores y los freezers deben tener un sistema continuo para
+monitorear la temperatura y registrarla al menos cada 4 horas.
+P.4.2.2. Cuando las células progenitoras hematopoyéticas son almacenadas en
+nitrógeno líquido, en fase gaseosa, la temperatura debe ser mantenida debajo de los
+-1200 c.
+P.4.2.3. Cuando las células progenitoras hematopoyéticas son almacenadas en
+refrigerador, la temperatura será mantenida entre 10 y 60 C por no más de 48 horas.
+P.4.2.4. Los refrigeradores y freezers deben tener un sistema de alarma audiovisual.
+P.4.2.4.1. La alarma deberá ser programada para activarse cuando la temperatura
+alcance un límite, que permita tomar acciones antes que el componente llegue a
+temperaturas indeseables.
+P.4.2.4.2. La alarma debe sonar en una zona donde el personal de guardia pueda
+asegurar una acción correctiva inmediata.
+P.4.2.4.3. EI sistema de alarma en el freezer de nitrógeno líquido debe activarse
+cuando el contenido de nitrógeno líquido sea insuficiente.
+P.4.2.4.4. Los procedimientos escritos deben contener las directivas de cómo
+mantener los componentes dentro de temperaturas aceptadas y deben incluir
+instrucciones a seguir en caso de fallas eléctricas o alteraciones en la refrigeración.
+P.4.2.5. Los compartimientos del refrigerador o freezer donde son almacenadas las
+células progenitoras hematopoyéticas, también pueden ser usados para almacenar
+muestras del donante, muestras del paciente y reactivos del banco de sangre,
+excepto en la limitación anotada en P.4.2.6
+P.4.2.6, Almacenamiento de unidades con marcadores positivos de enfermedades.
+Las preparaciones de las colectas cuyo testeo es incompleto, incluyendo las
+preparaciones de sangre de cordón cuyo testeo materno es incompleto o
+preparaciones que tienen tests confirmados positivos para HBsAg, anti-HBc, anti-
+HCV, anti-HIV-I, anti-HlV-2, o anti-HTLV I y II, chagas y enfermedades endémicas
+de cada país, o test repetidamente reactivo para HIV-1-Ag, deben ser almacenadas
+de manera de minimizar la posibilidad de una contaminación viral cruzada.
+P.5. Registros.
+Aplicación de la sección 0.1. Los registros que deben ser conservados por 5 años,
+aunque no todos estén inmediatamente disponibles, incluyen:
+P.5.1. Registros de los procedimientos de colectas de células progenitoras
+hematopoyéticas, del procesamiento y/o almacenamiento.
+[página 47]
+P.5.2. Identificación y diagnóstico del paciente.
+P.5.3. Información del donante.
+P.5.3.1, Para donantes autólogos: la información de la identificación, la historia
+clínica, el examen físico, el consentimiento firmado y los marcadores de
+enfermedades infecciosas.
+P.5.3.2. Para donantes alogénicos: la información de la identificación del donante y
+del receptor, incluyendo para las colectas de sangre de cordón, la de los padres y la
+del recién nacido; la historia clínica del donante, el examen físico, el resultado de
+tests de marcadores infecciosos, la interpretación de tests para ABO y factor Rh, la
+detección y la identificación de anticuerpos irregulares, la compatibilidad de glóbulos
+rojos con el receptor y el consentimiento firmado.
+P.5.4. Preparación de células progenitoras.
+P.5.4.1. Nombre de la preparación
+P.5.4.2. Número único o identificación alfanumérica.
+P.5.4.3 Volumen de la preparación, anticoagulantes y crioprotectores utilizados.
+P.5.4.4. Datos de la colecta, procesamiento, almacenamiento, infusión y fecha de
+expiración, si existiera.
+P.5.4.5 Información para identificar los establecimientos que efectuaron la colecta, el
+procesamiento, el almacenamiento y la función de cada uno.
+P.5.4.6 Reacciones adversas.
+P.5.4.7 Destino final de cada componente.
+P.5.5 Nombre, firma, iniciales o código de identificación e inclusive datos de los
+cargos del técnico autorizado a firmar, inicialar, revisar los informes y los registros.
+P.6. Rotulación.
+P.6.1 Rótulo de la unidad colectada.
+En el momento de la colecta y de la preparación de células progenitoras
+hematopoyéticas, el rótulo debe contener la siguiente información como mínimo:
+P.6.1.1 Nombre de la preparación de células progenitoras hematopoyéticas
+P.6.1.2 Fecha de la colecta.
+P.6.1.3 Volumen aproximado del contenido.
+[página 48]
+P.6.1.4 Nombre y volumen de los anticoagulantes y otros aditivos.
+P.6.1 Identificación del donante.
+P.6.1.6 Nombre del receptor, si se conoce.
+P.6.1 Identificación del establecimiento colector.
+P.6.2 Rótulo para la infusión.
+Previo a la salida para la infusión, el rótulo del envase final debe indicar como
+mínimo 10 siguiente:
+P.6.2.1 Nombre de la preparación de las células progenitoras hematopoyéticas.
+P.6.2.2 Naturaleza de cualquier procedimiento empleado y fechas de realización.
+P.6.2.3 Identificación numérica o alfanumérica única.
+P.6.2.4 Identificación del establecimiento liberador.
+P.6.2.4.1 Debe ser posible el rastreo de los distintos establecimientos intervinientes.
+P.6.2.4.2 No debe haber más de dos números de identificación numéricos o
+alfanuméricos en cada unidad.
+P.6.2.5 Volumen aproximado del componente.
+P.6.2.6 Anticoagulante, si no está criopreservado o, si está criopreservado el
+criopreservante; y nombre de cualquier solución aditiva.
+P.6.2.7 Temperatura de almacenamiento.
+P.6.2.8 Fecha de vencimiento.
+P.6.3 Para los preparados alogénicos, la etiqueta debe incluir el grupo ABO, factor
+Rh y resultado de estudio HLA del donante, la interpretación de los tests de
+anticuerpos irregulares (si es positiva); y la anotación "para uso exclusivo del
+receptor designado"
+P.6.3.1 Para los preparados de células de sangre de cordón el grupo ABO, el factor
+Rh será el del niño donante.
+P.6.4 Para componentes autólogos, la etiqueta debe decir "para uso autólogo
+únicamente".
+[página 49]
+P.6.5 Etiquetas de riesgos biológicos.
+Debe ser aplicada en cada unidad del donante sí:
+1) el test anti-HIV-I es confirmado positivo.
+2) el test anti-HlV-2 es repetidamente reactivo.
+3) el test de HBsAg es confirmado positivo.
+4) el test anti-HCV es confirmado positivo.
+5) el test anti-HBc es repetidamente reactivo.
+6) el test de HIV-1-Ag es repetidamente reactivo.
+7) el test de HTLV I y II es repetidamente reactivo
+P.7 Infusión.
+Debe confirmarse la identificación del receptor y del envase del preparado de células
+progenitoras hematopoyéticas.
+P.7.1 Inmediatamente antes de la infusión, la persona que realizará la infusión debe
+verificar y documentar toda la información que identifica al envase con respecto al
+receptor. Esta verificación debe realizarse en presencia del receptor, ítem por ítem.
+P.7.2 Toda identificación fijada en el envase debe mantenerse hasta que la infusión
+haya finalizado.
+P.7.3 No se deben utilizar filtros de leucorreducción durante la infusión de los
+preparados de células progenitoras.
+Q. PRINCIPIOS GENERALES DE CONTROL DE CALIDAD
+La protección del donante, el receptor y todo el personal involucrado, objetivo
+principal de la Medicina Transfusional es solamente alcanzado y garantizado con un
+estricto control de calidad de todas y cada una de las prácticas transfusionales.
+Q1. Organización y Métodos
+Q.l.l La Unidad de Hemoterapia o Servicio de Medicina Transfusional, debe poseer
+un manual de operaciones disponible en todo momento para todo el personal, que
+será revisado y actualizado anualmente por su Director.
+Q.1.2 EI Jefe o Director debe comunicar fehacientemente a todo el personal las
+modificaciones, simplificaciones de flujos y conductas técnicas que se introduzcan en
+el manual de operaciones.
+Q.l .3 Se recomienda una rotación de tareas para evitar los errores producidos por la
+rutina y el automatismo del trabajo, promoviendo nuevos intereses.
+Q.l .4 Debe exigirse un fiel cumplimiento a las normas de bioseguridad.
+Q.2. Control de calidad del personal:
+[página 50]
+eco
+Q.2.1 Se buscará desde el momento de la selección del personal, un individuo atento
+y disciplinado, con dedicación al trabajo y disposición para la educación continua. La
+evaluación de su desempeño debe ser una preocupación constante del responsable
+de la Unidad de Hemoterapia o Servicio de Medicina Transfusional.
+Q.2.2 EI director técnico será un médico especialista o especializado en hemoterapia
+o hematología de acuerdo a la legislación vigente en cada país.
+Q.2.3 Personal de apoyo: la calidad de los resultados se obtiene cuando el personal
+de apoyo tiene exacta noción de la importancia de su trabajo y plena conciencia de
+la necesidad de atención y vigilancia constante.
+Q.2.4 Personal técnico:
+Q.2.4.1 EI control de calidad debe ser rígido y comprender técnicos capacitados y
+entrenados, en condiciones de responder de manera rápida y eficiente en
+situaciones de emergencia. Se debe fiscalizar rigurosamente los registros y
+transcripciones de sus actividades.
+Q.2.4.2 Debe evitarse:
+confiar en la memoria o memorizar los resultados para registrarlos de una sola
+vez ,
+anotar las observaciones posteriormente a la realización de un examen o a la
+detección de un problema
+liberar resultados sin la correspondiente confirmación.
+Q.2.4.3 No debe informarse resultados por vía telefónica, sobretodo los resultados
+serológicos de los donantes.
+Q.2.5 Capacitación del personal:
+Toda Unidad de Hemoterapia o Servicio de Medicina Transfusional, debe contar con
+un programa de capacitación del personal, que puede ser interno o externo. Ese
+programa debe cubrir a todo el personal del Servicio. A partir de este programa,
+serán tomadas las medidas de acreditación, educación continua y reciclaje.
+Q03 Control de calidad del equipamiento:
+Los equipamientos deben ser controlados antes de su utilización rutinaria y operados
+de acuerdo con las normas especificadas por el fabricante. Su validación será
+efectuada a intervalos regulares de acuerdo a las características del equipo. Si se
+constatan irregularidades deben aplicarse las medidas correctivas pertinentes.
+Q.3.1 Refrigeradores: Es necesario que de acuerdo a los niveles de complejidad los
+servicios tengan refrigeradores destinados a la conservación de reactivos y
+refrigeradores exclusivos para ta conservación de componentes sanguíneos. No se
+deben almacenar ambos productos en un mismo refrigerador. Los refri radores
+deben contar con alarmas audiovisuales y control de temperatura.
+[página 51]
+34C
+Q.3.2 Temperatura: Debe ser mantenida en 40 C ± 20 C. La verificación de la
+temperatura debe realizarse no menos de cuatro veces al día. Los resultados deben
+ser registrados.
+Q.3.3 Congeladores: Las temperaturas serán controladas y registradas no menos
+de cuatro veces por día.
+Q.3.4 Centrífugas: Deben ser calibradas cada cuatro meses y después de cualquier
+servicio de mantenimiento, siendo necesario controlar la velocidad por medio de un
+tacómetro.
+Q.3.5 Centrífugas refrigeradas: La verificación de temperatura del equipo debe ser
+realizada después de cualquier servicio de mantenimiento y/o cada cuatro meses
+como mínimo.
+Q.3.6 Baños termostatizados o incubadoras (baños María): Deben poseer un
+termómetro de uso exclusivo y la temperatura debe ser registrada cada 24 horas,
+recomendándose tomar la temperatura en distintas zonas del baño.
+Q.4 Control de calidad de los reactivos inmunohematológicos y serológicos:
+Q.4.1 La responsabilidad de la calidad de los reactivos es incumbencia de los
+fabricantes y de los organismos responsables de la fiscalización y liberación del
+producto. No obstante, los reactivos están sujetos a alteraciones cuando no se
+cumplen con las normas de conservación, utilización y/o transporte.
+Q.4.2 Los reactivos deben ser almacenados de acuerdo a las instrucciones del
+fabricante, evitándose al máximo la permanencia del reactivo fuera de las
+temperaturas indicadas para su almacenamiento.
+Q.4.3 EI Servicio debe realizar pruebas de control de calidad en cada lote recibido
+para comprobar que los reactivos están dentro de los patrones establecidos y que no
+fueron alterados durante el transporte. Se deben verificar periódicamente posibles
+alteraciones durante su manipuleo o almacenamiento en las Unidades de
+Hemoterapia o en los Servicios de Medicina Transfusional.
+Q.4.4 Los resultados de los controles deben ser registrados con el nombre del
+fabricante, el número del lote, la fecha de validez y el grado de la reacción obtenida.
+Q.4.5 Deben ser establecidas medidas correctivas cuando sean detectadas
+anormalidades.
+Q.5 Control de calidad de las técnicas empleadas:
+Q.5.1 Se debe seleccionar un método adecuado para verifica a especificidad,
+sensibilidad y reproductibilidad de las técnicas empleadas.
+[página 52]
+344
+Q.5.2 Se deben utilizar los medios necesarios para identificar fallas técnicas,
+alteración de los reactivos utilizados y errores cometidos por azar.
+Q.5.3 Se deben utilizar sistemáticamente, durante el procedimiento té ico, controles
+negativos y positivos, para confirmar los resultados obtenidos.

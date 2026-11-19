@@ -1,0 +1,736 @@
+Resolución GMC N° 02/06
+Título: ESQUEMA ÚNICO PARA EL CONTROL DE LA UTILIZACIÓN DEL GAS NATURAL, COMO COMBUSTIBLE VEHICULAR, EN EL MERCOSUR
+Fecha de aprobación: 22/06/2006
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 5333_RES_002-2006_ES_ControlGasNatural.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/387).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 02/06
+
+ESQUEMA ÚNICO PARA EL CONTROL DE LA UTILIZACIÓN DEL GAS NATURAL, COMO COMBUSTIBLE VEHICULAR, EN EL MERCOSUR
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y la Decisión N° 20/02 del Consejo del Mercado Común.
+
+CONSIDERANDO:
+
+Que habida cuenta los compromisos asumidos en seguimiento del Programa de Trabajo oportunamente pautado, se torna necesario unificar y reglamentar el control de la utilización del gas natural como combustible vehicular dentro de los Estados Partes del Mercado Común del Sur (MERCOSUR).
+
+Que el presente esquema regirá para vehículos automotores que utilizan gas natural como combustible en Estados Partes de los que no son originarios, de forma que es necesario implementar adecuados esquemas de control.
+
+Que es preciso establecer pautas mínimas de cumplimiento en materia técnica y/o requisitos a ser considerados en materia de responsabilidades propias y/o derivadas del uso de vehículos propulsados con GNC y/u obligatoriedades en materia de contrataciones asegurativas.
+
+Que en ese contexto, es propósito de los Estados Partes del MERCOSUR la armonización de las exigencias necesarias sobre utilización de gas natural vehicular, teniendo en cuenta particularmente, la conciliación de las normativas que provienen de los Estados Partes en materia de la reglamentación y/o control de la actividad del gas natural utilizado como combustible vehicular.
+
+Que es necesario arbitrar las medidas pertinentes para consolidar la protección de los usuarios del gas natural utilizado como combustible vehicular, garantizando el máximo cumplimiento de las exigencias esenciales en materia de seguridad.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Esquema Único para el Control de la Utilización del Gas Natural, como combustible vehicular, en el MERCOSUR", que consta como Anexo y forma parte de la presente Resolución.
+
+
+Art. 2 - Los Organismos Nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina:  Ente Nacional Regulador del Gas - (ENARGAS).
+
+Brasil:     Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - (INMETRO).
+Agência Nacional do Petróleo - (ANP)
+Departamento Nacional de Trânsito - (DENATRAN)
+
+Paraguay:   Ministerio de Industria y Comercio - (MIC)
+Instituto Nacional de Tecnología y Normalización - (INTN)
+
+Uruguay:     Ministerio de Industria, Energía y Minería - (MIEM)
+Unidad Reguladora de Servicios de Energía y Agua - (URSEA)
+
+Art. 3 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 22/XII/2006.
+
+
+LXIII GMC - Buenos Aires, 22/VI/06
+
+
+ANEXO
+
+MERCOSUR - Gas Natural Comprimido (GNC)
+
+Esquema Único para el Control de la Utilización del Gas Natural, como Combustible Vehicular, en el MERCOSUR
+
+SECCIÓN I.- OBJETO
+
+El objetivo de este documento es reglamentar y unificar el control de la utilización del gas natural como combustible vehicular, dentro de los Estados Partes del Mercado Común del Sur (MERCOSUR).
+
+SECCIÓN II.- ALCANCE
+
+Las presentes disposiciones regirán para vehículos automotores que utilizan gas natural como combustible, en Estados Partes de los que no son originarios.
+
+SECCIÓN III.- DEFINICIONES
+
+A los efectos de este documento, se aplican las siguientes definiciones:
+
+1.- Autoridad Competente
+
+Organismo Oficial a cargo de la reglamentación y/o control de la actividad del GNC en cada uno de los Estados Partes.
+
+2.- Cédula MERCOSUR para uso de gas natural como combustible vehicular (cédula)
+
+Documento cuyas características se definen en el Anexo B, emitido por la Autoridad Competente, en el que consta la siguiente información relacionada con el  Equipo Completo para GNC instalado en el vehículo:
+
+a) Identificación alfanumérica de la cédula.
+
+b) Marca, modelo y dominio (patente o matrícula) del vehículo.
+
+c) Número de oblea GNC (portugués: "selo") de vigencia de la habilitación, emitida por la Autoridad Competente del país de origen del vehículo.
+
+d) Marca, modelo y número de serie del regulador y cilindros instalados.
+
+e) Fecha de vencimiento, que debe coincidir con la fecha de vencimiento de la oblea.
+
+f) Código de identificación del Taller de Montaje registrado.
+
+g) Indicación bien visible de la presión nominal de carga.
+
+h) Nombre, dirección, teléfono y número del responsable de la habilitación.
+
+i) Firma y aclaración del Representante Técnico del responsable de la habilitación.
+
+j)  Un texto que indique: "Sr. Conductor, antes de iniciar la carga de GNC: - detener el motor   - apagar las luces   - desactivar aparatos eléctricos y electrónicos   - no fumar   - hacer descender todos los ocupantes del vehículo, inclusive el conductor".
+
+3.- Adaptador para el suministro de GNC (adaptador)
+
+Dispositivo que permite conectar el equipo completo para GNC de un vehículo proveniente de un Estado Parte, con el surtidor de una estación de carga localizada en otro Estado Parte.
+4.-Equipo completo para GNC
+
+Conjunto de componentes instalado en un vehículo automotor que permite utilizar GNC, conforme lo requiere la normativa de seguridad vigente en el Estado Parte de donde es originario. Podrá estar compuesto por las siguientes partes:
+
+a) cilindro/s contenedor/es,
+
+b) soporte de cilindro/s contenedor/es,
+
+c) válvula/s de bloqueo de el/los cilindro/s contenedor/es, y sus respectivos sistemas de seguridad,
+
+d) tubería de alta presión y su dispositivo de sujeción,
+
+e) conectores para tuberías de alta presión,
+
+f) regulador de presión y su dispositivo de sujeción,
+
+g) válvula para carga de GNC y su dispositivo de sujeción,
+
+h) conducto o conexión flexible de baja presión,
+
+i) mezclador,
+
+j) válvulas solenoides,
+
+l) llave selectora de combustible y cables, cuando sea necesario,
+
+m) indicador de presión, y
+
+n) sistema de venteo.
+
+5.- Etiqueta de identificación del vehículo propulsado con GNC (en adelante, etiqueta)
+
+Autoadhesivo para identificar a distancia, al vehículo automotor que utiliza GNC.
+6.- Gas Natural Comprimido (GNC)
+
+Mezcla de hidrocarburos en estado gaseoso, compuesta principalmente por metano, utilizada en vehículos automotores como combustible.
+
+7.- Oblea
+
+Identificación adoptada por cada Autoridad Competente de donde es originario el vehículo, utilizada para indicar, como mínimo:
+
+a) fecha de vencimiento de la habilitación del equipo completo para GNC
+instalado en el vehículo, y
+
+b) el código que la identifica.
+
+8.- Responsable de la Inspección de Seguridad Vehicular/Responsable de la Habilitación, del vehículo que utiliza gas natural como combustible, en cada Estado Parte  (Responsable de la Habilitación / Inspección)
+
+* En la Argentina, el Productor de Equipos Completos para GNC (PEC), reconocido por el ENARGAS, en forma solidaria con su Representante Técnico, de acuerdo con lo indicado en la Resolución ENARGAS Nº 139/95, o la que en el futuro la reemplace.
+
+* En Brasil, Organismo de Inspección de Seguridad Vehicular, acreditado por INMETRO, de acuerdo con la Portaría Conjunta Denatran/Inmetro N° 01/2002 o la que en el futuro la reemplace.
+
+* En Paraguay, Instituto Nacional de Tecnología y Normalización (INTN).
+
+* En Uruguay, el Productor de Equipos completos (PEC) reconocido por la URSEA, de acuerdo a su Resolución N° 26/2003 o la que en el futuro la reemplace.
+9.-  Base de datos
+Información coincidente con la que figura en la cédula, disponible para todos los Estados Partes.
+
+SECCIÓN IV.- GENERALIDADES
+
+1.- Adaptador
+
+      Debe ser especificado por la Autoridad Competente del Estado Parte donde será utilizado, de acuerdo con los criterios establecidos en el Anexo A de este documento.
+
+2.- Equipo Completo
+
+      2.1 El equipo completo para GNC deberá cumplir la reglamentación vigente en el Estado Parte de donde proviene el vehículo.
+
+      2.2 Los componentes que integran el equipo completo para GNC deberán igualmente cumplir con la reglamentación vigente en el Estado Parte de donde proviene el vehículo.
+
+      2.3 La revisión de los cilindros contenedores se efectuará de acuerdo con los criterios establecidos por la Autoridad Competente del Estado Parte de donde proviene el vehículo.
+
+      2.4 El plazo máximo de la habilitación de la instalación del equipo completo para GNC será de un (1) año.
+
+      2.5 La Autoridad Competente de cada Estado Parte instruirá a los responsables de la habilitación del equipo completo para GNC para que se deje a la vista los números de serie que identifican al cilindro y regulador de presión.
+
+3.- Etiqueta
+
+      3.1 El vehículo que utilice gas natural como combustible, deberá llevar adherida por lo menos una etiqueta que permita distinguirlo de los que no lo utilizan.
+
+      3.2 La etiqueta será común para todos los Estados Partes y debe cumplir con las especificaciones establecidas en el Anexo C de este documento.
+
+      3.3 La etiqueta se adherirá a la superficie visible del extremo derecho de la parte trasera del vehículo, por encima de su paragolpe o en la cara interna del vidrio trasero en su ángulo inferior derecho.
+
+      3.4 La etiqueta será suministrada al Responsable de la habilitación por la Autoridad Competente del Estado Parte correspondiente al vehículo, o por quien ésta indique.
+
+4.- Habilitación del vehículo
+
+    Cuando el propietario de un vehículo que tenga instalado un equipo completo para GNC, desee ingresar con ese vehículo a otro de los Estados Partes, deberá dirigirse al Responsable de la habilitación en su país de origen, quien verificará:
+
+4.1 que el equipo completo para GNC cumpla con la normativa vigente en el país de origen, y
+
+4.2 la trazabilidad de los cilindros y el regulador de presión instalados, que surja del sistema de información que se adopte para su control.
+
+ 4.3 De resultar satisfactorios los controles indicados en 4.1 y 4. 2, deberá:
+
+a) registrar la operación en la base de datos;
+
+b) completar la cédula, por cualquier medio que no sea  manuscrito, y entregarla al propietario o conductor del vehículo;
+
+c) adherir al vehículo la etiqueta; y
+
+d) poner a disposición del propietario del vehículo las instrucciones que constan en el Anexo F de este documento.
+5.- Cédula
+
+La cédula será común para todos los Estados Partes y responderá al modelo indicado en el Anexo B.
+La Autoridad Competente de cada Estado Parte determinará los medios necesarios para la provisión de la cédula a los usuarios de su país que lo soliciten, para la correspondiente identificación del Equipo Completo en el resto de los Estados Partes.
+
+6.- Presión de almacenamiento
+
+El GNC será almacenado en el cilindro contenedor instalado en el vehículo, a una presión nominal de 200 Kgf/cm2, a la temperatura de referencia que adopte cada Estado Parte.
+
+7.- Base de Datos
+
+7.1 La Autoridad Competente de cada Estado Parte hospedará y actualizará en su sitio web la base de datos correspondiente a los vehículos que utilizan GNC en su Estado Parte original y que están habilitados para circular, estacionar y cargar ese combustible en el resto de los Estados Parte.
+
+7.2 La Autoridad Competente de cada Estado Parte hará disponible el acceso a la base de datos, tanto para el abastecimiento de información, como para su consulta desde cualquier Estado Parte.
+
+7.3 El acceso a la base de datos se efectuará a través del código de identificación de la cédula, o del dominio o matrícula del vehículo.
+
+7.4 El contenido de la base de datos se encuentra definido en el punto 1 del Anexo D.
+
+7.5 El formato de la página será común a los Estados Partes, se encontrará disponible en idioma español y en portugués y consta en el punto 2. (Formato) del anexo D.
+
+SECCIÓN V.- ADAPTADOR PARA ABASTECIMIENTO DE GNC
+
+1. Deberá ser aprobado por la Autoridad Competente (o por quién esta indique) del Estado Parte donde se utilice, y permitirá acoplar el surtidor de la estación de carga ubicada en ese Estado Parte con el equipo completo para GNC instalado en un vehículo proveniente de otro Estado Parte.
+
+2. Los documentos técnicos a tener en cuenta por los Estados Partes, para la elaboración del reglamento del adaptador, deberán ser reconocidos por la autoridad competente de cada Estado Parte:
+
+3. Las características esquemáticas, dimensiones, materiales y pautas técnicas a tener en cuenta, para el adaptador, se encuentran definidas en el Anexo A de este documento.
+
+SECCIÓN VI- REQUISITOS PREVIOS A LA CARGA DE GNC EN EL VEHÍCULO
+
+Los controles requeridos en la instancia previa a la carga de gas natural al vehículo, serán los que determine la  legislación vigente en cada Estado Parte.
+
+Para el caso de Argentina, el usuario deberá exhibir, cuando le sea solicitado, la cédula al Representante Técnico u operador de playa de la estación de carga de GNC, quién verificará:
+
+1 la vigencia y originalidad de la cédula, sobre la base de los sistemas de seguridad informados por la Autoridad Competente del Estado Parte donde se encuentre la estación de carga,
+
+2 la correspondencia de la marca y el dominio o matrícula del vehículo, con la información que consta en la cédula, y
+
+3 la vigencia y originalidad de la oblea, GNC en el vehiculo sobre la base de los sistemas de seguridad informados por la Autoridad Competente del Estado Parte donde se encuentre la estación de carga.
+
+De tener dudas acerca del equipo completo para GNC, la estación de carga de GNC podrá verificar los números de serie del regulador y cilindro/s contenedor/es instalados en el vehículo, con la información que consta en la cédula y/o base de datos.
+
+De resultar satisfactorios los controles previamente indicados, el vehículo se encontrará apto para ser cargado con GNC a través del adaptador, teniendo en cuenta todos los requisitos de seguridad.
+
+SECCIÓN VII.- ESTACIONAMIENTO
+
+Las instrucciones a tener en cuenta para el estacionamiento en cualquiera de los Estados Partes, se encuentran establecidas el punto F5 del Anexo F de este documento. La Autoridad Competente de cada Estado Parte deberá suministrarlas al propietario del vehículo propulsado con gas natural, correspondiente a ese Estado Parte.
+
+SECCIÓN VIII.- CASO DE ACCIDENTE
+
+1. Si el vehículo propulsado con GNC resultara involucrado en algún accidente que pudiera comprometer la integridad de alguno de los componentes del equipo completo para GNC, su conductor deberá concurrir a algún Responsable de habilitación / Inspección dentro del Estado Parte donde se encuentre circulando.
+
+2. El Responsable de habilitación / inspección deberá verificar el estado del equipo completo para GNC, a efectos de determinar su aptitud para utilizar GNC en forma segura. En tal sentido, deberá verificar la ausencia de:
+
+- pérdidas de gas
+- deformaciones
+- defectos de sujeción
+- deterioro del estado superficial de los componentes
+- fallas en el corte de electroválvulas
+- evidencias de exposición al fuego
+- evidencia de acción de productos corrosivos
+- fallas en la válvula de bloqueo de cilindros
+
+3. El Responsable de habilitación /inspección informará fehacientemente al conductor, sobre la aptitud del equipo completo, según lo indicado en el Modelo de Formulario que consta en el Anexo E, de este documento. Un ejemplar de este formulario, en original, será entregado al Propietario o al Conductor y otro permanecerá en poder del Responsable de habilitación /inspección. El original y la copia deberán estar firmados por el conductor y el responsable de la habilitación/inspección.
+
+3.1 Si ese documento determinara que, a raíz del accidente, el equipo completo para GNC no resultara apto para su utilización, el propietario/conductor estará sujeto a las responsabilidades civiles y penales que correspondan por los daños y perjuicios que pudiera ocasionar con el uso del GNC, hasta tanto regularice la situación en su país de origen.
+
+4. El propietario/conductor también estará sujeto a las responsabilidades civiles y penales que correspondan por los daños o perjuicios que pudiera ocasionar la carencia de la etiqueta, la falta de cumplimiento de las instrucciones para el estacionamiento, o la alteración de las condiciones originales del equipo completo bajo las cuales fue habilitado.
+
+SECCIÓN IX.- CRUCE DE FRONTERA
+
+El propietario del vehículo deberá exhibir, cuando sea solicitada, la cédula ante la Autoridad de Control de fronteras que ejerza el poder de policía en el Estado Parte al que pretenda ingresar, quién deberá verificar:
+
+1 la originalidad y vigencia de la oblea y cédula, sobre la base de los sistemas de seguridad informados por la Autoridad Competente del Estado Parte al que se encuentra ingresando el vehículo, y
+
+2 la marca y el dominio o matrícula del vehículo, y su correspondencia con los datos que figuran en la cédula.
+
+En caso de dudas, la Autoridad de Control de fronteras podrá efectuar las consultas que considere necesarias, en la base de datos vía internet.
+
+Así mismo, al ingreso a cualquier Estado Parte, deberá exhibir la documentación correspondiente al seguro de responsabilidad civil, válido para el Estado Parte al que se desea ingresar, donde conste denunciado el equipo completo de GNC.
+
+De no resultar satisfactoria cualquiera de esas verificaciones, el vehículo no se encontrará apto para ingresar al Estado Parte.
+
+SECCIÓN X.- SEGURO DE RESPONSABILIDAD CIVIL DEL PROPIETARIO Y/O CONDUCTOR
+
+Todo tipo de vehículo automotor, cualquiera sea su porte, característica y uso al que se encuentre afectado, que utilice GNC, podrá ingresar a cualquier Estado Parte siempre que cuente con una póliza de seguro donde conste denunciado el equipo completo para GNC.
+Esa póliza deberá cubrir la responsabilidad civil del propietario y/o conductor en el Estado Parte al que desea ingresar, así como perjuicios causados a personas u objetos no transportados.
+
+
+ANEXO A
+ADAPTADOR
+PARA EL ABASTECIMIENTO DE GNC
+ESQUEMAS, DIMENSIONES Y MATERIALES
+
+
+MATERIALES
+
+Las partes componentes del adaptador deberán responder a conceptos de resistencia, operabilidad y seguridad.
+
+Los materiales utilizados serán compatibles electro - químicamente y aptos para el uso con GNC a las condiciones de operación.
+
+El diseño y selección del aro sello, será tal que otorgue un cierre hermético y que se minimice el desgaste de los elementos metálicos. El material a adoptarse será compatible con el GNC, preferentemente responderá a un elastómero de nitrilo butadieno (Buna "N") cuya dureza no sea inferior a Shore "A" 90.
+
+El fabricante de los componentes que utilicen aros sello, deberá indicar en el manual de uso, las características de aro a utilizar y las recomendaciones de montaje, limpieza y lubricación.
+
+Para evitar el deterioro de la junta durante el montaje del aro sello, se deberán evitar los cantos vivos de todas las aristas que tome contacto. Todos los bordes deben estar exentos de rebabas.
+
+PAUTAS TECNICAS A TENER EN CUENTA
+
+1 - El adaptador deberá soportar una carga de 670 N en cualquier dirección, sin que esto afecte la estanqueidad del acoplamiento con la válvula de carga. Las dimensiones de los extremos de ataque y de acoplamiento deben estar de acuerdo con la FIGURA I de la TABLA I de este Anexo.
+
+2 - El fabricante o importador deberá presentar los documentos, como mínimo, de las siguientes comprobaciones:
+
+2.1 - Composición química del material utilizado en la fabricación;
+
+2.2 - Informe sobre la carencia de tensiones residuales.
+
+
+FIGURA I - DISPOSITIVO DEL ADAPTADOR DE ABASTECIMIENTO
+
+
+TABLA I - DIMENSIONES Y TOLERANCIAS DE REFERENCIA DEL DISPOSITIVO
+
+TIPO
+DIMENSIONES Y TOLERANCIAS DE REFERÊNCIA (mm)
+
+A
+B
+C
+D1
+D2
+D3
+E
+F
+G
+I
+12,00
+7,00
+3,00
+12,60
+11,13
+12,00
+20,80
+8,00
+35,00
+II
+17,75
+6,5
+8,5
+11,00
+12,70
+13,70
+29,00
+9,00
+25,00
+III
+17,75
+6,5
+8,5
+11,00
+NGV 1
+29,00
+NGV 1
+IV
+12,00
+7,00
+3,00
+12,60
+NGV 1
+20,80
+NGV 1
+Tolerancias
++/- 0,10
++/- 0,10
++/- 0,10
++/- 0,05
++0,05
+-0.00
++/- 0,10
++/- 0,10
++/- 0,10
++/- 0,10
+
+
+3 - REQUISITOS PARA EL ACOPLAMIENTO
+
+
+3.1 - CARGA EN TERRITORIO BRASILERO
+
+
+3.1.1 - Vehículo procedente de Argentina
+
+Debe ser utilizado por las estaciones de carga el adaptador del tipo I
+
+
+COMPONENTES DEL SISTEMA DE GNC
+
+PATRON
+
+Válvula de carga instalada en el vehículo
+
+AR (Argentina)
+
+Terminal de la estación de carga
+
+BR (Brasil)
+
+
+3.1.2 - Vehículos de otras procedencias equipados con válvulas de carga del tipo NGV1.
+
+Debe de utilizarse en las estaciones de carga, el terminal del tipo NGV1.
+
+
+COMPONENTES DEL SISTEMA  DE GNC
+
+
+PATRON
+
+Válvula de carga instalada en el vehículo
+
+
+NGV 1
+
+Terminal de la estación de carga
+
+
+NGV1
+
+
+3.2 - CARGA EN TERRITORIO ARGENTINO
+
+3.2.1 - Vehículos procedentes de Brasil
+
+Debe de utilizarse en las estaciones de carga, el adaptador del tipo II
+
+
+COMPONENTES DEL SISTEMA DE GNC
+
+
+PATRON
+
+Válvula de carga instalada en el vehículo
+
+
+BR (Brasil)
+
+Terminal de la estación de carga
+
+
+AR (Argentina)
+
+
+3.2.2 - Vehículos de otras procedencias equipados con válvulas de carga del tipo NGV1.
+
+Debe de utilizarse en las estaciones de carga, el adaptador del tipo NGV 1.
+
+
+COMPONENTES DEL SISTEMA DE GNC
+
+PATRON
+
+Válvula de carga instalada en el vehículo
+
+
+NGV 1
+
+Terminal de la estación de carga
+
+
+NGV 1
+
+
+ANEXO B
+MODELO DE CEDULA MERCOSUR
+ANEXO C
+
+Modelo de etiqueta
+
+
+Especificaciones
+
+altura del rombo			83 ± 1 mm
+longitud del rombo			120 ± 1 mm
+altura de las letras			 25 mm
+ancho de la franja			4  1 mm
+espesor de las letras		5  0.5 mm
+color de fondo			azul
+color de la franja y de las letras	blanco
+
+
+ANEXO D
+BASE DE DATOS
+1.- Contenido
+
+1. Datos del Responsable de la Habilitación.
+a. Razón social.
+b. Domicilio.
+c. Municipio/Localidad/Ciudad.
+d. Estado/Provincia/Departamento.
+e. Teléfono.
+f. Responsable Técnico (nombre y apellido).
+2. Datos de la Empresa Instaladora
+a. Código del Taller Instalador.
+3. Datos del Vehículo
+a. Código alfanumérico de identificación de la Cédula.
+b. Número de Oblea.
+c. Fecha de vencimiento de la habilitación.
+d. Marca.
+e. Modelo.
+f. Dominio/placa/matrícula.
+4. Datos del Regulador
+a. Marca y Modelo.
+b. Número de serie.
+5. Datos del o los Cilindros según sea el caso
+a. Marca y Modelo.
+b. Número de serie.
+
+
+2.- Formato
+Página de Inicio
+En la página WEB correspondiente a la Autoridad Competente de cada Estado Parte, se instalará el siguiente icono (indicado en Cuadro I), acompañado del texto "GNC/GNV-CONSULTAS":
+
+Cuadro I: Icono del MERCOSUR
+
+
+GNC/GNV-CONSULTAS
+
+
+Acceso a las Consultas MERCOSUR
+
+Seleccionar el icono indicado en el Cuadro II
+
+
+Cuadro II
+
+
+GNC/GNV-CONSULTAS
+
+
+CONSULTAS MERCOSUR
+1.Seleccionar Estado Parte de Origen
+Seleccionar con un click el Estado Parte de donde es originario el vehículo en cuestión.
+2.Seleccionar tipo de búsqueda
+Seleccionar con un click el tipo de búsqueda deseado, ellos son Código de Identificación de Cédula MERCOSUR o Dominio del Vehículo.
+3.Ingresar el número
+Ingresar el código/número según el tipo de búsqueda seleccionado.
+4.Iniciar la búsqueda
+Oprimir  el botón Consultar.
+5.Otra búsqueda
+Si desea seleccionar información de otra cédula o vehículo, deberá seleccionar el icono,
+
+6.Salir del menú
+Para cerrar la ventana de Consultas MERCOSUR, seleccionar el icono CERRAR de la misma.
+
+
+ANEXO E
+
+MODELO DE FORMULARIO PARA LA DECLARACIÓN DE APTITUD DEL VEHÍCULO INVOLUCRADO EN UN ACCIDENTE
+
+
+ANEXO F
+Instrucciones para la utilización de GNC en el MERCOSUR
+
+
+F1-Responsabilidades del Propietario del vehículo
+
+1- Etiqueta
+
+El propietario o conductor estará sujeto a las responsabilidades civiles y penales que correspondan por los daños o perjuicios que pudiera ocasionar la carencia de la etiqueta de identificación del vehículo propulsado con GNC.
+
+2- Daños en la instalación después de un accidente
+
+Si el vehículo propulsado con GNC resultara involucrado en algún accidente que pudiera comprometer la integridad de alguno de los componentes del equipo completo para GNC, su conductor o propietario, deberá concurrir a algún Responsable de habilitación / Inspección dentro del Estado Parte donde se encuentre circulando.
+
+El Responsable de habilitación / inspección deberá verificar el estado del equipo completo para GNC, a efectos de determinar su aptitud para utilizar GNC en forma segura. En tal sentido, deberá verificar la ausencia de:
+
+- pérdidas de gas,
+- deformaciones,
+- defectos de sujeción,
+- deterioro del estado superficial de los componentes,
+- fallas en el corte de electroválvulas,
+- evidencias de exposición al fuego.
+
+El Responsable de habilitación /inspección informará fehacientemente al propietario o conductor, sobre la aptitud del equipo completo, según lo indicado en el Modelo de Formulario que consta en el Anexo E.
+
+Si ese documento determinara que, a raíz del accidente, el equipo completo para GNC no resultara apto para su utilización, el propietario o conductor estará sujeto a las responsabilidades civiles y penales que correspondan por  los daños y perjuicios que pudiera ocasionar con el uso del GNC, hasta tanto regularice la situación en su país de origen.
+
+3- Otras responsabilidades
+
+El conductor o propietario también estará sujeto a las responsabilidades civiles y penales que correspondan por los daños o perjuicios que pudiera ocasionar la falta de cumplimiento de las instrucciones para el estacionamiento o la alteración de las condiciones originales del equipo completo bajo las cuales fue habilitado.
+
+
+F2 Seguro de Responsabilidad Civil
+
+Todo tipo de vehículo automotor, cualquiera sea su porte, característica y uso al que se encuentre afectado, que utilice GNC como combustible, podrá ingresar a cualquier Estado Parte siempre que cuente con una póliza de seguro donde conste denunciado el equipo completo para GNC.
+Esa póliza deberá cubrir la responsabilidad civil del propietario y/o conductor en el Estado Parte al que desea ingresar, así como perjuicios causados a personas u objetos no transportados.
+
+F3 Cruce de Frontera
+
+El propietario del vehículo deberá exhibir, cuando sea solicitada, la "Cédula MERCOSUR para uso de gas natural como combustible", (en adelante, cédula) ante la Autoridad de Control de fronteras que ejerza el poder de policía en el Estado Parte al que pretenda ingresar, quien verificará:
+
+a) la originalidad y vigencia de la oblea y de la cédula, y
+
+b) la marca y el dominio del vehículo, y su correspondencia con los datos que figuran en la cédula
+
+En caso de dudas, la Autoridad de Control de fronteras podrá efectuar las consultas que considere necesarias, en la base de datos vía Internet.
+
+Así mismo, al ingreso a cualquier Estado Parte, deberá exhibir la documentación correspondiente al seguro de responsabilidad civil, válido para el Estado Parte al que se desea ingresar, donde conste denunciado el equipo completo de GNC.
+De no resultar satisfactoria cualquiera de esas verificaciones, el vehículo no se encontrará apto para ingresar al Estado Parte.
+
+F4-Carga de Gas Natural
+
+Los controles requeridos, en la instancia previa a la carga de gas natural al vehículo, serán los que determine la legislación vigente en cada Estado Parte.
+
+Para el caso de Argentina, antes de la carga de GNC el usuario deberá exhibir la cédula, cuando le sea solicitado.
+
+De tener dudas acerca del equipo completo para GNC, el responsable de la estación de carga de GNC podrá comparar los números de serie del regulador y cilindro/s contenedor/es, con los datos que figuran en la cédula y/o base de datos.
+
+De resultar satisfactorios los controles, el vehículo se encontrará en condiciones de ser abastecido con GNC.
+
+Antes de la carga de gas natural:
+
+1. el vehículo se estacionará en el lugar previsto y se accionará el freno de mano,
+
+2. se detendrá el funcionamiento del motor,
+
+3. descenderán todos los ocupantes, y se ubicarán en lugar seguro,
+
+4. se desactivarán todos los equipos eléctricos y electrónicos dentro del área y durante la instancia de la carga y
+
+   5. durante la carga de gas natural se prohíbe fumar o utilizar encendedores en la zona de carga.
+
+La presión nominal de suministro deberá ser de 200 Kgf/cm2.
+
+F5- Estacionamiento
+
+Se podrá exigir que:
+
+a) Los vehículos que utilicen gas natural como combustible, estacionen en lugares permitidos para estacionamiento normal en calles, avenidas, carreteras y playas abiertas, a una distancia de fuentes de ignición o fuegos abiertos, determinada por la Autoridad Competente.
+
+b) Cuando se estacione en lugares cerrados por un lapso superior a las ocho horas,  el propietario o conductor cierre la válvula de bloqueo del cilindro del sistema para GNC de su vehículo.
+
+c) En los lugares públicos cerrados, se estacione en sitios destinados a vehículos propulsados con gas natural o con suficiente ventilación como para disipar una posible pérdida de gas natural.
+
+d) Se evitará estacionar en garajes ubicados en domicilios residenciales que tengan  comunicación directa con el interior de la vivienda, especialmente cuando tengan ventilación deficiente. Cuando el garaje se encuentre ubicado bajo nivel, deberá contar con una  adecuada ventilación natural.
+
+El conductor deberá cumplir con la legislación correspondiente al Municipio y/o Estado donde se encuentre.
+
+F6- Casos de accidente
+
+1- Cuando no estuvieren involucrados ni el cilindro ni los otros elementos constitutivos de la instalación para GNC.
+
+Si el accidente produjera desperfectos mecánicos y afectara la seguridad del tránsito de la unidad, deberá solicitarse auxilio y, de ser posible, retirar el  vehículo a un costado de la ruta o calle, o a un lugar que no implique peligro, sin que el traslado produzca averías o daños a la instalación para GNC.
+
+
+2- Cuando estuvieren involucrados el cilindro u otros elementos constitutivos de la instalación para GNC
+
+En caso de pérdida de gas natural se procederá a detener el vehículo, y hacer descender a los pasajeros alejándolos del mismo.
+
+Se procederá a alejar a todas las personas del área en que se produzca el escape de gas, eliminando simultáneamente todo foco de ignición de las proximidades.
+
+Las personas se mantendrán alejadas del lugar del accidente, salvo aquellas que deban operar para evitar un siniestro.
+
+De ser posible, se tratará de cerrar la válvula de bloqueo del cilindro o, en su defecto, obturar el conducto por el que se produzca la pérdida, interrumpiendo el flujo de gas.
+
+De resultar necesario, se requerirá la cooperación de personal policial o bomberos de la zona para el cumplimiento de todas las medidas a tomar.
+
+3- Para el caso de accidentes con incendio, se recomienda:
+
+a) De ser posible, cerrar la válvula de bloqueo de los cilindros.
+b) Simultáneamente hacer descender a todos los ocupantes del vehículo y alejarse rápidamente.
+c) Solicitar auxilio a los Bomberos lo antes posible.
+
+Luego de cualquier accidente que pudiera haber involucrado al equipo para GNC, el usuario deberá concurrir a algún Responsable de la Habilitación / Inspección del Estado Parte donde se encuentre circulando, para que verifique la instalación y determine su aptitud para el uso.
+
+F7 - Robo o Hurto del vehículo
+
+En caso de robo o hurto del vehículo, deberá efectuar la denuncia policial correspondiente, declarando la instalación del equipo para GNC en el vehículo.
+
+Si se conserva la Cédula luego del robo o hurto, en la denuncia deberá declarar también la información contenida en ese documento.
+
+F8 - Recomendaciones para el uso racional de gas natural como combustible vehicular
+
+o Mantener la limpieza del filtro de aire.
+
+o Conservar en buen estado las bujías de encendido y el sistema eléctrico asociado.
+
+o Controlar la puesta a punto del motor.
+
+o Iniciar la marcha, una vez alcanzada la temperatura de régimen.
+
+o Evitar aceleraciones innecesarias.
+
+o Ante el menor indicio de pérdida de gas natural concurrir a un Responsable de la Habilitación / Inspección, para su detección y reparación.
+
+Dirección, teléfono, sitio de Internet de los Organismos Competentes
+
+A continuación, se indican la dirección, teléfono y sitio de internet de los Organismos Competentes de cada Estado Parte. En caso que se produzca algún cambio de esos datos, el Organismo Competente al que le corresponda, notificará los cambios producidos al resto de las Autoridades Competentes del resto de los Estados Parte a efectos de actualizar las informaciones que se pondrán a disposición de los propietarios de vehículos.
+
+> Argentina:
+Ente Nacional Regulador del Gas (Enargas):
+Suipacha 636, piso 4°, Buenos Aires, código postal C1008AAN Teléfono. 4325 2500; www.enargas.gov.ar
+> Brasil:
+Instituto Nacional de Metrologia, Normalização e Qualidade Industrial (INMETRO):
+Rua Santa Alexandrina 416 bairro Río Comprido cep 20261-232, Rio de Janeiro, Teléfono. 55 21 2563 2800; www.inmetro.gov.br
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
+Avda. Rio Branco 65, 12º a 21º andar, CP 20090-004, Rio de Janeiro, Telefone: 55 21 2112.80.00
+Departamento Nacional de Trânsito
+Explanada dos Ministerios, Bloco  - 2º andar, sala 203, Brasilia/DF-CEP: 70050-901
+> Paraguay:
+Ministerio de Industria y Comercio (MIC):
+Mariscal López 3333, Asunción, Paraguay, Teléfono 595-21-616-3000
+Instituto Nacional de Tecnología y Normalización (INTN):
+Avda. Gral. Artigas 3973, Asunción, Paraguay, Teléfono 595-21-29 01 60
+> Uruguay:
+Ministerio de Industria, Energía y Minería:
+Rincón 723, Montevideo, Teléfono: 5982 908 5929; www.dnetn.gub.uy
+Unidad Reguladora de Servicios de Energía y Agua (URSEA):
+Yaguarón 1407, pisos 9 y 10, 11100 Montevideo, Teléfono: 5982 900 8795; www.ursea.gub.uy
+33
+
+
+2
+
+
+33
+
+
+29

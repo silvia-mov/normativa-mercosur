@@ -1,0 +1,154 @@
+Resolución GMC N° 29/94
+Título: SUPERFICIES REFLECTIVAS
+Fecha de aprobación: 03/08/1994
+Vigencia: Derogada (Derogada por la Res. GMC Nº 49/98, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 29121_RES_029-1994_ES_SuperfReflect.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2123).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 29/94
+
+SUPERFICIES REFLECTIVAS
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, las Resoluciones Nº 9/91 y Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 5/94 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los vehículos deben cumplir una serie de requisitos técnicos en virtud de las legislaciones nacionales respectivas, entre ellos los correspondientes a SUPERFICIES REFLECTIVAS.
+
+Que dichos requisitos difieren de un Estado Parte a otro lo que puede crear obstáculos técnicos al intercambio comercial y a la libre circulación de vehículos, que podrían eliminarse a través de la adopción de los mismos requisitos técnicos por todos los Estados Partes ya sea como complemento o en reemplazo de su legislación actual.
+
+Que resulta necesario unificar los métodos de ensayo anteriormente adoptados en relación a SUPERFICIES REFLECTIVAS.
+
+Que para tal fin, los Estados Partes han acordado adecuar sus legislaciones, de modo de posibilitar el libre intercambio de vehículos, sus partes y piezas.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. Los Estados Partes no podrán limitar o prohibir la libre circulación, homologación, certificación, venta, importación, comercialización, matriculación o uso de los vehículos que cumplan con los requisitos establecidos en el Reglamento Armonizado "SUPERFICIES REFLECTIVAS" que figura como Anexo a la presente Resolución, por motivos relacionados con los aspectos técnicos armonizados en el mismo.
+
+Art. 2. Elimínase el punto 3.8 del Anexo I de la Resolución Nº 9/91 del GMC.
+
+Art. 3. La presente Resolución entrará en vigor a partir del 1 de enero de 1995.
+
+Art. 4. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos.
+Por Argentina:
+Secretaría de Transporte
+Secretaría de Industria
+Por Brasil:
+Ministerio de Justicia
+Secretaría de Tránsito. Departamento Nacional de Tránsito
+Por Paraguay:
+Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+Por Uruguay:
+Ministerio de Transporte y Obras Públicas
+Ministerio de Industria y Energía
+
+ANEXO
+REGLAMENTO ARMONIZADO
+SUPERFICIES REFLECTIVAS
+
+Objeto. Reducir la posibilidad de encandilamiento o perturbación de la visión del conductor debido a reflejos en componentes de vehículos, situados en el campo de visión de éste.
+
+Aplicación. Este documento se aplica a vehículos categorías M y N.
+
+
+Definiciones. A los efectos de este documento se considera:
+
+Campo de visión: La región al frente del plano vertical perpendicular al eje longitudinal del vehículo, tangente a la parte posterior del lugar geométrico de los ojos del conductor, representado por las elipses correspondientes al 99% definidas en el documento "lugar geométrico de los ojos de los conductores".
+
+Brillo especular: Conforme ítem 2 del documento "Método para medición de brillo especular".
+
+4. Requisitos.
+4.1. El brillo especular de las superficies de los materiales usados en los componentes indicados en el ítem 4.2., situado en el campo de visión del conductor no debe sobrepasar 40 (cuarenta) unidades, medido de acuerdo con el método de los 20 grados definido en el documento "Método para medición del brillo especular".
+4.2. Componentes:
+Brazos y escobillas de los limpiaparabrisas
+- Moldura interna de parabrisas
+- Aro de bocina
+- Cubo de volante de dirección
+- Soporte y molduras del espejo retrovisor interno
+
+METODO PARA MEDICION DEL BRILLO ESPECULAR
+
+Objetivo. Este método fue preparado para comparar el brillo especular de muestras en geometrías de medidas de brillo de 60, 20 y 85 grados.
+
+2. Definición. Brillo especular: Es la reflexión luminosa fraccional de una muestra en la dirección especular.
+Reflexión luminosa fraccional: Es la relación entre el flujo luminoso reflejado y el flujo luminoso incidente en una muestra para un ángulo sólido especificado.
+
+3. Generalidades. Las comparaciones son hechas con geometrías de 60, 20 y 85 grados.
+La geometría de los ángulos de aberturas son elegidas de manera tal que los procedimientos de ensayos que se elijan pueden ser usados del siguiente modo:
+3.1. La geometría de 60 grados para la mayoría de las muestras y para determinar cuándo la geometría de 20 o de 85 grados debe ser usada.
+3.2. La geometría de 20 grados para comparar muestras con brillo mayor que 70 en la geometría de 60 grados.
+La geometría de 85 grados para comparar muestras con brillo menor que 30 grados en la geometría de 60 grados.
+
+4. Instrumental.
+4.1. Componentes del instrumental
+Los instrumentos consisten en una fuente de luz incandescente que provee un haz de luz incidente sobre la muestra, medios para fijar la superficie de la muestra, y un receptor localizado de modo de recibir la pirámide de rayos reflejados por la muestra. El receptor debe ser un dispositivo fotosensible a la radiación visible.
+
+4.2. Condiciones geométricas
+El eje del haz de luz incidente debe formar con la perpendicular a la superficie de la muestra uno de los ángulos encima especificados. El eje del receptor debe estar en posición simétrica (espejo) al haz incidente. Con una pieza plana de vidrio negro pulido otra superficie especular en la posición de la muestra, una imagen de la fuente se debería formar en el centro del tabique anterior del campo del receptor (ver figura N°1, ventana del receptor). El ancho del área iluminada de la muestra debe ser igual o menor a un tercio de la distancia del centro de esta área hasta el tabique anterior del campo del receptor. Las dimensiones angulares y tolerancias de la geometría y del receptor deben ser conforme a lo indicado en la tabla I.
+
+
+TABLA I
+DIMENSIONES ANGULARES Y TOLERANCIAS DE LA GEOMETRIA Y DEL RECEPTOR
+
+
+Geometría 	Angulo de incidencia 	Abertura del receptor 				Grados 	Grados 	En el plano de medición- Grados 	En el plano perpendicular al plano de medición - Grados 			60 	60+0.1 	4,4 +0.1 	11.7+0.2 			20 	20+0.1 	1.80+0.05 	3.6+0.1 			85 	85+0.1 	4.0+0.3 	6.0+0.3
+(4)Las tolerancias son elegidas de manera que errores no superiores a una unidad de brillo en cualquier punto de la escala resulten de errores de las aberturas de la fuente y del receptor. Las aberturas de la fuente para todas las geometrías deberá ser 0.75 ± 0.25 grados en el plano de medición y un máximo de 3 grados perpendiculares al plano de medición.
+
+4.3. Ensombrecimiento
+No deberá haber ensombrecimiento de los rayos que estén dentro de los ángulos de los campos especificados en el ítem 4.2.
+4.4. Condiciones espectrales.Los resultados no deben ser muy diferentes de aquellas obtenidas con una combinación fuente-filtro-fotocélula espectralmente corregida para producir la eficiencia luminosa CIE (Comission Internationales de l'Echange) con la fuente C de CIE. Dado que la reflexión especular es, en general, espectralmente no selectiva, las correcciones espectrales solamente precisan ser aplicadas a las muestras altamente cromáticas, de pequeño brillo, a criterio de los usuarios de este método.
+
+4.5. Mecanismo de medición.
+El mecanismo medidor-receptor debe dar una indicación numérica proporcional al flujo de luz que pase por el tabique anterior del campo del receptor dentro de +-1% de la escala total de lectura.
+
+Las dimensiones angulares de la fuente son medidas a partir de la lente de esta. Las dimensiones angulares (5) del tabique anterior del campo del receptor son medidas a partir del receptor por un instrumento del tipo de haz colimado, y de la superficie de ensayo con un instrumento del tipo de haz convergente. Ver la figura 1 para una ilustración generalizada de las dimensiones.
+
+5. Patrones de referencia.
+5.1. El patrón primario es una superficie de vidrio negro plano altamente pulido. Un vidrio negro pulido con índice de refracción de 1,567 debe recibir el valor 100 de brillo especular para cada geometría.
+5.2. Los patrones secundarios de placa de cerámica, vidrio opaco despulido, lija y otros materiales semibrillantes teniendo superficies duras y uniformes, serán adecuados cuando estén calibrados con referencia a un patrón primario en un medidor de brillo que esté de acuerdo con los requisitos de este método. Tales patrones deben ser verificados periódicamente para garantizar su constancia, comparados con el patrón primario.
+
+6. Preparación y selección de las muestras para ensayo.
+6.1. Este método no cubre las técnicas de preparación de las muestras. En cada caso la técnica de preparación debe ser especificada.
+6.2. Se deben usar superficies con buena planicidad, dado que alabeos, ondulaciones o curvaturas pueden afectar seriamente los resultados. Las direcciones de las marcas de escurrimiento o similares deben ser paralelas al plano de los ejes de las dos luces.
+
+7. Procedimiento.
+7.1. Opere el medidor de brillo de acuerdo con las instrucciones del fabricante.
+7.2. Calibre el instrumento al inicio y finalización de cada período de operación del medidor de brillo, así también durante la operación, a intervalos suficientemente frecuentes como para garantizar que la respuesta del instrumento sea prácticamente constante.
+
+Para calibrar, ajuste el instrumento de forma de leer correctamente el brillo de un patrón altamente pulido y a continuación lea el brillo de un patrón que tenga inferiores características de formación de imagen. Si la lectura del instrumento para el segundo patrón no está dentro del 1% del valor establecido, no use el instrumento sin reajustarlo.
+7.3. Mida por lo menos tres regiones de la superficie de la muestra para obtener una indicación uniforme.
+
+8. Corrección de difusión. Se podrá hacer cuando se establezcan entre las partes interesadas.
+
+9. Informe.
+9.1. Informe la lectura promedio del brillo especular y la geometría usada.
+9.2. Informe la presencia de cualquier muestra en la cual se hayan encontrado regiones que difieran de la medida en más de un 5%.
+9.3. Cuando una muestra haya requerido una preparación, indique el método empleado.
+9.4. Identifique el medidor de brillo por medio del nombre del fabricante y designación del modelo.
+9.5. Identifique el patrón o los patrones de brillo usados.
+10. Precisión. Lecturas obtenidas de un mismo instrumento deberán ser (9) repetitivas dentro de un 1% de la magnitud de las lecturas.
+Las lecturas obtenidas por diferentes instrumentos deberán ser repetitivas dentro de un 5% de la magnitud de la lectura.
+
+SUPERFICIES REFLECTIVAS
+FIGURA 1
+
+
+ESQUEMATIZACIÓN DEL MEDIDOR DE BRILLO MOSTRANDO LAS ABERTURAS Y LA FORMACIÓN DE UNA IMAGEN DE LA FUENTE PARA UN INSTRUMENTO DEL TIPO DE HAZ COLIMADOR.
+
+
+SUPERFICIES REFLECTIVAS
+FE DE ERRATAS
+Donde dice:                                                                              Debe decir:
+(1) medidas                                                                              medidores
+(2) superficie uno de los                                                 superficie de la muestra uno
+(3) pulido en otra superficie                                              pulido u otra superficie
+(4) de la fuente del receptor                                             de la fuente y del receptor
+(5) a partir del receptor                                                 a partir de la lente del receptor
+(6) luces                                                                            haces
+(7) uniforme                                                                       de uniformidad
+(8) indique esta o el método                                               indique el método
+(9) repetitivas                                                                     reproducibles

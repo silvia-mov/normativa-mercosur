@@ -1,0 +1,290 @@
+Resolución GMC N° 73/96
+Título: ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 11/10/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 25382_RES_073-1996_ES_ModifNCMyAEC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1851).
+----------------------------------------------------------------------
+MERCOSUL/GMC/RES Nº 73/96
+
+ARANCEL EXTERNO COMUN
+
+	VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 22/94 del Consejo del Mercado Común, las Resoluciones Nº 35/95 y 36/95 del Grupo Mercado Común, la Propuesta Nº 12/96 de la Comisión de Comercio del Mercosur y la Recomendación nº 7/96 del CT Nº 1 (Aranceles, Nomenclatura y Clasificación de Mercaderías).
+
+CONSIDERANDO:
+
+Que es necesario perfeccionar la Nomenclatura Común del Mercosur y, consecuentemente, el Arancel Externo Común, instrumento esencial de la Unión Aduanera.
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Aprobar la adecuación de bienes en la Nomenclatura Común del Mercosur y su correspondiente Arancel Externo Común, resultante del análisis efectuado en la comparación de la versión NCM 1996 con la anterior, de acuerdo con lo establecido en el Anexo que forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución entrará en vigencia el 10/12/96.
+
+
+XXIII GMC, Brasilia 11/10/96
+
+
+ANEXO (VERSION EN ESPAÑOL)
+
+
+1. ELIMINACION DE CODIGOS
+
+
+3811.21.31	De TBN menor de 170 (Norma ASTM D 2896 o equivalente).
+3811.21.39	Los demás.
+
+2. SUSTITUCION DE CODIGOS
+
+DONDE DICE:
+
+DEBE DECIR:
+
+3811.21.3
+Dispersantes-Detergentes.
+3811.21.30
+Dispersantes-Detergentes.
+3920.10.00
+De polímeros de etileno.
+3920.10
+De polímeros de etileno.
+7217.10.10
+Con un contenido de carbono superior o igual al 0,6%, en peso.
+7217.10.1
+Con un contenido de carbono superior o igual al 0,6%, en peso.
+8433.59.10
+Cosechadoras de algodón.
+8433.59.1
+Cosechadoras de algodón.
+8525.20.80
+Otros de radiotelefonía o radiotelegrafía, numéricos (digitales).
+8525.20.8
+Otros de radiotelefonía o radiotelegrafía, numéricos (digitales).
+9006.59.20
+De foco ajustable.
+9006.59.2
+De foco ajustable.
+
+
+3. MODIFICACION DE A.E.C.
+
+NCM
+DESCRIPCION
+A.E.C. ACTUAL %
+A.E.C. ACORDADO %
+0101.19.00
+Los demás.
+4
+2
+0102.90.90
+Los demás.
+4
+2
+0103.91.00
+De peso inferior a 50 kg.
+4
+2
+0103.92.00
+De peso superior a 50 kg.
+4
+2
+0104.10.90
+Los demás.
+4
+2
+0104.20.90
+Los demás.
+4
+2
+0105.11.90
+Los demás.
+4
+2
+0105.12.00
+Pavos (gallipavos) de peso inferior o igual a 185 g.
+4
+2
+0105.19.00
+Los demás.
+4
+2
+0504.00.90
+Los demás.
+8
+4
+2403.99.10
+Extractos y jugos.
+18
+14
+2903.30.21
+Bromometano.
+2
+0
+2919.00.30
+De trifenilo.
+12
+10
+2936.28.11
+D- o DL-alfa-tocoferol.
+2
+0
+2936.28.12
+Acetato de D- o DL-alfa-tocoferol.
+2
+0
+2936.28.19
+Los demás.
+2
+0
+2936.29.31
+Vitamina H (biotina).
+2
+0
+3702.55.10
+De 35 mm de anchura. (películas fotográficas de longitud superior a 30 m).
+14
+10
+
+
+NCM
+DESCRIPCION
+A.E.C. ACTUAL %
+A.E.C. ACORDADO %
+8105.10.20
+En bruto.
+6
+4
+8429.11.90
+Las demás.
+14
+10
+8429.19.90
+Las demás.
+14
+10
+8429.30.00
+Traíllas (scrapers).
+14
+10
+8430.31.90
+Las demás.
+14
+10
+8430.39.90
+Las demás..
+14
+10
+8430.49.10
+Perforadoras de percusión.
+14
+10
+8430.49.90
+Las demás.
+14
+10
+8430.50.00
+Las demás máquinas y aparatos, autopropulsados.
+14
+10
+8441.80.00
+Las demás máquinas y aparatos
+14
+10
+8452.29.10
+Para coser cueros o pieles.
+14
+10
+8452.29.29
+Las demás.
+14
+10
+8452.29.90
+Las demás.
+14
+10
+8467.81.00
+Sierras o tronzadoras de cadena.
+14
+10
+9031.80.30
+Metros patrones.
+14
+10
+
+
+4. INCORPORACION DE A.E.C.
+
+
+DESCRIPCION
+A.E.C. ACORDADO %
+3811.21.30
+Dispersantes-Detergentes.
+14
+
+5. SUSTITUCION DE TEXTO
+
+3811.21.30
+Dispersantes sin cenizas
+3811.21.40
+Detergentes metálicos
+3811.21.50
+Otras preparaciones que contengan por lo menos uno de los productos comprendidos en los ítem 3811.21.10, 3811.21.20, 3811.21.30 o 3811.21.40
+3811.29.10
+Dispersantes sin cenizas
+3811.29.20
+Detergentes metálicos
+3811.90.10
+Dispersantes sin cenizas para aceites de petróleo combustibles
+
+6. INCORPORACIONES
+
+NCM
+DESCRIPCION
+A.E.C. %
+
+3920.10.10
+De densidad superior o igual a 0,94, espesor inferior o igual a 19 micrómetros, en rollos de anchura inferior o igual a 66 cm.
+2
+
+3920.10.90
+Las demás
+16
+
+7217.10.11
+Con un contenido, en peso, de fósforo inferior al 0,035% y de azufre inferior al 0,035%, templado y revenido, flecha máxima sin carga de 1 cm en 1 m, resistencia a la tracción superior o igual a 1960 MPa y cuya mayor dimensión de la sección transversal sea inferior o igual a 2,25 mm.
+
+
+2
+
+7217.10.19
+Los demás
+12
+
+8433.59.11
+Con capacidad de trabajar hasta dos surcos de cosecha y potencia en el volante inferior o igual a 59,7kW (80 HP).
+14
+BK
+8433.59.19
+Las demás
+0
+BK
+8525.20.81
+De frecuencia inferior o igual a 23 GHz y tasa de transmisión inferior o igual a 8 Mbits/s
+16
+I
+8525.20.89
+Los demás
+2
+I
+9006.59.21
+Para obtención de negativos de 45 mm x 60 mm o de dimensiones superiores
+10
+
+9006.59.29
+Las demás
+18
+
+
+4

@@ -1,0 +1,684 @@
+Resolución GMC N° 51/99
+Título: Reglamento Técnico MERCOSUR de Medidas Materializadas de Longitud de Uso General
+Fecha de aprobación: 29/09/1999
+Vigencia: Vigente (Vigente desde el 05/06/2002 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 17909_RES_051-1999_ES_RTM_Medidas Mat_Long-Uso Gral_Acta 3_99.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1425).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 51/99
+
+REGLAMENTO TÉCNICO MERCOSUR DE MEDIDAS MATERIALIZADAS DE LONGITUD DE USO GENERAL
+
+VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 53/92, 91/93, 152/96, 51/97, 61/97 y Nº 38/98 del Grupo Mercado Común y la Recomendación Nº 33/98 del Subgrupo de Trabajo Nº 3 “Reglamentos Técnicos y Evaluación de la Conformidad” .
+
+CONSIDERANDO :
+
+Que la Reglamentación existente difiere entre los Estados Partes .
+
+Que por tal motivo se hace necesario la adecuación de la legislación metrológica entre los Estados Partes .
+
+Que la Res. GMC N° 53/92 debió ser adecuada al Reglamento de Criterios Generales de Metrologia Legal, que sancionara el GMC a través de la Res. GMC Nº 51/97.
+
+Que la norma estudiada dispone de especificaciones y tolerancias definiendo de acuerdo a su precisión y orden jerárquico la clase a la que pertenece, lo que permitirá a los Estados Partes comercializar las medidas materializadas de longitud sin ninguna dificultad .
+
+Que para la propuesta se ha tenido en cuenta la Recomendación Nº 35 de la Organización Internacional de Metrologia Legal (texto modificado en el año 1984), según fuera acordado por los Estados Partes .
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1-Aprobar el Reglamento Técnico MERCOSUR de medidas materializadas de longitud de uso general, en sus versiones en español y portugués, que figura como Anexo y forma parte de la presente Resolución, el que se aplicará en el territorio de los Estados Partes, al comercio entre ellos y las importaciones extrazona.
+
+Art. 2- Las aprobaciones de modelos y verificaciones primitivas efectuadas por los Estados Partes, en los términos del Reglamento sancionado por la Resolución GMC Nº 51/97, serán aceptadas por los demás Estados Partes, a partir de la fecha establecida en el Artículo 5º.
+
+Art. 3- Derógase la Res. GMC Nº 53/92.
+
+Art. 4– Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesárias para dar cumplimiento a la presente Resolución a través de los siguientes organismos :
+
+Argentina : Ministerio de Economía y Obras y Servicios Públicos (S.I.C. y M.)
+Brasil : Instituto Nacional de Metrologia , Normalização e Qualidade Industrial.
+Paraguay : Instituto Nacional de Tecnología y Normalización.(INTN)
+Uruguay : Ministerio de Industria, Energía y Minería.
+
+Art. 5 – Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 29/III/2000.
+
+
+XXXV GMC - Montevideo, 29/IX/99
+
+
+REGLAMENTO TÉCNICO MERCOSUR DE MEDIDAS MATERIALIZADAS DE USO GENERAL ANEXO A LA RESOLUCIÓN GMC 51/99
+
+1. CAMPO DE APLICACIÓN
+
+1.1. El presente reglamento técnico metrológico establece las condiciones que deben satisfacer las medidas materializadas de longitud, en adelante llamadas “medidas”.
+
+1.2. Aplícase a las medidas rígidas o flexibles de una sola pieza, a las medidas articuladas y a las cintas métricas de acero, fibra de vidrio, plástico u otro material y a las cintas métricas de acero con o sin peso tensor (plomada) o lastre.
+
+1.3. No se aplica a las medidas de alta exactitud utilizadas en la industria mecánica o en geodésica.
+
+1.4. A los efectos del presente reglamento, el importador se asemeja al fabricante.
+
+
+2. TERMINOLOGÍA
+
+2.1. Medida materializada de longitud: medida materializada de longitud con referencias, cuyas distancias son indicadas en unidades legales de longitud, independientemente de sus accesorios.
+
+2.2. Longitud nominal: longitud por la cual se designa la medida.
+
+2.3. Referencias principales: marcas de la escala cuya distancia materializa la longitud nominal de la medida en las condiciones de referencia.
+
+2.4. Escala: conjunto de todas las referencias y de la numeración asociada.
+
+2.5. Medida a extremos o tope: medida de longitud cuyas referencias principales son constituidas por dos superficies o bordes terminales de la medida.
+
+2.6. Medidas de trazos: medidas de longitud cuyas referencias principales están constituidas por dos trazos, ranuras o marcas.
+
+2.7. Medidas mixtas: medida de longitud en la cual una de las referencias principales es una superficie o arista terminal y la otra un trazo, un orificio o una marca.
+
+2.8. Dimensión nominal máxima: valor representativo del límite superior de la escala.
+
+2.9. Dispositivos complementarios: dispositivos  tales como: ganchos fijos o móviles, anillos, hebillas, empuñaduras, puntas, verniers,  son destinados a facilitar la utilización de las medida y a extender su empleo.
+
+
+2.10. Dispositivos accesorios: dispositivos, cabos, cajas de enrollado o protección, son destinados a facilitar la utilización de las medidas de longitud, no pudiendo formar parte de la medición.
+
+
+3. UNIDAD DE MEDIDA
+
+3.1. La unidad de medida de longitud es el metro (símbolo: m ), con sus múltiplos y submúltiplos.
+
+
+4. REQUISITOS METROLÓGICOS
+
+4.1. Clase de exactitud.
+4.1.1. Las medidas materializadas de longitud definidas en el presente Reglamento Técnico Metrológico, pertenecen a una de las tres clases de exactitud designadas por los índices I , II y III , según su exactitud.
+
+4.2. Errores máximos tolerados en la aprobación de modelo y en la verificación primitiva bajo las condiciones de referencia.
+4.2.1. Para la aprobación de modelo y verificación primitiva de las medidas de longitud, el error tolerado, en más o en menos:
+	a) sobre la longitud nominal
+	b) sobre toda otra distancia comprendida entre dos referencias cualesquiera, no consecutivas, es expresado por la formula ( a + b.L ) mm, donde:
+	    L = es el valor de la longitud considerada redondeada al número entero de metros por exceso;
+	    “a“ y “b“  = son dos coeficientes cuyos valores están establecidos para cada clase de exactitud en la Tabla I .
+
+
+TABLA I
+
+CLASE DE EXACTITUD	a	b		I	0,1	0,1		II	0,3	0,2		III	0,6	0,4
+4.2.2. El error máximo tolerado en más o en menos para una longitud “i“ de divisiones de un valor inferior o igual a 1 cm está establecido en la Tabla II para cada clase de exactitud.
+TABLA II - ERROR MÁXIMO TOLERADO
+
+Longitud "i" de la división	Error máximo tolerado para cada clase de exactitud (mm)			I	II	III		i ( 1 mm	0,1	0,2	0,3		1 mm < i (1 cm	0,2	0,4	0,6
+4.2.3. Para la longitud de una división superior a 1 cm , el error máximo tolerado es expresado por la fórmula ( a + b.L ) mm , donde los valores de  “a“ y “b“ son iguales a los valores fijados en el punto 4.2.1. , y “L“ es el valor de la longitud considerada redondeada al número entero de metros por exceso.
+4.2.4. La diferencia máxima tolerada entre las longitudes “i“ de dos divisiones consecutivas de escala, teniendo un valor inferior o igual a 1 cm, está establecida para cada clase de exactitud en la Tabla III .
+
+
+TABLA III - DIFERENCIA MÁXIMA TOLERADA
+
+Longitud de la división “i”	Error máximo tolerado para cada clase de exactitud
+(mm)			I	II	III		i ( 1 mm	0,1	0,2	0,3		1 mm < i (1 cm	0,2	0,4	0,6
+
+4.2.5. Para la longitud de una división superior a 1 cm, la diferencia máxima tolerada entre las longitudes de dos divisiones consecutivas es expresada en función de la longitud de la división por la fórmula ( a + b.L ) mm de acuerdo a lo establecido en el Punto 4.2.1.
+4.2.6. Para las medidas de extremo o tope o mixtas el error máximo tolerado, en más o en menos, para una longitud donde la última división de la escala está limitada por una superficie de tope, es incrementado en :
+0,1 mm para las medidas de Clase I;
+0,2 mm para las medidas de Clase II;
+0,3 mm para las medidas de Clase III .
+4.2.7. Las prescripciones previstas en los Puntos 4.2.1. y 4.2.2. no son aplicables:
+a) cuando una de las dos referencias no consecutivas tales como las analizadas en el ítem 4.2.1. b) está constituida por una superficie o borde terminal;
+b) cuando una de las dos divisiones consecutivas tales como las analizadas en el ítem 4.2.4. es una división definida por una superficie o borde terminal.
+
+4.3. El error máximo tolerado en servicio será el doble del error máximo tolerado en la verificación primitiva establecido en el Punto 4.2. .
+
+4.4. Para las cintas flexibles con plomada o lastre y dispositivo para enrollar de Clase de precisión I o II , el error máximo tolerado, en más o en menos, para dos marcas cualesquiera situadas una sobre la plomada o lastre y la otra sobre la cinta, es de 0,6 mm, aún cuando la aplicación de la fórmula del ítem 4.2.1.b) arroje un valor inferior.
+
+4.5. Condiciones de referencia.
+4.5.1. Los errores máximos tolerados están sujetos a las condiciones de referencia establecidas en los puntos 4.5.2. y 4.5.3.
+4.5.2. La temperatura de referencia es de 20 ºC o la temperatura indicada en la medida.
+4.5.3. Cuando la fuerza de tracción fuera especificada (ver Tabla IV), la medida debe ser sometida a ensayo apoyada en una superficie horizontal en toda su longitud, prácticamente sin frotamiento y tensada con la fuerza de tracción indicada en la medida.
+
+
+TABLA IV - FUERZA DE TRACCIÓN APLICADA SOBRE LA MEDIDA
+
+Longitud x
+(m)	Fuerza de tracción
+(N)	Material		 X  ( 5	20	Cualquiera		 x > 5	20	Plástico o similares			50	Acero
+5. REQUISITOS TÉCNICOS
+
+5.1. Clasificación.
+5.1.1. En cuanto a la naturaleza de las referencias principales:
+	a) medida de longitud a extremos o tope;
+	b) medida de longitud a trazos,
+	c) medida de longitud mixta.
+
+5.2. Longitud nominal.
+5.2.1. La longitud nominal debe tener uno de los siguientes valores: 0,5 m ; 1 m ; 1,5 m ; 2 m ; 3 m ; 3,5 m ; 4 m ; 5 m ; 6 m ; 7 m ; 7,5 m ; 8 m ; 9 m ; o múltiplos enteros de 5 m .
+5.2.2. Otros valores podrán ser considerados previa autorización del organismo competente, para un empleo específico, debiendo éste estar claramente identificado sobre la medida.
+
+5.3. Materiales
+5.3.1. Las medidas materializadas de longitud y sus dispositivos complementarios deben ser construidos con materiales suficientemente durables, estables y resistentes a las influencias ambientales en las condiciones normales de uso.
+5.3.2. Las características de los materiales utilizados en la construcción de las medidas materializadas de longitud deben ser tales que:
+5.3.2.1. Las variaciones de longitud debido a un desvío de temperatura de 8º C por encima o por debajo de la temperatura de referencia, no deben exceder los errores máximos tolerados para la clase de exactitud a la que pertenece la medida.
+5.3.2.2. Para las medidas que utilicen una fuerza de tracción especificada, una variación en más o en menos del 10% de dicha fuerza, no debe causar un cambio en la longitud superior al error máximo tolerado para la clase de exactitud a la que pertenece la medida.
+
+
+5.4. Construcción
+5.4.1. Las medidas de longitud y sus dispositivos complementarios, deben ser sólidamente construidas y cuidadosamente terminadas.
+5.4.2. Las secciones transversales de las medidas de longitud deben tener dimensiones y forma tal que, en las condiciones normales de empleo, permitan obtener la medición con la exactitud prevista para la clase de precisión a las cuales pertenecen esas medidas.
+5.4.3. Las medidas en forma de cinta deben ser construidas de modo tal que, cuando estén extendidas sobre una superficie plana, sus bordes sean prácticamente rectos y paralelos.
+5.4.4. Las caras terminales de las referencias principales de las medidas de longitud a extremos o tope o mixtas, deben ser ortogonales y perpendiculares al eje geométrico longitudinal de la medida.
+5.4.5. Las caras terminales de las medidas de longitud a extremos o tope, o mixtas construidas con materiales propensos al desgaste, deben estar provistas de una protección resistente al uso, a los choques, al desgaste, y estar convenientemente fijadas a la medida. Son ejemplos de dicha protección los estribos, placas, cantoneras o anclajes finales.
+5.4.6. Los dispositivos complementarios, tales como ganchos fijos o móviles, aros, cursores, cabos, láminas de extremidades, lengüetas, verniers, que participen de la medición y no se presten a confusión, deben estar concebidos y fijados a la medida, de tal manera que en las condiciones normales de uso, no aumenten la incertidumbre de la medición.
+5.4.7. Los dispositivos de enrollamiento de las medidas de longitud en forma de cinta, deben ser realizados de tal manera que no provoquen deformaciones permanentes en las cintas.
+5.4.8. En ciertos tipos de medidas, una longitud en blanco de las mismas, extendida mas allá de la marca principal de la escala en el final de la medida, y de longitud suficiente para el propósito de verificación, puede ser previsto.
+5.4.9. Todos los trazos de las graduaciones de las medidas de longitud deben ser perpendiculares al eje geométrico longitudinal de la medida.
+5.4.10. Las medidas articuladas deben ser construidas de manera que en su utilización esté garantizada su alineación y justeza entre sus articulaciones.
+
+
+5.5. Escala.
+5.5.1. Las graduaciones de la escala deben ser nítidas, regulares e indelebles, así como poseer todas las marcaciones perfectamente legibles, de modo de permitir una lectura correcta, fácil y sin ambigüedad.
+5.5.2. El valor de la menor división, debe ser de la forma 1 x 10n o 2 x 10n o 5 x
+10n metros, donde el exponente “n“ es un número entero, positivo, negativo o cero.
+5.5.2.1. El valor máximo de la menor división de la escala debe corresponder a lo establecido en la Tabla V .
+
+
+TABLA V - Valor máximo de la menor división de la escala
+
+Longitud nominal de la medida
+"x" en m	Valor máximo de la menor división
+en cm		x ( 1	0,1		1 < x ( 2	1		2 < x < 10	10		10 ( x < 50	20		50 ( x	50
+5.5.2.2. Otros valores podrán ser considerados previa justificación de la necesidad de usar tales valores, con autorización del organismo competente, para un determinado uso específico, debiendo éste estar claramente identificado sobre la medida.
+
+5.5.3. Cuando las referencias son trazos, estos deben ser rectilíneos, perpendiculares al eje geométrico longitudinal de la medida y serán todos del mismo espesor.
+5.5.3.1. Los trazos de referencia deben formar una escala clara, nítida y su espesor no debe provocar incertidumbres en la medición.
+5.5.3.2. El ancho máximo tolerado para los trazos en relación a su clase de exactitud y a la longitud de la división de la escala están establecidas en la Tabla VI.
+
+
+TABLA VI - Espesor máximo admitido para los trazos
+
+Longitud de la escala x em mm 	Espesor de acuerdo a la clase de exactitud			I	II y III		x ( 2	0,2 mm	0,2 mm		2 < x ( 20 	0,2 mm	10 % de la longitud de la escala de la división		20 < x	0,2 mm	2 mm
+5.5.4. Algunas secciones de la escala pueden ser subdivididas en submúltiplos decimales de menor división que la adoptada para la medida de longitud.
+5.5.4.1. Trazos con espesor más finos que los trazos representativos de la menor división adoptada, son permitidos en subdivisiones de escala, para representar submúltiplos decimales de la menor división.
+5.5.5. Si el valor de la menor división fuera igual o superior a 1 cm, las referencias pueden ser constituidas por agujeros.
+5.5.6. Si el valor de la menor división fuera igual o superior a 1 dm , las referencias pueden estar constituidas por marcas u otras señales siempre que éstas aseguren una lectura exacta, considerando la clase de exactitud a la que pertenece la medida.
+5.5.7. Dos o más escalas son permitidas para las medidas de longitud, siempre que las graduaciones estén en la unidad legal definida en el Punto 3.1.
+5.5.8. Las medidas pueden llevar varias escalas cuyos valores de división pueden ser diferentes, salvo para las medidas rígidas a utilizar para la venta directa al público.
+5.5.9. Una marca u otra señal apropiada puede ser utilizada para distinguir referencias importantes de la medida.
+
+5.6. Numeración.
+5.6.1.La numeración debe ser nítida, regular e indeleble y realizada de tal manera que permita una lectura correcta,fácil y sin ambigüedad.
+5.6.1.1.La cantidad de referencias numeradas debe ser definida considerando lo establecido en el ítem 5.6.1.
+5.6.2.La numeración puede ser continua o parcialmente continua o parcialmente repetitiva.
+5.6.2.1.En las escalas subdivididas, la numeración de los submúltiplos de la menor división, pueden ser diferentes de las demás.
+5.6.3.La disposición, dimensiones, forma, coloración y contraste de los números, deben ser adaptados a la escala y a las marcas con las cuales se relaciona.
+5.6.3.1.Los números deben ser inscriptos paralela o perpendicularmente a la extremidad o borde de la medida, dependiendo del modo de lectura de la escala.
+5.6.4.Cualquiera sea el valor de la división de la escala, los números deben representar los milímetros, centímetros, decímetros o metros y no deben ser acompañados del símbolo correspondiente.
+5.6.4.1.Cuando el valor de la división sea diferente del metro, el símbolo “m“ podrá estar expresado a continuación de la cifra correspondiente a los metros.
+5.6.4.2.Las escalas milimétricas deben ser numeradas en todos los centímetros.
+5.6.4.3.Cuando el valor de la división de una escala a trazos es de la forma 2 x 10n (n=entero, positivo, negativo o cero) y no inferior a 2 cm, todas las referencias de la escala deben ser numeradas.
+5.6.5.Cuando una medida de longitud posea más de una escala, la numeración de estas escalas pueden ser diferentes, y crecer en el mismo sentido o en sentido contrario.
+
+5.7.Inscripciones obligatorias.
+5.7.1.Todas las inscripciones deben ser impresas de manera indeleble, visible y legible a partir de la extremidad inicial de la medida de longitud.
+5.7.1.1.Las medidas deben ser fabricadas de modo tal que puedan recibir las inscripciones obligatorias y las marcas de verificación.
+5.7.2.Son obligatorias las siguientes inscripciones:
+	a) nombre o razón social del fabricante y/o importador,
+	b) marca y modelo,
+	c) código de aprobación de modelo,
+	d) país de origen,
+	e) longitud nominal,
+	f) indicación de la clase de exactitud: I, II o III encerrada en un óvalo o entre 2 líneas horizontales y paralelas unidas por 2 semicírculos,
+	g) temperatura de referencia, cuando es distinta de 20° C,
+	h) fuerza de tracción cuando corresponda,
+	i) inscripción del uso específico cuando corresponda.
+	j) el número de serie de fabricación para las medidas de longitud nominal igual o superior a 5 m .
+
+5.8.Prescripciones técnicas particulares.
+5.8.1.Cinta métrica de acero con dispositivo para enrollar y en caja.
+5.8.1.1.Construcción.
+	a)Si la cinta métrica está alojada en una caja, ninguna de las dimensiones de dicha caja puede estar incluida en la medición ni en la longitud nominal de la medida, quedando prohibido cualquier inscripción correspondiente a las dimensiones de la caja.
+	b) Si la extremidad inicial es a extremos o tope y está provista con un gancho o lengüeta fijo o deslizante, éstos deben estar incluidos en la longitud nominal de la medida.
+	c) Si la extremidad inicial es a extremos o tope y lleva un anillo, este último solo puede estar comprendido en la longitud nominal de la medida, si la misma pertenece a la clase de exactitud II y su longitud nominal es superior a 5 m.
+5.8.1.2. Escala.
+	a) Las medidas pueden tener dos escalas con un mismo punto de origen sobre la misma cara y pueden también tener una escala con distinto origen sobre la otra cara; todas las escalas estarán graduadas en unidades legales.
+	b) El valor de la menor división de la escala debe ser menor o igual a 1 centímetro.
+5.8.1.3. Clase de exactitud.
+	Estas medidas pertenecen a las clases de exactitud I o II.
+
+5.8.2. Medidas rígidas o semirígidas constituidas por una única pieza (incluyen también las sondas y varillas utilizadas para determinar el nivel de los líquidos en recipientes).
+5.8.2.1. Construcción.
+	a) Estas medidas serán construidas en metal u otro material apropiado que no produzca chispas.
+	b) Si el origen de la medida es a extremo o tope, ella debe estar provista de una protección resistente al choque y al desgaste, no susceptible de provocar chispas al choque.
+5.8.2.2. Clase de exactitud.
+	Estas medidas pertenecen a las clases de exactitud I o II.
+
+5.8.3. Cinta flexible de fibra de vidrio y plástico u otro material no metálico adecuado de longitud nominal no superior a 5 m.
+5.8.3.1. Construcción.
+	a) Las extremidades libres de las cintas a extremos o topes o mixtas deben estar protegidas por un estribo o cantonera de material resistente al desgaste y sólidamente fijada a la cinta.
+	b) Una de las extremidades de las medidas puede llevar un anillo que  puede estar comprendido en la longitud nominal de la cinta.
+	c) La fuerza de tracción deberá estar indicada sobre la cinta.
+	d) Para las medidas a trazos, la referencia cero debe estar colocado a una distancia de por lo menos 20 milímetros de la extremidad de la medida si esta no tiene anilla, o del borde exterior de la anilla si la posee.
+5.8.3.2. Clase de exactitud.
+	Estas medidas pertenecen a las clases de exactitud II ó III.
+5.8.4. Medidas articuladas en metal u otro material.
+5.8.4.1. Construcción.
+	a) Las partes articuladas y sus dos extremidades deben tener la misma longitud entre sus ejes de articulación.
+	b) Estas medidas pueden ser construidas en metal, madera u otro material con rigidez adecuada para su utilización, que permita la conservación de su forma y exactitud de medición en las condiciones de uso.
+	c) Los extremos libres de las medidas cuyo material de construcción pueda sufrir desgaste deberá estar protegido por un estribo o cantonera sólidamente fijado.
+	d) Su articulación y su alineación en posición desplegada deberá ser asegurada por un dispositivo eficaz construido de forma tal que no pueda causar, en el entorno de la articulación un error suplementario a los errores máximos tolerados (mencionados en 4.2.1.b. ; 4.2.2. y 4.2.4.) superior a:
+- 0,3 mm para las medidas de clase II;
+- 0,5 mm para las medidas de clase III.
+	e) Las distancias entre las articulaciones deben responder a 1/2 o 1/5 o 1/10 de la dimensión nominal máxima de la medida.
+5.8.4.2. Escala.
+	Estas medidas pueden llevar una escala sobre cada una de las dos caras.
+5.8.4.3. Clase de exactitud.
+	Estas medidas pertenecen a las clases de exactitud II ó III.
+	En este tipo de medidas es admitida la clase de exactitud I, dependiendo de que su articulación lo permita.
+5.8.5. Cintas flexibles de acero, con dispositivo para enrollar no diseñada para mediciones de longitud superior a su valor nominal.
+5.8.5.1. Construcción.
+	a) Para las medidas de clase I el extremo libre estará provisto de una empuñadura o anillo, no incluido en la longitud nominal. Para medidas de clase II o III el extremo libre estará provisto de una empuñadura o anillo que puede estar incluido en la longitud nominal; en este caso el comienzo de la escala estará claramente indicado sobre la cinta.
+	b) La fuerza de tracción deberá estar indicada sobre la cinta.
+5.8.5.2. Escala.
+	Cada cara de la medida no puede contener más de una escala.
+5.8.5.3. Clase de exactitud.
+	Estas medidas pertenecen a las clases de exactitud I ó II ó III.
+5.8.6. Cintas flexibles de acero con plomada o pilón y dispositivo para enrollar, frecuentemente utilizadas como cintas para medición de líquidos en tanques.
+5.8.6.1. Construcción.
+	a) El pilón o plomada es fijado a la cinta de manera fija o móvil, de tal manera que la fijación o articulación no introduzca ningún error superior a los errores máximos tolerados para su clase de exactitud.
+	b) El pilón o plomada debe tener una masa suficiente para tensar correctamente la cinta, poseer suficiente dureza para resistir los impactos y ser realizado en un material antichispa.
+	c) La otra extremidad de la cinta debe estar provista de un dispositivo de fácil enrollamiento.
+	d) La fuerza de tracción debe ser igual al peso del pilón o plomada.
+	e) La masa del pilón o plomada debe estar indicada sobre éste y sobre la cinta, con una tolerancia de + 10 gramos.
+	f) El pilón o plomada podrá tener distintas formas y dimensiones y ser intercambiables para una misma cinta, previa autorización del organismo competente.
+	g) La pieza de unión del pilón o plomada con la cinta deberá estar realizada de tal manera que asegure el correcto anclaje de los mismos, sin introducción de errores superiores a los máximos tolerados para su clase de exactitud.
+	h) Las inscripciones correspondientes a la marca, el modelo, el código de aprobación de modelo, el número de serie y la clase de exactitud deberán estar repetidas en el pilón o plomada.
+5.8.6.2. Escala.
+	a) La escala debe ser regular, con trazos de división mínima igual a un (1) milímetro.
+	b) La marca principal, origen de la escala, está constituida por la extremidad del pilón o plomada.
+	c) La escala comienza sobre una cara del pilón o plomada y continúa sobre toda la longitud de la cinta.
+	d) Los trazos relativos a los centímetros y metros enteros, deben ser numerados.
+5.8.6.3. Clase de exactitud.
+	a) Estas medidas pertenecen a las clases de exactitud I ó II.
+	b) El error máximo tolerado para una longitud definida por dos marcas cualesquiera situadas una sobre el pilón o plomada, y la otra sobre la cinta, el error máximo tolerado  es  de  + 0,6  milímetros,  aún  cuando  la  aplicación de la fórmula del punto 4.2.1.b) arroje un valor inferior.
+5.8.7. Cintas flexibles de acero diseñadas para mediciones de longitud mayor a su longitud nominal, por uso repetitivo de la misma cinta.
+5.8.7.1. Construcción.
+	a) Estas medidas están provistas en sus dos extremidades de empuñaduras o anillas.
+	b) Si las empuñaduras o anillas están comprendidas en la longitud nominal, ellas deben estar construidas de tal manera que su articulación no introduzca incertidumbre mayor a los errores máximos tolerados (según el punto 4.2.1.) .
+	c) La fuerza de tracción deberá estar indicada sobre la cinta.
+5.8.7.2. Clase de exactitud.
+	Estas medidas pertenecen a las clases de exactitud I ó II.
+5.8.8. Cintas flexibles construidas en fibra de vidrio y plástico u otro material adecuado no metálico de longitud nominal superior a 5 m.
+5.8.8.1. Construcción.
+	a) Las medidas de clase I pueden poseer un anillo no incluido en la longitud nominal de la cinta. Las medidas de clase II ó III pueden estar provistas  de un anillo, el cual puede estar incluido en la longitud nominal de la medida. En este caso el comienzo de la escala estará claramente indicado sobre la cinta.
+	b) En las extremidades de las medidas a extremos o tope o mixtas, el origen de las medidas deben ser protegidos por una puntera o anclaje final resistente al uso y firmemente unido a la cinta.
+	c) La fuerza de tracción deberá estar indicada sobre la cinta.
+5.8.8.2. Clase de exactitud.
+	Estas medidas pertenecen a las clases de exactitud I ó II ó III .
+5.8.9. Metro comercial rígido.
+5.8.9.1. Construcción.
+	a) Estas medidas pueden estar construidas en metal, madera u otro material con rigidez adecuada para su utilización, que permita la conservación de su forma y exactitud de medición en las condiciones de uso.
+	b) Los extremos libres de la medida cuyo material de construcción pueda sufrir desgaste, deberán estar protegido por un estribo o cantonera sólidamente fijado a la medida.
+5.8.9.2. Escala.
+	a) Estas medidas pueden llevar una escala sobre cada una de las dos caras, graduadas en unidades legales.
+	b) Todas las inscripciones de las medidas deben estar dispuestas de forma de no interferir ni dificultar la legibilidad de las lecturas.
+	c) La medida y sus graduaciones deben poseer colores contrastantes entre sí.
+	d) La escala de estas medidas puede ser milimetrada, con numeración en cada centímetro.
+	e) Los trazos de referencia de los centímetros deben ser mayores que las referencias de los medios centímetros, los que a su vez deben ser mayores que las referencias de las demás graduaciones, si éstas representan milímetros.
+5.8.9.3. Clase de exactitud.
+	Estas medidas pertenecen a las clases de exactitud I ó II.
+
+6. CONTROL METROLÓGICO .
+
+6.1. Las medidas materializadas de longitud a que se refiere el presente reglamento serán sometidas a aprobación de modelo ante el organismo competente en el tema.
+6.1.1. El fabricante o importador deberá presentar la solicitud de aprobación de modelo acompañada de la documentación requerida, de acuerdo a lo establecido por la Resolución GMC Nº 57/92.
+6.2. Apreciación técnica de modelo.
+6.2.1. Examen del memorial descriptivo para la comprobación de la documentación.
+6.2.2. Examen preliminar para verificar la presencia de las inscripciones obligatorias, el uso de las unidades legales y los símbolos correspondientes, la legibilidad de la escala, la existencia de dispositivos de protección en las extremidades cuando sea necesario o correspondan, la correcta utilización de los dispositivos complementarios; así como para verificar si los valores de las longitudes nominales y de las menores graduaciones cumplen con lo establecido en el presente reglamento y, para constatar la presencia de irregularidades que puedan invalidar la aprobación de la medida, tales como desplazamientos longitudinales, o transversales de las articulaciones.
+ 6.2.3. Examen detallado de la medida para verificar la forma, las dimensiones y el posicionamiento de las referencias principales, la fijación correcta de los refuerzos en sus extremidades, su perfecto alineamiento, y la no interferencia de los dispositivos complementarios en los resultados y en la claridad de las mediciones, así como el valor de la menor graduación, la numeración de las marcaciones y señales de la escala, de acuerdo con el presente reglamento.
+6.2.4. Examen detallado de la medida para verificar su tipo, su longitud nominal, sus características constructivas, su escala y las condiciones de referencia cuando las hubiere, de acuerdo con las prescripciones técnicas especificadas para cada tipo de medida.
+6.2.5. En los ensayos para determinar los errores, para cada distancia verificada, expresada en números enteros, el resultado debe ser la media aritmética redondeada por lo menos de tres (3) mediciones.
+6.2.6. Las medidas materializadas de longitud serán aprobadas cuando cumplan con todas las exigencias que se establecen en el presente reglamento.
+6.2.7. Las variantes de modelos de las medidas materializadas de longitud, deberán ser solicitadas de acuerdo a lo establecido por la Resolución GMC Nº 57/92.
+6.2.8. Las medidas materializadas de longitud deberán ser fabricadas en conformidad con el modelo aprobado.
+6.2.8.1 El examen de conformidad al modelo aprobado consistirá en la repetición de los exámenes y ensayos previstos en la apreciación técnica de modelo de este reglamento.
+6.2.9. El lugar y la marca o sello de verificación de las medidas materializadas de longitud, quedará establecido en la correspondiente aprobación de modelo, para cada caso en particular.
+6.3. Verificación primitiva.
+6.3.1. La verificación primitiva será efectuada en las medidas materializadas de longitud antes de ser comercializadas, en las dependencias del fabricante o importador, en el domicilio del organismo competente en el tema o donde éste lo establezca.
+6.3.2. Las medidas materializadas de longitud presentadas para verificación primitiva deben estar de acuerdo al modelo aprobado.
+6.3.3. Cada medida o lote de medidas de una misma producción deberá ser examinada y sometida a ensayos adecuados a fin de cumplimentar el presente reglamento.
+6.3.3.1. La inspección visual y la verificación de las prescripciones técnicas generales y específicas, así como la determinación de los errores, deben ser realizadas de acuerdo a lo establecido en el presente reglamento.
+6.3.4. Los fabricantes y los importadores deberán colocar a disposición de los organismos competentes en el tema los medios adecuados necesarios para la realización de la verificación primitiva, cuando sea necesario.
+6.3.5. La aprobación en verificación primitiva se efectuará cuando la medida cumpla con los ensayos y especificaciones que se establecen en el presente reglamento.
+6.3.6. La verificación primitiva se acreditará con la marca y/o sello de contraste.
+
+7. MÉTODOS DE ENSAYO  (Apéndices 1 a 3).
+7.1. Procedimientos de ensayo en la apreciación técnica de modelo.
+7.1.1. Medidas rígidas o semirígidas constituidas por una sola pieza y metro comercial rígido.
+	a) verificación de la longitud nominal;
+	b) verificación de la longitud en (6) seis referencias distribuidas aleatoriamente en toda la extensión de la escala;
+	c) verificación de las distancias entre dos graduaciones consecutivas, en tres regiones seleccionadas aleatoriamente, en el inicio, parte media, y final de la escala.
+7.1.2. Medidas articuladas.
+	a) verificación de la longitud nominal;
+	b) verificación, en cada pieza de la medida articulada, de la longitud de una referencia seleccionada aleatoriamente;
+	c) verificación. en cada pieza de la medida articulada, de la distancia entre dos graduaciones consecutivas en una región seleccionada aleatoriamente.
+	d) verificación, en cada pieza de la medida de la longitud entre sus referencias extremas.
+7.1.3. Cinta flexible de acero u otro material adecuado no metálico y dispositivo de enrollar, con plomada o pilón.
+	a) verificación de la longitud nominal;
+	b) verificación de la longitud hasta la primera graduación de la cinta;
+	c) verificación de la escala de la plomada o pilón;
+	d) verificación de la distancia entre dos graduaciones consecutivas, en una región seleccionada aleatoriamente en la plomada o pilón;
+	e) verificación de la distancia entre dos graduaciones consecutivas, en tres regiones seleccionadas aleatoriamente, en el inicio, parte media y en el final de la escala;
+	f) verificación de la longitud de la cinta a partir del inicio de la escala de 10 cm en 10 cm hasta 1 metro; de 25 cm en 25 cm hasta los 2 metros; de 2 m en 2 m hasta los 20 metros, y de 10 m en 10 m hasta el final de la longitud nominal.
+7.1.4. Cinta flexible de acero o fibra de vidrio y plástico u otro material adecuado no metálico y dispositivo de enrollar, de una longitud de hasta 10 metros.
+	a) verificación de la longitud nominal.
+	b) verificación de la longitud a partir del inicio de la escala de 10 cm en 10 cm hasta 1 metro; de 25 cm en 25 cm hasta los 2 metros y de 50 cm en 50 cm hasta completar la longitud nominal.
+	c) verificación de la distancia entre dos graduaciones consecutivas, en tres regiones seleccionadas aleatoriamente, en el inicio, parte media y en el final de la escala.
+7.1.5. Cinta flexible de acero o fibra de vidrio y plástico u otro material adecuado no metálico y dispositivo de enrollar, de una longitud superior a los 10 metros.
+	a) verificación de la longitud nominal;
+b) verificación de la longitud a partir del inicio de la escala de 50 cm en 50 cm hasta 3 metros; de 1 m en 1 m hasta los 10 metros; de 2 m en 2 m hasta los 20 metros y de 10 m en 10 m hasta completar la longitud nominal.
+c) verificación de la distancia entre dos graduaciones consecutivas, en tres regiones seleccionadas aleatoriamente, en el inicio, parte media y en el final de la escala.
+7.1.6. Los ensayos de verificación de la longitud nominal deben ser repetidos variándose la temperatura de referencia en + 8º C.
+7.1.7. Los ensayos de verificación de la longitud nominal previstos para las medidas materializadas de longitud utilizadas bajo una fuerza de tracción especificada, deben ser repetidos con una variación de + 10% de la fuerza referida.
+7.2. Procedimientos de ensayos en verificación primitiva.
+7.2.1. Medidas rígidas o semirígidas constituidas por una sola pieza y metro comercial rígido.
+	a) verificación de la longitud nominal.
+	b) verificación de la longitud en tres (3) referencias distribuidas aleatoriamente, en el inicio, parte media y en el final de la escala.
+	c) verificación de la distancia entre dos graduaciones consecutivas, en una región seleccionada aleatoriamente en toda la extensión de la escala.
+7.2.2. Medidas articuladas.
+	a) verificación de la longitud nominal.
+	b) verificación de la longitud en tres (3) referencias situadas en piezas distintas, distribuidas aleatoriamente, en el inicio, parte media y en el final de la escala.
+		c) verificación en una de las piezas de la medida articulada, de la distancia entre dos graduaciones consecutivas, en una región seleccionada aleatoriamente.
+	d) verificación en tres (3) de las piezas de la medida, seleccionadas aleatoriamente, de la longitud entre sus referencias extremas.
+7.2.3. Cinta flexible de acero u otro material adecuado no metálico y dispositivo de enrollar, con o sin plomada o pilón.
+a) verificación de la longitud nominal;
+		b) verificación de la longitud hasta la primera graduación de la cinta;
+	c) verificación de la escala de la plomada o pilón;
+	d) verificación de la distancia entre dos graduaciones consecutivas, en dos regiones seleccionadas aleatoriamente, en el inicio y en el final de la escala;
+	e) verificación de la longitud de la cinta a partir de un metro (1 m) de 25 cm en 25 cm hasta los 2 metros; de 5 m en 5 m hasta el final de su longitud nominal.
+7.2.4. Cinta flexible de acero o fibra de vidrio y plástico u otro material adecuado no metálico y dispositivo de enrollar, de una longitud de hasta 10 metros.
+	a) verificación de la longitud nominal.
+	b) verificación de la longitud a partir del inicio de la escala, de 20 cm en 20 cm hasta 1 metro; de 50 cm en 50 cm hasta los 2 metros y de 1 m en 1 m hasta el final de su longitud nominal.
+	c) verificación de la distancia entre dos graduaciones consecutivas, en dos regiones seleccionadas aleatoriamente, en el inicio y en el final de la escala.
+7.2.5. Cinta flexible de acero o fibra de vidrio y plástico u otro material adecuado no metálico y dispositivo de enrollar, de una longitud superior a los 10 metros.
+	a) verificación de la longitud nominal.
+	b) verificación de la longitud a partir del inicio de la escala, de 1 m en 1 m hasta los 5 metros; de 5 m en 5 m hasta los 20 metros y de 10 m en 10 m hasta el final de su longitud nominal.
+	c) verificación de la distancia entre dos graduaciones consecutivas, en dos regiones seleccionadas aleatoriamente, en el inicio y en el final de la escala.
+7.3. Condiciones generales a ser observadas en la ejecución de los ensayos
+7.3.1. Las piezas que constituyen las medidas materializadas deben estar perfectamente alineadas.
+7.3.2. Cuando es aplicable las medidas deben ser verificadas traccionadas con la fuerza prevista para su verificación.
+7.3.3. Las medidas materializadas deben estar totalmente apoyadas sobre su superficie.
+
+MEDIDAS MATERIALIZADAS DE LONGITUD
+
+
+Apéndice 1 -  Formulario de Aprobación Técnica
+
+Expediente Nº: ............................................................................................................
+Designación del modelo: .............................................................................................
+Fabricante: ..................................................................................................................
+Representante Legal: ..................................................................................................
+Medida examinada: .....................................................................................................
+Descripción de la medida: ...........................................................................................
+Número de identificación: ............................................................................................
+
+
+Clase de exactitud:          (     ) I            (      ) II          (     ) III
+
+Tipo:                      (     ) Tope               (      ) Trazo         (     ) Mixta
+
+
+Longitud Nominal: __________
+
+Menor División:_____________
+
+
+Fuerza de tracción ( si es aplicable):______________
+
+Aplicación específica:_________________________________________
+
+
+Fecha del ensayo: ..........................................................
+
+Técnico ejecutor: ..........................................................
+
+Período del ensayo: ...................................................
+
+
+Apéndice 2 - Lista de control
+
+Expediente Nº: ............................................................................
+Designación del modelo: ...........................................................
+
+1 - Prescripciones  técnicas generales
+
+Exigencias	Construcción	C	NC	No Aplicable		5.4.1	Construcción sólida					5.4.3	Borde prácticamente rectilíneo y paralelo a la superficie plana de la cinta					5.4.4	Caras terminales de las medidas de extremos, planas  y perpendiculares al eje geométrico longitudinal					5.4.5	Protección resistente al uso, en las caras terminales de medidas de tope o mixtas, cuando estén construídas con materiales propensos al desgaste					5.4.6	Interferencia del dispositivo complementario en la interpretación de la lectura					5.4.7	Dispositivo de enrollamiento no provoca deformación en la cinta					5.4.9	Trazos perpendiculares al eje longitudinal de la medida						Escala						Uso de unidades legales y símbolos respectivos					5.5.1	Legibilidad: graduaciones nítidas, regulares e indelebles						Lectura correcta, fácil y no ambígua						Escala nítida  y clara					5.5.2.1	Valor máximo de la menor división de la escala:						Long. Nominal “x” de la medida  (m)	Valor máximo de la menor división (cm)						       x ( 1	0,1						 1 < x ( 2	1						 2 < x < 10	10						10 ( x < 50	20						50 ( x	50					5.5.2.2              	Justificación de outro valor de menor división para uso especifico identificado en la medida					5.5.3	Los trazos son:
+- rectilíneos,
+- perpendiculares y
+- tienen el mismo espesor					5.5.3.2	Espesor máximo para los trazos 						Long. de la división de la escala (mm)	Espesor de acuerdo con la clase de exactitud							I	II e III						Inferior o igual a 2 mm	0,2 mm	0,2 mm						Superior a 2 mm e inferior o igual a 20 mm	0,2 mm	10% de la longitud de la división						Superior a 20 mm	0,2 mm	2 mm					5.5.4.1	Trazos con espesores más finos (permitido en subdivisiones de la escala)					5.5.5	Las referencias  son  agujeros (el valor de la menor división es mayor o igual a 1 cm )					5.5.6	Las referencias son  marcas u otras señales (solo si  el valor de la menor división es mayor o igual a 1 dm y  aseguran una lectura correcta de acuerdo a la clase de exactitud) .					5.5.7 	Más de una escala. Observar que todas estén en unidades legales					5.5.8	Varias escalas cuyas menores divisiones  son diferentes, (prohibido en  medidas para la venta directa al público)					5.5.9	Marca u outra señal para distinguir referencias importantes de la medida, no genere confusión de lectura
+Numeración					5.6.1	Clara						Regular						Indeleble						Lectura fácil, no ambigua					5.6.2	- Continua
+						- Parcialmente continua 						- Parcialmente repetitiva					5.6.2.1	La numeración de los submúltiplos de la menor división pueden ser diferentes en las escalas subdivididas.					5.6.3	Los números son apropiados para la escala y las  demás marcaciones asociadas a:						Posición						Dimensión						Color						Contraste					5.6.3.1	Están escritos observándose el modo como se efectuará la lectura de la escala					5.6.4	Debe representar los metros o sus submúltiplos, no debiendo ser acompañada de los respectivos símbolos					5.6.4.1	Si el valor de la división fuera diferente del metro, el símbolo (m) podrá estar expresado después del número correspondiente a la indicación entera de metros.					5.6.4.2	Si la escala es milimetrada, todos los centímetros deben ser numerados					5.6.4.3	Si la menor división fuera 2 cm, 20 cm ó 200 cm todas las referencias deben ser numeradas.					5.6.5	Si la medida tiene diversas escalas, éstas pueden tener numeración diferente y los sistemas de numeración pueden ser crescientes en el  mismo sentido o en sentido contrario						Inscripciones obligatorias 					5.7.1.	Deben figurar en la extremidad inicial de la medida de manera clara y legible					5.7.1.1.	Lugar definido para recibir las marcas de verificación					5.7.2	Posee las seguientes inscripciones:						- identificación del fabricante y/o importador						- identificación de la marca y del modelo						- código de aprobación del modelo						- país de origen						- longitud nominal						-  indicación de la clase de exatitud I, II ó III, inscripta en un óvalo						- temperatura de referencia						- fuerza de tracción						- inscripción del uso específico, cuando fuera el caso						- número de serie (para las de longitudes igual  y superior a 5m)
+
+
+Expediente Nº: ............................................................................
+Designación del modelo: ...........................................................
+
+
+2 - Prescripciones técnicas particulares
+Cintas de acero con  dispositivo para enrollar y en caja (5.8.1)
+
+
+Exigencias		C	   NC	No aplicable		                                      Construcción
+
+
+5.8.1.1	Extremo libre está provisto de gancho o lengüeta, fija o deslizante (si la medida es de tope, este terminal debe estar incluido en la medición).
+Si la medida estuviera alojada en una caja, la dimensión de ésta no debe estar indicada ni incluida en la medición.
+Si la medida es de clase II, la longitud nominal superior a 5 m, y fuera de tope provista de anillo o argolla, ésta podrá formar parte de la medición			                   		   	Escala
+
+   5.8.1.2	Puede poseer dos escalas de un mismo origen sobre la misma cara y tener una escala en la otra cara						El valor de la división debe ser inferior o igual a 1 cm.
+					   5.8.1.3                        Clase de exactitud							I						II
+
+
+Expediente No.............................................................................
+Designación del modelo: ...........................................................
+
+
+2 - Prescripciones técnicas particulares
+Medidas rígidas o semi-rígidas constituídas de una única pieza (5.8.2)
+
+
+Exigencias		C	NC	No aplicable		                                              Construcción                                                                 						   5.8.2.1	Construida en metal u otro material apropiado que no produce chispas						Si la medida es a extremos o tope, estará provista de una protección resistente al choque y al desgaste y que no provoque chispas					  5.8.2.2                       Clase de Exactitud                                                                       							I						Il
+
+
+Expediente No: ............................................................................
+Designación del  modelo: ...........................................................
+
+
+2 - Prescripciones  técnicas particulares
+Cintas flexibles en fibra de vidrio o plástico u otro material adecuado, de longitud no superior a 5 m  (5.8.3)
+
+Exigencias		C	NC	No Aplicable		                                      Construcción						5.8.3.1	Las extremidades libres están protegidas con un estribo o cantonera, de material resistente al desgaste y firmemente fijado a la cinta (en medidas a extremos o tope)						Una de las extremidades puede llevar un anillo, que puede estar incluído en la longitud nominal)						La fuerza de tracción está indicada en la cinta						Si la medida es a trazos  la referencia cero está localizada a una distancia de por lo menos 20 mm de la extremidad de la cinta si no tiene anillo o del borde exterior del anillo si lo posee.					      5.8.3.2                        Clase de Exactitud							ll						lll
+
+
+Expediente Nº: ............................................................................
+Designación del modelo: ...........................................................
+
+2 - Prescripciones técnicas particulares
+Medidas articuladas de metal u otro material (5.8.4)
+
+
+   Exigencias			C	NC	No aplicable		                                     Construcción							      5.8.4.1	Las extremidades de las partes articuladas tienen la misma  longitud entre los ejes de articulación 						Construída en madera o metal u otro material que permite la conservación de su forma y de la exactitud de la medición en las condiciones de uso						Los extremos libres estan protegidos (caso de que la medida sea construída con material que pueda sufrir desgaste)						El dispositivo responsable de la articulación y de la alineación, en posición desplegada no introduce errores superiores a :						Error 	Clase						0.3 mm	ll						0.5 mm	lll						La distancia entre las articulaciones corresponde a:						1/2 de la longitud nominal						1/5 de la longitud nominal						1/10 de la longitud nominal					                                                         Escala							      5.8.4.2	Posee escala en ambas caras 						                                                        Clase de Exactitud							      5.8.4.3	l, dependiendo de la calidad de la articulación							II							Ill
+
+
+Expediente No. ............................................................................
+Designación de modelo: ...........................................................
+
+2 - Prescripciones  técnicas particulares
+Cintas flexibles de acero con dispositivo para enrollar no diseñada para medir longitudes superiores a su longitud nominal (5.8.5).
+
+
+   Exigencias		C	NC	No Aplicable 		                                                      Construcción						      5.8.5.1	El extremo libre está provisto de anillo o empuñadura, no incluido en la longitud nominal para clase l						El extremo libre está provisto de anillo o empuñadura, siendo éste incluido en la longitud nominal para clase ll ó lll						La fuerza de tracción está indicada en la cinta					                                                          Escala 						        5.8.5.2	Cada cara de la medida no puede contener más de  una escala					      5.8.5.3                             Clase de Exactitud						     	I						Il						Ill
+
+
+Expediente No: ............................................................................
+Designación del modelo: ...........................................................
+
+
+2 - Prescripciones  técnicas particulares
+Cintas flexibles de acero con plomada o pilón y dispositivo para enrollar (5.8.6)
+
+Exigencias		C	NC	No Aplicable		                                                          Construcción						  5.8.6.1	La fijación del peso tensor a la cinta no introduce un error superior al máximo tolerado para la clase a la que pertenece 						La masa del peso tensor tracciona la cinta y tiene una dureza que resiste los impactos						El material no provoca chispas						Provista de dispositivo de fácil enrollamiento						La fuerza de tracción es igual al peso del pilón 						La masa del peso tensor está indicada sobre el mismo y sobre la cinta						La pieza de unión entre el peso tensor y la cinta asegura el correcto anclaje entre los dos						Las inscripciones obligatorias de marca, modelo, código de aprobación de modelo, número de serie y clase de exactitud están impresas en el peso tensor					                                              Escala						      5.8.6.2	Regular con trazos de división mínima de 1 mm						El origen de la escala esta constituído por la extremidad del peso tensor						Comienza sobre una cara del pilón y continúa en toda la cinta						Los trazos relativos a los centímetros y metros enteros están numerados					       5.8.6.3                        Clase de Exactitud							I						Il
+
+
+Expediente Nº: ............................................................................
+Designación de modelo: ...........................................................
+
+
+2 - Prescripciones técnicas particulares
+Cinta flexible de acero diseñada para mediciones de longitudes superiores a su longitud nominal por uso repetitivo de la misma (5.8.7)
+
+
+Exigencias		C	NC	No Aplicable		                                                  Construcción						5.8.7.1	Provista de empuñaduras  o anillas						Si las empuñaduras o anillas están incluidas en la longitud nominal, no introducen error superior al error máximo tolerado						La fuerza de tracción está indicada en la cinta					      5.8.7.2                  Clase de Exactitud							I						Il
+
+
+Expediente Nº: ............................................................................
+Designación de modelo: ...........................................................
+
+
+2 - Prescripciones técnicas particulares
+Cinta flexible construídas en fibra de vidrio o material plástico u otro material adecuado no metálico, de longitud nominal igual o superior a 5 m.( 5.8.8)
+
+
+   Exigencia		C	NC	No Aplicable		                                    Construcción						      5.8.8.1	Si la medida es de clase l y posee una anilla, ésta no está incluida en la longitud nominal						Si la medida es de clase ll ó lll y posee una anilla, ésta puede estar incluída en la longitud nominal						El origen está protegido por una puntera o anclaje final resistente al uso y fijado a la cinta (para medidas de tope o mixtas)						La fuerza de tracción está indicada en la cinta.		   			                                    Clase de Exactitud						    5.8.8.2	I						Il						Ill
+
+
+Expediente No......................................................
+Designación del modelo:......................................
+
+2 -Prescripciones Técnicas Particulares
+Metro comercial rígido (5.8.9)
+
+
+    Exigencia		C	NC	No Aplicable		                                        Construcción 						      5.8.9.1	Metal, madera u otro material adecuado						Si la extremidad libre es de material propenso al desgaste está protegida por un estribo o cantonera sólidamente fijado					                                                Escala
+
+
+     5.8.9.2
+
+	Puede tener una escala en cada una de las dos caras						Las inscripciones no dificultan la legibilidad de las lecturas						La medida y sus graduaciones poseen colores contrastantes						Puede ser milimetrada con numeración en cada centímetro						Los trazos de referencia de los centímetros deben ser mayores que las referencias de los medios centímetros y estos mayores que las demás graduaciones si éstas representan milímetros					       5.8.9.3                 Clase  de Exactitud							I						Il
+
+
+Apendice 3 .Cuadros de Ensayos
+Tipo de medida:______________________________________________________
+
+1- Ensayo de verificación de la longitud nominal ( letras "a" de los items 7.1.1. a 7.1.5.).
+
+Expediente No.	Temperatura de referencia (T) :                   ºC		Modelo:	Fuerza de tracción de referencia  (si se aplica)
+(F) :                           N        		Técnico executor:
+
+A temperatura y fuerza de tracción de referencia (si se aplica)
+
+Longitud
+ Nominal (Ln)	            Lecturas					  Media
+   (Lm1) 	  Error
+ (Ln-Lm1)	Error máximo tolerado 			L1	L2	L3	L4	L5
+                                                                                              Aprobado            Reprobado
+
+b ) En función de la variación de la temperatura (Item 7.1.6.)
+
+Temperatura
+    (°C)	           Lecturas 					  Media
+  (Lm2)	     Error
+|Lm2-Lm1|	Error máximo tolerado			L1	L2	L3	L4	L5					     T + 8 ºC										     T -  8 ºC
+                                                                                                 Aprobado     Reprobado
+
+
+c) En función de la fuerza de tracción (Item 7.1.7.)
+
+Fuerza de Tracción
+    (N)	              Lecturas	   Media
+   (Lm3)	     Error
+ (Lm3-Lm1)	Error máximo
+     tolerado			L1	L2	L3	L4	L5					F + 10%										F -  10%
+                                                                                                  Aprobado    Reprobado
+
+Tipo de medida:_______________________________________________________
+
+2-Ensayo de verificación de la longitud de la medida  a  partir del inicio de la escala hasta la longitud nominal, para todas las medidas .(Items 7.1.1.b.; 7.1.2.b; 7.1.3.f.; 7.1.4.b.; 7.1.5.b.)
+
+Expediente nº: 	Temperatura:                           ºC		Modelo:	Fuerza de tracción (cuando se aplique) :
+                             N		Técnico ejecutor
+  Longitud  	               Lecturas 					 Media (Lm)
+ 	    Error
+	Error  máximo tolerado 			L1	L2	L3	L4	L5
+
+                                                                                                  Aprobado    Reprobado
+
+
+Tipo de medida:
+
+
+3 -Ensayo de verificación de las distancias entre dos graduaciones consecutivas, en tres áreas seleccionadas aleatoriamente entre el inicio, medio y el final de la escala (7.1.1.c.; 7.1.3.e; 7.1.4.c; 7.1.5.c)
+
+Expediente N°	Temperatura:                          ºC		Modelo:	Fuerza de Tracción (cuando se aplique):                               N		Técnico ejecutor
+
+Distancias
+Consecutivas	Longitud
+    	      Lecturas					 Media (Lm)
+        	Error
+  	Error máximo tolerado 				L1	L2	L3	L4	L5
+
+                                                                                                  Aprobado    Reprobado
+
+
+                                            MEDIDA ARTICULADA
+
+4.- Ensayo de verificación en cada pieza de la medida de la distancia entre dos graduaciones consecutivas en una región seleccionada aleatoriamente. (7.1.2.c)
+
+
+Expediente No.	Temperatura:                              ºC		Modelo:			Técnico ejecutor :
+
+
+Graduaciones
+Consecutivas
+Longitud
+                   Lecturas					Media
+  Lm	Error	Error Máx. tolerado 				L1	L2	L3	L4	L5					P1											P2											P3											P4											P5											P6											P7											P8											P9											P10
+
+                                                                                                  Aprobado    Reprobado
+
+
+MEDIDA ARTICULADA
+
+5.- Verificación en cada pieza de la medida  de la longitud entre sus referencias extremas (7.1.2.d)
+
+
+Pieza	Longitud
+	               Lecturas					 Media
+   Lm	Error 	Error máx. tolerado			 	  L1	L2	L3	L4	L5					P1											P2											P3											P4											P5											P6											P7											P8											P9											P10
+
+
+                                                                                                      Aprobado    Reprobado
+
+
+CINTA PROVISTA DE PESO TENSOR
+
+Expediente No.	Temperatura:                             ºC		Modelo:			Técnico ejecutor:
+6.- Ensayo de verificación de la longitud hasta la primera graduación de la cinta        (7.1.3.b)
+Longitud
+    	                     Lecturas
+                             	 Media
+   Lm	Error
+  	Error máx.
+tolerado			   L1	   L2	  L3	  L4	  L5
+                                                                                     Aprobado              Reprobado
+7.-Ensayo de verificación de la escala del peso tensor (7.1.3.c)
+Longitud	                     Lecturas					 Media
+    Lm	Error
+  	Error máx.
+tolerado			   L1	   L2	  L3	  L4	  L5
+                                                                                          Aprobado              Reprobado
+8 - Ensayo de verificación de la distancia entre dos graduaciones consecutivas en un área seleccionada aleatoriamente del peso tensor (7.1.3.d)
+
+    Distancias             consecutivas	                     Lecturas					 Media
+   Lm	Error
+  	Error máx.
+tolerado			  L1	   L2	  L3	  L4	  L5
+                                                                                     Aprobado              Reprobado

@@ -1,0 +1,37 @@
+Resolución GMC N° 10/93
+Título: SEGURIDAD FÍSICA DE SISTEMAS DE TELECOMUNICACIONES
+Fecha de aprobación: 30/06/1993
+Vigencia: Derogada (Sera derogada por la Res. GMC Nº 19/15, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 29653_RES_010-1993_ES_Seguridad Fís.Sist.Telecomunic._Acta_02_93.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2203).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 10/93
+
+SEGURIDAD FISICA DE SISTEMAS DE TELECOMUNICACIONES
+
+
+      VISTO : El art. 13 del Tratado de Asunción, el art.10 de la Decisión Nº 4/91 del CMC y la Recomendación Nº 1/93 del Subgrupo de Trabajo Nº 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que se hace necesario definir aspectos vinculados con: "Seguridad Física de Sistemas de Telecomunicaciones", a efectos de proteger a los operarios de la red y a los usuarios que deben actuar en un medio de creciente complejidad.
+
+Que resulta conveniente el tratamiento del tema en el Comité Sectorial de Electrónica y Comunicaciones pertenecientes al Comité MERCOSUR de Normalización con la participación de los operadores del servicio público telefónico.
+
+EL GRUPO MERCADO COMUN
+RESUELVE :
+
+Art. 1 - Se entiende por seguridad física de sistemas de Telecomunicaciones a un conjunto de técnicas aplicadas a una red, infraestructura o equipos integrantes del sistema, que tienen por objetivo:
+
+a. Garantizar la seguridad de la vida e integridad física de operador(es) y usuario(s);
+
+b. Asegurar el funcionamiento y la operación del sistema dentro de las características para las  que fueron diseñados.
+
+Art. 2 - Dada la complejidad de los temas enunciados se recomienda: al Comité Sectorial de Electrónica y Telecomunicaciones -pertenecientes al Comité MERCOSUR de Normalización- el estudio y armonización de las normas técnicas correspondientes que complementarán la presente Resolución, preferentemente con la participación  de las operadoras del servicios público  telefónico.
+
+Art. 3 - A  los fines del cumplimiento del art. 2, se recomienda seguir, en lo que corresponda, los lineamientos de las directivas del Sector de Normalización de la UIT-TSB -Unión Internacional de Telecomunicaciones- Oficina de Normalización de Telecomunicaciones (ex CCITT).
+
+Art. 4 - Hasta tanto el Grupo Mercado Común apruebe un reglamento sobre higiene y seguridad en el trabajo, las normas técnicas a estudiar deberán  respetar la legislación vigente en la materia de cada uno de los países miembros.
+X GMC - Asunción, 30/VI/1993.

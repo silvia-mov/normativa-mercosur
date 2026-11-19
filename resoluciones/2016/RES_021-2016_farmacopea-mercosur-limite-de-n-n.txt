@@ -1,0 +1,70 @@
+Resolución GMC N° 21/16
+Título: FARMACOPEA MERCOSUR: LÍMITE DE N,N-DIMETILANILINA
+Fecha de aprobación: 15/06/2016
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 62188_RES_021-2016_ES_Farmacopea Limite de N,N-dimetilanilina.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3301).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 21/16
+
+FARMACOPEA MERCOSUR: LÍMITE DE N,N-DIMETILANILINA
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Límite de N,N-dimetilanilina", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del SGT N° 11 los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/XII/2016.
+
+
+CII GMC - Montevideo, 15/VI/16.
+ANEXO
+LÍMITE DE N,N-DIMETILANILINA
+
+Método A
+
+Sistema cromatográfico -  Emplear un equipo para cromatografía de gases con un detector de ionización de llama y una columna capilar de sílice fundida de 25 m de longitud x 0,32 mm de diámetro interno recubierta con una película de 0,52 m de espesor con polimetilfenilsiloxano reticulado. Mantener la temperatura de la columna a 150 ºC durante 5 minutos, luego aumentar la temperatura a una velocidad de 20 ºC por minuto hasta 275 ºC y mantener a esta temperatura durante 3 minutos. La temperatura del inyector debe ser de 220 ºC y la del detector de 300 ºC. Emplear helio como gas transportador con una relación de división de flujo 1:20, una presión en la cabeza de la columna de 50 kPa y un divisor del flujo de 20 mL por minuto. Una camisa del divisor de flujo, consistente en una columna de aproximadamente 1 cm de longitud rellena de tierra de diatomea para cromatografía gaseosa impregnada con 10 % de polidimetilsiloxano.
+
+Solución estándar interno -  Disolver 50 mg de N,N-dietilanilina R en 4 mL de ácido clorhídrico 0,1 M y diluir a 50 mL con agua.  Diluir 1 mL de esta solución a 100 mL con agua.
+
+Solución estándar - Disolver 50,0 mg de N,N-dimetilanilina R en 4 mL de ácido clorhídrico 0,1 M y diluir a 50,0 mL con agua.  Diluir 1,0 mL de esta solución a 100,0 mL con agua.  Diluir 1,0 mL de esta solución a 30,0 mL con agua.  Agregar 1,0 mL de Solución estándar interno y 1,0 mL de hidróxido sodio 10,5 M. Agregar 2,0 mL de trimetilpentano R.  Agitar durante 2 minutos y esperar a que las fases se separen.  Emplear la solución sobrenadante límpida.
+
+Solución muestra -  Transferir alrededor de 0,50 g de la muestra exactamente pesada a un tubo de centrifuga y agregar 30,0 mL de agua. Agregar 1,0 mL de la Solución estándar interno, ajustar la temperatura de la solución entre 26-28 ºC. Agregar 1,0 mL de hidróxido de sodio 10,5 M y mezclar hasta disolución completa. Agregar 2,0 mL de trimetilpentano R. Agitar durante 2 minutos y esperar a que las fases se separen.  Emplear la solución sobrenadante límpida.
+
+Procedimiento -  Inyectar por separado en el cromatógrafo volúmenes iguales (aproximadamente 1µL) de la Solución estándar y la Solución muestra, registrar los cromatogramas y medir las respuestas de los picos principales. Los tiempos de retención deben ser aproximadamente 3,6 minutos para N,N-dimetilanilina y 5,0 minutos para N,N-dietilanilina. El cociente entre las respuestas de los picos de dimetilanilina y dietilanilina, obtenidos a partir de la Solución muestra no debe ser mayor que el obtenido a partir de la Solución estándar (0,002 %).
+
+
+Método B
+
+Sistema cromatográfico -  Emplear un equipo para cromatografía de gases con un detector de ionización de llama y una columna de vidrio de 2 m de longitud x 2 mm de diámetro interno rellena con un soporte de tierra de diatomea silanizada para cromatografía de gases impregnada con 3 % de polimetilfenilsiloxano. Mantener la temperatura de la columna a 120 ºC y la temperatura del inyector y el detector a 150 ºC. Emplear nitrógeno como gas transportador a un flujo de 30 mL por minuto.
+
+Solución estándar interno -  Disolver una cantidad exactamente pesada de naftaleno R en ciclohexano R para obtener una solución de aproximadamente 0,05 mg por mL.
+Solución estándar - Transferir alrededor de 50,0 mg de N,N-dimetilanilina R exactamente pesados a un matraz aforado de 50,0 mL, agregar 25,0 mL de ácido clorhídrico 1 M, agitar hasta disolver, diluir con agua hasta volumen y mezclar. Diluir 5,0 mL de la solución anterior a 250,0 mL con agua y mezclar. Transferir 1,0 mL de la solución resultante a un tubo de centrifuga, agregar 5 mL de hidróxido de sodio 1 M y 1,0 mL de la Solución estándar interno, agitar vigorosamente por 1 minuto y centrifugar. Emplear la solución sobrenadante límpida.
+
+Solución muestra -  Transferir alrededor de 1,0 g de la muestra exactamente pesada a un tubo de centrifuga, agregar 5 mL de hidróxido de sodio 1 M hasta disolución completa. Agregar 1,0 mL de la Solución estándar interno, agitar vigorosamente por 1 minuto y centrifugar. Emplear la solución sobrenadante límpida.
+
+Procedimiento -  Inyectar  por separado en el cromatógrafo volúmenes iguales (aproximadamente 1µL) de la Solución estándar y la Solución muestra, registrar los cromatogramas y medir las respuestas de los picos principales. El cociente entre las respuestas de los picos de dimetilanilina y naftaleno, obtenidos a partir de la Solución muestra no debe ser mayor que el obtenido a partir de la Solución estándar (0,002 %).
+
+3

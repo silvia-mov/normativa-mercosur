@@ -1,0 +1,163 @@
+Resolución GMC N° 26/94
+Título: ANCLAJES DE ASIENTOS
+Fecha de aprobación: 03/08/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 25387_RES_026-1994_ES_AnclajeAsiento.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1856).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES N° 26/94
+
+ANCLAJES DE ASIENTOS
+
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, las Resoluciones Nº 9/91 y Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 6/94 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los vehículos deben cumplir una serie de requisitos técnicos en virtud de las legislaciones nacionales respectivas, entre ellos los correspondientes a ANCLAJES DE ASIENTOS.
+
+Que dichos requisitos difieren de un Estado Parte a otro lo que puede crear obstáculos técnicos al intercambio comercial y a la libre circulación de vehículos, que podrían eliminarse a través de la adopción de los mismos requisitos técnicos por todos los Estados Partes ya sea como complemento o en reemplazo de su legislación actual.
+
+Que resulta necesario unificar los métodos de ensayo anteriormente adoptados en relación a ANCLAJES DE ASIENTOS.
+
+Que para tal fin, los Estados Partes han acordado adecuar sus legislaciones, de modo de posibilitar el libre intercambio de vehículos, sus partes y piezas.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+
+Art. 1. Los Estados Partes no podrán limitar o prohibir la libre circulación, homologación, certificación, venta, importación, comercialización, matriculación o uso de los vehículos que cumplan con los requisitos establecidos en el Reglamento Armonizado "ANCLAJES DE ASIENTOS" que figura como Anexo a la presente Resolución, por motivos relacionados con los aspectos técnicos armonizados en el mismo.
+
+Art. 2. Elimínase el punto 3.9 del Anexo I de la Resolución Nº 9/91 del GMC.
+
+Art. 3. La presente Resolución entrará en vigor a partir del 31 de diciembre de 1994.
+
+Art. 4. Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Por Argentina:
+Secretaría de Transporte
+Secretaría de Industria
+
+
+Por Brasil:
+Ministerio de Justicia
+Secretaría de Tránsito. Departamento Nacional de Tránsito
+
+Paraguay:
+Ministerio de Obras Públicas y Comunicaciones
+Viceministerio de Transporte
+
+Uruguay:
+Ministerio de Transporte y Obras Públicas
+Ministerio de Industria y Energía
+
+
+ANEXO
+
+
+REGLAMENTO ARMONIZADO
+ANCLAJES DE ASIENTOS
+
+
+1. OBJETIVO. Reducir al mínimo las posibilidades de fallas producidas por fuerzas que puedan actuar sobre el conjunto de asientos en un impacto por choque de vehículos.
+
+Este documento indica los requisitos para conjuntos de asientos, su fijación y montaje.
+
+2. APLICACIÓN. Este documento se aplica a vehículos categorías M1 y N1: automóviles y camionetas de uso mixto derivadas de automóviles.
+
+3. DEFINICIÓN. A los efectos de este documento se considera como conjunto asiento, todo lugar proyectado para ubicar ocupantes en el vehículo en posición sentada.
+
+El conjunto asiento está compuesto básicamente por respaldo y asiento.
+
+4. REQUISITOS.
+
+4.1. Conjunto asiento de conductor. Cada vehículo debe contar con un asiento para el conductor.
+
+4.2. Requisitos generales de desempeño.
+
+4.2.1. En el ensayo referido en el punto 5 cada conjunto asiento que no sea conjunto asiento en sentido lateral, esto es, en el cual el ocupante es transportado con su frente mirando al eje longitudinal del vehículo, deberá resistir las solicitaciones siguientes:
+
+4.2.1.1. Una fuerza de 20 veces el peso del conjunto asiento en dirección longitudinal hacia adelante en cualquier posición de ajuste del conjunto asiento.
+
+4.2.1.2. Una fuerza de 20 veces el peso del conjunto asiento en dirección longitudinal hacia atrás en cualquier posición de ajuste del conjunto asiento.
+
+4.2.1.3. Cuando los cinturones de seguridad están fijados al conjunto asiento, las fuerzas especificadas en los ítem 4.2.1. y 4.2.2. deberán sobreponerse simultáneamente a las fuerzas debidas a los cinturones de seguridad especificadas en la norma ABNT NB-297 o IRAM equivalentes.
+
+4.2.1.4. En la posición externa hacia atrás, a una fuerza que produce un momento de 38 kgm. sobre el punto de referencia del asiento mostrado en el documento "lugar geométrico de los ojos de los conductores" para cada posición establecida del conjunto asiento y que debe ser aplicada en la viga transversal superior del respaldo o en la parte superior del respaldo (figura 4), a saber en dirección longitudinal hacia atrás, en conjuntos asientos dirigidos hacia adelante y en dirección longitudinal hacia adelante en asientos dirigidos hacia atrás.
+4.2.2. Ajuste del conjunto asiento.
+
+El conjunto asiento debe permanecer en la posición ajustada durante la aplicación de las fuerzas prescriptas en el parágrafo 4.2.1.
+
+4.3. (I) Dispositivo de retención para conjuntos de asientos dobles o respaldos dobles.
+
+
+Conjunto asientos rebatibles o respaldos rebatibles deben estar munidos de un dispositivo de traba automática y su correspondiente destrabe, excepto aquellos conjuntos asiento de respaldo reclinable de uso exclusivo para el confort de los ocupantes.
+
+
+4.3.1. Accesibilidad al dispositivo de destrabe.
+
+El control del mecanismo de destrabe, debe ser fácilmente accesible para los ocupantes del conjunto asiento de atrás en el caso que el acceso a dicho control sea necesario para la salida del vehículo.
+
+4.3.2. Requisitos de ensayos para el mecanismo de retención.
+
+4.3.2.1. Solicitación estática.
+
+4.3.2.1.1. Una vez trabado el mecanismo de retención de un conjunto asiento ubicado hacia el frente, éste no debe destrabarse o fallar cuando actúa una fuerza longitudinal hacia adelante correspondiente a 20 veces el peso de la parte rebatible del conjunto asiento y aplicada en el centro de gravedad de esta parte del conjunto asiento.
+
+4.3.2.1.2. Una vez trabado el mecanismo de retención de un conjunto asiento ubicado hacia atrás, no debe destrabarse o fallar cuando actúa una fuerza longitudinal hacia atrás correspondiente a 8 veces el peso de la parte rebatible del conjunto asiento, aplicada en el centro de gravedad de esta parte del conjunto asiento.
+
+4.3.2.2. Solicitación dinámica.
+
+Una vez trabado el dispositivo de retención no debe destrabarse o fallar cuando está sometido a 20 g de aceleración en sentido longitudinal, opuesto al sentido de doblamiento de la articulación del conjunto asiento.
+
+5. PROCEDIMIENTO DE ENSAYO.
+
+5.1. Las fuerzas prescriptas en los puntos 4.2.1.1. y 4.2.1.2. deberán aplicarse de la siguiente manera.
+
+5.1.1. Si el respaldo y el asiento están sujetos al vehículo por la misma fijación, será preciso colocar una guía en cada lado del conjunto asiento, que una un punto en el lado externo del cuadro del conjunto asiento, en el plano horizontal de su centro de gravedad, con un punto más, lo más apartado posible del anclaje por la parte delantera del conjunto asiento.
+
+Entre las extremidades superiores de las guías debe colocarse una viga transversal rígida, a saber delante del cuadro para la carga hacia atrás y atrás del cuadro para la carga hacia adelante.
+
+La fuerza especificada en 4.2.1.1. ó 4.2.1.2. deberá aplicarse horizontalmente a través de la viga transversal, conforme a la figura 1.
+
+5.1.2. Si el respaldo y el asiento están sujetos al vehículo por medio de fijaciones distintas, aplicar en cada uno, un dispositivo capaz de transmitir la fuerza a los componentes aludidos. Se someterá a una fuerza 20 veces el peso del respaldo, horizontalmente, pasando por el centro de gravedad del respaldo, según lo observado en la figura 2. Se someterá a una fuerza 20 veces el peso del asiento, horizontalmente, pasando por el centro de gravedad del asiento de acuerdo a la figura 3.
+
+5.2. Debe ser desarrollado el momento detallado en 4.2. según figura 4.
+
+5.3. Deben ser aplicadas las fuerzas especificadas en 4.3.2.1.1. y 4.3.2.1.2. con el conjunto asiento doble, según figura 1, y en un respaldo doble según figura 5, respectivamente.
+
+5.4. Debe determinarse el centro de gravedad del conjunto asiento con los componentes del mismo, con todas las almohadas y tapicerías colocadas y sus correspondientes apoyacabezas, si los tuviera, en la posición plenamente extendida conforme al proyecto.
+
+
+ANCLAJES DE ASIENTOS
+FIGURA 1
+
+
+ANCLAJES DE ASIENTOS
+FIGURAS 2, 3 Y 4
+
+
+FIGURA 2
+
+
+FIGURA 3
+
+
+FIGURA 4
+
+
+ANCLAJES DE ASIENTOS
+FIGURA 5
+
+
+FIGURA 5
+ANCLAJE DE ASIENTOS
+
+FE DE ERRATAS
+
+
+Donde dice:                                                        Debe decir:
+(I) dobles                                                             rebatibles

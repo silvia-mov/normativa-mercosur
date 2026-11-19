@@ -1,0 +1,148 @@
+Resolución GMC N° 05/18
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA DISPOSITIVOS SENSORES DE ATMÓSFERA INSTALADOS EN ARTEFACTOS PARA USO DOMÉSTICO
+Fecha de aprobación: 19/04/2018
+Vigencia: Vigente (Vigente desde el 6/9/2025 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 68376_RES_005-2018_ES_RTM Disp Sensor Atmosfera.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3529).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 05/18
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA DISPOSITIVOS SENSORES DE ATMÓSFERA INSTALADOS EN ARTEFACTOS PARA USO DOMÉSTICO
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 19/92, 38/98, 24/03, 25/03, 14/05 y 45/17 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+Que se deben armonizar las exigencias esenciales de seguridad y desempeño para la fabricación, importación y comercialización de los dispositivos sensores de atmósfera instalados en artefactos para uso doméstico, tomando en consideración las medidas pertinentes para asegurar la protección y satisfacción de los usuarios de estos artefactos en cada Estado Parte.
+
+Que es necesario que los Estados Partes adopten medidas para la protección eficaz de los consumidores contra los riesgos vinculados a la utilización de gas como combustible.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR para dispositivos sensores de atmósfera instalados en artefactos para uso doméstico", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - A partir de la fecha de entrada en vigor de la presente Resolución, se define un plazo de cuatro (4) años para su aplicación.
+
+Art. 3 - A partir del plazo resultante de aplicar el Artículo 2 de esta Resolución, se define un plazo de un (1) año para la coexistencia de la comercialización de dispositivos sensores de atmósfera en artefactos para uso doméstico, con los fabricados y comercializados de acuerdo con las reglamentaciones vigentes en cada Estado Parte hasta esa fecha.
+
+Art. 4 - A partir de cumplirse los plazos mencionados en los Artículos 2 y 3 de la presente Resolución, todos los dispositivos sensores de atmósfera instalados en artefactos para uso doméstico deben ser fabricados, evaluada su conformidad y comercializados exclusivamente de acuerdo con los requisitos aquí establecidos.
+
+Art. 5 - La inobservancia de las prescripciones comprendidas en la presente Resolución, acarreará a los infractores, la aplicación de las penalidades previstas en la legislación vigente en cada Estado Parte.
+
+Art. 6 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 7 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3) los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 8 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 20/X/2018.
+
+
+CVII GMC - Asunción, 19/IV/18.
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR PARA DISPOSITIVOS SENSORES DE ATMÓSFERA INSTALADOS EN ARTEFACTOS PARA USO DOMÉSTICO
+
+
+1. OBJETIVO
+El presente Reglamento Técnico MERCOSUR (RTM) define los requisitos mínimos, a los fines de su seguridad en el empleo, y los correspondientes métodos de ensayo para la verificación, tanto de los artefactos equipados con piloto sensor de atmósfera, como del funcionamiento de esos dispositivos instalados en cada tipo de artefacto.
+
+Se entiende por piloto sensor de atmósfera un dispositivo de seguridad que actúa produciendo el corte del pasaje de gas al artefacto ante el enrarecimiento de la atmósfera circundante.
+
+2.	ÁMBITO DE APLICACIÓN
+El presente RTM se aplica a artefactos de cámara abierta (calefactores de ambiente y calentadores de agua con o sin salida al exterior de los productos de la combustión), que utilizan gas natural y gases licuados de petróleo y se debe aplicar en forma conjunta con las normas particulares del artefacto respectivo.
+
+3.	REQUISITOS
+
+3.1	Se consideran los dispositivos formando parte integral del artefacto, por lo cual su evaluación se debe realizar en conjunto con el artefacto.
+
+3.2	Los dispositivos de seguridad deben cumplir los requerimientos constructivos fijados por el Reglamento Técnico del artefacto para sus componentes, además de los indicados en este RTM.
+
+3.3	Los artefactos, incluido el dispositivo de seguridad, objeto de este RTM, deben ser construidos de forma tal que, ante el enrarecimiento de la atmósfera circundante, se produzca el corte del pasaje de gas al quemador principal. En todos los casos la reposición del suministro de gas debe ser manual a fin de que el usuario esté alertado del inconveniente.
+
+3.4	Los fabricantes deben arbitrar los medios a fin de que los componentes sujetos a ajuste no puedan ser modificados fácilmente, pudiendo completar tal recaudo con el agregado de un precinto o sello.
+
+
+3.5	El dispositivo debe ser diseñado, fabricado e instalado de forma tal que:
+
+* permita un fácil mantenimiento, particularmente la remoción de polvo, de modo tal que su correcto funcionamiento no sea afectado por esta tarea;
+
+*  el deterioro del elemento sensor o de los medios de transmisión de la señal de corte, independientemente del enrarecimiento o no de la atmósfera circundante, produzca una interrupción del suministro de gas, al quemador principal, en el tiempo máximo especificado por el fabricante del artefacto;
+
+* impida o dificulte cualquier reinstalación incorrecta luego de una reparación o desmontaje;
+
+* soporte las exigencias térmicas resultantes de su aplicación.
+
+4.	ENSAYOS
+
+4.1	Funcionamiento con atmósfera normal
+
+4.1.1	Equipos con tiro natural no forzado
+
+El equipo debe instalarse según las instrucciones del fabricante y conectarse a una chimenea de largo y diámetro especificados por el reglamento del artefacto para los ensayos de tiraje.
+
+El artefacto debe funcionar a consumo calorífico nominal (Qn).
+
+En estas condiciones, el dispositivo no debe actuar.
+
+4.1.2	Equipos sin salida al exterior
+
+El equipo debe instalarse según las instrucciones del fabricante.
+
+El artefacto debe funcionar a consumo calorífico nominal (Qn).
+
+En estas condiciones, el dispositivo no debe actuar.
+
+
+4.2	Funcionamiento con atmósfera enrarecida
+
+4.2.1	Condiciones de ensayo
+
+El artefacto se instala centrado en la pared más angosta de un ambiente sellado (estanco), a la altura indicada por el fabricante y en el manual de instalación. Las dimensiones del ambiente son las siguientes:
+
+- Para artefactos sin salida al exterior:
+  Altura: 〖2,5 m〗_(-0,1)^(+0,5)
+  Volumen mínimo: 8 m3
+  Máxima diferencia entre largo y ancho: 0,5 m
+
+- Para artefactos con salida al exterior:
+  Altura: 〖2,5 m〗_(-0,1)^(+0,5)
+  Volumen mínimo: 17 m3
+  Máxima diferencia entre largo y ancho: 1,5 m
+
+La estanquidad del ambiente debe ser tal que, después que se ha establecido un contenido homogéneo de 4% ± 0,2% de CO2, no debe disminuir más de 0,1% al final de un período de 2 h de funcionamiento continuo a consumo calorífico nominal.
+
+El ambiente se debe diseñar de tal forma que el operador pueda, en cualquier momento, observar el aparato en funcionamiento sin tener que entrar al ambiente.
+
+Las muestras de la atmósfera del ambiente para determinar el contenido de monóxido de carbono deben tomarse en la vertical del centro geométrico de la planta del ambiente y a la altura de este dispositivo de seguridad.
+
+La atmósfera en el ambiente se debe mantener como una mezcla homogénea.
+
+La temperatura en el centro del ambiente se debe mantener entre 20°C y 40°C.
+
+4.2.2	Método de ensayo
+
+El equipo se enciende a la presión establecida como normal, a consumo calorífico nominal, con la puerta del ambiente abierta. En el caso de artefactos con salida al exterior, se debe colocar la chimenea indicada en el reglamento respectivo para los ensayos de tiraje.
+
+Se enciende el artefacto y se monitorea temperatura y composición de los gases de combustión. Una vez alcanzado el equilibrio de temperatura y composición de los productos de la combustión, (O2, CO2 y CO), se sella el ambiente; para los artefactos con salida al exterior se debe haber tapado y sellado previamente la chimenea.
+
+El aire del ambiente se supervisa continuamente para determinar el porcentaje de O2, CO2 y CO.
+
+4.2.3	Evaluación
+
+Se requiere que el apagado de seguridad del equipo se produzca antes que el contenido de CO del ambiente sellado alcance las 100 ppm.
+
+
+5.	TEXTOS DE ADVERTENCIA
+
+En el embalaje de cada artefacto y en el artefacto mismo deben incluirse los siguientes textos de advertencia en una tipografía de tamaño mínimo de 3 mm y con un contraste cromático que los haga fácilmente legibles:
+
+      "Este artefacto cuenta con un dispositivo de seguridad especial para prevenir accidentes por monóxido de carbono (CO). No obstante, ello no habilita la instalación del artefacto en baños ni dormitorios, ni evita las exigencias reglamentarias de ventilación del ambiente".
+
+      "Cualquier manipulación de los dispositivos de seguridad, más allá de la limpieza de su filtro, entraña un grave riesgo para la salud, cuyas consecuencias serán responsabilidad de quien la efectuará".
+6

@@ -1,0 +1,331 @@
+Resolución GMC N° 35/19
+Título: REGLAMENTO TÉCNICO MERCOSUR DE LIMITADORES DE VELOCIDAD
+Fecha de aprobación: 15/07/2019
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 73865_RES_035- 2019_ES_RTM Limitadores Velocidad.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3766).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 35/19
+
+
+REGLAMENTO TÉCNICO MERCOSUR DE LIMITADORES DE VELOCIDAD
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 38/98 y 45/17 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+Que el MERCOSUR implica un espacio integrado en el cual es necesario adoptar medidas que faciliten la circulación de vehículos.
+
+Que es necesario establecer los requisitos técnicos que deben cumplir los dispositivos limitadores de velocidad de vehículos que circulan en los Estados Partes, con el fin de garantizar la seguridad de los pasajeros en su utilización.
+
+Que es necesario establecer los procedimientos de ensayo para la utilización de los dispositivos limitadores de velocidad para contribuir a la seguridad del tránsito.
+
+
+El GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR de Limitadores de Velocidad" que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - El presente Reglamento establece los requisitos técnicos de los sistemas de limitadores de velocidad fijo (DLV) o ajustable (DALV) provistos por la terminal automotriz (fábrica) a los vehículos automotores nuevos y/o importados para su homologación y certificación, así como los requisitos técnicos de los sistemas de limitadores de velocidad fijo (DLV) o ajustable (DALV) destinados a ser instalados fuera de la terminal automotriz (fábrica) en vehículos automotores.
+
+Art. 3 - El presente Reglamento se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Compete a los Estados Partes establecer cuándo será aplicado el RTM aprobado por el artículo 1 de esta Resolución, en cuanto a la obligatoriedad de los sistemas de limitadores de velocidad (DLV o DALV) en los vehículos automotores de las diferentes categorías.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/I/2020.
+
+LI GMC Ext. - Santa Fe, 15/VII/19.
+
+
+ANEXO
+
+
+REGLAMENTO TÉCNICO MERCOSUR DE LIMITADORES DE VELOCIDAD
+
+
+1. 	ALCANCE
+
+El presente Reglamento Técnico MERCOSUR (RTM) alcanza a:
+
+1.1. Los dispositivos de limitación de velocidad incorporados por la terminal automotriz (fábrica) en los vehículos de las categorías M2, M3, N2 y N3 y a vehículos de las categorías M y N provistos por la terminal automotriz (fábrica) de un dispositivo/función ajustable de limitación de velocidad (DALV/FALV) que estén diseñados o provistos de tal manera que pueda considerarse que sus componentes cumplen total o parcialmente la función de un DLV o un DALV/FALV, según proceda.
+
+1.2. Los dispositivos de limitación de velocidad destinados a ser instalados en vehículos fuera de la terminal automotriz (fábrica) de las categorías M2, M3, N2 y N3, y DALV destinados a ser instalados fuera de la terminal automotriz (fábrica) en vehículos de las categorías M y N.
+
+2.  	OBJETIVO
+
+2.1. El objetivo del presente RTM es limitar la velocidad de los vehículos en carretera mediante un sistema del vehículo cuya función principal sea controlar la alimentación de combustible del motor o mediante la gestión del motor.
+
+2.2. Los vehículos de las categorías M2, M3, N2 y N3 se limitarán a una velocidad máxima lograda mediante un dispositivo de limitación de velocidad (DLV) o una función de limitación de velocidad (FLV).
+
+2.3. Los vehículos de las categorías M1 y N1 se limitarán a una velocidad fijada voluntariamente por el conductor mediante un dispositivo ajustable de limitación de velocidad (DALV) o por una función ajustable de limitación de velocidad (FALV), cuando dicho dispositivo o dicha función estén activados.
+
+2.4. Asimismo, los vehículos de las categorías M2, M3, N2 y N3 podrán estar provistos de un DALV o una FALV. Sin embargo, la velocidad límite ajustada por el conductor no podrá sobrepasar la velocidad máxima configurada en el DLV, aun incluso de forma involuntaria.
+
+3. DOCUMENTO DE REFERENCIA
+
+Reglamento Naciones Unidas N° 89, del Foro Mundial para la Armonización de los Reglamentos sobre vehículos (WP29) y su Anexo 5, Enmienda 2 y su Anexo 6, Enmienda 2, publicados el 24 de febrero del 2011.
+
+
+4. 	DEFINICIONES/SIGLAS
+
+A los efectos del presente RTM se entiende por:
+
+4.1. 	Limitación de velocidad (V): la velocidad máxima del vehículo, cuyo diseño o equipamiento no permite una respuesta después de una acción positiva sobre el mando del acelerador.
+
+4.2. 	Velocidad media de seteo (Vset): la velocidad media del vehículo prevista operando en una condición estabilizada acorde al presente RTM, conforme el Reglamento Naciones Unidas N° 89, Anexo 5.
+
+4.3. 	Velocidad estabilizada (Vstab): la velocidad media del vehículo cuando opera en la condición especificada en el apartado 6 del presente RTM, conforme el Reglamento Naciones Unidas N° 89, Anexo 5.
+
+4.4. 	Velocidad máxima (Vmax): la velocidad máxima alcanzada por el vehículo en el primer semiperíodo de la curva de respuesta como se define en la figura en el numeral 6 del presente RTM, conforme el Reglamento Naciones Unidas N° 89, Anexo 5, apartado 1.1.4.2.4.
+
+4.5 	Velocidad limitada ajustable (Vadj): la velocidad fijada voluntariamente por el conductor.
+
+4.6. 	Función ajustable de limitación de velocidad (FALV): la función que permite al conductor fijar una velocidad limitada (Vadj) y que, cuando está activada, limita automáticamente el vehículo a dicha velocidad.
+
+4.7. 	Función de limitación de velocidad: la función destinada a controlar la alimentación de combustible del vehículo o la gestión del motor para limitar la velocidad del vehículo a un valor máximo fijado.
+
+4.8 Dispositivo de limitación de velocidad "DLV" (SLD-Speed Limitation of Devices): un dispositivo cuya principal función es la de controlar la alimentación de combustible al motor con el fin de limitar la velocidad del vehículo en el valor especificado.
+
+4.9. 	Tipo de DLV: los DLV que no difieren respecto a sus características esenciales, como: la marca y el tipo del dispositivo, la gama de valores de la velocidad a la que se puede fijar el DLV o el método utilizado para controlar la alimentación del motor.
+
+4.10.  Dispositivo ajustable de limitación de velocidad (DALV): el dispositivo que permite al conductor fijar una velocidad limitada ajustable (Vadj) y que cuando está activado, limita automáticamente el vehículo a dicha velocidad.
+
+4.11. 	Tipo de vehículo: vehículos que no difieran entre sí, en aspectos esenciales como:
+
+4.11.1. La marca y el tipo de Dispositivo Limitadores de Velocidad (Speed Limitation of Devices - SLD), en su caso.
+
+4.11.2. La gama de velocidades en las que el límite se puede establecer dentro los rangos establecidos para el vehículo sometido a ensayo.
+
+4.11.3. La relación potencia máxima del motor/masa en vacío debe ser inferior o igual a la del vehículo sometido a ensayo.
+
+4.11.4. La máxima relación entre la velocidad del motor y la velocidad del vehículo en su marcha más alta, debe ser menor o igual a la del vehículo sometido a ensayo.
+
+4.12. Masa en vacío: la masa del vehículo en orden de marcha sin tripulación, pasajeros o carga, pero con el depósito de combustible lleno y el juego habitual de herramientas y rueda de repuesto a bordo, en su caso.
+
+5. 	REQUISITOS
+
+5.1. 	El dispositivo de limitación de velocidad debe ser tal que el vehículo en condiciones normales de uso a pesar de las vibraciones a que pueda estar sometido, cumpla con las disposiciones del presente RTM, conforme lo establece el Reglamento Naciones Unidas N° 89, Anexo 5.
+
+5.2. 	El DLV o el DALV del vehículo deberá diseñarse, fabricarse y montarse de modo que resista los fenómenos de corrosión y envejecimiento a que pueda estar expuesto, así como a manipulaciones, de conformidad con el numeral 5.8 del presente Anexo.
+
+5.3. 	El umbral de limitación no se deberá aumentar o eliminar provisional o permanentemente en los vehículos que se utilicen.
+
+5.4. 	La función del dispositivo de limitación de velocidad y las conexiones necesarias para su operación, excepto las esenciales para el funcionamiento del vehículo, deberán ser protegidas de cualquier ajuste no autorizado y de la interrupción del suministro de energía, mediante un sistema que asegure su inviolabilidad.
+
+5.5. 	La función del dispositivo de limitación de velocidad no podrá accionar el sistema de frenado del vehículo. Un freno permanente (por ejemplo, retardador) puede ser incorporado únicamente si actúa después de que la función limitadora de velocidad haya restringido la cantidad de combustible a la posición mínima de combustible.
+
+5.6. 	La función del DLV o el DALV no deberá afectar a la velocidad del vehículo en circulación si se aplica una acción positiva en el acelerador cuando el vehículo circula a la velocidad fijada.
+
+5.7. 	La función del DLV o el DALV debe permitir el control normal del acelerador a los efectos del cambio de marchas.
+
+5.8. 	Ningún mal funcionamiento o interferencias no autorizadas podrán dar lugar a un aumento de la potencia del motor por encima de lo exigido por la posición del acelerador del conductor.
+
+5.9. 	Si hay más de un mando del acelerador que el conductor pueda alcanzar desde su asiento, se obtendrá la función del DLV o el DALV independientemente de cuál sea el mando utilizado.
+
+5.10. La función del DLV o el DALV no debe ser afectada por perturbaciones electromagnéticas.
+
+5.11. Todos los componentes necesarios para el perfecto funcionamiento del DLV o el DALV deberán activarse cada vez que el vehículo se encuentra en marcha.
+
+6. 	PRUEBAS, ENSAYO Y REQUISITOS DE FUNCIONAMIENTO
+
+6.1. 	Los estándares mínimos para el procedimiento de ensayo y los requerimientos del Sistema de Limitador de Velocidad "DLV", serán los establecidos en el Apéndice  1 del presente RTM, conforme el Reglamento Naciones Unidas N° 89, Anexo 5, Enmienda 2, publicada el 24 de febrero del 2011.
+
+6.2. 	Los estándares mínimos para el procedimiento de ensayo y los requerimientos del dispositivo/función ajustable de limitación de velocidad "DALV/FALV", serán los establecidos en el Apéndice 2 del presente RTM, conforme el Reglamento Naciones Unidas N° 89, Anexo 6, Enmienda 2, publicada el 24 de febrero del 2011.
+
+
+APÉNDICE 1
+ENSAYOS Y REQUISITOS DE RENDIMIENTO
+ENSAYOS DE LIMITACIÓN DE VELOCIDAD
+
+A petición de los que solicitan la homologación, se realizarán ensayos de conformidad con los numerales 1.1, 1.2 o 1.3 del presente Apéndice.
+
+1.1.	MEDIDA EN PISTA DE ENSAYOS
+1.1.1.	Preparación del vehículo
+1.1.1.1.	Se presentará al servicio técnico un vehículo representativo del tipo de vehículo que debe homologarse o un DLV/DALV representativo del tipo de DLV/DALV, según proceda.
+1.1.1.2.	Las regulaciones del motor del vehículo de ensayo, en especial la alimentación del motor (sistema de carburador o de inyección) se ajustarán a las especificaciones del fabricante del vehículo.
+1.1.1.3.	Los neumáticos estarán encajados y su presión será la especificada por el fabricante para el vehículo.
+1.1.1.4.	La masa del vehículo será igual a la masa en vacío declarada por el fabricante.
+
+1.1.2.	Características de la pista de ensayos
+1.1.2.1.	La superficie de ensayo será la adecuada para poder mantener una velocidad estable y no habrá desniveles.
+Las pendientes no serán superiores al 2 % y no variarán en más de un 1 % sin contar con los peraltes.
+1.1.2.2.	No podrá haber charcos, nieve ni hielo en la superficie de ensayo.
+
+1.1.3.	Condiciones atmosféricas
+1.1.3.1 	La velocidad media del viento medida a una altura de por lo menos 1 m por encima del suelo será de menos de 6 m/s, con ráfagas que no sobrepasen los 10 m/s.
+
+1.1.4.	Método de ensayos de aceleración (véase la figura)
+1.1.4.1.	El vehículo, cuando circule a una velocidad de 10 km/h por debajo de la fijada, se acelerará al máximo realizando una acción totalmente positiva sobre el mando del acelerador. Dicha acción deberá mantenerse durante al menos 30 segundos tras la estabilización de la velocidad del vehículo. La velocidad instantánea del vehículo se registrará durante el ensayo con el fin de establecer la curva de velocidad frente al tiempo y mientras se aplique la función de limitación de velocidad/función ajustable de limitación de velocidad o el DLV/DALV, según proceda. La precisión de las mediciones de velocidad será de ± 1 %. La precisión de la medición del tiempo será inferior a 0,1 s.
+1.1.4.2.	El ensayo se considerará satisfactorio si se cumplen las siguientes condiciones:
+1.1.4.2.1.	La velocidad estabilizada alcanzada por el vehículo no superará la velocidad fijada (Vstab ≤ Vset). No obstante, podrá aceptarse el más alto de los siguientes márgenes de tolerancia: 5 % del valor de Vset o 5 km/h.
+
+
+1.1.4.2.2.	Después de alcanzar por primera vez la velocidad estabilizada:
+1.1.4.2.2.1.	La Vmax no superará la Vstab en más del 5 %;
+1.1.4.2.2.2.	El ritmo de cambio de velocidad no será superior a 0,5 m/s2 cuando se mida en un período de tiempo superior a 0,1 s;
+1.1.4.2.2.3.	Las condiciones de velocidad estabilizada especificadas en el punto 1.1.4.2.3 se alcanzarán a los 10 s de alcanzar por primera vez la Vstab.
+1.1.4.2.3.	Cuando se haya conseguido el control estable de la velocidad:
+1.1.4.2.3.1.	La velocidad no variará en el máximo de los valores siguientes: en más de un 4 % de la Vstab o en más de 2 km/h;
+1.1.4.2.3.2.	El ritmo de cambio de velocidad no será superior a 0,2 m/s2 cuando se mida en un período de tiempo superior a 0,1 s;
+1.1.4.2.3.3.	La Vstab es la velocidad media calculada durante un intervalo de tiempo mínimo de 20 segundos que comience 10 segundos después de haber alcanzado la Vstab.
+1.1.4.2.4.	Se realizarán ensayos de aceleración y se verificarán los criterios de aceptación para cada relación de transmisión que permita sobrepasar el límite de velocidad.
+
+
+A Vmax es la velocidad máxima alcanzada por el vehículo en el primer semiperíodo de la curva de respuesta.
+
+1.1.5.	Método de ensayo a velocidad constante
+1.1.5.1.	El vehículo se conducirá acelerando a fondo hasta alcanzar la velocidad constante y a continuación se mantendrá en esta velocidad sin modificación alguna en una base de ensayos de 400 m, como mínimo. La velocidad media del vehículo se medirá en esta base de ensayos. Seguidamente, se repetirá la medición de la velocidad media en la misma base de ensayos, pero conduciéndolo en dirección opuesta y con arreglo a los mismos procedimientos.
+La velocidad de estabilización de todo el ensayo que acaba de definirse será la media de las dos velocidades medias medidas en las rutas de ida y de vuelta de la base de ensayos. La totalidad del ensayo, incluido el cálculo de la velocidad de estabilización, se realizará cinco veces. Las mediciones de velocidad se realizarán con una precisión de ± 1 % y las mediciones de tiempo, con una precisión de 0,1 s.
+1.1.5.2.	Los ensayos se considerarán satisfactorios si se cumplen las siguientes condiciones:
+1.1.5.2.1.	En ningún ensayo la Vstab superará la Vset. No obstante, podrá aceptarse el más alto de los siguientes márgenes de tolerancia: 5 % del valor de Vset o 5 km/h.
+1.1.5.2.2.	La diferencia entre las velocidades de estabilización obtenidas durante cada ensayo será igual o inferior a 3 km/h.
+1.1.5.2.3.	Se realizarán ensayos a una velocidad constante y se verificarán los criterios de aceptación para cada relación de transmisión que permita sobrepasar el límite de velocidad.
+
+1.2.	ENSAYOS EN EL BANCO DINAMOMÉTRICO
+
+1.2.1.	Características del banco dinamométrico
+La inercia equivalente de la masa del vehículo se reproducirá en el banco dinamométrico con una precisión de ± 10 %. La velocidad del vehículo se medirá con una precisión de ± 1 %. El tiempo se medirá con una precisión de 0,1 s.
+
+1.2.2.	Método de ensayos de aceleración
+1.2.2.1.	La potencia absorbida por el freno durante el ensayo se fijará para que se corresponda con la resistencia del vehículo a avanzar progresivamente a la velocidad o a las velocidades objeto del ensayo. Dicha potencia podrá establecerse mediante cálculos y se fijará con una precisión de ± 10 %. A petición del solicitante y de acuerdo con la autoridad competente, la potencia absorbida podrá también fijarse en 0,4 Pmax (Pmax es la potencia máxima del motor). El vehículo que circule a una velocidad de 10 km/h por debajo de su velocidad establecida Vset se acelerará hasta la capacidad máxima del motor ejerciendo una acción totalmente positiva sobre el mando de aceleración.
+Dicha acción deberá mantenerse durante al menos 20 segundos tras la estabilización de la velocidad del vehículo. La velocidad instantánea del vehículo se registrará durante el ensayo con el fin de trazar la curva de velocidad frente al tiempo y mientras se aplique la función de limitación de velocidad/función ajustable de limitación de velocidad o el DLV/DALV, según proceda.
+1.2.2.2.	El ensayo se considerará satisfactorio cuando se cumplan los requisitos especificados en el numeral 1.1.4.2 y sus subnumerales.
+
+1.2.3.	Método de ensayo para el ensayo de velocidad constante
+1.2.3.1.	El vehículo se situará en el banco dinamométrico. Deberían cumplirse los siguientes criterios de aceptación para la variación progresiva de la potencia absorbida por el banco dinamométrico desde la potencia máxima, Pmax, hasta un valor igual a 0,2 Pmax. La velocidad del vehículo se registrará en la gama completa de potencias que se acaba de definir.
+La velocidad máxima del vehículo se determinará en esta gama. El ensayo y el registro definidos se realizarán cinco veces.
+1.2.3.2.	Los ensayos se considerarán satisfactorios cuando se cumplan los requisitos especificados en el numeral 1.1.5.2 y sus subnumerales.
+
+1.3.	ENSAYO EN EL BANCO DE ENSAYO DE MOTORES
+
+1.3.1. Este procedimiento de ensayo podrá emplearse únicamente cuando el solicitante demuestre a satisfacción de los servicios técnicos que este método es equivalente a la medición realizada en la pista de ensayos.
+
+2. ENSAYO DE RESISTENCIA
+
+La función de limitación de velocidad/función ajustable de limitación de velocidad o el DLV/DALV, según proceda, se someterán al ensayo de durabilidad que se indica a continuación. No obstante, podrá omitirse si el solicitante demuestra la resistencia a esos efectos.
+
+2.1.	El dispositivo se someterá a un ciclo de ensayos en un banco en el que se simularán los efectos y el movimiento que el DLV/DALV experimentaría en el vehículo.
+2.2.	El fabricante suministrará un sistema de control que mantendrá el ciclo en funcionamiento. A continuación aparece el diagrama del ciclo:
+
+
+t0 - t1, t2 - t3, t4 - t5, t6 - t7: el tiempo utilizado para realizar esta operación
+t1 - t2 = 2 segundos
+t3 - t4 = 1 segundo
+t5 - t6 = 2 segundos
+t7 - t8 = 1 segundo
+
+
+A continuación se definen cinco situaciones. Las muestras del DLV/DALV que se hayan presentado para su homologación se someterán a esas situaciones con arreglo al siguiente cuadro:
+
+
+Primer DLV/DALV
+Segundo DLV/DALV
+Tercer DLV/DALV
+Cuarto
+DLV/DALV
+Situación 1
+X
+
+
+Situación 2
+
+X
+
+
+Situación 3
+
+X
+
+
+Situación 4
+
+
+X
+
+Situación 5
+
+
+X
+
+2.2.1.	Situación 1: ensayos a temperatura ambiente (20 °C ± 2 °C).
+Número de ciclos: 50 000.
+
+2.2.2.	Situación 2: ensayos a temperaturas elevadas.
+2.2.2.1.	Componentes electrónicos
+Los componentes se someterán a ciclos en una cámara climática. Se mantendrá una temperatura de 65 °C ± 5 °C durante toda la operación.
+Número de ciclos: 12 500.
+2.2.2.2.	Componentes mecánicos
+Los componentes se someterán a ciclos en una cámara climática. Se mantendrá una temperatura de 100 °C ± 5 °C durante toda la operación.
+Número de ciclos: 12 500.
+
+2.2.3.	Situación 3: ensayos a bajas temperaturas.
+En la cámara climática utilizada para la situación 2, se mantendrá una temperatura de - 20 °C ± 5 °C durante toda la operación.
+Número de ciclos: 12 500.
+
+2.2.4.	Situación 4: ensayos en atmósfera salada (únicamente para los componentes que estén expuestos al entorno exterior en carretera).
+El dispositivo se someterá a ciclos en una cámara con atmósfera salada. La concentración de cloruro de sodio será del 5 % y la temperatura interior de la cámara climática será de 35 °C ± 2 °C.
+Número de ciclos: 12 500.
+
+2.2.5.	Situación 5: ensayo de vibración
+2.2.5.1.	El DLV/DALV se montará de modo parecido a como vaya montado en el vehículo.
+2.2.5.2.	Se aplicarán vibraciones sinusoidales en los tres planos. La curva logarítmica será de una octava por minuto.
+2.2.5.2.1.	Primer ensayo: gama de frecuencias 10-24 Hz, amplitud ± 2 mm.
+2.2.5.2.2.	Segundo ensayo: gama de frecuencias 24-1 000 Hz; los componentes montados en el bastidor y la cabina se someterán a 2,5 g; los componentes montados en el motor se someterán a 5 g.
+
+2.3.	CRITERIOS DE ACEPTACIÓN DE LOS ENSAYOS DE RESISTENCIA
+
+2.3.1.	Al final de los ensayos de resistencia no se observarán modificaciones en las prestaciones del dispositivo respecto a la velocidad fijada.
+2.3.2.	Sin embargo, si el dispositivo fallara durante uno de los ensayos de resistencia, podrá presentarse otro dispositivo a dichos ensayos a petición del fabricante.
+3.1.
+
+APÉNDICE 2
+
+ENSAYOS Y REQUISITOS DE RENDIMIENTO PARA LOS DALV
+ENSAYOS DEL SISTEMA AJUSTABLE DE LIMITACIÓN DE VELOCIDAD
+
+1.1.	Preparación del vehículo
+1.1.1.	Se presentará al servicio técnico un vehículo representativo del tipo de vehículo que debe homologarse o un DALV representativo del tipo de DALV, según proceda.
+1.1.1.1.	En caso de que se vaya a homologar un DALV, el fabricante lo fijará a un vehículo que sea representativo del tipo al que el dispositivo está destinado.
+1.1.2.	Las regulaciones del motor del vehículo de ensayo, en especial la alimentación del motor (sistema de carburador o de inyección) se ajustarán a las especificaciones del fabricante del vehículo.
+1.1.3.	Los neumáticos estarán encajados y su presión será la especificada por el fabricante para el vehículo.
+1.1.4.	La masa de vehículo será el peso mínimo en vacío declarado por el fabricante.
+
+1.2.	Características de la pista de ensayos
+1.2.1.	La superficie de ensayo será la adecuada para poder mantener una velocidad estable y no habrá desniveles.
+Las pendientes no serán superiores al 2 %.
+1.2.2.	No podrá haber charcos, nieve ni hielo en la superficie de ensayo.
+
+1.3.	Condiciones atmosféricas
+1.3.1.	La velocidad media del viento medida a una altura de por lo menos 1 m por encima del suelo será de menos de 6 m/s, con ráfagas que no sobrepasen los 10 m/s.
+
+1.4.	Ensayo para el conductor al que se informa que se está superando la Vadj.
+1.4.1.	Se aplicará una acción positiva (por ejemplo, pisando el acelerador a fondo) requerida para permitir que supere la Vadj cuando el vehículo circule a una velocidad inferior en 10 km/h a la Vadj.
+1.4.2.	Se acelerará el vehículo hasta una velocidad superior, como mínimo, en 10 km/h a la Vadj.
+1.4.3.	Se mantendrá esta velocidad durante 30 segundos como mínimo.
+1.4.4.	La velocidad instantánea del vehículo se registrará durante el ensayo y se medirá con una precisión de ± 1 %.
+1.4.5.	El ensayo se considerará satisfactorio si se cumplen las siguientes condiciones:
+1.4.5.1.	Se informará al conductor mediante una señal de alarma cuando la velocidad real del vehículo supere la Vadj en 3 km/h;
+1.4.5.2.	Se seguirá informando al conductor durante todo el tiempo en que se supere la Vadj en más de 3 km/h.
+
+1.5.	Ensayo de la función/del dispositivo ajustable de limitación de velocidad.
+1.5.1.	Con la FALV o el DALV desactivados, en cada relación de marcha seleccionada para la Vadj de ensayo elegida, el servicio técnico medirá las fuerzas necesarias en el mando del acelerador para mantener la Vadj y una velocidad (Vadj*), que sea un 20 % o 20 km/h más rápida (la mayor de las dos) que la Vadj.
+1.5.2.	Con la FALV o el DALV activados y a la Vadj, el vehículo irá a una velocidad inferior a la Vadj en 10 km/h. Entonces se acelerará el vehículo aumentando la fuerza ejercida sobre el mando del acelerador durante 1 s ± 0,2 s hasta que se alcance la Vadj*. La fuerza se mantendrá durante un tiempo no inferior a 30 segundos tras la estabilización de la velocidad del vehículo.
+1.5.3.	La velocidad instantánea del vehículo se registrará durante el ensayo con el fin de establecer la curva de la velocidad frente al tiempo mientras funcione la FALV o el DALV, según proceda. La precisión de la medición de la velocidad será de ± 1 %. La precisión de la medición del tiempo será inferior a 0,1 s.
+1.5.4.	El ensayo se considerará satisfactorio si se cumplen las siguientes condiciones:
+1.5.4.1.	La velocidad estabilizada (Vstab) alcanzada por el vehículo no superará la Vadj en más de 3 km/h.
+1.5.4.1.1.	Una vez que la Vstab se haya alcanzado por primera vez:
+1.5.4.1.1.1.	la Vmax no superará a la Vstab en más del 5 %;
+1.5.4.1.1.2.	el ritmo de cambio de velocidad no será superior a 0,5 m/s2 cuando se mida en un período de tiempo superior a 0,1 s;
+1.5.4.1.1.3.	las condiciones de velocidad estabilizada especificadas en el punto 1.5.4.1.1 se alcanzarán a los 10 s de alcanzar por primera vez la Vstab.
+1.5.4.1.2.	Cuando se haya conseguido el control estable de la velocidad:
+1.5.4.1.2.1.	la velocidad no variará en más de 3 km/h respecto a la Vadj;
+1.5.4.1.2.2.	el ritmo de cambio de velocidad no será superior a 0,2 m/s2 cuando se mida en un período de tiempo superior a 0,1 s;
+1.5.4.1.2.3.	la Vstab es la velocidad media calculada durante un intervalo de tiempo mínimo de 20 segundos que comience 10 segundos después de haber alcanzado la Vstab.
+1.5.4.1.3.	Se realizarán ensayos de aceleración y se comprobarán los criterios de aceptación para cada relación de marchas que, en teoría, permita alcanzar la Vadj*.
+
+
+2

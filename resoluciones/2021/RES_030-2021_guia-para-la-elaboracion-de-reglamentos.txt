@@ -1,0 +1,480 @@
+Resolución GMC N° 30/21
+Título: GUÍA PARA LA ELABORACIÓN DE REGLAMENTOS TÉCNICOS MERCOSUR Y PROCEDIMIENTOS MERCOSUR DE EVALUACIÓN DE LA CONFORMIDAD
+Fecha de aprobación: 18/11/2021
+Vigencia: Vigente (Vigente desde su aprobación el 18/11/2021 - Articulo 5 a) Decisión CMC Nº 23/00.)
+Idioma del texto: ES
+Archivo original: 87196_ATT2TM6X.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4171).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 30/21
+
+
+GUÍA PARA LA ELABORACIÓN DE REGLAMENTOS TÉCNICOS MERCOSUR Y PROCEDIMIENTOS MERCOSUR DE EVALUACIÓN DE LA CONFORMIDAD
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 58/00 del Consejo del Mercado Común y las Resoluciones Nº 19/92, 38/98, 45/17 y 57/18 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que resulta necesario complementar y profundizar los procedimientos para la elaboración de Reglamentos Técnicos MERCOSUR y Procedimientos MERCOSUR de Evaluación de la Conformidad, a fin de avanzar en el proceso de armonización y evitar las barreras técnicas al comercio.
+
+Que resulta necesario establecer una estructura única para los Reglamentos Técnicos MERCOSUR y Procedimientos MERCOSUR de Evaluación de la Conformidad.
+
+Que resulta necesario alinear las prácticas de reglamentación del MERCOSUR a las mejores prácticas reglamentarias establecidas en los organismos internacionales.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la "Guía para la elaboración de Reglamentos Técnicos MERCOSUR y Procedimientos MERCOSUR de Evaluación de la Conformidad", la "Evaluación de Riesgos Reglamentarios" y los "Esquemas de Certificación de Productos"  que constan como Anexos I, II y III, respectivamente, y forman parte de la presente Resolución.
+
+Art. 2 - Derogar la Resolución GMC Nº 19/92.
+
+Art. 3 - Esta Resolución no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de la organización o del funcionamiento del MERCOSUR.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 18/XI/21.
+
+ANEXO I
+GUÍA PARA LA ELABORACIÓN DE REGLAMENTOS TÉCNICOS MERCOSUR Y PROCEDIMIENTOS MERCOSUR DE EVALUACIÓN DE LA CONFORMIDAD
+
+
+I. OBJETIVO
+La presente Guía tiene como objetivo establecer recomendaciones para la elaboración de Reglamentos Técnicos MERCOSUR (RTMs) y Procedimientos MERCOSUR de Evaluación de la Conformidad (PMECs).
+
+II. ALCANCE
+Esta Guía contiene una estructura general para los Reglamentos Técnicos MERCOSUR y Procedimientos MERCOSUR de Evaluación de la Conformidad.
+
+III. TÉRMINOS Y DEFINICIONES
+
+Las definiciones necesarias para la elaboración de RTMs y PMECs se encuentran establecidas en la Resolución GMC Nº 45/17 y en la Resolución GMC Nº 57/18.
+
+A los fines de esta Guía, se entiende que elaboración también contempla la revisión de RTMs y PMECs.
+
+IV. NORMAS Y DOCUMENTOS DE REFERENCIA:
+
+* Decisión CMC N° 20/02 "Perfeccionamiento del sistema de incorporación de la normativa MERCOSUR al ordenamiento jurídico de los Estados Partes", sus modificatorias y/o complementarias.
+* Resolución GMC N° 38/98 "Ámbito de aplicación de los Reglamentos Técnicos MERCOSUR".
+* Resolución GMC N° 26/01 "Actas y Documentos del MERCOSUR", sus modificatorias y/o complementarias.
+* Resolución GMC N° 45/17 "Procedimientos para la elaboración, revisión y derogación de Reglamentos Técnicos MERCOSUR y Procedimientos MERCOSUR de Evaluación de la Conformidad".
+* Resolución GMC N° 57/18 "Glosario de términos relativos a Reglamentos Técnicos y Evaluación de la Conformidad (Derogación de la Resolución GMC Nº 24/03)".
+* Resolución GMC que apruebe los requisitos a cumplir por las estructuras y los esquemas de evaluación de la conformidad en los Estados Partes.
+* Norma ISO/IEC 17000:2020 - Evaluación de la Conformidad -Vocabulario y Principios Generales.
+* Norma NM ISO/IEC 17007:2009 - Evaluación de la Conformidad - Guía para la Elaboración de Documentos Normativos Adecuados para su Uso en la Evaluación de la Conformidad.
+* Norma NM ISO/IEC 17067:2015 - Evaluación de la Conformidad - Fundamentos de la Certificación de Producto y Directrices para los Esquemas de Certificación de Producto.
+* Norma NM ISO 31000:2018 - Gestión del riesgo. Directrices.
+* Guía ISO/IEC 2: 2004: Vocabulario de Normalización.
+* Norma NM ISO GUÍA 73:2013 - Gestión del Riesgo - Vocabulario.
+* Documento ECE/TRADE/C/WP.6/2011/4 "R. Managing Risk in Regulatory Frameworks".
+* Otras normas NM ISO/IEC de interés: 17011 (acreditación), 17020 (inspección), 17025 (laboratorios) y 17065 (certificación), en sus versiones vigentes. Estas normas, originadas en el Comité ISO CASCO, siguen una dinámica de revisión periódica cuyos requisitos revisados se vuelven obligatorios en los procesos de acreditación e influencian la acreditación en el Foro Internacional de Acreditación (IAF), Cooperación Internacional de Acreditación de Laboratorios (ILAC) y Cooperación Interamericana de Acreditación (IAAC). Por lo tanto, se sugiere una revisión periódica de las normas originadas en ISO/CASCO y su adopción como normas de la Asociación MERCOSUR de Normalización (AMN) en los PMECs, con vistas a mantenerlos alineados con los requisitos de los acuerdos multilaterales de acreditación de los cuales los Estados Partes sean signatarios.
+
+V. DIRECTRICES GENERALES PREVIAS A LA ELABORACIÓN DE REGLAMENTOS TÉCNICOS MERCOSUR Y PROCEDIMIENTOS MERCOSUR DE EVALUACIÓN DE LA CONFORMIDAD
+
+V.1 	PRINCIPIOS DE BUENAS PRÁCTICAS DE REGLAMENTACIÓN
+En la elaboración de RTMs y PMECs deben respetarse, entre otros, los siguientes principios:
+
+V.1.1. Los RTMs deben ser elaborados con el fin de corregir los eventuales problemas que se identifiquen, estableciendo requisitos fundamentados en el mejor conocimiento científico disponible y en las mejores prácticas de reglamentación internacionales vinculadas con los objetivos legítimos del Acuerdo sobre Obstáculos Técnicos al Comercio (Acuerdo OTC) de la Organización Mundial de Comercio (OMC), entre ellos, proteger al consumidor y promover la competencia  de los productos nacionales e importados sobre la base de la seguridad y cumplimiento de requisitos, sin inhibir la innovación tecnológica.
+
+V.1.2. Los RTMs y los PMECs deben ser elaborados a través del diálogo con las partes interesadas, salvo situaciones de urgencia.
+
+V.1.3. La decisión de reglamentar debe tener en cuenta tanto los costos y beneficios de la aplicación de la reglamentación, como los impactos, positivos y negativos, generados por la misma, y sus riesgos asociados, observando los elementos de la Resolución GMC Nº 45/17.
+
+V.1.4. Los RTMs y los PMECs deben ser elaborados teniendo en cuenta los riesgos.
+
+V.1.5. Los PMECs deben considerar las asimetrías de los sistemas nacionales de evaluación de la conformidad de los Estados Partes.
+
+V.1.6. Los RTMs deben someterse a evaluación periódica de resultados. Las oportunidades de perfeccionamiento de los RTMs siguen los mismos principios anteriormente descriptos, con el fin de no obstaculizar la innovación y la consecución de objetivos legítimos necesarios para el desarrollo de los Estados Partes.
+
+V.2	ESTABLECIMIENTO DE LOS OBJETIVOS DEL RTM Y/O PMEC
+
+Antes de proponer una nueva reglamentación en el ámbito del MERCOSUR, se debe evaluar en cada Estado Parte si un RTM es el mejor enfoque para resolver el problema identificado.
+
+Para ello, previamente los Estados Partes deben describir cuál es el problema identificado y sus riesgos (ver Anexo II de esta Guía), a fin de evaluar la pertinencia de la elaboración de RTMs y PMECs. Este estudio quedará reflejado en el formulario de solicitud de elaboración que consta como Apéndice de la Resolución GMC N° 45/17.
+
+Los objetivos del RTM o PMEC deberán ser establecidos en función de los problemas identificados. El problema identificado debe ser común y estar presente en todos los Estados Partes para que un eventual RTM o PMEC pueda resolverlo, facilitando el intercambio comercial entre los Estados Partes.
+
+El proceso de establecimiento de los objetivos del marco regulatorio debe ser realizado por la autoridad reguladora, pudiendo tomar en cuenta los elementos originados de la consulta con las partes interesadas, considerando los siguientes aspectos:
+
+      a.	El problema a resolver;
+      b.	El comercio entre los Estados Partes;
+      c.	Las expectativas de la sociedad;
+      d. La protección de los consumidores;
+      e.	Las obligaciones internacionales;
+      f.	Los impactos económicos, sociales y ambientales;
+      g.	Los riesgos involucrados.
+
+Como resultado de este proceso, serán definidos los objetivos de los RTMs y los criterios a ser utilizados para evaluar los riesgos. Deben seleccionarse criterios apropiados para decidir qué riesgos son tolerables. El nivel de tolerancia establecido será el mecanismo a ser utilizado para alcanzar el equilibrio regulatorio.
+
+VI.  LINEAMIENTOS GENERALES PARA LA ELABORACIÓN, ESTRUCTURA Y CONTENIDO DE RTM Y DE PMEC
+
+VI.1.  CONSIDERACIONES GENERALES
+
+Los RTMs y sus respectivos PMECs deben ser elaborados conjuntamente, salvo excepciones justificadas y deben, en general, incluirse en un único proyecto de Resolución.
+
+Los proyectos de RTMs y PMECs, deben cumplir con los procedimientos de elaboración e incorporación establecidos por las normas vigentes del MERCOSUR, entre ellas la Resolución GMC N° 45/17 y la Decisión CMC N° 20/02.
+
+La realización de Consulta Pública sobre los proyectos de RTMs y PMECs en cada Estado Parte es importante. Las contribuciones que fueran aceptadas por cada Estado Parte deberán ser consolidadas en un único documento en el ámbito del foro MERCOSUR correspondiente.
+
+El proyecto de Resolución GMC que aprueba el RTM y/o PMEC debe elaborarse de conformidad con lo establecido en la Resolución GMC N° 26/01, sus modificatorias y/o complementarias, y el RTM y/o PMEC debe constar como anexo.
+
+El foro del MERCOSUR que elabore un RTM o PMEC debe incluir, en los considerandos del proyecto de Resolución, las razones y los objetivos del RTM o PMEC.
+
+Como ejemplo, el Apéndice I presenta un modelo de proyecto de Resolución que aprueba un RTM o PMEC, el cual podrá ser adaptado de acuerdo con las particularidades de los temas reglamentados.
+
+VI.2.	ORIENTACIONES DE REDACCIÓN DE RTM Y PMEC
+
+Se recomienda describir los distintos requerimientos en uno o más ítems cortos para garantizar la simplicidad, la lógica y la fluidez del texto, así como facilitar su revisión.
+
+Deben colocarse subtítulos siempre que sea posible. En los subtítulos, los ítems deben organizarse por temas o procesos, o de otra manera que facilite su comprensión.
+
+Las prescripciones deben establecerse de modo objetivo. Deben evitarse los párrafos extensos.
+
+La redacción de los RTMs y PMECs debe ser clara, consistente, concisa, exhaustiva y accesible a los usuarios.
+
+VI.3 ESTRUCTURA Y CONTENIDO DEL RTM
+La estructura del RTM debe incluir los siguientes puntos:
+a. Título
+b. Objetivo
+c. Alcance/Ámbito de aplicación
+d. Términos y definiciones
+e. Siglas
+f. Normas y documentos de referencia
+g. Requisitos generales y técnicos
+h. Referencia al PMEC
+i. Apéndices
+
+VI.3.1	TÍTULO
+Se debe indicar claramente en el título el objeto a reglamentar.
+VI.3.2	OBJETIVO
+Se debe describir de manera breve y directa el tema del RTM en consonancia con su título: los problemas que se pretende resolver, especificando claramente cuáles son los productos o procesos alcanzados y utilizando, siempre que sea posible, sus nombres normalizados (los nombres establecidos en normas AMN o internacionales o en documentos de referencia, en español y portugués).
+
+VI.3.3	ALCANCE/ÁMBITO DE APLICACIÓN
+Se deben establecer las condiciones adicionales a las indicadas en el OBJETIVO, para precisar aspectos de aplicación del RTM, tales como formas de presentación, lugares de comercialización, obligaciones de los operadores económicos vinculados a los productos.
+
+VI.3.4	TÉRMINOS Y DEFINICIONES
+
+Se deben incluir y definir los principales términos necesarios para la comprensión e implementación del RTM, incluyendo definiciones propias del producto o de sus partes.
+
+Familia de productos: en algunos casos es necesario definir el concepto de FAMILIA describiendo las características de diseño que son comunes a los distintos modelos del producto.
+
+Este ítem sirve para incluir aquellos términos que no tengan una definición corriente en el MERCOSUR.
+
+En caso de que hubiera definiciones aprobadas en normas del MERCOSUR, en el Acuerdo OTC de la OMC o en normas internacionales, éstas definiciones deben ser utilizadas, asignando la prioridad en el orden citado en caso de que existiera más de una definición.
+
+La Resolución GMC Nº 45/17 define reglamento técnico, norma técnica, procedimiento de evaluación de la conformidad, RTM y PMEC. La Resolución GMC Nº 57/18 contiene un glosario de términos utilizados en la reglamentación y evaluación de la conformidad en el MERCOSUR.
+
+VI.3.5	SIGLAS
+
+Se deben listar en este ítem las siglas utilizadas en el RTM para nombrar términos recurrentes y su significado, a fin de abreviar la redacción del texto.
+
+VI.3.6	NORMAS Y DOCUMENTOS DE REFERENCIA
+
+Se deben listar las referencias normativas internacionales, regionales y nacionales de los Estados Partes o de terceros países cuando fueran consideradas como referencia para el RTM.
+
+Cuando se citen estas referencias se debe indicar el año de aprobación.
+
+Normas técnicas:
+
+a.	Siempre que sea posible, se debe aplicar el principio de referencia a normas para demostrar el cumplimiento de los requisitos reglamentarios;
+b.    El orden jerárquico a aplicar en la referencia a normas será:
+
+i.  Norma internacional;
+ii. Norma MERCOSUR;
+iii. Normas regionales;
+iv. Normas nacionales de los Estados Partes;
+v.  Normas nacionales de terceros países;
+vi. Normas sectoriales;
+vii. Documentos normativos de autoridades sectoriales.
+
+VI.3.7	REQUISITOS GENERALES Y TÉCNICOS
+Condiciones Generales:
+
+a.	Los requisitos que deben cumplir los productos son las prescripciones y mandatos que conforman el cuerpo del documento.
+b.   Los requisitos deben estar en uno o más ítems, para asegurar la simplicidad, lógica y fluidez del texto.
+c. Los ítems deben ser organizados por asunto o tema, estableciendo los requisitos de modo claro y objetivo y evitando los párrafos extensos.
+d.	En el establecimiento de las prescripciones reglamentarias se recomienda la utilización de un abordaje general fundamentado, siempre que fuera posible, en los requisitos de desempeño del producto y no en su diseño, para alcanzar el objetivo propuesto por el RTM, sin inhibir la innovación y el desarrollo tecnológico.
+e.	Cada requisito debe estar acompañado de la referencia al método de ensayo o a lo que corresponda para verificar su cumplimiento, según el carácter del requisito en cuestión.
+
+Los RTMs y sus PMECs deben de ser redactados utilizando, cuando existieren, requisitos derivados de normas técnicas, tal como se indica en el ítem VI.3.6 b).
+
+Cuando no existieran normas o las que existieran no fueran adecuadas, se debe preferentemente solicitar a la AMN la elaboración/revisión de las normas necesarias. En caso de urgencia, el ámbito de la estructura institucional del MERCOSUR que elabore el RTM podrá establecer requisitos y procedimientos en sus documentos propios.
+
+VI.3.8   REFERENCIA AL PMEC
+
+Cuando corresponda se debe incluir la referencia al correspondiente PMEC.
+
+VI.3.9	APÉNDICES
+
+Los apéndices se deben utilizar para detallar prescripciones específicas complementarias o informaciones adicionales.
+
+VII.	LINEAMIENTOS GENERALES PARA LA ELABORACIÓN, ESTRUCTURA Y CONTENIDO DE PMEC
+
+Se establecen a continuación los pasos a seguir en la selección y elaboración de los procedimientos de evaluación de la conformidad que serán aplicados para demostrar el cumplimiento de los requisitos del RTM específico.
+
+VII.1.	GENERALIDADES SOBRE PROCEDIMIENTOS DE EVALUACIÓN DE LA CONFORMIDAD (PEC)
+
+Si bien existen diversas posibilidades, de acuerdo con los riesgos del producto y otras consideraciones que se mencionan a continuación, los PEC más utilizados son los siguientes:
+
+* Esquemas de certificación: aquellos cuya descripción figura en el Anexo III y en la norma NM ISO/IEC 17067:2015. Estos esquemas van desde el caso más simple del esquema tipo 1A hasta el más completo y exigente como el esquema tipo 5.
+
+* Inspección: aquella cuya descripción y requisitos se indican en la norma NM ISO/IEC 17020, en su versión vigente.
+
+* Declaración de conformidad del proveedor: aquella cuya descripción y requisitos se indican en la norma NM ISO/IEC 17050, partes 1 y 2, en su versión vigente.
+
+Nota: en el MERCOSUR se utilizan, generalmente, sólo los esquemas de certificación.
+
+
+VII.2.	CRITERIOS PARA LA SELECCIÓN DEL PMEC
+
+El término Evaluación de la Conformidad es utilizado genéricamente para la demostración de cumplimiento de un RTM.
+
+Los PMEC con un documento normativo (una norma, un reglamento técnico, una especificación) pueden ser: certificación, declaración de conformidad del proveedor e inspección, entre otros.
+
+Los PMEC pueden tener diferentes actividades combinadas, tales como muestreo, ensayos, evaluaciones y auditorías.
+
+En general, para seleccionar el PMEC se deben tener en cuenta aspectos tales como:
+a. Los riesgos;
+b. El menor costo posible para un adecuado nivel de confianza y compatibilidad con el problema a ser resuelto por el RTM;
+c. Las características del producto y el registro histórico de la frecuencia de fallas de producción, si lo hubiera;
+d. El riesgo intrínseco del uso del producto;
+e. El riesgo asociado a un eventual accidente de consumo;
+f. El nivel de confianza en el procedimiento utilizado con relación al riesgo asociado y a la existencia de productos no conformes en el mercado;
+g. La disponibilidad de infraestructura técnica y de laboratorios para realizar los ensayos prescriptos en el RTM y de otros organismos de evaluación de la conformidad (OEC) necesarios para el PMEC;
+h. La rapidez del cambio tecnológico del sector;
+i. El impacto sobre la competitividad del producto;
+j. La dificultad de la vigilancia/fiscalización del mercado;
+k. La compatibilidad con las referencias y prácticas internacionales para facilitar su reconocimiento por otros mercados;
+l. El análisis de las capacidades de los organismos de evaluación de la conformidad presentes en cada uno de los países, de los organismos de acreditación, así como de otros actores involucrados;
+m. La adecuación del esquema de certificación elegido;
+n. Al utilizarse la declaración de conformidad del proveedor se deben tener en cuenta precauciones tales como:
+
+•	que no es recomendable cuando se requiere un grado elevado de seguridad de que sólo los productos conformes estarán disponibles en el mercado;
+•	que, en los casos en que se aplique, debe asegurarse una adecuada vigilancia de mercado (fiscalización) por parte de la autoridad oficial competente.
+
+VII.3.	OTROS ASPECTOS A CONSIDERAR
+
+Adicionalmente, debe considerarse cuando fuera adecuado:
+
+a.  La observancia de los acuerdos internacionales aplicables.
+b.  Si las empresas disponen de sistemas de gestión apropiados.
+
+Nota: Los sistemas de gestión certificados, por sí solos, no son suficientes para garantizar que el producto esté conforme con el reglamento técnico.
+
+c. El impacto de las exigencias de los procedimientos de evaluación de la conformidad en las pequeñas y medianas empresas.
+
+d. La utilización de la infraestructura tecnológica disponible en los Estados Partes del MERCOSUR para proveer la confianza en los procedimientos de evaluación de la conformidad.
+
+VII.4.	ESTRUCTURA Y CONTENIDO DEL PMEC
+VII.4.1.	OBJETIVO
+Describe los procedimientos de evaluación de la conformidad aplicables para la verificación del cumplimiento del RTM.
+
+Debe remitir al RTM cuyos requisitos constituyen la base para la evaluación de la conformidad.
+
+VII.4.2.	ÁMBITO DE APLICACIÓN/ALCANCE
+
+Establece el alcance del PMEC para los productos individuales o familias de productos, de acuerdo con la definición correspondiente en el RTM.
+
+VII.4.3.	TÉRMINOS Y DEFINICIONES
+
+Se establecen los principales términos necesarios para la comprensión e implementación del procedimiento de evaluación de la conformidad.
+
+Este ítem sirve para aclarar términos que no tengan una definición corriente en el MERCOSUR. En el caso que haya definiciones aprobadas en la normativa MERCOSUR, estas definiciones deberán ser utilizadas.
+
+La Resolución GMC N° 45/17 define reglamento técnico, norma técnica, procedimiento de evaluación de la conformidad, RTM y PMEC.
+
+La Resolución GMC Nº 57/18 contiene un glosario de términos utilizados en reglamentación y evaluación de la conformidad en el MERCOSUR.
+
+Otros términos pueden encontrarse en el Acuerdo OTC y en la serie de normas ISO/IEC 17000.
+
+VII.4.4.	 SIGLAS
+
+Se deben listar las siglas utilizadas en el procedimiento de evaluación de la conformidad y su correspondiente significado.
+
+VII.4.5.	NORMAS Y DOCUMENTOS DE REFERENCIA
+
+Se deben listar las referencias normativas internacionales, regionales y nacionales de los Estados Partes o de terceros países cuando fueran consideradas como referencia para el PMEC.
+
+Cuando se citen estas referencias se debe indicar el año de aprobación.
+
+VII.4.6.	PROCEDIMIENTOS DE EVALUACIÓN DE LA CONFORMIDAD
+
+En este punto se indican los elementos de los procedimientos de evaluación de la conformidad seleccionados (ver opciones en VII.1) para la verificación del cumplimiento del RTM.
+
+ETAPAS DE IMPLEMENTACIÓN. Cuando se establezcan etapas u otras obligaciones para la implementación de los procedimientos, se indicarán los requisitos a cumplir en cada una de ellas, así como los períodos de validez de dichas etapas.
+
+CONTENIDOS DEL ESQUEMA DE CERTIFICACIÓN. Cuando se especifiquen esquemas de certificación (Ver Anexo III), y según el esquema elegido, es conveniente detallar aquellos aspectos del procedimiento que deben precisarse para asegurar que todos los OEC actúen de manera uniforme, por ejemplo:
+
+a. Contenidos mínimos de la solicitud de certificación;
+b. Elementos del sistema de la calidad del fabricante;
+c. Muestreos iniciales;
+d. Ensayos iniciales;
+e. Laboratorios del fabricante y laboratorios externos: condiciones a cumplir;
+f.  Condiciones para el otorgamiento del certificado;
+g. Contenidos mínimos del certificado a emitir;
+h. Marca de conformidad del OEC y Marca de la autoridad de aplicación si corresponde;
+i. Periodicidad y contenido de las evaluaciones de vigilancia a desarrollar: muestreos en fábrica y/o en el comercio, evaluaciones del sistema de la calidad, cantidad de ensayos, etc.
+
+Cuando hubiera necesidad de incluir requisitos adicionales, tales como requisitos de sistemas de gestión, ensayos específicos o métodos de análisis no normalizados, estos deben formar parte de apéndices específicos, para dar mayor claridad al texto.
+
+ORGANISMOS DE EVALUACIÓN DE LA CONFORMIDAD (OEC).  En el caso que se especifique en el PMEC que los OEC deben cumplir con normas, las mismas serán las indicadas en la norma MERCOSUR que apruebe los requisitos a cumplir por las estructuras y los esquemas de evaluación de la conformidad en los Estados Partes y las normas internacionales ISO/IEC correspondientes.
+
+RECONOCIMIENTO. Se indican las condiciones para el reconocimiento de los OEC por la autoridad de aplicación del RTM incluyendo, cuando así se decida, la obligación de acreditación de los OEC para los alcances correspondientes al PMEC.
+
+VII.4.7. APÉNDICES
+
+Se deben incluir los elementos relevantes para alcanzar los objetivos del procedimiento de evaluación de la conformidad, tales como ensayos no normalizados, metodologías de análisis, requisitos de sistemas de gestión, entre otros.
+
+
+APÉNDICE I
+MODELO DE PROYECTO DE RESOLUCIÓN PARA LA ELABORACIÓN DE RTMs O PMECs
+
+MERCOSUR/(número de reunión - órgano)/P. RES. Nº  /(año): el proyecto se identifica con la denominación MERCOSUR, número de la reunión y sigla del órgano del cual emanan, P (proyecto de norma) seguida del tipo de norma a la que se refiere el proyecto - RES.- la numeración correspondiente y el año (dos últimos números), de conformidad con la Resolución GMC N° 26/01, sus modificatorias y/o complementarias.
+
+TÍTULO DE LA RESOLUCIÓN: en caso de que el proyecto incluya derogaciones debe indicar luego del título y entre paréntesis la frase: DEROGACIÓN DE LA RESOLUCION GMC N° /(año), especificando el número de la Resolución a ser derogada.
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y (otras normas MERCOSUR: indicar las normas MERCOSUR fundamento jurídico del proyecto. En caso de que el proyecto incluya derogaciones se debe indicar el número de la Resolución a ser derogada).
+
+CONSIDERANDO: Indicar en uno o más párrafos las razones y objetivos del proyecto, por ejemplo: actualización de una resolución existente o problemas que hayan surgido para un producto sobre el que existe comercio entre los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. x - Aprobar "Título del proyecto de RTM o PMEC", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. x - (Incluir, de conformidad con lo establecido en la Resolución GMC N° 38/98, un artículo específico con el siguiente texto: "La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona").
+
+Art. x - (Incluir un artículo específico con el siguiente texto: "Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo Nº XX (especificar nombre y sigla del SGT) los organismos nacionales competentes para la implementación de la presente Resolución").
+
+Art. x - (En caso de que el proyecto incluya derogaciones se debe incluir un artículo específico que indique el número de la Resolución a ser derogada, de acuerdo al siguiente texto: "Derogar la Resolución GMC Nº   /(año)".
+
+Art. x - (Incluir en un artículo específico la cláusula de incorporación correspondiente de conformidad con la normativa vigente en la materia).
+
+ANEXO II
+EVALUACIÓN DE RIESGOS REGLAMENTARIOS
+El riesgo puede ser evaluado de muchas maneras. Los Estados Partes podrán seleccionar la metodología más apropiada para evaluar el riesgo relacionado al problema identificado. Esta guía sigue el enfoque de la norma NM ISO 31000:2018 y el modelo de la UNECE (Comisión Económica para Europa de Naciones Unidas) para la gestión de riesgos de los sistemas regulatorios.
+
+Como una fase previa, los Estados Partes deben describir el problema identificado y sus riesgos asociados para decidir en cuanto a la pertinencia de elaborar, revisar y derogar RTM y PMEC, de acuerdo con el formulario de la Resolución GMC N° 45/17.
+
+1. Establecer la gestión de riesgo reglamentario
+
+Se debe reconocer que los riesgos reglamentarios pueden generar impactos para la sociedad y pueden tener efectos sobre el desarrollo económico de un país, siendo esto de interés para la administración pública.
+
+Para gestionar los riesgos reglamentarios es importante utilizar plenamente todas las herramientas de identificación, evaluación y tratamiento de los riesgos, considerando los objetivos y efectos deseados por los reglamentadores de los Estados Partes.
+
+Los pasos básicos para un sistema de gestión de riesgo están detallados en la norma NM ISO 31000:2018.
+
+Corresponde a cada Estado Parte definir sus mecanismos de gestión de riesgos reglamentarios. Por otro lado, cuando un Estado Parte solicita elaborar un RTM, con miras a la comprensión de los problemas a ser resueltos, el Estado Parte solicitante, de acuerdo a la Resolución GMC N° 45/17, debe exponer a los demás Estados Partes, la justificación de la solicitud.
+
+2. Proceso de evaluación de riesgos
+
+A continuación, se describen las etapas para la identificación, el análisis y la evaluación de riesgos como insumo para la elaboración del RTM o PMEC.
+
+2.1. Comunicación y consulta
+
+Las autoridades reglamentarias de los Estados Partes llevarán adelante diferentes instancias de comunicación y consulta con las partes interesadas. Las mismas serán con el objeto de obtener información del producto, fabricantes, importadores, normas técnicas, entre otras, a fin de tomarlas en consideración en las etapas de análisis o evaluación del riesgo y, en caso que se decida la elaboración o revisión del RTM o PMEC, la consulta continuará en las distintas etapas de su elaboración.
+
+Nota: Las partes interesadas son las personas u organizaciones que podrán ser afectadas o colaborar en la elaboración de los RTM o sus PMEC. Para el MERCOSUR se entiende como partes interesadas para las autoridades nacionales reglamentarias de los Estados Partes: el sector privado, los consumidores, los organismos de evaluación de la conformidad, los organismos de normalización, los organismos de acreditación, los demás entes gubernamentales y el sector académico de los Estados Partes.
+
+2.2 Establecimiento del contexto
+
+En esta etapa cada Estado Parte debe, en la medida de lo posible, identificar su situación con respecto al problema identificado y las influencias internas y externas que puedan incidir en el ámbito de aplicación de los RTM y sus respectivos PMEC.
+
+2.3 Identificación de los riesgos
+
+En esta etapa cada Estado Parte debe, en la medida de lo posible,  identificar y describir los riesgos, con la finalidad de generar una lista detallada de riesgos asociados a los problemas, que puedan incidir en la elaboración de los RTM y sus respectivos PMEC.
+
+Nota: La identificación debe incluir todos los riesgos, ya sea que sus fuentes estén bajo el control o no de los Estados Partes. Además de identificar lo que pueda suceder, es necesario considerar posibles causas y escenarios que muestren qué consecuencias pueden ocurrir. Se recomienda que todas las causas y consecuencias significativas sean tomadas en cuenta.
+
+2.4 Análisis de riesgo
+
+En esta etapa se busca identificar la naturaleza (seguridad, salud, ambiente, entre otros), y determinar la frecuencia y el nivel del riesgo, a través de la evaluación de las causas y las fuentes de riesgos, sus consecuencias positivas y negativas, y la probabilidad de que puedan ocurrir.
+
+Nota: El análisis del riesgo se puede realizar con diferentes grados de detalle, dependiendo del riesgo, de la finalidad del análisis y de la información, así como de los datos y los recursos disponibles. El análisis puede ser cualitativo, semi-cuantitativo o cuantitativo, o una combinación de los tres casos, dependiendo de las circunstancias.
+
+2.5 Valoración de riesgos
+
+En esta etapa se comparan los resultados del análisis de riesgos con los criterios de riesgos anteriormente establecidos, para determinar si los mismos y/o sus magnitudes son tolerables.
+
+Esta evaluación proporcionará un listado de los riesgos de mayor importancia relativa a ser considerados en la elaboración del RTM o PMEC.
+
+
+ANEXO III
+ESQUEMAS DE CERTIFICACIÓN DE PRODUCTOS
+
+Los esquemas de certificación se describen en la norma NM ISO/IEC 17067:2015.
+
+A continuación, se incluye una breve descripción de los esquemas, fundamentada en dicha norma.
+
+1) TÉRMINOS Y DEFINICIONES
+
+Sistema de certificación
+
+Reglas, procedimientos y gestión para realizar la certificación.
+
+Esquema de certificación
+
+Sistema de certificación aplicado a productos determinados, a los que se aplican los mismos requisitos especificados, reglas y procedimientos específicos.
+
+Nota: Las reglas, procedimientos y gestión para la implementación de certificación de productos, procesos y servicios son estipulados por el esquema de certificación.
+
+Dueño del esquema
+
+Persona u organización responsable del desarrollo y el mantenimiento de un esquema de certificación específico.
+
+Nota: El dueño del esquema puede ser el propio organismo de certificación, una autoridad gubernamental, una asociación comercial, un grupo de organismos de certificación u otros.
+
+Concepto de certificación de productos
+
+* La certificación de producto es la provisión de la evaluación y de la atestación por una tercera parte imparcial de que se ha demostrado el cumplimiento de los requisitos especificados. La certificación de producto la realizan organismos de certificación de producto que deberían cumplir la NM ISO/IEC 17065, en su versión vigente. En general, los requisitos especificados para los productos están incluidos en normas u otras referencias normativas.
+* La certificación de producto es una actividad de evaluación de la conformidad establecida que proporciona confianza a los consumidores, los reguladores, la industria y otras partes interesadas en que los productos cumplan los requisitos especificados, incluyendo, por ejemplo, funcionamiento, seguridad, interoperabilidad y sostenibilidad del producto.
+* La certificación de producto puede facilitar el comercio, el acceso al mercado, la competencia justa y la aceptación de los productos por los consumidores a nivel nacional, regional e internacional.
+
+2) OBJETIVOS DE LA CERTIFICACIÓN DE PRODUCTOS
+
+Los objetivos fundamentales de la certificación de producto son:
+* Atender las necesidades de consumidores, usuarios y, en términos más generales, de todas las partes interesadas proporcionando confianza con respecto al cumplimiento de los requisitos especificados;
+* Permitir a los proveedores demostrar al mercado que sus productos han sido evaluados por un organismo de tercera parte imparcial respecto al cumplimiento de requisitos especificados.
+La certificación de productos debe, en la medida de lo posible, proporcionar:
+* Confianza para aquellos que tienen un interés en el cumplimiento de los requisitos, y
+* Valor suficiente para que los proveedores puedan comercializar los productos eficazmente.
+
+3) ESQUEMAS DE CERTIFICACIÓN DE PRODUCTO
+Fundamentos
+Los esquemas de certificación de producto deben, en la medida de lo posible, implementar el enfoque funcional tal y como se describe en la norma ISO/IEC 17000:2020.
+
+Las funciones son:
+* Selección, que incluye actividades de planificación y preparación a fin de recopilar o generar toda la información y elementos de entrada para la función de determinación posterior;
+* Determinación, que puede incluir actividades de evaluación de la conformidad tales como ensayo, medición, inspección, evaluación del diseño, evaluación de servicios y procesos y auditoría para proporcionar información sobre los requisitos del producto como elementos de entrada para las funciones de revisión y de atestación;
+* Revisión, que significa la verificación de la adecuación, suficiencia y eficacia de las actividades de selección y determinación, y de los resultados de dichas actividades, con respecto al cumplimiento de los requisitos especificados (ver norma ISO/IEC 17000:2020);
+* Decisión sobre la certificación;
+* Atestación, que significa emitir una declaración de conformidad, basada en una decisión posterior a la revisión, de que se ha demostrado que se cumplen los requisitos especificados (ver norma ISO/IEC 17000:2020)
+* Vigilancia (cuando sea necesario), que significa la repetición sistemática de actividades de evaluación de la conformidad como base para mantener la validez de la declaración de conformidad (ver norma ISO/IEC 17000:2020).
+Tipos de esquemas de certificación de productos
+Generalidades
+Los tipos de esquema indicados difieren según las actividades de vigilancia (si son aplicables) que se realizan. Para los tipos de esquema 1a y 1b no se requiere vigilancia dado que la atestación se refiere únicamente a los elementos del producto que se han sometido a las actividades de determinación. Para los otros tipos de esquemas, los apartados siguientes describen la forma en que se pueden usar las diversas actividades de vigilancia y las circunstancias en las cuales se podrían aplicar.
+
+Esquema tipo 1a
+En este esquema, una o más muestras del producto se someten a las actividades de determinación. Se emite un certificado de conformidad u otra declaración de conformidad (por ejemplo, una carta) para el tipo de producto, cuyas características se detallan en el certificado o en un documento mencionado en el certificado. Los elementos de producción posterior no están cubiertos por la atestación de conformidad del organismo de certificación.
+
+Esquema tipo 1b
+Este tipo de esquema implica la certificación de un lote completo de productos, después de la selección y la determinación según se especifique en el esquema. La proporción que se va a ensayar, la cual puede incluir el ensayo de todas las unidades del lote (ensayo del 100%), podría basarse, por ejemplo, en la homogeneidad de los elementos del lote y la aplicación de un plan de muestreo, cuando sea adecuado.
+
+Esquema 2
+
+La parte de vigilancia de este esquema implica el muestreo periódico del producto proveniente del mercado y su sometimiento a las actividades de determinación para verificar que los elementos producidos posteriormente a la atestación inicial cumplen con los requisitos especificados.
+
+Esquema 3
+
+La parte de vigilancia de este esquema implica el muestreo periódico del producto proveniente del punto de producción y su sometimiento a las actividades de determinación para verificar que los elementos producidos posteriormente a la atestación inicial cumplen con los requisitos especificados.
+
+Esquema 4
+
+La parte de vigilancia de este esquema permite la elección entre el muestreo periódico del producto proveniente ya sea del punto de producción, del mercado, o de ambos, y su sometimiento a las actividades de determinación para verificar que los elementos producidos posteriormente a la atestación inicial cumplen con los requisitos especificados. La vigilancia incluye la evaluación periódica del proceso de producción.
+
+
+Esquema 5
+
+La parte de vigilancia de este esquema permite la elección entre el muestreo periódico del producto proveniente ya sea del punto de producción, del mercado, o de ambos, y su sometimiento a las actividades de determinación para verificar que los elementos producidos posteriormente a la atestación inicial cumplen con los requisitos especificados.
+
+La vigilancia incluye la evaluación periódica del proceso de producción, la auditoría del sistema de gestión, o ambos.
+20

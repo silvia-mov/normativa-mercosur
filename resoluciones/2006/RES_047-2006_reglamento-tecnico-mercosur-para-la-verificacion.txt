@@ -1,0 +1,160 @@
+Resolución GMC N° 47/06
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA LA VERIFICACIÓN DEL CONTENIDO NETO DE FÓSFOROS Y ESCARBADIENTES
+Fecha de aprobación: 24/11/2006
+Vigencia: Vigente (Vigente desde el 07/06/2009 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 11817_RES_047-2006_ES_FE_RTM-VerifiContFósforos y Escarbadientes.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/509).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 47/06
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA VERIFICACIÓN DEL CONTENIDO NETO DE FÓSFOROS Y ESCARBADIENTES
+
+           VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión N° 20/02 del Consejo del Mercado Común y las Resoluciones Nº 23/98, 38/98 y 56/02 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que resulta necesario establecer las condiciones metrológicas que deben satisfacer los fósforos y escarbadientes que se comercialicen como premedidos, a los efectos de facilitar el intercambio comercial entre los países signatarios del Tratado de Asunción, eliminar barreras técnicas que sean obstáculos a la libre circulación de productos premedidos, así como garantizar la defensa del consumidor.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR para la Verificación del Contenido Neto de Fósforos y Escarbadientes" como Productos Industrializados Premedidos, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Organismos Nacionales competentes para la implementación de la presente Resolución son:
+
+Argentina: 	Ministerio de Economía y Producción - Secretaría de Comercio Interior
+
+Brasil:      	Instituto Nacional de Metrologia, Normalização e Qualidade Industrial (INMETRO)
+
+Paraguay: 	Ministerio de Industria y Comercio
+            Instituto Nacional de Tecnología, Normalización y Metrología (INTN)
+
+Uruguay:     	Ministerio de Industria, Energía y Minería
+
+
+Art.  3 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art.  4 - Los Estados Partes deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 23/V/2007.
+
+
+LXV GMC - Brasilia, 24/XI/06
+
+
+ANEXO
+
+
+1. OBJETIVO Y CAMPO DE APLICACIÓN
+
+Este Reglamento Técnico MERCOSUR establece los criterios para la verificación del contenido neto de fósforos y escarbadientes, comercializados como productos premedidos de cantidad nominal igual  en número de unidades.
+
+2. DEFINICIONES
+
+2.1. Producto premedido:
+Es todo producto envasado y medido sin la presencia del consumidor y en condiciones de ser comercializado.
+
+2.2. Contenido efectivo:
+        Es la cantidad de producto que realmente contiene el envase.
+
+2.3. Contenido nominal (Qn):
+       Es la cantidad indicada en el envase del producto.
+
+2.4. Error en menos  en relación al contenido nominal:
+       Es la diferencia en menos entre el contenido efectivo y el contenido nominal.
+
+2.5. Lote:
+Es la cantidad de productos de un mismo tipo, marca y contenido nominal, procesados por un mismo fabricante, o fraccionados en un espacio de tiempo determinado, en condiciones esencialmente iguales. En caso que esta cantidad supere 10.000 unidades, el excedente podrá formar nuevos lotes.
+
+2.6. La muestra del lote:
+Es la cantidad de productos premedidos retirados aleatoriamente del lote y que serán efectivamente verificados.
+
+2.7. Tolerancia individual (T):
+Es la diferencia tolerada en menos entre el contenido efectivo y el contenido nominal (TABLA II).
+
+
+2.8. Media de la muestra ( x):
+Está definida por la ecuación:
+
+                                      i=n
+         xi
+                        X =    i=1
+                          n
+
+
+xi : es el contenido efectivo de cada producto.
+n : es el número de productos.
+
+3. CRITERIOS PARA APROBACIÓN DEL LOTE
+El lote sometido a verificación cumple con este Reglamento cuando se satisfacen los subítems 3.1. y  3.2. simultáneamente.
+
+3.1. Criterio para la media:
+
+x > Qn
+
+El tamaño de la muestra se obtiene de la TABLA I.
+
+3.2. Criterio individual:
+Es admitido un máximo de  "c"  unidades debajo de Qn - T .
+
+c = se obtiene de la TABLA I .
+
+T = se obtiene de la TABLA II.
+
+
+TABLA I
+
+Tamaño del Lote
+Tamaño de la muestra
+Nº de aceptación ( c )
+5 a 13
+Todas
+0
+14 a 49
+14
+0
+50 a 149
+20
+1
+150 a 4000
+32
+2
+4001 a 10000
+80
+5
+
+
+TABLA II
+
+Cantidad nominal (Qn)
+Tolerancia ( T )
+hasta 29 unidades
+0
+de 30 a 199 unidades
+4
+de 200 a 299 unidades
+8
+300 o más unidades
+12
+
+
+SECRETARÍA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 10
+FE DE ERRATAS - ORIGINAL
+
+
+José Ernesto Büttner Limprich
+                                                                                                        Director
+
+
+4
+
+
+SECRETARÍA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 10
+FE DE ERRATAS - ORIGINAL
+
+
+José Ernesto Büttner Limprich
+                                                                                                       Director

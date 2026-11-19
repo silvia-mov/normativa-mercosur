@@ -1,0 +1,1757 @@
+Resolución GMC N° 04/97
+Título: REGLAMENTO TÉCNICO PAR LA PRODUCCIÓN Y EL CONTROL DE VACUNAS, ANTÍGENOS Y DILUYENTES PARA AVICULTURA
+Fecha de aprobación: 25/04/1997
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 21951_RES_004-1997_ES_RTMVacunas.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1620).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 04/97
+
+REGLAMENTO TÉCNICO PARA LA PRODUCCIÓN Y EL CONTROL DE VACUNAS, ANTÍGENOS Y DILUYENTES PARA AVICULTURA
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 11/93 y 91/93 del Grupo Mercado Común y la Recomendación Nº 45/96 del SGT Nº 3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+Que existe la necesidad de armonizar reglamentos específicos que aseguren que las vacunas, antígenos y diluyentes para avicultura que serán registrados en cada Estado Parte, sean controlados solamente por un Reglamento.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el Reglamento Técnico para la Producción y el Control de Vacunas, Antígenos y Diluyentes para Avicultura que consta como anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+ARGENTINA - Secretaría de Agricultura, Ganadería, Pesca y Alimentación - (SENASA)
+
+BRASIL -Ministério da Agricultura e do Abastecimento (Secretaria de Defesa Agropecuária)
+
+PARAGUAY -Ministerio de Agricultura y Ganadería
+
+URUGUAY - Ministerio de Ganadería, Agricultura y Pesca
+
+Art. 3 - La presente Resolución entrará en vigencia el 1°/XI/97.
+
+
+XXV GMC - Asunción, 25/IV/97
+
+REGLAMENTO TÉCNICO PARA LA PRODUCCIÓN Y EL CONTROL DE VACUNAS, ANTÍGENOS Y DILUYENTES PARA LA AVICULTURA
+
+CAPÍTULO I
+INTRODUCCIÓN
+
+I.1) OBJETIVO
+
+Establecer los requisitos técnicos para la producción, el control, la comercialización y el uso de vacunas, antígenos, sueros y diluyentes para la avicultura.
+
+I.2) CLASIFICACIÓN Y DEFINICIONES
+
+DEFINICIONES
+
+ANTÍGENOS
+
+Son sustratos biológicos, purificados, padronizados, vivos o inactivados, específicos y sensibles, utilizados como reactivos para diagnóstico inmunológico en las reacciones cuantitativas o cualitativas de "antígeno - anticuerpo", "in vitro" o "in vivo".
+
+DILUYENTES
+
+Es un líquido usado para rehidratar un producto liofilizado o un líquido usado para diluir otra sustancia. Debe ser inocuo y estable, y capaz de mantener viable la integridad de uno o más antígenos de vacunas durante su preparación y administración, directa o indirectamente, en el organismo de los animales objeto de estudio.
+
+VACUNAS O AGENTES INMUNOLÓGICOS:
+
+Son productos biológicos, inmunológicos, inocuos y específicos, vivos y/o inactivados, elaborados a partir de unidades o subunidades antigénicas de cepas de vacunas cultivadas en sustratos especiales, y utilizados para combatir y/o prevenir enfermedades en los animales objeto de estudio.
+
+CLASIFICACIÓN DE AGENTES INMUNOLÓGICOS (COMPLEMENTO)
+
+1. VACUNA VIVA VIRICA POLIVALENTE:
+
+Virus vivos (atenuados, modificados o alterados) de la misma especie, en el mismo frasco.
+
+2. VACUNA VIVA VIRICA COMBINADA:
+
+2.1. Virus vivos (atenuados, modificados o alterados), de especies diferentes, en el mismo frasco.
+2.2. Asociada a otra vacuna/inmunógeno con identidad propia, en otro frasco, y que podrá ser utilizada o no como diluyente; pero no es diluyente, por lo tanto, debe ser clasificada.
+
+3. VACUNA VIVA BACTERIANA COMBINADA:
+
+Bacterias vivas (atenuadas, modificadas o alteradas) de especies diferentes, en el mismo frasco.
+
+4. VACUNA VIVA FUNGICA COMBINADA:
+
+Hongos y micoplasmas vivos (atenuados, modificados o alterados), de especies diferentes, en el mismo frasco.
+
+5. VACUNA VIVA MIXTA:
+
+Virus, bacterias, hongos, micoplasmas vivos, de especies iguales o diferentes en el mismo frasco.
+
+6. VACUNA VIVA E INACTIVADA MIXTA:
+
+Virus, bacterias, hongos, micoplasmas vivos o inactivados, de especies iguales o diferentes, toxoides o subunidades, en el mismo frasco.
+
+7. VACUNA INACTIVADA MIXTA:
+
+Virus, bacterias, hongos y micoplasmas inactivados, con o sin subunidades, o toxoides.
+
+8. SUBUNIDADES:
+
+Fracción inmunogénica purificada.
+
+9. TOXOIDE
+
+Producto inactivado, resultante de proceso metabólico (toxinaendotoxina exotoxina) de bacterias u hongos.
+
+10. VACUNA INACTIVADA VIRAL COMBINADA:
+
+Virus inactivado de especies diferentes en el mismo frasco.
+
+11. VACUNA INACTIVADA BACTERIANA COMBINADA:
+
+Bacterias inactivadas de especies diferentes en el mismo frasco.
+
+12. VACUNA INACTIVADA FUNGICA COMBINADA:
+
+Hongos y micoplasmas inactivados, de especies diferentes en el mismo frasco.
+
+CAPÍTULO II
+
+DISPOSICIONES LEGALES
+
+A los efectos de fabricación, control, comercialización y uso de vacunas, antígenos, sueros y diluyentes, debe observarse lo dispuesto en la legislación vigente, referente a las exigencias de instalaciones, responsabilidad técnica, registro de producción y control de calidad. Las vacunas asociadas (combinadas o mixtas) están sujetas a legislación específica de cada fracción antigénica.
+
+II.1) De la producción.
+II.1.a) Origen de los sustratos utilizados.
+II.1.a.1) Biológicos.
+
+Los sustratos utilizados en la producción y control de calidad de productos biológicos aviarios deberán ser (*)SPF para la especie (huevos, células y animales). Otros sustratos podrán ser utilizados en la producción y control, mediante comprobación científica ante el organismo oficial controlador.
+
+(*) SPF - Specific Pathogen Free.
+
+Los pollos, embriones y huevos SPF, utilizados en el control y en la producción de la vacuna, deben provenir de un lote de animales libres de agentes y anticuerpos para los siguientes microorganismos:
+
+Organismo:
+Adenovirus aviario
+Virus del Síndrome de la caída de postura (EDS-76)
+Virus de la Encefalomielitis aviaria
+Haemophilus paragallinarum
+Reovirus aviario
+Virus de la Bronquitis Infecciosa de las Gallinas
+Virus de la Enfermedad de Gumboro
+Virus de la Laringotraqueítis infecciosa
+Virus de la Enfermedad de Newcastle
+Virus de la Influenza Aviaria
+Virus de la Enfermedad de Marek
+Virus de la Leucosis Aviaria
+Rotavirus Aviario
+Agente de Anemia de Pollo
+Virus de la Rinotraqueitis de los Pavos
+Virus de la Reticuloendoteliosis
+Poxvirus de las aves
+Mycoplasma gallisepticum
+Mycoplasma synoviae
+Mycoplasma meleagridis
+Salmonella pullorum
+Salmonella enteritidis
+Salmonella gallinarum
+Salmonella tiphymurium
+
+Podrán establecerse otros procedimientos, a criterio del organismo controlador.
+
+II.1.a 2) Ingredientes.
+Todos los ingredientes deben estar de acuerdo con los patrones preestablecidos de pureza y calidad, no presentar toxicidad en la dosis recomendada de uso final; las combinaciones usadas no deben desnaturalizar sustancias específicas en el producto, ni disminuir la potencia mínima aceptable, dentro del plazo de validez, cuando es almacenado a la temperatura recomendada.
+
+II.1.a 3) Células primarias usadas en la producción. Cada partida de productos biológicos solamente será liberada si las células primarias utilizadas resultaren satisfactorias, de acuerdo a los tests descritos a continuación:
+
+II.1.a.3.a) Las muestras del producto final o las muestras de un "pool" de material recolectado o las muestras de cada subcultivo de células usadas para preparar el producto biológico deben estar libres de Mycoplasma spp.
+
+La muestra para test debe consistir en células de fluidos recolectados. Deben estar representados todos los orígenes de células primarias utilizados en el lote.
+
+II.1.a.3.b) Las muestras del producto final o de un "pool" de material recolectado o la muestra de cada subcultivo de células utilizadas en la preparación de productos biológicos deben presentarse libres de bacterias y hongos.
+
+II.1.a.3.c) Una monocapa de cada partida o subcultivo de células primarias usadas para la preparación de productos biológicos, debe presentarse libre de agentes extraños, y mantenida, usándose el medio con aditivos y condiciones similares a aquellas usadas para la preparación de productos biológicos, como mínimo por 14 días, y subcultivadas por lo menos una vez. Las monocapas deben ser examinadas regularmente durante el período de mantenimiento, para que se evidencien los agentes citopatogénicos, hemoadsorbibles y/o extraños.
+
+II.1.a.4) Líneas celulares usadas en la producción
+
+II.1.a.4.a) Debe establecerse un número de pasaje específico de una "master cell stock" para cada línea celular. En la ficha de producción del producto deben especificarse el nivel de pasajes, la identidad de la "master cell stock" y un mayor nivel de pasajes para uso en la preparación de productos biológicos.
+II.1.a.4.b) Deben prepararse y mantenerse congeladas alícuotas de "master cell stock", a disposición de los organismos oficiales del país de origen, para la realización de los tests.
+II.1.a.4.c) Cada lote de células debe ser monitoreado para determinar características normales para la línea celular tales como apariencia microscópica, velocidad de crecimiento, producción de ácido o de otros factores observables. Después de presentar un crecimiento de por lo menos un 80% de confluencia, las monocapas deben ser removidas de su medio, procesadas, coloreadas y examinadas para detección de agentes citopatogénicos y/o hemoadsorbibles, exóticos o no.
+
+II.1.a.4.d) Las muestras de cada lote de ingrediente de origen animal, no sujeto a estirilización por calor, deben estar libres de micoplasmas, bacterias, hongos y virus.
+
+II.1.b) Semillas.
+Las semillas bacterianas y víricas deben contener solamente el antígeno específico, debiendo presentarse libres de agentes contaminantes.
+
+Las alícuotas de las semillas deben ser preparadas y mantenidas congeladas o liofilizadas, a disposición del organismo oficial del país de origen, para realización de los tests.
+
+II.2. DE LA DOCUMENTACIÓN
+Todas las etapas de producción y control serán registradas en protocolos específicos, donde deberán constar los siguientes datos:
+
+a) Nombre del laboratorio productor
+b) Nombre del producto genérico y/o comercial
+c) Número de la partida
+d) Insumos utilizados en la formulación del producto
+e) Fecha de inicio y término de la producción
+f) Número de dosis de la partida
+g) Resultados de las pruebas de control
+h) Fecha de fabricación y vencimiento
+
+II.3. DE LOS PROCEDIMIENTOS DE CONTROL DE CALIDAD
+
+Las semillas, sustratos, productos intermediarios y finales están sometidos a los siguientes procedimientos de control de calidad:
+
+II.3.a) Esterilidad.
+II.3.a.1) Test de esterilidad/pureza para bacterias y hongos en vacunas vivas. Utilizar medios de cultivo apropiados, tales como: Medio de caseína de soja digerido, infusión de cerebro-corazón (BHI), medio fluido Tioglicolato y Sabouraud líquido, con miras a la flora aeróbica, anaeróbica y hongos. La sensibilidad de los medios utilizados deberá ser examinada antes de inciar el test.
+
+Deben testearse diez frascos de muestras de cada partida y como mínimo 4 ml de "master seed". Antes de iniciar el test, la vacuna congelada debe ser descongelada y la vacuna liofilizada debe ser rehidratada conforme lo recomendado por el fabricante, con el diluyente o con agua bidestilada estéril.
+
+Los productos con forma de presentación de 1000 dosis o dosis múltiples deben ser rehidratados con 30 ml de agua o diluyente estéril.
+
+1. Para la investigación de bacterias de la flora aeróbica, inocular 0,2 ml de la vacuna rehidratada, equivalente a cada frasco a ser examinado, en dos tubos conteniendo 40 ml del medio fluído de caseína de soja digerida o BHI. Se pueden utilizar medios adicionales o diluciones, si fuese necesario. Debe colocarse en incubación un tubo a 32ºC +/- 1 y el otro a 22ºC +/- 1, realizándose la lectura después de 14 días.
+
+2. Para la investigación de la flora anaeróbica, inocular en profundidd 0,1 ml de vacuna rehidratada, equivalente a cada frasco a ser examinado, en tubo con tapa rosca, individual, conteniendo 20 ml de medio fluído de tioglicolato previamente hervido para la eliminación del oxígeno y luego las tapas deben ser cerradas con parafilm. Si es necesario, pueden utilizarse medios adicionales o diluciones. La incubación debe ser hecha en equipos que favorezcan una anaerobiosis estricta, a 37ºC +/- 1, por 14 días.
+
+3. Para testear hongos, inocular 0,2 ml de vacuna de cada frasco en un frasco individual correspondiente, conteniendo, por lo menos, 40 ml de medio de Sabouraud. La incubación debe ser hecha a 22ºC de temperatura durante 14 días.
+
+Observación: En el momento de la lectura, examinar macroscópicamente todas las placas, observando la formación de colonias. Para los tubos, se debe observar si se enturbió el medio, siempre comparándolo con el tubo de medio control no inoculado.
+
+Para cada grupo de frascos test, que representan una partida, se deberá aplicar el siguiente procedimiento:
+
+a) Si el crecimiento microbiano es observado en 2 o 3 frascos del test inicial, se deberá realizar una nueva prueba, utilizando el doble del número de frascos que se usó en el test incial.
+b) Si el crecimiento microbiano es observado en 4 o más frascos de test inicial y/o en algún frasco del ovo-test, la partida es considerada no satisfactoria para vacunas de uso parenteral.
+c) Si no se observa ningún crecimiento microbiano en 9 o 10 frascos durante el test inicial o en 19 o 20 frascos de la nueva prueba, la partida cumple con las exigencias del test.
+4. Para el conteo de contaminantes del producto, se debe proceder a la siembra en placas, utilizándose para cada frasco de muestra, 2 placas de petri de 100 x 20 mm, inoculando en cada una 0,3 ml de vacuna reconstituida, agregándose aproximadamente 12 ml de agar BHI, previamente fundido, estando éste entre 40ºC y 45ºC. Después de que el agar se haya solidificado, las placas deberán ser incubadas, incubándose una de ellas a 32ºC +/- 1, para investigación de bacterias, e incubando la otra a 22ºC +/- 1, para la investigación de hongos. La lectura será realizada diariamente durante 14 días.
+
+Se tolerará un límite de 1 colonia por dosis en el producto final cuando éste sea recomendado exclusivamente por vía no parenteral.
+
+Podrán ser utilizadas otras técnicas validadas, desde que sean previamente aprobadas por el organismo controlador.
+
+II.3.a.2) Test de Salmonella.
+Este test debe ser hecho en un producto intermediario, antes de la adición de agentes bactericidas o bacteriostáticos, o en el producto final. Inocular 2,5 ml de la muestra equivalente a cada frasco o muestra a ser testeada en 2 tubos conteniendo 50 ml de medio líquido (Selenio F, Triptosis o Tetrationato). Debe ser utilizado un medio diferente en cada tubo. Los tubos inoculados deben ser incubados durante 18 a 24 horas, a una temperatura de 37ºC +/- 1.  Se debe proceder a la siembra en placas de cada tubo en agar Mac Conkey y agar Salmonella Shigella, incubándolos durante 18 a 24 horas a 37ºC +/- 1; enseguida se hace la lectura.
+
+Si no se observa el crecimiento típico de Salmonella, las placas deben incubarse por 18-24 horas más, y examinarlas nuevamente. Si se observan colonias sospechosas se deberá realizar un subcultivo posterior en medio apropiado, para identificación positiva. De encontrarse Salmonella, el producto correspondiente a la muestra se considera insatisfactorio.
+
+II.3.a.3) Test de Mycoplasma.
+
+El test deberá realizarse usando el medio apropiado para cultivo de Mycoplasma spp.
+Antes del test, deberán descongelarse 3 frascos de vacuna líquida congelada y agruparlos en "pool" y/o deberán rehidratarse en "pool" 3 frascos de vacuna liofilizada, con el volumen recomendado por el fabricante, en caldo para Mycoplasma spp.
+En el caso de los productos biológicos liofilizados, cuya presentación es de 1000 dosis por frasco, los 3 frascos deberán ser rehidratados en "pool" en un medio de 90 ml. En el caso de semillas, células de línea o muestras de células primarias, el inóculo deberá consistir en una alícuota de la semilla o de células en suspensión. Inoculación de frascos:
+
+Transferir 1 ml del inóculo a cada tubo, en un mínimo de tres, conteniendo 9 ml de medio fluido apropiado para cultivo de Mycoplasma spp. Incubar los tubos a 37ºC +/- 1 durante 14 días.
+Durante ese tiempo, deberá sembrarse 0,1 ml de material de cada tubo, en placa conteniendo medio específico para Mycoplasma spp., al 3er., 7º y 14º días después de la inoculación.
+El control del test debe ser realizado usándose como inóculo para control positivo un cultivo seleccionado de Mycoplasma spp. También deberá utilizarse un control negativo.
+Todas las placas deberán ser incubadas con un alto grado de humedad, en una atmósfera de 4 a 6% de CO2, a 37ºC +/- 1 durante 7 días, y examinadas con el auxilio de microscopio estereoscopio con aumento de 35 a 100 X, o en microscopio óptico común, con aumento de 100 X.
+Si en algún momento se observa um viraje del indicador de los caldos, se debe proceder a la siembra en placas. El test será válido si se observase crecimiento por lo menos en una de las placas de control positivo, y ausencia de crecimiento en las placas de control negativo.
+
+Si se observan colonias de Mycoplasma spp. en alguna de las placas inoculadas con material a ser testeado, el resultado es positivo y el producto es insatisfactorio.
+
+II.3.a.4) Test de Esterilidad / Pureza para bacterias y hongos, excepto en vacunas vivas.
+Cada partida del producto biológico, excepto para vacunas vivas, debe ser examinada como se describió, a no ser que esté especificado de otra manera por el organismo oficial controlador. Cuando las líneas celulares, las células primarias o los ingredientes de origen animal usados en la preparación del producto biológico necesiten estar libres de bacterias y hongos viables, deberán ser también examinados como se describió en esta sección.
+
+II.3.a.4.a) El medio a ser usado debe ser:
+II.3.a.4.a.1) Medio Fluido Tioglicolato con 0,5% de extracto de carne, que debe ser usado para testear bacterias en los productos biológicos conteniendo toxoides de clostridios, bacterinas y bacterinas-toxoides.
+II.3.a.4.a.2) Medio Fluido Tioglicolato con o sin 0,5% de extracto de carne, que debe ser usado para examinar bacterias en productos biológicos que no sean toxoides de clostridios, bacterinas y bacterinastoxoides.
+
+II.3.a.4.a.3) Medio de caseina de soja digerida, que debe ser usado para examinar hongos en productos biológicos, desde que el medio fluido tioglicolato, sin extracto de carne, sea sustituido al testear productos biológicos conteniendo conservantes de mercurio.
+II.3.a.4.b) Procedimiento para el test:
+II.3.a.4.b.1) Deben utilizarse un mínimo de cuatro y un máximo de diez frascos para cada uno de los medios elegidos.
+II.3.a.4.b.2) Inóculo:
+II.3.a.4.b.2 (1) Cuando el producto acabado es testeado, se deberán someter a test de cuatro a diez muestras del recipiente final de cada partida. Un ml. de cada muestra debe ser inoculado en un frasco de test individual correspondiente de medio de cultivo. Si cada muestra del recipiente final contuviese menos de 2 ml, mitad del contenido debe ser usado como inóculo para cada frasco-test.
+II.3.a.4.b.2 (2) Cuando se examinan líneas celulares, células primarias o ingredientes de origen animal, debe testearse por lo menos una muestra del test de 20 ml de cada lote. Debe inocularse 1 ml del medio en cada frasco-test.
+II.3.a.4.b.3) La incubación debe ser por un período de observación de 14 días a una temperatura entre 30ºC y 35ºC, para testear bacterias; y durante 14 días, a una temperatura de 20ºC a 25ºC, para testear hongos.
+II.3.a.4.b.4) Si el inóculo produce un medio turbio, de tal forma que la falta de crecimiento no pueda ser determinada por examen visual, deben hacerse subcultivos del 7º al 11º días, de productos biológicos preparados a partir de clostridios, toxoides, bacterinas y bacterinas-toxoides, y del 3º al 7º días, para otros productos biológicos. Se deben transferir partes del medio turbio en cantidades no menores a 1,0 ml, a 20 / 25 ml de medio fresco, e incubarlas durante el resto del período de 14 días.
+II.3.a.4.c) Examinar el contenido de todos los frascos-test para crecimiento microbiano macroscópico durante el período de incubación. El test será repetido cuando sea invalidado por controles adecuados. Para cada conjunto de frascos-test que represente una partida de un test válido, se aplicarán las siguientes reglas:
+
+1. De no haber ningún crecimiento en ningún frasco-test, la partida satisface los requisitos del test.
+2. Si hubiera crecimiento en cualquier frasco-test, se realizará um "retest" para eliminar la falla técnica, usando el doble de muestras no abiertas del producto final.
+3. Si hubiera crecimiento en cualquier frasco-test del test final, la partida o ingredientes a ser utilizados en la preparación del producto biológico, de acuerdo al caso, serán insatisfactorias.
+II.3.b) Titulación.
+Las técnicas de titulación están descritas en las normas específicas de cada producto. La titulación será hecha como "pool" de 3 frascos en diluyente apropiado. Las excepciones serán tratadas en los productos específicos. Cada producto tendrá su título mínimo para test de aprobación.
+
+Las diluciones, cuando sean en base logarítmica, son inoculadas por vía adecuada a la cepa, con un mínimo de 5 diluciones y un número de 5 unidades/dilución. El cálculo será determinado por métodos matemáticos tales como: Reed-Muench, Spearman-Karber, probit o equivalente.
+
+Los valores del resultado serán expresados en título/dosis de vacuna, con una fracción decimal significativa cuando es expresado en log : los valores comprendidos entre 0,01 y 0,05 = 0,0 y los valores comprendidos entre 0,06 y 0,09 = 0,1.
+
+Cuando los valores se expresan un unidades (PFU o UFC/dosis), deben expresarse en números enteros.
+
+II.3.c) Identidad.
+II.3.c.1) Identidad para bacterias.
+Por lo menos uno de estos tests de identidad descritos a continuación debe realizarse para "Master Seed" bacteria o muestra del producto biológico completo. En estos tests debe realizarse un control positivo suministrado o aprobado por el organismo oficial controlador.
+II.3.c.1.a) Test de Anticuerpo fluorescente.
+La técnica del anticuerpo fluorescente debe ser realizada utilizando una muestra de la vacuna bacteriana. La fluorescencia típica para dicha bacteria debe ser demostrada. La fluorescencia no ocurre en un control tratado con antisuero específico.
+II.3.c.1.b) Test de aglutinación en tubo.
+Cada test debe ser realizado con una suspensión viable de vacuna bacteriana, utilizando el método de reducción constante del antígeno con el antisuero específico. La aglutinación típica para bacteria debe ser demostrada, la cual no ocurre en el suero negativo usado como control.
+II.3.c.1.c) Test de aglutinación en placa.
+Debe ser realizado usándose suspensiones viables de la vacuna bacteriana con el antisuero específico. La aglutinación típica para bacteria debe ser demostrada por observación micro o macroscópica, lo cual no ocurre con el suero negativo usado como test.
+II.3.c.1.d) Test de caracterización.
+La caracterización bioquímica o de cultivo debe ser demostrada.
+II.3.c.2) Identidad para virus.
+Debe realizarse por lo menos uno de los tests de identidad para virus, descritos a continuación, para cada lote de vacuna:
+II.3.c.2.a) Test de anticuerpo fluorescente.
+Este test debe ser realizado utilizándose células inoculadas con el virus y células control no inoculadas. Las células deben ser coloreadas con fluoresceína, unida al antisuero específico. La fluorescencia típica del virus debe ser demostrada en las células inoculadas. Las células control permanecen libres de fluorescencia.
+II.3.c.2.b) Test de neutralización del suero.
+Este test debe ser realizado utilizándose el método de reducción constante de virus en el suero, con antisuero específico. Para la identificación positiva, por lo menos 100 DI50 del virus de vacuna deben ser neutralizadas por el antisuero.
+II.3.d) Inocuidad.
+Se utilizan, como mínimo, 10 aves SPF alojadas en forma aislada. Para cada grupo serán mantenidas, como mínimo, 10 aves controles.
+Vacunas vivas:
+Se inoculan 10 dosis por ave en la edad más temprana y de la forma recomendada por el fabricante.
+Vacunas inactivadas:
+Se inoculan 2 dosis por ave, a una edad mínima de 2 semanas, o a la edad mínima indicada por el fabricante.
+Las aves serán observadas durante un período de 21 días, verificando las reacciones adversas locales y generales atribuibles al producto. La interpretación del test se hará de acuerdo a la norma específica de cada producto.
+
+II.3.e) Patógenos extraños:
+II.3.e.1) Leucosis linfoide aviaria.
+Cada virus vacinal citopático a células de fibroblasto de embrión de gallina debe ser efectivamente neutralizado, inactivado o separado, para que cantidades mínimas del virus de la leucosis linfoide puedan ser propagadas en el cultivo celular durante el período de crecimiento de 21 días. Si el virus de la vacuna no puede ser efectivamente neutralizado, inactivado o separado, deberá testearse otra muestra de vacuna, preparada en la misma semana, usando material proveniente del mismo origen y lote utilizado para la preparación del virus de la referida vacuna.
+
+Cuando se testeen cultivos celulares, deben usarse como inóculo 5 ml de suspensión celular final preparada para semilla de cultivo celular de la producción. Cuando las vacunas son testeadas, debe ser usado como inóculo el equivalente a 200 dosis de vacuna contra la Enfermedad de Newcastle o 500 dosis de otras vacunas para uso en aves. Se deben preparar cultivos control a partir de la misma suspensión celular que los cultivos para la vacuna test.
+
+Como control negativo son utilizados cultivos de células de fibroblasto de embrión de gallina no inoculadas. Un grupo de cultivos de fibroblasto, inoculado con el virus del subgrupo A y otro grupo inoculado con el subgrupo B, son utilizados como control positivo A y B, respectivamente.
+
+Los cultivos celulares deben ser propagados a 37ºC +/- 1 por lo menos por 21 días. Estas deben ser repicadas, cuando sea necesario, para mantener la viabilidad, y las muestras recolectadas de cada pasaje deben ser testeadas para el antígeno grupo-específico.
+
+El test de microtitulación de la fijación del complemento debe ser realizado utilizando la técnica del punto hemolítico de 50 o 100%, para determinar la unidad del complemento. Deben usarse cinco unidades hemolíticas al 50% o dos unidades hemolíticas al 100% para cada test.
+
+Todos los materiales testeados, incluyendo controles positivos y negativos, deben ser guardados a -60ºC o congelados, hasta que sean usados en el test. Antes del uso, cada muestra debe ser descongelada y congelada 3 veces, para romper células intactas y liberar el antígeno grupo-específico.
+
+El antisuero utilizado en el test de fijación del complemento debe ser un reactivo patrón. Deben ser utilizadas cuatro unidades de antisuero para cada test.
+
+La presencia de actividad fijadora del complemento en las muestras recolectadas (de los pasajes) en la dilución 1:4 o mayor, en ausencia de actividad anti-complementaria, debe ser considerada como positiva, a menos que la actividad pueda definitivamente ser establecida como causada no por el virus de la leucosis linfoide, subgrupos A y/o B. La actividad en la dilución 1:2 debe ser considerada como sospechosa y la muestra debe ser posteriormente subcultivada para determinar la presencia del antígeno grupo-específico.
+
+Puede ser utilizado el método de ELISA u otro método validado. Las vacunas que se encuentren contaminadas por el virus de la leucosis linfoide se considerarán insatisfactorias. Los lotes de origen de material contaminado también son insatisfactorios.
+
+II.3.e.2) Virus hemoaglutinantes.
+Muestras de frascos del producto final, rehidratado como descrito en el rótulo, deben ser usadas como inóculo. Las vacunas aviarias distribuidas sin diluyente deben ser rehidratadas con 30 ml de agua destilada estéril y usadas como inóculo. Cuando una o más fracciones son utilizadas en combinación con la vacuna para la Enfermedad de Newcastle, las muestras que serán testeadas deben ser tomadas de cada suspensión, antes de ser mezcladas con la vacuna para la enfermedd de Newcastle.
+
+Cada uno de los 10 huevos embrionados con 9 o 10 días de edad, provenientes de lote susceptible a la Enfermedad de Newcastle, debe ser inoculado en la cavidad alantoidea con 0,2 ml del inóculo no diluido.
+Cinco embriones no inoculados, de la misma edad y del mismo lote que aquellos usados para el test, serán los controles negativos.
+Testear una muestra del fluido alantoideo del virus de la enfermedad de Newcastle como control negativo.
+De tres a cinco días después de la inoculación, la muestra del fluido alantoideo de cada huevo debe ser testeada, separadamente, por un test rápido en la placa, para actividad hemoaglutinante, usando una suspensión de 0,5% de glóbulos rojos frescos de gallina.
+Si los resultados no fueren conclusivos, uno o dos pasajes deben ser hechos utilizando fluido de huevos originales.
+Deben utilizarse fluidos de embriones vivos o muertos separadamente, para inocular en estos pasajes.
+Si se observa actividad hemoaglutinante atribuible al producto, la partida es insatisfactoria.
+II.3.e.3) Detección de agentes citopatogénicos.
+Colorear cada capa con colorante citológico apropiado. Examinar el área total de cada monocapa coloreada, para evidenciar cuerpos de inclusión, número anormal de células gigantes u otra indicación citopatológica de anormalidad celular atribuible a agentes
+extraños.
+II.3.e.4) Hemoadsorción.
+II.3.e.4.a) Lavar la monocapa con diversos cambios de PBS.
+II.3.e.4.b) Adicionar el volumen adecuado a una suspensión al 0,2% de glóbulos rojos, para cubrir la superficie de la monocapa. Deben utilizarse suspensiones o glóbulos rojos lavados de cobayo o tipo "O" humanos. Estas suspensiones deben ser mezcladas antes de ser agregadas a la monocapa o utilizadas separadamente en monocapas separadas.
+II.3.e.4.c) Incubar la monocapa a 4ºC durante 30 minutos. Lavar con PBS y observar la hemoadsorción.
+II.3.e.4.d) Si la hemoadsorción no es aparente, repetir el item "b" e incubar las monocapas a 20ºC - 25ºC durante 30 minutos. Lavar con PBS y examinar la hemoadsorción. Si se desea, pueden ser utilizadas monocapas para cada temperatura de incubación. Si se encontrase citopatología o hemoadsorción atribuible a un agente extraño, el material testeado será insatisfactorio.
+II.3.e.5) Detección de patógenos extraños por la inoculación en huevos embrionados.
+El producto biológico a ser testeado debe ser preparado como recomendado en el prospecto o, en caso de vacunas liofilizadas, rehidratado con 30 ml de agua destilada estéril.
+
+Debe mezclarse un volumen de vacuna preparada con 9 volúmenes de antisuero inactivado por el calor, estéril, específico para neutralizar el virus vacinal. Cada lote de antisuero debe ser certificado a través del test de neutralización de virus que no inhibe otros virus que puedan ser contaminantes.
+
+Después de la neutralización, 0,2 ml de la mezcla vacuna-suero serán inoculados en cada uno de los 30 embriones susceptibles.
+Si se está testeando un virus "master seed" o una bacteria de vacuna, la sustancia debe ser diluida, de forma que cada 0,2 ml conteniendo virus neutralizado, equivalga a 10 dosis de vacuna.
+II.3.e.5.1) Inocular la sustancia en 3 grupos de 10 huevos
+embrionados:
+
+Grupo 1 - 0,2 ml en la cavidad alantoidea de cada huevo con 9 a 10 días de edad.
+Grupo 2 - 0,2 ml en la membrana corioalantoidea (CAM) de cada huevo con 9 a 10 días de edad.
+Grupo 3 - 0,2 ml en la membrana de la yema de cada huevo con 5 a 6 días de edad.
+Hacer ovoscopía de los huevos de los grupos 1 y 2 diariamente durante 7 días y del grupo 3, durante 14 días.
+II.3.e.5.2) Descartar los embriones que mueran en las primeras 24 horas, de muerte no específica. El test es válido si por lo menos 6 embriones de cada grupo sobreviven después de las primeras 24 horas posteriores a la inoculación.
+II.3.e.5.3) Examinar las anormalidades de todos los embriones que murieron durante las 24 horas post inoculación. Examinar también posibles anormalidades de las membranas corioalantoideas de estos huevos y testear los fluidos alantoideos para la presencia de agentes hemoaglutinantes. Además, centrifugar a baja velocidad los fluidos alantoideos de los huevos embrionados, inoculados vía saco alantoideo, para depositar las células. Estas células son examinadas por el test de anticuerpo fluorescente para el virus de Bronquitis Infecciosa.
+II.3.e.5.4) Si ocurrieren muertes o efectos atribuibles al producto, efectuar un posterior pasaje en embrión. Hacer un "pool" de material de embriones vivos y muertos, separadamente, e inocular cada "pool" en 10 huevos para cada una de las vías decritas en el item 1; el material de membrana corioalantoidea debe ser inoculado en la membrana corioalantoidea; los fluidos alantoideos, en la cavidad alantoidea y la yema, en la membrana de la yema.
+II.3.e.6) Detección de patógenos extraños por la inoculación en aves
+Este test debe ser realizado si fuera indicado en las "master seed" o productos, cuando el test II.3.e.5 no fuese posible, por no conseguir neutralizar suficientemente el agente.
+El producto biológico a ser testeado debe ser preparado como recomendado en el rótulo o, en caso de las vacunas liofilizadas, rehidratado con agua destilada estéril (30 ml para 1000 dosis).
+
+• Por lo menos 25 aves jóvenes, saludables y susceptibles, identificadas y obtenidas del mismo lote y galpón, deben ser inmunizadas por lo menos 14 días antes de iniciar el test. El agente inmunizante debe ser el mismo que el producto a ser testeado, aunque debe ser de una partida previamente testeada y aprobada.
+• Por lo menos 20 aves deben ser inoculadas con 10 dosis de vacuna a ser testeada a través de las siguientes vías: subcutánea, intratraqueal, ocular y escarificación (1 cm2). Veinte aves deben ser usadas para cada vía o combinación de éstas.
+• Por lo menos 5 aves deben ser aisladas como controles.
+• Todas las aves deben ser observadas durante 21 días, para ver signos de enfermedades septicémicas o respiratorias, y otras condiciones patológicas.
+• Si los controles permanecieren saludables y si ocurrieren reacciones desfavorables no atribuibles al producto en las aves vacunadas, o ambos, el test no será conclusivo y deberá ser repetido.
+• Si el test no es repetido, la partida será reprobada.
+
+II.3.e.7) Detección de Virus de Reticuloendoteliosis (REV).
+Inocular semilla neutralizada con antisuero monoespecífico en 5 cultivos de fibroblastos de embrión de gallina de 8 a 10 días de edad, y dejar adsorber durante 1 hora; enseguida, drenar los líquidos y colocar medio de crecimiento.
+Inocular 3 cultivos con (REV) (controles positivos) y mantener 3 cultivos como controles negativos.
+
+Los tres cultivos son incubados a 37ºC +/- 1 y subcultivados dos veces con tres o cuatro días de intervalo, siendo el último subcultivo preparado sobre láminas de 20 mm.
+Testear los cultivos sobre láminas con anticuerpos fluorescentes, para detectar la presencia del virus REV.
+La semilla será rechazada si se detecta REV en cualquiera de las muestras inoculadas con la misma.
+El test será válido si se detectare REV en los tres controles positivos y en ninguno de los tres controles negativos.
+II.3.e.8) Detección del virus de la Anemia del Pollo (CAA).
+Prepare 12 frascos de 25 cm3 con 20 ml de suspensión de células fibroblastoides MDCC - MSB1 (concentraciones de 5,0 x 105,0 células por ml).
+
+Después de ser neutralizado con suero monoespecífico, el virussemilla es inoculado en 5 frascos. Simultáneamente serán inoculados 4 frascos con la cepa cux-1 de CAA como controles positivos, y serán mantenidos 3 frascos sin inocular como controles negativos.
+Las suspensiones son subcultivadas 8 veces con intervalos de 2 a 3 días, diluyendo 1:5 en medio fresco y a 37ºC +/1. Al final del período de incubación se centrifugan las células de cada suspensión a baja velocidad (400 G) por 10 minutos y son resuspendidas a 106,0 células por ml. Volúmenes de 25 microlitros son colocados en cavidades de una lámina multiexcavada y después de secarlas con aire, se les aplica el test de inmunofluorescencia indirecta (IFI).
+
+Durante los subcultivos, la presencia de CAA puede ser evidenciada por el cambio de coloración en los cultivos infectadas, donde los fluidos se tornan rojos en comparación con los cultivos-control. Si en alguna etapa, un cambio de color metabólico sugiere la presencia de CAA, el IFI deberá ser ejecutado para confirmar la observación.
+
+La semilla será rechazada si el test de CAA diese positivo en cualquiera de las suspensiones inoculadas con la misma. El test es válido si el CAA es detectado en los 4 controles positivos y en ninguno de los controles negativos.
+
+II.3.f) Inactivación.
+Cada lote de antígeno para preparación de vacunas inactivadas debe ser testeado en sustratos específicos para la detección de total inactivación, conforme descrito en el item específico del producto.
+II.3.g) Eficacia.
+Para evaluar la eficacia del producto final, debe ser utilizado un test en aves SPF o sea, serología y/o potencia (DP 50 o % de protección) y/u otros tests validados por el organismo oficial controlador, que certificará las cepas del desafío. Los tests realizados con cepas no certificadas no tendrán valor legal.
+II.3.g.1) Serología.
+Serán vacunadas 20 aves SPF, con edad mínima de 2 a 4 semanas, por la vía indicada por el fabricante. Para cada lote se mantendrán, como mínimo, 5 testigos. Veintiún días después de la vacunación, las aves serán sangradas, para evaluación serológica (índice de seroconversión). Los niveles de seroconversión están definidos en los items específicos de cada producto.
+II.3.g.2) Potencia.
+II.3.g.2.1) DP 50.
+La protección es evaluada utilizándose 4 grupos de 20 aves originarias de planteles SPF, de edad mínima indicada por el fabricante, reservándose, uno de los grupos, como testigo.
+
+Los lotes son vacunados con 1/100, 1/50, 1/25 de dosis, utilizando una jeringa micrométrica. La vacuna podrá ser diluida en un diluyente que no afecte la potencia y/o condiciones físicas originales de la vacuna, debidamente comprobadas. Transcurridos 21 días, las aves son inoculadas por la vía adecuada a la cepa de desafío, con dosis infectante suficiente para presentar el 90% de infección en los testigos de una muestra en el virus-patrón, certificada por el organismo oficial controlador. Las aves son observadas diariamente por un período mínimo de 10 días, y el grupo testigo debe presentar, como mínimo, el 90% de infección. El número de aves de cada grupo que sobreviva sin mostrar ninguna evidencia clínica de esta enfermedad es anotado, y la potencia de la vacuna es calculada por el método estadístico patrón, debiendo ser definido para cada virus con un límite inferior de confianza (p = 0,95) definido en cada producto.
+II.3.g.2.2) % Protección.
+De acuerdo a cada enfermedad específica.
+II.3.g.2.3) Inmunogenicidad.
+Cada lote de virus "master seed", usado para la producción de vacunas, debe ser testeado conforme descrito para las normas específicas de cada producto.
+El virus "master seed" debe ser retesteado para inmunogenicidad cada 3 años, a menos que el uso del lote previamente testeado haya sido discontinuado.
+En el retesteado es necesario usar solamente una de la  vías de administración recomendada en el prospecto.
+II.3.h) Tests físico-químicos.
+II.3.h.1) Humedad residual.
+La humedad residual será verificada a través de métodos convencionales y debe ser, como máximo, del 3%.
+II.3.h.2) Vacío / gas inerte.
+El vacío / gas inerte, debe ser satisfactorio e investigable a través del detector de vacío, siendo el gas inerte investigado conforme indicación técnica suministrada por el fabricante.
+II.3.h.3) pH.
+La concentración hidrogeniónica debe ser determinada a través de peachímetro evaluado en solución tampón de pH, inmediatamente antes del uso. El pH debe ser específico para cada producto.
+II.3.h.4) Volumen.
+Todo producto líquido, medido entre 22ºC y 25ºC, debe contener el volumen indicado en el rótulo, evaluado por metodología validada. II.3.h.5) Viscosidad.
+Es compatible con el tipo de emulsión definida por el fabricante del producto.
+II.3.h.6) Estabilidad.
+Es compatible con el tipo de emulsión definida por el fabricante, conforme descripción de la metodología en el informe de registro del producto.
+II.3.h.7) Concentración.
+El volumen celular puede ser evaluado por espectrofotometría o PCV (método de Fitsch-Hopkins).
+II.3.h.8) Sensibilidad.
+Cada lote de antígeno deberá ser testeado frente a sueros-patrón monoespecíficos positivos y negativos u otros reconocidos por el organismo oficial controlador.
+
+II.3.h.9) Tiempo de reconstitución.
+Cuando son adicionados los diluyentes a los productos liofilizados, estos deberán presentar tiempo de reconstitución igual o menor a 60 segundos.
+II.3.h.10) Osmolaridad.
+La osmolaridad es calibrada por el test de osmometría, y los productos deben estar entre los valores de 260 a 320 mohms.
+
+II.4) De la comercialización y el uso.
+II.4.a) Plazo de validez.
+El plazo de validez será definido en el reglamento específico para cada producto. En el caso de productos asociados, prevalecerá el menor plazo.
+II.4.b) Conservación y almacenamiento.
+Definidas de acuerdo con el reglamento específico de cada producto.
+II.4.c) Transporte.
+De acuerdo al reglamento específico de cada producto.
+II.4.d) Bioseguridad.
+De acuerdo al reglamento específico de cada producto.
+II.4.e) Uso y forma de aplicación.
+De acuerdo al reglamento específico de cada producto.
+
+CAPÍTULO III
+
+VACUNAS VIVAS
+III.1) VACUNAS VIVAS MONOVALENTES.
+III.1.1.) VACUNA CONTRA LA ENFERMEDAD DE NEWCASTLE.
+
+III.1.1.1) De la producción.
+Las vacunas contra la Enfermedad de Newcastle deben ser preparadas a partir de tejidos o fluidos obtenidos de huevos embrionados de gallina SPF o cultivo celular.
+
+III.1.1.2) De la semilla.
+III.1.1.2.1) Muestras.
+Las vacunas vivas atenuadas de la Enfermedad de Newcastle serán preparadas con muestra de semilla que fue sometida a un test que reveló un índice de patogenicidad intracerebral (IPIC) de: menos de 0,4, si cada ave recibió por lo menos 107,0 DI50 por test o, por lo menos, de 0,5, si cada ave recibió por lo menos 108,0 DI50 por test.
+III.1.1.2.2) Control de la semilla.
+Se hará conforme lo establecido en el item II.3, de los procedimientos de control, excepto los items II.3.a.4, II.3.c.1, II.3.c.2, II.3.f, II.3.h.4, II.3.h.5, II.3.h.6, II.3.h.7, II.3.h.8, II.3.h.9 y II.3.h.10.
+III.1.1.2.2.a) Identificación de la muestra viral.
+La vacuna reconstituida es neutralizada por un suero inmunoespecífico inactivado. La mezcla se deja por 30 minutos a 20ºC y es inoculada a razón de 0,2 ml vía cavidad alantoidea, en 5 huevos embrionados SPF, de 9 días. La investigación de hemaglutininas en el líquido alantoideo debe ser negativa después de 4 a 7 días de incubación a 37ºC, y positiva en los controles inoculados con la vacuna no neutralizada. Para identificación positiva, por lo menos 100 DI50 del virus vacinal deben ser neutralizadas ante el suero.
+
+II.1.1.2.2.b) Indice de Patogenicidad intracerebral (IPIC).
+A partir del líquido alantoideo viral con título HA mayor que 24,0 diluido a 1:10 en salina isotónica estéril, inocular 0,05 ml, por vía intracerebral, en 10 (diez) pollitos SPF de 1 día de edad. Examinar los pollitos diariamente durante 8 (ocho) días, anotando el resultado:
+- Pollitos saludables = 0
+- Pollitos enfermos = 1
+- Pollitos muertos = 2
+Transcurrido ese tiempo, calcular el índice medio del período. En las muestras del virus de la enfermedad de Newcastle más virulenta (velogénicas), este índice se aproxima a 2.0, mientras que en las cepas lentogénicas este índice se aproxima a 0.0.
+III.1.1.2.2.c) Tiempo promedio de muerte embrionaria.
+Después de realizar diluciones decimales, en la faja de 10-6 a 10-9 del líquido alantoideo viral, en solución salina, inocular 0,1 ml de cada dilución en, como mínimo, 5 (cinco) huevos embrionados SPF, de 8 a 11 días de edad, por la vía alantoidea, e incubar los huevos a 37ºC.
+
+Dejar una muestra del mismo líquido alantoideo en la heladera, durante 8 horas, y después inocular 0,1 ml de cada dilución en, como mínimo, 5 huevos de la misma edad, e incubar a 37ºC.
+Observar los huevos durante 7 (siete) días, dos veces por día.
+Registrar el tiempo medio de muerte de los embriones.
+La dosis letal mínima será la mayor dilución que mata todos los embriones.
+TME es el tiempo promedio, en horas, en que la dosis letal mínima mata los embriones, y se clasifica en:
+
+Velogénica - menos de 60 horas para matar
+Mesogénica - entre 60 y 90 horas para matar
+Lentogénica - más de 90 horas para matar
+
+III.1.1.2.2.d) Protección.
+El test será efectuado con un lote piloto, siempre que ocurra un cambio del virus "master seed". Se utilizarán 30 (treinta) aves SPF con la menor edad de vacunación recomendada por el fabricante, vacunándose 20 (veinte) con una dosis de, por lo menos, una de las vías de aplicación indicadas por el fabricante; y manteniendo 10 (diez) aves separadas, como testigo. Después de 21 (veintiún) días, los lotes serán desafiados con el virus de referencia, aprobado por el organismo oficial controlador, con la dosis de 105,0 DL50, vía intramuscular. Las aves serán observadas diariamente por un período mínimo de 10 (diez) días.
+La vacuna deberá ser considerada satisfactoria si, como mínimo, 90% de las aves vacunadas sobreviven, sin presentar signos clínicos de la enfermedad. El test será válido si, como mínimo, 90% de las aves testigos mueren o presentan signos clínicos de la enfermedad.
+III.1.1.2.2.e) Inmunogenicidad.
+Deben ser utilizadas aves SPF, susceptibles de la Enfermedad de Newcastle, todas de la misma edad y del mismo origen.
+Veinte o más aves deben ser vacunadas por cada método de administración recomendado por el fabricante.
+Deben ser utilizadas como controles no vacunados diez aves, de la misma edad y del mismo origen.
+Debe establecerse un promedio geométrico del título del producto acabado, producido a partir del mayor pasaje del virus "master seed", antes que el test de inmunogenicidad se realice. Cada lote vacunado debe recibir una cantidad predeterminada de la vacuna. Deben ser hechas cinco titulaciones de la vacuna, para confirmar la dosis administrada en cada lote de aves usadas en el test.
+• Deben utilizarse, como mínimo, 3 diluciones apropiadas (con intervalos que no excedan la escala decimal), y el test debe ser realizado de la siguiente forma:
+• Para cada dilución inyectar, como mínimo, 0,1 ml en, por lo menos, 5 embriones de 9 a 11 días de edad, en la cavidad alantoidea. Descartar los muertos después de las 24 horas. Por lo menos 4 embriones de cada dilución deben permanecer viables después de 24 horas.
+• 5 a 7 días después de la inoculación, examinar los embriones sobrevivientes, para la evidencia de infección. Una titulación satisfactoria debe tener, por lo menos, una dilución con valores entre 50 y 100% de positivos y por lo menos una dilución con 50 y 0% de positivos.
+• Calcular el DI50 por el método Spearman-Karber, Reed-Muench o equivalente.
+• Veinte a veinticocho días después de la vacunación, todas las aves, vacunadas y controlads, deben ser desafiadas intramuscularmente con, por lo menos, 104,0 DI50, de virus por ave y observadas diariamente durante 14 días. El virus desafío debe ser certificado por el organismo oficial controlador.
+• Si, por lo menos, 90% de los controles no desarrollan signos clínicos de la enfermedad de Newcastle, durante el período de observación, el test no es conclusivo y debe ser repetido.
+• Si por lo menos 19 de 20, o 27 de 30, o 36 de 40 de las aves vacunadas de cada grupo, no permanecen libres de signos clínicos de la enfermedad de Newcastle, durante el período de observación, el virus "master seed" se considera insatisfactorio.
+III.1.1.3) Del producto final.
+III.1.1.3.a) Esterilidad.
+Ver item II.3.a, excepto II.3.a.4.
+
+Queda facultado el laboratorio productor, para realizar el test de esterilidad de Salmonella, desde que el mismo haya sido realizado durante el proceso de producción.
+III.1.1.3.b) Patógenos extraños.
+Los tests referidos en este item pueden ser realizados en el producto final o durante el proceso de producción.
+III.1.1.3.b.1) Detección de patógenos por la inoculación en huevos embrionados.
+Ver item II.3.e.5.
+III.1.1.3.b.2) Leucosis aviaria.
+Ver item II.3.e.1.
+III.1.1.3.b.3) Virus hemoaglutinantes.
+Ver item II.3.e.2.
+III.1.1.3.b.4) Detección de patógenos extraños, por la inoculación en aves.
+Ver item II.3.e.6.
+III.1.1.3.b.5) Detección de agentes citopatogénicos.
+Ver item II.3.e.3.
+III.1.1.3.b.6) Hemoadsorción.
+Ver item II.3.e.4.
+
+III.1.1.3.c) Titulación.
+La determinación del contenido viral es realizada a partir de muestras que fueron mantenidas a 37ºC durante 7 días, para estabilidad térmica.
+El test será realizado en huevos embrionados SPF de 9 a 11 días de edad, inoculados en la cavidad alantoidea con 0,1 ml de diferentes diluciones, utilizando un mínimo de 5 huevos por dilución.
+Los embriones se mantendrán a 37ºC durante 5 a 7 días y, posteriormente, colocados a 4ºC, de 12 a 18 horas. Se investigan las hemaglutininas y se calcula el título, debiendo tener, como mínimo 105,5 DI50 por dosis de vacuna. En el caso de que ocurra variación de 100,5 del título mínimo exigido, será realizdo un nuevo test, utilizándose el doble de número de frascos utilizados en el test inicial. Variaciones mayores no tendrán derecho al nuevo test ni al retesteado. Persistiendo, en el nuevo test, un título inferior a la exigencia mínima de la prueba, la vacuna será considerada insatisfactoria.
+III.1.1.3.d) Eficacia.
+La eficacia del producto es testeada según uno de los tests descritos:
+III.1.1.3.d.1) Protección.
+Ver item III.1.1.2.2.d.
+III.1.1.3.d.2) Serología.
+Se vacunarán 20 aves SPF con la edad mínima de 2 a 4 semanas, por la vía indicada por el fabricante. Para cada lote se mantendrán, como mínimo, 5 testigos. Veintiún días después de la vacunación, las aves serán sangradas para evaluación serológica (índice de seroconversión). Título mínimo de aprobación: HI de 25,0 o 1:32, utilizándose 4 unidades hemoaglutinantes.
+III.1.1.3.e) Inocuidad.
+Ver item II.3.d.
+III.1.1.3.f) Tests físico-químicos.
+III.1.1.3.f.1) Humedad residual.
+Ver item II.3.h.1.
+III.1.1.3.f.2) Vacío / gas inerte.
+Ver item II.3.h.2.
+III.1.1.3.f.3) pH.
+Ver item II.3.h.3.
+Deberá ser de 7 +/- 0,5.
+III.1.1.3.f.4) Tiempo de reconstitución.
+Ver item II.3.h.9.
+III.1.1.4) De la comercialización y el uso.
+III.1.1.4.a) Plazo de validez.
+El plazo de validez de las vacunas será de 24 meses, considerado a partir de la fecha final de liofilización.
+III.1.1.4.b) Conservación y almacenamiento.
+El producto deberá ser conservado a temperatura entre 2ºC y 8ºC, al abrigo de la luz, y protegido de fuentes de radiación.
+III.1.1.4.c) Transporte.
+El producto debe ser transportado en embalaje o vehículo isotérmico, con hielo conservante o unidad de refrigeración que mantenga la temperatura entre 2ºC y 8ºC.
+III.1.1.4.d) Bioseguridad.
+
+III.1.1.4.d.1) Para uso por vía aerosol, debe ser exigido que el operador use el equipo de protección individual.
+III.1.1.4.d.2) Después de la utilización, los residuos de embalaje deben ser incinerados o descontaminados por procesos químicos adecuados. III.1.1.4.d.3) En los prospectos que acompañan el embalaje deben constar: reacciones adversas, contraindicaciones, precauciones y efectos colaterales.
+III.1.1.4.d.4) En el caso de que se quiebre un frasco del producto liofilizado, desinfectar inmediatamente el local con un producto químico adecuado, y depositar los restos en lugar apropiado.
+III.1.1.4.e) Uso y vías de aplicación.
+El producto puede ser usado por vías: ocular, nasal, oral, intramuscular, subcutánea o aerosol, con aplicaciones de una dosis de vacuna por ave, de acuerdo a las especificaciones del fabricante.
+
+III.1.2) VACUNA CONTRA BRONQUITIS INFECCIOSA DE LAS GALLINAS
+III.1.2.1) De la producción.
+Las vacunas contra la Bronquitis Infecciosa de las Gallinas deben ser preparadas a partir de tejidos o fluidos obtenidos de huevos embrionados de gallina SPF o cultivo celular.
+
+III.1.2.2) De la semilla.
+III.1.2.2.1) Muestras.
+Se utilizan muestras comprobadamente eficientes en la profilaxis de la bronquitis infecciosa de las gallinas. La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+III.1.2.2.2) Control de la semilla.
+Ver item III.1.1.2.2.
+III.1.2.2.2.a) Identificación de la muestra viral.
+La identificación de la muestra viral se hace a través del test serológico con suero monoespecífico.
+III.1.2.2.2.b) Eficacia.
+Para estimar la eficacia del producto, se debe realizar un test con suero de aves SPF. El test serológico debe ser realizado con cepa homóloga, y deberá presentar un índice de seroneutralización (ISN) mayor o igual a 102,0.
+III.1.2.3) Del producto final.
+III.1.2.3.a) Esterilidad.
+Ver item III.1.1.3.a.
+III.1.2.3.b) Detección de patógenos, por la inoculación en huevos embrionados.
+Ver item II.3.e.5
+III.1.2.3.c) Titulación.
+Toda partida de vacuna será titulada usándose, para cada dilución, por lo menos 5 embriones de 9 a 11 días de incubación, inoculando 0,1 ml, vía cavidad alantoidea, y despreciando los embriones muertos en las primeras 24 horas después de la inoculación.
+
+El test solamente será válido si sobreviven, como mínimo, 4 embriones por cada dilución después de las 24 horas.
+Los embriones serán examinados del 5º al 7º día después de la inoculación, considerando positivos aquellos con evidencia de lesiones típicas del virus de la Bronquitis infecciosa.
+
+La vacuna debe contener no menos de 102,0 DI50 del virus por dosis de vacuna, hasta el final del plazo de validez indicado por el productor.
+
+III.1.2.3.d) Eficacia.
+Ver item III.1.2.2.2.b
+III.1.2.3.e) Inocuidad.
+Ver item II.3.d
+III.1.2.3.f) Tests físico-químicos.
+III.1.2.3.f.1) Humedad residual.
+Ver item II.3.h.1
+III.1.2.3.f.2) Vacío / gas inerte.
+Ver item II.3.h.2
+III.1.2.3.f.3) pH
+7,+/-0,5
+III.1.2.3.f.4) Tiempo de reconstitución.
+Ver item II.3.h.9
+III.1.2.4) De la comercialización y el uso.
+III.1.2.4.a) Plazo de validez.
+El plazo de validez de las vacunas será, como máximo, de 15 meses a contar de la fecha de la fabricación, considerada a partir de la fecha final de liofilización.
+III.1.2.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b
+III.1.2.4.c) Transporte.
+Ver item III.1.1.4.c
+III.1.2.4.d) Bioseguridad.
+Ver iciso III.1.1.4.d
+III.1.2.4.e) Uso y vías de aplicación.
+El producto puede ser utilizado por las vías oral, nasal o aerosol, con aplicación de una dosis de vacuna por ave, según especificaciones del fabricante.
+
+III.1.3) VACUNA CONTRA LA ENFERMEDAD DE GUMBORO
+III.1.3.1) De la producción.
+Las vacunas contra la Enfermedad de Gumboro deben ser preparadas a partir de tejidos o fluidos obtenidos de huevos embrionados de gallina SPF o cultivo celular.
+III.1.3.2) De la semilla.
+III.1.3.2.1) Muestras.
+Son utilizadas muestras comprobadamente eficientes en la profilaxis de la Enfermedad de Gumboro. La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+III.1.3.2.2) Control de la semilla.
+Ver item III.1.1.2.2
+III.1.3.2.2.a) Identificación de la muestra viral.
+La identificación es hecha a través de prueba serológica, con suero monoespecífico.
+
+III.1.3.2.2.b) Eficacia % Protección:
+El test será efectuado con una producción piloto. Se utilizan treinta aves de 14 días de edad, como mínimo, vacunándose 20 con 1 dosis y de la forma indicada por el fabricante, y 10 mantenidas separadamente, como controles negativos. Después de 21 días, los 2 lotes serán desafiados con el virus de referencia, aprobado por el organismo oficial controlador, con dosis definida según las especificaciones para el virus de la enfermedad de Gumboro. Tres a cinco días después de la infección, todas las aves serán necropsiadas y examinadas por lesiones evidentes de la enfermedad de Gumboro.
+Así, el 90% de los pollitos vacunados no deben presentar tales lesiones y, como mínimo, el 90% de los controles no vacunados deben presentar lesiones.
+III.1.3.2.2.c) Inocuidad.
+Ver item II.3.d
+III.1.3.2.2.d) Inmunogenicidad.
+Cada lote de virus "master seed" debe ser testeado en cuanto a su inmunogenicidad, y la dosis de virus seleccionada para uso debe ser establecida de acuerdo a lo que siguiente:
+d.1) Deben ser utilizadas aves susceptibles a la Enfermedad de Gumboro, de la misma edad (3 semanas o menos) y procedencia. Veinte o más aves deben ser vacunadas por cada vía de administración indicada por el fabricante. Deben mantenerse diez aves de la misma edad y procedencia como controles no vacunados.
+d.2) El Título Medio Geométrico de la vacuna producida a partir del pasaje más alto del virus "master seed" debe ser determinado antes de inciar el test de inmunogenicidad. Cada ave debe recibir una cantidad predeterminada del virus de la vacuna. Deben realizarse cinco titulaciones del virus de la vacuna, para confirmar la dosis a administrar a cada ave utilizada en el test. Deben utilizarse, como mínimo, tres diluciones (con intervalos que no excedean la escala decimal) para las titulaciones del virus de la vacuna.
+d.3) Entre los 28 y 35 días de edad (pero, como mínimo, 14 días después de la vacunación), los grupos de aves vacunadas y los controles deben ser desafiados por vía ocular, con una muestra virulenta del IBDV, certificada por el organismo oficial controlador.
+d.3.1) De tres a cinco días después del desafío, todas las aves deben ser necropsiadas y examinadas para ver lesiones macroscópicas de la Enfermedad de Gumboro, incluyendo el edema peri-bursal y/o hemorragia y/o edema en el tejido de la Bolsa de Fabricius.
+d.3.2) Si un mínimo de 19 en 20, de 27 en 30 o de 36 en 40 aves vacunadas en cada grupo no se presentan libres de lesiones características de la Enfermedad de Gumboro, el virus "master seed" debe ser considerado insatisfactorio. Para que el test sea considerado válido, como mínimo el 90% de las aves del grupo control deben presentar lesiones de la Enfermedad de Gumboro.
+
+Si un porcentaje inferior al 90% de las aves del grupo control presenta lesiones, el test no será considerado conclusivo y debe ser repetido.
+d.4) El virus "master seed" debe ser retesteado en cuanto a su inmunogenicidad, 3 años después del test original, a menos que el uso del lote previamente testeado haya sido discontinuado. En el retesteado, debe usarse solamente una forma de administración recomendada por el fabricanate.
+III.1.3.3) Del producto final.
+III.1.3.3.a) Esterilidad.
+Ver deben ser utilizadas III.1.1.3.a.
+
+III.1.3.3.b) Patógenos extraños.
+Ver item III.1.1.3.b.
+III.1.3.3.c) Titulación.
+Toda la partida de vacuna será titulada usándose, para cada titulación, por lo menos 5 embriones con 7 a 11 días de incubación, inoculando 0,1 ml vía saco vitelino o m.c.a. (membrana corioalantoidea), y rechazándose los embriones muertos en las primeras 24 horas después de la inoculación.
+El test solamente será válido, si un mínimo de 4 embriones por cada dilución sobreviven las 24 horas. Los embriones serán examinados del 5º al 7º día después de la inoculación, considerando positivos aquellos con evidencias de lesiones típicas del virus de la Enfermedad de Gumboro.
+La vacuna debe contener no menos de 102,0 DI50 del virus por dosis de vacuna hasta el final del plazo de validez indicado por el productor. La vacuna puede también ser titulada en cultivo celular de fibroblasto de embrión de gallina.
+III.1.3.3.d) Eficacia.
+Ver item II.3.g.
+Uno de los tests que siguen puede ser realizado:
+III.1.3.3.d.1) % Protección.
+El test será efectuado con el producto final. Se utilizan treinta aves con, un mínimo de 14 días de edad, vacunándose 20 con 1 dosis y en la forma indicada por el fabricante, y 10 se mantienen separadas, como controles negativos.
+Después de 21 días, los lotes serán desafiados como controles negativos.
+Después de 21 los lotes serán desafiados con el virus de referencia, aprobado por el organismo oficial controlador, con dosis definida según las especificaciones para el virus de la Enfermedad de Gumboro.
+De tres a cinco días después de la infección, todas las aves serán necropsiadas y examinadas para ver si hay lesiones evidentes de la Enfermedad de Gumboro.
+Así, el 90% de los pollitos vacunados no deben presentar tales lesiones y, como mínimo, el 90% de los pollitos no vacunados deben presentar lesiones.
+
+III.1.3.3.d.2) Serología.
+Ver item III.1.2.2.2.b.
+III.1.3.3.e) Inocuidad.
+Ver item II.3.d.
+III.1.3.3.f) Tests físico-químicos.
+III.1.3.3.f.1) Humedad residual.
+Ver item II.3.h.1.
+III.1.3.3.f.2) Vácio / gas inerte.
+Ver item II.3.h.2.
+III.1.3.3.f.3) pH.
+7,+/-0,5.
+III.1.3.3.f.4) Tiempo de reconstitución.
+Ver item II.3.h.9.
+III.1.3.4) De la comercialización y el uso.
+III.1.3.4.a) Plazo de validez.
+Ver item III.1.1.4.a.
+III.1.3.4.b) Almacenamiento.
+Ver item III.1.1.4.b.
+III.1.3.4.c) Transporte.
+Ver item III.1.1.4.c.
+III.1.3.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+III.1.3.4.e) Uso y vías de aplicación.
+El producto debe ser utilizado por las vías oral, ocular, inyectable o intra huevo, con aplicación de una dosis de vacuna por ave, según especificaciones del fabricante.
+
+III.1.4.) VACUNA CONTRA LA ENFERMEDAD DE MAREK
+III.1.4.1) De la producción.
+
+Las vacunas contra la Enfermedad de Marek deben prepararse a partir de cultivos primarios, obtenidos de huevos embrionados de gallina SPF o cultivo celular de líneas, debidamente comprobado.
+III.1.4.2) De la semilla.
+III.1.4.2.1) Muestras.
+Se utilizan muestras comprobadamente eficaces en la profilaxis de la Enfermedad de Marek. La utilización de las muestras quedará condicionada a la aprobación por el organismo oficial competente.
+III.1.4.2.2) Control de la semilla.
+Ver item III.1.1.2.2.
+III.1.4.2.2.a) Identificación de la muestra viral.
+La identificación se hace a través de prueba serológica, con suero monoespecífico.
+III.1.4.2.2.b) Eficacia.
+La primera partida producida después de cada cambio de semilla principal deberá ser testeada en cuanto a la eficacia, de acuerdo a lo siguiente:
+Veinte aves, de un día de edad, susceptibles a la Enfermedad de Marek, son vacunadas con la vacuna-test, según las recomendaciones del fabricante.
+Veinte aves no vacunadas, en las mismas condiciones, son dejadas como controles.
+Después de 4 semanas de la vacunación, todas las aves, vacunadas y controles, son desafiadas con una dosis, cada una, de una cepa desafío, certificada por el organismo oficial controlador, capaz de provocar, como mínimo, 60% de lesiones características de la Enfermedad de Marek.
+Después de 4 semanas de desafío, las aves deberán ser sacrificadas y necropsiadas. El test es válido si, por lo menos, el 60% de los controles no vacunados presentan lesiones características de la Enfermedad de Marek. La producción piloto será considerada satisfactoria si el 80% de las aves vacunadas está libre de lesiones.
+III.1.4.3) Del producto final.
+III.1.4.3.a) Esterilidad.
+Ver item III.1.1.3.a.
+III.1.4.3.b) Patógenos extraños.
+Ver item III.1.1.3.b.
+III.1.4.3.c) Titulación.
+La vacuna debe ser reconstituida en diluyente producido por el propio fabricante.
+
+La titulación deberá hacerse con, un mínimo de 3 frascos de vacuna, debiendo contener, como mínimo, título individual de 1500 PFU's por dosis, en el acto de liberación de la partida y, como mínimo, 1000 PFU's por dosis, hasta la fecha de vencimiento.
+
+La titulación del virus de vacuna está constituida por el título medio de las muestras de vacuna.
+Simultáneamente, será titulada una vacuna de referencia de título conocido. La titulación será validada, si la mencionada vacuna presenta una variación de hasta +/- 20% del título esperado.
+III.1.4.3.d) Inocuidad.
+Ver item II.3.d.
+III.1.4.3.e) Tests físico-químicos (Vacunas liofilizadas).
+III.1.4.3.e.1) Humedad residual.
+Ver item II.3.h.1.
+III.1.4.3.e.2) Vacío / gas inerte.
+Ver item II.3.h.2.
+III.1.4.3.e.3) pH.
+7,3 +/- 0,3.
+III.1.4.3.e.4) Tiempo de reconstitución.
+Ver item II.3.h.9.
+III.1.4.4) De la comercialización y el uso.
+III.1.4.4.a) Plazo de validez.
+El plazo de validez de las vacunas será de 24 meses a contar de la fecha de fabricación, considerada a partir de la fecha final de liofilización o congelamiento.
+III.1.4.4.b) Conservación y almacenamiento.
+III.1.4.4.b.1) Liofilizada.
+Ver item III.1.1.4.b.
+III.1.4.4.b.2) Congelada.
+La vacuna debe ser sumergida en nitrógeno líquido, en recipientes apropiados, hasta el momento de ser usada.
+III.1.4.4.c) Transporte.
+III.1.4.4.c.1) Liofilizada.
+Ver item III.1.1.4.c.
+III.1.4.4.c.2) Congelada.
+Transportada en recipiente apropiado, conteniendo nitrógeno líquido.
+III.1.4.4.d) Bioseguridad.
+III.1.4.4.d.1) Para la manipulación del producto se exige que el operador use el equipo de protección individual.
+III.1.4.4.d.2) El almacenamiento y el transporte del producto deben ser hechos con cuidado, para tener buena ventilación en el local, debido a la liberación de gas inerte.
+III.1.4.4.d.3) Después del uso, los residuos de embalaje deben ser incinerados o descontaminados por procesos químicos adecuados.
+III.1.4.4.d.4) Reacciones adversas, contraindicaciones, precauciones y efectos colaterales deben constar en el prospecto o rótulo/prospecto que acompañan el embalaje.
+III.1.4.4.e) Uso y forma de aplicación.
+
+El producto debe ser usado por vía intramuscular, subcutánea o intra huevo, con aplicación de una dosis de vacuna por ave, según las especificaciones del fabricante.
+
+III.1.5) VACUNA CONTRA VIRUELA AVIARIA ("BOUBA")
+III.1.5.1) De la producción.
+Las vacunas contra la Viruela Aviaria deben ser preparadas a partir de tejidos o fluidos obtenidos de huevos embrionados de gallina SPF, cultivo celular o recombinación genética.
+III.1.5.2) De la semilla.
+III.1.5.2.1) Muestras.
+Se usan muestras comprobadamente eficaces en la profilaxis de la Viruela Aviaria. La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+III.1.5.2.2) Control de la semilla.
+Ver item III.1.1.2.2.
+III.1.5.2.2.a) Identificación de la muestra viral.
+La identificación es hecha a través de prueba serólógica, con suero monoespecífico.
+III.1.5.2.2.b) Actividad viral.
+Un lote piloto de vacuna originaria de la semilla de trabajo debe ser testeado para ver la actividad viral.
+La actividad viral es comprobada utilizándose un grupo de 20 pollitos originarios de planteles SPF, con edad de 1-3 días. Mantener 10 aves, como mínimo, sin inocular, como testigos. El lote es vacunado con una dosis por animal, por vía membrana del ala, conforme recomendado por el fabricante.
+Observar, a partir del 3er. y hasta el 7o. día, la formación de lesiones típicas de viruela aviaria solamente en el lugar de la inoculación. Es considerado satisfactorio si presenta un índice de actividad viral mayor o igual al 90%, y si no se observa nada anormal en los controles.
+III.1.5.2.2.c) Inmunogenicidad.
+Cada lote de virus "master seed" debe ser testeado en cuanto a su inmunogenicidad, y la dosis de virus seleccionada para uso debe ser establecida conforme lo siguiente:
+c.1) Deben utilizarse aves susceptibles a la Viruela Aviaria, de la misma edad y procedencia.
+Deben vacunarse veinte o más aves por cada vía de administración indicada por el fabricante. Deben mantenerse diez aves de la misma edad y procedencia como controles no vacunados.
+c.2) El Título Medio Geométrico de la vacuna producida a partir del pasaje más alto del virus "master seed" debe ser determinado antes de iniciar el test de inmunogenicidad. Cada ave debe recibir una cantidad predeterminada del virus vacinal. Deben realizarse cinco titulaciones del virus vacinal, para confirmar la dosis a ser administrada a cada ave utilizada en el test. Deben usarse como mínimo tres diluciones (con intervaloes que no excedan de la escala decimal) para las titulaciones del virus vacinal, que se deben realizar como sigue:
+c.2.1) Para cada dilución viral, inocular 0,2 ml, vía membrana
+corioalantoidea, en un mínimo de 5 embriones de 9 a 11 días de edad.
+No tener en cuenta las muertes que ocurran durante las primeras 24 horas después de la inoculación. Para que el test sea válido, un mínimo de 4 embriones por dilución debe permanecer viable 24 horas después de la inoculación.
+
+c.2.2) De 5 a 7 días después de la inoculación, examinar los embriones sobrevivientes, para la evidencia de infección.
+c.2.3) Una titulación satisfactoria debe presentar por lo menos una dilución con valores positivos entre 0 y 50%, y por lo menos una dilución con valores positivos entre 50 y 100%.
+c.2.4) Calcular el título expresado en DI50 por el método de Spearman Karber, Reed-Muench o equivalente.
+c.3) Catorce a veintiún días después de la vacunación, los grupos de aves vacunadas y los controles deben ser desafiados, a través de la membrana del ala, con una muestra virulenta del virus de la Viruela Aviaria, certificado por el organismo oficial controlador, y observados diariamente por un período de 10 días. Si se vacunó a través de la membrana del ala, el ala opuesta debe de ser utilizada para el desafío.
+c.4) Si, como mínimo, 19 de 20, 27 de 30 o 36 de 40 aves vacunadas en cada grupo no se presentan libres de signos clínicos de Viruela Aviaria, el virus "master seed" debe ser considerado insatisfactorio. Si un mínimo del 90% de las aves del grupo de control no presenta signos clínicos de Viruela Aviaria, el test es considerado no conclusivo y debe repetirse.
+c.5) El virus "master seed" debe ser retesteado, en cuanto a su inmunogenicidad, 3 años después del test original, a menos que el uso del lote previamente testeado haya sido discontinuado.
+En el retesteado, debe ser usada solamente una vía de administración recomendada por el fabricante.
+III.1.5.3) Del producto final.
+III.1.5.3.a) Esterilidad.
+Ver item III.1.1.3.a.
+III.1.5.3.b) Patógenos extraños.
+Ver item III.1.1.3.b.
+III.1.5.3.c) Inocuidad.
+Ver item II.3.d.
+III.1.5.3.d) Titulación.
+La determinación del contenido viral es realizada en huevos embrionados SPF, de 9 a 11 días de edad, inoculados en la membrana corioalantoidea con 0,2 ml de diferentes diluciones, usando, como mínimo, 5 huevos por dilución. Los embriones se mantienen a 37ºC, de 5 a 7 días, y el título es calculado. La vacuna debe contener no menos de 102,0 DI50 por dosis de vacuna hasta el final del plazo de validez. La vacuna también puede ser titulada en cultivo celular de fibroblasto de embrión de gallina.
+III.1.5.3.e) Tests físico-químicos.
+III.1.5.3.e.1) Humedad residual.
+Ver item II.3.h.1.
+III.1.5.3.e.2) Vacío / gas inerte.
+Ver item II.3.h.2.
+III.1.5.3.e.3) pH.
+7,0 +/- 0,5.
+III.1.5.3.e.4) Tiempo de reconstitución.
+Ver item II.3.h.9.
+III.1.5.4) De la comercialización y el uso.
+
+III.1.5.4.a) Plazo de validez.
+El plazo de validez de las vacunas será de 24 meses a contar de la fecha de fabricación, considerada a partir de la fecha final de liofilización.
+III.1.5.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+III.1.5.4.c) Transporte.
+Ver item III.1.1.4.c.
+III.1.5.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+III.1.5.4.e) Uso y vías de aplicación.
+El producto debe ser usado por la vía de administración y dosis acorde a las especificaciones del fabricante.
+
+III.1.6) VACUNA CONTRA ENCEFALOMIELITIS AVIARIA.
+III.1.6.1) De la producción.
+Las vacunas contra la Encefalomielitis Aviaria deben prepararse a partir de tejidos o fluidos obtenidos de huevos embrionados de gallina SPF o cultivo celular.
+III.1.6.2) De la semilla.
+III.1.6.2.1) Muestras.
+Se utilizan muestras comprobadamente eficaces en la profilaxis de la Encefalomielitis Aviaria. La utilización de las muestras quedará condicionada a la aprobación por el organismo oficial controlador.
+III.1.6.2.2) Control de las semillas.
+Ver item III.1.1.2.2.
+III.1.6.2.2.a) Esterilidad.
+Ver item III.1.1.3.a.
+III.1.6.2.2.b) Inocuidad.
+Ver item II.3.d.
+III.1.6.2.2.c) Identificación de la muestra viral.
+La identificación se hace a través de prueba serológica, con suero monoespecífico.
+III.1.6.2.2.d) Patógenos extraños.
+Ver III.1.1.3.b.
+III.1.6.2.2.e) Inmunogenicidad.
+Cada lote de virus "master seed" debe ser testeado en cuanto a su inmunogenicidad, y la dosis de virus seleccionada para uso debe ser establecida de acuerdo a lo siguiente:
+e.1) Deben usarse aves susceptibles a la Encefalomielitis Aviaria, de la misma edad (8 semanas o más) y procedencia.
+Deben vacunarse veinte o más aves por cada vía de administración indicada por el fabricante. Deben mantenerse diez aves de la misma edad y procedencia, como controles no vacunados.
+e.2) El Título Medio Geométrico de la vacuna producida a partir del pasaje más alto del virus "master seed" debe ser determinado antes de iniciar el test de inmunogenicidad. Cada ave debe recibir una cantidad predeterminada del virus de la vacuna. Deben realizarse cinco titulaciones del virus vacinal para confirmar la dosis a ser administrada a cada ave utilizada en el test. Deben usarse como mínimo tres diluciones (con intervalos que no excedan la escala decimal) para las titulaciones del virus vacinal, que deben ser realizadas de la siguiente manera:
+
+e.2.1) Para cada dilución viral inocular 0,2 ml, vía membrana de la yema, en un mínimo de 10 embriones de 5 a 6 días de edad. Mantener 20 embriones de la misma edad y procedencia como controles no inoculados. No tener en cuenta las muertes que ocurran durante las primeras 24 horas después de la inoculación. Para ser un test válido, deben permanecer, como mínimo, 4 embriones por dilución viables 24 horas después de la inoculación.
+e.2.2) Los huevos deben mantenerse separados e incubados hasta la eclosión. Tomar todas las precauciones para que los pollitos de cada dilución permanezcan separados. Para ser un test válido, deben eclosionar como mínimo el 75% de los huevos no inoculados.
+e.2.3) Al tercer día después del nacimiento, registrar todos los huevos no eclosionados, los embriones muertos, con parálisis o ataxia, considerándolos como criterios de infección.
+e.2.4) Una titulación satisfactoria debe presentar por lo menos una dilución positiva entre el 0 y el 50%, y por lo menos una dilución positiva entre el 50 y el 100%.
+e.2.5) Calcular el título expresado en DI50 por el método de Spearman Karber, Reed-Muench o equivalente.
+e.3) Veintiún días después de la vacunación, los grupos de aves vacunadas y los controles deben ser desafiados, por vía intracerebral, con una muestra virulenta del virus de la Encefalomielitis Aviaria, certificado por el organismo oficial controlador, y observadas diariamente por un período de 21 días.
+e.4) Si como mínimo 19 de 20, 27 de 30 o 36 de 40 aves vacunadas en cada grupo no se presentan libres de signos clínicos de Encefalomielitis Aviaria, el virus "master seed" debe ser considerado insatisfactorio. Si un mínimo del 80% de las aves del grupo control no presenta signos clínicos de Encefalomielitis Aviaria, el test es considerado no conclusivo y debe repetirse.
+e.5) El virus "master seed" debe ser retesteado en cuanto a su inmunogenicidad 3 años después del test original, a menos que el uso del lote previamente testeado haya sido discontinuado.
+En el retesteado debe usarse solamente una vía de administración recomendada por el fabricante.
+
+III.1.6.3) Del producto final.
+III.1.6.3.a) Esterilidad.
+Ver item III.1.1.3.a.
+III.1.6.3.b) Patógenos extraños.
+Ver item III.1.1.3.b.
+III.1.6.3.c) Inocuidad.
+Ver item II.3.d.
+III.1.6.3.d) Eficacia.
+Protección
+El producto final acabado será administrado de acuerdo a las recomendaciones del prospecto en, por lo menos, 10 aves susceptibles (SPF). Diez aves de la misma fuente (SPF) y edad serán conservadas como controles.
+Veintiún días después de la vacunación, las vacunadas y las de control serán infectadas intracerebralmente con 103,0 DI50, de una muestra desafío del virus de referencia de la Encefalomielitis aviaria, aprobado por el organismo oficial controlador, y observadas por 21 días. Si menos del 80% de las de control no desarrolla signos o lesiones de encefalomielitis aviaria, el test no es conclusivo y debe ser repetido. Si por lo menos 80% de las vacunadas no permanecen libres de signos de Encefalomielitis aviaria, la partida será reprobada.
+
+III.1.6.3.e) Titulación.
+Toda partida de vacuna será titulada usando, para cada titulación, por lo menos 10 huevos embrionados, de 5 a 6 días de edad, inoculando 0,2 ml en el saco vitelino (yema).
+Deben conservarse veinte embriones obtenidos de la misma fuente, como controles negativos no inoculados. Descartar todos los muertos durante las primeras 48 horas después de la inoculación.
+Los huevos de cada dilución deberán ser conservados en un sistema de incubación separado, dejándolos hasta nacer. Para que el test tenga validez, por lo menos, 75% de los no inoculados deben nacer.
+Al 3er. día después del nacimiento normal, serán contados todos los huevos no eclosionados y muertos, pollitos paralíticos y atáxicos, como evidencia positiva a la infección viral. Una titulación satisfactoria debe tener por lo menos una dilución entre el 50 y el 100% positiva y por lo menos una dilución entre el 50 y el 0% positiva.
+Calcular el DI50 por el método de Reed-Muench o Spearman-Karber o equivalente.
+La vacuna debe contener no menos de 102,5 DI50 por dosis, hasta el final del plazo de validez.
+III.1.6.3.f) Tests físico-químicos (Vacunas liofilizadas).
+III.1.6.3.f.1) Humedad residual.
+Ver item II.3.h.1.
+III.1.6.3.f.2) Vacío / Gas inerte.
+Ver item II.3.h.2.
+III.1.6.3.f.3) pH.
+7, +/- 0,5.
+
+III.1.6.f.4) Tiempo de reconstitución.
+Ver item II.3.h.9.
+III.1.6.4) De la comercialización y el uso.
+III.1.6.4.a) Plazo de validez.
+III.1.6.4.a.1) Liofilizada.
+Ver item III.1.1.4.a.
+III.1.6.4.a.2) Líquida.
+- Conservación: de -12ºC a -18ºC, un máximo de 24 meses;
+- Conservación: de 2ºC a 8ºC, un máximo de 3 meses.
+III.1.6.4.b) Conservación y almacenamiento.
+III.1.6.4.b.1) Liofilizada.
+Ver item III.1.1.4.b.
+III.1.6.4.b.2) Líquida.
+- Conservación: de -12ºC a -18ºC, un máximo de 24 meses;
+- Conservación: de 2ºC a 8ºC, un máximo de 3 meses.
+III.1.6.4.c) Transporte.
+III.1.6.4.c.1) Liofilizada.
+Ver item III.1.1.4.c.
+III.1.6.4.c.2) Líquida.
+Entre -12ºC a -18ºC, o entre 2ºC a 8ºC.
+III.1.6.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+Por tratarse de cepa patógena para embriones, vacunar solamente aves en las condiciones y en la edad recomendadas por el fabricante.
+III.1.6.4.e) Uso y vías de aplicación.
+El producto debe ser usado por vía oral, ocular, nasal e intradérmica, con aplicación de una dosis de vacuna por ave, según las especificaciones del fabricante.
+
+III.1.7) VACUNA ARTRITIS VIRAL (TENOSINOVITIS
+AVIARIA).
+III.1.7.1) De la producción.
+Deben prepararse vacunas contra la Artritis Viral (Tenosinovitis Aviaria) a partir de tejidos o fluidos obtenidos de huevos embrionados de gallina SPF, cultivo celular o recombinación genética.
+III.1.7.2) De la semilla.
+III.1.7.2.1) Muestras.
+Se utilizan muestras comprobadamente eficaces en la profilaxis de la Artritis Viral. La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+III.1.7.2.2) Control de las semillas.
+Ver item III.1.1.2.2.
+III.1.7.2.2.a) Identificación de la muestra viral.
+La identificación de la muestra viral se hace a través de prueba serológica, con suero monoespecífico.
+III.1.7.2.2.b) Patógenos extraños.
+Ver item II.3.e.6.
+III.1.7.2.2.c) Potencia.
+Vacunar un mínimo de 20 aves a la edad recomendada y después de 3 semanas, desafiar el grupo con una muestra del virus de referencia, certificado por el organismo oficial controlador, por vía almohoadilla plantar, que producen lesiones típicas en el 90% de las aves testigo. Mantener 10 aves del mismo lote, aisladas y desfiadas de la misma manera, como controles sin vacunar (testigos). Observar durante 14 días las aves, y si el 90% de las testigos no presenta signos de infección, el test será repetido.
+Un mínimo de 19 aves en 20 vacunadas deben estar libres de los síntomas, para que el test sea satisfactorio y el producto piloto aprobado.
+III.1.7.2.2.d) Inmunogenicidad.
+Cada lote de virus "master seed" debe ser testeado en cuanto a su inmunogenicidad, y la dosis de virus seleccionada para uso debe ser establecida de acuerdo a lo siguiente:
+d.1) Deben ser utilizadas aves susceptibles a la Artritis Viral, de la misma edad y procedencia. Las vacunas para uso en aves jóvenes deben ser testeadas en aves que tengan la menor edad posible de vacunación recomendada por el fabricante. Las vacunas para uso en aves adultas deben ser testeadas en aves de 4 o más semanas de edad. Veinte o más aves deben ser vacunadas por cada vía de administración indicada por el fabricante. Deben mantenerse diez aves de la misma edad y procedencia como controles no vacunados.
+d.2) El Título Medio Geométrico de la vacuna producida a partir del pasaje más alto de "Master Seed Virus" debe ser determinado antes de iniciar el test de inmunogenicidad. Cada ave debe recibir una cantidad predeterminada del virus vacinal. Deben realizarse cinco titulaciones del virus vacinal para confirmar la dosis a ser administrada a cada ave utilizada en el test.
+
+d.3) Los grupos de aves, vacunadas y de control, de 21 a 28 días, deben ser desafiados, por inyección en la almohadilla plantar, con una muestra virulenta del reovirus, certificado por el organismo oficial controlador, y observados diariamente por un período de 14 días. Si un mínimo de 19 en 20, de 27 en 30 o de 36 en 40 aves vacunadas en cada grupo no se presenta libre de lesiones características del reovirus, sin considerar el edema transitorio con regresión a los 5 dias después del desafío, el virus "master seed" debe ser considerado insatisfactorio. Para que el test sea considerado válido, como mínimo, el 90% de las aves del grupo de control debe presentar lesiones características de la Artritis Viral, incluyendo edema y decoloración de las áreas de articulaciones.
+Si solamente un porcentaje inferior al 90% de las aves del grupo control presenta lesiones, el test se considera no conclusivo y debe hacerse nuevamente.
+d.4) El virus "master seed" debe ser retesteado en cuanto a su inmunogenicidad 3 años después del test original, a menos que el uso del lote previamente testeado haya sido discontinuado. En el retesteado, debe usarse solamente una vía de administración recomendada por el fabricante.
+III.1.7.3) Del producto final.
+III.1.7.3.a) Esterilidad.
+Ver item III.1.1.3.a.
+III.1.7.3.b) Patógenos extraños.
+Ver item II.3.3.6.
+III.1.7.3.c) Titulación.
+La vacuna debe contener no menos de 102,0 DI50 hasta el final del plazo de validez. La vacuna puede ser titulada en cultivo de fibroblasto de embrión de gallina.
+III.1.7.3.d) Potencia.
+Ver item III.1.7.2.2.c.
+El test será realizado con un lote piloto, siempre que haya cambio del virus "master seed".
+III.1.7.3.e) Tests físico-químicos.
+III.1.7.3.e.1) Humedad residual.
+Ver item II.3.h.1.
+III.1.7.3.e.2) Vacío / Gas inerte.
+Ver item II.3.h.2.
+III.1.7.3.e.3) pH.
+7,0 +/- 0,5.
+III.1.7.3.e.4) Tiempo de reconstitución.
+Ver item II.3.h.9.
+III.1.7.4) De la comercialización y el uso.
+III.1.7.4.a) Plazo de validez.
+El plazo de validez de las vacunas será de 24 meses a contar de la fecha de fabricación, considerados a partir de la fecha final de liofilización.
+III.1.7.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+III.1.7.4.c) Transporte.
+Ver item III.1.1.4.c.
+
+III.1.7.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+III.1.7.4.e) Uso y vías de aplicación.
+El producto puede ser usado por las vías oral o subcutánea, con aplicación de una dosis de vacuna por ave, según las especificaciones
+del fabricante.
+
+III.2) VACUNAS VIVAS VIRALES POLIVALENTES.
+III.2.1) Definición.
+Son inmunógenos en los que, en un mismo frasco, se encuentran varias cepas de un mismo antígeno de vacuna.
+III.2.2) Procedimiento de producción y de control.
+Para efectos de fabricación, control, comercialización y uso, debe observarse lo dispuesto en el capítulo III.1, para cada antígeno específico.
+
+III.3) VACUNAS VIVAS VIRALES COMBINADAS.
+III.3.1) Definición.
+Son los inmunógenos en los que, en un mismo frasco, se encuentran diferentes antígenos de vacuna y cepas.
+III.3.2) Procedimientos de producción y control.
+Ver item III.2.2.
+III.3.3) Son citados como referencia los siguientes productos:
+III.3.3.a) Vacunas contra la Enfermedad de Newcastle y Bronquitis
+Infecciosa de Gallinas.
+III.3.3.b) Vacuna contra la Encefalomielitis Aviaria y Viruela
+Aviaria.
+III.3.3.c) Vacuna contra la Enfermedad de Marek - cepas SB1 y
+HVT (Cepas Heterólogas).
+III.3.3.d) Vacunas contra las enfermedades de Marek y Gumboro.
+
+III.4) VACUNAS VIVAS BACTERIANAS MONOVALENTES.
+III.4.1) SALMONELLA (Vacuna contra Tifus Aviario).
+III.4.1.1) De la producción.
+Las vacunas contra Tifus Aviario deben prepararse a partir del cultivo obtenido en medios sintéticos específicos.
+III.4.1.2) De la semilla y del producto final.
+III.4.1.2.1) Muestras vacinales.
+Las vacunas se elaboran a partir de muestras rugosas de Salmonella gallinarum u otras muestras reconocidamente inmunogénicas y no patogénicas. La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+III.4.1.3) Control de Calidad.
+III.4.1.3.1) Pureza.
+Reconstituir la vacuna en su propio diluyente y a partir de ese frasco se inician diluciones decimales en 10 tubos conteniendo PBS estéril. Hacer duplicado en otros 10 tubos. Inocular 0,1 ml de cada tubo en 3 placas de AVB y 3 placas de BHI, dispersando el inóculo con ansa de Drigalski. Incubar 17 horas a 37ºC, hacer conteo a las 24 y 48 horas, y observar si no hubo crecimiento de otras bacterias. El número de colonias obtenido en el Agar BHI debe ser el mismo obtenido en el AVB (Agar Verde Brillante).
+
+III.4.1.3.2) Pruebas bioquímicas.
+La Salmonella 9R, una cepa rugosa de S. Gallinarum, deberá presentar reacciones en las pruebas bioquímicas, según el patrón de la especie Salmonella gallinarum. La semilla deberá ser sembrada en BHI y AVB (Agar Verde Brillante); las colonias sembradas en TSI serán sometidas a prueba bioquímica.
+III.4.1.3.3) Serología.
+Las colonias deberán estar sometids a la prueba de seroaglutinación rápida con:
+• Suero anti-Salmonella somático, grupo D, factor 9,o grupo D.
+• Solución de acriflavina al 1%. La cepa rugosa 9R debe aglutinar ante la solución de acriflavina y no reaccionar con el suero anti-Salmonella.
+III.4.1.3.4) Control físico-químico.
+III.4.1.3.4.a) Humedad residual.
+Debe ser, como máximo, el 3%.
+III.4.1.3.4.b) pH.
+7,0 +/- 0,5.
+III.4.1.3.5) Inocuidad.
+Vacunar 20 aves SPF de 6 semanas de edad, con 10 dosis de vacuna. Observar durante 21 días. No deberá haber muerte alguna.
+El test deberá ser repetido si aparecen reacciones adversas en una o más aves. Después del período de observación, proceder a la extracción de sangre, desuerar y hacer el test de seroaglutinación rápida.
+III.4.1.3.6) Título.
+El título necesario para liberación debe ser mayor o igual a 2,0 x
+107,0 UFC/dosis.
+III.4.1.3.7) Eficacia.
+Serología:
+Vacunar un grupo de 20 aves (de 6 semanas de edad) utilizando 10 testigos. Realizar la lectura después de 3 semanas con antígeno de pulorosis.
+III.4.2) Presentación.
+Liofilizada o líquida.
+III.4.3) De la comercialización y el uso.
+Ver item III.1.1.4, excepto III.1.1.4.d.1.
+III.4.3.a) Plazo de validez.
+El plazo de validez de las vacunas será de 24 meses a contar de la fecha de fabricación, considerados a partir de la fecha final de liofilización.
+III.4.3.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+III.4.3.c) Transporte.
+Ver item III.1.1.4.c.
+III.4.3.d) Bioseguridad.
+Ver item III.1.1.4.d.
+Este producto no es recomendable en establecimientos que participan del Programa de Sanidad Avícola.
+III.4.3.e) Uso y vías de aplicación.
+El producto puede ser usado por la vía subcutánea, con aplicación de una dosis de vacuna por ave, según las especificaciones del fabricante.
+
+III.5) VACUNAS VIVAS DE MICOPLASMA MONOVALENTE.
+III.5.1) De la producción.
+Las vacunas contra Micoplasmosis Aviaria deben prepararse a partir del cultivo obtenido en medios sintéticos específicos. La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+III.5.2) De la semilla y el producto final.
+III.5.2.1) Pureza.
+Diez muestras del producto final o 4 ml de semilla de trabajo se siembran en un medio específico para Mycoplasma sp. donde debe observarse solamente el crecimiento de colonias típicas.
+III.5.2.2) Identidad.
+Las colonias específicas del test de pureza están sometidas a la prueba de seroaglutinación rápida con suero específico.
+III.5.2.3) Control físico-químico.
+Ver item III.4.1.3.4.
+III.5.2.4) Inocuidad.
+Ver item II.3.d.
+III.5.2.5) Titulación.
+El título mínimo para liberación del producto debe ser obtenido en medio específico y los valores deben ser:
+• mayor o igual a 106,0 colonias por dosis, en la técnica de conteo;
+• mayor o igual a 106,0 en la titulación por alteración de color, por cambio
+de pH.
+III.5.2.6) Test de eficacia.
+Serología:
+Vacunar 20 aves (de 6 a 8 semanas de edad), observar, por lo menos, el 50 a 60% de seroconversión después de los 21 días de vacunación.
+III.5.3) De la comercialización y el uso.
+Ver item III.1.1.4, excepto III.1.1.4.d.1.
+III.5.3.a) Plazo de validez.
+El plazo de validez de las vacunas será de 24 meses a contar de la fecha de fabricación, considerados a partir de la fecha final de liofilización.
+III.5.3.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+III.5.3.c) Transporte.
+El producto deberá ser transportado en embalaje o vehículo isotérmico, con hielo conservante o en unidad de refrigeración que mantenga la temperatura.
+III.5.3.d)Bioseguridad.
+Ver item III.1.1.4.d.
+Este producto no es recomendable en establecimientos que participan del Programa de Sanidad Avícola.
+III.5.3.e) Uso y vías de aplicación.
+El producto puede ser usado por vía subcutánea, con aplicación de una dosis de vacuna por ave, según las especificaciones del fabricante.
+
+CAPÍTULO IV
+
+VACUNAS VIVAS MAS INACTIVADAS
+IV.1) VACUNA VIVA MAS INACTIVADA MIXTA - VIRUS
+MAS BACTERIA -
+Micoplasma más toxoide.
+Las vacunas deberán ser testeadas según los reglamentos específicos para cada antígeno.
+
+CAPÍTULO V
+
+VACUNAS INACTIVADAS
+V.1) VACUNA INACTIVADA MIXTA.
+Vacuna constituida de mezcla de virus, bacterias, hongos, micoplasmas, de especies iguales o diferentes.
+V.2) VACUNA INACTIVADA VIRAL MONOVALENTE.
+V.2.1) VACUNA CONTRA LA ENFERMEDAD DE NEWCASTLE.
+V.2.1.1) De la producción.
+Ver item III.1.1.1.
+V.2.1.2) De la semilla.
+V.2.1.2.1) Muestras.
+Las vacunas inactivadas contra la enfermedad de Newcastle deberán estar preparadas a partir de cepas de virus de la enfermedad cuyo virus "master seed" haya sido sometido a un test que revele un índice de patogeneidad intracerebral (IPIC) de menos de 0,7, si cada ave recibió, por lo menos, 108,0 DI50 para la prueba.
+Ver item III.1.1.2.1.
+V.2.1.2.2) Control de la semilla.
+Ver item III.1.1.2.2.
+V.2.1.2.2.a) Identificación de la muestra viral.
+Ver item III.1.1.2.2.a.
+V.2.1.2.2.b) Indice de patogenicidad cerebral.
+Ver item III.1.1.2.2.b.
+V.2.1.2.2.c) Tiempo medio de muerte embrionaria.
+Ver item III.1.1.2.2.c.
+V.2.1.2.2.d) Patógenos extraños.
+V.2.1.2.2.d.1) Determinación de Leucosis Linfoidea Aviaria.
+Ver item II.3.e.1.
+V.2.1.2.2.d.2) Virus hemoaglutinantes.
+Ver item II.3.e.2.
+V.2.1.2.2.d.3) Detección de patógenos por el test de inoculación
+en aves.
+Ver item II.3.e.6.
+V.2.1.2.2.d.4) Detección de patógenos en huevos embrionados.
+Ver item II.3.e.5.
+V.2.1.2.2.d.5) Detección de agentes citopatogénicos.
+Ver item II.3.e.3.
+V.2.1.2.2.d.6) Hemoadsorción.
+Ver item II.3.e.4.
+V.2.1.2.2.e) Potencia.
+Ver item II.3.1.1.
+V.2.1.2.2.f) Inocuidad.
+Ver item II.3.d.
+V.2.1.3) Del producto final.
+V.2.1.3.1) Esterilidad.
+Ver item II.3.a.4.
+V.2.1.3.2) Eficacia.
+Puede escogerse uno de los tests siguientes:
+V.2.1.3.2.1) Protección.
+Deberá ser realizado utilizando aves susceptibles, de 2 a 6 semanas de edad, o a la edad más temprana recomenda por el fabricante, vacunándose un mínimo de 10 aves con 1 dosis, por la vía de aplicación indicada por el fabricante, y un mínimo de 10 aves como testigos.
+Después de 21 días, los lotes serán desafiados con una muestra velogénica del virus patrón, aprobado por el organismo oficial controlador, con una dosis de 105,0 DI50. Las aves serán observadas diariamente, por un período mínimo de 10 días.
+El test será válido si, por lo menos, el 90% de las aves testigos muere o presenta signos clínicos de la enfermedad. La vacuna será considerada satisfactoria si, como mínimo, el 90% de las aves vacunadas sobrevive sin presentar signos clínicos de la enfermedad.
+V.2.1.3.2.2) Serología.
+Serán vacunadas 20 aves SPF, de una edad mínima de 2 a 4 semanas, por la vía indicada por el fabricante. Para cada lote se mantendrán, como mínimo, 5 testigos.
+Veintiún días después de la vacunación, las aves serán sangradas para evaluación serológica (índice de seroconversión).
+Título mínimo de aprobación: 1:32, usándose 4 unidades hemoaglutinantes.
+V.2.1.3.3) Inactivación.
+Este test puede ser ejecutado en el producto final o durante el proceso de producción.
+Cada lote de antígeno usado para la preparación de vacunas inactivadas debe ser testeado en huevos embrionados o en otros substratos específicos, conforme lo descrito en el informe técnico sometido al organismo oficial controlador, para detección de la completa inactivación viral.
+V.2.1.3.4) Inocuidad.
+Ver item II.3.d.
+V.2.1.3.5) Tests físico-químicos.
+V.2.1.3.5.a) Volumetría.
+Ver item II.3.h.4.
+V.2.1.3.5.b) Viscosidad.
+Ver item II.3.h.5.
+V.2.1.3.5.c) Estabilidad.
+Ver item II.3.h.6.
+V.2.1.4) De la comercialización y el uso.
+V.2.1.4.a) Plazo de validez.
+El plazo de validez de las vacunas será de 24 meses, contados a partir de la fecha de envase.
+V.2.1.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+V.2.1.4.c) Transporte.
+Ver item III.1.1.4.c.
+V.2.1.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+La inoculación accidental de vacuna oleosa en el hombre puede causar una seria reacción local. El servicio médico deberá ser advertido inmediatamente, e informado de que se trata de vacuna en emulsión oleosa.
+V.2.1.4.e) Uso y vías de aplicación.
+El producto debe ser usado por la vía intramuscular o subcutánea, con aplicación de 1 dosis de vacuna por ave, de acuerdo a especificación del fabricante.
+
+V.2.2) VACUNA CONTRA BRONQUITIS INFECCIOSA DE
+LAS GALLINAS.
+V.2.2.1) De la producción.
+Ver item III.1.2.1.
+V.2.2.2) De la semilla.
+V.2.2.2.1) Muestra.
+Ver item III.1.2.2.
+V.2.2.2.2) Control de la semilla.
+V.2.2.2.2.a) Esterilidad.
+Ver items II.3.a.2, II.3.a.3 y II.3.a.4.
+V.2.2.2.2.b) Identificación de la muestra viral.
+Ver item III.1.2.2.a.
+V.2.2.2.2.c) Patógenos extraños.
+V.2.2.2.2.c.1) Determinación de Leucosis Linfoide Aviaria.
+Ver item II.3.e.1.
+V.2.2.2.2.c.2) Virus hemoaglutinantes.
+Ver item II.3.e.2.
+V.2.2.2.2.c.3) Detección de patógenos por el test de inoculación en aves.
+Ver item II.3.3.6.
+V.2.2.2.2.c.4) Detección de patógenos por la inoculación en huevos embrionados.
+Ver item II.3.3.5.
+V.2.2.2.2.c.5) Detección de agentes citopatogénicos.
+Ver item II.3.e.3.
+V.2.2.2.2.c.6) Hemoadsorción.
+Ver item II.3.e.4.
+V.2.2.2.2.d) Inocuidad.
+Ver item II.3.d.
+
+V.2.2.3) Del producto final.
+V.2.2.3.1) Esterilidad.
+V.2.2.3.1.a) Investigación de contaminantes de origen bacteriano y micótico.
+Ver item II.3.a.4.
+V.2.2.3.2) Eficacia.
+Serología:
+Para evaluar la eficacia del producto final debe hacerse un test en aves SPF, o sea, serología con cepa homóloga, y debe presentar el ISN mayor o igual a 102,6, o título de HI mayor o igual a 26,0.
+V.2.2.3.3) Control de la Inactivación.
+Ver item V.2.1.3.3.
+Este test puede ser ejecutado en el producto final o durante el proceso de producción.
+Cada lote de antígeno utilizado para la preparación de vacunas inactivadas debe ser testeado en huevos embrionados o en otros substratos específicos, conforme descrito en el informe técnico sometido al organismo oficial controlador, para detección de la completa inactivación viral.
+V.2.2.3.4) Inocuidad.
+Ver item II.3.d.
+V.2.2.3.5) Tests físico-químicos.
+V.2.2.3.5.a) Volumetría.
+Ver item II.3.h.4.
+V.2.2.3.5.b) Viscosidad.
+Ver item II.3.h.5.
+V.2.2.3.5.c) Estabilidad.
+Ver item II.3.h.6.
+V.2.2.4) De la comercialización y el uso.
+V.2.2.4.1) Plazo de validez.
+El plazo de validez de las vacunas será de 24 meses, contados a partir de la fecha de envasado.
+V.2.2.4.2) Almacenamiento.
+Ver item III.1.1.4.b.
+V.2.2.4.3) Transporte.
+Ver item III.1.1.4.c.
+V.2.2.4.4) Bioseguridad.
+Ver item III.1.1.4.d.
+V.2.2.4.5) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.2.3) VACUNA CONTRA ENFERMEDAD DE GUMBORO.
+V.2.3.1) De la producción.
+Ver item III.1.3.1.
+V.2.3.2) De la semilla.
+V.2.3.2.1) Muestras de vacunas.
+Ver item III.1.3.2.1.
+V.2.3.2.2) Control de la semilla.
+V.2.3.2.2.a) Identificación de la muestra viral.
+Ver item III.1.3.2.2.a.
+V.2.3.2.2.b) Esterilidad.
+Ver items II.3.a.2, II.3.a.3 y II.3.a.4.
+V.2.3.2.2.c) Patógenos extraños.
+V.2.3.2.2.c.1) Determinación de la Leucosis Linfoide Aviaria.
+Ver item II.3.e.1.
+V.2.3.2.2.c.2) Virus hemoaglutinantes.
+Ver item II.3.e.2.
+V.2.3.2.2.c.3) Detección de patógenos, por el test de inoculación en aves.
+Ver item II.3.e.6.
+V.2.3.2.2.c.4) Detección de patógenos por la inoculación en huevos embrionados.
+Ver item II.3.e.5.
+V.2.3.2.2.c.5) Detección de agentes citopatogénicos.
+Ver item II.3.e.3.
+V.2.3.2.2.c.6) Hemoadsorción.
+Ver item II.3.e.4.
+V.2.3.2.2.d) Inocuidad.
+Ver item II.3.d.
+V.2.3.3) Del producto final.
+V.2.3.3.1) Esterilidad.
+Ver item II.3.a.4.
+V.2.3.3.2) Potencia.
+Podrá realizarse uno de los tests siguientes:
+V.2.3.3.2.a) % Protección.
+El test será efectuado con el producto final.
+Se utilizan treinta aves de, por lo menos, 14 días de edad, vacunándose 20, con 1 dosis y por vía indicada por el fabricante, y manteniéndose 10 separadas, como controles negativos.
+Después de 21 días, los 2 lotes serán infectados con una muestra patrón de virus patogénico certificado por el organismo oficial controlador, conteniendo 102,0 DI50 por instilación conjuntival.
+Tres a cinco días después de la infección, todas serán necropsiadas y examinadas para ver lesiones evidentes de la enfermedad de Gumboro.
+La vacuna se considerará aprobada si el 80% de los pollitos vacunados no presenta lesiones; si, como mínimo, el 80% de los controles no presenta lesiones, el test será no conclusivo y deberá ser repetido.
+V.2.3.3.2.b) Eficacia.
+Para evaluar la eficacia del producto final debe hacerse un test en aves SPF, o sea, serología con cepa homóloga, y debe presentar ISN mayor o igual a 102,6.
+V.2.3.3.3) Control de la Inactivación.
+Ver item V.2.1.3.3.
+Los lotes de antígenos inactivados para la preparación del producto final deben ser testeados con inoculación en cultivos de células.
+
+V.2.3.3.4) Inocuidad.
+Ver item II.3.d.
+V.2.3.3.5) Tests físico-químicos.
+V.2.3.3.5.a) Volumetría.
+Ver item II.3.h.4.
+V.2.3.3.5.b) Viscosidad.
+Ver item II.3.h.5.
+V.2.3.3.5.c) Estabilidad.
+Ver item II.3.h.6.
+V.2.3.4) De la comercialización y el uso.
+V.2.3.4.a) Plazo de validez.
+El plazo de validez será, como máximo, de 24 meses, contados a partir de la fecha de envasado.
+V.2.3.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+V.2.3.4.c) Transporte.
+Ver item III.1.1.4.c.
+V.2.3.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+V.2.3.4.e) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.2.4) VACUNA CONTRA SINDROME DE CAIDA DE POSTURA - EDS.
+V.2.4.1) De la producción.
+Las vacunas contra el Síndrome de Caída de Postura - EDS - deben ser preparadas a partir de huevos embrionados de gallina SPF, pata, "marreca" (variedad de ánade similar al pato), o en cultivo celular.
+V.2.4.2) De la semilla.
+V.2.4.2.1) Muestra.
+Se utilizan muestras comprobadamente eficaces en la profilaxis de la EDS (Síndrome de Caída de Postura).
+La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+V.2.4.2.2) Control de la semilla.
+V.2.4.2.2.a) Identificación de la muestra viral.
+La identificación de la muestra viral se hace a través de prueba serológica, con suero monoespecífico.
+V.2.4.2.2.b) Esterilidad.
+Ver items II.3.a.2, II.3.a.3 y II.3.a.4.
+V.2.4.2.2.c) Patógenos extraños.
+V.2.4.2.2.c.1) Determinación de Leucosis Linfoide Aviaria.
+Ver item II.3.e.1.
+V.2.4.2.2.c.2) Virus hemoaglutinantes.
+Ver item II.3.e.2.
+V.2.4.2.2.c.3) Detección de patógenos, por el test de inoculación
+en aves.
+Ver item II.3.e.6.
+
+V.2.4.2.2.c.4) Detección de patógenos, por inoculación en huevos embrionados.
+Ver item II.3.e.5.
+V.2.4.2.2.c.5) Detección de agentes citopatogénicos.
+Ver item II.3.e.3.
+V.2.4.2.2.c.6) Hemoadsorción.
+Ver item II.3.e.4.
+V.2.4.2.2.d) Inocuidad.
+Ver item II.3.d.
+V.2.4.3) Del producto final.
+V.2.4.3.1) Esterilidad.
+Ver item II.3.a.4.
+V.2.4.3.2) Eficacia.
+Serología:
+Ver item V.2.1.3.2.2.
+V.2.4.3.3) Control de Inactivación.
+Ver item V.2.1.3.3.
+Los lotes de antígenos inactivados para la preparación del producto final deben ser testeados con inoculación en cultivos de células o huevos de pata.
+V.2.4.3.4) Inocuidad.
+Ver item II.3.d.
+V.2.4.3.5) Tests físico-químicos.
+V.2.4.3.5.a) Volumetría.
+Ver item II.3.h.4.
+V.2.4.3.5.b) Viscosidad.
+Ver item II.3.h.5.
+V.2.4.3.5.c) Estabilidad.
+Ver item II.3.h.6.
+V.2.4.4) De la comercialización y el uso.
+V.2.4.4.a) Plazo de validez.
+Será, como máximo, 24 meses, contados a partir de la fecha de envasado.
+V.2.4.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+V.2.4.4.c) Transporte.
+Ver item III.1.1.4.c.
+V.2.4.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+V.2.4.4.e) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.2.5) VACUNA INACTIVADA CONTRA ARTRITIS VIRAL
+(REO).
+V.2.5.1) De la producción.
+Ver item III.1.7.1.
+
+V.2.5.2) De la semilla.
+V.2.5.2.1) Muestra.
+Ver item III.1.7.2.1.
+V.2.5.2.2) Control de las semillas.
+V.2.5.2.2.a) Identificación de la muestra viral.
+Ver item III.1.7.2.2.a.
+V.2.5.2.2.b) Esterilidad.
+Ver items II.3.a.2, II.3.a.3 y II.3.a.4.
+V.2.5.2.2.c) Patógenos extraños.
+V.2.5.2.2.c.1) Determinación de Leucosis Linfoide Aviaria.
+Ver item II.3.e.1.
+V.2.5.2.2.c.2) Virus hemoaglutinantes.
+Ver item II.3.e.2.
+V.2.5.2.2.c.3) Detección de patógenos por el test de inoculación en aves.
+Ver item II.3.e.6.
+V.2.5.2.2.c.4) Detección de patógenos por la inoculación en huevos embrionados.
+Ver item II.3.e.5.
+V.2.5.2.2.c.5) Detección de agentes citopatogénicos.
+Ver item II.3.e.3.
+V.2.5.2.2.c.6) Hemoadsorción.
+Ver item II.3.e.4.
+V.2.5.2.2.d) Inocuidad.
+Ver item II.3.d.
+V.2.5.3) Del producto final.
+V.2.5.3.1) Esterilidad.
+Ver item II.3.a.4.
+V.2.5.3.2) Eficacia.
+Serología:
+Para evaluar la serología del producto final debe usarse un test en aves SPF o sea, serología con cepa homóloga, y debe presentar el I.S.N. mayor o igual a 102,6.
+V.2.5.3.3) Control de la inactivación.
+Ver item V.2.1.3.3.
+Los lotes de antígenos inactivados para la preparación del producto final deben ser testeados con inoculación en cultivo de células.
+V.2.5.3.4) Inocuidad.
+Ver item II.3.d.
+V.2.5.3.5) Tests físico-químicos.
+V.2.5.3.5.a) Volumetría.
+Ver item II.3.h.4.
+V.2.5.3.5.b) Viscosidad.
+Ver item II.3.h.5.
+V.2.5.3.5.c) Estabilidad.
+Ver item II.3.h.6.
+
+V.2.5.4) De la comercialización y el uso.
+V.2.5.4.a) Plazo de validez.
+Será de un máximo de 24 meses, contados a partir de la fecha de envasado.
+V.2.5.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+V.2.5.4.c) Transporte.
+Ver item III.1.1.4.c.
+V.2.5.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+V.2.5.4.e) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.2.6) VACUNA INACTIVADA CONTRA SINDROME DE LA
+CABEZA HINCHADA.
+V.2.6.1) De la producción.
+Las vacunas contra el Síndrome de la Cabeza Hinchada deben ser preparadas a partir de sustratos apropiados.
+V.2.6.2) De la semilla.
+V.2.6.2.1) Muestra.
+Se utilizan muestras comprobadamente eficaces en la profilaxis del Síndrome de la Cabeza Hinchada. La utilización de muestras estará condicionada a la aprobación por el organismo oficial controlador.
+V.2.6.2.2) Control de las semillas.
+V.2.6.2.2.a) Identificación de la muestra viral.
+La identificación de la muestra viral se hará a través de prueba serológica validada.
+V.2.6.2.2.b) Esterilidad.
+Ver items II.3.a.2, II.3.a.3 y II.3.a.4.
+V.2.6.2.2.c) Patógenos extraños.
+V.2.6.2.2.c.1) Determinación de Leucosis Linfoide Aviaria.
+Ver items III.1.1.2.2.e.1.
+V.2.6.2.2.c.2) Virus hemoaglutinantes.
+Ver item III.1.1.2.2.e.2.
+V.2.6.2.2.c.3) Detección de patógenos, por el test de inoculación en aves.
+Ver item III.1.1.2.2.e.3.
+V.2.6.2.2.c.4) Detección de patógenos, por la inoculación en huevos embrionados.
+Ver item III.1.1.2.2.e.4.
+V.2.6.2.2.c.5) Detección de agentes citopatogénicos.
+Ver item III.1.1.2.2.e.5.
+V.2.6.2.2.c.6) Hemoadsorción.
+Ver item III.1.1.2.2.e.6.
+V.2.6.2.2.d) Inocuidad.
+Ver item II.3.d)
+V.2.6.3) Del producto final.
+
+V.2.6.3.1) Esterilidad.
+Ver item II.3.a.4.
+V.2.6.3.2) Eficacia (Método in vitro).
+Método:
+Investigación de anticuerpos específicos del Síndrome de la Cabeza Hinchada, a través del control serológico.
+Los anticuerpos son detectados a través de reacción inmunoenzimática indirecta (ELISA).
+Vacunar un grupo de 20 aves SPF con una dosis de vacuna, por vía intramuscular. Mantener un grupo de aves testigo. Las recolecciones de muestras se realizan a los 21 y 35 días después de la vacunación.
+Los sueros individuales son testeados en ELISA, siendo los resultados expresados en densidad óptica (D.O. - absorbancia em espectrofotómetro).
+Resultados:
+Un mínimo del 70% de las aves vacunadas deberán presentar seroconversión positiva, para que el lote de vacuna sea considerado satisfactorio.
+Otros tests validados podrán ser utilizados por el organismo oficial controlador.
+V.2.6.3.3) Control de la inactivación.
+Ver item V.2.1.3.3.
+V.2.6.3.4) Inocuidad.
+Ver item II.3.d.
+V.2.6.3.5) Tests físico-químicos.
+V.2.6.3.5.a) Volumetría.
+Ver item II.3.h.4.
+V.2.6.3.5.b) Viscosidad.
+Ver item II.3.h.5.
+V.2.6.3.5.c) Estabilidad.
+Ver item II.3.h.6.
+V.2.6.4) De la comercialización y el uso.
+V.2.6.4.a) Plazo de validez.
+Será de un máximo de 24 meses, contados a partir de la fecha de envasado.
+V.2.6.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+V.2.6.4.c) Transporte.
+Ver item III.1.1.4.c.
+V.2.6.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+V.2.6.4.e) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.3) VACUNAS INACTIVADAS VIRALES POLIVALENTES.
+Ver item III.2.1.
+Las mismas especificaciones para cada vacuna inactivada viral monovalente.
+
+V.4) VACUNAS INACTIVADAS VIRALES COMBINADAS.
+Ver item III.3.1.
+Las mismas especificaciones para cada vacuna inactivada viral monovalente.
+
+V.5) VACUNAS INACTIVADAS BACTERIANAS.
+V.5.1) VACUNA CONTRA CORIZA AVIARIA.
+V.5.1.1) De la producción.
+Las vacunas contra la Coriza Aviaria deben ser preparadas a partir de cultivos bacterianos obtenidos en medios sintéticos específicos, inactivadas, y presentadas en adyuvantes oleoso o acuoso.
+V.5.1.2) De la semilla.
+V.5.1.2.1) Muestra.
+Las vacunas son elaboradas a partir de muestras Haemophilus paragallinarum, no tóxicas y libres de agentes contaminantes. La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+V.5.1.2.2) Identidad.
+El test de identidad de la semilla se hace en medios específicos tales como: Agar Casman o medio de Haemophilus sp, adicionado de NAD (Nicotinamida Adenosina Dinucleotido), con posterior test de identificación bioquímica (catálisis negativa), seroaglutinación, coloración de Gram, HI y morfología de las colonias.
+V.5.1.2.3) Pureza.
+La muestra de la semilla es inoculada en medios de cultivo que posibiliten evidenciar la presencia de agentes contaminantes.
+V.5.1.3) Del producto final.
+V.5.1.3.1) Esterilidad para hongos y bacterias.
+Ver item II.3.a.4.
+V.5.1.3.2) Control de Inactivación.
+Ver item V.2.1.3.3.
+Los lotes de antígenos inactivados para la preparación del producto final deben ser testeados en huevos o medio sintético específico.
+V.5.1.3.3) Eficacia.
+Se vacunan 20 aves SPF, de 2 a 4 semanas de edad, por la vía y dosis indicadas por el fabricante.
+Para cada lote mantener 5 testigos; 21 días después de la vacunación, las aves serán sangradas para la evaluación serológica. Un mínimo del 70% de las aves vacunadas deberá presentar un título de HI mayor o igual a 1:5, con 4 Unidades Hemoaglutinantes.
+Otros métodos validados podrán ser utilizados.
+V.5.1.3.4) Tests físico-químicos.
+V.5.1.3.4.a) Volumetría.
+Ver item II.3.h.4.
+V.5.1.3.4.b) Viscosidad.
+Ver item II.3.h.5.
+V.5.1.3.4.c) Estabilidad.
+Ver item II.3.h.6.
+V.5.1.3.4.d) pH para Vacuna Acuosa.
+7.0 a 7.5.
+
+V.5.1.4) De la comercialización y el uso.
+V.5.1.4.a) Plazo de validez.
+Será, como máximo, de 24 meses, contados a partir de la fecha de envasado.
+V.5.1.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+V.5.1.4.c) Transporte.
+Ver item III.1.1.4.c.
+V.5.1.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+En el caso de la vacuna en presentación acuosa, conteniendo hidróxido de aluminio, comunicar al Servicio Médico con respecto a inoculaciones accidentales, para las debidas providencias a tomar en el tratamiento.
+V.5.1.4.e) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.5.2) VACUNA CONTRA COLIBACILOSIS AVIARIA.
+V.5.2.1) De la producción.
+Las vacunas contra la Colibacilosis Aviaria deben ser preparadas a partir de cultivos bacterianos obtenidos en medios sintéticos específicos, inactivadas, y presentadas en adyuvantes oleoso o acuoso.
+V.5.2.2) De la semilla.
+V.5.2.2.1) Muestra.
+Las vacunas se elaboran a partir de muestras de E.coli, no tóxicas y libres de agentes contaminantes.
+La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+V.5.2.2.2) Identidad.
+El test de identidad se hace en medios específicos sintéticos, de Agar Mac Conkey, con posterior test de identificación bioquímica, seroaglutinación, coloración de Gram.
+V.5.2.2.3) Pureza.
+Ver item V.5.1.2.3.
+V.5.2.3) Del producto final.
+V.5.2.3.1) Esterilidad para hongos y bacterias.
+Ver item II.3.a.4.
+V.5.2.3.2) Inactivación.
+Ver item V.2.1.3.3.
+Los lotes de antígenos inactivados para la preparación del producto final deben ser testeados en medio sintético específico.
+V.5.2.3.3) Eficacia.
+Se vacunan 20 aves SPF, de 2 a 4 semanas de edad, por la vía y dosis indicadas por el fabricante.
+Mantener 10 testigos por cada lote.
+Veintiún días después de la vacunación, las aves serán sangradas, para evaluación serológica.
+El índice de seroconversión será del 80% para las aves vacunadas, debiendo el 80% de los testigos ser negativos.
+V.5.2.3.4) Tests físico-químicos.
+
+V.5.2.3.4.a) Volumetría.
+Ver item II.3.h.4.
+V.5.2.3.4.b) Viscosidad.
+Ver item II.3.h.5.
+V.5.2.3.4.c) Estabilidad.
+Ver item II.3.h.6.
+V.5.2.3.4.d) pH para vacuna Acuosa.
+7.0 a 7.5.
+V.5.2.4) De la comercialización y el uso.
+V.5.2.4.a) Plazo de validez.
+Será, como máximo, de 24 meses, contados a partir de la fecha de envasado.
+V.5.2.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+V.5.2.4.c) Transporte.
+Ver item III.1.1.4.c.
+V.5.2.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+V.5.2.4.e) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.5.3) VACUNA CONTRA PASTEURELOSIS AVIARIA.
+V.5.3.1) De la producción.
+Las vacunas contra Pasteurelosis Aviaria deben ser preparadas a partir de cultivos bacterianos obtenidos en medios sintéticos específicos, inactivadas y presentadas en adyuvantes oleoso y acuoso.
+V.5.3.2) De la semilla.
+V.5.3.2.1) Muestras de vacunas.
+Las vacunas se elaboran a partir de muestras de Pasteurella, no tóxicas y libres de agentes contaminantes.
+La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+V.5.3.2.2) Identidad.
+El test de identidad de la semilla se hace en medios apropiados, con posterior prueba de identificación bioquímica, seroaglutinación y coloración de Gram.
+V.5.3.2.3) Pureza.
+Ver item V.5.1.2.3.
+V.5.3.3) Del producto final.
+V.5.3.3.1) Esterilidad para hongos y bacterias.
+Ver item II.3.a.4.
+V.5.3.3.2) Control de la Inactivación.
+Ver item V.2.1.3.3.
+Los lotes de antígenos inactivados para la preparación del producto final deben ser testeados en medio sintético apropiado.
+V.5.3.3.3) Eficacia.
+Potencia:
+Veinte gallinas, de doce semanas de edad, y veinte pavos, de seis semanas de edad, se vacunan con dos dosis, en un intervalo de tres semanas, y son desafiados con la respectiva cepa homóloga a la vacuna, después de 14 días de la última vacunación, con un mínimo de 50 UFC/dosis (tipo 3) y con un mínimo de 250 UFC/dosis (tipo 1).
+Veinte aves serán los controles positivos, inoculados con una vacuna referencia.
+Veinte aves, de la misma procedencia, se dejarán como control negativo, aisladas y sin vacunar. Observar la mortalidad.
+El test será satisfactorio si mueren 6 o menos aves en 20, y será insatisfactorio si mueren 9 o más aves en 20. De haber de 7 a 8 aves muertas en 20, se deberá realizar otro test. En caso de realizar otro test, considerar lo acumulado, es decir, 20 aves del primer test y veinte aves del segundo. Si hay 15 o menos aves muertas de entre 40, la vacuna será considerada satisfactoria; si son 16 las aves muertas entre 40, la vacuna será insatisfactoria.
+V.5.3.3.4) Tests físico-químicos.
+V.5.3.3.4.a) Volumetría.
+Ver item II.3.h.4.
+V.5.3.3.4.b) Viscosidad.
+Ver item II.3.h.5.
+V.5.3.3.4.c) Estabilidad.
+Ver item II.3.h.6.
+V.5.3.3.4.d) pH para Vacuna acuosa.
+7.0 a 7.5.
+V.5.3.4) De la comercialización y el uso.
+V.5.3.4.a) Plazo de validez.
+Será, como máximo, de 24 meses, contados a partir de la fecha de envasado.
+V.5.3.4.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+V.5.3.4.c) Transporte.
+Ver item III.1.1.4.c.
+V.5.3.4.d) Bioseguridad.
+Ver item III.1.1.4.d.
+V.5.3.4.e) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.5.4) ERISIPELA DE LOS PAVOS.
+V.5.4.1) De la producción.
+Las vacunas contra Erisipela de los Pavos deben prepararse a partir de cultivos bacterianos obtenidos en medios sintéticos específicos, inactivadas y presentadas en adyuvantes oleoso o acuoso.
+V.5.4.2) De la semilla.
+V.5.4.2.1) Muestra.
+Las vacunas se elaboran a partir de muestras de ERYSIPELOTHRIX RHUSIOPATIAE, no tóxicas y libres de agentes contaminantes.
+La utilización de las muestras estará condicionada a la aprobación por el organismo oficial controlador.
+V.5.4.2.2) Identidad.
+El test de identidad de la semilla se hace en medios específicos, con posterior prueba de identidad bioquímica, seroaglutinación y coloración de Gram.
+
+V.5.4.2.3) Pureza.
+Ver item V.5.1.2.3.
+V.5.4.3) Del producto final.
+V.5.4.3.1) Esterilidd para hongos y bacterias.
+Ver item II.3.a.4.
+V.5.4.3.2) Inactivación.
+Ver item V.2.1.3.3.
+Los lotes de antígenos inactivados para la preparación del producto final deben ser testeados en medio sintético específico.
+V.5.4.3.3) Potencia (Desafío en ratones de laboratorio o ratón
+minero o minerito ("camundongos").
+Diluir la vacuna en test y el patrón (certificado por el organismo oficial controlador) en 3 diluciones: 1:10, 1:30 y 1:90.
+Vacunar 20 ratones, vía subcutánea, con 1/10 dosis recomendada para cada dilución.
+Dejar un grupo testigo de 20 animales no vacunados.
+Después de 14 a 21 días, desafiar con 100 DL50 / ratón, de cepa E. Insidiosa, en 0,2 ml, vía subcutánea. Todos vacunados con un cultivo monitoreado por densidad óptica.
+El grupo no vacunado se utiliza para la titulación de la cepa de desafío, con el objetivo de saber si fueron utilizadas las DL50 necesarias.
+El test no será conclusivo si el número de DL50 sobrepasa 1000.
+Después de 10 días, calcular la DP 50 del test y del patrón, para encontrar la recíproca. La tasa de protección (RP) entre test y patrón no puede ser inferior a 0,6.
+V.5.4.3.4) Inocuidad.
+Debe realizarse en cobayos. Dos animales serán inoculados con 2 ml de vacuna por las vías intramuscular o subcutánea, y los animales deben ser observados durante 7 días.
+Si ocurren reacciones no favorables, atribuibles al producto, en los animales durante el período de observación, la partida será considerada no satisfactoria.
+Si las reacciones desfavorables no son atribuibles al producto, el test debe ser declarado no conclusivo y deberá ser repetido.
+V.5.4.3.5) Tests físico-químicos.
+V.5.4.3.5.a) Volumetría.
+Ver item II.3.h.4.
+V.5.4.3.5.b) Viscosidad.
+Ver item II.3.h.5.
+V.5.4.3.5.c) Estabilidad.
+Ver item II.3.h.6.
+V.5.4.3.5.d) pH para Vacuna Acuosa.
+7.0 a 7.5.
+V.5.4.3.6) De la comercialización y el uso.
+V.5.4.3.6.a) Plazo de validez.
+Será, como máximo, de 24 meses, contados a partir de la fecha de envasado.
+V.5.4.3.6.b) Conservación y almacenamiento.
+Ver item III.1.1.4.b.
+
+V.5.4.3.6.c) Transporte.
+Ver item III.1.1.4.c.
+V.5.4.3.6.d) Bioseguridad.
+Ver item V.5.1.4.d.
+V.5.4.3.6.e) Uso y vías de aplicación.
+Ver item III.1.2.4.e.
+
+V.6) VACUNAS INACTIVADAS BACTERIANAS POLIVALENTES.
+Ver item III.2.1.
+
+V.7) VACUNAS INACTIVADAS BACTERIANAS COMBINADAS.
+Ver item III.3.1.
+
+V.8) VACUNAS INACTIVADAS MICOPLASMATICAS MONOVALENTES.
+V.8.1) De la producción y de la semilla.
+Ver item III.7.
+V.8.2) Del producto final.
+Ver items V.2.1.3.1.a, V.2.1.3.3, V.2.1.3.4, V.2.1.3.5, V.2.1.4.(a,
+b, c, d) y V.2.1.4.e.
+
+V.9) VACUNAS INACTIVADAS MICOPLASMATICAS POLIVALENTES.
+Ver item V.3.
+
+V.10) VACUNAS INACTIVADAS MICOPLASMATICAS COMBINADAS.
+Ver item V.4.
+
+V.11) VACUNAS INACTIVADAS MICOPLASMATICAS COM SUBUNIDADES.
+Ver item V.5.
+
+CAPÍTULO VI
+
+REGLAMENTO TÉCNICO PARA PRODUCCIÓN Y CONTROL DE ANTÍGENOS PARA AVICULTURA
+VI.1) ANTÍGENOS BACTERIANOS.
+VI.1.2.1) ANTÍGENOS DE PULOROSIS Y TIFUS AVIARIO.
+VI.1.2.1.1) De la producción.
+Debe ser preparado a partir de la suspensión de Salmonella Gallinarum de composición antigénica, conocida y cultivada en medios sintéticos específicos, inactivada y coloreada por agentes apropiados.
+VI.1.2.1.2) De la semilla.
+VI.1.2.1.2.1) Muestras.
+Deben ser S. Pullorum o S. Gallinarum estables. La utilización de las muestras estará condicionada a la aprobación por el O.O.C.
+VI.1.2.1.2.2) Control de la semilla.
+Se hará conforme lo prescrito en el item II.3 de los procedimientos de control de calidad, excepto los items: II.3.a.1; II.3.a.2; II.3.a.4; II.3.b; II.3.c.2; II.3.d; II.3.e; II.3.f; II.3.g; II.3.h.
+
+VI.1.2.1.3) Del producto final.
+VI.1.2.1.3.1) Esterilidad.
+Ver item II.3.a.2 - Salmonella (Inactivación).
+Ver item II.3.a.4 - Hongos x bacterias.
+VI.1.2.1.3.2) Tests físico-químicos.
+VI.1.2.1.3.2.1) pH.
+a) 4,6 +/- 0,4 - para antígenos de S.A rápida.
+b) 8,2 a 8,5 - para antígenos de S.A lenta.
+VI.1.2.1.3.2.2) Concentración celular o densidad bacteriana.
+Utilizar uno de los siguientes métodos:
+a) NEFELOMETRIA - 80 +/- 15 veces, el patrón No. 1 de la escala Mac FARLAND para antígenos de SAR y 50 +/- 10 veces, el patrón No. 1 de la escala Mac FARLAND para antígenos de SAL.
+b) ESPECTROFOTOMETRIA - de 90 a 120 veces obtenidas en 65% de trasmitancia en longitud de onda de 520 nm, lo que corresponde a un volumen celular medido por método de FITSCHHOPKINS de 3,0% +/- 0,5 de masa celular después de centrifugación a 1.000 G, en tubo de FITSCH-HOPKINS.
+c) PCV - Volumen de masa celular de 3,0 +/- 0,5% de masa celular después de centrifugación a 1.000 G, en tubo de FITSCHHOPKINS, por 30 minutos.
+Pueden utilizarse otros métodos mediante aprobación del organismo oficial controlador.
+VI.1.2.1.3.2.3) Volumetría.
+a) El volumen de antígeno para cada test es de 0,05 ml.
+b) Ver item II.3.h.4.
+VI.1.2.1.3.2.4) Sensibilidad.
+Cada lote de antígeno debe ser testeado frente a sueros patrones monoespecíficos positivos y negativos, u otros reconocidos por el organismo oficial controlador.
+Cada partida del antígeno debe ser testeada frente a la sangre total de aves SPF y, por lo menos, a 12 sueros patrones, dando 3 fuertemente positivos, 3 débilmente positivos y como mínimo 6 negativos.
+Un mínimo de 3 sueros de aves fuertemente positivos deben ser diluidos en sueros de aves negativos y usarse en ensayos comparativos entre el antígeno en test y el antígeno patrón. La reacción debe evidenciarse en 10 a 15 segundos después de la mezcla suero-antígeno y se caracteriza por la aparición de grumos de coloración azul. En la prueba negativa, la mezcla debe mantenerse homogénea por un período mínimo de 2 minutos a temperatura ambiente (25ºC). La reacción ante la sangre total debe ser negativa. No debe permitirse ningún test insatisfactorio entre los 6 sueros negativos y no más de un test insatisfactorio entre los 6 o más sueros positivos (fuertes y débiles).
+Todos los tests realizados deben ser incluidos para evaluación del test de sensibilidad. De darse un test insatisfactorio usando suero positivo (fuerte o débil), deben probarse, como mínimo, 3 sueros adicionales fuertemente positivos y 3 débilmente positivos.
+Si no se obtuviera ningún test insatisfactorio con los sueros adicionales, el antígeno será considerado satisfactorio.
+VI.1.2.1.3.2.5) Homogeneidad.
+El antígeno no debe presentar autoaglutinación, floculación o formas filamentosas cuando es examinado macro o microscópicamente.
+VI.1.2.1.4) De la comercialización y el uso.
+
+VI.1.2.1.4.1) Plazo de validez.
+El antígeno tiene una validez de 24 meses, a partir de la fecha de envasado.
+VI.1.2.1.4.2) Conservación y almacenamiento.
+El antígeno debe ser conservado a temperatura entre 2ºC y 8ºC, protegido de la luz y de las fuentes de radiación. Evitar el congelamiento ya que torna inadecuado al producto para su uso.
+VI.1.2.1.4.3) Transporte.
+Ver item III.1.1.4.c.
+VI.1.2.1.4.4) Presentación.
+El producto debe ser envasado en frasco de vidrio neutro ámbar o de plástico opaco, con un cuenta gotas o pico dosificador que libere 0,05 ml, en los volúmenes de 25 ml (500 HASTES) o 50 ml (1000 HASTES).
+VI.1.2.2) ANTIGENOS PARA MICOPLASMOSIS AVIARIAS.
+VI.1.2.2.1) De la producción.
+Debe prepararse a partir de suspensión de Micoplasmas Aviarias de composición antigénica, conocida y cultivada en medios sintéticos específicos, inactivada y coloreada por agentes apropiados.
+VI.1.2.2.2) De la semilla.
+VI.1.2.2.2.1) Muestras.
+Deben emplearse muestras de M. Gallisepticum, M. Synoviae o M. Meleagridis, condicionadas a la aprobación del organismo oficial controlador.
+VI.1.2.2.2.2) Control de la semilla.
+Se hará de acuerdo a lo prescrito en II.3, excepto los items: II.3.a.1;
+II.3.a.2; II.3.a.3; II.3.b; II.3.c; II.3.d; II.3.e; II.3.f; II.3.g; II.3.h.
+VI.1.2.2.3) Del producto final.
+VI.1.2.2.3.1) Esterilidad.
+Ver item II.3.a.3; II.3.a.4.
+VI.1.2.2.3.2) Tests físico-químicos.
+VI.1.2.2.3.2.1) pH.
+a) para Mg: 6,0 +/- 0,2.
+b) para Ms y Mm: 7,0 +/- 0,2.
+VI.1.2.2.3.2.2) Concentración celular (densidad).
+A 2,5 ml de la muestra del antígeno completo se deberán añadir 2,5 ml de solución tampón de Sorensen a pH 6,0 para antígeno de Mg (test en placa) y a pH 7,0 para antígeno de Ms (test en placa), en un tubo modificado de Hopkins a 1.000 G en centrífuga refrigerada a 20ºC durante 90 minutos. El volumen de células sedimentadas debe ser 1,2% (+/- 0,4%).
+VI.1.2.2.3.2.3) Volumetría.
+a) El volumen de antígeno para cada test es de 0,03 ml.
+b) Ver item II.3.h.4.
+VI.1.2.2.3.2.4) Sensibilidad.
+Se aplicará el mismo test de sensibilidad para los Antígenos Mg y Ms, utilizando los respectivos antígenos y sueros patrones.
+La sensibilidad de cada antígeno debe ser testeada comparando la reacción de aglutinación de cada partida de antígeno, con antígenos patrones de referencia, los cuales podrán ser suministrados por el organismo oficial. Para el test deben ser utilizados 5 (cinco) sueros positivos y 5 (cinco) sueros negativos conocidos. Los sueros negativos deben ser testeados frente al antígeno no diluido y los sueros positivos deben ser testeados ante el antígeno diluido a 1:4 en "solución tampón formulada de la misma manera que es utilizada en el antígeno", debiendo, el antígeno testeado, ser diluido en el mismo vehículo y proporción. La reacción debe evidenciarse, después de la mezcla suero-antígeno, y se caracteriza por la aparición de grumos.
+En la prueba negativa, la mezcla debe mantenerse homogénea, a temperatura ambiente (+/- 25ºC). Si los sueros negativos no presentan reacciones negativas en este test, la partida será considerada no satisfactoria.
+Si el antígeno testeado y el antígeno de referencia no presentan reacciones de aglutinación semejante en un mínimo de 4 (cuatro) en 5 (cinco) sueros positivos utilizados, la partida se considerará insatisfactoria.
+La sensibilidad de Ag. de M. Meleagridis debe ser testeada utilizándose sueros frescos de pavos. No se pueden congelar los sueros patrones.
+VI.1.2.2.3.2.5) Homogeneidad.
+Ver item VI.1.2.1.3.2.5.
+VI.1.2.2.3.2.6) Especificidad.
+El Ag. de Ms debe ser examinado para reacciones (aglutinación) cruzadas en 5 antisueros de Mg (origen de gallina). El Ag. de Mm debe ser examinado para reacciones de aglutinación cruzada con 5 antisueros de Mg (origen de pavo) y 5 antisueros de Ms (origen pavo).
+Los tests deben realizarse con Ag. no diluidos. Si hay aglutinación cruzada, el lote de antígeno es considerado no satisfactorio.
+VI.1.2.2.4) De la comercialización y el uso.
+VI.1.2.2.4.1) Plazo de validez.
+Los antígenos tendrán un plazo de validez de 24 meses.
+VI.1.2.2.4.2) Conservación y almacenamiento.
+Ver item VI.1.2.1.4.2.
+VI.1.2.2.4.3) Presentación.
+El producto debe ser envasado en frasco de vidrio neutro o de plástico, con cuentagotas para 0,03 ml de Ag.
+
+CAPÍTULO VII
+
+DILUYENTES PARA USO EN LA AVICULTURA
+VII.1) De la producción.
+Debe ser agua destilada o agua deionizada, o una solución formulada estéril, aprobada por el O.O.C. El volumen total de diluyente preparado de una sola vez, corresponde a un lote numerado y debe ser sometido a los tests específicos.
+VII.2) Del producto final.
+VII.2.1) Esterilidad.
+Ver item II.3.a.4.
+VII.2.2) Compatibilidad.
+El diluyente debe asegurar el título mínimo exigido, por dosis.
+VII.2.3) Tests físico-químicos.
+VII.2.3.1) pH.
+Ver item II.3.h.3.
+a) Diluyente para vacuna contra la Enfermedad de Marek - 7,3 +/- 0,3.
+b) Diluyente para vacuna de Salmonella - 7,0 +/- 0,5.
+c) Diluyente agua - 7,0 +/- 1,0.
+
+VII.2.3.2) Volumen.
+Ver item II.3.h.4.
+VII.2.3.3) Osmolaridad.
+Ver item II.3.h.10, excepto para diluyente agua, diluyente spray y ocular.
+VII.2.4) De la comercialización y uso.
+VII.2.4.1) Plazo de validez.
+Los diluyentes tendrán un plazo de validez de 36 meses.
+VII.2.4.2) Conservación, almacenamiento y transporte.
+El producto debe ser conservado a temperatura ambiente y al abrigo de la luz y protegido de fuentes de radiación. Cuando sea conservado junto con la vacuna, prevalece la temperatura recomendada para ésta.
+VII.2.4.3) Bioseguridad.
+Ver item III.1.4.4.d.
+VII.2.4.4) Uso y vía de aplicación
+Ver item III.1.4.4.e.
+
+
+55

@@ -1,0 +1,220 @@
+Resolución GMC N° 19/23
+Título: FARMACOPEA MERCOSUR: DETERMINACIÓN DE AFLATOXINAS
+Fecha de aprobación: 02/07/2023
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 95630_RES_019-2023_ES_Determinación de aflatoxinas.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4561).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 19/23
+
+
+FARMACOPEA MERCOSUR:
+DETERMINACIÓN DE AFLATOXINAS
+
+       VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+
+EL GRUPO MERCADO COMUM
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Determinación de aflatoxinas", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes de 29/XII/2023.
+
+LX GMC EXT.- Puerto Iguazú, 02/VII/23.
+ANEXO
+
+DETERMINACIÓN DE AFLATOXINAS
+
+Las aflatoxinas son muy tóxicas. Manejar con cuidado extremo.
+Las aflatoxinas son fotosensibles. Proteger de la luz las soluciones patrón y muestras.
+
+Método I: Determinación por Cromatografía en capa delgada
+
+Proceder según lo descripto para Cromatografía en capa delgada en la Resolución GMC N° 34/22 "Farmacopea MERCOSUR: Cromatografía"
+
+Determinación de las aflatoxinas mediante cromatografía en capa delgada (CCD). Este método puede ser utilizado para detectar la posible presencia de aflatoxinas en drogas vegetales y derivados destinados a la elaboración de infusiones, decocciones y todos aquellos productos que sufren un tratamiento térmico antes de la administración, y en los que la monografía no recomienda otro método específico.
+
+Fase estacionaria: sílica-gel GF254 con 0,25 mm de espesor.
+
+Fase Móvil: cloroformo:acetona 9:1 (v/v).
+
+Revelador: UV 360-365 nm; solución de ácido sulfúrico 30% (v/v).
+
+Solución reguladora de fosfato pH 7,4: Colocar 1,0 g de cloruro de potasio, 1,0 g de fosfato de potasio monobásico, 5,8 g de fosfato de sodio dibásico anhidro y 40,0 g de cloruro de sodio en un matraz aforado de 5 litros. Añadir aproximadamente 4,5 litros de agua y disolver. Ajustar el pH a 7,4 con ácido clorhídrico o hidróxido de sodio. Completar a volumen con agua y volver a calibrar el pH.
+
+Solución madre de aflatoxinas: Disolver el contenido del estándar de aflatoxina en una mezcla de benceno:acetonitrilo (98:2) (v/v). Diluir cuantitativamente y en etapas con el mismo disolvente para obtener soluciones con una concentración de 8 a 10 µg por mL de cada aflatoxina. Agitar vigorosamente la solución durante 1 minuto. Determinar la absorbancia de cada solución a 350 nm en un espectrofotómetro adecuado, utilizando una mezcla de benceno:acetonitrilo  98:2 (v/v) como blanco. Calcular la concentración de cada aflatoxina en µg/mL, usando la siguiente fórmula:
+
+C=(1.000×A×P)/ɛ
+Donde:
+P = peso molecular de la aflatoxina, en g/mol;
+ɛ = absortividad molar de la aflatoxina en el disolvente correspondiente; y
+A= absorbancia de la solución.
+
+Estos valores están indicados en la Tabla 1.
+
+
+Tabla 1.
+Aflatoxina
+P (peso molecular)
+ɛ (absortividad molar)
+B1
+312
+19.800
+B2
+314
+20.900
+G1
+328
+17.100
+G2
+330
+18.200
+
+Solución estándar: Transferir a tubos inactínicos de 3 mL con tapón alícuotas de cada una de las soluciones madre de aflatoxinas preparadas anteriormente. Agregar cantidades suficientes de benceno:acetonitrilo (98:2) para obtener soluciones de 1,0 µg/mL de B1; 0,5 µg/mL de B2; 1,0 µg/mL de G1 y 0,5 µg/mL de G2.
+
+Solución muestra (SM): Extracción de las aflatoxinas de la matriz a analizar.
+
+Columna: Usar columna cromatográfica de inmunoafinidad (IAC) con anticuerpos monoclonales específicos para aflatoxinas.
+
+Solvente de extracción: Disolver 5 g de cloruro de sodio en 200 mL de metanol: agua (70:30) (v/v).
+
+Procedimiento: Transferir 25 g de la muestra pesados exactamente, previamente molida y tamizada por el tamiz No 20, a un erlenmeyer de 500 mL. Agregar alrededor de 200 mL de solvente de extracción para embeber toda la muestra.  Agitar con agitador mecánico durante 1 hora o en agitador a alta velocidad por 5 minutos. Filtrar y recoger el filtrado en un erlenmeyer de 250 mL. Transferir 80,0 mL del extracto, medidos exactamente, en un erlenmeyer de 250 mL, agregar 160 mL de Solución reguladora de fosfato pH 7,4.  Agitar y filtrar por membrana de porosidad entre 0,8 a 1,6 µm. Aplicar 120 mL del filtrado, equivalente a 5 g de muestra (p), en la columna cromatográfica de inmunoafinidad, manteniendo un flujo de 1 a 2 gotas por segundo, teniendo la precaución de que la columna no se seque. Lavar la columna con 20 mL de la Solución reguladora de fosfato pH 7,4 y secar haciendo pasar aire a través de la columna con la ayuda de una jeringa. Descartar el líquido de lavado. Eluir lentamente las aflatoxinas adsorbidas en la fase estacionaria, por acción de la gravedad, con 2 mL de metanol. Recoger todo el eluato en un balón de 25 mL con un pequeño reservorio en el fondo, previamente pesado con exactitud. Secar usando evaporador rotatorio a 60 °C. Disolver el residuo en 100 µL (VR) de una mezcla de benceno:acetonitrilo (98:2) (v/v)
+
+Solución fortificada con solución estándar (SF): Mezclar 10 µL de la Solución muestra con 4 µL de la Solución estándar.
+
+Análisis de aflatoxinas
+
+Procedimiento: Aplicar por separado 10 µL de la Solución muestra (SM), 2, 4 y 6 µL de la Solución estándar (SE) y 10 µL de la Solución fortificada con solución estándar (SE). Dejar secar las aplicaciones y desarrollar los cromatogramas hasta que el frente del disolvente recorra aproximadamente 11 cm. Retirar la placa de la cámara para marcar el frente del solvente. Secar la placa al aire, protegida de la luz. Examinar la placa bajo luz UV a 360 nm: las aflatoxinas B1 y B2 aparecen como manchas azules y G1 y G2 como manchas verdes. Los valores de Rf son aproximadamente: 0,4 para G2, 0,5 para G1, 0,6 para B2 y 0,7 para B1. Para confirmar, pulverizar el revelador sobre la placa. Dejar secar al abrigo de la luz y observar bajo luz UV a 360 nm: las cuatro aflatoxinas se observan como manchas amarillas. Calcular la concentración de cada aflatoxina, en µg/kg, en la porción de muestra tomada, por la fórmula siguiente:
+
+CM=(VE×CE×VR)/(VM×p)
+
+Donde
+VE = volumen en µL, Solución estándar (SE), considerar la aplicación de SE cuya banda se aproxime más en tamaño e intensidad a la banda de aflatoxina de la Solución muestra (SM)
+CE = concentración de aflatoxina en la Solución estándar (G1 y B1 1,0 µg/mL G2 y B2 0,5 µg/mL)
+VR = volumen en µL, de la solución final del residuo
+VM = volumen de solución de la muestra
+p = peso de muestra aplicada en la columna de afinidad, en g
+
+Criterios de aceptación: Ausencia de manchas en las aplicaciones de la Solución muestra, en las áreas donde se observan las manchas de la Solución estándar de aflatoxina. Si se observa alguna mancha en la Solución muestra, verificar la correspondencia con alguna mancha fluorescente en la Solución estándar de aflatoxina para identificar esa aflatoxina. La intensidad de la mancha de la aflatoxina, si está presente en la solución de muestra, se compara con la intensidad de la mancha correspondiente de las aflatoxinas en las soluciones estándar, para obtener la concentración aproximada de las aflatoxinas en la de muestra. Los límites máximos aceptados son menores a 5 µg/kg para AFB1 y 20 µg/kg para la suma de AFB1, AFB2, AFG1 y AFG2, a menos que se recomienden otros valores en la monografía específica.
+
+Método II: Determinación por cromatografía líquida de alta eficiencia.
+
+Proceder según lo descripto en la Resolución GMC Nº 34/22 "Farmacopea MERCOSUR: Cromatografía".
+
+Sistema cromatográfico: Utilizar un equipo para cromatografía líquida de alta eficiencia con detección por fluorescencia (HPLC-FLU), recomendado para las siguientes drogas vegetales, sus preparados y derivados: ginseng, jengibre, uña de gato y las vainas de sen, con la excepción de que para otras matrices el método sea evaluado, adaptado y validado.
+
+Solución primaria de aflatoxina B1: Disolver Aflatoxina B1 R (AFB1) en acetonitrilo:tolueno (2:98) para obtener una solución de 10 µg/mL. Para determinar la concentración exacta de AFB1 en la solución madre, registrar la curva de absorción entre 330 y 370 nm en celda de cuarzo.  Calcular la concentración de AFB1 en µg/mL, usando de la siguiente fórmula:
+
+C=(A×P×100)/(ɛ×l)
+
+Donde
+A = absorbancia medida en lo máximo de la curva de absorción
+P = peso molecular de AFB1 (312 g/mol)
+ɛ = absortividad molar de AFB1 en la mezcla acetonitrilo/tolueno (1930 m2 / mol)
+l = longitud del camino óptico de la cubeta (1 cm)
+
+Solución secundaria de AFB1: Preparar la solución secundaria que contenga 100 ng/mL de AFB1 diluyendo de la solución madre primaria con acetonitrilo:tolueno (2:98). Proteger el frasco de la solución con papel de aluminio y esperar a que el contenido alcance la temperatura ambiente. Si la solución fuera almacenada por un período largo (por ejemplo, un mes), pesar la botella y registrar la masa antes de cada uso de la solución.
+
+Soluciones estándar de AFB1: Transferir los volúmenes de Solución secundaria de AFB1 indicados en la Tabla 2 a matraces aforados de 250 mL. Evaporar el solvente bajo corriente de nitrógeno a temperatura ambiente. En cada matraz, añadir 75 mL de metanol, homogeneizar y completar a volumen con agua.
+
+Tabla 2 - Soluciones de aflatoxina B1 para preparación de la curva analítica
+
+Solución estándar de AFB1
+Volumen de la solución secundaria (µL)
+Concentración final de AFB1 en la solución estándar (µL/mL)
+1
+125
+0,05
+2
+250
+0,1
+3
+500
+0,2
+4
+750
+0,3
+5
+1000
+0,4
+
+Curva analítica: Preparar la curva de calibración utilizando las soluciones estándar AFB1 1 a 5, que cubre un rango de concentración de 1 a 8 µg/kg de AFB1 en la droga vegetal.  Verificar si la curva tiene la linealidad adecuada. Si el contenido de AFB1 de la muestra a ser examinada se encuentra fuera del rango de la curva de calibración, la solución muestra debe ser diluida hasta que el contenido de aflatoxinas sea adecuado para la curva de calibración establecida.
+
+Columna: C18, 250 mm x 4,6 mm, 5 µm.
+
+Fases Móviles
+
+A (para la derivatización post-columna con reactor fotoquímico o bromuro de piridinio):acetonitrilo:metanol:agua (2:3:6 v/v/v);
+
+B (para derivatización post-columna bromuro generado electroquímicamente): agregar 0,12 g de bromuro de potasio y 350 mL de ácido nítrico diluido R1 por litro de fase móvil A.
+Flujo: 1,0 mL/min.
+
+Detección: Detector de fluorescencia (filtro de excitación a 360 nm y filtro de emisión a 420 nm). Si se emplea detector de longitud de onda variable, emplear 365 nm para excitación y 435 nm para emisión.
+
+Derivatización post-columna con bromuro de perbromato de piridinio (PBPB):
+* bomba peristáltica;
+* T con volumen muerto igual a cero (0);
+* tubo de reacción de teflón (PTFE) (longitud = 0,45 m, diámetro = 0,5 mm);
+* fase móvil A;
+* reactivo de post-derivatización: disolver 50 mg de PBPB en 1.000 mL de agua (proteger de la luz y usar hasta en cuatro (4) días);
+* flujo del reactivo de derivatización: 0,4 mL/min.
+
+Derivatización post-columna con reactor fotoquímico (PHRED):
+* reactor con lámpara de bulbo de mercurio de baja presión (mínimo de 8 W) a 254 nm;
+* placa de soporte pulida;
+* bobina de reacción: tubo de PTFE firmemente enrollado en torno al bulbo de UV, longitud = 25 cm y diámetro = 0,25 mm, volumen muerto nominal de 1,25 mL;
+* tiempo de exposición = 2 min;
+* fase móvil A.
+
+Derivatización post-columna con bromo generado electroquímicamente (KOBRA):
+* KOBRA-cell: celda electroquímica que genera una forma reactiva de bromo para derivatización de la aflatoxina, resultando en la intensificación de la fluorescencia;
+* fuente de corriente continua en serie con la KOBRA-cell que proporciona corriente constante de aproximadamente 100 µA;
+* tubo de reacción PTFE, longitud = 0,12 cm y diámetro = 0,25 mm;
+* fase móvil B.
+
+Columna de inmunoafinidad (IAC): Emplear una columna de inmunoafinidad conteniendo anticuerpos contra aflatoxina B1, con capacidad de no menos 100 ng de AFB1 y que debe tener una recuperación de por lo menos 80% cuando se aplica una solución de 5 ng de AFB1 con una mezcla metanol:agua (12,5:87,5). Acondicionar la IAC a temperatura ambiente.
+
+Procedimiento: A 5 g de material vegetal seco y pulverizado añadir 100 mL de agua:metanol (30:70) y extraer por sonicación durante 30 minutos. Filtrar a través de papel de filtro plegado. Transferir 10 mL del filtrado claro a un erlenmeyer de 150 mL. Añadir 70 mL de agua. Pasar 40 mL a través de una IAC a un flujo aproximado de 3 mL/min (no exceder de 5 mL/min). Lavar la columna con 2 volúmenes de 10 mL de agua a un flujo que no exceda de 5 mL/min. Secar la IAC usando vacío suave durante 5 a 10 segundos o pasar aire con una jeringa, durante 10 segundos. Aplicar 0,5 mL de metanol en la parte superior de la columna y eluir por gravedad. Recolectar el eluido en un matraz aforado de 5 mL. Después de 1 minuto aplicar otros 0,5 mL de metanol. Después de 1 minuto, aplicar una tercera porción de 0,5 mL de metanol en la parte superior de la columna. Recolectar la mayor parte del disolvente aplicando presión con aire comprimido en la parte superior de la columna o usando vacío suave. Completar a volumen con agua y agitar bien. Si la solución es transparente, se puede utilizar directamente; de lo contrario, pasar la solución a través de un filtro antes del análisis. Utilizar un filtro desechable (por ejemplo, filtro de politetrafluoroetileno con un tamaño de poro de 0,45 µm) que no causa la pérdida de las aflatoxinas por la retención. Proceder a la derivatización de la muestra a analizar por HPLC-FLU para mejorar la fluorescencia de las aflatoxinas.
+
+Volumen de inyección: 500 µL.
+
+Orden de elución: AFG2, AFG1, AFB2 y AFB1.
+
+Cálculo: Determinar la ecuación de la curva analítica (y = ax + b) con la concentración de AFB1 (ng/mL) en el eje x y la señal (S) en el eje y. La concentración de AFB1 en la solución muestra es igual a:
+
+C=(S-b)/a
+
+Calcular el contenido de AFB1 en la droga vegetal, en ng/g, usando la siguiente expresión:
+
+Cm=(V_1×V_2×C)/(m×V_i )
+
+Donde
+m = masa de droga vegetal, en g
+V1 = volumen del solvente usado en la extracción, en mL
+Vi = alícuota utilizada en la IAC, en mL
+V2 = volumen final de la solución después de la elución de la IAC y la dilución, en mL
+C = concentración de AFB1 en la solución muestra en ng/mL
+
+La presencia de AFB1 puede ser confirmada mediante el registro de un cromatograma sin derivatización post-columna que resulta en una reducción significativa (mayor a 10 veces) en la respuesta de AFB1.
+2

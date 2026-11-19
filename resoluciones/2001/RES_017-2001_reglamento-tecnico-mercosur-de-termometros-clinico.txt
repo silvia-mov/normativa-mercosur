@@ -1,0 +1,624 @@
+Resolución GMC N° 17/01
+Título: REGLAMENTO TÉCNICO MERCOSUR DE TERMÓMETROS CLÍNICOS DE MERCURIO EN VIDRIO DESTINADOS A MEDIR LA TEMPERATURA EN EL CUERPO HUMANO (DEROGACIÓN DE LA RES. GMC N° 18/00)
+Fecha de aprobación: 13/06/2001
+Vigencia: Vigente (Vigente desde el 19/11/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 13772_RES_017-2001_ES_RTM_Termóm_Clín_de Mercurio_Acta 2_01.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1126).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 17/01
+
+REGLAMENTO TÉCNICO MERCOSUR DE TERMÓMETROS CLÍNICOS DE MERCURIO EN VIDRIO DESTINADOS A MEDIR LA TEMPERATURA EN EL CUERPO HUMANO (DEROGACIÓN DE LA RES. GMC N° 18/00)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones N° 57/92, Nº 91/93, Nº 152/96, Nº 51/97, Nº 61/97, Nº 23/98, Nº 38/98 y Nº 18/00 del Grupo Mercado Común y la Recomendación N° 02/01 del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que la norma estudiada reglamenta los instrumentos llamados termómetros clínicos de mercurio en vidrio, destinados a medir la temperatura del cuerpo humano, permitiendo a los Estados Partes comercializar este instrumento sin ninguna dificultad.
+
+Que es necesario definir con claridad el alcance del campo de aplicación de la Res. GMC N° 18/00.
+
+Que para la propuesta fue considerada la Recomendación N° 7 de la Organización Internacional de Metrología Legal, según fuera acordado entre los Estados Partes.
+
+Que el Grupo Mercado Común en su XXXIX Reunión Ordinaria impartió instrucciones a los Subgrupos de Trabajo, relacionadas con las modificaciones o actualizaciones de una norma.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR de Termómetros Clínicos de Mercurio en Vidrio destinados a Medir la Temperatura en el Cuerpo Humano", que figura como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Las aprobaciones de modelo y verificaciones primitivas efectuadas por los Estados Partes, en los términos del reglamento sancionado por la Resolución GMC N° 51/97, serán aceptadas por los demás Estados Partes a partir de la fecha establecida en el Artículo 6.
+
+Art. 3 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina: Ministerio de Economía, Secretaría de Defensa de la Competencia y del Consumidor (SDC y C).
+
+
+Brasil:	Instituto Nacional de Metrología, Normalização e Qualidade Industrial (INMETRO)
+
+Paraguay:	Instituto Nacional de Tecnología y Normalización (INTN)
+
+Uruguay:	Ministerio de Industria, Energía y Minería
+
+Art. 4 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 5 - Derógase la Resolución GMC N° 18/00.
+
+Art. 6- Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 13/VIII/2001.
+
+
+XLII GMC- Asunción, 13/VI/01
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR DE TERMÓMETROS CLÍNICOS DE MERCURIO EN VIDRIO DESTINADOS A MEDIR LA TEMPERATURA EN EL CUERPO HUMANO
+
+1. CAMPO DE APLICACIÓN
+
+1.1 Este Reglamento establece las condiciones que deben satisfacer los termómetros designados como termómetros clínicos de mercurio en vidrio, con dispositivo de máxima, destinados a medir la temperatura del cuerpo humano, exceptuando los termómetros para bebés prematuros y de ovulación.
+
+1.2  Este Reglamento se aplicará a los termómetros clínicos de escala externa con sección recta triangular o circular y a los de escala interna con sección oval o circular.
+
+2. TERMINOLOGÍA
+2.1 Dispositivo de máxima o cámara de constricción: estrechamiento en el capilar del termómetro que impide el retorno del mercurio al bulbo luego de terminado el calentamiento.
+
+2.2 Columna residual de mercurio: columna de mercurio existente en el capilar por encima de la cámara de constricción.
+
+2.3. Menisco: parte superior de la columna residual de mercurio.
+
+2.4 Lente de aumento: formación que posibilita la visión de la imagen de la columna de mercurio suficientemente ampliada.
+
+2.5 Fondo opaco: faja coloreada existente en la pared del tubo capilar cuya finalidad es dar contraste.
+
+2.6 Escala: conjunto ordenado de marcas asociadas a una numeración para determinar los intervalos de temperatura.
+
+2.7 Marcas de escala: trazos perpendiculares al capilar del termómetro, grabados en el asta o en la placa portaescala, correspondiente cada una a un valor determinado de  temperatura.
+
+2.8. Placa portaescala: placa plana sobre la cual se traza la escala, fijada longitudinalmente atrás del tubo capilar.
+
+2.9. Tiempo de respuesta: tiempo que transcurre entre el instante en que el termómetro es sometido a una temperatura y el instante en que el termómetro indica y permanece en dicha temperatura.
+
+
+3.-	UNIDADES DE MEDIDA
+
+3.1 La unidad de temperatura debe ser el grado Celsius de símbolo °C.
+
+4. REQUISITOS METROLÓGICOS
+
+4.1 ERRORES MÁXIMOS TOLERADOS.
+
+4.1.1 El error máximo tolerado en cualquier punto de la escala de los termómetros clínicos es de +0,1°C y -0,15°C.
+
+4.1.2 Estos valores son válidos para indicaciones de termómetros luego de su enfriamiento a una temperatura ambiente entre 15°C y 30°C.
+
+4.2 TIEMPO DE RESPUESTA
+
+4.2.1 Cuando un termómetro a temperatura t1 (15°C t130°C) es inmerso en un baño de agua con temperatura constante t2 (35,5°C t242°C), siendo retirado luego de 20 segundos, la indicación del termómetro después de enfriamiento a temperatura ambiente (15°C a 30°C) debe respetar los errores máximos permitidos en el Ítem 4.1.1. y no debe diferir de la indicación establecida para la temperatura t2, más que 0,005(t2-t1).
+
+4.3 REPOSICIÓN DE LA COLUMNA DE MERCURIO
+
+4.3.1  Luego que el termómetro ha sido calentado a una temperatura mínima de 37°C y luego enfriado a una temperatura por debajo del mínimo valor de la escala, la columna de mercurio debe descender debajo del menor trazo numerado cuando el mercurio en la base del bulbo es sometido a una aceleración de 600m/s2.
+
+5. REQUISITOS TÉCNICOS
+
+5.1 MATERIAL
+
+5.1.1 El vidrio utilizado en el dispositivo de máxima, en el tubo capilar y en el bulbo debe poseer resistencia hidrolítica apropiada para la fabricación de los termómetros clínicos, conforme con la recomendación de la OIML N° 7.
+
+5.1.2 La placa portaescala (de los termómetros de escala interna) debe ser fabricada en opalina, metal u otro material que posea estabilidad dimensional equivalente. El material es considerado equivalente a la opalina o el metal si presenta una estabilidad dimensional tal que | L1-L2 |  0,02L1.
+
+5.1.3 El mercurio utilizado en el termómetro debe ser suficientemente puro y seco.
+
+
+5.2 CONSTRUCCIÓN.
+
+5.2.1 Las tensiones en el vidrio del bulbo y del capilar deben ser bajas, de modo que no permitan que se quiebre debido a choques térmicos o mecánicos.
+
+5.2.2 El vidrio del bulbo debe ser estabilizado por medio de tratamiento térmico adecuado.
+
+5.2.3 La legibilidad de las grabaciones no debe ser perjudicada por la devitrificación.
+
+5.2.4 La imagen del menisco debe ser lo menos distorsionada posible debido a defectos o impurezas del vidrio.
+
+5.2.5 El tubo capilar debe ser de vidrio incoloro con fondo opaco en los termómetros de escala interna, pudiendo tener o no fondo opaco los de escala externa y  debe poseer la pared interna lisa y paralela al eje del termómetro.
+
+5.2.6 El diámetro interno del tubo capilar no debe variar más de un 10% en relación con el diámetro medio.
+
+5.2.7 La extremidad superior del termómetro puede tener una terminación redondeada o plana, con o sin plástico terminal, para facilitar su utilización.
+
+5.2.8 El tubo externo del termómetro de escala interna no puede contener ninguna impureza y debe estar exento de humedad en su interior.
+
+5.2.9 La placa portaescala debe estar firmemente fijada por detrás del capilar, de modo de impedir su desplazamiento. La posición de la placa debe tener como referencia una marca indeleble sobre el tubo externo, al nivel de una de las  marcas numeradas de la escala.
+
+5.2.10 El tubo capilar y la placa portaescala estarán rodeados por un tubo estanco transparente soldado al bulbo formando una cubierta de protección.
+
+5.2.11 La columna de mercurio y la escala deben ser claramente visibles simultáneamente.
+
+5.2.12 Cuando el termómetro es calentado lentamente la columna de mercurio debe subir con movimiento continuo y sin saltos apreciables.
+
+5.2.13  Pueden ser utilizadas las coloraciones azul y rojo en la extremidad superior para la identificación de los termómetros basal y rectal respectivamente.
+
+
+5.3  ESPECIFICACIONES DIMENSIONALES
+
+5.3.1  Los termómetros clínicos tendrán las siguientes especificaciones dimensionales:
+      a) largo total: de 95 mm a 150 mm.
+	b) largo del bulbo: de 6,3 mm a 20 mm.
+	c) largo mínimo de la escala: 35 mm.
+	d) diámetro del asta: de 3,0 mm a 7,6 mm.
+	diámetro del tubo externo: 5,5 mm a 20 mm.
+	e) diámetro externo del bulbo: de 2,0 mm a 5,5 mm.
+
+5.3.2  Las dimensiones límites podrán variar de acuerdo al tipo de termómetro y serán definidas cuando se efectúe la aprobación de modelo por el Organo Metrológico competente.
+
+5.3 ESCALA
+
+5.4.1 La escala de los termómetros clínicos debe extenderse por lo menos desde  35,5°C hasta 42°C con división  0,1°C.
+
+5.4.2. Las marcas correspondientes a un número entero de grados deben ser de una longitud larga y ser numeradas.
+
+5.4.3. Las marcas correspondientes a 0,5°C deben ser de longitud larga o media.
+
+5.4.4. Las marcas correspondientes a divisiones menores, exceptuadas aquellas referidas en los subítem 5.4.2. y 5.4.3. deben ser de longitud corta.
+
+5.4.5. Las marcas de la escala deben ser nítidas, rectas, con distanciamiento uniformes entre sí y espesor menor de 0,25 (veinticinco centésimas) veces del intervalo entre dos marcas consecutivas de la escala.
+
+5.4.6 La escala debe ser nítida y uniforme debiendo ser grabada o impresa de forma  clara e indeleble.
+
+5.4.7 La marca en la temperatura de 37°C, correspondiente a la temperatura convencionalmente considerada como normal del cuerpo humano, puede ser diferenciada de las demás ya sea por el color, por la dimensión de los algoritmos o por una flecha indicando el punto.
+
+5.4.8  La marcación de la escala en los termómetros de escala externa debe ser hecha en los lados adyacentes al vértice por donde pasa la lente de aumento.
+
+
+5.5 INSCRIPCIONES
+
+5.5.1 Las siguientes inscripciones deben ser grabadas o impresas de forma indeleble sobre el asta del termómetro de escala externa o sobre la placa portaescala del termómetro de escala interna:
+
+      a) marca o nombre del fabricante.
+	b) °C.
+	c) identificación del lote de fabricación y/o marca de verificación.
+      d) país de origen .
+
+5.5.2. Se permiten otras inscripciones siempre que no induzcan a error a los usuarios.
+
+
+6. CONTROL METROLÓGICO
+
+6.1 Todo termómetro clínico fabricado en los Estados Partes o importados por éstos, de otros países fuera del MERCOSUR, debe tener su modelo aprobado por la organización metrológica competente de uno de los Estados Partes.
+
+6.1.1 Los fabricantes no pueden efectuar ninguna modificación en el termómetro clínico sin autorización del Organo Metrológico correspondiente.
+
+6.1.2 Para la aprobación del modelo debe ser presentada la documentación exigida por la Resolución GMC N° 57/92 y diez prototipos del modelo.
+
+6.2 La apreciación técnica del modelo comprende:
+
+6.2.1 Examen de la documentación: se verifica que la documentación presentada esté completa de acuerdo con lo exigido, si la memoria descriptiva del modelo aclara y define características constructivas y metrológicas y especificaciones técnicas.
+
+6.2.2 Examen preliminar.
+
+6.2.3 Ensayo de los prototipos:
+
+6.2.3.1 Ensayo dimensional.
+
+6.2.3.2 Ensayo de temperatura.
+
+6.2.3.3 Ensayo de tiempo de respuesta.
+
+6.2.3.4 Ensayo de facilidad de reposición de la columna de mercurio.
+
+
+6.3 Los termómetros clínicos, antes de ser comercializados, deben ser sometidos a verificación primitiva.
+
+6.3.1 Es responsabilidad del fabricante o del importador la presentación del termómetro clínico para verificación primitiva, en sus dependencias o en local apropiado, designado por el Organo Metrológico competente.
+
+6.3.2 Es de responsabilidad del Organo Metrológico competente ejecutar la verificación primitiva en todos los termómetros clínicos fabricados o importados de países fuera del MERCOSUR.
+
+6.3.3 El fabricante o importador debe poner a disposición del Organo Metrológico competente los medios adecuados para la realización de la verificación primitiva.
+
+6.3.4 La verificación primitiva comprende:
+
+6.3.4.1 Examen preliminar.
+
+6.3.4.2 Ensayo de temperatura.
+
+6.3.4.3 Ensayo de facilidad de reposición de la columna de mercurio.
+
+6.3.5 Los termómetros utilizados por los fabricantes o importadores como patrones deben ser verificados o calibrados por el Organo Metrológico competente en intervalos de tiempo no superior a dos años.
+
+6.3.6 A criterio del Organo Metrológico competente la verificación inicial podrá ser efectuada sobre todos los termómetros clínicos o adoptarse un método estadístico de acuerdo al plan de muestreo constante referido en el subítem 7.3.
+
+
+7. MÉTODOS DE ENSAYO (Apéndices 1 y 2)
+
+7.1  EXAMEN PRELIMINAR
+Mediante examen visual se verifica si el modelo fue construido de acuerdo con los requisitos fijados en el presente Reglamento y la documentación presentada por el fabricante, en el aspecto de construcción de escala e inscripciones entre otros, pudiendo identificar posibles irregularidades tales como  fisuras, fracturas, oxidación del mercurio, separación de la columna de mercurio o cualquier otro defecto que pueda comprometer el funcionamiento del termómetro clínico.
+
+
+7.2 ENSAYO DE LOS PROTOTIPOS
+
+7.2.1 Ensayo dimensional.
+
+Se verifica la conformidad de las dimensiones de los termómetros con las especificadas en el subítem 5.3.1. de este reglamento;
+
+7.2.2 Ensayo de temperatura;
+
+Se verifica los puntos 37°C y 41°C de la escala de acuerdo al subítem 4.1.
+
+7.2.3 Ensayo de tiempo de respuesta;
+
+Se verifica que la indicación del termómetro no sobrepase los errores máximos tolerados en el subítem 4.1, observándose las condiciones previstas en el subítem 4.2.1.
+
+7.2.4 Ensayo de facilidad de reposición de la columna de mercurio.
+
+Se verifica que el menisco de la columna de mercurio permanezca debajo de la primera marca numerada de la escala observándose las condiciones previstas en  el subítem 4.3.1.
+
+7.3 VERIFICACIÓN PRIMITIVA
+
+Para la verificación primitiva de termómetros clínicos se establece el plan de muestreo de acuerdo con la norma ISO 2859, edición 1989.
+
+7.3.1 Nivel de inspección para uso general  II.
+
+7.3.2 Muestreo doble.
+
+7.3.3 Tipo de inspección: severa.
+
+7.3.4 Nivel de calidad aceptable NQA = 0,40 para los errores establecidos en el subítem 4.1. y NQA = 2,5 para los demás ensayos.
+
+7.3.5 Criterio de aceptación  o rechazo de lote: de acuerdo a la norma ISO 2859, edición 1989.
+
+7.3.6 Los termómetros clínicos aprobados recibirán una "marca de verificación" y/o la identificación del lote, según lo establecido en el subítem 5.5.1c.
+
+
+TERMÓMETRO CLÍNICO
+
+Apéndice 1
+
+Expediente N°..............................................................................................
+
+Designación de marca y modelo..................................................................
+
+Termómetro clínico de:
+	Escala interna  ( )
+      Escala externa  ( )
+
+
+Fabricante:....................................................................................................
+
+Representante:..............................................................................................
+
+País de origen:..........................................................
+
+Fecha del ensayo:.....................................................
+
+Técnico ejecutor:....................................................
+
+
+Apéndice 2
+
+1 EXAMEN PRELIMINAR
+
+EXIGENCIA
+A/R
+N° DE DEFECTUOSOS
+Fisuras/Fracturas
+
+
+Oxidación
+
+
+Separación de Hg
+
+
+Pared de capilar
+
+
+Variación en el diámetro del Capilar
+
+
+Espesor de las marcas
+
+
+EXIGENCIA
+A/R
+N° DE DEFECTUOSOS
+Rango
+
+
+Grado
+
+
+1/2 grado
+
+
+1/10 grado
+
+
+Nitidez
+
+
+°C
+
+
+TERMÓMETROS  DE ESCALA INTERNA
+
+
+    CARACTERÍSTICAS
+A/R
+N° DE DEFECTUOSOS
+Fijación de placa portaescala
+
+
+Impurezas tubo externo
+
+
+Marcas y referencias
+
+
+A- APROBADO
+R- REPROBADO
+
+2   ENSAYO DIMENSIONAL
+
+Termómetro
+N°
+largo
+total
+95 - a 150(mm)
+Largo bulbo
+     6,3 - 20(mm)
+Largo  mín.
+escala
+    35(mm)
+ asta
+3,0-7,6(mm)
+ tubo
+    5,5-20,0(mm)
+externo del
+bulbo
+ 2 ,0- 5,5(mm)
+
+    A/R
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+A-APROBADO
+R-REPROBADO
+
+
+3 .  ENSAYO DE TEMPERATURA
+
+Temp
+( ºC )
+TC N.º
+Lectura
+Patrón
+(ºC)
+Lectura 1
+ (ºC)
+Lectura2
+ (ºC)
+Lectura 3
+ (ºC)
+Lectura4
+ (ºC)
+Lectura.
+Media
+ (ºC)
+Error
+ (º C )
+
+A/R
+37
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+41
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+   A-APROBADO
+R-REPROBADO
+
+
+ 4   ENSAYO DE TIEMPO DE RESPUESTA
+
+Termómetro
+Nº
+T1 (°C)
+(Ambiente)
+T2 (°C)
+(Baño)
+Lectura
+ (ºC)
+ Error
+  (ºC)
+
+0,005 (T2 -T1)
+
+  A/R
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+10
+
+
+A- APROBADO
+R- REPROBADO
+
+
+5  ENSAYO DE REPOSICIÓN DE COLUMNA DE MERCURIO
+
+Termómetro Nº
+    A/R
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+
+A-APROBADO
+R-REPROBADO
+
+
+6  RESULTADO FINAL
+
+
+Termómetro Nº
+      A/R
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+
+   A- APROBADO
+   R- REPROBADO
+
+
+Conclusión
+
+
+1
+
+
+16

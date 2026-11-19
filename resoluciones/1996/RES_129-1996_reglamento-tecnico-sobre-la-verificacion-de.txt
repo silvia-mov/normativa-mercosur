@@ -1,0 +1,1451 @@
+Resolución GMC N° 129/96
+Título: REGLAMENTO TECNICO SOBRE LA VERIFICACION DE BUENAS PRACTICAS DE INVESTIGACION CLINICA
+Fecha de aprobación: 14/12/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 44561_RES_129-1996_ES_RTM_Investigacion Clinica.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2045).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 129 /96
+
+REGLAMENTO TECNICO SOBRE LA VERIFICACION DE
+ BUENAS PRACTICAS DE INVESTIGACION CLINICA
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Resolución Nº 91/93 del Grupo Mercado Común, y la Recomendación Nº 49/96 del SGT Nº 3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+Que los progresos registrados en la síntesis y elaboración de nuevos y eficaces principios activos de uso médico humano, demandan una normativa para la realización de investigaciones de farmacología clínica en los Estados Partes del MERCOSUR.
+
+Que es necesario salvaguardar la dignidad de las personas sujetas a estudios de farmacología clínica.
+
+Que se debe asegurar el derecho a la integridad física, síquica y moral de las personas sujetas a estudio.
+
+Que es función de las autoridades sanitarias de los Estados Partes asegurar que las investigaciones de Farmacología Clínica realizadas con medicamentos y especialidades medicinales que se enmarquen en las normas actualmente existentes sobre Farmacología Clínica, en los países con alta Vigilancia Sanitaria y en las recomendaciones de la Organización Mundial de la Salud, tanto en sus aspectos científicos como técnicos y jurídicos, así como las declaraciones de Nüremberg (1948) y de las Asambleas Médicas Mundiales de Helsinki (1964); de Tokio (1975); de Venecia (1983) y de Hong Kong (1989).
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1- Aprobar los documentos "Guía de Buenas Prácticas de Investigación Clínica" y "Glosario", que figuran en los Anexos I y II y forman parte de la presente Resolución.
+
+Art. 2- La presente Resolución no se aplicará a estudios realizados en seres humanos sin fines fármaco clínicos y/o terapéuticos.
+
+Art. 3 - Los organismos competentes de los Estados Partes encargados de implementar esta Resolución serán:
+
+Argentina :ANMAT - (Administración Nacional de Medicamentos, Alimentos y Tecnología médica),
+
+Brasil:	 Secretaria de Vigilância Sanitária do Ministério da Saúde,
+
+Paraguay: Dirección de Vigilancia Sanitaria del Ministerio de Salud Pública y Bienestar Social,
+
+Uruguay:	Ministerio de Salud Pública.
+
+Art. 4  La presente Resolución entrará en vigencia el 1/3/97.
+
+XXIV GMC - Fortaleza, 13/12/96
+
+
+CONTENIDO
+TÍTULO I.-
+PRINCIPIOS GENERALES, ÁMBITO DE APLICACIÓN Y ALCANCES.
+CAPÍTULO I:      PRINCIPIOS GENERALES.
+PAGINA       3
+CAPÍTULO II :    DEL ÁMBITO DE APLICACIÓN Y ALCANCES.
+PAGINA       3
+
+TÍTULO II.-
+
+OBLIGACIONES E INCUMPLIMIENTOS.
+CAPÍTULO III: DE LA AUTORIZACIÓN, SEGUIMIENTO Y CONTRALOR DEL ESTUDIO POR PARTE DE LA AUTORIDAD SANITARIA.
+PAGINA       4
+CAPÍTULO IV:   DE LOS REQUISITOS DE LOS INVESTIGADORES Y DE LOS PATROCINANTES.
+PAGINA       5
+CAPÍTULO V:  DEL INCUMPLIMIENTO DE LA PRESENTE NORMATIVA.
+PAGINA       7
+
+
+TÍTULO III.-
+REQUERIMIENTOS Y DOCUMENTOS
+
+CAPÍTULO VI: DE LOS REQUISITOS BÁSICOS.
+PAGINA       8
+CAPÍTULO VII: DE LA DOCUMENTACIÓN GENERAL A SER PRESENTADA.
+PAGINA       8
+
+
+CAPÍTULO VIII: DE LOS CENTROS DONDE SE LLEVARÁ A CABO LA INVESTIGACIÓN.
+PAGINA      9
+CAPÍTULO IX: DE LOS REQUERIMIENTOS ÉTICOS.
+PAGINA      9
+CAPÍTULO X: DE LA INFORMACIÓN PRECLÍNICA.
+PAGINA     10
+CAPÍTULO XI: DE LA INFORMACIÓN CLÍNICA.
+PAGINA     17
+CAPÍTULO XII: DE LA PARTICIPACIÓN DE AUDITORÍAS INDEPENDIENTES.
+PAGINA     25
+CAPÍTULO XIII:  DE LOS ESTUDIOS CLÍNICOS CON PSICOFÁRMACOS.
+PAGINA     26
+
+
+TÍTULO I
+PRINCIPIOS GENERALES, ÁMBITO DE APLICACIÓN Y ALCANCES.
+CAPÍTULO I.
+PRINCIPIOS GENERALES
+ En toda investigación en Farmacología Clínica deberá prevalecer el bienestar individual de los sujetos sometidos a estudio, por sobre los intereses de la ciencia y de la comunidad.
+La realización de ensayos de investigación en Farmacología Clínica debe llevarse a cabo con estricta observación de los principios científicos reconocidos y con escrupuloso respeto por la integridad física y psíquica de los individuos involucrados.
+Los estudios clínicos deberán estar precedidos por estudios de investigación preclínica, pudiendo comenzarse los ensayos de  investigación en Farmacología Clínica, en el momento que los resultados de tales estudios, permitan inferir que los riesgos para la salud de los sujetos en estudio son previsibles y no significativos. Los ensayos de  investigación en Farmacología Clínica podrán incluir sujetos sanos o enfermos.
+Los costos provenientes de la investigación clínica, serán afrontados por el patrocinante, si lo hubiere, o por el grupo investigador.
+CAPÍTULO II.
+DEL ÁMBITO DE APLICACIÓN Y  DE LOS ALCANCES.
+Para llevar a cabo investigaciones de Farmacología Clínica tanto en sus Fases I, II y III así como los de Fase IV (estudios controlados,estudios de farmacoepidemiología y/o de farmacovigilancia) y de Biodisponibilidad y/o Bioequivalencia, los sujetos de existencia física o ideal deberán solicitar autorización de la autoridad sanitaria del Estado Parte, dando cumplimiento previamente a los requisitos que se detallan a continuación. No quedan encuadrados dentro de la presente norma los estudios en seres humanos sin fines farmaco-clínicos y/o terapéuticos.
+
+TÍTULO II
+OBLIGACIONES E INCUMPLIMIENTOS
+CAPÍTULO III.
+
+DE LA AUTORIZACIÓN, SEGUIMIENTO Y CONTRALOR DEL ESTUDIO
+
+La autoridad de aplicación para la autorización, seguimiento y contralor de las investigaciones de Farmacología Clínica será la autoridad sanitaria del Estado Parte, la que evaluará la información presentada, controlará el cumplimiento de lo establecido en la presente norma durante el transcurso de la investigación y realizará un análisis de los resultados obtenidos.
+
+ A tal efecto procederá a:
+
+1.- Evaluar la información contenida en los Capítulos  VI, VII, VIII, IX, X, XI , XII y XIII) del presente Anexo, pudiendo: aprobarla, objetarla, o rechazarla, en todos los casos por razones debidamente fundamentadas.
+
+2.- Concurrir a los centros donde se estén llevando a cabo investigaciones de Farmacología Clínica, con el objeto de evaluar el cumplimiento de las Buenas Prácticas de Investigación Clínica.
+
+3.- Examinar el Formulario de Registro Clínico Individual que forme parte del protocolo autorizado.
+
+4.- Reunir, examinar y/o interrogar (cuando correspondiere) a los sujetos incluidos en el estudio.
+
+5.- Aconsejar la modificación del diseño del estudio durante su curso, o la interrupción por causas debidamente fundamentadas.
+
+6.- Aprobar, objetar o rechazar la selección del/los centro/s propuestos para llevar a cabo el estudio, mediante informe debidamente fundamentado.
+
+7.- Registrar los estudios de Farmacología Clínica. En dicho registro deberá figurar el seguimiento detallado y el grado de avance de los mismos.
+
+8.- Analizar y evaluar las comunicaciones periódicas y final de los investigadores., pudiendo ser aprobadas, rechazadas u objetadas, mediante la indicación de modificaciones y/o solicitud de aclaraciones .
+
+9.- Interrumpir la continuidad del estudio, cuando mediaren causas debidamente fundamentadas (reacciones adversas graves, ineficacia, violaciones al protocolo, incumplimiento parcial o total del consentimiento informado y firmado, falseamiento de la información  o violación de la presente norma).
+
+CAPÍTULO IV.
+
+DE LOS REQUISITOS DE LOS INVESTIGADORES Y DE LOS PATROCINANTES.
+
+A.- DE LOS INVESTIGADORES
+
+ El investigador principal deberá:
+
+1.- Responzabilizarse por la realización del estudio clínico en conformidad con el Protocolo autorizado.
+
+2.- Respetar las Buenas Prácticas de Investigación Clínica.
+
+3.- Informar a los pacientes con el objeto de obtener el Consentimiento Informado debidamente firmado.
+
+4. - Proponer y comunicar  a los comités de ética, de docencia e investigación
+( si los hubiere ) y al patrocinante (si lo hubiere), quienes comunicarán a la autoridad sanitaria cualquier modificación al protocolo original, debidamente fundamentada la que deberá ser previamente autorizada.
+
+5.- Archivar la información registrada ( Formulario de Registro Clínico individual ), durante el estudio y después de finalizado el mismo durante un plazo mínimo de cinco años contados a partir de la fecha de presentación del informe final a la autoridad sanitaria.
+
+6.- Asegurar el volcado riguroso de toda la información en el Formulario de Registro Clínico Individual.
+
+7.- Poner a disposición de la autoridad sanitaria, de los comités de ética, de docencia e investigación (si lo hubiere) , del patrocinante (si lo hubiere) y del monitor externo ( en caso de existir ),  toda la información que le sea requerida por los mismos.
+
+8.- Asegurar la confidencialidad de la información en las etapas de preparación, ejecución y finalización del estudio, así como de la identidad de las personas incorporadas al mismo.
+
+9.- Tomar las medidas adecuadas en caso de reacciones adversas graves o inesperadas y poner inmediatamente en conocimiento de las mismas a los comités de ética, de docencia e investigación ( si lo hubiere ), al patrocinante (si lo hubiere) y al auditor externo ( en caso de existir ) quienes pondrán en conocimiento de dichas reacciones adversas graves a la autoridad sanitaria, así como a las autoridades del establecimiento de salud en el cual se lleva a cabo el estudio.
+
+En el caso de recciones adversas graves, tratándose de estudios multicéntricos llevados a cabo en Estados Parte, la Autoridad Sanitaria del Estado Parte donde se haya detectado la reacción adversa, comunicará la misma a las autoridades sanitarias de los otros Estados Parte.
+
+10.- Presentar una comunicación periódica en plazos no mayores a 6 meses y una comunicación final (en un plazo no mayor de 180 días posteriores a la finalización del estudio), a los comités de ética, de docencia e investigación ( si lo hubiere ), y al patrocinante (si lo hubiere) quienes elevarán dicha comunicación a la autoridad sanitaria.
+
+11.- Mantener bajo custodia la totalidad del material utilizado en el estudio (medicamentos, especialidades medicinales, placebos, instrumentos, etc.) siendo responsable del uso correcto de los mismos.
+
+B.- DEL PATROCINANTE
+
+1.- Solicitar la autorización para la realización del estudio clínico al establecimiento de salud donde se llevará a cabo el mismo.
+
+2.- Solicitar autorización a la autoridad de aplicación de la presente normativa, para la realización del estudio clínico.
+
+3.- Proponer al investigador principal, cuya experiencia profesional debe comprobar mediante la autorización pertinente.
+
+4.- Facilitar al investigador principal toda la información química, farmacéutica, toxicológica y farmacológica ( experimental y clínica ), que garantice la seguridad del medicamento o especialidad medicinal, así como toda la información adicional necesaria para la correcta conducción del estudio, en la fase de la investigación que motiva el mismo.
+
+5.- Asegurar la vigilancia del estudio mediante la monitorización del mismo.
+
+6.- Asegurar el cumplimiento de la presentación de las comunicaciones periódicas y de la comunicación final previstas en la presente normativa.
+
+CAPÍTULO V.
+
+DEL INCUMPLIMIENTO DE LA PRESENTE NORMATIVA.
+
+1.- Cualquier incumplimiento no debidamente aclarado de la presente normativa, una vez iniciado el estudio dará motivo a la cancelación  del mismo en  el o los centro/s infractor/es.
+
+2.- El falseamiento de la información requerida por la presente norma, así como  de los datos relacionados con los estudios llevados a cabo antes, durante o después de su presentación dará lugar a la suspensión del estudio, sin perjuicio de las acciones penales a que hubiere lugar.
+
+
+TÍTULO III
+REQUERIMIENTOS Y DOCUMENTOS
+
+CAPÍTULO VI.
+
+DE LOS REQUISITOS BÁSICOS.
+
+	Se deberá presentar la información básica que se detalla a continuación:
+1.- Nombre/s genérico/s (DCI o similar) sigla de investigación.
+2.- Clasificación ATC ( Anatomical, Therpeutic, Chemical ) si la poseyere o, en su defecto clasificación hasta el 4º nivel de la misma.
+3.- Clasificación CAS (Chemical Abstract Service).
+4.- Propiedades físico-químicas.
+5.- Fórmula cuali-cuantitativa.
+6.- Forma/s farmacéutica/s a estudiar.
+7.-Todo producto de origen biológico deberá poseer un clara metodología de identificación y de valoración que asegure la uniformidad del preparado a estudiar.
+8.- No se aceptará para investigación clínica, ningún medicamento que no posea una correcta identificación de su/s principio/s activo/s, excipientes (colorantes, edulcorantes, conservadores, etc) contenidos en el producto.
+9.- Cuando se realicen estudios que incluyan materiales obtenidos de plantas, deberá identificarse y estandarizarse el extracto u otra forma famacéutica a ser investigada.
+
+CAPÍTULO VII.
+DE LA DOCUMENTACIÓN GENERAL A SER PRESENTADA.
+
+1.- Curriculum  vitae del investigador responsable del estudio.
+2.-Consentimiento firmado del investigador responsable del estudio y de los      profesionales que participarán del mismo ( documentación original o fotocopia autenticada ).
+3.-Declaración jurada por la cual el o los investigadores se comprometen expresamente a respetar la letra y el espíritu de la declaraciones de Nüremberg, Helsinki y Tokio, respetar los derechos de los pacientes y proteger a los sujetos en experimentación clínica ( documentación original o fotocopia autenticada ).
+4.- Autorización del Comité de Docencia e Investigación ( si lo hubiere ) del centro donde se realizará el estudio ( documentación original o fotocopia autenticada ).
+5.- Autorización de Comité de Ética ( documentación original o fotocopia autenticada ).
+6.- Fotocopia de la Declaración de Helsinki.
+
+CAPÍTULO VIII.
+
+DE LOS CENTROS DONDE SE LLEVARÁ A CABO EL ESTUDIO.
+
+	Se indicará claramente :dirección, código postal, teléfono, facsímil y correo electrónico (si lo hubiere) de cada uno de los centros donde se desarrollará el estudio.
+
+CAPÍTULO IX.
+
+DE LOS REQUERIMIENTOS ÉTICOS.
+
+1.- Comité de Ética:
+
+	 Los investigadores principales deberán garantizar la participación de un Comité de Ética independiente de los investigadores intervinientes en el ensayo clínico. Los mismos estarán compuestos por personas provenientes de diferentes ámbitos, incluyendo profesionales de distintas disciplinas y personas o entidades de probada trayectoria en aspectos relacionados con la ética, y la defensa de los derechos humanos.
+Este Comité podrá, cuando lo considere necesario realizar consultas con expertos en temas específicos
+
+2.- Consentimiento informado:
+
+ 	Será requisito indispensable para la autorización de un ensayo clínico, la presentación de un formulario de consentimiento informado, que será firmado por el paciente/voluntario sano, en presencia de por lo menos un testigo de acuerdo a la legislación vigente en cada uno de los Estados Parte. El mismo sólo será válido, cuando exista constancia fehaciente que el paciente haya sido informado de la confidencialidad de la información, de los objetivos, métodos, ventajas previstas, opciones terapéuticas y posibles riesgos inherentes al estudio, así como de las incomodidades que éste pueda acarrearle, y que es libre de retirar su consentimiento de participación en cualquier momento sin explicar las causas, con excepción de los casos en que mediaren causas que pongan en peligro la salud o la vida del paciente/ voluntario sano, debidamente justificadas. Ello no deberá derivar en perjuicio alguno para el paciente/ voluntario sano. El incumplimiento de este requisito dará motivo a la inmediata cancelación del ensayo clínico en los Centros infractores por parte de la autoridad sanitaria competente, sin perjuicio de las acciones legales que puedan corresponder de acuerdo a  la legislación vigente en cada Estado Parte.
+
+	En el caso que el paciente/ voluntario sano no pueda prestar por sí el consentimiento, deberá recabarse el mismo de quienes resulten ser sus representantes, según lo establezca la legislación vigente en cada Estado Parte.
+
+3.- Reclutamiento de sujetos a incluir en estudios clínicos:
+
+	En el caso que para el reclutamiento de sujetos se utilicen avisos en medios de comunicación, los mismos deberán ser autorizados por un comité de ética. No deberá indicarse en forma ímplicita o explícita que el producto en investigación es eficaz y/o seguro o que es equivalente o mejor que otros productos existentes.
+CAPÍTULO X
+DE.LA INFORMACIÓN PRECLÍNICA.
+	La información preclínica será la adecuada para justificar la naturaleza, escala y duración del ensayo.
+ La información preclínica deberá presentarse, sin excepción, cuando se deban realizar estudios de Farmacología Clínica de Fases I y II, ajustadas a las características del producto a investigar. En el caso de investigaciones de farmacología clínica de Fase III la información preclínica será la apropiada y necesaria para planificar y conducir esta fase de la investigación.
+Para los estudios de bioequivalencia de medicamentos en fase IV, no será imprescindible la presentación de la información preclínica
+Cuando se deban realizar estudios de Farmacología Clínica en fase IV o con especialidades medicinales que cuentan con productos similares autorizados para su comercialización en países de alta vigilancia sanitaria, se procederá a presentar una síntesis bibliográficamente fundamentada de la información preclínica necesaria.
+1.- Presentación de la información
+1.1.- Material y Métodos:
+1.1.1.- Plan Experimental detallado y fundamentado.
+1.1.2.- Producto empleado con indicación de número de lote, número de protocolo de control de  calidad del mismo, fecha de vencimiento etc.
+
+1.1.3.- Animales utilizados y/o modelos sustitutivos con indicación de número, especie, cepa, sexo, edad, peso, etc.
+1.1.4.- Condiciones experimentales con indicación de dosis, frecuencia y vías de administración, tipo de alimentación, etc.
+1.2.- Resultados:
+ Los resultados obtenidos, favorables o no, deberán ser presentados en su totalidad, consignando los gráficos, fotografías, tablas, datos originales y cuando corresponda el correspondiente análisis estadístico, en forma tal que permitan una evaluación crítica e independiente de la interpretación de los autores.
+
+1.3.- Discusión de los resultados y conclusiones:
+
+ Los datos surgidos del estudio deberán analizarse de manera tal que la conclusión permita caracterizar al medicamento en estudio, farmacológica y toxicológicamente, poniendo de manifiesto sus acciones  farmacológicas, posibles efectos colaterales y su margen de seguridad.
+1.4.- Bibliografía.
+1.5.- Excipientes:
+	Para todo excipiente sin antecedentes de utilización en medicina humana , deberán presentarse estudios completos que avalen  la seguridad en su empleo
+2.- Los estudios deberán incluir:
+
+2.1- Objetivos:
+2.1.1.- Propiedades farmacológicas y potencial terapéutico del compuesto a estudiar relacionándolas en  forma cuali y cuantitativa con la indicación terapéutica que se preconiza.
+2.1.2.- Margen de seguridad y efectos adversos previsibles en las condiciones de empleo terapéutico en el hombre.
+3. Farmacología preclínica.
+
+3.1.- Farmacodinamia:
+ Los estudios farmacodinámicos deberán demostrar el efecto terapéutico previsto del medicamento y los posibles mecanismos de acción de su/s principio/s activo/s. Estos estudios deberán hacerse extensivos a los principales órganos y sistemas  para determinar no solo el efecto terapéutico previsto sino revelar otros posibles efectos, ya sean convenientes desde el punto de vista terapéutico  o nocivos.
+Se realizarán estudios de:
+3.1.1. Farmacodinamia especial: deberán demostrarse los efectos farmacodinámicos en relación con las indicaciones propuestas: curvas dosis/efecto, tiempo/efecto, etc.
+3.1.2. Farmacodinamia general: deberán realizarse estudios sobre los sistemas: cardiovascular, respiratorio, nervioso central,  nervioso vegetativo, neuromuscular, urinario, endocrino, digestivo, etc.
+3.1.3.- Interacciones farmacodinámicas: deberán realizarse estudios que permitan inferir las posibles interacciones de este tipo.
+3.1.4.- Mecanismo de acción posible: deberán describirse el /los mecanismo/s de acción del/ de los principio/s activo/s surgidos de los estudios.
+3.2.- Farmacocinética
+ Los estudios farmacocinéticos servirán para establecer la velocidad y magnitud de la absorción, el modelo de distribución, los tipos de biotransformación, la velocidad y vías de eliminación y la localización del principio activo en los tejidos.
+Deberán realizarse estudios de:
+3.2.1. Farmacocinética con dosis única.
+3.2.2. Farmacocinética después de administración repetida.
+3.2.3. Distribución en animales normales y gestantes.
+3.2.4. Biotransformación.
+
+3.2.5. Excreción.
+
+3.2.6. Interacciones farmacocinéticas.
+
+4.- Toxicología Preclínica.
+
+4.1.- Toxicología general: se realizarán estudios de:
+
+4.1.1. Toxicidad aguda : los estudios deberán ser realizados en no menos de tres especies de las cuales una deberá ser no roedora. Deberán utilizarse por lo menos dos vías de administración, una de las cuales estará relacionada con la que se preconiza para el uso terapéutico propuesto, y la otra deberá asegurar la absorción del fármaco.
+Deberá consignarse:
+4.1.1.1. Aparición y duración de los efectos tóxicos, relación dosis-efecto y su                                                                         reversibilidad, diferencias relacionadas con la  vía de administración  para el uso terapéutico propuesto, y la otra vía asegurará la absorción del fármaco.
+4.1.1.2. Síntomas de toxicidad y causas de muerte.
+
+4.1.1.3. Parámetros bioquímicos y hematológicos.
+
+4.1.1.4. Observaciones clínicas y anatomopatológicas.
+
+4.1.1.5. Dosis tóxica estimada.
+
+4.1.2. Toxicidad subaguda a dosis repetida.
+
+Deberá realizarse en al menos dos especies, una de las cuales deberá ser no roedora.
+La duración deberá ser de 12 a 24 semanas de acuerdo a la naturaleza del producto, empleo terapéutico propuesto y especie animal utilizada. (Tabla I).
+La vía de administración deberá estar en relación con el empleo terapéutico propuesto. Se deberán utilizar no menos de tres dosis, la mayor deberá producir  efectos tóxicos demostrables y la menor deberá relacionarse con la dosis terapéutica propuesta teniendo en cuenta la sensibilidad de la especie utilizada.
+Deberá consignarse:
+4.1.2.1. Aparición de los efectos tóxicos, relación dosis-efecto y su reversibilidad, diferencias relacionadas con el sexo y la especie.
+4.1.2.2. Morbilidad y mortalidad.
+
+4.1.2.3. Parámetros bioquímicos , hematológicos y de nutrición (evolución del peso, consumo de agua, etc.).
+
+4.1.2.4. Observaciones clínicas y anatomopatológicas.
+
+4.1.2.5. Dosis de no efecto tóxico.
+
+4.1.2.6. Dosis tóxica.
+
+4.1.2.7. Órganos blanco.
+
+4.1.3. Toxicidad crónica (a dosis repetida).
+
+Se deberán utilizar no menos de dos especies, una de las cuales será no roedora.
+La duración no será  menor de 24 semanas de acuerdo a la naturaleza del producto, empleo terapéutico propuesto y especie animal utilizada. (Tabla I).
+La vía de administración deberá estar en relación al empleo terapéutico propuesto. Se deberán utilizar no menos de tres dosis, la mayor deberá producir efectos tóxicos demostrables y la menor deberá relacionarse con la dosis terapéutica propuesta teniendo en cuenta la sensibilidad de la especie utilizada.
+Deberá consignarse:
+4.1.3.1. Aparición de los efectos tóxicos, relación dosis-efecto, y su reversibilidad, diferencias relacionadas con el sexo y la especie.
+4.1.3.2. Morbilidad y mortalidad.
+
+4.1.3.3. Parámetros bioquímicos, hematológicos y de nutrición (evolución del peso,  consumo de agua, etc.).
+
+4.1.3.4. Observaciones clínicas y anatomopatológicas.
+
+4.1.3.5. Dosis de no efecto tóxico.
+
+4.1.3.6. Dosis tóxica estimada.
+
+4.1.3.7. Órganos blancos.
+
+Tabla I: PAUTAS GENERALES QUE DEBERÁN OBSERVARSE ACERCA DEL TIEMPO DE ASMINISTRACIÓN EN LOS ESTUDIOS TOXICOLÓGICOS
+
+PERÍODO DE ADMINISTRACIÓN EN EL HOMBRE
+PERÍODO PROPUESTO EN MÁS DE UNA ESPECIE DE ANIMALES DE EXPERIMENTACIÓN
+
+DOSIS ÚNICA O EN PEQUEÑO NÚMERO
+
+
+DOS SEMANAS, POR LO MENOS
+
+HASTA CUATRO SEMANAS
+
+
+TRES A VEINTISEIS SEMANAS
+
+MÁS DE CUATRO SEMANAS
+VEINTISEIS SEMANAS POR LO MENOS, SIN INCLUIR LOS ESTUDIOS DE CARCINOGENICIDAD
+
+4.2.- Toxicidad especial.
+
+Se realizarán estudios tendientes a demostrar:
+
+4.2.1. Efectos sobre la fertilidad.
+4.2.2. Estudios de embriotoxicidad (principalmente teratogenicidad) y toxicidad peri y postnatal. Deberán presentarse estudios realizados en no menos de dos especies, una de las cuales deberá ser no roedora.
+Deberán emplearse no menos de tres niveles de dosis, la mayor deberá ser subtóxica
+
+4.2.2. Actividad mutagénica.
+
+Deberá demostrarse mediante pruebas:
+
+4.2.2.1. In vivo.
+
+4.2.2.2. In vitro, con y sin activación metabólica.
+
+4.2.3. Potencial oncogénico/carcinogénico.
+
+Deberá demostrarse mediante pruebas:
+
+4.2.3.1. In vivo.
+
+4.2.3.2. In vitro.
+
+4.2.4. Otros estudios: Cuando sea necesario se realizarán e informarán los resultados de:
+4.2.4.1. Estudios de irritación local (dérmica, ocular, rectal, vaginal etc.).
+4.2.4.2. Estudios de sensibilización
+
+4.2.4.3. Otros estudios programados de acuerdo a la naturaleza del producto
+
+
+CAPÍTULO XI.
+DE LA INFORMACIÓN CLÍNICA.
+	La documentación que se presentará deberá proveer los elementos que a continuación se detallan:
+1.- Información General
+	Ver Capítulo III. PRINCIPIOS BÁSICOS.
+2.- Información Clínica:
+2.1. Fase del proceso de investigación clínica.
+	Se especificará y fundamentará la Fase de investigación clínica en la cual  se llevará a cabo el estudio (I, II, III o IV).
+2.2. Estudios de Fase I.
+	Deberá presentarse toda la información preclínica necesaria.
+	Los mismos se llevarán a cabo en centros debidamente equipados y  autorizados a tal efecto.
+	Es el primer estudio realizado en seres humanos  de un nuevo principio activo o nueva formulación, llevado a cabo generalmente en voluntarios sanos ( Excepcionalmente, para determinadas patologías en pacientes ). Estos estudios tienen por objeto  establecer una evaluación preliminar de la seguridad . Es recomendable que la dosis máxima a ser alcanzada sea 1/10 de la dosis considerada segura en los estudios preclínicos , realizados en la especie que haya demostrado ser la más sensible o en aquella  con más estrecha similitud biológica al hombre , del perfil farmacocinético, y  cuando sea posible, un perfil farmacodinámico. Las personas incorporadas en esta fase no deberán ser expuestas a más de tres dosis del fármaco en estudio. El incremento de la dosis se realizará de manera cautelosa ( no superando el doble de la dosis anterior ). Después de la administración de cada dosis se realizarán los pertinentes estudios de tolerancia.  Esta fase se lleva a cabo en un número reducido  de personas.
+
+Estos estudios tienen por objeto establecer los parámetros farmacocinéticos a dosis únicas y/o dosis multiple y en especial, la biodisponibilidad absoluta de la forma farmacéutica a fin de establecer la dosis y régimen posológico. Al mismo tiempo se realiza una evaluación de la seguridad del preparado.
+
+2.3.  Estudios en Fases II , III y IV.
+	Deberá presentarse información detallada acerca de las observaciones realizadas durante las fases previas incluyendo información preclínica.
+
+Fase II
+
+Estudio Terapéutico Piloto
+
+	Los objetivos del Estudio Terapéutico Piloto son demostrar la actividad y establecer la seguridad a corto plazo del principio activo en pacientes afectados de una determinada enfermedad o condición patológica. Los estudios se realizan en un número limitado  de personas  y  frecuentemente, son seguidos de un estudio comparativo. En esta fase también se determinan los rangos de dosis apropiados y los regímenes de administración. De ser posible, también, se establecen las relaciones dosis-respuesta, con el objeto de obtener  antecedentes sólidos para el diseño de estudios terapéuticos ampliados (Fase III).
+
+Fase III
+
+Estudio Terapéutico Ampliado
+
+	Son estudios realizados en grandes y variados grupos de pacientes ,con el objeto de determinar :
+
+3.1. El Balance Riesgo/Beneficio a corto  y largo plazo de la/s formulación/es del principio activo.
+
+3.2. De manera global  el valor terapéutico relativo.
+
+	Se exploran en esta fase el tipo y perfil de las reacciones adversas más frecuentes, así como características especiales del medicamento y/o especialidad medicinal (por ejemplo interacciones clínicamente relevantes, principales factores modificatorios del efecto, tales como la edad, etc.).
+
+	El diseño de los estudios será preferentemente aleatorizado y doble ciego, siendo  también aceptables otros diseños, por ejemplo los de seguridad a largo plazo.  Generalmente estos estudios se realizan teniendo en cuenta las que serán las condiciones normales de utilización  del medicamento y/o especialidad medicinal.
+
+Fase IV
+
+Estudios Postcomercialización
+
+	Son estudios llevados a cabo luego de comercializado el medicamento y/o especialidad medicinal.
+
+	Estos estudios son ejecutados de acuerdo a sobre la base de las características con que fue autorizado el medicamento y/o especialidad medicinal. Generalmente son Estudios de Vigilancia Postcomercialización, para establecer el valor terapéutico ,la aparición de nuevas reacciones adversas y/o confirmación de la frecuencia de aparición de las ya conocidas y las estrategias de tratamiento.
+
+	En los estudios de Fase IV, se deben seguir las mismas pautas éticas y científicas aplicadas a los estudios de fases anteriores.
+
+	Luego que un medicamento y/o especialidad medicinal ha sido comercializado, los estudios clínicos diseñados para explorar nuevas indicaciones, nuevos métodos de administración, o nuevas combinaciones (asociaciones),etc., son considerados como estudios de nuevo medicamento y/o especialidad medicinal.
+
+	En esta fase se llevan a cabo también los estudios específicos de Farmacoepidemiología , Farmacovigilancia y  Bioequivalencia.
+Estos estudios tienen por objeto establecer el valor terapéutico, efecacia del producto, la aparición de nuevas reacciones adeversas y/o confirmación de la frecuencia de aparición de las ya conocidas (estrategia de tratamiento) y posible aparición de nuevas propiedades terapéuticas - inclusión de un plan de reporte de Farmacovigilancia sistematizada -.
+3.- Protocolo.
+
+	Se deberá elaborar y presentar para su autorización un documento que
+contenga la siguiente información:
+
+3.1. Información general.
+
+3.1.1. Título del proyecto.
+
+3.1.2. Nombre del/los investigadores responsables.
+
+3.1.3. Nombre/s del/los centros donde se llevará a cabo el estudio.
+
+3.1.4. Profesión de las personas que colaborarán con el estudio (médico, bioquímico, farmacéutico, químico, enfermera, estadístico, u otros prfesionales de la salud.
+
+3.1.5. Nombre del patrocinante (si lo hubiere).
+
+3.2. Justificación y Objetivos.
+
+3.2.1. Objetivos del estudio.
+
+3.2.2. Razones para su ejecución.
+
+3.2.3. Antecedentes e informaciones esenciales, con las referencias bibliográficas respectivas.
+
+3.3. Aspectos éticos.
+
+3.3.1. Consideraciones éticas generales sobre el estudio, desde el punto de vista de los derechos de las personas sujetas a estudio.
+
+3.3.2. Descripción de la forma en que las personas sanas o enfermas ,sujetas a estudio, serán informadas y modelo de formulario de consentimiento informado.
+
+3.4. Cronograma de trabajo:
+
+3.4.1. Descripción del cronograma de trabajo con especificación de los tiempos de comienzo, duración y  finalización.
+
+3.5. Diseño del estudio.
+
+3.5.1. Fase de la farmacología clínica en la que se desarrollará el estudio.
+
+3.5.2. E specificación del tipo de estudio: controlado, piloto, cruzado, ciego u otros de acuerdo a las caractrísticas del medicamento en estudio.
+
+3.5.3. Descripción del método de aleatorización.
+
+3.5.4. Descripción del diseño del estudio cruzado, paralelos, u otros.
+
+3.5.5. Especificación de los factores de reducción de sesgos, si correspondiere.
+
+3.6. Criterios de selección.
+
+3.6.1. Especificación de la muestra (voluntarios sanos, pacientes), incluyendo rangos de edad, sexo, grupo étnico si correspondiere, factores pronósticos, etc.
+
+3.6.2. Criterios diagnósticos de admisión, claramente especificados.
+
+3.6.3. Descripción exhaustiva de los criterios de inclusión y exclusión en el estudio.
+
+3.6.4. Descripción de criterios de retiro del estudio.
+
+3.7. Tratamientos.
+
+3.7.1. . Descripción del/los tratamientos a administrar a los grupos mencionando en forma clara el/los producto/s a utilizar especificando los principios activos,  forma/s farmacéuticas, concentraciones tanto para los grupos con tratamiento, como controles.
+
+3.7.2. Descripción de los períodos en los que se administrará cada uno de los tratamientos en cada uno de los grupos.
+
+3.7.3.  Justificación ética y científica del empleo de placebos en caso que los mismos sean utilizados.
+
+3.7.4. Descripción de la/s dosis,  forma/s y vía/s de administración.
+
+3.7.5. Normas de utilización de los tratamientos concomitantes, cuando los mismos sean utilizados.
+
+3.7.6. Descripción de las medidas a implementar para garantizar la utilización segura del/los producto/s en estudio.
+
+3.7.7. Descripción de las medidas para promover y controlar el riguroso cumplimiento de las instrucciones referidas al desarrollo del estudio.
+
+3.8. Evaluación de la eficacia.
+
+3.8.1. Especificación de los parámetros seleccionados de evaluación a utilizar.
+
+3.8.2. Descripción del/los método/s de medición y registro de los efectos producidos sobre los prámetros seleccionados por el/los producto/s en estudio.
+
+3.8.3. Descripción de  los análisis y procedimientos especiales a utilizar (farmacocinéticos, clínicos, de laboratorio, imagenológicos, etc.) en relación al seguimiento de los parámetros seleccionados y al posible riesgo de la investigación clínica.
+
+3.9. Eventos y Efectos adversos.
+
+3.9.1. Metodología empleada para el registro de los eventos y/o efectos adversos.
+
+3.9.2. Descripción de las conductas a seguir en caso de  verificarse complicaciones.
+
+3.9.3. Especificación del sitio donde se encontrarán puestos a resguardo los sobres lacrados con los códigos del estudio y de los procedimientos para proceder a su apertura en caso de emergencia.
+
+3.9.4. Información sobre la notificación de eventos y/o efectos adversos graves, incluyendo quién informará, a quién serán elevados y plazo para su entrega que será de 48 ( cuarenta y ocho ) horas.
+
+3.10. Aplicación práctica.
+
+3.10.1. Matriz específica y detallada para todas las etapas y procedimientos.
+
+3.10.2. Especificación de  los posibles desvíos del protocolo e instrucciones de los procedimientos a seguir en caso de presentarse los mismos.
+
+3.10.3. Especificación de las obligaciones y responsabilidades dentro del equipo de investigación.
+
+3.10.4. Consideraciones sobre la confidencialidad de la información.
+
+3.11. Registro de la información
+
+3.11.1. Procedimientos para el archivo general de la información registrada y de las listas especiales de pacientes. Los registros deberán permitir una identificación fácil de cada voluntario (sano o enfermo), debiendose incluir una copia del Formulario de Registro Individual.
+
+3.11.2. Procedimientos para el tratamiento y procesamiento de registros de eventos y efectos adversos con el/los producto/s en estudio.
+
+3.12. Evaluación de la información y metodología estadística a emplear.
+
+3.12.1. Descripción de la forma en que serán evaluados los resultados obtenidos.
+
+3.12.2. Metodología informática a utilizar.
+
+3.12.3. Descripción del/los método/s de tratamiento de la información surgida de las personas que se retiraron el estudio.
+
+3.12.4. Control de calidad de los métodos y procesos de evaluación.
+
+3.12.5. Descripción pormenorizada de los métodos estadísticos a utilizar.
+
+3.12.6. Número de pacientes/voluntarios sanos que integrarán la muestra.
+
+3.12.7. Fundamentación de la elección del tamaño de la muestra, incluyendo cálculos sobre la potencia de la prueba y su justificación clínica.
+
+3.12.8. Nivel de significación estadística a ser utilizado.
+
+3.12.9. Normas para la finalización del estudio.
+
+3.13. Bibliografía.
+
+	Se adjuntarán las referencias bibliográficas utilizadas para la confección del Protocolo.
+
+3.14. Resumen del Protocolo.
+
+	Se incluirá un resumen del Protocolo presentado
+.
+3.15. Formulario de Registro Clínico Individual.
+
+	Deberá contener, mínimamente, la siguiente información:
+
+3.15.1. Nombre del investigador principal y del Centro donde se lleva a cabo el estudio.
+
+3.15.2. Fecha, lugar e identificación del estudio
+.
+3.15.3. Identificación de la persona en estudio.
+
+3.15.4. Edad, sexo, altura, peso y raza (si correspondiere) de la persona.
+
+3.15.5. Características particulares (hábitos, por ejemplo de fumar, dieta especial, embarazo, tratamientos anteriores, etc.).
+
+3.15.6. Diagnóstico (indicación para la cual el producto en estudio es administrado de acuerdo al protocolo).
+
+3.15.7. Cumplimiento de los criterios de inclusión y exclusión.
+
+3.15.8. Duración del padecimiento. Tiempo transcurrido desde la última crisis (si correspondiere).
+
+3.15.9. Dosis, esquema terapéutico y administración del medicamento. Información sobre el cumplimiento del tratamiento.
+
+3.15.10. Duración del tratamiento.
+
+3.15.11. Empleo concomitante de otros medicamentos y/o intervenciones terapéuticas no farmacológicas.
+
+3.15.12. Regímenes dietéticos (si correspondiere).
+
+3.15.13. Registro de las evaluaciones de cada parámetro estudiado (cualitativo y/o cuantitativo).
+
+3.15.14. Los exámenes de laboratorio y/o controles biológicos, se asentarán en planillas que responderán al siguiente diseño (Tabla II)
+:
+Tabla II.- MODELO DE PLANILLA DE REGISTRO DE EXÁMENES DE
+LABORATORIO.-
+
+Examen de laboratorio
+Valor normal para el laboratorio
+EXÁMENES REGISTRADOS
+
+
+Inicial
+Subsiguientes
+     I            II            III          IV           V
+Terminal
+
+Se inscribirán aquí los exámenes que se lleven a cabo
+Cada examen de laboratorio llevará como dato en esta columna los valores normales para la técnica empleada
+
+
+Se utilizarán tantas planillas individuales como lo requiera el estudio.
+
+3.15.15. Registro de eventos y/o efectos adversos (tipo, duración, intensidad, etc.), consecuencias y medidas tomadas.
+
+3.15.16 Razones para la salida del estudio y/o violaciones de los códigos establecidos.
+
+3.16. Principios activos y/o placebos: El o los principios activos en estudio, o los placebos empleados, deberán estar rotulados con una leyenda que los identifique por su nombre genérico o su número de registro y que exprese el destino de investigación que tendrán los mismos.
+
+3.17. Combinaciones (Asociaciones): Se admitirán los estudios de farmacología clínica de las mismas cuando se hallen científicamente fundamentadas y deberán ajustarse a las pautas anteriormente expuestas.
+
+3.18. Modificaciones al protocolo: Toda modificación a los protocolos de investigación y sus anexos, deberá ser comunicada previamente a las autoridades de aplicación de la presente norma.
+
+CAPÍTULO XII.
+
+DE LA PARTICIPACIÓN DE AUDITORÍAS INDEPENDIENTES.
+
+En el caso de participación de una Auditoría Independiente, contratada por el patrocinante, se hará constar dicha circunstancia con la documentación que la acredite, así como la dirección, código postal, teléfono, facsímile y correo electrónico de la auditoría contratada.
+La presencia de una auditoría independiente no exime al investigador principal de la responsabilidad que le compete de acuerdo a lo exigido en el Capítulo IV de la presente norma.
+
+CAPÍTULO XIII.
+
+DE LOS ESTUDIOS CLÍNICOS CON PSICOFÁRMACOS.
+
+	Los protocolos de ensayos clínicos con psicofármacos requerirán para su aprobación una declaración jurada de la Dirección Técnica del laboratorio patrocinante, detallando qué lote/s de producción se utilizarán y un listado completo de los médicos participantes autorizados a recibir el /los psicofármaco/s  motivo del ensayo.
+
+	Asimismo, la totalidad de estos médicos firmará una declaración por la que individualmente se hacen responsables de la correcta distribución del psicofármaco y se comprometen a no entregar la medicación sujeta a ensayo clínico, excepto a los pacientes participantes en el estudio, bajo la pena de las sanciones más severas que prescribe la ley.
+
+	La Dirección Técnica  y la Dirección Médica o Departamento Médico o estructura análoga del laboratorio patrocinante en conjunto con el investigador principal, informarán a la autoridad sanitaria competente cada 3 (tres) meses y por escrito,  sobre la marcha del ensayo clínico. Tal informe tendrá el carácter de Declaración Jurada e incluirá el número de pacientes ingresados, la cantidad de medicamento o especialidad medicinal utilizados y el tiempo que cada paciente lleva de tratamiento. La falta a este requerimiento será sancionada con la cancelación del ensayo clínico, sin perjuicio de otras sanciones que correspondieren de acuerdo a la ley vigente.
+
+	En el caso que el estudio no sea patrocinado por ningún laboratorio, se deberán tomar los recaudos expresados anteriormente en cuanto a responsabilidad del/los profesionales intervinientes, registro de la especialidad medicinal en estudio y de los pacientes que la reciban.
+
+ANEXO II
+
+DEFINICIÓN DE TÉRMINOS
+
+(GLOSARIO)
+
+ALEATORIZACIÓN
+
+1)Diseño experimental a través del cual se escogen las muestras  o se administra  un tratamiento al azar.
+2)Método o mecanismo para asignar sujetos a grupos de control o de tratamiento, de forma tal que el sujeto tenga igual probabilidad de recibir el tratamiento de interés.
+
+ALTERNATIVAS FARMACÉUTICAS: Productos que, dentro del concepto de producto similar, a) contienen el mismo principio terapéutico, siendo diferente la salificación, esterificación ó complejación del mismo, o b) se presentan en diferentes formas farmacéuticas, poseyendo la misma vía de administración, la misma indicación terapéutica y la misma posología.
+
+ARCHIVO DE  INFORMACIÓN DE PERSONAS INCORPORADAS AL ESTUDIO
+
+	Archivos hospitalarios, registros de consulta o archivos especiales que permiten asegurar  la autenticidad de la información presentada en el Formulario de Registro Clínico Individual del protocolo y que puede ser verificada y cuando sea necesario, permitir ser corregida y completada. Deben respetarse las condiciones regulatorias del empleo y consulta de tales documentos.
+
+
+ASOCIACIÓN O COMBINACIÓN DE PRINCIPIOS ACTIVOS
+
+	Especialidad medicinal que contiene dos o más principios activos en cantidades fijas por unidad de forma farmacéutica.
+ATC
+
+Ver CLASIFICACIÓN ATC.
+
+AUDITORÍA DE UN ESTUDIO CLÍNICO
+
+	Es un examen sistemático llevado a cabo independientemente de las personas involucradas en el estudio, para determinar si la realización del mismo cumple con el protocolo autorizado y si la información es consistente con la registrada. Por ejemplo si los datos recogidos o informados en el Formulario de Registro Clínico Individual están de acuerdo (son coincidentes) con aquellos encontrados en los archivos del centro donde se lleva a cabo el estudio  así como en otros registros originales.
+
+AUTORIDAD DE APLICACIÓN
+
+	Entiéndese por tal a la Autoridad Sanitaria encargada de velar por el cumplimiento de una determinada normativa.
+
+B
+BIODISPONIBILIDAD
+
+	Se refiere a la capacidad de una determinada forma farmacéutica de liberar principio activo en el sitio y a la velocidad adecuados para obtener una concentración suficiente en la biofase en el momento oportuno.
+
+	El término Disponibilidad da a entender la capacidad  de un principio activo de encontrarse en la biofase en concentraciones adecuadas para ejercer su acción.
+
+	Teniendo en cuenta que no se puede determinar in-vivo ,en humanos, la concentración en la biofase (salvo excepciones) y, asumiendo un equilibrio entre las concentraciones en suero y en biofase, se acepta como Biodisponibilidad a la fracción de la dosis de una droga -administrada extravascularmente- en una forma farmacéutica dada, que alcanza la circulación sistémica y la velocidad con que lo hace.
+
+
+BIOEQUIVALENCIA
+
+	Existiendo equivalencia química, dos medicamentos o especialidades medicinales son bioequivalentes (biológicamente equivalentes), si administrados a la misma persona en igual régimen de dosis, tienen biodisponibilidad similar.
+
+BIOTRANSFORMACIÓN
+
+	Es la modificación química que sufre un principio activo o cualquier otra sustancia exógena durante su pasaje por el organismo. La biotrasnformación en la especie humana ocurre preferentemente en el hígado, y en menor grado, en la membrana gastrointestinal, el riñón , el pulmón y otros órganos. Es recomendable no emplear este término como sinónimo de metabolismo o detoxificación.
+
+BUENAS PRÁCTICAS  DE INVESTIGACIÓN CLÍNICA
+
+	Es un modelo para estudios clínicos que comprende el diseño, conducción, monitoreo, terminación, auditación , análisis, comunicación  y documentación de los estudios clínicos, que asegura que el estudio sea científica y éticamente correcto y que las propiedades clínicas del medicamento y/o especialidad medicinal para diagnóstico, profilaxis o terapéutica, están apropiadamente documentadas.
+
+C
+
+CAS
+
+Ver CHEMICAL ABSTARCT SERVICE.
+
+CERTIFICACIÓN DE AUDITORÍA
+
+	Certificado que confirma la realización de una auditoría adecuada.
+CHEMICAL ABSTRACT SERVICE
+
+CAS
+
+Chemical Abstract Service
+
+	Sistema de clasificación codificada de sustancias químicas. Aporta información básica sobre características físico-químicas de los principios activos.
+
+CLASIFICACIÓN ATC
+
+Anatomical Therapeutic and Chemical Classiffication
+
+	Sistema de clasificación de medicamentos creado por el Consejo Nórdico de Medicamentos, recomendado por la Organización Mundial de la Salud (OMS) y empleado por el Centro Colaborativo para el Monitoreo Internacional de Medicamentos.
+	Este sistema de clasificación es continuamente revisado por el Consejo Nórdico de Medicamentos bajo la coordinación del Centro Colaborativo para Metodología Sobre Estadísticas de Medicamentos de la Organización Mundial de la Salud, con sede en Oslo.
+
+La Clasificación ATC, es de tipo "Alfa-numérica" ,que responde al siguiente ordenamiento:
+
+Primer Nivel (Alfa): Indica Grupo Anatómico, es decir órgano, aparato o sistema  sobre el que actúa principalmente el medicamento.
+
+Segundo Nivel (Numérico): Indica el Grupo Terapéutico Principal.
+
+Tercer Nivel (Alfa): Indica el Subgrupo Terapéutico.
+
+Cuarto Nivel (Alfa): Indica el Subgrupo Químico Terapéutico.
+
+Quinto Nivel (Numérico): Indica el Principio Activo.
+
+COMITÉ DE DOCENCIA E INVESTIGACIÓN
+
+	Grupo de profesionales de la salud constituidos con el objeto de establecer que los estudios clínico llevados a cabo en determinado establecimiento de salud, cumplan con las pautas del método científico.
+
+	Por extensión, un estudio clínico científicamente inaceptable, no es éticamente aceptable.
+
+COMITÉ DE ÉTICA
+
+	Grupo independiente  (del estudio) de personas (institucional, regional o nacional) constituido por profesionales médicos y no médicos y por no profesionales, que tiene la responsabilidad de verificar que se protejan la seguridad, integridad y derechos humanos  de las personas participantes en el estudio. Considera asimismo la ética general del estudio , reafirmando de este modo públicamente la seguridad del estudio. Los Comités de Ética se constituirán y ejercerán sus tareas libres de influencias de aquellas personas que conducen o intervienen en  el estudio clínico (investigadores, patrocinador, etc.).
+
+COMUNICACIÓN FINAL
+
+Informe final
+
+	Descripción completa y pormenorizada del estudio luego de finalizado el mismo, que comprende: la descripción de materiales y métodos experimentales (incluyendo el  de los materiales y métodos utilizados y la metodología estadística),evaluación de los resultados con su análisis estadístico y una apreciación crítica (discusión) ética, estadística y clínica del estudio.
+
+
+COMUNICACIÓN PERIÓDICA
+
+Informe periódico
+
+	Informe elevado periódicamente (trimestralmente) a la autoridad de aplicación por parte del investigador principal, donde se vuelcan los resultados parciales y el grado de avance de la investigación.
+
+CONDICIONES EXPERIMENTALES
+
+	Condiciones rigurosamente establecidas de tiempo, espacio, acondicionamiento, mantenimiento, mediciones, evualuaciones, etc. que deben fijarse antes de la realización de un estudio y que deben ser mantenidas durante la duración del mismo.
+
+CONFIDENCIALIDAD
+
+	Mantenimiento de la privacidad de las personas incorporadas al estudio clínico, incluyendo su identidad y toda la información médica personal.
+
+CONSENTIMIENTO FIRMADO DE LOS INVESTIGADORES
+
+	Documento firmado y fechado, por medio del cual los investigadores se comprometen a llevar a cabo la investigación, respetando la letra y el espíritu de la Declaración de Helsinki y sus revisiones periódicas, con el objeto de salvaguardar la integridad y dignidad humanas.
+
+CONSENTIMIENTO INFORMADO
+
+	El consetimiento informado es la documentación que confirma la participación  voluntaria de las personas en un estudio clínico particular. Sólo podrá ser obtenido luego que las mismas hayan sido debidamente informadas acerca del estudio en el que van a participar, incluyendo una explicación del estado de la investigación, sus objetivos, potenciales beneficios, riesgos e inconvenientes, tratamientos alternativos de los que se dispone, la confidencialidad de la información, y de los derechos de las personas y responsabilidades, de acuerdo con las actualizaciones de la Declaración de Helsinki.
+
+CONTRATO
+
+	Documento fechado y firmado por el investigador o una institución y el patrocinante, que expresa los acuerdos y delegación y/o distribución de responsabilidades. El Protocolo puede servir como contrato cuando contiene tal información y está firmado.
+
+CONTROL DE CALIDAD
+
+	Técnica de funcionamiento y actividades existentes dentro del sistema de garantía de calidad para verificar que los requisitos de calidad del estudio sean cumplidos.
+
+	Las actividades de control de calidad abarcan a todos los miembros del grupo de investigación, incluyendo al patrocinador y a la organización de servicios de investigación, involucrados en la planificación, conducción, monitorización, evaluación e informes de un estudio clínico, incluyendo el  procesamiento de la información, con el objetivo de evitar que las personas incorporadas a un estudio sean expuestas a riesgos innecesarios, o que se arribe a conclusiones equivocadas basadas en información poco confiable.
+
+CRITERIOS DE INCLUSIÓN
+
+Criterios de admisión
+
+	Conjunto de variables seleccionadas para describir una determinada situación de base.
+
+CRITERIOS DE EXCLUSIÓN
+
+	Condiciones cuya presencia determina que los sujetos sean excluidos del estudio.
+
+CRONOGRAMA
+
+	Descripción escrita de la distribución de las actividades en el tiempo.
+
+CURRICULUM VITAE
+
+	Documento en el que se vuelcan los datos personales y antecedentes profesionales, docentes y de investigación de una persona.
+
+CURVA DOSIS-RESPUESTA
+
+	Representación gráfica de la expresión matemática de la relación entre la dosis de un principio farmacológicamente activo y su efecto. Del análisis de dicha curva, surgen indicadores farmacodinámicos tales como Dosis Efectiva 50 (DE50), Potencia Relativa, Efecto Máximo, etc.
+
+CURVA EFECTO-TIEMPO
+
+	Representación gráfica de la expresión matemática de la relación entre el tiempo transcurrido desde la administración de una dosis determinada de un principio activo y la evolución temporal del efecto del mismo.
+
+D
+
+DATOS ORIGINALES
+
+	Son todos los registros o copias certificadas de las observaciones originales, hallazgos clínicos u otras actividades en un estudio clínico, necesarios para la reconstrucción y evaluación del estudio. Tal información incluye: estudios de laboratorio, memoranda, cálculos y documentos, registro de datos en instrumentos automáticos o exactos, copias verificadas, microfichas, etc. También incluye negativos fotográficos, videograbaciones, microfilamciones o medios magnéticos.
+
+DCI
+
+	Ver DENOMINACIÓN COMÚN INTERNACIONAL.
+
+DECLARACIÓN DE HELSINKI
+
+	Principios éticos recomendados para guiar la expiremantación de medicamentos en seres humanos. Estos principios fueron propuestos por la Asociación Médica Mundial en 1964 y fueron revisados posteriormente en 1975. Reemplaza al Código o Decálogo de Nüremberg formulado en 1947, como documento básico de aceptación internacional. Los principios enunciados reconocen los derechos de las personas en experimentación y la primacía de su salud y seguridad sobre cualquier interés científico y social. Esta Declaración ha sido revisada y actualizada por las Asamableas Médicas Mundiales 29a., (Tokio,Octubre de 1975), 35a. (Venecia, Octubre de 1983) y 41a. (Hong Kong, Setiembre de 1989).
+
+DENOMINACIÓN COMUN INTERNACIONAL PARA SUSTANCIAS FARMACÉUTICAS
+
+DCI
+
+	Nombre común para los principios activos, recomendado por la Organización Mundial de la Salud, con el objeto de lograr una identificación internacional. Las denominaciones empleadas, se presentan en latín, español, francés, inglés y ruso.
+
+DISCUSIÓN DE LOS RESULTADOS
+
+	Proceso intelectual (que debe ser claramente escrito) mediante el cual se interpreta la información recogida mediante el estudio (Resultados). Para ello debe tenerse en cuenta lo siguiente:
+
+a)Significación y limitación de los resultados obtenidos.
+
+b)Comentario y explicación de la coherencia o de las contradicciones entre sí, de los datos hallados.
+
+c)Comentario y explicación de la consistencia e inconsistencia de los datos hallados con los de otros investigadores.
+
+d)Posibles implicancias y otras deducciones derivadas de los puntos anteriores.
+
+e)Nuevas preguntas o problemas planteados a partir de esta discusión y posibles líneas futuras de investigación.
+
+DISEÑO EXPERIMENTAL
+
+	Es la forma en que se fija, sobre bases estadísticas, las relaciones entre individuos, los estímulos, las respuestas y cualquiera otra variable que se tenga en cuenta para proceder a la verificación experimental de la hipótesis.
+
+DOCUMENTACIÓN
+
+	Son todos los registros de cualquier tipo (incluyendo documentos, registros magnéticos, ópticos, etc.) que describen los métodos y conducción del estudio, factores que lo afectan y acciones tomadas.
+
+	Incluyen: el protocolo, copias de los requisitos presentados a la autoridad de aplicación, autorizaciones (de la autoridad de aplicación, del comité de ética, del comité de docencia e investigación, etc.), curriculum vitae de los investigadores, formulario de consentimiento informado, informes de monitoreo, certificados de auditorías, correspondencia, parámetros de referencia, datos originales, formulario de registro clínico individual, comunicaciones periódicas y comunicación final.
+
+DOSIFICACIÓN
+
+Posología
+
+	Describe la dosis de un medicamento, los intervalos entre las administraciones y la duración del tratamiento. No debe confundirse con el término Dosis.
+
+DOSIS
+
+	Cantidad de principio activo que se administra en una sola vez.
+
+DOSIS TÓXICA
+
+	Cantidad de principio activo que produce un efecto tóxico (funcional o estructural), tanto en animales como en seres humanos.
+
+E
+
+ECUACIÓN BENEFICIO / RIESGO
+
+	Es la proporción entre los beneficios y los riesgos que presenta el empleo de un medicamento y/o especialidad medicinal. Es útil para expresar una apreciación sobre la utilidad de un medicamento y/o especialidad medicinal en la práctica médica, basada en datos de eficacia y seguridad, así como en consideraciones de su posible empleo abusivo, la gravedad y pronóstico de la enfermedad o condición patológica, etc
+.
+	El concepto puede aplicarse a un solo medicamento y/o especialidad medicinal o para comparar dos o más medicamentos y/o especialidades medicinales
+
+ECUACIÓN BENEFÍCIO/RIESGO/COSTO
+
+	Esta relación debe tenerse en cuenta, cuando un medicamento o especialidad medicinal es administrado a un individuo en su beneficio derecto y/o de la comunidad a la que pertenece. Costo comprende un concepto económico y social, bien definido en Farmacoeconomía.
+
+
+EFECTIVIDAD
+
+	Es la capacidad de un medicamento y/o especialidad medicinal para evitar y/o retardar la evolución o complicaciones de una enfermedad o estado patológico, así como mejorar la supervivencia y calidad de vida. Surge de la utilización terapéutica adecuada a través del tiempo.
+
+EFECTO NOCEBO
+
+	Efecto/s indeseable/s determinado/s por la utilización de placebo
+.
+EFECTO PLACEBO
+
+	Efecto clínico beneficioso o adverso (efecto nocebo) que se produce como resultado de una intervención médica, incluyendo la administración de un placebo. En algunas circunstancias puede representar del 30 al 60% del efecto usualmente obtenido luego de la administración de un medicamento o especialidad medicinal que posee actividad farmacológica o después de cualquier otra intervención apropiada.
+
+EFICACIA
+
+	Es la capacidad de un medicamento y/o especialidad medicinal para corregir una alteración fisiopatológica o disminuir/eliminar una determinada signo/sintomatología. La eficacia surge de los resultados del estudio clínico controlado.
+
+ENSAYO CLÍNICO
+
+Ver: ESTUDIO CLÍNICO.
+
+EQUIVALENTES FARMACÉUTICOS
+
+	Medicamentos que contienen cantidades idénticas de iguales principios activos, por ejemplo la misma sal o éster, en idénticas formas farmacéuticas, pero que no necesariamente contienen los mismos excipientes. En consecuencia, dos equivalentes farmacéuticos pueden mostrar diferentes biodisponibilidades y actividades farmacológicas.
+
+ESPECIALIDAD MEDICINAL O FARMACÉUTICA
+
+	Todo medicamento, designado por un nombre convencional, sea o no una marca de fábrica o comercial, o por el nombre genérico que corresponda a su composición y contenido, preparado y envasado uniformemente para su distribución y expendio, de composición cuantitativa definida, declarada y verificable, de forma farmacéutica estable y de acción terapéutica comprobable.
+
+ESPECIFICIDAD
+
+	Es la capacidad de una prueba de producir resultados negativos en personas que no padecen la enfermedad (Verdaderos negativos)
+ESTABLECIMIENTO DE SALUD AUTORIZADO
+	Entidad sanitaria, pública o privada que reúne las condiciones humanas y materiales que garantizan el rigor y la calidad científicos exigidos.
+ESTUDIO CLÍNICO
+
+	Es un estudio  sistemático, siguiendo en un todo las pautas del método científico en seres humanos voluntarios, sanos o enfermos realizado con medicamentos y/o especialidades medicinales con el objeto de descubrir o verificar los efectos y/o identificar reacciones adversas del producto en investigación y/o estudiar la absorción, distribución, metabolismo (biotransformación) y excreción de los principios activos con el objeto de establecer su eficacia y seguridad.
+
+	Los estudios clínicos son clasificados en Fases I, II, III y IV, como sintéticamente se expresa a continuación:
+
+1.- Fase I
+
+	Es el primer estudio en seres humanos  de un nuevo principio activo o nueva formulación, llevado a cabo generalmente en personas voluntarias. Estos estudios se proponen establecer una evaluación preliminar de la seguridad y del perfil farmacocinético, y  cuando sea posible, un perfil farmacodinámico. Salvo excepciones debidamente fundamentadas, se llevan a cabo en pequeños grupos de personas voluntarias sanas.
+
+2.- Fase II
+
+Estudio Terapéutico Piloto
+
+	Los objetivos del Estudio Terapéutico Piloto son demostrar la actividad y establecer la seguridad a corto plazo del principio activo en pacientes afectados de una determinada enfermedad o condición patológica. Los estudios se realizan en un número limitado (pequeño) de personas y frecuentemente, son seguidos de un estudio comparativo. En esta fase también se determinan los rangos de dosis apropiados y los regímenes de administración. De ser posible, también, se establecen las relaciones dosis-respuesta, con el objeto de obtener sólidos antecedentes  para el diseño estudios terapéuticos ampliados (Fase III).
+
+3.- Fase III
+
+Estudio Terapéutico Ampliado
+
+	Son estudios realizados en grandes y variados grupos de pacientes ,con el objeto de determinar :
+
+3.1. El Balance Riesgo/Beneficio a corto  y largo plazo de la/s formulación/es del principio activo.
+
+3.2. De manera global (general) el valor terapéutico relativo.
+
+	Se exploran en esta fase el tipo y perfil de las reacciones adversas más frecuentes, así como características especiales del medicamento y/o especialidad medicinal (por ejemplo interacciones clínicamente relevantes, principales factores modificatorios del efecto, tales como la edad, etc.).
+
+	El diseño de los estudios será preferentemente aleatorizado y doble ciego, pero también son aceptables otros diseños, por ejemplo los de seguridad a largo plazo.
+
+	Generalmente estos estudios se realizan teniendo en cuenta las que serán las condiciones normales de utilización  del medicamento y/o especialidad medicinal.
+
+4.- Fase IV
+
+Estudios Postcomercialización
+
+	Son estudios llevados a cabo luego de comercializado el medicamento y/o especialidad medicinal.
+
+	Estos estudios son ejecutados de acuerdo a sobre la base de las características con que fue autorizado el medicamento y/o especialidad medicinal. Generalmente son Estudios de Vigilancia Postcomercialización, para establecer el valor terapéutico ,la aparición de nuevas reacciones adversas y/o confirmación de la frecuencia de aparición de las ya conocidas y las estrategias de tratamiento.
+
+	En los estudios de Fase IV, se deben seguir las mismas pautas éticas y científicas aplicadas a los estudios de fases anteriores.
+
+	Luego que un medicamento y/o especialidad medicinal ha sido comercializado, los estudios clínicos diseñados para explorar nuevas indicaciones, nuevos métodos de administración, o nuevas combinaciones (asociaciones),etc., son considerados como estudios de nuevo medicamento y/o especialidad medicinal.
+
+	En esta fase se llevan a cabo también los estudios  específicos de Farmacoepidemiología , Farmacovigilancia y Bioequivalencia.
+
+ESTUDIO CLÍNICO CONTROLADO
+
+	Estudio clínico en el curso del cual se compara el resultado terapéutico de un tratamiento con respecto a un tratamiento de referencia o a un placebo. Un estudio de este tipo comprende el empleo de un grupo control.
+
+ESTUDIO CLÍNICO CRUZADO
+
+	Diseño experimental empleado en la evaluación de dos o más tratamientos, en el cual todas las personas reciben, en forma consecutiva, cada uno de los tratamientos.
+
+ESTUDIO CLÍNICO MULTICÉNTRICO
+
+	Estudio clínico conducido de acuerdo con un protocolo único en varios centros de investigación y por lo tanto, realizado por más de un investigador principal, pero siguiendo los mismos procedimientos.
+
+
+ESTUDIO POSTCOMERCIALIZACIÓN
+
+Ver: ESTUDIO CLÍNICO (FASE IV)
+
+ESTUDIO PRECLÍNICO
+
+Farmacología Preclínica; Fase 0
+
+	En el desarrollo de un medicamento, son todos aquellos estudios que se realizan "in-vitro" y/o en animales de experimentación, diseñados con la finalidad de obtener la información necesaria para decidir si se justifican estudios más amplios en seres humanos sin exponerlos a riesgos injustificados. Si bien muchos de los estudios preclínicos deben anteceder a los estudios clínicos, aquellos que requieren períodos prolongados para su ejecución o son estudios especiales, se continúan durante las primeras fases de los estudios clínicos.
+
+ESTUDIO TERAPÉUTICO AMPLIADO
+
+Ver: ESTUDIO CLÍNICO (FASE III)
+.
+ESTUDIO TERAPÉUTICO PILOTO
+
+Ver: ESTUDIO CLÍNICO (FASE II).
+
+ETIQUETA PARA PRODUCTOS EN INVESTIGACIÓN
+
+	Etiqueta desarrollada específicamente para productos involucrados en investigación clínica.
+
+	Todo medicamento y/o especialidad medicinal sometida a estudio clínico, así como el material empleado como control, deberá estar correctamente etiquetado, resaltando que se trata de "Material para estudio clínico".
+
+EVENTO ADVERSO
+
+Cualquier manifestación, clínica o biológica no deseada que se presente durante el tratamiento con un medicamento o especialidad medicinal, el cual no tiene necesariamente una relación de causalidad con el tratamiento realizado o con el estudio clínico en ejecución.
+
+EVENTO ADVERSO INESPERADO
+
+	Experiencia indeseada no referida (en cuanto a naturaleza, gravedad o frecuencia) en la información para el investigador, en el desarrollo de la investigación o en la bibliografía.
+
+
+EVENTO ADVERSO SERIO
+
+	Es un evento asociado con muerte, hospitalización del paciente, prolongación de la hospitalización, discapacidad significativa o persistente, incapacidad, o hay amenaza de muerte en relación con un estudio clínico.
+
+EXCRECIÓN
+
+	Salida o eliminación del organismo de un principio activo, intacto o de sus metabolitos.
+
+F
+
+FALSEAMIENTO DE DATOS
+
+	Acto por el cual se modifican arbitrariamente los datos originales o se realizan análisis de datos teóricos (no surgidos de una realidad experimental).
+
+FALSO NEGATIVO
+
+	Resultado negativo de una prueba diagnóstica, cuando la persona padece la enfermedad.
+
+FALSO POSITIVO
+
+	Resultado positivo de una prueba diagnóstica, cuando la persona no padece la enfermedad.
+
+FARMACOCINÉTICA
+
+	En general, son todas las modificaciones que un sistema biológico le produce a un principio activo.
+
+	Operativamente,  es estudio de la cinética  (relación cuantitativa entre la variable independiente tiempo y la variable dependiente concentración) de los procesos de absorción, distribución, biotransformación y excreción de los medicamentos (principios activos) y/o sus metabolitos.
+
+FARMACOCINÉTICA CLÍNICA
+
+	Aplicación de los principios farmacocinéticos a la utilización eficaz y segura de los medicamentos en los seres humanos (sanos o enfermos). Es de trascendental importancia en lo relacionado con la selección y diseño de los regímenes de dosificación.
+
+
+FARMACOCINÉTICA LINEAL
+
+Farmacocinética de primer orden; Farmacocinética de Orden 1;Farmacocinética proporcional o Farmacocinética dosis independiente
+
+	Modelo farmacocinético aplicable cuando la velocidad de pasaje de un compartimiento a otro es proporcional a la concentración en el primer compartimiento (es decir, existe proporcionalidad directa entre la concentración del principio activo y la dosis biodisponible).
+
+FARMACOCINÉTICA NO LINEAL
+
+Farmacocinética de Orden 0; Farmacocinética No Proporcional o Farmacocinética dosis dependiente
+
+	Modelo farmacocinético en el que la velocidad de pasaje de un compartiemiento a otro no es proporcional a la concentración en el primer compartimiento.
+
+FARMACODINAMIA
+
+	Como concepto general, son todas las modificaciones que un principio activo le produce a un sistema biológico.
+
+	Desde un punto de vista práctico, estudio de los efectos bioquímicos y fisiológicos de los medicamentos y de su/s mecanismo/s de acción. Antiguamente era sinónimo de Farmacología Experimental o Preclínica.
+
+FARMACOEPIDEMIOLOGÍA
+
+	1)En la concepción clásica, estudios tradicional, pero no necesariamente observacionales, a diferencia de los estudios experimentales o ensayos clínicos controlados, de los efectos terapéuticos o adversos de los medicamentos en una población de pacientes o en determinados subgrupos de población. Estos estudios se inician luego de que exista evidencia incontrovertible de la eficacia del medicamento, es decir en la Fase IV de los estudios clínicos y son necesarios, además, para determinar la efectividad del medicamento.
+
+	2)También comprende la aplicación de los métodos epidemiológicos para determinar la efectividad y seguridad de los medicamentos.
+
+	3)Es actualmente considerada como el estudio del impacto producido por el medicamento en una población determinada, en un momento determinado y en un espacio dterminado.
+
+FARMACOVIGILANCIA
+
+	Es el conjunto de métodos, observaciones y disciplinas que permiten, durante la etapa de comercialización o uso extendido de un medicamento, detectar reacciones adversas y efectos terapéuticos  no previstos en las etapas anteriores de estudio. El objetivo de la farmacovigilancia es la evaluación permanente de los medicamentos vendidos con o sin receta médica, a través de la identificación y cuantificación del riesgo, empleando técnicas de análisis poblacional con base farmacoepidemiológica.
+
+FASES DE LA FARMACOLOGÍA CLÍNICA
+
+Ver: ESTUDIO CLÍNICO.
+
+FICHERO PRINCIPAL DEL ESTUDIO CLÍNICO
+
+	Fichero que contiene información clínica y demográfica de las personas incluidas en el estudio. Estos ficheros son necesarios para verificar la autenticidad de la información contenida en el formulario de registro clínico individual y, cuando sea necesario, tener la posibilidad de corregir o completar la información, siempre que se respeten las condiciones que reglamentan la consulta y utilización de este tipo de documentos (Ver Confidencialidad).
+
+FINES FARMACOCLÍNICOS O FÁRMACOTERAPÉUTICOS
+
+	Se aplica a estudios clínicos que tienen por objeto establecer la eficacia/efectividad y/o seguridad de un medicamento, así como también es aplicable a estudios de farmacoepidemiología.
+
+
+FORMULARIO DE REGISTRO CLÍNICO INDIVIDUAL
+
+Case Report Form ;CRF
+
+	Es un documento diseñado para recoger información de cada voluntario, sano o enfermo, durante el curso del estudio y que se encuentra definido en el Protocolo autorizado. La información será recogida por procedimientos que garanticen la preservación, retención y recuperación y será fácilmente accesible para verificación, auditoría e inspección.
+
+G
+
+GARANTÍA DE CALIDAD
+
+	Sistemas y procesos establecidos para garantizar que el estudio clínico sea realizado y que la información obtenida esté de acuerdo con las Buenas Prácticas de Investigación Clínica, incluyendo procedimientos éticos, informes, antecedentes personales, académicos y de investigación. Es validada a través de un proceso interno de control de calidad y de auditoría durante y después del estudio, y aplicada a los procedimientos del ensayo clínico, así como a todos los datos recogidos.
+
+	El personal que lleva acabo la auditoría para garantizar la calidad, debe ser independiente del grupo investigador.
+
+
+I
+
+IDENTIFICACIÓN DE PRINCIPIO/S ACTIVO/S
+
+	Se trata de uno o más métodos que permiten la identificación química de un principio activo de empleo potencial o real en investigación farmacológica.
+
+INDICACIÓN
+
+	Es la aplicación terapéutica de la acción farmacológica mejor conocida. Entiéndese acción farmacológica mejor conocida, aquella que proviene de los resultados obtenidos en ensayo/s clínico/s controlados y/o de bibliografía internacional suficientemente validada (por ejemplo, publicaciones que poseen árbitros independientes).
+
+INDICE TERAPÉUTICO
+
+	Índice o número que refleja la seguridad relativa de un medicamento. Generalmente se calcula a partir de la Curva Dosis/Respuesta obtenida en animales de experimentación y se refiere a la relación DL50/DE50, es decir la razón entre la dosis requerida para producir  efecto letal en el 50% de la población y la dosis que produce el efecto farmacológico deseado en el 50% y la dosis que produce el efecto farmacológico deseado en el 50% de la población estudiada.
+
+INFORME FINAL
+
+Ver: COMUNICACIÓN FINAL
+
+INFORME PERIÓDICO
+
+Ver COMUNICACIÓN PERIÓDICA
+
+INFORMACIÓN PARA EL INVESTIGADOR
+
+	Conjunto de datos para el investigador, consistente en toda la información relevante acerca del/los producto/s en investigación conocidos antes del comienzo de un estudio clínico , incluyendo datos químicos y farmacéuticos ; toxicológicos, farmacocinéticos y farmacodinámicos en animales de experimentación y en el hombre y los resultados de los estudios clínicos iniciales. Esta puede ser información adecuada para justificar la naturaleza, escala y duración del estudio propuesto y evaluar la potencial seguridad y necesidad de precauciones especiales. Si se generan nuevos datos, la información original debe ser actualizada.
+
+INSPECCIÓN
+
+	Examen oficialmente conducido, realizado por autoridades relevantes, en el sitio de la investigación y/o en el domicilio del patrocinador, para asegurar el cumplimiento de las Buenas Prácticas de Investigación Clínica (por ejemplo revisión de la conducción del estudio, incluyendo calidad, personal involucrado, delegación de autoridad y auditoría).
+
+
+INSTRUCCIONES PARA EL PERSONAL AUXILIAR
+
+	Conjunto de normas escritas en el que se describen las funciones de cada participante de la investigación.
+
+INTERACCIÓN FARMACOLÓGICA
+
+	Influencia que tiene un medicamento, alimento u otra sustancia sobre el comportamiento o la eficacia de otro medicamento, cuando ambos son administrados simultáneamente.
+
+	Las interacciones pueden ser Farmacodinámicas (Sinergismo,  Potenciación, Antagonismo) o Farmacocinéticas (en la absorción, distribución, biotransformación y/o excreción).
+
+INVESTIGADOR
+
+	Persona responsable del estudio clínico y de los derechos, salud y bienestar de las personas incorporadas al estudio clínico. El Investigador Principal puede tener cualificación y competencia de acuerdo con las leyes locales y regulaciones, evidenciadas por la información contenida en el Curriculum vitae actualizado y otras acreditaciones.
+
+	Los cuidados médicos y dentales y las decisiones siempre deben ser responsabilidad de una persona clínicamente competente y legalmente habilitado para el ejercicio de la medicina y/o la odontología.
+
+INVESTIGADOR INDEPENDIENTE
+
+	Investigador que no posee Patrocinante y que asume toda la responsabilidad del estudio clínico.
+
+INVESTIGADOR PRINCIPAL
+
+	Investigador que actúa como coordinador para cierto tipo de estudios clínicos, por ejemplo estudios multicéntricos.
+
+M
+
+MANUAL DE PROCEDIMIENTOS
+
+Ver: SISTEMAS OPERATIVOS NORMATIZADOS.
+
+MARGEN DE SEGURIDAD
+
+	Indicador farmacodinámico que expresa la diferencia entre la dosis tóxica (por ejemplo DL50) y la dosis efectiva (por ejemplo DE50).
+
+
+MARGEN TERAPÉUTICO
+
+	Es la relación entre la máxima dosis tolerada, o también tóxica, y la dosis terapéutica (Dosis tóxica/Dosis terapéutica). En farmacología clínica se emplea como equivalente de Índice Terapéutico.
+
+MEDICAMENTO
+
+	Toda preparación o producto farmacéutico empleado para la prevención, diagnóstico y/o tratamiento de una enfermedad o estado patológico, o para modificar sistemas fisiológicos en beneficio de la persona a quien se administra.
+
+META
+
+Es el objetivo cuantificado.
+
+MONITOR
+
+	Persona designada por el patrocinante o por la organización de servicios de investigación responsable ante los mismos para monitorizar y comunicar el cumplimiento del protocolo autorizado y el progreso del estudio clínico así como para verificar la información.
+
+MORBILIDAD
+
+	Indicador epidemiológico (también empleado en farmacología experimental) que evalúa enfermedad. Epidemiológicamente se analiza mediante el empleo de indicadores tales como razones, proporciones, tasas, riesgo relativo, odds ratio, exceso de riesgo, etc.
+
+MORTALIDAD
+
+	Indicador epidemiológico (también empleado en farmacología experimental) que evalúa muerte. Epidemiológicamente se analiza mediante tasas (crudas o ajustadas).
+
+N
+
+NOMBRE GENÉRICO
+
+	Nombre adoptado para distinguir a un principio activo que puede o estar amparado por una marca de fábrica o nombre comercial. En general, aunque no siempre, el nombre genérico se corresponde con la Denominación Común Internacional (DCI).
+
+O
+
+OBJETIVO
+
+	Expresión clara, concisa, precisa y cuantificable de lo que se desea obtener
+
+.
+ORGANIZACIÓN DE CONTRATOS DE INVESTIGACIÓN.
+
+	Organización científica (comercial, académica u otra) a la cual el patrocinador puede transferir alguna de sus tareas y obligaciones. Toda transferencia de tareas y obligaciones debe estar expresada por escrito.
+
+ÓRGANO BLANCO
+
+Órgano diana; Órgano objetivo
+
+	Término que describe el órgano sobre el que actúa un principio activo.
+
+P
+
+PATROCINANTE
+
+	Persona individual, grupo de personas , empresa institución u organización que asume la responsabilidad de la iniciación, mantenimiento y/o financiación de un estudio clínico.
+
+	Cuando un Investigador independiente inicia y toma toda la responsabilidad de un estudio clínico, entonces el  Investigador asume el papel del patrocinante.
+
+	Las siguientes son obligaciones del patrocinante:
+
+1.- Solicitar la autorización para la realización del estudio clínico al establecimiento de salud donde se llevará a cabo el mismo.
+
+2.- Solicitar autorización a la autoridad de aplicación de la presente normativa, para la realización del estudio clínico.
+
+3.- Proponer al investigador principal, cuya experiencia profesional debe comprobar mediante la demostración pertinente.
+
+4.- Facilitar al investigador principal toda la información química, farmacéutica, toxicológica y farmacológica (experimental y clínica), que garantice la seguridad del medicamento o especialidad medicinal, así como toda la información adicional necesaria para la correcta conducción del estudio, en la fase de investigación que motiva el mismo.
+
+5.- Asegurar la vigilancia del estudio mediante la monitorización del mismo.
+
+6.- Asegurar el cumplimiento de la presentación  de las comunicaciones periódicas y  de la comunicación final, previstas en la presente normativa.
+
+PERSONA EN ESTUDIO CLÍNICO
+
+	Es una persona que participa voluntariamente en un estudio clínico y puede ser:
+
+1.- Una persona sana, incorporada en un estudio;
+
+2.- Una persona con una condición no relacionada con el empleo del producto en investigación.
+
+3.- Una persona (usualmente un paciente) cuya condición es relevante para el empleo del producto en investigación
+.
+	Estas personas participan del estudio clínico ya sea como receptores del producto en investigación o como controles.
+
+PLACEBO
+
+	Es una sustancia inerte, como por ejemplo la lactosa, que se emplea como sustituto de un supuesto medicamento. Aún cuando el placebo no posea actividad farmacológica , puede, sin embargo, producir una respuesta biológica en razón de los efectos de sugestión asociados a su administración.
+
+	La utilización del placebo en los estudios clínicos debe estar ética y científicamente fundamentada.
+
+PLAN EXPERIMENTAL
+
+	Documento escrito en el que deben constar:
+
+a)El equipo de investigadores que llevará a cabo el estudio.
+
+b)El problema investigado y sus antecedentes en forma resumida.
+
+c)La pregunta que se trata de contestar y la respuesta probable ente términos de hipótesis.
+
+d)La descripción de la población, la muestra, los estímulos y las respuestas, que constituirán el experimento.
+
+e)La forma en que se ordenarán y agruparán en el tiempo y en el espacio los elementos descriptos en d), en lo que se denomina Diseño Experimental
+.
+f)Las tablas que describen el desarrollo del experimento en el tiempo y la oportunidad en que se aplicarán los estímulos y se medirán las respuestas.
+
+g)La forma y la intensidad de los estímulos aplicados.
+
+h)La forma en que se medirán las respuestas y las planillas o formularios en que éstas serán consignadas y ordenadas para tipificarlas y analizarlas.
+
+i)La forma en que se han asegurado los requisitos éticos y legales.
+
+POBLACIÓN DE RIESGO
+
+	Conjunto de personas con una determinada característica (biológica, psíquica o social) que se estima que posee mayor probabilidad de padecer una condición no deseada determinada por un medicamento.
+
+
+PODER DE UNA PRUEBA ESTADÍSTICA
+
+1-Beta
+
+	Capacidad de una prueba estadística para detectar diferencias significativas. Corresponde a 1-beta, donde beta es la probabilidad de cometer Error Beta o de Tipo II. El mínimo valor aceptado es 0,80.
+
+POSOLOGÍA
+
+Ver  DOSIFICACIÓN.
+
+POTENCIA FARMACOLÓGICA
+
+	Es la relación entre respuesta farmacológica e intensidad del estímulo (Respuesta farmacológica/Intensidad del estímulo = Respuesta farmacológica/Dosis o Concentración)
+
+PRECISIÓN
+
+	Es la concordancia entre los resultados obtenidos en una determinación analítica, utilizando repetidamente un procedimiento experimental, bajo condiciones establecidas. Estas últimas se definen específicamente en el caso de repetitibilidad y reproducidbilidad.
+
+PROBABILIDAD
+
+	Relación existente entre el número de casos "favorables" (con una determinada característica y casos "posibles"(Casos favorables + Casos posibles; Probabilidad= Casos favorables/Casos posibles), la probabilidad toma valores entre 0 y 1.
+
+
+PROCEDIMIENTOS OPERATIVOS NORMATIZADOS
+
+Manual de procedimientos. Standard Operanting Procedures; SOP
+
+	Instrucciones normatizadas, detalladas y escritas para la realización de un estudio clínico. Estos procedimientos proveen un sistema de ideas que permiten la eficiente implementación y cumplimiento de todas las funciones y actividades para un estudio clínico particular.
+
+PRODUCTO DE COMPARACIÓN
+
+	Medicamento o especialidad medicinal (incluyendo forma/s farmacéutica/s empleada como placebo), utilizadas como referencia en un estudio clínico.
+
+PRODUCTO EN INVESTIGACIÓN
+
+	Medicamento o especialidad medicinal o placebo ensayado o utilizado como referencia en un estudio clínico.
+PRODUCTO FARMACÉUTICO
+
+	Toda sustancia o combinación de sustancias que posee propósitos terapéuticos, profilácticos o diagnósticos, o se emplea para modificar funciones fisiológicas, que se presenta en forma de dosificación adecuada para su administración al ser humano.
+
+PRODUCTO FARMACÉUTICO SIMILAR
+
+	Es aquél que contiene el (los) mismo (s) principio (s) activo (s), en idéntica concentración ,la misma forma farmacéutica o su alternativa, la misma vía de administración, la misma indicación terapéutica, la misma posología, y que es equivalente al producto considerado de referencia, pudiendo diferir en características tales como: tamaño y forma, excipientes, período de vida útil, envase primario.
+
+PROGRAMA
+
+	Conjunto de instrucciones, fijando tiempo y espacio para la consecución de los objetivos establecidos.
+
+PROTOCOLO
+
+	Documento que establece los antecedentes, racionalidad y objetivos del ensayo y describe su diseño, metodología y organización, incluyendo consideraciones estadísticas y las condiciones bajo las cuales se ejecutará el estudio clínico. El Protocolo debe estar fechado y firmado por el Investigador/Institución involucrados y por el patrocinante (cuando corresponda). Puede en algunas circunstancias utilizarse como Contrato.
+
+PSICOFÁRMACO
+
+	1)Principio activo con acción farmacológica sobre los procesos mentales y que modifica la actividad psíquica.
+
+	2)En general, término aplicable a cualquier sustancia que afecta la mente. Específicamente se refiere a cualquier medicamento utilizado para el tratamiento de desórdenes o enfermedades mentales.
+
+PSICOTRÓPICO
+
+Ver PSICOFÁRMACO
+
+R
+
+RANGO DE DOSIS
+
+	Cantidad de medicamento (por ejemplo en mg) que se encuentra entre la mínima dosis efectiva y la máxima dosis efectiva y no tóxica.
+
+REACCIÓN ADVERSA
+
+	Es cualquier manifestación nociva ,clínica y/o biológica imputable (de acuerdo a criterios establecidos de imputabilidad), a un medicamento y/o especialidad medicinal, que ocurre a la/s dosis habitualmente utilizada/s en el ser humano para la profilaxis, diagnóstico o tratamiento de una enfermedad o para la modificación de funciones fisiológicas. En los estudios clínicos, las alteraciones causadas por sobredosis, abuso/dependencia e interacciones con cualquier otro principio activo, medicamento ,especialidad medicinal, alimento, etc., se deberá considerar reacción adversa.
+
+REACCIÓN ADVERSA GRAVE
+
+Ver EVENTO ADVERSO SERIO.
+
+REPETITIBILIDAD
+
+	Condiciones en las que los resultados o valores observados en las pruebas analíticas se obtienen utilizando el mismo método analítico aplicado al mismo material de análisis, en el mismo laboratorio, por el mismo operador, utilizando el mismo equipamiento, dentro del más corto espacio de tiempo.
+
+REPRODUCIBILIDAD
+
+	Es la precisión que mide la variabilidad entre los resultados de las mediciones efectuadas sobre una misma muestra en diferentes laboratorios.
+
+RESULTADOS
+
+	Información obtenida luego de haber finalizado el estudio y que debe ser analizada estadísticamente y comparada con otra información propia o ajena.
+Generalmente los resultados dan origen a nuevas hipótesis
+.
+RIESGO EN LA INVESTIGACIÓN CLÍNICA
+
+	Es la probabilidad que una persona sufra algún daño como consecuencia inmediata o tardía de un estudio clínico.
+
+	A los efectos de la presente norma, se consideran las siguientes categorías:
+
+CATEGORÍA I (INVESTIGACIÓN SIN RIESGO): Comprende los estudios que utilizan técnicas observacionales, con las que no se realiza ninguna intervención o modificación intencional en las variables fisiológicas, psicológicas o sociales de las personas que participan en el estudio. por ejemplo encuestas, cuestionarios, entrevistas, revisión de historias clínicas u otros documentos, que no invadan la intimidad de la persona.
+
+CATEGORÍA II (INVESTIGACIÓN CON RIESGO MÍNIMO):  Comprende estudios o el registro de datos por medio de procedimientos diagnósticos de rutina (físicos o psicológicos). Por ejemplo, electrocardiograma, audiometría, termografía, tomografía, ultrasonografía, extracción dentaria(cuando está indicada), extracción de sangre con frecuencia máxima de dos (2) veces por semana, ejercicio moderado en voluntarios sanos, pruebas psicológicas individuales o grupales con las cuales no se manipula la conducta de la/s persona/s, utilización de medicamentos o especialidades medicinales autorizadas, de empleo común y amplio margen terapéutico(utilizados para indicaciones, dosis y vías de administración establecidas).
+CATEGORÍA III (INVESTIGACIÓN CON RIESGO MAYOR): Comprende a los estudios clínicos en los que las probabilidades de afectar a una persona son significativas. Por ejemplo, estudios que se realizan con medicamentos y/o especialidades medicinales nuevas, nuevos dispositivos, procedimientos invasivos (punción lumbar, cateterismo) o utilización de placebo.
+
+S
+
+SEGURO DE CALIDAD DEL ESTUDIO CLÍNICO
+
+	Sistema, procesamiento y  procedimientos de control de calidad que se han establecido para asegurar que el estudio clínico sea realizado y los datos sean generados cumpliendo las Buenas Prácticas de Investigación Clínica. Incluye procedimientos de seguimiento aplicables a conductas éticas y profesionales , Procedimientos Operativos, comunicaciones y calificación profesional y/o personal.
+
+SENSIBILIDAD
+
+	Es la capacidad de una prueba de detectar sujetos reactivos a la misma, cuando dichos sujetos padecen la enfermedad (Veraderos positivos)
+
+SESGO
+
+	Es el desplazamiento de todas las observaciones obtenidas de una muestra en relación al valor real o aceptado. También se acepta su empleo para referirse a un error sistemático o consistente en los resultados de una prueba.
+
+SIGNIFICACIÓN ESTADÍSTICA
+
+Nivel de significación; Nivel de significancia; Significancia estadística; Alfa
+
+	Probabilidad (p) de cometer un Error Alfa o Error de Tipo I, expresada en porcentaje y denominada alfa. Los valores de Alfa generalmente utilizados son 5% y 1%, correspondiendo a p=0,05 y p=0,01.
+
+SIMILAR : ver producto farmacéutico similar.
+
+T
+
+TESTIGO
+
+	Un testigo independiente es una persona imparcial que no está influenciada por ninguna de las personas involucradas en el estudio clínico, que asiste al proceso del consentimiento informado, firmando y fechando dicho consentimiento.
+
+
+TRATAMIENTO PERMITIDO
+
+	Cualquier tratamiento suministrado a los pacientes incorporados al estudio  para el alivio de los síntomas causados por la enfermedad investigada  en el estudio clínico. Este tipo de tratamiento frecuentemente se emplea para el alivio del dolor en los estudios controlados con placebo.
+
+U
+
+UNIDAD DE MEDIDA
+
+	Expresa el concepto homogéneo en que se señalan las cuantificaciones en la programación.
+
+	Se cuantifica con el objeto de controlar y evaluar el programa y sus partes componentes
+
+V
+
+VALIDACIÓN
+
+	Acción que determina, de acuerdo con los principios de Buenas Prácticas de Investigación Clínica, que los procedimientos, procesos, equipos, material, actividades o sistemas, realmente conducirán a los resultados esperados.
+
+VENTANA TERAPÉUTICA
+
+	Cociente entre la Concentración Máxima Efectiva (No tóxica) y la Concentración Mínima Efectiva. Se estima que debe realizarse el seguimiento de dosificación de los pacientes que reciben principios activos con una Ventana Terapéutica igual o menor que 2 (dos).
+
+VERDADERO NEGATIVO
+
+	Ver ESPECIFICIDAD.
+
+VERDADERO POSITIVO
+
+	Ver SENSIBILIDAD.
+
+VERIFICACIÓN (VALIDACIÓN) DE DATOS
+
+
+46

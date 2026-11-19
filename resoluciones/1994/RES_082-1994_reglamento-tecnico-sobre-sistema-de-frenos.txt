@@ -1,0 +1,200 @@
+Resolución GMC N° 82/94
+Título: REGLAMENTO TÉCNICO SOBRE SISTEMA DE FRENOS
+Fecha de aprobación: 15/12/1994
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 29365_RES_082_1994_ES_Sistema de Frenos.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2148).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES No. 82/94
+
+
+REGLAMENTO TECNICO SOBRE SISTEMA DE FRENOS
+
+
+      VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión No. 4/91 del Consejo del Mercado Común, la Resolución No. 91/93 del Grupo Mercado Común y la Recomendación No. 50/94 del SGT No. 3  "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que los vehículos deben cumplir una serie de requisitos técnicos en virtud de las reglamentaciones nacionales respectivas, entre ellas las correspondientes a los procedimientos para evaluación y aprobación de SISTEMAS DE FRENOS.
+
+Que, analizados los requisitos establecidos en el Decreto 875/94 de Argentina y en la Resolución CONTRAN 777/93 del Brasil, son equivalentes y siguen los principios del reglamento ECE R-13.
+
+Que los mencionados requisitos en los Estados Partes no deben crear obstáculos técnicos al intercambio comercial y a la libre circulación de vehículos, que podrían ser eliminados a través de la adopción de una reglamentación común por parte de los Estados Partes, por lo tanto adoptarse alternativamente el procedimiento en vigencia con relación a la evaluación del SISTEMA DE FRENOS.
+
+Que es necesario, por lo tanto, adoptar las medidas necesarias destinadas al establecimiento progresivo de la integración, que implica en un espacio sin fronteras interiores, garantizándose la libre circulación de bienes, servicios y factores productivos con mayor fluidez.
+
+Para tal fin, los Estados Partes han acordado adecuar sus legislaciones de manera a posibilitar el libre intercambio de vehículos, sus partes y accesorios.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Artículo 1 - Los procedimientos de evaluación y aprobación del Sistema de Frenos deben ser realizados de acuerdo al Decreto 875/94, art. 27, inciso a), Anexo A, de Argentina, o conforme a la Resolución CONTRAN 777/93 de Brasil, o aún de acuerdo al Reglamento de la Comisión Económica Europea (ECE R 13).
+
+Artículo 2 - Para la presentación de los resultados, se utilizará el formulario de acuerdo al modelo establecido en el Anexo 1 de esta Resolución.
+
+Artículo 3 - La presentación de los resultados se implementará de acuerdo al siguiente cronograma:
+a) Vehículos de las categorías M1, M1 (a) - 1º de enero de 1996
+b) Vehículos de las categorías M1 (b), M2, M3, N1, N2, N3 - 1º de enero de 1996
+
+Artículo 5 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, por intermedio de los siguientes organismos:
+
+Argentina: 	  Secretaría de Transporte
+Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor y Créditos Prendarios
+
+Brasil:		Ministério da Justiça
+Secretaria de Trânsito. Departamento Nacional de Trânsito
+
+Paraguay: 	Ministerio de Obras Públicas y Comunicaciones
+
+Uruguay: 	Ministerio de Transporte y Obras Públicas
+Ministerio de Industria, Energía y Minería
+
+Artículo 6 - La presente Resolución entrará en vigencia el 1º de enero de 1995.
+
+
+XVI GMC - Ouro Preto, 15/XII/1994
+
+ANEXO
+
+SISTEMA DE FRENOS
+
+FORMULARIO PARA PRESENTACION DE LOS RESULTADOS DE LOS ENSAYOS DEL SISTEMA DE FRENO
+
+NOMBRE DEL ORGANISMO CERTIFICADOR
+
+1.-	VEHICULOS EN GENERAL
+1.1- Razón Social y dirección del fabricante
+1.2- Marca del vehículo
+1.3- Categoría
+1.4- Tipo de vehículo
+1.5- Nombre o dirección del representante del fabricante (si es necesario)
+1.6- Peso máximo del vehículo
+1.7- Distribución de peso por eje (valor máximo)
+1.8- Marca y clasificación de los materiales de fricción
+
+2.-	PARA VEHICULOS MOTORIZADOS
+2.1 Tipo de motor
+2.2 Número de cambios y relación de los mismos
+2.3 Relación final de la transmisión
+2.4 (Si es necesario), peso del vehículo que puede ser acoplado
+
+3.-	OTRAS INFORMACIONES
+3.1 Dimensiones de las cubiertas
+3.2 Número y disposición de los ejes
+3.3 Descripción del sistema de frenos
+
+4.-	PESO DEL VEHICULO DURANTE EL ENSAYO
+		CARGADO (KG)		DESCARGADO (KG)
+EJE N° 1   ----------------------------			-----------------------------------
+EJE N° 2   -----------------------------		-----------------------------------
+EJE N° 3   -----------------------------		-----------------------------------
+EJE N° 4   -----------------------------		-----------------------------------
+
+5.-	RESULTADOS DE LOS ENSAYOS
+VELOCIDAD		DESEMPEÑO	      FUERZA
+DEL ENSAYO	MEDIDO	                APLICADA
+                           Km/h	     FRENO	FRENO       FRENO   FRENO
+			                         SECO     MOJADO      SECO	 MOJADO
+
+
+5.1
+ENSAYO TIPO O
+MOTOR DESACOPLADO SISTEMA
+FRENO DE EMERGENCIA      -----------------------	----------------	-------------------	 ------------------	 -------------------
+
+
+SISTEMA DE FRENO
+DE EMERGENCIA     -----------------------		-----------------	---------------------------------------	--------------------
+
+5.2
+ENSAYO TIPO-O
+MOTOR ACOPLADO SISTEMA
+FRENO DE SERVICIO  ----------------------		------------------	---------------------	---------------------	---------------------
+
+5.3
+ENSAYO TIPO I
+FRENADAS REPETIDAS (2)-----------------	-------------------	---------------------	---------------------	---------------------
+
+5.4
+ENSAYO TIPO -II
+Y TIPO II BIS (O
+CORRESPONDIENTE) (4)
+SISTEMA DE FRENO
+DE SERVICIO                      -----------------	--------------------	--------------------	---------------------	---------------------
+
+5.4.1 Fue utilizado el sistema de freno de emergencia durante los ensayos de TIPO-II BIS - si o no (4)
+
+5.4.2 Tiempo de reacción y dimensiones de la tubulación flexible
+
+
+5.4.2.1. Tiempo de reacción en el sistema de frenos .....................(segundo)
+
+5.4.2.2. Tiempo de reacción en la cabeza del acoplamiento de la línea de control ..................... (segundos)
+
+
+5.4.2.3. Tubulación flexible para unidades de tracción y semirremolques
+Largo .........................................................(metros)
+Diámetro interno.................................. (milímetros)
+
+5.5	Los vehículos están o no están equipados para la tracción de remolques con freno eléctrico.
+
+6.-	El vehículo fue sometido al test en .......................................................
+7.-	Organismo técnico que efectuó el ensayo (certificador)
+8.-	Número de informe
+9.-	Fecha de la realización
+10.-	Aprobación: Concedida o reprobada (5)
+11.-	Lugar/fecha/
+12.-	 Firma
+
+
+----------------------------------------
+
+(2) Se aplica solamente a los vehículos de las categorías L(3), L(4), L(5),
+M(1), M(2), M(3), M(1), M(2), M(3).
+(3) Se aplica solamente a los vehículos de las categorías 0(2), 0(3) e 0(4)
+(4) Tomar una determinación con respecto a lo que sea aplicado
+(5) Informar donde es aplicable
+
+
+Resolución N° 777, de 17 DICIEMBRE DE 1993
+
+DISPONE SOBRE LOS PROCEDIMIENTOS PARA EVALUACION DEL SISTEMA DE FRENOS DE VEHICULOS
+
+	El CONSEJO NACIONAL DE TRANSITO, en uso de las atribuciones que le otorga el artículo 5°, inciso V, de la Ley N° 5.108, de 21 de setiembre de 1966, que instituyó el Código Nacional de Tránsito, con las modificaciones introducidas por el Decreto Ley N° 237, de 28 de febrero de 1967 y, el artículo 9°, inciso XVII, del Reglamento del referido Código, aprobado por el Decreto N° 62.127, de 16 de enero de 1968, y
+
+	CONSIDERANDO la evolución alcanzada por la industria nacional de fabricación de vehículos automotores, haciéndolos compatibles con la evolución tecnológica internacional;
+
+	CONSIDERANDO que los vehículos pesados: camiones, ómnibus, remolques y semirremolques, no están comprendidos en la Resolución CONTRAN 643/73 en vigencia, que se refiere a la exigencia y especificaciones de ensayos y tests de sus componentes, dirigidos al sistema de frenos y la eficacia de esos equipos;
+
+	CONSIDERANDO que las normas ABNT N° 1253, NB 1254, NB 1255, MB 3160 y MB 3161, se basan en los Reglamentos de la Comunidad Europea - ECE - R13;
+
+	CONSIDERANDO la deliberación tomada por la CONTRAN en la Reunión Ordinaria del 17 de diciembre de 1993, según consta en el Expediente N° 292/93, resuelve;
+
+	Art. 1°.- Adoptar a partir del 1º de enero de 1994, las Normas Brasileñas ABNT Nos. NB 1253, NB 1254, NB1255, MB 3160 y MB 3161, como método de ensayo y requisitos mínimos para evaluación del sistema de frenos de vehículos automotores.
+
+	Art. 2° - Todo vehículo automotor, remolque, semirremolque con peso bruto total superior a 500 kg, nuevo, nacional o importado, deberá atender los requisitos mínimos de desempeño del sistema de frenos, establecidos para cada categoría de vehículo, dentro de las siguientes condiciones:
+
+	I - Los automóviles y vehículos derivados de ellos en proceso de producción podrán, opcionalmente, presentar los resultados de comprobación de atención a esta Resolución, a través de los requisitos establecidos por la Resolución CONTRAN 463/73, inciso 5 o por los requisitos establecidos por las normas ABNT citadas en el art. 1°.
+
+	II - A partir de los 180 días de publicada esta Resolución, los automóviles y vehículos de ellos derivados, originarios de nuevos proyectos, que necesiten la comprobación del sistema de frenos, deberán atender los requisitos establecidos por las normas ABNT en su Art. 1°.
+
+	III - Para los vehículos de carga (camionetas, camiones, remolques y semirremolques), vehículos mixtos y vehículos de transporte de pasajeros  (micro ómnibus y ómnibus), se concederá un plazo de 24 meses a contar de la fecha de publicación de esta Resolución, para la comprobación de los requisitos a ellos aplicables, establecidos en las normas ABNT citadas en el Art. 1°.
+
+	Art. 3° - Queda a criterio del organismo gubernamental competente admitir a los efectos de la comprobación de atención a las exigencias de esta Resolución, los resultados de tests y ensayos realizados a través de procedimientos similares de la misma eficacia, realizados en el exterior.  Serán también reconocidos los resultados de ensayos emitidos por un organismo acreditado por la Comisión o Comunidad Europea, de conformidad con los procedimientos adoptados por esos organismos.
+
+	Art. 4° - DENATRAN podrá, en cualquier momento, solicitar a las empresas fabricantes y/o importadoras de vehículos la presentación de los resultados de ensayos que comprueben la atención a las exigencias establecidas en esta Resolución.
+
+Art 5° - Esta Resolución entrará en vigencia en la fecha de su publicación, revocadas las disposiciones contrarias.
+
+
+ORESTES KUNZE BASTOS		KASUO SAKAMOTO
+  Presidente do CONTRAN			           Relator
+
+
+		    CARLOS EDUARDO DE SOUSA LEMOS
+				Relator
+
+
+2

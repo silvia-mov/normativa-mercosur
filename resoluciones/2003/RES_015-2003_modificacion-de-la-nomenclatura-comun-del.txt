@@ -1,0 +1,306 @@
+Resolución GMC N° 15/03
+Título: MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+Fecha de aprobación: 23/09/2003
+Vigencia: Vigente (Vigente desde el 18/11/2004 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 13638_RES_015-2003_ES_Modif NCM y AEC.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/938).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 15/03
+
+
+MODIFICACIÓN DE LA NOMENCLATURA COMÚN DEL MERCOSUR Y SU CORRESPONDIENTE ARANCEL EXTERNO COMÚN
+
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Decisiones Nos 7/94, 22/94, 15/97, 67/00, 06/01 y 21/02 del Consejo del Mercado Común y las Resoluciones N° 60/00 y 65/01 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que se hace necesario ajustar la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, instrumentos esenciales de la Unión Aduanera.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la "Modificación de la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común", en sus versiones en español y portugués, que figuran como Anexo y forman parte de la presente Resolución.
+
+Art. 2 - Al momento de incorporar a sus respectivas legislaciones nacionales los niveles arancelarios establecidos en el Anexo, los Estados Partes deberán observar lo dispuesto en la Dec. CMC Nº 15/97, modificada y prorrogada por las Dec. CMC Nº  67/00, 06/01 y 21/02.
+
+Art. 3 - Las modificaciones a la Nomenclatura Común del MERCOSUR y su correspondiente Arancel Externo Común, aprobadas por la presente Resolución, tendrán vigencia a partir del 1º de enero de 2004, debiendo los Estados Partes asegurar su incorporación a sus respectivos ordenamientos jurídicos nacionales antes de esa fecha.
+
+
+      LI GMC - Montevideo, 23/IX/03
+
+ANEXO
+
+VERSIÓN EN ESPAÑOL
+
+
+SITUACIÓN ACTUAL
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC
+%
+NCM
+DESCRIPCIÓN
+AEC
+%
+8406.90.00
+- Partes
+14BK
+8406.90
+- Partes
+
+
+8406.90.1
+Rotores
+
+
+8406.90.11
+De turbinas de reacción, de múltiples etapas
+
+0 BK
+
+
+8406.90.19
+Los demás
+14BK
+
+
+8406.90.2
+Álabes
+
+
+8406.90.21
+Fijos (de estator)
+0 BK
+
+
+8406.90.29
+Los demás
+14BK
+
+
+8406.90.90
+Las demás
+14BK
+8414.80.33
+Centrífugos
+14BK
+8414.80.33
+Centrífugos,  de caudal máximo inferior a 22.000 m3/h
+
+
+14BK
+
+
+8414.80.38
+Los demás compresores centrífugos
+
+0 BK
+8421.99.90
+Las demás
+14BK
+8421.99.9
+Las demás
+
+
+8421.99.91
+Cartuchos de membrana de aparatos de ósmosis inversa
+
+
+0 BK
+
+
+8421.99.99
+Las demás
+14BK
+8439.99.00
+- - Las demás
+14BK
+8439.99
+- - Las demás
+
+
+8439.99.10
+Rodillos, corrugadores o de presión, de máquinas onduladoras, con un ancho útil superior o igual a 2.500 mm
+
+
+0BK
+
+
+8439.99.90
+Las demás
+14BK
+8461.40.1
+De control numérico
+
+8461.40.10
+De control numérico
+0BK
+8461.40.11
+Dentadora tipo "Pfauter"
+14BK
+
+
+8461.40.12
+Redondeadora de dientes
+
+14BK
+
+
+8461.40.19
+Las demás
+14BK
+
+
+8515.31.00
+- - Total o parcialmente automáticos
+
+14BK
+8515.31
+- - Total o parcialmente automáticos
+
+
+8515.31.10
+Robotes de soldar, de arco, en atmósfera inerte (MIG-"Metal Inert Gas") o atmósfera activa (MAG-"Metal Active Gas"), de control numérico
+
+
+0BK
+
+
+8515.31.90
+Los demás
+14BK
+8532.21.10
+Aptos para montaje en superficie (SMD-"Surface Mounted Device")
+
+
+16BIT
+8532.21.1
+Aptos para montaje en superficie (SMD-"Surface Mounted Device")
+
+
+8532.21.11
+Con tensión de aislación inferior o igual a 125 V
+
+0BIT
+
+
+8532.21.19
+Los demás
+16BIT
+
+SITUACIÓN ACTUAL
+MODIFICACIÓN APROBADA
+NCM
+DESCRIPCIÓN
+AEC
+%
+NCM
+DESCRIPCIÓN
+AEC
+%
+8604.00.00
+VEHÍCULOS PARA EL MANTENIMIENTO O SERVICIO DE VÍAS FÉRREAS O SIMILARES, INCLUSO AUTOPROPULSADOS (POR EJEMPLO: VAGONES TALLER, VAGONES GRÚA, VAGONES EQUIPADOS PARA APISONAR BALASTO, ALINEAR VÍAS, COCHES PARA ENSAYOS Y VAGONETAS DE INSPECCIÓN DE VÍAS)
+
+
+14BK
+8604.00
+VEHÍCULOS PARA EL MANTENIMIENTO O SERVICIO DE VÍAS FÉRREAS O SIMILARES, INCLUSO AUTOPROPULSADOS (POR EJEMPLO: VAGONES TALLER, VAGONES GRÚA, VAGONES EQUIPADOS PARA APISONAR BALASTO, ALINEAR VÍAS, COCHES PARA ENSAYOS Y VAGONETAS DE INSPECCIÓN DE VÍAS)
+
+
+8604.00.10
+Autopropulsados, equipados para apisonar balasto y alinear vías férreas
+
+
+0BK
+
+
+8604.00.90
+Los demás
+14BK
+9007.20.90
+Los demás
+14BK
+9007.20.9
+Los demás
+
+
+9007.20.91
+Para película cinematográfica (filme) de anchura superior o igual a 35 mm pero inferior o igual a 70 mm
+
+
+0BK
+
+
+9007.20.99
+Los demás
+14BK
+9018.50.00
+- Los demás instrumentos y aparatos de oftalmología
+
+14BK
+9018.50
+- Los demás instrumentos y aparatos de oftalmología
+
+
+9018.50.10
+Microscopios binoculares, de los tipos utilizados en cirugía oftalmológica
+
+
+0BK
+
+
+9018.50.90
+Los demás
+14BK
+9022.29.00
+- - Para otros usos
+14BK
+9022.29
+- - Para otros usos
+
+
+9022.29.10
+Para detección de nivel de llenado o tapas faltantes, en latas de bebidas, mediante rayos gamma
+
+
+0BK
+
+
+9022.29.90
+Los demás
+14BK
+9031.49.00
+- - Los demás
+14BK
+9031.49
+- - Los demás
+
+
+9031.49.10
+Para medida de parámetros dimensionales de fibras de celulosa, mediante rayos láser
+
+
+0BK
+
+
+9031.49.20
+Para medida del espesor de neumáticos de vehículos automóviles, mediante rayos láser
+
+
+0BK
+
+
+9031.49.90
+Los demás
+14BK
+
+
+2
+
+
+3

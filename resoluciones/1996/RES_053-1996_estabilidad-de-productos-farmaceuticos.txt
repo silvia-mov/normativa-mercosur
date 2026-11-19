@@ -1,0 +1,223 @@
+Resolución GMC N° 53/96
+Título: ESTABILIDAD DE PRODUCTOS FARMACÉUTICOS
+Fecha de aprobación: 21/06/1996
+Vigencia: Vigente (Vigente desde el 21/06/2002 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 24418_RES_053-1996_ES_EstabProdFarma.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1795).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 53/96
+
+
+ESTABILIDAD DE PRODUCTOS FARMACÉUTICOS
+
+
+      VISTO: el Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión 3/94 del Consejo del Mercado Común; las Resoluciones Nº 91/93 y 23/95 del Grupo Mercado Común y las Recomendaciones Nº 3/95 y 21/96 del S.G.T. Nº 3 - "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+Que en la Reunión Ordinaria de la Comisión de Productos para la Salud (Subgrupo de Trabajo Nº 3 - Reglamentos Técnicos) realizada en Montevideo, los días 10 al 13 de Junio de 1996, se continuó con el tratamiento del tema Registro de Productos Farmacéuticos para la aplicación de la Resolución GMC Nº 23/95 .
+
+Que en la reunión mencionada se aprobó el Reglamento técnico denominado: " Estabilidad de productos farmacéuticos" para la aplicación de la Resolución GMC Nº 23/95 .
+
+Que la armonización de la operatoria para el registro de Productos Farmacéuticos en los Estados Partes se encuentran listadas en los Anexos de la Decisión Nº 3/94 del GMC., Restricciones No Arancelarias, como medida a ser armonizada.
+
+Que el documento aprobado oportunamente, por la Resolución GMC. Nº 23/95, constituye una parte del Reglamento del Registro de Productos Farmacéuticos.
+
+Que se hace necesario el dictado de normas complementarias para la operativización de la Resolución mencionada.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1.- Aprobar el Reglamento técnico denominado: "Estabilidad de productos farmacéuticos" para la aplicación de la Resolución GMC Nº 23/95, que consta como Anexo I y forma parte de la presente Resolución.-
+
+Art. 2.- Los Estados Partes, pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+ARGENTINA A.N.M.A.T. (Administración Nacional de Medicamentos, Alimentos y Tecnología Médica)
+MINISTERIO DE SALUD Y ACCIÓN SOCIAL
+
+BRASIL Secretaria de Vigilância Sanitária de Ministério da Saúde
+
+PARAGUAY Dirección de Vigilancia Sanitaria del Ministerio de Salud
+Pública y Bienestar Social
+
+URUGUAY Ministerio de Salud Pública
+
+Art. 3.- La presente Resolución entrará en vigor en el MERCOSUR el 1º de agosto de 1996.
+
+XXII GMC, Buenos Aires, 21/VI/1996.
+
+
+REGLAMENTO TÉCNICO MERCOSUR
+ESTABILIDAD DE PRODUCTOS FARMACÉUTICOS
+
+1. Objetivo 2. Ámbito de Aplicación
+3. Definiciones 4. Tipos de Estudio
+5. Procedimientos 6. Disposiciones Generales
+1. OBJETIVO
+Establecer las metodologías para la determinación del período de vida útil de un producto de uso farmacéutico.
+
+2. ÁMBITO DE APLICACIÓN
+Esta reglamento se aplica a todos los productos farmacéuticos en el MERCOSUR.
+
+3. TIPOS DE ESTUDIO
+
+3.1. Estudio de Estabilidad Acelerada
+Son estudios destinados a aumentar la velocidad de degradación química y la modificación física de una sustancia y/o alteraciones de características de la forma farmacéutica, usando condiciones forzadas de almacenamiento, con el propósito de monitorear las reacciones de degradación a prever el plazo de validez en las condiciones normales de almacenamiento.
+
+3.2. Estudio de Estabilidad de Larga Duración
+Son validaciones de los experimentos en relación a las características físicas, químicas, biológicas y microbiológicas del producto, durante y después del plazo de validez esperado.
+
+4. PROCEDIMIENTOS
+4.1. Muestreo
+
+4.1.1. Para los fines de registro : 3 lotes
+Los lotes muestreados deberán ser representativos del proceso de fabricación, tanto del piloto como de la escala industrial. Cuando fuese posible, los lotes deben ser fabricados con números de lotes diferentes de principios activos.
+4.1.2. Deben constar en el registro del estudio, todos los detalles sobre el lote, a saber :
+Número de lote Fecha de Fabricación
+Tamaño del lote Tipo de Material de Acondicionamiento
+Condiciones de Almacenamiento Número de Muestras testeadas por lote
+Resultado de los Ensayos Número de Muestras analizadas por
+período.
+
+4.2. Condiciones de los Ensayos
+
+4.2.1. Condiciones Preliminares
+4.2.1.1. El programa de estudio de estabilidad debe someter a consideración el mercado para el cual está destinado el producto y las zonas climáticas en que será utilizado.
+A los fines de estudios mundiales, son reconocidas 4 zonas climáticas :
+Zona Climática Definición Condición de
+Almacenamiento
+
+l Templada 21ºC - 45 % HR
+ll Subtropical con posible
+humedad elevada 25ºC - 60 % HR
+lll Caliente / Seca 30ºC - 35 % HR
+IV Caliente / Húmeda 30ºC - 70 % HR
+Deben aplicarse las condiciones de la Zona ll, cuando el producto esté destinado a climas templados.
+Para países situados en Zona lll o IV y productos destinados al mercado mundial el ensayo debe realizarse en las condiciones de la Zona IV.
+4.2.1.2. El estudio de estabilidad debe estar basado variando los grados de :
+Temperatura / Tiempo / Humedad Relativa
+Intensidad de luz / Presión parcial de vapor
+4.2.1.3. Para algunas formas farmacéuticas, cuyas características necesiten o exijan, como un líquido o un semi-sólido, debe también considerarse las siguientes temperaturas:
+- por debajo de cero (-10ºC a -20ºC)
+- ciclos de congelamiento y descongelamiento
+- temperaturas entre 2ºC a 8ºC de heladera
+
+4.2.2. Estudios acelerados
+4.2.2.1. Las condiciones del ensayo serán determinadas por la zona climática a la cual el producto será destinado y también por la forma farmacéutica del mismo.
+4.2.2.2. Los estudios acelerados no son recomendables para las formas semisólidas y las formulaciones heterogéneas como las emulsiones.
+4.2.2.3. Temperaturas alternativas
+
+Zona climática Definición Condiciones forzadas de almacenamiento
+
+I Templada 40°C - 75%HR - 3 meses
+II Subtropical con 40°C - 75%HR - 3 meses
+posible humedad alta
+III Cálida y seca 40°C - 75%HR -6 meses o
+50°C - 90%HR - 3 meses
+IV Cálida y húmeda 40°C - 75%HR -6 meses o
+50°C - 90%HR - 3 meses
+HR = Humedad relativa
+Cuando se trate de formas farmacéuticas sólidas en envases semipermeables, se debe realizar el almacenamiento en condiciones de alta humedad relativa.
+Cuando el producto se envase en recipientes que representen una barrera para el vapor de agua, no existe necesidad de realizar un almacenamiento en condiciones de alta humedad relativa.
+
+4.2.3. Estudios de larga duración
+4.2.3.1. Las condiciones experimentales de almacenamiento deben ser lo mas próximo posible a aquellas bajo las cuales el producto será almacenado en el mercado.
+4.2.3.2 Para el registro de un producto es necesario disponer de un estudio de por lo menos 6 meses de duración.
+
+4.3. Frecuencia de los ensayos
+4.3.1. Durante la etapa de desarrollo del producto y como base para un procedimiento de registro del mismo, la frecuencia de los ensayos debe ser:
+Para los Estudios acelerados: 0, 1, 2, 3 y cuando corresponda 6 meses
+Para los Estudios de larga duración: 0, 6, 12 meses y después de este período, una vez al año.
+4.3.2. En los casos de un monitoreo continuo, los lotes pueden ser ensayados cada año, siempre que no hayan sido introducidas modificaciones.
+
+4.4. Métodos analíticos
+4.4.1. Se debe adoptar un procedimiento sistemático en la presentación y evaluación de la estabilidad.
+Se deben incluir ensayos de evaluación de características físicas, químicas y biológicas.
+4.4.2. Se deben incluir también todos los parámetros que tengan posibilidad de ser afectados por el estudio de estabilidad, tales como:
+Valoraciones; ensayos para productos de descomposición; todos los ensayos físicoquímicos que permitan evaluar de manera efectiva la forma farmacéutica en estudio; ensayos de disolución para formas sólidas o semisólidas de productos orales.
+4.4.3. Los métodos de valoración deben ser validados, los desvíos standard registrados y deben ser indicadores de estabilidad.
+4.4.4. Los ensayos para determinar compuestos relacionados o productos de descomposición deben ser validados y deben ser sensibles y específicos.
+4.4.5. Se deben realizar ensayos para probar la eficacia de sustancias tales como los agentes antimicrobianos, para conocer si garantizan la eficacia hasta su fecha de vencimiento.
+
+4.5. Informe del estudio de estabilidad
+4.5.1. Se debe realizar un informe de estudio de estabilidad para uso interno y para los fines del registro del producto detallando:
+- Los alcances del estudio
+- La planificación del estudio
+- Los resultados
+- Las conclusiones
+4.5.2. Los resultados se deben presentar bajo la forma de tablas o gráficos.
+4.5.3. Para cada lote deben figurar los resultados iniciales del ensayo y los obtenidos a diferentes tiempos de almacenamiento.
+4.5.4. La evaluación de la estabilidad de un producto en su envase primario, la propuesta de un período de vida útil para el mismo y las condiciones de almacenamiento y distribución, se deben basar en esos resultados.
+4.5.5. Se debe realizar un resumen claro y objetivo del Estudio de estabilidad tal como consta en el Anexo I.
+
+5. DISPOSICIONES GENERALES
+5.1. Los ensayos de Estabilidad Acelerada permiten establecer un período de vida útil provisorio. Se deben complementar con Estudios de Larga Duración realizados en las condiciones de almacenamiento determinadas para el producto. Forman parte de un programa serio de estabilidad.
+5.2. Los resultados de los estudios de Estabilidad de Larga Duración se emplean para:
+- establecer el período de vida útil;
+- confirmar el período de vida útil proyectado;
+- recomendar las condiciones de almacenamiento.
+5.3. Los estudios de Estabilidad Acelerada para la determinación del período de vida útil y las condiciones de almacenamiento, pueden ser aceptados provisoriamente por un período de 6 meses como requisito para el registro de un producto farmacéutico.
+5.4. Vencido el período definido como provisorio, el período de vida útil debe ser confirmado mediante la presentación de un estudio de Estabilidad de Larga Duración.
+5.5. El período de vida útil se determina siempre de acuerdo con las condiciones de almacenamiento
+5.6. Si los lotes de un determinado producto presentan diferentes perfiles de estabilidad, el período de vida útil propuesto debe ser aquél basado en el lote menos estable.
+5.7. Se puede establecer un período de vida útil tentativo de 24 meses cuando:
+- el principio activo se considera estable;
+- los estudios realizados de acuerdo con lo enunciado en "Condiciones para los Ensayos" resultaran positivos;
+- Existen datos indicativos de que formulaciones similares tienen período de vida útil de 24 meses o más;
+- hubiera continuidad en los Estudios de Larga Duración hasta alcanzar el período de vida útil.
+5.8. Los productos que contienen principios activos menos estables o formulaciones no adecuadas para el almacenamiento a altas temperaturas, deberán tener un Estudio de Larga Duración más prolongado. En este caso el período de vida útil propuesto no debe exceder 2 veces el período cubierto por el Estudio de Larga Duración
+5.9. Después de evaluar la estabilidad, el producto puede ser rotulado de acuerdo con las siguientes condiciones de almacenamiento:
+- mantener a temperatura ambiente(15°C a 30°C)
+- mantener entre 2°C y 8°C, bajo refrigeración
+- mantener debajo de 8°C, Bajo refrigeración
+- mantener congelado (-5°C a -20°C)
+- mantener debajo de -18°C
+5.10 . Las informaciones adicionales tales como:
+- proteger de la luz
+- mantener en lugar seco
+Se deben incluir, siempre y cuando no sea para ocultar problemas de estabilidad.
+5.11. En el caso de productos que requieran reconstitución o dilución, debe constar:
+- el período por el cual el producto mantiene su estabilidad después de la reconstitución, en condiciones de almacenamiento determinadas.
+Los estudios se deben realizar utilizando el diluyente especificado para la reconstitución del producto o, si existiera más de uno, con aquél que se estime obtener un producto reconstituido menos estable, en las condiciones de temperatura más desfavorables.
+
+
+ANEXO I
+
+FICHA DE ESTUDIO DE ESTABILIDAD
+
+ESTUDIOS ACELERADOS Y DE LARGA DURACIÓN
+
+Nombre del producto ............................................ ...........................................
+Principio activo:.................................................................................................
+Forma farmacéutica: .........................................................................................
+Material de envase primario:.............................................................................
+Número de lote Fecha de fabricación Fecha de
+vencimiento
+......................... ........../............/........... ............/........../............
+......................... ........../............/........... ............/........../............
+......................... ........../............/........... ............/........../............
+Período de vida útil: ......... año(s) ......... mes(es)
+Tamaño del lote Tipo de lote(experimental, piloto, producción)
+........................... ............................................................................
+........................... ............................................................................
+........................... ............................................................................
+Número de muestras ensayadas (por lote) ..............................................
+Condiciones de almacenamiento/ensayo
+Temperatura .........°C Humedad ............%
+Luz .......... Lux Presión ............
+Resultados
+Se deben registrar los resultados de todos los ensayos realizados.
+1 - Químicos
+2 - Microbiológicos
+3 - Biológicos
+4 - Físicos
+5 - Conclusiones
+...................................................... ..............................
+Firma Director Técnico Fecha
+
+1
+
+
+7

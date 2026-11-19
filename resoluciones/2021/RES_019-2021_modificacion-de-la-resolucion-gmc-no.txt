@@ -1,0 +1,341 @@
+Resolución GMC N° 19/21
+Título: MODIFICACIÓN DE LA RESOLUCIÓN GMC Nº 02/12 “REGLAMENTO TÉCNICO MERCOSUR SOBRE LISTA POSITIVA DE MONÓMEROS, OTRAS SUSTANCIAS DE PARTIDA Y POLÍMEROS AUTORIZADOS PARA LA ELABORACIÓN DE ENVASES Y EQUIPAMIENTOS PLÁSTICOS EN CONTACTO CON ALIMENTOS”
+Fecha de aprobación: 13/10/2021
+Vigencia: Vigente (Vigente desde el 1/11/2026 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 86818_RES_019-2021_ES_Modificacion Res. GMC Nº 02-12.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4146).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 19/21
+
+MODIFICACIÓN DE LA RESOLUCIÓN GMC Nº 02/12
+"REGLAMENTO TÉCNICO MERCOSUR SOBRE LISTA POSITIVA DE MONÓMEROS, OTRAS SUSTANCIAS DE PARTIDA Y POLÍMEROS AUTORIZADOS PARA LA ELABORACIÓN DE ENVASES Y EQUIPAMIENTOS PLÁSTICOS EN CONTACTO CON ALIMENTOS"
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 03/92, 38/98, 02/12 y 45/17 del Grupo Mercado Común.
+
+CONSIDERANDO:
+Que la Resolución GMC Nº 03/92 sobre criterios generales de envases y equipamientos alimentarios en contacto con alimentos establece que los envases y equipamientos en contacto con los alimentos deben cumplir con determinados requisitos.
+
+Que la Resolución GMC Nº 02/12 aprobó el "Reglamento Técnico MERCOSUR sobre lista positiva de monómeros, otras sustancias de partida y polímeros autorizados para la elaboración de envases y equipamientos plásticos en contacto con alimentos" y que resulta conveniente su actualización.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Sustituir el texto del numeral 4 del Anexo de la Resolución GMC Nº 02/12 por el siguiente:
+"4. Las sustancias enumeradas a continuación no están incluidas en la lista positiva, sin embargo están autorizadas:
+
+a) Sales (incluidas sales dobles y sales ácidas) de amoníaco, calcio, magnesio, potasio y sodio de los ácidos, fenoles o alcoholes autorizados;
+
+b) Sales (incluidas sales dobles y sales ácidas) de aluminio, bario, cobalto, cobre, hierro, litio, manganeso y zinc de los ácidos, fenoles o alcoholes autorizados. Para estas sales, se aplican los siguientes límites de migración específica grupal - LME (T):
+
+Aluminio = 1 mg/kg de alimento o simulante de alimentos.
+Bario = 1 mg/kg de alimento o simulante de alimentos.
+Cobalto = 0,05 mg/kg de alimento o simulante de alimentos.
+Cobre = 5 mg/kg de alimento o simulante de alimentos.
+Hierro = 48 mg/kg de alimento o simulante de alimentos.
+Litio = 0,6 mg/kg de alimento o simulante de alimentos.
+Manganeso = 0,6 mg/kg de alimento o simulante de alimentos.
+Níquel = 0,02 mg/kg de alimento o simulante de alimentos.
+Zinc = 5 mg/kg de alimento o simulante de alimentos.
+
+Para los revestimientos poliméricos la evaluación del LME (T) de aluminio, bario, cobalto, cobre, hierro, litio, manganeso, níquel y zinc podrá ser realizada sobre el sustrato inerte;
+
+c) Cuando se listen ácidos, fenoles o alcoholes seguidos de la palabra "sales", significa que sólo están autorizadas las sales de cationes mencionadas en los puntos a) y b), y no están autorizados los ácidos, fenoles o alcoholes libres correspondientes."
+
+Art. 2 - Incluir como numeral 12 en el Anexo de la Resolución GMC N° 02/12 el siguiente texto:
+
+"12. De los materiales plásticos y los recubrimientos poliméricos coloreados, impresos o que contengan adhesivos de poliuretánicos en su composición, no deben migrar aminas aromáticas primarias a los alimentos o al simulante B (considerado el simulante más crítico en este caso) en cantidades detectables, excepto aquellas enumeradas en la Parte I y la Parte V del presente Reglamento y en el Reglamento Técnico del MERCOSUR sobre lista positiva de aditivos para la elaboración de materiales plásticos y revestimientos poliméricos destinados a entrar en contacto con alimentos.
+
+12.1 El límite de detección es 0,01 mg de sustancia por kg de alimento o simulante de alimentos.
+
+12.2 El límite de detección se aplica a la suma de las aminas aromáticas primarias que migran."
+
+Art. 3 - Incluir en la lista positiva de la Parte I del Anexo de la Resolución GMC Nº 02/12 las siguientes sustancias de conformidad con su número de referencia:
+
+
+NÚMERO DE REFERENCIA
+NÚMERO CAS
+SUSTANCIA
+RESTRICCIONES Y / O ESPECIFICACIONES
+13303
+0002162-74-5
+Bis(2,6-diisopropilfenil) carbodiimida
+LME(T) = 0,05 mg/kg
+
+Expresado como la suma de bis(2,6-diisopropilfenil)carbodiimida y su producto de hidrólisis 2,6-diisopropilanilina.
+15260
+0000646-25-3
+1,10-decanodiamina
+LME = 0,05 mg/kg
+
+Sólo para ser usado como comonómero para producir poliamidas para fabricar artículos de uso repetido en contacto con alimentos lácteos, ácidos y acuosos a temperatura ambiente o hasta 150°C para contacto por tiempo ≤ 30 minutos.
+16265
+0156065-00-8
+α-dimetil-3-(4'-hidroxi-3'-metoxifenil)propilsililoxi, ω-3-dimetil-3-(4'-hidroxi-3'-metoxifenil) propilsililpolidimetilsiloxano
+LME = 0,05 mg/kg
+
+LME(T) = ND (LD = 0,01 mg/kg) Expresado como eugenol (25)
+
+Sólo para ser usado como comonómero en policarbonato modificado con siloxano.
+
+La mezcla oligomérica se caracterizará por la fórmula C24H38Si2O5(SiOC2H6)n (50 > n ≥ 26).
+22190
+002163-42-0
+2-metil-1,3-propanodiol
+LME = 5 mg/kg
+
+Sólo para ser usado en revestimientos.
+22931
+0019430-93-4
+(Perfluorobutil)etileno
+Sólo para ser usado como comonómero hasta un 0,1 % m/m en la polimerización de fluoropolímeros, sinterizados a altas temperaturas.
+25885
+0002459-10-1
+Trimetil trimetilato
+Sólo para ser usado como comonómero hasta 0,35% m/m para producir poliésteres modificados destinados a ser utilizados en contacto con alimentos acuosos y secos que no contienen grasa libre en la superficie.
+
+
+Art. 4 - Incluir al final de la lista positiva de la Parte I del Anexo de la Resolución GMC Nº 02/12 las siguientes sustancias, de conformidad con su número de CAS:
+
+NÚMERO DE REFERENCIA
+NÚMERO CAS
+SUSTANCIA
+RESTRICCIONES Y / O ESPECIFICACIONES
+
+0000616-38-6
+Carbonato de dimetilo
+
+Sólo para ser usado:
+
+a) con 1,6-hexanodiol en la fabricación de prepolímeros de policarbonato que son utilizados hasta un máximo del 30 % m/m para fabricar poliuretanos termoplásticos con 4,4′-metilendifenildiisocianato y dioles, tales como polipropilenglicol y 1,4-butanodiol. El material resultante se aplicará únicamente en objetos de uso repetido destinados a entrar en contacto brevemente (≤ 30 minutos a temperatura ambiente) con alimentos acuosos ácidos y acuosos no ácidos; o
+
+b) para la producción de otros policarbonatos y/o en otras condiciones, siempre que la migración de carbonato de dimetilo no supere el LME = 0,05 mg/kg de alimento y que la migración de todos los oligómeros de policarbonato con una masa molecular inferior a 1000 Da no supere en conjunto 0,05 mg/kg de alimento.
+
+000826-62-0
+Ácido 5-norboneno-2,3-dicarboxílico
+Sólo para ser usado en dispersiones poliméricas para revestimientos para metales, como comonómero de revestimientos de poliéster para todo tipo de alimentos excepto bebidas, en condiciones de llenado a temperatura ambiente, en caliente y esterilización hasta una hora a temperatura menor o igual a 131°C y posterior conservación a temperatura ambiente por períodos prolongados.
+
+0000976-56-7
+[[3,5-bis(1,1-dimetiletil)-4-hidroxi­fenil]-metil] fosfonato de dietilo
+Sólo para ser usado en una concentración de hasta 0,2 % m/m teniendo en cuenta la masa del polímero final en el proceso de polimerización para fabricación de polietilentereftalato (PET).
+
+0001455-42-1
+2,4,8,10-tetraoxaespiro [5.5]undecano-3,9-dietanol,β3,β3,β9,β9- tetrametil-("SPG")
+LME = 5 mg/kg
+
+Sólo para ser usado como monómero en la fabricación de poliésteres. La migración de la fracción oligomérica inferior a 1000 Da no deberá superar los 50 μg/kg de alimento (expresada como SPG).
+
+En el caso de uso en contacto con alimentos no alcohólicos a los que se asigna el simulante etanol al 50% v/v en agua destilada, se debe usar el simulante etanol al 20% v/v en agua destilada en su lugar.
+
+0001547-26-8
+2,3,3,4,4,5,5-heptafluoro-1-penteno
+Sólo para ser usado junto con comonómeros de etileno y/o tetrafluoroetileno para fabricar fluoropolímeros destinados a ser utilizados como coadyuvantes de polimerización en una concentración de hasta 0,2 % m/m del material en contacto con los alimentos, y siempre que la fracción de baja masa molecular (inferior a 1500 Da) en el fluorocopolímero no exceda de 30 mg/kg.
+
+0003238-40-2
+Ácido furano-2,5-dicarboxílico
+LME = 5 mg/kg
+
+Sólo para ser usado como monómero en la producción de polietilenfuranoato (PEF). La migración de la fracción oligomérica de masa molecular inferior a 1000 Da no debe exceder los 50 µg/kg de alimento (expresado como ácido furano-2,5-dicarboxílico).
+
+En el caso de uso en contacto con alimentos no alcohólicos a los que se asigna el simulante de alimentos etanol al 50% v/v en agua destilada, se debe usar el simulante etanol al 20% v/v en agua destilada en su lugar.
+
+0003634-83-1
+1,3-bis(isocianatometil)benceno
+LME(T) = 0,05 mg/kg (expresado como 1,3-bencenodimetanamina) (26)
+
+El LME(T) se aplica a la migración de su producto de hidrólisis (1,3-bencenodimetanamina).
+
+Sólo para ser usado como comonómero en la fabricación de una capa intermedia de un revestimiento sobre una capa de polietilentereftalato (PET) en un material multicapa.
+
+0003710-30-3
+1,7-octadieno
+LME = 0,05 mg/kg
+
+Sólo para ser usado como comonómero entrecruzante en la fabricación de poliolefinas que vayan a entrar en contacto con cualquier tipo de alimento de almacenamiento prolongado a temperatura ambiente, incluye también llenado en caliente.
+
+0006607-41-6
+2-fenil-3,3-bis(4-hidroxifenil)ftalimidina
+LME = 0,05 mg/kg
+
+Sólo para ser usado como comonómero en copolímeros de policarbonato.
+
+La sustancia contiene anilina como impureza; es necesario verificar el cumplimiento de la restricción relativa a las aminas aromáticas primarias establecida en el numeral 12.
+
+0023985-75-3
+1,2,3,4-tetrahidronaftaleno-2,6-dicarboxilato de dimetilo
+LME = 0,05 mg/kg
+
+Sólo para ser usado como comonómero en la fabricación de una capa de poliéster que no esté en contacto directo con el alimento, en un material multicapa de plástico, que vaya a utilizarse únicamente en contacto con alimentos a los que se han asignado los simulantes alimentarios A, B, C y/o etanol 50% v/v.
+
+El límite de migración específica se referencia a la suma de la sustancia y sus dímeros (cíclicos y de cadena abierta).
+
+0080512-44-3
+2,4,4′-trifluorobenzofenona
+Sólo para ser usado como comonómero en la fabricación de poliéter éter cetona en una concentración de hasta 0,3% m/m del material final.
+
+0147398-31-0
+Poli((R)-3-hidroxibutirato-
+co-(R)-3-hidroxihexanoato)
+
+LME(T) = 0,05 mg/kg (expresado como ácido crotónico) (10)
+
+Utilizar solo o en una mezcla con otros polímeros en contacto con todos los alimentos, en condiciones de contacto de hasta 6 meses y/o 6 meses o más, a temperatura ambiente o inferior, incluyendo el proceso de llenado en caliente o calentamiento breve. La migración de todos los oligómeros con masa molecular inferior a 1000 Da no debe exceder 5,0 mg/kg de alimento.
+
+
+Mezcla compuesta por un 97 % de ortosilicato de tetraetilo (TEOS) (CAS N° 0000078-10-4) y un 3 % de hexametildisilazano (HMDS) (CAS N° 0000999-97-3)
+Sólo para ser usado en la producción de PET reciclado y en una concentración de hasta 0,12 % m/m.
+
+
+Art. 5 - Sustituir las "Restricciones y/o Especificaciones" de la "Lista de Monómeros y otras sustancias de Partida Autorizados" de la Parte I del Anexo de la Resolución GMC Nº 02/12 correspondientes a los números de referencia indicados a continuación, por el siguiente texto:
+
+NÚMERO DE REFERENCIA
+NÚMERO CAS
+SUSTANCIA
+RESTRICCIONES Y / O ESPECIFICACIONES
+13480
+13607
+0000080-05-7
+2,2-bis(4-hidroxifenil)propano (=Bisfenol A)
+(=4,4´-isopropilidendifenol)
+(=4,4´-(1-metiletiliden) bisfenol)
+LME = 0,05 mg/kg
+
+No autorizado para polímeros utilizados en la fabricación de biberones o artículos similares destinados a la alimentación de lactantes y niños de hasta 3 años de edad.
+15180
+0018085-02-4
+3,4-diacetoxi-1-buteno
+
+LME = 0,05 mg/kg incluido el producto de hidrólisis 3,4-dihidroxi-1-buteno.
+
+Sólo para ser usado como comonómero para copolímeros etilvinilalcohol (EVOH) y polivinilalcohol (PVOH).
+
+Existe el riesgo de que se supere el LMT en contacto directo con alimentos acuosos de copolímeros de etilvinilalcohol (EVOH) y polivinilalcohol (PVOH).
+18117
+0000079-14-1
+Ácido glicólico
+
+Sólo para ser usado en la fabricación de ácido poliglicólico (PGA) para:
+
+i)  contacto indirecto con alimentos detrás de una capa de poliésteres como polietilentereftalato (PET) o ácido poliláctico (PLA);
+
+ii)  contacto directo con alimentos en una mezcla de PGA hasta 3 % m/m con PET o PLA.
+17160
+0000097-53-0
+Eugenol
+LME(T) = ND (LD = 0,01 mg/kg) (expresado como eugenol) (25)
+13000
+0001477-55-0
+1,3-bencenodimetanamina
+LME(T) = 0,05 mg/kg (expresado como 1,3-bencenodimetanamina) (26)
+13810
+21821
+0000505-65-7
+1,4-butanodiolformal
+
+LME = 0,05 mg/kg
+
+LME(T) = 5 mg/kg (expresado como 1,4-butanodiol) (7)
+
+LME(T) = 15 mg/kg (expresado como formaldehído) (16)
+
+En caso de reacción con alimentos o simulantes, la verificación de la conformidad incluirá la verificación de que no se superen los límites de migración de los productos de hidrólisis, el formaldehído y el 1,4-butanodiol.
+15404
+0000652-67-5
+1,4:3,6-dianhidrosorbitol
+
+LME = 5 mg/kg
+
+Sólo para ser usado como:
+
+ a) comonómero en el tereftalato de poli(etilen-coisosorbida);
+
+ b) comonómero a un nivel de 40 % molar, como máximo, del componente diol en combinación con etilenglicol y/o 1,4-bis(hidroximetil)ciclohexano, para la producción de poliésteres. Los poliésteres producidos utilizando dianhidrosorbitol junto con 1,4-bis(hidroximetil)ciclohexano no se utilizarán en contacto con alimentos acuosos alcohólicos que contengan más de un 15 % v/v de alcohol.
+22960
+0000108-95-2
+Fenol
+LME = 3 mg/kg
+25187
+0003010-96-6
+2,2,4,4-tetrametilciclobutan-1,3- diol
+
+
+LME = 5 mg/kg
+
+Sólo para ser usado en:
+
+a) objetos de uso repetido para almacenamiento prolongado a temperatura ambiente o inferior y llenado en caliente;
+
+b) materiales y objetos de un solo uso: como comonómero en niveles de hasta 35% molar del componente diol para la fabricación de poliésteres, en contacto con alimentos destinados a almacenamiento por períodos prolongados a temperatura ambiente o inferior, incluido el llenado en caliente, excepto los alimentos que tengan un contenido de alcohol mayor al 10 % v/v y alimentos grasos.
+22932
+0001187-93-5
+Éter de perfluorometilo y perfluorovinilo
+
+
+LME = 0,05 mg/kg
+
+Sólo para ser usado en:
+
+a) recubrimientos antiadherentes;
+
+b)  fluoropolímeros y perfluoropolímeros destinados a aplicaciones de uso repetido cuando la proporción de contacto es de 1 dm2 de superficie en contacto con al menos 150 kg de alimentos.
+14800
+45600
+0003724-65-0
+Ácido crotónico
+LME(T) = 0,05 mg/kg (expresado como ácido crotónico) (10)
+
+Art. 6 - Sustituir el texto correspondiente a la Restricción de la sustancia con número de referencia 18888 incluido en la columna "Sustancias y Especificaciones" de la Parte III "Especificaciones" del Anexo de la Resolución GMC N° 02/12, por el siguiente:
+
+ "Restricción: El LME(T) para el ácido crotónico es de 0,05 mg/kg."
+
+Art. 7 - Incluir en la "Tabla: Notas sobre la columna "Restricciones y/o Especificaciones"" de la Parte IV del Anexo de la Resolución GMC Nº 02/12, las siguientes notas:
+
+(25)
+LME (T) significa en este caso que la suma de las migraciones de las sustancias con los números de referencia 16265 y 17160 no puede exceder la restricción indicada.
+(26)
+LME (T) significa en este caso que la suma de las migraciones de la sustancia con el número de referencia 13000 y el 1,3-bis(isocianatometil)benceno (CAS 0003634-83-1) no puede exceder la restricción indicada.
+
+Art. 8 - Sustituir en la "Tabla: Notas sobre la columna "Restricciones y/o Especificaciones"" de la Parte IV del Anexo de la Resolución GMC Nº 02/12, los textos de las notas indicadas a continuación por los siguientes:
+
+
+(7)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 13720 y 40580 (1,4-butanodiol CAS 0000110-63-4) y 13810 y 21821 (1,4-butanodiolformal CAS 0000505-65-7) no debe superar la restricción indicada.
+(10)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 14800, 45600 y 18888 y del poli((R)-3-hidroxibutirato-co-(R)-3-hidroxi-hexanoato) (CAS 0147398-31-0) no debe superar la restricción indicada.
+(16)
+LME(T) significa en este caso que la suma de la migración de las sustancias con los números de referencia 17260 y 54880 (formaldehído CAS 0000050-00-0), 18670 y 59280 (hexametilentetramina CAS 000100-97-0) y 13810 y 21821 (1,4-butanodiolformal CAS 0000505-65-7) no debe superar la restricción indicada.
+
+Art. 9 - Eliminar la Nota (5) de la "Tabla: Notas sobre la columna "Restricciones y/o Especificaciones"" de la Parte IV del Anexo de la Resolución GMC Nº 02/12.
+
+Art. 10 - Incluir en la "Lista de Polímeros Autorizados" de la Parte V del Anexo de la Resolución GMC Nº 02/12 la siguiente sustancia:
+NÚMERO CAS
+SUSTANCIA
+RESTRICCIONES Y / O ESPECIFICACIONES
+
+1485481-35-3
+Copolímero de
+etileno-alcohol vinílico modificado con 2-metilen-1,3 propanodiol
+No autorizado para la fabricación de artículos destinados a la alimentación de lactantes (niños de hasta doce meses de edad).
+
+LC= 3% molar de 2-metilen-1,3-propanodiol
+en el copolímero.
+
+Ver "acetato de vinilo", número de referencia 10120, en la Parte I.
+
+
+Art. 11 - Esta Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 12 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 13 - Establecer un plazo de trescientos sesenta (360) días contados a partir de la incorporación de la presente Resolución para la adecuación a los requisitos establecidos en esta Resolución.
+
+Art. 14 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes de 11/IV/2022.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 13/X/21.
+
+
+3

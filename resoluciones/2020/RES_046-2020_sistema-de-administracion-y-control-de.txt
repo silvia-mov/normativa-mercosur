@@ -1,0 +1,220 @@
+Resolución GMC N° 46/20
+Título: SISTEMA DE ADMINISTRACIÓN Y CONTROL DE CUPOS DE IMPORTACIÓN OTORGADOS POR EL MERCOSUR A TERCEROS PAÍSES O GRUPOS DE PAISES (SACIM)
+Fecha de aprobación: 26/01/2021
+Vigencia: Vigente (Vigente desde el 6/6/2026 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 82665_RES_046-2020_ES_SACIM.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3995).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 46/20
+
+
+SISTEMA DE ADMINISTRACIÓN Y CONTROL DE CUPOS DE IMPORTACIÓN OTORGADOS POR EL MERCOSUR A TERCEROS PAÍSES O GRUPOS DE PAISES (SACIM)
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 26/09 y 31/10 del Grupo Mercado Común y la Directiva Nº 22/20 de la Comisión de Comercio del MERCOSUR.
+
+CONSIDERANDO:
+
+Que es necesario establecer un sistema de administración y control de los cupos otorgados por el MERCOSUR a terceros países o grupos de países para su aplicación a las importaciones de productos originarios de dichos países o grupos de países con destino al MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Sistema de Administración y Control de Cupos de Importación otorgados por el MERCOSUR a terceros países o grupos de países (SACIM)", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Esta Resolución se aplicará exclusivamente a los cupos de importación otorgados conjuntamente por el MERCOSUR a terceros países o grupos de países por medio de acuerdos comerciales.
+Art. 3 - La Comisión de Comercio del MERCOSUR (CCM) podrá realizar los ajustes al Anexo que fueren necesarios mediante Directivas.
+
+Art. 4 - Instruir a la CCM a aprobar, en el primer semestre de 2021, una norma complementaria a las disposiciones del Anexo de la presente Resolución que contemple los aspectos de procedimiento necesarios para la completa reglamentación del SACIM.
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 23/X/2021.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 26/I/21.
+
+
+ANEXO
+
+SISTEMA DE ADMINISTRACIÓN Y CONTROL DE CUPOS DE IMPORTACIÓN OTORGADOS POR EL MERCOSUR A TERCEROS PAÍSES O GRUPOS DE PAÍSES (SACIM)
+
+
+1. OBJETIVO
+
+Crear un sistema de administración y control de los cupos de importación otorgados conjuntamente por el MERCOSUR en acuerdos comerciales celebrados entre el MERCOSUR y terceros países o grupos de países.
+
+2. DEFINICIONES
+
+A los efectos de este Anexo se aplican las siguientes definiciones:
+
+
+Afectación de cupo: operación mediante la cual el Sistema Nacional de Administración de Cupos de un Estado Parte informa al SACIM el registro de una declaración de importación asociada a una licencia dentro del plazo de reserva del cupo. Ello implica que la cantidad (monto/volumen) consignada en dicha declaración de importación queda afectada.
+
+Cupo: contingente arancelario relativo a uno o más ítems arancelarios de la Nomenclatura Común del MERCOSUR dentro del cual los derechos de importación que se aplican a las cantidades importadas son más bajos que los que se aplican a las cantidades fuera del contingente.
+
+Día: día calendario, incluyendo fines de semana y días festivos.
+
+Período de vigencia de cupos: año calendario, salvo disposición contraria en el acuerdo comercial específico con base en el cual el cupo haya sido otorgado.
+
+Primero llegado/primero servido (first come/first served - FCFS): método por el cual la reserva de los cupos se procesa en orden cronológico de registro de los pedidos en el SACIM.
+
+Punto focal: persona designada por cada Estado Parte como responsable de la operación en el SACIM y del intercambio de información con la Secretaría del MERCOSUR (SM) y con los otros puntos focales.
+
+Reporte de gestión: consolidación de informaciones de distinta naturaleza, ya sea pre-formateada o a criterio del usuario, que permita monitorear el uso de los cupos.
+
+Reserva de cupo: operación mediante la cual el SACIM efectúa la guarda de una determinada cantidad (monto/volumen) a solicitud del Sistema Nacional de Administración de Cupos de un Estado Parte.
+
+Sistema Informático: programa informático que modela e implementa el SACIM. En él se realizan las operaciones relacionadas a la administración y control de cupos de importación del MERCOSUR.
+
+Sistema Nacional de Administración de Cupos: mecanismo mediante el cual cada Estado Parte a través de sus diversas instituciones, incluso aduaneras, procesa la administración y control de los cupos de importación a nivel nacional y por medio del cual se comunica con el SACIM.
+
+
+3. ADMINISTRACIÓN Y CONTROL DE CUPOS
+
+Los cupos de importación otorgados conjuntamente por el MERCOSUR a terceros países o grupos de países en sus acuerdos comerciales serán administrados por medio de un sistema electrónico de administración de cupos a nivel MERCOSUR (SACIM).
+
+     3.1 Unidad de medida
+
+La unidad de medida de cada cupo estará determinada por el acuerdo correspondiente.
+
+3.2 Puntos focales
+
+Cada Estado Parte deberá designar uno o más puntos focales, los que tendrán acceso restringido al SACIM, con la finalidad de gestionar los cupos utilizados y remanentes, así como consultar a nivel desagregado los cupos por licencias emitidas, registros asociados y notificados, por cada Estado Parte.
+
+Las Coordinaciones Nacionales de la Comisión de Comercio del MERCOSUR (CCM), mediante nota a las demás Coordinaciones Nacionales de la CCM y a la SM, notificarán las designaciones y/o cambios de sus puntos focales.
+
+Sólo los usuarios autorizados por cada Sistema Nacional de Administración de Cupos podrán acceder al SACIM.
+
+3.3 Reserva de cupos
+
+La reserva de los cupos se hará efectiva según el orden cronológico de registro de los pedidos en el SACIM por el método FCFS.
+
+La reserva de cupo podrá ser por una cantidad menor a la solicitada, si no existiere disponibilidad a la fecha de la solicitud. En ese caso, los Sistemas Nacionales de Administración de Cupos solo emitirán la licencia, previa consulta al importador si la cantidad disponible es de su interés.
+
+La reserva del cupo implicará la no disponibilidad de dicha cantidad para atender otras solicitudes, sin perjuicio de lo establecido en el numeral 3.7.
+
+Las solicitudes de reserva de cupo y las licencias emitidas por los Estados Partes deberán corresponder al mismo año calendario.
+
+3.4 Licencias
+
+A los efectos de este Anexo, el término licencia comprende licencias, autorizaciones, permisos y otros que solicite el importador en su Sistema Nacional de Administración de Cupos.
+
+Las licencias que fueran solicitadas por los importadores de los Estados Partes dentro del período de vigencia del cupo, pero que no contaran con cupo disponible en el SACIM, serán denegadas por el Sistema Nacional de Administración de Cupos de cada Estado Parte. La denegatoria implicará que el solicitante no podrá invocar la condición de "primero llegado" en el orden cronológico de tramitación, en caso de que el cupo vuelva a estar disponible.
+La licencia de importación asociada a una reserva de cupo en el SACIM sólo podrá ser utilizada en una única declaración de importación.
+Los Estados Partes podrán establecer reglas específicas con la finalidad de impedir prácticas que perjudiquen la plena utilización de los cupos, incluyendo la no utilización de la licencia emitida.
+
+3.5 Responsabilidades
+
+3.5.1 De la Secretaría del MERCOSUR
+
+a) Administrar y mantener el sistema informático, incluyendo la política de seguridad establecida en el numeral 4.5 de este Anexo;
+b) Registrar anualmente en el SACIM los cupos en la forma establecida en cada acuerdo comercial con terceros países o grupos de países, hasta el último día hábil previo al inicio del período de la vigencia de los cupos. En el año de entrada en vigor de cada acuerdo, los cupos se habilitarán el día de dicha entrada en vigor;
+c) Comunicar a los puntos focales toda información relativa al SACIM que no sea enviada directamente por el sistema informático;
+d) Comunicar a los puntos focales, con base en lo informado por el Depositario, la entrada en vigor de un acuerdo comercial, en el cual el MERCOSUR haya otorgado cupos conjuntamente a terceros países o grupos de países, ya sea que dicha entrada en vigor afecte a todos los Estados Partes del MERCOSUR o a uno de ellos;
+e) Responder las consultas formuladas por los puntos focales;
+f) Mantener actualizada la información sobre los puntos focales y Sistemas Nacionales de Administración de Cupos de cada Estado Parte;
+g) Realizar y publicar trimestralmente reportes sobre el estado de situación de los cupos;
+
+h) Realizar las demás funciones y actividades previstas en este Anexo y las que le solicite la CCM respecto del SACIM.
+
+3.5.2 De los puntos focales
+
+a) Gestionar las autorizaciones y niveles de acceso al SACIM de los distintos usuarios autorizados designados por los respectivos Sistemas Nacionales de Administración de Cupos;
+b) Intercambiar información con los Sistemas Nacionales de Administración de Cupos, con la SM y con los demás puntos focales;
+c) Responder las consultas formuladas por la SM o los puntos focales de otros Estados Partes.
+
+3.5.3 Del Sistema Nacional de Administración de Cupos
+
+a) Administrar y controlar a nivel nacional los cupos de importación otorgados conjuntamente por el MERCOSUR a terceros países o grupos de países;
+b) Solicitar al SACIM la reserva de cupos;
+c) Emitir y denegar las licencias de importación relativas a la administración de los cupos;
+d) Registrar en el sistema informático la información requerida en el presente Anexo y/o en sus normas modificatorias o complementarias;
+e) Elaborar, transmitir y recibir toda la información relacionada con el cupo del que es responsable, proporcionando al/los respectivo/s punto/s focal/es la información que requiera/n.
+
+3.5.3.1 De las Aduanas
+
+Poner a disposición del SACIM toda la información aduanera relativa a la afectación del cupo producida por la declaración de importación, respetando la confidencialidad de la información.
+
+3.6 Plazos
+
+Las reservas de cupos en el SACIM tendrán una vigencia de sesenta (60) días, excepto en situaciones específicas acordadas por el Grupo Mercado Común (GMC) o la CCM.  Los plazos de vigencia serán contados a partir del día siguiente de efectuada la reserva en el sistema.
+
+No obstante lo previsto en el primer párrafo, la vigencia de la reserva en el SACIM no podrá exceder el período de vigencia del cupo.
+
+La vigencia de la licencia no podrá exceder el plazo establecido en la reserva.
+
+Las solicitudes de licencias presentadas por los importadores interesados caducarán al finalizar el período de vigencia del cupo.
+
+3.7 Devoluciones
+
+Si al vencimiento del plazo de la reserva no existiera registro de declaración de importación, la cantidad reservada se devolverá al saldo disponible en el SACIM.
+
+Si al momento del registro de la declaración de importación y/o en virtud del resultado de los controles aduaneros la cantidad reservada no se utilizó completamente, se devolverá el remanente al saldo disponible en el SACIM.
+
+En caso de que el proceso de importación sea rechazado o cancelado en el Sistema Nacional de Administración de Cupos luego de reservado el cupo, la cantidad reservada se devolverá al saldo disponible en el SACIM.
+
+El titular de la licencia, durante la vigencia de la misma y antes de la declaración de importación, podrá efectuar la devolución voluntaria de la cantidad reservada.
+
+3.8 Transferencia de cupos
+
+Las reservas de cupos, así como sus licencias asociadas, serán intransferibles.
+
+3.9 Límite individual
+
+Con la finalidad de mejorar el control de los cupos y tomando en consideración su plena utilización, se podrán establecer límites cuantitativos individuales de cupo reservado para cada solicitante de licencia, mediante una norma MERCOSUR específica.
+
+3.10 Transparencia
+
+El SACIM pondrá a disposición del público, a través del sitio web del MERCOSUR, en tiempo real, información de los cupos de importación otorgados conjuntamente por el MERCOSUR en cada uno de los acuerdos comerciales celebrados con terceros países o grupos de países. Esta información incluirá el total anual y el saldo aún disponible en la unidad de medida definida en el respectivo acuerdo, así como el porcentaje ya utilizado, para los ítems arancelarios de la Nomenclatura Común del MERCOSUR comprendidos en cada cupo.
+
+
+4. SISTEMA INFORMÁTICO DEL SACIM
+
+4.1 Arquitectura
+
+El SACIM utilizará un sistema con un único repositorio de información y transacciones ejecutadas de manera centralizada, el cual se comunicará con los Sistemas Nacionales de Administración de Cupos de los Estados Partes.
+
+4.2 Registros
+
+Los registros en el SACIM deberán ser procesados de acuerdo con el método FCFS.
+
+4.3 Desarrollo e implementación
+
+El desarrollo tecnológico e implementación del sistema estarán a cargo de la SM.
+
+Se prevé un período de implementación máximo del SACIM de un (1) año y medio. Los Estados Partes tendrán un plazo de seis (6) meses para integrar sus Sistemas Nacionales de Administración de Cupos al SACIM, luego de su implementación.
+
+El SACIM permitirá a los usuarios autorizados, respetando la confidencialidad de la información, monitorear las licencias asociadas a reservas de cupo, los porcentajes utilizados y los saldos remanentes de cada cupo.
+
+El SACIM deberá ser compatible con el desarrollo futuro de funcionalidades de control diferentes al FCFS, en caso de que surja esta necesidad.
+
+El SACIM tendrá la funcionalidad de emitir reportes de gestión, respetando la confidencialidad de la información, con las funcionalidades que en el futuro se definan.
+
+4.4 Seguridad del Sistema
+
+El sistema informático mantendrá el registro de los puntos focales de cada Estado Parte y de los usuarios autorizados a operar en el sistema.
+
+El sistema informático deberá incluir una política de seguridad basada en los siguientes principios:
+a) La base de datos estará ubicada en la SM, en un ambiente protegido, con acceso restringido a la SM;
+b) Las contraseñas de la base de datos serán administradas por quien designe la Dirección de la SM y dicha designación será informada a los puntos focales;
+c) Se realizarán respaldos diarios de la base de datos, para los cuales se aplicarán los mismos requisitos de seguridad; dichos respaldos deberán ser almacenados por un periodo mínimo de un (1) año;
+d) Se controlará el acceso al sistema informático asegurando el cumplimiento de las reglas de acceso, la privacidad de los datos de los usuarios autorizados y el registro de las operaciones realizadas por los usuarios para la realización de eventuales auditorías;
+e) Cada punto focal y usuario autorizado dispondrá de una contraseña de acceso, la cual deberá cumplir los requisitos de seguridad que se establezcan;
+f) La SM será responsable de la administración de los usuarios del sistema informático, pero no tendrá autonomía, bajo ningún concepto, para sustituir sus identidades;
+g) Todos los ingresos o actualizaciones de la base de datos deberán incluir la identificación del usuario responsable por la operación;
+h) El sistema informático será capaz de detectar irregularidades en los datos y determinar qué datos fueron afectados;
+i) La SM no podrá modificar el sistema informático sin la autorización expresa de la CCM;
+j) El sistema informático generará una base de datos con las reservas de cupos realizadas.
+
+
+5. DISPOSICIONES FINALES
+
+5.1 Consultas
+
+Los puntos focales podrán intercambiar consultas con respecto a la interpretación o aplicación de las disposiciones del presente Anexo, sin perjuicio de la aplicación del mecanismo establecido en la Directiva CCM N° 17/99 "Mecanismo de consultas en la Comisión de Comercio del MERCOSUR", sus modificatorias y/o complementarias.
+
+5.2 Aplicación del SACIM
+
+Con relación a los acuerdos comerciales en que esté prevista la posibilidad de vigencia bilateral entre cada Estado Parte del MERCOSUR y la contraparte del acuerdo antes de su ratificación por todos los Estados Partes del MERCOSUR, el SACIM resultará aplicable, a partir de la entrada en vigor del acuerdo comercial en cuestión para el primer Estado Parte del MERCOSUR.
+
+
+5

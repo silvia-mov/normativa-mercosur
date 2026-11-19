@@ -1,0 +1,87 @@
+Resolución GMC N° 34/26
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE VEHÍCULOS A HIDRÓGENO Y CELDAS DE COMBUSTIBLE
+Fecha de aprobación: 10/09/2026
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 114566_RES_034-2026_ES_RTM Vehiculos Hidrogeno.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/5414).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 34/26
+
+REGLAMENTO TÉCNICO MERCOSUR
+SOBRE VEHÍCULOS A HIDRÓGENO Y CELDAS DE COMBUSTIBLE
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 38/98, 45/17, 60/19 y 30/21 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario establecer un Reglamento Técnico MERCOSUR sobre los vehículos a hidrógeno y celdas de combustible, para ser aplicado en dichos vehículos que circulan en los Estados Partes del MERCOSUR, con el fin de garantizar su seguridad.
+
+Que el presente Reglamento Técnico se basa en el Reglamento N° 134 de Naciones Unidas (Reglamento ONU).
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre vehículos a hidrógeno y celdas de combustible", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 3 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 4 - Las disposiciones contenidas en el Reglamento aprobado por esta Resolución serán de aplicación obligatoria para todos los vehículos fabricados o importados a partir de 09/III/2031.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 09/III/2027.
+
+CXL GMC - Montevideo, 10/IX/26
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR
+SOBRE VEHÍCULOS A HIDRÓGENO Y CELDAS DE COMBUSTIBLE
+
+
+I.  OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR (RTM) tiene como objetivo establecer los requisitos técnicos que deben cumplir los vehículos a hidrógeno y celdas de combustible, respecto a la seguridad de sus sistemas de almacenamiento de hidrógeno comprimido y los componentes específicos de estos sistemas, con el propósito de mejorar la seguridad vial en los Estados Partes del MERCOSUR.
+
+II.  ALCANCE
+
+Este RTM se aplica a los vehículos a hidrógeno de las categorías M y N que llevan incorporados sistemas de almacenamiento de hidrógeno comprimido.
+
+III.  TÉRMINOS Y DEFINICIONES
+
+* Categoría vehicular: clasificación de vehículos automotores según lo dispuesto en la Resolución GMC Nº 60/19 "Reglamento Técnico MERCOSUR sobre Clasificación de Vehículos Automotores y Remolques".
+
+* Sistema de almacenamiento de hidrógeno comprimido: sistema diseñado para almacenar combustible de hidrógeno para vehículos a hidrógeno, que está compuesto por un recipiente presurizado, por dispositivos limitadores de presión y por uno o varios dispositivos de cierre automático que aíslan el hidrógeno almacenado del resto del sistema de combustible y su entorno.
+
+* Vehículos a hidrógeno: todo vehículo automotor que utiliza hidrógeno gaseoso comprimido como combustible para su propulsión, incluidos los vehículos de celda de combustible y los vehículos equipados con motor de combustión interna.
+
+IV. NORMAS Y DOCUMENTOS DE REFERENCIA
+
+* Resolución GMC N° 60/19 - Reglamento Técnico MERCOSUR sobre clasificación de vehículos automotores y remolques.
+* Reglamento ONU N° 134 - Disposiciones uniformes relativas a la homologación de los vehículos de motor y sus componentes en relación con el rendimiento en cuanto a seguridad de los vehículos de hidrógeno, anexo al Acuerdo de 1958 del WP.29.
+V. REQUISITOS GENERALES Y TÉCNICOS
+
+1. Las disposiciones que se incluyen en el Apéndice 1 del presente RTM utilizan como base el Reglamento ONU N° 134.
+
+
+APÉNDICE 1
+
+1. Se adopta el Reglamento ONU N° 134 de las Naciones Unidas, en su versión correspondiente a la Serie 1 de Enmiendas (Revisión 1).
+2. No se aplican las disposiciones contenidas en los siguientes ítems y Anexos.
+Ítems:
+3. Solicitud de homologación
+4. Homologación
+8. Modificación de tipo y extensión de la homologación
+9. Conformidad de la producción
+10. Sanciones por disconformidad de la producción
+11. Cese definitivo de la producción
+12. Nombres y direcciones de los servicios técnicos responsables de realizar los ensayos de homologación y de las autoridades de homologación de tipo
+
+Anexos:
+1. Modelos de fichas y comunicaciones
+2. Disposición de las marcas de homologación
+
+2

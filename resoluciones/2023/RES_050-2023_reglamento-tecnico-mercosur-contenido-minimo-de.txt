@@ -1,0 +1,173 @@
+Resolución GMC N° 50/23
+Título: REGLAMENTO TÉCNICO MERCOSUR CONTENIDO MÍNIMO DE ARCHIVO MAESTRO DE SITIO
+Fecha de aprobación: 05/12/2023
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 97839_RES_050_2023_ES_Archivo Maestros de Sitio.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4674).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 50/23
+
+REGLAMENTO TÉCNICO MERCOSUR CONTENIDO MÍNIMO DE ARCHIVO MAESTRO DE SITIO
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 15/09, 45/17 y 08/22 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+Que las inspecciones realizadas por los Estados Partes en establecimientos farmacéuticos deben basarse en criterios comunes a la luz de la normativa vigente en el MERCOSUR.
+
+Que las Actas/Informes de inspección deben aportar información técnica detallada a fin de apoyar la toma de decisiones de las autoridades sanitarias de los Estados Partes con relación a la certificación de Buenas Prácticas de fabricación para empresas farmacéuticas.
+
+Que, al actualizar los procedimientos comunes para la realización de inspecciones en los establecimientos farmacéuticos con fines de vigilancia sanitaria, en atención a la experiencia acumulada en el desarrollo de acciones conjuntas en el ámbito del MERCOSUR, es necesaria la inclusión del Archivo Maestro de Sitio (AMS).
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR contenido mínimo de Archivo Maestro de Sitio", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 02/VI/2024.
+
+LXI GMC Ext. - Río de Janeiro, 05/XII/23.
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR CONTENIDO MÍNIMO DE ARCHIVO MAESTRO DE SITIO
+
+I. OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR (RTM) establece el contenido mínimo del documento Archivo Maestro de Sitio.
+
+II. TÉRMINOS Y DEFINICIONES
+
+A los efectos del presente RTM se entiende por:
+Autoridad Sanitaria Competente: aquella autoridad responsable de otorgar la certificación en Buenas Prácticas de Fabricación.
+Instalación/Área dedicada y confinada (segregada) para actividades de producción: aquella que provee una separación completa y total de todos los aspectos de una operación, incluyendo el movimiento del personal, materiales y equipamiento. Las instalaciones incluyen barreras físicas y sistemas de manejo de aire separados, pero no necesariamente implica dos estructuras edilicias separadas.
+Área controlada: aquella destinada a la elaboración de medicamentos con especial criticidad para aquellos productos estériles o productos tóxicos, sensibilizantes o muy potentes que está construida y operada con medidas para controlar la introducción y liberación accidental potencial de contaminantes y liberación al medio ambiente. El nivel de control debe reflejar la naturaleza de los materiales empleados en el proceso.
+Área limpia: aquella cuyo ambiente está controlado de forma determinada respecto a la contaminación microbiológica y por partículas y que está construida y se utiliza de forma que la introducción, generación y retención de contaminantes queda reducida dentro del área.
+Producción/elaboración: aquellas operaciones realizadas en la preparación de un medicamento, desde la recepción de materiales, pasando por el procesamiento y acondicionamiento hasta su finalización como producto terminado.
+Persona autorizada:  aquella reconocida por la Autoridad Regulatoria Nacional como director/responsable técnico o co-director/co-responsable técnico de la empresa titular de una autorización de elaboración o fabricación que tiene, entre otras, la responsabilidad de asegurar que cada lote de producto terminado ha sido fabricado, controlado y aprobado para su liberación al mercado cumpliendo los requerimientos técnicos y las reglamentaciones correspondientes vigentes en los Estados Partes.
+Persona cualificada: aquella a quien la persona autorizada (director técnico) ha delegado algunas funciones específicas en virtud de su formación profesional, pericia y entrenamiento, como por ejemplo liberación de lotes.
+III. REQUISITOS GENERALES Y TÉCNICOS
+
+El documento del Archivo Maestro de Sitio debe contener:
+1. INFORMACIÓN GENERAL DEL FABRICANTE
+1.1	Información de contacto del fabricante
+1.1.1	Razón social de la empresa y nombre de la línea comercial si es diferente.
+1.1.2	Domicilio legal de la empresa y real de la/s planta/s (se deben incluir las direcciones de todas las plantas que posee la firma incluidos depósitos y laboratorios de control).
+1.1.3	Información de la persona de contacto disponible las 24 horas perteneciente a la empresa incluyendo nombre, número de teléfono y fax, para el caso de productos defectuosos o recupero del mercado.
+1.1.4	Número de identificación de la planta: número DUNS (Data Universal Numbering System) o cualquier otro sistema de identificación geográfica. Asimismo, la numeración del Registro Único de Empresas Internacionales podrá ser utilizada en esta identificación en el caso de que el país tenga el sistema implementado.
+1.2	Actividades autorizadas del establecimiento
+1.2.1	Adjuntar copia del/los certificado/s de habilitación emitido/s por la Autoridad Sanitaria Competente (Anexo 1 del Archivo Maestro de Sitio).
+1.2.2	Breve descripción de las actividades de elaboración, importación, exportación, distribución y otras actividades autorizadas por la Autoridad Sanitaria Competente.
+1.2.3	Listado completo de productos aprobados/manipulados (Anexo 2a y 2b del Archivo Maestro de Sitio). En caso de elaborarse productos con principios activos segregados, indicar si se elaboran en plantas independientes (separadas físicamente) o en la misma planta de elaboración de productos con activos no segregados, en áreas independientes y autónomas o bajo el principio de campaña.
+1.2.4	Indicar, si hubiere, listado de inspecciones de Buenas Prácticas de Fabricación (BPF) realizadas en la/s planta/s en los últimos cinco (5) años, incluyendo las fechas de inicio y finalización y el nombre y país de la Autoridad Sanitaria Competente que ha realizado la inspección. Adjuntar copia del/los certificado/s emitidos en cada oportunidad (Anexo 3 del Archivo Maestro de Sitio).
+1.3	Otras actividades de fabricación realizadas en la planta
+1.3.1	Descripción de otras actividades no farmacéuticas desarrolladas en la planta, en caso de corresponder.
+2. SISTEMA DE GESTIÓN DE CALIDAD DEL FABRICANTE
+2.1	Sistema de gestión de calidad del fabricante
+2.1.1	Breve descripción del sistema de calidad de la empresa, incluyendo la referencia a las normas utilizadas.
+2.1.2	Responsabilidades del área de Garantía/Aseguramiento de la Calidad. Responsabilidades relacionadas con el mantenimiento del sistema de calidad, incluyendo a la alta gerencia.
+2.1.3	Información de actividades para las cuales la empresa está acreditada y/o certificada; incluir fechas y contenido de las acreditaciones/certificaciones y nombres de los organismos de acreditación/certificación.
+2.2	Procedimiento de liberación de productos terminados
+2.2.1	Descripción detallada de los requerimientos de calificación (experiencia educativa y de trabajo) del/los Responsable(s) Técnico(s)/Persona(s) Autorizada(s) para la certificación/liberación de lotes.
+2.2.2	Descripción general del procedimiento de certificación/liberación de lotes.
+2.2.3	Responsabilidad de la Dirección Técnica/Persona(s) Autorizada(s) en relación con la cuarentena y liberación de productos terminados y en la evaluación de cumplimiento de la autorización de comercialización.
+2.2.4	En caso de que estén involucrados varios Responsables Técnicos/Personas Autorizadas describir los acuerdos entre ellos.
+2.2.5	Informar si entre las estrategias de control empleadas se incluyen Tecnologías de Análisis en Proceso (PAT) y/o Liberación en Tiempo Real o Liberación Paramétrica.
+2.3	Gestión de proveedores y contratados
+2.3.1	Breve descripción de la cadena de suministro y del programa de auditorías externas.
+2.3.2	Breve descripción de los sistemas de calidad utilizados para calificar a los contratados, elaboradores y/o proveedores de Ingredientes Farmacéuticos Activos (IFA) y otros elaboradores/proveedores de materiales críticos (por ejemplo: excipientes, materiales impresos, envases primarios, entre otros).
+2.3.3	Descripción de los recaudos para evitar la introducción de la Encefalopatía Espongiforme Bovina (EEB) en la elaboración de productos.
+2.3.4	Descripción de las medidas adoptadas cuando se sospecha o se identifican productos, graneles, ingredientes farmacéuticos activos o excipientes fraudulentos o falsificados.
+2.3.5	Describir las actividades contratadas con respecto a servicios científicos, analíticos o de asistencia técnica en relación con producción y análisis (por ejemplo: clasificaciones, calibraciones, entre otros).
+2.3.6	Listado de Terceristas contratados que intervienen en la fabricación y/o control, incluyendo razón social, dirección, información de contacto y detalle de las actividades contratadas (Anexo 4 del Archivo Maestro de Sitio).
+2.4	Gestión de Riesgos de Calidad (GRC)
+2.4.1	Breve descripción de las metodologías de gestión de riesgos para la calidad utilizadas por la empresa. Descripción de las responsabilidades.
+2.4.2	Alcance y enfoque en GRC, incluyendo breve descripción de cualquier actividad que se realice a nivel local, así como a nivel corporativo, cuando corresponda.
+2.5	Revisión de calidad del producto
+2.5.1	Breve descripción de las metodologías utilizadas.
+3. PERSONAL
+3.1	Adjuntar organigrama de la empresa, incluyendo Garantía/Aseguramiento de Calidad, producción, control de calidad, depósitos/distribución, ingeniería/mantenimiento y demás áreas relacionadas (Anexo 5 del Archivo Maestro de Sitio). Incluir cargos jerárquicos, el/los Responsable/s Técnico/s y Persona/s Autorizada/s. Indicar el número total de empleados detallando número de profesionales, técnicos, operarios calificados en gestión de calidad, producción, control de calidad, almacenamiento y distribución. Consignar los nombres de Jefes o Gerentes de cada área y supervisores.
+3.2	Describir para el Personal Clave calificación académica, experiencia y responsabilidades.
+4. INSTALACIONES Y EQUIPOS
+4.1	Instalaciones
+4.1.1	Breve descripción de la/s planta/s, superficie (cubierta y total) del sitio y lista de edificios. En caso de utilizarse diferentes edificios para la producción destinada a diferentes mercados, identificarlos e indicarlos (por ejemplo: mercado local, UE, EE.UU., etc.). Consignar además antigüedad edilicia, ubicación y descripción de los alrededores (por ejemplo: zona industrial, residencial, parque industrial, proximidad de otras industrias, entre otros). Describir la naturaleza o el tipo de construcción y de terminaciones internas.
+4.1.2	Informar horario/turnos de trabajo.
+4.1.3	Adjuntar un croquis de las áreas productivas con indicación de la escala (no se requieren planos de estructura o de ingeniería).
+4.1.4	Adjuntar diagramas de circulación de personal y materiales en la planta. (Anexo 6 del Archivo Maestro de Sitio). Indicar las actividades realizadas en cada área (por ejemplo: mezclado, llenado, almacenamiento, empaque, control de calidad, áreas de muestreo etc.) y en el caso de áreas clasificadas indicar su clasificación y los diferenciales de presión respecto de áreas adyacentes.
+4.1.5	Adjuntar diagramas de flujo de depósitos y áreas de almacenamiento, destacando las áreas especiales para el almacenamiento y manipulación de materiales altamente tóxicos, peligrosos y/o sensibilizantes, en caso de corresponder.
+4.1.6	Breve descripción de depósitos, áreas de almacenamiento y/o condiciones de almacenamiento específicas, en caso de corresponder.
+4.2	Breve descripción del sistema de calefacción, ventilación y aire acondicionado (HVAC, por sus siglas en inglés)
+4.2.1	Indicar requerimientos del suministro de aire, temperatura, humedad, diferenciales de presión, tasas de recambio de aire y la política de recirculación del aire (%) debidamente justificados. Adjuntar esquema del sistema del tratamiento de aire, incluyendo composición de las unidades manejadoras, ductos de inyección y retorno en las áreas productivas, de almacenamiento y de control de calidad. Descripción y esquema del sistema de extracción localizada (Anexo 7 del Archivo Maestro de Sitio).
+4.3	Breve descripción de los sistemas de agua
+4.3.1	Breve descripción del/los sistema/s de tratamiento y distribución de agua. Describir la calidad de agua producida. Descripción del/los sistema/s de sanitización empleados. Adjuntar croquis del/los sistema/s de tratamiento y distribución de agua indicando puntos de muestreo, puntos de uso y la pendiente del/los sistema/s de distribución (Anexo 8 del Archivo Maestro de Sitio). En el caso de sistemas con almacenamiento de agua y recirculación debe indicarse la temperatura de recirculación, mantenimiento y la temperatura en el punto de retorno.
+4.3.2	Detalle del estado de validación con fechas de realización.
+4.3.3	Breve descripción de otros servicios relevantes, como vapor, vapor limpio, aire comprimido, nitrógeno, etc.
+
+4.4	Equipos
+4.4.1	Adjuntar listados de equipos más relevantes de producción y del laboratorio de control de calidad indicando los instrumentos/componentes críticos (Anexo 9 del Archivo Maestro de Sitio).
+4.5	Limpieza y sanitización
+4.5.1	Breve descripción de los métodos de limpieza y sanitización de superficies en contacto con el producto (por ejemplo: limpieza manual, limpieza en el sitio automática (CIP - Clean in place, por su denominación en inglés), etc).
+4.6	Sistemas Informáticos Críticos para BPF
+4.6.1	Descripción de los sistemas informáticos críticos, excluyendo equipamiento específico tipo Controladores Lógicos Programables (PLCs).
+5. DOCUMENTACIÓN
+5.1	Descripción del sistema de documentación de la empresa (por ejemplo, electrónico, manual).
+5.2	En caso de que los documentos y registros se almacenan en archivos fuera de la planta, incluyendo datos de farmacovigilancia, cuando corresponda, tipos de documentos/registros, nombre y dirección del sitio de almacenamiento y el tiempo estimado requerido para recuperar los documentos desde dicho archivo.
+6. PRODUCCIÓN
+6.1	Producción
+6.1.1 Tipo de productos elaborados, incluyendo:
+- Listado de ingredientes farmacéuticos activos producidos, con breve descripción del flujo de producción (flujograma, etc.), indicando el/los material/es de partida, forma de obtención y los predios/áreas donde son producidos (Anexo 10 del Archivo Maestro de Sitio).
+- Listado de formas farmacéuticas de productos veterinarios, en caso de corresponder, que son elaborados en el sitio (Anexo 11 del Archivo Maestro de Sitio).
+- Listado de formas farmacéuticas de productos medicinales de investigación elaborados en el sitio para ensayos clínicos y en caso de ser en áreas diferentes a las de elaboración con fines comerciales, suministrar información de dichas áreas productivas y del personal involucrado (Anexo 12 del Archivo Maestro de Sitio).
+6.1.2	Listar las sustancias tóxicas o peligrosas manejadas (por ejemplo: con una alta actividad farmacológica y/o con propiedades sensibilizantes) (Anexo 13 del Archivo Maestro de Sitio).
+6.1.3	Tipo de productos elaborados en instalaciones dedicadas, áreas segregadas o por campaña, en caso de corresponder.
+6.1.4	Aplicación de Tecnología Analítica de Proceso (PAT), en caso de corresponder, mencionar la aplicación de cualquier tecnología relevante y los sistemas computarizados asociados.
+6.2	Validación del proceso
+6.2.1	Breve descripción de cada una de las líneas productivas (por ejemplo: comprimidos por vía húmeda con secado por lecho fluido, etc.).
+6.2.2	Breve descripción de la política de validación de procesos de elaboración de productos.
+6.2.3	Política de reproceso y re-trabajo.
+6.2.4	Política para recuperación de solventes y otros materiales.
+6.3	Gestión de materiales y depósito
+6.3.1	Mecanismos para el manejo de materias primas, materiales de envase y empaque, materiales semielaborados y a granel y productos terminados, incluidos el muestreo, la cuarentena, la liberación y almacenamiento.
+6.3.2	Mecanismos para el manejo de materiales y productos rechazados.
+7. CONTROL DE CALIDAD
+7.1	Descripción de las actividades de control de calidad llevadas a cabo en la/s planta/s respecto a ensayos físicos, químicos, microbiológicos y biológicos. Indicar existencia de bioterio, manejo de cultivo de células, ensayos con radioisótopos, entre otros.
+8. DISTRIBUCIÓN, QUEJAS, DEFECTOS DE PRODUCTOS Y RETIRO DEL MERCADO
+8.1	Distribución
+8.1.1	Indicar si existe otra/s empresa/s involucrada/s en la distribución de los productos y de qué tipo de empresa se trata (por ejemplo: distribuidoras, fabricantes, etc.). Indicar la ubicación de las empresas hacia las cuales los productos son enviados.
+8.1.2	Descripción del sistema utilizado para verificar que cada comprador/destinatario cuenta con el derecho legal de recibir productos farmacéuticos del elaborador.
+8.1.3	Breve descripción de los controles efectuados durante el tránsito (por ejemplo: monitoreo y control de temperatura).
+8.1.4	Describir el sistema de trazabilidad de distribución completa de productos hasta los clientes y el método o mecanismo de comprobación de su efectividad.
+8.1.5	Describir las medidas adoptadas para evitar que los productos ingresen en la cadena de suministro ilegal.
+8.2	Quejas, reclamos, defectos de productos y retiro del mercado
+8.2.1	Breve descripción de los sistemas para el manejo de quejas/reclamos, defectos de productos y retiro de productos del mercado.
+9. AUTOINSPECCIONES
+9.1	Breve descripción del sistema de autoinspecciones con especial atención a los criterios utilizados para la selección de las áreas a ser cubiertas durante las inspecciones previstas, la organización práctica y las actividades de seguimiento. Es recomendable citar las referencias utilizadas para la definición de criterios, procedimientos utilizados, etc.
+IV. ANEXOS DEL ARCHIVO MAESTRO DE SITIO
+
+El documento del Archivo Maestro de Sitio debe contener los siguientes anexos:
+
+Anexo 1:	Copia del/los certificado/s de habilitación vigentes emitidos por Autoridad Sanitaria Competente.
+Anexo  2 a):	Listado completo de productos elaborados en la planta, indicando: principios activos, forma farmacéutica, número de certificado/registro sanitario, cuando corresponda, registrados y comercializados en el país o no, especificando las áreas/predio donde son producidos.
+Anexo 2 b):	Listado completo de productos con intervención de terceros en alguna etapa de elaboración y/o control, indicando nombre, principios activos, forma farmacéutica, número de certificado de producto, cuando corresponda, nombre del tercero y etapa en la que interviene.
+Anexo 3:	Copia del/los certificado(s) vigentes emitidos por Autoridad Sanitaria Competente a raíz de inspecciones de BPF en la/s planta/s (últimos cinco (5) años).
+Anexo 4:	Listado de terceristas contratados para fabricación (incluye acondicionamiento) y/o control, describiendo la dirección e información de contacto para cada caso de las actividades contratadas (por ejemplo: esterilización de material de empaque primario para procesos asépticos, ensayos, especificando tipo, en materias primas, etc.).
+Anexo 5:	Organigrama de la empresa.
+Anexo 6:	Croquis de las áreas productivas con indicación de la escala. Diagramas de circulación de personal y materiales de cada tipo de producto (forma farmacéutica) en la planta, incluyendo depósitos y áreas de almacenamiento.
+Anexo 7:	Esquema del/los sistema(s) de tratamiento y distribución de aire y del sistema de extracción localizada.
+Anexo 8:	Esquema del/los sistema(s) de tratamiento y distribución de agua.
+Anexo 9:	Listados de equipos más relevantes de producción y del laboratorio de control.
+Anexo 10:	Listado de ingredientes farmacéuticos activos producidos, con breve descripción del flujo de producción indicando materiales de partida, forma de obtención y los predios/áreas donde son producidos.
+Anexo 11:	Listado de formas farmacéuticas de productos veterinario, en caso de corresponder, que son elaborados en el sitio.
+Anexo 12:	Listado de formas farmacéuticas de productos medicinales de investigación elaborados en el sitio para ensayos clínicos y, en caso de ser en áreas diferentes a las de elaboración con fines comerciales, suministrar información de dichas áreas productivas y del personal involucrado.
+Anexo 13:	Listado de las sustancias tóxicas o peligrosas manejadas (por ejemplo: con una alta actividad farmacológica y/o con propiedades sensibilizantes).
+
+
+2

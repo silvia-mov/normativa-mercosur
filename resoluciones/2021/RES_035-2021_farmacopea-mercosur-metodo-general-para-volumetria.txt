@@ -1,0 +1,216 @@
+Resolución GMC N° 35/21
+Título: FARMACOPEA MERCOSUR: MÉTODO GENERAL PARA VOLUMETRIA
+Fecha de aprobación: 02/03/2022
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 88130_RES_035-2021_ES_Farmacopea Metodo General Volumetria.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4223).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 35/21
+
+
+FARMACOPEA MERCOSUR: MÉTODO GENERAL PARA VOLUMETRÍA
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, la monografía "Farmacopea MERCOSUR: Método General para Volumetría", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo Nº 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 29/VIII/2022.
+
+
+GMC (Dec. CMC N° 20/02, Art. 6) - Montevideo, 02/III/22.
+
+
+ANEXO
+
+MÉTODO GENERAL PARA VOLUMETRÍA
+
+La titulación o volumetría es un método químico que se emplea para el análisis cuantitativo y se basa en una reacción estequiométrica entre el analito y una sustancia patrón (solución volumétrica). Existen diferentes tipos de volumetría en función de la naturaleza de la reacción y del método de detección del punto final.
+
+A continuación se describen los tipos de volumetría empleados en la Farmacopea MERCOSUR.
+
+Titulación directa: se emplea para la determinación de sustancias en solución, con una solución volumétrica apropiada. El punto final se determina instrumental o visualmente con un indicador apropiado.
+
+La solución volumétrica se agrega desde una bureta de capacidad apropiada elegida de acuerdo a la concentración de la solución volumétrica (molaridad), de modo tal que el volumen consumido sea entre 30 y 100 % de su capacidad nominal.
+
+Nota: En los casos en que se requiera menos de 10 mL de la solución volumétrica, se debe utilizar una microbureta adecuada.
+
+La aproximación al punto final se hace en forma directa agregando gota a gota la solución volumétrica con la precaución de que la última gota agregada no sobrepase el punto final.
+
+La cantidad de muestra titulada se calcula a partir del volumen consumido, la molaridad de la solución volumétrica y el factor de equivalencia especificado en la monografía correspondiente.
+
+Titulación residual o Titulación por retorno: en algunas titulaciones se agrega un volumen medido de solución volumétrica mayor al necesario para reaccionar con la muestra. El exceso de esta solución es titulado posteriormente con una segunda solución volumétrica. La cantidad de muestra titulada se calcula a partir de la diferencia entre el volumen de la solución volumétrica originalmente agregado y el volumen consumido por la segunda solución volumétrica en la titulación por retorno, la molaridad y el factor de equivalencia especificado en la monografía correspondiente.
+
+Titulación complejométrica: algunos cationes polivalentes se pueden titular directamente mediante el empleo de reactivos con los cuales forman complejos o quelatos. La obtención de un resultado satisfactorio en una complejometría depende del indicador elegido.
+
+La reacción entre el ion metálico y el indicador debe ser rápida y reversible. La constante de equilibrio de formación del complejo metal-indicador debe ser lo suficientemente elevada como para producir un cambio de color marcado pero debe ser menor que la correspondiente al complejo metal-solución volumétrica.
+
+Titulación por óxido-reducción: estas titulaciones se realizan cuando entre la sustancia activa de la solución volumétrica y la muestra se produce una reacción por intermedio de un intercambio electrónico, en la que una de ellas actúa como reductora (cede electrones) mientras que la otra se comporta como oxidante (adquiere electrones).
+
+Estas titulaciones se clasifican en métodos por oxidación, cuando la sustancia activa de la solución volumétrica tiene tendencia a ser reducida, adquiriendo electrones (oxidantes), y métodos por reducción, cuando la sustancia activa de la solución volumétrica puede dar formas oxidadas cediendo electrones (reductor).
+
+Titulación en medio no acuoso: muchas sustancias adquieren mejores propiedades ácidas o básicas cuando se disuelven en solventes orgánicos. Por lo tanto, la elección del solvente apropiado permite la titulación de gran variedad de sustancias mediante esta técnica.
+
+En el caso de una sustancia básica se emplea como solución volumétrica ácido perclórico en ácido acético glacial, aunque en casos especiales se emplea ácido perclórico en dioxano. El sistema de electrodos de vidrio-calomel resulta útil en estas determinaciones.
+
+Si durante la realización del ensayo la temperatura del titulante (t2) es diferente a la temperatura medida cuando se llevó a cabo la estandarización del mismo (t1), se debe corregir el volumen del titulante consumido por la fórmula [1+ 0.0011(t1-t2)].
+
+En el caso de una sustancia ácida se emplean como soluciones volumétricas alcóxidos de metales alcalinos o hidróxidos de tetralquilamonio. Con frecuencia se emplea metóxido de sodio en una mezcla de metanol y tolueno, aunque el metóxido de litio en metanol y benceno es empleado para titular sustancias que producen un precipitado gelatinoso en las titulaciones con metóxido de sodio.
+
+El error alcalino limita el empleo del electrodo de vidrio como electrodo indicador cuando se emplean alcóxidos de metales alcalinos como solución volumétrica, en particular en solventes básicos. Por lo tanto, el electrodo indicador de antimonio, aunque algo errático, resulta útil en dichos casos. El empleo de hidróxidos de amonio cuaternario, por ejemplo, el hidróxido de tetra n-butilamonio y el hidróxido de trimetilhexadecilamonio (en benceno-metanol o alcohol isopropílico), presenta dos ventajas sobre las otras soluciones volumétricas: (a) la sal de tetralquilamonio del ácido titulado es soluble en el medio de reacción y (b) se puede emplear un electrodo de vidrio calomel. Los solventes empleados en la titulación de sustancias ácidas se deben proteger de la exposición excesiva al aire atmosférico debido a la interferencia producida por el dióxido de carbono.
+Para ello se emplea una atmósfera inerte durante la titulación. La absorción de dióxido de carbono se puede determinar mediante la titulación con un blanco. El blanco no debe consumir más de 0,01 mL de metóxido de sodio 0,1 M (SV) por mL de solvente.
+
+El punto final se puede determinar visualmente observando el cambio de color de un indicador o potenciométricamente, según se especifique en la monografía correspondiente. Si se emplea un electrodo de calomel como electrodo de referencia, se recomienda reemplazar la solución acuosa de cloruro de potasio del puente salino por perclorato de litio 0,1 M en ácido acético glacial para titulaciones en solventes ácidos o cloruro de potasio en metanol para titulaciones en solventes básicos.
+
+Cuando en la monografía correspondiente se recomienda la modificación del electrodo de calomel con éstas o con otras mezclas no acuosas es necesario retirar previamente la solución de cloruro de potasio y lavar con agua para eliminar el cloruro de potasio residual. Luego se elimina el agua residual con el solvente no acuoso indicado y finalmente se llena el electrodo con la mezcla no acuosa indicada.
+
+Los sistemas más útiles para titulación en solventes no acuosos se indican en la Tabla 1.
+Tabla 1. Sistemas para titulaciones en medio no acuoso.
+Tipo de solvente
+De carácter ácido
+(para titulación de bases y sus sales)
+Relativamente neutro
+(para titulación diferencial de bases)
+De carácter básico
+(para titulación de ácidos)
+Relativamente neutro
+(para titulación diferencial de ácidos)
+Solvente 1
+Ácido acético glacial
+Anhídrido acético
+Ácido fórmico
+Ácido propiónico
+Cloruro de sulfurilo
+Acetonitrilo
+Alcoholes
+Cloroformo
+Benceno
+Tolueno
+Clorobenceno
+Acetato de etilo
+Dioxano
+Dimetilformamida
+n -butilamina
+Piridina
+Etilendiamina
+Morfolina
+Acetona
+Acetonitrilo
+Metil etil cetona
+Metil isobutil cetona
+Alochol ter-butílico
+Indicador
+Cristal violeta
+Rojo de quinaldina
+p-Naftolbenceína
+Alfazurina 2-G
+Verde de malaquita
+Rojo de metilo
+Naranja de metilo
+p-Naftolbenceína
+
+Azul de timol
+Timolftaleína
+Azo violeta
+o-Nitroanilina
+p-Hidroxiazobenceno
+Azo violeta
+ Azul de bromotimol
+ p-Hidroxiazobenceno
+ Azul de timol
+Electrodos
+Vidrio/Calomel
+Vidrio/Plata/Cloruro de plata
+Mercurio/Acetato mercúrico
+Vidrio/Calomel
+Calomel/Plata/Cloruro de plata
+Antimonio/Calomel
+Antimonio/Vidrio
+Antimonio/Antimonio2
+Platino/Calomel
+Vidrio/Calomel
+Antimonio/Calomel
+Vidrio/Calomel
+Vidrio/Platino
+1Los solventes relativamente neutros de baja constante dieléctrica como benceno, tolueno, cloroformo o dioxano pueden emplearse con cualquier solvente ácido o básico para aumentar la sensibilidad del punto final.
+2 En la solución titulante.
+
+Detección del punto final: el método más sencillo para determinar el punto de equivalencia es mediante el empleo de indicadores.
+
+Los indicadores son sustancias químicas, generalmente coloreadas, que responden a cambios en la solución antes y después del punto de equivalencia presentando cambios de color que pueden ser detectados visualmente como el punto final de la reacción, lo que constituye una estimación confiable del punto de equivalencia.
+
+Otro método útil para determinar el punto final de equivalencia es mediante mediciones electroquímicas. Si un electrodo indicador, sensible a la concentración de las especies que experimentan la reacción volumétrica, y un electrodo de referencia cuyo potencial es insensible a cualquier especie disuelta se sumergen en la solución a titular para formar una celda galvánica, la diferencia de potencial entre los electrodos puede ser medida con un medidor de pH que permite seguir el curso de la reacción.
+
+En la Tabla 2 se indican varios sistemas de electrodos apropiados para titulaciones potenciométricas.
+
+Realizar las curvas de titulación correspondientes (para una titulación ácido-base, pH en función de los mL de solución volumétrica agregados; y para titulaciones por precipitación, complejométricas o de óxido-reducción, los mV en función de los mL de solución volumétrica agregados), para obtener una curva sigmoidea con una porción que asciende rápidamente cerca del punto de equivalencia. El punto medio de esta porción vertical lineal o punto de inflexión puede considerarse como punto final. El punto de equivalencia también puede determinarse matemáticamente sin trazar una curva de titulación; sin embargo, se debe tener en cuenta que en reacciones asimétricas el punto final definido por la inflexión de la curva de titulación no ocurre exactamente en el punto de equivalencia estequiométrico. Por lo tanto, la detección potenciométrica del punto final no es apropiada para reacciones asimétricas, como por ejemplo, la reacción de precipitación,
+
+2Ag+ + CrO4-2
+y la reacción de óxido-reducción,
+5Fe+2 + MnO4-
+
+Correcciones con el blanco: el punto final determinado en una titulación es una estimación del punto de equivalencia de la reacción. La validez de esta estimación depende, entre otros factores, de la naturaleza de las sustancias a titular y de la concentración de la solución volumétrica. De modo que, para aumentar la confiabilidad de la determinación del punto final, resulta necesario realizar una corrección con un blanco apropiado. Tal corrección se realiza generalmente mediante la titulación del blanco, en la cual el procedimiento indicado se repite en cada detalle excepto que la muestra se omite. En estos casos, el volumen real de solución volumétrica, equivalente a la sustancia analizada, es la diferencia entre el volumen consumido en la titulación del blanco y el consumido en la titulación de la muestra. El volumen corregido así obtenido se emplea para calcular la cantidad de muestra titulada. Cuando se determina el punto final potenciométricamente, la corrección del blanco es generalmente insignificante.
+
+
+Tabla 2. Sistemas de electrodos para titulaciones potenciométricas.
+
+Titulación
+Electrodo indicador
+Ecuación 1
+Electrodo de referencia
+Aplicaciones 2
+Ácido-base
+Vidrio
+E=k+0,0591pH
+Calomel
+Plata/cloruro de plata
+Titulación de ácidos y bases
+Precipitimetría
+(plata)
+Plata
+E=Eo+0,0591log[Ag+]
+Calomel (con puente salino de nitrato de potasio)
+Titulación con/de plata incluyendo haluros o tiocianatos
+
+Complejometría
+ Mercurio-mercurio (II)
+E=Eo+0,0296(logk'-pM)
+Calomel
+Titulación de diversos metales con EDTA, Mg+2, Ca+2, Al+3, Bi+3
+
+Óxido-reducción
+Platino
+E=Eo+(0,0591/n)log[ox]/[red]
+Calomel o Plata/Cloruro de plata
+Titulaciones con arsenito, bromo, cerato, dicromato, hexacianoferrato (III), iodato, nitrito, permanganato y tiosulfato
+
+1 Forma apropiada de la ecuación de Nernst que describe el sistema de electrodos indicados: k=constante del electrodo de vidrio; k´=constante derivada del equilibrio Hg-Hg(II)-EDTA;M=cualquier metal titulable con EDTA; [ox] y [red] de la ecuación, ox +ne- ↔ red.
+2 La lista es representativa pero no es completa.
+
+
+2

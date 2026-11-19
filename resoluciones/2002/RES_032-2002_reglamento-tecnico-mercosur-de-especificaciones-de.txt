@@ -1,0 +1,208 @@
+Resolución GMC N° 32/02
+Título: REGLAMENTO TÉCNICO MERCOSUR DE ESPECIFICACIONES DEL DIESEL DE REFERENCIA PARA ENSAYO DE EMISIONES DE GASES DE ESCAPE
+Fecha de aprobación: 20/06/2002
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 40752_RES_032-2002_ES_FERR_RTM_Diesel_Emis_Gases_Acta 2_02.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1054).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 32/02
+
+
+REGLAMENTO TÉCNICO MERCOSUR DE ESPECIFICACIONES DEL DIESEL DE REFERENCIA PARA ENSAYO DE EMISIONES DE GASES DE ESCAPE
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº  91/93, 36/94, 152/96 y 38/98 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario adoptar las medidas necesarias destinadas al establecimiento progresivo de la integración sin fronteras, y que sea garantizada la libre circulación de bienes, servicios y factores productivos con mayor fluidez;
+
+Que para tal finalidad, los Estados Partes acordaron en adecuar sus legislaciones de modo de posibilitar el libre intercambio de vehículos, sus partes y sus piezas.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Establecer las especificaciones que constan en el Reglamento ECE 49 de Naciones Unidas (Anexo 5 -RF - 03 - A - 84), para el Diesel de referencia, utilizado en los ensayos de emisión de gases de escape en vehículos automotores en los procesos de homologación y control de producción.
+
+Art. 2 - Alternativamente a lo dispuesto en el Art. 1 se aceptaran las especificaciones del Reglamento Técnico MERCOSUR de Especificaciones del Diesel de Referencia para Ensayo de Emisiones de Gases de Escape, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 3 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 4 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, a través de los siguientes organismos:
+
+Argentina:	Secretaría de Energía del Ministerio de Economía
+
+Brasil:		Ministério de Minas e Energía
+Agência Nacional de Petróleo (ANP)
+
+
+Paraguay:	Ministerio de Industria y Comercio
+Ministerio de Obras Públicas y Comunicaciones
+
+Uruguay:	Ministerio de Industria y Energía
+      Ministerio de Transporte y Obras Públicas
+
+Art. 5 - La presente Resolución deroga el ítem III, del Artículo 1 de la Resolución GMC Nº 36/94.
+
+Art. 6 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 31/12/02.
+
+
+XLVI GMC - Buenos Aires, 20/VI/02
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR DE ESPECIFICACIONES DEL DIESEL DE REFERENCIA PARA ENSAYO DE EMISIONES DE GASES DE ESCAPE
+Características
+Unidades
+Especificaciones (1)
+Métodos
+ASTM - IP
+APARIENCIA
+Aspecto
+
+Color ASAM, máx:
+
+
+Límpido y exento de impurezas
+3,0
+
+Visual
+
+D-1500
+COMPOSICIÓN:
+Carbono Aromático, máx.
+Azufre, máx.
+
+% v/v
+%m/m
+
+20
+0,05
+
+D-3238
+D-1552, D-2622 ó D-4294
+DESTILACIÓN:
+50% Evaporado, mín.
+90% Evaporado, mín - máx.
+Punto de ebullición final, máx
+Punto de inflamación, mín.
+Densidad 20ºC/4ºC
+
+ºC
+
+
+ºC
+Kg/l
+
+245,0
+320,0 - 340.0
+370,0
+55,0
+0,8350 - 0,8450
+
+D-86
+
+
+D-93
+D-1298 ó D-4052
+FLUIDEZ
+Viscosidad a 40ºC:
+Punto de obstrucción de filtro en frío, máx:
+
+CSt
+
+
+ºC
+
+2,500 - 3,500
+
+
+-5
+
+D-445
+
+IP-309 ó EN-116
+CORROSIÓN
+Indice de Neutralización, máx:
+Corrosividad al Cobre (3h a 50ºC), máx:
+
+mg KOH/g
+
+0,2
+
+
+1
+
+D-974
+
+
+D-130
+CONTAMINANTES:
+Agua y sedimentos, máx.
+
+%v/v
+
+0,05
+
+D-1796
+COMBUSTIÓN:
+Cenizas, máx:
+Carbono Conradson, en los 10% finales de destilación, máx.
+Número de Cetano, mín.
+
+%m/m
+
+
+%m/m
+
+0,010
+
+
+0,20
+45,0 - 51,0(2)
+
+D-482
+
+
+D-524
+D-613
+ESTABILIDAD A LA OXIDACIÓN
+Insolubles totales, máx.
+
+
+mg/100 ml
+
+
+2,0
+
+
+D-5304
+
+
+(1) Todos los límites especificados son valores absolutos de acuerdo con la Norma ASTM E-29.
+
+(2) Queda  permitido, alternativamente al ensayo de número de cetano, la utilización del índice de cetano por el método ASTM-4737, con valor mínimo de 45. En caso de desacuerdo de resultados prevalecerá el valor del número de cetano.
+
+
+NOTA: A solicitud del fabricante o importador, podrá ser utilizado combustible diesel con una proporción máxima de azufre de 0,3% m/m en los  ensayos de consumo y emisiones.
+
+SECRETARIA ADMINISTRATIVA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 10
+FE DE ERRATAS - COPIA CERTIFICADA
+
+                                                       Director
+Lic. Santiago González Cravino
+
+
+SECRETARIA ADMINISTRATIVA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 10
+FE DE ERRATAS - CÓPIA CERTIFICADA
+
+                                                       Director
+Lic. Santiago González Cravino
+
+2
+
+
+3

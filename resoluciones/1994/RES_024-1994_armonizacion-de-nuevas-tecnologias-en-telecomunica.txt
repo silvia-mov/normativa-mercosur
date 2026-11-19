@@ -1,0 +1,64 @@
+Resolución GMC N° 24/94
+Título: ARMONIZACION DE NUEVAS TECNOLOGIAS EN TELECOMUNICACIONES
+Fecha de aprobación: 03/08/1994
+Vigencia: Derogada (Vigente desde el 18/11/2006 - Art. 40 POP. Sera derogada por la Res. GMC Nº 19/15, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 25385_RES_024-1994_ES_NuevaTecnTelec.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1854).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES N° 24/94
+
+ARMONIZACION DE NUEVAS TECNOLOGIAS EN TELECOMUNICACIONES
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, la Decisión Nº 2/93 del Consejo del Mercado Común, la Resolución Nº 91/93 del Grupo Mercado Común y la Recomendación Nº 16/94 del Subgrupo de Trabajo Nº 3, "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que el conocimiento anticipado de lo que cada Estado Parte tiene la intención de utilizar, ayuda mucho en lo que hace a la elaboración de acuerdos.
+
+La necesidad de establecer procedimientos que podrán ayudar a los Estados ParteS con relación al uso de nuevas tecnologías en servicios de telecomunicaciones.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art.1. Que siempre que un Estado Parte resuelve editar un reglamento técnico, disciplinando la adopción de un nuevo servicio de telecomunicaciones o de un servicio ya existente, basado en nuevas tecnologías, listadas o no en el Anexo, el mismo deberá informar a los demás con la mayor anticipación posible de la publicación del citado reglamento según el procedimiento indicado en la Decisión Nº 2/93 del CMC.
+
+Art. 2. El Estado Parte enviará tanto como sea posible con relación a informaciones sobre la tecnología a ser adoptada a través de estudios, manuales, folletos, etc.
+
+Art. 3. El tema podrá ser objeto de acuerdos cuatripartitos o revisión de acuerdos ya existentes con el propósito de armonizar en el futuro el uso de la nueva tecnología.
+
+Art. 4. Para los reglamentos técnicos referentes a nuevas tecnologías aplicables a los servicios de telecomunicaciones ya existentes, se deberá considerar los acuerdos ya firmados en el ámbito del MERCOSUR.
+
+Art. 5. Los organismos reguladores de telecomunicaciones de cada Estado Parte en tanto y en cuanto tengan responsabilidad directa en los mencionados Reglamentos Técnicos serán los responsables del cumplimiento de esta Resolución a nivel del MERCOSUR, sin que esto en ningún caso represente demora o imposibilidad de implementar nuevas tecnologías.
+
+
+ANEXO
+
+Lista de nuevas tecnologías que necesitan ser reglamentadas para el uso en servicios de telecomunicaciones:
+
+
+- Hierarquia Síncrona Digital (SDH)
+
+
+- Modo de Transferência Asíncrona (ATM)
+
+- Sinalização por Canal Comum (SSCC Nº 7 CCITT)
+
+- Sistema Celular Móvil Digital
+
+- Satélites de Baja Orbita
+
+- Rede Inteligente (RI)
+
+- Gerência de Rede de Telecomunicações (TMN)
+
+- Futuros Sistemas Públicos de Telecomunicaciones Móviles Terrestres (FPLMTS)
+
+- Televisión de Alta Definición (HDTV)
+
+- Distribuição de TV por Cabo (CATV)
+
+- PCN
+
+- DAB

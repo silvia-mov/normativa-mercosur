@@ -1,0 +1,199 @@
+Resolución GMC N° 40/01
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE DETERMINACIÓN DEL PUNTO H
+Fecha de aprobación: 10/10/2001
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 13357_RES_040-2001_ES_Determinación_Punto H_Acta 3_01.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1105).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 40/01
+
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE DETERMINACIÓN DEL
+PUNTO H
+
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 91/93, 152/96 y 38/98 del Grupo Mercado Común y el Proyecto de Resolución N° 08/01 del SGT N°3 "Reglamentos Técnicos y Evaluación de la Conformidad".
+
+CONSIDERANDO:
+
+Que el mercado interior implica un espacio sin fronteras interiores en el que está garantizada la libre circulación de mercancías, personas, servicios y capitales; que es importante adoptar medidas para tal fin;
+
+Que con objeto de garantizar la seguridad de los pasajeros, es importante que los vehículos cumplan requisitos para Determinación del Punto H;
+
+Que para tal fin, los Estados Partes acordaron adecuar sus legislaciones, de modo de hacer posible el libre intercambio de vehículos, sus partes y sus piezas.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre Determinación del Punto H", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - El presente Reglamento Técnico será asimismo de aplicación obligatoria para la circulación, homologación, certificación, patentamiento, licenciamiento o registro de los vehículos automotores, no pudiéndose imponer en dichas actividades requisitos técnicos adicionales a los establecidos por el mismo.
+
+Art. 3 - Alternativamente se admitirá la homologación de vehículos que cumplan el Reglamento FMVSS 202 de mayo de 1998, conforme  a lo dispuesto por la Dec .CMC Nº 70/00.
+
+Art. 4 - En caso de divergencias de interpretación del Reglamento Técnico, la misma se dirimirá tomando como referencia el anexo 8 del Reglamento ECE R46.03 de Junio de 1998,  versión en idioma Inglés.
+
+Art. 5 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución, a través de los siguientes organismos:
+
+
+Argentina:			Secretaría de Industria
+      Secretaría de Transporte
+
+Brasil:				Ministério da Justiça
+    Conselho Nacional de Trânsito
+    Departamento Nacional de Trânsito
+
+Paraguay:			Ministerio de Obras Públicas y Comunicaciones
+    Viceministerio de Transporte
+
+Uruguay:			Ministerio de Transporte y Obras Públicas
+    Ministerio de Industria, Energía y Minería
+
+
+Art. 6 - El presente Reglamento Técnico se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 7 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 10/IV/02; debiendo entrar en vigencia el presente Reglamento Técnico antes del 10/X/2003.
+
+
+XLIII GMC - Montevideo, 10/X/01
+
+
+ANEXO
+REGLAMENTO TÉCNICO MERCOSUR SOBRE DETERMINACIÓN DEL PUNTO H
+1. Objeto
+El procedimiento descrito en el presente anexo determina las condiciones para establecer la posición del punto H y el ángulo real del torso de una o varias plazas sentadas en un vehículo automóvil y a verificar la relación entre los parámetros medidos y los suministrados por el constructor del vehículo.(1)
+2. Definiciones
+En el sentido del presente anexo, se entiende por:
+2.1 "Parámetro de referencia", de una plaza sentada, una o varias de las características siguientes:
+2.1.1  Los puntos H y R, así como su interrelación;
+2.1.2 Los ángulos, real y previsto del torso, así como su interrelación.
+2.2 "Maniquí tridimensional para el punto H" ( Maniquí 3-D H), el dispositivo utilizado para la determinación del punto H y del ángulo real del torso. Este dispositivo se describe en el apéndice 1 del presente anexo.
+2.3 "Punto H", el centro del eje de pivotamiento entre el torso y el muslo del maniquí 3-D H, cuando está instalado en el asiento de un vehículo, tal y como se describe en el párrafo 4, y corresponde teóricamente con el punto R. (ver párrafo 3.2.2. para las tolerancias admisibles). Esta situado en el centro del eje de los puntos de mira del punto H situado uno a cada lado del maniquí. Una vez determinado, se considera fijo respecto al asiento aún cuando éste se desplace.
+2.4 "Punto R" o "punto de referencia de la plaza sentada", un punto definido por el constructor, para cada plaza sentada; y localizado respecto al sistema de tres dimensiones.
+2.5 "Línea del torso", el eje del vástago de la espalda del maniquí 3D-H, estando la espalda totalmente apoyada en el respaldo del asiento.
+2.6 "Ángulo real del torso", el ángulo entre una línea vertical que pase por el punto H y la línea del torso, medido con el sector graduado de la espalda del maniquí 3D-H. Corresponde teóricamente con el ángulo previsto del torso. (Ver párrafo 3.2.2 para las tolerancias admisibles).
+2.7 "Ángulo previsto del torso", el ángulo medido entre la línea vertical que pase por el punto R y la línea del torso, en la posición del respaldo previsto por el constructor del vehículo.
+2.8 "Plano medio del ocupante" (PMO), el plano medio del maniquí 3-D H, situado en una plaza de asiento determinada y está representado por la coordenada del punto H sobre el eje Y. En los asientos individuales, el plano medio del asiento, coincide con el plano medio del ocupante; en otros asientos, estará especificado por el constructor.
+2.9 "Sistema de referencia de tres dimensiones", el sistema definido en el apéndice 2 del presente anexo.
+2.10 "Puntos de referencia". Las marcas físicas en la superficie del vehículo definidas por el constructor (agujeros, superficies, marcas o entallas).
+2.11 "Base del vehículo para las medidas", la posición del vehículo definida por las coordenadas de los puntos de referencia en el sistema de tres dimensiones.
+3. Prescripciones
+3.1 Presentación de los resultados
+Para toda plaza sentada en la que los parámetros de referencia se utilizan para demostrar la conformidad con las disposiciones del presente Reglamento deben presentarse, de acuerdo con el procedimiento dispuesto en el apéndice 3 del presente anexo, la totalidad o una selección adecuada de los parámetros siguientes:
+3.1.1 las coordenadas del punto R con relación a un sistema de tres dimensiones.
+3.1.2 el ángulo previsto del torso.
+3.1.3 todas las indicaciones necesarias para la regulación del asiento, si es regulable, en la posición de medida definida en el párrafo 4.3;
+3.2 Relación entre las medidas obtenidas y las características de concepción del vehículo
+3.2.1 Las coordenadas del punto H y el valor del ángulo real del torso, obtenidas según el procedimiento definido en el párrafo 4, serán comparadas respectivamente a las coordenadas del punto R y el valor del ángulo previsto del torso indicadas por el constructor del vehículo.
+3.2.2 Las posiciones relativas de los puntos R y H y la desviación entre el ángulo previsto y el ángulo real del torso, se consideran satisfactorios para la plaza de asientos en cuestión, si el punto H definido por sus coordenadas, se encuentra en el interior de un cuadrado de 50 mm de lado en el que los lados son horizontales y verticales y las diagonales se cortan en el punto R, y de otra parte, si el ángulo real del torso no se difiere más de 5º de ángulo previsto del torso.
+3.2.3 Si se cumplen estas condiciones, el punto R y el ángulo previsto de torso, se utilizan para establecer la conformidad con las disposiciones del presente Reglamento.
+3.2.4 Si el punto H o el ángulo real del torso no son conformes a las prescripciones del párrafo 3.2.2, deben ser determinados otras dos veces (tres determinaciones en total). Si los resultados obtenidos en el curso de dos de estas tres determinaciones satisfacen las prescripciones, se aplicarán las disposiciones del párrafo 3.2.3.
+3.2.5 Si, los resultados de dos al menos de las tres determinaciones definidas en el párrafo 3.2.4, no satisfacen las prescripciones del párrafo 3.2.2, o si la verificación no se puede efectuar porque el constructor no ha suministrado datos sobre la posición del punto R o el ángulo previsto del torso, cada vez que se haga mención al punto R o al ángulo previsto de torso, debe ser utilizado como referencia al baricentro de los tres puntos obtenidos o la media de los tres ángulos medidos.
+4. Procedimiento para determinar el punto H y el ángulo real del torso.
+4.1 El vehículo debe ser preacondicionado a una temperatura de 20º ± 10º C, a elección del constructor, con el fin de que el material del asiento alcance la temperatura de la habitación. Si los asientos no han sido usados nunca, se debe sentar y respaldar una persona durante un minuto dos veces consecutivas, a fin de flexionar el asiento y respaldo. A este efecto y en lugar de la persona, puede utilizarse un dispositivo cuya masa sea de 70 a 80 kg. A petición del constructor, todos los conjuntos de asientos deben estar descargados durante al menos 30 minutos, antes de la instalación del maniquí 3-D H.
+4.2 El vehículo debe estar situado para las medidas, según se define en el párrafo 2.11.
+4.3 El asiento, si es regulable, debe regularse en primer lugar, a la posición normal de conducción o de utilización, más retrasada, en función del margen de regulación longitudinal del asiento declarada por el constructor, con exclusión de otros desplazamientos del asiento utilizados para otros casos de los de conducción o utilización normal.
+En el caso en que el asiento disponga de otros reglajes, (vertical, angular, de respaldo, etc.), a continuación, se regulará a la posición especificada por el constructor. De otra parte en el caso de un asiento suspendido, debe fijarse rígidamente la posición vertical y que corresponderá a una posición normal de conducción tal y como la defina el constructor.
+4.4 La superficie del asiento que vaya a ser ocupada por el maniquí 3-D H, debe ser recubierta por una tela de tamaño suficiente y de una textura definida como tela de algodón uniforme de 18,9 hilos/cm2 con una masa de 0,228 kg/m2 o de una tela de punto o no tejida con características equivalentes. Si el ensayo no se efectúa dentro del vehículo, la base sobre la que se sitúe el asiento, debe tener unas características esenciales (2) equivalentes a las del piso del vehículo sobre el que se utilice el asiento.
+4.5 Situar el conjunto asiento-respaldo maniquí 3-D H de forma que el plano medio del ocupante (PMO) coincida con el plano medio del maniquí. A petición del constructor, el maniquí puede ser desplazado hacia el interior respecto al PMO previsto, si esta posición del maniquí está muy desplazada hacia el exterior y el borde del  asiento no permite su nivelamiento.
+
+4.6 Acoplar los conjuntos de pies y los elementos inferiores de las piernas al asiento del maniquí, bien separadas, bien utilizando el conjunto de barra en T, y los elementos inferiores de las piernas. La recta que pasa por el punto de mira del punto H, debe ser paralela al suelo y perpendicular al plano medio longitudinal del asiento.
+4.7 Regular los pies y las piernas del maniquí como sigue:
+
+4.7.1 En asientos de conductor y de pasajero delantero exterior.
+
+4.7.1.1 Los dos conjuntos pierna-pie deben posicionarse hacia adelante de tal manera que los pies tomen posiciones naturales sobre el suelo y entre los pedales en su caso. El pie izquierdo se posicionará dentro de lo posible, de forma que los dos pies estén situados aproximadamente a la misma distancia del plano medio del maniquí. Asegurar que el nivel transversal del maniquí es correcto posicionándolo si es preciso con el asentamiento del maniquí o desplazando el conjunto pierna-pie hacia atrás. La recta que pasa por el punto de mira del punto H debe quedar perpendicular al plano medio longitudinal del asiento.
+
+4.7.1.2 Si la pierna izquierda no puede ser mantenida paralelamente a la derecha, y si el pie izquierdo no puede ser mantenido en reposo por la estructura, desplazar el pie izquierdo hasta que se encuentre una posición de reposo. Debe mantenerse el alineamiento del punto de mira del punto H.
+4.7.2 En asientos traseros exteriores. Con referencia a los asientos traseros o auxiliares, las piernas se colocarán según los datos del constructor. Si en este caso los pies reposan sobre partes del suelo que estén a dos niveles diferentes, el primer pie que entre en contacto con el asiento delantero debe servir de referencia y el otro pie se situará de tal forma que se obtenga el nivelado transversal del maniquí.
+4.7.3 Otros asientos. Utilizar el procedimiento descrito en el párrafo 4.7.1, salvo que los pies se dispongan según las indicaciones del constructor.
+4.8 Colocar las masas de muslos e inferiores de piernas y nivelar de nuevo el maniquí.
+4.9 Inclinar la espalda del maniquí hacia adelante hasta el tope delantero y separar el maniquí del asiento por medio de la barra en T. Reposicionar el maniquí sobre el asiento por medio de uno de los métodos siguientes:
+4.9.1 Si el maniquí tiene tendencia a deslizarse hacia atrás, hacerlo deslizar hasta que no sea necesaria ejercer ninguna carga horizontal hacia adelante sobre la barra T, para impedir el movimiento; es decir, hasta que la nalga del maniquí toque el respaldo. Si es necesario, reposicionar las piernas del maniquí.
+4.9.2 Si el maniquí no tiene tendencia a deslizarse hacia atrás, hacerle deslizar, ejerciendo una carga horizontal hacia atrás sobre la barra T, hasta que la nalga del maniquí toque el respaldo (Ver figura 2 del apéndice 1 del presente anexo).
+4.10 Aplicar una carga de 100 ± 10 N al conjunto del torso del maniquí en la intersección de los sectores circulares de cadera y de alojamiento de la barra en T. La dirección de la carga debe confundirse con una línea que pase por la intersección antes descrita y un punto situado inmediatamente por encima del alojamiento de la barra de muslo (ver figura 2 del apéndice 1 del presente anexo). A continuación reposar la espalda del maniquí sobre el respaldo del asiento, tomando la precaución necesaria para evitar que el maniquí deslice hacia adelante.
+4.11 Colocar las masas de las nalgas derecha e izquierda y a continuación y alternativamente las ocho masas de torso, manteniendo el maniquí nivelado.
+4.12. Inclinar hacia adelante la espalda del maniquí para evitar cualquier rozamiento sobre el respaldo del asiento. A continuación balancear el maniquí de un lado a otro de un plano vertical describiendo un arco de 10º (5º a cada lado del plano vertical) durante tres ciclos completos, a fin de suprimir cualquier tensión entre el maniquí y el asiento.
+Durante el balanceo, la barra en T del maniquí puede tener tendencia a desplazarse de los alineamientos verticales y horizontales especificados. Para evitar esta tendencia, debe aplicarse una carga lateral adecuada, durante los movimientos basculares. Manteniendo así la barra en T, hacer oscilar el maniquí, asegurándose que ninguna carga exterior, ni vertical ni de delante a atrás, se aplica inadvertidamente.
+En este punto, los pies del maniquí no deben bloquearse en ninguna posición ni mantenerles en una posición de bloqueo; por el contrario, si cambian de posición debe permitírseles.
+Reposar suavemente la espalda del maniquí sobre el respaldo del asiento verificando el nivelado del mismo. Como consecuencia del movimiento de los pies durante el balanceo del maniquí, deben ser reposicionados como sigue:
+Levantar alternativamente cada pie, lo mínimo necesario, para evitar cualquier movimiento adicional. Durante esta operación, los pies deben estar libres en el sentido de rotación y no estarán sometidos a ninguna carga lateral ni hacia adelante. Cuando cada pie esté reposicionado en su lugar, el talón debe estar en contacto con la estructura prevista al efecto.
+Comprobar los niveles del maniquí, ejerciendo si es preciso, una fuerza lateral sobre la parte superior de la espalda del maniquí para recuperar los niveles.
+4.13 Sujetando la barra en T para impedir que el maniquí deslice hacia adelante, proceder como sigue:
+a) colocar la espalda del maniquí sobre el respaldo del asiento;
+b) aplicar y liberar alternativamente, sobre la barra del respaldo y a una altura que corresponda aproximadamente al centro de las masas del torso, una carga horizontal hacia atrás, inferior o igual a 25 N, hasta que el sector circular del ángulo de la cadera indique que se ha obtenido una posición estable después de liberar la carga. Asegurar que ninguna carga exterior lateral o hacia abajo, se aplica sobre el maniquí. Si es necesario nivelar de nuevo el maniquí, bascular hacia adelante la espalda del mismo, recuperar el nivel y volver a comenzar el proceso desde el párrafo 4.12.
+4.14 Para todas las medidas:
+4.14.1 Las coordenadas del punto H se miden en el sistema de referencia de tres dimensiones.
+4.14.2 El ángulo real del torso se comprueba en el sector del ángulo de la espalda del maniquí cuando la varilla se sitúa totalmente hacia atrás.
+4.15 Si se desea proceder a una nueva instalación del maniquí, el conjunto del asiento debe permanecer sin carga alguna durante al menos 30 minutos, antes de la nueva instalación. El maniquí no debe quedar situado sobre el asiento más que el tiempo necesario para realizar el ensayo.
+4.16 Si los asientos de una misma fila pueden ser considerados como similares (asientos enterizos, asientos idénticos, etc.), se determinará un sólo punto H y un sólo ángulo real del torso, por fila de asientos; el maniquí descripto en el Apéndice 1 de este Anexo, en posición de sentado en un asiento, será considerado como representativo de la fila de asientos. Este asiento representativo deberá ser:
+4.16.1 Para la fila delantera, el asiento del conductor.
+4.16.2 Para la fila o filas traseras, un asiento exterior.
+
+ANEXO I - APÉNDICE 1
+DESCRIPCIÓN DEL MANIQUÍ TRIDIMENSIONAL PARA EL PUNTO H (*) (MANIQUÍ 3-D H)
+1. Elementos de asiento y espalda
+Los elementos de asiento y espalda están construidos en materia plástica armada y en metal. Simulan el torso humano y los muslos estando articulados mecánicamente en el punto H. En este punto esta articulada una varilla que tiene fijado un sector circular para medir el ángulo real del torso. Fijada al asiento, una barra de muslo ajustable, determina la línea media de asiento y se utiliza como línea de referencia del sector circular del ángulo de cadera.
+2. Elementos de cuerpo y piernas
+Los elementos inferiores de piernas se conectan al asiento del maniquí, simulando las rodillas, por medio de la barra en T que a su vez es la extensión lateral de la barra de muslos ajustable. Incorporados a los elementos inferiores de piernas, los sectores circulares permiten medir el ángulo de las rodillas. Los conjuntos de los pies están graduados para medir su ángulo. Dos niveles de alcohol permiten orientar el maniquí en el espacio. Los elementos de masas del cuerpo están situados en diferentes centros de gravedad, con el fin de producir una penetración en el asiento, equivalente a la de un hombre adulto de 76 kg. Es necesario verificar que todas las articulaciones del maniquí 3-D H giren libremente y sin rozamiento notable.
+
+Figura 1 - ELEMENTOS DEL MANIQUÍ 3-D H
+
+
+Figura 2 - PESO DEL MANIQUI
+
+
+Este maniquí corresponde al descrito en la norma ISO 6549-1980
+
+ANEXO 1 - APÉNDICE 2
+SISTEMA DE REFERENCIA DE TRES DIMENSIONES
+1. El sistema de referencia de tres dimensiones esta definido por tres planos ortogonales elegidos por el constructor del vehículo (ver figura) *.
+2. El posicionamiento del vehículo para las comprobaciones esta determinada por la ubicación del vehículo sobre un soporte tal que las coordenadas de los puntos identificados correspondan a los valores indicados por el constructor.
+3. Las coordenadas de los puntos R y H están determinadas respecto a los puntos identificados definidos por el constructor del vehículo.
+
+FIGURA - Sistema de referencia de tres dimensiones.
+* El sistema de referencia corresponde a la norma ISO 4130 - 1978.
+
+ANEXO 1 - APÉNDICE 3
+PARÁMETROS DE REFERENCIA DE LAS PLAZAS SENTADAS
+1. Codificación de los parámetros de referencia.
+Para cada plaza sentada, los parámetros de referencia deben ser relacionados en una lista. Las plazas de asiento se identifican por un código de dos caracteres. El primero es un numeral árabe que designa la fila de asientos, desde la parte delantera hasta la parte trasera del vehículo. El segundo es una letra mayúscula que designa la posición del asiento, viendo el vehículo desde su parte delantera, utilizándose las siguientes letras:
+L = izquierda	C = centro	R = derecha
+2. Definición del posicionamiento del vehículo para las comprobaciones.
+2.1 Coordenadas de los puntos identificados.
+X .............................................................
+Y .............................................................
+Z .............................................................
+3. Lista de los parámetros de referencia
+3.1 Plaza sentada ...........................................
+3.1.1 Coordenadas del punto R
+X ..............................................................
+Y ..............................................................
+Z ...............................................................
+3.1.2 Ángulo de torso previsto: .......................
+3.1.3 Indicaciones de reglaje del asiento (*)
+horizontal:
+vertical:
+angular:
+ángulo de torso:
+Nota: Enumerar en esta lista los parámetros de referencia de otras plazas de asiento utilizando la numeración: 3.2., 3.3., etc.
+(*) Tachar lo que no corresponda.
+
+
+(1) Cuando no sea posible determinar el punto H, utilizando el maniquí tridimensional u otros procedimientos en los asientos distintos a los de las plazas delanteras, la autoridad competente puede, si lo juzga adecuado, tomar como referencia el punto R indicado por el constructor.
+(2) Ángulo de inclinación, diferencia de altura con montaje sobre pedestal, textura superficial, etc.
+(*)Para toda información sobre el maniquí 3-D H, dirigirse a la Sociedad de Ingenieros del Automóvil (SAE), 400 Commonwealth Drive, Warrendale, Pennsylvania 15096, Estados Unidos de América.
+El maniquí correponde A/A descripción de la norma 150 6549-1980
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+10

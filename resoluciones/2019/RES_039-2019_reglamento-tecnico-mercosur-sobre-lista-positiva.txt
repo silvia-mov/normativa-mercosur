@@ -1,0 +1,6229 @@
+Resolución GMC N° 39/19
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE LISTA POSITIVA DE ADITIVOS PARA LA ELABORACIÓN DE MATERIALES PLÁSTICOS Y REVESTIMIENTOS POLIMÉRICOS DESTINADOS A ENTRAR EN CONTACTO CON ALIMENTOS (DEROGACIÓN DE LA RESOLUCIÓN GMC Nº 32/07)
+Fecha de aprobación: 15/07/2019
+Vigencia: Vigente (Vigente desde el 26/9/2025 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 75833_RES_039-2019_ES_FERR_RTM Lista Positiva Aditivos Plásticos.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3770).
+----------------------------------------------------------------------
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+María Fernanda Monti
+                                                                            Directora
+
+MERCOSUR/GMC/RES. Nº 39/19
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LISTA POSITIVA DE ADITIVOS PARA LA ELABORACIÓN DE MATERIALES PLÁSTICOS Y REVESTIMIENTOS POLIMÉRICOS DESTINADOS A ENTRAR EN CONTACTO CON ALIMENTOS
+ (DEROGACIÓN DE LA RESOLUCIÓN GMC Nº 32/07)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 56/92, 38/98, 32/07 y 45/17 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+
+Que la armonización de los Reglamentos Técnicos tiende a eliminar las barreras comerciales que generan las diferentes normativas nacionales, de conformidad con lo establecido en el Tratado de Asunción.
+
+Que los Estados Partes, debido a los avances en esta materia, consideraron que era necesario actualizar el Reglamento Técnico MERCOSUR sobre Lista Positiva de Aditivos para Materiales Plásticos destinados a la elaboración de envases y equipamiento en contacto con los alimentos.
+
+EL GRUPO MERCADO COMÚN RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre lista positiva de aditivos para la elaboración de materiales plásticos y revestimientos poliméricos destinados a entrar en contacto con alimentos", que consta como anexo y forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 3 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3) los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 4 - Derogar la Resolución GMC Nº 32/07.
+
+Art. 5 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 15/I/2020.
+
+LI GMC Ext. - Santa Fe, 15/VII/19.
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+María Fernanda Monti
+                                                                            Directora
+
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE LISTA POSITIVA DE ADITIVOS PARA LA ELABORACIÓN DE MATERIALES PLÁSTICOS Y REVESTIMIENTOS POLIMÉRICOS DESTINADOS A ENTRAR EN CONTACTO CON ALIMENTOS
+
+
+1. ALCANCE
+
+El presente Reglamento Técnico se aplica a los aditivos y coadyuvantes de polimerización para ser utilizados en materiales plásticos y revestimientos poliméricos en contacto directo con alimentos.
+
+2. OBJETIVO
+
+Establecer la lista de aditivos y coadyuvantes de polimerización autorizados para la fabricación de materiales plásticos y revestimientos poliméricos destinados a entrar en contacto con los alimentos, los respectivos límites de composición, la migración específica y las restricciones de uso, así como definir el método de cálculo y el uso de factores de corrección.
+
+3. DEFINICIONES
+
+3.1 Aditivo: sustancia que se añade intencionadamente a la formulación del material para obtener un efecto físico o químico durante la fabricación del plástico o en el material u objeto final; su presencia en el material u objeto final es intencionada.
+
+3.2 Coadyuvante de polimerización: toda sustancia usada para aportar un medio adecuado para la fabricación de un polímero, un plástico o un revestimiento polimérico; puede estar presente, pero ni es intencionado que esté presente en los materiales u objetos finales ni tiene efecto físico o químico en el material u objeto final.
+
+3.3 Auxiliar de polimerización: sustancia que inicia la polimerización o controla la formación de la estructura macromolecular.
+
+3.4  Nanoforma: forma de una sustancia natural o fabricada que contiene partículas, sueltas o formando un agregado o aglomerado y en el que el 50 % o más de las partículas en la granulometría numérica presenta una o más dimensiones externas en el intervalo de tamaños comprendido entre 1 nm y 100 nm.
+
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+María Fernanda Monti
+                                                                            Directora
+
+
+3.5 Partícula: parte diminuta de materia con límites físicos definidos.
+
+3.6 Aglomerado: conjunto de partículas o de agregados débilmente ligados en que la extensión de la superficie externa resultante es similar a la suma de las extensiones de las superficies de los distintos componentes.
+
+3.7 Agregado: partícula compuesta de partículas fuertemente ligadas o fusionadas.
+
+
+4. LISTA POSITIVA DE ADITIVOS Y COADYUVANTES DE POLIMERIZACIÓN DESTINADOS PARA LA ELABORACIÓN DE MATERIALES PLÁSTICOS Y REVESTIMIENTOS POLIMÉRICOS EN CONTACTO CON ALIMENTOS.
+
+4.1. Los aditivos y coadyuvantes de polimerización autorizados para la elaboración de materiales plásticos y revestimientos poliméricos, sus respectivas restricciones y especificaciones, están definidos en el Cuadro 1 de este Reglamento.
+
+4.1.1. Podrán ser usados en materiales plásticos y revestimientos poliméricos otros solventes que tengan un punto de ebullición menor a 150°C no listados en el Cuadro 1, siempre que no sean sustancias mutagénicas, carcinogénicas o tóxicas para la reproducción y que no produzcan una migración superior al 0,01mg/kg.
+
+4.2. Los aditivos alimentarios autorizados en los Reglamentos Técnicos MERCOSUR no mencionados en la presente lista, están también autorizados para la elaboración de materiales plásticos y revestimientos poliméricos en contacto con alimentos, siempre que:
+
+ a) Se cumplan las restricciones establecidas para su uso en los alimentos; y
+
+b) La cantidad de aditivo presente en el alimento sumado al que eventualmente pueda migrar del envase no excedan los límites establecidos para cada alimento.
+
+4.3. Las sustancias indicadas también están autorizadas para su uso como aditivos en la elaboración de materiales plásticos y revestimientos poliméricos destinados al contacto con alimentos, según lo establecido en el ítem 5 de este Reglamento, las disposiciones generales para materiales plásticos definidos en el Reglamento Técnico MERCOSUR y las restricciones y las especificaciones definidas en el Cuadro1:
+
+a) Sales (incluyendo las sales dobles y las sales ácidas) de amonio, calcio, magnesio, potasio y sodio de ácidos, fenoles o alcoholes autorizados;
+
+b) Sales (incluyendo las sales dobles y las sales ácidas) de aluminio, bario, cobalto, cobre, hierro, litio, manganeso y zinc de ácidos, fenoles o alcoholes autorizados. Para estas sales se aplican los siguientes Límites de Migración Específica grupal - LME (T):
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+María Fernanda Monti
+                                                                            Directora
+
+
+Aluminio = 1 mg/kg de alimento o simulante alimentario.
+Bario = 1 mg/kg de alimento o simulante alimentario.
+Cobalto = 0,05 mg/kg de alimento o simulante alimentario.
+Cobre = 5 mg/kg de alimento o simulante alimentario.
+Hierro = 48 mg/kg de alimento o simulante alimentario.
+Litio = 0,6 mg/kg alimento o simulante alimentario.
+Manganeso = 0,6 mg/kg de alimento o simulante alimentario.
+Níquel = 0,02 mg/kg de alimento o simulante alimentario.
+Zinc= 5 mg/kg de alimento o simulante alimentario.
+
+Para los revestimientos poliméricos la evaluación del LME (T) de aluminio, bario, cobalto, cobre, hierro, litio, manganeso, níquel y zinc podrá ser realizada sobre el sustrato inerte;
+
+c) Cuando se listen ácidos, fenoles o alcoholes, seguidos de la palabra "sales" significa que están autorizadas solo las sales de los cationes mencionados en los puntos (a) y (b), y no están autorizados los ácidos, fenoles o alcoholes libres correspondientes;
+
+d) Mezclas de sustancias autorizadas en que los componentes no tengan reacción química entre sí; y
+
+e) Sustancias poliméricas naturales o sintéticas de masa molecular igual o superior a 1.000 Da que cumplan los requisitos del Reglamento Técnico MERCOSUR referente a la lista positiva de monómeros, otras sustancias iniciadoras y polímeros, si pueden proporcionar el principal componente estructural de los materiales y objetos finales excepto macromoléculas obtenidas por fermentación microbiana.
+
+4.4. La lista positiva no incluye las siguientes sustancias que se pueden encontrar en el producto terminado:
+
+a) Sustancias residuales, también conocidos como sustancias no intencionalmente añadidas que incluyen:
+- impurezas de las sustancias utilizadas;
+- productos intermedios de reacción formados durante el proceso de producción; y
+- productos de descomposición reacción.
+
+b) Los siguientes auxiliares de polimerización: sistemas catalíticos iniciadores, aceleradores, catalizadores, modificadores y desactivadores de catalizadores, reguladores de masa molecular, agentes REDOX.
+
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+María Fernanda Monti
+                                                                            Directora
+
+
+4.5. Si una sustancia que aparece en la lista positiva como un compuesto aislado también está incluida con un nombre genérico, las restricciones aplicables a esta sustancia serán los correspondientes al compuesto aislado.
+
+4.6. En caso de desacuerdo entre el número CAS (Chemical Abstract Service) del registro CAS y el nombre químico, este último prevalecerá sobre el primero. En caso de desacuerdo entre el número CAS de EINECS (European Inventory of Existing Commercial Substances) y el de registro CAS, se aplicará el número de registro CAS.
+
+4.7. Criterios de inclusión y de exclusión de sustancias en la lista positiva.
+
+4.7.1. La lista de sustancias podrá ser modificada:
+
+a) Para la inclusión de nuevos componentes, cuando se haya demostrado que no representan un riesgo significativo para la salud humana y se justifica la necesidad tecnológica para su uso;
+
+b) Para la modificación de las restricciones de los componentes, cuando los nuevos conocimientos técnicos-científicos lo justifiquen;
+
+c) Para excluir componentes, cuando los nuevos conocimientos técnicos- científicos indiquen un riesgo significativo para la salud humana;
+
+4.7.2. Para la inclusión o exclusión de componentes, así como para la modificación de las restricciones, se utilizará como referencia las listas positivas de las regulaciones de la Unión Europea y, adicionalmente, las listas de sustancias autorizadas por la Food and Drug Administration - FDA (Título 21 del Code of Federal Regulations, y cuando fuere pertinente Food Contact Notification). Excepcionalmente, se podrá considerar las listas positivas de otras legislaciones y recomendaciones debidamente reconocidas. En caso de inclusión de nuevos componentes, deberán ser respetadas las restricciones de uso y los límites de composición y de migración específica establecidos en las legislaciones y recomendaciones de referencia.
+
+5. DISPOSICIONES GENERALES
+
+5.1. Las sustancias en nanoformas solo pueden ser utilizadas si hubieran sido expresamente autorizadas.
+
+5.2. Las sustancias utilizadas en la elaboración de materiales plásticos deben cumplir con los criterios de pureza y calidad técnica compatibles con su uso.
+
+5.2.1. El fabricante o importador de los materiales destinados a entrar en contacto con alimentos debe conocer o facilitar el acceso a la composición del producto a la Autoridad Sanitaria Competente y/u otro Organismo responsable cuando lo solicite.
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+María Fernanda Monti
+                                                                            Directora
+
+5.3. Los materiales plásticos y revestimientos poliméricos coloreados, impresos o que tengan en su composición adhesivos poliuretánicos no deben migrar aminas aromáticas primarias a los alimentos o al simulante B (considerado el simulante más crítico en este caso) en cantidades detectables, excepto aquellas enumeradas en el Cuadro 1.
+
+5.3.1 El límite de detección es de 0,01 mg de sustancia por kg de alimento o simulante alimentario.
+
+5.3.2 El límite de detección se aplica a la suma de las aminas aromáticas primarias que migran.
+
+6. CRITERIOS PARA LA DETERMINACIÓN DE LA MIGRACIÓN ESPECÍFICA
+
+6.1. La verificación del cumplimiento de los límites de migración específica se efectuará de acuerdo con lo descripto en el Reglamento Técnico MERCOSUR sobre Migración en Materiales, Envases y Equipamientos Plásticos destinados a entrar en contacto con Alimentos.
+
+6.2. Para la determinación de la migración específica, cuando corresponda, el ensayo puede ser realizado solamente con el simulante considerado más crítico para aquel material y sustancia en evaluación. Esta aproximación puede ser utilizada solamente si existieran pruebas científicas de que los resultados obtenidos en la migración sean iguales o más severos que aquellos que se obtendrían utilizando los demás simulantes de alimentos.
+
+6.3 Criterios para el cálculo de la migración específica:
+
+6.3.1 En el caso de materiales y objetos con una capacidad entre 500 ml y 10 L se utiliza para el cálculo la superficie de contacto real.
+
+6.3.2 En el caso de los materiales y objetos con capacidad inferior a 500 ml o superior a 10 L, así como para los objetos de los que es poco práctico para calcular la superficie de contacto real, se supone que la superficie de contacto es de 6 dm2 por kg de alimento.
+
+6.3.3 Para materiales y objetos con capacidad inferior a 500 ml destinados a la alimentación de niños menores de tres (3) años deberá ser aplicada la corrección en relación de área y volumen real.
+
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+María Fernanda Monti
+                                                                            Directora
+
+6.4 Para las sustancias lipofílicas que requieren la aplicación del factor de corrección de grasa (FCG), como se indica en el Cuadro 1, y que se utilizan en la elaboración de materiales destinados al contacto con alimentos cuyo contenido de grasa es igual o superior al 20%, se debe dividir el resultado del ensayo de migración específica por el valor de (FCG) antes de compararlo con los límites de migración específica.
+
+6.4.1 El FCG se determina según la fórmula:
+
+FCG = (g de grasa en el alimento/ kg de alimento) / 200 = (% de grasa × 5) / 100.
+
+6.4.2 La migración específica en simulantes de alimentos o alimentos no debe de exceder de 60 mg/kg de simulantes de alimentos o alimento antes de la aplicación del FCG.
+
+6.4.3 La corrección del FCG como se describe en el punto 6.4.1 no se aplicará:
+
+a) Cuando el material u objeto esté destinado a entrar en contacto con alimentos para niños de cero (0) a tres (3) años de vida.
+
+b) Cuando no es conocida la relación entre área superficial de los materiales y objetos y cantidad de alimento; en dicho caso se utiliza el factor de conversión convencional de 6 dm2/kg.
+
+6.5 Para la determinación de la migración de sustancias autorizadas en este Reglamento como aditivos para materiales plásticos en simulantes de alimentos grasos se aplica el factor de reducción de simulante D o D´ definido en el Reglamento Técnico MERCOSUR sobre la Migración en Materiales, Envases y Equipamientos Plásticos destinados para entrar en contacto con Alimentos.
+
+6.6 Los factores de corrección de resultados de los ensayos de migración descriptos en los puntos 6.4 y 6.5 pueden ser combinados multiplicándose ambos factores.
+
+6.6.1 Para esta combinación se deben cumplir las condiciones especificadas para cada uno de los factores y cuando el ensayo de migración se realiza con el simulante para alimentos grasos.
+
+6.6.2 El factor máximo aplicado no puede ser superior a cinco (5).
+
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+María Fernanda Monti
+                                                                            Directora
+
+
+6.7 Determinación de migración específica por aproximación:
+
+6.7.1 En el caso de sustancias que son inestables en simulantes de alimentos o cuando no hubiese un método analítico adecuado para el ensayo de migración específica, la verificación de la conformidad se podrá realizar mediante el cálculo de migración por aproximación.
+
+6.7.2 Para determinar por aproximación si un material u objeto cumplen los límites de migración podrá aplicarse alguno de los siguientes métodos de cálculo que se considere más estricto que el ensayo de migración correspondiente. Si aplicando estos métodos los resultados obtenidos son superiores al límite de migración específica establecido, deberán realizarse los ensayos de migración específica correspondientes, prevaleciendo estos resultados sobre los obtenidos por métodos de aproximación.
+
+6.7.3 Para determinar por aproximación la migración específica puede calcularse la migración en base a la cantidad adicionada o cantidad residual de la sustancia en el material o en el envase, asumiendo una migración completa. A este resultado se lo denomina migración potencial.
+
+6.7.4 Para determinar por aproximación la migración específica de sustancias consideradas no volátiles en las condiciones de ensayo de migración total, puede utilizarse el resultado de la determinación de migración total realizada en condiciones de ensayo por lo menos tan severas como para la migración específica.
+
+6.7.5 Para determinar por aproximación la migración específica, la misma puede calcularse sobre la base de la cantidad adicionada o residual de la sustancia en el material u objeto aplicando modelos de difusión reconocidos, basados en pruebas científicas y validados para ser utilizados en materiales plásticos. Los mismos deben estar concebidos para sobreestimar los niveles de migración reales. La aceptación de los resultados del cálculo de migración específica aplicando modelo de difusión quedará a criterio de la Autoridad Sanitaria Competente de conformidad con sus procedimientos.
+
+
+LISTA DE ADITIVOS AUTORIZADOS PARA MATERIALES PLÁSTICOS Y REVESTIMIENTOS POLIMÉRICOS DESTINADOS AL CONTACTO CON ALIMENTOS
+
+
+El cuadro 1 contiene las siguientes informaciones:
+* Sustancia MCA nº o Numero Mercosur de Sustancias (M nº): número de identificación de sustancia.
+* Nº Ref.: número de referencia de Unión Europea (UE) de la sustancia.
+* Nº CAS: número de registro de Chemical Abstracts Service (CAS) de la sustancia.
+* Designación de sustancia: denominación química.
+* FCG aplicable (si/no): indicación de que el resultado de la migración puede ser corregida por el factor de reducción de grasas FCG (sí) o no puede ser corregida por FCG (no).
+* Restricciones y/o especificaciones: límite de migración específica [LME (mg/kg)], límite de migración específica grupal [LME (T) (mg/kg)] y otras restricciones y especificaciones aplicables para la sustancia.
+A los efectos del presente Reglamento se entiende por:
+LC: límite de composición (cantidad máxima residual permitida) de sustancia en el material u objeto terminado.
+LC (T): límite de composición grupal (cantidad máxima residual permitida), expresado como el total grupal o sustancias indicadas, en el material u objeto terminado.
+LD: límite de detección del método de análisis.
+LME: límite de migración específica (cantidad máxima transferida permitida) en alimentos o sus simulantes.
+LME (T): límite de migración específica grupal (cantidad máxima transferida permitida) en alimentos o sus simulantes, expresado como el total de los grupos o sustancias indicadas.
+LMT: Limite de migración total.
+ND: no detectable.
+NÚMERO CAS: número de registro de CAS (Chemical Abstracts Service) de sustancia.
+PT: producto, material u objeto terminado.
+
+Cuadro 1. Lista positiva de aditivos con restricciones de uso y especificaciones.
+
+
+ Sust. MCA nº
+
+Nº Ref.
+
+Nº CAS
+
+Designación de sustancia
+FCG
+aplicable (si/no)
+
+Restricciones y especificaciones
+7
+30370
+-
+Ácido acetil acético, Sales
+No
+
+
+8
+
+30401
+
+-
+
+Mono y di glicéridos acetilados de ácidos grasos
+
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA8,72,73,138,140,157,159,207, 242, 283, 532, 670, 728, 729, 775, 783, 797, 798,810,
+815 y M3, M11, M33, M34, M69.
+
+
+9
+
+
+30610
+
+
+-
+Ácidos, C2-C24, alifáticos, lineales, mono carboxílicos, obtenidos a partir de grasas y aceites naturales, y sus ésteres con mono, di y triglicerol (incluidos los ácidos grasos ramificados a los niveles que se presentan
+naturalmente)
+
+
+No
+
+
+10
+
+30612
+
+-
+Ácidos, C2-C24, alifáticos, lineales, mono carboxílicos, sintéticos, y sus ésteres con mono-, di- y triglicerol
+
+No
+
+
+11
+30960
+-
+Ésteres de los ácidos alifáticos mono carboxílicos (C6- C22) con poliglicerol
+No
+
+12
+31328
+-
+Ácidos grasos obtenidos a partir de grasas y aceites
+alimentarios de origen animal o vegetal
+No
+
+
+13
+
+33120
+
+-
+Mono alcoholes alifáticos, saturados, lineales, primarios (C4-C 24)
+
+No
+
+14
+33801
+-
+Ácido n-alquil (C10-C13) benceno sulfónico
+No
+LME = 30 mg/kg.
+15
+34130
+-
+Alquil dimetilaminas, lineales con un número par de
+átomos de carbono (C12-C20)
+Sí
+LME = 30 mg/kg.
+16
+34230
+-
+Ácido alquil (C8-C22) sulfónico
+No
+LME = 6 mg/kg.
+17
+34281
+-
+Ácidos alquil (C8-C22) sulfúricos, lineales primarios, con número par de átomos de carbono
+No
+
+18
+34475
+-
+Hidroxifosfito de aluminio y calcio, hidrato
+No
+LME (T) = 1 mg/kg (expresado como Aluminio)
+
+19
+
+39090
+
+-
+
+N,N-Bis(2-hidroxietil)alquil (C8-C18) amina
+
+No
+LME (T) = 1,2 mg/kg (expresado como amina terciaria). El límite se refiere a la suma de las sustancias de número MCA 19, 20.
+
+20
+
+39120
+
+-
+
+Clorhidrato de N,N-bis(2-hidroxietil)alquil (C8-C18) amina
+
+No
+LME (T) = 1,2 mg/kg (expresado como amina terciaria excluyendo el HCl). El límite se refiere a la suma de las sustancias de número MCA 19, 20.
+21
+42500
+-
+Ácido carbónico, sales
+No
+
+22
+43200
+-
+Mono y di glicéridos del aceite de ricino
+No
+
+
+23
+
+43515
+
+-
+
+Ésteres de los ácidos grasos del aceite de coco con cloruro de colina
+
+No
+
+LME = 0,9 mg/kg.
+
+
+24
+45280
+-
+Fibras de algodón
+No
+
+25
+45440
+-
+Cresoles, butilados, estirenados
+No
+LME = 12 mg/kg.
+
+
+26
+
+
+46700
+
+
+-
+5,7-Di-terc-butil-3-(3,4- y 2,3-dimetilfenil)-3H-benzofuran- 2-ona conteniendo:
+a) 5,7-Di-terc-butil-3-(3,4-dimetilfenil)-3H-benzofuran-2- ona (80 a 100% m/m) y
+b) 5,7-di-terc-butil-3-(2,3-dimetilfenil)-3H-benzofuran-2- ona (0 a 20%m/m)
+
+
+No
+
+
+LME = 5 mg/kg.
+27
+48960
+-
+Ácido 9,10-dihidroxiesteárico y sus oligómeros
+No
+LME = 5 mg/kg.
+
+28
+
+50160
+
+-
+
+Bis[n-alquil (C10-C16) tioglicolato] de di-n-octil estaño
+
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646, 676, 736.
+
+29
+
+50360
+
+-
+
+Bis(etil maleato) de di-n-octil estaño
+
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite
+se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646, 676,736.
+
+30
+
+50560
+
+-
+
+1,4-Butanodiol bis(tioglicolato) de di-n-octil estaño
+
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646, 676, 736.
+
+31
+
+50800
+
+-
+
+Dimaleato de di-n-octil estaño esterificado
+
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28,
+29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646, 676,736.
+
+
+32
+
+50880
+
+-
+Dimaleato de di-n-octil estaño, polímeros (n = 2-4)
+
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582,
+618, 619, 620, 646, 676, 736.
+
+33
+
+51120
+
+-
+(Tiobenzoato)(2-etil- hexiltioglicolato) de di-n-octil estaño
+
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582,
+618, 619, 620, 646, 676, 736.
+34
+54270
+-
+Etil-hidroximetilcelulosa
+No
+
+35
+54280
+-
+Etil-hidroxipropilcelulosa
+No
+
+36
+54450
+-
+Grasas y aceites alimentarios, de origen animal o vegetal
+No
+
+
+37
+
+54480
+
+-
+Grasas y aceites hidrogenados alimentarios, de origen animal o
+vegetal
+
+No
+
+38
+55520
+-
+Fibras de vidrio
+No
+
+39
+55600
+-
+Micro partículas de vidrio
+No
+
+40
+56360
+-
+Ésteres de glicerol con ácido acético
+No
+
+
+41
+
+
+56486
+
+
+-
+Ésteres de glicerol con ácidos alifáticos, saturados, lineales, con número par de átomos de carbono (C14-C18) y con ácidos alifáticos, insaturados, lineales, con número
+par de átomos de carbono (C16-C18)
+
+
+No
+
+42
+56487
+-
+Ésteres de glicerol con ácido butírico
+No
+
+43
+56490
+-
+Ésteres de glicerol con ácido erúcico
+No
+
+44
+56495
+-
+Ésteres de glicerol con ácido 12- hidroxiesteárico
+No
+
+45
+56500
+-
+Ésteres de glicerol con ácido láurico
+No
+
+46
+56510
+-
+Ésteres de glicerol con ácido
+linoleico
+No
+
+47
+56520
+-
+Ésteres de glicerol con ácido mirístico
+No
+
+48
+56535
+-
+Ésteres de glicerol con ácido nonanoico
+No
+
+49
+56540
+-
+Ésteres de glicerol con ácido oleico
+No
+
+50
+56550
+-
+Ésteres de glicerol con ácido palmítico
+No
+
+51
+56570
+-
+Ésteres de glicerol con ácido
+No
+
+
+propiónico
+
+
+52
+56580
+-
+Ésteres de glicerol con ácido ricinoleico
+No
+
+53
+56585
+-
+Ésteres de glicerol con ácido esteárico
+No
+
+54
+57040
+-
+Mono-oleato de glicerol, éster con ácido ascórbico
+No
+
+55
+57120
+-
+Mono-oleato de glicerol, éster con ácido cítrico
+No
+
+56
+57200
+-
+Mono palmitato de glicerol, éster con ácido ascórbico
+No
+
+57
+57280
+-
+Mono palmitato de glicerol, éster con ácido cítrico
+No
+
+58
+57600
+-
+Mono estearato de glicerol, éster con ácido ascórbico
+No
+
+59
+57680
+-
+Mono estearato de glicerol, éster con ácido cítrico
+No
+
+60
+58300
+-
+Glicina, Sales
+No
+
+62
+64500
+-
+Lisina, Sales
+No
+
+63
+65440
+-
+Pirofosfito de manganeso
+No
+LME (T) = 0,6 mg/kg (expresado como manganeso).
+64
+66695
+-
+Metilhidroximetilcelulosa
+No
+
+
+65
+
+
+67155
+
+
+-
+
+Mezcla de 4-(2-benzoxazolil)-4′-(5- metil-2-benzoxazolil)estilbeno, 4,4′- bis(2-benzoxazolil)estilbeno y 4,4′- bis(5-metil-2-benzoxazolil) estilbeno
+No
+No superior a 0,05 % (m/m) (masa de sustancia utilizada/masa de formulación).
+
+La proporción de la mezcla obtenida a partir del proceso de fabricación debe ser de (58-62 %): (23-27 %): (13-17 %), que es la habitual.
+
+66
+
+67600
+
+-
+
+Tris[alquil(C10-C16) tioglicolato] de mono-n-octilestaño
+No
+
+LME (T) = 1,2 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 66, 645, 657.
+
+67
+
+67840
+
+-
+Ácidos montánicos y/o sus ésteres con etilenglicol y/o 1,3-butanodiol y/o glicerol
+No
+
+68
+73160
+-
+Fosfatos de mono y di-n-alquilo (C16 y C18)
+Sí
+LME = 0,05 mg/kg.
+69
+74400
+-
+Fosfito de tris(nonil y/o dinonilfenilo)
+Sí
+LME = 30 mg/kg.
+
+70
+
+76463
+
+-
+
+Sales del ácido poli acrílico
+No
+LME (T) = 6 mg/kg (expresado como ácido acrílico). El límite se refiere a la suma de las sustancias de número MCA 70, 147, 176, 218, 323, 325, 365,
+371, 380, 425, 446, 448, 456, 636.
+71
+76730
+-
+Polidimetilsiloxano γ-hidroxipropilado
+No
+LME = 6 mg/kg.
+72
+76815
+-
+Ésteres de poliéster de ácido
+adípico con glicerol o penta eritritol,
+con ácidos grasos C12-C22 no
+ramificados con número par de átomos de carbono
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728,
+729, 775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+La fracción con una masa molecular inferior a 1 000 Da no debe exceder del 5 % (m/m).
+
+
+Poliésteres de 1,2-propanodiol y/o 1,3- y/o 1,4-butanodiol y/o polipropilenglicol con ácido adípico, que pueden tener el extremo encapsulado en ácido acético o ácidos grasos C12- C18 o n-octanol
+y/o n-decanol
+
+LME (T) = 30 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 73,797.
+73
+76866
+-
+
+Sí
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728,
+729, 775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69
+74
+77440
+-
+Diricinoleato de polietilenglicol
+Sí
+LME = 42 mg/kg.
+75
+77702
+-
+Ésteres de polietilenglicol con ácidos alifáticos mono carboxílicos
+(C6-C22) y sus sulfatos de amonio y sodio
+No
+
+
+76
+
+77732
+
+-
+Acrilato de polietilenglicol (EO = 1-30, típicamente 5) éter de butil-2-ciano-3-(4-hidroxi-3- metoxifenil)
+No
+LME = 0,05 mg/kg.
+
+Solo para uso en PET.
+
+77
+
+77733
+
+-
+Acrilato de polietilenglicol (EO
+= 1-30, típicamente 5) éter de butil-2-ciano-3-(4-hidroxifenil)
+No
+LME = 0,05 mg/kg.
+
+Solo para uso en PET.
+
+78
+
+77897
+
+-
+Sales, sulfato de polietilenglicol (EO = 1-50) monoalquil éter (lineal y
+ramificado, C8-C20)
+No
+
+LME = 5 mg/kg.
+79
+80640
+-
+Polioxialquil (C2-C4) dimetilpolisiloxano
+No
+
+
+80
+
+81760
+
+
+-
+Polvos, escamas y fibras de latón, bronce, cobre, acero inoxidable, estaño y
+aleaciones de cobre, estaño y hierro
+No
+
+
+Debe cumplir con los LME (T) de metales establecidos en el ítem 4.3.b.
+81
+83320
+-
+Propilhidroxietilcelulosa
+No
+
+82
+83325
+-
+Propilhidroximetilcelulosa
+No
+
+83
+83330
+-
+Propilhidroxipropilcelulosa
+No
+
+84
+85601
+-
+Silicatos naturales (excepto amianto)
+No
+Debe cumplir con los LME (T) de metales establecidos en el ítem 4.3.b.
+85
+85610
+-
+Silicatos naturales silanizados (excepto amianto)
+No
+Debe cumplir con los LME (T) de metales establecidos en el ítem 4.3.b.
+86
+86000
+-
+Ácido silícico silanizado
+No
+
+
+87
+
+
+86285
+
+
+-
+
+
+Dióxido de silicio silanizado
+No
+Sin restricciones salvo para el dióxido de silício sintético amorfo silanizado, el que debe cumplir con la siguiente restricción:
+las partículas primarias de 1-100 nm, agregadas hasta una dimensión de 0,1-
+1 μm y que pueden formar aglomerados dentro de la distribución dimensional de 0,3 μm hasta el orden de los mm.
+
+88
+
+86880
+
+-
+Dialquil fenoxibenceno disulfonato de mono alquilo, sal de sodio
+No
+LME = 9 mg/kg.
+
+89
+
+89440
+
+-
+Ésteres del ácido esteárico con etilenglicol
+No
+LME (T) = 30 mg/kg (expresado como etilenglicol). El límite se refiere a la suma de las sustancias de número MCA 89, 227, 263,1048.
+90
+92195
+-
+Taurina, Sales
+No
+
+
+91
+
+92320
+
+-
+Éter de tetradecil- polietilenglicol (OE = 3-8) del ácido glicólico
+
+Sí
+LME = 15 mg/kg.
+92
+93970
+-
+Bis(hexahidroftalato) de triciclodecanodimetanol
+No
+LME = 0,05 mg/kg.
+
+
+93
+
+
+95858
+
+
+-
+
+
+Ceras parafínicas refinadas derivadas de hidrocarburos sintéticos o de petróleo de  bajaviscosidad
+No
+LME = 0,05 mg/kg.
+
+No utilizar para objetos en contacto con alimentos grasos. Masa molecular media no inferior a 350 Da.
+Viscosidad a 100 °C no inferior a 2,5 cSt (2,5 × 10-6 m2/s).
+
+Contenido de hidrocarburos con un número de carbonos inferior a 25: no más del 40 % (m/m)
+
+
+94
+
+
+95859
+
+
+-
+
+Ceras refinadas derivadas de hidrocarburos sintéticos o de petróleo de alta viscosidad
+No
+Masa molecular media no inferior a 500 Da.
+
+Viscosidad a 100 °C, no inferior a 11 cSt (11 × 10-6 m2/s).
+
+Cantidad de hidrocarburos minerales con un número de carbonos inferior a 25: no más de 5 % (m/m)
+
+
+95
+
+
+95883
+
+
+-
+
+Aceites minerales blancos parafínicos derivados de hidrocarburos de petróleo
+No
+Masa molecular media no inferior a 480 Da.
+
+Viscosidad a 100 °C no inferior a 8,5 cSt (8,5 × 10-6 m2/s).
+
+Cantidad de hidrocarburos minerales con un número de carbonos inferior a 25: no más de 5 % (m/m).
+96
+95920
+-
+Harina y fibras de madera, no tratadas
+No
+
+
+97
+
+
+72081/10
+
+
+-
+
+
+Resinas de hidrocarburos de petróleo (hidrogenadas)
+No
+Las resinas de hidrocarburos de petróleo, hidrogenadas, se producen mediante la polimerización catalítica o térmica de dienos y olefinas de los tipos alifático, alicíclico y/o aril alqueno mono bencénico a partir de destilados de existencias de petróleo craqueado con un intervalo de ebullición que no supere los 220 °C, así como los monómeros puros que se encuentran en estos flujos de destilado, seguidos de destilación, hidrogenación y transformación adicional.
+
+Propiedades:
+- Viscosidad a 120 °C: > 3Pa.s.
+- -Punto de reblandecimiento: > 95 °C, determinado por el método ASTM E28- 67.
+- Índice de bromo: < 40 (ASTM D1159).
+- Color de una solución de 50 % en tolueno: < 11 en la escala de Gardner.
+- Monómeros aromáticos residuales ≤ 50 ppm.
+98
+17260
+0000050-00-0
+Formaldehído
+No
+LME (T) = 15 mg/kg (expresado como formaldehído) El límite se refiere a la suma de las sustancias de número MCA 98, 196, 344.
+
+54880
+
+
+99
+19460
+0000050-21-5
+Ácido láctico
+No
+
+
+62960
+
+
+100
+24490
+0000050-70-4
+Sorbitol
+No
+
+
+88320
+
+
+101
+36000
+0000050-81-7
+Ácido ascórbico
+No
+
+103
+18100
+0000056-81-5
+Glicerol
+No
+
+
+55920
+
+
+104
+58960
+0000057-09-0
+Bromuro de hexadecil trimetil amonio
+No
+LME = 6 mg/kg.
+105
+22780
+0000057-10-3
+Ácido palmítico
+No
+
+
+70400
+
+
+106
+24550
+0000057-11-4
+Ácido esteárico
+No
+
+
+89040
+
+
+109
+23740
+0000057-55-6
+1,2-Propanodiol
+No
+
+
+81840
+
+
+110
+93520
+0000059-02-9
+0010191-41-0
+α-Tocoferol
+No
+
+111
+53600
+0000060-00-4
+Ácido etilen diamino tetra acético
+No
+
+112
+64015
+0000060-33-3
+Ácido linoleico
+No
+
+113
+16780
+0000064-17-5
+Etanol
+No
+
+
+52800
+
+
+114
+55040
+0000064-18-6
+Ácido fórmico
+No
+
+115
+10090
+0000064-19-7
+Ácido acético
+No
+
+
+30000
+
+
+116
+13090
+0000065-85-0
+Ácido benzoico
+No
+
+
+37600
+
+
+18
+23830
+0000067-63-0
+2-Propanol
+No
+
+
+81882
+
+
+119
+30295
+0000067-64-1
+Acetona
+No
+
+120
+49540
+0000067-68-5
+Dimetil sulfóxido
+No
+
+121
+24270
+0000069-72-7
+Ácido salicílico
+No
+
+
+84640
+
+
+131
+48460
+0000075-37-6
+1,1-Difluoroetano
+No
+
+
+134
+
+43680
+
+0000075-45-6
+
+Clorodifluorometano
+No
+LME = 6 mg/kg.
+
+El contenido de clorofluorometano en la sustancia debe ser inferior a 1 mg/kg.
+
+
+136
+
+
+41680
+
+
+0000076-22-2
+
+
+Alcanfor
+No
+Existe el riesgo de que la migración de la sustancia deteriore las características organolépticas del alimento con el que esté en contacto y que, por consiguiente, el producto final no se ajuste a los criterios generales de envases y equipamientos alimentarios en contacto con alimentos establecidos
+en el Reglamento Técnico MERCOSUR correspondiente.
+137
+66580
+0000077-62-3
+2,2′-Metilen-bis[4-metil-6-(1- metil-ciclohexil)fenol]
+Sí
+LME (T) = 3 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 137, 472.
+
+138
+
+93760
+
+0000077-90-7
+
+Citrato de tri-n-butil acetilo (= acetil citrato de tri-n-butilo)
+
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728,729,
+775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+139
+14680
+0000077-92-9
+Ácido cítrico
+No
+
+
+44160
+
+
+140
+
+44640
+
+0000077-93-0
+
+Citrato de trietilo
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728,729,
+775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+
+141
+13380
+
+0000077-99-6
+
+1,1,1-Trimetilolpropano
+No
+
+LME = 6 mg/kg.
+
+25600
+
+
+94960
+
+
+143
+62450
+0000078-78-4
+Isopentano
+No
+
+146
+23890
+0000079-09-4
+Ácido propiónico
+No
+
+
+82000
+
+
+157
+
+
+74880
+
+
+0000084-74-2
+
+
+Ftalato de dibutilo
+
+
+No
+LME = 0,3 mg/kg.
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728,729,
+775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+
+Solo para ser usado como:
+a) plastificante en materiales y objetos de uso repetido que estén en contacto con alimentos no grasos;
+b) agente de ayuda al proceso tecnológico en poliolefinas en concentraciones de hasta el 0,05 % en el producto final.
+
+No podrán utilizarse como sustancias o constituyentes de preparados en concentraciones superiores al 0,1 % en masa del material plastificado, en los materiales plásticos en contacto con alimentos para niños de 0 a 3 años.
+158
+23380
+0000085-44-9
+Anhídrido ftálico
+No
+
+
+76320
+
+
+159
+
+
+74560
+
+
+0000085-68-7
+
+
+Ftalato de bencilbutilo
+
+
+No
+LME = 30 mg/kg.
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729,775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+Utilizar solo como:
+a) plastificante en materiales y objetos de usorepetido;
+b) plastificante en materiales y objetos de un solo uso que estén en contacto con alimentos no grasos, salvo los preparados para niños de 0 a 3 años de edad, de acuerdo a lo definido en los reglamentos específicos;
+c) como agente de ayuda proceso tecnológico en concentraciones de hasta el 0,1 % en el producto final.
+No podrán utilizarse como sustancias o constituyentes de preparados en concentraciones superiores al 0,1 % en masa del material plastificado, en los materiales plásticos en contacto con alimentos para niños de 0 a 3 años.
+160
+84800
+0000087-18-3
+Salicilato de 4-terc-butilfenilo
+Sí
+LME = 12 mg/kg.
+161
+92160
+0000087-69-4
+Ácido- L-(+)-tartárico
+No
+
+162
+65520
+0000087-78-5
+Manitol
+No
+
+163
+66400
+0000088-24-4
+2,2′-Metilen-bis(4-etil-6-terc- butilfenol)
+Sí
+LME (T) = 1,5 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 163, 285.
+164
+34895
+0000088-68-6
+2-Aminobenzamida
+No
+LME = 0,05 mg/kg.
+Solo para uso en PET para agua y bebidas.
+165
+23200
+0000088-99-3
+Ácido o-ftálico
+No
+
+
+74480
+
+
+171
+38080
+0000093-58-3
+Benzoato de metilo
+No
+
+172
+37840
+0000093-89-0
+Benzoato de etilo
+No
+
+173
+60240
+0000094-13-3
+4-Hidroxibenzoato de propilo
+No
+
+178
+92800
+0000096-69-5
+4,4′-Tio-bis(6-terc-butil-3-
+metilfenol)
+Sí
+LME = 0,48 mg/kg.
+
+179
+48800
+0000097-23-4
+2,2′-Dihidroxi-5,5′-dicloro- difenilmetano
+Sí
+LME = 12 mg/kg.
+189
+60200
+0000099-76-3
+4-Hidroxibenzoato de metilo
+No
+
+
+195
+
+
+37360
+
+
+0000100-52-7
+
+Benzaldehído
+No
+Existe el riesgo de que la migración de la sustancia deteriore las características organolépticas del alimento con el que esté en contacto y que, por consiguiente, el producto final no se ajuste a los Criterios Generales de Envases y Equipamientos Alimentarios en Contacto con Alimentos establecidos en el Reglamento Técnico MERCOSUR correspondiente.
+196
+18670
+0000100-97-0
+Hexametilentetraamina
+No
+LME (T) = 15 mg/kg (expresado como formaldehído). El límite se refiere a la suma de las sustancias de número MCA 98, 196 y 344
+
+59280
+
+
+200
+51680
+0000102-08-9
+N,N′-Difeniltiourea
+Sí
+LME = 3 mg/kg.
+204
+25180
+0000102-60-3
+N,N,N′,N′-Tetrakis(2- hidroxipropil)etilendiamina
+No
+
+
+92640
+
+
+207
+
+
+31920
+
+
+0000103-23-1
+
+
+Adipato de bis(2-etilhexilo)
+
+
+Sí
+LME = 18 mg/kg.
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728,729,
+775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+
+Existe el riesgo de superar el LME o el límite de migración total en simulantes alimentarios grasos.
+212
+14200
+0000105-60-2
+Caprolactama
+No
+LME (T) = 15 mg/kg (expresado como caprolactama). El límite se refiere a la suma de las sustancias de número MCA 212, 435.
+
+41840
+
+
+213
+82400
+0000105-62-4
+Dioleato de 1,2-propilenglicol
+No
+
+214
+61840
+0000106-14-9
+Ácido 12-hidroxiesteárico
+No
+
+221
+40570
+0000106-97-8
+Butano
+No
+
+227
+16990
+0000107-21-1
+Etilenglicol
+No
+LME (T) = 30 mg/kg (expresado como etilenglicol). El límite se refiere a la suma de las sustancias de número MCA 89, 227, 263,1048.
+
+53650
+
+
+232
+10150
+0000108-24-7
+Anhídrido acético
+No
+
+
+30280
+
+
+239
+19975
+
+0000108-78-1
+
+2,4,6-Triamino-1,3,5-triazina
+No
+
+LME = 2,5 mg/kg.
+
+25420
+
+
+93720
+
+
+240
+45760
+0000108-91-8
+Ciclo-hexilamina
+No
+
+242
+85360
+0000109-43-3
+
+Sebacato de dibutilo
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728,729,
+775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+244
+71720
+0000109-66-0
+Pentano
+No
+
+247
+24820
+0000110-15-6
+Ácido succínico
+No
+
+
+90960
+
+
+248
+19540
+
+0000110-16-7
+
+Ácido maleico
+No
+LME (T) = 30 mg/kg (expresado como ácido maleico). El límite se refiere a la suma de las sustancias de número MCA 234, 248.
+
+64800
+
+
+249
+17290
+0000110-17-8
+Ácido fumárico
+No
+
+
+55120
+
+
+250
+53520
+0000110-30-5
+N,N′-Etilen-bis-estearamida
+No
+
+251
+53360
+0000110-31-6
+N,N′-Etilen-bis-oleamida
+No
+
+252
+87200
+0000110-44-1
+Ácido sórbico
+No
+
+254
+13720
+0000110-63-4
+1,4-Butanodiol
+No
+LME (T) = 5 mg/kg (expresado como 1,4-butanodiol). El límite se refiere a la suma de las sustancias de número MCA 254, 344, 672.
+
+40580
+
+
+256
+18010
+0000110-94-1
+Ácido glutárico
+No
+
+
+55680
+
+
+257
+13550
+
+0000110-98-5
+0025265-71-8
+
+Dipropilenglicol
+No
+
+
+16660
+
+
+51760
+
+
+258
+70480
+0000111-06-8
+Éster butílico del ácido palmítico
+No
+
+259
+58720
+0000111-14-8
+Ácido heptanoico
+No
+
+
+262
+
+
+35284
+
+
+0000111-41-1
+
+
+N-(2-aminoetil)etanolamina
+No
+LME (T) = 0,05 mg/kg.
+
+No utilizar para objetos en contacto con alimentos grasos.
+
+Solo para contacto indirecto con alimentos, detrás de una capa de PET.
+
+263
+13326
+
+
+0000111-46-6
+
+
+Dietilenglicol
+No
+
+LME (T) = 30 mg/kg (expresado como etilenglicol). El límite se refiere a la suma de las sustancias de número MCA 89, 227, 263,1048.
+
+
+15760
+
+
+47680
+
+
+266
+25510
+0000112-27-6
+Trietilenglicol
+No
+
+
+94320
+
+
+269
+25090
+0000112-60-7
+Tetraetilenglicol
+No
+
+
+92350
+
+
+270
+22763
+0000112-80-1
+Ácido oleico
+No
+
+
+69040
+
+
+271
+52720
+0000112-84-5
+Erucamida
+No
+
+272
+37040
+0000112-85-6
+Ácido behénico
+No
+
+
+273
+52730
+0000112-86-7
+Ácido erúcico
+No
+
+279
+22840
+0000115-77-5
+Pentaeritritol
+No
+
+
+71600
+
+
+280
+73720
+0000115-96-8
+Fosfato de tri cloro etilo
+No
+ND (LD=0,01 mg/kg).
+
+
+283
+
+
+74640
+
+
+0000117-81-7
+
+
+Ftalato de bis(2-etil-hexilo) (=DEHP)
+
+
+No
+LME = 1,5 mg/kg.
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728,729,
+775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+Utilizar solo como:
+a) plastificante en materiales y objetos de uso repetido que estén en contacto con alimentos no grasos;
+b) como agente de ayuda de proceso tecnológico en concentraciones de hasta el 0,1 % m/m en el producto final.
+No podrán utilizarse como sustancias o constituyentes de preparados en concentraciones superiores al 0,1 % en masa del material plastificado, en los materiales plásticos en contacto con alimentos para niños de 0 a 3 años.
+284
+84880
+0000119-36-8
+Salicilato de metilo
+No
+LME = 30 mg/kg.
+285
+66480
+0000119-47-1
+2,2′-Metilenbis(4-metil-6-terc- butilfenol)
+Sí
+LME (T) = 1,5 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 163, 285.
+286
+38240
+0000119-61-9
+Benzofenona
+Sí
+LME = 0,6 mg/kg.
+287
+60160
+0000120-47-8
+4-Hidroxibenzoato de etilo
+No
+
+290
+55360
+0000121-79-9
+Galato de propilo
+No
+LME (T) = 30 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 290, 386, 390.
+292
+94560
+0000122-20-3
+Tri-isopropanolamina
+No
+LME = 5 mg/kg.
+294
+
+93120
+
+0000123-28-4
+
+Tiodipropionato de didodecilo
+
+Sí
+LME (T) = 5 mg/kg (expresado como la suma de las sustancias y sus productos de oxidación). El límite se refiere a la suma de las sustancias de número MCA 294, 368, 894.
+295
+15940
+
+0000123-31-9
+
+1,4-Dihidroxibenceno
+No
+
+LME = 0,6 mg/kg.
+
+18867
+
+
+48620
+
+
+299
+63840
+0000123-76-2
+Ácido levulínico
+No
+
+300
+30045
+0000123-86-4
+Acetato de butilo
+No
+
+
+301
+
+89120
+
+0000123-95-5
+
+Éster butílico del ácido esteárico
+No
+
+303
+12130
+0000124-04-9
+Ácido adípico
+No
+
+
+31730
+
+
+304
+14320
+0000124-07-2
+Ácido caprílico
+No
+
+
+41960
+
+
+306
+88960
+0000124-26-5
+Estearamida
+No
+
+307
+42160
+0000124-38-9
+Dióxido de carbono
+No
+
+308
+91200
+0000126-13-6
+Acetoisobutirato de sacarosa
+No
+
+309
+91360
+0000126-14-7
+Octaacetato de sacarosa
+No
+
+311
+16480
+0000126-58-9
+Dipentaeritritol
+No
+
+
+51200
+
+
+313
+16650
+0000127-63-9
+Difenilsulfona
+No
+LME = 3 mg/kg.
+
+51570
+
+
+315
+46640
+0000128-37-0
+2,6-Di-terc-butil-p-cresol
+No
+LME = 3 mg/kg.
+317
+48880
+0000131-53-3
+2,2′-Di-hidroxi-4- metoxibenzofenona
+Sí
+LME (T) = 6 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 317, 318, 319, 359, 431, 464.
+318
+48640
+0000131-56-6
+2,4-Di-hidroxibenzofenona
+No
+LME (T) = 6 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 317, 318, 319, 359, 431, 464.
+319
+61360
+0000131-57-7
+2-Hidroxi-4-metoxibenzofenona
+Sí
+LME (T) = 6 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 317, 318, 319, 359, 431, 464.
+320
+37680
+0000136-60-7
+Benzoato de butilo
+No
+
+321
+36080
+0000137-66-6
+Palmitato de ascorbilo
+No
+
+322
+63040
+0000138-22-7
+Lactato de butilo
+No
+
+324
+83700
+0000141-22-0
+Ácido ricinoleico
+Sí
+LME = 42 mg/kg.
+
+
+326
+12763
+
+
+0000141-43-5
+
+
+2-Aminoetanol
+No
+LME = 0,05 mg/kg.
+
+No utilizar para objetos en contacto con alimentos grasos.
+
+Solo para contacto indirecto con alimentos, detrás de una capa de PET.
+
+
+35170
+
+
+327
+30140
+0000141-78-6
+Acetato de etilo
+No
+
+328
+65040
+0000141-82-2
+Ácido malónico
+No
+
+329
+59360
+0000142-62-1
+Ácido hexanoico
+No
+
+330
+19470
+0000143-07-7
+Ácido láurico
+No
+
+
+63280
+
+
+332
+69760
+0000143-28-2
+Alcohol oleílico
+No
+
+333
+22775
+0000144-62-7
+Ácido oxálico
+No
+LME = 6 mg/kg.
+
+69920
+
+
+335
+68960
+0000301-02-0
+Oleamida
+No
+
+336
+15095
+0000334-48-5
+Ácido n-decanoico
+No
+
+
+45940
+
+
+338
+71020
+0000373-49-9
+Ácido palmitoleico
+No
+
+339
+86160
+0000409-21-2
+Carburo de silício
+No
+
+340
+47440
+0000461-58-5
+Diciandiamida
+No
+LME = 60 mg/kg.
+345
+35840
+0000506-30-9
+Ácido araquídico
+No
+
+348
+22350
+0000544-63-8
+Ácido mirístico
+No
+
+
+67891
+
+
+350
+63920
+0000557-59-5
+Ácido lignocérico
+No
+
+353
+42480
+0000584-09-8
+Carbonato de rubidio
+No
+LME = 12 mg/kg.
+359
+15970
+0000611-99-4
+4,4′-Dihidroxibenzofenona
+No
+LME (T) = 6 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 317, 318, 319, 359, 431, 464.
+
+48720
+
+
+360
+57920
+0000620-67-7
+Tri-heptanoato de glicerol
+No
+
+368
+93280
+0000693-36-7
+Tiodipropionato de dioctadecilo
+Sí
+LME (T) = 5 mg/kg (expresado como la suma de las sustancias y sus productos de oxidación). El límite se refiere a la suma de las sustancias de número MCA 294, 368, 894.
+376
+66905
+0000872-50-4
+N-metil pirrolidona
+No
+LME = 60 mg/kg.
+383
+72160
+0000948-65-2
+2-Fenilindol
+Sí
+LME = 15 mg/kg.
+384
+40000
+0000991-84-4
+2,4-Bis(octiltio)-6-(4-hidroxi- 3,5-di-terc-butilanilino)-1,3,5-
+triazina
+Sí
+LME = 30 mg/kg.
+386
+55280
+0001034-01-1
+Galato de octilo
+No
+LME (T) = 30 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 290, 386, 390.
+390
+55200
+0001166-52-5
+Galato de dodecilo
+No
+LME (T) = 30 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 290, 386, 390.
+392
+72800
+0001241-94-7
+Fosfato de difenil-2-etil-hexilo
+Sí
+LME = 2,4 mg/kg.
+393
+37280
+0001302-78-9
+Bentonita
+No
+
+394
+41280
+0001305-62-0
+Hidróxido de calcio
+No
+
+395
+41520
+0001305-78-8
+Óxido de calcio
+No
+
+396
+64640
+0001309-42-8
+Hidróxido de magnesio
+No
+
+397
+64720
+0001309-48-4
+Óxido de magnesio
+No
+
+398
+35760
+0001309-64-4
+Trióxido de antimonio
+No
+LME = 0,04 mg/kg (expresado como antimonio).
+
+El límite de migración puede superarse a muy alta temperatura.
+399
+81600
+0001310-58-3
+Hidróxido de potasio
+No
+
+400
+86720
+0001310-73-2
+Hidróxido de sodio
+No
+
+402
+96240
+0001314-13-2
+Óxido de cinc
+No
+LME (T)= 5 mg/kg (expresado como Cinc).
+403
+96320
+0001314-98-3
+Sulfuro de cinc
+No
+LME (T) = 5 mg/kg (expresado como Cinc).
+404
+67200
+0001317-33-5
+Di sulfuro de molibdeno
+No
+
+406
+83300
+0001323-39-3
+Mono estearato de 1,2- propilenglicol
+No
+
+407
+87040
+0001330-43-4
+Tetra borato de sodio
+No
+LME (T) = 6 mg/kg (expresado como boro). El límite se refiere a la suma de las sustancias de número MCA 407,583, 584, 599, M86.
+
+El cumplimiento de este LME (T) no significa el cumplimiento de restricciones establecidas en los reglamentos para agua potable.
+
+El cumplimiento de este LME(T) no significa el cumplimiento de restricciones establecidas en el reglamento para materiales coloreados e impresos (Reglamento Técnico MERCOSUR sobre Colorantes en Envases y Equipamiento Plástico destinados a estar en Contacto con Alimentos)
+408
+82960
+0001330-80-9
+Mono oleato de 1,2- propilenglicol
+No
+
+409
+62240
+0001332-37-2
+Óxido de hierro
+No
+LME (T) = 48 mg/kg (expresado como Hierro).
+410
+62720
+0001332-58-7
+Caolín
+No
+
+411
+42080
+0001333-86-4
+Negro de humo (carbón black)
+
+.
+No
+Partículas primarias de 10-300 nm agregadas hasta una dimensión de 100-1.200 nm, que pueden formar aglomerados dentro de una granulometría de 300 nm-mm.
+
+Sustancias extractables en tolueno: máximo de 0,1 %, determinado de acuerdo al método ISO 6209.
+
+Absorción UV del extracto de ciclohexano a 386 nm: < 0,02 AU para una celda de 1 cm o < 0,1 AU para una celda de 5 cm, determinada de acuerdo a un método de análisis generalmente reconocido.
+Contenido de benzo(a)pireno: máximo de 0,25 mg/kg de negro de humo.
+Nivel máximo de uso de negro de humo en el polímero: 2,5 % m/m.
+
+412
+45200
+0001335-23-5
+Yoduro de cobre
+No
+LME (T) = 1 mg/kg (expresado como iodo). El límite se refiere a la suma de las sustancias de número MCA 412, 512, 513, 588.
+413
+35600
+0001336-21-6
+Hidróxido de amonio
+No
+
+414
+87600
+0001338-39-2
+Mono laurato de sorbitano
+No
+
+415
+87840
+0001338-41-6
+Mono estearato de sorbitano
+No
+
+416
+87680
+0001338-43-8
+Mono oleato de sorbitano
+No
+
+417
+85680
+0001343-98-2
+Ácido silícico
+No
+
+418
+34720
+0001344-28-1
+Óxido de aluminio
+No
+LME (T) = 1 mg/kg (expresado como aluminio).
+419
+92150
+0001401-55-4
+Ácido tánico
+No
+De conformidad con las especificaciones del JECFA.
+422
+38515
+0001533-45-5
+4,4′-Bis(2-
+benzoxazolil)estilbeno
+Sí
+LME = 0,05 mg/kg.
+
+Existe el riesgo de superar el LME o el límite de migración total en simulantes de alimentos grasos.
+428
+95200
+0001709-70-2
+1,3,5-Trimetil-2,4,6-tris (3,5-di-
+terc-butil-4-hidroxibencil) benceno
+No
+
+430
+95600
+0001843-03-4
+1,1,3-Tris(2-metil-4-hidroxi-5- terc-butilfenil) butano
+Si
+LME = 5 mg/kg.
+431
+61600
+0001843-05-6
+2-Hidroxi-4-n- octiloxibenzofenona
+Si
+LME (T) = 6 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 317, 318, 319, 359, 431, 464.
+433
+68320
+0002082-79-3
+3-(3,5-Di-terc-butil-4-
+hidroxifenil)propionato de octadecilo
+Si
+LME = 6 mg/kg.
+441
+38160
+0002315-68-6
+Benzoato de propilo
+No
+
+444
+61440
+0002440-22-4
+2-(2′-Hidroxi-5′-metilfenil) benzotriazol
+No
+LME (T) = 30 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 444, 469, 470.
+445
+83440
+0002466-09-3
+Ácido pirofosfórico
+No
+
+449
+49840
+0002500-88-1
+Di sulfuro de dioctadecilo
+Si
+LME = 0,05 mg/kg.
+451
+66755
+0002682-20-4
+2-Metil-4-isotiazolin-3-ona
+No
+LME = 0,5 mg/kg.
+
+Utilizar solo en dispersiones y emulsiones acuosas de polímeros.
+452
+38885
+0002725-22-6
+2,4-Bis(2,4-dimetilfenil)-6-(2- hidroxi-4-n-octiloxifenil)-1,3,5-
+triazina
+No
+LME = 5 mg/kg.
+458
+36960
+0003061-75-4
+Behenamida
+No
+
+459
+46870
+0003135-18-0
+3,5-Di-terc-butil-4-hidroxibencil
+-fosfonato de dioctadecilo
+No
+
+464
+61280
+0003293-97-8
+2-Hidroxi-4-n- hexiloxibenzofenona
+Si
+LME (T) = 6 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 317, 318, 319, 359, 431, 464.
+
+465
+68040
+0003333-62-8
+7-[2H-Nafto-(1,2-D)triazol-2-il]- 3-fenilcumarina
+No
+
+466
+50640
+0003648-18-8
+Dilaurato de di-n-octil estaño
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646, 676, 736.
+467
+14800
+0003724-65-0
+Ácido crotónico
+No
+LME = 0,05 mg/kg.
+
+45600
+
+
+468
+71960
+0003825-26-1
+Ácido perfluoro octanoico, sal de amonio
+No
+Utilizar solo en objetos de uso repetido, sinterizados a altas temperaturas.
+469
+60480
+0003864-99-1
+2-(2′-Hidroxi-3,5′-di-terc-butil- fenil)-5-clorobenzotriazol
+Si
+LME (T) = 30 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 444, 469, 470.
+470
+60400
+0003896-11-5
+2-(2′-Hidroxi-3′-terc-butil-5′- metilfenil)-5-clorobenzotriazol
+Si
+LME (T) = 30 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 444, 469, 470.
+472
+66560
+0004066-02-8
+2,2′-Metilenbis (4-metil-6- ciclohexilfenol)
+Si
+LME (T) = 3 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 137, 472.
+474
+43600
+0004080-31-3
+Cloruro de 1-(3-cloroalil)-3,5,7- triazo-1-azoniaadamantano
+No
+LME= 0,3 mg/kg
+477
+46720
+0004130-42-1
+2,6-Di-terc-butil-4-etilfenol
+Si
+LME = 4,8 mg/kg
+478
+60180
+0004191-73-5
+4-Hidroxibenzoato de
+isopropilo
+No
+
+480
+46790
+0004221-80-1
+3,5-Di-terc-butil-4- hidroxibenzoato de 2,4-di-
+terc-butilfenilo
+No
+
+483
+68860
+0004724-48-5
+Ácido n-octil fosfónico
+No
+LME = 0,05 mg/kg.
+486
+54005
+0005136-44-7
+Etilen-N-palmitamida-N′-
+estearamida
+No
+
+487
+45640
+0005232-99-5
+2-Ciano-3,3-difenilacrilato de
+etilo
+No
+LME = 0,05 mg/kg.
+488
+53440
+0005518-18-3
+N,N′-Etilen-bis-palmitamida
+No
+
+489
+41040
+0005743-36-2
+Butirato de calcio
+No
+
+491
+82720
+0006182-11-2
+Di estearato de 1,2-
+propilenglicol
+No
+
+492
+45650
+0006197-30-4
+Éster 2-etilhexílico del ácido
+2-ciano-3,3-difenilacrílico
+No
+LME = 0,05 mg/kg.
+493
+39200
+0006200-40-4
+Cloruro de bis (2-hidroxietil) - 2-hidroxipropil - 3 - (dodecil
+oxi) metilamonio
+No
+LME = 1,8 mg/kg.
+494
+62140
+0006303-21-5
+Ácido hipofosforoso
+No
+
+495
+35160
+0006642-31-5
+6-Amino-1,3-dimetiluracilo
+No
+LME = 5 mg/kg.
+496
+71680
+0006683-19-8
+Tetrakis[3-(3,5-di-terc-butil-4- hidroxifenil)propionato] de
+pentaeritritol
+No
+
+497
+95020
+0006846-50-0
+Diisobutirato de 2,2,4-trimetil-
+1,3-pentanediol
+No
+LME = 5 mg/kg.
+Utilizar solo en guantes de un solo uso.
+499
+19965
+0006915-15-7
+Ácido málico
+No
+
+
+65020
+
+
+500
+38560
+0007128-64-5
+2,5-Bis(5-terc-butil-2-
+benzoxazolil) tiofeno
+Si
+LME = 0,6 mg/kg.
+501
+34480
+-
+Aluminio (fibras, copos,
+polvos)
+No
+LME (T) = 1 mg/kg (expresado como aluminio).
+503
+46080
+0007585-39-9
+β-Dextrina
+No
+
+504
+86240
+0007631-86-9
+Dióxido de silício
+No
+Para dióxido de silicio amorfo sintético: partículas primarias de 1-100 nm agregadas hasta 0,1-1 μm, que pueden formar aglomerados dentro de una granulometría de 0,3 μm-mm.
+505
+86480
+0007631-90-5
+Bisulfito de sodio
+No
+LME (T) = 10 mg/kg (expresado como SO2). El límite se refiere a la suma de las sustancias de número MCA 505, 516, 519.
+506
+86920
+0007632-00-0
+Nitrito de sodio
+No
+LME = 0,6 mg/kg.
+507
+59990
+0007647-01-0
+Ácido clorhídrico
+No
+
+508
+86560
+0007647-15-6
+Bromuro de sodio
+No
+
+509
+23170
+0007664-38-2
+Ácido fosfórico
+No
+
+
+72640
+
+
+510
+12789
+0007664-41-7
+Amoníaco
+No
+
+
+35320
+
+
+511
+91920
+0007664-93-9
+Ácido sulfúrico
+No
+
+512
+81680
+0007681-11-0
+Yoduro de potasio
+No
+LME (T) = 1 mg/kg (expresado como iodo). El límite se refiere a la suma de las sustancias de número MCA 412, 512, 513, 588.
+513
+86800
+0007681-82-5
+Yoduro de sodio
+No
+LME (T) = 1 mg/kg (expresado como iodo). El límite se refiere a la suma de las sustancias de número MCA 412, 512, 513, 588.
+514
+91840
+0007704-34-9
+Azufre
+No
+
+515
+26360
+0007732-18-5
+Agua
+No
+De conformidad con la legislación vigente para agua potable.
+
+95855
+
+
+516
+86960
+0007757-83-7
+Sulfito de sodio
+No
+LME (T) = 10 mg/kg (expresado como SO2). El límite se refiere a la suma de las sustancias de número MCA 505, 516, 519.
+517
+81520
+0007758-02-3
+Bromuro de potasio
+No
+
+518
+35845
+0007771-44-0
+Ácido araquidónico
+No
+
+519
+87120
+0007772-98-7
+Tiosulfato de sodio
+No
+LME (T) = 10 mg/kg (expresado como SO2). El límite se refiere a la suma de las sustancias de número MCA 505, 516, 519.
+520
+65120
+0007773-01-5
+Cloruro de manganeso
+No
+LME (T) = 0,6 mg/kg (expresado como manganeso).
+521
+58320
+0007782-42-5
+Grafito
+No
+
+523
+45195
+0007787-70-4
+Bromuro de cobre
+No
+LME (T)= 5 mg/kg (expresado como cobre).
+525
+62640
+0008001-39-6
+Cera japonesa
+No
+
+526
+43440
+0008001-75-0
+Ceresina
+No
+
+527
+14411
+0008001-79-4
+Aceite de ricino
+No
+
+
+42880
+
+
+528
+63760
+0008002-43-5
+Lecitina
+No
+
+529
+67850
+0008002-53-7
+Cera de Montana
+No
+
+530
+41760
+0008006-44-8
+Cera de candelilla
+No
+
+531
+36880
+0008012-89-3
+Cera de abejas
+No
+
+532
+88640
+0008013-07-8
+Aceite de soja epoxidado
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+Debe cumplir con los siguientes requisitos:
+-Oxígeno oxiránico < 8%;
+-Índice de iodo < 6.
+Además en el caso de las juntas de PVC utilizadas para sellar envases que contengan alimentos para niños de 0 a 3 años de edad debe cumplir el LME = 30 mg/kg.
+533
+42720
+0008015-86-9
+Cera de Carnauba
+No
+
+534
+
+
+80720
+0008017-16-1
+Ácidos polifosfóricos
+No
+
+
+535
+24100
+0008050-09-7
+Colofonia
+No
+
+
+24130
+
+
+24190
+
+
+83840
+
+
+536
+84320
+0008050-15-5
+Éster de colofonia hidrogenada con metanol
+No
+
+537
+84080
+0008050-26-8
+Éster de colofonia con
+pentaeritritol
+No
+
+538
+84000
+0008050-31-5
+Éster de colofonia con glicerol
+No
+
+540
+63940
+0008062-15-5
+Ácido lignosulfónico
+No
+LME = 0,24 mg/kg.
+Utilizar solo como dispersante para dispersiones plásticas.
+541
+58480
+0009000-01-5
+Goma arábiga
+No
+
+542
+42640
+0009000-11-7
+Carboximetilcelulosa
+No
+
+543
+45920
+0009000-16-2
+Dammar
+No
+
+544
+58400
+0009000-30-0
+Goma guar
+No
+
+545
+93680
+0009000-65-1
+Goma tragacanto
+No
+
+546
+71440
+0009000-69-5
+Pectina
+No
+
+547
+55440
+0009000-70-8
+Gelatina
+No
+
+548
+42800
+0009000-71-9
+Caseína
+No
+
+549
+80000
+0009002-88-4
+Cera de polietileno
+No
+
+550
+81060
+0009003-07-0
+Cera de polipropileno
+No
+
+551
+79920
+0009003-11-6
+0106392-12-5
+Poli(etilen propilen) glicol
+No
+
+552
+81500
+0009003-39-8
+Polivinilpirrolidona
+No
+Debe cumplir con las siguientes especificaciones de pureza:
+- Agua: No más del 5 % m/m (Karl Fischer)
+- Cenizas totales: No más del 0,1 % m/m
+- Aldehído: No más de 500 mg/kg (expresado como acetaldehído)
+- N-vinilpirrolidona libre: No más de 10 mg/kg
+- Hidrazina: No más de 1 mg/kg
+- Plomo: No más de 5 mg/kg
+553
+14500
+0009004-34-6
+Celulosa
+No
+
+
+43280
+
+
+554
+43300
+0009004-36-8
+Acetobutirato de celulosa
+No
+
+555
+53280
+0009004-57-3
+Etilcelulosa
+No
+
+556
+54260
+0009004-58-4
+Etilhidroxietilcelulosa
+No
+
+557
+66640
+0009004-59-5
+Metiletilcelulosa
+No
+
+558
+60560
+0009004-62-0
+Hidroxietilcelulosa
+No
+
+559
+61680
+0009004-64-2
+Hidroxipopilcelulosa
+No
+
+560
+66700
+0009004-65-3
+Metilhidroxipropilcelulosa
+No
+
+561
+66240
+0009004-67-5
+Metilcelulosa
+No
+
+563
+78320
+0009004-97-1
+Monoricinoleato de polietilenglicol
+Si
+LME = 42 mg/kg.
+564
+24540
+0009005-25-8
+Almidón, calidad alimentaria
+No
+
+
+88800
+
+
+565
+61120
+0009005-27-0
+Hidroxietilalmidón
+No
+
+566
+33350
+0009005-32-7
+Ácido algínico
+No
+
+567
+82080
+0009005-37-2
+Alginato de 1,2-propilenglicol
+No
+
+568
+79040
+0009005-64-5
+Monolaurato de
+polietilenglicolsorbitano
+No
+
+569
+79120
+0009005-65-6
+Monooleato de polietilenglicolsorbitano
+No
+
+570
+79200
+0009005-66-7
+Monopalmitato de polietilenglicolsorbitano
+No
+
+571
+79280
+0009005-67-8
+Monoestearato de polietilenglicolsorbitano
+No
+
+572
+79360
+0009005-70-3
+Trioleato de polietilenglicolsorbitano
+No
+
+573
+79440
+0009005-71-4
+Triestearato de polietilenglicolsorbitano
+No
+
+574
+24250
+0009006-04-6
+Caucho natural
+No
+
+
+84560
+
+
+575
+76721
+0063148-62-9
+Polidimetilsiloxano (PM > 6800 Da)
+No
+Viscosidad a 25°C no inferior a 100 cSt (100 × 10 -6 m2/s).
+576
+60880
+0009032-42-2
+Hidroxietilmetilcelulosa
+No
+
+577
+62280
+0009044-17-1
+Copolímero de isobutileno buteno
+No
+
+578
+79600
+0009046-01-9
+Fosfato de polietilenglicol éter tridecílico
+No
+LME = 5 mg/kg.
+
+Solo para materiales y objetos destinados a entrar en contacto con alimentos acuosos.
+
+Fosfato de polietilenglicol (EO ≤ 11) éter tridecílico (éster monoalquílico y dialquílico) con un contenido máximo de polietilenglicol (EO ≤ 11) éter tridecílico del 10%.
+579
+61800
+0009049-76-7
+Hidroxipropil almidón
+No
+
+580
+46070
+0010016-20-3
+α- Dextrina
+No
+
+581
+36800
+0010022-31-8
+Nitrato de bario
+No
+LME (T) = 1 mg/kg (expresado como bario).
+582
+50240
+0010039-33-5
+Bis(2-etilhexil maleato) de di- n-octilestaño
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646,
+676, 736.
+583
+40400
+0010043-11-5
+Nitruro de boro
+No
+LME (T) = 6 mg/kg (expresado como boro). El límite se refiere a la suma de las sustancias de número MCA 407,583, 584, 599, M86.
+
+El cumplimiento de este LME(T) no significa el cumplimiento de restricciones establecidas en los reglamentos para agua potable
+
+El cumplimiento de este LME(T) no significa el cumplimiento de restricciones establecidas en el reglamento para materiales coloreados e impresos (Reglamento Técnico MERCOSUR sobre Colorantes en Envases y Equipamiento Plástico destinados a estar en Contacto con Alimentos).
+584
+13620
+0010043-35-3
+Ácido bórico
+No
+LME (T) = 6 mg/kg (expresado como boro). El límite se refiere a la suma de las sustancias de número MCA 407,583, 584, 599, M86.
+
+El cumplimiento de este LME(T) no significa el cumplimiento de restricciones establecidas en los reglamentos para agua potable
+El cumplimiento de este LME(T) no significa el cumplimiento de restricciones establecidas en el reglamento para materiales coloreados e impresos (Reglamento
+Técnico MERCOSUR sobre Colorantes en Envases y Equipamiento Plástico destinados a estar en Contacto con Alimentos).
+
+40320
+
+
+585
+41120
+0010043-52-4
+Cloruro de calcio
+No
+
+586
+65280
+0010043-84-2
+Hipofosfito de manganeso
+No
+LME (T) = 0,6 mg/kg (expresado como manganeso).
+587
+68400
+0010094-45-8
+Octadecilerucamida
+Si
+LME = 5 mg/kg.
+588
+64320
+0010377-51-2
+Ioduro de litio
+No
+LME (T) = 1 mg/kg (expresado como iodo). El límite se refiere a la suma de las sustancias de número MCA 412, 512, 513, 588.
+589
+52645
+0010436-08-5
+cis-11-Eicosenamida
+No
+
+591
+36160
+0010605-09-1
+Estearato de ascorbilo
+No
+
+592
+34690
+0011097-59-9
+Hidroxicarbonato de aluminio y magnesio
+No
+
+593
+44960
+0011104-61-3
+Óxido de cobalto
+No
+LME (T) = 0,05 mg/kg (expresado como cobalto)
+594
+65360
+0011129-60-5
+Óxido de manganeso
+No
+LME (T)= 0,6 mg/kg (expresado como manganeso)
+596
+95935
+0011138-66-2
+Goma Xantana
+No
+
+597
+67120
+0012001-26-2
+Mica
+No
+Debe cumplir con los LME(T) de metales establecidos en el ítem 4.3.b.
+598
+41600
+0012004-14-7
+0037293-22-4
+Sulfoaluminato de calcio
+No
+LME (T) = 1 mg/kg (expresado como aluminio).
+599
+36840
+0012007-55-5
+Tetraborato de bario
+No
+LME (T) = 6 mg/kg (expresado como boro). El límite se refiere a la suma de las sustancias de número MCA 407,583, 584, 599, M86.
+
+El cumplimiento de este LME (T) no significa el cumplimiento de restricciones establecidas en los reglamentos para agua potable.
+
+El cumplimiento de este LME (T) no significa el cumplimiento de restricciones establecidas en el reglamento para materiales coloreados e impresos (Reglamento Técnico MERCOSUR sobre Colorantes en Envases y Equipamiento Plástico destinados a estar en Contacto con Alimentos)
+LME (T) = 1 mg/kg (expresado como Bario)
+600
+60030
+0012072-90-1
+Hidromagnesita
+No
+
+601
+35440
+0012124-97-9
+Bromuro de amonio
+No
+
+602
+70240
+0012198-93-5
+Ozocerita
+No
+
+603
+83460
+0012269-78-2
+Pirofilita
+No
+
+604
+60080
+0012304-65-3
+Hidrotalcita
+No
+
+606
+65200
+0012626-88-9
+Hidróxido de manganeso
+No
+LME (T) = 0,6 mg/kg (expresado como manganeso)
+607
+62245
+0012751-22-3
+Fosfuro de hierro
+No
+Utilizar solo en polímeros y copolímeros de PET.
+LME (T) = 48 mg/kg (expresado como hierro).
+608
+40800
+0013003-12-8
+4,4′-Butilidenbis(6-terc-butil- 3-metilfenil-ditridecil fosfito)
+Si
+LME = 6 mg/kg.
+609
+83455
+0013445-56-2
+Ácido pirofosforoso
+No
+
+610
+93440
+0013463-67-7
+Dióxido de titanio
+No
+
+611
+35120
+0013560-49-1
+Di éster del ácido 3- aminocrotónico con éter tio
+bis (2-hidroxietílico)
+No
+
+613
+95905
+0013983-17-0
+Wollastonita
+No
+
+614
+45560
+0014464-46-1
+Cristobalita
+No
+
+615
+92080
+0014807-96-6
+Talco
+No
+
+616
+83470
+0014808-60-7
+Cuarzo
+No
+
+618
+51040
+0015535-79-2
+Tioglicolato de di-n-octil estaño
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646,
+676, 736.
+619
+50320
+0015571-58-1
+Bis (2-etilhexil tioglicolato) de di-n-octil estaño
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646,
+676, 736.
+620
+50720
+0015571-60-5
+Dimaleato de di-n-octil estaño
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646,
+676, 736.
+622
+69840
+0016260-09-6
+Oleilpalmitamida
+Si
+LME = 5 mg/kg.
+623
+52640
+0016389-88-1
+Dolomita
+No
+
+625
+36720
+0017194-00-2
+Hidróxido de bario
+No
+LME (T) = 1 mg/kg (expresado como bario)
+626
+57800
+0018641-57-1
+Tribehenato de glicerol
+No
+
+627
+59760
+0019569-21-2
+Huntita
+No
+
+628
+96190
+0020427-58-1
+Hidróxido de cinc
+No
+LME (T) = 5 mg/kg (expresado como cinc).
+629
+34560
+0021645-51-2
+Hidróxido de aluminio
+No
+LME (T) = 1 mg/kg (expresado como aluminio).
+630
+82240
+0022788-19-8
+Dilaurato de 1,2-propilenglicol
+No
+
+631
+59120
+0023128-74-7
+1,6-Hexametilenbis [3-(3,5-di- terc-butil-4-hidroxifenil) propionamida]
+Si
+LME = 45 mg/kg.
+632
+52880
+0023676-09-7
+4-Etoxibenzoato de etilo
+No
+LME = 3,6 mg/kg.
+633
+53200
+0023949-66-8
+2-Etoxi-2′-etiloxanilida
+Si
+LME = 30 mg/kg.
+635
+40720
+0025013-16-5
+terc-Butil-4-hidroxianisol
+No
+LME = 30 mg/kg.
+636
+31500
+0025134-51-4
+Copolímero ácido acrílico y acrilato de 2-etilhexilo
+No
+LME = 0,05 mg/kg (expresado como acrilato de 2-etilhexilo).
+
+LME (T) = 6 mg/kg (expresado como ácido acrílico). El límite se refiere a la suma de las sustancias de número MCA 70, 147, 176, 218, 323, 325, 365, 371, 380, 425,
+446, 448, 456, 636.
+637
+71635
+0025151-96-6
+Dioleato de pentaeritritol
+No
+LME = 0,05 mg/kg.
+No utilizar para objetos en contacto con alimentos grasos.
+638
+23590
+0025322-68-3
+Polietilenglicol
+No
+
+
+76960
+
+
+639
+23651
+0025322-69-4
+Polipropilenglicol
+No
+
+
+80800
+
+
+640
+54930
+0025359-91-5
+Copolímero formaldehído-1- naftol
+No
+LME = 0,05 mg/kg.
+642
+64990
+0025736-61-2
+Sal de sodio del copolímero de estireno y anhídrido maleico
+No
+La fracción con una masa molecular inferior a 1000 Da no debe exceder del 0,05% (m/m).
+643
+87760
+0026266-57-9
+Monopalmitato de sorbitano
+No
+
+644
+88080
+0026266-58-0
+Trioleato de sorbitano
+No
+
+645
+67760
+0026401-86-5
+Tris(isooctil tioglicolato) de mono -n-octil estaño
+No
+LME (T) = 1,2 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 66, 645, 657.
+646
+50480
+0026401-97-8
+Bis(isooctil tioglicolato) de di- n-octil estaño
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646,
+676, 736.
+647
+56720
+0026402-23-3
+Monohexanoato de glicerol
+No
+
+648
+56880
+0026402-26-6
+Monooctanoato de glicerol
+No
+
+649
+47210
+0026427-07-6
+Ácido dibutiltioestannoico polímero
+No
+Unidad molecular = (C8H18S3Sn2)n (n = 1,5-2).
+650
+49600
+0026636-01-1
+Bis(isooctil tioglicolato) de dimetilestaño
+No
+LME (T) = 0,18 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 650, 695, 697, 698,726.
+651
+88240
+0026658-19-5
+Triestearato de sorbitano
+No
+
+652
+38820
+0026741-53-7
+Difosfito de bis(2,4-di-terc- butilfenil) pentaeritritol
+Si
+LME = 0,6 mg/kg.
+654
+88600
+0026836-47-5
+Mono estearato de sorbitol
+No
+
+657
+67680
+0027107-89-7
+Tris(2-etilhexil tioglicolato) de mono-n-octilestaño
+No
+LME (T) = 1,2 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 66, 645, 657.
+658
+52000
+0027176-87-0
+Ácido dodecilbencenosulfónico
+No
+LME = 30 mg/kg.
+659
+82800
+0027194-74-7
+Monolaurato	de	1,2- propilenglicol
+No
+
+660
+47540
+0027458-90-8
+Di sulfuro de di-terc-dodecilo
+Si
+LME = 0,05 mg/kg.
+661
+95360
+0027676-62-6
+1,3,5-Tris(3,5-di-terc-butil-4-
+hidroxibencil)-1,3,5-triazina- 2,4,6-(1H,3H,5H)-triona
+Si
+LME = 5 mg/kg.
+663
+64150
+0028290-79-1
+Ácido linoleico
+No
+
+664
+95000
+0028931-67-1
+Copolímero trimetacrilato de trimetilolpropano y de metacrilato de metilo
+No
+
+665
+83120
+0029013-28-3
+Monopalmitato de 1,2-
+propilenglicol
+No
+
+666
+87280
+0029116-98-1
+Dioleato de sorbitano
+No
+
+667
+55190
+0029204-02-2
+Ácido gadoleico
+No
+
+668
+80240
+0029894-35-7
+Ricinoleato de poliglicerol
+No
+
+669
+56610
+0030233-64-8
+Monobehenato de glicerol
+No
+
+670
+56800
+0030899-62-8
+Monolaurato di acetato de glicerol
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+671
+74240
+0031570-04-4
+Fosfito de tris (2,4-di-terc- butilfenilo)
+No
+
+672
+76845
+0031831-53-5
+Poliéster de 1,4-butanodiol con caprolactona
+No
+LME (T) = 0,05 mg/kg (expresado como la suma de ácido 6-hidroxihexanóico y caprolactona). El límite se refiere a la suma de las sustancias de número MCA 342, 672.
+
+LME (T) = 5 mg/kg (expresado como 1,4-butanodiol). El límite se refiere a la suma de las sustancias de número MCA 254,344, 672.
+
+La fracción con una masa molecular inferior a 1000 Da no debe exceder del 0,5% (m/m).
+673
+53670
+0032509-66-3
+Bis[3,3-bis(3-terc-butil-4- hidroxifenil)butirato] de etilenglicol
+Si
+LME = 6 mg/kg.
+674
+46480
+0032647-67-9
+Dibencilidensorbitol
+No
+
+675
+38800
+0032687-78-8
+N,N′-Bis[3-(3,5-di-terc-butil-4- hidroxifenil)propionil]hidracida
+Si
+LME = 15 mg/kg.
+676
+50400
+0033568-99-9
+Bis (isooctilmaleato) de di-n- octilestaño
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646,
+676, 736.
+677
+82560
+0033587-20-1
+Dipalmitato de 1,2- propilenglicol
+No
+
+678
+59200
+0035074-77-2
+1,6-Hexametilen-bis[3-(3,5-di-
+terc-butil-4- hidroxifenil)propionato]
+Si
+LME = 6 mg/kg.
+679
+39060
+0035958-30-6
+1,1-Bis(2-hidroxi-3,5-di-terc-
+butilfenil)etano
+Si
+LME = 5 mg/kg.
+680
+94400
+0036443-68-2
+Bis[3-(3-di-terc-butil-4-hidroxi- 5-metilfenil)propionato] de trietilenglicol
+No
+LME = 9 mg/kg.
+682
+53270
+0037205-99-5
+Etilcarboximetilcelulosa
+No
+
+683
+66200
+0037206-01-2
+Metilcarboximetilcelulosa
+No
+
+684
+68125
+0037244-96-5
+Nefelina sienita
+No
+
+685
+85950
+0037296-97-2
+Silicato de magnesio-sodio- fluoruro
+No
+LME = 0,15 mg/kg (expresado como fluoruro).
+Utilizar solo en las capas de materiales multicapa que no entran en contacto directo con alimentos.
+686
+61390
+0037353-59-6
+Hidroximetilcelulosa
+No
+
+688
+92560
+0038613-77-3
+Difosfonito de tetrakis(2,4-di- terc-butilfenil)-4-4′-bifenilileno
+Si
+LME = 18 mg/kg.
+689
+95280
+0040601-76-1
+1,3,5-Tris(4-terc-butil-3- hidroxi-2,6-dimetilbencil)- 1,3,5-triazina-
+2,4,6(1H,3H,5H)-triona
+Si
+LME = 6 mg/kg.
+690
+92880
+0041484-35-9
+Bis[3-(3,5-di-terc-butil-4- hidroxifenil)propionato] de tiodietanol
+Si
+LME = 2,4 mg/kg.
+692
+52320
+0052047-59-3
+2-(4-Dodecilfenil)indol
+Si
+LME = 0,06 mg/kg.
+693
+88160
+0054140-20-4
+Tripalmitato de sorbitano
+No
+
+695
+67520
+0054849-38-6
+Tris(isooctil tioglicolato) de monometilestaño
+No
+LME (T) = 0,18 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 650, 695, 697, 698, 726.
+696
+92205
+0057569-40-1
+Di éster del ácido tereftálico con 2,2′-metilenbis(4-metil-6- terc-butilfenol)
+No
+
+697
+67515
+0057583-34-3
+Tris(etilhexil tioglicolato) de monometilestaño
+No
+LME (T) = 0,18 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 650, 695, 697, 698, 726.
+698
+49595
+0057583-35-4
+Bis(etilhexil tioglicolato) de dimetilestaño
+No
+LME (T) = 0,18 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 650, 695, 697, 698, 726.
+699
+90720
+0058446-52-9
+Estearoilbenzoilmetano
+No
+
+700
+31520
+0061167-58-6
+Acrilato de 2-terc-butil-6-(3- terc-butil-2-hidroxi-5-
+metilbencil)-4-metilfenilo
+Si
+LME = 6 mg/kg.
+701
+40160
+0061269-61-2
+Copolímero N,N′-bis(2,2,6,6- tetrametil-4-piperidil) hexametilendiamina-1,2- dibromoetano
+No
+LME = 2,4 mg/kg.
+702
+87920
+0061752-68-9
+Tetraestearato de sorbitano
+No
+
+704
+77600
+0061788-85-0
+Éster de polietilenglicol con aceite de ricino hidrogenado
+No
+
+707
+46375
+0061790-53-2
+Tierra de diatomeas
+No
+
+708
+77520
+0061791-12-6
+Éster de polietilenglicol con aceite de ricino
+No
+LME = 42 mg/kg.
+709
+87520
+0062568-11-0
+Monobehenato de sorbitano
+No
+
+710
+38700
+0063397-60-4
+Bis(isooctil tioglicolato) de bis(2-carbobutoxietil)estaño
+Si
+LME = 18 mg/kg.
+711
+42000
+0063438-80-2
+Tris(isooctil tioglicolato) de (2-carbobutoxietil)estaño
+Si
+LME = 30 mg/kg.
+712
+42960
+0064147-40-6
+Aceite de ricino deshidratado
+No
+
+713
+43480
+0064365-11-3
+Carbón activado
+No
+Solo para ser usado en PET hasta 10 mg/kg de polímero.
+
+Los mismos requisitos de pureza que los establecidos para el carbón vegetal (INS 153) como aditivo alimentario colorante, con la excepción del contenido de cenizas, que puede llegar al 10 % (m/m).
+714
+84400
+0064365-17-9
+Éster de colofonia hidrogenada con pentaeritritol
+No
+
+715
+46880
+0065140-91-2
+3,5-Di-terc-butil-4- hidroxibencilfosfonato de monoetilo, sal de calcio
+No
+LME = 6 mg/kg.
+716
+60800
+0065447-77-0
+Copolímero 1-(2-hidroxietil)- 4-hidroxi-2,2,6,6-
+tetrametilpiperidina- succinato de dimetilo
+No
+LME = 30 mg/kg.
+717
+84210
+0065997-06-0
+Colofonia hidrogenada
+No
+
+718
+84240
+0065997-13-9
+Éster de colofonia hidrogenada con glicerol
+No
+
+719
+65920
+0066822-60-4
+Copolímeros cloruro de N- metacriloiloxietil-N,N-dimetil- N-carboximetilamonio, sal de sodio-metacrilato de octadecilo-metacrilato de etilo-metacrilato de ciclohexilo-N-vinil-2-
+pirrolidona
+No
+
+720
+67360
+0067649-65-4
+Tris (isooctil tioglicolato) de mono-n-dodecil estaño
+No
+LME (T) = 0,05 mg/kg (suma de tris (isooctil tioglicolato) de mono-n-dodecil estaño, bis (isooctil tioglicolato) de di-n-dodecil estaño, tricloruro de mono-dodecil estaño y dicloruro de di-dodecilestaño, expresada como la suma de cloruro de mono- y di- dodecilestaño).
+El límite se refiere a la suma de las sustancias de número MCA 720,747.
+721
+46800
+0067845-93-6
+3,5-Di-terc-butil-4-
+hidroxibenzoato de hexadecilo
+No
+
+723
+88880
+0068412-29-3
+Almidón hidrolizado
+No
+
+
+726
+83599
+0068442-12-6
+Productos de reacción de oleato de 2-mercaptoetilo con diclorodimetilestaño, sulfuro de sodio y triclorometilestaño
+Si
+LME (T) = 0,18 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 650, 695, 697, 698, 726.
+727
+43360
+0068442-85-3
+Celulosa regenerada
+No
+
+728
+75100
+0068515-48-0
+0028553-12-0
+Di ésteres de ácido ftálico con alcoholes ramificados
+primarios, saturados C8-C10,
+más de 60% C9
+No
+LME (T) = 9 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 728, 729.
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+
+Utilizar solo como:
+a) plastificante en materiales y objetos de uso repetido;
+b) plastificante en materiales y objetos de un solo uso que estén en contacto con alimentos no grasos, salvo los preparados para niños de 0 a 3 años de edad, de acuerdo a lo definido en los reglamentos específicos;
+c) como agente de ayuda proceso tecnológico en concentraciones de hasta el 0,1 % en el producto final.
+
+No podrán utilizarse como sustancias o constituyentes de preparados en concentraciones superiores al 0,1 % en masa del material plastificado, en los materiales plásticos en contacto con alimentos para niños de 0 a 3 años.
+729
+75105
+0068515-49-1
+0026761-40-0
+Di ésteres de ácido ftálico con alcoholes primarios, saturados C9-C11, más de 90% C10
+No
+LME (T) = 9 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 728, 729.
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+Utilizar solo como:
+a) plastificante en materiales y objetos de uso repetido;
+b) plastificante en materiales y objetos de un solo uso que estén en contacto con alimentos no grasos, salvo los preparados para niños de 0 a 3 años de edad, de acuerdo a lo definido en los reglamentos específicos;
+c) como agente de ayuda proceso tecnológico en concentraciones de hasta el 0,1 % en el producto final.
+No podrán utilizarse como sustancias o constituyentes de preparados en concentraciones superiores al 0,1 % en masa del material plastificado, en los materiales plásticos en contacto con alimentos para niños de 0 a 3 años.
+730
+66930
+0068554-70-1
+Metilsilsesquioxano
+No
+Debe contener menos de 1 mg de metiltrimetoxisilano/kg de metilsilsesquioxano como monómero residual.
+732
+45450
+0068610-51-5
+Copolímero p-cresol- diciclopentadieno-isobutileno
+Si
+LME = 5 mg/kg.
+734
+46380
+0068855-54-9
+Tierra de diatomeas calcinadas
+con fundente de carbonato sódico
+No
+
+735
+40120
+0068951-50-8
+Hidroximetilfosfonato de bis(polietilenglicol)
+No
+LME = 0,6 mg/kg.
+736
+50960
+0069226-44-4
+Etilenglicol bis(tioglicolato) de di-n-octilestaño
+No
+LME (T) = 0,006 mg/kg (expresado como estaño). El límite se refiere a la suma de las sustancias de número MCA 28, 29, 30, 31, 32, 33, 466, 582, 618, 619, 620, 646, 676, 736.
+737
+77370
+0070142-34-6
+Polietilenglicol-30 dipolihidroxiestearato
+No
+
+738
+60320
+0070321-86-7
+2-[2-Hidroxi-3,5-bis(1,1- dimetilbencil) fenil]benzotriazol
+Si
+LME = 1,5 mg/kg.
+739
+70000
+0070331-94-1
+2,2′-Oxamidobis[etil-3-(3,5-di-
+terc-butil-4- hidroxifenil)propionato]
+No
+
+740
+81200
+0071878-19-8
+Poli[6-[(1,1,3,3-
+tetrametilbutil)amino]-1,3,5- triazina-2,4-diil]-[(2,2,6,6-
+tetrametil-4-piperidil)-imino]- hexametilen-[(2,2,6,6- tetrametil-4-piperidil)imino]
+Si
+LME = 3 mg/kg.
+
+741
+24070
+0073138-82-6
+Ácidos resínico y ácido de la colofonia
+No
+
+
+83610
+
+
+742
+92700
+0078301-43-6
+Polímero de 2,2,4,4-tetrametil- 20-(2,3-epoxipropil)-7-oxa- 3,20-diazadiespiro -[5.1.11.2]-
+heneicosan-21-ona
+Si
+LME = 5 mg/kg.
+743
+38950
+0079072-96-1
+Bis(4-etilbenciliden)sorbitol
+No
+
+745
+68145
+0080410-33-9
+2,2′,2′-Nitrilo[trietil tris (3,3′,5,5′- tetra-terc-butil-1,1′-bifenil-2,2′- diil)fosfito]
+Si
+LME = 5 mg/kg (expresado como la suma de fosfito y fosfato).
+746
+38810
+0080693-00-1
+Difosfito de bis (2,6-di-terc- butil-4-metilfenil) pentaeritritol
+Si
+LME = 5 mg/kg (expresado como la suma de fosfito y fosfato).
+747
+47600
+0084030-61-5
+Bis(isooctil tioglicolato) de di-n- dodecilestaño
+Si
+LME (T) = 0,05 mg/kg (suma de tris (isooctil tioglicolato) de mono-n-dodecilestaño, bis(isooctil tioglicolato) de di-n-dodecilestaño, tricloruro de mono-dodecilestaño y dicloruro de di-dodecilestaño, expresada como la suma de cloruro de mono- y di- dodecilestaño)
+El límite se refiere a la suma de las sustancias de número MCA 720,747.
+749
+66360
+0085209-91-2
+Fosfato	de	2-2′-metileno-bis (4,6-di-terc-butilfenil)sodio
+Si
+LME = 5 mg/kg.
+750
+66350
+0085209-93-4
+Fosfato	de	2-2′-metilen-bis (4,6-di-terc-butilfenil)litio
+No
+LME = 5 mg/kg.
+751
+81515
+0087189-25-1
+Poli(glicerolato de cinc)
+No
+LME (T) = 5 mg/kg (expresado como cinc).
+752
+39890
+0087826-41-3
+0069158-41-4
+0054686-97-4
+0081541-12-0
+Bis(metilbenciliden)sorbitol
+No
+
+753
+62800
+0092704-41-1
+Caolín calcinado
+No
+
+754
+56020
+0099880-64-5
+Dibehenato de glicerol
+No
+
+756
+40020
+0110553-27-0
+2,4-Bis(octiltiometil)-6- metilfenol
+Si
+LME (T) = 5 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 756, 758.
+757
+95725
+0110638-71-6
+Vermiculita, producto de reacción con citrato de litio.
+No
+LME (T)= 0,6 mg/kg (expresado como litio).
+758
+38940
+0110675-26-8
+2,4-Bis(dodeciltiometil)-6- metilfenol
+Si
+LME (T) = 5 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 756, 758.
+759
+54300
+0118337-09-0
+2,2′-Etilidenbis(4,6-di-terc- butilfenil)fluorofosfonito
+Si
+LME = 6 mg/kg.
+760
+83595
+0119345-01-6
+Producto de reacción de di- terc-butilfosfonito con bifenilo, obtenido mediante condensación de 2,4-di-terc-
+butilfenol con el producto de una reación Friedel Crafts de tricloruro de fósforo y bifenilo.
+No
+LME = 18 mg/kg.
+
+Composición:
+- 4,4′-Bifenilen-bis [0,0-bis(2,4-di-terc-butilfenil) fosfonito] (CAS 38613-77-3) (36-46
+% m/m (*)),
+- 4,3′-Bifenilen-bis [0,0-bis(2,4-di-terc-butilfenil)fosfonito] (CAS 118421-00-4)(17-23
+% m/m) (*),
+- 3,3′-Bifenilen-bis [0,0-bis(2,4-di-terc-butilfenil) fosfonito] (CAS 118421-01-5)(1-5
+% m/m) (*);
+- 4-Bifenilen-0,0-bis (2,4-di-terc-butilfenil) fosfonito (CAS 91362-37-7) (11-19% m/m)(*),
+- Tris(2,4-di-terc-butilfenil) fosfito (CAS 31570-04-4) (9-18 % m/m)(*),
+- 4,4′-Bifenilen-0,0-bis(2,4-di-terc-butilfenil) fosfonato-0,0-bis(2,4-di-terc- butilfenilo)fosfonito (CAS 112949-97-0) (< 5 %m/m)(*).
+(*) masa de sustancia utilizada/masa de formulación. Otras especificaciones:
+- Contenido de fósforo: min. 5,4 %, máx. 5,9%.
+- Índice de acidez: máx. 10 mgKOH/g.
+- Intervalo de fusión: 85-110°C.
+761
+92930
+0120218-34-0
+Tiodietanolbis(5- metoxicarbonil- 2,6-dimetil-1,4- dihidropiridina-3- carboxilato)
+No
+LME = 6 mg/kg.
+762
+31530
+0123968-25-2
+Acrilato de 2,4-di-terc-pentil-6- [1-(3,5-di-terc-pentil-2-
+hidroxifenil)etil]fenilo
+Si
+LME = 5 mg/kg.
+763
+39925
+0129228-21-3
+3,3-Bis(metoximetil)-2,5- dimetil-hexano
+Si
+LME = 0,05 mg/kg.
+765
+49485
+0134701-20-5
+2,4-Dimetil-6-(1- metilpentadecil)fenol
+Si
+LME = 1 mg/kg.
+766
+38879
+0135861-56-2
+Bis(3,4-dimetilbenciliden) sorbitol
+No
+
+767
+38510
+0136504-96-6
+1,2-Bis(3-
+aminopropil)etilendiamina, polímero con N-butil-2,2,6,6- tetrametil-4-piperidinamina	y
+2,4,6-tricloro-1,3,5-triazina
+No
+LME = 5 mg/kg.
+768
+34850
+0143925-92-2
+Aminas,	bis(alquil	de	sebo hidrogenado)oxidado
+No
+Solo para ser usado en:
+a) poliolefinas ≤ 0,1 % (m/m) y
+b) PET ≤ 0,25 % (m/m)
+
+No utilizar para objetos en contacto con alimentos grasos.
+769
+74010
+0145650-60-8
+Fosfito de bis (2,4-di-ter-butil-6- metilfenil) etilo
+Sí
+LME = 5 mg/kg (expresado como la suma de fosfito y fosfato).
+770
+51700
+0147315-50-2
+2-(4,6-Difenil-1,3,5-triazina-2- il)-5-(hexiloxi)fenol
+No
+LME = 0,05 mg/kg.
+771
+34650
+0151841-65-5
+Hidroxibis[2,2′-metilenobis (4,6-
+di-terc-butilfenil)fosfato]	de aluminio
+No
+LME = 5 mg/kg.
+772
+47500
+0153250-52-3
+N,N′-Diciclohexil-2,6-naftaleno dicarboxamida
+No
+LME = 5 mg/kg.
+773
+38840
+0154862-43-8
+Difosfito	de	bis(2,4- dicumilfenil)pentaeritritol
+Sí
+LME = 5 mg/kg (expresado como suma de la sustancia misma, su forma oxidada [fosfato de bis(2,4- dicumil fenil)pentaeritritol] y su producto de hidrólisis (2,4- dicumilfenol).
+774
+95270
+0161717-32-4
+Fosfito	de	2,4,6-tris(terc- butil)fenil-2-butil-2-etil-1,3- propanodiol
+Sí
+LME = 2 mg/kg (expresado como suma de fosfito, fosfato y el producto de hidrólisis
+= TTBP).
+775
+45705
+0166412-78-8
+Ácido 1,2-
+ciclohexanodicarboxílico, diisononil éster
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+776
+76723
+0167883-16-1
+Polidimetilsiloxano 3- aminopropil terminal, polímero con diciclohexilmetano-4,4′- diisocianato
+No
+La fracción con una masa molecular inferior a 1000 Da no debe exceder del 1,5 % (m/m).
+777
+31542
+0174254-23-0
+Acrilato de metilo, telómero con 1-dodecanotiol, ésteres
+alquílicos C16 -C18
+No
+LC = 0,5 % m/m en el PT.
+778
+71670
+0178671-58-4
+Tetrakis (2-ciano-3,3- difenilacrilato) de pentaeritritol
+Si
+LME = 0,05 mg/kg.
+779
+39815
+0182121-12-6
+9,9-Bis(metoximetil)fluoreno
+Sí
+LME = 0,05 mg/kg.
+Existe el riesgo de que el LME o el LMT puedan ser superados en simulantes de alimentos grasos.
+780
+81220
+0192268-64-7
+Poli-[[6-[N-(2,2,6,6-tetrametil-4- piperidinil)-n-butilamino]-1,3,5- triazina-2,4-diil][2,2,6,6- tetrametil-4-piperidinil)imino]- 1,6-hexanodiil[2,2,6,6- tetrametil-4-piperidinil)imino]]- α-[N,N,N′,N′-tetrabutil-N′- (2,2,6,6-tetrametil-4-piperidinil)- N′-[6-(2,2,6,6-tetrametil-4- piperidinilamino)-hexil][1,3,5- triazina-2,4,6-triamina]-ω- N,N,N′,N′-tetrabutil-1,3,5-
+triazina-2,4-diamina]
+No
+LME = 5 mg/kg.
+781
+95265
+0227099-60-7
+1,3,5-Tris(4-benzoilfenil) benceno
+No
+LME = 0,05 mg/kg.
+782
+76725
+0661476-41-1
+Polidimetilsiloxano 3-
+aminopropil  terminal,  polímero
+con 1-isocianato-3-
+isocianatometil-3,5,5- trimetilciclohexano
+No
+La fracción con una masa molecular inferior a 1000 Da no debe exceder del 1 % (m/m).
+783
+55910
+0736150-63-3
+Glicéridos,	aceite	de	ricino monohidrogenado, acetatos
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+784
+95420
+0745070-61-5
+1,3,5-Tris(2,2-
+dimetilpropanamido) benceno
+No
+LME = 0,05 mg/kg.
+789
+60027
+-
+Homopolímeros	y/o copolímeros hidrogenados compuestos de 1- hexeno y/o 1-octeno y/o 1-deceno y/o1-
+dodeceno y/o 1-tetradeceno (Masa molecular: 440-12.000)
+No
+Masa molecular media no inferior a 440 Da.
+Viscosidad a 100 °C no inferior a 3,8 cSt (3,8 x 10-6 m2/s).
+
+Existe el riesgo de superar el LME o el LMT en simulantes alimentarios grasos.
+790
+80480
+0090751-07-8
+0082451-48-7
+Poli(6-morfolino-1,3,5-triazina- 2,4-diil)-[(2,2,6,6-tetrametil-4- piperidil)imino)]-hexametileno- [(2,2,6,6-tetrametil-4- piperidil)imino)]
+No
+LME = 5 mg/kg.
+
+Masa molecular media no inferior a 2400  Da.  Contenido residual de morfolina ≤  30 mg/kg, de N,N′- bis(2,2,6,6- tetrametilpiperidina-4-il) hexano-1,6-diamina < 15000 mg/kg, y de 2,4- dicloro-6-morfolino-1,3,5- triazina ≤ 20mg/kg.
+
+Existe el riesgo de que se supere el LME desde polietileno de baja densidad (PEBD) que contenga más del 0,3 % m/m de la sustancia, cuando entre en contacto con alimentos grasos.
+791
+92470
+0106990-43-6
+N,N′,N″,N″-Tetrakis(4,6-bis(N- butil-(N-metil-2,2,6,6- tetrametilpiperidin-4- il)amino)triazin-2-il)-4,7- diazadecano-1,10-diamina
+No
+LME = 0,05 mg/kg.
+792
+92475
+0203255-81-6
+3,3′,5,5′-Tetrakis(terc-butil)-
+2,2′- dihidroxidifenilo, éster cíclico con ácido [3-(3-terc- butil-4-hidroxi-5-
+etilfenil)propil]oxifosfónico
+Sí
+LME = 5 mg/kg (expresado como la suma de las formas fosfito y fosfato de la sustancia y de los productos de hidrólisis).
+793
+94000
+0000102-71-6
+Trietanolamina
+No
+LME = 0,05 mg/kg expresado como la suma de trietanolamina y el clorhidrato aducido expresado como trietanolamina.
+795
+40155
+0124172-53-8
+N,N′-Bis(2,2,6,6-tetrametil-4- piperidil)-N,N′- diformilhexametilendiamina
+No
+LME = 0,05 mg/kg.
+Existe el riesgo de superar el LME o el LMT en simulantes alimentarios grasos. Existe el riesgo de que se supere el LME desde las poliolefinas.
+796
+72141
+0018600-59-4
+2,2′-(1,4-Fenilen)bis[4H-3,1-
+benzoxazin-4-ona]
+Sí
+LME = 0,05 mg/kg (incluida la suma de sus productos de hidrólisis.)
+
+797
+76807
+0073018-26-5
+Poliéster de ácido adípico con 1,3- butanodiol, 1,2- propanodiol y 2- etil-1-hexanol
+Sí
+LME (T) = 30 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 73,797.
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+798
+92200
+0006422-86-2
+Tereftalato de bis(2-etil-hexilo)
+=Dioctiltereftalato (DOTP)
+No
+LME = 60 mg/kg.
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+799
+77708
+-
+Éteres	de		polietilenglicol (EO=1-50)		de	alcoholes
+primarios (C8-C22) lineales y ramificados
+No
+LME = 1,8 mg/kg.
+
+Debe cumplir con la siguiente especificación de pureza: Oxido de etlieno residual: no más de 0,2 mg/kg
+800
+94425
+0000867-13-0
+Fosfonoacetato de trietilo
+No
+Solo para uso en PET.
+801
+30607
+-
+Ácidos, C2-C24, alifáticos, lineales, mono carboxílicos, obtenidos a partir de grasas y
+aceites naturales, sal de litio
+No
+
+802
+33105
+0146340-15-0
+Alcoholes, C12-C14 secundarios, β-(2-hidroxietoxi), etoxilados
+No
+LME = 5 mg/kg.
+Existe el riesgo de que se supere el LME desde las poliolefinas.
+803
+33535
+0152261-33-1
+α-Alquenos (C20 -C24) copolímero con anhídrido maleico, producto de reacción con 4-amino-2,2,6,6-
+tetrametilpiperidina
+No
+
+No utilizar para objetos en contacto con alimentos grasos. No utilizar en contacto con alimentos alcohólicos.
+804
+80510
+1010121-89-7
+Poli (3-nonil-1,1-dioxo-1- tiopropano-1,3-diil)-bloc- poli(xoleil- 7-hidroxi-1,5- diiminooctano- 1,8-diil), proceso de mezcla con x = 1 y/o 5, neutralizado con ácido
+dodecilbencenosulfónico
+No
+Utilizar solo como auxiliar para la producción de polímeros del polietileno (PE), el polipropileno (PP) y el poliestireno (PS).
+805
+93450
+-
+Dióxido de titanio, recubierto con un copolímero de n- octiltriclorosilano y [aminotris(ácido
+metilenfosfónico), sal pentasódica]
+No
+El contenido de copolímero de tratamiento de superficie del dióxido de titanio recubierto es inferior al 1 % m/m.
+807
+
+93485
+-
+Nanopartículas de nitruro de titanio
+No
+No debe haber migración de nanopartículas de nitruro de titanio.
+Solo para ser usado en tereftalato de polietileno (PET) hasta 20 mg/kg.
+En el PET, los aglomerados tienen un diámetro de 100- 500 nm consistente en nanopartículas primarias de nitruro de titanio; las partículas primarias tienen un diámetro aproximado de 20 nm.
+808
+38550
+0882073-43-0
+Bis(4- propilbenciliden)propilsorbitol
+No
+LME = 5 mg/kg (incluida la suma de sus productos de hidrólisis.)
+809
+49080
+0852282-89-4
+N-(2,6-diisopropilfenil)-6-[4- (1,1,3,3-tetrametilbutil)fenoxi]- 1Hbenzo[ de]isoquinolin- 1,3(2H)-diona
+Sí
+LME = 0,05 mg/kg. Solo para uso en PET.
+
+El límite de migración puede superarse a muy alta temperatura.
+
+Existe el riesgo de que se supere el LME desde plásticos que contengan más del 0,5 % m/m de la sustancia.
+
+Existe el riesgo de que se supere el LME en contacto con alimentos con alto contenido alcohólico.
+810
+68119
+
+Diésteres y monoésteres de neopentilglicol con ácido benzoico y ácido 2-etilhexanoico
+No
+LME = 5 mg/kg.
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+No utilizar para objetos en contacto con alimentos grasos.
+811
+80077
+0068441-17-8
+Ceras de polietileno, oxidadas
+No
+LME = 60 mg/kg.
+812
+80350
+0124578-12-7
+Copolímero de poli (ácido 12-
+hidroxiesteárico)- polietilenoimina
+No
+Solo debe usarse en materiales plásticos hasta un 0,1 % m/m. Preparado mediante la reacción de poli (ácido 12-hidroxiesteárico) con polietileneimina.
+813
+91530
+-
+Alquil ácido sulfosuccínico, diésteres alquílicos (C4-C20) o ciclohexílicos, Sales
+No
+LME = 5 mg/kg.
+814
+91815
+-
+Ácido sulfosuccínico, ésteres monoalquílicos (C10-C16) de polietilenglicol, Sales
+No
+LME = 2 mg/kg.
+815
+94985
+-
+Trimetilolpropano, mezclas de triésteres y diésteres con ácido benzoico y ácido 2- etilhexanoico
+No
+LME = 5 mg/kg.
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+No debe utilizarse para objetos en contacto con alimentos grasos.
+816
+45704
+-
+Sales del ácido cis-1,2- ciclohexanodicarboxílico
+No
+LME = 5 mg/kg.
+
+
+817
+38507
+-
+Sales del ácido cis-endo-biciclo [2.2.1]heptano-2,3-dicarboxílico
+No
+LME = 5 mg/kg.
+
+No debe utilizarse con polietileno en contacto con productos alimenticios ácidos. Pureza ≥ 96 %.
+819
+68110
+-
+Sales del ácido neodecanoico
+No
+LME = 0,05 mg/kg (expresado como ácido neodecanoico).
+
+No debe utilizarse para objetos en contacto con alimentos grasos.
+820
+76420
+-
+Sales del ácido pimélico
+No
+
+821
+90810
+-
+Sales del ácido estearoil-2- lactílico
+No
+
+822
+71938
+-
+Sales del ácido perclórico
+No
+LME = 0,002 mg/kg.
+Cuando haya un contacto graso, el ensayo de conformidad se realizará utilizando simulantes de alimentos con grasas saturadas como simulante D'.
+854
+71943
+0329238-24-6
+Ácido	perfluoroacético,	α- sustituido con el copolímero de perfluoro-1,2- propilenglicol y perfluoro-1,1-etilenglicol, terminado	con	grupos
+clorohexafluoropropiloxílicos
+No
+Solo para ser usado en concentraciones de hasta un 0,5 % m/m en la polimerización de fluoropolímeros que sean transformados a temperaturas de 340
+°C o superiores y se destinen a objetos de uso repetido.
+855
+40560
+
+Copolímero de (butadieno, estireno, metacrilato de metilo) entrelazado con dimetacrilato
+de 1,3-butanodiol
+No
+Solo para ser usado en policloruro de vinilo (PVC) rígido a un nivel máximo del 12
+% para contacto con alimentos conservados a temperatura ambiente o inferior.
+856
+40563
+
+Copolímero de (butadieno, estireno, metacrilato de metilo, acrilato de butilo) entrelazado con dimetacrilato de 1,3-butanodiol
+No
+Solo para ser usado:
+a) policloruro de vinilo (PVC) rígido a un nivel máximo del 12 % para contacto con alimentos conservados a temperatura ambiente o inferior;
+b) mezclas de copolímero estireno-acrilonitrilo (SAN)/polimetacrilato de metilo(PMMA) hasta un 40 % m/m para artículos de uso repetido para contacto con alimentos conservados a temperatura ambiente o inferior, para alimentos acuosos no ácidos, acuosos ácidos o alcoholicos (con contenido de
+alcohol ≤ 20 %) durante menos de un día, o para alimentos secos para almacenamiento por períodos prolongados.
+857
+66765
+0037953-21-2
+Copolímero de (metacrilato de
+metilo,	acrilato	de	butilo, estireno, metacrilato demetilo)
+No
+Solo para ser usado en policloruro de vinilo (PVC) rígido a un nivel máximo del 2 % para contacto con alimentos conservados a temperatura ambiente o inferior.
+858
+38565
+0090498-90-1
+3,9-bis[2-(3-(3-tertbutil-4- hidroxi-5- metilfenil)propioniloxi)-1,1- dimetiletil]-2,4,8,10- tetraoxaspiro[5,5]undecano
+Sí
+LME = 0,05 mg/kg expresado como suma de la sustancia y su producto de oxidación 3- [(3-(3-tertbutil-4- hidroxi-5-metilfenil) prop-2- enoiloxi)-1,1-dimetiletil]-9- [(3-(3- tertbutil-4-hidroxi-5-metilfenil)propioniloxi)-1,1-dimetiletil]- 2,4,8,10- tetraoxaspiro[5,5]- un decano en equilibrio con su tautómero de metide para- quinona.
+
+Existe el riesgo de superar el LME o el LMT en simulantes alimentarios grasos.
+860
+71980
+0051798-33-5
+Ácido	perfluoro	[2-(poli(n- propoxi))propanoico]
+No
+Solo para ser usado en la polimerización de fluoropolímeros que sean transformados a temperaturas de 265 °C o superiores y se destinen a objetos de uso repetido.
+861
+71990
+0013252-13-6
+Ácido perfluoro[2-(n-
+propoxi)propanoico]
+No
+Solo para ser usado en la polimerización de fluoropolímeros que sean
+transformados a temperaturas de 265 °C o superiores y se destinen a objetos de uso repetido.
+864
+46330
+0000056-06-4
+2,4-Diamino-6-hidroxipirimidina
+No
+LME = 5 mg/kg.
+
+Solo para ser usado en policloruro de vinilo (PVC) rígido en contacto con alimentos acuosos no ácidos y no alcohólicos.
+865
+40619
+0025322-99-0
+Copolímero de (acrilato de butilo, metacrilato de metilo, metacrilato de butilo)
+No
+Solo para ser usado en:
+a) policloruro de vinilo (PVC) rígido a un nivel máximo del 1 %m/m;
+b) ácido poliláctico (PLA) a un nivel máximo del 5 %m/m.
+866
+40620
+-
+Copolímero de (acrilato de butilo, metacrilato de metilo), entrelazado con metacrilato de
+alilo
+No
+Solo para ser usado en policloruro de vinilo (PVC) rígido a un nivel máximo del 7 % m/m.
+867
+40815
+0040471-03-2
+Copolímero de (metacrilato de butilo, acrilato de etilo, metacrilato de metilo)
+No
+Solo para ser usado en policloruro de vinilo (PVC) rígido a un nivel máximo del 2 % m/m.
+868
+53245
+0009010-88-2
+Copolímero de (acrilato de etilo, metacrilato de metilo)
+No
+Solo para ser usado:
+a) policloruro de vinilo (PVC) rígido a un nivel máximo del 2 %m/m;
+b) ácido poliláctico (PLA) a un nivel máximo del 5 %m/m;
+c) tereftalato de polietileno (PET) a un nivel máximo del 5 %m/m.
+869
+66763
+0027136-15-8
+Copolímero de (acrilato de butilo, metacrilato de metilo, estireno)
+No
+Solo para ser usado en policloruro de vinilo (PVC) rígido a un nivel máximo del 3 % m/m.
+870
+95500
+0160535-46-6
+N,N′,N′′-Tris(2-metilciclohexil)- 1,2,3-propano-tricarboxamida
+No
+LME = 5 mg/kg.
+871
+-
+0287916-86-3
+Ácido 12-aminododecanóico, polímero con eteno, 2,5- furanodiona,	α-hidro-ω- hidroxipoli(oxi-1,2-etanodiilo) e 1-propeno
+No
+Solo para ser usado en poliolefinas en niveles máximos de 20 % en masa. Esas poliolefinas solo deben ser utilizadas en contacto con alimentos secos, a temperatura ambiente o inferior, y cuando la migración de la fracción oligomérica total inferior a 1000 Da no exceda 50 μg/kg de alimento.
+873
+93460
+-
+Dióxido de titanio sometido a
+reacción	química	con octiltrietoxisilano
+No
+Producto de la reacción de dióxido de titanio con un máximo de 2 % m/m sustancia
+de tratamiento de superficie octiltrietoxisilano, tratado a altas temperaturas.
+875
+80345
+0058128-22-6
+Estearato de poli(ácido 12- hidroxiesteárico)
+Sí
+LME = 5 mg/kg.
+878
+31335
+-
+Ácidos grasos (C8-C22) obtenidos a partir de grasas y aceites animales o vegetales, ésteres         con       alcoholes
+ramificados	alifáticos,
+monohidratos,	saturados,
+primarios (C3-C22)
+No
+
+879
+31336
+-
+Ácidos grasos (C8-C22) obtenidos a partir de grasas y aceites animales o vegetales, ésteres con alcoholes lineales alifáticos,	monohidratos,
+saturados, primarios (C1-C22)
+No
+
+880
+31348
+0085116-93-4
+Ácidos grasos (C8-C22), ésteres con pentaeritritol
+No
+
+884
+34240
+0091082-17-6
+Ácido alquil (C10-C21) sulfónico, ésteres con fenol
+No
+LME = 0,05 mg/kg.
+
+No debe ser utilizado para objetos en contacto con alimentos grasos.
+885
+45676
+0263244-54-8
+Oligómeros	cíclicos	de (tereftalato de butileno)
+No
+Solo para ser usado en los plásticos poli (tereftalato de etileno) (PET), poli (tereftalato de butileno) (PBT), policarbonato (PC), poliestireno (PS) y policloruro de vinilo (PVC) rígido en concentraciones de hasta un 1 % m/m, en contacto con alimentos acuosos, ácidos y alcohólicos, para almacenamiento prolongado a temperatura ambiente.
+894
+93360
+0016545-54-3
+Tiodipropionato de ditetradecilo
+No
+LME (T) = 5 mg/kg (expresado como la suma de las sustancias y sus productos de oxidación). El límite se refiere a la suma de las sustancias de número MCA 294, 368, 894.
+895
+47060
+0171090-93-0
+Ácido propanoico 3-(3,5-di- terc-	butil-4-hidroxifenil), ésteres conalcoholes
+ramificados y lineales C13-C15
+No
+LME = 0,05 mg/kg.
+Solo para ser usado en poliolefinas en contacto con alimentos secos no grasos, acuosos no ácidos, acuosos ácidos o alcoholicos (con contenido de alcohol ≤ 20%).
+896
+71958
+0958445-44-8
+Ácido 3H-perfluoro-3- [(3- metoxi- propoxi) propanoico], sal de amonio
+No
+Solo para ser usado en la polimerización de fluoropolímeros cuando sean:
+a) transformados a temperaturas superiores a 280 °C durante un mínimo de10 minutos;
+b) transformados a temperaturas superiores a 190 °C hasta un 30 % m/m para ser utilizados en las mezclas con polímeros polioximetilenos y destinados a objetos de usoreiterado.
+902
+
+0000128-44-9
+1,1-dióxido	de	1,2- bencisotiazol- 3(2H)-ona,sal
+sódica
+No
+La sustancia debe cumplir con los requisitos de pureza para aditivos alimentarios.
+923
+39150
+0000120-40-1
+N,N-bis(2-hidroxietil) dodecanamida
+No
+LME = 5 mg/kg.
+
+Dietanolamina: LME = 0,3mg/kg
+La dietanolamina puede estar presente como impureza y/o producto de descomposición de la sustancia.
+
+Existe el riesgo de que se supere el LME desde el polietileno de baja densidad (PEBD).
+
+924
+94987
+-
+Trimetilolpropano, mezclas de triésteres y diésteres con ácidos n-octanoico y n- decanoico
+No
+LME = 0,05 mg/kg.
+
+Solo para ser usado en PET en contacto con alimentos secos no grasos, acuosos no ácidos, acuosos ácidos o alcoholicos (con contenido de alcohol ≤ 20 %).
+926
+71955
+0908020-52-0
+Ácido perfluoro[(2- etiloxi-etoxi) acético], sal de amonio
+No
+Solo para ser usado en la polimerización de fluoropolímeros que sean transformados a temperaturas superiores a 300 °C durante un mínimo de 10 minutos.
+972
+45197
+0012158-74-6
+Hidróxido-fosfato de cobre
+No
+LME (T) = 5 mg/kg (expresado como Cobre).
+974
+74050
+939402-02-5
+Ácido fosforoso, mezclas de triésteres de 2,4-bis(1,1- dimetilpropil)fenilo e 4-(1,1-
+dimetilpropil)fenilo
+Sí
+LME = 10 mg/kg (expresado como la suma de las formas fosfito y fosfato de la sustancia, 4-terc-amilfenol y 2,4- di-terc-amilfenol). La migración de 2,4-di-terc- amilfenol no deberá superar 1 mg/ kg de alimento.
+979
+79987
+-
+Copolímero de (tereftalato de polietileno, polibutadieno hidroxilado, anhídrido piromelítico)
+No
+Solo para ser usado en tereftalato de polietileno (PET) a un nivel máximo del 5 % m/m.
+998
+-
+-
+Copolímero de (butadieno, acrilato de etilo, metacrilato de metilo, estireno) no reticulado, en nanoformas
+No
+Solo para ser usado en partículas en PVC sin plastificar hasta un 10 % m/m en contacto con todos los tipos de alimentos a temperatura ambiente o inferior, incluido el almacenamiento por períodos prolongados.
+Cuando se utilizan junto con la sustancia para MCA no 859 y/o la sustancia MCA  no 1043, la restricción del 10 % m/m se aplica a la suma de dichas sustancias.
+Las partículas tendrán un diámetro > 20 nm, de las cuales al menos un 95 % de ellas, en número, tendrán un diámetro > 40 nm.
+1016
+-
+-
+Copolímero de (ácido metacrílico, acrilato de etilo, acrilato de n-butilo, metacrilato de metilo y butadieno) en nanoforma
+No
+Solo para ser usado en una concentración de hasta:
+a) el 10 % m/m en PVC sin plastificar;
+b) el 15 % m/m en PLA sin plastificar.
+El material final debe usarse en contacto con alimentos conservados a temperatura ambiente o inferior.
+1017
+-
+25618-55-7
+Poliglicerol
+No
+Transformar en condiciones que impidan la descomposición de la sustancia y hasta una temperatura máxima de 275°C.
+1030
+-
+-
+arcilla		montmorillonita modificada	por	cloruro	de dimetil-dialquil(C16-C18)- amonio
+No
+Solo para ser usado en una concentración de hasta el 12 % (m/m) en poli olefinas en contacto con alimentos secos a temperatura ambiente o inferior.
+La suma de la migración específica del 1-clorohexadecano y el 1-clorooctadecano no debe superar los 0,05 mg/kg de alimento.
+Puede contener plaquitas en nanoforma que son solo en una dimensión más finas que 100 nm. Estas plaquitas deben estar dispuestas de forma paralela a la superficie del polímero y plenamente integradas en el polímero.
+     1043
+-
+-
+Copolímero	de	(butadieno,
+acrilato de etilo, metacrilato de metilo, estireno) reticulado con dimetacrilato de 1,3-butanodiol, en nanoformas
+No
+Solo para ser usado como partículas en PVC sin plastificar hasta un 10 % m/m en
+contacto con todos los tipos de alimentos a temperatura ambiente o inferior, incluido el almacenamiento prolongado.
+Cuando se utilizan junto con la sustancia para MCA no 859 y/o la sustancia para MCA no 998, la restricción del 10 % m/m se aplica a la suma de dichas sustancias.
+Las partículas tendrán un diámetro > 20 nm, de las cuales al menos un 95 % de ellas, en número, tendrán un diámetro > 40 nm.
+1045
+-
+1190931-27-1
+Perfluoro{ácido acético, 2-[(5- metoxi-1,3-dioxolan-4-il)oxi]}, sal de amónio
+No
+Solo para ser usado como auxiliar para la produccion de fluoropolímeros en condiciones de temperatura elevada de por lo menos 370 °C.
+1046
+-
+-
+Óxido de zinc, nanopartículas, revestido	con	[3- (metacriloxi)propil]trimetoxissila no (MCA nº 788)
+No
+Solo para ser usado en polímeros no plastificados.
+
+Deben ser respetadas las restricciones y especificaciones relativas a la sustancia MCA n° 788.
+LME (T) = 5 mg/kg (expresado como Zinc)
+1048
+-
+624-03-3
+Dipalmitato de etilenoglicol
+No
+LME (T) = 30 mg/kg (expresado como etilenoglicol). El límite se refiere a la suma de las sustancias de número MCA 89, 227, 263,1048.
+
+Solo para ser usado cuando es producido a partir de un precursor de ácido graso obtenido a partir de aceites y grasas alimentarias.
+1050
+-
+-
+Óxido de zinc, nanopartículas, no revestido
+No
+Solo para ser usado en polímeros no plastificados. LME (T) = 5 mg/kg (expresado como Zinc)
+1051
+-
+42774-15-2
+N,N′-bis(2,2,6,6-tetrametil-4- piperidinil) isoftalamida
+No
+LME = 5 mg/kg
+1053
+-
+-
+Ácidos grasos, C16-18 saturados,	ésteres dedipentaeritritol
+No
+Solo para ser usado cuando es producido a partir de un precursor de ácido graso obtenido a partir de aceites y grasas alimentarias.
+1055
+-
+7695-91-2
+58-95-7
+Acetato	de	α-tocoferol
+=Acetato de vitamina E
+No
+Solo para ser usado como antioxidante en poliolefinas.
+La sustancia y sus productos de hidrólisis son aditivos alimentarios, por lo tanto, deben cumplir con los límites establecidos para cada alimento.
+1060
+-
+-
+Cáscaras	de	semillas	de girasol molidas
+No
+Solo para ser usadas a temperatura ambiente o inferior en contacto con alimentos secos.
+Las cáscaras de las semillas deben obtenerse de semillas de girasol aptas para el consumo humano.
+La temperatura de transformación del plástico que contiene el aditivo no debe superar los 240 °C.
+1064
+
+39318-18-8
+Óxido de wolframio
+No
+LME=0,05 mg/kg
+Estequiometría: WOn, n = 2,72 - 2,90
+Cuando es utilizado como agente de recalentamiento en el tereftalato de polietileno (PET), no es necesario verificar el cumplimiento del límite de migración específica; en todos los demás casos, se verificará el cumplimiento del límite de migración
+específica de conformidad con ítem 6; el límite de migración específica se expresa como mg de wolframio/kg de alimento.
+1065
+
+85711-28-0
+mezcla de alcanamidas C14 - C18 lineales y ramificadas con metilo, derivadas de ácidos grasos
+No
+LME= 5 mg/kg
+Solo para ser usado en la fabricación de artículos de poliolefina que no entren en contacto con los alimentos a los que se ha asignado el simulante D'.
+La migración de estearamida, bajo la sustancia MCA n° 306 a la que no se aplica ningún límite de migración específica, no estará sujeta a verificación del cumplimiento de la migración de la mezcla con un límite de migración específica establecido para la mezcla.
+1068
+
+2530-83-8
+[3-(2,3-epoxipropoxi)propil]- trimetoxi-silano
+No
+Solo para ser usado como componente de agente de encolado para fibra de vidrio que vayan a integrarse en plásticos reforzados: [poli(etilen terftalato) (PET), policarbonato (PC), poli(butilen tereftalato) (PBT), poliésteres termorrígidos y esteres vinílicos de resinas epoxi a base de bisfenol en contacto con todo tipo de alimentos.
+Para la fibra de vidrio tratada, LC= 0,01 mg/kg para el [3-(2,3-epoxipropoxi) propil]- trimetoxi-silano y LC=0,06 mg/kg para cada uno de los productos de reacción (monómeros hidrolizados y dímeros, trímeros y tetrámeros cíclicos con grupo epóxido) tetrámeros cíclicos que contienen epóxido).
+
+M nº.
+
+Nº Ref.
+
+Nº CAS
+
+Designación de sustancia
+FCG
+aplicable (si/no)
+
+Restricciones y especificaciones
+M1
+--
+000067-56-1
+Alcohol metílico (metanol)
+No
+Solo para ser usado en adhesivos y revestimientos poliméricos y resinosos
+M2
+--
+000071-23-8
+Alcohol n-propílico (n-propanol)
+No
+Solo para ser usado en adhesivos y revestimientos poliméricos y resinosos.
+
+
+M3
+
+
+--
+
+
+000077-89-4
+
+
+Acetiltrietilcitrato
+No
+Solo para ser usado en adhesivos, revestimentos poliméricos y resinosos y revestimentos poliméricos para filmes de poliolefinas.
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532,670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+M4
+--
+000078-59-1
+Isoforona
+No
+Solo para ser usado en adhesivos.
+M5
+--
+000078-83-1
+Isobutanol
+No
+Solo para ser usado en adhesivos.
+M6
+--
+000078-93-3
+Metiletilcetona (=2-butanona)
+No
+LME = 5 mg/kg.
+
+
+M7
+
+
+--
+
+
+000088-58-4
+
+
+2,5-Di-ter-butil hidroquinona
+No
+Solo para ser usado en:
+a) Poliésteres termorrígidos y no debe exceder el 0,08% m/m de la materia plástica, sola o combinada con ter-butil-catecol y/o hidroquinona;
+b) Adhesivos.
+
+
+M8
+
+
+--
+
+
+000090-43-7
+000132-27-4 (sal
+de sodio)
+
+
+o-fenilfenol y su sal de sodio (= 2-fenilfenol y su sal de sodio)
+No
+Solo para ser usado en:
+ a) Adhesivos solo como conservante;
+b) Resinas de poli (fenilentereftalamida) como fungicida para revestimientos,no debe exceder 0,01 % en masa del polímero base;
+c) Artículos elastoméricos de uso repetido: como antioxidante y antiozonante, solo o combinado con otros antioxidantes y antiozonantes, en total, no deben exceder 5% en masa del producto elastomérico.
+
+
+M9
+
+
+--
+
+
+000098-29-3
+
+
+4-ter-butilcatecol
+No
+
+Solo para ser usado en poliésteres.
+No debe exceder el 0,08% m/m de la materia plástica, solo o combinado con 2,5-di-ter-butil-hidroquinona y/o hidroquinona
+
+M10
+53255
+
+000100-41-4
+
+Etilbenceno
+No
+Solo para ser usado en revestimientos poliméricos y resinosos. LME= 0,6 mg/kg.
+
+
+M11
+
+
+--
+
+
+000102-76-1
+
+Triacetina	(=	triacetato	de glicerol)
+No
+Solo para ser usado en adhesivos, revestimientos poliméricos y resinosos y revestimientos poliméricos para filmes de poli olefinas.
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+M12
+--
+000108-10-1
+Metil-isobutil-cetona
+No
+LME = 5 mg/kg.
+M13
+--
+000108-21-4
+Acetato de isopropilo
+No
+Solo para ser usado en adhesivos.
+M14
+--
+000108-88-3
+Tolueno
+No
+LME = 1,2 mg/kg.
+
+
+M15
+
+
+25150
+
+
+000109-99-9
+
+
+Tetrahidrofurano
+
+
+No
+LME = 0,6 mg/kg.
+
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos parapoliolefinas;
+c) Resinas de policloruro de vinilo (PVC), policloruro de vinilideno (PVDC) y polivinil acetato (PVA).
+
+
+M16
+
+
+--
+
+
+000110-54-3
+
+
+n-Hexano
+
+
+No
+Solo para ser usado:
+ a) En adhesivos;
+ b) En revestimientos poliméricos y resinosos para films poliolefínicos;
+ c) Como solvente de polimerización.
+M17
+--
+107-83-5
+2-metilpentano
+No
+Solo para ser usado como solvente de polimerización
+
+
+M18
+
+
+16996
+
+
+000110-80-5
+
+
+Monoetiléter de etilenglicol
+
+
+No
+LME(T)= 3 mg/kg El límite se refiere a la suma de las sustancias de número M18, M20, M23, M24, M25, M26, M83, M85.
+
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos y resinosos.
+
+
+M19
+
+
+--
+
+
+000110-82-7
+
+
+Ciclohexano
+No
+LME = 1 mg/kg
+Contenido de benceno menor a 0,1% m/m en el ciclohexano. Solo para ser usado:
+ a) En adhesivos;
+ b) Como solvente de polimerización.
+
+M20
+
+--
+
+000111-15-9
+Acetato de monoetiléter de etilenglicol (=Acetato de 2- etoxietilo)
+No
+LME(T)= 3 mg/kg El límite se refiere a la suma de las sustancias de número M18, M20, M23, M24, M25, M26, M83, M85.
+
+Solo para ser usado en: adhesivos
+M21
+--
+000111-17-1
+Ácido tiodipropiónico
+No
+Solo para ser usado como antioxidante para polímeros y para recubrimientos poliméricos.
+
+M22
+
+24280
+
+000111-20-6
+
+Ácido sebácico
+No
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos y resinosos.
+
+
+M23
+
+
+16993
+53765
+
+
+000111-76-2
+
+
+Monobutiléter del etilenglicol
+No
+LME(T)= 3 mg/kg El límite se refiere a la suma de las sustancias de número M18, M20, M23, M24, M25, M26, M83, M85.
+
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos y resinosos.
+
+
+M24
+
+
+15780
+48050
+
+
+000111-90-0
+
+
+Monoetiléter de dietilenglicol
+No
+LME(T)=3 mg/kg El límite se refiere a la suma de las sustancias de número M18, M20, M23, M24, M25, M26, M83, M85.
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos y resinosos.
+
+M25
+
+--
+
+000112-07-2
+Acetato de monobutiléter de etilenglicol (=acetato de 2- butoxietano)
+No
+LME(T)=3 mg/kg El límite se refiere a la suma de las sustancias de número M18, M20, M23, M24, M25, M26, M83, M85.
+Solamente para ser usado en adhesivos.
+
+
+M26
+
+
+48030
+
+
+000112-34-5
+
+
+Monobutiléter de dietilenglicol
+No
+LME(T)=3 mg/kg El límite se refiere a la suma de las sustancias de número M18, M20, M23, M24, M25, M26, M83, M85.
+
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos y resinosos.
+
+M27
+
+--
+
+000123-42-2
+4-Hidroxi-4-metil-2-pentanona (= Diacetona alcohol)
+No
+Solo para ser usado en adhesivos.
+M28
+--
+000138-86-3
+Dipenteno
+No
+Solo para ser usado en adhesivos.
+M29
+--
+000142-82-5
+Heptano
+No
+Solo para ser usado en adhesivos.
+
+
+M30
+
+
+70320
+
+
+000629-54-9
+
+Amidas	de	ácido	graso: palmítico
+No
+En caso de utilizarse para materiales de envases para uso durante la irradiación de alimentos preenvasados, no debe exceder 1% en masa del polímero.
+Solo para ser usado en:
+a) Adhesivos; y
+b) Revestimientos poliméricos y resinosos.
+M31
+--
+001190-63-2
+Estearato	de	palmitilo	(= Estearato dehexadecilo)
+No
+Solo para ser usado como plastificante o lubricante en poliestireno y debe ser adicionado a la formulación antes de la extrusión.
+M32
+--
+001320-67-8
+Monometiléter del propilenglicol (= 1-metoxi-3-propanol)
+No
+Solo para ser usado en adhesivos
+
+
+M33
+
+
+--
+
+
+001321-57-9
+
+
+Citrato	de	monoisopropilo(= monoisopropilcitrato)
+No
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+
+Solo para ser usado en revestimientos resinosos y poliméricos como plastificante.
+
+
+M34
+
+
+--
+
+
+001323-66-6
+
+
+Citrato	de	monoestearilo (= Citrato demonooctadecilo)
+No
+
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775, 783,
+797, 798, 810, 815 y M3, M11, M33, M34, M69.
+
+Solo para ser usado en revestimientos resinosos y poliméricos como plastificante.
+
+
+M35
+
+
+--
+
+
+001330-20-7
+
+
+Xileno
+No
+LME = 1,2 mg/kg.
+
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos y resinosos
+
+M36
+
+--
+
+001336-93-2
+
+Naftenato de manganeso (para ácido nafténico)
+No
+LME (T) = 0,6 mg/Kg (expresado como manganeso).
+
+Solo para ser usado como agente secante en polímeros y resinas para revestimientos poliméricos y resinosos.
+
+M37
+
+--
+
+001338-14-3
+
+Naftenato de hierro (para ácido nafténico)
+No
+LME(T) = 48 mg/Kg (expresado como hierro)
+
+Solo para ser usado como agente secante en polímeros y resinas para revestimientos poliméricos y resinosos.
+
+M38
+
+--
+
+001421-63-2
+2,4,5-Trihidroxibutirofenona
+No
+
+Solo para ser usado en componentes de adhesivos y revestimientos resinosos y poliméricos.
+M39
+--
+002598-99-4
+Palmitato	de	estearilo (= Palmitato deoctadecilo)
+No
+Solo para ser usado como plastificante o lubricante en poliestireno y debe ser agregado a la formulación antes de la extrusión.
+
+
+M40
+
+
+--
+
+
+003055-99-0
+Productos de condensación de alcohol n-dodecílico con óxido de etileno	(1:9,5)	(=	(alfa-n- dodecanol- omegahidroxipoli(oxietileno)	(1 mol de n-dodecanol: 9.5moles
+de óxido de etileno))
+No
+LC = 1 mg/kg en producto final para óxido de etileno/ en producto final para óxido de etileno.
+Solo para ser usado como agente antiestático en cantidad que no exceda 0,2% m/m en polietileno de baja densidad, siempre que el espesor promedio sea inferior a 125
+µm (micrones = micrómetros) (= 0,005 pulgadas).
+El condensado debe tener un contenido de hidroxilo entre 2,7 y 2,9%, y un punto de enturbiamiento de 80ºC en solución acuosa al 1% m/m.
+
+M41
+
+--
+
+003147-75-9
+2-(2H-benzotriazol-2-il)4- (1,1,3,3- tetrametilbutil) fenol
+No
+Solo para ser usado a niveles que no excedan 0,5 % m/m de resinas de policarbonato utilizadas en condiciones de almacenamiento a temperatura ambiente, refrigeración o congelado.
+
+M42
+
+--
+
+003287-12-5
+Tiodipropionato de dihexadecilo (=Tiodipropionato
+de dicetilo)
+No
+Solo para ser usado como antioxidante o estabilizante en polímeros. La concentración de este aditivo no debe exceder un total de 7,75 mg/dm2.
+
+
+M43
+
+
+--
+
+
+003806-34-6
+
+
+Ciclo	neopentil	tetrail	bis (octadecilfosfito)
+No
+LC= 0,1 % m/m de copolímero de etileno acetato de vinilo
+El contenido de fósforo debe estar comprendido entre 7,8 y 8,2 % m/m Solo para ser usado como estabilizante y antioxidante en copolímeros de
+etileno- acetato de vinilo, en condiciones de envasado a temperatura ambiente, en refrigeración, congelamiento y en todos los casos sin tratamiento térmico dentro del envase.
+M44
+--
+006994-59-8
+Estearato de estaño
+No
+LME (T) = 1,2 mg/kg (expresado como estaño).
+
+
+M45
+
+
+--
+
+
+-
+Aceites vírgenes purificados o refinados	deshidratado, calentados o soplados parcialmente polimerizados o modificados con anhídrido maléico:
+- girasol
+- soja
+- lino
+- algodón
+- maíz
+- coco
+- pescado
+No
+
+
+Solo para ser usado en revestimientos poliméricos y resinosos.
+LME (T) = 30 mg/kg (expresado como ácido maléico). El límite se refiere a la suma de las sustancias de número MCA 234 (N° de Referencia: 19960) y MCA 248 (N° de Referencia: 19540).
+
+M46
+--
+008002-09-3
+Aceite de pino
+No
+Solo para ser usado en adhesivos
+M47
+--
+008002-26-4
+Aceite de pino "tall oil"
+No
+
+
+M48
+
+
+--
+
+
+008002-75-3
+Aceites vírgenes purificados o refinados,	deshidratados,
+calientes	o		soplados, polimerizados		o	parcialmente
+modificados con la anhídrido maleico: palma
+No
+
+
+Solo para ser usado en revestimientos poliméricos y resinosos como lubricante de superficie.
+
+M49
+
+--
+
+008016-11-3
+Aceite de lino epoxidado (= Óleo de linhaça epoxidado)
+No
+Solo para ser usado como plastificante con los siguientes requisitos:
+ - Oxigeno oxirânico mínimo 9%m/m;
+ - Índice de iodo máximo 5.
+M50
+--
+
+Aceite de oiticica y sus productos
+de deshidratación
+No
+Solo para ser usado como componente de revestimientos poliméricos y resinosos.
+
+M51
+
+--
+
+008045-34-9
+
+Esteres de ácido esteárico con pentaeritritol
+No
+Solo para ser usado en PVC rígido y/o en copolímeros de cloruro de vinilo rígidos como antioxidante o estabilizante de forma que la cantidad de pentaeritritol y/o estearato de pentaeritritol (calculado como pentaeritritol libre)
+no exceda 0,4% m/m de estos polímeros.
+
+M52
+
+--
+
+009000-14-0
+
+Ceras de copal
+No
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos y resinosos.
+
+M53
+
+--
+
+009000-57-1
+
+Ceras de sandaraca
+No
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos poliméricos y resinosos.
+
+
+M54
+
+
+--
+
+
+009003-27-4
+
+
+Poliisobuteno (= poliisobutileno)
+No
+Solo para ser usado:
+a) como plastificante de polietileno con masa molecular entre 300 y 5000 Da en cantidades que no excedan 0,5% m/m de polietileno, y no en condiciones de calentamiento;
+ b) en adhesivos y adhesivos sensibles a la presión.
+
+
+M55
+
+
+--
+
+
+010213-78-2
+052497-24-2
+094945-28-5
+
+Mezcla de:
+- octadecanoato de 2-(2- hidroxietil-octadecilamino)etilo;
+- diestearato de (octadecilimino) dietileno; y
+- bis(hidroxietil)octadecilamina).
+No
+Solo para ser usado en películas de polipropileno como agente antiestático en forma tal que el espesor del envase en micrómetros multiplicado por el porcentaje de masa del aditivo no sea mayor que 16.
+No debe ser utilizado en materiales plásticos para alimentos alcohólicos, ni para contacto con alimentos a temperaturas mayores a 100 ° C.
+Debe cumplir con las siguientes especificaciones:
+a) Indice de acidez máximo de 5 mgKOH/g;
+b) Indice de amina de 86+/-6 mgKOH/g.
+M56
+--
+012627-14-4
+Silicatos y silicatos ácidos de litio
+No
+LME (T) = 0,6 mg/kg (expresado como litio).
+Solo para ser usado en revestimientos a base de resinas perfluorocarbonadas
+M57
+--
+027214-00-2
+Glicerofosfato de calcio
+No
+
+
+M58
+
+
+--
+
+
+034137-09-2
+Ester del ácido 3,5-di-ter-butil-4- hidroxi hidrocinámico con 1,3,5- tris
+(2-hidroxi-etil)-s-triazina 2,4,6- (1H,3H,5H)-triona
+No
+Solo para ser usado como antioxidante o estabilizante de polímeros con las siguientes restricciones:
+a) Hasta 0,5 por ciento m/m de polipropileno y polietileno en condiciones de procesamiento del alimento hasta100°C;
+b) En adhesivos;
+c) Hasta 0,25 por ciento m/m de copolímeros de olefina.
+M59
+--
+034590-94-8
+Monometiléter	de dipropilenoglicol
+No
+Solo para ser usado como adhesivo.
+
+
+M60
+
+
+--
+
+
+036265-41-5
+Didodecil-1,4-dihidro-2,6-dimetil- 3,5-piridinadicarboxilato (= 1,4- dihidroxi-2,6-dimetil-3,5- dicarbododeciloxi-piridina)
+No
+Solo para ser usado como antioxidante y/o estabilizante en artículos rígidos de polímeros y copolímeros de cloruro de vinilo, siempre que no exceda el 0,3% m/m de los mismos, en condiciones de llenado a temperatura ambiente, y conservación a temperatura ambiente, en refrigeración, o congelación y en todos los casos sin tratamiento térmico dentro del envase.
+
+M61
+
+--
+
+061789-51-3
+
+Naftenato de cobalto (para ácido naftênico)
+No
+LME (T) = 0,05 mg/kg (expresado como cobalto).
+
+Solo para ser usado como agente secante en polímeros y resinas para revestimientos.
+M62
+17230
+061790-12-3
+Acidos grasos de "tall oil" (= óleo de pinho)
+No
+Solo para ser utilizado como adhesivo.
+
+
+M63
+
+
+--
+
+
+068411-46-1
+
+
+Producto de reacción de N- fenilbencenamina con 2,4,4- trimetilpenteno
+No
+Solo para ser usado en:
+a) adhesivos, como máximo 0,5% m/m de adhesivo, para material en contacto con todos los tipos de alimentos, en condiciones de contacto que no excedan 49 ° C (120 ° F);
+b) guarniciones de tapas: como máximo 0,1% m/m de copolímeros de isobutileno-isopreno, isobutileno-isopreno clorados e isobutileno-isopreno bromados.
+
+
+M64
+
+
+--
+
+
+068937-10-0
+
+
+Polibuteno hidrogenado
+No
+Debe cumplir los siguientes requisitos:
+- viscosidad Saybolt mínima: 39 segundos Saybolt
+- número de bromo menor o igual que 3
+
+Solo para ser usado como plastificante en:
+a) Polimeros en contacto con alimentos no grasos;
+b) Polietileno en contacto con alimentos grasos LC = 0,5% m/m y con temperatura de uso 40º C o menor;
+c) Poliestireno en contacto con alimentos grasos LC = 5% m/m y con temperatura de uso 40º C o menor;
+d) Para uso en adhesivos y adhesivos sensibles a la presión;
+e) Para revestimientos resinosos y poliméricos.
+
+M65
+
+--
+
+068956-82-1
+
+Resinato de cobalto
+No
+LME (T) = 0,05 mg/kg de alimento (expresado como cobalto)
+
+Solo para ser usado como agente secante en revestimientos poliméricos y resinosos.
+
+
+M66
+
+
+--
+
+
+073379-76-7
+
+
+Adipato-estearato	de pentaeritritol
+No
+Solo para ser usado como lubricante en la fabricación de PVC y/o copolímeros de cloruro de vinilo -propileno rígido y semi rígido para entrar en contacto con alimentos con excepción de alimentos con un contenido de alcohol mayor a 8% v/v, en condiciones de contacto a temperatura ambiente, refrigeración y congelación en todos los casos sin tratamiento térmico.
+La cantidad de ester total (calculada como pentaeritritol libre) no debe exceder 0,4% en masa de PVC y/o copolímeros de cloruro de vinilo -propileno.
+
+Debe cumplir con las siguientes especificaciones:
+a) Punto de fusión 55-58°C;
+b) Índice de acidez inferior a 15;
+c) Índice de saponificación 270-280;
+d) Índice de iodo inferior a 2.
+
+
+M67
+
+
+----
+
+
+181314-48-7
+
+Producto de reacción de o-xileno con 5,7-bis(1,1-dimetiletil)3- hidroxi-
+2(3H)-benzofuranona
+No
+Solo para ser usado como antioxidante y estabilizante de polímeros en las siguientes condiciones:
+
+a) Máximo 0,1% en masa de poli olefinas en contacto con alimentos acuosos no ácidos, acuosos ácidos, no alcohólicos y sólidos secos y no secos sin grasa superficial, en todas las condiciones de procesado, excepto para esterilización
+por encima de 100 ºC
+(212 ºF)
+
+b) Máximo 0,02% en masa de polímeros y copolímeros de propileno, en contacto todos los alimentos excepto grasos en todas las condiciones de procesamiento, excepto para esterilización encima de 100 ºC (212ºF); y siempre que el artículo final tenga una capacidad de 19 litros o mayor.
+
+c) Máximo 0,02% en masa de polímeros y copolímeros de etileno, en contacto con todos los tipos de alimentos excepto grasos, en todas las condiciones de procesamiento, excepto para esterilización encima de 100°C (212°F); y siempre que el artículo final tenga una capacidad de 19 litros o mayor; o si la cara en contacto con el alimento tiene un espesor no mayor de 50 micrómetros.
+
+
+M68
+
+
+--
+
+
+265647-11-8
+
+
+Fosfato de sodio, hidrógeno, plata (1+) y zirconio (4+)
+
+
+No
+LME (T) = 0,05 mg/kg (expresado como plata).
+
+Solo para ser usado como antimicrobiano para polímeros en contacto con alimentos en niveles que no excedan el 2% m/m de polímero. El contenido de plata no debe exceder 10 % en masa del aditivo.
+
+
+M69
+
+
+--
+
+
+33703-08-1
+
+
+Adipato de di-isononilo
+
+
+No
+a) Para ser usado en polímeros y copolímeros de cloruro de vinilo, en cantidad no superior al 24% m/m de la materia plástica, en artículos con un espesor menor o igual a 125 micrones, en contacto con alimentos acuosos ácidos, acuosos no ácidos, y secos libres de grasa.
+b) Para ser usado en polímeros y copolímeros de cloruro de vinilo, en cantidad no superior al 24% m/m de la materia plástica, en artículos con un espesor menor o igual a 125 micrones, en contacto con alimentos grasos (con un contenido de grasa menor o igual al 30% m/m del alimento), y en condiciones de almacenamiento a temperatura de refrigeración y congelación.
+c) Para ser usado como plastificante en polímeros y copolímeros de cloruro de vinilo, en cantidad no superior al 35% m/m de la materia plástica, en artículos con un espesor menor o igual a 50 micrones, en contacto con alimentos acuosos ácidos, acuosos no ácidos, y secos libres de grasa.
+d) Para ser usado como plastificante en polímeros y copolímeros de cloruro de vinilo, en cantidad no superior al 35% m/m de la materia plástica, en artículos con un espesor menor o igual a 50 micrones, en contacto con alimentos grasos (con un contenido de grasa menor o igual al 40% m/m del alimento), y en condiciones de almacenamiento a temperatura de refrigeración y congelación.
+
+Las restricciones de uso del material plástico conteniendo este aditivo, para cada aplicación, deberán figurar en la rotulación del mismo.
+LME (T) = 60 mg/kg. El límite se refiere a la suma de las sustancias de número MCA 8, 72, 73, 138, 140, 157, 159, 207, 242, 283, 532, 670, 728, 729, 775,
+783, 797, 798, 810, 815 y M3, M11, M33, M34, M69.
+M70
+--
+17540-75-9
+4-sec-butil-2,6-di-terc-butil -fenol
+No
+Solo para ser usado:
+
+a) Como antioxidante y/o estabilizante de adhesivos;
+b) Como antioxidante en homo y copolímeros de cloruro de vinilo (PVC) plastificados. Máximo 0,06% m/m en producto terminado; en contacto con alimentos en condiciones de llenado en caliente y/o pasteurización y/o almacenamiento a temperaturas ambiente, refrigeración o congelación.
+
+
+M71
+
+
+--
+
+
+202483-55-4
+
+
+Productos de reacción dehidrocloruro de 2,2,4,4-tetrametil 7-oxa-3 ,20-diazadispiro[5.1.11.2] heneicosan-21-onacon epiclorhidrina, hidrolizados,polimerizados.
+No
+ (1) LC = 0,5 % (m/m). Solo para ser usado como antioxidante y/o estabilizante en polipropileno homopolímero, y copolímeros de propileno con los siguientes monómeros incluidos en la lista positiva de monómeros, polímeros y otras sustancias de partida del MERCOSUR: etileno, buteno, penteno, hexeno, octeno, 4- metilpenteno-1, 1-deceno, 1-dodeceno y 1-tetradeceno. Al entrar en contacto con alimentos grasos, el artículo debe tener una capacidad mínima de 19 litros.
+(2) LC = 0,5 % (m/m). Solo para ser usado como antioxidante y/o estabilizante en: polietileno homopolímero, y copolímeros de los siguientes monómeros incluidos en la lista positiva de monómeros, polímeros y otras sustancias de partida del MERCOSUR: etileno, propileno, buteno, penteno, hexeno, octeno, 4-metilpenteno- 1, 1-deceno, 1-dodeceno, 1-tetradeceno y ácido fumárico. Para contacto con alimentos sometidos a tratamiento térmico (pasteurización o llenado en caliente), almacenados a temperatura ambiente, refrigerados o congelados. Al entrar en contacto con alimentos grasos, el artículo debe tener una capacidad mínima de 19 litros.
+
+(3) (a) LC = 0,3 % (m/m). Solo para ser usado como antioxidante y/o estabilizante en: polietileno homopolímero; copolímeros de los siguientes monómeros incluidos en la lista positiva de monómeros, polímeros y otras sustancias de partida del MERCOSUR: etileno, propileno, buteno, penteno, hexeno, octeno, 4-metilpenteno- 1, 1-deceno, 1-dodeceno, 1-tetradeceno, ácido fumárico, 5-etiliden-2-norborneno y 1,4-hexadieno; y poli(metilpenteno). Para contacto con alimentos sometidos a tratamiento térmico (pasteurización hasta 66 ºC o llenado en caliente), almacenados a temperatura ambiente, refrigerados o congelados. Al entrar en contacto con alimentos grasos, el artículo debe tener una capacidad mínima de 19 litros.
+
+(b) LC = 0,2 % (m/m). Para películas y artículos moldeados para contacto con alimentos acuosos ácidos y no ácidos, alcohólicos, alimentos para los que se aplica el simulante etanol 50% (v/v), y alimentos secos que no contengan grasa en su superficie.
+
+
+M72
+
+
+--
+
+
+204933-93-7
+
+
+Bis(aceite de colza hidrogenado alquil)-metil aminas, N-óxidos
+
+
+No
+LC = 0,1% (m/m).
+Solo para ser usado como antioxidante en:
+a) Polietileno de alta densidad y copolímeros de polietileno de alta densidad obtenidos por polimerización de etileno con los siguientes monómeros incluidos en la lista positiva de monómeros, polímeros y otras sustancias de partida del MERCOSUR: propileno, 1-buteno, 1-penteno, 1-hexeno, 1-octeno, 1-deceno, 1-dodeceno, 1-tetradeceno, 4-metil-1-penteno, 1,4-hexadieno y ácido fumárico; utilizados en todas las condiciones de envasado y procesamiento de alimentos, excepto esterilización por encima de 100ºC (212ºF).
+
+b) Polipropileno homopolímero, y en copolímeros de propileno con los siguientes monómeros incluidos en la lista positiva de monómeros, polímeros y otras sustancias de partida del MERCOSUR: etileno, 1-buteno, 1-penteno, 1-hexeno, 1-octeno, 4-metil-1-penteno,5-etiliden-2-norborneno, 1,4-hexadieno y ácido fumárico; utilizados en todas las condiciones de envasado y procesamiento de alimentos, excepto esterilización por encima de 100ºC (212ºF).
+
+
+M73
+
+
+--
+
+
+16940-66-2
+
+
+Borohidruro de sodio (16940-66-
+2) en conjunto con acetato de paladio (3375-31-3).
+
+
+No
+El borohidruro de sodio solo puede ser usado en la capa que no está en contacto con los alimentos, en revestimientos internos multicapa de sistemas de cierre de las botellas, a un nivel que no exceda 12% (m/m, como borohidruro de sodio) en la capa que no está en contacto con los alimentos, y de 10 mg/cm2 de superficie de contacto del revestimiento.
+La superficie de contacto del revestimiento no puede exceder 12 cm2. La capa que contiene el borohidruro debe estar separada por una barrera funcional. Tanto la capa que no está en contacto con los alimentos, y que contiene el borohidruro de sodio, como la capa de barrera funcional debe estar constituido por cualquier polímero autorizado para el contacto con alimentos. La capa de barrera funcional debe tener un espesor mínimo de 0,38 mm con las siguientes excepciones:
+1) Si la capa de barrera es de estireno-etileno-butadieno-estireno, el espesor mínimo de barrera debe ser 0,35 mm;o
+2) Si la capa de barrera de poli (estireno-etileno-etileno/propilenoestireno), el espesor mínimo de barrera debe ser 0,25mm.
+El borohidruro de sodio se utiliza en conjunto con acetato de paladio, que está presente en el producto final como un metal (Pd (0)). El acetato de paladio se puede utilizar en:
+a) paredes de botellas de bebidas que consiste de ftalato de etileno/ polímeros de naftalato y copolímeros en niveles que no excedan de 5 mg/kg en masa (como paladio);o
+b) la superficie de tapas en niveles que no excedan de 50 mg/kg (como paladio). El acetato de paladio en la superficie de contacto será procesado a una temperatura mínima de 220ºC en el polímero.
+El producto final puede ser utilizado para el contacto con alimentos envasados en caliente y la pasteurización por encima y por debajo de 66 ° C, los alimentos
+
+
+envasados a temperatura ambiente sin tratamiento térmico dentro del envase, almacenamiento en frío o congelado sin tratamiento térmico dentro del envase, almacenamiento en frío o alimentos congelados para ser calentados en el interior del envase antes de su consumo (acuosos o emulsión de aceite en agua con bajo y alto contenido de grasa, y acuosos con grasa libre con bajo o alto contenido de grasa).
+
+M74
+
+--
+
+105-46-4
+Acetato desec-butilo
+(sec butil éster de ácido acético, acetato de2-butanol)
+No
+
+Solo para ser usado en adhesivos.
+
+
+M75
+
+
+--
+
+
+68611-44-9
+
+
+Diclorometilsilano, productos de reacción con sílice
+No
+Para ser usado en una concentración no mayor que 200 mg/kg en polipropileno homopolímero y copolímeros de propileno con los siguientes monómeros incluidos en la lista positiva de monómeros, polímeros y otras sustancias de partida del MERCOSUR: etileno, 1-buteno, 1-penteno,1-hexeno, 1-octeno, 4-metil-1-penteno, 5- etiliden-2-norborneno, 1,4-hexadieno y ácido fumárico.
+
+Como estabilizante y agente espesante en dispersiones colorantes, utilizados en polímeros de PET para contacto con alimentos. Para ser utilizado a niveles que no excedan el 0,1 % m/m del polímero final en contacto con todos los tipos de alimentos, en todas las condiciones de envasado y procesamiento, excepto
+esterilización a 100°C (212°F) o temperaturas superiores.
+
+
+M76
+
+
+--
+
+
+1235487-96-3
+
+
+Benzenopropanamida, 3,5- bis(1,1-dimetiletil)-4-hidroxido-, N-C16-18-derivados de alquil
+
+
+No
+Solo para ser usado en polipropileno para films, revestimientos y artículos moldeados para uso único o repetido. LC= 150 mg/kg (m/m).
+
+No puede ser utilizado para materiales sometidos a la irradiación o a temperaturas superiores a 121 ° C.
+No puede ser utilizado para materiales destinados a alimentos para niños de 0 a 3 años.
+
+M77
+
+--
+
+
+Alcanos y cicloalcanos
+
+No
+
+Solo aquellos con punto de ebullición de hasta 100°C, para uso como solventes de polimerización.
+
+
+M78
+
+
+--
+
+
+935739-41-6
+2-2 '- [1,3-fenilenbis (metileno)] bis [2,3-dihidro-1H-isoindol-1- ona] (también conocido como m- Xilileno diamina-bis (ftalamida), MXBP), utilizado en conjunción
+con neodecanoato de cobalto (CAS Reg. Nº. 27253-31-2).
+No
+Solo para ser usado como absorbedor de oxígeno en polímeros de polietilentereftalato (PET)
+LC= 1,45% (m/m) para MXBP LC= 0,02% (m/m) como cobalto
+LME = 0,05 mg/kg (expresado como ácido neodecanoico.)
+
+Para condiciones de pasteurización, llenado en caliente, conservación en condiciones a temperatura ambiente y refrigeración.
+No puede ser utilizado para contacto con agua y bebidas carbonatadas. No puede ser utilizado para objetos en contacto con alimentos grasos.
+M79
+--
+75-28-5
+Isobutano
+No
+Para uso como agente de expansión y solvente.
+
+
+M80
+
+
+--
+
+
+1489170-67-3
+
+
+4-[(4-
+clorobenzoil)amino]benzoatode sodio
+
+
+No
+Para uso solamente como agente de nucleación en poli olefinas: LC= 0,25% m/m del material u objeto terminado.
+No puede ser utilizado para materiales destinados a alimentos para niños de 0 a 3 años de vida, de acuerdo a lo definido en los reglamentos específicos.
+Para todas las condiciones de procesamiento excepto esterilización por encima de 100°C.
+
+
+M81
+
+
+--
+
+
+57843-53-5
+
+
+N,N,N',N'-tetrakis(2- hidroxipropil)adipamida
+
+
+No
+Solo para ser usado en revestimientos poliméricos y resinosos. Debe cumplir con las siguientes restricciones:
+1- LME (T) =5 mg/kg para la N,N,N',N'-tetrakis(2-hidroxipropil)adipamida sóla o combinada con ácido 6-[bis(2-hidroxipropil)amino]-6-oxohexanoico.
+Para alimentos grasos la migración específica debe ser calculada siempre para una relación de uso genérica de 6 dm2/kg.
+2- LME=5 mg/kg para la Diisopropanolamina (CAS Nº 110-97-4) (como impureza de reacción de síntesis).
+Para alimentos grasos la migración específica debe ser calculada siempre para una relación de uso genérica de 6 dm2 / kg.
+3- LME (T) =0,1 mg/kg para el bis{1-[(2-hidroxipropil)amino]-2-propanil} adipato (producto de reacción) combinado con 1-[(2-hidroxi-propil)amino]-2-propanil 6- [bis(2-hidroxipropil)-amino]-6-oxohexanoato. El LME aplica solo cuando la sustancia es usada para alimentos acuosos ácidos (pH ≤ 4.5) y en condiciones de uso o procesamiento con temperaturas ≥70ºC.
+No puede ser utilizado para materiales destinados a entrar en contacto con fórmulas infantiles y leche humana.
+
+M82
+
+--
+
+75-65-0
+
+terbutanol
+
+No
+
+LME=10 mg/kg
+Solo para ser usado en revestimientos poliméricos y resinosos.
+
+M83
+
+--
+
+112-25-4
+
+Monohexileter de etilenglicol
+
+No
+Solo para ser usado en revestimientos polimericos y resinosos
+LME(T)= 3 mg/kg. El límite se refiere a la suma de las sustancias de número M18, M20, M23, M24, M25, M26, M83, M85.
+
+
+M84
+
+
+--
+
+
+75-09-2
+
+
+Diclorometano
+
+
+    No
+LME=0,05mg/kg.
+
+Solo para ser usado en:
+ a) Adhesivos;
+ b) Revestimientos poliméricos y resinosos.
+
+
+M85
+
+
+--
+
+
+109-86-4
+
+
+Monometileter de etilenglicol
+
+
+No
+Solo para ser usado en:
+a) Adhesivos;
+b) Revestimientos polimericos y resinosos.
+LME(T)= 3 mg/kg. El límite se refiere a la suma de las sustancias de número M18, M20, M23, M24, M25, M26, M83, M85
+
+
+M86
+
+
+--
+
+
+--
+
+
+Compuesto vítreo de plata y cinc. Composición: Ag (máx.
+0.57 % (m/m), cinc máx. 23% m/m, fosfato de aluminio y boro, máx. 76.4% m/m) .
+
+
+No
+Solo para ser usado como aditivo antimicrobiano LC = 3% m/m del material plástico
+LME(T) = 0,05 mg/kg (expresado como plata) LME(T) = 5 mg/kg (expresado como zinc) LME(T) = 1 mg/kg (expresado como aluminio)
+LME(T) = 6 mg/kg (expresado como boro) El límite se refiere a la suma de las sustancias de número MCA 407,583, 584, 599, M86.
+
+
+M87
+
+
+--
+
+
+--
+
+Zeolita de plata y cinc (compuesto de alumino silicato de plata, cinc,
+sodio y magnesio con fosfato de calcio, óxido de cinc , hidrocalcita con contenido de Ag máximo de 0,55%
+
+
+No
+Solo para ser usado como aditivo antimicrobiano LC = 3% m/m del material plástico
+LME(T) = 0,05 mg/kg (expresado como plata) LME(T) = 5 mg/kg (expresado como zinc) LME(T) = 1 mg/kg (expresado como aluminio)
+
+
+M88
+
+
+--
+
+
+--
+
+
+Hidrocarburos del petróleo livianos desodorizados
+
+
+No
+Es una mezcla de hidrocarburos líquidos, de naturaleza parafínica, isoparafínica o nafténica, derivados del petróleo o sintetizados a partir de gases de petróleo. Deben cumplir con las siguientes especificaciones:
+- presentar olor leve, no a querosén
+- punto de ebullición inicial mínimo 149 ºC (300ºF)
+- punto de ebullición final máximo 343 ºC (650ºF)
+- las máximas absorbancias están definidas en la siguiente tabla
+
+
+LONGITUD DE ONDA (nm)
+MÁXIMA ABSORBANCIA POR cm DE PASO ÓPTICO
+
+
+280-289
+4,0
+
+
+290-299
+3,3
+
+
+300-329
+2,3
+
+
+330-360
+0,8
+
+
+Solo para ser usados:
+a) como plastificantes y absorbedores de aceite en la fabricación de artículos de poliolefinas, en cantidades que no excedan las tecnológicamente necesarias, de acuerdo con las Buenas Prácticas de Manufactura;
+b) como componentes de adhesivos.
+
+
+M89
+
+
+--
+
+
+--
+
+
+Hidrocarburos isoparafínicos de petróleo, sintéticos
+
+
+No
+
+Los Hidrocarburos isoparafínicos de petróleo, sintéticos están constituidos por una mezcla de hidrocarburos líquidos que deben cumplir los siguientes requisitos:
+- Rango de punto de ebullición: 63-260ºC
+- Residuo no volátil: 0,002 g/100 ml máximo
+- Las máximas absorbancias están definidas en la siguiente tabla:
+
+
+LONGITUD DE ONDA (nm)
+MÁXIMA ABSORBANCIA POR cm DE PASO ÓPTICO
+
+
+260-319
+1,5
+
+
+320-329
+0,08
+
+
+330-350
+0,05
+
+
+Debe ser usado en cantidades que no excedan las concentraciones necesarias para producir las funciones tecnológicas deseadas, de acuerdo con las Buenas Prácticas de Manufactura, para que el contenido residual en el producto final sea el más bajo posible.
+
+
+M90
+
+
+--
+
+
+--
+
+
+Nafta de petróleo
+
+
+No
+
+La nafta de petróleo está constituida por una mezcla de hidrocarburos líquidos, de naturaleza esencialmente parafínica y nafténica, refinados, que deben cumplir con los siguientes requisitos:
+- Rango de punto de ebullición: 79 °C - 149 °C (175 °F -300°F)
+- Residuo no volátil: 0,002 g/100 ml máximo
+- Las máximas absorbancias están definidas en siguiente tabla:
+
+
+LONGITUD DE ONDA(nm)
+MAXIMA ABSORBANCIA POR cm DE PASO OPTICO
+
+
+280-289
+0,15
+
+
+290-299
+0,13
+
+
+300-359
+0,08
+
+
+360-400
+0,02
+
+
+Debe ser usado en cantidades que no excedan las concentraciones necesarias para producir las funciones tecnológicas deseadas, de acuerdo con las Buenas Prácticas de Manufactura, para que el contenido residual en el producto final sea el más bajo posible.
+
+7
+
+
+SECRETARÍA DEL MERCOSUR
+FE DE ERRATAS - ORIGINAL - 07/01/20
+
+
+                                                                           María Fernanda Monti
+                                                                            Directora

@@ -1,0 +1,367 @@
+Resolución GMC N° 67/98
+Título: SUB-ESTÁNDAR 3.7.31 - “REQUISITOS FITOSANITARIOS GENERALES Y ESPECÍFICOS PARA AVENA SATIVA (AVENA, AVEIA)”
+Fecha de aprobación: 08/12/1998
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 12/09. Estuvo vigente desde el 06/12/2006 - Art. 40 POP hasta el 29/07/12, (Mendoza 29/06/2012) para Argentina, Brasil y Uruguay Estuvo vigente desde el 06/12/2006 - Art. 40 POP hasta el 22/06/2019, para Paraguay.)
+Idioma del texto: ES
+Archivo original: 21898_RES_067-1998_ES_Sub-Estándar 3 7 31_Avena Sativa_Acta 4_98.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1602).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 67/98
+
+SUB-ESTÁNDAR 3.7.31 - "Requisitos Fitosanitarios Generales y Específicos para Avena sativa (Avena, Aveia)"
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 6/96 del Consejo del Mercado Común, las Resoluciones Nº 62/94 y 88/96 del Grupo Mercado Común y la Recomendación Nº 17/98 del SGT Nº 8 "Agricultura".
+
+CONSIDERANDO:
+
+Que es necesario disponer de requerimentos cuarentenarios armonizados para ser aplicados en el  intercambio de productos de origen vegetal entre los Estados Partes y con terceros países.
+
+Que la naturaleza dinámica de los procesos biológicos, que justifican el establecimiento de tales requerimientos cuarentenarios, hace necesario proceder a su permanente actualización.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el Sub-Estándar 3.7.31 - "Requisitos Fitosanitarios Generales y Específicos para Avena sativa (Avena, Aveia)", en sus versiones en español y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	Secretaría de Agricultura, Ganadería, Pesca y Alimentación - SAGPyA
+		Servicio Nacional de Sanidad y Calidad Agrolimentaria - SENASA
+
+Brasil:		Ministério da Agricultura e do Abastecimento - MA
+		Secretaria de Defesa Agropecuária - SDA
+
+Paraguay:	Ministerio de Agricultura y Ganadería - MAG
+		Dirección de Defensa Vegetal - DDV
+
+Uruguay:	Ministerio de Ganadería, Agricultura y Pesca - MGAP
+		Dirección General de Servicios Agrícolas - DGSA
+
+Art. 3	Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del 12 de abril de 1999.
+
+XXXII GMC - Rio de Janeiro, 8/XII/98
+
+
+SUB-ESTÁNDAR  FITOSANITARIO MERCOSUR
+
+
+SECCIÓN III - MEDIDAS FITOSANITARIAS
+
+
+3.7.31. Requisitos Fitosanitarios Generales y Específicos para
+ Avena sativa
+(avena, aveia)
+ según País de Destino y de Origen.
+
+
+	CONTENIDO
+
+
+I.	Introducción:
+		Ambito
+		Referencias
+		Definiciones y Abreviaturas
+		Descripción
+
+
+II.	Requisitos Fitosanitarios Generales y Específicos para Avena sativa (avena, aveia), según País de Destino y de Origen
+
+
+I- INTRODUCCION
+
+
+1.- AMBITO
+
+	Este Sub-estándar presenta los requisitos fitosanitarios, armonizados, generales y específicos aplicados por las Organizaciones Nacionales de Protección Fitosanitaria de los Estados Partes del MERCOSUR para la regulación fitosanitaria de Avena sativa (avena, aveia), según su codificación en el Nomenclador Cuarentenario y de acuerdo con su país de origen.
+
+2.- REFERENCIAS
+
+-	Estándar 3.5. Nomenclator cuarentenario MERCOSUR. Res GMC Nº 62/94
+-	Sub-Estándar 3.7.a. Intensidad de las Medidas Fitosanitarias por Tipo de Plaga. Res GMC Nº 88/96
+-	Estandar 3.7  Armonización de las medidas Fitosanitarias por vías de ingreso (productos). Res GMC Nº 88/96
+
+
+3.- DEFINICIONES Y ABREVIATURAS.
+
+	Las establecidas en el Estándar 3.7.
+
+
+ 4.- DESCRIPCION
+
+	Este Sub-estándar presenta los requisitos fitosanitarios armonizados, generales y específicos utilizados por las Organizaciones Nacionales de Protección Fitosanitaria de los Estados Partes del MERCOSUR, para la regulación fitosanitaria del intercambio de Avena sativa (avena, aveia), en sus diferentes presentaciones, según el código de producto que consta en el Nomenclator Cuarentenario del MERCOSUR, organizados por país de destino y de origen.
+
+
+II.  REQUISITOS FITOSANITARIOS GENERALES Y ESPECIFICOS PARA Avena sativa, SEGUN PAIS DE DESTINO Y DE ORIGEN.
+
+
+II.31. A.   PAIS DE DESTINO:					    	ARGENTINA
+
+	REQUISITOS FITOSANITARIOS GENERALES Y ESPECIFICOS PARA
+	Avena sativa.
+
+A. 	EXIGENCIAS CUARENTENARIAS:
+	CATEGORIA 4
+CATEGORIA 3
+	CATEGORIA 1
+CLASE 3:  SEMILLAS
+CLASE 9:  GRANOS
+CLASE 10:  OTROS
+Código:   AVESA 2 13 01 03 4
+Código:  AVESA 1 13 01 09 3
+Cód.:  AVESA 1 13 12 10 1
+Requisitos generales:
+
+
+SI, AFIDI, CF, (CFO), (DA), IF, (CI), DC, (AO), (T)
+SI, AFIDI, CF, (CFO), (DA), IF, (AO), (T)
+DP, IF
+Requisitos específicos exigidos por Argentina:
+
+
+CF:
+DA2 Nº 1, Trogoderma spp.
+y
+DA7 o DA5, Striga spp.
+y
+DA7 o DA5 o DA15, Anguina tritici, Cirsium arvense, Euphorbia esula, Taeniatherum caput-medusae.
+CF:
+DA2 Nº 1, Trogoderma spp.
+
+y además para Raciones:
+DA7 o DA1/envío, Anguina tritici, Cirsium arvense, Euphorbia esula, Taeniatherum caput-medusae
+Y
+DA7 o DA15, Striga spp.
+
+
+REQUISITOS SEGUN ORIGEN:
+Requisitos específicos exigidos por ARGENTINA para:
+
+
+BRASIL
+
+
+CF:
+ DA7 o DA5 o DA15, Euphorbia esula.
+CF:
+y además para Raciones:
+DA7 o DA1/envío, Euphorbia esula.
+
+
+PARAGUAY
+
+
+CF
+CF
+
+URUGUAY
+
+
+CF
+CF
+
+
+II.31. B. 	PAIS DE DESTINO:				 	  BRASIL
+
+	REQUISITOS FITOSANITARIOS GENERALES Y ESPECIFICOS PARA
+	Avena sativa.
+
+
+B. 	EXIGENCIAS CUARENTENARIAS:
+	CATEGORIA 4
+CATEGORIA 3
+	CATEGORIA 1
+CLASE 3:  SEMILLAS
+CLASE 9:  GRANOS
+CLASE 10:  OTROS
+Código:   AVESA 2 13 01 03 4
+Código:  AVESA 1 13 01 09 3
+Cód.:  AVESA 1 13 12 10 1
+Requisitos generales:
+
+
+SI, CF, (CFO), (DA), IF, (CI), DC, (AO), (T)
+SI, CF, (CFO), (DA), IF, (AO), (T)
+DP, IF
+Requisitos específicos exigidos por Brasil:
+
+
+CF:
+DA2 Nº 1, Trogodema granarium
+y
+DA7 o DA5, Striga spp.
+y
+DA7 o DA5 o DA15, Anguina tritici, Cirsium arvense, Ditylenchus dipsaci, Taeniatherum caput-medusae.
+CF:
+DA2 Nº 1, Trogoderma granarium
+
+y además para Raciones:
+DA7 o DA1/envío, Anguina tritici, Cirsium arvense, Ditylenchus dipsaci, Taeniatherum caput-medusae
+y
+DA7 o DA15, Striga spp.
+
+
+REQUISITOS SEGUN ORIGEN:
+Requisitos específicos exigidos por BRASIL para:
+
+
+ARGENTINA
+
+
+CF
+CF
+
+PARAGUAY
+
+
+CF
+CF
+
+URUGUAY
+
+
+CF
+CF
+
+
+II.31. C. 	PAIS DE DESTINO:				     	PARAGUAY
+
+	REQUISITOS FITOSANITARIOS GENERALES Y ESPECIFICOS PARA
+	Avena sativa.
+
+
+C. 	EXIGENCIAS CUARENTENARIAS:
+	CATEGORIA 4
+CATEGORIA 3
+	CATEGORIA 1
+CLASE 3:  SEMILLAS
+CLASE 9:  GRANOS
+CLASE 10:  OTROS
+Código:   AVESA 2 13 01 03 4
+Código:  AVESA 1 13 01 09 3
+Cód.:   AVESA 1 13 12 10 1
+Requisitos generales:
+
+
+SI, AFIDI, CF, (CFO), (DA), IF, (CI), DC, (AO), (T)
+SI, AFIDI, CF, (CFO), (DA), IF, (AO), (T)
+DP, IF
+
+
+Requisitos específicos exigidos por Paraguay:
+
+
+CF:
+DA2 Nº 1, Trogoderma granarium
+y
+DA7 o DA5, Striga spp.
+y
+DA7 o DA5 o DA15, Anguina tritici, Cirsium arvense, Euphorbia esula.
+CF:
+DA2 Nº 1, Trogoderma granarium
+
+y además para Raciones:
+DA7 o DA1/envío, Anguina tritici, Cirsium arvense, Euphorbia esula
+y
+DA7 o DA15, Striga spp.
+
+
+REQUISITOS SEGUN ORIGEN:
+Requisitos específicos exigidos por PARAGUAY para:
+
+
+ARGENTINA
+
+
+CF
+CF
+
+
+BRASIL
+
+
+CF:
+DA7 o DA5 o DA15, Euphorbia esula.
+CF:
+y además para Raciones:
+DA7 o DA1/envío, Euphorbia esula.
+
+URUGUAY
+
+
+CF
+CF
+
+
+II.31. D.    PAIS DE DESTINO:					URUGUAY
+
+	REQUISITOS FITOSANITARIOS GENERALES Y ESPECIFICOS PARA
+	Avena sativa.
+
+
+D. 	EXIGENCIAS CUARENTENARIAS:
+	CATEGORIA 4
+CATEGORIA 3
+	CATEGORIA 1
+CLASE 3:  SEMILLAS
+CLASE 9:  GRANOS
+CLASE 10:  OTROS
+Código:   AVESA 2 13 01 03 4
+Código:  AVESA 1 13 01 09 3
+Cód.:  AVESA 1 13 12 10 1
+Requisitos generales:
+
+
+SI, AFIDI, CF, (CFO), (DA), IF, (CI), DC, (AO), (T)
+SI, AFIDI, CF, (CFO), (DA), IF, (AO), (T)
+DP, IF
+
+
+Requisitos específicos exigidos por Uruguay:
+
+
+CF:
+DA2 Nº 1, Trogoderma granarium
+y
+DA7 o DA5, Striga spp.
+y
+DA7 o DA5 o DA15, Anguina tritici, Cirsium arvense, Ditylenchus dipsaci, Euphorbia esula.
+CF:
+DA2 Nº 1, Trogoderma granarium
+
+y además para Raciones:
+DA7 o DA1/envío, Anguina tritici, Cirsium arvense, Ditylenchus dipsaci, Euphorbia esula
+y
+DA7 o DA15, Striga spp.
+
+
+REQUISITOS SEGUN ORIGEN:
+Requisitos específicos exigidos por URUGUAY para:
+
+
+ARGENTINA
+
+
+CF
+CF
+
+BRASIL
+
+
+CF:
+DA7 o DA5 o DA15, Euphorbia esula.
+CF:
+y además para Raciones:
+DA7 o DA1/envío, Euphorbia esula.
+
+PARAGUAY
+
+
+CF
+CF
+
+
+1
+
+
+1

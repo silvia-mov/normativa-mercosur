@@ -1,0 +1,3047 @@
+Resolución GMC N° 50/03
+Título: MANUAL BÁSICO DE EJECUCIÓN PRESUPUESTAL, CONTABILIDAD PATRIMONIAL Y FINANCIERA DE LA SAM
+Fecha de aprobación: 10/12/2003
+Vigencia: Derogada (Derogada por la Resolución GMC Nº 60/18 Estuvo vigente desde el 10/12/2003 (Art. 5 inc. a) de la Dec. CMC Nº 23/00) – hasta el 16/12/2018)
+Idioma del texto: ES
+Archivo original: 65671_RES_050-2003_ES_FERR_Manual Presupuesto SAM_Actualizada.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1027).
+----------------------------------------------------------------------
+TEXTO ACTUALIZADO CONFORME RES. GMC Nº 15/12 y 34/15
+
+TEXTO ORIGINAL
+
+MERCOSUR/GMC/RES. Nº 50/03
+
+MANUAL BÁSICO DE EJECUCIÓN PRESUPUESTAL, CONTABILIDAD PATRIMONIAL Y FINANCIERA DE LA SAM
+
+      VISTO:  El Tratado de Asunción, el Protocolo de Ouro Preto, la Decisión Nº 4/96 del Consejo del Mercado Común y las Resoluciones Nº 42/97, 74/98 y 52/02 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario actualizar el Manual Básico de Ejecución Presupuestal y Contabilidad Patrimonial de la SAM en base a la nueva estructura de la Secretaría del MERCOSUR, aprobada por Resolución GMC Nº 01/03
+
+Que en la Resolución GMC Nº 58/02, se instruyó  a la Secretaría del MERCOSUR a elaborar en conjunto con el Grupo de Asuntos Presupuestarios, un Proyecto de Resolución para revisar las Resoluciones GMC Nº 74/98 y Nº 86/99, para ser elevado al GMC.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar la nueva versión del "Manual Básico de Ejecución Presupuestal, Contabilidad Patrimonial y Financiera de la SAM", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Derogar la Resolución GMC Nº 74/98 y derogar los Artículos 2 y 3 de la Resolución GMC Nº 86/99.
+
+Art. 3 - El presente Manual tendrá vigencia a partir del 1/I/2004.
+
+Art. 4 - Esta Resolución no necesita ser incorporada al ordenamiento jurídico de los Estados Partes, por reglamentar aspectos de organización y funcionamiento del MERCOSUR.
+
+
+LII GMC - Montevideo, 10/XII/03
+
+ANEXO I
+INDICE
+MANUAL BÁSICO DE EJECUCIÓN PRESUPUESTAL,
+CONTABILIDAD PATRIMONIAL Y FINANCIERA DE LA SAM
+
+OBJETIVOS
+ALCANCE
+MARCO JURÍDICO
+TÍTULO I - DEL PRESUPUESTO Y LA EJECUCIÓN PRESUPUESTAL
+CAPÍTULO I - PRINCIPIOS Y NORMAS PRESUPUESTALES
+
+1 - MARCO CONCEPTUAL
+2 - CONTABILIDAD PRESUPUESTAL
+3 - MODIFICACIONES PRESUPUESTALES
+4 - EJECUCION PRESUPUESTAL
+CAPÍTULO II - DE LOS RECURSOS DE LA SECRETARIA
+
+1 - APORTES DE LOS ESTADOS PARTES
+2 - INTERESES
+3 - OTROS INGRESOS
+CAPÍTULO III - DE LOS GASTOS DE LA SECRETARIA
+
+1 -  CLASIFICACIÓN DE GASTOS
+2 - PRESUPUESTO: INFORMES Y ESTADOS DE EJECUCIÓN PRESUPUESTAL
+TÍTULO II - DE LAS NORMAS GENERALES SOBRE GASTOS
+CAPÍTULO I - COMPRAS Y CONTRATACIONES
+1 - PLAN DE COMPRAS Y CONTRATACIONES
+2 - MATERIALES Y SUMINISTROS
+3 - FONDO FIJO
+CAPÍTULO II - LIQUIDACIÓN Y PAGO
+
+1 - SUELDOS Y APORTES
+2 - LIQUIDACION DE BIENES Y SERVICIOS
+CAPÍTULO III - COMPETENCIA PARA GASTAR Y PAGAR. FORMAS DE CONTRATAR
+
+1 - ORDENADORES DE GASTOS Y PAGOS
+2 - PROCEDIMIENTOS DE COMPRAS Y CONTRATACIONES
+3 - VIAJES EN MISIÓN DE SERVICIO
+4 - CONTRATOS TEMPORALES
+TÍTULO III - DEL PATRIMONIO DE LA SECRETARIA DEL MERCOSUR
+CAPITULO I - BIENES
+CAPITULO II - VALORES
+TITULO IV - DE LA CONTABILIDAD PATRIMONIAL Y FINANCIERA
+CAPÍTULO I - MARCO CONCEPTUAL
+1 - PRINCIPIOS Y NORMAS
+2 - PLAN DE CUENTAS
+CAPÍTULO II - REGISTRO CONTABLE
+
+
+TÍTULO V - DE LA RENDICIÓN DE CUENTAS Y BALANCES DE EJECUCIÓN PRESUPUESTAL Y DE LOS ESTADOS CONTABLES PATRIMONIALES
+
+      APÉNDICE I
+
+PLAN DE CUENTAS
+
+      APÉNDICE II
+
+DESCRIPCIÓN DEL PLAN DE CUENTAS
+
+      APÉNDICE III
+
+FORMATO DE PRESUPUESTO SUGERIDO
+
+      APÉNDICE IV
+
+EJECUCIÓN PRESUPUESTAL
+	APÉNDICE V
+GLOSARIO DE TÉRMINO
+
+
+MANUAL BÁSICO DE EJECUCIÓN PRESUPUESTAL,
+CONTABILIDAD PATRIMONIAL Y FINANCIERA DE LA SAM
+OBJETIVOS
+El presente Manual Básico de Ejecución Presupuestal, Contabilidad Patrimonial y Financiera, tiene por finalidad los siguientes objetivos:
+
+a) Servir como guía a la actuación del personal afectado a las tareas económico-financieras, señalando los aspectos más importantes a tener en cuenta en el desempeño de sus funciones, sobre la base de un esquema de trabajo que permita orientar las tareas de la ejecución presupuestal y patrimonial de la Secretaría así como detectar, por medio de su sistema de control, los eventuales errores que puedan surgir y sus correcciones.
+b) Capacitar y orientar al personal de la Secretaría.
+c) Indicar cada una de las tareas de registración y control de la Ejecución Presupuestal y la Contabilidad Patrimonial  y Financiera de la SAM.
+d) El Sector de Administración y Apoyo tendrá a su cargo el registro, seguimiento y control de las contabilidades de la SAM así como de los desvíos que puedan eventualmente surgir en su ejecución presupuestal.
+
+ALCANCE
+El presente Manual se aplicará a todos los hechos, actos u operaciones de los que deriven transformaciones o variaciones económicas, financieras y patrimoniales de la Secretaría del MERCOSUR.
+
+
+MARCO JURÍDICO
+El marco jurídico se encuentra en:
+a) Artículo 15 del Tratado de Asunción y los Artículos 1, 31, 32, 33 y 45 del Protocolo de Ouro Preto.
+b) Acuerdo Sede para el funcionamiento de la Secretaría del MERCOSUR, Decisión CMC Nº 04/96, aprobado por Ley Nº 16.829, de fecha 29 de mayo de 1997, de la República Oriental del Uruguay.
+Resolución GMC Nº  67/96 y la Resolución GMC Nº 01/03.
+TÍTULO I - DEL PRESUPUESTO Y LA EJECUCIÓN PRESUPUESTAL
+    CAPÍTULO I - PRINCÍPIOS Y NORMAS PRESUPUESTALES
+1 - MARCO CONCEPTUAL
+Periodicidad del Presupuesto: el presupuesto de la SAM será anual, extendiéndose el ejercicio económico desde el 1º de enero al 31 de diciembre de cada año.
+Se considera crédito presupuestal en una partida al monto máximo que se ha autorizado para gastar en el presupuesto aprobado por el GMC.
+Por aplicación del principio de prudencia, en materia presupuestal, los gastos se registrarán cuando se hayan devengado y los recursos cuando se hayan percibido.
+La Secretaría deberá elevar a consideración del GMC, en la última reunión ordinaria de cada año,  el Proyecto de Presupuesto para el Ejercicio del año siguiente, el cual presentará la apertura de rubros y subrubros o partidas presupuestales mínimas que indica el APÉNDICE III.
+2 - CONTABILIDAD PRESUPUESTAL
+La Secretaría del MERCOSUR mantendrá un sistema de registro del presupuesto, denominado contabilidad presupuestal.
+El presupuesto de gastos aprobado para el ejercicio se ejecuta y registra en diferentes etapas o momentos del gasto:
+El compromiso es una etapa que implica:
+a) El origen de una relación jurídica con terceros, que motivará una eventual (futura) salida de fondos, sea para cancelar una deuda o para su inversión en un objeto determinado.
+b) La identificación de la persona física o jurídica a la cual se efectuará el pago, como así también la especie y cantidad de los bienes o servicios a recibir, o en su caso, el carácter de los gastos sin contraprestación.
+La etapa del gasto devengado en términos del presupuesto, implica:
+a) El surgimiento de una obligación de pago por la recepción conforme de bienes o servicios oportunamente contratados.
+b) La liquidación del gasto: operación dirigida a determinar la suma cierta que deberá pagarse, previa verificación de los requisitos documentales aplicables a cada caso y que debe realizarse dentro de los tres días de producido el devengamiento.
+c) Una modificación cualitativa y cuantitativa en la composición del patrimonio y originada por transacciones (operaciones) de carácter económico y financiero.
+El pago es la etapa que se verifica en el momento en que se entregue un medio de pago que cancele la deuda o se extinga una obligación.
+Las cuentas de recursos y gastos se cierran el 31 de Diciembre del año presupuestal. Con posterioridad a esa fecha, no se podrán asumir compromisos ni devengarse gastos con cargo a ese ejercicio, con la excepción indicada en el punto 4 del presente capítulo.
+El total anual del compromiso y devengado no puede ser superior a los créditos anuales asignados.
+Se considera deuda exigible a la que corresponde a los pagos pendientes de los bienes y servicios recibidos. La misma se establece por diferencia entre los gastos acumulados devengados y los pagos acumulados a la fecha.
+3 - MODIFICACIONES PRESUPUESTALES
+Las modificaciones presupuestales son variaciones que experimentan los créditos presupuéstales originalmente aprobados. Se pueden originar por sobreestimaciones o subestimaciones de dichos créditos, incorporación, reducción o eliminación de gastos, así como por cambios no previstos en la proyección de los ingresos.
+El Sector de Administración y Apoyo tendrá, entre sus funciones:
+a) Efectuar el seguimiento y control de las contabilidades de la SAM, así como de los desvíos que puedan eventualmente surgir en su ejecución presupuestal.
+b) Proponer al Director, debidamente fundadas, las modificaciones presupuéstales por medio de compensaciones entre rubros del presupuesto aprobado.
+Cuando por razones fundadas en las necesidades de funcionamiento de la Secretaría resulte necesario efectuar adecuaciones al presupuesto aprobado, el Director podrá, conforme la evolución de gastos de la SAM, efectuar las siguientes modificaciones presupuestales por compensaciones entre rubros del presupuesto aprobado:
+a) dentro de los mismos rubros,
+b) de los rubros de Personal a los de Funcionamiento,
+c) de Bienes de Uso a Funcionamiento y,
+d) de Funcionamiento a Bienes de Uso.
+En ningún caso se podrá transponer  fondos de los rubros de Funcionamiento y Bienes de Uso a los de Personal, salvo autorización expresa del GMC.
+Cuando por razones de necesidad del servicio de la SAM requieran efectuar modificaciones presupuestales que representen un monto superior al 20% del presupuesto aprobado para el rubro presupuestal correspondiente, la Secretaría deberá solicitar la conformidad de las Coordinaciones Nacionales del GMC a través de la PPT. Transcurridos cinco (5) días hábiles y de no recibir objeciones en dicho período la modificación presupuestal quedará firme.
+4 - EJECUCIÓN PRESUPUESTAL
+Los créditos destinados a solventar gastos de funcionamiento serán afectados por los compromisos que se contraigan en cada ejercicio, no pudiendo comprometerse gastos de no existir crédito disponible.
+Los créditos no podrán destinarse a finalidad u objeto que no sean los enunciados en las asignaciones respectivas y no podrán comprometerse gastos corrientes o de capital cuyo monto exceda el límite de la asignación anual del presupuesto.
+Excepcionalmente y cuando medien razones fundadas que así lo justifiquen, los compromisos no devengados al cierre del ejercicio podrán devengarse hasta el 31 de enero del ejercicio siguiente, con cargo al presupuesto del ejercicio anterior.
+Los recursos que ingresen fuera del ejercicio económico para el cual fueron programados y aprobados en el presupuesto del año respectivo, se asignarán prioritariamente a la atención de la deuda exigible. El excedente de los mismos se considera, desde el punto de vista presupuestal, "Recursos pendientes de asignación presupuestal", a cuyo efecto la Secretaría mantendrá un registro de los saldos acumulados. El destino de esos recursos deberá ser dispuesto por el GMC.
+
+    CAPÍTULO II - DE LOS RECURSOS DE LA SECRETARÍA
+1 - APORTES DE LOS ESTADOS PARTES
+Los pagos de los aportes de los Estados Partes a la SM se efectuarán conforme al siguiente cronograma:
+a) 1a. cuota - hasta el 31 de marzo
+b) 2a. cuota - hasta el 30 de junio
+c) 3a cuota - hasta el 30 de septiembre
+En caso que un Estado Parte decida realizar el pago anual en una cuota única, el vencimiento será el 31 de mayo. En este supuesto, el Estado Parte interesado en realizar el pago bajo dicha modalidad deberá comunicarlo a la SM y al resto de los Estados Partes antes del vencimiento de la primera cuota (31 de marzo), a fin de evitar incurrir en mora por falta de pago.
+En el caso que uno o más Estados Partes no efectuaran sus pagos en los plazos estipulados, se autoriza a la SM, previa comunicación a los Estados Partes, a abrir líneas de crédito bancario hasta el 50% del Presupuesto aprobado por el GMC, que permita obtener los recursos para su funcionamiento, resarciéndose la SM de los intereses con el o los Estados que hubieren motivado la utilización de tal línea de crédito.
+En el caso que el nivel de endeudamiento de la SM sea superior al 50% del Presupuesto aprobado, el Director de la SM deberá requerir la autorización de los Coordinadores Nacionales del GMC a través de la PPT.
+En ambos casos, la SM deberá informar a todos los Estados Partes las alternativas de financiamiento consideradas, con detalle de la entidad bancaria o financiera ante quien se gestionará, el monto, el plazo y la tasa de interés previsto, así como la relación endeudamiento/presupuesto aprobado, antes y después del nuevo crédito.
+El mecanismo para imputar los costos financieros a los Estados Partes que adeudan los respectivos aportes al Presupuesto de la SM, será el siguiente:
+Calcular la participación de cada país en el total de los adeudos registrados al tomar la línea de crédito
+1. Asignar en función a dicha participación, el costo financiero de los préstamos bancarios obtenidos,
+2. Imputar al saldo adeudado su cuota parte de dichos costos financieros.
+3. Cuando los Estados Partes realicen pagos, se volverá a calcular al vencimiento de los préstamos, la participación en los adeudos de cada uno, imputando al saldo adeudado la nueva cuota parte que dichos costos financieros correspondan.
+4. Cuando el Estado Parte que adeude aportes cancele totalmente sus obligaciones pendientes, el costo financiero entre el momento de la cancelación total y el vencimiento de los préstamos obtenidos se prorrateará entre el resto de los Estados Partes que continúen siendo deudores.
+Cuando los Estados Partes realicen desembolsos al Presupuesto de la SM, los mismos serán aplicados a cancelar la deuda atrasada. De existir un remanente, dicho monto se aplicará a la cuota vigente al momento del desembolso, a fin de evitar que se eleven los costos financieros que correspondan resarcir a la SM, por el uso de líneas de crédito y en la medida de su viabilidad, los pagos deberían destinarse a la reducción del pasivo contraído por la misma.
+
+Texto actualizado por art. 1 de la Res. GMC Nº 15/12
+
+2 - INTERESES
+Se consideran ingresos los intereses generados por las cuentas bancarias con las que opera la Secretaría.
+3 - OTROS INGRESOS
+Como fuentes adicionales se consideran:
+a) las ventas y/o suscripciones del Boletín Oficial del MERCOSUR,
+b) la publicidad en la mencionada publicación y,
+c) otras fuentes  autorizadas por los Coordinadores Nacionales del GMC, a través de la PPT.
+    CAPÍTULO III - DE LOS GASTOS DE LA SECRETARIA
+1 -  CLASIFICACIÓN DE GASTOS
+Los gastos de la SAM se clasificarán por rubros presupuestales de la siguiente manera:
+I. Gastos Corrientes
+gastos en personal
+gastos de funcionamiento
+otros gastos corrientes
+II. Gastos de capital
+equipamiento
+otros gastos de capital
+A los fines de la formulación, registro y evaluación  presupuestal, se utilizará un Clasificador de Gastos Presupuestales asociado al Plan de Cuentas del Apéndice I y II .
+2 - PRESUPUESTO: INFORMES Y ESTADOS DE EJECUCIÓN PRESUPUESTAL
+El registro de las operaciones presupuéstales generará:
+Liquidaciones presupuestales
+Estados mensuales de Situación
+Estados de Situación Acumulada
+TÍTULO II - DE LAS NORMAS GENERALES SOBRE GASTOS
+    CAPÍTULO I - COMPRAS Y CONTRATACIONES
+1 - PLAN DE COMPRAS Y CONTRATACIONES
+El Director de la SAM establecerá un Plan Anual de Compras y Contrataciones, basado en las sugerencias de los Sectores, los cuales tendrán hasta el 31 de octubre de cada año para establecer sus necesidades para el siguiente ejercicio económico, debiendo definir prioridades y montos estimados para la adquisición de bienes o para la contratación de servicios que se hagan necesarias.
+Dicho Plan deberá estar concluido antes del 30 de noviembre de cada año anterior al ejercicio económico al cual se presupuesta.
+2 - MATERIALES Y SUMINISTROS
+El Sector de Administración y Apoyo será el encargado de implementar un sistema de registro y control para la provisión de materiales a Proveeduría y su posterior distribución sobre la base de las expresiones de necesidad de los Sectores, que será aprobado por Instrucción de Servicio del Director de la SAM.
+
+3 - FONDO FIJO
+La SAM contará con un Fondo Fijo de U$S 500, destinado a atender los gastos menores.
+El Sector de Administración y Apoyo será el administrador del mencionado Fondo Fijo.
+    CAPÍTULO II - LIQUIDACIÓN Y PAGO
+1 - SUELDOS Y APORTES
+Para los sueldos y demás beneficios y cargas sociales directamente vinculadas, se tomará como base la real prestación de los servicios por parte de los funcionarios.
+La Secretaría tendrá una cuenta destinada a un Fondo de Previsión de los funcionarios de  la SAM donde verterá mensualmente y en forma individual los aportes de cada funcionario, correspondiendo un 14% del salario a cargo de la Secretaría y un 7% por retención al funcionario.
+2 - LIQUIDACIÓN DE BIENES Y SERVICIOS
+Para los gastos o compras - sin perjuicio de la asignación anticipada de recursos, que se otorgue a proveedores con destino a equipamiento o a un gasto, cuando ello estuviere estipulado en las condiciones del llamado- el hecho económico se verifica con conformidad en la recepción del objeto adquirido o la prestación del servicio contratado.
+Efectuado el servicio o cumplida la prestación y previa conformidad de acuerdo a lo indicado en el Capitulo III "Competencia para gastar, pagar, y formas de contratar" a los efectos de determinar la suma a pagar, se procederá a la liquidación.
+El gasto estará en condiciones de liquidarse cuando por su concepto y monto corresponda al compromiso contraído, tomando como base la documentación que demuestre el cumplimiento de dicho compromiso y cuente con la conformidad expresa del Técnico responsable del Sector solicitante.
+
+
+    CAPÍTULO III - COMPETENCIA PARA GASTAR Y PAGAR. FORMAS DE CONTRATAR
+1 - ORDENADORES DE GASTOS Y PAGOS
+      Es ordenador primario de gastos:
+El Director de la SAM, como titular de la Secretaría, a quien se le asigna competencia para disponer gastos por hasta la totalidad del presupuesto aprobado.
+      Son ordenadores secundarios:
+a) El Coordinador de la Secretaría del MERCOSUR
+b) El Técnico en Administración y Finanzas, en caso de ausencia del Director o el Coordinador
+c) El Técnico  en Administración, en caso de ausencia del Director, el Coordinador o el Técnico en Administración y Finanzas.
+Son ordenadores de pagos:
+El Director de la SAM, firmando conjuntamente con el Coordinador. En ausencia de uno de ellos, firmará con uno de los Técnicos en Administración.
+El funcionario que comprometa cualquier erogación sin estar autorizado para ello será responsable de su pago, sin perjuicio de las demás sanciones que pudieran corresponder.
+2 - PROCEDIMIENTOS DE COMPRAS Y CONTRATACIONES
+Toda adquisición de bienes o contratación de servicios se regirá de la siguiente manera:
+-Cada Sector, deberá presentar a la Dirección, un Plan para el año siguiente donde se establezcan sus necesidades en materia de adquisiciones de bienes y contratación de servicios, indicando las prioridades.
+-Una vez aprobado el Plan por la Dirección en coordinación con el Sector de Administración y Apoyo, para la adquisición de bienes y contratación de servicios, adoptarán las siguientes modalidades:
+a) cuando el monto de la operación sea igual o inferior a U$S 500 (dólares americanos quinientos) serán efectuadas en forma directa
+b) cuando el monto de la operación sea superior a la cifra de U$S 500 (dólares americanos quinientos) y menor o igual a la suma equivalente al 20% del presupuesto aprobado para el ejercicio, dichas adquisiciones de bienes y contratación de servicios se efectuarán por compra directa sobre la base de tres presupuestos, teniendo presente la oferta más conveniente a los intereses del Organismo y sus necesidades de servicio.
+c) cuando el monto de la operación sea superior al valor que surja de aplicar el 20% al total del presupuesto aprobado, la Secretaría deberá someter a consulta de las Coordinaciones Nacionales del GMC a través de la PPT.  Transcurridos diez (10) días hábiles desde la notificación a los Estados Partes si la Secretaría no hubiera recibido respuesta, dispondrá el procedimiento más conveniente a los intereses del Organismo y sus necesidades de servicio.
+Las adquisiciones de bienes y contrataciones de servicios deberán tener en cuenta los siguientes procedimientos:
+a) cuando el monto de la operación sea igual o inferior a U$S 500 (dólares americanos quinientos) serán efectuadas en forma directa por el Sector de Administración y Apoyo con el visto bueno del Coordinador.
+b) cuando el monto de la operación sea superior a la cifra de U$S 500 (dólares americanos quinientos) y menor o igual a la suma que resulte de aplicar el 20% al total del presupuesto aprobado para el ejercicio, dichas adquisiciones de bienes y contratación de servicios serán efectuadas por el Sector de Administración y Apoyo, con la autorización expresa de la Dirección.
+c) las operaciones por montos superiores al 20% del presupuesto total aprobado, serán evaluadas y aprobadas por la Dirección, previa intervención y autorización del GMC.
+Queda expresamente prohibido el fraccionamiento o el desdoblamiento de gastos, entendiéndose por tal cuando el Sector realiza varias compras referidas a un mismo grupo de artículos en el término del ejercicio, las que podrían haber sido previstas para todo el ejercicio y contratadas mediante un procedimiento de compra que facilite la presentación del mayor número de oferentes posible.
+La comprobación de que se fraccione o desdoble el gasto para que la operación encuadre en determinados límites, será considerada falta grave a efectos de las sanciones que correspondan.
+De comprobarse el referido fraccionamiento o desdoblamiento de gastos, el Sector de Administración y Apoyo deberá rechazar la factura tramitada para el pago, elevando un informe a la Dirección.
+3 - VIAJES EN MISIÓN DE SERVICIO
+La contratación de Agencias de Viajes para la adquisición de pasajes se regirá por Resolución que dicte el Director.
+Los viáticos dispuestos para cada misión se determinarán de acuerdo a la reglamentación vigente y a las Normas Generales Relativas a los Funcionarios de la SAM, en su Artículo 52 aprobado por Res. GMC Nº 42/97.
+4 - CONTRATOS TEMPORALES
+Toda contratación de asesores y consultores con cargo a las partidas previstas, salvo los previstos en la Res GMC Nº 01/03, se celebrará mediante un procedimiento de selección, de acuerdo a las necesidades del servicio siguiendo los procedimientos de práctica de la SAM, teniendo presente la oferta más conveniente de acuerdo a las necesidades y a los intereses de la Secretaría.
+TÍTULO III - DEL PATRIMONIO DE LA SECRETARIA DEL MERCOSUR
+    CAPÍTULO I - BIENES
+Integran el patrimonio de la Secretaría el derecho de dominio y de los demás derechos reales sobre los bienes muebles e inmuebles, así como los derechos personales que por instrucción expresa o por haber sido adquiridos por la Secretaría, sean de su propiedad.
+La Secretaría tendrá a su cargo:
+a) la administración de los bienes que tenga asignados o haya adquirido para su uso,
+b) el inventario de bienes, que deberá mantenerse actualizado, correctamente valuado y unívocamente identificado.
+    CAPÍTULO II - VALORES
+El Sector de Administración y Apoyo de la SAM constituye un ente recaudador y pagador de fondos, de conformidad con las reglas y procedimientos del presente Manual.
+A esos efectos, deberá:
+a) gestionar líneas de crédito bancarias, en los términos previstos en el Título I, Capítulo II de este Manual.
+b) abrir cuentas bancarias debidamente identificadas a la orden de la "Secretaría del MERCOSUR" y bajo dos firmas actuantes indistintamente, en las que se depositarán las sumas correspondientes a los aportes y otros ingresos, con excepción de los montos que formen parte del Fondo Fijo,
+c) depositar en un Banco de plaza, los aportes al Fondo de Previsión de los funcionarios de la SAM, administrado por la Comisión del Fondo de Previsión,
+d) verificar el movimiento de fondos y valores, certificar el correcto depósito de los ingresos y el cumplimiento de las órdenes de pago y arquear periódicamente las existencias,
+e) conciliar los saldos de las cuentas bancarias con los estados remitidos por los bancos,
+f) informar previamente la disponibilidad de crédito para el objeto del gasto y su monto en los actos que generen compromisos, sin cuya constancia carecerán de validez,
+g) verificar el cumplimiento de los principios y normas contables vigentes, mencionadas en el Título I, Capítulo I Numeral 3, "Principios y Normas Generalmente Aplicadas".
+h) realizar estudios económico-financieros y elaborar informes,
+i) emitir cheques para gastos, sueldos y viáticos,
+j) realizar pago de sueldos, viáticos y proveedores,
+k) analizar costos por dependencia y realizar un control cruzado de la información para asegurar la correcta registración.
+TÍTULO IV - DE LA CONTABILIDAD PATRIMONIAL Y FINANCIERA
+    CAPÍTULO I - MARCO CONCEPTUAL
+1 - PRINCIPIOS Y NORMAS
+Son aquellas Normas y Principios de Contabilidad universalmente aceptadas sobre las cuales se elabora la información que permite obtener uniformidad en la interpretación, cualquiera sea el intérprete.
+2 - PLAN DE CUENTAS
+Para la Contabilidad Patrimonial y Financiera de la SAM, se utilizará el Plan de Cuentas de la SAM que se anexa en el Apéndice I.
+    CAPÍTULO II - REGISTRO CONTABLE
+Todos los actos u operaciones comprendidos en el presente Manual deben realizarse por medio de un sistema de procesamiento electrónico de datos y reflejarse en cuentas, estados demostrativos, liquidaciones y balances que permitan su medición y juzgamiento.
+Los servicios de contabilidad serán organizados de tal forma que permitan el seguimiento de la ejecución presupuestal y financiera, la conciliación entre ambas, el conocimiento de la composición patrimonial, el relevamiento de los balances, el análisis e interpretación de los resultados económicos y financieros.
+El registro de las operaciones patrimoniales y financieras se llevará por el método de partida doble, por centro de costos.
+La registración respetará tanto para los ingresos como para los egresos, el principio de lo devengado y se realizará integrando el sistema de contabilidad presupuestal y los siguientes sistemas:
+          Financiero. 	Movimiento de fondos y valores
+          Patrimonial. 	Registración económico contable
+                        Inventario de bienes
+                        Liquidación de proveedores y viáticos.
+Dichas registraciones se realizarán imputando los importes correspondientes a los centros de costos que se detallan:
+				Centros de Costos
+			Dirección
+			Secretaría de Dirección
+			Sector de Asesoría Técnica
+			Sector de Normativa y Documentación
+			Sector de Administración y Apoyo
+			SAM General
+Las formas de imputar los valores a dichos centros de costos serán las siguientes:
+a)	Aquellas partidas que se pueden imputar directamente al centro pues son partidas directamente asignables, serán debitadas o acreditadas a dicho centro directamente.
+b)	Las partidas que no se pueden imputar directamente al centro pues no son directamente asignables, se utilizará el método de asignación que mejor refleje la realidad.
+Métodos de asignación
+Directa. Se imputa la partida directamente al centro de costo involucrado, los mismos son directos al objeto de costo, es decir a  Centro de Costos.
+Indirecta. Se imputa a cada centro de costos por un método de asignación que permita reflejar mejor la realidad que se pretende registrar.
+
+TÍTULO V - DE LA RENDICIÓN DE CUENTAS Y BALANCES DE EJECUCIÓN PRESUPUESTAL Y DE LOS ESTADOS CONTABLES PATRIMONIALES
+
+La Secretaría del MERCOSUR deberá presentar, antes del 31 de marzo de cada año, la rendición de cuentas sobre la ejecución anual del ejercicio presupuestario concluido, acompañada del informe de la Auditoría correspondiente contratada por la Secretaría del MERCOSUR, que comprenderá el período del 1° de enero al 31 de diciembre del año anterior. Dichos documentos serán analizados por el Grupo de Asuntos Presupuestarios y posteriormente encaminados al Grupo Mercado Común.
+
+La Secretaría del MERCOSUR deberá circular a las Coordinaciones Nacionales del Grupo Mercado Común, dentro de los quince días de cada mes, sus informes de ejecución presupuestaria acumulada de los meses anteriores. Tales informes deberán contener, además, información sobre excedentes presupuestarios y el estado de los aportes de los Estados Partes.
+
+Texto actualizado por art. 1 de la Res. GMC Nº 34/15
+
+
+APENDICE I - PLAN DE CUENTAS
+
+
+1
+Activo
+11
+Activo Corriente
+111
+Disponibilidades
+11101
+Fondo Fijo
+11102
+Bancos Cuenta Corriente
+111021
+Moneda Nacional
+1110211
+BROU
+1110212
+Banco Nación
+111022
+Moneda Extranjera
+1110221
+BROU
+1110222
+Banco Nación
+11103
+Depósitos a Plazo Fijo
+112
+Créditos por Ventas
+11201
+Ds. por Vta. Publicacion
+11202
+Importes a Cobrar EP
+112021
+Argentina
+112022
+Brasil
+112023
+Paraguay
+112024
+Uruguay
+113
+Otros Créditos
+11301
+Certificados DGI
+113011
+en Trámite
+113012
+Recibidos
+11302
+Otros Créditos
+113021
+IVA
+1130211
+Tasa Mínima
+1130212
+Tasa Básica
+12
+Activo No Corriente
+121
+Bienes de Uso
+1211
+Máquinas y Equipos de Of.
+1212
+Equipos de Comunicación
+1213
+Mobiliario
+122
+Amortización Acumulada
+1221
+AA Máquinas y Equipos
+1222
+AA Equipos Comunicación
+1223
+AA Mobiliario
+14
+Cuentas Orden y Conting.
+2
+Pasivo
+21
+Deudas Comerciales
+2101
+Proveedores Locales
+21011
+PL Moneda Nacional
+21012
+PL Moneda Extranjera
+2102
+Proveedores Exterior
+2103
+Proveedores por Pasaje
+21031
+PP Moneda Nacional
+21032
+PP Moneda Extranjera
+2104
+Proveedores Servicio
+21041
+PS Moneda Nacional
+21042
+PS Moneda Extranjera
+22
+Deudas Financieras
+2201
+DF Moneda Nacional
+220101
+BROU
+220102
+Banco Nación
+2202
+DF Monedad Extranjera
+220201
+BROU
+220202
+Banco Nación
+2203
+Intereses a Pagar
+220301
+Moneda Nacional
+2203011
+BROU
+2203012
+Banco Nación
+220302
+Moneda Extranjera
+2203021
+BROU
+2203022
+Banco Nación
+2204
+Intereses a Vencer
+22041
+Moneda Nacional
+2204101
+BROU
+2204102
+Banco Nación
+22042
+Moneda Extranjera
+2204201
+BROU
+2204202
+Banco Nación
+23
+Deudas Eventuales
+231
+Anticipo de Estados Parte
+23101
+Argentina
+23102
+Brasil
+23103
+Paraguay
+23104
+Uruguay
+24
+Otras Deudas
+241
+Acreedores por viáticos
+24101
+Director
+24102
+Secretaría de Dirección
+24103
+Sector Asesoría Tecnica
+24104
+Sector Normativa y Docum.
+24105
+Sector Adm. y Apoyo
+24106
+Asesores y Consultores
+242
+Haberes a Pagar
+24201
+Director
+24202
+Secretaría de Dirección
+24203
+Sector Asesoría Tecnica
+24204
+Sector Normativa y Docum.
+24205
+Sector Adm. Y Apoyo
+3
+Patrimonio
+31
+Resultados Acumulados
+311
+Resultado de Ejercicio
+4
+Egresos y Gastos
+401
+Personal de Planta
+40101
+Sueldo
+401011
+Dirección
+401012
+Secretaría de Dirección
+401013
+Sector Asesoría Técnica
+401014
+Sector Normativa y Docum.
+401015
+Sector  de Adm. y Apoyo
+40102
+Seguro de Salud
+401021
+Dirección
+401022
+Secretaría de Dirección
+401023
+Sector Asesoría Técnica
+401024
+Sector Normativa y Docum.
+401025
+Sector Adm. y Apoyo
+40103
+Inst. y Tras.del Director
+40104
+Aportes Fondo Previsión
+401041
+Dirección
+401042
+Secretaría de Dirección
+401043
+Sector Asesoría Técnica
+401044
+Sector Normativa y Docum.
+401045
+Sector Adm. Y Apoyo
+40105
+Sueldo Anual Complement.
+401051
+Dirección
+401052
+Secretaría de Dirección
+401053
+Sector Asesoría Técnica
+401054
+Sector Normativa y Docum.
+401055
+Sector Adm. y Apoyo
+402
+Contrato Temporales
+4020
+Contratos Temporales
+40201
+Dirección
+40202
+Secretaría de Dirección
+40203
+Sector Asesoría Técnica
+40204
+Sector Normativa y Docum.
+40205
+Sector Adm. y Apoyo
+4021
+Asesores
+40211
+Dirección
+40212
+Secretaría de Dirección
+40213
+Sector Asesoría Técnica
+40214
+Sector Normativa y Docum.
+40215
+Sector Adm. y Apoyo
+403
+Viajes Misión de Servicio
+4031
+Pasajes
+40311
+Dirección
+40312
+Secretaría de Dirección
+40313
+Sector Asesoría Técnica
+40314
+Sector Normativa y Docum.
+40315
+Sector Adm. y Apoyo
+40316
+SAM General
+4032
+Viáticos
+40321
+Dirección
+40322
+Secretaría de Dirección
+40323
+Sector Asesoría Técnica
+40324
+Sector Normativa y Docum.
+40325
+Sector Adm. y Apoyo
+40326
+SAM General
+4033
+Locomoción Funcionarios
+40331
+Dirección
+40332
+Secretaría de Dirección
+40333
+Sector Asesoría Técnica
+40334
+Sector Normativa y Docum.
+40335
+Sector Adm. y Apoyo
+40336
+SAM General
+404
+Contratos Temporales
+4041
+Honorarios Consultores
+4042
+Pasajes Consultores
+4043
+Viáticos Consultores
+405
+Suministros
+4051
+Consumo General
+40511
+Dirección
+405111
+Papel, Libros, Impresos
+4051111
+Formularios, impr. simil.
+4051112
+Prod. Artes Gráficas
+4051113
+Prod. Papel y Cartón
+4051114
+Libros, Revistas, otros
+4051115
+Esp.Timbradas y Valoradas
+405112
+Alim. manufac. y Bebidas
+4051121
+Alimentos manufacturados
+4051122
+Bebidas
+405113
+Otros Suministros
+4051131
+Útiles de Oficina
+4051132
+Útiles y Accesorios elect
+4051133
+Útiles Cocina y Comedor
+4051134
+Otros Suministros
+40512
+Secretaría de Dirección
+405121
+Papel, Libros, Impresos
+4051211
+Formularios, impr. simil.
+4051212
+Prod. Artes Gráficas
+4051213
+Prod. Papel y Cartón
+4051214
+Libros, Revistas, otros
+4051215
+Esp.Timbradas y Valoradas
+405122
+Alim. manufac. y Bebidas
+4051221
+Alimentos manufacturados
+4051222
+Bebidas
+405123
+Otros Suministros
+4051231
+Útiles de Oficina
+4051232
+Útiles y Accesorios elect
+4051233
+Útiles Cocina y Comedor
+4051234
+Otros Suministros
+40513
+Sector Asesoría Técnica
+405131
+Papel, Libros, Impresos
+4051311
+Formularios, impr. simil.
+4051312
+Prod. Artes Gráficas
+4051313
+Prod. Papel y Cartón
+4051314
+Libros, Revistas, otros
+4051315
+Esp.Timbradas y Valoradas
+405132
+Alim. manufac. y Bebidas
+4051321
+Alimentos manufacturados
+4051322
+Bebidas
+405133
+Otros Suministros
+4051331
+Útiles de Oficina
+4051332
+Útiles y Accesorios elect
+4051333
+Útiles Cocina y Comedor
+4051334
+Otros Suministros
+40514
+Sector Normativa y Docum.
+405141
+Papel, Libros, Impresos
+4051411
+Formularios, impr. simil.
+4051412
+Prod. Artes Gráficas
+4051413
+Prod. Papel y Cartón
+4051414
+Libros, Revistas, otros
+4051415
+Esp.Timbradas y Valoradas
+405142
+Alim. manufac. y Bebidas
+4051421
+Alimentos manufacturados
+4051422
+Bebidas
+405143
+Otros Suministros
+4051431
+Útiles de Oficina
+4051432
+Útiles y Accesorios elect
+4051433
+Útiles Cocina y Comedor
+4051434
+Otros Suministros
+40515
+Sector Adm. y Apoyo
+405151
+Papel, Libros, Impresos
+4051511
+Formularios, impr. simil.
+4051512
+Prod. Artes Gráficas
+4051513
+Prod. Papel y Cartón
+4051514
+Libros, Revistas, otros
+4051515
+Esp.Timbradas y Valoradas
+405152
+Alim. manufac. y Bebidas
+4051521
+Alimentos manufacturados
+4051522
+Bebidas
+405153
+Otros Suministros
+4051531
+Útiles de Oficina
+4051532
+Útiles y Accesorios elect
+4051533
+Útiles Cocina y Comedor
+4051534
+Otros Suministros
+40516
+SAM General
+405161
+Papel, Libros, Impresos
+4051611
+Formularios, impr. simil.
+4051612
+Prod. Artes Gráficas
+4051613
+Prod. Papel y Cartón
+4051614
+Libros, Revistas, otros
+4051615
+Esp.Timbradas y Valoradas
+405162
+Alim. manufac. y Bebidas
+4051621
+Alimentos manufacturados
+4051622
+Bebidas
+405163
+Otros Suministros
+4051631
+Útiles de Oficina
+4051632
+Útiles y Accesorios elect
+4051633
+Útiles Cocina y Comedor
+4051634
+Otros Suministros
+4052
+Insumos
+40521
+Dirección
+405211
+Insumos de Computación
+4052111
+Diskettes
+4052112
+Toner, Cintas impr., Fax
+4052113
+Cables y Fichas
+4052114
+Otros ins. Computación
+405212
+Insumos de Cafetería
+4052121
+Café
+4052122
+Té
+4052123
+Azúcar
+4052124
+Vajilla Descartable
+4052125
+Otros ins. Cafetería
+405213
+Insumos de Fotocopias
+4052131
+Papel Fotocopiadora
+4052132
+Toner Fotocopiadora
+4052133
+Otros ins. Fotocopiado
+405214
+Insumos de Limpieza
+4052141
+Útiles de Limpieza
+4052142
+Prod. Sanitarios Limpieza
+40522
+Secretaría de Dirección
+405221
+Insumos de Computación
+4052211
+Diskettes
+4052212
+Toner, Cintas impr., Fax
+4052213
+Cables y Fichas
+4052214
+Otros ins. Computación
+405222
+Insumos de Cafetería
+4052221
+Café
+4052222
+Té
+4052223
+Azúcar
+4052224
+Vajilla Descartable
+4052225
+Otros ins. Cafetería
+405223
+Insumos de Fotocopias
+4052231
+Papel Fotocopiadora
+4052232
+Toner Fotocopiadora
+4052233
+Otros ins. Fotocopiado
+405224
+Insumos de Limpieza
+4052241
+Útiles de Limpieza
+4052242
+Prod. Sanitarios Limpieza
+40523
+Sector Asesoría Técnica
+405231
+Insumos de Computación
+4052311
+Diskettes
+4052312
+Toner, Cintas impr., Fax
+4052313
+Cables y Fichas
+4052314
+Otros ins. Computación
+405232
+Insumos de Cafetería
+4052321
+Café
+4052322
+Té
+4052323
+Azúcar
+4052324
+Vajilla Descartable
+4052325
+Otros ins. Cafetería
+405233
+Insumos de Fotocopias
+4052331
+Papel Fotocopiadora
+4052332
+Toner Fotocopiadora
+4052333
+Otros ins. Fotocopiado
+405234
+Insumos de Limpieza
+4052341
+Útiles de Limpieza
+4052342
+Prod. Sanitarios Limpieza
+40524
+Sector Normativa y Docum.
+405241
+Insumos de Computación
+4052411
+Diskettes
+4052412
+Toner, Cintas impr., Fax
+4052413
+Cables y Fichas
+4052414
+Otros ins. Computación
+405242
+Insumos de Cafetería
+4052421
+Café
+4052422
+Té
+4052423
+Azúcar
+4052424
+Vajilla Descartable
+4052425
+Otros ins. Cafetería
+405243
+Insumos de Fotocopias
+4052431
+Papel Fotocopiadora
+4052432
+Toner Fotocopiadora
+4052433
+Otros ins. Fotocopiado
+405244
+Insumos de Limpieza
+4052441
+Útiles de Limpieza
+4052442
+Prod. Sanitarios Limpieza
+40525
+Sector Adm. y Apoyo
+405251
+Insumos de Computación
+4052511
+Diskettes
+4052512
+Toner, Cintas impr., Fax
+4052513
+Cables y Fichas
+4052414
+Otros ins. Computación
+405252
+Insumos de Cafetería
+4052521
+Café
+4052522
+Té
+4052523
+Azúcar
+4052524
+Vajilla Descartable
+4052525
+Otros ins. Cafetería
+405253
+Insumos de Fotocopias
+4052531
+Papel Fotocopiadora
+4052532
+Toner Fotocopiadora
+4052533
+Otros ins. Fotocopiado
+405254
+Insumos de Limpieza
+4052541
+Útiles de Limpieza
+4052542
+Prod. Sanitarios Limpieza
+40526
+SAM General
+405261
+Insumos de Computación
+4052611
+Diskettes
+4052612
+Toner, Cintas impr., Fax
+4052613
+Cables y Fichas
+4052614
+Otros ins. Computación
+405262
+Insumos de Cafetería
+4052621
+Café
+4052622
+Té
+4052623
+Azúcar
+4052624
+Vajilla Descartable
+4052625
+Otros ins. Cafetería
+405263
+Insumos de Fotocopias
+4052631
+Papel Fotocopiadora
+4052632
+Toner Fotocopiadora
+4052633
+Otros ins. Fotocopiado
+405264
+Insumos de Limpieza
+4052641
+Útiles de Limpieza
+4052642
+Prod. Sanitarios Limpieza
+4053
+Impresiones
+40531
+Impresiones BOM
+40532
+Imp. Informe Anual Activ.
+40533
+Otras Imp. y encuadern.
+405331
+Dirección
+405332
+Secretaría de Dirección
+405333
+Sector Asesoría Técnica
+405334
+Sector Normativa y Docum.
+405335
+Sector Adm. y Apoyo
+405336
+SAM General
+406
+Gastos Local Sede
+4061
+Servicios Gastos Funcion.
+40611
+Correo
+40612
+Servicios de Limpieza
+406121
+Dirección
+406122
+Secretaría de Dirección
+406123
+Sector Asesoría Técnica
+406124
+Sector Normativa y Docum.
+406125
+Sector Adm. y Apoyo
+406126
+SAM General
+40613
+Servicios de Cafetería
+406131
+Dirección
+406132
+Secretaría de Dirección
+406133
+Sector Asesoría Técnica
+406134
+Sector Normativa y Docum.
+406135
+Sector Adm. y Apoyo
+406136
+SAM General
+40614
+Otros Serv. Contratados
+406141
+Dirección
+406142
+Secretaría de Dirección
+406143
+Sector Asesoría Técnica
+406144
+Sector Normativa y Docum.
+406145
+Sector Adm. y Apoyo
+406146
+SAM General
+4062
+Conservación de local
+40621
+Dirección
+40622
+Secretaría de Dirección
+40623
+Sector Asesoría Técnica
+40624
+Sector Normativa y Docum.
+40625
+Sector Adm. y Apoyo
+40626
+SAM General
+4063
+Gtos Repres. Conf. Reunión
+40631
+Dirección
+40632
+Secretaría de Dirección
+40633
+Sector Asesoría Técnica
+40634
+Sector Normativa y Docum.
+40635
+Sector Adm. y Apoyo
+40636
+SAM General
+4064
+Mant. y Rep. Equipos
+40641
+Dirección
+40642
+Secretaría de Dirección
+40643
+Sector Asesoría Técnica
+40644
+Sector Normativa y Docum.
+40645
+Sector Adm. y Apoyo
+40646
+SAM General
+407
+Amortizaciones
+408
+Gastos y Servicios Divers
+4081
+Comunicaciones
+40811
+Dirección
+40812
+Secretaría Dirección
+40813
+Sector Asesoría Técnica
+40814
+Sector Normativa y Docum
+40815
+Sector Adm. y Apoyo
+40816
+SAM General
+4082
+Agua Corriente
+4083
+Seguros Sobre Bienes
+4084
+Otros Gtos y Serv. Div.
+40841
+Dirección
+40842
+Secretaría de Dirección
+40843
+Sector Asesoría Técnica
+40844
+Sector Normativa y Docum.
+40845
+Sector Adm. y Apoyo
+40846
+SAM General
+4085
+Comisiones Bancarias
+40851
+BROU
+40852
+Banco Nación
+4086
+Gastos Comunes
+409
+Programas Especiales
+4091
+Difusión
+4092
+Capacitación
+40921
+Dirección
+40922
+Secretaría de Dirección
+40923
+Sector Asesoría Técnica
+40924
+Sector Normativa y Docum.
+40925
+Sector Adm. y Apoyo
+40926
+SAM General
+411
+Asistencia Técn. Externa
+4111
+Unión Europea
+4112
+Otras Asistencias
+412
+Dif. Cambio Perdida
+413
+Previsión de Otros gtos
+4131
+Publicidad y Propaganda
+4132
+Traducciones
+41321
+Dirección
+41322
+Secretaría de Dirección
+41323
+Sector Asesoría Técnica
+41324
+Sector Normativa y Docum.
+41325
+Sector Adm. y Apoyo
+41326
+SAM General
+4133
+Otros
+41331
+Dirección
+41332
+Secretaría de Dirección
+41333
+Sector Asesoría Técnica
+41334
+Sector Normativa y Docum.
+41335
+Sector Adm. y Apoyo
+41336
+SAM General
+420
+Gastos Financieros
+4201
+Intereses Perdidos
+42011
+BROU
+420111
+Argentina
+420112
+Brasil
+420113
+Paraguay
+420114
+Uruguay
+42012
+Banco Nación
+420121
+Argentina
+420122
+Brasil
+420123
+Paraguay
+420124
+Uruguay
+4202
+Gastos Bancarios
+
+
+5
+INGRESOS
+
+
+51
+Ingresos Normales de Actividad
+511
+Aportes aprobados por los Estados Partes.
+
+
+5111
+
+
+Argentina
+5112
+Brasil
+5113
+Paraguay
+5114
+Uruguay
+512
+Ventas Boletín Oficial del MERCOSUR.
+52
+Ingresos Financieros
+521
+Intereses Bancarios
+5211
+Banco de la Nación Argentina
+5212
+Banco de la República Oriental del Uruguay
+522
+Intereses sobre Aportes.
+5221
+Argentina
+5222
+Brasil
+5223
+Paraguay
+5224
+Uruguay
+53
+Diferencia de Cambio
+531
+Diferencia de cambio ganada
+54
+Otros Ingresos
+55
+Varios
+56
+Ajuste de Resultado de Ejercicios Anteriores
+
+
+APÉNDICE II - DESCRIPCIÓN DEL PLAN DE CUENTAS
+
+
+1
+ACTIVO
+
+11
+Activo Corriente
+111
+Disponibilidades
+
+Es el disponible líquido que posee la SAM
+
+
+1101
+Fondo Fijo
+
+Es un fondo que posee la SAM para hacer frente a sus obligaciones menores. Su saldo se modifica cuando se aumenta o se disminuye.
+
+
+11102
+Bancos Cuenta Corriente
+
+Son los fondos que posee la SAM en los Bancos con los que opera.
+
+
+111021
+Moneda Nacional
+1110211
+BROU
+1110212
+Banco Nación
+111022
+Moneda Extranjera
+1110221
+BROU
+1110222
+Banco Nación
+11103
+Depósitos a Plazo Fijo
+
+Son aquellos fondos de la SAM que se pueden hacer líquidos en un lapso menor a un año.
+
+
+112
+Créditos por Ventas
+
+Son los créditos exigibles y aún no Líquidos y que se espera su conversión en un lapso menor a un año.
+
+
+11201
+Deudores por venta de publicaciones
+
+Son los importes a cobrar por las publicaciones que realiza la SAM.
+
+
+11202
+Importes a cobrar EP
+
+Son los saldos devengados y pendientes de pago de los Estados Partes del MERCOSUR.
+112021
+Argentina
+112022
+Brasil
+112023
+Paraguay
+112024
+Uruguay
+
+
+113
+Otros Créditos
+
+Son aquellos créditos que se esperan hacer líquidos en un lapso menor a un año.
+
+
+11301
+
+
+Certificados DGI
+
+Son aquellos certificados de devolución de I.V.A. por las incorporaciones de bienes de Activo Fijo de la Secretaría del MERCOSUR(decreto 220/98 Art. 53).
+113011
+en Trámite
+113012
+Recibidos
+11302
+Otros créditos
+
+Es aquella cuenta que acumula el  I.V.A. pagado por la Secretaría del MERCOSUR y que se afecta directamente a la incorporación de bienes de Activo Fijo.
+113021
+I.V.A.
+1130211
+Tasa Mínima
+1130212
+Tasa Básica
+12
+Activo No Corriente
+121
+Bienes de Uso
+1211
+Máquinas y Equipos de Of.
+1212
+Equipos de Comunicación
+1213
+Mobiliario
+122
+Amortización Acumulada
+1221
+AA Máquinas y Equipos
+1222
+AA Equipos Comunicación
+1223
+AA Mobiliario
+14
+Cuentas de Orden y Contingencia
+
+Son aquellas cuentas que la SAM administra y controla por cuenta de terceros.
+
+
+2
+PASIVO
+
+
+21
+Deudas comerciales
+
+Son aquellos saldos que se adeudan con los proveedores de bienes y servicios de la SAM y cuyo vencimiento es inferior a un año.
+
+
+2101
+Proveedores Locales
+
+Son los importes acumulados que se adeudan con los proveedores de bienes locales.
+21011
+Proveedores Locales - Moneda Nacional
+2101101
+Nombre Proveedor...
+2101102
+Nombre Proveedor...
+21012
+Proveedores Locales - Moneda Extranjera
+2101201
+Nombre Proveedor...
+
+
+2102
+Proveedores del Exterior
+
+Son los importes acumulados que se adeudan con los proveedores de bienes del exterior
+21021
+Nombre Proveedor...
+
+
+2103
+Proveedores por Pasajes
+
+Son los importes acumulados adeudados a los proveedores de pasajes.
+21031
+Proveedores por pasajes - Moneda Nacional
+210311
+Nombre Proveedor...
+21032
+Proveedores por pasajes - Moneda Extranjera
+210321
+Nombre Proveedor...
+
+
+2104
+Proveedores por Servicios
+
+Son los importes acumulados que se adeudan con los proveedores de servicios.
+21041
+Proveedores por Servicios - Moneda Nacional
+210411
+Nombre Proveedor...
+21042
+Proveedores por Servicios - Moneda Extranjera
+210421
+Nombre Proveedor...
+
+
+22
+Deudas financieras
+
+Son los compromisos asumidos con los bancos de plaza con vencimiento en un período menor a un año.
+2201
+Deudas Financieras - Moneda Nacional
+22011
+Nombre Institución
+2202
+Deudas Financieras - Moneda Extranjera
+22021
+Nombre Institución
+2203
+Intereses a Pagar
+220301
+Moneda Nacional
+2203011
+BROU
+2203012
+Banco Nación
+220302
+Moneda Extranjera
+2203021
+BROU
+2203022
+Banco Nación
+2204
+Intereses a Vencer
+22041
+Moneda Nacional
+2204101
+BROU
+2204102
+Banco Nación
+22042
+Moneda Extranjera
+2204201
+BROU
+2204202
+Banco Nación
+23
+Deudas Eventuales
+231
+Anticipo de Estados Parte
+23101
+Argentina
+23102
+Brasil
+23103
+Paraguay
+23104
+Uruguay
+24
+Otras Deudas
+241
+Acreedores por viáticos
+24101
+Director
+24102
+Secretaría de Dirección
+24103
+Sector Asesoría Técnica
+24104
+Sector Normativa y Docum.
+24105
+Sector Adm. y Apoyo
+24106
+Asesores y Consultores
+242
+Haberes a Pagar
+24201
+Director
+24202
+Secretaría de Dirección
+24203
+Sector Asesoría Técnica
+24204
+Sector Normativa y Docum.
+24205
+Sector Adm. Y Apoyo
+
+
+3
+PATRIMONIO
+
+
+31
+Resultados Acumulados (Excedentes acumulados)
+
+Es la acumulación de excedentes presupuéstales de todos los años. Los excedentes presupuéstales se derivan como acumulación de resultados de cada ejercicio.
+
+
+311
+Resultado del ejercicio (Excedente del ejercicio)
+
+
+4
+EGRESOS Y GASTOS
+
+
+401
+Personal de planta
+
+
+40101
+Sueldo
+
+Comprende la retribución básica del Director y de  los demás funcionarios de la secretaría. Se debe abrir por centro de costos según Norma. Base de asignación directa.
+401011
+Dirección
+401012
+Secretaría de Dirección
+401013
+Sector de Asesoría Técnica
+401014
+Sector Normativa y Documentación
+401015
+Sector de Administración y Apoyo
+
+
+40102
+Seguro de Salud
+
+Comprende las partidas dispuestas por seguro médico para los funcionarios de la secretaría. Se debe abrir por centro de costos según Norma. Base de asignación directa.
+401021
+Dirección
+401022
+Secretaría de Dirección
+401023
+Sector de Asesoría Técnica
+401024
+Sector Normativa y Documentación
+401025
+Sector de Administración y Apoyo
+
+
+40103
+Gastos de Instalación y Traslado del Director
+
+Gastos de instalación y traslado de director de no ser residente en el país Sede. Son las erogaciones que corresponden a los gastos de instalación y traslado del director de la SAM. Base de asignación directa.
+
+
+40104
+Aportes al Fondo de Previsión
+
+Contribución provisional sobre servicios personales. Este rubro comprende el aporte a cargo de la SAM al fondo provisional para todo el personal de la misma.
+
+Base de asignación directa.
+401041
+Dirección
+401042
+Secretaría de Dirección
+401043
+Sector de Asesoría Técnica
+401044
+Sector Normativa y Documentación
+401045
+Sector de Administración y Apoyo
+
+
+40105
+Sueldo Anual Complementario
+
+Comprende el aguinaldo del personal de la SAM. Se debe abrir por centro de costos. Base de asignación directa.
+401051
+Dirección
+401052
+Secretaría de Dirección
+401053
+Sector de Asesoría Técnica
+401054
+Sector Normativa y Documentación
+401055
+Sector de Administración y Apoyo
+
+
+402
+Contratos Temporales
+
+
+4020
+Contratos Temporales
+
+Son los gastos por servicios profesionales contratados temporalmente. Base de asignación indirecta a cada centro de costos según procedimientos descriptos cuando no se pueda identificar el objeto de costos, cuando  se pueda realizar se asignará en forma directa.
+40201
+Dirección
+40202
+Secretaría de Dirección
+40203
+Sector de Asesoría Técnica
+40204
+Sector Normativa y Documentación
+40205
+Sector de Administración y Apoyo
+
+
+4021
+Asesores
+
+Son los gastos por servicios de asesoramiento. Base de asignación indirecta a cada centro de costos según procedimientos descriptos cuando no se pueda identificar el objeto de costos, cuando  se pueda realizar se asignará en forma directa.
+40211
+Dirección
+40212
+Secretaría de Dirección
+40213
+Sector de Asesoría Técnica
+40214
+Sector Normativa y Documentación
+40215
+Sector de Administración y Apoyo
+
+
+403
+Viajes en Misión de Servicio
+
+
+4031
+Pasajes
+
+Son los costos incurridos por la compra de los pasajes para las misiones de servicio. Se debe separar por centro de costos y asignar directamente a cada uno de poder identificar el objeto de costos, sino se procederá a utilizar el método de asignación indirecta descrito anteriormente.
+40311
+Dirección
+40312
+Secretaría de Dirección
+40313
+Sector de Asesoría Técnica
+40314
+Sector Normativa y Documentación
+40315
+Sector de Administración y Apoyo
+40316
+SAM General
+
+
+4032
+Viáticos
+
+Comprenden los viáticos del personal de la SAM dentro y fuera del país sede, se asignará en forma directa.
+40321
+Dirección
+40322
+Secretaría de Dirección
+40323
+Sector de Asesoría Técnica
+40324
+Sector Normativa y Documentación
+40325
+Sector de Administración y Apoyo
+40326
+SAM General
+4033
+Locomoción Funcionarios
+40331
+Dirección
+40332
+Secretaría de Dirección
+40333
+Sector Asesoría Técnica
+40334
+Sector Normativa y Docum.
+40335
+Sector Adm. y Apoyo
+40336
+SAM General
+404
+Contratos Temporales
+
+
+4041
+Honorarios Consultores
+
+Son los costos por honorarios incurridos por la contratación de consultores. Se asignan al centro de costos SAM General directamente.
+
+
+4042
+Pasajes Consultores
+
+Son los costos incurridos por pago de pasajes a los consultores. Se asignan al centro de costos SAM General directamente.
+
+
+4043
+Viáticos Consultores
+
+Son los costos incurridos por pago de viáticos a los consultores. Se asignan al centro de costos SAM General directamente.
+
+
+405
+Suministros
+
+Este rubro acumula las erogaciones para la compra de artículos, materiales y otros suministros que se adquieran para el cumplimiento de las actividades de la SAM.
+
+Dichos registros se realizarán imputando los importes correspondientes a los centros de costos.
+
+Las formas de imputar los valores a dichos centros de costos será la siguiente:
+
+a)         Aquellas partidas que se pueden imputar directamente al centro pues son partidas directamente asignables, serán debitadas o acreditadas a dicho centro directamente.
+
+b)         Las partidas que no se pueden imputar directamente al centro pues no son directamente asignables se utilizará el método de asignación que mejor refleje la realidad.
+
+
+4051
+Consumo General
+
+
+Este sub-rubro refiere a los artículos, materiales y otros suministros en general, con exclusión del rubro Suministros (4052).
+
+
+40511
+Dirección
+
+
+405111
+Productos de papel, libros e impresos
+
+Comprende la compra de papel, cartón y todo tipo de material impreso.
+4051111
+Formularios y otros impresos similares.
+
+Abarca los distintos tipos de formularios y demás impresos a utilizar en la Secretaría tales como: recibos, facturas y similares, papel numerado, cualquier tipo de papel con logotipo, etc.
+4051112
+Productos de artes gráficas
+
+Son los gastos en artículos tales como: cuadernos, blocks, calendarios, diarios, etc., a excepción de libros y revistas.
+4051113
+Productos de papel y cartón
+
+Son los gastos en artículos de papel y cartón tales como: biblioratos, carpetas, cajas, sobres, etc.
+4051114
+Libros, revistas y otras publicaciones
+
+Comprende los gastos por adquisición de libros y revistas para la biblioteca u oficinas, guías telefónicas, etc.
+4051115
+Especies timbradas y valoradas
+
+Comprende toda clase de impresos valorados.
+405112
+Alimentos manufacturados  y bebidas
+
+Son las adquisiciones de alimentos manufacturados y bebidas
+
+
+4051121
+
+
+Alimentos manufacturados.
+
+Son los gastos por compra de alimentos manufacturados, tales como carnes frescas o elaboradas, enlatados, embutidos, derivados de la leche, frutas, legumbres, cereales, productos de panadería, etc., con exclusión de los comprendidos en el Rubro  Insumos.
+4051122
+Bebidas
+
+Son los gastos en bebidas alcohólicas y no alcohólicas tales como bebidas refrescantes, gaseosas y aguas minerales gasificadas o no, etc.
+405113
+Otros suministros
+
+Comprende los gastos en útiles varios de oficina, accesorios eléctricos y útiles de cocina y comedor, así como de otros suministros. Está comprendido por los siguientes derivados:
+4051131
+Útiles de oficina
+
+Son los gastos en útiles de escritorio y oficina, tales como lápices, gomas, sellos, lapiceras, engrapadoras, perforadoras, cinta adhesiva, etc.
+
+
+4051132
+Útiles y accesorios eléctricos
+
+Son los gastos en aparatos y accesorios eléctricos no clasificados en otra parte, tales como lamparitas y tubos eléctricos, enchufes, interruptores, cables y alambre con aislamiento, etc.
+4051133
+Útiles de cocina y comedor
+
+Son los gastos por concepto de adquisición de platos, cubiertos, ollas, etc.
+4051134
+Otros suministros
+
+Son los gastos por otros suministros no comprendidos en los ítems anteriores.
+
+
+40512
+Secretaría Dirección
+
+
+405121
+Productos de papel, libros e impresos
+4051211
+Formularios y otros impresos similares.
+4051212
+Productos de artes gráficas
+4051213
+Productos de papel y cartón
+4051214
+Libros, revistas y otras publicaciones
+4051215
+Especies timbradas y valoradas
+405122
+Alimentos manufacturados y bebidas
+4051221
+Alimentos manufacturados.
+4051222
+Bebidas
+405123
+Otros suministros
+4051231
+Útiles de oficina
+4051232
+Útiles y accesorios eléctricos
+4051233
+Útiles de cocina y comedor
+4051234
+Otros suministros
+
+
+40513
+Sector de Asesoría Técnica
+
+
+405131
+Productos de papel, libros e impresos
+4051311
+Formularios y otros impresos similares.
+4051312
+Productos de artes gráficas
+4051313
+Productos de papel y cartón
+4051314
+Libros, revistas y otras publicaciones
+4051315
+Especies timbradas y valoradas
+405132
+Alimentos manufacturados y bebidas
+4051321
+Alimentos manufacturados.
+4051322
+Bebidas
+405133
+Otros suministros
+4051331
+Útiles de oficina
+4051332
+Útiles y accesorios eléctricos
+4051333
+Útiles de cocina y comedor
+4051334
+Otros suministros
+
+
+40514
+Sector de Normativa y Documentación
+
+
+405141
+Productos de papel, libros e impresos
+4051411
+Formularios y otros impresos similares.
+4051412
+Productos de artes gráficas
+4051413
+Productos de papel y cartón
+4051414
+Libros, revistas y otras publicaciones
+4051415
+Especies timbradas y valoradas
+405142
+Alimentos manufacturados y bebidas
+4051421
+Alimentos manufacturados.
+4051422
+Bebidas
+405143
+Otros suministros
+4051431
+Útiles de oficina
+4051432
+Útiles y accesorios eléctricos
+4051433
+Útiles de cocina y comedor
+4051434
+Otros suministros
+
+
+40515
+Sector de Administración y Apoyo
+
+
+405151
+Productos de papel, libros e impresos
+4051511
+Formularios y otros impresos similares.
+4051512
+Productos de artes gráficas
+4051513
+Productos de papel y cartón
+4051514
+Libros, revistas y otras publicaciones
+4051515
+Especies timbradas y valoradas
+405152
+Alimentos manufacturados y bebidas
+4051521
+Alimentos manufacturados.
+4051522
+Bebidas
+405153
+Otros suministros
+405131
+Útiles de oficina
+405132
+Útiles y accesorios eléctricos
+405133
+Útiles de cocina y comedor
+405134
+Otros suministros
+
+
+40516
+SAM General
+
+
+405161
+Productos de papel, libros e impresos
+4051611
+Formularios y otros impresos similares.
+4051612
+Productos de artes gráficas
+4051613
+Productos de papel y cartón
+4051614
+Libros, revistas y otras publicaciones
+4051615
+Especies timbradas y valoradas
+405162
+Alimentos manufacturados y bebidas
+4051621
+Alimentos manufacturados.
+4051622
+Bebidas
+405163
+Otros suministros
+4051631
+Útiles de oficina
+4051632
+Útiles y accesorios eléctricos
+4051633
+Útiles de cocina y comedor
+4051634
+Otros suministros
+
+
+4052
+Insumos
+
+Son los gastos por concepto de insumos para los servicios de computación, cafetería, fotocopias y limpieza. Comprende los siguientes renglones
+
+
+40521
+Dirección
+
+
+405211
+Insumos de computación
+
+Son los gastos por concepto de insumos para los servicios de computación. Incluye los derivados:
+4052111
+Diskettes
+4052112
+Toner y Cintas impresoras y faxes
+4052113
+Cables y Fichas
+4052114
+Otros insumos computación
+
+Son los gastos por concepto de insumos para computación que no estén comprendidos en los ítems anteriores.
+405212
+Insumos de cafetería
+
+Son los gastos por concepto de insumos para el servicio de cafetería. Se compone de los siguientes derivados:
+4052121
+Café
+4052122
+Té
+4052123
+Azúcar
+4052124
+Vajilla descartable
+
+Son los gastos de artículos descartables tales como, vasos, removedores, platos, cucharas, etc.
+4052125
+Otros Insumos de Cafetería
+
+Son los gastos por concepto de insumos de cafetería que no estén comprendidos en los ítems anteriores.
+405213
+Insumos de Fotocopias
+
+Son los gastos por concepto de insumos para el servicio de fotocopias. Incluye los derivados:
+4052131
+Papel fotocopiadora
+4052132
+Toner fotocopiadora
+4052133
+Otros insumos fotocopiado
+
+Son los gastos por concepto de insumos de fotocopias que no estén comprendidos en los ítems anteriores.
+
+
+405214
+Insumos de limpieza
+
+Son los gastos por concepto de insumos de limpieza. Comprende los siguientes derivados:
+4052141
+Útiles de limpieza
+
+Son los gastos en útiles de limpieza tales como: escobas, cepillos, plumeros, etc.
+4052142
+Productos sanitarios y de limpieza
+
+Son los gastos en productos sanitarios y de limpieza tales como: papel higiénico, jabones, perfumes, ceras desinfectantes y desodorizantes, etc.
+
+
+40522
+Secretaría Dirección
+
+
+405221
+Insumos de computación
+5042211
+Diskettes
+4052212
+Toner y Cintas impresoras y faxes
+4052213
+Cables y Fichas
+4052214
+Otros insumos computación
+405222
+Insumos de cafetería
+4052221
+Café
+4052222
+Té
+4052223
+Azúcar
+4052224
+Vajilla descartable
+4052225
+Otros Insumos de Cafetería
+405223
+Insumos de Fotocopias
+4052231
+Papel fotocopiadora
+4052232
+Toner fotocopiadora
+4052233
+Otros insumos fotocopiado
+405224
+Insumos de limpieza
+4052241
+Útiles de limpieza
+4052242
+Productos sanitarios y de limpieza
+
+
+40523
+Sector de Asesoría Técnica
+
+
+405231
+Insumos de computación
+4052311
+Diskettes
+4052312
+Toner y Cintas impresoras y faxes
+4052313
+Cables y Fichas
+4052314
+Otros insumos computación
+405232
+Insumos de cafetería
+4052321
+Café
+4052322
+Té
+4052323
+Azúcar
+4052324
+Vajilla descartable
+4052325
+Otros Insumos de Cafetería
+405233
+Insumos de Fotocopias
+4052331
+Papel fotocopiadora
+4052332
+Toner fotocopiadora
+4052333
+Otros insumos fotocopiado
+405234
+Insumos de limpieza
+4052341
+Útiles de limpieza
+4052342
+Productos sanitarios y de limpieza
+
+
+40524
+Sector de Normativa y Documentación
+
+
+405241
+Insumos de computación
+4052411
+Diskettes
+4052412
+Toner y Cintas impresoras y faxes
+4052413
+Cables y Fichas
+4052414
+Otros insumos computación
+405242
+Insumos de cafetería
+4052421
+Café
+4052422
+Té
+4052423
+Azúcar
+4052424
+Vajilla descartable
+4052425
+Otros Insumos de Cafetería
+405243
+Insumos de Fotocopias
+4052431
+Papel fotocopiadora
+4052432
+Toner fotocopiadora
+4052433
+Otros insumos fotocopiado
+405244
+Insumos de limpieza
+4052441
+Útiles de limpieza
+4052442
+Productos sanitarios y de limpieza
+
+
+40525
+Sector de Administración y Apoyo
+
+
+405251
+Insumos de computación
+4052511
+Diskettes
+4052512
+Toner y Cintas impresoras y faxes
+4052513
+Cables y Fichas
+4052414
+Otros insumos computación
+405252
+Insumos de cafetería
+4052521
+Café
+4052522
+Té
+4052523
+Azúcar
+4052524
+Vajilla descartable
+4052525
+Otros Insumos de Cafetería
+405253
+Insumos de Fotocopias
+4052531
+Papel fotocopiadora
+4052532
+Toner fotocopiadora
+4052533
+Otros insumos fotocopiado
+405254
+Insumos de limpieza
+4052541
+Útiles de limpieza
+4052542
+Productos sanitarios y de limpieza
+
+
+40526
+SAM General
+
+
+405261
+Insumos de computación
+4052611
+Diskettes
+4052612
+Toner y Cintas impresoras y faxes
+4052613
+Cables y Fichas
+4052614
+Otros insumos computación
+405262
+Insumos de cafetería
+4052621
+Café
+4052622
+Té
+4052623
+Azúcar
+4052624
+Vajilla descartable
+4052625
+Otros Insumos de Cafetería
+405263
+Insumos de Fotocopias
+4052631
+Papel fotocopiadora
+4052632
+Toner fotocopiadora
+4052633
+Otros insumos fotocopiado
+405264
+Insumos de limpieza
+4052641
+Útiles de limpieza
+4052642
+Productos sanitarios y de limpieza
+4053
+Impresiones
+
+Son los gastos generados por la impresión del Boletín Oficial del MERCOSUR y del Informe Anual de Actividades de la Secretaría Administrativa del MERCOSUR, así como de  otras impresiones, reproducciones y encuadernaciones. Comprende los renglones:
+
+
+40531
+Impresiones del BOM
+40532
+Impresión del Informe Anual de Actividades
+
+
+40533
+Otras Impresiones y Encuadernaciones
+405331
+Dirección
+405332
+Secretaría Dirección
+405333
+Sector de Asesoría Técnica
+405334
+Sector de Normativa y Documentación
+405335
+Sector de Administración y Apoyo
+405336
+SAM General
+
+
+406
+Servicios , Gastos de Funcionamiento y Conservación del Local
+
+de la Sede
+
+Este rubro comprende los gastos por servicios prestados por personas físicas, instituciones públicas, privadas o por el uso de bienes muebles o inmuebles. Incluye por ejemplo: servicios públicos, publicidad y propaganda, pasajes y viáticos, gastos de traslado, transporte, arrendamientos, servicios contratados para mantenimientos y reparaciones menores, servicios profesionales contratados y atenciones protocolares. Comprende los siguientes sub-rubros.
+
+
+4061
+Servicios y Gastos de Funcionamiento
+
+Son los gastos de funcionamiento y servicios contratados que se realicen para el cumplimiento de las actividades de la Secretaría.
+
+
+40611
+Correo
+
+Son los gastos por envío de cartas, encomiendas, impresos, etc., dentro del país sede.
+
+
+40612
+Servicios de limpieza
+
+Son los gastos por los servicios contratados a empresas de limpieza.
+406121
+Dirección
+406122
+Secretaría Dirección
+406123
+Sector de Asesoría Técnica
+406124
+Sector de Normativa y Documentación
+406125
+Sector de Administración y Apoyo
+406126
+SAM General
+
+
+40613
+Servicios de cafetería
+
+Son los gastos por los servicios contratados de cafetería.
+406131
+Dirección
+406132
+Secretaría Dirección
+406133
+Sector de Asesoría Técnica
+406134
+Sector de Normativa y Documentación
+406135
+Sector de Administración y Apoyo
+406136
+SAM General
+
+
+40614
+Otros servicios contratados
+
+Son los gastos por servicios contratados no incluidos en los ítems anteriores.
+406141
+Dirección
+406142
+Secretaría Dirección
+406143
+Sector de Asesoría Técnica
+406144
+Sector de Normativa y Documentación
+406145
+Sector de Administración y Apoyo
+406146
+SAM General
+
+
+4062
+Conservación de local
+
+Son los gastos en que se incurra para el mantenimiento y conservación del local sede, tales como: pintura, reparaciones menores, reformas estructurales, albañilería, etc.
+40621
+Dirección
+40622
+Secretaría Dirección
+40623
+Sector de Asesoría Técnica
+40624
+Sector de Normativa y Documentación
+40625
+Sector de Administración y Apoyo
+40626
+SAM General
+
+
+4063
+Gastos de Representación, Conferencias y Reuniones
+
+Son los gastos de representación correspondientes a la realización de  conferencias y reuniones, así como los relativos a las actividades protocolares de la Secretaría.  Comprende los siguientes renglones:
+40631
+Dirección
+40632
+Secretaría Dirección
+40633
+Sector de Asesoría Técnica
+40634
+Sector de Normativa y Documentación
+40635
+Sector de Administración y Apoyo
+40636
+SAM General
+
+
+4064
+Mantenimiento y Reparación de Equipos
+
+Son los gastos por mantenimiento de equipos de oficina, tales como: de computación, comunicación, fotocopiado, etc. Comprende las reparaciones de equipos de oficina, tales como: de computación, comunicación, fotocopiado, etc.
+40641
+Dirección
+40642
+Secretaría Dirección
+40643
+Sector de Asesoría Técnica
+40644
+Sector de Normativa y Documentación
+40645
+Sector de Administración y Apoyo
+40646
+SAM General
+407
+Amortizaciones
+
+
+408
+Gastos y Servicios Diversos
+
+Comprende otros gastos de funcionamiento y servicios tales como comunicaciones, agua corriente, seguros, suscripciones. Incluye los renglones:
+4081
+Comunicaciones
+
+Son los gastos por concepto de servicios telefónicos, telegramas, etc.
+40811
+Dirección
+40812
+Secretaría Dirección
+40813
+Sector de Asesoría Técnica
+40814
+Sector de Normativa y Documentación
+40815
+Sector de Administración y Apoyo
+40816
+SAM General
+
+
+4082
+Agua Corriente
+
+Son los gastos por los servicios de aprovisionamiento de agua corriente.
+
+
+4083
+Seguros sobre bienes
+
+Son los gastos correspondientes a los distintos seguros que cubran los bienes de la Secretaría.
+
+
+4084
+Otros Gastos y Servicios Diversos
+
+Comprende otros gastos de funcionamiento y servicios diversos no clasificados en los renglones anteriores.
+40841
+Dirección
+40842
+Secretaría Dirección
+40843
+Sector de Asesoría Técnica
+40844
+Sector de Normativa y Documentación
+40845
+Sector de Administración y Apoyo
+40846
+SAM General
+
+
+4085
+Comisiones Bancarias
+
+Son los gastos por concepto de pago de comisiones bancarias por administración, etc.
+40851
+Banco República
+40852
+Banco Nación
+
+
+4086
+Gastos comunes
+
+Son los gastos por concepto de gastos comunes del Edificio MERCOSUR.
+
+
+409
+Programas especiales
+
+Son los gastos por concepto de difusión así como de capacitación de los funcionarios de la Secretaría.
+
+
+4091
+Difusión
+
+Son los gastos por concepto de difusión de información del MERCOSUR.
+4092
+Capacitación
+
+Son los gastos para capacitar al personal de la SAM. Base de asignación directa.
+40921
+Dirección
+40922
+Secretaría de Dirección
+40923
+Sector de Asesoría Técnica
+40924
+Sector Normativa y Documentación
+40925
+Sector de Administración y Apoyo
+40926
+SAM General
+411
+Asistencia técnica externa.
+
+Son los egresos generados por la asistencia obtenida, como ser viáticos, honorarios, etc.
+
+
+4111
+Unión Europea
+4112
+Otras asistencias
+
+
+412
+Diferencia de  cambio perdida
+
+Comprende la diferencia producida en la conversión entre distintas monedas.
+
+
+413
+Previsión de otros gastos
+
+Comprende la atención de gastos específicos de publicidad y propaganda, traducciones, capacitación y otros que la Dirección determine correspondan a este sub-rubro. Incluye los renglones:
+
+
+4131
+Publicidad y propaganda
+
+Son los gastos por concepto de avisos y propaganda, tales como el pago de espacio en periódicos, revistas, guía telefónica, radios, televisión, etc.
+
+
+4132
+Traducciones
+
+Son los pagos por servicios profesionales contratados de traducción.
+41321
+Dirección
+41322
+Secretaría Dirección
+41323
+Sector de Asesoría Técnica
+41324
+Sector de Normativa y Documentación
+41325
+Sector de Administración y Apoyo
+41326
+SAM General
+4133
+Otros
+
+Comprende la realización de otros gastos que específicamente determine la Dirección y no estén contemplados en los sub-rubros anteriores.
+41331
+Dirección
+41332
+Secretaría Dirección
+41333
+Sector de Asesoría Técnica
+41334
+Sector de Normativa y Documentación
+41335
+Sector de Administración y Apoyo
+41336
+SAM General
+
+
+420
+Gastos financieros
+
+Son aquellos gastos de índole financiero originados por ejemplo intereses, comisiones bancarias, etc.
+
+
+4201
+Intereses perdidos.
+
+intereses generados por operaciones obtenidas por la SAM
+
+
+42011
+BROU
+420111
+Argentina
+420112
+Brasil
+420113
+Paraguay
+420114
+Uruguay
+42012
+Banco Nación
+420121
+Argentina
+420122
+Brasil
+420123
+Paraguay
+420124
+Uruguay
+
+
+4202
+Gastos bancarios
+
+
+5
+INGRESOS
+
+
+51
+Ingresos Normales de Actividad
+
+
+511
+Aportes aprobados por los Estados Partes.
+
+Ingresos devengados
+
+
+5111
+Argentina
+5112
+Brasil
+5113
+Paraguay
+5114
+Uruguay
+
+
+512
+Ventas Boletín Oficial del MERCOSUR.
+
+Ingresos obtenidos por la venta de la publicaciones de SAM
+
+
+52
+Ingresos Financieros
+
+
+521
+Intereses Bancarios
+
+Ingresos generados por operaciones bancarias como ser saldo en cuenta corriente, caja de ahorro u otras colocaciones (a la vista) de la SAM
+5211
+Banco de la Nación Argentina
+5212
+Banco de la República Oriental del Uruguay
+
+
+522
+Intereses sobre Aportes.
+
+Ingresos devengados por la cuota parte de saldo deudor de los Estados Partes en relación a los intereses que cobran las instituciones financieras y que se deben asignar a cada Estado Parte  en función de su participación en lo adeudado por concepto de aportes aprobados EP.
+5221
+Argentina
+5222
+Brasil
+5223
+Paraguay
+5224
+Uruguay
+
+
+53
+Diferencia de Cambio
+
+
+531
+Diferencia de cambio ganada
+
+Diferencia producida por la conversión de monedas.
+
+
+54
+Otros Ingresos
+
+
+55
+Varios
+
+
+56
+Ajuste de Resultado de Ejercicios Anteriores
+
+
+APENDICE III
+S.M.  Formato de Presupuesto Sugerido
+TOTAL
+DENOMINACION
+Aprobado
+DE LOS RECURSOS
+
+APORTE DE LOS ESTADOS PARTES
+
+ARGENTINA
+
+BRASIL
+
+PARAGUAY
+
+URUGUAY
+
+OTROS INGRESOS
+
+TOTAL DE RECURSOS
+
+DE LOS GASTOS
+
+I. GASTOS CORRIENTES
+
+GASTOS EN PERSONAL
+
+SUELDOS
+
+-  DIRECTOR DE LA SAM
+
+-  DEMAS FUNCIONARIOS Y EMPLEADOS
+
+SEGURO MÉDICO
+
+-  DIRECTOR DE LA SAM
+
+-  DEMAS FUNCIONARIOS Y EMPLEADOS
+
+SUELDO ANUAL COMPLEMENTARIO
+
+-  DIRECTOR DE LA SAM
+
+-  DEMAS FUNCIONARIOS Y EMPLEADOS
+
+BENEFICIOS SOCIALES
+
+-  DIRECTOR DE LA SAM
+
+*  Gastos de Instalación y Traslado
+
+CONTRIBUCION PREVISIONAL 14%
+
+-  DIRECTOR DE LA SAM
+
+-  DEMAS FUNCIONARIOS Y EMPLEADOS
+
+GASTOS DE FUNCIONAMIENTO
+
+SUMINISTROS
+
+  CONSUMO GENERAL E INSUMOS
+
+  IMPRESIONES (BOM  e Informe Anual de Actividades)
+
+SERVICIOS Y GASTOS DE MANTENIMIENTO
+
+  SERVICIOS Y GASTOS DE FUNCIONAMIENTO
+
+  CORREO
+
+  CONSERVACIÓN DEL LOCAL
+
+  GASTOS DE REPRESENTACIÓN, CONFERENCIAS Y REUNIONES
+
+MANTENIMIENTO Y REPARACIÓN DE EQUIPOS
+
+VIAJES EN MISIÓN DE SERVICIO
+
+  PASAJES , (incluye pasaje país sede )
+
+  VIÁTICOS
+
+  LOCOMOCION FUNCIONARIOS
+
+OTROS GASTOS CORRIENTES
+
+GASTOS Y SERVICIOS DIVERSOS
+
+  COMUNICACIONES
+
+  SUSCRIPCIONES
+
+  SEGURO SOBRE BIENES
+
+  OTROS GASTOS Y SERVICIOS DIVERSOS
+
+  GASTOS COMUNES
+
+CONTRATOS TEMPORALES (honorarios profesionales,etc.)
+
+PREVISIÓN DE OTROS GASTOS
+
+  TRADUCCIONES
+
+  OTROS
+
+  CAPACITACIÓN
+
+  PUBLICIDAD, PROPAGANDA Y DIFUSIÓN
+
+INTERESES, COMISIONES Y GASTOS BANCARIOS
+
+  COMISIONES Y GASTOS BANCARIOS
+
+NTERESES
+
+II. GASTOS DE CAPITAL O ACTIVO FIJO
+
+  MAQUINAS Y EQUIPOS DE OFICINA
+
+  MOBILIARIO
+
+  OTROS GASTOS
+
+TOTAL
+
+
+Los rubros:
+
+*Consumo General agrupa los siguientes subrubros:
+
+-Papel, Libros, Impresos
+-Formularios, Impresiones, Similares
+-Productos de Artes Gráficas
+-Productos de Papel y Cartón
+-Libros, Revistas, Otros
+-Especies Timbradas y Valoradas
+
+-Alimentación Manufacturada y Bebidas:
+
+-Alimentos Manufacturados
+-Bebidas
+
+-Otros Suministros:
+
+-Útiles de Oficina
+-Útiles y Accesorios Eléctricos
+-Útiles de Cocina y Comedor
+-Otros Suministros
+
+
+*Insumos  agrupa los siguientes subrubros:
+
+-Insumos de Computación:
+
+-Diskettes
+-Toner, Cintas de Impresoras, Fax
+-Cables y Fichas
+-Otros Insumos de Computación
+
+-Insumos de Cafetería:
+
+-Café
+-Té
+-Azúcar
+-Vajilla Descartable
+-Otros Insumos de Cafetería
+
+-Insumos de Fotocopias:
+
+-Papel Fotocopiadora
+-Toner Fotocopiadora
+-Otros Insumos de Fotocopiado
+
+-Insumos de Limpieza:
+
+-Útiles de Limpieza
+-Productos Sanitarios de Limpieza
+
+
+*Servicios y Gastos de Funcionamiento agrupa a los siguientes subrubros:
+
+-Servicios de Limpieza
+
+-Servicios de Cafetería
+
+-Otros Servicios Contratados
+
+
+Apéndice IV
+
+
+Apéndice V
+
+Glosario de términos empleados
+
+TÉRMINOS PATRIMONIALES  Y FINANCIEROS
+
+Variaciones económicas: son aquellas relacionadas con los montos y que afectan su valuación e impactan directamente en el normal desarrollo de las operaciones proyectadas, provocan variaciones económicas, por ejemplo, variaciones en el tipo de cambio, coyunturas macroeconómicas, etc.
+
+Variaciones financieras: son aquellas relacionadas con los ingresos esperados y que afectan el desembolso de fondos (egresos) proyectados y se basa fundamentalmente en el concepto de liquidez.
+
+Variaciones Patrimoniales: refieren al concepto contable definido por la diferencia entre derechos y obligaciones de la organización.
+
+Desembolsos: se refiere a cualquier erogación de fondos
+
+Relación préstamo bancario/presupuesto: es el cociente entre el monto acumulado de prestamos bancarios y el total del presupuesto aprobado para el ejercicio en cuestión y se expresa en porcentaje.
+
+Participación de deuda de cada Estado Parte en el total de adeudos: es el cociente entre el monto adeudado de cada Estado Parte y la suma de lo adeudado por todos los estados partes y se expresa en porcentaje.
+
+Costo financiero: es el monto obtenido de aplicar al capital adeudado la tasa de interés correspondiente a la operación en cuestión.
+
+Concepto de lo devengado: las operaciones quedan conformadas y firmes o por el mero transcurso del tiempo, por la obtención del control del bien independientemente de la transmisión de la propiedad o por la utilización efectiva de los servicios contratados.
+
+Compromiso asumido: refiere a una deuda cierta por la adquisición de bienes o servicios, no exigible pues  no se encuentra vencida.
+
+Deuda vencida: refiere a una deuda cierta por la adquisición de bienes o servicios, exigible.
+
+Línea de Crédito: es el monto máximo obtenido ya sea para la adquisición de bienes o servicios así como de recursos financieros sobre el cual la organización puede operar.
+
+Conciliar: Comparar la información suministrada por dos o más emisores.
+
+Principios y Normas Contables Adecuadas: son aquellas normas y principios de contabilidad universalmente aceptadas y sobre las cuales se elabora la información, que permite obtener uniformidad en la interpretación, cualquiera sea el interprete.
+
+Partida doble: principio fundamental de contabilidad, donde a cualquier partida que se debita/acredita corresponde una partida que se acredita/debita.
+Imputar: es el procedimiento para acumular montos a los objetos de costos.
+
+TÉRMINOS PRESUPUESTALES
+
+Crédito Presupuestario: es el monto máximo que se ha autorizado para gastar en el presupuesto aprobado por el GMC.
+El presupuesto de gastos aprobado para el ejercicio, se ejecuta en diferentes etapas o momentos del gasto.
+
+El compromiso es una etapa que implica
+a) el origen de una relación jurídica con terceros que motivará una eventual (futura) salida de fondos, sea para cancelar una deuda o para su inversión en un objeto determinado.
+b) La identificación de la persona física o jurídica a la cual se efectuará el pago, como así también la especie y cantidad de los bienes o servicios a recibir, o en su caso, el carácter de los gastos sin contraprestación.
+La etapa del gasto devengado en términos del presupuesto implica:
+a) El surgimiento de una obligación de pago por la recepción conforme de bienes o servicios oportunamente contratados.
+b) La liquidación de gasto: operación dirigida a determinar la suma cierta que deberá pagarse, previa verificación de los requisitos documentales aplicables a cada caso.
+c) Una modificación cualitativa y cuantitativa en la composición del patrimonio y originada por transacciones de carácter económico y financiero.
+El pagado es la etapa que se verifica en el momento en que se entregue un medio de pago que cancele la deuda o extinga una obligación
+
+Deuda exigible: es la que corresponde a los pagos pendientes por los bienes y servicio recibidos. Se establece restando a los gastos acumulados devengados, los pagos acumulados a la fecha.
+
+Modificaciones presupuestarias: son variaciones que experimentan los créditos presupuestarios originariamente aprobados. Se pueden originar por sobreestimaciones o subestimaciones de dichos créditos, incorporación, reducción o eliminación de gastos, así como por cambios no previstos en la proyección de los ingresos.
+SECRETARÍA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 4
+ACTUALIZACIÓN - ORIGINAL - 23/06/17
+Linda Rabbaglietti
+Directora
+
+
+48
+
+
+SECRETARÍA DEL MERCOSUR
+RESOLUCIÓN GMC Nº 26/01 - ARTÍCULO 4
+ACTUALIZACIÓN - ORIGINAL - 23/06/17
+Linda Rabbaglietti
+                                                                                                                                            Directora

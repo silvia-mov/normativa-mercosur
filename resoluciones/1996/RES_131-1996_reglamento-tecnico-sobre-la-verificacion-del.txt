@@ -1,0 +1,1548 @@
+Resolución GMC N° 131/96
+Título: REGLAMENTO TECNICO SOBRE LA VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS
+Fecha de aprobación: 14/12/1996
+Vigencia: Derogada (Será derogada por la Resolución GMC Nº 20/11, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 26863_RES_131-1996_ES_RTM_Fabricacion Productos medicos.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2047).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 131/96
+
+REGLAMENTO TECNICO SOBRE LA VERIFICACION DEL CUMPLIMIENTO DE LAS BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 91/93, 4/95 y 36/96, y la Recomendación Nº51 del SGT Nº3 "Reglamentos Técnicos".
+
+CONSIDERANDO:
+
+La necesidad de disponer de un instrumento para verificar el cumplimiento de los requisitos de Buenas Prácticas de Fabricación de Productos Médicos, de que trata la Resolución MERCOSUR/GMC/Res. nº 04/95.
+
+Que para implementación de los requisitos de Buenas Prácticas de Fabricación de Productos Médicos, es necesario orientar a los fabricantes e importadores sobre la adopción de estos requisitos.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Aprobar el documento VERIFICACION DEL CUMPLIMIENTO DE BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS, que figura en el Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los organismos competentes de los Estados Partes encargados de implementar esta Resolución son:
+
+ARGENTINA: Administración Nacional de Medicamentos, Alimentos y Tecnología
+       Médica -ANMAT
+
+      BRASIL: 	Secretaria de Vigilância Sanitária do Ministério da Saúde
+
+      PARAGUAY: Dirección de Vigilancia del Ministerio de Salud Pública y Bienestar
+      Social
+
+      URUGUAY: 	Ministerio de Salud Pública
+
+Art. 3 - La presente Resolución entrará en vigencia el 1/3/96.
+
+
+XXIV GMC - Fortaleza, 13/12/96
+
+
+BUENAS PRACTICAS DE FABRICACION DE
+PRODUCTOS MEDICOS
+
+
+VERIFICACION DEL CUMPLIMIENTO DE BUENAS PRACTICAS DE FABRICACION DE PRODUCTOS MEDICOS
+
+
+INDICE
+Parte A - APLICACION DE LOS ITEMS DE VERIFICACION
+Parte B - REQUISITOS DEL SISTEMA DE CALIDAD
+                 B.1. Responsabilidad Gerencial
+                 B.2. Auditoría de Calidad
+                 B.3. Personal
+Parte C - CONTROL DE PROYECTOS
+Parte D - CONTROLES DE DOCUMENTOS Y REGISTROS
+Parte E - CONTROL DE COMPRAS
+Parte F - IDENTIFICACION Y RASTREO
+Parte G - CONTROLES DE PROCESO Y PRODUCCION
+        G.1. Controles de Proceso y Producción
+        G.2. Procesos Especiales
+Parte H - INSPECCION Y TESTS
+        H.1. Inspección y Tests
+        H.2. Inspección, Medición y Equipos de Tests
+        H.3. Resultados de Inspección y Tests
+Parte I - COMPONENTES Y PRODUCTOS NO-CONFORMES
+Parte J - ACCION CORRECTIVA
+Parte K - MANIPULACION, ALMACENAMIENTO, DISTRIBUCION E INSTALACION
+        K.1. Manipulación, Almacenamiento y Distribución
+K.2. Instalación de Equipos
+Parte L - CONTROL DE EMBALAJE Y ETIQUETADO
+Parte M - REGISTROS DEL SISTEMA DE CALIDAD
+        M.1. Requisitos Generales
+        M.2. Registro Maestro del Producto y Registro Histórico del Producto
+        M.3. Archivo de Reclamaciones
+
+Parte N - ASISTENCIA TECNICA
+Parte O - TECNICAS DE ESTADISTICA
+Anexo A - CLASIFICACION DE LOS ITEMS DE VERIFICACION
+Anexo B - ACTA DE INSPECCION
+
+Parte A - APLICACION DE LA GUIA DE INSPECCION
+1. Esta Guía de Inspección tiene por objeto auxiliar en la verificación del cumplimiento de los requisitos de Buenas Prácticas de Fabricación - BPF de Productos Médicos por los fabricantes o importadores de estos productos.
+2. Las respuestas a las preguntas formuladas (ítems) en este documento, servirán de base para la elaboración del Acta de Inspección (Anexo B), la cual suministrará elementos para que la autoridad de salud competente decida sobre la emisión de la constancia/certificado de cumplimiento de BPF.
+3. La no presentación de la documentación requerida por el inspector o la omisión de información solicitada, estará configurando que el fabricante o importador no cumple los requisitos de BPF de productos médicos.
+
+Parte B - REQUISITOS DEL SISTEMA DE CALIDAD
+B.1
+Responsabilidad Gerencial
+B.1.1
+¿Existe una política de calidad en la empresa?
+B.1.2
+¿Los objetivos de esa política fueron informados a los empleados? ¿Están comprendidos?
+B.1.3
+¿Existe un organigrama mostrando la estructura organizativa de la empresa?
+B.1.4
+¿Existen descripciones de cargos definiendo autoridad y responsabilidad de las funciones de proyecto, compras, fabricación, embalaje, etiquetado, almacenamiento, instalación y asistencia técnica?
+B.1.5
+¿Hay un representante de la administración formalmente designado con autoridad y responsabilidad para asegurar que los requisitos del sistema de calidad sean establecidos y mantenidos conforme los requisitos de buenas prácticas de fabricación para productos médicos?
+B.1.6
+¿El desempeño del sistema de calidad es evaluado periódicamente por la       gerencia ejecutiva?
+B.1.7
+¿La evaluación está documentada?
+B.1.8
+¿Existe un procedimiento estableciendo la periodicidad de esa evaluación?
+B.1.9
+¿El sistema de calidad está descrito en un manual o en documento equivalente y adecuadamente difundido?
+B.2
+Auditoría de Calidad
+B.2.1
+¿La empresa tiene procedimientos de auditorías internas para verificar si el sistema de calidad está de acuerdo a los requisitos establecidos en las buenas prácticas de fabricación de productos médicos?
+B.2.2
+¿Existen registros de entrenamiento de los auditores internos del sistema de calidad?
+B.2.3
+¿Existen informes de auditoría interna de calidad indicando las no- conformidades encontradas?
+B.2.4
+¿El informe está firmado por el responsable del área auditada?
+B.2.5
+¿El personal que ejecuta las auditorías internas de calidad es independiente de las áreas auditadas?
+B.2.6
+¿Existen registros de la implementación de las acciones correctivas recomendadas en los informes de auditoría interna?
+
+
+B.3
+Personal
+B.3.1
+¿La empresa posee procedimiento para reclutamiento y selección de personal?
+B.3.2
+¿Los empleados son entrenados para ejecutar adecuadamente las tareas a ellos asignadas?
+B.3.3
+¿Se mantienen registros de esos entrenamientos?
+B.3.4
+¿Existen evidencias de que los empleados fueron informados sobre no- conformidades resultantes del desempeño incorrecto de sus funciones?
+
+Parte C - CONTROL DE PROYECTOS
+C.1
+¿Existen procedimientos para desarrollo y control de proyecto?
+C.2
+¿Los procedimientos están aprobados por persona calificada?
+C.3
+¿Existe aprobación expresa de las características especificadas para el proyecto?
+C.4
+¿Existen evidencias de que el proyecto fue examinado por persona designada calificada y que su ejecución está de acuerdo a los datos de entrada?
+C.5
+¿Existe comprobación de la realización de tests para verificar si los datos de salida del proyecto están de acuerdo a las especificaciones?
+C.6
+¿El fabricante posee procedimiento para asegurar que el proyecto será aprobado  por persona calificada antes de ser liberado para producción?
+C.7
+¿El fabricante mantiene un registro histórico del proyecto para comprobar que el mismo fue desarrollado de acuerdo a los requisitos aprobados?
+
+Parte D - CONTROLES DE DOCUMENTOS Y REGISTROS
+D.1
+¿Existe procedimiento para control de documentos?
+D.2
+¿Los documentos son aprobados por personas designadas?
+D.3
+¿Los documentos están disponibles en locales apropiados?
+D.4
+¿Los documentos están actualizados de acuerdo con los procedimientos de revisión de documentos?
+D.5
+¿Existe un procedimiento para remoción de documentos obsoletos?
+D.6
+¿La empresa mantiene procedimientos para modificación y revisión de documentos?
+D.7
+¿Hay procedimientos para distribución y retiro de documentos identificados como documentos controlados?
+
+Parte E - CONTROL DE COMPRAS
+E.1
+¿Existe un procedimiento para evaluación de proveedores?
+E.2
+¿Existen especificaciones de compras definiendo claramente los requisitos que debe cumplir el proveedor?
+E.3
+¿La empresa mantiene un registro de proveedores aprobados?
+E.4
+¿Los pedidos de compras son aprobados por personal autorizado?
+E.5
+¿Esa autorización está formalizada?
+
+Parte F - IDENTIFICACION Y RASTREO
+F.1
+¿La empresa tiene un procedimiento para la identificación de los materiales de fabricación recibidos?
+F.2
+¿Los componentes y materiales de fabricación están identificados?
+F.3
+¿El componente o material de fabricación es identificado con un número de lote o partida que posibilite su rastreo?
+F.4
+¿El número del lote o partida asociado al producto acabado está registrado en el historial correspondiente?
+
+Parte G - CONTROLES DE PROCESO Y PRODUCCION
+G.1
+Controles de Proceso y Producción
+G.1.1
+¿Existe un procedimiento para liberación del producto acabado?
+G.1.2
+¿Los procedimientos de producción están disponibles en los locales de uso o en locales asignados?
+G.1.3
+¿Existen controles para impedir la mezcla de lotes o partidas de componentes, materiales de fabricación o productos acabados?
+G.1.4
+¿Existe especificación de producción?
+G.1.5
+¿Esa especificación fue elaborada y revisada por personal autorizado distinto?
+G.1.6
+¿Existe un procedimiento para modificación de especificaciones con expresa indicación de responsabilidad?
+G.1.7
+¿Existen procedimientos para limpieza de las áreas de producción?
+G.1.8
+¿Las áreas de producción presentan limpieza compatibles con el tipo de producto fabricado?
+G.1.9
+¿Existen evidencias de que los empleados no comen, no beben y no fuman en las áreas donde pueden afectar al producto?
+G.1.10
+¿Existe un programa documentado de combate a insectos y roedores?
+G.1.11
+¿Hay evidencias de que ese programa está en vigencia?
+G.1.12
+¿El personal utiliza uniformes y calzados adecuados a la tarea realizada?
+G.1.13
+¿Hay baños y vestuarios adecuados para uso de los empleados?
+G.1.14
+¿Los baños y vestuarios adecuados presentan niveles de limpieza e higiene aceptables?
+G.1.15
+¿Existe definición expresa de los plaguicidas permitidos y de las áreas donde pueden ser usados?
+G.1.16
+¿Existen evidencias de recolección regular de basura en las áreas de producción?
+G.1.17
+¿Hay un programa documentado de limpieza y mantenimiento de máquinas y equipos?
+
+G.2
+Procesos Especiales
+G.2.1
+¿Existen protocolos de validación establecidos para procesos especiales?
+G.2.2
+¿Se mantienen registros referentes al desempeño de procesos especiales de fabricación?
+G.2.3
+¿Existen evidencias de que estos registros son examinados por personal designado calificado?
+
+Parte H - INSPECCION Y TESTS
+H.1
+Inspección y Tests
+H.1.1
+¿Hay procedimientos para inspección y, cuando sean de aplicación, tests de componentes y materiales de fabricación recibidos, para asegurar que los requisitos especificados fueron atendidos?
+H.1.2
+¿Existen informes de inspección comprobando que los componentes y materiales de fabricación recibidos fueron inspeccionados antes de ser transferidos a la producción y están de acuerdo con las especificaciones?
+H.1.3
+¿Cuando sea de aplicación, son realizados tests durante el proceso de fabricación para asegurar la conformidad con las especificaciones?
+H.1.4
+¿Los resultados de esos tests están registrados?
+H.1.5
+¿Los resultados de esos tests son examinados y aprobados por personal designado calificado?
+H.1.6
+¿Existen procedimientos para retener componentes y materiales de fabricación durante el proceso hasta que las inspecciones y tests exigidos hayan sido realizados y que las aprobaciones necesarias hayan sido realizadas?
+H.1.7
+¿Existen evidencias de que se aplican esos procedimientos?
+H.1.8
+¿La empresa mantiene procedimientos para inspección y test de productos acabados asegurando que un lote o partida  está de acuerdo con las especificaciones?
+H.1.9
+¿Los productos acabados son identificados y mantenidos en un área determinada hasta la conclusión de los tests finales de aprobación?
+H.1.10
+¿Hay comprobación de que los productos acabados transferidos para expedición están aprobados en los tests finales y que la transferencia se realiza por personal autorizado y están de acuerdo con los requisitos constantes en el registro maestro del producto (RMP)?
+H.1.11
+¿La transferencia de productos acabados está asociada a los números de los lotes o partidas correspondientes?
+
+H.2
+Inspección, Medición y Equipos de Tests
+H.2.1
+¿Existe un programa documentado para calibración y comprobación de instrumentos?
+H.2.2
+¿Los instrumentos de inspección, medición y tests están identificados indicando si están comprobados o calibrados?
+H.2.3
+¿Hay procedimientos para garantizar que los instrumentos no calibrados o medidos no sean instalados y usados?
+H.2.4
+¿En el caso de que no existan patrones nacionales para medición y calibración, son referidas a patrones propios, confiables y reproducibles?
+H.2.5
+¿Hay registros que comprueben la confiabilidad de esos patrones?
+H.3
+Resultados de Inspección y Tests
+H.3.1
+¿Existe identificación del resultado de las inspecciones y tests realizados en los componentes, materiales de fabricación y productos acabados?
+H.3.2
+¿Existen procedimientos para asegurar que solamente los componentes, materiales de fabricación y productos acabados que pasaron las inspecciones y tests sean liberados?
+H.3.3
+¿Los registros de las inspecciones y tests identifican a las personas responsables de esa liberación?
+
+Parte I - COMPONENTES Y PRODUCTOS NO-CONFORMES
+I.1
+¿Existen procedimientos que aseguren que componentes, materiales de fabricación, productos acabados o devueltos, no-conformes con las especificaciones, no sean utilizados?
+I.2
+¿Los materiales de fabricación, los componentes, los productos acabados o devueltos no-conformes son claramente identificados y segregados?
+I.3
+¿Existen responsables designados para decidir sobre la segregación y liberación de estos materiales, componentes, productos acabados o devueltos?
+
+Parte J - ACCION CORRECTIVA
+J.1
+¿Existe un procedimiento para investigar las causas de no-conformidades del sistema de calidad?
+J.2
+¿Las acciones correctivas resultantes de las investigaciones de no-conformidades son documentadas e implementadas?
+J.3
+¿La responsabilidad y la autoridad para decidir sobre evaluación, implementación y monitoreo de las acciones correctivas aprobadas están claramente definidas?
+
+Parte K - MANIPULACION, ALMACENAMIENTO, DISTRIBUCION E INSTALACION
+K.1
+Manipulación, Almacenamiento y Distribución
+K.1.1
+¿La empresa mantiene procedimientos para la manipulación de productos acabados?
+K.1.2
+¿Los productos acabados son almacenados conforme lo establecido en los  procedimientos?
+K.1.3
+¿Los productos damnificados o con plazo de validez vencido son segregados de tal forma que no sean inadvertidamente distribuidos al mercado?
+K.1.4
+¿Hay registros de esa segregación?
+K.1.5
+¿La empresa mantiene procedimientos para la remoción de esos productos del área de almacenamiento?
+K.1.6
+¿Los productos distribuidos al mercado son registrados de forma de identificar el nombre y la dirección del consignatario, las cantidades distribuidas y el número de control o número del lote o partida de fabricación que permita su rastreo?
+K.1.7
+¿El área de almacenamiento presenta condiciones adecuadas de higiene y limpieza de forma a evitar daños y contaminaciones al producto acabado?
+K.2
+Instalación de Equipos
+K.2.1
+¿Existen instrucciones y procedimientos para la correcta instalación de los productos?
+K.2.2
+¿La empresa otorga garantía de que el producto correctamente instalado funcionará de acuerdo con las especificaciones?
+K.2.3
+¿Cuando sea de aplicación, se registra la instalación de cada producto?
+
+Parte L - CONTROL DE EMBALAJE Y ETIQUETADO
+L.1
+¿Existen controles que comprueben que los embalajes y etiquetas están de acuerdo con las especificaciones?
+L.2
+¿Existen procedimientos para etiquetado de productos, cuando sea de aplicación?
+L.3
+¿Cuando sea de aplicación, las etiquetas son inspeccionadas, aprobadas y liberadas para stock o uso por personas designadas calificadas?
+L.4
+¿Cuando sea de aplicación, la empresa mantiene un área destinada al almacenamiento de etiquetas?
+
+Parte M - REGISTROS DEL SISTEMA DE CALIDAD
+M.1
+Requisitos Generales
+M.1.1
+¿Existen procedimientos para archivo de los registros de documentos referentes al sistema de calidad?
+M.1.2
+¿Los registros se archivan por el plazo establecido por las buenas prácticas de fabricación para productos médicos?
+M.2
+Registro Maestro del Producto y Registro Histórico del Producto
+M.2.1
+¿El fabricante mantiene un registro maestro del producto (RMP) con los requisitos determinados por las buenas prácticas de fabricación de productos médicos?
+M.2.2
+¿El fabricante mantiene un registro histórico del producto para comprobar que el lote o partida de fabricación fue producido de conformidad con lo que establece el RMP?
+M.3
+Archivo de Reclamaciones
+M.3.1
+¿Hay procedimientos para administración de las reclamaciones de los clientes?
+M.3.2
+¿Las reclamaciones se registran de acuerdo con los requisitos de las buenas prácticas de fabricación  para productos médicos?
+M.3.3
+¿Cuando sea de aplicación, las reclamaciones de los clientes son examinadas, investigadas y se toman acciones correctivas para prevenir la repetición del suceso?
+M.3.4
+¿Las investigaciones son documentadas?
+M.3.5
+¿Existen registros de que las acciones correctivas aprobadas fueron implementadas?
+
+Parte N - ASISTENCIA TECNICA
+N.1
+¿El fabricante establece y mantiene procedimientos de asistencia  técnica?
+N.2
+¿Existen registros de la asistencia técnica dada a cada producto?
+N.3
+¿Esos registros están de acuerdo con los requisitos de las buenas prácticas de fabricación para productos médicos?
+
+Parte O - TECNICAS DE ESTADISTICA
+O.1
+¿Los planes de muestreo adoptados por el fabricante están formalizados por escrito?
+O.2
+¿Existen procedimientos para revisión periódica de los planes de muestreo con vistas a verificar la adecuación de la técnica estadística al resultado pretendido?
+O.3
+¿Existe personal designado calificado para realizar esta revisión y proponer técnicas estadísticas adecuadas?
+
+
+ANEXO A
+
+Clasificación de los Items de la Guía de Inspección
+
+1. Los ítems de la guía de inspección deben ser clasificados como:
+	- IMPRESCINDIBLE
+	- NECESARIO
+	- RECOMENDABLE
+	- INFORMATIVO
+	- NO CORRESPONDE
+2. Las definiciones y la simbología correspondiente, son:
+	- IMPRESCINDIBLE	(IM)
+	Se considera como ítem imprescindible aquel que, formando parte de los requisitos de Buenas Prácticas de Fabricación - BPF, puede afectar en grado crítico la calidad del producto y/o la seguridad de los trabajadores, así como, aquel que corresponda a exigencias jurídico-administrativas.
+	- NECESARIO		(N)
+	Se considera como ítem necesario aquel cuyo incumplimiento puede afectar significativamente la calidad del producto y/o la seguridad de los trabajadores.
+	- RECOMENDABLE	(R)
+	Se considera como ítem recomendable aquel cuyo incumplimiento puede afectar en grado no significativo la calidad del producto y/o la seguridad de los trabajadores.
+	- INFORMATIVO		( I )
+	Se considera como ítem informativo aquel que expresa una información descriptiva y/o complementaria.
+	- NO CORRESPONDE  (NC)
+			Se considera como ítem  no corresponde aquel que no debe ser considerado en la inspección que se realiza.
+
+3. La clasificación de los ítems de verificación se aplica a:
+	- fabricantes de productos médicos; e
+	- importadores de productos médicos.
+4. La clasificación de los ítems de verificación servirá de base para que el inspector informe a la autoridad de salud competente, en el Acta de Inspección (Anexo B), sobre el cumplimiento del fabricante o importador de los requisitos de las BPF y acciones correctivas necesarias.
+5. La simbología de las Tablas de Clasificación de los ítems de este documento, adoptan el encuadramiento de los productos en las clases instituidas por la Resolución MERCOSUR/ GMC/Res. nº 37/96:
+	CLASE I 	- Bajo riesgo;
+	CLASE II	- Mediano riesgo;
+	CLASE III	- Alto riesgo;
+
+
+TABLAS DE CLASIFICACION
+
+Parte B - REQUISITOS DEL SISTEMA DE CALIDAD
+
+B.1	Responsabilidad Gerencial
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+B.1.1
+N
+N
+N
+N
+N
+N
+B.1.2
+N
+N
+N
+N
+N
+N
+B.1.3
+R
+R
+R
+R
+R
+R
+B.1.4
+N
+N
+N
+N
+N
+N
+B.1.5
+R
+R
+N
+R
+R
+N
+B.1.6
+R
+N
+N
+R
+R
+R
+B.1.7
+R
+N
+N
+R
+R
+R
+B.1.8
+R
+N
+N
+R
+R
+R
+B.1.9
+R
+N
+N
+R
+R
+R
+
+B.2	Auditoría de Calidad
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+B.2.1
+I
+R
+N
+NC
+NC
+NC
+B.2.2
+I
+R
+N
+NC
+NC
+NC
+B.2.3
+I
+R
+R
+NC
+NC
+NC
+B.2.4
+I
+R
+R
+NC
+NC
+NC
+B.2.5
+I
+R
+N
+NC
+NC
+NC
+B.2.6
+I
+R
+R
+NC
+NC
+NC
+
+B.3	Personal
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+B.3.1
+R
+R
+R
+R
+R
+R
+B.3.2
+R
+R
+R
+R
+R
+R
+B.3.3
+R
+R
+R
+R
+R
+R
+B.3.4
+R
+R
+R
+R
+R
+R
+
+Parte C - CONTROL DE PROYECTOS
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+C.1
+I
+R
+N
+NC
+NC
+NC
+C.2
+R
+R
+R
+NC
+NC
+NC
+C.3
+I
+R
+N
+NC
+NC
+NC
+C.4
+I
+R
+N
+NC
+NC
+NC
+C.5
+I
+R
+N
+NC
+NC
+NC
+C.6
+I
+R
+N
+NC
+NC
+NC
+C.7
+I
+R
+N
+NC
+NC
+NC
+
+Parte D - CONTROLES DE DOCUMENTOS Y REGISTROS
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+D.1
+I
+R
+R
+I
+R
+R
+D.2
+I
+R
+R
+I
+R
+R
+D.3
+I
+R
+R
+I
+R
+R
+D.4
+I
+R
+R
+I
+R
+R
+D.5
+I
+R
+R
+I
+R
+R
+D.6
+I
+R
+R
+I
+R
+R
+D.7
+I
+R
+R
+I
+R
+R
+
+Parte E - CONTROL DE COMPRAS
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+E.1
+R
+N
+N
+R
+N
+N
+E.2
+R
+N
+N
+R
+N
+N
+E.3
+I
+R
+R
+I
+I
+I
+E.4
+I
+R
+R
+I
+I
+I
+E.5
+I
+R
+R
+I
+I
+I
+
+Parte F - IDENTIFICACIÓN Y RASTREO
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+F.1
+R
+N
+N
+NC
+NC
+NC
+F.2
+R
+N
+N
+NC
+C
+NC
+F.3
+R
+N
+N
+NC
+C
+NC
+F.4
+I
+N
+N
+I
+N
+N
+
+Parte G - CONTROLES DE PROCESO Y PRODUCCION
+
+G.1	Controles de Proceso y Producción
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+G.1.1
+R
+N
+N
+NC
+NC
+NC
+G.1.2
+R
+R
+R
+NC
+NC
+NC
+G.1.3
+R
+N
+IM
+NC
+NC
+NC
+G.1.4
+R
+N
+IM
+NC
+NC
+NC
+G.1.5
+R
+R
+R
+NC
+NC
+NC
+G.1.6
+R
+R
+N
+NC
+NC
+NC
+G.1.7
+I
+R
+N
+NC
+NC
+NC
+G.1.8
+R
+N
+N
+NC
+NC
+NC
+G.1.9
+I
+R
+N
+I
+R
+N
+G.1.10
+R
+R
+N
+R
+R
+N
+G.1.11
+R
+R
+N
+R
+R
+N
+G.1.12
+R
+N
+N
+R
+N
+N
+G.1.13
+N
+N
+N
+N
+N
+N
+G.1.14
+N
+N
+N
+N
+N
+N
+G.1.15
+R
+R
+N
+R
+R
+N
+G.1.16
+R
+R
+N
+NC
+NC
+NC
+G.1.17
+I
+R
+N
+NC
+NC
+NC
+
+G.2	Procesos Especiales
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+G.2.1
+R
+N
+N
+NC
+NC
+NC
+G.2.2
+R
+N
+N
+NC
+NC
+NC
+G.2.3
+R
+N
+N
+NC
+NC
+NC
+
+Parte H - INSPECCION Y TESTS
+
+H.1	Inspección y Tests
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+H.1.1
+R
+N
+N
+NC
+NC
+NC
+H.1.2
+R
+N
+N
+NC
+NC
+NC
+H.1.3
+R
+N
+N
+NC
+NC
+NC
+H.1.4
+R
+N
+N
+NC
+NC
+NC
+H.1.5
+R
+N
+N
+NC
+NC
+NC
+H.1.6
+R
+N
+N
+NC
+NC
+NC
+H.1.7
+R
+N
+N
+NC
+NC
+NC
+H.1.8
+R
+N
+IM
+R
+N
+IM
+H.1.9
+R
+N
+IM
+R
+N
+IM
+H.1.10
+R
+N
+IM
+R
+N
+IM
+H.1.11
+R
+N
+IM
+R
+N
+IM
+
+H.2	Inspección, Medición y Equipos de Tests
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+H.2.1
+R
+N
+IM
+NC
+NC
+NC
+H.2.2
+R
+N
+IM
+NC
+NC
+NC
+H.2.3
+R
+N
+IM
+NC
+NC
+NC
+H.2.4
+R
+N
+N
+NC
+NC
+NC
+H.2.5
+R
+N
+N
+NC
+NC
+NC
+
+H.3	Resultados de Inspección y Tests
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+H.3.1
+R
+N
+N
+R
+N
+N
+H.3.2
+R
+N
+N
+R
+N
+N
+H.3.3
+R
+N
+N
+R
+N
+N
+
+Parte I - COMPONENTES Y PRODUCTOS NO-CONFORMES
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+I.1
+R
+N
+IM
+R
+N
+IM
+I.2
+R
+N
+IM
+R
+N
+IM
+I.3
+R
+N
+N
+R
+N
+N
+
+Parte J - ACCION CORRECTIVA
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+J.1
+I
+R
+N
+I
+R
+N
+J.2
+I
+R
+N
+I
+R
+N
+J.3
+I
+R
+N
+I
+R
+N
+
+Parte K - MANIPULACION, ALMACENAMIENTO, DISTRIBUCION E INSTALACION
+
+K.1	Manipulación, Almacenamiento y Distribución
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+K.1.1
+R
+N
+IM
+R
+N
+IM
+K.1.2
+R
+N
+IM
+R
+N
+IM
+K.1.3
+N
+IM
+IM
+N
+IM
+IM
+K.1.4
+N
+N
+N
+N
+N
+N
+K.1.5
+N
+N
+N
+N
+N
+N
+K.1.6
+I
+N
+IM
+I
+N
+IM
+K.1.7
+N
+N
+N
+N
+N
+N
+
+K.2	Instalación de Equipos
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+K.2.1
+N
+N
+N
+N
+N
+N
+K.2.2
+N
+N
+N
+N
+N
+N
+K.2.3
+N
+N
+N
+N
+N
+N
+
+Parte L - CONTROLES DE EMBALAJE Y ETIQUETADO
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+L.1
+R
+R
+R
+R
+R
+R
+L.2
+R
+R
+R
+R
+R
+R
+L.3
+R
+R
+R
+R
+R
+R
+L.4
+R
+R
+R
+R
+R
+R
+
+Parte M - REGISTROS
+
+M.1	Requisitos Generales
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+M.1.1
+R
+N
+N
+R
+N
+N
+M.1.2
+R
+N
+N
+R
+N
+N
+
+M.2	Registro Maestro del Producto y Registro Histórico del Producto
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+M.2.1
+R
+N
+N
+R
+N
+N
+M.2.2
+R
+N
+N
+NC
+NC
+NC
+
+M.3	Archivo de Reclamaciones
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+M.3.1
+R
+R
+N
+R
+R
+N
+M.3.2
+R
+R
+N
+R
+R
+N
+M.3.3
+R
+R
+N
+R
+R
+N
+M.3.4
+R
+R
+N
+R
+R
+N
+M.3.5
+R
+R
+N
+R
+R
+N
+
+Parte N - ASISTENCIA TECNICA
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+N.1
+R
+R
+N
+R
+R
+N
+N.2
+R
+R
+N
+R
+R
+N
+N.3
+R
+R
+N
+R
+R
+N
+
+Parte O - TECNICAS DE ESTADISTICA
+
+ITEM
+FABRICANTES
+IMPORTADORES
+
+CLASE I
+CLASE II
+CLASE III
+CLASE I
+CLASE II
+CLASE III
+O.1
+R
+N
+N
+R
+R
+R
+O.2
+I
+R
+N
+I
+R
+R
+O.3
+I
+R
+R
+I
+R
+R
+
+ANEXO B
+
+Acta de Inspección
+
+El Acta de Inspección deberá contener:
+
+1. la razón social de la empresa;
+
+2. el nombre del(de los) inspector(es);
+
+3. el motivo de la inspección y/o número de orden de la inspección;
+
+4. el nombre, cargo y formación profesional de las personas entrevistadas;
+
+5. las orientaciones o recomendaciones del(de los) inspector(es) a la empresa;
+
+6. las observaciones efectuadas durante la inspección y descripción de los procedimientos operativos;
+
+7. el plazo recomendado por el inspector a la autoridad de salud competente para implementar medidas correctivas, cuando sean necesarias;
+
+8. los comentarios del responsable de la empresa sobre las observaciones del(de los) inspector(es);
+
+9. el cierre del Acta original y las copias correspondientes, dejando una copia en poder de la empresa.
+
+
+17

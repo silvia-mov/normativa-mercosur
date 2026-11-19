@@ -1,0 +1,42 @@
+Resolución GMC N° 90/94
+Título: COORDINACIÓN DE ESTACIONES TERRESTRES DE SERVICIIO FIJO POR SATÉLITE
+Fecha de aprobación: 15/12/1994
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: PT
+Archivo original: 24514_RES_090-1994_PT_EstTerresSatel.DOC
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1816).
+----------------------------------------------------------------------
+MERCOSUL/GMC/RES. Nº 90/94
+
+COORDENAÇÃO DE ESTAÇÕES TERRESTRES DE SERVIÇO FIXO POR SATÉLITE
+
+
+TENDO EM VISTA:  o Art. 13 do Tratado de Assunção, o Art. 10 da Decisão Nº 4/91 do Conselho do Mercado Comum, a Recomendação Nº 58/94 do SGT N° 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que o apêndice 28 do Regulamento de Radiocomunicações (RR) dispõe sobre o funcionamento para o estabelecimento dos contornos de coordenação em volta de uma estação terrestres,
+
+Que os diversos informes e recomendações do ex-CCIR que tratam da avaliação da interferência entre estações terrenas do serviço fixo por satélite e terrestre são apenas orientações para as Administrações,
+
+Que é necessário estabelecer o procedimento a ser empregado de modo a contemplar a redução dos prazos previstos no Regulamento de Radiocomunicações (RR).
+
+
+O GRUPO MERCADO COMUM
+RESOLVE:
+
+
+Art. 1.  Para a determinação da zona de coordenação de uma estação terrestre de serviço fixo por satélite que opere em faixas de frequência compreendidas entre 1 Ghz e 40 Ghz, compartida entre serviços de radiocomunicação espaciais e terrestres, será utilizado o método estabelecido no apêndice 28 do Regulamento de Radiocomunicações (RR), complementado pelas Recomendações UIT-R IS. 847, 848, 849, e 850, seus modificativos e concordantes.
+
+Art. 2  a) A Administração que recebe a solicitação de coordenação disporá de 30 (trinta) dias úteis para comunicar a Administração solicitante as observações sobre a documentação recebida e enviar a relação de suas estações de serviço fixas terrestres compreendidas na zona de coordenação.
+
+b)  A Administração solicitante determinará a interferência potencial entre estação terrestre e as estações terrestres referidas no literal anterior, utilizando-se os métodos indicados na Recomendação UIT-R SF 1006, seus modificativos e concordantes, e comunicará os resultados obtidos.
+
+c) A Administração que recebe a solicitação de coordenação disporá de 30 (trinta) úteis para formular sua posição tecnicamente fundamentada.
+
+	No caso de não existir oposição ou de haver transcorrido o prazo supra citado dar-se-á por aceita a coordenação.
+
+Art. 3. Em todos os casos os prazos serão contados segundo o meio de comunicação empregado desde a data em que for acusado o recebimento da solicitação.
+
+Art. 4. Será elaborado um manual contendo o procedimento pormenorizado para a coordenação, que deverá incluir "software", critérios de níveis de interferência, etc. Tal manual será elaborado por um grupo de peritos dos Estados Partes.

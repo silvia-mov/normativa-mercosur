@@ -1,0 +1,172 @@
+Resolución GMC N° 04/18
+Título: REGLAMENTO TÉCNICO MERCOSUR PARA DISPOSITIVOS SENSORES DE LA SALIDA DE LOS PRODUCTOS DE LA COMBUSTIÓN INSTALADOS EN ARTEFACTOS PARA USO DOMÉSTICO
+Fecha de aprobación: 19/04/2018
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 68374_RES_004-2018_ES_RTM Disp Sensor Salida.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3528).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 04/18
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA DISPOSITIVOS SENSORES DE LA SALIDA DE LOS PRODUCTOS DE LA COMBUSTIÓN INSTALADOS EN ARTEFACTOS PARA USO DOMÉSTICO
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 19/92, 38/98, 24/03, 25/03, 14/05 y 45/17 del Grupo Mercado Común.
+
+
+CONSIDERANDO:
+
+Que se deben armonizar las exigencias esenciales de seguridad y desempeño para la fabricación, importación y comercialización de los dispositivos sensores de la salida de los productos de la combustión instalados en artefactos para uso doméstico, tomando en consideración las medidas pertinentes para asegurar la protección y satisfacción de los usuarios de estos artefactos en cada Estado Parte.
+
+Que es necesario que los Estados Partes adopten medidas para la protección eficaz de los consumidores contra los riesgos vinculados a la utilización de gas como combustible.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR para dispositivos sensores de la salida de los productos de la combustión instalados en artefactos para uso doméstico", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - A partir de la fecha de entrada en vigor de la presente Resolución, se define un plazo de cuatro (4) años para su aplicación.
+
+Art. 3 - A partir del plazo resultante de aplicar el Artículo 2 de esta Resolución, se define un plazo de un (1) año para la coexistencia de la comercialización de los dispositivos sensores de la salida de los productos de la combustión instalados en artefactos para uso doméstico, con los fabricados y comercializados de acuerdo con las reglamentaciones vigentes en cada Estado Parte hasta esa fecha.
+
+Art. 4 - A partir de cumplirse los plazos mencionados en los Artículos 2 y 3 de la presente Resolución, todos los dispositivos sensores de la salida de los productos de la combustión instalados en artefactos para uso doméstico deberán ser fabricados, evaluada su conformidad y comercializados exclusivamente de acuerdo con los requisitos aquí establecidos.
+
+Art. 5 - La inobservancia de las prescripciones comprendidas en la presente Resolución, acarreará a los infractores, la aplicación de las penalidades previstas en la legislación vigente en cada Estado Parte.
+
+Art. 6 - La presente Resolución se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 7 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3) los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 8 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 20/X/2018.
+
+
+CVII GMC - Asunción, 19/IV/18.
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR PARA DISPOSITIVOS SENSORES DE LA SALIDA DE LOS PRODUCTOS DE LA COMBUSTIÓN INSTALADOS EN ARTEFACTOS PARA USO DOMÉSTICO
+
+
+1. OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR (RTM) define los requisitos mínimos, a los fines de su seguridad en el empleo, y los correspondientes métodos de ensayo para verificación del funcionamiento, tanto de los artefactos equipados con dispositivo supervisor de salida de los productos de la combustión, como el funcionamiento de esos dispositivos instalados en cada tipo de artefacto.
+
+2.	ÁMBITO DE APLICACIÓN
+
+El presente RTM se aplica a artefactos de cámara abierta (calefactores de ambiente y calentadores de agua, con salida al exterior de los productos de la combustión), que utilizan gas natural y gases licuados de petróleo y se debe aplicar en forma conjunta con las normas particulares del artefacto respectivo.
+
+3.	REQUISITOS
+
+3.1	Se consideran los dispositivos formando parte integral del artefacto, por lo cual su evaluación debe ser realizada en conjunto con el mismo.
+
+3.2	Los dispositivos de seguridad deben cumplir los requerimientos constructivos fijados por el Reglamento Técnico del artefacto para sus componentes, además de los indicados en este RTM.
+
+3.3	Los artefactos, incluido el dispositivo de seguridad objeto de este RTM, deben ser construidos de forma tal que, en condiciones de tiraje anormal, no haya descarga en cantidades peligrosas de los productos de combustión al ambiente en el cual están instalados.
+
+3.4	Para ello se incorpora este dispositivo de seguridad que, ante anormalidades en el tiraje, produzca el corte del pasaje de gas al quemador principal. En todos los casos la reposición del suministro de gas debe ser manual a fin de que el usuario esté alertado del inconveniente.
+
+3.5	Los fabricantes deben arbitrar los medios a fin de que los componentes sujetos a ajuste no puedan ser modificados fácilmente, pudiendo completar tal recaudo con el agregado de un precinto o sello.
+
+3.6	El dispositivo de seguridad de tiraje debe ser diseñado, fabricado e instalado de forma tal que:
+* no pueda ser desmontado sin una herramienta;
+* la interrupción de la conexión entre el sensor y el dispositivo de corte que responde a su señal, o la destrucción del sensor, produzca un corte del suministro de gas, al quemador principal, en el tiempo máximo especificado por el fabricante del artefacto;
+* impida o dificulte cualquier reinstalación incorrecta luego de una reparación o desmontaje;
+* soporte las exigencias térmicas resultantes del derrame de los productos de combustión.
+
+4.	ENSAYOS
+
+4.1	Funcionamiento normal
+
+4.1.1	Condiciones de ensayo
+
+El artefacto debe instalarse, según las instrucciones del fabricante, en un ambiente sin corriente de aire que afecte al artefacto, donde se mantenga una temperatura de 20°C ± 5°C, y conectarse a una chimenea del largo y diámetro especificados por el RTM del artefacto para los ensayos de tiraje.
+
+4.1.2	Método de ensayo
+
+El artefacto debe funcionar a consumo calorífico nominal (Qn), de acuerdo con el RTM específico de cada artefacto.
+
+Luego se interrumpe la combustión del quemador principal (en los calentadores de agua, cerrando el suministro de agua, y en artefactos de calefacción de ambiente, colocándolos en posición piloto).
+
+4.1.3	Evaluación
+El dispositivo no debe actuar en ninguno de los dos casos, ni aun ante una eventual elevación de temperatura que pudiera producirse después de interrumpido el flujo de gas.
+
+4.2	Funcionamiento con obstrucción completa a consumo calorífico nominal (Qn)
+
+4.2.1	Condiciones de ensayo
+
+El artefacto debe instalarse según lo especificado en el apartado 4.1.1 y debe operarse al consumo calorífico nominal (Qn) hasta que se alcancen las condiciones de equilibrio de temperatura y composición de los productos de la combustión (O2, CO2 e CO).
+
+
+4.2.2	Método de ensayo
+
+Sin interrumpir la combustión, el extremo abierto de la chimenea se obstruye completamente con una lámina de metal y se empieza a cronometrar a partir de ese momento.
+
+4.2.3	Evaluación
+
+El apagado de seguridad del aparato debe producirse dentro de los 180 s.
+
+4.3	Funcionamiento con obstrucción completa a consumo mínimo (Qmin)
+
+4.3.1	Condiciones de ensayo
+
+El artefacto debe instalarse según lo especificado en el apartado 4.1.1.
+
+Si el consumo mínimo (Qmin) del artefacto es mayor que el 52% de su consumo calorífico nominal (Qn), el ensayo se debe realizar al valor de Qmin.
+
+Si el (Qmin) del artefacto es menor que el 52% de su Qn, el ensayo se debe realizar con el artefacto ajustado al 52% ± 2% de Qn.
+
+Lo anterior es de aplicación independientemente de que el control del consumo calorífico sea automático o manual.
+
+    4.3.2	Método de ensayo
+    Se aplica el mismo procedimiento de bloqueo que en el apartado 4.2.2.
+
+4.3.3	Evaluación
+
+En el caso en que corresponda ensayar el artefacto al valor de (Qmin), el tiempo de apagado de seguridad, en segundos, debe ser menor de 180x (Qn / Qmin).
+
+En el caso en que corresponda ensayar el artefacto al 52% ± 2% de Qn, el tiempo máximo de apagado de seguridad debe ser de 360 s.
+
+
+4.4	Funcionamiento con obstrucción parcial
+
+4.4.1	Condiciones de ensayo
+
+El artefacto debe instalarse según lo especificado en el apartado 4.1.1.
+
+Se utiliza como chimenea un tubo para ensayo de longitud variable (tubo telescópico o similar), originalmente ajustado al largo que específica para los ensayos de tiraje o combustión el reglamento correspondiente.
+
+4.4.2	Método de ensayo
+
+El primer paso es determinar la longitud mínima o longitud crítica del tubo de la chimenea para que se produzca tiraje.
+
+Para hacer esto se necesita el tubo telescópico de longitud variable mencionado y una superficie fría y clara (lámina de acero inoxidable o similar) o un instrumento de medición de CO2 de rápida respuesta que permita detectar niveles del orden de 0,10%.
+
+El artefacto se lleva a las condiciones de equilibrio normales operándose a consumo calorífico nominal (Qn).
+
+Se disminuye lentamente la longitud del tubo de la chimenea y la superficie clara es expuesta delante de la salida del deflector de contracorriente en busca de los síntomas de desborde de humos y de la condensación o con el instrumento se recorre la zona donde debería producirse el desborde.
+
+Si el dispositivo opera antes que se haya producido la condensación o el instrumento detecte la presencia de CO2, se considera que el artefacto ha cumplido satisfactoriamente el ensayo.
+
+Si no ocurre lo antedicho, cuando los síntomas se observan, se mide la longitud alcanzada por el tubo de prueba. Esta es la longitud crítica del tubo que, dadas las diferentes condiciones que pueden presentarse, debe fijarse en cada oportunidad para luego proceder a realizar el resto del ensayo.
+
+Si no se obtiene derrame con ninguna longitud del tubo telescópico, debe obstruirse su extremo (o el del interceptor de contracorriente) con una placa que posea un orificio de diámetro tal que provoque condiciones de derrame; éste debe ser el diámetro crítico, D'.
+
+El extremo abierto del tubo se obstruye con una lámina de metal en el medio de la cual existe un agujero de diámetro igual a 0,6 del diámetro interior del tubo telescópico, o a 0,6 de D' en caso que se haya recurrido a la placa citada en el párrafo anterior.
+
+En el momento de la obstrucción, se empieza a cronometrar, para medir el tiempo de apagado.
+
+4.4.3	Evaluación
+
+Se requiere que el tiempo de apagado de seguridad no supere los 720 s.
+
+
+5.	TEXTOS DE ADVERTENCIA
+
+En el embalaje de cada artefacto y en el artefacto mismo deben incluirse los siguientes textos de advertencia en una tipografía de tamaño mínimo de 3 mm y con un contraste cromático que los haga fácilmente legibles:
+
+	"Este artefacto cuenta con un dispositivo de seguridad especial para prevenir accidentes por monóxido de carbono (CO). No obstante, ello no habilita la instalación del artefacto en baños ni dormitorios, ni evita las exigencias reglamentarias de ventilación del ambiente".
+
+	"Cualquier manipulación de los dispositivos de seguridad, más allá de la limpieza de su filtro, entraña un grave riesgo para la salud, cuyas consecuencias serán responsabilidad de quien la efectuara".
+7

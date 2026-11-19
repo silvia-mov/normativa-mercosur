@@ -1,0 +1,582 @@
+Resolución GMC N° 05/02
+Título: MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE RADIOFRECUENCIAS DE SISTEMAS DE PAGING BIDIRECCIONAL
+Fecha de aprobación: 18/04/2002
+Vigencia: Vigente (Vigente desde el 26/05/2006 - Art. 40 POP.)
+Idioma del texto: ES
+Archivo original: 19510_RES_005-2002_ES_FE_CooFrecuencias.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1018).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 05/02
+
+
+MANUAL DE PROCEDIMIENTOS DE COORDINACIÓN DE FRECUENCIAS DE SISTEMAS PAGING BIDIRECCIONAL
+
+  VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, y las Resoluciones N° 38/95 y 69/97 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Resolución GMC N° 38/95 aprobó las Pautas Negociadoras de los Subgrupos de Trabajo, Reuniones Especializadas y Grupos Ad-Hoc;
+
+Que la Resolución GMC N° 69/97 aprobó el uso de las bandas de frecuencias 901 - 902 MHz, 930 - 931 MHz y 940 - 941 MHz por parte de los Sistemas Paging Bidireccional en el ámbito del MERCOSUR;
+
+Que dentro de las Pautas Negociadoras del SGT N° 1, denominada Paging, se acordó elaborar un Manual de Procedimientos de Coordinación de Frecuencias de Sistemas Paging Bidireccional, con el objetivo de armonizar procedimientos técnicos y administrativos para la instalación y funcionamiento de los referidos sistemas.
+
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Manual de Procedimientos de Coordinación de Frecuencias de Sistemas Paging Bidireccional", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Facultar al SGT N° 1 a mantener actualizado el presente Manual acorde a los avances que surjan en materia tecnológica u otros aspectos.
+
+Art. 3 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos nacionales antes del 1/X/2002.
+
+
+XLV GMC - Buenos Aires, 18/IV/02
+
+ANEXO
+
+MANUAL DE PROCEDIMENTOS DE COORDINACIÓN DE FRECUENCIAS DE SISTEMAS PAGING BIDIRECCIONAL
+
+ÍNDICE
+1.- 	PREÁMBULO
+2.-		PRINCIPIOS GENERALES BÁSICOS
+3.-		DEFINICIONES
+4.- 	PROCEDIMIENTO DE COORDINACIÓN
+4.1 	OBLIGACIÓN DE LA COORDINACIÓN
+4.2 	INFORMACIÓN PARA LA COORDINACIÓN
+4.3 	CONFIRMACIÓN DE RECEPCIÓN DE LA INFORMACIÓN PARA LA COORDINACIÓN
+4.4 ANÁLISIS DE LA INFORMACIÓN PARA LA COORDINACIÓN Y PLAZOS
+4.5 SOLUCIÓN DE CONTROVERSIAS
+4.6 DISPOSICIONES FINALES
+4.7 DISPOSICIONES TRANSITORIAS
+5.-  	ASPECTOS TÉCNICOS Y OPERACIONALES
+5.1  BANDAS DE FRECUENCIAS Y CANALIZACIÓN
+5.2	NORMAS OPERACIONALES Y TÉCNICAS
+5.3	MÉTODO DE CÁLCULO
+5.4  FORMULARIO DE COORDINACIÓN
+1
+PREÁMBULO
+1.1. Este Manual establece los procedimientos que deben aplicarse para la coordinación del uso de frecuencias, comprendidas en las bandas detalladas en el numeral 5.1 del presente Manual, por las Estaciones Base destinadas a Sistemas Paging Bidireccional que operen en zonas fronterizas de los países integrantes del MERCOSUR.
+1.2 Los procedimientos descriptos en el numeral 4, determinan en qué casos y cuándo una Administración debe iniciar el proceso de coordinación.
+1.3 En las bandas de frecuencias mencionadas en el numeral 5.1, las Administraciones se comprometen a no autorizar nuevas estaciones de otros servicios de radiocomunicaciones, dentro de la Zona de Coordinación o que estando fuera lleguen a dicha zona con niveles de señal superiores a los indicados en el numeral 5.2.5.
+1.4 La responsabilidad de la coordinación de frecuencias recae en las Administraciones Nacionales de cada Estado Parte.
+
+2. PRINCIPIOS GENERALES BÁSICOS
+2.1 A fin de garantizar la continuidad de la prestación del servicio por parte del Prestador a los Abonados radicados en su Área de Prestación de Servicio y que transitoriamente se encuentren al otro lado de la frontera y dentro de la Zona de Coordinación, el nivel máximo de señal admitido, se especifica en el numeral 5.2.5, el que deberá respetarse en el diseño de las características de transmisión de las Estaciones Base.
+2.2 Toda interferencia perjudicial debe ser evitada y en caso de existir, debe ser inmediatamente subsanada.
+2.3 Cuando sea necesario y para asegurar el cumplimiento de los procedimientos de coordinación y optimizar la adecuación de los criterios técnicos de referencia, las Administraciones evaluarán y realizarán, en conjunto, mediciones de campo con la participación, en la medida de lo posible, de los Prestadores involucrados.
+2.4 Las Partes acuerdan en respetar las coordinaciones de frecuencias concretadas. Los pedidos de modificaciones de las mismas o incorporaciones de nuevas frecuencias serán consideradas, siempre que haya consentimiento expreso de las Administraciones involucradas en la coordinación.
+2.5 Las Administraciones facilitarán las asignaciones destinadas a la interconexión de las Estaciones Base, lo que probablemente exigirá coordinación de las Administraciones.
+2.6 Las Administraciones y los Prestadores deben maximizar todos sus esfuerzos, facilitando el planeamiento y buscando una rápida solución de los casos de coordinación, compartiendo el espectro y la resolución de interferencias, buscando siempre el objetivo común de prestar el servicio a todos los usuarios, con la calidad adecuada.
+2.7	Las estaciones coordinadas o en proceso de coordinación, tendrán prioridad en su operación ante la solicitud de coordinación de nuevas frecuencias, en el caso de superposición total o parcial de Áreas de Cobertura.
+
+3. DEFINICIONES
+3.1. FRECUENCIAS COORDINADAS: Frecuencias asignadas a una Estación Base para su operación en la Zona de Coordinación y reconocidas por las Administraciones de los países limítrofes correspondientes.
+3.2. ASIGNACIÓN DE FRECUENCIA: Autorización que da una Administración para que una Estación Base utilice una frecuencia determinada, en condiciones especificadas.
+3.3. SISTEMA DE PAGING BIDIRECCIONAL: Servicio de telecomunicaciones utilizado para múltiples aplicaciones móviles bidireccionales, pudiendo transmitir datos, voz, o cualquier otra forma de telecomunicación, utilizando las bandas de frecuencias atribuidas a este servicio.
+
+3.4. ESTACIÓN BASE (EB): Estación Fija del Servicio Móvil Terrestre destinada a transmitir y/o recibir mensajes o advertir sobre la existencia de los mismos.
+3.5. ESTACIÓN MÓVIL (EM): Estación Móvil Terrestre caracterizada por la portabilidad y utilizada para recibir y transmitir mensajes desde o hacia la EB, que puede operar estando en movimiento o estacionada en un lugar no especificado.
+3.6. ADMINISTRACIÓN: Entidad Gubernamental de Telecomunicaciones de cada Estado Parte, competente para intervenir en el cumplimiento y ejecución del presente Manual.
+3.7. PRESTADOR: Titular de la autorización para instalar y poner en funcionamiento las estaciones del Servicio de Paging Bidireccional.
+3.8. ABONADO: Persona que ha celebrado un contrato de Servicio de Paging Bidireccional con el Prestador del mismo.
+3.9. ÁREA DE COBERTURA: Área geográfica definida, en que una EM puede ser atendida por una EB.
+3.10. ÁREA DE PRESTACIÓN DE SERVICIO: Área geográfica en la cual el Prestador está autorizado a brindar el servicio.
+3.11. POTENCIA RADIADA APARENTE: Potencia aplicada en las terminales de entrada de una antena multiplicada por su ganancia en relación con un dipolo de media onda en el espacio libre, en una dirección dada.
+3.12. ZONA DE COORDINACIÓN: Faja geográfica dentro de cada país con un ancho de 40 kilómetros. En caso de límite lacustre, fluvial o marítimo se considerará como límite de referencia el margen o costa del país que solicita la coordinación.
+4. PROCEDIMIENTO DE COORDINACIÓN
+4.1 SOLICITUD DE COORDINACIÓN
+4.1.1. Toda Administración antes de autorizar la operación o efectuar una modificación a una asignación de frecuencia, de una EB  situada en el interior de la Zona de Coordinación, o que estando fuera de la misma sus características técnicas provoquen un nivel de señal superior al establecido en el numeral 5.2.5, deberá coordinar la asignación proyectada con las Administraciones que pudieran resultar afectadas, salvo en los casos descritos en el numeral 4.1.2.
+4.1.2. No es necesaria la coordinación cuando una Administración se propone autorizar:
+
+4.1.2.1	la operación de una EB, que se encuentra situada fuera de la Zona de Coordinación y que sus características no provoquen en la mencionada zona, un nivel de señal superior al establecido en el numeral 5.2.5;
+4.1.2.2	modificaciones de las características o condiciones especificadas en una asignación existente o que ya fue coordinada, de modo que no aumente el nivel de señal producido anteriormente a las estaciones de Prestadores de otros Estados Partes. En este caso se deberán notificar estas modificaciones a las Administraciones afectadas.
+4.1.3. Cuando una Administración desee modificar las características técnicas de una asignación durante el proceso de coordinación, deberá reiniciar el mismo. Por lo tanto, los plazos establecidos en esta Sección serán contados a partir del nuevo envío de la información que incluya las modificaciones propuestas.
+4.2. INFORMACIÓN PARA LA COORDINACIÓN
+4.2.1. Para iniciar los procedimientos de coordinación, la Administración solicitante enviará a la Administración afectada, el pedido de coordinación junto con la información contenida en el formulario del numeral 5.4.
+4.3. CONFIRMACIÓN DE LA RECEPCIÓN DE LA INFORMACIÓN PARA LA COORDINACIÓN
+4.3.1. Las Administraciones que reciban un pedido de coordinación deberán, de inmediato, acusar su recepción a la Administración solicitante y tendrán un plazo máximo de 20 (VEINTE) días, a contar de la fecha de recibo, para verificar si la información está completa o devolver el pedido en el caso que la información esté incompleta.
+4.3.2. No habiendo manifestación de la Administración receptora, en cuanto a las informaciones, en el plazo máximo establecido en el numeral 4.3.1, el pedido de coordinación deberá ser reiterado, debiendo esa reiteración ser respondida en el plazo máximo de 10 (DIEZ) días.
+4.3.3. La aceptación de la coordinación, su rechazo, o cualquier modificación que se proponga deberá ser realizada por la Administración notificada en un plazo de 30 (TREINTA) días contados a partir de la fecha de confirmación de recepción del pedido.
+4.4. ANÁLISIS DE LA INFORMACIÓN PARA LA COORDINACIÓN Y   PLAZOS
+4.4.1. Al recibir los detalles referentes a la coordinación, la Administración receptora con la que se trata de efectuar la coordinación los examinará en el menor tiempo posible, a fin de determinar la interferencia que se produciría sobre las estaciones que cuentan con asignaciones de frecuencias ya coordinadas o en proceso de coordinación.
+4.4.2. Los criterios y el método de cálculo que se deben emplear para evaluar la interferencia están tratados en los numerales 5.2 y 5.3. No obstante, durante el proceso de coordinación, las Administraciones y los Prestadores involucrados podrán adoptar otros criterios y métodos más precisos para superar los problemas de interferencia que surgieran.
+4.4.3. Las Administraciones involucradas, podrán solicitar la información adicional que juzguen necesaria para evaluar la interferencia causada a las asignaciones de frecuencias de las EB en cuestión. Asimismo se realizarán todos los esfuerzos posibles para superar las dificultades, de forma aceptable para las partes interesadas.
+4.4.4. Para efectuar la coordinación, se podrá utilizar para la correspondencia, todo medio apropiado de telecomunicaciones o reuniones bilaterales o multilaterales, en caso que sea necesario.
+4.4.5. De existir oposición técnicamente fundamentada en el plazo de 30 (TREINTA) días establecido en el numeral 4.3.3, no podrán ser autorizadas las instalaciones en las condiciones requeridas en la coordinación, hasta tanto se llegue a un acuerdo entre las Administraciones involucradas.
+4.4.6. En el caso de no existir oposición o haber transcurrido los plazos mencionados en los numerales 4.3.2 y 4.3.3, la Administración solicitante quedará habilitada para realizar la asignación o autorizar la modificación.
+4.4.7. Los plazos establecidos en días son considerados días corridos.
+4.4.8. Para toda asignación de frecuencias de una EB que estuviera coordinada, pero que no fue puesta en operación en un plazo máximo de 1 (UN) año contado a partir de la fecha de conclusión de la coordinación, el proceso de coordinación deberá ser reiniciado como si se tratase de una nueva asignación. Este período podrá ser prorrogado por acuerdo entre las Administraciones interesadas.
+
+
+4.5. SOLUCIÓN DE CONTROVERSIAS
+
+
+Si surgiera una controversia entre algunas de las Partes, las mismas deberán buscar una solución mediante los procedimientos de la negociación directa.  Si mediante tales procedimientos no se llegara a un acuerdo o si la controversia fuera solucionada solo parcialmente, se aplicará el procedimiento de Solución de Controversias del Tratado de Asunción, vigente entre los Estados Partes.
+4.6. DISPOSICIONES FINALES
+
+
+4.6.1. En caso de ocurrir posibles interferencias perjudiciales no contempladas en el presente Manual, las Administraciones y los Prestadores involucrados harán todos los esfuerzos necesarios para superarlas en forma aceptable para todas las Partes interesadas.
+
+
+4.6.2. Este Manual deberá ser constantemente actualizado con las nuevas alternativas de Sistemas de Paging Bidireccional y los nuevos estándares tecnológicos que surjan.
+4.7.	DISPOSICIONES TRANSITORIAS
+4.7.1.	A las EB en servicio, con asignaciones de frecuencias en las bandas mencionadas en el numeral 5.1 con fechas anteriores a la aprobación del presente Manual, que se encuentren en el interior de la Zona de Coordinación o que estando fuera de la misma sus características técnicas provoquen en el interior de la Zona de Coordinación un nivel de señal superior al establecido en el numeral 5.2, deben aplicarse los siguientes procedimientos:
+4.7.1.1.	Para coordinaciones de frecuencias ya efectuadas, con acuerdos ratificados por las respectivas Administraciones, prevalecen los acuerdos anteriormente mencionados.
+4. 7.1.2	Para coordinaciones de frecuencias en proceso, en caso necesario, deberán adecuarse a los procedimientos y reglas del presente Manual.
+4.7.2	En el caso de interferencias perjudiciales que surjan de situaciones no contempladas en el presente Manual, las Administraciones y los Prestadores involucrados harán todos los esfuerzos posibles para superar las mismas de forma aceptable para las partes interesadas.
+4.7.3	Las Administraciones deben presentar dentro de un plazo de  60 (SESENTA) días después de aprobado este Manual, informe de los Prestadores de Servicio de Paging Bidireccional que operen en la Zona de Coordinación, tomando como referencia el numeral 5.4 de este Manual.
+5.	ASPECTOS TÉCNICOS Y OPERACIONALES
+5.1	BANDAS DE FRECUENCIAS Y CANALIZACIÓN
+5.1.1	BANDAS DE FRECUENCIAS
+
+     Transmisión de la EB*:
+                     930 - 931 MHz
+                     940 - 941 MHz
+     Transmisión de la EM:
+                     901 - 902 MHz
+
+* en Brasil los canales comprendidos en las bandas 930 a 931 MHz y 940 a 941 MHz pueden ser utilizados también para EM.
+5.1.2	CANALIZACIÓN.
+
+Canal
+Frecuencia EB (MHz)
+(1) (2)
+Frecuencia EM  (MHz)
+Canales Adoptados por ARG
+Canales Adoptados por B
+Canales Adoptados por PRG
+Canales Adoptados por URG
+1
+930,22500
+901,72500
+X
+
+
+2
+930,27500
+901,77500
+X
+
+
+3
+930,32500
+901,82500
+X
+
+
+4
+930,37500
+901,87500
+X
+
+
+5
+930,42500
+901,75625
+
+X
+X
+X
+6
+930,42500
+901,92500
+X
+
+
+7
+930,47500
+901,76875
+
+X
+X
+X
+8
+930,47500
+901,97500
+X
+
+
+9
+930,52500
+901,78125
+
+X
+X
+X
+10
+930,57500
+901,79375
+
+X
+X
+X
+11
+930,62500
+901,80625
+
+X
+X
+X
+12
+930,67500
+901,81875
+
+X
+X
+X
+13
+930,72500
+901,83125
+
+X
+X
+X
+14
+930,77500
+901,84375
+
+X
+X
+X
+15
+930,82500
+901,85625
+
+X
+X
+X
+16
+930,87500
+901,86875
+
+X
+X
+X
+17
+930,92500
+901,88125
+
+X
+X
+X
+18
+930,97500
+901,89375
+
+X
+X
+X
+19
+940,02500
+901,02500
+C
+C
+C
+C
+20
+940,07500
+901,07500
+C
+C
+C
+C
+21
+940,12500
+901,12500
+C
+C
+C
+C
+22
+940,17500
+901,17500
+C
+C
+C
+C
+23
+940,22500
+901,22500
+C
+C
+C
+C
+24
+940,27500
+901,27500
+C
+C
+C
+C
+25
+940,32500
+901,32500
+C
+C
+C
+C
+26
+940,37500
+901,37500
+C
+C
+C
+C
+27
+940,42500
+901,42500
+C
+C
+C
+C
+28
+940,47500
+901,47500
+X
+
+X
+X
+29
+940,52500
+901,52500
+X
+
+X
+X
+30
+940,57500
+901,57500
+X
+
+X
+X
+31
+940,62500
+901,62500
+X
+
+X
+X
+32
+940,67500
+901,67500
+X
+
+X
+X
+33
+940,72500
+901,72500
+
+
+X
+34
+940,77500
+
+
+X
+
+X
+35
+940,82500
+
+
+X
+
+X
+36
+940,87500
+
+
+X
+
+X
+37
+940,92500
+
+
+X
+
+X
+38
+940,97500
+
+
+X
+
+X
+
+
+NOTAS:
+X = CANALES ADOPTADOS POR LOS ESTADOS PARTES DEL MERCOSUR.
+C = CANALES COMUNES A LOS ESTADOS PARTES DEL MERCOSUR.
+(1) En Brasil los canales comprendidos en las bandas 930 a 931 MHz y 940 a 941 MHz    pueden ser utilizados también para EM.
+(2) Los canales 34 al 38 son utilizados para Sistemas de Paging Unidireccional.
+5.2	NORMAS OPERACIONALES Y TÉCNICAS
+5.2.1 MODO DE EXPLOTACIÓN: El modo de explotación de los canales radioeléctricos será semidúplex.
+
+5.2.2	FORMA DE TELECOMUNICACIONES A TRANSMITIR: Datos y voz.
+5.2.3	CODIFICACIÓN: Las EB y las EM trabajarán empleando técnicas de llamada selectiva. La capacidad de direccionamiento del sistema de codificación empleado permitirá asignarle a cada Abonado una o más direcciones.
+5.2.4	POTENCIA RADIADA APARENTE: Las EB que estuvieran ubicadas a menos de 80 (OCHENTA) km de la frontera deben tener su Potencia Radiada Aparente limitada según la siguiente ecuación:
+P = 0,0175 . d6,6666 . H-3,1997
+donde:
+P: Potencia Radiada Aparente de la EB en watts.
+d: distancia en km, y
+H: altura de la antena en relación con el nivel medio del terreno en metros.
+La altura efectiva de la antena H se calcula de la siguiente manera:
+H = HA+CT-HMT
+Donde:
+HA es la altura, en metros, de la antena respecto de la cota del terreno.
+CT es la cota del terreno, en metros, del lugar de emplazamiento del sistema irradiante del trasmisor.
+HMT es la altura media del terreno en metros (en portugués NMT).
+5.2.5 ÁREA DE SERVICIO PROTEGIDA: Las EB de los Sistemas de Paging Bidireccional deberán ser proyectadas de tal forma que el nivel de señal producido en el borde de un círculo de 20 kilómetros de radio con centro en la EB no exceda una intensidad de campo eléctrico de 40 dBu (100 V/m).
+5.2.6	CÁLCULO DEL NIVEL DE SEÑAL: La predicción de la intensidad de campo eléctrico, para fines de coordinación de frecuencias, debe ser realizada conforme a los procedimientos establecidos en el  numeral 5.3.
+5.2.7	CÁLCULO DEL ÁREA DE COBERTURA: Para los fines del cálculo del radio del Área de Cobertura de las EB, podrá ser utilizada la siguiente fórmula:
+Dkm= 2,53 . H0,34. P0,17
+donde:
+Dkm: radio del área de cobertura, en km;
+H: altura de la antena con relación al nivel medio del terreno en metros; y
+P: Potencia Radiada Aparente de la EB, en watts.
+5.2.8	RELACIÓN DE PROTECCIÓN: La relación entre la señal deseada y la no deseada será de 16 dB.
+5.2.9	Los valores especificados en este Anexo, son provisorios y deberán ser utilizados hasta que el Grupo de Especialistas de Radiopropagación los confirme.
+5.3	MÉTODO DE CÁLCULO
+El método de cálculo será el que determine el Grupo de Especialistas de Radiopropagación. Mientras el mismo no esté disponible, las Administraciones utilizarán sus propios métodos. Si no existiese acuerdo  sobre la base de los cálculos teóricos presentados, se adoptará como referencia la Recomendación UIT-R Nº 370 "VHF and UHF propagation curves for the frecuency range from 30 MHz to 1.000 MHz broadcasting services"  y UIT-R Nº 529 "Prediction methods for the terrestrial land mobiles service in the VHF and UHF bands" o el "Método de Yoshihira Okumura y otros".
+5.4	FORMULARIO DE COORDINACIÓN
+
+Nº
+DATOS
+SÍMBOLO
+INFORMACIÓN
+1
+PAÍS
+ADM
+
+2
+SITUACIÓN
+A
+
+3
+FRECUENCIA
+FRE
+
+4
+LOCALIDAD
+LOC
+
+5
+NOMBRE Y SEÑAL DISTINTIVA DE LA ESTACIÓN
+SD
+
+6
+LONGITUD
+LON
+
+7
+LATITUD
+LAT
+
+8
+POTENCIA RADIADA APARENTE
+PRA
+
+9
+GANANCIA DE LA ANTENA
+GA
+
+10
+ACIMUT DE MÁXIMA RADIACIÓN
+AZ
+
+11
+APERTURA HORIZONTAL
+AH
+
+12
+COTA SOBRE EL NIVEL DEL MAR
+CT
+
+13
+ALTURA DE LA ANTENA
+HA
+
+14
+ALTURA MEDIA DEL TERRENO
+HMT/NMT
+
+15
+FECHA
+FE
+
+
+5.4.1	INSTRUCCIONES PARA COMPLETAR EL FORMULARIO DE COORDINACIÓN
+
+1
+PAÍS (ADM)
+Símbolo indicativo del país solicitante de coordinación:
+
+Argentina: ARG
+Brasil:	B
+Paraguay:	PRG
+Uruguay:	URG
+
+2
+SITUACIÓN (A)
+Se indicará ADD, MOD o SUP si se refiere a una nueva asignación, una modificación o una supresión total de una asignación, respectivamente.
+
+3
+FRECUENCIA (FRE)
+Se indicará el canal que corresponda a las frecuencias, según la tabla obrante en el numeral  5.1.2.
+
+4
+LOCALIDAD (LOC)
+Se indicará el nombre de la localidad en que se encuentra la estación correspondiente, o el nombre de la localidad más próxima a dicho lugar.
+
+5
+NOMBRE Y SEÑAL DISTINTIVA  DE LA ESTACIÓN (SD)
+
+Se indicará el nombre y señal distintiva de la estación.
+
+6
+LONGITUD (LON)
+Este dato se expresará en grados, minutos y segundos sexagesimales.
+
+7
+LATITUD (LAT)
+Este dato se expresará en grados, minutos y segundos sexagesimales.
+
+8
+POTENCIA RADIADA APARENTE (PRA)
+Se indicará el producto de la potencia suministrada a la antena por su ganancia con relación al dipolo de media onda en el espacio libre, expresado en dBW (Potencia Radiada Aparente en español o Effective Radiated Power en inglés).
+
+9
+GANANCIA DE LA ANTENA (GA)
+Se indicará la ganancia de antena en la dirección de máxima radiación, expresado en dBd. Además se acompañará a este formulario el diagrama de radiación correspondiente, si se tratara de una antena direccional.
+
+10
+AZIMUT DE MÁXIMA RADIACION (AZ)
+Es el ángulo formado entre la dirección del norte geográfico y la dirección de máxima radiación de antena, en el sentido de las agujas del reloj. Se indicará en grados. Si la antena de la estación tiene características de radiación omnidireccional, se indicará el valor de 360º.
+11
+APERTURA HORIZONTAL (AH)
+Se indicará el ángulo de media potencia del diagrama de radiación horizontal.
+
+12
+COTA SOBRE EL NIVEL DEL MAR (CT)
+Se expresará la altura del terreno en relación al nivel del mar en metros.
+
+13
+ALTURA DE LA ANTENA (HA)
+Se expresará en metros.
+
+14
+ALTURA MEDIA DEL TERRENO
+Se indicará la altura media del terreno (en portugués corresponde Nivel Medio del Terreno: NMT = HMT)
+
+15
+FECHA (FE)
+Se indicará la fecha de envío en el formato dd.mm.aaaa.
+
+
+1

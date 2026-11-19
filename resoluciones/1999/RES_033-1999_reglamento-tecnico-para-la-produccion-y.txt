@@ -1,0 +1,1871 @@
+Resolución GMC N° 33/99
+Título: Reglamento Técnico para la Producción y Control de Calidad de Hemoderivados de Origen Plasmático
+Fecha de aprobación: 10/06/1999
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 17792_RES_033-1999_ES_RTM_Produc-Ctrol-Calidad_Hemoder-Origen Plasmático_Acta 2_99.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1407).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 33/99
+
+
+REGLAMENTO TECNICO MERCOSUR PARA PRODUCCIÓN Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMÁTICA
+
+
+     VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 91/93, 96/94, 152/96 y 38/98 del Grupo Mercado Común, la Recomendación N° 5/98 del SGT N° 11 "Salud".
+
+CONSIDERANDO :
+
+El desarrollo científico y tecnológico que se ha producido a nivel mundial en el área de la producción y control de productos biológicos.
+
+Que los Estados Partes han manifestado la necesidad de actualizar la reglamentación sobre producción y control de calidad de Hemoderivados.
+
+Que los Estados Partes aprobaron el contenido de la actualización del "Reglamento Técnico para la Producción y Control de Calidad de Hemoderivados de Origen Plasmática".
+
+EL GRUPO MERCADO COMÚN
+RESUELVE :
+
+
+Art. 1 - Aprobar la actualización del "Reglamento Técnico MERCOSUR para Producción y Control de Calidad de Hemoderivados de Origen Plasmática", en sus versiones en español y portugués, que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Derógase la Resolución 96/94.
+
+Art. 3 - Los Estados Partes colocarán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguientes organismos:
+
+Argentina:	Administración Nacional de Medicamentos Alimentos y Tecnología Médica. Ministerio de Salud y Acción Social
+
+Brasil:		Secretaria de Vigilância Sanitária. Ministério da Saúde
+
+Paraguay:	Ministerio de Salud Pública y Bienestar Social
+
+
+Uruguay:	Ministerio de Salud Pública.
+
+Art. 4 - El presente Reglamento se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las exportaciones extrazona
+
+Art. 5 - Los Estados Partes del MERCOSUR deberán incorporar la presente Resolución a sus ordenamientos jurídicos internos antes del día 10 de setiembre de 1999.
+
+
+XXXIV GMC-Asunción,10/VI/99
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCIÓN Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMÁTICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+
+A.1 DEFINICIONES
+
+A.1.1. DENOMINACIONES
+
+    A.1.1.1. Albúmina Humana
+
+    A.1.1.2. Inmunoglobulina Humana Normal
+
+    A.1.1.3. Inmunoglobulina Humana Específica
+
+    A.1.1.4. Concentrado de Factor VIII
+
+    A.1.1.5. Concentrado de Factor IX
+
+    A.1.1.6. Complejo Protrombínico
+
+A.1.2. DEFINICIÓN DESCRIPTIVA
+
+Los hemoderivados son productos farmacéuticos (Resolución GMC 55/96 Anexo 1 ó Resolución vigente) obtenidos a partir de plasma humano, sometidos a procesos de industrialización y normatización que le confieren cualidades de estabilidad, actividad y especificidad.
+
+A.2. TERMINOLOGÍA
+
+A.2.1. UNIDAD
+
+Volumen de sangre total o de uno de sus componentes, obtenido por extracción única de un solo donante, en un sistema cerrado, apirógeno y estéril, en un único recipiente, conteniendo solución anticoagulante y preservativa.
+
+A.2.2. UNIDAD DE SANGRE TOTAL
+
+Sangre recolectada del sistema venoso de un solo donante, en una única donación, en un sistema cerrado, apirógeno y estéril, en un único recipiente, conteniendo solución anticoagulante y preservativa, que no fue sometida a ningún proceso de separación física de sus componentes.
+
+A.2.3. HEMOCOMPONENTE (COMPONENTE)
+
+Parte de una unidad de sangre total separada de la misma por procesos físicos.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+A.2.4. PROCESAMIENTO DE SANGRE
+
+Conjunto de procedimientos físicos utilizados para la obtención de hemocomponentes a partir de unidades de sangre total o de otro hemocomponente.
+
+A.2.5. PLASMA
+
+Porción líquida remanente después de la separación física de los elementos celulares de la sangre total, a través de procesos de sedimentación, centrifugación u obtenida por plasmaféresis.
+
+A.2.6. PLASMA FRESCO
+
+Plasma obtenido de una unidad de sangre total, en un sistema cerrado, utilizado o procesado dentro de un plazo máximo de 8 horas después de extraída la sangre.
+
+A.2.7. PLASMA FRESCO CONGELADO (PFC)
+
+Plasma fresco, cuyo proceso de congelamiento se ha completado en un plazo máximo de 8 horas después de extraída la sangre, debiendo ser almacenado a temperatura no superior a los 20° C bajo cero.
+
+A.2.8. PLASMA CONGELADO
+
+Plasma obtenido de una unidad de sangre total, separado en un sistema cerrado, cuyo proceso de congelamiento se ha completado en más de 8 horas después de la extracción debiendo ser almacenado a temperatura no superior a 20° C bajo cero.
+
+A.2.9. PLASMA REMANENTE
+
+Plasma obtenido a partir de plasma fresco, plasma fresco congelado, o plasma congelado después de retirado el o los componentes, debiendo ser nuevamente congelado y almacenado a temperatura no superior a 20° C bajo cero.
+
+A.2.10. PLASMA RECUPERADO
+
+Plasma que no reúne los requisitos de plasma fresco, plasma fresco congelado, plasma congelado o plasma remanente y que se destina exclusivamente a la producción de hemoderivados, debiendo ser almacenado a temperatura no superior a 20° C bajo cero.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+_______________________________________________________
+A.2.11. PLASMAFÉRESIS
+
+Procedimiento de obtención de plasma a partir de la recolección de sangre total, donde los elementos celulares son recuperados y devueltos al donante durante la donación.
+
+A.2.12. UNIDAD DE PLASMAFÉRESIS
+
+Volumen de plasma obtenido en un proceso único de plasmaféresis, de un solo donante, en un sistema cerrado, apirógeno, estéril y en recipiente único.
+
+A.2.13.PLASMA HUMANO PARA FRACCIONAMIENTO
+
+Plasma usado exclusivamente en la producción de hemoderivados
+
+A.2.14. CRIOPRECIPITADO
+
+Preparado bruto conteniendo Factor VIII, obtenido de unidades de plasma provenientes de unidades de sangre total y/o unidades de plasmaféresis, a través de un procedimiento que incluye congelamiento, descongelamiento y centrifugación en frío.
+
+A.2.15. MATERIA PRIMA
+
+Toda sustancia de calidad definida, utilizada en la producción de hemoderivados, excluyéndose los materiales de envasado.
+
+A.2.16. FRACCIONAMIENTO DE PLASMA
+
+Conjunto de procedimientos físicos y/o químicos utilizados para la obtención de productos hemoderivados, a partir de plasma.
+
+A.2.17. MEZCLA INICIAL (POOL DE PLASMA)
+
+Volumen resultante de la mezcla de un número variable de unidades de plasma o unidades de plasmaféresis, utilizado como materia prima en el proceso de obtención de hemoderivados.
+A.2.18. PRODUCTO CONCENTRADO A GRANEL (BULK CONCENTRADO)
+Material concentrado y purificado, obtenido por procesamiento de la mezcla inicial.
+
+REGLAMENTO ´TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+A.2.19. PRODUCTO A GRANEL (BULK FINAL)
+
+Solución estéril y apirógena, obtenida a partir del producto concentrado a granel, acondicionado en un único recipiente y debidamente identificado.
+
+A.2.20. PRODUCTO ENVASADO
+
+Producto estéril y apirógeno, envasado en un único ciclo de llenado aséptico, en envases definitivos y herméticamente sellados.
+
+A.2.21. INACTIVACION/ELIMINACIÓN VIRAL
+
+Proceso validado, autorizado por la Autoridad Sanitaria competente, al cual deben ser sometidos los hemoderivados y que tiene por objetivo inactivar/eliminar virus infecciosos conocidos.
+
+A.2.22. LOTE
+
+Conjunto de envases definitivos cerrados herméticamente que contienen un producto homogéneo en su composición y riesgo de contaminación durante los procesos de inactivación viral, llenado aséptico y de ser necesario liofilización.
+
+A.2.23. PRODUCTO TERMINADO
+
+Producto farmacéutico que ha pasado por todas las fases de producción y acondicionamiento. Después de ser liberado, el producto terminado constituye el medicamento listo para su uso. El producto terminado debe ser producido e identificado, de acuerdo con los criterios y límites establecidos por este Reglamento Técnico.
+
+A.2.24. CERTIFICACIÓN DE INSTITUCIONES HEMOTERAPÉUTICAS PROVEEDORAS DE MATERIA PRIMA (plasma y/o crioprecipitado)
+
+Actividad realizada por el productor de hemoderivados en la/s institución/es hemoterapéutica/s proveedora/s de materia prima y que tiene por objeto certificar que el proveedor cumple con las normas de selección de donantes, extracción, control serológico, procesamiento, conservación y transporte y que posee un sistema de identificación y registro que permite el rastreo de materia prima y de los procesos de obtención y control de la misma.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+
+A.2.25. VALIDACIÓN
+
+Acto documentado que demuestra que cualquier proceso o procedimiento relacionado con producción y control, permite alcanzar los resultados esperados.
+
+A.3. NORMAS GENERALES DE PRODUCCIÓN Y CONTROL
+
+A.3.1. Generalidades
+
+A.3.1.1. La materia prima para la obtención de hemoderivados de origen plasmático puede ser plasma fresco, plasma fresco congelado, plasma congelado, plasma recuperado, plasma remanente o crioprecipitado, debiendo cada unidad ser identificada de manera de permitir relacionarla correctamente con el donante y la respectiva donación.
+
+A.3.1.2. La materia prima para la producción de hemoderivados debe ser obtenida y abastecida por instituciones hemoterapéuticas debidamente autorizadas por la autoridad sanitaria competente.
+
+A.3.1.3. Las unidades de plasma utilizadas en la producción de hemoderivados deben ser provenientes de unidades de sangre total y/o plasmaféresis obtenidas de dadores sanos que hayan sido sometidos a exámenes médicos rigurosos y cuya historia clínica haya sido conscientemente estudiada.
+
+A.3.1.4. Cada unidad de plasma utilizada en la producción de hemoderivados debe ser sometida individualmente como mínimo a los controles serológicos obligatorios establecidos en la monografía "Plasma Humano para Fraccionamiento" de la Farmacopea Europea, última edición. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+A.3.1.5. La planta productora de hemoderivados, debe efectuar el control serológico de cada unidad de plasma, de plasmaféresis y crioprecipitado que es utilizada en la producción de hemoderivados, o certificar los procedimientos operativos de la o las instituciones hemoterapéuticas que suministran la materia prima. Esta certificación deberá efectuarse como mínimo una vez cada doce meses.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+A.3.1.6. Todas las materias primas utilizadas en los procesos de producción de hemoderivados deben ser sometidas a Control de Calidad y aprobadas de acuerdo a la Resolución GMC 4/92 o Resolución vigente. Los ensayos realizados deben cumplir con los requisitos establecidos en las monografías descriptas en la Farmacopea Europea o de los Estados Unidos (USP) última edición.
+
+A.3.1.7. El fabricante de hemoderivados es responsable de la calidad de todas las materias primas utilizadas para la obtención de sus productos.
+
+A.3.1.8. Los procedimientos físico - químicos de purificación de proteínas para la obtención de hemoderivados, deben concluir en preparaciones proteicas eficaces y seguras para el uso endovenoso o intramuscular.
+
+A.3.1.9. Todos los procedimientos utilizados para la producción y control de hemoderivados deben ser validados regularmente de acuerdo con las Buenas Prácticas de Fabricación de Productos Farmacéuticos (Resolución GMC 4/92 o Resolución vigente).
+
+A.3.1.10. La garantía de eficacia y seguridad del producto no puede ser asumida "a priori" cuando nuevos procesos de producción son introducidos, a menos que los mismos sean validados y que se demuestre que el producto obtenido por tales procesos está de acuerdo con los criterios y límites establecidos por este Reglamento Técnico.
+
+A.3.1.11. No deben utilizarse equipamiento, procedimientos ni materiales que puedan introducir componentes alergénicos en el producto final.
+
+A.3.1.12. Todos los frascos - ampollas y tapones utilizados como envase primario de hemoderivados deben cumplir con los requisitos para envasado de productos inyectables (Resolución GMC 4/92 o Resolución vigente relativa a Buenas Prácticas de Manufactura de Productos Farmacéuticos).
+
+A.3.1.13. Todos los materiales que hayan estado en contacto con hemocomponentes y/o hemoderivados deben ser descontaminados por métodos de comprobada acción bactericida, fungicida y viricida antes de ser reutilizados.
+
+A.3.1.14. Los residuos de la producción, sólidos y líquidos, deben ser tratados de acuerdo a los requisitos establecidos por la autoridad competente del país productor.
+
+HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+A.3.2. PROCEDIMIENTOS OPERATIVOS ESTÁNDAR (P.O.S.) DE PRODUCCIÓN Y CONTROL.
+
+Todas las actividades desarrolladas en una Planta productora de hemoderivados, deben cumplir rigurosamente los Procedimientos Operativos Standard de Producción y Control. Tales Procedimientos deben ser revisados y actualizados periódicamente y aprobados por la Dirección Técnica de la Planta productora.
+
+A.3.3. REGISTROS
+
+A.3.3.1. La Planta productora de hemoderivados debe mantener, para cada lote producido, registros:
+
+A.3.3.1.1. De la materia prima utilizada, incluyendo en la misma la lista de unidades de plasma y/o plasmaféresis, y los resultados de los controles serológicos realizados.
+
+A.3.3.1.2. De los procedimientos de producción y control.
+
+A.3.3.1.3. De los resultados obtenidos.
+
+A.3.3.1.4. De su distribución.
+
+A.3.3.2. Estos registros, deben estar disponibles en la unidad de Control de Calidad del fabricante por lo menos un (1) año después de expirado el plazo de validez de los respectivos lotes de hemoderivados.
+
+A.3.3.3. Deben también, ser mantenidos los registros de uso, calibración, limpieza y mantenimiento de todos los equipamientos utilizados en el proceso.
+
+A.3.4. CONSERVADORES Y ESTABILIZANTES.
+
+A.3.4.1. No deben ser agregados conservadores a los hemoderivados de uso endovenoso.
+
+A.3.4.2. Los antibióticos no deben ser utilizados como conservadores ni con ningún otro propósito, en el procesamiento del plasma o en el producto final.
+
+A.3.4.3. Los estabilizantes aprobados por este reglamento, pueden ser utilizados a fin de prevenir la desnaturalización proteica de los hemoderivados.
+
+
+HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+
+A.3.5. CONTAMINACIÓN POR MICROORGANISMOS.
+
+Todas las etapas del proceso de producción deben realizarse de modo que se evite la contaminación por cualquier microorganismo. Los controles de la contaminación durante el proceso de preparación deben conducir a detectar e identificar microorganismos eventualmente contaminantes.
+
+A.3.6. INSTALACIONES.
+
+A.3.6.1. Las instalaciones destinadas al fraccionamiento de plasma deben ser diseñadas y tener ubicación física tal que permitan la ejecución de las operaciones inherentes al trabajo llevado a cabo en el área. Los procedimientos de limpieza y mantenimiento, deben estar de acuerdo con las Buenas Prácticas de Fabricación (BPF) para productos farmacéuticos (Resolución GMC 4/92 o Resolución vigente).
+
+A.3.6.2. Las diferentes operaciones: almacenamiento de materia prima, fraccionamiento, inactivación viral, llenado aséptico, liofilización, control de calidad, embalaje, rotulado y almacenamiento del producto terminado, deben ser efectuadas en áreas separadas.
+
+A.3.6.3. El plasma debe ser almacenado a una temperatura no superior a los 20°C bajo cero, en instalaciones que solamente serán utilizadas para este fin.
+
+A.3.6.4. El fraccionamiento del plasma debe llevarse a cabo de forma tal de minimizar el riesgo de contaminación microbiológica y desnaturalización proteica; usando sistemas cerrados o protegidos.
+
+A.3.6.5.En caso de no contar con un sistema cerrado el área de fraccionamiento de plasma debe ser como mínimo clase 100.000.
+
+A.3.6.6. El área de fraccionamiento debe ser distinta de aquella donde se realice el procesamiento de proteínas de origen no humano, manipulación de material microbiológico o de animales.
+
+A.3.6.7. El envasado aséptico debe llevarse a cabo bajo flujo laminar, clase 100, localizado en área clase 10.000 como mínimo.
+
+A.3.6.8. El área o sector donde se lleva a cabo la mezcla inicial debe ser, como mínimo, clase 100.000.
+
+HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+
+A.3.7. EQUIPAMIENTOS.
+
+A.3.7.1. Los equipamientos utilizados en la recolección, procesamiento, almacenamiento y distribución de materias primas, producto intermedio o producto terminado, deben cumplir con las Buenas Prácticas de Fabricación (BPF) para productos farmacéuticos(Resolución GMC 4/92 o Resolución vigente).
+
+A.3.7.2. Los equipamientos utilizados en todas las operaciones de producción y control de hemoderivados deben ser sometidos a mantenimiento y calibración periódicamente, de acuerdo con los manuales de los fabricantes.
+
+A.3.7.3. Las superficies que entran en contacto con el plasma y sus fracciones o con solventes, no deben interactuar con los mismos. Las superficies metálicas deben ser resistentes a abrasivos y a la corrosión.
+
+A.3.7.4. Los equipamientos deben ser fáciles de lavar, de sanitizar y/o de esterilizar.
+
+A.3.7.5. Todos los agentes químicos utilizados como sanitizantes, deben ser completamente eliminados, antes que el equipamiento sea reutilizado.
+
+A.3.8. INSUMOS
+
+A.3.8.1. AGUA PARA INYECTABLES
+
+El agua utilizada en el proceso, tanto en la formulación del producto acabado a granel como en el lavado final del equipamiento y de todos los recipientes, debe ser de calidad para inyectables, de acuerdo con la Farmacopea de los Estados Unidos (USP) o Farmacopea Europea, última edición.
+
+A.3.8.2. VAPOR PURO
+
+El vapor para la limpieza y desinfección de los equipamientos y de los recipientes debe ser obtenido a partir de agua de calidad para inyectables.
+
+
+HEMODERIVADOS DE ORIGEN PLASMATICA
+
+A. ASPECTOS GENERALES DE PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS
+__________________________________________________________________
+A.3.9. PERSONAL
+
+A.3.9.1. La planta productora de hemoderivados debe tener un DIRECTOR TÉCNICO / RESPONSABLE FARMACÉUTICO / REGENTE, profesional farmacéutico, responsable ante la autoridad sanitaria, del cumplimiento de las Buenas Prácticas de Manufactura (BPM), Buenas Prácticas de Laboratorio (BPL), normas de bioseguridad y de la implementación de un programa de aseguramiento de la calidad.
+
+A.3.9.2. El personal involucrado en Control de Calidad, debe ser independiente de la producción y su jefe debe reportar directamente al Director Técnico.
+
+A.3.9.3. Las personas que trabajan en una planta de producción de hemoderivados, deben ser adecuadamente entrenadas en sus funciones, tanto en el aspecto técnico, en cuanto a las Buenas Prácticas de Fabricación (BPF), Buenas Prácticas de Laboratorio (BPL), Procedimientos de Bioseguridad y Aseguramiento de la Calidad.
+
+A.3.9.4. Las personas que manipulan sangre, sus componentes y derivados o trabajan en áreas donde estos materiales son procesados, deben utilizar equipamiento de protección individual.
+
+A.3.9.5. Todo personal, antes de su contratación debe ser sometido a exámenes clínicos y de laboratorio. Estos exámenes deben ser repetidos anualmente.
+
+A.3.9.6. El personal deberá informar sobre cualquier trastorno (por ejemplo, diarrea, tos, resfrío, piel o cabello infectados, heridas, fiebre de origen desconocido) que puedan provocar la diseminación de microorganismos en el ambiente de trabajo.
+
+A.3.9.7. Los portadores de enfermedades infecto-contagiosas, a criterio médico, deben ser temporaria o definitivamente apartados de las áreas de producción.
+
+A.3.9.8. Las personas que trabajan directamente con sangre, sus componentes y derivados, deben ser inmunizados contra Hepatitis B y otras enfermedades transmitidas por sangre.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+
+B.1. DENOMINACIÓN
+
+Albúmina Humana.
+
+B.2. DEFINICIÓN DESCRIPTIVA
+
+Albúmina Humana es una solución proteica, estéril y apirógena, obtenida por fraccionamiento de plasma y que corresponde, electroforéticamente a la fracción Albúmina del plasma humano.
+
+B.3. MATERIA PRIMA
+
+B.3.1. GENERALIDADES:
+
+B.3.1.1. La materia prima para la obtención de Albúmina Humana puede ser plasma fresco, plasma fresco congelado, plasma congelado, plasma recuperado, plasma remanente o unidad de plasmaféresis, debiendo cada unidad ser identificada de manera que permita relacionarla con el donante y la respectiva donación.
+
+B.3.1.2. La materia prima no debe ser manipulada más de lo estrictamente necesario. La exposición a temperaturas superiores a 20° C bajo cero y repetidos descongelamientos deben ser evitados, pues pueden desnaturalizar las proteínas y/o dar origen a sustancias vasoactivas.
+
+B.3.2. CONTROL DE LA MATERIA PRIMA
+
+B.3.2.1. El plasma humano para fraccionamiento utilizado como materia prima para la producción de Albúmina debe ser proveniente de unidades de sangre total y/o de unidades de plasmaféresis que hayan sido sometidas individualmente a los controles serológicos obligatorios establecidos en la monografía "Plasma Humano para fraccionamiento" de la Farmacopea Europea última edición. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+B.3.2.2. Cuando se trata de productos importados extra zona las unidades de plasma y de plasmaféresis usadas como materia prima para la producción de Albúmina, deben provenir de unidades de sangre total y/o unidades de plasmaféresis que hayan sido sometidas individualmente a los controles serológicos obligatorios en el país de origen, siendo obligatoria la realización de los ensayos para HIV 1 y 2,  Hepatitis B y Hepatitis C. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+
+B.3.2.3. La autoridad sanitaria competente del país importador debe analizar el perfil epidemiológico de las patologías transmisibles por sangre existentes en el país de origen de la materia prima, pudiendo exigir la realización de otros ensayos en cada unidad de plasma a procesar.
+
+B.3.2.4. La planta productora de Albúmina debe efectuar el control serológico de cada unidad de plasma y/o de plasmaféresis a ser utilizada en la producción de Albúmina o certificar los procedimientos operativos de la(s) institución(es) hemoterapéuticas que suministran la materia prima. Esta certificación deberá realizarse por lo menos una vez cada doce meses.
+
+B.3.2.5. El productor de albúmina es responsable de la calidad del plasma y de todas las materias primas usadas en la obtención de sus productos.
+
+B. 4. CONTROL DE LAS OPERACIONES DE FABRICACIÓN
+
+B.4.1. CONTROL DE LA MEZCLA INICIAL
+
+B.4.1.1. DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra de la mezcla inicial debe ser sometida a Determinación potenciométrica de pH, según metodología descripta en Farmacopea Europea, última edición.
+
+B.4.1.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra de la mezcla inicial debe ser sometida a la Determinación de la concentración proteica por el método de Kjeldhal ó Biuret o Bradford.
+
+B.4.1.3. PRUEBAS SEROLÓGICAS
+
+Durante la fabricación de hemoderivados, el primer pool homogéneo de plasma debe ser sometido a los ensayos de Antígeno de Superficie de Virus de Hepatitis B, Anticuerpos contra virus de Hepatitis C y Anticuerpos contra Virus de la Inmunodeficiencia Humana tipo 1 y 2 (anti HIV 1 y 2). Estas determinaciones deben llevarse a cabo utilizando métodos de sensibilidad y especificidad adecuadas y la mezcla inicial debe ser no reactiva para estos marcadores.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+B.4.2. CONTROL DEL PRODUCTO CONCENTRADO A GRANEL
+
+B.4.2.1. DETERMINACIÓN POTENCIOMÉTRICA DEL pH
+
+Una muestra del producto concentrado a granel debe ser sometida a Determinación potenciométrica del pH según metodología descripta en Farmacopea Europea, última edición.
+
+B.4.2.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra de producto concentrado a granel debe ser sometida a Determinación de concentración proteica por el método de Kjeldhal, Biuret o Bradford.
+
+B.4.2.3. DETERMINACIÓN DE LA PUREZA ELECTROFORÉTICA
+
+Una muestra de producto concentrado a granel debe ser sometida a análisis electroforético, según metodología descripta en Farmacopea Europea, última edición.
+
+B.4.2.4. DETERMINACIÓN DE SODIO Y POTASIO
+
+Una muestra de producto concentrado a granel debe ser sometida a Determinación de las concentraciones de sodio y de potasio, por fotometría de llama, fotometría de absorción atómica, espectrometría de emisión atómica o potenciometría con electrodos específicos.
+
+B.4.3. PRODUCTO A GRANEL
+
+B.4.3.1. PREPARACIÓN
+
+El producto a granel es obtenido por dilución del producto concentrado a granel con agua para inyectables, seguida de ajustes de los parámetros físico-químicos y de filtración esterilizante.
+
+B.4.3.2. ESTABILIZANTES
+
+Puede ser utilizado Octanoato de Sodio (Caprilato de Sodio) y/o Acetiltriptofanato de Sodio, como estabilizantes para prevenir la desnaturalización de Albúmina.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+B.4.3.3. CONTROL DEL PRODUCTO A GRANEL.
+
+B.4.3.3.1. DETERMINACIÓN POTENCIOMÉTRICA DEL pH.
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a la Determinación potenciométrica de pH según metodología descripta en Farmacopea Europea, última edición. El  pH debe estar entre 6,7 y 7,3.
+
+B.4.3.3.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA.
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a la determinación de concentración proteica por el método de Kjeldhal ó Biuret o Bradford.
+
+B.4.3.3.3. DETERMINACIÓN DE LA PUREZA ELECTROFORÉTICA
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a la determinación de pureza por electroforesis de zona según metodología descripta en Farmacopea Europea, última edición. En el análisis del electroforetograma la banda con la movilidad correspondiente a la fracción Albúmina debe corresponder por lo menos al 95% del total de las proteínas presentes en la muestra.
+
+B.4.3.3.4. DETERMINACIÓN DE SODIO
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a la determinación de concentración de sodio por fotometría de llama, fotometría de absorción atómica, espectrometría de emisión atómica (a 589 nm) o potenciometría con electrodos específicos. La concentración de sodio no debe ser superior a 160 mmol/l, no menor al 95% ni mayor al 105% de lo declarado en el rótulo.
+
+B.4.3.3.5. DETERMINACIÓN DE POTASIO
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a la determinación de la concentración de potasio, por fotometría de llama, fotometría de absorción atómica, o espectrometría de emisión atómica (a 766 nm) o potenciometría con electrodos específicos. La concentración de potasio debe ser menor a 0.05 mmol/g de proteínas.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+B.4.3.3.6. DETERMINACIÓN DE ALUMINIO RESIDUAL
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometido a determinación de aluminio residual por espectrofotometría de absorción atómica según metodología descripta en Farmacopea Europea, última edición. El tenor de aluminio no debe ser superior a 200 (g por litro si la Albúmina está indicada para pacientes en diálisis o para recién nacidos prematuros.
+
+B.4.3.3.7. ENSAYO DE ESTERILIDAD
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a ensayo de esterilidad, según metodología descripta en Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+B.4.3.3.8. ENSAYO DE PIRETÓGENOS
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a ensayo de piretógenos por inoculación endovenosa en conejos de por lo menos 1,5 Kg. Para albúmina de concentración entre 15 % y 25%, inocular 3 ml de muestra/kg de peso y para albúmina de concentración entre 3,5% y 5 %, inocular 10 ml de muestra/kg de peso. El procedimiento de la interpretación de los resultados debe estar de acuerdo con los criterios descriptos en Farmacopea de los Estados Unidos (USP), última edición. Los resultados deben ser satisfactorios.
+
+B.4.4. PRODUCTO ENVASADO
+
+B.4.4.1. TERMOINACTIVACION VIRAL
+
+B.4.4.1.1. El producto envasado debe ser sometido a una temperatura entre 59,5° C a 60,5° C, durante un mínimo de 10 horas, en baño María o estufa.
+
+B.4.4.1.2. Este tratamiento debe iniciarse un máximo de 24 horas después del envasado.
+
+B.4.4.1.3. Se debe asegurar una distribución uniforme de calor en todos los frascos en un baño María o estufa.
+
+B.4.4.1.4. La temperatura del equipo utilizado durante la termoinactivación viral debe ser registrada automáticamente en forma continua.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+B.4.4.2. INCUBACIÓN
+
+Inmediatamente después de la termoinactivación viral todos los recipientes que contienen el producto envasado deben ser incubados entre 20ºC a 25ºC por no menos de 4 semanas o entre 30ºC y 32°C durante un mínimo de 14 días. Al final de la incubación, todos los frascos del Lote deben ser inspeccionados visualmente, contra fondo claro u oscuro o lector automático, en cuanto a color, turbidez o presencia de partículas extrañas. Los frascos que presentan alguna alteración deben ser descartados.
+
+B.4.4.3. CONTROL DE PRODUCTO TERMINADO
+
+B.4.4.3.1. INSPECCIÓN VISUAL
+
+Una muestra del producto terminado debe ser sometida a inspección visual contra fondo claro u oscuro. La solución de albúmina debe presentar coloración incolora, amarilla o castaño verdosa y debe estar límpida, ligeramente viscosa y exenta de partículas.
+
+B.4.4.3.2. DETERMINACIÓN POTENCIOMÉTRICA DEL pH
+
+Una muestra del producto terminado debe ser sometida a la determinación potenciométrica del pH según la metodología descripta en Farmacopea Europea, última edición. El pH debe estar entre 6,7 y 7,3.
+
+B.4.4.3.3. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA.
+
+Una muestra del producto terminado debe ser sometida a la determinación de concentración proteica por el método de Kjeldhal, según metodología descripta en Farmacopea Europea, última edición. La concentración proteica no debe ser inferior a 95%, ni superior a 105% de la concentración declarada en el rótulo.
+
+B.4.4.3.4. DETERMINACIÓN DE LA PUREZA ELECTROFORÉTICA
+
+Una muestra del producto terminado debe ser sometida a la determinación de pureza por electroforesis de zona según metodología descripta en Farmacopea Europea, última edición. En el análisis del electroforetograma la banda con la movilidad correspondiente a la fracción Albúmina debe corresponder por lo menos al 95% del total de las proteínas presentes en la muestra.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+B.4.4.3.5. DETERMINACION DE POLÍMEROS Y AGREGADOS
+
+Una muestra del producto terminado debe ser sometida a cromatografía de filtración por geles con detección a 280 nm según metodología descripta en Farmacopea Europea, última edición. El área del pico correspondiente a los polímeros y agregados está localizada en la parte del cromatograma que representa el volumen vacío. El área de este pico dividido por dos no debe ser mayor que 5% del área total del cromatograma.
+
+B.4.4.3.6. DETERMINACIÓN DE SODIO
+
+Una muestra del producto terminado, debe ser sometida a la determinación de concentración de sodio, por fotometría de llama, fotometría de absorción atómica, espectrometría de emisión atómica a 589 nm o potenciometría con electrodos específicos. La concentración de sodio debe ser no mayor a 160 mmol/l, no menor al 95% ni mayor al 105% de lo declarado en el rótulo.
+
+B.4.4.3.7. DETERMINACIÓN DE POTASIO
+
+Una muestra del producto terminado, debe ser sometida a la determinación de la concentración de potasio, por fotometría de llama, fotometría de absorción atómica, espectrometría de emisión atómica (a 766 nm) o potenciometría con electrodos específicos. La concentración de potasio debe ser menor a 0.05 mmol/g de proteínas.
+
+B.4.4.3.8. DETERMINACION DE ALUMINIO RESIDUAL
+
+Una muestra del producto terminado, debe ser sometida a determinación de aluminio residual por espectrofotometría de absorción atómica, según metodología descripta en Farmacopea Europea, última edición. El tenor de aluminio no debe ser mayor que 200 (g por litro si la Albúmina está indicada para pacientes en diálisis o para recién nacidos prematuros.
+
+B.4.4.3.9. DETERMINACIÓN DE ACTIVADOR DE PRE-CALICREINA
+
+Una muestra del producto terminado, debe ser sometida a determinación de activador pre-calicreina (PKA), según metodología descripta en Farmacopea Europea, última edición. La actividad de PKA no debe ser mayor que 35 UI/mL.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+B.4.4.3.10. DETERMINACIÓN DE GRUPO HEMO
+
+Una muestra del producto terminado diluida en solución fisiológica en una concentración proteica de 10 g/l debe ser sometida a la determinación del grupo hemo, según metodología descripta en Farmacopea Europea, última edición, la muestra debe presentar absorbancia menor o igual a 0,15 determinada a 403 nm, en célula de 1 cm de camino óptico.
+
+B.4.4.3.11. PRUEBA DE IDENTIDAD
+
+Una muestra del producto terminado debe ser ensayada en cuanto a su origen, frente a antisueros específicos y funcionantes de por lo menos cuatro especies diferentes, (anti-humano, anti-bovino, anti-equino, anti-porcino, anti-caprino) por inmunodifusión o por inmunoelectroforésis, según metodología descripta en Farmacopea Europea, última edición. La muestra debe presentar reactividad solamente frente al suero anti-humano.
+      Los antisueros de otras especies deben presentar reactividad exclusivamente frente a sus antígenos específicos.
+
+B.4.4.3.12. ENSAYO DE ESTERILIDAD
+
+Una muestra del producto terminado debe ser sometida a ensayo de esterilidad, según metodología descripta en Farmacopea de los Estados Unidos (USP) última edición. El resultado debe ser satisfactorio.
+
+B.4.4.3.13. ENSAYO DE PIRETÓGENOS
+
+Una muestra del producto terminado debe ser sometida a ensayo de piretógenos por inoculación endovenosa en conejos de por lo menos 1.5 Kg.. Para albúminas de concentración entre 15 % y 25%, inocular 3 mL de muestra/kg de peso y para albúminas de concentración entre 3,5% y 5 %, inocular 10 mL de muestra/kg de peso. El procedimiento de la interpretación de los resultados debe estar de acuerdo con los criterios descriptos en Farmacopea de los Estados Unidos (USP) última edición. Los resultados deben ser satisfactorios.
+
+B.4.4.3.14. ENSAYO DE INOCUIDAD (TOXICIDAD INESPECIFICA)
+
+Una muestra del producto terminado, debe ser sometida a ensayo de inocuidad según la metodología descripta en Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+
+B.4.4.3.15. PRUEBA DE ESTABILIDAD TERMICA
+
+Una muestra del producto terminado, no debe presentar modificación, después de una incubación a 57º C durante 50 horas, cuando es comparada, por inspección visual, contra fondo claro y oscuro, con una muestra del mismo lote que no haya sido sometida a este tratamiento.
+
+B.5. ALMACENAMIENTO Y PLAZO DE VALIDEZ
+
+El producto terminado cuando es almacenado a temperatura no superior a 25º C tiene un plazo de validez máximo de tres (3) años y cuando es almacenado a temperatura entre 4º C y 8º C tiene un plazo de validez máximo de cinco (5) años.
+
+B.6. ROTULADO
+
+B.6.1. RÓTULO DEL FRASCO-AMPOLLA (Envase Primario)
+
+El rótulo del frasco - ampolla del producto terminado debe presentar, además de lo exigido para los medicamentos (Resolución GMC Nº 23/95 ó Res. vigente), las siguientes informaciones:
+
+B.6.1.1. Una leyenda: "No utilizar si la solución es turbia o presenta sedimento".
+
+B.6.1.2. Una leyenda: "Después de la apertura del frasco - ampolla, el producto debe ser utilizado inmediatamente".
+
+B.6.1.3. Nombre y concentración de el/los estabilizante/s agregado/s.
+
+B.6.1.4. Contenido de sodio y potasio.
+
+B.6.1.5. Que la preparación es adecuada para ser aplicada en pacientes en diálisis o recién nacidos prematuros (cuando sea aplicable).
+
+B.6.2. ROTULO DEL ESTUCHE
+
+El rótulo de estuche del producto terminado debe presentar las informaciones exigidas para medicamentos (Resolución GMC Nº 23/95 ó Res. vigente).
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+
+B.6.3. PROSPECTO
+
+El prospecto del producto terminado debe presentar las informaciones exigidas para medicamentos. (Resolución GMC Nº 23/95 ó Res. vigente).
+
+B.7. REGISTROS
+
+B.7.1. La planta productora de hemoderivados debe mantener para cada lote producido, los registros:
+
+B.7.1.1. De la materia prima utilizada incluyendo la lista de las unidades de plasma y/o de plasmaféresis, y de los resultados de los controles serológicos realizados.
+
+B.7.1.2. De los procedimientos de fabricación y control de cada lote.
+
+B.7.1.3. De los resultados obtenidos.
+
+B.7.1.4. De su distribución.
+
+B.7.2. Estos registros deben estar disponibles en la unidad de control de calidad del productor por lo menos un (1) año después de la fecha de vencimiento del lote.
+
+B.8. MEMORIA (Archivo de la muestra)
+
+B.8.1. El archivo de la muestra tiene como objetivo posibilitar la verificación, en cualquier momento, de las características del producto. El productor debe retener, hasta seis (6) meses después de la fecha de vencimiento de cada lote de producto terminado, una muestra significativa del mismo, así como una muestra de la Mezcla Inicial que le dio origen.
+
+B.8.2. La muestra de la mezcla inicial debe mantenerse a temperatura no superior a 20ºC bajo cero.
+
+B.8.3. Las muestras de producto terminado deben mantenerse en las condiciones establecidas por el productor.
+
+B.9.LIBERACION Y EXPEDICION DE PRODUCTO TERMINADO
+
+La liberación y expedición de cada lote de Albúmina Humana debe realizarse de acuerdo a lo establecido en la Resolución GMC 4/92 o Resolución vigente.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+B. ALBÚMINA
+__________________________________________________________________
+B.10. TRANSPORTE
+
+Los lotes de Albúmina Humana deben ser transportados en las condiciones indicadas en el ítem B.5.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+C.1. DENOMINACIONES
+
+C.1.1. Inmunoglobulina Humana Normal de uso intramuscular.
+
+C.1.2. Inmunoglobulina Humana Normal de uso endovenoso.
+
+C.1.3. Inmunoglobulina Humana Específica.
+
+C.2. DEFINICIÓN DESCRIPTIVA
+
+C.2.1. Inmunoglobulina Humana Normal:
+
+Inmunoglobulina Humana Normal es una solución o liofilizado estéril y apirógeno de gamaglobulinas que contiene diversos anticuerpos, principalmente de la clase inmunoglobulina G (IgG), presentes en la sangre de individuos normales.
+
+C.2.2. Inmunoglobulina Humana Específica
+
+Inmunoglobulina Humana Específica es una solución o liofilizado estéril y apirógeno de gamaglobulinas que contiene alta concentración de anticuerpos específicos derivados de la sangre humana, proveniente de individuos que fueron previamente inmunizados o hiperinmunizados.
+
+C.3. MATERIA PRIMA
+
+C.3.1. GENERALIDADES
+
+C.3.1.1. La materia prima para la obtención de inmunoglobulinas humanas puede ser plasma fresco, plasma fresco congelado, plasma congelado, plasma recuperado, plasma remanente o unidades de plasmaféresis, debiendo cada unidad ser identificada de manera que permita relacionarla correctamente al donante y a la respectiva donación.
+
+C.3.1.2. Las Inmunoglobulinas Humanas Normales deben ser preparadas a partir de mezclas de plasmas provenientes de, como mínimo, 1000 donantes.
+
+C.3.1.3. La materia prima no debe ser manipulada más de lo estrictamente necesario. La exposición a temperaturas superiores a 20º C bajo cero y los repetidos descongelamientos deben ser evitados, pues pueden desnaturalizar las proteínas y/o dar origen a sustancias vasoactivas.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+C.3.2. CONTROL DE LA MATERIA PRIMA
+
+C.3.2.1. El plasma humano para fraccionamiento utilizado como materia prima para la producción de Inmunoglobulinas debe ser proveniente de unidades de sangre total y/o de plasmaféresis que hayan sido sometidas individualmente a los controles serológicos obligatorios establecidos en la monografía de "Plasma Humano para fraccionamiento" de la Farmacopea Europea última edición. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+C.3.2.2. Cuando se trata de productos importados extra zona, las unidades de plasma y/o de plasmaféresis usadas como materia prima para la producción de Inmunoglobulinas, deben provenir de unidades de sangre total y/o de plasmaféresis que hayan sido sometidas individualmente a los controles serológicos obligatorios en el país de origen, siendo obligatoria la realización de los ensayos para HIV 1 y 2, Hepatitis B y Hepatitis C. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+C.3.2.3. La autoridad sanitaria competente del país importador debe analizar el perfil epidemiológico de las patologías transmisibles por sangre existentes en el país de origen de la materia prima, pudiendo exigir la realización de otros ensayos en cada unidad de plasma a procesar.
+
+C.3.2.4. La planta productora de Inmunoglobulinas debe efectuar el control serológico de cada unidad de plasma y/o de plasmaféresis, a ser utilizada en la producción de Inmunoglobulinas, o certificar los procedimientos operativos de la(s) institución(es) hemoterapéutica(s) que suministran la materia prima. Esta certificación deberá realizarse por lo menos una vez cada doce meses.
+
+C.3.2.5. El productor de Inmunoglobulinas es responsable de la calidad del plasma y de todas las materias primas usadas en la obtención de sus productos.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+C.4. CONTROL DE LAS OPERACIONES DE FABRICACIÓN
+
+C.4.1.GENERALIDADES
+
+C.4.1.1. La Inmunoglobulina Humana Normal de uso intramuscular, debe ser preparada por un método que demuestre que el producto obtenido:
+- no transmite infecciones
+- cuando está formulado a una concentración de 160 gr./l, contenga  anticuerpos de por lo menos dos tipos (uno viral y otro bacteriano) para los cuales existan patrones internacionales o preparaciones de referencia. La concentración de tales anticuerpos deberá ser por lo menos diez veces mayor que la del material de origen.
+
+C.4.1.2. El método de preparación de Inmunoglobulina Humana Normal para uso endovenoso debe asegurar que el producto obtenido:
+- no transmite infecciones
+- cuando está formulado a una concentración de 50 gr./l, contenga  anticuerpos de por lo menos dos tipos (uno viral y otro bacteriano) para los cuales existan patrones internacionales o preparaciones de referencia. La concentración de tales anticuerpos deberá ser por lo menos tres veces mayor que la del material de origen.
+- tiene una distribución definida de subclases de Inmunoglobulina G
+- cumple con el ensayo de función de Fc para Inmunoglobulinas.
+
+C.4.2. INACTIVACION/ELIMINACIÓN VIRAL:
+
+C.4.2.1.El método de preparación de Inmunoglobulinas debe incluir una o más etapas que hayan demostrado eliminar o inactivar virus infecciosos conocidos.
+
+C.4.2.2. Si se utilizan sustancias agregadas para la inactivación de virus, deben validarse los procesos posteriores de purificación para demostrar que las concentraciones de estas sustancias se reducen a un nivel tal que no ocasionen efectos adversos en los pacientes que reciben el producto.
+
+C.4.2.3. Los métodos usados con este fin deben estar validados para eliminación del riesgo viral y autorizados por la Autoridad Sanitaria competente.
+
+C.4.3. ADITIVOS
+
+C.4.3.1. La Inmunoglobulina Humana Normal de uso Intramuscular podrá ser preparada como una solución estabilizada, por ejemplo en solución de cloruro de sodio 9 g/l o en solución de glicina 22,5 g/l. Si la preparación va a ser liofilizada podrá ser estabilizada en solución de glicina 60 g/l.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.4.3.2. La Inmunoglobulina Humana Normal para uso endovenoso podrá ser preparada como solución o como liofilizado. Podrá agregarse un estabilizante.
+
+C.4.3.3. No deben agregarse conservadores a las Inmunoglobulinas de uso endovenoso.
+
+C.4.3.4. En los casos en que se use Albúmina Humana como estabilizante, la misma debe cumplir los requisitos establecidos por este Reglamento Técnico.
+
+C.4.4. CONTROL DE LA MEZCLA INICIAL
+
+C.4.4.1. DETERMINACIÓN POTENCIOMÉTRICA DEL pH
+
+Una muestra de la mezcla inicial debe ser sometida a la determinación potenciométrica de pH, según metodología descripta en Farmacopea Europea, última edición.
+
+C.4.4.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra de la mezcla inicial debe ser sometida a la determinación de la concentración proteica por el método de Kjeldhal, ó Biuret ó Bradford.
+
+C.4.4.3. PRUEBAS SEROLÓGICAS
+
+Durante la fabricación de hemoderivados el primer pool homogéneo de plasma, debe ser ensayado para Antígeno de superficie de Virus de Hepatitis B (HBsAg), Anticuerpos contra virus de Hepatitis C (a-HCV), y  Anticuerpos contra Virus de la Inmunodeficiencia Humana tipo 1 y 2 (a-HIV1y2). Estas determinaciones deben llevarse a cabo utilizando métodos de sensibilidad y especificidad adecuadas y la mezcla inicial debe ser no reactiva para estos marcadores.
+
+C.4.4.4. DETERMINACION DE ACTIVIDAD (POTENCIA)
+
+C.4.4.4.1. Inmuglobulinas Normales
+
+Una muestra de la mezcla inicial debe ser sometida a ensayo de actividad utilizando métodos de sensibilidad y especificidad adecuadas autorizados por la Autoridad Sanitaria Competente. La muestra debe contener por lo menos dos anticuerpos para agentes infecciosos (uno de origen viral y otro de origen bacteriano).
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.4.4.4.2. Inmunoglobulinas Específicas
+
+Una muestra de la mezcla inicial debe ser sometida a ensayo de actividad utilizando métodos de sensibilidad y especificidad adecuadas autorizados por la Autoridad Sanitaria Competente. La muestra debe contener anticuerpos específicos contra el antígeno respectivo.
+
+C.4.5. CONTROL DEL PRODUCTO CONCENTRADO A GRANEL
+
+C.4.5.1. DETERMINACIÓN POTENCIOMÉTRICA DEL pH
+
+Una muestra del producto concentrado a granel debe ser sometida a determinación potenciométrica del pH según metodología descripta en Farmacopea Europea, última edición.
+
+C.4.5.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra de producto concentrado a granel debe ser sometida a determinación de proteínas por el método de Kejdhal ó Bradford ó Biuret.
+
+C.4.5.3. DETERMINACIÓN DE LA ACTIVIDAD (POTENCIA) DE INMUNOGLOBULINAS
+
+Una muestra del producto concentrado a granel debe ser sometida a ensayo de potencia de Inmunoglobulinas utilizando métodos de sensibilidad y especificidad adecuadas autorizados por la Autoridad Sanitaria Competente. La muestra debe contener por lo menos dos anticuerpos para agentes infecciosos (uno de origen viral y otro de origen bacteriano).
+
+C.4.6. PRODUCTO A GRANEL
+
+C.4.6.1. PREPARACIÓN
+
+El producto a granel es obtenido por dilución del producto concentrado a granel, con agua para inyectables, seguida del ajuste de los parámetros físico-químicos y de filtración esterilizante.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+C.4.6.2. CONTROL DEL PRODUCTO A GRANEL.
+
+C.4.6.2.1. DETERMINACIÓN POTENCIOMÉTRICA DEL pH
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a determinación potenciométrica de pH, según metodología descripta en Farmacopea Europea, última edición.
+Especificaciones:
+Inmunoglobulina intramuscular: 6,4 a 7,2
+Inmunoglobulina endovenosa: 4,0 a 7,4
+
+C.4.6.2.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA.
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a la determinación de concentración proteica por el método de Kjeldhal ó Biuret ó Bradford.
+Especificaciones:
+Inmunoglobulina intramuscular: 100 g/L a 180 g/L
+Inmunoglobulina endovenosa: al menos 30 g/L
+
+C.4.6.2.3. DETERMINACIÓN DE LA PUREZA ELECTROFORETICA
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a ensayo de pureza por electroforesis de zona según metodología descripta en Farmacopea Europea, última edición. En el análisis del electroforetograma la banda con movilidad correspondiente a la fracción Gamaglobulina debe corresponder a por lo menos:
+
+* Para Inmunoglobulinas intramusculares: un 90% del total de proteínas presentes en la muestra.
+* Para Inmunoglobulinas endovenosas: un 95% del total  de proteínas presentes en la muestra.
+
+C.4.6.2.4. ENSAYO DE ESTERILIDAD
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a ensayo de esterilidad, según la metodología descripta en Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.4.6.2.5. ENSAYO DE PIRETÓGENOS
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a ensayo de piretógenos por inoculación endovenosa de:
+* Para preparaciones de uso endovenoso: inyectar 0.5 g de Inmunoglobulina/kg de peso, inyectándose un máximo de 10 ml por conejo de por lo menos 1,5 Kg
+* Para preparaciones de uso intramuscular: inyectar 1,0 ml de Inmunoglobulina/Kg. de peso.
+
+El procedimiento de interpretación de los resultados debe estar de acuerdo con los criterios descriptos en Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio
+
+C.4.7.PRODUCTO TERMINADO:
+
+C.4.7.1. CONTROL DEL PRODUCTO TERMINADO
+
+Las preparaciones liofilizadas deben ser reconstituidas de acuerdo a las instrucciones de uso, inmediatamente antes de los ensayos, excepto para los ensayos de solubilidad y humedad residual.
+
+C.4.7.1.1 INSPECCIÓN VISUAL
+
+Una muestra del producto terminado debe ser sometida a Inspección Visual contra fondos claro y oscuro. La solución debe presentar coloración de incolora a amarillo pálido, debe estar límpida, ligeramente opalescente y exenta de partículas. La preparación liofilizada es un polvo o masa friable blanca o ligeramente amarilla.
+
+C.4.7.1.2. DETERMINACION DE VOLUMEN
+
+Una muestra del producto terminado de las preparaciones líquidas debe ser sometida a determinación de volumen por medición directa. Se admite una variación de hasta 5% del volumen declarado en el rótulo.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.4.7.1.3. DETERMINACIÓN POTENCIOMÉTRICA DEL pH
+
+Una muestra del producto terminado debe ser sometida a determinación potenciométrica de pH según metodología descripta en Farmacopea Europea, última edición.
+Especificaciones:
+Inmunoglobulina intramuscular: 6,4 a 7,2
+Inmunoglobulina endovenosa: 4,0 a 7,4
+
+C.4.7.1.4. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA.
+
+Una muestra del producto terminado debe ser sometida a la determinación de concentración proteica por el método de Kjeldhal según metodología descripta en Farmacopea Europea, última edición.
+Especificaciones:
+Inmunoglobulina intramuscular: 100 g/L a 180 g/L
+Inmunoglobulina endovenosa: al menos 30 g/L.
+El producto debe tener un contenido de proteínas no inferior al 90% y no superior al 110% de lo declarado en el rótulo.
+
+C.4.7.1.5. DETERMINACIÓN DE LA PUREZA ELECTROFORÉTICA
+
+Una muestra del producto terminado debe ser sometida a ensayo de pureza por electroforesis de zona según metodología descripta en Farmacopea Europea, última edición. En el análisis del electroforetograma la banda con movilidad correspondiente a la fracción Gamaglobulina debe corresponder a por lo menos:
+* Para Inmunoglobulinas intramusculares: un 90% del total de proteínas presentes en la muestra.
+* Para Inmunoglobulinas endovenosas: un 95% del total  de proteínas presentes en la muestra.
+
+C.4.7.1.6. DETERMINACIÓN DE POLÍMEROS Y AGREGADOS
+
+Una muestra del producto terminado de Inmunoglobulina debe ser sometida a determinación de polímeros y agregados por cromatografía de filtración por geles con detección a 280 nm según metodología descripta en Farmacopea Europea, última edición.
+Especificaciones:
+* Inmunoglobulina G de uso intramuscular: el área del cromatograma correspondiente a los dímeros y monómeros no debe ser inferior al 85%. No más de un 10% deben corresponder a polímeros y agregados.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+* Inmunoglobulina G de uso endovenoso: el área del cromatograma correspondiente a los dímeros y monómeros no debe ser inferior a 90%. No más de un 3% debe corresponder a polímeros y agregados.
+
+C.4.7.1.7. PRUEBA DE IDENTIDAD
+
+Una muestra del producto terminado, debe ser ensayada en cuanto a su origen, frente a antisueros específicos y funcionantes de por lo menos cuatro especies diferentes, (anti-humano, anti-bovino, anti-equino, anti-porcino, anti-caprino) por imunodifusión o por imunoelectroforésis según la metodología descripta en Farmacopea Europea, última edición. La muestra debe presentar reactividad solamente frente al suero anti-humano. Los antisueros de otras especies deben presentar reactividad exclusivamente frente a sus antígenos específicos.
+
+C.4.7.1.8. DETERMINACIÓN DE ANTICUERPOS CONTRA ANTIGENO DE SUPERFICIE DE VIRUS DE HEPATITIS B
+
+Una muestra del producto terminado debe ser sometida a la determinación de anticuerpos contra Antígeno de Superficie de Virus de Hepatitis B (HBsAg) por inmunoensayo aprobado por la Autoridad Sanitaria competente. Debe detectarse en la muestra no menos de 0.5 U.I./g de Inmunoglobulina.
+
+C.4.7.1.9. ENSAYO DE ESTERILIDAD
+
+Una muestra del producto terminado debe ser sometida a ensayo de esterilidad, según la metodología descripta en Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+C.4.7.1.10. ENSAYO DE PIRETÓGENOS
+
+Una muestra del producto terminado debe ser sometida a ensayo de piretógenos por inoculación endovenosa de:
+* Para Inmunoglobulinas de uso endovenoso: inyectar 0.5 gr de Inmunoglobulina/Kg de peso, inyectándose un máximo de 10 ml por conejo de por lo menos 1,5 Kg
+* Para Inmunoglobulinas de uso intramuscular: inyectar 1,0 ml de Inmunoglobulina/Kg. de peso,
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+El procedimiento de la interpretación de los resultados debe estar de acuerdo con los criterios descriptos en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+C.4.7.1.11. PRUEBA DE INOCUIDAD (Toxicidad Inespecífica)
+
+Una muestra del producto terminado debe ser sometida a prueba de inocuidad, según la metodología descripta en Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+C.4.7.1.12. PRUEBA DE TERMOESTABILIDAD
+
+Una muestra del producto terminado para las preparaciones líquidas debe ser sometida a prueba de termoestabilidad por incubación a 37ºC, durante cuatro (4) semanas o 57ºC durante 4hs. Al final de este período, la muestra debe ser inspeccionada visualmente contra fondo claroscuro, no deberá presentar alteraciones como gelificación o floculación.
+
+C.4.7.1.13. DETERMINACIÓN DE LA ACTIVIDAD (POTENCIA) DE INMUNOGLOBULINAS NORMALES
+
+Una muestra del producto terminado de Inmunoglobulina Normal debe ser sometida a determinación de la potencia de Inmunoglobulinas utilizando métodos de sensibilidad y especificidad adecuados autorizados por la Autoridad Sanitaria Competente. Las preparaciones intramusculares deben presentar una potencia por lo menos diez veces mayor a la de la mezcla inicial que le dio origen. Las preparaciones endovenosas deben presentar una potencia por lo menos tres veces mayor a la de la mezcla inicial que le dio origen.
+
+C.4.7.1.14. DETERMINACIÓN DE LA POTENCIA DE INMUNOGLOBULINAS ESPECÍFICAS
+
+Una muestra del producto terminado debe ser sometida a la prueba de potencia específica utilizando métodos de sensibilidad y especificidad adecuadas autorizados por la Autoridad Sanitaria Competente.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.4.7.1.14.1. Determinación de Potencia de Inmunoglobulinas Especificas de Uso Intramuscular:
+
+Son establecidos los siguientes límites:
+
+* Inmunoglobulina Antitetánica: Debe contener, como mínimo, 100 UI/ml de antitoxina tetánica determinado por inmunoensayo de sensibilidad y especificidad adecuadas. La potencia estimada no debe ser menor a la declarada. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser menor que 80 % ni mayor que 125%.
+
+* Inmunoglobulina Antirrábica: Debe contener, como mínimo, 150 UI/ml de anticuerpos específicos contra Virus de Rabia, determinados por inmunoensayo de sensibilidad y especificidad adecuadas. La potencia estimada no debe ser menor a la declarada, ni mayor al doble de la misma. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser menor que 80 % ni mayor que 125%.
+
+* Inmunoglobulina Anti-Hepatitis B: Debe contener, como mínimo, 100 UI/ml de anticuerpos específicos contra Antígeno de Superficie de Virus de Hepatitis B (HBsAg), determinado por inmunoensayo o por otro método equivalente validado. La potencia estimada no debe ser menor de la declarada. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser menor  que 80 % ni mayor que 125%.
+
+* Inmunoglobulina Anti-Varicela Zoster: Debe contener, como mínimo, 100 UI/ml de anticuerpos anti-varicela Zoster, determinado por inmunoensayo o por otro método equivalente validado. La potencia estimada no debe ser menor de la declarada. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser menor que 80 % ni mayor que 125%.
+
+* Inmunoglobulina Anti-D (Anti-Rh): La potencia es determinada por hemaglutinación. La potencia estimada para preparaciones liofilizadas,  no debe ser menor que 90% ni mayor que 111% de la potencia declarada. El intervalo de confianza (P= 0.95) de la potencia estimada en U.I. no debe ser menor que 80 % ni mayor que 125%.
+
+Para preparaciones líquidas, la potencia estimada en U.I. no debe ser menor que 90% ni mayor que 133% de la potencia declarada. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser menor que 80 % ni mayor que 148% de la potencia declarada.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+* Inmunoglobulina anti-Hepatitis A: Debe contener, como mínimo, 600 UI/ml de anticuerpos contra Virus de Hepatitis A, determinado por inmunoensayo o por otro método equivalente validado. La potencia estimada no debe ser menor de la declarada. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser menor que 80 % ni mayor que 125%.
+
+* Inmunoglobulina anti-Rubéola: La potencia es determinada por inhibición de Hemaglutinación. La potencia estimada no debe ser menor a 4.500 UI de anticuerpos contra Virus de Rubéola/ml. La potencia estimada no debe ser menor que la declarada. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser menor  que 50 % ni mayor que 200% de la potencia declarada.
+
+* Inmunoglobulina anti-Sarampión: La potencia estimada no debe ser menor a 50 UI/ml de anticuerpos neutralizantes contra virus de sarampión.
+
+6.12.2. Determinación de la Potencia de Inmunoglobulinas Especificas de Uso Endovenoso.
+
+* Inmunoglobulina Anti-Hepatitis B: Debe contener, como mínimo, 50 UI de anticuerpos específicos contra Antígeno de Superficie de Virus de Hepatitis B (HBsAg) /ml, determinado por inmunoensayo de sensibilidad y especificidad adecuadas. La potencia estimada no debe ser menor de la declarada. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser menor que 80 % ni mayor que 125%.
+
+C.4.7.1.15. PRUEBAS ESPECÍFICAS PARA INMUNOGLOBULINAS LIOFILIZADAS
+
+* El diluyente que acompaña las preparaciones liofilizadas debe cumplir con los requisitos para Agua estéril para inyectable, descriptos en la Farmacopea de los Estados Unidos (USP) o Farmacopea Europea última edición.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.4.7.1.15.1. DETERMINACIÓN DE SOLUBILIDAD
+
+Una muestra del producto terminado de Inmunoglobulina liofilizada debe ser sometida a la determinación de solubilidad según Farmacopea Europea, última edición, agregando el disolvente recomendado por el productor. La inmunoglobulina endovenosa deberá disolverse completamente en un máximo de 30 minutos a una temperatura de 20ºC a 25ºC. La inmunoglobulina intramuscular deberá disolverse  completamente en un máximo de 20 minutos a una temperatura de 20ºC a 25ºC.
+
+C.4.7.1.15.2. DETERMINACIÓN  DE HUMEDAD RESIDUAL
+
+Una muestra del Producto terminado debe ser sometida a la determinación de humedad residual según la metodología descripta en Farmacopea Europea, última edición. La humedad residual del liofilizado no debe exceder del 3%.
+
+C.4.7.1.16. DETERMINACIONES ESPECÍFICAS PARA INMUNOGLOBULINAS ENDOVENOSAS
+
+C.4.7.1.16.1. DETERMINACIÓN DE ACTIVADOR DE PRE-CALICREÍNA
+
+Una muestra del producto terminado debe ser sometida a la determinación de activador de Pre-calicreína (PKA) según metodología descripta en Farmacopea Europea, última edición. El resultado obtenido no debe ser superior a 35 U.I./ml con referencia a una solución que contenga 30 g/l de Inmunoglobulina.
+
+C.4.7.1.16.2. DETERMINACIÓN DE ACTIVIDAD ANTICOMPLEMENTARIA
+
+Una muestra del producto terminado debe ser sometida a ensayo de actividad anticomplementaria según metodología descripta en Farmacopea Europea, última edición. El consumo de Complemento no debe ser mayor que el 50 % (1 CH50  por miligramo de Inmunoglobulina).
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.4.7.1.16.3. DETERMINACIÓN DE HEMAGLUTININAS ANTI-A Y ANTI-B POR MÉTODO INDIRECTO
+
+Una muestra del producto terminado (diluida al 3% m/v) debe ser sometida a la determinación de Hemaglutininas anti-A y anti-B por método indirecto según metodología descripta en Farmacopea Europea, última edición. No debe observarse aglutinación en la dilución igual a 1/64.
+
+C.4.7.1.16.4. DETERMINACION DE OSMOLALIDAD
+
+Una muestra del producto terminado debe ser sometida a determinación de osmolalidad según metodología descripta en Farmacopea Europea, última edición. La osmolalidad no debe ser inferior a 240 mOsm/kg.
+
+
+C.5. ALMACENAMIENTO Y PLAZO DE VALIDEZ
+
+El producto terminado de Inmunoglobulina en solución cuando es almacenado a temperaturas entre 4ºC y 8ºC tiene plazo de validez máximo de tres (3) años. Las preparaciones liofilizadas cuando son almacenadas hasta 25ºC  tienen plazo de validez máximo de cinco (5) años.
+
+C.6. ROTULADO
+
+C.6.1. RÓTULO DEL FRASCO - AMPOLLA (Envase Primario)
+
+El rótulo del frasco-ampolla del Producto terminado debe presentar, además de lo exigido para los medicamentos, las siguientes informaciones (Res. GMC 23/95 o Res. vigente):
+
+C.6.1.1.-la leyenda: "No utilizar la solución que este turbia o presente depósito";
+
+C.6.1.2.-la leyenda: "Después de la apertura del frasco - ampolla, el producto debe ser utilizado inmediatamente";
+
+C.6.1.3.-la leyenda: "No agitar"
+
+C.6.1.4.- Instrucciones para reconstitución
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.6.2. RÓTULO DEL ESTUCHE
+
+El rótulo del estuche del Producto terminado debe presentar las informaciones exigidas para medicamentos (Resolución GMC 23/95 o Res. vigente).
+
+C.6.3. PROSPECTO
+
+El prospecto del producto terminado debe presentar la misma información exigida para los medicamentos (Resolución GMC 23/95 o Res. vigente).
+
+C.7. REGISTROS
+
+C.7.1. La planta productora de hemoderivados debe mantener para cada lote producido registros:
+
+C.7.1.1. De la materia prima utilizada incluyendo el registro de las unidades de plasma o de plasmaféresis acompañado de los resultados de los controles serológicos realizados.
+
+C.7.1.2.  De las etapas de fabricación y control de cada lote.
+
+C.7.1.3.  De los resultados obtenidos.
+
+C.7.1.4. De su distribución.
+
+C.7.2. Estos registros deben estar disponibles en la unidad de control de calidad del productor por lo menos un (1) año después de la fecha de vencimiento del lote.
+
+C.8. MEMORIA (Archivo de la muestra)
+
+C.8.1. El archivo de la muestra tiene como objetivo posibilitar la verificación, en cualquier momento, de las características del producto. El productor debe retener, como mínimo seis (6) meses después de la fecha de vencimiento de cada lote de producto terminado, una muestra significativa del mismo, así como una muestra de la mezcla inicial que le dio origen.
+
+C.8.2. La muestra de la mezcla inicial debe mantenerse a temperatura no superior a 20ºC bajo cero.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+C. INMUNOGLOBINAS
+__________________________________________________________________
+
+C.8.3. Las muestras de producto terminado deben mantenerse en las condiciones establecidas por el productor.
+
+C.9. LIBERACION Y EXPEDICION DE PRODUCTO TERMINADO
+
+La liberación y expedición de cada lote de producto terminado de Inmunoglobulina debe realizarse de acuerdo a lo establecido en la Resolución GMC 4/92 o Resolución vigente.
+
+C.10. TRANSPORTE
+
+Los lotes de Inmunoglobulina Humana deben ser transportados en las condiciones indicadas en el ítem C.5.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.1. DENOMINACIÓN
+
+Concentrado de Factor VIII - Factor Anti-Hemofílico humano.
+
+D.2. DEFINICIÓN DESCRIPTIVA
+
+El Factor VIII liofilizado es una fracción de proteínas plasmáticas que contiene Factor VIII (glicoproteína que interviene en la coagulación) junto con cantidades variables de factor de von Willebrand.
+La potencia de la preparación, reconstituida de acuerdo a las indicaciones del productor, debe ser no menor a 20 U.I. de factor VIII: C por mililitro.
+La actividad específica antes del agregado de cualquier proteína estabilizante, debe ser no menor que 1 U.I. de Factor VIII:C por miligramo de proteína total.
+
+D.3. MATERIA PRIMA
+
+D.3.1. GENERALIDADES:
+
+D.3.1.1. La materia prima para la obtención de Factor VIII de origen plasmático puede ser plasma fresco, plasma fresco congelado o crioprecipitado, debiendo cada unidad ser identificada de manera que permita relacionarla correctamente con el donante y la respectiva fecha de donación.
+
+D.3.1.2. La materia prima no debe ser manipulada más de lo estrictamente necesario y debe ser mantenida a una temperatura no superior a 20ºC bajo cero.
+
+D.3.2. CONTROL DE LA MATERIA PRIMA
+
+D.3.2.1. El plasma humano para fraccionamiento utilizado como materia prima para la producción de Factor VIII debe ser proveniente de unidades de sangre total y/o de plasmaféresis que hayan sido sometidas individualmente, a los controles serológicos obligatorios establecidos en la monografía de "Plasma para fraccionamiento" de la Farmacopea Europea última edición. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.3.2.2. Cuando se trata de productos importados extra zona las unidades de plasma y/o de plasmaféresis usadas como materia prima para la producción de Factor VIII, deben provenir de unidades de sangre total y/o de plasmaféresis que hayan sido sometidas individualmente, a los controles serológicos obligatorios en el país de origen, siendo obligatoria la realización de los ensayos para HIV 1 y 2, Hepatitis B y Hepatitis C. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados
+
+D.3.2.3. La autoridad sanitaria competente del país importador debe analizar el perfil epidemiológico de las patologías transmisibles por sangre existentes en el país de origen de la materia prima, pudiendo exigir la realización de otros ensayos en cada unidad de plasma extraído.
+
+D.3.2.4. La planta productora de Factor VIII debe efectuar el control serológico de cada unidad de plasma fresco, plasma fresco congelado, y/o crioprecipitado a ser utilizada en la producción de Factor VIII, o certificar los procedimientos operativos de la(s) institución(es) hemoterapéutica(s) que suministran la materia prima. Esta certificación deberá realizarse por lo menos una vez cada doce meses.
+
+D.3.2.5. El productor de Factor VIII es responsable de la calidad del plasma y de todas las materias primas usadas en la obtención de este producto.
+
+D. 4. CONTROL DE LAS OPERACIONES DE FABRICACIÓN
+
+D.4.1.GENERALIDADES:
+
+D.4.1.1. INACTIVACION/ ELIMINACIÓN VIRAL:
+
+D.4.1.1.1. El método de preparación de Factor VIII debe incluir una o más etapas que hayan demostrado eliminar o inactivar virus infecciosos conocidos.
+
+D.4.1.1.2. Si se utilizan sustancias agregadas para la inactivación de virus, deben validarse los procesos posteriores de purificación para demostrar que la concentración de estas sustancias se reduce a un nivel tal que no ocasionen efectos adversos en los pacientes que reciben el producto.
+
+D.4.1.1.3. Los métodos usados deben estar validados para eliminación del riesgo viral y autorizados por la Autoridad Sanitaria competente.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.4.1.2. ADITIVOS
+
+D.4.1.2.1. Se permite el uso de sustancias estabilizantes tales como albúmina humana, heparina, u otros aprobadas por la Autoridad Sanitaria Competente.
+
+D.4.1.2.2. Todos los aditivos proteicos deberán cumplir con los requisitos establecidos en la monografía correspondiente de la Farmacopea Europea última edición.
+
+D.4.2. CONTROL DE LA MEZCLA INICIAL
+
+     D.4.2.1. DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra de la mezcla inicial debe ser sometida a la determinación potenciométrica de pH, según metodología descripta en Farmacopea Europea, última edición.
+
+D.4.2.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra de la mezcla inicial debe ser sometida a la determinación de la concentración proteica por método de Kjeldhal, ó Biuret, ó Bradford.
+
+D.4.2.3. DOSAJE DE FACTOR VIII
+
+Una muestra de la mezcla inicial debe ser sometida a dosaje de Factor VIII. El ensayo debe realizarse según metodología descripta en Farmacopea Europea, última edición.
+La actividad no debe ser inferior a 0.7 U.I./ml.
+
+D.4.2.4.  PRUEBAS SEROLÓGICAS
+
+Durante la fabricación de hemoderivados el primer pool homogéneo de plasma, debe ser ensayado para Antígeno de superficie de Virus de Hepatitis B (HBsAg),  Anticuerpos contra virus de Hepatitis C (a-HCV) y Anticuerpos contra Virus de la Inmunodeficiencia Humana tipo 1 y 2 (a-HIV 1y2). Estas determinaciones deben llevarse a cabo utilizando métodos de sensibilidad y especificidad adecuadas y la mezcla inicial debe ser no reactiva para estos marcadores.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.4.3. CONTROL DEL PRODUCTO A GRANEL
+
+D.4.3.1 DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel, debe ser sometida a determinación potenciométrica de pH, según metodología descripta en Farmacopea Europea, última edición. El pH debe estar entre 6,5 y 7,5.
+
+D.4.3.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto  a granel debe ser sometida a determinación de la concentración proteica por método de Kjeldhal, ó  Biuret, ó  Bradford.
+
+D.4.3.3. DOSAJE DEL FACTOR VIII
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a dosaje de Factor VIII según la metodología descripta en Farmacopea Europea, última edición.  La potencia estimada debe ser no menos que 80% y no más que 120% de la potencia declarada en el rótulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 120%.
+La potencia de la preparación reconstituida de acuerdo a las indicaciones del productor, debe ser no menor a 20 U.I. de factor VIII:C/ml.
+
+D.4.3.4. ENSAYO DE ESTERILIDAD
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto  a granel debe ser sometida a ensayo de esterilidad según la metodología descripta en Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+D.4.3.5. ENSAYO DE PIRETÓGENOS
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto  a granel debe ser sometida a ensayo de piretógenos por inoculación endovenosa de no menos de 30 U.I. de Factor VIII:C por kilogramo de peso del animal, en conejos de por lo menos 1,5 Kg. Los procedimientos de la interpretación de los resultados deben estar de acuerdo con los criterios descriptos en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.4.4. PRODUCTO TERMINADO
+
+El diluyente que acompaña las preparaciones liofilizadas debe cumplir con los requisitos para Agua estéril para inyectable, descriptos en la Farmacopea de los Estados Unidos (USP) o Farmacopea Europea última edición.
+
+D.4.4.1.CONTROL DEL PRODUCTO TERMINADO
+
+Las preparaciones liofilizadas deben ser reconstituidas conforme a las instrucciones de uso, inmediatamente antes de los ensayos, excepto para los ensayos de solubilidad y de humedad residual.
+
+D.4.4.1.1. INSPECCIÓN VISUAL
+
+Una muestra del producto terminado debe ser sometida a inspección visual contra fondo claro y oscuro. La preparación liofilizada es un polvo o masa sólida friable blanca o ligeramente amarilla. La solución debe presentar una coloración entre incolora a amarillo pálido, debe estar límpida o ligeramente opalescente y exenta de partículas.
+
+D.4.4.1.2. DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra del producto terminado, debe ser sometida a determinación potenciométrica de pH según metodología descripta en Farmacopea Europea, última edición. El pH debe estar entre 6,5 y 7,5.
+
+D.4.4.1.3. DETERMINACIÓN DE CONCENTRACIÓN  PROTEICA
+
+Una muestra del producto terminado, debe ser sometida a determinación de concentración proteica por el método de Kjelhdal, según metodología descripta en Farmacopea Europea, última edición.
+
+D.4.4.1.4. DETERMINACIÓN DE OSMOLALIDAD:
+
+Una muestra del Producto terminado debe ser sometida a la determinación de Osmolalidad según metodología descripta en Farmacopea Europea, última edición. La osmolalidad no debe ser inferior a 240 mOsm/kg.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.4.4.1.5. DOSAJE DEL FACTOR VIII
+
+Una muestra del producto terminado debe ser sometida a dosaje de Factor VIII según la metodología descripta en Farmacopea Europea, última edición.  La potencia estimada debe ser no menos que  80% y no más que 120% de la potencia declarada en el rótulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 120%.
+La potencia de la preparación, reconstituida de acuerdo a las indicaciones del productor, debe ser no menor a 20 U.I. de factor VIII:C/ml.
+
+D.4.4.1.6. ACTIVIDAD DE FACTOR DE VON WILLEBRAND
+
+Para aquellos productos que estén indicados para tratamiento de la enfermedad de von Willebrand, debe llevarse a cabo el ensayo de Actividad de Factor de von Willebrand. La actividad debe determinarse por un método adecuado usando una preparación de referencia calibrada frente al Standard Internacional de Factor de von Willebrand en plasma según la metodología descripta en la Farmacopea Europea, última edición. La potencia estimada debe ser no menos de 60 % y no más de 140 % de la aprobada para el producto en particular.
+
+D.4.4.1.7. IDENTIFICACIÓN
+
+D.4.4.1.7.1. PRUEBA DE IDENTIDAD
+
+Una muestra del producto terminado debe ser ensayada, en cuanto a su  origen, frente a antisueros específicos y funcionantes de por lo menos cuatro especies diferentes (anti-humano, anti-bovino, anti-equino, anti-caprino y anti-porcino) por inmunodifusión o por imnunoelectroforesis, según metodología descripta en Farmacopea Europea, última edición. La muestra debe presentar reactividad solamente frente al suero anti-humano. Los antisueros de las demás especies deben presentar reactividad exclusivamente frente a sus antígenos específicos.
+
+D.4.4.1.7.2. PRUEBAS COMPLEMENTARIAS
+
+El ensayo para Factor VIII (según 4.4.1.5.), y, en los casos que sea aplicable, el ensayo de factor de von Willebrand (según 4.4.1.6.), contribuyen a la identificación del producto.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.4.4.1.8. ENSAYO DE ESTERILIDAD
+
+Una muestra del producto terminado debe ser sometida a ensayo de esterilidad, según la metodología descripta en Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+D.4.4.1.9. ENSAYO DE PIRETÓGENOS
+
+Una muestra del producto terminado debe ser sometida a ensayo de piretógenos por inoculación endovenosa de no menos de 30 U.I. de factor VIII:C/Kg. de peso, en conejos de por lo menos 1,5 Kg.. Los procedimientos de la interpretación de los resultados deben estar de acuerdo con los criterios descriptos en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+D.4.4.1.10. ENSAYO DE INOCUIDAD (TOXICIDAD INESPECÍFICA)
+
+Una muestra del producto terminado debe ser sometida a ensayo de inocuidad según la metodología descripta en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+D.4.4.1.11. DETERMINACIÓN DE ANTÍGENO DE SUPERFICIE DE VIRUS DE HEPATITIS B
+
+Una muestra del Producto terminado debe ser ensayada para Determinación de Antígeno de Superficie de Virus de Hepatitis B (HBsAg), por inmunoensayo de sensibilidad y especificidad adecuadas y aprobado por la Autoridad Sanitaria Competente. No debe detectarse Antígeno de Superficie de Virus de Hepatitis B.
+
+D.4.4.1.12. DETERMINACIÓN DE SOLUBILIDAD
+
+Una muestra del producto terminado debe disolverse completamente cuando es adicionado el diluyente recomendado por el productor, en un máximo de 10 minutos a una temperatura entre 20ºC y 25ºC.
+
+D.4.4.1.13. DETERMINACIÓN DE LA HUMEDAD RESIDUAL
+
+Una muestra del producto terminado debe ser sometida a determinación de humedad residual según la metodología descripta en Farmacopea Europea, última edición. La humedad residual no debe exceder del 3 %.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.4.4.1.14. DETERMINACIÓN DE HEMAGLUTININAS ANTI-A Y ANTI-B POR MÉTODO INDIRECTO
+
+Una muestra del producto terminado debe ser sometida a la determinación de hemaglutininas anti-A y anti-B por método indirecto, según la metodología descripta en Farmacopea Europea, última edición. No debe observarse aglutinación en la dilución igual a 1:64.
+
+D.5. ALMACENAMIENTO Y PLAZO DE VALIDEZ
+
+El producto terminado, almacenado entre 2ºC y 8ºC y protegido de la luz, tiene un período de vencimiento máximo de 2 años.
+
+D.6. ROTULADO
+
+D.6.1. RÓTULO DEL FRASCO - AMPOLLA (Envase Primario)
+
+El rótulo del frasco-ampolla del Producto Terminado debe presentar, además de lo exigido para los medicamentos (Resolución GMC 23/95 ó Res. vigente), las siguientes informaciones:
+
+D.6.1.1.- Una leyenda: "Una vez reconstituida, no utilizar si la solución es turbia o presenta depósito";
+
+D.6.1.2.- Una leyenda: "Después de la apertura del frasco - ampolla, el producto debe ser utilizado inmediatamente";
+
+D.6.1.3.- Una leyenda: "No agitar"
+
+D.6.1.4.- Instrucciones para reconstitución
+
+D.6.2. RÓTULO DEL ESTUCHE
+
+El rótulo del estuche del Producto terminado debe presentar las informaciones exigidas para medicamentos (Resolución GMC 23/95 ó Res. vigente).
+
+D.6.3. PROSPECTO
+
+El prospecto del producto terminado debe presentar la misma información exigida para los medicamentos (Resolución GMC 23/95 ó Res. vigente).
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+D. FACTOR VIII
+__________________________________________________________________
+
+D.7. REGISTROS
+
+D.7.1. La planta productora de hemoderivados debe mantener para cada lote producido registros:
+
+D.7.1.1. De la materia prima utilizada incluyendo el registro de las unidades de plasma, y/o de plasmaféresis acompañado de los resultados de los controles serológicos realizados.
+
+D.7.1.2. De las etapas de fabricación y control de cada lote.
+
+D.7.1.3. De los resultados obtenidos.
+
+D.7.1.4. De su distribución.
+
+D.7.2. Estos registros deben estar disponibles en la unidad de control de calidad del productor por lo menos un (1) año después de la fecha de vencimiento de los respectivos lotes.
+
+D.8. MEMORIA (Archivo de la muestra)
+
+D.8.1. El archivo de la muestra tiene como objetivo posibilitar la verificación, en cualquier momento, de las características del producto. El productor debe retener, como mínimo seis (6) meses después de la fecha de vencimiento de cada Lote de producto terminado, una muestra significativa del mismo, así como una muestra de la Mezcla Inicial que le dio origen.
+
+D.8.2. La muestra de la mezcla inicial debe mantenerse a temperaturas no superior a 20ºC bajo cero.
+
+D.8.3. Las muestras de producto terminado deben mantenerse en las condiciones establecidas por el productor.
+
+D.9. LIBERACION Y EXPEDICION DE PRODUCTO TERMINADO:
+
+La liberación y expedición de cada lote de producto terminado de Factor VIII debe realizarse de acuerdo a lo establecido en la Resolución GMC 4/92 o Resolución vigente.
+
+D.10.TRANSPORTE
+
+Los lotes de Factor VIII deben ser transportados en las condiciones indicadas en el ítem D.5.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.1. DENOMINACIÓN
+
+Concentrado de Factor IX.
+
+E.2. DEFINICIÓN DESCRIPTIVA
+
+El Factor IX Humano liofilizado es una fracción de proteínas plasmáticas que contienen el factor IX de la coagulación preparado por un método que separe efectivamente de otros factores del complejo protrombínico (Factores II, VII y X). La potencia de la preparación reconstituida según las indicaciones del rótulo debe ser no inferior a 20 U.I de factor IX/ml.
+La actividad específica antes del agregado de cualquier proteína estabilizante, debe ser no menor que 50 U.I. de factor IX por miligramo de proteína total.
+
+E.3. MATERIA PRIMA
+
+E.3.1. GENERALIDADES:
+
+E.3.1.1. La materia prima para la obtención de Factor IX puede ser plasma fresco, plasma fresco congelado, o unidades de plasmaféresis, debiendo cada unidad ser identificada de manera que permita relacionarla correctamente con el donante y la respectiva fecha de donación.
+
+E.3.1.2. La materia prima no debe ser manipulada más de lo estrictamente necesario y debe ser mantenida a temperatura no superior a 20°C bajo cero.
+
+E.3.2. CONTROL DE LA MATERIA PRIMA
+
+E.3.2.1. El plasma humano para fraccionamiento utilizado como materia prima para la producción de Factor IX debe ser proveniente de unidades de sangre total y/o de plasmaféresis que hayan sido sometidas individualmente, a los controles serológicos obligatorios establecidos en la monografía de "Plasma Humano para Fraccionamiento" de la Farmacopea Europea última edición. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+E.3.2.2. Cuando se trata de productos importados extra zona, las unidades de plasma y/o de plasmaféresis usadas como materia prima para la producción de Factor IX deben provenir de unidades de sangre total y/o de plasmaféresis que hayan sido sometidas individualmente a los controles serológicos obligatorios en el país de origen, siendo obligatoria la realización de los ensayos para HIV 1 y 2, Hepatitis B y Hepatitis C. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.3.2.3. La autoridad sanitaria competente del país importador debe analizar el perfil epidemiológico de las patologías transmisibles por sangre existentes en el país de origen de la materia prima, pudiendo exigir la realización de otros ensayos en cada unidad de plasma extraído.
+
+E.3.2.4. La planta productora de Factor IX debe efectuar el control serológico de cada unidad de plasma y/o de plasmaferesis a ser utilizada en la producción o certificar los procedimientos operativos de la(s) institución(es) hemoterapéutica(s) que suministran la materia prima. Esta certificación deberá realizarse por lo menos una vez cada doce meses.
+
+E.3.2.5. El productor de Factor IX es responsable de la calidad del plasma y de  todas las materias primas usadas en la obtención de este producto.
+
+E.4. CONTROL DE LAS OPERACIONES DE FABRICACIÓN
+
+E.4.1. GENERALIDADES
+
+E.4.1.1. INACTIVACION/ ELIMINACIÓN VIRAL:
+
+E.4.1.1.1 El método de preparación de Factor IX debe incluir una o más etapas que hayan demostrado eliminar o inactivar virus infecciosos conocidos.
+
+E.4.1.1.2 Si se utilizan sustancias agregadas para la inactivación del virus, deben validarse los procesos posteriores de purificación para demostrar que la concentración de estas sustancias se reduce a un nivel tal que no ocasionen efectos adversos en los pacientes que reciben el producto.
+
+E.4.1.1.3. Los métodos usados deben estar validados para eliminación del riesgo viral y autorizados por la Autoridad Sanitaria competente.
+
+E.4.1.2. ADITIVOS
+
+E.4.1.2.1 Se permite el uso de sustancias estabilizantes tales como albúmina humana, heparina, u otras aprobadas por la Autoridad Sanitaria Competente.
+
+E.4.1.2.2. Todos los aditivos proteicos deberán cumplir con los requisitos establecidos en la monografía correspondiente de la Farmacopea Europea última edición.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.4.2. CONTROL DE LA MEZCLA INICIAL
+
+E.4.2.1. DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra de la mezcla inicial debe ser sometida a la determinación potenciométrica de pH, según metodología descripta en Farmacopea Europea, última edición.
+
+E.4.2.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra de la mezcla inicial debe ser sometida a la determinación de la concentración proteica por método de Kjeldhal, ó Biuret, ó Bradford.
+
+E.4.2.3. PRUEBAS SEROLÓGICAS
+
+Durante la fabricación de hemoderivados el primer pool homogéneo de plasma,  debe ser ensayado para Antígeno de Superficie de Virus de Hepatitis B, (HBsAg), Anticuerpos contra Virus de Hepatitis C (a-HCV), Anticuerpos contra Virus de la Inmunodeficiencia Humana tipos 1 y 2 (a-HIV 1y2). Estas determinaciones deben llevarse a cabo utilizando métodos de sensibilidad y especificidad adecuadas y la mezcla inicial debe ser no reactiva para estos marcadores.
+
+E.4.3. CONTROL DEL PRODUCTO A GRANEL
+
+E.4.3.1. DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel, debe ser sometida a determinación potenciométrica de pH, según metodología descripta en la Farmacopea Europea última edición. El pH debe estar entre 6,5 y 7,5.
+
+E.4.3.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto  a granel debe ser sometida a determinación de la concentración proteica por método de Kjeldhal, ó Biuret, ó Bradford.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.4.3.3. DOSAJE DEL FACTOR IX
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a dosaje de Factor IX según la metodología descripta en Farmacopea Europea, última edición.  La potencia estimada debe ser no menos que  80% y no más que 125% de la potencia declarada en el rótulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 125%.
+La potencia de la preparación reconstituida según las indicaciones del productor no debe ser inferior a 20 U.I. de Factor IX/ml.
+
+E.4.3.4. ENSAYO DE ESTERILIDAD
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto  a granel debe ser sometida a ensayo de esterilidad según la metodología descripta en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+E.4.3.5. ENSAYO DE PIRETÓGENOS
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a ensayo de piretógenos por inoculación endovenosa de 30 U.I. de Factor IX/kg. de peso, en conejos de por lo menos 1,5 Kg. Los procedimientos de la interpretación de los resultados deben estar de acuerdo con los criterios descriptos en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+E.4.4. PRODUCTO TERMINADO
+
+El diluyente que acompaña las preparaciones liofilizadas debe cumplir con los requisitos para Agua estéril para inyectable, descriptos en la Farmacopea de los Estados Unidos (USP) o Farmacopea Europea última edición.
+
+E.4.4.1. CONTROL DEL PRODUCTO TERMINADO
+
+Las preparaciones liofilizadas deben ser reconstituidas conforme a las instrucciones de uso, inmediatamente antes de los ensayos, excepto para los ensayos de solubilidad y de humedad residual.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.4.4.1.1. INSPECCIÓN VISUAL
+
+Una muestra del producto terminado debe ser sometida a inspección visual contra fondo claro y oscuro. La preparación liofilizada es un polvo o masa sólida friable blanca o ligeramente amarilla. La solución debe presentar una coloración entre incolora a amarillo pálido, debe estar límpida o ligeramente opalescente y exenta de partículas.
+
+E.4.4.1.2. DETERMINACIÓN POTENCIOMETRICA DE pH
+
+Una muestra del producto terminado, debe ser sometida a determinación potenciométrica de pH según metodología descripta en Farmacopea Europea última edición. El pH debe estar entre 6,5 y 7,5.
+
+E.4.4.1.3. DETERMINACIÓN DE CONCENTRACIÓN PROTEICA
+
+Una muestra del producto terminado, debe ser sometida a determinación de concentración proteica por el método de Kjeldhal, según metodología descripta en Farmacopea Europea, última edición.
+
+E.4.4.1.4. DETERMINACIÓN DE OSMOLALIDAD:
+
+Una muestra del producto terminado debe ser sometida a la determinación de Osmolalidad según metodología descripta en Farmacopea Europea, última edición. La osmolalidad no debe ser inferior a 240 mOsmol/kg.
+
+E.4.4.1.5. DOSAJE DEL FACTOR IX
+
+Una muestra del producto terminado debe ser sometida a dosaje de Factor IX según  la metodología descripta en Farmacopea Europea, última edición. La potencia estimada debe ser no menos que  80% y no más que 125% de la potencia declarada en el rótulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 125%.
+La potencia de la preparación reconstituida según las indicaciones del productor debe ser no inferior a 20 U.I de factor IX/ml.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.4.4.1.6. IDENTIFICACION
+
+E.4.4.1.6.1. PRUEBA DE IDENTIDAD
+
+Una muestra del producto terminado debe ser ensayada, en cuanto a su origen, frente a antisueros específicos y funcionantes de por lo menos cuatro especies diferentes (anti-humano, anti-bovino, anti-equino, anti-caprino y anti-porcino) por inmunodifusión o por imnunoelectroforesis, según metodología descripta en Farmacopea Europea, última edición. La muestra debe presentar reactividad solamente frente al suero anti- humano. Los antisueros de las demás especies deben presentar reactividad exclusivamente frente a sus antígenos específicos.
+
+E.4.4.1.6.2. PRUEBAS COMPLEMENTARIAS
+
+El ensayo para Factor IX (según E.4.4.1.5.), contribuye a la identificación del producto
+
+E.4.4.1.7. ENSAYO DE ESTERILIDAD
+
+Una muestra del producto terminado debe ser sometida a ensayo de esterilidad, según la metodología descripta en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+E.4.4.1.8. ENSAYO DE PIRETÓGENOS
+
+Una muestra del producto terminado debe ser sometida a ensayo de piretógenos por inoculación endovenosa de 30 U.I. de factor IX/Kg. de peso, en conejos de por lo menos 1,5 Kg. Los procedimientos de la interpretación de los resultados deben estar de acuerdo con los criterios descriptos en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+E.4.4.1.9. ENSAYO DE INOCUIDAD (TOXICIDAD INESPECÍFICA)
+
+Una muestra del producto terminado debe ser sometida a ensayo de inocuidad según la metodología descripta en la Farmacopea de los Estados Unidos (USP). El resultado debe ser satisfactorio.
+
+E.4.4.1.10. DETERMINACIÓN DE SOLUBILIDAD
+
+Una muestra del producto terminado debe disolverse completamente cuando es adicionado el diluyente recomendado por el productor, en un máximo de 10 minutos a una temperatura entre 20ºC y 25ºC.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.4.4.1.11. DETERMINACIÓN DE LA HUMEDAD RESIDUAL
+
+Una muestra del producto terminado debe ser sometida a determinación de humedad residual según la metodología descripta en la Farmacopea Europea, última edición. La humedad residual no debe exceder el 3 %.
+
+E.4.4.1.12 DETERMINACIÓN DE HEPARINA
+
+Si se ha agregado Heparina durante la preparación, se debe determinar la cantidad presente, según la metodología descripta para ensayo de Heparina para Factores de coagulación, en la Farmacopea Europea, última edición. La muestra debe contener no más que 0.5 U.I. de Heparina por U.I. de Factor IX.
+
+E.4.4.1.13. DETERMINACIÓN DE FACTORES DE COAGULACIÓN ACTIVADOS
+
+Una muestra del producto terminado, debe ser sometida al ensayo de Determinación de Factores de coagulación activados según metodología descripta en la Farmacopea Europea última edición.
+
+E.5. ALMACENAMIENTO Y PLAZO DE VALIDEZ
+
+El producto terminado almacenado entre 2ºC y 8ºC y protegido de la luz tiene un período de vencimiento máximo de 2 años.
+
+E.6. ROTULADO
+
+E.6.1. RÓTULO DEL FRASCO - AMPOLLA (Envase Primario)
+
+El rótulo del frasco-ampolla del Producto terminado debe presentar, además de lo exigido para los medicamentos (Resolución GMC 23/95 ó Res. vigente), las siguientes informaciones:
+
+E.6.1.1.- la leyenda: "Una vez reconstituida, no utilizar la solución que este turbia o presente depósito";
+
+E.6.1.2.- la leyenda: "Después de la apertura del frasco - ampolla, el producto debe ser utilizado inmediatamente";
+
+E.6.1.3.- la leyenda: "No agitar"
+
+E.6.1.4.- Instrucciones para reconstitución
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.6.2. RÓTULO DEL ESTUCHE
+
+El rótulo del estuche del Producto Terminado debe presentar las informaciones exigidas para medicamentos (Resolución GMC 23/95 ó Res. vigente).
+
+E.6.3. PROSPECTO
+
+El prospecto del producto terminado debe presentar la misma información exigida para los medicamentos (Resolución GMC 23/95 ó Res. vigente).
+
+E.7. REGISTROS
+
+E.7.1. La planta productora de hemoderivados debe mantener para cada lote producido registros:
+
+E.7.1.1. De la materia prima utilizada incluyendo el registro de las unidades de plasma y/o de plasmaféresis acompañado de los resultados de los controles serológicos realizados.
+
+E.7.1.2. De las etapas de fabricación y control de cada lote.
+
+E.7.1.3. De los resultados obtenidos.
+
+E.7.1.4. De su distribución.
+
+E.7.2. Estos registros deben estar disponibles en la unidad de control de calidad del productor por lo menos un (1) año después de la fecha de vencimiento de los respectivos lotes.
+
+E.8. MEMORIA (Archivo de la muestra)
+
+E.8.1. El archivo de la muestra tiene como objetivo posibilitar la verificación, en cualquier momento, de las características del producto. El productor debe retener, como mínimo seis (6) meses después de la fecha de vencimiento de cada lote de producto terminado, una muestra significativa del mismo, así como una muestra de la mezcla Inicial que le dio origen.
+
+E.8.2. La muestra de la mezcla inicial debe mantenerse a temperatura no superior a 20ºC bajo cero.
+
+E.8.3. Las muestras de producto terminado deben mantenerse en las condiciones establecidas por el productor.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+E. FACTOR IX
+__________________________________________________________________
+
+E.9. LIBERACION Y EXPEDICION DE PRODUCTO TERMINADO:
+
+La liberación y expedición de cada lote de producto terminado de Factor IX debe realizarse de acuerdo a lo establecido en la Resolución GMC 4/92 o Resolución vigente.
+
+E.10.TRANSPORTE
+
+Los lotes de Factor IX deben ser transportados en las condiciones indicadas en el ítem E.5.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.1. DENOMINACIÓN
+
+Complejo Protrombínico humano.
+
+F.2. DEFINICIÓN DESCRIPTIVA
+
+El Complejo Protrombínico humano liofilizado es una fracción de proteínas plasmáticas que contiene factor IX de la coagulación junto con cantidades variables de Factores II, VII y X; la presencia y proporción de estos factores depende del método de fraccionamiento utilizado.
+La potencia de la preparación reconstituida debe ser no inferior a 20 U.I. de factor IX/ml.
+La actividad específica antes del agregado de cualquier proteína estabilizante, no debe ser inferior a 0.6 U.I. de factor IX por miligramo de proteínas totales.
+
+F.3. MATERIA PRIMA
+
+F.3.1. GENERALIDADES:
+
+F.3.1.1. La materia prima para la obtención de Complejo Protrombínico puede ser plasma fresco, plasma fresco congelado, o unidades de plasmaféresis, debiendo cada unidad ser identificada de manera que permita relacionarla correctamente con el donante y la respectiva fecha de donación.
+
+F.3.1.2. La materia prima no debe ser manipulada más de lo estrictamente necesario y debe ser mantenida a temperatura no superior a 20° C bajo cero.
+
+F.3.2. CONTROL DE LA MATERIA PRIMA
+
+F.3.2.1.  El plasma humano para fraccionamiento utilizado como materia prima para la producción de Complejo Protrombínico debe ser proveniente de unidades de sangre total y/o de plasmaféresis que hayan sido sometidas, individualmente, a los controles serológicos obligatorios establecidos en la monografía de "Plasma Humano para fraccionamiento" de la Farmacopea Europea última edición. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.3.2.2. Cuando se trata de productos importados extra zona las unidades de plasma y/o de plasmaféresis usadas como materia prima para la producción de Complejo Protrombínico, deben provenir de unidades de sangre total y/o de plasmaféresis que hayan sido sometidas individualmente a los controles serológicos obligatorios en el país de origen, siendo obligatoria la realización de los ensayos para HIV 1y2, Hepatitis B y Hepatitis C. Cada unidad de plasma ensayada debe resultar No Reactiva a los controles serológicos realizados.
+
+F.3.2.3. La autoridad sanitaria competente del país importador debe analizar el perfil epidemiológico de las patologías transmisibles por sangre existentes en el país de origen de la materia prima, pudiendo exigir la realización de otros ensayos en cada unidad de plasma extraído.
+
+F.3.2.4. La planta productora de Complejo Protrombínico debe efectuar el control serológico de cada unidad de plasma y/o de plasmaféresis, a ser utilizada en la producción de Complejo Protrombínico o certificar los procedimientos operativos de la(s) institución(es) hemoterapéutica(s) que suministran la materia prima. Esta certificación deberá realizarse por lo menos una vez cada doce meses.
+
+F.3.2.5. El productor de Complejo Protrombínico es responsable de la calidad del plasma y de todas las materias primas usadas en la obtención de este producto.
+
+F.4. CONTROL DE LAS OPERACIONES DE FABRICACIÓN
+
+F.4.1. GENERALIDADES
+
+F.4.1.1. INACTIVACION/ELIMINACIÓN VIRAL:
+
+F.4.1.1.1. El método de preparación de Complejo Protrombínico debe incluir una o más etapas que hayan demostrado eliminar o inactivar virus infecciosos conocidos.
+
+F.4.1.1.2. Si se utilizan sustancias agregadas para la inactivación de virus, deben validarse los procesos posteriores de purificación para demostrar que la concentración de estas sustancias se reduce a un nivel tal que no ocasionen efectos adversos en los pacientes que reciben el producto.
+
+F.4.1.1.3. Los métodos deben estar validados para eliminación del riesgo viral y autorizados por la Autoridad Sanitaria competente.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.4.1.2. ADITIVOS
+
+F.4.1.2.1. Se permite el uso de sustancias estabilizantes tales como albúmina humana, Heparina, u otras aprobados por la Autoridad Sanitaria competente.
+
+F.4.1.2.2. Todos los aditivos proteicos deberán cumplir con los requisitos establecidos en la monografía correspondiente de la Farmacopea Europea última edición.
+
+F.4.2.CONTROL DE LA MEZCLA INICIAL
+
+F.4.2.1. DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra de la mezcla inicial debe ser sometida a la determinación potenciométrica de pH, según metodología descripta en Farmacopea Europea, última edición.
+
+F.4.2.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra de la mezcla inicial debe ser sometida a la determinación de la concentración proteica por método de Kjeldhal, ó Biuret, ó Bradford.
+
+F.4.2.3. PRUEBAS SEROLÓGICAS
+
+Durante la fabricación de hemoderivados el primer pool homogéneo de plasma,  debe ser ensayado para Antígeno de Superficie de Virus de Hepatitis B (HBsAg), Anticuerpos contra virus de Hepatitis C (a-HCV) y Anticuerpos contra Virus de la Inmunodeficiencia Humana tipos 1 y 2 (a-HIV 1y2). Estas determinaciones deben llevarse a cabo utilizando métodos de sensibilidad y especificidad adecuados y la mezcla inicial debe ser no reactiva para estos marcadores.
+
+F.4.3. CONTROL DEL PRODUCTO A GRANEL
+
+F.4.3.1. DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel, debe ser sometida a determinación potenciométrica de pH según metodología descripta en la Farmacopea Europea, última edición. El pH debe estar entre 6,5 y 7,5.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.4.3.2. DETERMINACIÓN DE LA CONCENTRACIÓN PROTEICA
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a determinación de la concentración proteica por método de Kjeldhal, ó Biuret, ó Bradford.
+
+F.4.3.3. DOSAJE DEL FACTOR IX
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a dosaje de Factor IX según metodología descripta en Farmacopea Europea, última edición. La potencia estimada debe ser no menos que 80% y no más que 125% de la potencia declarada en el rotulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 125%.
+La potencia de la preparación reconstituida de acuerdo a las indicaciones del productor, no debe ser inferior a 20 U.I. de factor IX por mililitro.
+
+F.4.3.4. DOSAJE DEL FACTOR VII
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a dosaje de Factor VII según la metodología descripta en Farmacopea Europea, última edición. La potencia estimada debe ser no menos que 80% y no más que 125% de la potencia declarada en el rotulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 125%.
+
+F.4.3.5. DOSAJE DE FACTORES II Y X
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a dosaje de Factores II y X por ensayos validados. La potencia estimada debe ser no menos que 80% y no más que 125% de la potencia declarada en el rotulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 125%.
+
+F.4.3.6. ENSAYO DE ESTERILIDAD
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a ensayo de esterilidad según metodología descripta en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.4.3.7. ENSAYO DE PIRETÓGENOS
+
+Una muestra tomada de manera de no comprometer la esterilidad del producto a granel debe ser sometida a ensayo de piretógenos por inoculación endovenosa de 30 U.I. de Factor IX por Kg de peso, en conejos de por lo menos 1,5 kg. Los procedimientos de la interpretación de los resultados deben estar de acuerdo con los criterios descriptos en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+F.4.4. PRODUCTO TERMINADO
+
+El diluyente que acompaña las preparaciones liofilizadas debe cumplir con los requisitos para Agua estéril para inyectable, establecidos por la Farmacopea de los Estados Unidos (USP), o Farmacopea Europea última edición.
+
+F.4.4.1. CONTROL DEL PRODUCTO TERMINADO
+
+Las preparaciones liofilizadas deben ser reconstituidas conforme a las instrucciones de uso, inmediatamente antes de los ensayos, excepto para los ensayos de solubilidad y de humedad residual.
+
+F.4.4.1.1. INSPECCIÓN VISUAL
+
+Una muestra del producto terminado debe ser sometida a inspección visual contra fondo claro y oscuro. La preparación liofilizada es un polvo o masa sólida friable blanca o ligeramente amarilla. La solución debe presentar una coloración entre incolora a amarillo pálido, debe estar límpida o ligeramente opalescente y exenta de partículas.
+
+F.4.4.1.2. DETERMINACIÓN POTENCIOMÉTRICA DE pH
+
+Una muestra del producto terminado, debe ser sometida a determinación potenciométrica de pH según metodología descripta en Farmacopea Europea, última edición. El pH debe estar  entre 6,5 y 7,5.
+
+F.4.4.1.3. DETERMINACIÓN DE CONCENTRACIÓN PROTEICA
+
+Una muestra del producto terminado debe ser sometida a la determinación de concentración de proteínas por el método de Kjeldhal, según metodología descripta en Farmacopea Europea, última edición.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.4.4.1.4. DETERMINACIÓN DE OSMOLALIDAD:
+
+Una muestra del producto terminado debe ser sometida a la determinación de Osmolalidad según metodología descripta en la Farmacopea Europea, última edición. La osmolalidad no debe ser inferior a 240 mOsm/kg.
+
+F.4.4.1.5. DOSAJE DEL FACTOR IX
+
+Una muestra del producto terminado debe ser sometida a dosaje de Factor IX según la metodología descripta en la Farmacopea Europea, última edición. La potencia estimada debe ser no menos que  80% y no más que 125% de la potencia declarada en el rótulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 125%.
+La potencia de la preparación reconstituida según las indicaciones del productor no debe ser inferior a 20 U.I de factor IX/ml.
+
+F.4.4.1.6. DOSAJE DEL FACTOR VII
+
+Una muestra de producto terminado debe ser sometida a dosaje de Factor VII según la metodología descripta en la Farmacopea Europea, última edición. La potencia estimada debe ser no menos que  80% y no más que 125% de la potencia declarada en el rótulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 125%.
+
+F.4.4.1.7. DOSAJE DE FACTORES II Y X
+
+Una muestra de producto terminado debe ser sometida a dosaje de Factor II y Factor X por ensayos validados. La potencia estimada debe ser no menos que 80% y no más que 125% de la potencia declarada en el rótulo. El intervalo de confianza (P= 0.95) de la potencia estimada no debe ser mayor que 80 % a 125%.
+
+F.4.4.1.8. IDENTIFICACION
+
+     F.4.4.1.8.1. PRUEBA DE IDENTIDAD
+
+Una muestra del producto terminado debe ser ensayada, en cuanto a su  origen, frente a antisueros específicos y funcionantes de por lo menos  cuatro especies diferentes (anti-humano, anti-bovino, anti-equino, anti-caprino y anti-porcino) por inmunodifusión o por imnunoelectroforesis, según metodología descripta en la Farmacopea Europea, última edición. La muestra debe presentar reactividad solamente frente al suero anti-humano. Los antisueros de las demás especies deben presentar reactividad exclusivamente frente a sus antígenos específicos.
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.4.4.1.8.2. PRUEBAS COMPLEMENTARIAS
+
+El dosaje de Factor IX (realizado según F.4.4.1.5.) y el dosaje de los factores II, VII y X (según F.4.4.1.6. y F.4.4.1.7.) contribuyen a la identificación del producto.
+
+F.4.4.1.9. ENSAYO DE ESTERILIDAD
+
+Una muestra del producto terminado debe ser sometida a ensayo de esterilidad, según metodología descripta en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+F.4.4.1.10. ENSAYO  DE PIRETÓGENOS
+
+Una muestra del producto terminado debe ser sometida a ensayo de piretógenos por inoculación endovenosa de 30 U.I. de factor IX por Kg de peso, en conejos de por lo menos 1,5 kg.. Los procedimientos de la interpretación de los resultados deben estar de acuerdo con los criterios descriptos en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+F.4.4.1.11. ENSAYO DE INOCUIDAD (TOXICIDAD INESPECÍFICA)
+
+Una muestra del producto terminado debe ser sometida a ensayo de inocuidad según la metodología descripta en la Farmacopea de los Estados Unidos (USP), última edición. El resultado debe ser satisfactorio.
+
+F.4.4.1.12. DETERMINACIÓN DE SOLUBILIDAD
+
+Una muestra del producto terminado debe disolverse completamente cuando es adicionado el diluyente recomendado por el productor, en un máximo de 10 minutos a una temperatura entre 20ºC y 25ºC.
+
+F.4.4.1.13. DETERMINACIÓN DE LA HUMEDAD RESIDUAL
+
+Una muestra del producto terminado liofilizado debe ser sometida a determinación de humedad residual según metodología descripta en Farmacopea Europea, última edición. La humedad residual no debe exceder el 3 %.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.4.4.1.14. DETERMINACIÓN DE HEPARINA
+
+Si se ha agregado Heparina durante la preparación, se debe determinar la cantidad presente según metodología descripta para Ensayo de Heparina para Factores de coagulación en Farmacopea Europea, última edición. La muestra debe contener no más de 0.5 U.I. de Heparina por U.I. de Factor IX.
+
+F.4.4.1.15. DETERMINACIÓN DE FACTORES DE COAGULACIÓN ACTIVADOS
+
+Una muestra del producto terminado, debe ser sometida al ensayo de Determinación de Factores de coagulación activados según metodología descripta en Farmacopea Europea última edición.
+
+F.4.4.1.16. DETERMINACIÓN DE TROMBINA
+
+Una muestra del producto terminado debe ser sometida a Determinación de Trombina según metodología descripta en Farmacopea Europea, última edición.
+
+F.5. ALMACENAMIENTO Y PLAZO DE VALIDEZ
+
+El producto terminado, almacenado entre 2ºC y 8ºC y protegido de la luz tiene un período de vencimiento máximo de 2 años.
+
+F.6. ROTULADO
+
+F.6.1. RÓTULO DEL FRASCO - AMPOLLA (Envase Primario)
+
+El rótulo del frasco-ampolla del Producto terminado debe presentar, además de lo exigido para los medicamentos (Resolución GMC 23/95 ó Res. vigente), las siguientes informaciones:
+
+F.6.1.1.- la leyenda: "Una vez reconstituida, no utilizar la solución que esté turbia o presente depósito";
+
+F.6.1.2.- la leyenda: "Después de la apertura del frasco - ampolla, el producto debe ser utilizado inmediatamente";
+
+F.6.1.3.- la leyenda: "No agitar"
+
+F.6.1.4.- Instrucciones para reconstitución
+
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.6.2. RÓTULO DEL ESTUCHE
+
+El rótulo del estuche del producto terminado debe presentar las informaciones exigidas para medicamentos (Resolución GMC 23/95 ó Res. vigente).
+
+F.6.3. PROSPECTO
+
+El prospecto del producto terminado debe presentar la misma información exigida para los medicamentos (Resolución GMC 23/95 ó Res. vigente)
+
+F.7. REGISTROS
+
+F.7.1. La planta productora de hemoderivados debe mantener para cada lote producido registros:
+
+F.7.1.1. De la materia prima utilizada incluyendo el registro de las unidades de plasma, y/o de plasmaféresis acompañado de los resultados de los controles serológicos realizados.
+
+F.7.1.2.  De las etapas de fabricación y control de cada lote.
+
+F.7.1.3.  De los resultados obtenidos.
+
+F.7.1.4. De su distribución.
+
+F.7.2. Estos registros deben estar disponibles en la unidad de control de calidad del productor por lo menos un (1) año después de la fecha de vencimiento de los respectivos lotes.
+
+F.8. MEMORIA (Archivo de la muestra)
+
+F.8.1. El archivo de la muestra tiene como objetivo posibilitar la verificación, en cualquier momento, de las características del producto. El productor debe retener, hasta seis (6) meses después de la fecha de vencimiento de cada lote de producto terminado, una muestra significativa del mismo, así como una muestra de la mezcla inicial que le dio origen.
+
+F.8.2. La muestra de la mezcla inicial debe mantenerse a temperatura no superior a 20ºC bajo cero.
+
+F.8.3. Las muestras de producto terminado deben mantenerse en las condiciones establecidas por el productor.
+
+REGLAMENTO TÉCNICO MERCOSUR PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICA
+
+COMPLEJO PROTROMBÍNICO
+__________________________________________________________________
+
+F.9. LIBERACION Y EXPEDICION DE PRODUCTO TERMINADO:
+
+F.9.1. La liberación y expedición de cada lote de producto terminado de Complejo Protrombínico debe realizarse de acuerdo a lo establecido en la Resolución GMC 4/92 o Resolución vigente.
+
+F.10. TRANSPORTE
+
+Los lotes de Complejo Protrombínico deben ser transportados en las condiciones indicadas en el ítem F.5.
+
+1
+
+
+1

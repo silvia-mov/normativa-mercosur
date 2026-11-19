@@ -1,0 +1,106 @@
+Resolución GMC N° 25/25
+Título: FARMACOPEA MERCOSUR: MÉTODO DE DETERMINACIÓN DE FORMALDEHIDO RESIDUAL
+Fecha de aprobación: 04/11/2025
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 109904_RES_025-2025_ES_Farmacopea Formaldeido residual.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/5132).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 25/25
+
+
+FARMACOPEA MERCOSUR:
+MÉTODO DE DETERMINACIÓN DE FORMALDEHÍDO RESIDUAL
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones N° 31/11 y 22/14 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que la Farmacopea MERCOSUR tiene como objetivo establecer los requisitos mínimos de calidad y seguridad de los insumos para la salud, especialmente de los medicamentos, apoyando las acciones de reglamentación sanitaria y promoviendo el desarrollo técnico, científico y tecnológico regional.
+
+Que las especificaciones farmacopeicas establecen, por medio de monografías, requisitos mínimos para el control de seguridad y calidad de los insumos, especialidades farmacéuticas, plantas medicinales y derivados producidos o utilizados en los Estados Partes.
+
+Que las especificaciones farmacopeicas son utilizadas como parámetro para las acciones de vigilancia sanitaria, incluyendo el registro de medicamentos, inspecciones y análisis de laboratorio.
+
+Que la Farmacopea MERCOSUR y la producción de patrones propios de calidad favorecen al desarrollo científico y tecnológico de los Estados Partes, contribuyendo a la disminución de la dependencia de proveedores extranjeros y promoviendo a la industria regional.
+
+Que la Farmacopea MERCOSUR debe ser primordialmente sanitaria, con énfasis en la salud pública, y presentar una metodología analítica accesible a los Estados Partes, buscando su reconocimiento y respetabilidad internacional.
+
+Que el diálogo regulatorio y la integración entre los Estados Partes promueven el acceso de la población a medicamentos con mayor calidad y seguridad.
+
+Que el Acuerdo Nº 08/11 de la Reunión de Ministros de Salud del MERCOSUR constituye un marco de referencia para la Farmacopea MERCOSUR.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar, en el marco de lo establecido en la Resolución GMC N° 22/14, el método general "Farmacopea MERCOSUR: Método de Determinación de Formaldehído Residual", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 11 "Salud" (SGT N° 11), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes de 03/V/2026.
+
+CXXXVII GMC - Brasilia, 04/XI/25
+
+
+ANEXO
+
+FARMACOPEA MERCOSUR:
+MÉTODO DE DETERMINACIÓN DE FORMALDEHÍDO RESIDUAL
+
+Este ensayo tiene por objetivo determinar, por método espectrofotométrico, la concentración de formaldehído residual. A menos que se especifique de otro modo en la monografía correspondiente, se debe emplear el Método A. El Método B es aplicable a vacunas, a las cuales se ha agregado metabisulfito de sodio para neutralizar el exceso de formaldehído.
+
+Método A
+
+Reactivo acetilacetona - Agregar 0,2 mL de acetilcetona a 100 mL de una solución de acetato de amonio del siguiente modo: disolver 150 g de acetato de amonio en 500 mL de agua destilada, agregar 3 mL de ácido acético glacial y diluir a 1.000 mL con agua. Almacenar en frascos de vidrio, al abrigo da luz. Utilizar el reactivo dentro de los siete (7) días después de preparado.
+
+Solución de formaldehído - Preparar una solución que contenga entre 34,5 % (p/v) y 38,0 % (p/v) de formaldehído (CH2O) con metanol adicionado (entre 9,0 % y 15,0 %) como agente estabilizante. Verificar la concentración de formaldehído de la siguiente manera: transferir 1 g de Solución de formaldehído a un matraz aforado de 100 mL conteniendo 2,5 mL de agua destilada y 1 mL de solución de hidróxido de sodio al 8,5 %, agitar y diluir a volumen con agua destilada.  Transferir 10,0 mL de la solución obtenida anteriormente a un recipiente apropiado y agregar 30,0 mL de solución 0,05 M de iodo. Mezclar y agregar 10 mL de solución de hidróxido de sodio al 8,5 %.  Dejar reposar la solución al abrigo de la luz durante 15 minutos. Luego, agregar 25 mL de ácido sulfúrico diluido (agregar 5,5 mL de ácido sulfúrico a 60 mL de agua destilada, dejar enfriar y diluir hasta 100 mL con el mismo solvente) y 4 mL de solución indicadora de almidón (SI). Titular con tiosulfato de sodio 0,1 M (SV).  Cada mililitro de solución 0,05 M de iodo (SV) es equivalente a 1,501 mg de formaldehído.  Proteger la solución de la luz, a una temperatura entre 15 y 25 °C.
+
+Solución muestra - Preparar una dilución 1:10 de la vacuna en ensayo.  A 1 mL de la dilución anterior, agregar 3 mL de ácido tricloroacético a 2,5% (v/v) y 4 mL de Reactivo acetilacetona. Agitar manualmente y, a menos que se especifique de otro modo en la monografía individual, colocar en un baño maría a 40 °C durante 40 minutos y posteriormente enfriar con agua fría.  Alternativamente, colocar en baño maría a 58°C por cinco (5) minutos y posteriormente enfriar con agua fría.  Utilizar inmediatamente luego de su preparación.
+
+Solución estándar de formaldehído - Preparar una solución de formaldehído de 20 µg por mL a partir de la Solución de formaldehído. Emplear 1 mL de esta solución y proceder de la misma forma y al mismo tiempo que para la Solución muestra a partir de "agregar 3 mL de ácido tricloroacético...".
+
+Procedimiento - Determinar las absorbancias de la Solución muestra y la Solución estándar de formaldehído en una cubeta de vidrio o cuarzo a 412 nm, utilizando agua como blanco.  La absorbancia media de triplicados de Solución muestra debe ser menor a la absorbancia media de triplicados de Solución estándar de formaldehído.  Si los resultados obtenidos se hallan muy próximos entre sí, determinar la concentración de formaldehído en la muestra en ensayo realizando una curva de calibración de formaldehído de seis (6) puntos con concentraciones entre 0,5 µg por mL y 20 µg por mL.
+
+Criterio de aceptación: no debe contener más de 200 µg de formaldehído por mL de vacuna.
+
+Método B
+
+Soluciones estándar - Preparar soluciones que contengan aproximadamente 0,25; 0,50; 1,00 y 2,00 mg de formaldehído por mL de agua, a partir de la Solución de formaldehído preparada en Método A.  Realizar una dilución de 1:200 de cada solución en agua, respectivamente.
+
+Solución muestra - Realizar una dilución 1:200 en agua de la vacuna en ensayo.  Si la vacuna fuera una emulsión, realizar una dilución 1:20 empleando la fase acuosa, obtenida por uno de los siguientes procedimientos:
+a) agregar 1 mL de vacuna a 1 mL de miristato de isopropilo y homogeneizar.  Agregar 1,3 mL de ácido clorhídrico 1M, 2 mL de cloroformo y 2,7 mL de una solución de cloruro de sodio de 9 mg/mL.  Homogeneizar y centrifugar a 15.000 g durante 1 hora. Transferir la fase acuosa a un matraz aforado de 10 mL y completar el volumen con agua. Si no ocurre la separación de las fases, agregar una cantidad adecuada de una solución de 100 mg por mL de polisorbato 20 a la solución de cloruro de sodio empleada y repetir el procedimiento, esta vez centrifugando a 22.500 g.
+b) agregar 1 mL de la vacuna a 1 mL de una solución de cloruro de sodio de 100 mg/ mL y homogeneizar.  Centrifugar a 1.000 g durante quince (15) minutos.  Transferir la fase acuosa a un matraz aforado de 10mL y completar el volumen con agua.
+c) agregar 1 mL de la vacuna a 2 mL de una solución de cloruro de sodio de 100 mg/ mL, añadir 3 mL de cloroformo y homogeneizar.  Centrifugar a 1.000 g durante cinco (5) minutos, transferir la fase acuosa a un matraz aforado de 10 mL y completar el volumen con agua.
+
+Procedimiento - Transferir 0,5 mL de la Solución muestra y 0,5 mL de cada una de las Soluciones estándar a tubos de ensayo correspondientes y adicionar 5 mL de una solución recientemente preparada de cloruro de metilbenzotiazolona-hidrazona de 0,5 mg por mL.  Tapar los tubos, agitar y dejar reposar durante 1 hora.  Agregar 1 mL de cloruro férrico-ácido sulfámico y dejar reposar durante 15 minutos.  Medir las absorbancias a 628 nm, construir la curva de calibración con las Soluciones estándar y calcular el contenido de formaldehído en la vacuna en ensayo.  El ensayo sólo es válido si el coeficiente de correlación (r) de la curva de calibración es mayor a 0,97.
+
+Criterio de aceptación: no debe contener más de 200 µg de formaldehído por mL de vacuna.
+Preparación de las soluciones
+Solución volumétrica de Iodo 0,05 M (SV)
+Preparación - Disolver 13 g de iodo en 100 mL de solución de ioduro de potasio a 20% (p/v). Agregar tres (3) gotas de ácido clorhídrico y diluir para 1000 mL con agua.
+Titulación - Disolver, con exactitud, alrededor de 0,15 g de trióxido de arsénico en 20 mL de hidróxido de sodio 1 M. Calentar si es necesario. Agregar 40 mL de agua, dos gotas de anaranjado de metilo y ácido clorhídrico hasta obtener un color rosado. Agregar 50 mL de carbonato de sodio a 4% (p/v), 3 mL de almidón (SI) y titular con iodo 0,05 M (SV) hasta obtener un color azul permanente. Cada mL de iodo 0,05 M (SV) equivale a 4,946 mg de trióxido de arsénico.
+Conservación - En recipiente de vidro bien cerrado y al abrigo de la luz.
+
+Solución volumétrica de Tiosulfato de sodio 0,1 M (SV)
+Preparación - Disolver cerca de 25 g de tiosulfato de sodio pentahidratado y 200 mg de carbonato de sodio en agua, recientemente hervida y enfriada. Llevar a volumen hasta 1000 mL con el mismo solvente.
+Titulación - Pesar, con exactitud, alrededor de 210 mg de dicromato de potasio, pulverizado y desecado, y disolver en 100 mL de agua. Transferir a un balón volumétrico de 500 mL y agregar 3 g de ioduro de potasio, 2 g de bicarbonato de sodio y 5 mL de ácido clorhídrico PA. Agitar y dejar en reposo por 10 minutos en la oscuridad. Titular el iodo liberado con la solución de tiosulfato de sodio hasta obtener un color verde-amarillento. Agregar 3 mL de almidón (SI) y continuar la titulación hasta la desaparición del color azul. Calcular la molaridad. Cada mL de tiosulfato de sodio 0,1 M (SV) equivale a 4,903 mg de dicromato de potasio.
+Conservación - Recipientes bien cerrados.
+Información adicional - Verificar el título con frecuencia.
+
+Solución indicadora de almidón Almidón (SI)
+Especificación - Solución de almidón (SI) soluble a 2% (p/v) en agua caliente. La solución puede presentar una pequeña opalescencia.
+Ensayo de sensibilidad - Mezclar 1 mL de almidón (SI), 20 mL de agua, aproximadamente 50 mg de ioduro de potasio y 0,05 mL de iodo 0,01 M. Se desarrolla una coloración azul.
+
+Cloruro férrico-ácido sulfámico
+Preparar una solución que contenga 10 g de cloruro férrico y 16 g de ácido sulfámico por litro.
+
+Nota: La fuerza g puede ser convertida a rpm (revoluciones por minuto) a partir de la siguiente fórmula:
+FCR = 1.118 * 10-5 * r * (rpm)2
+
+Donde:
+FCR = Fuerza Centrífuga Relativa, en "g"
+r = radio del rotor, en "cm"
+rpm = velocidad de rotación en "rpm"
+
+2

@@ -1,0 +1,113 @@
+Resolución GMC N° 146/96
+Título: LICENCIAS DE ESTACIONES DE RADIOCOMUNICACIONES PARA USO DE LAS EMPRESAS DE TRANSPORTE VIAL
+Fecha de aprobación: 14/12/1996
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 27165_RES_146-1996_ES_PermisosRadiocEmpTranspTerr.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2068).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº 146/96
+
+PERMISOS DE ESTACIONES DE RADIOCOMUNICACIONES PARA USO DE LAS EMPRESAS DE TRANSPORTE CARRETERO
+
+      VISTO:  El Tratado de Asunción, el Protocolo de Ouro Preto y la Resolución Nº 38/95 del Grupo Mercado Común
+
+CONSIDERANDO:
+
+Que la Resolución Nº 38/95 del Grupo Mercado Común aprobó las Pautas Negociadoras de los Subgrupos de Trabajo, Reuniones Especializadas y Grupos Ad-Hoc.
+
+Que una de esas Pautas Negociadoras del Subgrupo de Trabajo Nº 1 - Comunicaciones, ha sido denominada Reconocimiento de Permisos de Estaciones de Radiocomunicaciones Para Uso de las Empresas de Transporte Carretero, con el objetivo de reglamentar la utilización temporaria de equipo radioeléctrico en los territorios de los países del MERCOSUR, por empresa de transporte carretero de cargas y/o pasajeros, usuarias de las frecuencias radioeléctricas concedidas por los Estados Partes.
+
+Que con el propósito de facilitar los controles fronterizos y el tránsito de vehículos de transporte de cargas y/o pasajeros más allá de las fronteras de cada país, es necesario implantar procedimientos simples de reconocimiento por un país, de los permisos emitidos por las otras Administraciones para operar en el MERCOSUR, y
+
+Que el Subgrupo de Trabajo Nº 5 - Transportes e Infraestructura ya se manifestó favorablemente al proyecto,
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1 - Aprobar el Procedimiento de Reconocimiento de Permisos de Estaciones de Radiocomunicaciones Para Uso de Las Empresas de Transporte Carretero, que figura en el Anexo y forma parte de la presente Resolución.
+
+Art. 2 - La presente Resolución entrará en vigencia el 1º/2/97.
+
+
+XXIV GMC - Fortaleza, 13/XII/96
+
+ANEXO
+
+PROCEDIMIENTO DE RECONOCIMIENTO DE PERMISOS DE ESTACIONES DE RADIOCOMUNICACIONES PARA USO DE LAS EMPRESAS DE TRANSPORTE CARRETERO
+
+1 - PROCEDIMIENTOS ADMINISTRATIVOS
+
+1.1  - Las entidades autorizadas para operar en el Servicio de Radiocomunicaciones Móviles de un Estado Parte, que reúnan las condiciones establecidas por este acto, podrán utilizar sus estaciones radioeléctricas dentro de todo el territorio del MERCOSUR.
+
+1.2  - Los respectivos permisos nacionales expedidos por las Administraciones competentes tendrán, como mínimo, las siguientes informaciones;
+
+a)  Razón Social
+b)  Indicativo de llamada
+c)  Frecuencias portadoras
+d)  Marca, Modelo y Nº de Serie o / Nº de Certificación de Productos de Telecomunicaciones
+
+Adicionalmente, deberán constar las siguientes frases:
+
+"HABILITADO A OPERAR DENTRO DEL MERCOSUR".
+"LICENCIADO A OPERAR DENTRO DO MERCOSUL".
+
+1.3 - Las notificaciones y los intercambios por correspondencia que se realicen como resultado del presente procedimiento, deberán ser dirigidas a las respectivas Administraciones de cada Estado Parte a las siguientes direcciones, que serán consideradas válidas mientras no exista comunicación formal de modificación:
+
+	Administración de la República Argentina
+
+      Comisión Nacional de Telecomunicaciones
+      Gerencia de Ingeniería
+      Perú 103, 14º piso
+      Buenos Aires (CEP 1067)
+      Teléfono: + 54 1 347 9622
+      Fax: + 54 1 347 9624
+
+	Administración de la República Federativa do Brasil
+
+      Ministério das Comunicações
+      Secretaria de Administração de Radiofreqüências
+      Departamento de Gerenciamento de Freqüências
+      Explanada dos Ministérios - Bloco R
+      Edifício Anexo, 3º Andar - Sala 303 - Asa Oeste
+      Brasília  -  DF  - CEP: 70044-901
+      Telefone: + 55 61 311 6600/6630
+      Fax: + 55 61 224 8296/4749
+
+	Administración de la República del Paraguay
+
+      Comisión Nacional de Telecomunicaciones
+      Yegros Nº 437 - 2º piso - Asunción
+      Teléfono: + 595 21 440020
+      Fax: + 595 21 498888
+
+	Administración de la República Oriental del Uruguay
+
+      Dirección Nacional de Comunicaciones
+      Departamento de Frecuencia Radioeléctrica
+      Bulevar Artigas 1520 - Montevideo
+      Teléfono: + 598 2 7073662
+      Fax: + 598 2 7073661
+
+ 2 - CARACTERISTICAS TECNICAS
+
+2.1 - Con el fin de garantizar que las estaciones radioeléctricas móviles operen adecuadamente, las mismas deberán cumplir con los siguientes requisitos:
+
+      Banda de Frecuencia: 3 MHz. a  26 MHz.
+      Potencia de pico máximo de alcance: 100 Watt
+      Designación de emisión: 2K80J3EJN
+
+3 - FRECUENCIAS RADIOELECTRICAS
+
+
+	Las frecuencias para operar serán coordinadas de acuerdo con el siguiente procedimiento:
+
+3.1  - Cada una de las Administraciones de los Estados Partes notificará a las restantes la lista, total o parcial de las frecuencias radioeléctricas disponibles para operación por parte de sus transportadoras en todo el territorio del MERCOSUR.
+
+3.2  - En el plazo de 30 (treinta) días corridos luego de la notificación, las Administraciones notificadas podrán observar o condicionar el uso de una o más frecuencias dentro de todo de su territorio o parte de él.
+
+3.3  - Eventualmente podrán individualizarse frecuencias que podrán ser operadas en conjunto por las Empresas de Transporte Carretero de dos o más Estados Partes.
+
+
+2

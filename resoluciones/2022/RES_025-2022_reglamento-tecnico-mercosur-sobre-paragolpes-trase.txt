@@ -1,0 +1,523 @@
+Resolución GMC N° 25/22
+Título: REGLAMENTO TÉCNICO MERCOSUR SOBRE PARAGOLPES TRASERO DE LOS VEHÍCULOS DE CARGA (DEROGACIÓN DE LA RESOLUCIÓN GMC Nº 23/02)
+Fecha de aprobación: 17/11/2022
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 91777_RES_025-2022_ES_RTM Paragolpes vehículos carga.docx
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/4421).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. N° 25/22
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE PARAGOLPES TRASERO DE LOS VEHÍCULOS DE CARGA
+(DEROGACIÓN DE LA RESOLUCIÓN GMC Nº 23/02)
+
+      VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto y las Resoluciones Nº 38/98, 23/02 y 45/17 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que el MERCOSUR implica un espacio sin fronteras interiores en el que esté garantizada la libre circulación de vehículos, por lo cual es necesario adoptar medidas para tal fin.
+
+Que la instalación de paragolpes trasero de forma indiscriminada en los vehículos de carga pone en riesgo a los usuarios de los demás vehículos y perjudica significativamente la seguridad del tránsito, en los casos de impacto trasero.
+
+Que es necesario actualizar la Resolución GMC Nº 23/02 "Reglamento Técnico MERCOSUR sobre paragolpe trasero de los vehículos de carga" a ser aplicada en vehículos que circulan en los Estados Partes del MERCOSUR, con el fin de garantizar mejores condiciones de seguridad.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Reglamento Técnico MERCOSUR sobre paragolpes trasero de los vehículos de carga", que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - El presente Reglamento se aplicará en el territorio de los Estados Partes, al comercio entre ellos y a las importaciones extrazona.
+
+Art. 3 - Los Estados Partes indicarán en el ámbito del Subgrupo de Trabajo N° 3 "Reglamentos Técnicos y Evaluación de la Conformidad" (SGT N° 3) los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 4 - Los Estados Partes aplicarán la presente Resolución para los vehículos nuevos fabricados o importados, incluso aquellos armados en etapas, a partir del plazo de un año de la incorporación a su ordenamiento jurídico nacional.
+
+Art. 5 - Derogar la Resolución GMC Nº 23/02.
+
+Art. 6 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 16/V/2023.
+
+CXXV - Montevideo, 17/XI/22.
+
+ANEXO
+
+REGLAMENTO TÉCNICO MERCOSUR SOBRE PARAGOLPES TRASERO DE LOS VEHÍCULOS DE CARGA
+
+1.	OBJETIVO
+
+El presente Reglamento Técnico MERCOSUR (RTM) tiene como objetivo:
+
+a) establecer requisitos mínimos para la fabricación e instalación de paragolpes traseros, para la protección de impactos traseros, a ser incorporados en vehículos de carga de las categorías N2, N3, O3 y O4, considerando que la instalación de forma indiscriminada en los vehículos de carga pone en riesgo a los usuarios de los demás vehículos y perjudica significativamente la seguridad del tránsito;
+
+b) reducir los daños materiales en la parte superior del compartimento de pasajeros de los vehículos que chocaren contra la parte trasera de los vehículos de carga, evitando o minimizando los traumas en las partes superiores de los cuerpos de las víctimas.
+
+2.	ALCANCE
+
+2.1. Es obligatorio el uso en los vehículos de transporte de carga, remolques y semirremolques de las categorías N2, N3, O3 y O4.
+
+2.2. No están sujetos al cumplimiento del presente RTM los siguientes vehículos:
+
+a) incompletos o sin terminar;
+
+b) camiones tractores;
+
+c) producidos especialmente para cargas autoportantes y vehículos muy largos para cargas sobredimensionadas;
+
+d) aquellos en los que la aplicación del paragolpes trasero especificado en el presente RTM sea incompatible con su utilización. En este caso, la estructura que sustituye al paragolpes deberá cumplir con las exigencias establecidas en los ensayos descriptos en el ítem 4 del Apéndice I, comprobados por medio de un informe de ensayo, y tener una altura máxima de 450 mm desde el suelo;
+
+e) pertenecientes a las categorías N2 y N3 que ya tengan paragolpes trasero incorporado en el proyecto original del fabricante del vehículo;
+
+f) vehículos militares (uso bélico);
+
+g) vehículos de colección;
+
+h) vehículos exclusivos para uso fuera de ruta;
+
+i) remolques destinados al transporte de cargas sobre dimensionadas (indivisibles);
+
+j) vehículos destinados al mercado de exportación extrazona.
+
+2.3. Los vehículos o equipamientos vehiculares que se encuadran dentro del literal d) del ítem anterior están especificados en el Apéndice II del presente RTM.
+
+2.4. El presente RTM debe ser aplicado cuando fuera instalado algún tipo de implemento en los vehículos, o cuando fueran alteradas las características originales de la carrocería.
+
+3.	TÉRMINOS Y DEFINICIONES
+
+A los efectos de aplicación del presente RTM, se define:
+
+3.1. Carga autoportante: capacidad de auto sustento estructural de determinado componente cuando es sometido a la carga de su propio peso más la carga neta.
+
+3.2. Chasis: parte del vehículo constituida por los componentes necesarios para su desplazamiento y que soporta la carrocería.
+
+3.3. Conjunto de ensayo: conjunto constituido por el paragolpes y sus elementos de fijación.
+
+3.4. Dispositivo de ensayo: estructura rígida a la cual es fijado el conjunto de ensayo para la aplicación de las fuerzas y medición de las deformaciones.
+
+3.5. Elemento horizontal: perfil del paragolpes que recibirá los esfuerzos P1, P2 y P3 establecidos en el ensayo previsto en el presente RTM.
+
+3.6. Equipamiento vehicular (carrocería): implemento automotriz específico, incorporado a un vehículo automotor incompleto, ya sea chasis de camión o remolque incompleto (base), construido para complementarlo, permitiendo así su funcionalidad de transporte de cargas.
+
+3.7. Estructura rígida: estructura cuya deformación máxima es inferior a 1% con relación a la deformación máxima permitida en el ensayo del paragolpes.
+
+3.8. Extremidad del vehículo: plano vertical perpendicular al plano longitudinal de simetría (del vehículo) y que intersecta la parte delantera y trasera, respectivamente, sin tener en cuenta los escalones y estribos de acceso, dispositivos de acoplamiento del vehículo automotor, plataformas elevadoras, rampas de acceso y equipos semejantes, siempre que no tengan una proyección superior a 200 mm.
+
+3.9. Familia de paragolpes: grupo de paragolpes construidos de acuerdo con un mismo proyecto, variando en la altura de las columnas de fijación sometidas al mismo procedimiento de ensayo, considerando las columnas con mayor dimensión desde el punto de fijación al elemento horizontal (Figura 1).
+
+Figura 1 - Familia de paragolpes
+
+3.10. Larguero: elemento estructural principal del bastidor del chasis o de la carrocería ubicado en dirección longitudinal del vehículo.
+
+3.11. Paragolpes removible: paragolpes cuya fijación es resistente a los ensayos establecidos en el presente RTM, con la posibilidad de ser retirado del vehículo cuando este se encuentra en operaciones específicas, en las que, estando instalado, pudieran perjudicar el correcto desarrollo de estas operaciones.
+
+3.12. Paragolpes retraíble: dispositivo de protección equipado con sistema de articulación que permite variar la distancia al suelo, girando en el sentido contrario a la marcha del vehículo cuando éste se desplaza hacia adelante, en situación transitoria, debiendo volver a la posición original, sin intervención del operador, luego de superado el obstáculo.
+
+3.13. Paragolpes trasero: dispositivo de protección constituido por uno o más travesaños y elementos de fijación para el armado, fijado a los largueros o al elemento que cumple las funciones de ellos y que se destina a reducir las lesiones corporales y los daños materiales resultantes de una colisión que involucre la parte trasera del vehículo.
+
+3.14. Paragolpes trasero fijo: dispositivo de protección constituido por un travesaño y elementos de fijación para el armado, destinado a reducir las lesiones corporales y los daños materiales resultantes de una colisión que involucre la parte trasera del vehículo.
+
+3.15.	Peso Bruto Total (PBT): peso máximo del vehículo constituido por la suma de la tara más su carga útil.
+
+3.16. Placa de contacto: elemento de contacto, posicionado entre el dispositivo aplicador de fuerza y el elemento horizontal del paragolpes, con la función de distribuir de forma homogénea la fuerza en torno a su punto de aplicación.
+
+3.17. Tara: peso propio del vehículo, incluyendo el peso de los fluidos y del combustible contenido en el depósito (que estará lleno hasta el 90% de su capacidad como mínimo), herramientas, accesorios, ruedas de auxilio, extintor de incendio y demás equipamientos necesarios para su funcionamiento, sin conductor, ni pasajeros, y sin carga.
+
+3.18. Voladizo trasero: distancia de la extremidad trasera hasta el centro del último eje del vehículo.
+
+4. 	NORMAS Y DOCUMENTOS DE REFERENCIA
+
+● Resolución GMC N° 23/02 "Reglamento Técnico MERCOSUR sobre paragolpe trasero de los vehículos de carga".
+● Resolución CONTRAN N° 593/2016 que establece las especificaciones técnicas para la fabricación y la instalación de paragolpes traseros en los vehículos de fabricación nacional o importados de las categorías N2, N3, O3 y O4.
+● Norma IRAM/AITA N° 10260 - Vehículos comerciales de carretera - Dispositivos traseros de protección (paragolpes) - Requisitos y métodos de ensayo. Tercera Edición, 23/12/2016.
+● UN R58 (serie 03 de enmiendas).
+● FMVSS N° 223 y 224.
+
+5. 	ESPECIFICACIONES O REQUISITOS
+
+5.1. Los vehículos cuya distancia entre la cara trasera del neumático y la extremidad máxima trasera de su estructura sea igual o inferior a 400 mm están exentos de los requisitos de paragolpes y deberán portar un perfil horizontal para fijar la cinta retrorreflectiva con, al menos, 100 mm de altura y 1.600 mm de longitud, centrados con relación al eje longitudinal del vehículo, cuya altura del borde inferior del elemento horizontal en relación con el plano de apoyo de las ruedas sea de un máximo de 550 mm, medida con la tara del vehículo (Figura 2).
+
+
+Figura 2 - Dimensiones del perfil horizontal
+5.1.1. El ítem 5.1 no se aplica a los vehículos alcanzados por el ítem 2.2.
+
+5.2. En los vehículos con hormigonera, plataforma de auxilio, volcadora trasera o plataforma elevadora de carga, el paragolpes podrá estar posicionado hasta el límite de 400 mm desde la extremidad máxima trasera del vehículo, de acuerdo con los demás requisitos establecidos en el presente RTM, conforme a las Figuras 3a a 3e.
+5.2.1. A menos que esté remolcando a otro vehículo, los apoyos de rueda del dispositivo Ala Delta utilizado en las plataformas de auxilio deben estar siempre recogidos para que ejerzan la función de paragolpes (ver Figura 3b).
+
+
+Figura 3a - Vista lateral de la parte trasera de los vehículos - Hormigonera
+
+
+Figura 3b - Vista lateral de la parte trasera de los vehículos - Plataforma de auxilio con Ala Delta
+
+
+Figura 3c - Vista lateral de la parte trasera de los vehículos - Plataforma de auxilio sin Ala Delta
+
+
+Figura 3d - Vista lateral de la parte trasera de los vehículos con volcadora trasera
+
+
+Figura 3e - Vista lateral de la parte trasera de los vehículos con plataforma elevadora de carga
+
+5.3. Para vehículos equipados con plataforma elevadora de carga, el paragolpes podrá presentarse conforme a los ejemplos de la Figura 4, siempre que atiendan las exigencias de los ensayos previstos, y/o:
+
+a) esté constituido por múltiples partes, cuando estas tengan como mínimo 350 cm2 de cara;
+
+b) la plataforma asuma la función del paragolpes en su totalidad, cuando el vehículo se encuentre con su tara (ver Figura 5);
+
+c) sea basculante, o no, con la plataforma;
+
+d) sea removible, total o parcialmente, durante la utilización de la plataforma, en situación transitoria;
+
+e) sea articulado, total o parcialmente, durante la utilización de la plataforma, en situación transitoria;
+
+f) esté constituido de láminas telescópicas que, posicionadas adecuadamente, en situación transitoria, permitan la operación de la plataforma.
+
+5.3.1. En los casos en que el paragolpes tenga que adoptar una posición transitoria para permitir la operación de la plataforma, los movimientos que lo llevan a esa posición, así como al retorno a su posición original, deben:
+
+a) estar ligados a la dinámica de la plataforma, de manera directa o indirecta, a través de movimientos suaves, sin sobresaltos, y sin presentar interferencias con otros componentes del conjunto vehículo/plataforma;
+
+b) ser accionado por un mecanismo apropiado, dimensionado para este propósito, que debe tener una vida útil compatible con la del conjunto de vehículo/plataforma.
+
+5.3.2. Alternativamente, en el caso de accionamiento manual del paragolpes para la posición transitoria y para su regreso a la posición original, se debe:
+
+a) activar una alarma audible y luminosa junto a la posición del comando de la plataforma, cuando ésta se encuentre en la posición de orden de marcha y el paragolpes no cumpla con esta condición, alertando así sobre la condición irregular de posicionamiento del paragolpes y permaneciendo activa hasta que el paragolpes cumpla con las condiciones de orden de marcha o la plataforma esté en operación;
+
+b) inhibir la señalización de irregularidad en el posicionamiento del paragolpes mientras la plataforma esté en funcionamiento; y
+
+c) tener un sistema de señalización con una vida útil compatible con el conjunto vehículo/plataforma.
+
+5.3.3. Los modelos de paragolpes y sus variantes, presentados en las Figuras 4 y 5, deben:
+
+a) ser marcados, de conformidad con el ítem 3 del Apéndice I del presente RTM, en el componente más significativo del paragolpes; y en los demás componentes, móviles o removibles, si el espacio disponible es pequeño, al menos con el número de chasis del vehículo, para relacionar tal componente con el paragolpes en su conjunto;
+
+b) participar en programas promovidos por el fabricante de la plataforma para su mantenimiento preventivo y correctivo; y
+
+c) soportar los esfuerzos previstos para las posiciones P1, P2 y P3 conforme al ítem 2 del Apéndice I del presente RTM.
+
+
+Figura 4 - Ejemplos de paragolpes de vehículos equipados con plataforma elevadora de carga
+
+
+Figura 5 - Plataforma elevadora de carga con función de paragolpes
+
+6. 	ENSAYOS
+
+6.1. Los requisitos técnicos y los métodos de ensayo de los paragolpes traseros se definen en el Apéndice I del presente RTM.
+
+6.2. El organismo competente de cada Estado Parte podrá solicitar, en cualquier momento, a las empresas fabricantes, a los responsables del montaje final del vehículo y a los importadores que presenten los resultados de los ensayos que demuestren el cumplimiento de los requisitos establecidos en el presente RTM.
+
+7. 	OTRAS DISPOSICIONES
+
+Los requisitos establecidos en el presente RTM se consideran satisfechos en caso de que los vehículos definidos en el alcance cumplan con las especificaciones técnicas dispuestas por alguna de las siguientes normas, siempre que la altura del paragolpes trasero sea 450 mm como máximo conforme lo definido en el ítem 1.1 del Apéndice I:
+
+a) Normas "Federal Motor Vehicle Safety Standard" (FMVSS) Nº 223 y 224 en forma simultánea y no excluyente; o
+
+b) Reglamento ONU Nº 58, serie 03 de enmiendas.
+
+
+APÉNDICE I
+
+ PARAGOLPES TRASERO PARA VEHÍCULOS DE LAS CATEGORÍAS
+N2, N3, O3 y O4
+1. Requisitos
+
+El paragolpes trasero debe cumplir las siguientes condiciones:
+
+1.1. La altura del borde inferior del paragolpes trasero, medida con la tara del vehículo, no debe, en ningún punto, ser superior a 450 mm en relación con el plano de soporte de la rueda (ver Figura A.1).
+
+1.2. La altura de la sección transversal del elemento horizontal del paragolpes trasero no puede ser inferior a 100 mm (ver Figura A.1). Los extremos laterales del elemento horizontal no deben tener bordes cortantes. El elemento horizontal debe tener forma uniforme, ser recto en su longitud sin costuras, sin agujeros, constituido de un solo material y puede tener cualquier forma de sección transversal.
+
+1.3. La longitud del elemento horizontal del paragolpes trasero debe ser, como máximo, igual al ancho del equipamiento del vehículo o a la distancia entre los bordes exteriores de las llantas, lo que sea mayor, y debe tener, como máximo, 100 mm de retiro respecto a los extremos laterales de cada lado (ver Figura A.1).
+
+Figura A.1 - Vista trasera
+
+1.4. El elemento horizontal del paragolpes trasero debe estar ubicado hasta un límite de 100 mm en el extremo trasero de la estructura del vehículo (ver Figura A.2). Este requisito no se aplica a los vehículos que cumplen con el ítem 5.2 del presente RTM, ya que en ellos el extremo trasero máximo del vehículo es la propia carrocería.
+
+
+Figura A.2 - Vista lateral de la parte trasera - Ejemplo 1
+
+1.5. Para el extremo trasero de la estructura del vehículo no deben considerarse los elementos cuya altura sea superior a los 2 metros del plano de apoyo, siempre que esta saliente no supere los 250 mm de longitud (ver Figura A.3)
+
+1.6. Dispositivos y/o elementos como topes traseros, ganchos remolcadores, barrotes de puertas, bisagras, letreros de señalización, volquetes, plataformas elevadoras, rampas de acceso y otros equipamientos semejantes, en orden de marcha, que no constituyan una saliente superior a 200 mm, no serán considerados parte del extremo trasero.
+Figura A.3 - Vista lateral de la parte trasera - Ejemplo 2
+
+1.7. El paragolpes trasero puede ser retráctil, fijo o removible.
+
+1.8. El paragolpes o el perfil horizontal de que trata el ítem 5.1 del presente RTM debe tener forma y dimensiones proyectadas para permitir, cuando esté instalado, la visualización de la señalización luminosa y placa de identificación del vehículo (matrícula), sin perjuicio de los requisitos establecidos en las especificaciones de iluminación y señalización del vehículo.
+
+1.9. El sistema de pintura para el elemento horizontal del paragolpes deberá ser en base (primer) anticorrosiva, acabado con una base de resina acrílica, melamina o alquídicamelamina, de acuerdo con las especificaciones de la norma ASTM E810.
+
+1.10. El paragolpes o el perfil horizontal debe tener bandas oblicuas, con una inclinación de 45° (cuarenta y cinco grados) con relación al plano horizontal, y 50,0 +/- 5,0 mm de ancho, en colores blanco y rojo, reflectantes, de acuerdo con la figura y las especificaciones detalladas a continuación:
+
+1.10.1. Color y luminancia
+
+La especificación de los límites de color (diurno) y luminancia deben cumplir los valores determinados en la Tabla 1.
+
+Tabla 1 - Límites de color y luminancia
+
+1
+2
+3
+4
+
+
+X
+Y
+X
+Y
+X
+Y
+X
+Y
+Mín.
+Máx.
+Blanca
+0,305
+0,305
+0,355
+0,355
+0,335
+0,375
+0,285
+0,325
+15
+-
+Roja
+0,690
+0,310
+0,595
+0,315
+0,569
+0,341
+0,655
+0,345
+2,5
+15
+
+1.10.2. Los cuatro pares de coordenadas de cromaticidad deberán determinar el color aceptable en los términos del sistema colorimétrico estándar CIE 1931, con el patrón de iluminación D65, utilizando el método ASTM E-1164 y cálculo realizado según ASTM E-308.
+
+1.10.3. Retroreflexión
+
+Especificación del coeficiente mínimo de retroreflectividad en candelas por Lux por metro cuadrado (orientación 0° y 90°).
+
+
+Los coeficientes de retroreflectividad no deben ser inferiores a los valores mínimos especificados en la Tabla 2. Las mediciones se realizarán de acuerdo con el método ASTM E-810. Todos los ángulos de entrada deben medirse en los ángulos de observación de 0,2° y 0,5°. La orientación de 90° se define con la fuente de luz girando en la misma dirección en que el dispositivo se conectará al vehículo.
+
+Tabla 2 - Coeficientes mínimos de retrorreflectividad
+Ángulo de observación
+Ángulo de entrada
+Blanco
+Rojo
+0.2
+-4
+500
+100
+0.2
++30
+300
+60
+0.2
++45
+85
+17
+0.5
+-4
+100
+20
+0.5
++30
+75
+15
+0.5
++45
+30
+6
+
+1.10.4. Intemperismo artificial
+
+La película retrorreflectiva después de haber sido sometida a 2.200 horas en un dispositivo de intemperismo artificial, siguiendo el ciclo I de acuerdo con ASTM G 155, debe presentar al menos el 80% de la retrorreflectividad especificada en el ítem 1.10.3 y mantener el color dentro de las coordenadas especificadas en el ítem 1.10.1.
+
+1.10.5. Adhesivo
+
+1.10.5.1. La película retrorreflectiva debe tener un adhesivo sensible a la presión y debe aplicarse exactamente como lo especifica el fabricante en las superficies recomendadas, adecuadamente preparadas y lisas.
+
+1.10.5.2. Procedimiento de ensayo:
+
+Se debe:
+
+- aplicar la película, de acuerdo con las instrucciones del fabricante, a una placa de aluminio, aleación 6061 - T6, 1 mm de espesor y dimensiones 120 mm x 120 mm, limpia y desengrasada;
+- adherir 100 mm de una muestra de 25 mm x 150 mm, acondicionar a una temperatura de 23º C +/- 2º C durante un período de 24 horas, con una humedad relativa del aire de 50% +/- 5%;
+- aplicar un peso de 790 g en el extremo libre, formando un ángulo de 90º con el panel, durante un período de 5 minutos.
+
+1.10.5.3. La película sometida a la prueba adhesiva no debe mostrar un desprendimiento mayor de 50 mm.
+
+1.10.6. Cada Estado Parte definirá los procedimientos de evaluación de la conformidad que se aplicarán en su territorio, si se considera necesario.
+
+1.10.6.1 Las características especificadas por el presente RTM en películas retrorreflectivas deben ser certificadas por el organismo competente o por una entidad por él reconocida.
+
+1.10.7. Cuando corresponda, se permite la marcación que compruebe la evaluación de conformidad, así como el reconocimiento por parte del organismo competente, en cada segmento del color blanco del retrorreflector.
+
+1.10.7.1 Se permite registrar la marca y/o logotipo del fabricante de la película retrorreflectiva en el área roja de la misma, siempre que el área total cubierta por la grabación no exceda los 300 mm².
+
+1.10.8 El color gris (código RAL 7001 del sistema de pintura) del elemento horizontal del paragolpes debe aplicarse obligatoriamente cuando la altura de su sección excede la altura de 150 mm +/- 5 mm.
+
+1.11. El paragolpes trasero se puede diseñar de tal manera que su altura sea variable, de acuerdo con necesidades eventuales (por ejemplo: maniobras, operaciones de carga y descarga). Para variaciones accidentales en la posición debe proporcionarse un mecanismo para volver a la posición de trabajo sin interferencia del operador.
+
+2. Método de Ensayo
+
+2.1. Equipamiento
+
+2.1.1 Cilindro para la aplicación de fuerzas con articulación que permita mantener la placa de contacto totalmente apoyada en el elemento horizontal del paragolpes.
+
+2.1.2. Placa de contacto con superficies planas, con dimensiones de 200 mm x 200 mm x 25 mm con un radio de curvatura de 5 mm en los bordes. En la región central puede proporcionarse apoyo para el brazo del cilindro de aplicación de fuerza para evitar el desplazamiento del punto de aplicación de fuerza, sin interferir con los resultados del ensayo.
+
+2.1.3. Equipos para medición de las fuerzas.
+
+2.1.4. Dispositivo de ensayo donde la distancia entre el punto de aplicación de la fuerza y el punto de fijación más cercano del larguero del paragolpes no exceda los 450 mm (ver Figura A.4 y A.5). El dispositivo debe estar construido y fijado de forma de soportar los requisitos de ensayo, sin sufrir deformación ni desplazamiento.
+
+Figura A.4 - Ejemplo de dispositivo de ensayo - Vista lateral
+
+Figura A.5 - Ejemplo de dispositivo de ensayo - Vista superior
+
+2.2. Preparación del conjunto de ensayo
+
+2.2.1. Montar el conjunto de ensayo de la misma manera que el paragolpes está fijado al vehículo. La fijación de este conjunto al dispositivo de prueba debe realizarse a través de la distancia entre la parte inferior del larguero y la parte inferior del miembro horizontal del paragolpes del larguero. El ensayo puede realizarse en cualquier posición que cumpla con los requisitos del presente RTM como por ejemplo, horizontal y vertical.
+
+2.2.2. Marcar los puntos P1 que deben ubicarse a 200 mm del borde lateral del vehículo, del equipamiento vehicular o de los bordes exteriores de las llantas del último eje, el que sea mayor, como se muestra en la Figura A.6.
+
+2.2.3. Marcar el punto P3 en el punto central del paragolpes trasero y los puntos P2 simétricos en relación con el punto P3, espaciados al menos 500 mm y como máximo a 1300 mm de distancia, pudiendo la posición exacta ser especificada por el instalador del paragolpes trasero (ver Figura A.6).
+
+2.2.4. La posición de los puntos P1, P2 y P3 debe definirse como el punto medio de la altura de la sección del elemento horizontal, o a 75 mm desde su borde inferior para láminas de más de 150 mm considerando como referencia el paragolpes instalado en el vehículo.
+
+Figura A.6 - Vista trasera con cotas del punto de aplicación
+
+2.3. Procedimiento
+
+2.3.1. Las fuerzas especificadas en la Tabla 3 deben aplicarse por separado, siendo el orden: en uno de los puntos P1, en el punto P3 y en uno de los puntos P2 (ver Figura A.6). La elección del punto P1 en el que se aplica la fuerza queda a criterio de quien ejecuta el ensayo. Para el punto P2 debe usarse el punto P2 del lado opuesto al punto P1 ya elegido, tomando como base el punto P3.
+
+Tabla 3 - Fuerzas aplicadas
+Vehículos de carga Peso Bruto Total (kg)
+Fuerzas en P1 (kN)
+Fuerzas en P2 (kN)
+Fuerzas en P3 (kN)
+Orden de aplicación de las fuerzas
+Superior a 3.500 hasta 6.500
+50
+75
+50
+P1, P3 y P2
+Superior a 6.500 hasta 10.000
+60
+90
+60
+P1, P3 y P2
+Superior a 10.000 hasta 23.500
+80
+120
+80
+P1, P3 y P2
+Superior a 23.500
+100
+150
+100
+P1, P3 y P2
+
+2.3.2. Las fuerzas especificadas en la Tabla 3 deben aplicarse paralelamente a los largueros, a través de la placa de contacto. El centro de la superficie de contacto debe colocarse en los puntos P1, P2 y P3.
+
+2.3.3. El ensayo debe llevarse a cabo en el caso más crítico, considerando el diseño y la aplicación, dentro de la misma familia de paragolpes traseros. El paragolpes con la distancia más larga entre el punto P1 y el extremo trasero del larguero (ver punto b en la Figura A.6) se considera el más crítico.
+
+2.3.4. El paragolpes trasero testeado no debe reutilizarse, independientemente del resultado.
+
+2.4. Expresión de los resultados
+
+Para cada punto de aplicación de la fuerza P1, P2 y P3 deben expresarse respectivamente las deformaciones permanentes d1, d2 y d3 observadas después de la prueba (ver Figura A.7).
+
+Figura A.7 - Deformaciones en los puntos de aplicación de las fuerzas
+
+2.5. El informe de ensayo debe contener al menos la siguiente información:
+
+a) nombre del fabricante y/o instalador del paragolpes;
+
+b) peso bruto total del vehículo;
+
+c) valor de las fuerzas aplicadas en los puntos P1, P2 y P3;
+
+d) indicación de las deformaciones permanentes d1, d2 y d3 respectivamente en los puntos P1, P2 y P3;
+
+e) descripción del equipamiento utilizado, así como un boceto que represente el dispositivo utilizado;
+
+f) diseño del paragolpes instalado en el vehículo con las especificaciones técnicas de los materiales utilizados, registrando la distancia entre la parte inferior del larguero y la parte inferior del elemento horizontal del paragolpes.
+
+2.6. Resultados
+
+2.6.1. La deformación permanente en los puntos P1, P2 y P3 no puede ser superior a 125 mm en cada punto después del ensayo, con relación a la posición original. No se aceptarán grietas o fracturas causadas por la prueba en el conjunto del paragolpes/chasis del vehículo.
+
+2.6.2. El informe técnico de aprobación de la prueba del prototipo del paragolpes debe ser conservado por la empresa fabricante del paragolpes.
+
+2.6.2.1 El organismo competente de cada Estado Parte definirá los requisitos para la aceptación del informe técnico.
+
+3. Marcación
+
+Los paragolpes traseros deben tener una marca, adhesivo o placa de identificación, resistente a la intemperie, que contenga la siguiente información:
+
+a) nombre del fabricante o marca registrada;
+
+b) razón social del fabricante o del responsable de la comercialización;
+
+c) número de chasis del vehículo;
+
+d) número del informe técnico de aprobación;
+
+e) institución o entidad que emitió el informe técnico de aprobación.
+
+4. Ensayo del vehículo o equipamiento vehicular sin paragolpes de acuerdo con el ítem 2.2.d) y el Apéndice II del presente RTM
+
+4.1. El vehículo o la carrocería cuya estructura reemplaza el paragolpes debe tener una altura máxima de 450 mm desde el suelo.
+
+4.2. Se aplican al ensayo de la estructura los mismos requisitos para la aplicación de las fuerzas descriptas en el ítem 2.
+
+4.3. El vehículo debe fijarse, para evitar su desplazamiento, por cualquier medio en cualquier parte de su estructura o ejes, excepto en la parte del chasis ubicada después del último eje.
+
+4.4. El informe de ensayo del vehículo o carrocería sin paragolpes debe contener la siguiente información:
+
+a) nombre del fabricante y/o instalador del vehículo o de la carrocería;
+
+b) peso bruto total del vehículo;
+
+c) valor de las fuerzas aplicadas en los puntos P1, P2 y P3;
+
+d) indicación de las deformaciones permanentes d1, d2 y d3 respectivamente en los puntos P1, P2 y P3;
+
+e) descripción del equipamiento utilizado, así como un boceto que represente el dispositivo utilizado;
+
+f) diseño del vehículo o de la carrocería.
+
+
+APÉNDICE II
+
+VEHÍCULOS Y EQUIPAMIENTOS VEHICULARES EXCEPTUADOS DEL USO DE PARAGOLPES
+
+
+1. Quedan exceptuados del uso de paragolpes traseros los vehículos y carrocerías indicados a continuación:
+
+a) ambulancia (emergencias médicas y rescate): compartimiento funcional diseñado para responder a emergencias médicas y rescate;
+
+b) autobomba de hormigón: mecanismo operativo para el bombeo de hormigón sin pluma articulable;
+
+c)  bombero (salvamento, rescate y extinción de incendios): mecanismo operativo de seguridad para salvamento, rescate y otras emergencias;
+
+d) colector-compactador de residuos con carga trasera: compartimiento funcional para recoger, compactar o acomodar, transportar y descargar carga sólida, etc;
+
+e) grúa de auxilio mecánico (excepto plataforma autosocorro): mecanismo operativo diseñado para levantar, suspender o tirar, arrastrar (rescatar), remolcar y transportar una carga mediante un cable de acero, barra o dispositivo específico, hidráulico, eléctrico o mecánico, o combinación de los mismos;
+
+f) in loader: compartimiento cerrado con un gran espacio libre para transportar mercancías estrechas y altas, como láminas de vidrio, que puede ser construido con dos pisos, a través de un piso intermedio, destinado a cargas de bajo peso específico (voluminosas), con limitaciones de apilamiento o con diferentes productos en cada piso;
+
+g) lava-contenedor: mecanismo operativo provisto de actuadores hidráulicos destinados al lavado de contenedores;
+
+h) porta volquete: mecanismo operativo de elevación utilizado para transportar un cubo estacionario vacío o que contiene escombros, piedra, arena, desechos industriales, etc;
+
+i) roll-on roll-off: mecanismo operativo de elevación provisto de chasis mecánico y actuadores hidráulicos con autobloqueo, destinados a la carga, descarga e inclinación del equipo del vehículo.
+
+2. El organismo competente de cada Estado Parte podrá considerar cancelada la excepción prevista en el ítem 1, en cualquier momento y específicamente por modelo de vehículo o equipamiento vehicular en caso de comprobarse que el vehículo o equipamiento vehicular no ofrece seguridad pasiva requerida frente a colisiones de acuerdo con el propósito del paragolpes trasero expresado en el Apéndice I.
+
+3. El fabricante del vehículo cuyo paragolpes trasero especificado en el presente RTM sea incompatible con su uso y no se encuentre listado en este Apéndice, deberá consultar al organismo competente de cada Estado Parte, el cual emitirá un dictamen sobre el cumplimiento o la excepción de los requisitos enumerados en el presente RTM.
+2

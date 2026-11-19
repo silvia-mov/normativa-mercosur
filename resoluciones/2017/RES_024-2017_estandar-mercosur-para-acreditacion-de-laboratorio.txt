@@ -1,0 +1,462 @@
+Resolución GMC N° 24/17
+Título: ESTÁNDAR MERCOSUR PARA ACREDITACIÓN DE LABORATORIOS DE ANÁLISIS DE SEMILLAS Y HABILITACIÓN DE MUESTREADORES (DEROGACIÓN DE LAS RES. GMC Nº 60/97 Y 72/99)
+Fecha de aprobación: 19/07/2017
+Vigencia: Vigente (Vigente desde el 23/10/2020 - Art. 40 POP)
+Idioma del texto: ES
+Archivo original: 65895_RES_024-2017_ES_Estandar Laboratorios Semillas.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/3412).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 24/17
+
+ESTÁNDAR MERCOSUR PARA ACREDITACIÓN DE LABORATORIOS DE ANÁLISIS DE SEMILLAS Y HABILITACIÓN DE MUESTREADORES
+(DEROGACIÓN DE LAS RES. GMC Nº 60/97 Y 72/99)
+
+	VISTO: El Tratado de Asunción, el Protocolo de Ouro Preto, las Resoluciones Nº 02/94, 60/97, 16/98, 69/98, 72/99, 29/00, 53/01 y 21/17 del Grupo Mercado Común.
+
+CONSIDERANDO:
+
+Que es necesario actualizar el Estándar MERCOSUR para Acreditación de Laboratorios de Análisis de Semillas y Habilitación de Muestreadores a los efectos de facilitar el comercio de semillas entre los Estados Partes.
+
+EL GRUPO MERCADO COMÚN
+RESUELVE:
+
+Art. 1 - Aprobar el "Estándar MERCOSUR para Acreditación de Laboratorios de Análisis de Semillas y Habilitación de Muestreadores" que consta como Anexo y forma parte de la presente Resolución.
+
+Art. 2 - Los Estados Partes indicarán, en el ámbito del Subgrupo de Trabajo Nº 8 "Agricultura" (SGT N° 8), los organismos nacionales competentes para la implementación de la presente Resolución.
+
+Art. 3 - Derogar las Resoluciones GMC Nº 60/97 y 72/99.
+
+Art. 4 - Esta Resolución deberá ser incorporada al ordenamiento jurídico de los Estados Partes antes del 31/XII/2017.
+
+
+XLVIII GMC EXT - Mendoza, 19/VII/17.
+
+
+ANEXO
+
+ESTÁNDAR MERCOSUR PARA ACREDITACIÓN DE LABORATORIOS DE ANÁLISIS DE SEMILLAS Y HABILITACIÓN DE MUESTREADORES
+
+
+ÁMBITO DE APLICACIÓN
+
+El presente Estándar establece los requisitos que deben cumplir los laboratorios para emitir Certificados de Análisis de Lotes de Semillas MERCOSUR (CAS MERCOSUR) y habilitación de muestreadores. El CAS MERCOSUR será reconocido como válido en todos los Estados Partes.
+
+ REFERENCIAS
+
+• Reglas y bibliografía complementaria de ISTA.
+• Norma ISO/IEC 17025.
+• ISTA Accreditation standard for seed testing and seed sampling.
+• Regras para análises de sementes (RAS Brasil).
+• Resolución GMC N° 02/94
+• Resolución GMC N° 60/97
+• Resolución GMC N° 16/98
+• Resolución GMC N° 69/98
+• Resolución GMC N° 72/99
+• Resolución GMC N° 29/00
+• Resolución GMC N° 53/01
+• Resolución GMC N° 21/17
+
+METODOLOGÍAS APLICABLES
+
+Para la realización del muestreo se utilizará la metodología descripta por ISTA y las que complementariamente la Entidad Acreditadora fije al respecto.
+
+Los métodos de análisis que serán utilizados para la emisión del CAS MERCOSUR serán los oficializados por las Reglas ISTA. Para especies o métodos no incluidos en la metodología establecida por ISTA podrán ser utilizados los procedimientos acordados por las Entidades Acreditadoras involucradas.
+
+Para realizar el análisis de pureza físico-botánica de Poa pratensis, Poa trivialis y Dactylis glomerata el laboratorio opcionalmente, en reemplazo del soplador de semillas, podrá utilizar el método de separación manual. De ser utilizado este método, es obligatorio el uso del diafanoscopio u otro equipo equivalente.
+
+
+I REQUISITOS GENERALES
+
+1 - DEFINICIONES Y ABREVIATURAS En Venezuela no se contempla este sistema de
+• Certificado de Análisis de Lotes de Semillas MERCOSUR (CAS MERCOSUR): Documento emitido por un laboratorio acreditado que informa la calidad de un lote de semillas.
+
+• Entidad Acreditadora: Organismo oficial de cada Estado Parte del MERCOSUR responsable de aplicar el presente Estándar y la legislación nacional que lo reglamente.
+
+• Equipo Muestreador Automático Habilitado: Es aquel que cumple con todos los requisitos establecidos por ISTA y por la Entidad Acreditadora para ser utilizado en la toma de muestras de lotes de semillas para la posterior emisión de un CAS MERCOSUR.
+
+• International Seed Testing Association (ISTA): Asociación Internacional de Análisis de Semillas.
+
+• Laboratorio de Análisis de Semillas MERCOSUR (LAS MERCOSUR): Laboratorio acreditado para realizar análisis de las muestras de semillas extraídas por un muestreador habilitado, de producción propia y/o de prestación de servicios a terceros y expedir CAS MERCOSUR.
+
+• Muestreador: Persona física debidamente habilitada por la Entidad Acreditadora para la prestación del servicio de muestreo de lotes de semillas.
+
+• Responsable Técnico: Persona con formación universitaria o pos universitaria de carreras afines definidas por cada Estado Parte, a quien le compete la responsabilidad técnica de todas las actividades desarrolladas por el laboratorio como así también el control de los muestreadores (personas físicas y/o equipos muestreadores automáticos habilitados). El Responsable Legal del laboratorio podrá designar un segundo Responsable Técnico, debiendo éste cumplir con los mismos requisitos aquí descriptos.
+
+• Semilla: A los fines del presente Estándar se entiende como "semilla" a la semilla botánica.
+
+1- ACREDITACIÓN
+
+Pueden ser acreditados como LAS MERCOSUR, aquellos laboratorios pertenecientes a personas físicas o jurídicas de derecho público o privado, que cumplan con las exigencias contenidas en el presente Estándar y con las normas complementarias que determine la Entidad Acreditadora.
+
+2.1 - ALCANCE DE LA ACREDITACIÓN
+
+El alcance mínimo obligatorio abarcará las siguientes técnicas para las especies que el laboratorio solicite la acreditación:
+• Muestreo.
+• Pureza físico-botánica (pureza)
+• Determinación de otras semillas en número.
+• Germinación.
+
+Opcionalmente a lo anterior, el laboratorio podrá solicitar la acreditación adicional de alguna de las siguientes técnicas: viabilidad por la prueba tetrazolio, determinación del contenido de humedad, peso de mil semillas, análisis de semillas recubiertas y análisis de repeticiones por peso.
+
+2.2 - SOLICITUD DE ACREDITACIÓN
+
+La solicitud de acreditación debe ser efectuada ante la Entidad Acreditadora del Estado Parte al cual el laboratorio pertenezca, mediante la presentación de un formulario de solicitud de acreditación que contenga como mínimo la siguiente información:
+
+Datos del Laboratorio:
+• Nombre
+• Razón/Denominación Social
+• Dirección
+• Teléfono
+• Correo electrónico
+
+Datos del solicitante (Responsable Legal):
+• Nombre
+• Dirección
+• Teléfono
+• Correo electrónico
+• Firma y aclaración del Responsable Legal
+
+2.3 - DOCUMENTACIÓN A ADJUNTAR A LA SOLICITUD DE ACREDITACIÓN
+
+La solicitud de acreditación debe estar acompañada de la siguiente documentación debidamente completada, fechada y firmada (firma y aclaración) por el Responsable Técnico:
+
+A. Listado de especies a acreditar (nombre científico).
+
+B. Listado de técnicas a acreditar detalladas en el punto 2.1.
+
+C. Listado de documentos elaborados en base a la Norma ISO/IEC 17025 y/o al ISTA Accreditation standard for seed testing and seed sampling.
+
+Este listado debe contemplar como mínimo los siguientes documentos:
+
+• Procedimientos de control de documentación y registros.
+• Procedimientos descriptivos conforme al alcance de la acreditación solicitada.
+• Procedimientos y registros de control de equipamiento.
+• Procedimientos de gestión del personal, incluyendo muestreadores.
+
+D. Término de compromiso del Responsable Técnico.
+
+El Responsable Técnico debe firmar un término de compromiso, a través del cual se responsabiliza por todos los procesos efectuados por el laboratorio, comprometiéndose a cumplir el presente Estándar y las reglamentaciones y directrices establecidas por la Entidad Acreditadora.
+
+E. Término de compromiso del muestreador.
+
+El muestreador debe firmar un término de compromiso, a través del cual se compromete a realizar todas las actividades vinculadas al muestreo de acuerdo a la metodología establecida por ISTA y a las reglamentaciones y directrices establecidas por la Entidad Acreditadora. Este término de compromiso también se aplica a cada operario de un equipo muestreador automático.
+
+F. Listado de equipamiento detallando como mínimo tipo de equipo, cantidad, marca, modelo, especificaciones (capacidad, sensibilidad, etc.) y observaciones.
+
+G. Otras exigencias determinadas por la Entidad Acreditadora (si las hubiere).
+
+
+2- MODIFICACIÓN DEL ALCANCE DE LA ACREDITACIÓN
+
+3.1 - DEL LISTADO DE ESPECIES ACREDITADAS
+
+El LAS MERCOSUR toda vez que desee modificar el alcance de las especies acreditadas deberá enviar a la Entidad Acreditadora un nuevo listado completo de especies indicando claramente las modificaciones respecto del listado enviado anteriormente. Este nuevo listado anulará el anterior y deberá estar fechado y firmado por el Responsable Técnico.
+
+En los casos que se incorporen especies y las mismas requieran equipamiento diferente al que se poseía, un nuevo listado completo de equipamiento deberá ser enviado indicando claramente las modificaciones respecto al anterior. Este nuevo listado anulará el anterior y deberá estar fechado y firmado por el Responsable Técnico.
+
+La Entidad Acreditadora podrá determinar la necesidad de realizar entrenamiento específico para las nuevas especies. En los casos que se altere algún procedimiento, estos podrán ser requeridos y evaluados por la Entidad Acreditadora.
+
+3.2 - DEL LISTADO DE TECNICAS ACREDITADAS
+
+El LAS MERCOSUR toda vez que desee modificar el alcance de las técnicas acreditadas, deberá enviar a la Entidad Acreditadora una solicitud indicando la técnica a incorporar o a dar de baja de su alcance de acreditación. La Entidad Acreditadora establecerá los pasos a seguir al respecto. Este apartado se aplica solo a las técnicas opcionales.
+
+
+3- CAMBIO DE LA RAZÓN/DENOMINACIÓN SOCIAL
+
+El LAS MERCOSUR debe comunicar inmediatamente a la Entidad Acreditadora cualquier cambio de la razón/denominación social por medio de una nota fechada y firmada por el Responsable Legal del laboratorio, acorde a los pasos a seguir al respecto según sea definido por cada Entidad Acreditadora.
+
+4- CAMBIO DE RESPONSABLE TÉCNICO
+
+Todo cese de funciones del Responsable Técnico declarado ante la Entidad Acreditadora deberá ser informado por parte del Responsable Legal del laboratorio y/o por el Responsable Técnico cesante. El LAS MERCOSUR debe comunicar inmediatamente el cambio del Responsable Técnico por medio de una nota fechada y firmada por el Responsable Legal del laboratorio. La Entidad Acreditadora determinará los pasos que se deberán seguir al respecto.
+
+5- ASPECTOS RELATIVOS AL MUESTREO DE LOTES DE SEMILLAS
+
+Para la emisión de un CAS MERCOSUR, las muestras a analizar deben ser tomadas por un muestreador (persona física y/o equipo automático) habilitado por la Entidad Acreditadora. Los criterios a aplicar para el muestreo son los establecidos por ISTA.
+
+6.1 -  HABILITACIÓN DEL MUESTREADOR
+
+6.1.1 - PERSONA FÍSICA
+
+Los requisitos mínimos para ser habilitado como muestreador son:
+
+• Contar con la capacitación que estipule la Entidad Acreditadora.
+• Contar con el equipamiento requerido para realizar la tarea correctamente.
+• Cumplir con todos los aspectos establecidos por ISTA y con cualquier otra exigencia adicional establecida por la Entidad Acreditadora.
+
+
+6.1.2 - EQUIPO MUESTREADOR AUTOMÁTICO
+
+Para ser habilitado un equipo muestreador automático éste debe cumplir con todos los aspectos establecidos por ISTA y con cualquier otra exigencia adicional establecida por la Entidad Acreditadora.
+
+6.2 - CONSIDERACIONES GENERALES
+
+Los muestreadores son responsables de verificar el correcto sellado de los envases que conforman el lote de semillas. Cada lote muestreado debe quedar debidamente consignado en un Acta de muestreo de lotes de semillas. La misma tendrá carácter de declaración jurada y debe ser archivada por el término mínimo de cinco (5) años por el LAS MERCOSUR.
+
+El Acta debe contener como mínimo la siguiente información:
+
+• Empresa solicitante
+• Lugar y fecha de muestreo
+• Especie, cultivar y categoría
+• Identificación del lote
+• Zafra o Campaña (año de plantación y año de cosecha)
+• Cantidad y peso de cada envase, peso total del lote
+• Cantidad de muestras primarias colectadas
+• Nº de precinto o lacre de la muestra para análisis y de la muestra para archivo. La Entidad Acreditadora podrá establecer otro sistema de precintado o lacrado que asegure la inviolabilidad de la muestra.
+• Firma y aclaración del muestreador y del representante de la empresa solicitante
+
+La muestra compuesta deberá ser homogeneizada y dividida en al menos dos (2) muestras (una para análisis y otra para archivo en el LAS MERCOSUR), ambas muestras deberán estar debidamente precintadas/lacradas.
+
+Es responsabilidad del LAS MERCOSUR la correcta transcripción de todos los datos procedentes de la operatoria de muestreo al CAS MERCOSUR.
+
+Las muestras obtenidas en los muestreos se deberán almacenar en el archivo de muestras del laboratorio bajo condiciones adecuadas de conservación por el término de un (1) año a partir del ingreso al laboratorio.
+
+7 - ASPECTOS RELATIVOS AL FUNCIONAMIENTO DEL LABORATORIO
+
+El LAS MERCOSUR debe cumplir los siguientes requisitos mínimos:
+
+7.1 - INSTALACIONES
+
+7.1.1 - CONTROL DE ACCESO
+
+Asegurar que el acceso y el uso de todas las áreas en donde se efectúen análisis estén controladas de manera apropiada para su propósito y que la entrada de personas ajenas al laboratorio sea restringida.
+
+7.1.2 - CONDICIONES AMBIENTALES
+
+Asegurar que las condiciones ambientales no invaliden los resultados de los análisis ni comprometan la calidad requerida de las mediciones.
+
+7.2. EQUIPAMIENTO
+
+El equipamiento del laboratorio debe ser adecuado y compatible con el volumen de muestras analizadas, cantidad de analistas y el alcance de la acreditación.
+
+Para asegurar que el funcionamiento de los diferentes equipos no afecte la calidad de los resultados de los análisis, los mismos deberán tener las calibraciones, controles y verificaciones mínimas establecidas para cada uno de ellos en el presente Estándar.
+
+7.2.1 - Equipo muestreador automático habilitado: Controles y requisitos establecidos por ISTA y por la Entidad Acreditadora.
+
+7.2.2 Cámara de germinación (en todos sus tipos) y heladera/refrigerador: Control de temperatura en diferentes puntos y niveles acorde a lo establecido en las Reglas ISTA y/o a lo que la Entidad Acreditadora determine.
+
+7.2.3 Estufa para humedad y equipamiento utilizado para la etapa de tinción en la prueba de viabilidad por tetrazolio: Control de estabilidad de temperatura.
+
+	Nota: Para el caso de la estufa utilizada para la determinación del contenido de humedad debe realizarse el control de la capacidad de la estufa establecido por ISTA con una frecuencia mínima de tres (3) años.
+
+7.2.4 Equipos automáticos para determinación del contenido de humedad: Calibración establecida por las Reglas ISTA.
+
+7.2.5 Balanza: La balanza debe estar ubicada en un espacio que asegure su correcto funcionamiento y evite la incidencia de factores externos como vibraciones, corrientes de aire u otros. La misma debe ser calibrada previamente a ser utilizada por primera vez y luego de cualquier reparación. El período máximo aceptable de validez de la calibración externa es de tres  (3) años.
+
+7.2.6 Pesas patrón: Se debe contar con al menos dos (2) pesas calibradas, como mínimo de Clase F2. El período máximo aceptable de validez de la calibración es de cinco (5) años.
+
+	Nota: Es recomendable que las pesas de control se encuentren dentro del rango de uso de la balanza.
+
+7.2.7 Termómetros: Se debe contar con al menos un termómetro de escala máxima 0,5°C calibrado externamente en los distintos rangos de uso (termómetro patrón). Este termómetro deberá ser el utilizado para el control del resto de los termómetros en sus condiciones de trabajo. La exigencia de escala de división para el resto de los termómetros debe ser como máximo de 1 °C.
+
+	El periodo máximo aceptable de validez de la calibración externa del termómetro patrón es de cinco (5) años.
+
+	La frecuencia mínima de control de los termómetros será:
+
+• Termómetro patrón: al menos una (1) vez al año se debe realizar la verificación descripta por ISTA para punto de hielo, aplicando una tolerancia de 0,5 °C.
+• Termómetro de trabajo: al menos dos (2) veces al año se debe realizar la verificación descripta por ISTA para el control de la temperatura en las condiciones de trabajo aplicando una tolerancia de 1 °C.
+
+	Estos controles podrán exceptuarse si el laboratorio anualmente calibra externamente todos los termómetros utilizados.
+
+7.2.8 Soplador de semillas: En el caso de utilizarse el soplador de semillas para el análisis de pureza físico-botánica de Poa pratensis, Poa trivialis y Dactylis glomerata es obligatoria la calibración del equipo utilizando las muestras calibradas estipuladas por ISTA.
+
+7.2.9 Archivo de semillas: La temperatura debe ser de hasta 20 °C, con tolerancia de hasta 23 °C para variaciones eventuales. De ser necesario se deberán realizar tratamientos contra insectos, roedores y otros cuidados para asegurar la conservación de las muestras.
+
+7.2.10 Medio de crecimiento: Cada partida debe estar debidamente identificada y cumplir con las exigencias establecidas por ISTA.
+
+7.2.11 Divisor de muestras/Homogeneizador: Debe encontrarse en una superficie nivelada y controlarse como mínimo una (1) vez al año de acuerdo al método que determine la Entidad Acreditadora.
+
+
+8 - REGISTROS
+
+Los registros no deben tener borrones. Cuando se detecten errores en los mismos deben ser tachados, no deben ser borrados, ni hechos ilegibles, ni eliminados y el valor correcto debe ser escrito al margen. Todas las alteraciones a los registros deben ser firmadas o visadas por la persona que realice la corrección.
+
+Todos los registros deben mantenerse por un plazo mínimo de cinco (5) años.
+
+Los registros mínimos obligatorios son:
+
+• Solicitud de muestreo y análisis para la emisión de un CAS MERCOSUR.
+• Acta de muestreo.
+• Libro de ingreso de muestras.
+• Fichas de análisis.
+• Registros de calibración, verificación, control y mantenimiento del equipamiento listado en el punto 7.2.
+• Registro de los ensayos interlaboratorios y de control de las tendencias de los analistas (ensayos intralaboratorio).
+• Registros de auditorías.
+• Registros de acciones correctivas.
+• CAS MERCOSUR (en formato electrónico o impreso).
+• Registros de uso de soluciones/reactivos.
+• Registros de entrenamiento del personal técnico y muestreadores.
+
+
+9 - MATERIAL DE REFERENCIA
+
+• Reglas, manuales y documentación complementaria vigente aplicable de ISTA.
+• Pesas patrón calibradas.
+• Termómetro patrón calibrado.
+• Muestras calibradas de Poa y/o Dactylis (en caso de que el laboratorio utilice el método de soplado uniforme).
+• ISTA List of stabilized plant names vigentes.
+• Bibliografía específica para identificación de semillas.
+• Colección de semillas.
+
+
+10 -INSTRUCCIONES PARA EL FUNCIONAMIENTO DE LOS LABORATORIOS
+
+10.1 - LIBRO DE INGRESO DE MUESTRAS
+
+Todas las muestras recibidas por el laboratorio deben ser registradas en el libro de ingreso de muestras en secuencia numérica por orden cronológico de ingreso (de manera continua o iniciando cada año, de acuerdo con lo establecido por la Entidad Acreditadora), acompañado este número por el año de ingreso de la muestra. Toda esta información conforma el "número de análisis" o "número de muestra". Adicionalmente, el laboratorio podrá colocarle a este número otros números y/o letras para la identificación de la muestra.
+
+El libro de ingreso de muestras podrá ser llevado de manera electrónica y/o en papel. Los campos mínimos obligatorios son los siguientes: número de análisis o número de muestra, nombre del solicitante, identificación del muestreador, especie, cultivar, categoría, cantidad de envases, peso del lote, identificación del lote, fecha de muestreo, zafra/campaña, fecha de ingreso al laboratorio, análisis solicitados, número/s de certificado/s y observaciones.
+
+10.2 - MUESTRAS
+
+Las muestras recibidas y las muestras de trabajo de ellas obtenidas deben ser identificadas con su respectivo número de análisis o número de muestra.
+
+Las muestras deben ser mantenidas antes de la ejecución del análisis en locales secos, ventilados, de manera de evitar eventuales alteraciones en la calidad de las mismas; debiendo ser analizadas lo antes posible.
+
+Una vez obtenida la muestra de trabajo (la cuál debe estar identificada con el número de análisis o número de muestra), las semillas remanentes de la muestra recibida deben ser colocadas en un envase apropiado e identificado con el número de análisis o número de muestra.
+
+La semilla pura, las semillas extrañas y la materia inerte que resulten del análisis de pureza deben colocarse en envases individuales, identificados con el número de análisis o número de muestra.
+
+Las semillas extrañas que resulten del análisis de otras especies en número, deben colocarse en un envase identificado con el número de análisis o número de muestra al igual que la muestra analizada.
+
+Todos estos envases, al igual que la muestra de archivo obtenida en el muestreo, deben guardarse en el archivo de semillas como mínimo por un (1) año contado a partir de la fecha de ingreso al laboratorio.
+
+Alternativamente, las semillas extrañas encontradas en el análisis de pureza o en el análisis de otras especies en número, podrán ser colocadas en envases y ser adjuntadas al Boletín/Ficha de análisis.
+
+10.3 - BOLETÍN/FICHA DE ANÁLISIS
+
+Cada uno de los análisis realizados por el laboratorio para la emisión de un CAS MERCOSUR, debe estar respaldado por un Boletín/Ficha de análisis. El mismo debe contener como mínimo el número de análisis o número de muestra, especie, identificación de los analistas involucrados, fecha de realización del análisis (fecha de inicio y de finalización cuando sea aplicable). La información relativa a los análisis realizados (métodos y resultados) debe ser registrada en forma clara y legible.
+
+10.4 - CERTIFICADO MERCOSUR DE ANÁLISIS DE LOTES DE SEMILLAS
+
+En los CAS MERCOSUR sólo se deben informar resultados de análisis incluidos dentro del alcance de la acreditación otorgada al laboratorio. Los resultados de los análisis deben ser emitidos siguiendo los criterios establecidos en las Reglas ISTA para cada una de las técnicas acreditadas.
+
+Los CAS MERCOSUR podrán ser emitidos utilizando máquinas de escribir, impresoras o formato digital y no pueden contener borrones ni enmiendas. Para ser válidos deben contener el nombre y firma del Responsable Técnico. Bajo entera responsabilidad del Responsable Técnico podrán ser firmados por un reemplazante autorizado, designado si la Entidad Acreditadora lo autorizare. Para esta designación deberá presentar ante la Entidad Acreditadora la designación del reemplazante autorizado firmada por el autorizado y endosada por el Responsable Técnico. El reemplazante autorizado deberá tener una capacitación y un entrenamiento acorde al alcance de la acreditación. En caso de acefalía en la dirección técnica, el laboratorio no podrá emitir CAS MERCOSUR.
+
+Los resultados de los análisis efectuados deben ser emitidos utilizando el modelo de CAS MERCOSUR establecido en el Apéndice.
+
+Categorías de CAS MERCOSUR:
+
+• ORIGINAL: Aquel emitido después de finalizar los análisis solicitados y marcado como tal.
+• PROVISIONAL: Aquel emitido antes de finalizar todos los análisis solicitados.
+• COPIA: Certificado impreso idéntico a un ORIGINAL o PROVISIONAL. Se debe marcar como tal e indicar el número de la copia en cada certificado emitido.
+
+Número de CAS MERCOSUR: Todo CAS MERCOSUR emitido debe tener un número de certificado consecutivo e iniciado cada año y estar acompañado del año de emisión del certificado.
+
+Las distintas categorías de CAS MERCOSUR se numerarán de la siguiente manera:
+
+• Certificado ORIGINAL y PROVISIONAL: Tendrán su propio número de certificado.
+• Certificado COPIA: Mantendrá el mismo número de certificado ORIGINAL o PROVISIONAL del cual se origina.
+
+En caso de emitirse un certificado PROVISIONAL se deberá indicar bajo el campo "Otras determinaciones" la siguiente leyenda: "Certificado PROVISIONAL: el certificado final será emitido una vez que finalicen todos los análisis". La aceptación de un certificado provisional será determinada por cada Estado Parte.
+
+En el caso de informar el resultado del análisis de pureza físico-botánica de Poa pratensis, Poa trivialis y Dactylis glomerata, habiéndose utilizado el método de separación manual, en el campo "Otras determinaciones" se debe indicar la siguiente leyenda: "Ensayo de pureza realizado utilizando el método de separación manual".
+
+
+11 -  INSPECCIONES Y AUDITORÍAS
+
+Son actividades desarrolladas por la Entidad Acreditadora para otorgar o mantener la acreditación del laboratorio.
+
+Las auditorías deberán ser realizadas al menos cada tres (3) años y el Responsable Técnico del laboratorio debe estar presente en el momento de la realización de las mismas. De considerarlo necesario, la Entidad Acreditadora podrá realizar inspecciones adicionales a las auditorías. La Entidad Acreditadora comunicará al laboratorio la fecha de realización de la auditoria; no siendo esto necesario para el caso de las inspecciones.
+
+Luego de cada auditoría o inspección, la Entidad Acreditadora emitirá un informe en el cual se establecerá el plazo para efectuar las acciones correctivas de las no conformidades detectadas. Copia del mismo será entregada al laboratorio.
+
+Durante las auditorías o inspecciones se podrán retirar muestras del archivo de semilla del laboratorio para realizar ensayos de control comparativo.
+
+
+12 - ENSAYOS INTERLABORATORIOS
+
+Periódicamente la Entidad Acreditadora organizará ensayos interlaboratorios con el objetivo de evaluar el desempeño de los laboratorios.
+
+La Entidad Acreditadora podrá solicitar el envío de muestras del archivo de semillas de los laboratorios, cada una de las cuales debe estar acompañada de las copias de los CAS MERCOSUR correspondientes.
+
+Los resultados de los análisis  de control interlaboratorios deben ser comunicados al laboratorio evaluado.
+
+
+13 - OBLIGACIONES
+
+13.1 - DE LA ENTIDAD ACREDITADORA
+
+13.1.1 - Establecer normas y procedimientos para asegurar el cumplimiento del presente Estándar.
+
+13.1.2 - Realizar auditorías e inspecciones.
+
+13.1.3 - Divulgar a los LAS MERCOSUR las actualizaciones del presente Estándar así como también las modificaciones de las normativas nacionales complementarias.
+
+13.1.4 - Mantener un listado actualizado y de dominio público de los LAS MERCOSUR.
+
+
+13.2 - DE LOS LABORATORIOS DE ANÁLISIS DE SEMILLAS MERCOSUR
+13.2.1 - Asegurar en todo momento la confidencialidad de la información y el acceso restringido a los sectores en donde se efectúan los análisis.
+
+13.2.2 -Ejecutar los análisis de semillas atendiendo las Reglas para Análisis de Semillas oficializadas por el MERCOSUR.
+
+13.2.3 - Asistir a las convocatorias que la Entidad Acreditadora determine como obligatorias.
+
+13.2.4 - Emitir CAS MERCOSUR de acuerdo con el modelo y criterios establecidos por la Entidad Acreditadora.
+
+13.2.5 - Informar a la Entidad Acreditadora todos los cambios ocurridos (Responsable Técnico, razón/denominación social, ubicación del laboratorio y todo otro aspecto definido por la Entidad Acreditadora).
+
+13.2.6 - Permitir a la Entidad Acreditadora el libre acceso a los sectores y a la documentación específica del laboratorio, facilitando datos y copias de los documentos solicitados.
+
+13.2.7 - Participar de los ensayos interlaboratorios efectuando las acciones correctivas en caso de corresponder.
+
+13.2.8 - Cumplir el presente Estándar y las instrucciones complementarias emitidas por la Entidad Acreditadora.
+
+13.2.9 - Mantener toda la documentación enviada por la Entidad Acreditadora.
+
+
+13.3 - DEL RESPONSABLE TÉCNICO
+
+13.3.1 - Garantizar el cumplimiento del presente Estándar.
+
+13.3.2 - Responsabilizarse técnica y administrativamente de todas las actividades desarrolladas en el laboratorio.
+
+13.3.3 - Coordinar, orientar y supervisar todas las actividades desarrolladas en el laboratorio.
+
+13.3.4 - Enviar toda documentación exigida por la Entidad Acreditadora dentro del plazo que esta fije.
+
+13.3.5 - Atender a las convocatorias obligatorias estipuladas por la Entidad Acreditadora.
+
+13.3.6 -  El responsable técnico o quien este designe deberá firmar todos los CAS MERCOSUR emitidos por el laboratorio a su cargo.
+
+
+14 - PROHIBICIONES
+
+Los LAS MERCOSUR no podrán:
+
+14.1 - Publicar su condición de acreditado sin la respectiva acreditación otorgada por la Entidad Acreditadora.
+
+14.2 - Emitir CAS MERCOSUR sin la respectiva acreditación otorgada por la Entidad Acreditadora.
+
+14.3 - Emitir CAS MERCOSUR en desacuerdo con el presente Estándar.
+
+14.4 - Cometer faltas que afecten a la credibilidad de los análisis efectuados.
+
+14.5 - Tercerizar los análisis informados en el CAS MERCOSUR.
+
+14.6 - Realizar falsificaciones y adulteraciones de resultados.
+
+14.7 - Impedir o dificultar por cualquier medio las acciones de inspecciones o auditorias.
+
+14.8 - Incumplir con el presente Estándar, con las legislaciones vigentes y/o con las normas y directivas complementarias de la Entidad Acreditadora.
+
+
+15 - PENALIDADES
+
+Las penalidades serán aquellas establecidas en las legislaciones específicas de cada Estado Parte.
+
+
+16 - DISPOSICIONES GENERALES
+
+16.1 - El Responsable Legal del LAS MERCOSUR al firmar la solicitud de acreditación se compromete a proporcionar al Responsable Técnico, analistas y muestreadores las condiciones necesarias para el buen desempeño de sus funciones.
+
+16.2 - Los casos no previstos en el presente Estándar serán resueltos por la Entidad Acreditadora.
+
+
+Apéndice
+
+Certificado MERCOSUR de Análisis de Lotes de Semillas
+
+
+17

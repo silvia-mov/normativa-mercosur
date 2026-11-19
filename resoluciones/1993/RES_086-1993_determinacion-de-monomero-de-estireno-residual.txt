@@ -1,0 +1,152 @@
+Resolución GMC N° 86/93
+Título: DETERMINACIÓN DE MONÓMERO DE ESTIRENO RESIDUAL
+Fecha de aprobación: 14/01/1994
+Vigencia: Vigente (La normativa no posee registro de entrada en vigencia)
+Idioma del texto: ES
+Archivo original: 37879_RES_086-1993_ES_Determ.de Manómero estireno residual_Acta_04_93.doc
+Conversión a texto: lectura directa del .doc
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2408).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES. Nº 86/93
+
+DETERMINACION DE MONOMERO DE ESTIRENO RESIDUAL
+
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común, la Resolución Nº 56/92 del Grupo Mercado Común y la Recomendación Nº 57/93 del Subgrupo de Trabajo Nº 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que en la Resolución Nº 56/92, en el Anexo "Disposiciones generales para Envases y Equipamientos Plásticos", se determinó que los envases y equipamientos plásticos en contacto con alimentos deben cumplir con los requisitos establecidos en el reglamento técnico específico.
+
+Que de acuerdo con estos criterios, se considera conveniente disponer de un reglamento común sobre el método de determinación del límite de composición del monómero de estireno en envases y equipamientos de polietileno y sus "copolímeros" en contacto con alimentos.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+Art. 1. La norma de monómero de estireno residual en envases hechos con estireno y sus "copolímeros" destinados a entrar en contacto con alimentos que se comercializan entre los Estados Partes del MERCOSUR, se determinará de acuerdo con lo establecido en el Reglamento Técnico adjunto "Determinación del monómero de estireno residual".
+
+Art. 2. Los Estados Partes del MERCOSUR pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución y comunicarán el texto de las mismas al Grupo Mercado Común a través de la Secretaría Administrativa.
+
+ANEXO
+DOCUMENTO SOBRE DETERMINAÇÃO DE MONÔMERO DE ESTIRENO RESIDUAL
+1. Alcance.
+
+Este reglamento técnico se aplicado à determinação de estireno em embalagens e equipamentos plásticos elaborados con poliestireno (PS) e outros copolímeros que utilizem este monômero e que se destinem a entrar em contato com alimentos.
+
+2. Fundamento.
+
+A determinação de estireno é efectuada por cromatografia em fas gaseosa, após dissolução da amostra em cloreto de metileno. São descritos, como exemplo, dois métodos cromatográficos que podrão ser utilizados, dependendo da disponibilidade do equipamento no laboratório de controle (Métodos A e B).
+
+3. Equipamentos.
+
+3.1. Cromatógrafo gás con detector de ionização de chama.
+3.2. Coluna cromatográfica que permita a separação dos picos correspondentes ao estireno e ao cloreto de metileno.
+3.2.1. Método A: coluna de 2,0 m de comprimento e 3,2 mm de diâmetro interno, empacotada com succinato de dietilenoglicol (DEGS) a 10%, em Chromosorb 80/100.
+3.2.2. Método B: coluna de 1,8 m de comprimento e 3,2 mm de diâmetro interno, empacotada com 20% SE-30 sobre Anakron ABS.
+3.3. Agitador magnético.
+
+4. Reagentes.
+
+4.1. Método A:
+4.1.1. Gás nitrógênio.
+4.1.2. Ar sintético, purificado.
+4.1.3. Gás hidrogênio.
+4.1.4. Cloreto de metileno, redestilado.
+4.1.5. Monômero de estireno, redestilado.
+
+4.2. Método B:
+
+4.2.1. Gás argônio.
+4.2.2. Gás oxigênio.
+4.2.3. Gás hidrogênio.
+4.2.4. Acetona p.a.
+4.2.5. Metanol p.a.
+4.2.6. Cloreto de metileno, redestilado.
+4.2.7. Monômero de estireno, redestilado.
+
+Advertência: O estireno é levemente tóxico por inalação, pode causar irritação nas mucosas, principalmente na ocular e inflamável, porisso deve trabalhar em capela.
+
+5. Condições de operação recomendadas.
+
+5.1. Métodos A:
+
+5.1.1. Temperatura da coluna: 75 ºC (isoterma)
+5.1.2. Temperatura do detetor: 200 ºC
+5.1.3. Temperatura do injetor: 150 ºC
+5.1.4. Fluxo de nitrogênio: 30 ml/min
+5.1.5. Sensibilidade: 10-9
+5.1.6. Volume injetado: 1,0 mm (µl)
+5.1.7. Fluxo de gases do detetor: ar sintético: 300 ml/minuto
+hidrogênio: 30 ml/minuto
+5.2. Método B:
+
+5.2.1. Temperatura da coluna: 130 ºC
+5.2.2. Temperatura do detetor: 250 ºC
+5.2.3. Temperatura do injetor: 150 ºC
+5.2.4. Sensibilidad: 10-9
+5.2.5. Volume injetado: 1,0 mm (µl)
+5.2.6. Fluxo de argônio: 20 ml/min
+5.2.7. Fluxo de gases do detetor: Hidrógeno: 20 ml/minuto
+Oxigênio: 40 ml/minuto
+
+6. Procedimento.
+
+6.1. Preparação dos padrões.
+
+6.1.1. Método A:
+Pesar 15 mm (µl) de monômero de estireno em um balão volumétrico de 25 ml. Completar o volume com cloreto de metileno. Efetuar as diluções necessárias, em função del teor de estireno na amostra.
+
+6.1.2. Método B:
+
+Colocar acetona em um frasco de 60 ml, previamente tarado, até la altura do gargalo. Pesar novamente o sistema, após fechamento e selagen do frasco, para a determinação da masa exata de acetona.
+
+Adicionar então ao conteúdo do frasco, um volume conhecido de estireno (por ex., 2,5 mm (µl), com o auxilio de uma micro-seringa. Pesar novamente o frasco para a determinação da massa de estireno. Calcular a concentração de estireno na solução-padrão em têrmos de microgramas de estireno por mm (µl) de solução, considerando a densidade da acetona a 20 ºC (0,79 g/ml). Preparar varios padrões de maneira a cobrir a faixa de concentração desejada.
+
+6.2. Preparação da amostra.
+
+6.2.1. Método A:
+
+Cortar a amostra em pedaços pequenos de área menor que 10 mm por 2 mm. Pesar exatamente cerca de 0,300 g de amostra em um balão volumétrico de 10 ml, completando o volume com cloreto de metileno. Caso persista algum resíduo insolúvel, separar esse resíduo por centrifugação ou decantação.
+
+6.2.2. Método B:
+
+Cortar a amostra em pedaços pequenos com área menor que 10 mm por 2,0 mm. Pesar cerca de 3,0 g de amostra, com precisão de 0,1 mg, em béquer de 150 ml. Adionar ao béquer, lentamente e sob agitação, 20 ml de cloreto de metileno. Após total dissolução da amostra, acrescentar 30ml de metanol para a precipitação do poliestireno. Filtrar o conteúdo de béquer sob vácuo e separar o filtrado. Para garantir la total extração do estireno, repetir com o precipitado o procedimento de dissolução e precipitação do polímero. Filtrar sob vácuo. Juntar os dois filtrados em um balão volumétrico, completando o volume para 100ml com metanol.
+
+6.3. Análise cromatográfica.
+
+6.3.1. Método A:
+
+Através de uma micro-seringa, injetar 1mm (µl) da solução-padrão no cromatógrafo a gás. Medir el área do pico de monômero de estireno. Injetar 1 mm (µl) da solução da mostra utilizando-se a técnica de "flush", com solvente e ar, para evitar perdas de amostra por evaporação. Medir el área do pico resultante de estireno. Comparar com a área produzida pela solução-padrão
+
+6.3.2. Método B:
+
+Injetar no cromatógrafo a gás 1 mm (µl) de cada solução-padrão e traçar a curva -padão: resposta cromatográfica x concentração de estireno em solução. Injetar 1 mm (µl) da solução de  amostra no cromatógrafo a gás. Medir a área do pico de estireno e comparar com a curva-padrão.
+
+7. Cálculos.
+
+Calcula-se a concentração de estireno de la siguinte forma:
+7.1. Método A:
+
+Conteúdo de estireno, em g/100 g de amostra: Am – Cp - 10
+Ap - Cm
+sendo:
+
+Am = área do pico de amostra, em unidades de área
+Ap = área do pico do padrão em unidades de área
+Cm = concentração da solução-padrão da amostra (em g de amostra/ml)
+Cp = concentração da solução-padrão (em µg de estireno/ml)
+
+7.2 Método B:
+
+Conteúdo de estireno em mg/Kg = (R-b).105
+a.Vi.M
+
+R = Resposta obtida na análise cromatográfica (unidades de área)
+b = coeficiente linear da curva-padrão (unidades de área)
+a = coeficiente angular da curva-padrão (unidades de área/µg de estireno)
+Vi = volume da amostra injetada (µl)
+M = massa da muestra (g)
+
+8. Límite.
+
+O conteúdo máximo permitido de estireno é de 0,25 g de estireno/100g de amostra (0,25%) ou 2500 mg de estireno/kg, amostra na máteria plástica, como establecido na Resolução MERCOSUL correspondente á lista positiva de polímeros e resinas para embalagens e equipamentos plásticos em contato com alimentos.

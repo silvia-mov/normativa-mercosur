@@ -1,0 +1,686 @@
+Resolución GMC N° 97/94
+Título: ESTRATEGIA DE ADECUACIÓN SOBRE VIGILANCIA SANITARIA
+Fecha de aprobación: 15/12/1994
+Vigencia: Derogada (Será derogada por la Resolución GMC Nº 07/15, la cual se encuentra en proceso de incorporación.)
+Idioma del texto: ES
+Archivo original: 29448_RES_097_1994_ES_EstratAdecuacVigilanciaSanit.doc
+Conversión a texto: Word
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/2158).
+----------------------------------------------------------------------
+MERCOSUR/GMC/RES Nº  97/94
+
+ESTRATEGIA DE ADECUACION SOBRE VIGILANCIA SANITARIA
+
+VISTO: El Art. 13 del Tratado  de Asunción, el Art. 10 de Decisión No. 4/91 del Consejo del Mercado Común, la Resolución No. 91/93 del Grupo Mercado Común y la Recomendación No. 65/94 del SGT No 3 "Normas Técnicas".
+
+CONSIDERANDO:
+Que deben ser establecidos mecanismos que permitan una transición gradual en todos los items que conciernen la Vigilancia Sanitaria.
+Que también son necesarios mecanismos que permitan la adecuación del sector productivo a los nuevos reglamentos armonizados y aprobados.
+Que la libre circulación de productos y servicios en el mercado comunitario, sin barreras no arancelarias, exige un tratamiento equitativo entre los Estados Partes, de forma de posibilitar la integración.
+
+EL GRUPO MERCADO COMUN
+RESUELVE:
+
+ArtÍculo 1 - Aprobar el documento "Estrategia de Adecuación sobre Vigilancia Sanitaria", que figura como Anexo de la presente Resolución.
+
+Artículo 2 - Los Estados Partes pondrán en vigencia las disposiciones legislativas, reglamentarias y administrativas necesarias para dar cumplimiento a la presente Resolución a través de los siguiente organismos:
+
+Argentina: 	ANMAT (Administración Nacional de Medicamentos, alimentos y Tecnología Médica)
+
+Brasil:    	Secretaria de Vigilância Sanitária do Ministério da Saúde
+
+Paraguay: 	Dirección de Vigilancia Sanitaria del Ministerio de Salud Pública y Bienestar Social
+
+Uruguay: 	Ministerio de Salud Pública
+
+Artículo 3  - Las otras áreas de Productos para la Salud deberán incorporar los procedimientos específicos que armonicen con el documento general de Estrategia de Adecuación.
+
+Artículo 4  - Esta Resolución entrará en vigencia el 1º de enero de 1995.
+
+
+ 		XVI GMC - Ouro Preto, 15/XII/1994.
+
+
+ANEXO
+
+REGLAMENTO TECNICO PARA LA PRODUCCION Y CONTROL DE CALIDAD DE HEMODERIVADOS DE ORIGEN PLASMATICO
+
+1. 	DEFINICIONES
+
+1.1.	TERMINOLOGIA
+
+Albúmina Humana de Origen Plasmático
+Inmunoglobulina normal
+Inmunoglobulinas específicas
+Concentrado de Factor V llI
+Concentrado de Factor IX
+
+1.2.	DEFINICION DESCRIPTIVA
+
+Los Hemoderivados son medicamentos obtenidos a partir del plasma y/o suero humano, sometidos a procesos de industrialización y normatización que le confieren cualidades de estabilidad, actividad y especificidad.
+
+2. 	TERMINOLOGIA
+
+2.1.	UNIDADES
+
+Volumen de sangre total o de uno de sus componentes, obtenido por recolección, de un donante sano, en un sistema cerrado, apirógeno y estéril, en un único recipiente, conteniendo solución anticoagulante y/o estabilizadora.
+
+2.2. 	SANGRE TOTAL
+
+Se denomina sangre total a la unidad recolectada del sistema venoso en un donante sano, en una única donación, en un sistema cerrado, apirógeno y estéril, en un único recipiente, conteniendo solución anticoagulante y/o estabilizadora.
+
+2.3.	FRACCIONAMIENTO o PROCESAMIENTO
+
+Es el conjunto de procedimientos físicos o mecánicos utilizados para la obtención de hemocomponentes a partir de unidades de sangre total.
+
+2.4.	HEMOCOMPONENTES (COMPONENTES)
+
+Es parte de una unidad de sangre total, separada por procesos físicos o mecánicos.
+
+2.5.	PLASMA
+
+Es la porción líquida remanente después de la separación física de los elementos celulares de la sangre total, a través de procesos de sedimentación, centrifigación o por plasmaféresis.
+
+2.6.	UNIDAD DE PLASMA
+
+Es el plasma proveniente de una unidad de sangre total.
+
+2.7. SUERO
+
+Es la porción líquida de sangre total coagulada o plasma desfibrinado.
+
+2.8. 	UNIDAD DE SUERO
+
+Es el Suero proveniente de una unidad de sangre total o de una unidad de plasma desfibrinado.
+
+2.9. 	PLASMA FRESCO
+
+Es el Plasma obtenido de una unidad de sangre total, en un sistema cerrado, utilizado o procesado dentro de un plazo máximo de 8 horas de extraída la sangre.
+
+2.10. 	PLASMA FRESCO CONGELADO (PFC)
+
+Es el plasma obtenido de una unidad de sangre total cuyo proceso de congelamiento se ha completado en un plazo máximo de 8 horas después de extraída la sangre, debiendo ser almacenado a temperaturas no superiores a - 20°C.
+
+2.11. 	PLASMA CONGELADO
+
+Es el plasma obtenido de una unidad de sangre total, separado en un sistema cerrado, cuyo proceso de congelamiento se ha completado en más de 8 horas después de la extracción y almacenado a temperaturas no superiores a -20°C.
+
+2.12. 	PLASMA REMANENTE
+
+Es el Plasma obtenido a partir de plasma fresco, plasma fresco congelado o plasma congelado después de retirado el o los componentes, debiendo ser nuevamente congelado y almacenado a temperaturas no superiores a -20ºC.
+
+2.13. 	PLASMA RECUPERADO
+
+Es el Plasma que no reúne los requisitos de plasma fresco, plasma fresco congelado, plasma congelado o plasma remanente y que se destina exclusivamente a la producción de hemoderivados, debiendo ser almacenado a temperaturas no superiores a -20° C.
+
+2.14.	PLASMAFERESIS
+
+Es el procedimiento de obtención de plasma a partir de la recolección de sangre total, donde los elementos celulares son removidos y devueltos al donante durante la donación.
+
+2.15.	CRIOPRECIPITADO
+
+Preparado bruto conteniendo Factor VIII, obtenido de una unidad de plasma y/o de plasma obtenido por plasmaféresis, a través de un procedimiento (que incluye congelamiento, descongelamiento y centrifugación en frío.
+
+2.16.	MATERIA PRIMA
+
+Es toda sustancia de características definidas, utilizada en la producción de hemoderivados, excluyéndose los materiales de envasado.
+
+2.17.
+
+Es toda organización dedicada a la promoción de la donación, reclutamiento, selección clínica de donantes, extracción, estudios inmunohematologicos, controles serológicos, fraccionamiento y procesamiento, conservación y distribución de sangre y hemocomponentes
+
+2.18.	PROCESAMIENTO O FRACCIONAMIENTO DE PLASMA/SUERO
+
+Es el conjunto de procedimientos físico-químicos utilizados para la obtención de productos hemoderivados, a partir de plasma o suero.
+
+2.19. 	MEZCLA INICIAL (POOL DE PLASMA)
+
+Es el volumen resultante de la mezcla de un número variable unidades de plasma o de plasma obtenido por plasmaféresis, o suero utilizado como materia prima en el proceso de obtención hemoderivados.
+
+
+2.20. 	PRODUCTO CONCENTRADO A GRANEL (BULK CONCENTRADO)
+
+Es el producto purificado y concentrado, obtenido por procesamiento de la mezcla inicial o pool de plasma.
+
+2.21.	PRODUCTO ACABADO A GRANEL (BULK FINAL)
+
+Es la solución estéril, apirógena, obtenida a partir del producto concentrado a granel, acondicionado en un único recipiente y debidamente identificado.
+
+2.22.	PRODUCTO ENVASADO
+
+Es el producto acabado a granel, envasado en un ciclo de llenado, en envases definitivos y lacrados.
+
+2.23. 	INACTIVACION VIRAL
+
+Es el proceso validado, al cual deben ser sometidos los hemoderivados y que tiene por objetivo la inactivación de virus con o sin membrana lipídica, así como virus ADN y ARN.
+
+2.24. 	LOTE FINAL DE HEMODERIVADOS
+
+Es el producto envasado, debidamente identificado y producido, de acuerdo con los criterios y límites establecidos por este Reglamento.
+
+3. 	NORMAS GENERAL DE PRODUCCION Y CONTROL
+
+La materia prima para la obtención de hemoderivados de origen plasmático puede ser plasma fresco, plasma fresco congelado, crioprecipitados, plasma congelado, plasma recuperado, plasma remanente o suero, debiendo cada unidad ser identificada de forma tal que permita relacionarla correctamente con el donante y la respectiva fecha de dicha donación.
+
+La materia prima para la producción de hemoderivados debe ser obtenida y abastecida por instituciones hemoterápicas debidamente registradas y autorizadas por las autoridades sanitarias competentes.
+
+Las unidades de plasma o de suero deben ser provenientes de unidades de sangre total y/o de plasmaféresis que hallan sido sometidas individualmente, a los controles serológicos obligatorios para los donantes de sangre.
+
+La planta productora de hemoderivados, debe controlar todas las unidades de plasma y/o suero que serán utilizadas en la producción de hemoderivados, o validar los procedimientos serológicos del o los bancos de sangre que suministran la materia prima.
+
+Los procedimientos físico-químicos de purificación de proteínas para la obtención de hemoderivados, deben concluir en preparaciones protéicas eficaces y seguras para el uso endovenoso o intramuscular.
+
+Todos los procedimientos utilizados para la producción y control de hemoderivados debe ser validada regularmente de acuerdo con las Buenas Prácticas de Fabricación de Productos Farmacéuticos y Biológicos.
+
+La garantía de eficacia y seguridad no puede ser asumida "a priori", cuando nuevos métodos de fraccionamiento son introducidos, a menos que los mismos sean validados y que se demuestre que el producto obtenido por tales procesos está de acuerdo con los criterios y límites establecidos por este Reglamento.
+
+Todas las materias primas utilizadas en los procesos de producción de hemoderivados deben ser sometidos a Control de Calidad y aprobados de acuerdo a monografías descritas en la Farmacopea Europea o Americana, última edición.
+
+El equipamiento, los procedimientos y todos los materiales que pueden introducir componentes alergénicos en el producto final, no deben ser utilizados.
+
+Todos los frascos-ampollas y tapones utilizados o envase primario de hemoderivados deben cumplir con los requisitos para envasado de productos injectables.
+
+Todos los materiales que hayan estado en contacto con sangre, hemocomponentes y/o hemoderivados, deben ser descontaminados por métodos válidos.
+
+Los residuos de la producción, deben ser incinerados o esterilizados antes de ser descartados.
+
+3.1. 	MANUAL DE PROCEDIMIENTOS DE PRODUCCION Y CONTROL
+
+Todas las actividades desarrolladas en una Planta Productora de hemoderivados, deben cumplir rigurosamente los Manuales de Procedimientos de Producción y Control. Tales manuales deben ser revisados y actualizados periódicamente y aprobados por la Dirección General de la Institución productora.
+
+
+3.2.	REGISTROS
+
+La Planta productora de hemoderivados debe tener, para cada lote producido, registros de la materia prima utilizada, de los procedimientos de producción y control, de los resultados obtenidos y de su distribución.
+
+Estos registros, deben estar disponibles hasta después de dos años de expirado el plazo de validez de los respectivos lotes de hemoderivados.
+
+Deben también, ser mantenidos los registros de, calibración, limpieza y mantenimiento de todos los equipamientos utilizados en el proceso.
+
+
+3.3.	PRESERVATIVOS Y ESTABILIZANTES
+
+No deben ser adicionados preservativos a la albúmina, a gamaglobulinas endovenosas o a los concentrados de factores de coagulación.
+
+Los antibióticos no deben ser utilizados como preservativos ni con ningún otro propósito, en el procesamiento del plasma o en el producto final.
+
+Los estabilizantes aprobados por este Reglamento, pueden ser utilizados a fin de prevenir la desnaturalización proteica de los hemoderivados.
+
+3.4.	CONTAMINACION POR MICROORGANISMOS
+
+Las etapas del proceso de producción deben realizarse de modo que se evite la contaminación por microorganismos. Los controles de la contaminación durante el proceso de preparación deben conducir a detectar e identificar microorganismos eventualmente contaminantes.
+
+3.5.	INSTALACIONES
+
+Las instalaciones destinadas al fraccionamiento de plasma deben ser diseñadas y tener ubicación física tal que permitan la ejecución de las operaciones inherentes al trabajo y al buen desenvolvimiento en el área, los productos de limpieza v manutención, deben estar de acuerdo con la Buenas Prácticas de Fabricación (BPM) (1) para productos farmacéuticos y biológicos (2).
+
+El plasma debe ser almacenado a una temperatura que no supere los -20°C, en instalaciones que solamente serán utilizadas para este fin.
+
+El fraccionamiento del plasma debe tener lugar en un área de contaminación controlada, distinta de aquella donde se realice el procesamiento de proteínas de origen no humano, manipulación de material microbiológico o de animales.
+
+Las operaciones de filtración esterilizante final y el envasado debe realizarse en áreas biolimpias, bajo cámara de flujo laminar.
+
+Las diferentes operaciones: almacenamiento de materia prima, fraccionamiento, control de calidad, inactivación viral, liofilización, embalaje, rotulado y almacenamiento del lote final, almacenamiento de reactivos, etc., deben ser efectuadas en áreas separadas.
+
+3.6.	AREAS DE CONTAMlNACION CONTROLADA
+
+El o las áreas de producción deben estar provistas de aire filtrado a través de filtros HEPA (High Efficience Particle Air), capaces de remover partículas con diámetros mayores o iguales a 5 um.
+
+El área destinada al envasado aséptico debe ser Biolimpia, provistas de aire filtrado a través de filtros HEPA con capacidad de retención de 99,95% para partículas con diámetro mayor o igual a 0,5 um.
+
+3.7. 	EQUIPAMIENTOS
+
+Los equipamientos utilizados en la recolección,  procesamiento, almacenamiento y distribuición de materias primas productos intermediarios o de lotes finales de hemoderivados, deben cumplir con las Buenas Prácticas de Fabricación (BPM) para productos farmacéuticos y biológicos.
+
+Los equipamientos utilizados en todas las operaciones de producción de hemoderivados deben ser sometidos mantenimiento y calibración periódicamente, de acuerdo con los manuales de los fabricantes.
+
+Todas las superficies que entran en contacto con el plasma y sus fracciones o con solventes, no deben interactuar con los mismos. Las superficies metálicas deben ser resistentes abrasivos y a la corrosión.
+
+Los equipamientos deben ser fácilmente lavados desinfectados y/o esterilizados.
+
+Todos los agentes químicos utilizados con desinfectantes, deben ser completamente eliminados, antes que el equipamiento sea re-utilizado.
+
+3.8. 	INSUMOS
+
+3.8.1. 	AGUA PURlFICADA
+
+El agua purificada utilizada en el proceso, tanto en la formulación del producto acabado a granel como en el lavado final del equipamiento y de todos los recipientes, debe ser de calidad para inyectables, de acuerdo con la Farmacopea American (USP) última edición.
+
+
+3.8.2. 	VAPOR
+
+El vapor para la limpieza y desinfección de los equipamientos y de los recipientes debe ser obtenido a partir de agua de calidad para inyectables.
+
+3.9. 	PERSONAL
+
+Una Institución productora de hemoderivados, debe ser dirigida por un profesional técnicamente calificado, o que es el responsable por el cumplimiento de las Buenas Prácticas de Fabricación (BPM) y de las Normas de Bioseguridad.
+
+Las personas que trabajan en una Planta de producción de hemoderivados, deben ser adecuadamente entrenadas en sus funciones, tanto en el aspecto técnico, como en las Buenas Prácticas de Fabricación (BPM) y en las Normas de Bioseguridad.
+
+El personal encargado del Control de Calidad, debe ser independiente del personal encargado de la producción y directamente subordinado al Director General.
+
+Las personas que manipulan la sangre, sus componentes y derivados, o trabajan en áreas donde se encuentren materiales que son procesados, deben utilizar equipamiento de contención primaria (equipamiento de protección individual).
+
+Todo personal previamente a su contratación debe ser periódicamente sometido a exámenes clínicos y de laboratorio, incluida la serología obligatoria para donantes de sangre.
+
+Esos exámenes deben ser repetidos anualmente.
+
+Los portadores de enfermedades infecto-contagiosas, a criterio médico, deben ser temporal o definitivamente separados del área de producción.
+
+Las personas que trabajan directamente con la sangre y sus componentes, deben estar inmunizadas contra Hepatitis B.
+
+A  ALBUMINA
+
+A.1.	DENOMINACION
+
+ALBUMINA HUMANA DE ORIGEN PLASMATICO
+
+A.2.	DEFINICION DESCRIPTIVA
+
+La albúmina humana de origen plasmático es una solución protéica, estéril y apirógena, obtenida por procesamiento de plasma o suero humanos y que corresponde, eletroforéticamente a la fracción de albúmina del plasma.
+
+A.3. 	MATERIA PRIMA
+
+La materia prima para la obtención de albúmina humana de origen plasmático puede ser: plasma fresco, plasma fresco congelado, plasma congelado, plasma recuperado, plasma remanente o cuero, debiendo cada unidad ser identificada de manera que permita relacionar correctamente al donante y a la respectiva fecha de donación.
+
+La materia prima no debe ser manipulada más de lo estrictamente necesario. La exposición a temperaturas superiores a -20ºC y repetidos descongelamientos pueden desnaturalizar sus constituyentes y/o dar origen a substancias vasoactivas.
+
+A.3.1. 	CONTROL DE LA MATERIA PRIMA
+
+Las unidades de plasma o de suero deben ser provenientes de unidades de sangre total que hayan sido sometidos, individualmente a los controles serológicos para los donantes de sangre.
+
+La planta productora de albúmina debe controlar todas las unidades de plasma y/o suero a ser utilizadas en su producción, o validar los procedimientos serológicos de o de las Instituciones Hemoterapicas abastecedores de la materia prima.
+
+
+A.4. 	CONTROL DE LAS OPERACIONES DE FABRICACION
+
+A.4.1. 	CONTROL DE LA MEZCLA INICIAL
+
+Una muestra de la mezcla inicial debe ser sometida a los siguientes controles:
+
+A.4.1.1.	Determinación de la concentración proteica por el método de Micro-Kejdhal o de Biureto.
+
+A.4.1.2.	Determinación potenciométrica del pH.
+
+A.4.2. 	CONTROL DEL PRODUCTO CONCENTRADO A GRANEL
+
+A.4.2.1. 	DETERMINACION DE LA CONCENTRACION PROTEICA
+
+Una muestra del producto concentrado a granel debe ser sometida a determinación de proteínas por el método de Micro Kejdhal o de Biuret.
+
+A.4.2.2. 	DETERMINACION DE LA CONCENTRACION DE ALBUMINA
+
+Una muestra del producto concentrado a granel debe ser sometido a determinación de albúmina por método electroforético de acuerdo a la Farmacopea última edición.
+
+A.4.2.3. 	DETERMINACION DEL HP
+
+Una muestra del producto concentrado a granel debe ser sometida a determinación potenciométrica del pH.
+
+A.4.2.4. 	DETERMINACION DE LAS CONCENTRACIONES DE SODIO Y POTASIO
+
+Una muestra de producto concentrado a granel debe ser sometida a determinación de las concentraciones de sodio y de potasio, por fotometría de llama, o por fotometría de absorción atómica.
+
+A.4.3. 	PRODUCTO ACABADO A GRANEL
+
+A.4.3.1. 	PREPARAClON
+
+El producto acabado a granel es obtenido por dilución del producto concentrado a granel, con agua para inyectables, seguida de ajustes de los parámetros fisico-quimicos y de filtración esterilizante.
+
+A.4.3.2. 	ESTABILIZANTES
+
+Se debe utilizar octanoato de sodio (caprilato de sodio) y/o acetiltriptofanato de sodio, como estabilizantes para prevenir la desnaturización de la albúmina.
+
+
+A.4.3.3. 	CONTROL DEL PRODUCTO ACABADO A GRANEL
+
+A.4.3.3.1.	DETERMINACION DE LA CONCENTRACION PROTEICA
+
+El producto acabado a granel debe ser sometido a determinación de la concentración protéica por el método de Micro Kejdal. La concentración protéica del producto acabado a granel debe estar entre 18.8% y 21.2%.
+
+A.4.3.3.2.	DETERMINACION POTENCIOMETRICA DEL pH
+
+Una muestra del producto acabado a granel, diluida a una concentración protéica de 1% (p/v) en solución de cloruro de sodio 0,15M, debe tener pH entre 6,4 y 7,4, cuando es determinado en potenciómetro, a una temperatura entre 20ºC y 25ºC.
+
+A.4.3.3.3. 	DETERMINACION DE LA CONCENTRACION DE SODIO
+
+Una muestra del producto acabado a granel debe ser sometida a la determinación de la concentración de sodio, de acuerdo con el ítem A.4.2.4. La concentración de sodio no debe ser superior a 160 mEq/L.
+
+A.4.3.3.4. 	DETERMINACION DE LA CONCENTRACION DE POTASIO
+
+Una muestra del producto acabado a granel debe ser sometida a determinación de la concentración de potasio, de acuerdo como el ítem A.4.2.4. La concentración de potasio no debe ser superior a 2 mEq/L.
+
+A.4.3.3.5. 	DETERMINACION DE ALUMINIO RESIDUAL
+
+Una muestra del producto acabado a granel debe ser sometida a determinación de aluminio residual por espectrometria de absorción atómica. El tenor de aluminio no debe ser superior a 7,5 umol/l., de acuerdo a la Farmacopea Europea última edición.
+
+A.4.3.3.6. 	PRUEBA DE ESTERILIDAD BACTERIANA Y FUNGICA
+
+Una  muestra estadísticamente significativa de producto acabado a granel debe ser sometida a prueba de esterilidad bacteriana y fúngica, de acuerdo a la Farmacopea Americana (USP). El resultado debe ser satisfactorio.
+
+A.4.3.3.7. 	PRUEBA DE PIROGENOS
+
+Una muestra del producto acabado a granel debe ser sometida a prueba de pirógenos por inoculación endovenosa de 3,0 mL de muestra/Kg de peso, a conejos de l,5Kg a 2,SKg. El procedimiento de la interpretación de los resultados deben estar de acuerdo con los criterios de la Farmacopea Americana (USP). El resultado debe ser satisfactorio.
+
+A.4.4. 	PRODUCTO ENVASADO
+
+A.4.4.1. 	TERMOINACTIVACION VIRAL
+
+El producto envasado debe ser tratado a una temperatura entre 59,5ºC y 60,5ºC, durante un mínimo de l0 horas. Este tratamiento se debe iniciar, como máximo, 24 horas después del envasado. Se debe asegurar una distribución uniforme de calor a través de los recipientes en el baño maría o en estufa.
+
+A.4.4.2. 	INCUBACION
+
+Todos los recipientes conteniendo el producto envasado deben ser incubados a una temperatura entre 20ºC y 35ºC, inmediatamente después de la termo-inactivación, durante un mínimo de 14 días.
+
+A.4.4.3.	CONTROL DEL LOTE FINAL DE ALBUMINA
+
+A.4.4.3.1. 	INSPECCION VISUAL
+
+Al final de la incubación, todos los frascos del Lote Final de Albúmina deben ser inspeccionados visualmente, contra fondo claro-obscuro, o lector automático controlando el color, túrbides o presencia de partículas extrañas. La solución de albúmina debe presentar coloración típica entre el amarillo y el castaño-verdoso, y debe estar límpida y exenta de partículas. Los frascos que presentasen cualquier anormalidad deben ser rechazados.
+
+A.4.4.3.2. 	DETERMINACION DE LA CONCENTRACION PROTEICA
+
+Una muestra de Lote final de Albúmina debe ser sometido a la prueba indicada en el ítem A.4.2.l. La concentración protéica del Lote final de Albúmina debe estar entre 18,8% y 21,2%.
+
+A.4.4.3.3. 	DETERMINACION POTENCIOMETRICA DEL pH
+
+Una muestra del Lote final de Albúmina, diluida en una concentración proteica de 1% (p/v), en solución de cloruro de sodio 0,15M, debe tener pH entre 6,4 y 7,4, cuando determinado en potenciómetro a una temperatura entre 20ºC y 27ºC.
+
+A.4.4.3.4. DETERMINACION DE LA CONCENTRACION DE ALBUMINA
+
+Una muestra del Lote Final de Albúmina debe ser sometida a determinación de la concentración de albúmina, de acuerdo con el Ítem A.4.2.2. Por lo menos 95% de la proteína presente de esta muestra debe ser albúmina (monómero y dímero).
+
+A.4.4.3.5. 	DETERMINACION DE LA CONCENTRACION DE SODIO
+
+Una muestra del Lote final de Albúmina debe ser sometida a determinación de la concentración de sodio, de acuerdo con el ítem A.3.2.4. La concentración de sodio no debe ser superior a 160 mEq/L.
+
+A.4.4.3.6. 	DETERMINACION DE LA CONCENTRACION DE POTASIO
+
+Una muestra del Lote final de Albúmina debe ser sometida a determinación de la concentración de potasio, de acuerdo con el ítem A.4.2.4. La concentración de potasio no debe ser superior a 2 mEq/L.
+
+A.4.4.3.7. 	ACTIVADOR DE PRE-CALICREINA
+
+Una muestra del Lote final de Albúmina debe ser sometida a determinación de activador de pre-calicreína (PKA ). La actividad de PKA no debe ser superior a 35 UI/ml.
+
+A.4.4.3.8. 	DETERMINACION DEL PORCENTAJE DE POLIMEROS Y AGREGADOS
+
+Una muestra del Lote final de Albúmina debe ser sometida a determinación de porcentaje de polímeros y agregados por cromatografía por gel filtrado, de acuerdo con la Farmacopea Europea.
+
+A.4.4.3.9. DETERMINACION DE LA FRACCION HEMO RESIDUAL (ABSORBENCIA)
+
+Una muestra del Lote Final de Albúmina diluida en agua, en una concentración protéica de l0 g/l debe presentar absorbencia menor o igual a 0.25 determinada a 403 nm, en célula de 1 cm de camino óptico.
+
+
+A.4.4.3.10. 	PRUEBA DE ESTERILIDAD BACTERIANA Y FUNGICA
+
+Una muestra estadísticamente significativa del Lote final de Albúmina debe ser sometida a prueba de esterilidad bacteriana y fungica, de acuerdo con la Farmacopea Americana (USP) última edición. El resultado debe ser satisfactorio.
+
+  A.4.4.3.11. 	PRUEBA DE PIROGENO
+
+Una muestra del Lote final de Albúmina debe ser sometida a prueba de pirógenos por inoculación endovenosa de 3,0 mL de muestra/Kg. de peso, a conejos de l,5Kg a 2,5Kg. El procedimiento y la interpretación de los resultados deben estar de acuerdo con los criterios de la Farmacopea Americana (USP) última edición. El resultado debe ser satisfactorio.
+
+
+A.4.4.3.12 	PRUEBA DE INOCUIDAD (TOXICIDAD INESPECIFICA)
+
+Una muestra del Lote Final de Albúmina debe ser sometida a prueba de inocuidad de acuerdo con la Farmacopea Americana (USP) última edición. El resultado debe ser satisfactorio.
+
+A.4.4.3.13 	PRUEBA DE ESTABILIDAD TERMICA
+
+Una muestra del Lote Final de Albúmina no debe presentar modificación, después de una incubación de 57°C durante 50 horas, cuando es comparada, por inspección visual, contra fondo claro y oscuro, con una muestra del mismo lote que no haya sido sometida a este tratamiento.
+
+
+ A.4.4.3.14. 	PRUEBAS SEROLOGICAS
+
+Una muestra del Lote Final de Albúmina debe ser sometida a pruebas de detección de: HBsAg y Anti-HIV, debiendo presentar no reactividad frente a estas.
+
+  A.4.4.3.15. 	PRUEBA DE IDENTIDAD
+
+Una muestra del Lote Final de Albúmina debe ser testada en cuanto a su origen, frente a antisueros específicos y funcionantes de por lo menos tres especies diferentes, por imunodifusión radial o por imunoeletroforesis. La muestra debe presentar reactividad solamente frente al suero anti-plasma humano. Los antisueros de otras especies deben presentar reactividad exclusivamente frente a sus antigenos específicos.
+
+
+A.4.4.316. 	DETERMINACION DEL VOLUMEN MEDIO
+
+Una muestra del Lote Final de Albúmina debe ser sometida a determinación del volumen medio, por medición directa, admitiéndose una variación de hasta 5% del volumen declarado.
+
+A.5.	ALMACENAMIENTO Y PLAZO DE VALIDEZ
+
+El Lote Final de Albúmina tiene un plazo de validez máximo de 3 años cuando es almacenado a temperatura no superior a 25ºC. Y de 5 años cuando es almacenado a temperatura entre 4º C y 8ºC.
+
+A.6.	ROTULACION
+
+A.6.1. 	ROTULO DEL FRASCO-AMPOLLA (ENVASE PRIMARIO)
+
+El rótulo del frasco-ampolla del Lote Final de Albúmina debe presentar, además de lo exigido para los medicamentos, las siguientes informaciones:
+
+- 	una leyenda: "No utilizar si la solución es turbia o que presenta sedimento";
+
+-	una leyenda: "Después de la violación del frasco-ampolla, el producto debe ser utilizado inmediatamente";
+
+-	una leyenda: "Solamente para uso endovenoso".
+
+A.6.2.	ROTULO DEL ESTUCHE (CAJA)
+
+El rótulo de estuche (caja) del Lote Final de Albúmina debe presentar las informaciones exigidas para medicamentos.
+
+A.7.	REGISTROS
+
+Deben ser mantenidos los registros de la materia prima utilizada, de todos los reactivos de las etapas de fabricación y control de cada lote, por lo menos hasta dos años después de la fecha de vencimiento del lote de manera que posibilite, en cualquier momento, el rastreo del mismo. La Institución también debe mantener los registros de la expedición de los Lotes Finales de Albúmina. Estos registros deben ser archivados en la Unidad de Control de Calidad de la Planta Productora.
+
+A.8. 	MEMORIA (ARCHIVO DE LA MUESTRA)
+
+El archivo de las muestras tiene como objetivo, posibilitar la verificación, en cualquier momento, de las características del producto. El fabricante debe retener, hasta un mínimo de 6 meses después de la fecha de vencimiento de cada Lote final de Albúmina, una muestra significativa del mismo, así como una muestra de la mezcla Inicial que le dio origen. Las muestras retenidas deben ser suficientes para que se repitan todas las pruebas exigidas por este Reglamento.
+
+A.9.	EXPEDICIÓN
+
+La expedición del Lote Final de Albúmina sólo puede ser autorizada después de Ia liberación por la Unidad de Control de Calidad de la Planta productora.
+
+
+B. 	INMUNOGLOBULINAS
+
+B.1. 	DENOMINACIONES
+
+B.1.1. 	Inmunoglobulina normal.
+
+B.1.2. Inmunoglobulina especifica.
+
+B. 2.	DEFINICIONES
+
+B.2.1.	INMUNOGLOBULlNA NORMAL
+
+Solución o liofilizado estéril y apirógeno que contiene anticuerpos derivados de la sangre humana.
+
+B.2.2.	INMUNOGLOBULINA ESPECIFICA
+
+Solución o liofilizado estéril y apirógeno que contiene anticuerpos específicos derivados de la sangre humana.
+
+B.3. 	MATERIA PRIMA
+
+La materia prima para la obtención de inmunoglobulinas puede ser plasma fresco, plasma fresco congelado, plasma congelado, plasma recuperado, plasma remanente o suero, debiendo cada unidad ser identificada de manera que permita relacionarla correctamente al donante y a la respectiva fecha de donación.
+
+La materia prima no debe ser manipulada más de lo estrictamente necesario. La exposición a temperaturas superiores a -20 C y los repetidos descongelamientos pueden desnaturalizar sus constituyentes y/o dar origen a sustancias vasoactivas.
+
+La materia prima utilizada para la producción de un lote de inmunoglobulina normal debe provenir de, como mínimo, 1000 unidades de plasma o de suero, o su equivalente obtenido por plamaférsis.
+
+En el caso de inmunoglobulinas especificas, sea para uso endovenoso o intramuscular, el número inicial de las unidades de plasma o suero es menos importante, visto que serán definidos los requerimientos para los anticuerpos específicos del producto final.
+
+B.3.1. 	CONTROL DE LA MATERIA PRIMA
+
+Las unidades de plasma o de suero deben provenir de unidades de sangre total o de plasmaférsis que hayan sido sometidos individualmente a los controles serológicos obligatorios para los donantes de sangre.
+
+La Planta productora de inmunoglobulinas, debe controlar todas las unidades de plasma y/o suero a ser utilizadas en su producción o validar los procedimientos serológicos de la o las Instituciones Hemoterápicas abastecedoras de la materia prima.
+
+B.4.	CONTROL DE LAS OPERACIONES DE FABRICACION
+
+B.4.1.	CONTROL DE LA MEZCLA INICIAL
+
+Una muestra de la mezcla inicial debe ser sometida a los siguientes controles:
+
+B.4.1.1. Determinación de la concentración protéica por el método de Micro-Kejdhal o de Biuret.
+
+B.4.1.2.  Determinación potenciométrica del pH.
+
+B.4.1.3. Determinación de la potencia de los anticuerpos específicos por métodos específicos y validados.
+
+B.4.2. 	CONTROL DEL PRODUCTO CONCENTRADO A GRANEL
+
+B.4.2.1. DETERMINACION DE LA CONCENTRACION PROTEICA
+
+Una muestra del producto concentrado debe ser sometida a la prueba indicada en el ítem B.4.1.1.
+
+B.4.2.2. DETERMINACION DE LA POTENCIA DE INMUNOGLOBULINAS
+
+Una muestra del producto concentrado a granel debe ser sometida a la determinación de la potencia de inmunoglobulinas.
+
+B.4.3. 	PRODUCTO ACABADO A GRANEL
+
+B.4.3.1. PREPARACION
+
+El producto acabado a granel es obtenido por dilución del producto concentrado a granel, con agua para inyectables,  seguida del del ajuste de los parámetros físico-quimicos y de filtración esterilizante.
+'
+B.4.3.2. ESTABILIZANTES Y PRESERVATIVOS
+
+Preservativos para inhibir el crecimiento de microorganismos, así, como de agentes anti-virales, no deben ser adicionados a la materia prima durante el procesamiento.
+
+Soluciones estables de inmunoglobulinas pueden ser preparadas en glicina 0,3 mol/l o en cloruro de sodio 0,l5 mol/l.
+
+B.4.3.3. 	CONTROL DEL PRODUCTO ACABADO A GRANEL
+
+B.4.3.3.1. 	DETERMINACIÓN DE LA CONCENTRACION PROTEICA
+
+El producto acabado a granel debe ser sometido a la prueba indicada en el Ítem B.4.1.1. La concentración proteica del producto acabado a granel de la preparaciones de inmunoglobulinas normales y especificas, para uso intramuscular, debe estar entre l00 y 180 g/l.
+
+La concentración proteica del producto acabado a granel de la preparación de inmunoglobulinas para uso endovenoso debe ser como mínimo de 30 g/l.
+
+B.4.3.3.2. DETERMINACION DE LA CONCENTRACION DE lNMUNOGLOBULINA
+
+Una muestra del producto acabado a granel debe contener por lo menos un 90% de inmunoglobulinas, cuando es sometida a prueba de pureza por eletroforesis de zona de acuerdo con los procedimientos descritos en la Farmacopea Europea última edición.
+
+B.4.3.3.3. 	DETERMINACION POTENCIOMETRICA DEL pH
+
+Una muestra del producto acabado a granel, diluída a una concentración proteica de 1% (p/v) en solución de cloreto de sodio 0,l5M, debe tener ph entre 6,4 y 7,2; cuando determinado a una temperatura entre 18ºC y 20ºC, en potenciómetro.
+
+B.4.3.3.4.	PRUEBA DE ESTERILIDAD BACTERIANA Y FUNGICIDA
+
+Una muestra estadísticamente significativa del producto acabado a granel debe ser sometida a la prueba de esterilidad bacteriana y fúngica, de acuerdo a la Farmacopea Americana(USP) última edición.
+
+B.4.3.3.5. PRUEBA DE INOCUIDAD (TOXICIDAD INESPECIFICA).
+
+Una muestra del producto acabado a granel debe ser sometida a la prueba de inocuidad, de acuerdo con la Farmacopea Americana (USP) última edición.
+
+B.4.3.3.6. 	PRUEBA DE PIROGENOS.
+
+Una muestra del producto acabado a granel debe ser sometida a la prueba de pirógenos por inoculación endovenosa de 1,0 ml de inmunoglobulina intramuscular o 10 ml de Inmunoglobulina endovenosa/kg. de peso, a conejos de 1,5 kg. a 2,5 kg. El procedimiento y la interpretación de los resultados deben estar de acuerdo con los criterios de la Farmacopea Americana (USP) última edición.
+
+B.4.4. 	CONTROL DEL LOTE FINAL DE INMUNOGLOBULINA.
+
+Las preparaciones liofilizadas deben ser reconstituídas conforme sus instrucciones de uso, inmediatamente antes de los ensayos, excepto para solubilidad y pérdida por desecación.
+
+B.4.4.1. 	DETERMINACION DE LA CONCENTRACION PROTEICA.
+
+Una muestra del Lote Final de Inmunoglobulina debe ser sometida a la determinación de la concentración proteica por el método de Micro-Kejdhal. La concentración proteica del lote final de preparaciones de inmunoglobulinas normales y específicas, para uso intramuscular, debe estar entre 100 y 180 g/1.
+La concentración proteica del Lote Final de Inmunoglobulina para uso endovenoso debe ser de, como mínimo de 30 g/l.
+
+B.4.4.2. 	DETERMINACION DE LA CONCENTRACION DE INMUNOGLOBULINAS.
+
+Una muestra del Lote Final de Inmunoglobulinas debe contener no menos del 90% de inmunoglobulinas, cuando sometida a prueba de pureza mediante electroforesis de zona de acuerdo con los procedimientos descriptos en la Farmacopea Europea última edición.
+
+B.4.4.3. 	DETERMINACION DE AGREGADOS Y FRAGMENTOS.
+
+Una muestra del Lote Final de Inmunoglobulinas debe ser sometida a la determinación de agregados y fragmentos, por cromatografía de exclusión (Gel-Filtración o HPLC). La distribución de pesos moleculares debe ser tal que, el 90% de la proteína total, exceptuándose aquellas adicionadas como estabilizantes en las preparaciones endovenosas, correspondan a los pesos moleculares del monómero y del dímero de inmunoglobulinas.
+
+No más de un 10% deben corresponder a productos de degradación (clivajem) juntamente con agregados (oligómeros con pesos moleculares mayores o iguales que el trímero).
+
+OBSERVACIONES: Este requerimiento no se aplica a productos deliberadamente fragmentados.
+
+B.4.4.4.	TESTS PARA INMUNOGLOBULINAS ENDOVENOSAS
+
+B.4.4.4.1. TEST PARA ACTIVIDAD HIPOTENSIVA.
+
+Las inmunoglobulinas endovenosas deben ser sometidas a la determinación de actividad de Pre-calicreína.
+
+B.4.4.4.2. TEST DE ACTIVIDAD ANTICOMPLEMENTO.
+
+Las inmunoglobulinas endovenosas deben ser sometidas a test de actividad anticomplemento, como está descripto en la Farmacopea Europea última edición.
+
+B.4.4.4.3. TEST PARA HEMAGLUTININAS POR LA TECNICA DE LA ANTIGLOBULINA (COOMBS).
+
+En estos tests, células OD (Rh) positivas son utilizadas para detectar la presencia de inmunoglobulinas Anti-D (Anti Rh). Las células de los grupos A y B (Rh) negativas deben ser utilizadas para testar Anti-A y Anti-B respectivamente.
+
+B.4.4.5. DETERMINACION DE LA POTENCIA DE INMUNOGLOBULINAS NORMALES.
+
+El producto del Lote Final de Inmunoglobulina normal debe ser preparada por un método que sea capaz de concentrar, por lo menos diez veces, con relación a la mezcla inicial, dos diferentes anticuerpos siendo uno viral y otro bacteriano, para los cuales están disponibles padrones internacionales o preparaciones de referencia (ej. anticuerpos contra el virus de la poliomielitis, sarampión, estreptolisina o, toxina diftérica, toxina tetánica, a-toxina estatilocóccica).
+
+B.4.4.6. DETERMINACION DE LA POTENCIA DE INMUNOGLOBULINAS ESPECIFICAS.
+
+La potencia de cada Lote Final de Inmunoglobulina específica debe ser estudiada con relación al anticuerpo particular que la misma contiene. Para preparaciones intramusculares, son establecidas los siguientes límites:
+
+-	Inmunoglobulina Antitetánica - Debe contener, como mínimo, 100UI/ml de antitoxina tetánica por un test de neutralización en animales o por otro método equivalente validado.
+-	Inmunoglobulina Antirrábica - Debe contener, como mínimo, 100 UI/ml de anticuerpos antirrábicos determinados por test de neutralización en animales o por otro método equivalente y validado.
+-	Inmunoglobulina Anti-Hepatitis B - Debe contener, como mínimo, 100 UI/ml de anticuerpos anti-hepatitis B, determinado por ensayos inmunoenzimático (ELISA) o por otro método equivalente y validado.
+-	Inmunoglobulina Anti-Varicela Zoster - Debe contener, como mínimo, 100 UI/ml de anticuerpos anti-varicela Zoster, determinado por ensayo inmunoenzimático (ELISA) o por otro método equivalente y validado.
+- Inmunoglobulina Anti-D (Anti-Rh) - La potencia estimada debe ser expresada en Unidades Internacionales la cual no debe ser menor que 90% ni mayor que 120% de la potencia declarada, determinada por hemaglutinación con respecto a un patrón.
+
+B.4.4.7.	PRUEBA DE ESTERILIDAD BACTERIANA Y FUNGICA.
+
+Una muestra estadísticamente significativa del Lote Final de Inmunoglobulina debe ser sometida a la prueba de esterilidad bacteriana y fúngica de acuerdo con la Farmacopea Americana (USP) última edición.
+
+El resultado debe ser satisfactorio.
+
+B.4.4.8. 	PRUEBA DE INOCUIDAD (TOXICIDAD INESPECIFICA).
+
+Una muestra del Lote Final de Inmunoglobulina debe ser sometida a la prueba de inocuidad de acuerdo con la Farmacopea Americana (USP) última edición. El resultado debe ser satisfactorio.
+
+B.4.4.9. PRUEBA DE PIROGENOS.
+
+Una muestra del Lote Final de Inmunoglobulina debe ser sometida a la prueba de pirógenos por inoculación endovenosa de 1,0 mL de inmunoglobulina intramuscular o 10 ml de Inmunoglobulina endovenosa/kg. de peso, a conejos de 1,5 kg. a 2,5 kg. El procedimiento y la interpretación de los resultados deben estar de acuerdo con los criterios de la Farmacopea Americana (USP) última edición. El resultado debe ser satisfactorio.
+
+B.4.4.10. PRUEBAS SEROLOGICAS.
+
+Una muestra del Lote Final de Inmunoglobulina debe ser sometida a pruebas de detección de: HBsAg y Anti-HIV, debiendo presentar no reactivada frente a estos tests.
+
+B.4.4.11. PRUEBA DE IDENTIDAD.
+
+Una muestra del Lote Final de Inmunoglobulina debe ser testada en cuanto a su origen, frente a antisueros específicos y funcionantes de por lo menos tres especies diferentes, por inmuno difusión radial o por inmunoelectroforesis. La muestra debe presentar reactividad solamente frente al suero anti-plasma humano. Los antisueros de las demás especies deben presentar reactividad exclusivamente frente a sus antígenos específicos.
+B.4.4.12. PRUEBAS PARA INMUNOGLOBULINAS LIOFILIZADAS
+
+B.4.4.12.1. SOLUBILIDAD.
+
+Una muestra del Lote Final de Inmunoglobulina liofilizada debe disolverse completamente en un máximo de 15 minutos cuando es reconstituida a 25 ºC, conforme las instrucciones del rótulo.
+
+B.4.4.12.2. HUMEDAD RESIDUAL.
+
+Una muestra del Lote Final de Inmunoglobulina liofilizada debe ser sometida a la determinación de humedad residual por desecación sobre pentóxido de fósforo durante por lo menos 24 horas a presión no superior a 2, 7 Pa (0,02mm Hg) o por el método de Karl Fisher. La humedad residual del liofilizado no debe exceder a 2%.
+
+B.4.4.13. PRUEBA DE ESTABILIDAD.
+
+Una muestra del Lote Final de Inmunoglobulina debe ser sometida a prueba de estabilidad por incubación de 37 ºC, durante 4 semanas. Al final de este período, la muestra debe ser inspeccionada visualmente contra fondo claro y oscuro, no deberá presentar alteraciones como gelificación o floculación.
+
+B.5. ALMACENAMIENTO Y PLAZO DE VALIDEZ.
+
+ 	El Lote Final de Inmunoglobulina en solución tiene plazo de validez máximo de 3 años cuando es almacenado a temperaturas entre 4 ºC y 8 ºC. Preparaciones liofilizadas pueden ser almacenadas a 25 ºC y tiene plazo de validez máxima de 5 años.
+
+B.6.	 ROTULADO
+
+B.6.1. ROTULO DEL FRASCO-AMPOLLA (ENVASE PRIMARIO).
+
+El rótulo del frasco-ampolla del Lote Final de Inmunoglobulina debe presentar, además de lo exigido para los medicamentos, las siguientes informaciones:
+
+- 	la leyenda: "No utilizar la solución que esté turbia o presente depósito";
+- 	la leyenda: "Después de la violación del frasco-ampolla, el producto debe ser utilizado inmediatamente";
+- 	la leyenda: "Solamente para uso endovenoso", en las preparaciones de uso endovenoso.
+- la leyenda: "Solamente para uso intramuscular", en las preparaciones de uso intramuscular.
+
+B.6.2. ROTULO DEL ESTUCHE (CAJA).
+
+ El rótulo del estuche (caja) del Lote Final de Inmunoglobulina debe presentar las informaciones exigidas para medicamentos.
+
+B.7. REGISTROS.
+
+ Deben ser mantenidos los registros de la materia prima utilizada, de todos los reactivos y de las etapas de fabricación y control de cada lote por lo menos hasta dos años después de la fecha de vencimiento del lote, de manera que posibilite en cualquier momento el rastreo del mismo. La Institución también debe mantener los registros de la expedición de los Lotes Finales de Inmunoglobulina. Estos registros deben ser archivados en la Unidad de Control de Calidad de la Planta Productora.
+
+B.8.	MEMORIA (ARCHIVO DE MUESTRA).
+
+La mantención de archivos de muestra tiene como objetivo posiblitar la verificación, en cualquier momento, de las características del producto. El fabricante debe retenerlo, hasta un mínimo de 6 meses después de la fecha de vencimiento de cada Lote Final de Inmunoglobulina, una muestra significativa del mismo, así como una muestra de la Mezcla Inicial que le dio origen. Las muestras retenidas deben ser suficientes para que se repitan todas las pruebas exigidas por este Reglamento.
+
+B.9. 	EXPEDICION.
+
+La expedición del Lote Final de Inmunoglobulina sólo puede ser autorizada después de la liberación por los controles de Calidad Interno de la Planta Productora.

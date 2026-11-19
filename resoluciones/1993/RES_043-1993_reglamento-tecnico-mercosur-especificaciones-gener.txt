@@ -1,0 +1,120 @@
+Resolución GMC N° 43/93
+Título: REGLAMENTO TECNICO MERCOSUR ESPECIFICACIONES GENERALES DE INTERFACES DE TRANSMISION DIGITAL (PDH) PARA SISTEMAS DE JERARQUÍA PLESSIÓCRONA (PDH)
+Fecha de aprobación: 24/09/1993
+Vigencia: Vigente (Vigente desde el 18/11/2006 - Art. 40 POP.)
+Idioma del texto: PT
+Archivo original: 25390_RES_043-1993_ES_RTM Espec.Gener.Interfaces Trans.Digital_Acta_03-93.doc
+Conversión a texto: lectura directa del .doc
+Nota: el sitio lo publica como ES pero el texto está en PT
+Fuente: Secretaría del MERCOSUR, normativa (https://normas.mercosur.int/public/normativas/1859).
+----------------------------------------------------------------------
+MERCOSUR\GMC\RES Nº 43/93
+
+REGLAMENTO TECNICO MERCOSUR ESPECIFICACIONES GENERALES DE INTERFACES DE TRANSMISION  DIGITAL (PDH) PARA SISTEMAS DE JERARQUÍA PLESSIÓCRONA (PDH)
+
+VISTO: El Art. 13 del Tratado de Asunción, el Art. 10 de la Decisión Nº 4/91 del Consejo del Mercado Común y la Recomendación Nº 33/93 del Subgrupo de Trabajo Nº 3 "Normas Técnicas".
+
+CONSIDERANDO:
+
+Que las especificaciones de las interfaces digitales son necesarias para posibilitar la interconexión de los componentes de una red digital (secciones digitales, equipamiento múltiple, centrales) en el establecimiento de un enlace o conexión digital internacional.
+
+La conveniencia de unificar los niveles jerárquicos de tasas de bits para establecer cuales de estos estándares serán usados en la red digital, teniendo  como objetivo facilitar las interconexiones de los sistemas de telecomunicaciones entre los Estados Partes del MERCOSUR.
+
+Que diversos factores relacionados a las características de servicios, medios de transmisión e interfuncionamiento de redes, toman en consideración los niveles jerárquicos de las tasas de bits unificadas, así como las características  eléctricas y físicas de las referidas interfaces digitales.
+
+
+EL GRUPO MERCADO COMUN
+RESUELVE :
+
+Art 1- Aprobar el Reglamento Técnico MERCOSUR "Especificaciones Generales de Interfaces de Transmisión Digital para Sistemas de Jerarquía Plessiócrona (PDH), que consta en el Anexo de la presente Resolución.
+
+
+REGULAMENTO TECNICO MERCOSUL
+
+ESPECIFICAÇÕES GERAIS DE INTERFACES DE TRANSMISSÃO DIGITAL PARA SISTEMAS DA HIERARQUIA PLESSIOCRONA (PDH)
+
+
+1. OBJETIVO
+
+Este Regulamento Técnico tem por objetivo definir níveis hierárquicos de taxas de bits a serem utilizados nas redes digitais dos países membros MERCOSUL, bem como as características eléctricas e físicas das diferentes interfaces digitaís padronizadas para Sistemas da Hierarquía Plessiócrona (PDH).
+
+2. NÍVEIS HIERÁRQUICOS
+
+Os níveis hierárquicos de taxas de bits objeto deste Regulamento Técnico são os seguintes:
+
+
+1)        64 kbit/s
+2)   2.048 kbit/s
+3)   8.448 kbit/s
+4) 34.368 kbit/s
+
+3. CARACTERISTICAS DA INTERFACE DE TRANSMISSÃO DIGITAL A 64 kbit/s
+
+3.1. A interface de 64 kbit/s deve ser do tipo codirecional, ou seja, o sinal de dados e os sinais de relógio associados se transmitem em um mesmo sentido
+
+
+LADO
+DE
+SERVIÇO
+__________________>
+------------------------------>
+
+
+<_________________
+<------------------------------
+
+
+MCP
+
+______ SINAL DE DADOS
+---------- SINAL DE RELÓGIO
+FIGURA 1
+
+3.2 Os requisitos funcionais e as características elétricas devem estar de acordo com especificações da Recomendação G-703 do CCITT (Livro Azul).
+
+3.3 Será admitida também a interface digital a 64 kbit/s obedencendo as caraterísticas constantes da Recomendação V.11 do CCITT (Livro Azul), observando os seguintes critérios:
+
+a) A interface de dados deve ser transparente à sequência de bits a 64 kbit/s.
+
+b) Para cada direçâo de transmissâo deve haver um par simétrico para informaçâo de dados e um par simétrico para informaçâo de relógio.
+
+c) A resistência de determinaçâo é obrigatória tanto para os circuitos de entrada de dados como para os de entrada de relógio.
+
+d) A informação de dados e relógio é transmitida codirecionalmente.
+
+e) A deteção de falha é obrigatória para o sinal de relógio e opcional para o circuito de datos, neste caso resguardado o previsto no item 4.02 acima.
+
+f) No que diz respeito à deteção de falhas, de que trata o item da Recomendaçâo V.11 do CCITT, a interface deve ser do tipo 1.
+
+
+4. CARACTERISTICAS DA INTERFACE DE TRANSMISSAO DIGITAL A 2.048 kbit/s.
+
+4.1 As características físicas e eléctricas desta interfase devem atender integralmente as especificações contidas no item 6 da Recomendação G-703 do CCITT (Livro Azul).
+
+4.2 As características de estrutura de quadro do sinal de 2.048 kbit/s transportando canais 64 kbit/s, n x 64 kbit/s devem estar de acordo com o item  5 da Recomendação G-704 do CCITT (Livro Azul).  A utilização do bit 1 do intervalo de tempo de canal 0, para processamento do CRC-4 é opcional. No entanto, caso ele venha a existir, os  procedimentos do CRC-4 devem atender integralmente o estabecido no item 2.3.3 da Recomendação G-704 do CCITT (Livro Azul).
+
+4.3 Os procedimentos de alinhamento de quadro e de CRC-4 para o sinal de 2.048 kbit/s devem ser como definido no item 4 da Recomendaçâo G-705 do CCITT (Livro Azul).
+
+4.4 Os canais de voz devem ser codificados conforme estabelece a Recomendação G-711, CCITT (Livro Azul), devendo ser adotada.
+
+4.6 Os bits do intervalo de tempo do canal 0, reservados para uso nacional e internacional, quando não utilizados devem, preferencialmente, estar fixados em 1. Também os bits 2, 4, 6 e 8 do intervalo do tempo do canal 16, quando não utilizados, devem, preferencialmente, ser fixados em 1. Os bits 1, 3, 5 e 7 do intervalo de tempo do canal 16, quando não utilizados devem preferencialmente, ser fixados em 0. No caso de ausência de terra na vía de sinalização, os bits da via de sinalização de um determinado canal devem apresentar o  estado 0. No caso de presença de terra na via de sinalização, os bits da  via de sinalização de um determinado canal devem apresentar o estado 1.
+
+5. CARACTERISTICAS DA INTERFACE DE SINCORNIZAÇAO A 2.048 kHz
+
+5.1 Além das características estabelecidas na Recomendação G-703 do CCITT (Livro Azul), deve ser obedecido o seguinte critério:
+
+a) Admite-se que o sinal digital na entrada de 2.048 kHz esteja modulado por  flutuação de fase de até 0,1 UIpp na faixa de 20 Hz a 100 kHz.
+
+
+6. CARACTERISTICAS  DA INTERFACE DE TRANSMISSAO DIGITAL A 8.448 kbit/s
+
+6.1 As características físicas e elétricas desta interface devem atender integralmente as especificações contidas no item 7 da Recomendação G-703 do CCITT (Livro Azul).
+
+6.2 A estrutura de quadro do sinal a 8.448 kbit/s deve ser aquela representada  na Recomendação G-742 do CCITT (Livro Azul).
+
+
+7. CARACTERISTICAS DAS INTERFASES DE TRANSMISSÃO DIGITAL A 34.368 kbit/s E 139.264 kbit/s
+
+7.1 As características físicas e elétricas desta interface devem atender integralmente às espcificações contidas no item 8 (para 34.368 kbit/s) e 9 (para 139.264 kbit/s) da Recomendação G-703 do CCITT (Livro Azul).
+
+7.2 A estrutura de quadro dos sinais a 34.368 kbit/s e 139.264 kbit/s deve ser aquela apresentada na Rec. G-751, do CCITT (Livro Azul), utilizando o método 1 descrito naquela Recomendação.
