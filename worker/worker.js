@@ -1,6 +1,7 @@
 // Intermediario (Cloudflare Worker) entre la página y Gemini.
 // Guarda la clave en secreto (variable GEMINI_API_KEY) y solo deja que la IA use los fragmentos enviados.
-// Variables: GEMINI_API_KEY (secreto, obligatorio), MODELO (opcional; por defecto gemini-flash-latest, el Flash vigente).
+// Variables: GEMINI_API_KEY (secreto, obligatorio), MODELO (opcional; por defecto gemini-flash-latest, el Flash vigente;
+// si falla, se usa gemini-flash-lite-latest).
 
 const ORIGEN = "https://silvia-mov.github.io";
 
@@ -37,22 +38,40 @@ export default {
 
     const contexto = fragmentos.map((f) =>
       `[${String(f.codigo).slice(0, 30)}] ${String(f.titulo).slice(0, 300)}\n${String(f.texto).slice(0, 2000)}`).join("\n\n---\n\n");
-    const modelo = env.MODELO || "gemini-flash-latest";
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelo}:generateContent`;
-    const r = await fetch(url, {
-      method: "POST",
-      headers: { "Content-Type": "application/json", "x-goog-api-key": env.GEMINI_API_KEY },
-      body: JSON.stringify({
-        systemInstruction: { parts: [{ text: INSTRUCCIONES }] },
-        contents: [{ role: "user", parts: [{ text: `FRAGMENTOS:\n\n${contexto}\n\nPREGUNTA: ${pregunta}` }] }],
-        generationConfig: { temperature: 0.1, maxOutputTokens: 800 },
-      }),
+    // Gemini gratuito a veces está saturado (503) o no contesta: se reintenta y, si sigue fallando
+    // o se agotó la cuota del modelo principal (429), se prueba con el modelo liviano, que tiene cuota aparte.
+    const principal = env.MODELO || "gemini-flash-latest";
+    const intentos = [principal, principal, "gemini-flash-lite-latest"];
+    const cuerpo = JSON.stringify({
+      systemInstruction: { parts: [{ text: INSTRUCCIONES }] },
+      contents: [{ role: "user", parts: [{ text: `FRAGMENTOS:
+
+${contexto}
+
+PREGUNTA: ${pregunta}` }] }],
+      generationConfig: { temperature: 0.1, maxOutputTokens: 800 },
     });
-    if (r.status === 429) return respuesta({ error: "Hoy se usaron todas las consultas gratuitas. Probá mañana; mientras, revisá las fuentes de abajo." }, 429);
-    if (!r.ok) {
-      // El código de Gemini ayuda a diagnosticar: 400/403 = clave GEMINI_API_KEY faltante o inválida; 404 = modelo inexistente.
+    let r = null, estado = 0;
+    for (const [i, modelo] of intentos.entries()) {
+      if (i > 0 && modelo === intentos[i - 1] && estado === 429) continue;   // cuota agotada: no repetir el mismo modelo
+      try {
+        r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${modelo}:generateContent`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", "x-goog-api-key": env.GEMINI_API_KEY },
+          body: cuerpo,
+          signal: AbortSignal.timeout(20000),
+        });
+        estado = r.status;
+      } catch { r = null; estado = 504; }                                     // no contestó en 20 s
+      if (r && r.ok) break;
+      if (![429, 500, 503, 504].includes(estado)) break;                       // error que no se arregla reintentando
+    }
+    if (!r || !r.ok) {
+      if (estado === 429) return respuesta({ error: "Hoy se usaron todas las consultas gratuitas. Probá mañana; mientras, revisá las fuentes de abajo." }, 429);
+      // El código de Gemini ayuda a diagnosticar: 400/403 = clave GEMINI_API_KEY faltante o inválida; 404 = modelo
+      // inexistente; 503/504 = Gemini saturado o sin respuesta.
       const sinClave = !env.GEMINI_API_KEY ? " (falta la clave GEMINI_API_KEY)" : "";
-      return respuesta({ error: `El asistente no está disponible ahora (Gemini ${r.status}${sinClave}). Revisá las fuentes de abajo.` }, 502);
+      return respuesta({ error: `El asistente no está disponible ahora (Gemini ${estado}${sinClave}). Probá de nuevo en un rato; mientras, revisá las fuentes de abajo.` }, 502);
     }
     const j = await r.json();
     const texto = j?.candidates?.[0]?.content?.parts?.map((p) => p.text || "").join("") || "";
