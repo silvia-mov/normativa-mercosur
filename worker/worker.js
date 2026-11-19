@@ -14,7 +14,8 @@ Reglas:
 6. No des asesoramiento legal; si la pregunta lo pide, recordá que es orientativo y que hay que leer la norma completa.`;
 
 function respuesta(cuerpo, estado = 200) {
-  return new Response(JSON.stringify(cuerpo), {
+  // Una respuesta 204 no puede tener cuerpo: si lo tiene, Cloudflare corta con el error 1101.
+  return new Response(estado === 204 ? null : JSON.stringify(cuerpo), {
     status: estado,
     headers: { "Content-Type": "application/json; charset=utf-8", "Access-Control-Allow-Origin": ORIGEN,
                "Access-Control-Allow-Methods": "POST, OPTIONS", "Access-Control-Allow-Headers": "Content-Type" },
