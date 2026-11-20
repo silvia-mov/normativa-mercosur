@@ -157,7 +157,7 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
       <div class="extras"></div>
       <a class="orig" hidden target="_blank" rel="noopener">Ver el original (PDF/Word) en el sitio del MERCOSUR ↗</a></div>
   </div>
-  <p class="todo">Elegí año y número, y bajá el texto. El documento original está en la ficha de cada norma del sitio del MERCOSUR. ¿Todas juntas? <a href="https://github.com/silvia-mov/normativa-mercosur/archive/refs/heads/main.zip">Todos los textos en un .zip</a>.</p>
+  <p class="todo">Elegí año y número, y bajá el texto. Las decisiones enlazan al archivo original publicado por la Secretaría del MERCOSUR; las resoluciones y directivas, a su buscador público de normativa. ¿Todas juntas? <a href="https://github.com/silvia-mov/normativa-mercosur/archive/refs/heads/main.zip">Todos los textos en un .zip</a>.</p>
 </main>
 
 <footer>
@@ -258,7 +258,8 @@ $("form").addEventListener("submit", async (e) => {
 // Descargas: tipo -> año -> número -> .txt del repositorio; enlace a la ficha oficial para el original.
 const RAW = "https://raw.githubusercontent.com/silvia-mov/normativa-mercosur/main/";
 const CARPETA = { dec: "decisiones", res: "resoluciones", dir: "directivas" };
-const FICHA = "https://normas.mercosur.int/public/normativas/";
+const SIMFILES = "https://normas.mercosur.int/simfiles/normativas/";   // archivos públicos
+const PUBLICA = "https://www.mercosur.int/documentos/normativa/";      // buscador público de la Secretaría
 const corto = (t, n) => t.length > n ? t.slice(0, n - 1) + "…" : t;
 
 async function bajar(ruta, nombre, boton) {
@@ -288,7 +289,9 @@ fetch("datos/catalogo.json").then((r) => r.json()).then((cat) => {
       const [anio, num, titulo, archivo, ficha, x] = actual;
       const vig = tipo !== "dec" && x ? ` · ${x.toLowerCase()}` : "";
       elegida.innerHTML = `<b>N° ${num}/${anio}${vig}</b>${escapar(corto(titulo, 140))}`;
-      orig.href = FICHA + ficha;
+      const o = tipo === "dec" && cat.orig_dec ? cat.orig_dec[`${anio}-${num}`] : null;
+      orig.href = o ? SIMFILES + encodeURIComponent(o) : PUBLICA;
+      orig.textContent = o ? "Descargar el original (PDF/Word) del sitio del MERCOSUR ↗" : "Buscar el original (PDF/Word) en la normativa del MERCOSUR ↗";
       if (tipo === "dec" && Array.isArray(x)) {
         extras.innerHTML = "También: " + x.map(([et, arch], i) => `<a href="#" data-i="${i}">${escapar(et)}</a>`).join("");
         extras.querySelectorAll("a").forEach((a) => a.addEventListener("click", (e) => {

@@ -36,7 +36,7 @@ def etiqueta(r):
     return f"{nombre} ({r['IDIOMA']})"
 
 
-catalogo = {"dec": [], "res": [], "dir": []}
+catalogo = {"dec": [], "res": [], "dir": [], "orig_dec": {}}
 
 # Decisiones
 fichas = {(int(r["AÑO"]), int(r["NUMERO"])): int(r["ID_FICHA"]) for r in leer("indices/fichas_decisiones.csv")}
@@ -55,6 +55,8 @@ for (anio, num), rs in sorted(por_dec.items()):
     if extras:
         fila.append(extras)
     catalogo["dec"].append(fila)
+    if principal.get("ARCHIVO_ORIGINAL"):   # archivo público en normas.mercosur.int/simfiles/normativas/
+        catalogo["orig_dec"][f"{anio}-{num}"] = principal["ARCHIVO_ORIGINAL"]
 
 # Resoluciones GMC y Directivas CCM
 for r in leer("indices/indice_normativa_mercosur.csv"):
