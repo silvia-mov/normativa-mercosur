@@ -1,0 +1,41 @@
+id,tipo,pregunta,normas_esperadas,nota
+1,tema,¿Qué dice el Régimen de Origen MERCOSUR vigente?,Dec. CMC 05/23|Dec. CMC 06/23,La 05/23 aprueba el régimen nuevo; la 06/23 deroga normas anteriores
+2,tema,¿Qué requisitos debe cumplir un producto para ser considerado originario del MERCOSUR?,Dec. CMC 05/23|Dec. CMC 44/10,
+3,tema,¿Qué es el Fondo para la Convergencia Estructural del MERCOSUR (FOCEM)?,Dec. CMC 45/04|Dec. CMC 18/05|Dec. CMC 01/10,Normas de creación y reglamento del FOCEM
+4,tema,¿Qué establece el Código Aduanero del MERCOSUR?,Dec. CMC 27/10|Dec. CMC 34/11,
+5,tema,¿Cuál es el Arancel Externo Común vigente?,Dec. CMC 08/22,Última decisión con ese título
+6,tema,¿Qué dice el reglamento del Protocolo de Olivos sobre solución de controversias?,Dec. CMC 05/22,
+7,tema,¿Qué establece el acuerdo sobre comercio electrónico del MERCOSUR?,Dec. CMC 15/20,
+8,tema,¿Cómo se protegen las indicaciones geográficas en el MERCOSUR?,Dec. CMC 10/19,
+9,tema,¿Qué dice el acuerdo de reconocimiento de títulos de grado universitario?,Dec. CMC 07/18,
+10,tema,¿Qué reglas hay sobre zonas francas y áreas aduaneras especiales?,Dec. CMC 02/25,
+11,tema,¿Qué dice el acuerdo antidumping de la OMC adoptado por el MERCOSUR?,Dec. CMC 13/02,
+12,tema,¿Qué contiene el Estatuto de la Ciudadanía del MERCOSUR?,Dec. CMC 64/10|Dec. CMC 32/17,
+13,tema,¿Qué dice el acuerdo sobre protección de mujeres en situación de violencia de género?,Dec. CMC 07/22,
+14,tema,¿Qué establece el acuerdo de lucha contra la corrupción en el comercio?,Dec. CMC 17/21,
+15,tema,¿Qué protocolo armoniza normas de propiedad intelectual en marcas?,Dec. CMC 08/95,
+16,tema,¿Qué exige el reglamento técnico de rotulado de productos de higiene personal y cosméticos?,Res. GMC 48/21,
+17,tema,¿Cómo debe ser el etiquetado de productos textiles?,Res. GMC 62/18,
+18,tema,¿Qué regula el reglamento técnico de productos domisanitarios?,Res. GMC 36/22,
+19,tema,¿Qué reglamento técnico rige la seguridad de los juguetes?,Res. GMC 23/04|Res. GMC 32/26,
+20,tema,¿Qué sustancias no pueden usarse en productos de higiene personal y cosméticos?,Res. GMC 62/14|Res. GMC 06/25|Res. GMC 44/26,
+21,tema,¿Qué dice la norma sobre siliconas en envases que contactan alimentos?,Res. GMC 34/25,
+22,tema,¿Qué directivas redujeron aranceles por razones de abastecimiento en 2026?,Dir. CCM */26,Hay cientos; cualquier directiva de abastecimiento de 2026 cuenta
+23,tema,¿Qué formulario de certificado de origen se usa en el acuerdo MERCOSUR–India?,Dir. CCM 10/09,
+24,tema,¿Qué dijo el Comité Técnico de Valoración en Aduana en su opinión consultiva 8.1?,Dir. CCM 19/95,
+25,tema,¿Cómo adoptó Venezuela la Nomenclatura Común del MERCOSUR?,Res. GMC 51/12,
+26,tema,¿Cómo se incorporó Bolivia como Estado Parte del MERCOSUR?,Dec. CMC 01/07,Creó el grupo ad hoc para la incorporación
+27,tema,¿Qué decisiones tratan la incorporación de la normativa MERCOSUR a los ordenamientos jurídicos nacionales?,Dec. CMC 03/99|Dec. CMC 23/00|Dec. CMC 20/02,
+28,numero,¿Qué dice la Decisión 44/10?,Dec. CMC 44/10,
+29,numero,¿De qué trata la Decisión CMC N° 30/00?,Dec. CMC 30/00,
+30,numero,Res. GMC 48/21,Res. GMC 48/21,
+31,numero,¿Qué establece la Directiva CCM 10/2009?,Dir. CCM 10/09,
+32,numero,Decisión 02/25 zonas francas,Dec. CMC 02/25,
+33,derogada,¿Qué decisión derogó la Decisión 06/99 sobre coordinación macroeconómica?,Dec. CMC 30/00,Caso conocido de derogación
+34,derogada,¿El reglamento de juguetes de 2004 fue modificado?,Res. GMC 32/26,La 32/26 modifica la 23/04
+35,derogada,¿Qué norma derogó la Resolución GMC 29/05 sobre sustancias en cosméticos?,Res. GMC 62/14,
+36,fuera,¿Cuál es la tasa de interés de referencia del Banco Central del Paraguay?,,Fuera del corpus: debe decir que no encuentra
+37,fuera,¿Quién ganó el último mundial de fútbol?,,Fuera del corpus
+38,fuera,¿Qué dice la ley paraguaya del impuesto a la renta personal?,,Ley nacional: no está en el corpus
+39,anexo,¿Qué requisitos específicos de origen tiene el capítulo 85 en el régimen de origen?,Dec. CMC 05/23,Está en los anexos: hoy el asistente no los lee (esperable que falle)
+40,anexo,¿Qué proyectos FOCEM se aprobaron para Paraguay en rutas?,Dec. CMC 06/10,Proyectos FOCEM; detalle en anexos

@@ -214,6 +214,13 @@ const escapar = (t) => t.replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">"
 // Todas las normas y fragmentos en una sola lista. Las decisiones cargan primero; resoluciones y
 // directivas se suman al buscador en segundo plano.
 const DATOS = { normas: [], fragmentos: [] };
+// Para ordenar mejor: palabras del título y año de la norma de cada fragmento. Se premian los fragmentos cuya norma
+// tiene en el título las palabras de la pregunta, y un poco las normas más nuevas (probado con pruebas/probar_buscador.js).
+const TIT = [];
+const terminos = (t) => sinTildes(t).split(/[^a-z0-9ñ]+/).filter((x) => x.length >= 2 && !VACIAS.has(x));
+const premio = (id, q) => { const [tt, anio] = TIT[id];
+  const en = q.filter((w) => tt.some((x) => x.startsWith(w))).length;
+  return (q.length && en === q.length ? 3 : en >= 2 ? 1.5 : 1) * (1 + (anio - 1991) / 30); };
 const buscador = new MiniSearch({
   fields: ["texto", "titulo"], storeFields: [],
   processTerm: (t) => { const s = sinTildes(t); return s.length < 2 || VACIAS.has(s) ? null : s; },
@@ -228,6 +235,7 @@ function sumar(d) {
     // […] cuando el fragmento no es el principio o el final de la norma: el texto sigue en el enlace
     const antes = i > 0 && d.fragmentos[i - 1][0] === n, despues = i + 1 < d.fragmentos.length && d.fragmentos[i + 1][0] === n;
     DATOS.fragmentos.push([base + n, (antes ? "[…] " : "") + texto + (despues ? " […]" : "")]);
+    TIT[primero + i] = [terminos(d.normas[n][1]), d.normas[n][2]];
     return { id: primero + i, texto, titulo: d.normas[n][1] + " " + d.normas[n][0] };
   });
   buscador.addAll(docs);
@@ -287,7 +295,8 @@ $("form").addEventListener("submit", async (e) => {
       porNorma[n] = 3;
     }
   }
-  for (const r of buscador.search(pregunta, filtro)) {   // como mucho 2 fragmentos por norma, para variar las fuentes
+  const q = terminos(pregunta);
+  for (const r of buscador.search(pregunta, { ...filtro, boostDocument: (id) => premio(id, q) })) {   // como mucho 2 fragmentos por norma, para variar las fuentes
     const n = DATOS.fragmentos[r.id][0];
     if ((porNorma[n] = (porNorma[n] || 0) + 1) <= 2) res.push(r);
     if (res.length >= N_FRAGMENTOS) break;
