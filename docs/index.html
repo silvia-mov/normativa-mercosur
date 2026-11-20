@@ -95,6 +95,15 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
 .saber { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px 18px; margin:24px 0; font-size:14.5px; color:var(--text2); }
 .saber h2 { font-size:17px; margin:0 0 6px; color:var(--text); } .saber ul { margin:6px 0 0; padding-left:20px; } .saber li { margin:4px 0; }
 .corpus { font-size:13.5px; color:var(--text2); margin:-6px 0 14px; }
+.graf { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px; margin:8px 0 6px; }
+.graf svg { width:100%; height:auto; display:block; }
+.graf .ley { display:flex; flex-wrap:wrap; gap:14px; font-size:13.5px; color:var(--text2); margin-bottom:6px; }
+.graf .ley span::before { content:""; display:inline-block; width:11px; height:11px; border-radius:3px; margin-right:5px; vertical-align:-1px; background:var(--c); }
+.nota-g { font-size:13px; color:var(--text2); }
+.tpy { width:100%; border-collapse:collapse; font-size:14px; }
+.tpy th, .tpy td { text-align:left; padding:6px 8px; border-bottom:1px solid var(--line); vertical-align:top; }
+.tpy th { color:var(--text2); font-weight:600; }
+.twrap { overflow-x:auto; }
 </style>
 </head>
 <body>
@@ -175,6 +184,16 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
       <a class="orig" hidden target="_blank" rel="noopener">Ver el original (PDF/Word) en el sitio del MERCOSUR ↗</a></div>
   </div>
   <p class="todo">Elegí año y número, y bajá el texto. Las decisiones enlazan al archivo original publicado por la Secretaría del MERCOSUR; las resoluciones y directivas, a su buscador público de normativa. ¿Todas juntas? <a href="https://github.com/silvia-mov/normativa-mercosur/archive/refs/heads/main.zip">Todos los textos en un .zip</a>.</p>
+  <h2 class="sec">La normativa en números</h2>
+  <div class="graf">
+    <div class="ley"><span style="--c:#c2255c">Decisiones (CMC)</span><span style="--c:#a8476a">Resoluciones (GMC)</span><span style="--c:#18826a">Directivas (CCM)</span></div>
+    <div id="g-anios" role="img" aria-label="Gráfico de barras apiladas: normas aprobadas por año, 1991 a 2026, por tipo"></div>
+  </div>
+  <p class="nota-g" id="g-nota">Normas con texto disponible, por año de aprobación. 2026: hasta el 17 de noviembre. Fuente: elaboración propia con la normativa publicada por la Secretaría del MERCOSUR.</p>
+
+  <h2 class="sec">MERCOSUR en Paraguay</h2>
+  <p class="todo">Notas de la Cancillería a la Secretaría del MERCOSUR y decretos del Poder Ejecutivo sobre la incorporación de normas al derecho paraguayo, tal como los publica la Secretaría junto a las decisiones de cada año. Es una muestra, no la lista completa: para saber si una norma está vigente en Paraguay, consultá el sitio oficial. Los datos de cada fila salen del nombre del archivo; abrí el texto para ver qué normas incorpora.</p>
+  <div class="twrap"><table class="tpy" id="t-py"><thead><tr><th>Decisiones de</th><th>Documento</th><th>Año</th><th>Decisión que nombra</th><th>Texto</th></tr></thead><tbody></tbody></table></div>
 </main>
 
 <footer>
@@ -255,6 +274,19 @@ $("form").addEventListener("submit", async (e) => {
   const tipo = $("tipo").value;
   const filtro = tipo ? { filter: (r) => DATOS.normas[DATOS.fragmentos[r.id][0]][4] === tipo } : {};
   const porNorma = {}, res = [];
+  // Si la pregunta nombra una norma ("Decisión 44/10", "Res. GMC 12/24", "Directiva 5/2023"), sus fragmentos van primero
+  const m = pregunta.match(/\b(dec(?:isi[oó]n)?|res(?:oluci[oó]n)?|dir(?:ectiva)?)\.?\s*(?:cmc|gmc|ccm)?\s*(?:n\s*[°º.o]*\s*)?(\d{1,3})\s*\/\s*(\d{2}|\d{4})\b/i);
+  if (m) {
+    const t = m[1].toLowerCase().startsWith("dec") ? "dec" : m[1].toLowerCase().startsWith("res") ? "res" : "dir";
+    const codigo = `${{ dec: "Dec. CMC", res: "Res. GMC", dir: "Dir. CCM" }[t]} ${String(+m[2]).padStart(2, "0")}/${String(+m[3] % 100).padStart(2, "0")}`;
+    const n = DATOS.normas.findIndex((x) => x[0] === codigo);
+    if (n >= 0) {
+      const propios = buscador.search(pregunta, { filter: (r) => DATOS.fragmentos[r.id][0] === n });
+      const ids = propios.length ? propios.map((r) => r.id) : DATOS.fragmentos.map((f, i) => (f[0] === n ? i : -1)).filter((i) => i >= 0);
+      ids.slice(0, 3).forEach((id) => res.push({ id }));
+      porNorma[n] = 3;
+    }
+  }
   for (const r of buscador.search(pregunta, filtro)) {   // como mucho 2 fragmentos por norma, para variar las fuentes
     const n = DATOS.fragmentos[r.id][0];
     if ((porNorma[n] = (porNorma[n] || 0) + 1) <= 2) res.push(r);
@@ -327,6 +359,29 @@ fetch("datos/catalogo.json").then((r) => r.json()).then((cat) => {
     boton.addEventListener("click", () => { if (actual) bajar(`${CARPETA[tipo]}/${actual[0]}/${actual[3]}`, actual[3], boton); });
   });
 }).catch(() => { document.querySelectorAll(".dlc .elegida").forEach((e) => { e.textContent = "No se pudo cargar la lista de normas. Recargá la página."; }); });
+// ---------- La normativa en números (desde el catálogo)
+fetch("datos/catalogo.json").then((r) => r.json()).then((cat) => {
+  const anios = []; for (let a = 1991; a <= 2026; a++) anios.push(a);
+  const cuenta = (t) => { const c = {}; (cat[t] || []).forEach((x) => { c[x[0]] = (c[x[0]] || 0) + 1; }); return c; };
+  const C = { dec: cuenta("dec"), res: cuenta("res"), dir: cuenta("dir") }, COL = { dec: "#c2255c", res: "#a8476a", dir: "#18826a" };
+  const tot = anios.map((a) => (C.dec[a] || 0) + (C.res[a] || 0) + (C.dir[a] || 0)), max = Math.ceil(Math.max(...tot) / 50) * 50;
+  const W = 900, H = 300, m = { l: 36, r: 8, t: 10, b: 26 }, bw = (W - m.l - m.r) / anios.length, y = (v) => m.t + (H - m.t - m.b) * (1 - v / max);
+  let svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" font-size="11" fill="currentColor">`;
+  for (let v = 0; v <= max; v += 50) svg += `<line x1="${m.l}" x2="${W - m.r}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)"/><text x="${m.l - 6}" y="${y(v) + 4}" text-anchor="end" opacity=".7">${v}</text>`;
+  anios.forEach((a, i) => {
+    let base = 0; const x = m.l + i * bw + bw * 0.15, w = bw * 0.7;
+    for (const t of ["dec", "res", "dir"]) { const v = C[t][a] || 0; if (v) svg += `<rect x="${x}" y="${y(base + v)}" width="${w}" height="${y(base) - y(base + v)}" fill="${COL[t]}" opacity="${a === 2026 ? .55 : 1}"><title>${a}: ${v} ${t === "dec" ? "decisiones" : t === "res" ? "resoluciones" : "directivas"}</title></rect>`; base += v; }
+    if (a % 5 === 1 || a === 2026) svg += `<text x="${x + w / 2}" y="${H - 8}" text-anchor="middle" opacity=".7">${a}</text>`;
+  });
+  $("g-anios").innerHTML = svg + "</svg>";
+  const imax = tot.indexOf(Math.max(...tot));
+  $("g-nota").textContent = `Normas con texto disponible, por año de aprobación (el año con más normas fue ${anios[imax]}, con ${tot[imax]}). 2026: hasta el 17 de noviembre, en color más claro. Pasá el mouse por una barra para ver el número. Fuente: elaboración propia con la normativa publicada por la Secretaría del MERCOSUR.`;
+}).catch(() => {});
+
+// ---------- MERCOSUR en Paraguay
+fetch("datos/paraguay.json").then((r) => r.json()).then((filas) => {
+  $("t-py").querySelector("tbody").innerHTML = filas.map((f) => `<tr><td>${f.anio_decisiones}</td><td>${escapar(f.tipo)}${f.numero ? " N° " + escapar(f.numero) : ""}</td><td>${f.anio_documento || "–"}</td><td>${f.decision_en_el_nombre ? "Dec. CMC " + f.decision_en_el_nombre : "ver texto"}</td><td><a href="${f.url}" target="_blank" rel="noopener">Abrir</a>${f.ocr ? " <small>(escaneado)</small>" : ""}</td></tr>`).join("");
+}).catch(() => {});
 </script>
 </body>
 </html>
