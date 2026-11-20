@@ -14,7 +14,7 @@
 <meta property="og:description" content="Asistente que responde solo con el texto de las decisiones del CMC, resoluciones del GMC y directivas de la CCM, y cita la fuente.">
 <style>
 :root { --bg:#fffafb; --panel:#ffffff; --text:#1d1a1c; --text2:#5c5459; --line:#f3dde4; --accent:#1f7f68;
-  --btn:#39b89a; --btntext:#08261f; --yo:#fec9d7; --yotext:#4a1626; --bot:#eefaf6; --pink:#ff5883; --hero1:#b9eee1; --hero2:#fec9d7; }
+  --btn:#39b89a; --btntext:#08261f; --yo:#fec9d7; --yotext:#4a1626; --bot:#eefaf6; --pink:#ff5883; --pinkbtn:#c2255c; --hero1:#b9eee1; --hero2:#fec9d7; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg:#161314; --panel:#201b1d; --text:#f5eef1; --text2:#bfb3b8; --line:#3a2f33; --accent:#79d3be;
   --yo:#4a2632; --yotext:#ffd9e3; --bot:#17302a; --hero1:#123a31; --hero2:#3d1a26; } }
@@ -58,7 +58,7 @@ a { color:var(--accent); }
 .hero .lead { font-size:18px; max-width:640px; }
 form { position:static; padding:6px 0 14px; }
 form textarea { border:2px solid var(--pink); border-radius:16px; padding:14px 16px; font-size:17px; }
-form button { border-radius:16px; background:var(--pink); color:#fff; }
+form button { border-radius:16px; background:var(--pinkbtn); color:#fff; }
 h2.sec { text-align:center; font-size:22px; margin:36px 0 14px; }
 .dl { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:14px; }
 .dlc { border-radius:16px; padding:18px; color:#fff; }
@@ -73,7 +73,7 @@ h2.sec { text-align:center; font-size:22px; margin:36px 0 14px; }
 .dlc .orig { display:block; margin-top:10px; }
 .dlc .extras { font-size:13px; margin-top:8px; } .dlc .extras a { margin-right:8px; white-space:nowrap; }
 .todo { text-align:center; font-size:14px; color:var(--text2); margin:14px 0 0; }
-.c1 { background:#e5466f; } .c2 { background:#d9688a; } .c3 { background:#1f9c80; }
+.c1 { background:#c2255c; } .c2 { background:#a8476a; } .c3 { background:#18826a; }
 .heroflex { display:flex; align-items:center; gap:24px; } .mascota { width:190px; flex:none; }
 @media (max-width:640px){ .mascota { width:110px; } .heroflex { gap:10px; } }
 .info { display:grid; grid-template-columns:1fr 1.3fr; gap:24px; align-items:center; margin:36px 0 8px; }
@@ -90,6 +90,11 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
 .i { display:grid; place-items:center; width:40px; height:40px; border-radius:50%; color:#fff; font-weight:700; margin:0 auto 8px; }
 .i1 { background:#1d3b35; } .i2 { background:#39b89a; } .i3 { background:#ff91ad; } .i4 { background:#ff5883; }
 .aviso-top { background: var(--panel); border-bottom: 1px solid var(--line); color: var(--text2); font-size: 13.5px; text-align: center; padding: 7px 16px; }
+.tipo-n { display:inline-block; font-size:11.5px; font-weight:700; border-radius:6px; padding:0 6px; margin-right:4px; color:#fff; }
+.tipo-n.dec { background:#c2255c; } .tipo-n.res { background:#a8476a; } .tipo-n.dir { background:#18826a; }
+.saber { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px 18px; margin:24px 0; font-size:14.5px; color:var(--text2); }
+.saber h2 { font-size:17px; margin:0 0 6px; color:var(--text); } .saber ul { margin:6px 0 0; padding-left:20px; } .saber li { margin:4px 0; }
+.corpus { font-size:13.5px; color:var(--text2); margin:-6px 0 14px; }
 </style>
 </head>
 <body>
@@ -98,12 +103,13 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
   <div class="wrap">
     <div class="marca"><img src="logo.svg" alt=""><span><b>Normas MERCOSUR</b><br><small>Asistente de consultas · proyecto independiente</small></span></div>
     <div class="heroflex"><div><h1>Hola, soy <em>silv[ia]</em>: tu asistente para la normativa MERCOSUR</h1>
-    <p class="lead">Preguntá y obtené respuestas basadas solo en el texto de las normas del MERCOSUR (1991–2026), con la norma citada: 1.130 decisiones del Consejo del Mercado Común, 2.181 resoluciones del Grupo Mercado Común y 1.933 directivas de la Comisión de Comercio.</p></div><img class="mascota" src="silvia.svg" alt="silv[ia], la asistente"></div>
+    <p class="lead">Preguntá y obtené respuestas basadas solo en el texto de las normas del MERCOSUR (1991–2026), con la norma citada: 1.130 decisiones del Consejo del Mercado Común, 2.181 resoluciones del Grupo Mercado Común (de 2.183 publicadas; 2 sin archivo) y 1.933 directivas de la Comisión de Comercio (de 1.934 publicadas).</p></div><img class="mascota" src="silvia.svg" alt="silv[ia], la asistente"></div>
   </div>
 </header>
 
 <main class="wrap">
   <div class="aviso">Orientativo y <b>no oficial</b>: puede equivocarse al interpretar. Revisá siempre el texto de la norma (enlace en cada respuesta). No escribas datos personales: las preguntas se procesan con un servicio de IA de Google (Gemini) y pueden usarse para mejorarlo.</div>
+  <p class="corpus" id="corpus">Normas incluidas hasta el 17/11/2026 (la última: Directiva CCM 244/2026).</p>
   <p class="estado" id="estado">Cargando las normas…</p>
   <div class="ejemplos" id="ejemplos" hidden>
     <button type="button">¿Qué dice el Régimen de Origen del MERCOSUR?</button>
@@ -125,7 +131,18 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
       <div><h3 class="v">Trazabilidad directa</h3><p>Cada respuesta enlaza al texto exacto de la norma en el repositorio.</p></div>
       <div><h3 class="r">Solo con las normas</h3><p>silv[ia] responde únicamente con el texto de las normas; si no lo encuentra, lo dice.</p></div>
     </div>
-    <div class="ejemplo"><div class="ej-in"><b>silv[ia] responde:</b><p>Según la <b>Decisión CMC N° 44/10</b>, el Régimen de Origen MERCOSUR fija los requisitos para que un producto sea considerado originario y reciba la preferencia.</p><a href="https://github.com/silvia-mov/normativa-mercosur/tree/main/decisiones/2010">decisiones/2010/DEC_044-2010 → Ver fuente</a></div></div>
+    <div class="ejemplo"><div class="ej-in"><b>silv[ia] responde:</b><p>Según la <b>Decisión CMC N° 05/23</b>, el nuevo Régimen de Origen MERCOSUR fija los requisitos para que un producto sea considerado originario y reciba la preferencia (versión vigente: su fe de erratas).</p><a href="https://github.com/silvia-mov/normativa-mercosur/blob/main/decisiones/2023/DEC_005-2023_ES_fe-de-erratas_regimen-de-origen-mercosur_v2.txt">decisiones/2023/DEC_005-2023 (fe de erratas) → Ver fuente</a></div></div>
+  </section>
+
+  <section class="saber">
+    <h2>Qué tenés que saber antes de usar las respuestas</h2>
+    <ul>
+      <li><b>Jerarquía:</b> las decisiones del Consejo del Mercado Común (CMC) están por encima de las resoluciones del Grupo Mercado Común (GMC), y estas por encima de las directivas de la Comisión de Comercio (CCM). Cada fuente lleva una etiqueta con su tipo.</li>
+      <li><b>Aprobada no es lo mismo que vigente en Paraguay:</b> la mayoría de las normas tienen que ser incorporadas por cada país, y entran en vigor recién cuando todos lo hicieron (art. 40 del Protocolo de Ouro Preto). Esta página no muestra ese estado; consultalo en el sitio oficial del MERCOSUR.</li>
+      <li><b>Derogaciones:</b> las resoluciones y directivas indican si están derogadas; las decisiones todavía no. Una decisión citada puede haber sido modificada o derogada por otra posterior.</li>
+      <li><b>Qué no lee el asistente:</b> los anexos y planillas de las decisiones (listas, tablas, proyectos), y el final de los textos muy largos (31 decisiones, 258 resoluciones y 40 directivas se recortan; cada recorte está marcado). Tampoco 8 textos que el control detectó con el contenido de otra norma.</li>
+      <li><b>Idiomas:</b> 16 resoluciones y 2 directivas solo tienen texto oficial en portugués, que también es idioma oficial del MERCOSUR: se incluyen tal cual y la respuesta sale en español. Al buscarlas, ayuda usar palabras parecidas en portugués.</li>
+    </ul>
   </section>
 
   <h2 class="sec">Cómo funciona</h2>
@@ -189,7 +206,9 @@ function sumar(d) {
   const base = DATOS.normas.length, primero = DATOS.fragmentos.length;
   DATOS.normas.push(...d.normas);
   const docs = d.fragmentos.map(([n, texto], i) => {
-    DATOS.fragmentos.push([base + n, texto]);
+    // […] cuando el fragmento no es el principio o el final de la norma: el texto sigue en el enlace
+    const antes = i > 0 && d.fragmentos[i - 1][0] === n, despues = i + 1 < d.fragmentos.length && d.fragmentos[i + 1][0] === n;
+    DATOS.fragmentos.push([base + n, (antes ? "[…] " : "") + texto + (despues ? " […]" : "")]);
     return { id: primero + i, texto, titulo: d.normas[n][1] + " " + d.normas[n][0] };
   });
   buscador.addAll(docs);
@@ -197,20 +216,19 @@ function sumar(d) {
 
 function avisar() {
   const listo = ASISTENTE_URL ? "Listo. Escribí tu pregunta." : "Listo. Por ahora funciona como buscador: muestra los fragmentos de las normas que responden a tu pregunta.";
-  $("estado").textContent = cargadas < 3 ? listo + " (Sumando resoluciones y directivas…)" : listo;
+  $("estado").textContent = listo;
 }
 
 const cargar = (archivo) => fetch(archivo).then((r) => { if (!r.ok) throw new Error(archivo); return r.json(); });
-cargar("datos/fragmentos.json").then((d) => {
-  sumar(d); cargadas++;
-  $("pregunta").disabled = $("enviar").disabled = false;
-  $("ejemplos").hidden = false;
-  avisar();
-  for (const archivo of ["datos/fragmentos_res.json", "datos/fragmentos_dir.json"]) {
-    cargar(archivo).then((x) => { sumar(x); cargadas++; avisar(); })
-      .catch(() => { $("estado").textContent = "Listo, pero no se pudieron cargar todas las normas. Recargá la página para buscar en todas."; });
-  }
-}).catch(() => { $("estado").textContent = "No se pudieron cargar las normas. Probá recargar la página."; });
+// Se habilita la pregunta recién cuando cargaron las tres colecciones, para no buscar en una parte.
+const ARCHIVOS = ["datos/fragmentos.json", "datos/fragmentos_res.json", "datos/fragmentos_dir.json"];
+Promise.all(ARCHIVOS.map((a) => cargar(a).then((x) => { cargadas++; $("estado").textContent = `Cargando las normas… (${cargadas} de 3)`; return x; })))
+  .then((todos) => {
+    todos.forEach(sumar);
+    $("pregunta").disabled = $("enviar").disabled = false;
+    $("ejemplos").hidden = false;
+    avisar();
+  }).catch(() => { $("estado").textContent = "No se pudieron cargar todas las normas. Probá recargar la página."; });
 
 document.querySelectorAll("#ejemplos button").forEach((b) => b.addEventListener("click", () => { $("pregunta").value = b.textContent; $("form").requestSubmit(); }));
 $("pregunta").addEventListener("keydown", (e) => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); $("form").requestSubmit(); } });
@@ -218,7 +236,8 @@ $("pregunta").addEventListener("keydown", (e) => { if (e.key === "Enter" && !e.s
 function agregar(clase, html) { const d = document.createElement("div"); d.className = "msg " + clase; d.innerHTML = html; $("chat").appendChild(d); d.scrollIntoView({ block: "end", behavior: "smooth" }); return d; }
 
 function fuentesHTML(frags) {
-  const items = frags.map((f, i) => `<li><a href="${f.url}" target="_blank" rel="noopener">${escapar(f.codigo)}</a>: ${escapar(f.titulo)}${f.vigencia === "Derogada" ? ' <span class="deroga">derogada</span>' : ""}
+  const TIPOS = { dec: "Decisión CMC", res: "Resolución GMC", dir: "Directiva CCM" };
+  const items = frags.map((f, i) => `<li><span class="tipo-n ${f.tipo}">${TIPOS[f.tipo]}</span><a href="${f.url}" target="_blank" rel="noopener">${escapar(f.codigo)}</a>: ${escapar(f.titulo)}${f.vigencia === "Derogada" ? ' <span class="deroga">derogada</span>' : ""}
     <details class="frag"><summary>Ver fragmento</summary><pre>${escapar(f.texto)}</pre></details></li>`).join("");
   return `<div class="fuentes"><b>Fuentes</b><ol>${items}</ol></div>`;
 }
@@ -230,7 +249,7 @@ function formatear(t) {
 $("form").addEventListener("submit", async (e) => {
   e.preventDefault();
   const pregunta = $("pregunta").value.trim();
-  if (!pregunta || !cargadas) return;
+  if (!pregunta || cargadas < 3) return;
   agregar("yo", escapar(pregunta));
   $("pregunta").value = "";
   const tipo = $("tipo").value;
@@ -242,7 +261,7 @@ $("form").addEventListener("submit", async (e) => {
     if (res.length >= N_FRAGMENTOS) break;
   }
   if (!res.length) { agregar("bot", "<p>No encontré normas que hablen de eso. Probá con otras palabras.</p>"); return; }
-  const frags = res.map((r) => { const [n, texto] = DATOS.fragmentos[r.id]; const [codigo, titulo, anio, url, , vigencia] = DATOS.normas[n]; return { codigo, titulo, anio, url, vigencia, texto }; });
+  const frags = res.map((r) => { const [n, texto] = DATOS.fragmentos[r.id]; const [codigo, titulo, anio, url, tipo, vigencia] = DATOS.normas[n]; return { codigo, titulo, anio, url, tipo, vigencia, texto }; });
   if (!ASISTENTE_URL) { agregar("bot", "<p>Estas son las normas que mejor coinciden con tu pregunta:</p>" + fuentesHTML(frags)); return; }
   const caja = agregar("bot", "<p>silv[ia] está leyendo las normas…</p>");
   $("enviar").disabled = true;

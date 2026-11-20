@@ -1,7 +1,8 @@
 """
 Arma los datos del buscador y del asistente de la página web (docs/datos/).
 
-Usa solo textos en español:
+Usa los textos en español y, cuando una norma solo tiene texto oficial en portugués (también idioma oficial del
+MERCOSUR), ese texto, marcado en el título:
   - Decisiones CMC: el texto principal (la fe de erratas si existe, porque es la versión vigente),
     según indice_decisiones.csv.
   - Resoluciones GMC y Directivas CCM: el texto de cada norma, según indices/indice_normativa_mercosur.csv
@@ -33,10 +34,15 @@ def limpiar(texto, tope):
 
 
 datos = {t: {"normas": [], "fragmentos": []} for t in ("dec", "res", "dir")}
+RECORTADAS = {"dec": 0, "res": 0, "dir": 0}
 
 
 def agregar(codigo, titulo, anio, ruta, tipo, vig=""):
-    texto = limpiar((RAIZ / ruta).read_text(encoding="utf-8"), TOPE[tipo])
+    completo = limpiar((RAIZ / ruta).read_text(encoding="utf-8"), 10**9)
+    texto = completo[:TOPE[tipo]]
+    if len(completo) > len(texto):                              # se avisa que el texto sigue en la norma completa
+        texto += "\n[… texto recortado: el resto está en la norma completa]"
+        RECORTADAS[tipo] += 1
     normas, fragmentos = datos[tipo]["normas"], datos[tipo]["fragmentos"]
     normas.append([codigo, titulo, anio, BASE_URL + ruta, tipo, vig])
     actual = ""
@@ -62,11 +68,12 @@ for (anio, num), rs in sorted(por_dec.items()):
 
 # Resoluciones GMC y Directivas CCM
 for r in csv.DictReader(open(RAIZ / "indices" / "indice_normativa_mercosur.csv", encoding="utf-8-sig")):
-    if not r["TEXTO"] or r["IDIOMA_TEXTO"] != "ES" or "otra norma" in r["NOTA"]:
+    if not r["TEXTO"] or r["IDIOMA_TEXTO"] not in ("ES", "PT") or "otra norma" in r["NOTA"]:
         continue
     tipo, sigla = SIGLA[r["TIPO"]]
     num, anio = (int(x) for x in r["NUMERO"].split("/"))
-    agregar(f"{sigla} {num:02d}/{anio % 100:02d}", r["TITULO"], anio, r["TEXTO"], tipo,
+    titulo = r["TITULO"] + (" (texto oficial en portugués)" if r["IDIOMA_TEXTO"] == "PT" else "")
+    agregar(f"{sigla} {num:02d}/{anio % 100:02d}", titulo, anio, r["TEXTO"], tipo,
             r["VIGENCIA"] if r["VIGENCIA"] in ("Vigente", "Derogada") else "")
 
 for tipo, nombre in (("dec", "fragmentos.json"), ("res", "fragmentos_res.json"), ("dir", "fragmentos_dir.json")):
@@ -75,3 +82,17 @@ for tipo, nombre in (("dec", "fragmentos.json"), ("res", "fragmentos_res.json"),
     salida.write_text(json.dumps(datos[tipo], ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"{nombre}: {len(datos[tipo]['normas'])} normas, {len(datos[tipo]['fragmentos'])} fragmentos, "
           f"{salida.stat().st_size / 1e6:.1f} MB")
+
+# Datos de cobertura para la página (cuántas normas hay, cuántas entran al buscador, fecha de la última)
+indice = list(csv.DictReader(open(RAIZ / "indices" / "indice_normativa_mercosur.csv", encoding="utf-8-sig")))
+fecha = lambda f: f[-4:] + f[3:5] + f[:2]
+ultima = max(indice, key=lambda r: (fecha(r["FECHA"]), int(r["NUMERO"].split("/")[0])))
+meta = {"ultima_norma": f'{ultima["TIPO"]} {ultima["NUMERO"]}', "ultima_fecha": ultima["FECHA"],
+        "publicadas": {"res": sum(r["TIPO"].startswith("Res") for r in indice), "dir": sum(r["TIPO"].startswith("Dir") for r in indice)},
+        "con_texto": {"res": sum(r["TIPO"].startswith("Res") and bool(r["TEXTO"]) for r in indice),
+                      "dir": sum(r["TIPO"].startswith("Dir") and bool(r["TEXTO"]) for r in indice)},
+        "en_buscador": {t: len(datos[t]["normas"]) for t in datos}, "recortadas": RECORTADAS,
+        "en_portugues": {"res": sum(r["TIPO"].startswith("Res") and r["IDIOMA_TEXTO"] == "PT" for r in indice),
+                         "dir": sum(r["TIPO"].startswith("Dir") and r["IDIOMA_TEXTO"] == "PT" for r in indice)}}
+(RAIZ / "docs" / "datos" / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1), encoding="utf-8")
+print(meta)
