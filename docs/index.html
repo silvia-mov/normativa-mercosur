@@ -13,13 +13,13 @@
 <meta property="og:title" content="Consultas sobre normas del MERCOSUR">
 <meta property="og:description" content="Asistente que responde solo con el texto de las decisiones del CMC, resoluciones del GMC y directivas de la CCM, y cita la fuente.">
 <style>
-:root { --bg:#fffafb; --panel:#ffffff; --text:#1d1a1c; --text2:#5c5459; --line:#f3dde4; --accent:#1f7f68;
-  --btn:#39b89a; --btntext:#08261f; --yo:#fec9d7; --yotext:#4a1626; --bot:#eefaf6; --pink:#ff5883; --pinkbtn:#c2255c; --hero1:#b9eee1; --hero2:#fec9d7; }
+:root { --bg:#fdfaf3; --panel:#ffffff; --text:#1d1a1c; --text2:#5c5459; --line:#e9e1d3; --accent:#3f6b65;
+  --btn:#5e8f88; --btntext:#08261f; --yo:#e6dae7; --yotext:#3a2440; --bot:#eef4f3; --pink:#774d78; --pinkbtn:#6a3f6b; --hero1:#b7d0cc; --hero2:#e6dae7; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
-  --bg:#161314; --panel:#201b1d; --text:#f5eef1; --text2:#bfb3b8; --line:#3a2f33; --accent:#79d3be;
-  --yo:#4a2632; --yotext:#ffd9e3; --bot:#17302a; --hero1:#123a31; --hero2:#3d1a26; } }
-:root[data-theme="dark"] { --bg:#161314; --panel:#201b1d; --text:#f5eef1; --text2:#bfb3b8; --line:#3a2f33; --accent:#79d3be;
-  --yo:#4a2632; --yotext:#ffd9e3; --bot:#17302a; --hero1:#123a31; --hero2:#3d1a26; }
+  --bg:#161314; --panel:#201b1d; --text:#f5eef1; --text2:#bfb3b8; --line:#3a2f33; --accent:#8db2ac;
+  --yo:#3d2e40; --yotext:#efe6f0; --bot:#1f3532; --hero1:#24403c; --hero2:#3a2a3b; } }
+:root[data-theme="dark"] { --bg:#161314; --panel:#201b1d; --text:#f5eef1; --text2:#bfb3b8; --line:#3a2f33; --accent:#8db2ac;
+  --yo:#3d2e40; --yotext:#efe6f0; --bot:#1f3532; --hero1:#24403c; --hero2:#3a2a3b; }
 * { box-sizing: border-box; }
 body { margin:0; background:var(--bg); color:var(--text); font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; }
 .wrap { max-width:820px; margin:0 auto; padding:0 16px; }
@@ -73,14 +73,14 @@ h2.sec { text-align:center; font-size:22px; margin:36px 0 14px; }
 .dlc .orig { display:block; margin-top:10px; }
 .dlc .extras { font-size:13px; margin-top:8px; } .dlc .extras a { margin-right:8px; white-space:nowrap; }
 .todo { text-align:center; font-size:14px; color:var(--text2); margin:14px 0 0; }
-.c1 { background:#c2255c; } .c2 { background:#a8476a; } .c3 { background:#18826a; }
+.c1 { background:#6a3f6b; } .c2 { background:#8a5e8c; } .c3 { background:#4a7c75; }
 .heroflex { display:flex; align-items:center; gap:24px; } .mascota { width:190px; flex:none; }
 @media (max-width:640px){ .mascota { width:110px; } .heroflex { gap:10px; } }
 .info { display:grid; grid-template-columns:1fr 1.3fr; gap:24px; align-items:center; margin:36px 0 8px; }
 @media (max-width:700px){ .info { grid-template-columns:1fr; } }
 .rasgos h3 { margin:0 0 4px; font-size:20px; } .rasgos p { margin:0 0 16px; color:var(--text2); }
 h3.v { color:var(--accent); } h3.r { color:var(--pink); }
-.ejemplo { background:#b9eee1; border-radius:20px; padding:18px; }
+.ejemplo { background:#b7d0cc; border-radius:20px; padding:18px; }
 .ej-in { background:var(--panel); border-radius:14px; padding:16px; } .ej-in b:first-child { color:var(--accent); }
 .ej-in p { margin:8px 0 12px; }
 .ej-in a { display:block; background:var(--yo); color:var(--yotext); border-radius:10px; padding:8px 12px; font-size:14px; text-decoration:none; }
@@ -88,10 +88,10 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
 .flujo li { background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:16px; text-align:center; }
 .flujo p { margin:4px 0 0; color:var(--text2); font-size:14px; }
 .i { display:grid; place-items:center; width:40px; height:40px; border-radius:50%; color:#fff; font-weight:700; margin:0 auto 8px; }
-.i1 { background:#1d3b35; } .i2 { background:#39b89a; } .i3 { background:#ff91ad; } .i4 { background:#ff5883; }
+.i1 { background:#24403c; } .i2 { background:#5e8f88; } .i3 { background:#af8eb1; } .i4 { background:#774d78; }
 .aviso-top { background: var(--panel); border-bottom: 1px solid var(--line); color: var(--text2); font-size: 13.5px; text-align: center; padding: 7px 16px; }
 .tipo-n { display:inline-block; font-size:11.5px; font-weight:700; border-radius:6px; padding:0 6px; margin-right:4px; color:#fff; }
-.tipo-n.dec { background:#c2255c; } .tipo-n.res { background:#a8476a; } .tipo-n.dir { background:#18826a; }
+.tipo-n.dec { background:#6a3f6b; } .tipo-n.res { background:#8a5e8c; } .tipo-n.dir { background:#4a7c75; }
 .saber { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px 18px; margin:24px 0; font-size:14.5px; color:var(--text2); }
 .saber h2 { font-size:17px; margin:0 0 6px; color:var(--text); } .saber ul { margin:6px 0 0; padding-left:20px; } .saber li { margin:4px 0; }
 .corpus { font-size:13.5px; color:var(--text2); margin:-6px 0 14px; }
@@ -186,7 +186,7 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
   <p class="todo">Elegí año y número, y bajá el texto. Las decisiones enlazan al archivo original publicado por la Secretaría del MERCOSUR; las resoluciones y directivas, a su buscador público de normativa. ¿Todas juntas? <a href="https://github.com/silvia-mov/normativa-mercosur/archive/refs/heads/main.zip">Todos los textos en un .zip</a>.</p>
   <h2 class="sec">La normativa en números</h2>
   <div class="graf">
-    <div class="ley"><span style="--c:#c2255c">Decisiones (CMC)</span><span style="--c:#a8476a">Resoluciones (GMC)</span><span style="--c:#18826a">Directivas (CCM)</span></div>
+    <div class="ley"><span style="--c:#6a3f6b">Decisiones (CMC)</span><span style="--c:#8a5e8c">Resoluciones (GMC)</span><span style="--c:#4a7c75">Directivas (CCM)</span></div>
     <div id="g-anios" role="img" aria-label="Gráfico de barras apiladas: normas aprobadas por año, 1991 a 2026, por tipo"></div>
   </div>
   <p class="nota-g" id="g-nota">Normas con texto disponible, por año de aprobación. 2026: hasta el 17 de noviembre. Fuente: elaboración propia con la normativa publicada por la Secretaría del MERCOSUR.</p>
@@ -372,7 +372,7 @@ fetch("datos/catalogo.json").then((r) => r.json()).then((cat) => {
 fetch("datos/catalogo.json").then((r) => r.json()).then((cat) => {
   const anios = []; for (let a = 1991; a <= 2026; a++) anios.push(a);
   const cuenta = (t) => { const c = {}; (cat[t] || []).forEach((x) => { c[x[0]] = (c[x[0]] || 0) + 1; }); return c; };
-  const C = { dec: cuenta("dec"), res: cuenta("res"), dir: cuenta("dir") }, COL = { dec: "#c2255c", res: "#a8476a", dir: "#18826a" };
+  const C = { dec: cuenta("dec"), res: cuenta("res"), dir: cuenta("dir") }, COL = { dec: "#6a3f6b", res: "#8a5e8c", dir: "#4a7c75" };
   const tot = anios.map((a) => (C.dec[a] || 0) + (C.res[a] || 0) + (C.dir[a] || 0)), max = Math.ceil(Math.max(...tot) / 50) * 50;
   const W = 900, H = 300, m = { l: 36, r: 8, t: 10, b: 26 }, bw = (W - m.l - m.r) / anios.length, y = (v) => m.t + (H - m.t - m.b) * (1 - v / max);
   let svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" font-size="11" fill="currentColor">`;
@@ -391,6 +391,31 @@ fetch("datos/catalogo.json").then((r) => r.json()).then((cat) => {
 fetch("datos/paraguay.json").then((r) => r.json()).then((filas) => {
   $("t-py").querySelector("tbody").innerHTML = filas.map((f) => `<tr><td>${f.anio_decisiones}</td><td>${escapar(f.tipo)}${f.numero ? " N° " + escapar(f.numero) : ""}</td><td>${f.anio_documento || "–"}</td><td>${f.decision_en_el_nombre ? "Dec. CMC " + f.decision_en_el_nombre : "ver texto"}</td><td><a href="${f.url}" target="_blank" rel="noopener">Abrir</a>${f.ocr ? " <small>(escaneado)</small>" : ""}</td></tr>`).join("");
 }).catch(() => {});
+</script>
+<script>
+/* Al imprimir: siempre tema claro y gráficos con fondo blanco. Debajo de cada gráfico, un enlace para bajarlo en versión clara. */
+(function () {
+  var st = document.createElement("style");
+  st.textContent = ".dl-graf{display:inline-block;font-size:13px;margin:6px 0 0;color:var(--link,inherit)}@media print{.dl-graf{display:none}}";
+  document.head.appendChild(st);
+  var antes = null;
+  addEventListener("beforeprint", function () {
+    var r = document.documentElement; antes = r.getAttribute("data-theme"); r.setAttribute("data-theme", "light");
+    document.querySelectorAll('picture source[media*="dark"]').forEach(function (s) { s.dataset.m = s.media; s.media = "not all"; });
+  });
+  addEventListener("afterprint", function () {
+    var r = document.documentElement; if (antes === null) r.removeAttribute("data-theme"); else r.setAttribute("data-theme", antes);
+    document.querySelectorAll("picture source[data-m]").forEach(function (s) { s.media = s.dataset.m; });
+  });
+  document.querySelectorAll("picture img").forEach(function (img) {
+    var src = img.getAttribute("src") || "";
+    if (!/_light\.png$/.test(src) || /tarjeta/.test(src)) return;
+    var a = document.createElement("a");
+    a.href = src; a.download = src.split("/").pop().replace("_light", ""); a.className = "dl-graf";
+    a.textContent = "Descargar gráfico (fondo blanco)";
+    img.closest("picture").insertAdjacentElement("afterend", a);
+  });
+})();
 </script>
 </body>
 </html>
