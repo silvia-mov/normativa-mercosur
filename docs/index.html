@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Normas del MERCOSUR: buscador de decisiones, resoluciones y directivas | Communia</title>
+<title>Normas del MERCOSUR: buscador de decisiones, resoluciones y directivas | Commun[ia]</title>
 <meta property="og:image" content="https://silvia-mov.github.io/normativa-mercosur/img/miniatura_index.png">
 <meta property="og:image:width" content="1280">
 <meta property="og:image:height" content="640">
@@ -115,9 +115,9 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
 <header class="hero">
   <div class="wrap">
     <div class="marca"><img src="logo.svg" alt=""><span><b>Normas MERCOSUR</b><br><small>Asistente de consultas · proyecto independiente</small></span></div>
-    <div class="heroflex"><div><h1>Hola, soy <em>Communia</em>: tu asistente para la normativa MERCOSUR</h1>
+    <div class="heroflex"><div><h1>Hola, soy <em>Commun[ia]</em>: tu asistente para la normativa MERCOSUR</h1>
     <p class="lead">Preguntá y obtené respuestas basadas solo en el texto de las normas del MERCOSUR (1991–2026), con la norma citada: 1.130 decisiones del Consejo del Mercado Común, 2.181 resoluciones del Grupo Mercado Común (de 2.183 publicadas; 2 sin archivo) y 1.933 directivas de la Comisión de Comercio (de 1.934 publicadas).</p>
-    <p style="margin-top:6px;font-size:15px;color:var(--text2,#5c5459)">Communia es latín: «las cosas comunes». Sale del nombre del bloque: Mercado <b>COMÚN</b> + <b>IA</b>.</p></div><img class="mascota" src="communia.svg" alt="Communia, la asistente"></div>
+    <p style="margin-top:6px;font-size:15px;color:var(--text2,#5c5459)">Commun[ia] viene del latín <i>communia</i>, «las cosas comunes», y sale del nombre del bloque: Mercado <b>COMÚN</b> + <b>IA</b>.</p></div><img class="mascota" src="communia.svg" alt="Commun[ia], la asistente"></div>
   </div>
 </header>
 
@@ -135,7 +135,7 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
   <div class="filtro"><label for="tipo">Buscar en</label>
     <select id="tipo"><option value="">todas las normas</option><option value="dec">Decisiones del CMC</option><option value="res">Resoluciones del GMC</option><option value="dir">Directivas de la CCM</option></select></div>
   <form id="form">
-    <textarea id="pregunta" rows="2" maxlength="500" placeholder="Preguntale a Communia sobre la normativa del MERCOSUR…" aria-label="Tu pregunta" disabled></textarea>
+    <textarea id="pregunta" rows="2" maxlength="500" placeholder="Preguntale a Commun[ia] sobre la normativa del MERCOSUR…" aria-label="Tu pregunta" disabled></textarea>
     <button id="enviar" disabled>Preguntar</button>
   </form>
   <div id="chat" aria-live="polite"></div>
@@ -143,9 +143,9 @@ h3.v { color:var(--accent); } h3.r { color:var(--pink); }
   <section class="info">
     <div class="rasgos">
       <div><h3 class="v">Trazabilidad directa</h3><p>Cada respuesta enlaza al texto exacto de la norma en el repositorio.</p></div>
-      <div><h3 class="r">Solo con las normas</h3><p>Communia responde únicamente con el texto de las normas; si no lo encuentra, lo dice.</p></div>
+      <div><h3 class="r">Solo con las normas</h3><p>Commun[ia] responde únicamente con el texto de las normas; si no lo encuentra, lo dice.</p></div>
     </div>
-    <div class="ejemplo"><div class="ej-in"><b>Communia responde:</b><p>Según la <b>Decisión CMC N° 05/23</b>, el nuevo Régimen de Origen MERCOSUR fija los requisitos para que un producto sea considerado originario y reciba la preferencia (versión vigente: su fe de erratas).</p><a href="https://github.com/silvia-mov/normativa-mercosur/blob/main/decisiones/2023/DEC_005-2023_ES_fe-de-erratas_regimen-de-origen-mercosur_v2.txt">decisiones/2023/DEC_005-2023 (fe de erratas) → Ver fuente</a></div></div>
+    <div class="ejemplo"><div class="ej-in"><b>Commun[ia] responde:</b><p>Según la <b>Decisión CMC N° 05/23</b>, el nuevo Régimen de Origen MERCOSUR fija los requisitos para que un producto sea considerado originario y reciba la preferencia (versión vigente: su fe de erratas).</p><a href="https://github.com/silvia-mov/normativa-mercosur/blob/main/decisiones/2023/DEC_005-2023_ES_fe-de-erratas_regimen-de-origen-mercosur_v2.txt">decisiones/2023/DEC_005-2023 (fe de erratas) → Ver fuente</a></div></div>
   </section>
 
   <section class="saber">
@@ -310,7 +310,7 @@ $("form").addEventListener("submit", async (e) => {
   if (!res.length) { agregar("bot", "<p>No encontré normas que hablen de eso. Probá con otras palabras.</p>"); return; }
   const frags = res.map((r) => { const [n, texto] = DATOS.fragmentos[r.id]; const [codigo, titulo, anio, url, tipo, vigencia] = DATOS.normas[n]; return { codigo, titulo, anio, url, tipo, vigencia, texto }; });
   if (!ASISTENTE_URL) { agregar("bot", "<p>Estas son las normas que mejor coinciden con tu pregunta:</p>" + fuentesHTML(frags)); return; }
-  const caja = agregar("bot", "<p>Communia está leyendo las normas…</p>");
+  const caja = agregar("bot", "<p>Commun[ia] está leyendo las normas…</p>");
   $("enviar").disabled = true;
   try {
     const r = await fetch(ASISTENTE_URL, { method: "POST", headers: { "Content-Type": "application/json" }, signal: AbortSignal.timeout(70000),
