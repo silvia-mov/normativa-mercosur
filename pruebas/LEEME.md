@@ -11,3 +11,7 @@
 - La parte de la IA (Gemini) se prueba a mano en la página con las mismas preguntas: revisar que cite la norma
   esperada, que avise las derogadas y que en las preguntas `fuera` diga que no encuentra. Repetirlo cuando cambie el
   modelo o las instrucciones del asistente.
+- Prueba de búsqueda por significado (25/11/2026), con los mismos 37 casos: buscador actual por palabras 34 aciertos;
+  multilingual-e5-small 32 (mezclado con el actual, 33); granite-embedding-97m-multilingual-r2 22 (mezclado, 29).
+  Ninguno mejora al actual: se deja la búsqueda por palabras. El único caso que el modelo resuelve y el actual no es el
+  del FOCEM. Además, en la página cada visitante tendría que bajar unos 100 MB de modelo y 44 MB de vectores.
