@@ -46,7 +46,7 @@ def palabras(t):
 
 
 def coincide_titulo(titulo, texto):
-    """True si al menos el 60 % de las palabras del título aparecen al comienzo del texto."""
+    """True si al menos el 60% de las palabras del título aparecen al comienzo del texto."""
     pt = palabras(re.sub(r"\(.*?\)", "", titulo))
     return bool(pt) and len(pt & palabras(texto[:2500])) >= 0.6 * len(pt)
 
