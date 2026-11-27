@@ -2,9 +2,8 @@
 // Guarda la clave en secreto (variable GEMINI_API_KEY) y solo deja que la IA use los fragmentos enviados.
 // Variables: GEMINI_API_KEY (secreto, obligatorio), MODELO (opcional; por defecto gemini-flash-latest, el Flash vigente;
 // si falla, se usa gemini-flash-lite-latest).
-// Cambios (27/11/2026): sin "pensamiento" del modelo (respuestas mucho más rápidas; si el modelo no acepta la opción,
-// se reintenta sin ella), 15 s por intento, y reglas que permiten usar el título de la norma y responder con lo que
-// los fragmentos sí dicen en lugar de contestar "no encontré".
+// Cambios (27/11/2026): reglas que permiten usar el título de la norma y responder con lo que los fragmentos sí dicen
+// en lugar de contestar "no encontré"; tiempos de espera de 25 + 25 + 15 s (menos que los 70 s que espera la página).
 
 const ORIGEN = "https://silvia-mov.github.io";
 
@@ -27,16 +26,16 @@ function respuesta(cuerpo, estado = 200) {
   });
 }
 
-async function llamar(modelo, cuerpo, clave) {
+async function llamar(modelo, cuerpo, clave, segundos) {
   try {
     const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${modelo}:generateContent`, {
       method: "POST",
       headers: { "Content-Type": "application/json", "x-goog-api-key": clave },
       body: JSON.stringify(cuerpo),
-      signal: AbortSignal.timeout(15000),
+      signal: AbortSignal.timeout(segundos * 1000),
     });
     return { r, estado: r.status };
-  } catch { return { r: null, estado: 504 }; }                                // no contestó en 15 s
+  } catch { return { r: null, estado: 504 }; }                                // no contestó a tiempo
 }
 
 export default {
@@ -59,18 +58,16 @@ export default {
       contents: [{ role: "user", parts: [{ text: `FRAGMENTOS:\n\n${contexto}\n\nPREGUNTA: ${pregunta}` }] }],
       generationConfig: { temperature: 0.1, maxOutputTokens: 800 },
     };
-    // Sin "pensamiento": el modelo responde directo, que es lo que se necesita para resumir fragmentos.
-    const rapido = { ...base, generationConfig: { ...base.generationConfig, thinkingConfig: { thinkingBudget: 0 } } };
 
     // Gemini gratuito a veces está saturado (503) o no contesta: se reintenta y, si sigue fallando
     // o se agotó la cuota del modelo principal (429), se prueba con el modelo liviano, que tiene cuota aparte.
     const principal = env.MODELO || "gemini-flash-latest";
     const intentos = [principal, principal, "gemini-flash-lite-latest"];
+    const segundos = [25, 25, 15];
     let r = null, estado = 0;
     for (const [i, modelo] of intentos.entries()) {
       if (i > 0 && modelo === intentos[i - 1] && estado === 429) continue;   // cuota agotada: no repetir el mismo modelo
-      ({ r, estado } = await llamar(modelo, rapido, env.GEMINI_API_KEY));
-      if (estado === 400) ({ r, estado } = await llamar(modelo, base, env.GEMINI_API_KEY));   // el modelo no acepta la opción
+      ({ r, estado } = await llamar(modelo, base, env.GEMINI_API_KEY, segundos[i]));
       if (r && r.ok) break;
       if (![429, 500, 503, 504].includes(estado)) break;                       // error que no se arregla reintentando
     }
