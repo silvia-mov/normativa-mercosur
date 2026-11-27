@@ -301,7 +301,13 @@ function fuentesHTML(frags, respuesta) {
 const SIN_RESPUESTA = /no encontr[ée]/i;   // el asistente dice que las normas no responden la pregunta
 
 function formatear(t) {
-  return escapar(t).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, "$1<i>$2</i>").split(/\n{2,}/).map((p) => `<p>${p.replace(/\n/g, "<br>")}</p>`).join("");
+  // Párrafos y listas con viñetas («* » o «- » al comienzo de la línea); **negrita** y *cursiva*.
+  const enLinea = (x) => x.replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, "$1<i>$2</i>");
+  return escapar(t).split(/\n{2,}/).map((bloque) => {
+    const lineas = bloque.split("\n");
+    if (lineas.every((l) => /^\s*[*-]\s+/.test(l))) return `<ul>${lineas.map((l) => `<li>${enLinea(l.replace(/^\s*[*-]\s+/, ""))}</li>`).join("")}</ul>`;
+    return `<p>${lineas.map((l) => /^\s*[*-]\s+/.test(l) ? "• " + enLinea(l.replace(/^\s*[*-]\s+/, "")) : enLinea(l)).join("<br>")}</p>`;
+  }).join("");
 }
 
 $("form").addEventListener("submit", async (e) => {
