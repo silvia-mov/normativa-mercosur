@@ -287,12 +287,18 @@ $("pregunta").addEventListener("keydown", (e) => { if (e.key === "Enter" && !e.s
 
 function agregar(clase, html) { const d = document.createElement("div"); d.className = "msg " + clase; d.innerHTML = html; $("chat").appendChild(d); d.scrollIntoView({ block: "end", behavior: "smooth" }); return d; }
 
-function fuentesHTML(frags) {
+function fuentesHTML(frags, respuesta) {
+  // Una entrada por norma (con todos sus fragmentos). Si la respuesta cita normas, se muestran solo esas.
   const TIPOS = { dec: "Decisión CMC", res: "Resolución GMC", dir: "Directiva CCM" };
-  const items = frags.map((f, i) => `<li><span class="tipo-n ${f.tipo}">${TIPOS[f.tipo]}</span><a href="${f.url}" target="_blank" rel="noopener">${escapar(f.codigo)}</a>: ${escapar(f.titulo)}${f.vigencia === "Derogada" ? ' <span class="deroga">derogada</span>' : ""}
-    <details class="frag"><summary>Ver fragmento</summary><pre>${escapar(f.texto)}</pre></details></li>`).join("");
+  const grupos = [];
+  for (const f of frags) { const g = grupos.find((x) => x.codigo === f.codigo); if (g) g.textos.push(f.texto); else grupos.push({ ...f, textos: [f.texto] }); }
+  const citadas = respuesta ? grupos.filter((g) => respuesta.includes(g.codigo)) : [];
+  const lista = citadas.length ? citadas : grupos;
+  const items = lista.map((f) => `<li><span class="tipo-n ${f.tipo}">${TIPOS[f.tipo]}</span><a href="${f.url}" target="_blank" rel="noopener">${escapar(f.codigo)}</a>: ${escapar(f.titulo)}${f.vigencia === "Derogada" ? ' <span class="deroga">derogada</span>' : ""}
+    <details class="frag"><summary>Ver ${f.textos.length > 1 ? f.textos.length + " fragmentos" : "fragmento"}</summary>${f.textos.map((t) => `<pre>${escapar(t)}</pre>`).join("")}</details></li>`).join("");
   return `<div class="fuentes"><b>Fuentes</b><ol>${items}</ol></div>`;
 }
+const SIN_RESPUESTA = /no encontr[ée]/i;   // el asistente dice que las normas no responden la pregunta
 
 function formatear(t) {
   return escapar(t).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, "$1<i>$2</i>").split(/\n{2,}/).map((p) => `<p>${p.replace(/\n/g, "<br>")}</p>`).join("");
@@ -335,7 +341,9 @@ $("form").addEventListener("submit", async (e) => {
     const r = await fetch(ASISTENTE_URL, { method: "POST", headers: { "Content-Type": "application/json" }, signal: AbortSignal.timeout(70000),
       body: JSON.stringify({ pregunta, fragmentos: frags.map((f, i) => ({ n: i + 1, codigo: f.codigo, titulo: f.titulo + (f.vigencia === "Derogada" ? " (DEROGADA)" : ""), texto: f.texto })) }) });
     const j = await r.json();
-    caja.innerHTML = (r.ok ? formatear(j.respuesta || "") : `<p>${escapar(j.error || "El asistente no pudo responder.")}</p>`) + fuentesHTML(frags);
+    const resp = j.respuesta || "";
+    caja.innerHTML = r.ok ? formatear(resp) + (SIN_RESPUESTA.test(resp.slice(0, 120)) ? "" : fuentesHTML(frags, resp))
+                          : `<p>${escapar(j.error || "El asistente no pudo responder.")}</p>` + fuentesHTML(frags);
   } catch {
     caja.innerHTML = "<p>El asistente no respondió. Mientras tanto, estas son las normas que coinciden:</p>" + fuentesHTML(frags);
   } finally { $("enviar").disabled = false; }
