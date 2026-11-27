@@ -10,6 +10,9 @@
 // - sin clave, se corta antes de llamar a Gemini; registro de errores en los logs del Worker;
 // - reglas que permiten usar el título de la norma y responder con lo que los fragmentos sí dicen;
 // - límite de tamaño del pedido, fragmentos sin repetir y sin valores "undefined" en el texto.
+// Cambios (27/11/2026, 2.ª revisión): si Gemini rechaza la opción de pensamiento (400), se repite sin ella; pedido vacío
+// controlado; fragmentos con solo título aceptados; aviso ante cualquier corte (no solo por largo); límite de pedidos
+// por IP si el Worker tiene el binding LIMITE (Rate Limiting de Workers; sin él, no hace nada).
 
 const ORIGEN = "https://silvia-mov.github.io";
 
@@ -54,28 +57,41 @@ export default {
     const origen = request.headers.get("Origin") || "";
     if (origen && origen !== ORIGEN) return respuesta({ error: "Origen no permitido." }, 403);
     if (Number(request.headers.get("Content-Length") || 0) > 200000) return respuesta({ error: "Pedido demasiado grande." }, 413);
+    if (env.LIMITE) {                                                         // binding de Rate Limiting (opcional)
+      const ip = request.headers.get("CF-Connecting-IP") || "sin-ip";
+      const { success } = await env.LIMITE.limit({ key: ip });
+      if (!success) return respuesta({ error: "Hiciste muchas preguntas seguidas. Esperá un minuto y probá de nuevo." }, 429);
+    }
     if (!env.GEMINI_API_KEY) {
       console.error("Falta el secreto GEMINI_API_KEY");
       return respuesta({ error: "El asistente no está configurado (falta la clave). Mientras, revisá las fuentes de abajo." }, 500);
     }
 
     let datos;
-    try { datos = await request.json(); } catch { return respuesta({ error: "Pedido inválido." }, 400); }
+    try { datos = (await request.json()) ?? {}; } catch { return respuesta({ error: "Pedido inválido." }, 400); }
     const pregunta = texto(datos.pregunta, 500).trim();
     const vistos = new Set();
-    const fragmentos = (Array.isArray(datos.fragmentos) ? datos.fragmentos : [])
-      .filter((f) => f && f.texto && !vistos.has(texto(f.codigo, 30) + texto(f.texto, 200)) && vistos.add(texto(f.codigo, 30) + texto(f.texto, 200)))
-      .slice(0, 8);
+    const fragmentos = (Array.isArray(datos.fragmentos) ? datos.fragmentos : []).filter((f) => {
+      if (!f || (!f.texto && !f.titulo)) return false;
+      const clave = texto(f.codigo, 30) + texto(f.titulo, 100) + texto(f.texto, 200);
+      if (vistos.has(clave)) return false;
+      vistos.add(clave);
+      return true;
+    }).slice(0, 8);
     if (!pregunta || !fragmentos.length) return respuesta({ error: "Falta la pregunta." }, 400);
 
     const contexto = fragmentos.map((f) =>
       `[${texto(f.codigo, 30)}] ${texto(f.titulo, 300)}\n${texto(f.texto, 2000)}`).join("\n\n---\n\n");
-    const cuerpo = JSON.stringify({
+    const base = {
       systemInstruction: { parts: [{ text: INSTRUCCIONES }] },
       contents: [{ role: "user", parts: [{ text: `FRAGMENTOS:\n\n${contexto}\n\nPREGUNTA: ${pregunta}` }] }],
-      // El pensamiento cuenta dentro de maxOutputTokens: con tope 512 siempre quedan unos 1.000 para la respuesta.
-      generationConfig: { temperature: 0.1, maxOutputTokens: 1500, thinkingConfig: { thinkingBudget: 512 } },
-    });
+    };
+    const gen = { temperature: 0.1, maxOutputTokens: 1500 };
+    // El pensamiento cuenta dentro de maxOutputTokens: con tope 512 siempre quedan unos 1.000 para la respuesta.
+    // Si un modelo nuevo no acepta thinkingConfig (400), se repite el pedido sin esa opción.
+    const cuerpoCon = JSON.stringify({ ...base, generationConfig: { ...gen, thinkingConfig: { thinkingBudget: 512 } } });
+    const cuerpoSin = JSON.stringify({ ...base, generationConfig: gen });
+    let cuerpo = cuerpoCon;
 
     // Gemini gratuito a veces está saturado (503) o no contesta: se espera un poco y se reintenta; si sigue fallando
     // o se agotó la cuota del modelo principal (429), se prueba con el modelo liviano, que tiene cuota aparte.
@@ -87,6 +103,11 @@ export default {
       if (i > 0 && modelo === intentos[i - 1] && estado === 429) continue;   // cuota agotada: no repetir el mismo modelo
       if (i > 0) await esperar(500 + Math.random() * 500);
       ({ r, estado } = await llamar(modelo, cuerpo, env.GEMINI_API_KEY, segundos[i]));
+      if (estado === 400 && cuerpo === cuerpoCon) {
+        console.error(`Gemini ${modelo}: 400 con thinkingConfig; se repite sin él`);
+        cuerpo = cuerpoSin;
+        ({ r, estado } = await llamar(modelo, cuerpo, env.GEMINI_API_KEY, segundos[i]));
+      }
       if (r && r.ok) break;
       console.error(`Gemini ${modelo}: ${estado}`);
       if (![429, 500, 503, 504].includes(estado)) break;                       // error que no se arregla reintentando
@@ -112,7 +133,8 @@ export default {
       console.error("Gemini respuesta vacía", cand.finishReason);
       return respuesta({ error: "El asistente no pudo terminar la respuesta. Probá de nuevo; mientras, revisá las fuentes de abajo." }, 502);
     }
-    const aviso = cand.finishReason === "MAX_TOKENS" ? "\n\n(La respuesta quedó cortada: leé las fuentes de abajo para el detalle.)" : "";
+    const aviso = cand.finishReason && cand.finishReason !== "STOP"
+      ? "\n\n(La respuesta quedó incompleta: leé las fuentes de abajo para el detalle.)" : "";
     return respuesta({ respuesta: salida + aviso });
   },
 };
