@@ -114,6 +114,9 @@ body, button, input, select, textarea { font-family: "Source Sans 3", system-ui,
 h1, h2, h3, .kpi .v, .disp .v, .muestra .v { font-family: "Fraunces", Georgia, "Times New Roman", serif; font-optical-sizing: auto; font-weight: 600; letter-spacing: 0; }
 /* Párrafos justificados, con separación en sílabas */
 p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+/* Gráficos de Datawrapper: interactivos en pantalla */
+.dw-embed { display: block; }
+@media print { .dw-embed { display: none !important; } }
 /* Revisión de diseño: contraste de botones, tamaño de toque y letra mínima */
 .boton { background: #679891 !important; }
 .todo, .flujo p { margin-left: auto; margin-right: auto; }
@@ -214,6 +217,9 @@ small { font-size: max(12px, .75em); }
     <div id="g-anios" role="img" aria-label="Gráfico de barras apiladas: normas aprobadas por año, 1991 a 2026, por tipo"></div>
   </div>
   <p class="nota-g" id="g-nota">Normas con texto disponible, por año de aprobación. 2026: hasta el 17 de noviembre. Fuente: elaboración propia con la normativa publicada por la Secretaría del MERCOSUR.</p>
+
+  <div class="graf" style="margin-top:22px"><iframe class="dw-embed" data-dw="https://datawrapper.dwcdn.net/ldctX/" title="Normas del MERCOSUR vigentes y derogadas por año (gráfico interactivo)" aria-label="Gráfico interactivo" src="https://datawrapper.dwcdn.net/ldctX/" scrolling="no" frameborder="0" style="width:0;min-width:100% !important;border:none;" height="520" loading="lazy"></iframe></div>
+  <p class="nota-g">Más gráficos en <a href="https://silvia-mov.github.io/graficos/">El comercio exterior de Paraguay en gráficos</a>.</p>
 
   <h2 class="sec">MERCOSUR en Paraguay</h2>
   <p class="todo">Notas de la Cancillería a la Secretaría del MERCOSUR y decretos del Poder Ejecutivo sobre la incorporación de normas al derecho paraguayo, tal como los publica la Secretaría junto a las decisiones de cada año. Es una muestra, no la lista completa: para saber si una norma está vigente en Paraguay, consultá el sitio oficial. Los datos de cada fila salen del nombre del archivo; abrí el texto para ver qué normas incorpora.</p>
@@ -485,6 +491,26 @@ fetch("datos/paraguay.json").then((r) => r.json()).then((filas) => {
     aplicar(nuevo);
   });
   document.body.appendChild(b);
+})();
+</script>
+<script>
+/* Datawrapper: alto automático y modo claro/oscuro sincronizado con el botón de la página */
+(function () {
+  window.addEventListener("message", function (e) {
+    var h = e.data && e.data["datawrapper-height"]; if (!h) return;
+    document.querySelectorAll("iframe.dw-embed").forEach(function (f) { if (f.contentWindow === e.source) for (var k in h) f.style.height = h[k] + "px"; });
+  });
+  var mq = window.matchMedia("(prefers-color-scheme: dark)");
+  function oscuro() { var t = document.documentElement.getAttribute("data-theme"); return t ? t === "dark" : mq.matches; }
+  function aplicar() {
+    var d = oscuro();
+    document.querySelectorAll("iframe.dw-embed").forEach(function (f) {
+      var u = f.getAttribute("data-dw") + "?dark=" + d; if (f.getAttribute("src") !== u) f.setAttribute("src", u);
+    });
+  }
+  new MutationObserver(aplicar).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  if (mq.addEventListener) mq.addEventListener("change", aplicar);
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", aplicar); else aplicar();
 })();
 </script>
 </body>
